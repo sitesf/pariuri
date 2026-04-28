@@ -1,5 +1,5 @@
 {
-  "updated_at": null,
+  "updated_at": "2026-04-28T12:44:10.910412+00:00",
   "meciuri": [
     {
       "fixture_id": 1,
@@ -19,12 +19,12 @@
       "home": "Inter",
       "away": "Genoa",
       "liga": "Serie A · Italy",
-      "ora": "20:45",
+      "ora": "18:00",
       "pronostic": "1",
       "cota": 1.58,
       "scor_incredere": 86,
-      "forma_home": "WWWDD",
-      "forma_away": "LDWLD",
+      "forma_home": "WWDWW",
+      "forma_away": "LDLWD",
       "motiv": "Exemplu local. Configureaza API_FOOTBALL_KEY pentru date reale."
     },
     {
@@ -32,12 +32,12 @@
       "home": "Barcelona",
       "away": "Valencia",
       "liga": "LaLiga · Spain",
-      "ora": "22:00",
+      "ora": "18:00",
       "pronostic": "1",
       "cota": 1.65,
       "scor_incredere": 85,
-      "forma_home": "WDWWW",
-      "forma_away": "DLLWD",
+      "forma_home": "WWDWW",
+      "forma_away": "LDLWD",
       "motiv": "Exemplu local. Configureaza API_FOOTBALL_KEY pentru date reale."
     },
     {
@@ -45,12 +45,12 @@
       "home": "PSG",
       "away": "Lille",
       "liga": "Ligue 1 · France",
-      "ora": "21:00",
+      "ora": "18:00",
       "pronostic": "1",
-      "cota": 1.70,
+      "cota": 1.7,
       "scor_incredere": 83,
-      "forma_home": "WWWDW",
-      "forma_away": "DWLWD",
+      "forma_home": "WWDWW",
+      "forma_away": "LDLWD",
       "motiv": "Exemplu local. Configureaza API_FOOTBALL_KEY pentru date reale."
     },
     {
@@ -58,12 +58,12 @@
       "home": "Bayern",
       "away": "Mainz",
       "liga": "Bundesliga · Germany",
-      "ora": "16:30",
+      "ora": "18:00",
       "pronostic": "1",
-      "cota": 1.50,
+      "cota": 1.5,
       "scor_incredere": 87,
-      "forma_home": "WWWWW",
-      "forma_away": "LLDWD",
+      "forma_home": "WWDWW",
+      "forma_away": "LDLWD",
       "motiv": "Exemplu local. Configureaza API_FOOTBALL_KEY pentru date reale."
     }
   ]
