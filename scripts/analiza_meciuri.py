@@ -174,8 +174,20 @@ def collect_matches() -> List[Dict[str, Any]]:
         if not prediction:
             continue
 
-        match_time = item.get("fixture", {}).get("date", "")
-        output.append({
+    match_time = item.get("fixture", {}).get("date", "")
+
+output.append({
+    "data": target_date,
+    "fixture_id": fixture_id,
+    "home": home.get("name", ""),
+    "away": away.get("name", ""),
+    "liga": f"{league.get('name', '')} · {league.get('country', '')}",
+    "ora": match_time[11:16] if len(match_time) >= 16 else "",
+    "forma_home": home_row.get("form", "")[-5:],
+    "forma_away": away_row.get("form", "")[-5:],
+    "motiv": f"Diferenta rang: {prediction['rank_home']} vs {prediction['rank_away']}. Forma si valoarea proxy favorizeaza selectia {prediction['pronostic']}.",
+    **prediction,
+})
             "fixture_id": fixture_id,
             "home": home.get("name", ""),
             "away": away.get("name", ""),
