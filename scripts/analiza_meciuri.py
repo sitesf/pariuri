@@ -1,6 +1,6 @@
 import json
 import os
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from typing import Any, Dict, List, Optional
 
 import requests
@@ -133,13 +133,15 @@ def pick_prediction(home_row: Dict[str, Any], away_row: Dict[str, Any], odd_valu
 
 
 def collect_matches() -> List[Dict[str, Any]]:
-    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-    fixtures = api_get("fixtures", {"date": today}).get("response", [])
-    odds = odds_map(today)
     output: List[Dict[str, Any]] = []
     standings_cache: Dict[str, Dict[int, Dict[str, Any]]] = {}
 
-    for item in fixtures:
+    for day_offset in range(5):
+        target_date = (datetime.now(timezone.utc) + timedelta(days=day_offset)).strftime("%Y-%m-%d")
+        fixtures = api_get("fixtures", {"date": target_date}).get("response", [])
+        odds = odds_map(target_date)
+
+        for item in fixtures:
         league = item.get("league", {})
         league_id = league.get("id")
         season = league.get("season")
