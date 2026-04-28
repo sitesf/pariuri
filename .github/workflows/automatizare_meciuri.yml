@@ -11,6 +11,7 @@ permissions:
 jobs:
   update-matches:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -26,7 +27,7 @@ jobs:
       - name: Run match analysis
         env:
           API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
-          API_FOOTBALL_HOST: ${{ secrets.API_FOOTBALL_HOST }}
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
         run: python scripts/analiza_meciuri.py
 
       - name: Commit and push matches JSON
