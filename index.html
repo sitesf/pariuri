@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="ro">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Sport AI Radar | Stiri si predictii automate</title>
+  <meta name="description" content="Site sportiv automatizat cu stiri generate AI, analiza meciuri, cote si bilet aleatoriu." />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="page-glow page-glow-one"></div>
+  <div class="page-glow page-glow-two"></div>
+
+  <header class="site-header">
+    <nav class="nav-shell">
+      <a href="#" class="brand" aria-label="Sport AI Radar">
+        <span class="brand-mark">AI</span>
+        <span>
+          <strong>Sport AI Radar</strong>
+          <small>stiri, cote, predictii</small>
+        </span>
+      </a>
+
+      <div class="nav-actions">
+        <a href="#stiri" class="nav-link">Stiri</a>
+        <a href="#meciuri" class="nav-link">Meciuri</a>
+        <button id="makeTicketTop" class="btn btn-primary">Fa Bilet</button>
+      </div>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero section-in">
+      <div class="hero-copy">
+        <p class="eyebrow">Automatizare sportiva pe GitHub Pages</p>
+        <h1>Stiri verificate AI si selectie zilnica de meciuri analizate.</h1>
+        <p class="hero-text">Site static, actualizat prin GitHub Actions. Datele vin din fisiere JSON generate automat de scripturile Python.</p>
+        <div class="hero-actions">
+          <button id="makeTicketHero" class="btn btn-primary btn-xl">Fa Bilet</button>
+          <a href="#meciuri" class="btn btn-ghost">Vezi meciurile</a>
+        </div>
+      </div>
+
+      <aside class="hero-card glass-card">
+        <div class="status-dot"></div>
+        <h2>Radar zilnic</h2>
+        <p>Ultima actualizare</p>
+        <strong id="lastUpdate">Se incarca...</strong>
+        <div class="mini-grid">
+          <div><span id="newsCount">0</span><small>stiri</small></div>
+          <div><span id="matchesCount">0</span><small>meciuri</small></div>
+          <div><span id="avgConfidence">0%</span><small>scor mediu</small></div>
+        </div>
+      </aside>
+    </section>
+
+    <section id="stiri" class="content-section section-in delay-1">
+      <div class="section-head">
+        <p class="eyebrow">Agent stiri</p>
+        <h2>Top 3 subiecte sportive</h2>
+      </div>
+      <div id="newsGrid" class="news-grid skeleton-area"></div>
+    </section>
+
+    <section id="meciuri" class="content-section section-in delay-2">
+      <div class="section-head row-head">
+        <div>
+          <p class="eyebrow">Analiza predictiva</p>
+          <h2>Meciuri filtrate pentru azi</h2>
+        </div>
+        <button id="makeTicketMain" class="btn btn-primary">Fa Bilet</button>
+      </div>
+      <div id="matchesGrid" class="matches-grid skeleton-area"></div>
+    </section>
+  </main>
+
+  <div id="ticketModal" class="modal" aria-hidden="true">
+    <div class="modal-backdrop" data-close-modal></div>
+    <div class="modal-panel">
+      <button class="modal-close" data-close-modal aria-label="Inchide">×</button>
+      <p class="eyebrow">Bilet generat aleatoriu</p>
+      <h2>Biletul tau</h2>
+      <div id="ticketBody" class="ticket-body"></div>
+      <div class="ticket-total">
+        <span>Cota totala</span>
+        <strong id="ticketOdd">0.00</strong>
+      </div>
+      <p class="modal-note">Selectia este generata automat din lista afisata. Verifica mereu informatiile finale inainte de orice decizie.</p>
+    </div>
+  </div>
+
+  <footer class="site-footer">
+    <p>Sport AI Radar. Sistem static cu update automat prin GitHub Actions.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,70 @@
+{
+  "updated_at": null,
+  "meciuri": [
+    {
+      "fixture_id": 1,
+      "home": "Arsenal",
+      "away": "Everton",
+      "liga": "Premier League · England",
+      "ora": "18:00",
+      "pronostic": "1",
+      "cota": 1.72,
+      "scor_incredere": 84,
+      "forma_home": "WWDWW",
+      "forma_away": "LDLWD",
+      "motiv": "Exemplu local. Configureaza API_FOOTBALL_KEY pentru date reale."
+    },
+    {
+      "fixture_id": 2,
+      "home": "Inter",
+      "away": "Genoa",
+      "liga": "Serie A · Italy",
+      "ora": "20:45",
+      "pronostic": "1",
+      "cota": 1.58,
+      "scor_incredere": 86,
+      "forma_home": "WWWDD",
+      "forma_away": "LDWLD",
+      "motiv": "Exemplu local. Configureaza API_FOOTBALL_KEY pentru date reale."
+    },
+    {
+      "fixture_id": 3,
+      "home": "Barcelona",
+      "away": "Valencia",
+      "liga": "LaLiga · Spain",
+      "ora": "22:00",
+      "pronostic": "1",
+      "cota": 1.65,
+      "scor_incredere": 85,
+      "forma_home": "WDWWW",
+      "forma_away": "DLLWD",
+      "motiv": "Exemplu local. Configureaza API_FOOTBALL_KEY pentru date reale."
+    },
+    {
+      "fixture_id": 4,
+      "home": "PSG",
+      "away": "Lille",
+      "liga": "Ligue 1 · France",
+      "ora": "21:00",
+      "pronostic": "1",
+      "cota": 1.70,
+      "scor_incredere": 83,
+      "forma_home": "WWWDW",
+      "forma_away": "DWLWD",
+      "motiv": "Exemplu local. Configureaza API_FOOTBALL_KEY pentru date reale."
+    },
+    {
+      "fixture_id": 5,
+      "home": "Bayern",
+      "away": "Mainz",
+      "liga": "Bundesliga · Germany",
+      "ora": "16:30",
+      "pronostic": "1",
+      "cota": 1.50,
+      "scor_incredere": 87,
+      "forma_home": "WWWWW",
+      "forma_away": "LLDWD",
+      "motiv": "Exemplu local. Configureaza API_FOOTBALL_KEY pentru date reale."
+    }
+  ]
+}

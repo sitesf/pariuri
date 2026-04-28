@@ -1,0 +1,11 @@
+{
+  "updated_at": null,
+  "stiri": [
+    {
+      "titlu": "Agentul de stiri este pregatit",
+      "rezumat": "Dupa configurarea cheilor API in GitHub Secrets, workflow-ul va genera automat trei stiri sportive scurte si obiective.",
+      "categorie": "General",
+      "surse": ["RSS", "AI"]
+    }
+  ]
+}
