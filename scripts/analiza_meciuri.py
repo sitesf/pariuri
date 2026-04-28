@@ -218,16 +218,24 @@ def fallback_matches() -> List[Dict[str, Any]]:
 
 
 def main() -> None:
+    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+
     try:
         matches = collect_matches()
+        source_status = "date reale"
     except Exception as exc:
         print(f"API-Football failed, using fallback: {exc}")
         matches = fallback_matches()
+        source_status = f"fallback local: {exc}"
 
     payload = {
+        "data_meciuri": today,
         "updated_at": now_iso(),
+        "sursa": "API-Football + The Odds API",
+        "status_date": source_status,
         "meciuri": matches,
     }
+
     with open(OUTPUT_FILE, "w", encoding="utf-8") as file:
         json.dump(payload, file, ensure_ascii=False, indent=2)
 
