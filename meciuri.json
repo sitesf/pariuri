@@ -1,70 +1,7 @@
 {
-  "updated_at": "2026-04-28T12:44:10.910412+00:00",
-  "meciuri": [
-    {
-      "fixture_id": 1,
-      "home": "Arsenal",
-      "away": "Everton",
-      "liga": "Premier League · England",
-      "ora": "18:00",
-      "pronostic": "1",
-      "cota": 1.72,
-      "scor_incredere": 84,
-      "forma_home": "WWDWW",
-      "forma_away": "LDLWD",
-      "motiv": "Exemplu local. Configureaza API_FOOTBALL_KEY pentru date reale."
-    },
-    {
-      "fixture_id": 2,
-      "home": "Inter",
-      "away": "Genoa",
-      "liga": "Serie A · Italy",
-      "ora": "18:00",
-      "pronostic": "1",
-      "cota": 1.58,
-      "scor_incredere": 86,
-      "forma_home": "WWDWW",
-      "forma_away": "LDLWD",
-      "motiv": "Exemplu local. Configureaza API_FOOTBALL_KEY pentru date reale."
-    },
-    {
-      "fixture_id": 3,
-      "home": "Barcelona",
-      "away": "Valencia",
-      "liga": "LaLiga · Spain",
-      "ora": "18:00",
-      "pronostic": "1",
-      "cota": 1.65,
-      "scor_incredere": 85,
-      "forma_home": "WWDWW",
-      "forma_away": "LDLWD",
-      "motiv": "Exemplu local. Configureaza API_FOOTBALL_KEY pentru date reale."
-    },
-    {
-      "fixture_id": 4,
-      "home": "PSG",
-      "away": "Lille",
-      "liga": "Ligue 1 · France",
-      "ora": "18:00",
-      "pronostic": "1",
-      "cota": 1.7,
-      "scor_incredere": 83,
-      "forma_home": "WWDWW",
-      "forma_away": "LDLWD",
-      "motiv": "Exemplu local. Configureaza API_FOOTBALL_KEY pentru date reale."
-    },
-    {
-      "fixture_id": 5,
-      "home": "Bayern",
-      "away": "Mainz",
-      "liga": "Bundesliga · Germany",
-      "ora": "18:00",
-      "pronostic": "1",
-      "cota": 1.5,
-      "scor_incredere": 87,
-      "forma_home": "WWDWW",
-      "forma_away": "LDLWD",
-      "motiv": "Exemplu local. Configureaza API_FOOTBALL_KEY pentru date reale."
-    }
-  ]
+  "data_meciuri": "2026-04-28",
+  "updated_at": "2026-04-28T12:54:56.879917+00:00",
+  "sursa": "API-Football + The Odds API",
+  "status_date": "date reale",
+  "meciuri": []
 }
