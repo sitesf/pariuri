@@ -141,12 +141,22 @@ def collect_matches() -> List[Dict[str, Any]]:
         fixtures = api_get("fixtures", {"date": target_date}).get("response", [])
         odds = odds_map(target_date)
 
+        def collect_matches() -> List[Dict[str, Any]]:
+    output: List[Dict[str, Any]] = []
+    standings_cache: Dict[str, Dict[int, Dict[str, Any]]] = {}
+
+    for day_offset in range(5):
+        target_date = (datetime.now(timezone.utc) + timedelta(days=day_offset)).strftime("%Y-%m-%d")
+        fixtures = api_get("fixtures", {"date": target_date}).get("response", [])
+        odds = odds_map(target_date)
+
         for item in fixtures:
-        league = item.get("league", {})
-        league_id = league.get("id")
-        season = league.get("season")
-        if TARGET_LEAGUES and league_id not in TARGET_LEAGUES:
-            continue
+            league = item.get("league", {})
+            league_id = league.get("id")
+            season = league.get("season")
+
+            if TARGET_LEAGUES and league_id not in TARGET_LEAGUES:
+                continue
 
         home = item.get("teams", {}).get("home", {})
         away = item.get("teams", {}).get("away", {})
