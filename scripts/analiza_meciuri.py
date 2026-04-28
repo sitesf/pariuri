@@ -1,250 +1,439 @@
 import json
 import os
+import random
 from datetime import datetime, timezone, timedelta
-from typing import Any, Dict, List, Optional
+from typing import Any, Dict, List, Optional, Tuple
 
 import requests
 
-API_FOOTBALL_KEY = os.getenv("API_FOOTBALL_KEY")
-API_FOOTBALL_HOST = os.getenv("API_FOOTBALL_HOST", "v3.football.api-sports.io")
+
 OUTPUT_FILE = "meciuri.json"
-TARGET_LEAGUES = [39, 140, 135, 78, 61, 2, 3, 848]
+
+API_FOOTBALL_KEY = os.getenv("API_FOOTBALL_KEY", "").strip()
+ODDS_API_KEY = os.getenv("ODDS_API_KEY", "").strip()
+
+API_FOOTBALL_BASE_URL = "https://v3.football.api-sports.io"
+ODDS_API_BASE_URL = "https://api.the-odds-api.com/v4"
+
+# Ligi principale API-Football.
+# Daca vrei mai multe meciuri, poti lasa lista goala: TARGET_LEAGUES = set()
+TARGET_LEAGUES = {
+    2,    # UEFA Champions League
+    3,    # UEFA Europa League
+    39,   # Premier League
+    140,  # LaLiga
+    135,  # Serie A
+    78,   # Bundesliga
+    61,   # Ligue 1
+    94,   # Primeira Liga
+    88,   # Eredivisie
+    203,  # Super Lig
+    283,  # Liga 1 Romania
+}
+
+# The Odds API foloseste chei diferite pentru competitii.
+ODDS_SPORT_KEYS = [
+    "soccer_uefa_champs_league",
+    "soccer_uefa_europa_league",
+    "soccer_epl",
+    "soccer_spain_la_liga",
+    "soccer_italy_serie_a",
+    "soccer_germany_bundesliga",
+    "soccer_france_ligue_one",
+    "soccer_portugal_primeira_liga",
+    "soccer_netherlands_eredivisie",
+    "soccer_turkey_super_league",
+]
 
 
 def now_iso() -> str:
     return datetime.now(timezone.utc).isoformat()
 
 
-def api_get(path: str, params: Dict[str, Any]) -> Dict[str, Any]:
+def api_get(endpoint: str, params: Optional[Dict[str, Any]] = None) -> Dict[str, Any]:
     if not API_FOOTBALL_KEY:
-        raise RuntimeError("API_FOOTBALL_KEY lipseste")
-    response = requests.get(
-        f"https://{API_FOOTBALL_HOST}/{path}",
-        headers={"x-apisports-key": API_FOOTBALL_KEY},
-        params=params,
-        timeout=45,
-    )
-    response.raise_for_status()
+        raise RuntimeError("Lipseste API_FOOTBALL_KEY in GitHub Secrets.")
+
+    url = f"{API_FOOTBALL_BASE_URL}/{endpoint.lstrip('/')}"
+    headers = {
+        "x-apisports-key": API_FOOTBALL_KEY,
+    }
+
+    response = requests.get(url, headers=headers, params=params or {}, timeout=30)
+
+    if response.status_code != 200:
+        raise RuntimeError(f"API-Football HTTP {response.status_code}: {response.text[:500]}")
+
+    data = response.json()
+
+    errors = data.get("errors")
+    if errors:
+        raise RuntimeError(f"API-Football errors: {errors}")
+
+    return data
+
+
+def odds_api_get(path: str, params: Optional[Dict[str, Any]] = None) -> Any:
+    if not ODDS_API_KEY:
+        return []
+
+    url = f"{ODDS_API_BASE_URL}/{path.lstrip('/')}"
+    query = dict(params or {})
+    query["apiKey"] = ODDS_API_KEY
+
+    response = requests.get(url, params=query, timeout=30)
+
+    if response.status_code != 200:
+        print(f"The Odds API warning HTTP {response.status_code}: {response.text[:300]}")
+        return []
+
     return response.json()
 
 
-def safe_float(value: Any, default: float = 0.0) -> float:
-    try:
-        if value is None:
-            return default
-        return float(value)
-    except (TypeError, ValueError):
-        return default
+def normalize_name(name: str) -> str:
+    clean = name.lower()
+    for token in [" fc", " cf", " afc", " sc", ".", "-", "_"]:
+        clean = clean.replace(token, " ")
+    return " ".join(clean.split())
 
 
-def form_score(form: str) -> float:
-    form = (form or "")[-5:].upper()
-    points = 0
-    for result in form:
-        if result == "W":
-            points += 3
-        elif result == "D":
-            points += 1
-    return points / 15 if form else 0.5
+def teams_match(name_a: str, name_b: str) -> bool:
+    a = normalize_name(name_a)
+    b = normalize_name(name_b)
+
+    if not a or not b:
+        return False
+
+    if a == b:
+        return True
+
+    a_words = set(a.split())
+    b_words = set(b.split())
+
+    if not a_words or not b_words:
+        return False
+
+    common = a_words.intersection(b_words)
+    return len(common) >= 1 and (len(common) / min(len(a_words), len(b_words))) >= 0.5
 
 
-def standings_map(league_id: int, season: int) -> Dict[int, Dict[str, Any]]:
-    data = api_get("standings", {"league": league_id, "season": season})
-    result: Dict[int, Dict[str, Any]] = {}
-    blocks = data.get("response", [])
-    if not blocks:
-        return result
-    for group in blocks[0].get("league", {}).get("standings", []):
-        for row in group:
-            team_id = row.get("team", {}).get("id")
-            if team_id:
-                result[int(team_id)] = row
-    return result
+def decimal_odds_from_bookmakers(match: Dict[str, Any], home: str, away: str) -> Optional[Dict[str, float]]:
+    for bookmaker in match.get("bookmakers", []):
+        for market in bookmaker.get("markets", []):
+            if market.get("key") != "h2h":
+                continue
+
+            result = {}
+            for outcome in market.get("outcomes", []):
+                outcome_name = outcome.get("name", "")
+                price = outcome.get("price")
+
+                if price is None:
+                    continue
+
+                if teams_match(outcome_name, home):
+                    result["1"] = float(price)
+                elif teams_match(outcome_name, away):
+                    result["2"] = float(price)
+                elif outcome_name.lower() in {"draw", "x", "egal"}:
+                    result["X"] = float(price)
+
+            if result:
+                return result
+
+    return None
 
 
-def team_value_proxy(row: Dict[str, Any]) -> float:
-    all_stats = row.get("all", {})
-    goals_for = safe_float(all_stats.get("goals", {}).get("for"))
-    goals_against = safe_float(all_stats.get("goals", {}).get("against"))
-    points = safe_float(row.get("points"))
-    rank = safe_float(row.get("rank"), 20)
-    return (points * 1.35) + (goals_for * 0.65) - (goals_against * 0.45) + max(0, 22 - rank)
+def odds_map_for_range(start_date: datetime, days: int = 5) -> Dict[str, Dict[str, float]]:
+    mapped: Dict[str, Dict[str, float]] = {}
 
+    if not ODDS_API_KEY:
+        print("ODDS_API_KEY lipseste. Scriptul va folosi cote estimate.")
+        return mapped
 
-def odds_map(date_str: str) -> Dict[int, Dict[str, Any]]:
-    try:
-        data = api_get("odds", {"date": date_str, "bookmaker": 8, "bet": 1})
-    except Exception as exc:
-        print(f"Odds unavailable: {exc}")
-        return {}
-    mapped: Dict[int, Dict[str, Any]] = {}
-    for item in data.get("response", []):
-        fixture_id = item.get("fixture", {}).get("id")
-        bookmakers = item.get("bookmakers", [])
-        if not fixture_id or not bookmakers:
+    start = start_date.date()
+    end = (start_date + timedelta(days=days)).date()
+
+    for sport_key in ODDS_SPORT_KEYS:
+        data = odds_api_get(
+            f"sports/{sport_key}/odds",
+            {
+                "regions": "eu",
+                "markets": "h2h",
+                "oddsFormat": "decimal",
+                "dateFormat": "iso",
+            },
+        )
+
+        if not isinstance(data, list):
             continue
-        values = bookmakers[0].get("bets", [{}])[0].get("values", [])
-        mapped[int(fixture_id)] = {v.get("value"): safe_float(v.get("odd")) for v in values}
+
+        for match in data:
+            commence_time = match.get("commence_time", "")
+            try:
+                match_date = datetime.fromisoformat(commence_time.replace("Z", "+00:00")).date()
+            except Exception:
+                continue
+
+            if match_date < start or match_date > end:
+                continue
+
+            home = match.get("home_team", "")
+            away = match.get("away_team", "")
+
+            prices = decimal_odds_from_bookmakers(match, home, away)
+            if not prices:
+                continue
+
+            key = f"{normalize_name(home)}__{normalize_name(away)}"
+            mapped[key] = prices
+
     return mapped
 
 
-def pick_prediction(home_row: Dict[str, Any], away_row: Dict[str, Any], odd_values: Dict[str, float]) -> Optional[Dict[str, Any]]:
-    home_rank = safe_float(home_row.get("rank"), 20)
-    away_rank = safe_float(away_row.get("rank"), 20)
-    home_form = form_score(home_row.get("form", ""))
-    away_form = form_score(away_row.get("form", ""))
-    home_value = team_value_proxy(home_row)
-    away_value = team_value_proxy(away_row)
+def find_odds(odds: Dict[str, Dict[str, float]], home: str, away: str) -> Optional[Dict[str, float]]:
+    direct_key = f"{normalize_name(home)}__{normalize_name(away)}"
+    if direct_key in odds:
+        return odds[direct_key]
 
-    rank_component = max(min((away_rank - home_rank) / 18, 1), -1)
-    form_component = home_form - away_form
-    value_component = max(min((home_value - away_value) / 45, 1), -1)
-    home_advantage = 0.10
+    for key, prices in odds.items():
+        try:
+            odd_home, odd_away = key.split("__", 1)
+        except ValueError:
+            continue
 
-    score_home = 0.48 + (rank_component * 0.18) + (form_component * 0.22) + (value_component * 0.17) + home_advantage
-    score_away = 0.48 - (rank_component * 0.18) - (form_component * 0.22) - (value_component * 0.17)
+        if teams_match(home, odd_home) and teams_match(away, odd_away):
+            return prices
+
+    return None
+
+
+def get_standings_cached(
+    league_id: int,
+    season: int,
+    cache: Dict[str, Dict[int, Dict[str, Any]]],
+) -> Dict[int, Dict[str, Any]]:
+    cache_key = f"{league_id}_{season}"
+
+    if cache_key in cache:
+        return cache[cache_key]
+
+    data = api_get("standings", {"league": league_id, "season": season}).get("response", [])
+    table: Dict[int, Dict[str, Any]] = {}
+
+    if data:
+        standings_blocks = data[0].get("league", {}).get("standings", [])
+        if standings_blocks:
+            for row in standings_blocks[0]:
+                team = row.get("team", {})
+                team_id = team.get("id")
+                if team_id:
+                    table[int(team_id)] = row
+
+    cache[cache_key] = table
+    return table
+
+
+def form_points(form: str) -> int:
+    points = 0
+    for char in (form or "")[-5:]:
+        if char == "W":
+            points += 3
+        elif char == "D":
+            points += 1
+    return points
+
+
+def estimate_odds(confidence: int) -> float:
+    if confidence >= 82:
+        return 1.45
+    if confidence >= 76:
+        return 1.60
+    if confidence >= 70:
+        return 1.75
+    if confidence >= 64:
+        return 1.90
+    return 2.05
+
+
+def build_prediction(
+    home_row: Dict[str, Any],
+    away_row: Dict[str, Any],
+    odds_prices: Optional[Dict[str, float]],
+) -> Dict[str, Any]:
+    rank_home = int(home_row.get("rank") or 99)
+    rank_away = int(away_row.get("rank") or 99)
+
+    form_home = home_row.get("form", "") or ""
+    form_away = away_row.get("form", "") or ""
+
+    points_home = form_points(form_home)
+    points_away = form_points(form_away)
+
+    # Scor simplu si transparent.
+    # Avantaj rang, forma si avantaj teren propriu.
+    rank_advantage = max(min(rank_away - rank_home, 12), -12)
+    form_advantage = points_home - points_away
+
+    score_home = 50 + (rank_advantage * 2.2) + (form_advantage * 2.4) + 5
+    score_away = 50 + (-rank_advantage * 2.2) + (-form_advantage * 2.4)
 
     if score_home >= score_away:
-        pick = "1"
-        raw_score = score_home
-        odd = odd_values.get("Home") or odd_values.get("1") or 1.0
+        pronostic = "1"
+        confidence = int(max(50, min(92, score_home)))
     else:
-        pick = "2"
-        raw_score = score_away
-        odd = odd_values.get("Away") or odd_values.get("2") or 1.0
+        pronostic = "2"
+        confidence = int(max(50, min(92, score_away)))
 
-    confidence = int(max(50, min(92, raw_score * 100)))
-    odd = safe_float(odd, 1.0)
+    cota = None
+    if odds_prices and pronostic in odds_prices:
+        cota = odds_prices[pronostic]
 
-    if confidence < 80 or odd < 1.35:
-        return None
+    if cota is None:
+        cota = estimate_odds(confidence)
 
     return {
-        "pronostic": pick,
-        "cota": round(odd, 2),
+        "pronostic": pronostic,
+        "cota": round(float(cota), 2),
         "scor_incredere": confidence,
-        "forma_home_score": round(home_form, 2),
-        "forma_away_score": round(away_form, 2),
-        "valoare_home_proxy": round(home_value, 2),
-        "valoare_away_proxy": round(away_value, 2),
-        "rank_home": int(home_rank),
-        "rank_away": int(away_rank),
+        "rank_home": rank_home,
+        "rank_away": rank_away,
     }
 
 
-def collect_matches() -> List[Dict[str, Any]]:
-    output: List[Dict[str, Any]] = []
-    standings_cache: Dict[str, Dict[int, Dict[str, Any]]] = {}
+def fallback_matches(reason: str = "") -> List[Dict[str, Any]]:
+    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
-    for day_offset in range(5):
-        target_date = (datetime.now(timezone.utc) + timedelta(days=day_offset)).strftime("%Y-%m-%d")
-        fixtures = api_get("fixtures", {"date": target_date}).get("response", [])
-        odds = odds_map(target_date)
-
-        for item in fixtures:
-            league = item.get("league", {})
-            league_id = league.get("id")
-            season = league.get("season")
-
-            if TARGET_LEAGUES and league_id not in TARGET_LEAGUES:
-                continue
-
-        home = item.get("teams", {}).get("home", {})
-        away = item.get("teams", {}).get("away", {})
-        home_id = home.get("id")
-        away_id = away.get("id")
-        fixture_id = item.get("fixture", {}).get("id")
-        if not all([league_id, season, home_id, away_id, fixture_id]):
-            continue
-
-        cache_key = f"{league_id}-{season}"
-        if cache_key not in standings_cache:
-            try:
-                standings_cache[cache_key] = standings_map(int(league_id), int(season))
-            except Exception as exc:
-                print(f"Standings failed for {cache_key}: {exc}")
-                standings_cache[cache_key] = {}
-
-        table = standings_cache[cache_key]
-        home_row = table.get(int(home_id))
-        away_row = table.get(int(away_id))
-        if not home_row or not away_row:
-            continue
-
-        prediction = pick_prediction(home_row, away_row, odds.get(int(fixture_id), {}))
-        if not prediction:
-            continue
-
-    match_time = item.get("fixture", {}).get("date", "")
-
-output.append({
-    "data": target_date,
-    "fixture_id": fixture_id,
-    "home": home.get("name", ""),
-    "away": away.get("name", ""),
-    "liga": f"{league.get('name', '')} · {league.get('country', '')}",
-    "ora": match_time[11:16] if len(match_time) >= 16 else "",
-    "forma_home": home_row.get("form", "")[-5:],
-    "forma_away": away_row.get("form", "")[-5:],
-    "motiv": f"Diferenta rang: {prediction['rank_home']} vs {prediction['rank_away']}. Forma si valoarea proxy favorizeaza selectia {prediction['pronostic']}.",
-    **prediction,
-})
-            "fixture_id": fixture_id,
-            "home": home.get("name", ""),
-            "away": away.get("name", ""),
-            "liga": f"{league.get('name', '')} · {league.get('country', '')}",
-            "ora": match_time[11:16] if len(match_time) >= 16 else "",
-            "forma_home": home_row.get("form", "")[-5:],
-            "forma_away": away_row.get("form", "")[-5:],
-            "motiv": f"Diferenta rang: {prediction['rank_home']} vs {prediction['rank_away']}. Forma si valoarea proxy favorizeaza selectia {prediction['pronostic']}.",
-            **prediction,
-        })
-
-    output.sort(key=lambda x: (x["scor_incredere"], x["cota"]), reverse=True)
-    balanced = [m for m in output if 1.50 <= safe_float(m.get("cota")) <= 2.60]
-    remaining = [m for m in output if m not in balanced]
-    return (balanced + remaining)[:20]
-
-
-def fallback_matches() -> List[Dict[str, Any]]:
-    samples = []
-    names = [
+    examples = [
         ("Arsenal", "Everton", "Premier League · England", "1", 1.72, 84),
         ("Inter", "Genoa", "Serie A · Italy", "1", 1.58, 86),
         ("Barcelona", "Valencia", "LaLiga · Spain", "1", 1.65, 85),
         ("PSG", "Lille", "Ligue 1 · France", "1", 1.70, 83),
         ("Bayern", "Mainz", "Bundesliga · Germany", "1", 1.50, 87),
     ]
-    for index, item in enumerate(names, start=1):
-        samples.append({
+
+    return [
+        {
+            "data": today,
             "fixture_id": index,
-            "home": item[0],
-            "away": item[1],
-            "liga": item[2],
+            "home": home,
+            "away": away,
+            "liga": liga,
             "ora": "18:00",
-            "pronostic": item[3],
-            "cota": item[4],
-            "scor_incredere": item[5],
+            "pronostic": pronostic,
+            "cota": cota,
+            "scor_incredere": score,
             "forma_home": "WWDWW",
             "forma_away": "LDLWD",
-            "motiv": "Exemplu local. Configureaza API_FOOTBALL_KEY pentru date reale.",
-        })
-    return samples
+            "motiv": f"Exemplu local. {reason or 'Configureaza API_FOOTBALL_KEY pentru date reale.'}",
+        }
+        for index, (home, away, liga, pronostic, cota, score) in enumerate(examples, start=1)
+    ]
+
+
+def collect_matches() -> List[Dict[str, Any]]:
+    output: List[Dict[str, Any]] = []
+    standings_cache: Dict[str, Dict[int, Dict[str, Any]]] = {}
+
+    start_date = datetime.now(timezone.utc)
+    odds = odds_map_for_range(start_date, days=5)
+
+    for day_offset in range(5):
+        target_date = (start_date + timedelta(days=day_offset)).strftime("%Y-%m-%d")
+        fixtures = api_get("fixtures", {"date": target_date}).get("response", [])
+
+        for item in fixtures:
+            league = item.get("league", {})
+            league_id = league.get("id")
+            season = league.get("season")
+
+            if not league_id or not season:
+                continue
+
+            if TARGET_LEAGUES and league_id not in TARGET_LEAGUES:
+                continue
+
+            fixture = item.get("fixture", {})
+            fixture_id = fixture.get("id")
+
+            teams = item.get("teams", {})
+            home = teams.get("home", {})
+            away = teams.get("away", {})
+            home_id = home.get("id")
+            away_id = away.get("id")
+
+            if not fixture_id or not home_id or not away_id:
+                continue
+
+            try:
+                table = get_standings_cached(int(league_id), int(season), standings_cache)
+            except Exception as exc:
+                print(f"Standings warning for league {league_id}: {exc}")
+                continue
+
+            home_row = table.get(int(home_id))
+            away_row = table.get(int(away_id))
+
+            if not home_row or not away_row:
+                continue
+
+            home_name = home.get("name", "")
+            away_name = away.get("name", "")
+            match_odds = find_odds(odds, home_name, away_name)
+
+            prediction = build_prediction(home_row, away_row, match_odds)
+
+            # Filtru echilibrat. Accepta cote intre 1.30 si 2.30 si scor minim 60.
+            if prediction["scor_incredere"] < 60:
+                continue
+
+            if not (1.30 <= prediction["cota"] <= 2.30):
+                continue
+
+            match_time = fixture.get("date", "")
+
+            output.append(
+                {
+                    "data": target_date,
+                    "fixture_id": fixture_id,
+                    "home": home_name,
+                    "away": away_name,
+                    "liga": f"{league.get('name', '')} · {league.get('country', '')}",
+                    "ora": match_time[11:16] if len(match_time) >= 16 else "",
+                    "forma_home": (home_row.get("form", "") or "")[-5:],
+                    "forma_away": (away_row.get("form", "") or "")[-5:],
+                    "motiv": (
+                        f"Diferenta rang: {prediction['rank_home']} vs {prediction['rank_away']}. "
+                        f"Forma si clasamentul favorizeaza selectia {prediction['pronostic']}."
+                    ),
+                    **prediction,
+                }
+            )
+
+    # Sorteaza dupa incredere, apoi dupa cota.
+    output.sort(key=lambda x: (x.get("scor_incredere", 0), x.get("cota", 0)), reverse=True)
+
+    return output[:20]
 
 
 def main() -> None:
-    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    start_date = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    end_date = (datetime.now(timezone.utc) + timedelta(days=4)).strftime("%Y-%m-%d")
 
     try:
         matches = collect_matches()
         source_status = "date reale"
+
+        if not matches:
+            source_status = "date reale, dar niciun meci nu a trecut filtrele"
     except Exception as exc:
         print(f"API-Football failed, using fallback: {exc}")
-        matches = fallback_matches()
+        matches = fallback_matches(str(exc))
         source_status = f"fallback local: {exc}"
 
     payload = {
-        "data_meciuri": today,
+        "data_start": start_date,
+        "data_final": end_date,
         "updated_at": now_iso(),
         "sursa": "API-Football + The Odds API",
         "status_date": source_status,
