@@ -1,79 +1,21 @@
 {
-  "data_start": "2026-04-28",
-  "data_final": "2026-05-02",
-  "updated_at": "2026-04-28T13:28:24.260847+00:00",
+  "data_start": "2026-04-29",
+  "data_final": "2026-04-30",
+  "updated_at": "2026-04-29T04:58:57.061661+00:00",
   "sursa": "API-Football + The Odds API",
-  "status_date": "fallback local: API-Football errors: {'plan': 'Free plans do not have access to this date, try from 2026-04-27 to 2026-04-29.'}",
-  "meciuri": [
-    {
-      "data": "2026-04-28",
-      "fixture_id": 1,
-      "home": "Arsenal",
-      "away": "Everton",
-      "liga": "Premier League · England",
-      "ora": "18:00",
-      "pronostic": "1",
-      "cota": 1.72,
-      "scor_incredere": 84,
-      "forma_home": "WWDWW",
-      "forma_away": "LDLWD",
-      "motiv": "Exemplu local. API-Football errors: {'plan': 'Free plans do not have access to this date, try from 2026-04-27 to 2026-04-29.'}"
-    },
-    {
-      "data": "2026-04-28",
-      "fixture_id": 2,
-      "home": "Inter",
-      "away": "Genoa",
-      "liga": "Serie A · Italy",
-      "ora": "18:00",
-      "pronostic": "1",
-      "cota": 1.58,
-      "scor_incredere": 86,
-      "forma_home": "WWDWW",
-      "forma_away": "LDLWD",
-      "motiv": "Exemplu local. API-Football errors: {'plan': 'Free plans do not have access to this date, try from 2026-04-27 to 2026-04-29.'}"
-    },
-    {
-      "data": "2026-04-28",
-      "fixture_id": 3,
-      "home": "Barcelona",
-      "away": "Valencia",
-      "liga": "LaLiga · Spain",
-      "ora": "18:00",
-      "pronostic": "1",
-      "cota": 1.65,
-      "scor_incredere": 85,
-      "forma_home": "WWDWW",
-      "forma_away": "LDLWD",
-      "motiv": "Exemplu local. API-Football errors: {'plan': 'Free plans do not have access to this date, try from 2026-04-27 to 2026-04-29.'}"
-    },
-    {
-      "data": "2026-04-28",
-      "fixture_id": 4,
-      "home": "PSG",
-      "away": "Lille",
-      "liga": "Ligue 1 · France",
-      "ora": "18:00",
-      "pronostic": "1",
-      "cota": 1.7,
-      "scor_incredere": 83,
-      "forma_home": "WWDWW",
-      "forma_away": "LDLWD",
-      "motiv": "Exemplu local. API-Football errors: {'plan': 'Free plans do not have access to this date, try from 2026-04-27 to 2026-04-29.'}"
-    },
-    {
-      "data": "2026-04-28",
-      "fixture_id": 5,
-      "home": "Bayern",
-      "away": "Mainz",
-      "liga": "Bundesliga · Germany",
-      "ora": "18:00",
-      "pronostic": "1",
-      "cota": 1.5,
-      "scor_incredere": 87,
-      "forma_home": "WWDWW",
-      "forma_away": "LDLWD",
-      "motiv": "Exemplu local. API-Football errors: {'plan': 'Free plans do not have access to this date, try from 2026-04-27 to 2026-04-29.'}"
-    }
-  ]
+  "status_date": "date reale, dar niciun meci nu trece filtrele de incredere/cota azi-maine",
+  "numar_meciuri": 0,
+  "configuratie": {
+    "max_meciuri": 10,
+    "zile_inainte": 2,
+    "incredere_minima": 68,
+    "cota_min": 1.3,
+    "cota_max": 2.3,
+    "piete": [
+      "1X2",
+      "GG / NG (Solist)",
+      "Peste 2.5 / Sub 2.5 goluri"
+    ]
+  },
+  "meciuri": []
 }
