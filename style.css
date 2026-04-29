@@ -409,3 +409,252 @@ main { max-width: 1180px; margin: auto; padding: 58px 22px 42px; }
   font-size: 11px;
   vertical-align: middle;
 }
+
+/* ==========================================
+   ADAUGA ASTA LA FINALUL FISIERULUI style.css
+   (NU inlocui style.css existent - doar adauga la final)
+   Daca ai adaugat deja CSS-uri din mesajul anterior pentru news-day-header,
+   ticket-tabs etc., NU le mai duplica - sari peste sectiunile pe care le ai deja.
+   ========================================== */
+
+/* ============================================
+   Header zile (poate sa fie deja adaugat)
+   ============================================ */
+.news-day-header {
+  grid-column: 1 / -1;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 18px 8px 12px;
+  margin-top: 12px;
+  border-bottom: 1px solid rgba(46, 213, 115, 0.18);
+}
+
+.news-day-header h3 {
+  font-size: 18px;
+  margin: 0;
+  color: #2ed573;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+}
+
+.news-day-header .pill {
+  font-size: 12px;
+  padding: 4px 10px;
+}
+
+.news-day-group {
+  grid-column: 1 / -1;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 16px;
+  margin-bottom: 8px;
+}
+
+.pill-time {
+  background: rgba(255, 255, 255, 0.06);
+  color: rgba(255, 255, 255, 0.6);
+  font-size: 11px;
+}
+
+/* ============================================
+   CARUSEL STIRI - container principal
+   ============================================ */
+.news-carousel {
+  grid-column: 1 / -1;
+  position: relative;
+  margin-bottom: 24px;
+  padding: 0 8px;
+}
+
+.carousel-viewport {
+  overflow: hidden;
+  border-radius: 12px;
+  margin: 0 4px;
+}
+
+.carousel-track {
+  display: flex;
+  gap: 16px;
+  transition: transform 0.6s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  will-change: transform;
+}
+
+/* Card in carusel - latime fixa per slot */
+.carousel-card {
+  flex: 0 0 calc((100% - 32px) / 3);
+  min-width: 0;
+}
+
+@media (max-width: 1023px) {
+  .carousel-card {
+    flex: 0 0 calc((100% - 16px) / 2);
+  }
+}
+
+@media (max-width: 639px) {
+  .carousel-card {
+    flex: 0 0 100%;
+  }
+}
+
+/* ============================================
+   SAGETI NAVIGARE
+   ============================================ */
+.carousel-arrow {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  background: rgba(46, 213, 115, 0.92);
+  color: #0a0e14;
+  border: none;
+  cursor: pointer;
+  z-index: 10;
+  font-size: 26px;
+  font-weight: bold;
+  line-height: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  transition: opacity 0.25s ease, background 0.25s ease, transform 0.25s ease;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+  padding-bottom: 3px;
+}
+
+.news-carousel:hover .carousel-arrow {
+  opacity: 1;
+}
+
+.carousel-arrow:hover {
+  background: #2ed573;
+  transform: translateY(-50%) scale(1.08);
+}
+
+.carousel-arrow-left {
+  left: -4px;
+}
+
+.carousel-arrow-right {
+  right: -4px;
+}
+
+/* Pe touch devices - mereu vizibile dar mai discrete */
+@media (hover: none) {
+  .carousel-arrow {
+    opacity: 0.7;
+    width: 38px;
+    height: 38px;
+    font-size: 22px;
+  }
+}
+
+/* ============================================
+   INDICATORI (dots)
+   ============================================ */
+.carousel-indicators {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  margin-top: 16px;
+}
+
+.carousel-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.2);
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  transition: all 0.3s ease;
+}
+
+.carousel-dot:hover {
+  background: rgba(46, 213, 115, 0.5);
+  transform: scale(1.2);
+}
+
+.carousel-dot.active {
+  background: #2ed573;
+  width: 24px;
+  border-radius: 4px;
+  box-shadow: 0 0 8px rgba(46, 213, 115, 0.5);
+}
+
+/* ============================================
+   BARA DE PROGRES (auto-play indicator)
+   ============================================ */
+.carousel-progress {
+  position: relative;
+  height: 2px;
+  background: rgba(255, 255, 255, 0.06);
+  border-radius: 2px;
+  margin: 12px 4px 0;
+  overflow: hidden;
+}
+
+.carousel-progress-bar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 0%;
+  background: linear-gradient(90deg, #2ed573, #7bed9f);
+  border-radius: 2px;
+  box-shadow: 0 0 6px rgba(46, 213, 115, 0.6);
+}
+
+/* ============================================
+   TICKET TABS (modal bilete)
+   ============================================ */
+.ticket-tabs {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 16px;
+  flex-wrap: wrap;
+}
+
+.ticket-tab {
+  flex: 1;
+  min-width: 100px;
+  padding: 10px 12px;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 10px;
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 13px;
+  cursor: pointer;
+  transition: all 0.2s;
+  text-align: center;
+  line-height: 1.4;
+}
+
+.ticket-tab small {
+  font-size: 11px;
+  opacity: 0.7;
+  font-weight: normal;
+}
+
+.ticket-tab:hover {
+  background: rgba(46, 213, 115, 0.12);
+  border-color: rgba(46, 213, 115, 0.35);
+}
+
+.ticket-tab.active {
+  background: rgba(46, 213, 115, 0.18);
+  border-color: #2ed573;
+  color: #fff;
+  font-weight: 600;
+}
+
+.match-pick .pill-green {
+  margin-right: 8px;
+  font-size: 11px;
+  vertical-align: middle;
+}
+
