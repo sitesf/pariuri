@@ -1,0 +1,779 @@
+{
+  "af_season_39": {
+    "value": 2025,
+    "expires_at": 1777529500.2487307,
+    "stored_at": "2026-04-29T06:11:40.248732+00:00"
+  },
+  "af_season_140": {
+    "value": 2025,
+    "expires_at": 1777529500.504003,
+    "stored_at": "2026-04-29T06:11:40.504005+00:00"
+  },
+  "af_season_135": {
+    "value": 2025,
+    "expires_at": 1777529500.7558641,
+    "stored_at": "2026-04-29T06:11:40.755867+00:00"
+  },
+  "af_season_78": {
+    "value": 2025,
+    "expires_at": 1777529501.0198934,
+    "stored_at": "2026-04-29T06:11:41.019896+00:00"
+  },
+  "af_season_61": {
+    "value": 2025,
+    "expires_at": 1777529501.2759705,
+    "stored_at": "2026-04-29T06:11:41.275973+00:00"
+  },
+  "af_season_2": {
+    "value": 2025,
+    "expires_at": 1777529501.5375452,
+    "stored_at": "2026-04-29T06:11:41.537548+00:00"
+  },
+  "af_season_3": {
+    "value": 2025,
+    "expires_at": 1777529501.798281,
+    "stored_at": "2026-04-29T06:11:41.798284+00:00"
+  },
+  "af_season_848": {
+    "value": 2025,
+    "expires_at": 1777529502.0545354,
+    "stored_at": "2026-04-29T06:11:42.054538+00:00"
+  },
+  "af_season_40": {
+    "value": 2025,
+    "expires_at": 1777529502.3147287,
+    "stored_at": "2026-04-29T06:11:42.314732+00:00"
+  },
+  "af_fixtures_2026-04-29_2026-05-03": {
+    "value": [],
+    "expires_at": 1777446702.9062338,
+    "stored_at": "2026-04-29T06:11:42.906236+00:00"
+  },
+  "odds_h2h_2026-04-29_2026-05-03": {
+    "value": {
+      "atlético madrid__arsenal": {
+        "2": 2.45,
+        "1": 3.2,
+        "X": 3.3
+      },
+      "nottingham forest__aston villa": {
+        "2": 3.0,
+        "1": 2.59,
+        "X": 3.38
+      },
+      "sc braga__sc freiburg": {
+        "1": 3.15,
+        "X": 3.05
+      },
+      "shakhtar donetsk__crystal palace": {
+        "2": 2.08,
+        "1": 3.87,
+        "X": 3.44
+      },
+      "rayo vallecano__strasbourg": {
+        "1": 2.2,
+        "2": 3.1,
+        "X": 3.3
+      },
+      "leeds united__burnley": {
+        "2": 6.5,
+        "1": 1.41,
+        "X": 4.9
+      },
+      "brentford__west ham united": {
+        "1": 1.92,
+        "2": 3.4,
+        "X": 3.8
+      },
+      "newcastle united__brighton and hove albion": {
+        "2": 2.55,
+        "1": 2.45,
+        "X": 3.6
+      },
+      "wolverhampton wanderers__sunderland": {
+        "2": 2.31,
+        "1": 3.15,
+        "X": 3.35
+      },
+      "arsenal__fulham": {
+        "1": 1.44,
+        "2": 7.0,
+        "X": 4.6
+      },
+      "bournemouth__crystal palace": {
+        "1": 1.68,
+        "2": 4.7,
+        "X": 4.1
+      },
+      "manchester united__liverpool": {
+        "2": 2.8,
+        "1": 2.34,
+        "X": 3.8
+      },
+      "aston villa__tottenham hotspur": {
+        "1": 2.15,
+        "2": 2.9,
+        "X": 3.7
+      },
+      "girona__mallorca": {
+        "1": 2.04,
+        "2": 3.86,
+        "X": 3.5
+      },
+      "villarreal__levante": {
+        "2": 4.58,
+        "1": 1.76,
+        "X": 4.41
+      },
+      "valencia__atlético madrid": {
+        "2": 3.7,
+        "1": 1.97,
+        "X": 3.87
+      },
+      "alavés__athletic bilbao": {
+        "1": 2.71,
+        "2": 2.65,
+        "X": 3.48
+      },
+      "ca osasuna__barcelona": {
+        "2": 1.8,
+        "1": 4.64,
+        "X": 3.79
+      },
+      "celta vigo__elche": {
+        "1": 1.8,
+        "2": 4.49,
+        "X": 3.87
+      },
+      "getafe__rayo vallecano": {
+        "1": 2.05,
+        "2": 4.07,
+        "X": 3.31
+      },
+      "real betis__oviedo": {
+        "2": 5.85,
+        "1": 1.59,
+        "X": 4.2
+      },
+      "espanyol__real madrid": {
+        "1": 4.83,
+        "2": 1.79,
+        "X": 3.71
+      },
+      "pisa__lecce": {
+        "2": 2.56,
+        "1": 3.2,
+        "X": 3.03
+      },
+      "udinese__torino": {
+        "2": 3.52,
+        "1": 2.26,
+        "X": 3.26
+      },
+      "como__napoli": {
+        "1": 2.31,
+        "2": 3.34,
+        "X": 3.32
+      },
+      "atalanta bc__genoa": {
+        "1": 1.62,
+        "2": 5.67,
+        "X": 4.08
+      },
+      "bologna__cagliari": {
+        "1": 1.82,
+        "2": 4.83,
+        "X": 3.58
+      },
+      "sassuolo__ac milan": {
+        "2": 1.69,
+        "1": 4.72,
+        "X": 4.26
+      },
+      "juventus__hellas verona": {
+        "2": 12.62,
+        "1": 1.23,
+        "X": 6.75
+      },
+      "inter milan__parma": {
+        "1": 1.23,
+        "2": 12.02,
+        "X": 6.87
+      },
+      "empoli__avellino": {
+        "2": 3.34,
+        "1": 2.24,
+        "X": 3.23
+      },
+      "bari__virtus entella": {
+        "1": 2.85,
+        "2": 2.5,
+        "X": 3.3
+      },
+      "carrarese__cesena": {
+        "1": 2.3,
+        "2": 3.0,
+        "X": 3.5
+      },
+      "juve stabia__frosinone": {
+        "2": 2.0,
+        "1": 3.0,
+        "X": 3.45
+      },
+      "mantova__monza": {
+        "1": 4.73,
+        "2": 1.73,
+        "X": 3.69
+      },
+      "modena__reggiana": {
+        "1": 1.67,
+        "2": 4.69,
+        "X": 4.01
+      },
+      "padova__pescara": {
+        "1": 2.75,
+        "2": 2.2,
+        "X": 3.15
+      },
+      "palermo__us catanzaro 1929": {
+        "1": 1.57,
+        "2": 5.34,
+        "X": 4.16
+      },
+      "sampdoria__südtirol": {
+        "1": 2.18,
+        "2": 3.35,
+        "X": 3.05
+      },
+      "spezia__venezia": {
+        "1": 4.27,
+        "2": 1.75,
+        "X": 3.95
+      },
+      "bayern munich__1 heidenheim": {
+        "2": 9.98,
+        "1": 1.22,
+        "X": 6.94
+      },
+      "union berlin__1 köln": {
+        "2": 2.97,
+        "1": 2.51,
+        "X": 3.36
+      },
+      "werder bremen__augsburg": {
+        "2": 3.67,
+        "1": 1.97,
+        "X": 3.91
+      },
+      "eintracht frankfurt__hamburger sv": {
+        "1": 1.71,
+        "2": 4.6,
+        "X": 4.26
+      },
+      "tsg hoffenheim__vfb stuttgart": {
+        "1": 2.37,
+        "2": 2.69,
+        "X": 4.19
+      },
+      "bayer leverkusen__rb leipzig": {
+        "1": 2.15,
+        "2": 3.07,
+        "X": 4.14
+      },
+      "fc st pauli__fsv mainz 05": {
+        "1": 2.82,
+        "2": 2.6,
+        "X": 3.39
+      },
+      "borussia monchengladbach__borussia dortmund": {
+        "1": 3.81,
+        "X": 3.91
+      },
+      "sc freiburg__vfl wolfsburg": {
+        "1": 2.44,
+        "2": 2.89,
+        "X": 3.6
+      },
+      "dynamo dresden__1 kaiserslautern": {
+        "2": 3.5,
+        "1": 1.93,
+        "X": 3.6
+      },
+      "arminia bielefeld__vfl bochum": {
+        "1": 2.06,
+        "2": 3.2,
+        "X": 3.65
+      },
+      "holstein kiel__eintracht braunschweig": {
+        "2": 3.05,
+        "1": 1.97,
+        "X": 3.3
+      },
+      "fc halke 04__fortuna düsseldorf": {
+        "1": 1.57,
+        "2": 4.9,
+        "X": 4.0
+      },
+      "1 magdeburg__hertha berlin": {
+        "1": 2.12,
+        "2": 3.0,
+        "X": 3.75
+      },
+      "greuther fürth__1 nürnberg": {
+        "2": 2.32,
+        "1": 2.75,
+        "X": 3.6
+      },
+      "elversberg__sc paderborn": {
+        "1": 2.12,
+        "2": 2.95,
+        "X": 3.75
+      },
+      "hannover 96__sc preußen münster": {
+        "1": 1.4,
+        "2": 7.0,
+        "X": 4.5
+      },
+      "karlsruher__sv darmstadt 98": {
+        "1": 2.85,
+        "2": 2.16,
+        "X": 3.75
+      },
+      "nantes__marseille": {
+        "2": 1.65,
+        "1": 5.3,
+        "X": 4.2
+      },
+      "paris saint germain__lorient": {
+        "2": 8.2,
+        "1": 1.27,
+        "X": 6.57
+      },
+      "metz__as monaco": {
+        "2": 1.41,
+        "1": 6.53,
+        "X": 5.09
+      },
+      "nice__rc lens": {
+        "1": 4.36,
+        "2": 1.76,
+        "X": 4.16
+      },
+      "lille__le havre": {
+        "2": 8.5,
+        "1": 1.41,
+        "X": 4.76
+      },
+      "auxerre__angers": {
+        "2": 5.27,
+        "1": 1.74,
+        "X": 3.66
+      },
+      "paris__brest": {
+        "2": 3.83,
+        "1": 2.04,
+        "X": 3.52
+      },
+      "strasbourg__toulouse": {
+        "1": 2.38,
+        "2": 2.83,
+        "X": 3.62
+      },
+      "lyon__rennes": {
+        "1": 2.22,
+        "2": 3.14,
+        "X": 3.78
+      },
+      "amiens__red star": {
+        "1": 4.1,
+        "2": 1.75,
+        "X": 4.09
+      },
+      "boulogne__annecy": {
+        "2": 2.15,
+        "1": 2.95,
+        "X": 3.05
+      },
+      "montpellier__clermont": {
+        "2": 4.3,
+        "1": 1.67,
+        "X": 3.5
+      },
+      "usl dunkerque__grenoble": {
+        "2": 3.35,
+        "1": 2.08,
+        "X": 3.3
+      },
+      "guingamp__sc bastia": {
+        "1": 2.26,
+        "2": 3.07,
+        "X": 3.49
+      },
+      "le mans__stade de reims": {
+        "1": 2.35,
+        "2": 2.7,
+        "X": 3.2
+      },
+      "pau__nancy": {
+        "2": 2.85,
+        "1": 2.25,
+        "X": 3.4
+      },
+      "rodez af__saint etienne": {
+        "1": 3.34,
+        "2": 2.08,
+        "X": 3.63
+      },
+      "troyes__stade lavallois": {
+        "2": 4.75,
+        "1": 1.6,
+        "X": 4.05
+      },
+      "sporting lisbon__tondela": {
+        "1": 1.11,
+        "2": 13.5,
+        "X": 8.5
+      },
+      "nacional__avs futebol sad": {
+        "2": 5.8,
+        "1": 1.49,
+        "X": 4.2
+      },
+      "arouca__santa clara": {
+        "1": 2.9,
+        "2": 2.5,
+        "X": 2.95
+      },
+      "moreirense__cf estrela": {
+        "2": 2.85,
+        "1": 2.4,
+        "X": 3.2
+      },
+      "famalicão__benfica": {
+        "2": 1.55,
+        "1": 5.1,
+        "X": 3.85
+      },
+      "fc porto__alverca": {
+        "2": 11.0,
+        "1": 1.22,
+        "X": 5.4
+      },
+      "casa pia__tondela": {
+        "1": 2.35,
+        "2": 3.0,
+        "X": 3.1
+      },
+      "braga__estoril": {
+        "1": 1.47,
+        "2": 6.0,
+        "X": 4.35
+      },
+      "rio ave__gil vicente": {
+        "2": 2.05,
+        "1": 3.5,
+        "X": 3.25
+      },
+      "fc utrecht__nac breda": {
+        "1": 1.7,
+        "2": 4.7,
+        "X": 3.95
+      },
+      "groningen__excelsior": {
+        "2": 4.4,
+        "1": 1.61,
+        "X": 3.95
+      },
+      "ajax__psv eindhoven": {
+        "1": 2.5,
+        "2": 2.48,
+        "X": 4.0
+      },
+      "nec nijmegen__sc telstar": {
+        "1": 1.33,
+        "2": 6.75,
+        "X": 5.0
+      },
+      "fc volendam__heerenveen": {
+        "1": 3.35,
+        "2": 1.94,
+        "X": 3.7
+      },
+      "fc zwolle__heracles almelo": {
+        "1": 1.48,
+        "2": 5.4,
+        "X": 4.4
+      },
+      "fortuna sittard__feyenoord": {
+        "2": 1.48,
+        "1": 5.2,
+        "X": 4.35
+      },
+      "az alkmaar__fc twente enschede": {
+        "1": 2.38,
+        "2": 2.55,
+        "X": 3.7
+      },
+      "sparta rotterdam__go ahead eagles": {
+        "2": 3.4,
+        "1": 1.88,
+        "X": 3.8
+      },
+      "çaykur rizespor__torku konyaspor": {
+        "2": 3.39,
+        "1": 2.1,
+        "X": 3.3
+      },
+      "gazişehir gaziantep__besiktas jk": {
+        "2": 1.79,
+        "1": 3.77,
+        "X": 3.95
+      },
+      "fenerbahce__basaksehir": {
+        "2": 4.69,
+        "1": 1.6,
+        "X": 4.24
+      },
+      "samsunspor__galatasaray": {
+        "2": 1.66,
+        "1": 4.7,
+        "X": 3.85
+      },
+      "trabzonspor__goztepe": {
+        "2": 4.07,
+        "1": 1.77,
+        "X": 3.77
+      },
+      "antalyaspor__alanyaspor": {
+        "2": 2.25,
+        "1": 3.05,
+        "X": 3.35
+      },
+      "kayserispor__eyüpspor": {
+        "2": 3.95,
+        "1": 1.85,
+        "X": 3.55
+      },
+      "fatih karagümrük__genclerbirligi sk": {
+        "1": 2.45,
+        "2": 2.7,
+        "X": 3.3
+      },
+      "kasimpasa sk__kocaelispor": {
+        "1": 2.28,
+        "2": 3.43,
+        "X": 3.13
+      },
+      "cercle brugge ksv__sv zulte waregem": {
+        "1": 1.79,
+        "2": 3.7,
+        "X": 3.7
+      },
+      "westerlo__leuven": {
+        "2": 3.6,
+        "1": 1.85,
+        "X": 3.7
+      },
+      "charleroi__genk": {
+        "1": 2.65,
+        "2": 2.55,
+        "X": 3.55
+      },
+      "sint truiden__union saint gilloise": {
+        "1": 3.65,
+        "2": 1.93,
+        "X": 3.4
+      },
+      "kv mechelen__gent": {
+        "2": 2.5,
+        "1": 2.7,
+        "X": 3.5
+      },
+      "royal antwerp__standard liege": {
+        "1": 2.02,
+        "2": 3.45,
+        "X": 3.3
+      },
+      "anderlecht__club brugge": {
+        "1": 4.4,
+        "2": 1.6,
+        "X": 4.0
+      },
+      "dender__raal la louvière": {
+        "1": 2.75,
+        "2": 2.35,
+        "X": 3.2
+      },
+      "portsmouth__birmingham city": {
+        "2": 2.8,
+        "1": 2.48,
+        "X": 3.55
+      },
+      "blackburn rovers__leicester city": {
+        "1": 2.15,
+        "2": 2.9,
+        "X": 3.4
+      },
+      "bristol city__stoke city": {
+        "1": 3.5,
+        "X": 3.6
+      },
+      "swansea city__charlton athletic": {
+        "2": 4.2,
+        "1": 1.68,
+        "X": 3.75
+      },
+      "watford__coventry city": {
+        "2": 2.04,
+        "1": 3.5,
+        "X": 3.8
+      },
+      "derby county__sheffield united": {
+        "1": 1.77,
+        "2": 4.4,
+        "X": 4.0
+      },
+      "hull city__norwich city": {
+        "1": 4.25,
+        "X": 4.0
+      },
+      "ipswich town__queens park rangers": {
+        "1": 1.29,
+        "2": 10.05,
+        "X": 5.5
+      },
+      "wrexham__middlesbrough": {
+        "2": 2.43,
+        "1": 2.63,
+        "X": 3.65
+      },
+      "millwall__oxford united": {
+        "1": 1.32,
+        "2": 8.0,
+        "X": 4.8
+      },
+      "preston north end__southampton": {
+        "1": 3.05,
+        "2": 2.12,
+        "X": 3.93
+      },
+      "sheffield wednesday__west bromwich albion": {
+        "1": 6.1,
+        "2": 1.42,
+        "X": 4.4
+      },
+      "botafogo__remo": {
+        "1": 1.52,
+        "2": 5.9,
+        "X": 4.15
+      },
+      "vitoria__coritiba": {
+        "2": 3.2,
+        "1": 2.0,
+        "X": 3.15
+      },
+      "palmeiras__santos": {
+        "1": 1.45,
+        "2": 5.4,
+        "X": 4.0
+      },
+      "atletico paranaense__grêmio": {
+        "1": 1.85,
+        "2": 4.15,
+        "X": 3.45
+      },
+      "cruzeiro__atletico mineiro": {
+        "2": 3.65,
+        "1": 1.84,
+        "X": 3.1
+      },
+      "sao paulo__bahia": {
+        "2": 3.35,
+        "1": 1.95,
+        "X": 3.05
+      },
+      "flamengo__vasco da gama": {
+        "1": 1.44,
+        "2": 6.0,
+        "X": 4.0
+      },
+      "chapecoense__bragantino sp": {
+        "2": 2.08,
+        "1": 3.45,
+        "X": 3.35
+      },
+      "internacional__fluminense": {
+        "2": 3.25,
+        "1": 2.22,
+        "X": 3.15
+      },
+      "mirassol__corinthians": {
+        "2": 3.25,
+        "1": 2.28,
+        "X": 3.05
+      },
+      "panetolikos agrinio__ae kifisia": {
+        "2": 2.99,
+        "1": 2.54,
+        "X": 3.07
+      },
+      "panserraikos__ael": {
+        "2": 2.7,
+        "1": 2.38,
+        "X": 2.88
+      },
+      "asteras tripolis__atromitos athens": {
+        "1": 2.0,
+        "2": 3.6,
+        "X": 3.2
+      },
+      "ofi crete__aris thessaloniki": {
+        "2": 2.18,
+        "1": 3.3,
+        "X": 3.25
+      },
+      "levadiakos__volos": {
+        "1": 1.7,
+        "2": 4.0,
+        "X": 3.4
+      },
+      "paok thessaloniki__olympiakos piraeus": {
+        "2": 2.4,
+        "1": 3.1,
+        "X": 3.25
+      },
+      "panathinaikos__aek athens": {
+        "2": 2.1,
+        "1": 2.9,
+        "X": 3.0
+      }
+    },
+    "expires_at": 1777444905.3618557,
+    "stored_at": "2026-04-29T06:11:45.361858+00:00"
+  },
+  "understat_EPL": {
+    "value": {},
+    "expires_at": 1778047905.9226534,
+    "stored_at": "2026-04-29T06:11:45.922655+00:00"
+  },
+  "understat_La_liga": {
+    "value": {},
+    "expires_at": 1778047906.4806318,
+    "stored_at": "2026-04-29T06:11:46.480633+00:00"
+  },
+  "understat_Serie_A": {
+    "value": {},
+    "expires_at": 1778047907.0759294,
+    "stored_at": "2026-04-29T06:11:47.075931+00:00"
+  },
+  "understat_Bundesliga": {
+    "value": {},
+    "expires_at": 1778047907.7568831,
+    "stored_at": "2026-04-29T06:11:47.756885+00:00"
+  },
+  "understat_Ligue_1": {
+    "value": {},
+    "expires_at": 1778047908.3341389,
+    "stored_at": "2026-04-29T06:11:48.334141+00:00"
+  }
+}

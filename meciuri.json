@@ -1,21 +1,49 @@
 {
   "data_start": "2026-04-29",
-  "data_final": "2026-04-30",
-  "updated_at": "2026-04-29T04:58:57.061661+00:00",
-  "sursa": "API-Football + The Odds API",
-  "status_date": "date reale, dar niciun meci nu trece filtrele de incredere/cota azi-maine",
+  "data_final": "2026-05-03",
+  "updated_at": "2026-04-29T06:11:48.334939+00:00",
+  "surse": [
+    "API-Football",
+    "football-data.org",
+    "The Odds API",
+    "Understat (xG real)"
+  ],
+  "status_date": "date reale, dar niciun meci nu trece filtrele",
   "numar_meciuri": 0,
   "configuratie": {
     "max_meciuri": 10,
-    "zile_inainte": 2,
-    "incredere_minima": 68,
+    "zile_inainte": 5,
+    "incredere_minima": 65,
     "cota_min": 1.3,
     "cota_max": 2.3,
+    "ligi_acoperite": [
+      "Premier League",
+      "LaLiga",
+      "Serie A",
+      "Bundesliga",
+      "Ligue 1",
+      "UEFA Champions League",
+      "UEFA Europa League",
+      "UEFA Conference League",
+      "Championship",
+      "Eredivisie",
+      "Primeira Liga",
+      "Super Lig",
+      "Pro League",
+      "Bundesliga 2",
+      "Serie B",
+      "LaLiga 2",
+      "Ligue 2",
+      "Super League Greece",
+      "Liga 1 Romania",
+      "Brasileirao Serie A"
+    ],
     "piete": [
       "1X2",
       "GG / NG (Solist)",
       "Peste 2.5 / Sub 2.5 goluri"
     ]
   },
+  "bilete_sugerate": [],
   "meciuri": []
 }
