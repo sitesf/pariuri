@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-29T11:06:50.707890+00:00",
-  "updated_at_afisaj": "29 aprilie 2026, 14:06",
+  "updated_at": "2026-04-29T11:36:48.749201+00:00",
+  "updated_at_afisaj": "29 aprilie 2026, 14:36",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 8,
+  "numar_stiri": 13,
   "stiri": [
+    {
+      "id": "1c3d1db41afd",
+      "titlu": "Casa Albă vrea ca Departamentul pentru Securitate Internă să se redeschidă pentru Cupa Mondială",
+      "rezumat": "Oficialii de la Casa Albă care se pregătesc pentru Cupa Mondială din această vară îndeamnă Departamentul pentru Securitate Internă să se redeschidă după o tentativă de asasinare a președintelui american Donald Trump.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-04-29T11:36:24.506523+00:00",
+      "data_afisaj": "29 aprilie 2026, 14:36"
+    },
+    {
+      "id": "02bd9c78f801",
+      "titlu": "Tot ce vreau să fac este să ajut cât de mult pot - Grealish",
+      "rezumat": "Mijlocașul Angliei Jack Grealish vorbește cu Joe Wilson despre extinderea rolului său de ambasador la Special Olympics GB și despre ce înseamnă asta pentru el.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-04-29T11:36:24.506738+00:00",
+      "data_afisaj": "29 aprilie 2026, 14:36"
+    },
+    {
+      "id": "ea347081e297",
+      "titlu": "Bright reflectă asupra câștigului „incredibil” la Euro 2022",
+      "rezumat": "Vorbind în 2022, căpitanul Chelsea Millie Bright a reflectat la „cea mai bună vară din viața mea” și la „incredibilă” victorie a Angliei la Euro feminin.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-04-29T11:36:24.506873+00:00",
+      "data_afisaj": "29 aprilie 2026, 14:36"
+    },
+    {
+      "id": "074633f8e0ac",
+      "titlu": "„Tottenham a încurcat” - Spurs câștigă în sfârșit, dar este prea târziu?",
+      "rezumat": "Vorbind la Monday Night Club, scriitorul de fotbal Mark Ogden și fostul atacant din Premier League Chris Sutton discută despre modul în care Tottenham pare să se îndrepte spre retrogradarea din Premier League.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-04-29T11:36:24.507019+00:00",
+      "data_afisaj": "29 aprilie 2026, 14:36"
+    },
+    {
+      "id": "7126105fcc87",
+      "titlu": "Man Utd a supraviețuit lui Brentford pentru a câștiga o victorie crucială",
+      "rezumat": "Manchester United își păstrează nervii, deoarece golurile din prima repriză ale lui Casemiro și Benjamin Sesko sunt suficiente pentru a câștiga o întâlnire distractivă cu Brentford.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-04-29T11:36:24.507154+00:00",
+      "data_afisaj": "29 aprilie 2026, 14:36"
+    },
     {
       "id": "aa4798a1ced3",
       "titlu": "Câștigătorul Europa League a devenit regizor, actor, DJ și fotograf",
