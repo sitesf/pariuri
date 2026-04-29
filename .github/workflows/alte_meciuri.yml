@@ -22,7 +22,7 @@ jobs:
         run: pip install requests
 
       - name: Run agent alte meciuri
-        run: python alte_meciuri.py
+        run: python scripts/alte_meciuri.py
 
       - name: Commit & Push JSON
         run: |
