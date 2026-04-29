@@ -2,16 +2,103 @@
 <html lang="ro">
 <head>
   <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
   <title>NEXAS AI AGENT | Știri și predicții sportive generate cu AI</title>
-  <meta name="description" content="Site sportiv automatizat.Descoperă predicțiile de azi!" />
+  <meta name="description" content="Site sportiv automatizat. Descoperă predicțiile de azi!" />
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css" />
+
+  <style>
+    /* ── Overflow mobile fix ── */
+    html, body { max-width: 100%; overflow-x: hidden; }
+
+    /* ── Cursor animatie ── */
+    @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
+
+    /* ── Text alb explicit in hero ── */
+    .hero-copy h1,
+    .hero-copy .eyebrow,
+    .hero-copy .hero-text { color: #ffffff; }
+
+    /* ── Card cycling ── */
+    .cycle-card {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+      min-height: 120px;
+    }
+    .cycle-label {
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: 0.18em;
+      color: rgba(255,255,255,0.35);
+      text-transform: uppercase;
+    }
+    .cycle-word {
+      font-size: clamp(1.1rem, 2.5vw, 1.8rem);
+      font-weight: 700;
+      color: #4ade80;
+      min-height: 1.4em;
+      text-align: center;
+    }
+    .cycle-cursor {
+      display: inline-block;
+      width: 2px;
+      height: 1em;
+      background: #4ade80;
+      vertical-align: middle;
+      margin-left: 3px;
+      animation: blink .7s step-end infinite;
+    }
+
+    /* ── Separare sectiuni ── */
+    #stiri {
+      background: rgba(0,0,0,0.78);
+      border-top: 1px solid rgba(74,222,128,0.15);
+      border-radius: 16px 16px 0 0;
+      position: relative;
+      z-index: 10;
+    }
+    #meciuri {
+      background: rgba(0,0,0,0.65);
+      border-top: 1px solid rgba(74,222,128,0.1);
+      position: relative;
+      z-index: 10;
+    }
+
+    /* ── Mobile responsive ── */
+    @media (max-width: 768px) {
+      .hero {
+        flex-direction: column !important;
+        padding: 5rem 1.25rem 3rem !important;
+        gap: 2rem !important;
+      }
+      .hero-copy h1 {
+        font-size: clamp(2rem, 8vw, 3.2rem) !important;
+      }
+      .hero-card {
+        width: 100% !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+      }
+      .hero-actions { flex-wrap: wrap; gap: 0.75rem; }
+      .news-grid, .matches-grid { grid-template-columns: 1fr !important; }
+      .section-head.row-head { flex-direction: column; align-items: flex-start; gap: 1rem; }
+      .nav-shell { padding: 0 1rem !important; }
+      .content-section { padding-left: 1.25rem !important; padding-right: 1.25rem !important; }
+    }
+    @media (max-width: 480px) {
+      .hero-copy h1 { font-size: clamp(1.7rem, 9vw, 2.4rem) !important; }
+      .btn-xl { width: 100%; text-align: center; }
+    }
+  </style>
 </head>
 <body>
-  
+
   <canvas id="mesh-canvas" style="position:fixed;top:0;left:0;width:100%;height:100%;z-index:0;pointer-events:none;"></canvas>
   <div class="page-glow page-glow-one"></div>
   <div class="page-glow page-glow-two"></div>
@@ -25,7 +112,6 @@
           <small>stiri, cote, predictii</small>
         </span>
       </a>
-
       <div class="nav-actions">
         <a href="#stiri" class="nav-link">Stiri</a>
         <a href="#meciuri" class="nav-link">Meciuri</a>
@@ -46,12 +132,12 @@
         </div>
       </div>
 
-     <aside class="hero-card glass-card" style="display:flex;flex-direction:column;align-items:center;justify-content:center;gap:10px;">
-  <span style="font-size:11px;font-weight:600;letter-spacing:0.18em;color:rgba(255,255,255,0.35);text-transform:uppercase;">NEXAS </span>
-  <div style="font-size:clamp(1.2rem,2.5vw,2rem);font-weight:700;color:#4ade80;min-height:1.3em;text-align:center;">
-    <span id="cycleText"></span><span style="display:inline-block;width:2px;height:1em;background:#4ade80;vertical-align:middle;margin-left:3px;animation:blink .7s step-end infinite;"></span>
-  </div>
-</aside>
+      <aside class="hero-card glass-card cycle-card">
+        <span class="cycle-label">NEXAS</span>
+        <div class="cycle-word">
+          <span id="cycleText"></span><span class="cycle-cursor"></span>
+        </div>
+      </aside>
     </section>
 
     <section id="stiri" class="content-section section-in delay-1">
@@ -94,7 +180,7 @@
 
   <script src="app.js"></script>
 
-  <!-- Mesh animation background -->
+  <!-- Three.js mesh background -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
   <script>
   (function () {
@@ -103,90 +189,67 @@
     renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
     renderer.setSize(window.innerWidth, window.innerHeight);
     renderer.setClearColor(0x000000, 1);
-
     var scene = new THREE.Scene();
     var camera = new THREE.PerspectiveCamera(55, window.innerWidth / window.innerHeight, 0.1, 1000);
     camera.position.set(0, 18, 32);
     camera.lookAt(0, 0, 0);
-
     var geo = new THREE.PlaneGeometry(80, 80, 80, 80);
     geo.rotateX(-Math.PI / 2.4);
-
     var posArr = geo.attributes.position.array;
     var baseY = new Float32Array(posArr.length / 3);
     for (var i = 0; i < baseY.length; i++) baseY[i] = posArr[i * 3 + 1];
-
-    var mat = new THREE.MeshBasicMaterial({
-      color: 0x16a34a,
-      wireframe: true,
-      transparent: true,
-      opacity: 0.4
-    });
-
-    var mat2 = new THREE.MeshBasicMaterial({
-      color: 0x052e16,
-      wireframe: true,
-      transparent: true,
-      opacity: 0.25
-    });
-
+    var mat = new THREE.MeshBasicMaterial({ color: 0x16a34a, wireframe: true, transparent: true, opacity: 0.4 });
+    var mat2 = new THREE.MeshBasicMaterial({ color: 0x052e16, wireframe: true, transparent: true, opacity: 0.25 });
     var mesh = new THREE.Mesh(geo, mat);
     var mesh2 = new THREE.Mesh(geo.clone(), mat2);
     mesh2.position.y = -0.6;
-    scene.add(mesh);
-    scene.add(mesh2);
-
+    scene.add(mesh); scene.add(mesh2);
     window.addEventListener('resize', function () {
       camera.aspect = window.innerWidth / window.innerHeight;
       camera.updateProjectionMatrix();
       renderer.setSize(window.innerWidth, window.innerHeight);
     });
-
-    var t = 0;
-    var cols = 81;
-
+    var t = 0, cols = 81;
     function animate() {
       requestAnimationFrame(animate);
       t += 0.008;
       var pos = geo.attributes.position;
       var pos2 = mesh2.geometry.attributes.position;
       for (var i = 0; i < pos.count; i++) {
-        var ix = i % cols;
-        var iz = Math.floor(i / cols);
+        var ix = i % cols, iz = Math.floor(i / cols);
         var y = baseY[i]
           + Math.sin(ix * 0.18 + t * 1.2) * 1.8
           + Math.sin(iz * 0.22 + t * 0.9) * 1.4
           + Math.sin((ix + iz) * 0.12 + t * 0.7) * 1.0;
-        pos.setY(i, y);
-        pos2.setY(i, y);
+        pos.setY(i, y); pos2.setY(i, y);
       }
-      pos.needsUpdate = true;
-      pos2.needsUpdate = true;
+      pos.needsUpdate = true; pos2.needsUpdate = true;
       renderer.render(scene, camera);
     }
-
     animate();
   })();
   </script>
- 
-</div>
-<style>@keyframes blink{0%,100%{opacity:1}50%{opacity:0}}</style>
 
-<script>
-(function(){
-  var words = ['Predicții Sportive','Analize','Informatii verificate,'Automatizare AI ','Decizii Logice','Statistici Avansate'];
-  var el = document.getElementById('cycleText');
-  var wi=0, ci=0, deleting=false;
-  function tick(){
-    var w=words[wi];
-    if(!deleting){ el.textContent=w.slice(0,++ci); if(ci===w.length){deleting=true;setTimeout(tick,600);return;} }
-    else{ el.textContent=w.slice(0,--ci); if(ci===0){deleting=false;wi=(wi+1)%words.length;} }
-    setTimeout(tick,deleting?40:80);
-  }
-  tick();
-})();
-</script>
+  <!-- Cycling text -->
+  <script>
+  (function(){
+    var words = ['Predicții Sportive','Analize AI','Informatii Verificate','Automatizare AI','Decizii Logice','Statistici Avansate'];
+    var el = document.getElementById('cycleText');
+    var wi=0, ci=0, deleting=false;
+    function tick(){
+      var w=words[wi];
+      if(!deleting){
+        el.textContent=w.slice(0,++ci);
+        if(ci===w.length){ deleting=true; setTimeout(tick,1200); return; }
+      } else {
+        el.textContent=w.slice(0,--ci);
+        if(ci===0){ deleting=false; wi=(wi+1)%words.length; }
+      }
+      setTimeout(tick, deleting?40:80);
+    }
+    tick();
+  })();
+  </script>
 
-  
 </body>
 </html>
