@@ -65,13 +65,14 @@ RSS_FEEDS = [
     ("BBC Sport Football",     "https://feeds.bbci.co.uk/sport/football/rss.xml"),
     ("Sky Sports Football",    "https://www.skysports.com/rss/12040"),
     ("The Guardian Football",  "https://www.theguardian.com/football/rss"),
-    ("ESPN Soccer",            "https://www.espn.com/espn/rss/soccer/news"),
-    ("Goal.com",               "https://www.goal.com/feeds/news?fmt=rss"),
+    ("FourFourTwo",            "https://www.fourfourtwo.com/feeds/all"),
+    ("World Soccer",           "https://www.worldsoccer.com/feed"),
 ]
 
 # Site-uri cu scraping homepage (fallback / completare RO)
 SCRAPE_SITES = [
-    ("ProSport.ro", "https://www.prosport.ro/fotbal/"),
+    ("ProSport.ro", "https://www.prosport.ro/"),
+    ("GSP.ro",      "https://www.gsp.ro/"),
 ]
 
 LUNI_RO = [
@@ -341,7 +342,7 @@ Date sursa de procesat:
 def call_gemini(prompt: str) -> Dict[str, Any]:
     if not GEMINI_API_KEY:
         raise RuntimeError("GEMINI_API_KEY lipseste")
-    model = os.getenv("GEMINI_MODEL", "gemini-1.5-flash")
+    model = os.getenv("GEMINI_MODEL", "gemini-2.5-flash")
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={GEMINI_API_KEY}"
     response = requests.post(
         url,
@@ -439,7 +440,8 @@ def build_new_news(payload: Dict[str, Any], history: List[Dict[str, Any]]) -> Li
 
 
 def fallback_from_rss(items: List[Dict[str, Any]], history: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
-    """Daca LLM-ul a esuat: ia primele 3 stiri RSS distincte care nu sunt in istoric."""
+    """Daca LLM-ul a esuat la selectie: ia primele 3 stiri RSS distincte care nu sunt in istoric.
+    Daca Gemini e disponibil, incerc cel putin sa traduc titlurile in romana."""
     fallback_items: List[Dict[str, Any]] = []
     for item in items:
         title = item["title"]
@@ -458,6 +460,37 @@ def fallback_from_rss(items: List[Dict[str, Any]], history: List[Dict[str, Any]]
         })
         if len(fallback_items) >= 3:
             break
+
+    # Incercare de traducere in romana cu un apel simplu Gemini
+    if fallback_items and GEMINI_API_KEY:
+        try:
+            translate_prompt = f"""Traduci urmatoarele stiri sportive din engleza in romana.
+Pastreaza acelasi numar de elemente si aceeasi ordine. Nu modifica structura, doar traduci textul.
+
+Returneaza STRICT JSON valid:
+{{
+  "stiri": [
+    {{ "titlu": "titlu tradus in romana", "rezumat": "rezumat tradus in romana sau original daca e gol" }}
+  ]
+}}
+
+Date de tradus:
+{json.dumps([{"titlu": f["titlu"], "rezumat": f["rezumat"]} for f in fallback_items], ensure_ascii=False, indent=2)}
+"""
+            translated = call_gemini(translate_prompt)
+            translated_list = translated.get("stiri", [])
+            for i, t in enumerate(translated_list):
+                if i < len(fallback_items):
+                    new_titlu = clean_text(str(t.get("titlu", "")))
+                    new_rezumat = clean_text(str(t.get("rezumat", "")))
+                    if new_titlu:
+                        fallback_items[i]["titlu"] = new_titlu
+                    if new_rezumat:
+                        fallback_items[i]["rezumat"] = new_rezumat
+            print("[fallback] traducere Gemini reusita")
+        except Exception as exc:
+            print(f"[fallback] traducere Gemini esec: {exc}. Stirile raman in engleza.")
+
     return fallback_items
 
 
