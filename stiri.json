@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-29T10:45:53.059273+00:00",
-  "updated_at_afisaj": "29 aprilie 2026, 13:45",
+  "updated_at": "2026-04-29T10:57:32.611181+00:00",
+  "updated_at_afisaj": "29 aprilie 2026, 13:57",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -10,13 +10,47 @@
       "BBC Sport Football",
       "Sky Sports Football",
       "The Guardian Football",
-      "ESPN Soccer",
-      "Goal.com",
-      "ProSport.ro"
+      "FourFourTwo",
+      "World Soccer",
+      "ProSport.ro",
+      "GSP.ro"
     ]
   },
-  "numar_stiri": 7,
+  "numar_stiri": 10,
   "stiri": [
+    {
+      "id": "cf616a93c71d",
+      "titlu": "Why Mourinho could be Real's 'ultimate wildcard'",
+      "rezumat": "With Real Madrid out of the Champions League, and falling behind in La Liga, noise around manager Alvaro Arbeloa's future is unsurprisingly increasing. Could Jose Mourinho be the answer?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-04-29T10:57:30.308112+00:00",
+      "data_afisaj": "29 aprilie 2026, 13:57"
+    },
+    {
+      "id": "9909fd033603",
+      "titlu": "Afghanistan women can return to competition",
+      "rezumat": "Afghanistan women will become a \"symbol of resilience\" after Fifa approved their return to international competition, says former captain Khalida Popal.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-04-29T10:57:30.308217+00:00",
+      "data_afisaj": "29 aprilie 2026, 13:57"
+    },
+    {
+      "id": "1c3d1db41afd",
+      "titlu": "White House wants Department of Homeland Security to reopen for World Cup",
+      "rezumat": "White House officials preparing for this summer's World Cup urge the Department of Homeland Security to reopen after an attempted assassination of US President Donald Trump.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-04-29T10:57:30.308298+00:00",
+      "data_afisaj": "29 aprilie 2026, 13:57"
+    },
     {
       "id": "8db7f00b4f5a",
       "titlu": "Grealish recovery 'couldn't be looking any better'",
