@@ -1,559 +1,925 @@
-const state = {
-  stiri: [],
-  meciuri: [],
-  bilete: [],
-  meta: {}
-};
+:root {
+  --bg: #111418;
+  --bg-soft: #171b21;
+  --card: #20252d;
+  --card-2: #262c35;
+  --line: rgba(255,255,255,.09);
+  --text: #f4f7fb;
+  --muted: #9aa4b2;
+  --green: #39ff9c;
+  --green-soft: rgba(57,255,156,.16);
+  --rosy: #ff6f91;
+  --rosy-soft: rgba(255,111,145,.15);
+  --shadow: 0 24px 80px rgba(0,0,0,.38);
+  --radius: 26px;
+}
 
-const $ = (selector) => document.querySelector(selector);
-const newsGrid = $('#newsGrid');
-const matchesGrid = $('#matchesGrid');
-const modal = $('#ticketModal');
-const ticketBody = $('#ticketBody');
-const ticketOdd = $('#ticketOdd');
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body {
+  margin: 0;
+  font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  background: radial-gradient(circle at top left, #223128 0, transparent 32%), var(--bg);
+  color: var(--text);
+  overflow-x: hidden;
+}
 
-const LUNI_RO = [
-  'ianuarie', 'februarie', 'martie', 'aprilie', 'mai', 'iunie',
-  'iulie', 'august', 'septembrie', 'octombrie', 'noiembrie', 'decembrie'
-];
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  background-image: linear-gradient(rgba(255,255,255,.025) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,.025) 1px, transparent 1px);
+  background-size: 54px 54px;
+  mask-image: linear-gradient(to bottom, rgba(0,0,0,.8), transparent 80%);
+}
 
-// Carusel: timer activ pentru ziua "Astazi"
-let activeCarousel = null;
-const CAROUSEL_INTERVAL = 5000; // 5 secunde
-const CAROUSEL_MIN_NEWS = 4;    // sub 4 stiri intr-o zi -> fara carusel
+.page-glow {
+  position: fixed;
+  width: 420px;
+  height: 420px;
+  border-radius: 999px;
+  filter: blur(70px);
+  opacity: .22;
+  pointer-events: none;
+}
+.page-glow-one { background: var(--green); top: -120px; right: -110px; }
+.page-glow-two { background: var(--rosy); bottom: 12%; left: -170px; }
 
-function formatDate(value) {
-  if (!value) return 'Necunoscut';
-  try {
-    return new Intl.DateTimeFormat('ro-RO', {
-      dateStyle: 'medium',
-      timeStyle: 'short'
-    }).format(new Date(value));
-  } catch {
-    return value;
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  backdrop-filter: blur(18px);
+  background: rgba(17,20,24,.78);
+  border-bottom: 1px solid var(--line);
+}
+
+.nav-shell {
+  max-width: 1180px;
+  margin: auto;
+  padding: 18px 22px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 18px;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  color: var(--text);
+  text-decoration: none;
+}
+.brand-mark {
+  display: grid;
+  place-items: center;
+  width: 46px;
+  height: 46px;
+  border-radius: 15px;
+  color: #07120d;
+  font-weight: 900;
+  background: linear-gradient(135deg, var(--green), #d8ffe9);
+  box-shadow: 0 0 26px rgba(57,255,156,.32);
+}
+.brand strong, .brand small { display: block; }
+.brand small { color: var(--muted); font-size: 12px; margin-top: 2px; }
+
+.nav-actions { display: flex; align-items: center; gap: 12px; }
+.nav-link {
+  color: var(--muted);
+  text-decoration: none;
+  font-weight: 700;
+  transition: color .25s ease;
+}
+.nav-link:hover { color: var(--green); }
+
+main { max-width: 1180px; margin: auto; padding: 58px 22px 42px; }
+.hero {
+  min-height: 520px;
+  display: grid;
+  grid-template-columns: minmax(0, 1.35fr) minmax(320px, .65fr);
+  align-items: center;
+  gap: 28px;
+}
+.eyebrow {
+  margin: 0 0 12px;
+  color: var(--green);
+  font-weight: 900;
+  letter-spacing: .13em;
+  text-transform: uppercase;
+  font-size: 12px;
+}
+.hero h1 {
+  max-width: 820px;
+  margin: 0;
+  font-size: clamp(42px, 7vw, 84px);
+  line-height: .95;
+  letter-spacing: -.06em;
+}
+.hero-text {
+  max-width: 650px;
+  margin: 24px 0 0;
+  color: var(--muted);
+  font-size: 18px;
+  line-height: 1.7;
+}
+.hero-actions { display: flex; flex-wrap: wrap; gap: 14px; margin-top: 34px; }
+
+.btn {
+  border: 0;
+  cursor: pointer;
+  border-radius: 999px;
+  padding: 13px 20px;
+  font-weight: 900;
+  font-family: inherit;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: transform .25s ease, box-shadow .25s ease, border-color .25s ease, background .25s ease;
+}
+.btn:hover { transform: translateY(-3px); }
+.btn-primary {
+  color: #07120d;
+  background: linear-gradient(135deg, var(--green), #b7ffd8);
+  box-shadow: 0 16px 42px rgba(57,255,156,.22);
+}
+.btn-primary:hover { box-shadow: 0 20px 55px rgba(57,255,156,.34); }
+.btn-ghost {
+  color: var(--text);
+  background: rgba(255,255,255,.04);
+  border: 1px solid var(--line);
+}
+.btn-xl { padding: 17px 28px; font-size: 16px; }
+
+.glass-card, .news-card, .match-card, .modal-panel {
+  border: 1px solid var(--line);
+  background: linear-gradient(180deg, rgba(255,255,255,.065), rgba(255,255,255,.025));
+  box-shadow: var(--shadow);
+}
+.hero-card {
+  position: relative;
+  padding: 28px;
+  border-radius: var(--radius);
+  overflow: hidden;
+}
+.status-dot {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: var(--green);
+  box-shadow: 0 0 0 8px rgba(57,255,156,.12), 0 0 30px var(--green);
+}
+.hero-card h2 { margin: 22px 0 8px; font-size: 32px; }
+.hero-card p { color: var(--muted); margin: 0 0 8px; }
+.hero-card strong { font-size: 20px; }
+.mini-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  margin-top: 28px;
+}
+.mini-grid div {
+  padding: 14px;
+  border-radius: 18px;
+  background: rgba(0,0,0,.18);
+  border: 1px solid var(--line);
+}
+.mini-grid span { display: block; color: var(--green); font-weight: 900; font-size: 24px; }
+.mini-grid small { color: var(--muted); }
+
+.content-section { margin-top: 84px; }
+.section-head { margin-bottom: 24px; }
+.section-head h2 { margin: 0; font-size: clamp(30px, 4vw, 48px); letter-spacing: -.04em; }
+.row-head { display: flex; align-items: end; justify-content: space-between; gap: 18px; }
+.news-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; }
+.news-card, .match-card { border-radius: var(--radius); padding: 22px; transition: transform .25s ease, border-color .25s ease, background .25s ease; }
+.news-card:hover, .match-card:hover { transform: translateY(-6px); border-color: rgba(57,255,156,.35); }
+.news-card h3 { margin: 0 0 12px; font-size: 22px; }
+.news-card p { color: var(--muted); line-height: 1.65; margin: 0 0 18px; }
+.news-meta { display: flex; flex-wrap: wrap; gap: 8px; }
+.pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 7px 10px;
+  border-radius: 999px;
+  color: var(--muted);
+  background: rgba(255,255,255,.045);
+  border: 1px solid var(--line);
+  font-size: 12px;
+  font-weight: 800;
+}
+.pill-green { color: var(--green); background: var(--green-soft); }
+.pill-rosy { color: var(--rosy); background: var(--rosy-soft); }
+
+.matches-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 18px; }
+.match-top { display: flex; justify-content: space-between; gap: 14px; align-items: flex-start; margin-bottom: 14px; }
+.match-card h3 { margin: 0; font-size: 21px; }
+.league { margin-top: 7px; color: var(--muted); font-size: 13px; }
+.odd-box {
+  min-width: 82px;
+  text-align: center;
+  border-radius: 18px;
+  padding: 10px;
+  color: #07120d;
+  background: var(--green);
+  font-weight: 900;
+}
+.odd-box small { display: block; font-size: 11px; opacity: .72; }
+.match-pick { color: var(--rosy); font-weight: 900; margin: 12px 0; }
+.match-stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin-top: 16px; }
+.match-stats div { padding: 12px; border-radius: 16px; background: rgba(0,0,0,.18); border: 1px solid var(--line); }
+.match-stats span { display: block; color: var(--text); font-weight: 900; }
+.match-stats small { color: var(--muted); }
+.reason { color: var(--muted); line-height: 1.6; margin: 14px 0 0; }
+
+.modal {
+  position: fixed;
+  inset: 0;
+  z-index: 50;
+  display: none;
+  place-items: center;
+  padding: 20px;
+}
+.modal.is-open { display: grid; }
+.modal-backdrop { position: absolute; inset: 0; background: rgba(0,0,0,.7); backdrop-filter: blur(10px); }
+.modal-panel {
+  position: relative;
+  width: min(680px, 100%);
+  max-height: 88vh;
+  overflow: auto;
+  border-radius: 30px;
+  padding: 28px;
+  animation: modalIn .28s ease both;
+}
+.modal-close {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: 1px solid var(--line);
+  background: rgba(255,255,255,.06);
+  color: var(--text);
+  font-size: 26px;
+  cursor: pointer;
+}
+.ticket-item {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 12px;
+  padding: 14px 0;
+  border-bottom: 1px solid var(--line);
+}
+.ticket-item strong { color: var(--green); }
+.ticket-total {
+  margin-top: 20px;
+  padding: 18px;
+  border-radius: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: var(--green-soft);
+  border: 1px solid rgba(57,255,156,.3);
+}
+.ticket-total strong { font-size: 34px; color: var(--green); }
+.modal-note { color: var(--muted); font-size: 13px; line-height: 1.5; }
+.site-footer { color: var(--muted); text-align: center; padding: 32px 20px 46px; border-top: 1px solid var(--line); }
+
+.section-in { animation: fadeUp .7s ease both; }
+.delay-1 { animation-delay: .12s; }
+.delay-2 { animation-delay: .22s; }
+
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(22px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+@keyframes modalIn {
+  from { opacity: 0; transform: translateY(18px) scale(.98); }
+  to { opacity: 1; transform: translateY(0) scale(1); }
+}
+
+@media (max-width: 900px) {
+  .hero { grid-template-columns: 1fr; min-height: auto; }
+  .news-grid, .matches-grid { grid-template-columns: 1fr; }
+  .nav-link { display: none; }
+}
+@media (max-width: 560px) {
+  main { padding-top: 36px; }
+  .nav-shell { padding: 14px; }
+  .brand small { display: none; }
+  .hero h1 { font-size: 44px; }
+  .row-head { align-items: flex-start; flex-direction: column; }
+  .match-stats, .mini-grid { grid-template-columns: 1fr; }
+  .btn { width: 100%; }
+  .nav-actions .btn { width: auto; padding: 11px 15px; }
+}
+
+
+
+/* ==========================================
+   ADAUGA ASTA LA FINALUL FISIERULUI style.css
+   (NU inlocui style.css existent - doar adauga la final)
+   Daca ai adaugat deja CSS-uri din mesajul anterior pentru news-day-header,
+   ticket-tabs etc., NU le mai duplica - sari peste sectiunile pe care le ai deja.
+   ========================================== */
+
+/* ============================================
+   Header zile (poate sa fie deja adaugat)
+   ============================================ */
+.news-day-header {
+  grid-column: 1 / -1;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 18px 8px 12px;
+  margin-top: 12px;
+  border-bottom: 1px solid rgba(46, 213, 115, 0.18);
+}
+
+.news-day-header h3 {
+  font-size: 18px;
+  margin: 0;
+  color: #2ed573;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+}
+
+.news-day-header .pill {
+  font-size: 12px;
+  padding: 4px 10px;
+}
+
+.news-day-group {
+  grid-column: 1 / -1;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 16px;
+  margin-bottom: 8px;
+}
+
+.pill-time {
+  background: rgba(255, 255, 255, 0.06);
+  color: rgba(255, 255, 255, 0.6);
+  font-size: 11px;
+}
+
+/* ============================================
+   CARUSEL STIRI - container principal
+   ============================================ */
+.news-carousel {
+  grid-column: 1 / -1;
+  position: relative;
+  margin-bottom: 24px;
+  padding: 0 8px;
+}
+
+.carousel-viewport {
+  overflow: hidden;
+  border-radius: 12px;
+  margin: 0 4px;
+}
+
+.carousel-track {
+  display: flex;
+  gap: 16px;
+  transition: transform 0.6s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  will-change: transform;
+}
+
+/* Card in carusel - latime fixa per slot */
+.carousel-card {
+  flex: 0 0 calc((100% - 32px) / 3);
+  min-width: 0;
+}
+
+@media (max-width: 1023px) {
+  .carousel-card {
+    flex: 0 0 calc((100% - 16px) / 2);
   }
 }
 
-function formatDayHeader(isoDate) {
-  if (!isoDate) return 'Data necunoscuta';
-  try {
-    const d = new Date(isoDate);
-    const today = new Date();
-    const yesterday = new Date();
-    yesterday.setDate(today.getDate() - 1);
-
-    const sameDay = (a, b) =>
-      a.getFullYear() === b.getFullYear() &&
-      a.getMonth() === b.getMonth() &&
-      a.getDate() === b.getDate();
-
-    let prefix = '';
-    if (sameDay(d, today)) prefix = 'Astazi · ';
-    else if (sameDay(d, yesterday)) prefix = 'Ieri · ';
-
-    return `${prefix}${d.getDate()} ${LUNI_RO[d.getMonth()]} ${d.getFullYear()}`;
-  } catch {
-    return isoDate;
+@media (max-width: 639px) {
+  .carousel-card {
+    flex: 0 0 100%;
   }
 }
 
-function isToday(isoDate) {
-  if (!isoDate) return false;
-  try {
-    const d = new Date(isoDate);
-    const today = new Date();
-    return d.getFullYear() === today.getFullYear() &&
-           d.getMonth() === today.getMonth() &&
-           d.getDate() === today.getDate();
-  } catch {
-    return false;
+/* ============================================
+   SAGETI NAVIGARE
+   ============================================ */
+.carousel-arrow {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  background: rgba(46, 213, 115, 0.92);
+  color: #0a0e14;
+  border: none;
+  cursor: pointer;
+  z-index: 10;
+  font-size: 26px;
+  font-weight: bold;
+  line-height: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  transition: opacity 0.25s ease, background 0.25s ease, transform 0.25s ease;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+  padding-bottom: 3px;
+}
+
+.news-carousel:hover .carousel-arrow {
+  opacity: 1;
+}
+
+.carousel-arrow:hover {
+  background: #2ed573;
+  transform: translateY(-50%) scale(1.08);
+}
+
+.carousel-arrow-left {
+  left: -4px;
+}
+
+.carousel-arrow-right {
+  right: -4px;
+}
+
+/* Pe touch devices - mereu vizibile dar mai discrete */
+@media (hover: none) {
+  .carousel-arrow {
+    opacity: 0.7;
+    width: 38px;
+    height: 38px;
+    font-size: 22px;
   }
 }
 
-function dayKey(isoDate) {
-  if (!isoDate) return '0000-00-00';
-  try {
-    return new Date(isoDate).toISOString().split('T')[0];
-  } catch {
-    return String(isoDate).split('T')[0];
+/* ============================================
+   INDICATORI (dots)
+   ============================================ */
+.carousel-indicators {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  margin-top: 16px;
+}
+
+.carousel-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.2);
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  transition: all 0.3s ease;
+}
+
+.carousel-dot:hover {
+  background: rgba(46, 213, 115, 0.5);
+  transform: scale(1.2);
+}
+
+.carousel-dot.active {
+  background: #2ed573;
+  width: 24px;
+  border-radius: 4px;
+  box-shadow: 0 0 8px rgba(46, 213, 115, 0.5);
+}
+
+/* ============================================
+   BARA DE PROGRES (auto-play indicator)
+   ============================================ */
+.carousel-progress {
+  position: relative;
+  height: 2px;
+  background: rgba(255, 255, 255, 0.06);
+  border-radius: 2px;
+  margin: 12px 4px 0;
+  overflow: hidden;
+}
+
+.carousel-progress-bar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 0%;
+  background: linear-gradient(90deg, #2ed573, #7bed9f);
+  border-radius: 2px;
+  box-shadow: 0 0 6px rgba(46, 213, 115, 0.6);
+}
+
+/* ============================================
+   TICKET TABS (modal bilete)
+   ============================================ */
+.ticket-tabs {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 16px;
+  flex-wrap: wrap;
+}
+
+.ticket-tab {
+  flex: 1;
+  min-width: 100px;
+  padding: 10px 12px;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 10px;
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 13px;
+  cursor: pointer;
+  transition: all 0.2s;
+  text-align: center;
+  line-height: 1.4;
+}
+
+.ticket-tab small {
+  font-size: 11px;
+  opacity: 0.7;
+  font-weight: normal;
+}
+
+.ticket-tab:hover {
+  background: rgba(46, 213, 115, 0.12);
+  border-color: rgba(46, 213, 115, 0.35);
+}
+
+.ticket-tab.active {
+  background: rgba(46, 213, 115, 0.18);
+  border-color: #2ed573;
+  color: #fff;
+  font-weight: 600;
+}
+
+.match-pick .pill-green {
+  margin-right: 8px;
+  font-size: 11px;
+  vertical-align: middle;
+}
+
+
+
+/* =====================================================
+   FIX FINAL MOBILE, NEWS CAROUSEL + NAV
+   ===================================================== */
+
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+.news-card,
+.match-card,
+.glass-card,
+.modal-panel,
+.news-carousel,
+.carousel-viewport,
+.carousel-track,
+.news-day-group,
+.news-grid,
+.matches-grid {
+  min-width: 0;
+}
+
+.news-card h3,
+.news-card p,
+.match-card h3,
+.reason,
+.league,
+.pill {
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+
+.news-summary {
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  word-break: break-word;
+}
+
+.news-card.is-expanded .news-summary {
+  display: block;
+  -webkit-line-clamp: unset;
+  overflow: visible;
+}
+
+.read-more-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 0 18px;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: var(--green);
+  font-family: inherit;
+  font-size: 13px;
+  font-weight: 900;
+  cursor: pointer;
+}
+
+.read-more-btn:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 900px) {
+  .nav-actions {
+    gap: 8px;
+  }
+
+  .nav-link {
+    display: inline-flex !important;
+    font-size: 13px;
   }
 }
 
-async function loadJson(path, fallback) {
-  try {
-    const response = await fetch(`${path}?v=${Date.now()}`, { cache: 'no-store' });
-    if (!response.ok) throw new Error(`Nu pot incarca ${path}`);
-    return await response.json();
-  } catch (error) {
-    console.warn(error.message);
-    return fallback;
+@media (max-width: 639px) {
+  body {
+    overflow-x: hidden;
+  }
+
+  .site-header {
+    z-index: 100;
+  }
+
+  .nav-shell {
+    padding: 10px 12px !important;
+    gap: 8px;
+  }
+
+  .brand {
+    gap: 8px;
+    min-width: 0;
+  }
+
+  .brand-mark {
+    width: 38px;
+    height: 38px;
+    border-radius: 12px;
+    font-size: 14px;
+    flex: 0 0 auto;
+  }
+
+  .brand strong {
+    font-size: 12px;
+    line-height: 1.15;
+    white-space: nowrap;
+  }
+
+  .brand small {
+    display: none !important;
+  }
+
+  .nav-actions {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    flex: 0 0 auto;
+  }
+
+  .nav-link {
+    display: inline-flex !important;
+    align-items: center;
+    justify-content: center;
+    padding: 8px 8px;
+    border-radius: 999px;
+    background: rgba(255,255,255,.045);
+    border: 1px solid var(--line);
+    color: var(--text);
+    font-size: 12px;
+    line-height: 1;
+  }
+
+  .nav-actions .btn {
+    width: auto !important;
+    padding: 9px 10px !important;
+    font-size: 12px;
+    white-space: nowrap;
+  }
+
+  main {
+    width: 100%;
+    padding: 34px 14px 34px !important;
+    overflow: hidden;
+  }
+
+  .hero {
+    min-height: auto;
+    padding: 4rem 0 2.5rem !important;
+    gap: 1.4rem !important;
+  }
+
+  .hero h1,
+  .hero-copy h1 {
+    font-size: clamp(36px, 11vw, 48px) !important;
+    line-height: 1 !important;
+    letter-spacing: -.05em;
+  }
+
+  .hero-text {
+    font-size: 15px;
+    line-height: 1.6;
+  }
+
+  .content-section {
+    width: 100%;
+    max-width: 100%;
+    margin-top: 58px;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    overflow: hidden;
+  }
+
+  #stiri {
+    padding: 22px 12px !important;
+    border-radius: 22px;
+  }
+
+  .section-head h2 {
+    font-size: 38px;
+    line-height: 1.05;
+  }
+
+  .news-grid {
+    display: block !important;
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .news-day-header {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 10px;
+    padding: 18px 0 14px;
+  }
+
+  .news-day-header h3 {
+    font-size: 22px;
+    line-height: 1.2;
+  }
+
+  .news-day-group {
+    display: grid;
+    grid-template-columns: 1fr !important;
+    gap: 14px;
+    width: 100%;
+  }
+
+  .news-carousel {
+    width: 100%;
+    max-width: 100%;
+    margin: 0 0 26px;
+    padding: 0 !important;
+    overflow: visible;
+  }
+
+  .carousel-viewport {
+    width: 100%;
+    max-width: 100%;
+    margin: 0 !important;
+    overflow: hidden;
+    border-radius: 22px;
+  }
+
+  .carousel-track {
+    display: flex;
+    gap: 0 !important;
+    width: 100%;
+  }
+
+  .carousel-card {
+    flex: 0 0 100% !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 100% !important;
+  }
+
+  .news-card {
+    width: 100%;
+    max-width: 100%;
+    padding: 22px 18px !important;
+    border-radius: 22px !important;
+    overflow: hidden;
+    transform: none !important;
+  }
+
+  .news-card:hover,
+  .match-card:hover {
+    transform: none !important;
+  }
+
+  .news-card h3 {
+    font-size: 22px !important;
+    line-height: 1.23 !important;
+    margin-bottom: 12px;
+  }
+
+  .news-summary,
+  .news-card p {
+    font-size: 15px !important;
+    line-height: 1.6 !important;
+    max-width: 100%;
+  }
+
+  .news-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .news-meta .pill {
+    max-width: 100%;
+    white-space: normal;
+    line-height: 1.3;
+  }
+
+  .read-more-btn {
+    margin: 0 0 18px;
+    font-size: 14px;
+  }
+
+  .carousel-arrow {
+    top: 50% !important;
+    width: 36px !important;
+    height: 36px !important;
+    opacity: .92 !important;
+    font-size: 22px !important;
+    z-index: 30;
+  }
+
+  .carousel-arrow-left {
+    left: 8px !important;
+  }
+
+  .carousel-arrow-right {
+    right: 8px !important;
+  }
+
+  .carousel-indicators {
+    margin-top: 14px;
+  }
+
+  .carousel-progress {
+    margin: 12px 0 0;
+  }
+
+  .matches-grid {
+    display: grid;
+    grid-template-columns: 1fr !important;
+    gap: 14px;
+    width: 100%;
+  }
+
+  .match-card {
+    padding: 18px !important;
+    border-radius: 22px !important;
+    overflow: hidden;
+  }
+
+  .match-top {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+
+  .odd-box {
+    width: 82px;
   }
 }
 
-async function init() {
-  const [newsData, matchesData] = await Promise.all([
-    loadJson('stiri.json', { updated_at: null, stiri: [] }),
-    loadJson('meciuri.json', { updated_at: null, meciuri: [], bilete_sugerate: [] })
-  ]);
-
-  state.stiri = Array.isArray(newsData.stiri) ? newsData.stiri : [];
-  state.meciuri = Array.isArray(matchesData.meciuri) ? matchesData.meciuri : [];
-  state.bilete = Array.isArray(matchesData.bilete_sugerate) ? matchesData.bilete_sugerate : [];
-  state.meta = {
-    newsUpdated: newsData.updated_at,
-    matchesUpdated: matchesData.updated_at
-  };
-
-  renderNews();
-  renderMatches();
-  renderStats();
-}
-
-function renderStats() {
-  $('#newsCount').textContent = state.stiri.length;
-  $('#matchesCount').textContent = state.meciuri.length;
-
-  const avg = state.meciuri.length
-    ? Math.round(state.meciuri.reduce((sum, item) => sum + Number(item.scor_incredere || 0), 0) / state.meciuri.length)
-    : 0;
-
-  $('#avgConfidence').textContent = `${avg}%`;
-  $('#lastUpdate').textContent = formatDate(state.meta.matchesUpdated || state.meta.newsUpdated);
-}
-
-// ============================================================
-// RENDER STIRI - cu carusel pe zile
-// ============================================================
-
-function renderNews() {
-  // Cleanup carusele vechi
-  stopActiveCarousel();
-
-  if (!state.stiri.length) {
-    newsGrid.innerHTML = emptyCard('Pregatim selectia zilei. Stirile sportive apar aici de doua ori pe zi.');
-    return;
+@media (max-width: 380px) {
+  .brand strong {
+    font-size: 11px;
   }
 
-  // Grupare pe zile
-  const groups = {};
-  state.stiri.forEach(item => {
-    const dateField = item.data_publicare || state.meta.newsUpdated || new Date().toISOString();
-    const key = dayKey(dateField);
-    if (!groups[key]) groups[key] = { iso: dateField, items: [] };
-    groups[key].items.push(item);
-  });
-
-  const sortedKeys = Object.keys(groups).sort().reverse();
-
-  let html = '';
-  sortedKeys.forEach((key, dayIdx) => {
-    const grp = groups[key];
-    const isCurrentDay = isToday(grp.iso);
-    const useCarousel = grp.items.length >= CAROUSEL_MIN_NEWS;
-    const carouselId = `carousel-${key}`;
-
-    html += `
-      <div class="news-day-header">
-        <h3>${escapeHtml(formatDayHeader(grp.iso))}</h3>
-        <span class="pill pill-green">${grp.items.length} ${grp.items.length === 1 ? 'stire' : 'stiri'}</span>
-      </div>
-    `;
-
-    if (useCarousel) {
-      html += renderCarousel(carouselId, grp.items, isCurrentDay);
-    } else {
-      // Sub prag: grila simpla cu fade-in cascada
-      html += `<div class="news-day-group">${grp.items.map((item, i) =>
-        renderNewsCard(item, i)
-      ).join('')}</div>`;
-    }
-  });
-
-  newsGrid.innerHTML = html;
-
-  // Activeaza caruselele
-  document.querySelectorAll('.news-carousel').forEach(carousel => {
-    initCarousel(carousel);
-  });
-}
-
-function renderCarousel(carouselId, items, isAutoplay) {
-  const cards = items.map((item, i) => renderNewsCard(item, i, true)).join('');
-  return `
-    <div class="news-carousel" id="${carouselId}" data-autoplay="${isAutoplay ? '1' : '0'}">
-      <button class="carousel-arrow carousel-arrow-left" aria-label="Anterior">‹</button>
-
-      <div class="carousel-viewport">
-        <div class="carousel-track">${cards}</div>
-      </div>
-
-      <button class="carousel-arrow carousel-arrow-right" aria-label="Urmator">›</button>
-
-      <div class="carousel-indicators"></div>
-
-      ${isAutoplay ? '<div class="carousel-progress"><div class="carousel-progress-bar"></div></div>' : ''}
-    </div>
-  `;
-}
-
-function renderNewsCard(item, index, inCarousel = false) {
-  const cls = inCarousel ? 'news-card carousel-card' : 'news-card';
-  const delay = inCarousel ? 0 : index * 60;
-
-  return `
-    <article class="${cls}" style="animation-delay:${delay}ms">
-      <span class="pill pill-green">${escapeHtml(item.categorie || 'Fotbal')}</span>
-
-      <h3>${escapeHtml(item.titlu || 'Stire fara titlu')}</h3>
-
-      <p class="news-summary">${escapeHtml(item.rezumat || '')}</p>
-
-      <button class="read-more-btn" type="button">
-        Citeste mai mult
-      </button>
-
-      <div class="news-meta">
-        ${(item.surse || []).slice(0, 3).map(source => `<span class="pill">${escapeHtml(source)}</span>`).join('')}
-        ${item.data_afisaj ? `<span class="pill pill-time">${escapeHtml(item.data_afisaj)}</span>` : ''}
-      </div>
-    </article>
-  `;
-}
-
-// ============================================================
-// LOGICA CARUSEL
-// ============================================================
-
-function getCardsPerView() {
-  const w = window.innerWidth;
-  if (w < 640) return 1;
-  if (w < 1024) return 2;
-  return 3;
-}
-
-function initCarousel(carousel) {
-  const track = carousel.querySelector('.carousel-track');
-  const cards = track.querySelectorAll('.carousel-card');
-  const indicatorsBox = carousel.querySelector('.carousel-indicators');
-  const arrowLeft = carousel.querySelector('.carousel-arrow-left');
-  const arrowRight = carousel.querySelector('.carousel-arrow-right');
-  const progressBar = carousel.querySelector('.carousel-progress-bar');
-  const isAutoplay = carousel.dataset.autoplay === '1';
-
-  let cardsPerView = getCardsPerView();
-  let totalPages = Math.max(1, Math.ceil(cards.length / cardsPerView));
-  let currentPage = 0;
-  let autoTimer = null;
-  let progressTimer = null;
-  let isPaused = false;
-  let touchStartX = 0;
-
-  // Construire indicatori
-  function buildIndicators() {
-    indicatorsBox.innerHTML = '';
-    for (let i = 0; i < totalPages; i++) {
-      const dot = document.createElement('button');
-      dot.className = 'carousel-dot';
-      if (i === currentPage) dot.classList.add('active');
-      dot.setAttribute('aria-label', `Pagina ${i + 1}`);
-      dot.addEventListener('click', () => goToPage(i, true));
-      indicatorsBox.appendChild(dot);
-    }
+  .nav-link {
+    padding: 7px 6px;
+    font-size: 11px;
   }
 
-  function updateIndicators() {
-    indicatorsBox.querySelectorAll('.carousel-dot').forEach((dot, i) => {
-      dot.classList.toggle('active', i === currentPage);
-    });
+  .nav-actions .btn {
+    padding: 8px 8px !important;
+    font-size: 11px;
   }
 
-  function goToPage(page, userInteraction = false) {
-    currentPage = ((page % totalPages) + totalPages) % totalPages;
-    const cardWidth = cards[0] ? cards[0].getBoundingClientRect().width : 0;
-    const gap = 16;
-    const offset = currentPage * cardsPerView * (cardWidth + gap);
-    track.style.transform = `translateX(-${offset}px)`;
-    updateIndicators();
-
-    if (userInteraction && isAutoplay) {
-      restartAutoplay();
-    }
-  }
-
-  function next() { goToPage(currentPage + 1); }
-  function prev() { goToPage(currentPage - 1); }
-
-  function startAutoplay() {
-    if (!isAutoplay || isPaused) return;
-    stopAutoplay();
-    if (progressBar) {
-      progressBar.style.transition = 'none';
-      progressBar.style.width = '0%';
-      // Force reflow
-      void progressBar.offsetWidth;
-      progressBar.style.transition = `width ${CAROUSEL_INTERVAL}ms linear`;
-      progressBar.style.width = '100%';
-    }
-    autoTimer = setTimeout(() => {
-      next();
-      startAutoplay();
-    }, CAROUSEL_INTERVAL);
-  }
-
-  function stopAutoplay() {
-    if (autoTimer) { clearTimeout(autoTimer); autoTimer = null; }
-    if (progressBar) {
-      progressBar.style.transition = 'none';
-      progressBar.style.width = '0%';
-    }
-  }
-
-  function restartAutoplay() {
-    stopAutoplay();
-    if (!isPaused) startAutoplay();
-  }
-
-  // Recalculare la resize
-  function handleResize() {
-    const newCardsPerView = getCardsPerView();
-    if (newCardsPerView !== cardsPerView) {
-      cardsPerView = newCardsPerView;
-      totalPages = Math.max(1, Math.ceil(cards.length / cardsPerView));
-      currentPage = Math.min(currentPage, totalPages - 1);
-      buildIndicators();
-      goToPage(currentPage);
-    } else {
-      goToPage(currentPage);
-    }
-  }
-
-  // Event listeners
-  arrowLeft.addEventListener('click', () => { prev(); restartAutoplay(); });
-  arrowRight.addEventListener('click', () => { next(); restartAutoplay(); });
-
-  carousel.addEventListener('mouseenter', () => {
-    isPaused = true;
-    stopAutoplay();
-  });
-  carousel.addEventListener('mouseleave', () => {
-    isPaused = false;
-    if (isAutoplay) startAutoplay();
-  });
-
-  // Swipe pe mobile
-  carousel.addEventListener('touchstart', (e) => {
-    touchStartX = e.touches[0].clientX;
-    isPaused = true;
-    stopAutoplay();
-  }, { passive: true });
-
-  carousel.addEventListener('touchend', (e) => {
-    const touchEndX = e.changedTouches[0].clientX;
-    const diff = touchStartX - touchEndX;
-    if (Math.abs(diff) > 50) {
-      if (diff > 0) next();
-      else prev();
-    }
-    setTimeout(() => {
-      isPaused = false;
-      if (isAutoplay) startAutoplay();
-    }, 1500);
-  }, { passive: true });
-
-  window.addEventListener('resize', handleResize);
-
-  // Stocheaza referinte pentru cleanup
-  carousel._cleanup = () => {
-    stopAutoplay();
-    window.removeEventListener('resize', handleResize);
-  };
-
-  // Init
-  buildIndicators();
-  goToPage(0);
-  if (isAutoplay) {
-    activeCarousel = carousel;
-    startAutoplay();
+  .news-card h3 {
+    font-size: 20px !important;
   }
 }
-
-function stopActiveCarousel() {
-  document.querySelectorAll('.news-carousel').forEach(c => {
-    if (c._cleanup) c._cleanup();
-  });
-  activeCarousel = null;
-}
-
-// ============================================================
-// RENDER MECIURI
-// ============================================================
-
-function renderMatches() {
-  if (!state.meciuri.length) {
-    matchesGrid.innerHTML = emptyCard('NEXAS AI nu a gasit evenimente care sa treaca de filtrul nostru strict de incredere. Calitatea primeaza.');
-    return;
-  }
-
-  matchesGrid.innerHTML = state.meciuri.map((match) => `
-    <article class="match-card">
-      <div class="match-top">
-        <div>
-          <h3>${escapeHtml(match.home || '')} vs ${escapeHtml(match.away || '')}</h3>
-          <div class="league">${escapeHtml(match.liga || '')} · ${escapeHtml(match.ora || '')}${match.data ? ' · ' + escapeHtml(match.data) : ''}</div>
-        </div>
-        <div class="odd-box"><small>cota</small>${Number(match.cota || 0).toFixed(2)}</div>
-      </div>
-      <div class="match-pick">
-        ${match.tip_pariu ? `<span class="pill pill-green">${escapeHtml(match.tip_pariu)}</span>` : ''}
-        Pronostic: <strong>${escapeHtml(match.pronostic || '')}</strong>
-      </div>
-      <div class="match-stats">
-        <div><span>${Number(match.scor_incredere || 0)}%</span><small>incredere</small></div>
-        <div><span>${escapeHtml(match.forma_home || '-')}</span><small>forma gazde</small></div>
-        <div><span>${escapeHtml(match.forma_away || '-')}</span><small>forma oaspeti</small></div>
-      </div>
-      <p class="reason">${escapeHtml(match.motiv || '')}</p>
-    </article>
-  `).join('');
-}
-
-function emptyCard(message) {
-  return `<article class="news-card"><h3>Date indisponibile</h3><p>${escapeHtml(message)}</p></article>`;
-}
-
-// ============================================================
-// MODAL BILETE
-// ============================================================
-
-function generateTicket() {
-  if (state.bilete && state.bilete.length > 0) {
-    showTicketSelector();
-    return;
-  }
-
-  const pool = [...state.meciuri].filter(match => Number(match.cota) > 1);
-  if (pool.length < 3) {
-    ticketBody.innerHTML = '<p class="modal-note">Ai nevoie de minimum 3 meciuri pentru a genera biletul.</p>';
-    ticketOdd.textContent = '0.00';
-    openModal();
-    return;
-  }
-
-  const sorted = pool.sort((a, b) => Number(b.scor_incredere || 0) - Number(a.scor_incredere || 0));
-  const selected = sorted.slice(0, Math.min(5, sorted.length));
-  renderTicket('Bilet automat', selected);
-}
-
-function showTicketSelector() {
-  const buttons = state.bilete.map((bilet, idx) => `
-    <button class="ticket-tab ${idx === 0 ? 'active' : ''}" data-bilet-idx="${idx}">
-      ${escapeHtml(bilet.nume)}<br>
-      <small>cota ${Number(bilet.cota_totala || 0).toFixed(2)} · ${Number(bilet.incredere_medie || 0).toFixed(0)}%</small>
-    </button>
-  `).join('');
-
-  ticketBody.innerHTML = `
-    <div class="ticket-tabs">${buttons}</div>
-    <div id="ticketContent"></div>
-  `;
-
-  document.querySelectorAll('.ticket-tab').forEach(btn => {
-    btn.addEventListener('click', () => {
-      document.querySelectorAll('.ticket-tab').forEach(b => b.classList.remove('active'));
-      btn.classList.add('active');
-      const idx = parseInt(btn.dataset.biletIdx, 10);
-      showBiletContent(idx);
-    });
-  });
-
-  showBiletContent(0);
-  openModal();
-}
-
-function showBiletContent(idx) {
-  const bilet = state.bilete[idx];
-  if (!bilet) return;
-
-  const meciuriBilet = bilet.fixture_ids
-    .map(fid => state.meciuri.find(m => m.fixture_id === fid))
-    .filter(Boolean);
-
-  const content = $('#ticketContent');
-  if (!content) return;
-
-  content.innerHTML = meciuriBilet.map(match => `
-    <div class="ticket-item">
-      <div>
-        <b>${escapeHtml(match.home)} vs ${escapeHtml(match.away)}</b><br>
-        <small>${escapeHtml(match.tip_pariu || '')} · ${escapeHtml(match.pronostic || '')} · ${Number(match.scor_incredere || 0)}%</small>
-      </div>
-      <strong>${Number(match.cota || 0).toFixed(2)}</strong>
-    </div>
-  `).join('');
-
-  ticketOdd.textContent = Number(bilet.cota_totala || 0).toFixed(2);
-}
-
-function renderTicket(label, selected) {
-  const totalOdd = selected.reduce((total, match) => total * Number(match.cota || 1), 1);
-
-  ticketBody.innerHTML = `
-    <p class="modal-note"><strong>${escapeHtml(label)}</strong></p>
-    ${selected.map(match => `
-      <div class="ticket-item">
-        <div>
-          <b>${escapeHtml(match.home)} vs ${escapeHtml(match.away)}</b><br>
-          <small>${escapeHtml(match.tip_pariu || '')} · ${escapeHtml(match.pronostic || '')} · ${Number(match.scor_incredere || 0)}%</small>
-        </div>
-        <strong>${Number(match.cota || 0).toFixed(2)}</strong>
-      </div>
-    `).join('')}
-  `;
-
-  ticketOdd.textContent = totalOdd.toFixed(2);
-  openModal();
-}
-
-function openModal() {
-  modal.classList.add('is-open');
-  modal.setAttribute('aria-hidden', 'false');
-}
-
-function closeModal() {
-  modal.classList.remove('is-open');
-  modal.setAttribute('aria-hidden', 'true');
-}
-
-function escapeHtml(value) {
-  return String(value ?? '')
-    .replaceAll('&', '&amp;')
-    .replaceAll('<', '&lt;')
-    .replaceAll('>', '&gt;')
-    .replaceAll('"', '&quot;')
-    .replaceAll("'", '&#039;');
-}
-
-['#makeTicketTop', '#makeTicketHero', '#makeTicketMain'].forEach(selector => {
-  const button = $(selector);
-  if (button) button.addEventListener('click', generateTicket);
-});
-
-document.querySelectorAll('[data-close-modal]').forEach(el => el.addEventListener('click', closeModal));
-document.addEventListener('keydown', event => {
-  if (event.key === 'Escape') closeModal();
-});
-
-init();
-document.addEventListener('click', function (event) {
-  const button = event.target.closest('.read-more-btn');
-  if (!button) return;
-
-  const card = button.closest('.news-card');
-  if (!card) return;
-
-  card.classList.toggle('is-expanded');
-
-  button.textContent = card.classList.contains('is-expanded')
-    ? 'Arata mai putin'
-    : 'Citeste mai mult';
-});
