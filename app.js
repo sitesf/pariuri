@@ -199,11 +199,19 @@ function renderCarousel(carouselId, items, isAutoplay) {
 function renderNewsCard(item, index, inCarousel = false) {
   const cls = inCarousel ? 'news-card carousel-card' : 'news-card';
   const delay = inCarousel ? 0 : index * 60;
+
   return `
     <article class="${cls}" style="animation-delay:${delay}ms">
       <span class="pill pill-green">${escapeHtml(item.categorie || 'Fotbal')}</span>
+
       <h3>${escapeHtml(item.titlu || 'Stire fara titlu')}</h3>
-      <p>${escapeHtml(item.rezumat || '')}</p>
+
+      <p class="news-summary">${escapeHtml(item.rezumat || '')}</p>
+
+      <button class="read-more-btn" type="button">
+        Citeste mai mult
+      </button>
+
       <div class="news-meta">
         ${(item.surse || []).slice(0, 3).map(source => `<span class="pill">${escapeHtml(source)}</span>`).join('')}
         ${item.data_afisaj ? `<span class="pill pill-time">${escapeHtml(item.data_afisaj)}</span>` : ''}
@@ -536,3 +544,16 @@ document.addEventListener('keydown', event => {
 });
 
 init();
+document.addEventListener('click', function (event) {
+  const button = event.target.closest('.read-more-btn');
+  if (!button) return;
+
+  const card = button.closest('.news-card');
+  if (!card) return;
+
+  card.classList.toggle('is-expanded');
+
+  button.textContent = card.classList.contains('is-expanded')
+    ? 'Arata mai putin'
+    : 'Citeste mai mult';
+});
