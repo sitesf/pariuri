@@ -301,8 +301,76 @@ def is_already_in_history(candidate_title: str, history: List[Dict[str, Any]]) -
 
 
 # ============================================================
-# LLM (GEMINI)
+# TRADUCERE FALLBACK (Google Translate gratuit, fara cheie)
 # ============================================================
+
+# Dictionar mic pentru corectii dupa Google Translate
+FOOTBALL_GLOSSARY_RO = {
+    "manager": "antrenor",
+    "Manager": "Antrenor",
+    "draw": "egal",
+    "Draw": "Egal",
+    "goalkeeper": "portar",
+    "Goalkeeper": "Portar",
+    "transfer window": "perioada de transferuri",
+    "Transfer window": "Perioada de transferuri",
+    "summer transfer": "transfer de vara",
+    "winter transfer": "transfer de iarna",
+    "matchday": "etapa",
+    "Matchday": "Etapa",
+    "fixture": "meci",
+    "Fixture": "Meci",
+    "kick-off": "start",
+    "Kick-off": "Start",
+    "extra time": "prelungiri",
+    "Extra time": "Prelungiri",
+    "penalties": "lovituri de departajare",
+    "Penalties": "Lovituri de departajare",
+    "head coach": "antrenor principal",
+    "Head coach": "Antrenor principal",
+    "club world cup": "Cupa Mondiala a Cluburilor",
+    "Club World Cup": "Cupa Mondiala a Cluburilor",
+}
+
+
+def google_translate_free(text: str, target: str = "ro", source: str = "en") -> str:
+    """Traducere prin endpoint-ul public Google Translate. Fara cheie, fara cost."""
+    if not text:
+        return text
+    try:
+        url = "https://translate.googleapis.com/translate_a/single"
+        params = {
+            "client": "gtx",
+            "sl": source,
+            "tl": target,
+            "dt": "t",
+            "q": text[:5000],
+        }
+        response = requests.get(url, params=params, timeout=15)
+        response.raise_for_status()
+        data = response.json()
+        # Format raspuns: [[[translation, original, ...], ...], ...]
+        translated = "".join([seg[0] for seg in data[0] if seg[0]])
+        return translated.strip() or text
+    except Exception as exc:
+        print(f"[google-translate] esec: {exc}")
+        return text
+
+
+def apply_glossary(text: str) -> str:
+    """Corecteaza termenii fotbalistici dupa traducerea Google."""
+    result = text
+    for en, ro in FOOTBALL_GLOSSARY_RO.items():
+        result = result.replace(en, ro)
+    return result
+
+
+def translate_to_romanian(text: str) -> str:
+    """Wrapper care traduce + aplica glossarul."""
+    if not text or not text.strip():
+        return text
+    translated = google_translate_free(text, target="ro", source="en")
+    return apply_glossary(translated)
 
 def build_prompt(items: List[Dict[str, Any]], history_titles: List[str]) -> str:
     compact = json.dumps(items[:MAX_TOTAL_FOR_LLM], ensure_ascii=False, indent=2)
@@ -340,24 +408,47 @@ Date sursa de procesat:
 
 
 def call_gemini(prompt: str) -> Dict[str, Any]:
+    """Apel Gemini cu retry automat 3x pentru erori tranzitorii (503, 429, timeout)."""
     if not GEMINI_API_KEY:
         raise RuntimeError("GEMINI_API_KEY lipseste")
     model = os.getenv("GEMINI_MODEL", "gemini-2.5-flash")
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={GEMINI_API_KEY}"
-    response = requests.post(
-        url,
-        json={
-            "contents": [{"parts": [{"text": prompt}]}],
-            "generationConfig": {
-                "temperature": 0.25,
-                "responseMimeType": "application/json",
-            },
-        },
-        timeout=60,
-    )
-    response.raise_for_status()
-    content = response.json()["candidates"][0]["content"]["parts"][0]["text"]
-    return json.loads(content)
+
+    last_error = None
+    for attempt in range(3):
+        try:
+            response = requests.post(
+                url,
+                json={
+                    "contents": [{"parts": [{"text": prompt}]}],
+                    "generationConfig": {
+                        "temperature": 0.25,
+                        "responseMimeType": "application/json",
+                    },
+                },
+                timeout=60,
+            )
+            # Erori tranzitorii care merita retry
+            if response.status_code in (503, 429, 500, 502, 504):
+                last_error = f"HTTP {response.status_code}: {response.text[:200]}"
+                wait = (3 ** attempt)  # 1s, 3s, 9s
+                print(f"[gemini] {last_error} - retry {attempt + 1}/3 dupa {wait}s")
+                time.sleep(wait)
+                continue
+            response.raise_for_status()
+            content = response.json()["candidates"][0]["content"]["parts"][0]["text"]
+            return json.loads(content)
+        except requests.exceptions.Timeout as exc:
+            last_error = f"timeout: {exc}"
+            wait = (3 ** attempt)
+            print(f"[gemini] {last_error} - retry {attempt + 1}/3 dupa {wait}s")
+            time.sleep(wait)
+            continue
+        except Exception as exc:
+            # Erori non-tranzitorii (404 model deprecat, 401 cheie gresita, etc.) - nu retry
+            raise
+
+    raise RuntimeError(f"Gemini esec dupa 3 retries: {last_error}")
 
 
 def call_openai(prompt: str) -> Dict[str, Any]:
@@ -440,8 +531,14 @@ def build_new_news(payload: Dict[str, Any], history: List[Dict[str, Any]]) -> Li
 
 
 def fallback_from_rss(items: List[Dict[str, Any]], history: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
-    """Daca LLM-ul a esuat la selectie: ia primele 3 stiri RSS distincte care nu sunt in istoric.
-    Daca Gemini e disponibil, incerc cel putin sa traduc titlurile in romana."""
+    """Lant 4-nivele de fallback pentru a livra stiri in romana indiferent ce cade.
+
+    Nivel 1: selectie deja facuta de Gemini (in fluxul principal, nu aici)
+    Nivel 2: Gemini doar pentru traducere (mai simplu decat selectie)
+    Nivel 3: OpenAI daca exista cheia
+    Nivel 4: Google Translate gratuit (fara cheie) + glossar fotbal RO
+    Final: engleza originala (foarte improbabil sa ajungem aici)
+    """
     fallback_items: List[Dict[str, Any]] = []
     for item in items:
         title = item["title"]
@@ -452,17 +549,20 @@ def fallback_from_rss(items: List[Dict[str, Any]], history: List[Dict[str, Any]]
         fallback_items.append({
             "id": title_hash(title),
             "titlu": title,
-            "rezumat": item.get("summary") or "(rezumat indisponibil; sursa originala in lista de mai sus)",
+            "rezumat": item.get("summary") or "(rezumat indisponibil)",
             "categorie": "Fotbal",
             "surse": item.get("sources", []),
             "data_publicare": now_iso(),
             "data_afisaj": now_local_display(),
         })
-        if len(fallback_items) >= 3:
+        if len(fallback_items) >= NEWS_PER_RUN:
             break
 
-    # Incercare de traducere in romana cu un apel simplu Gemini
-    if fallback_items and GEMINI_API_KEY:
+    if not fallback_items:
+        return fallback_items
+
+    # NIVEL 2: incercam Gemini doar pentru traducere
+    if GEMINI_API_KEY:
         try:
             translate_prompt = f"""Traduci urmatoarele stiri sportive din engleza in romana.
 Pastreaza acelasi numar de elemente si aceeasi ordine. Nu modifica structura, doar traduci textul.
@@ -487,9 +587,54 @@ Date de tradus:
                         fallback_items[i]["titlu"] = new_titlu
                     if new_rezumat:
                         fallback_items[i]["rezumat"] = new_rezumat
-            print("[fallback] traducere Gemini reusita")
+            print("[fallback-niv2] traducere Gemini reusita")
+            return fallback_items
         except Exception as exc:
-            print(f"[fallback] traducere Gemini esec: {exc}. Stirile raman in engleza.")
+            print(f"[fallback-niv2] Gemini traducere esec: {exc}")
+
+    # NIVEL 3: incercam OpenAI daca exista cheia
+    if OPENAI_API_KEY:
+        try:
+            translate_prompt = f"""Traduci urmatoarele stiri sportive din engleza in romana.
+Pastreaza ordinea, structura JSON. Doar traducere.
+
+Returneaza JSON cu schema:
+{{ "stiri": [{{ "titlu": "...", "rezumat": "..." }}] }}
+
+Date:
+{json.dumps([{"titlu": f["titlu"], "rezumat": f["rezumat"]} for f in fallback_items], ensure_ascii=False, indent=2)}
+"""
+            translated = call_openai(translate_prompt)
+            translated_list = translated.get("stiri", [])
+            for i, t in enumerate(translated_list):
+                if i < len(fallback_items):
+                    new_titlu = clean_text(str(t.get("titlu", "")))
+                    new_rezumat = clean_text(str(t.get("rezumat", "")))
+                    if new_titlu:
+                        fallback_items[i]["titlu"] = new_titlu
+                    if new_rezumat:
+                        fallback_items[i]["rezumat"] = new_rezumat
+            print("[fallback-niv3] traducere OpenAI reusita")
+            return fallback_items
+        except Exception as exc:
+            print(f"[fallback-niv3] OpenAI traducere esec: {exc}")
+
+    # NIVEL 4: Google Translate gratuit (fara cheie, ultimul recurs inainte de engleza)
+    print("[fallback-niv4] folosesc Google Translate gratuit")
+    translated_count = 0
+    for item in fallback_items:
+        try:
+            new_titlu = translate_to_romanian(item["titlu"])
+            new_rezumat = translate_to_romanian(item["rezumat"]) if item["rezumat"] else item["rezumat"]
+            if new_titlu and new_titlu != item["titlu"]:
+                item["titlu"] = new_titlu
+                translated_count += 1
+            if new_rezumat:
+                item["rezumat"] = new_rezumat
+        except Exception as exc:
+            print(f"[fallback-niv4] traducere item esec: {exc}")
+            continue
+    print(f"[fallback-niv4] tradus {translated_count}/{len(fallback_items)} cu Google Translate")
 
     return fallback_items
 
