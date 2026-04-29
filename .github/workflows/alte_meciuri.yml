@@ -1,8 +1,11 @@
 name: Automatizare alte meciuri
 
+permissions:
+  contents: write
+
 on:
   schedule:
-    - cron: "0 */6 * * *"   # ruleaza la fiecare 6 ore
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 jobs:
