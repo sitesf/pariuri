@@ -172,19 +172,21 @@
 </div>
 <style>@keyframes blink{0%,100%{opacity:1}50%{opacity:0}}</style>
 
-  <script>
+<script>
 (function(){
-  var words = ['Predicții Sportive','Statistici Avansate','Actualitate Sportivă','Analiză Algoritmică'','Predicții Calculate','Informație Verificată AI'];
+  var words = ['Predicții Sportive','Analize','Informatii verificate,'Automatizare AI ','Decizii Logice','Statistici Avansate'];
   var el = document.getElementById('cycleText');
   var wi=0, ci=0, deleting=false;
   function tick(){
     var w=words[wi];
-    if(!deleting){ el.textContent=w.slice(0,++ci); if(ci===w.length){deleting=true;setTimeout(tick,500);return;} }
+    if(!deleting){ el.textContent=w.slice(0,++ci); if(ci===w.length){deleting=true;setTimeout(tick,600);return;} }
     else{ el.textContent=w.slice(0,--ci); if(ci===0){deleting=false;wi=(wi+1)%words.length;} }
     setTimeout(tick,deleting?40:80);
   }
   tick();
 })();
 </script>
+
+  
 </body>
 </html>
