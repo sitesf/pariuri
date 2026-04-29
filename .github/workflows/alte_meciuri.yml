@@ -1,0 +1,33 @@
+name: Automatizare alte meciuri
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # ruleaza la fiecare 6 ore
+  workflow_dispatch:
+
+jobs:
+  run-agent:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clone repo
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run agent alte meciuri
+        run: python alte_meciuri.py
+
+      - name: Commit & Push JSON
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add alte_meciuri.json
+          git commit -m "update alte meciuri" || echo "no changes"
+          git push
