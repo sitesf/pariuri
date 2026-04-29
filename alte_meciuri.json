@@ -1,0 +1,17 @@
+{
+  "data_start": "2026-04-29",
+  "data_final": "2026-05-03",
+  "updated_at": "2026-04-29T15:10:27.235067+00:00",
+  "surse": [
+    "API-Football",
+    "The Odds API"
+  ],
+  "status_date": "date reale: 0 meciuri gasite, fara filtre de selectie",
+  "numar_meciuri": 0,
+  "configuratie": {
+    "zile_inainte": 5,
+    "target_leagues": [],
+    "filtre_predictie": "nu se aplica"
+  },
+  "meciuri": []
+}
