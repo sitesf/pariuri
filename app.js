@@ -84,7 +84,7 @@ function renderNews() {
 
 function renderMatches() {
   if (!state.meciuri.length) {
-    matchesGrid.innerHTML = emptyCard('Nu exista meciuri in meciuri.json. Ruleaza workflow-ul de meciuri.');
+    matchesGrid.innerHTML = emptyCard('NEXAS AI nu a găsit evenimente care să treacă de filtrul nostru strict de 80% încredere. Calitatea primează.');
     return;
   }
 
