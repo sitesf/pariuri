@@ -35,11 +35,13 @@ jobs:
           pip install requests
 
       - name: Run analiza_meciuri.py
+        # Rulam scriptul din radacina repo-ului, dar specificam calea catre fisierul din scripts/.
+        # Working directory ramane radacina, deci meciuri.json si cache.json vor fi scrise in radacina.
         env:
           API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
           FOOTBALL_DATA_KEY: ${{ secrets.FOOTBALL_DATA_KEY }}
-        run: python analiza_meciuri.py
+        run: python scripts/analiza_meciuri.py
 
       - name: Commit & push meciuri.json + cache.json
         run: |
