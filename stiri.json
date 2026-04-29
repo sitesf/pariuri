@@ -1,11 +1,67 @@
 {
-  "updated_at": null,
+  "updated_at": "2026-04-29T10:15:57.818538+00:00",
+  "updated_at_afisaj": "29 aprilie 2026, 13:15",
+  "configuratie": {
+    "stiri_per_rulare_max": 5,
+    "retentie_zile": 7,
+    "categorie": "Fotbal",
+    "limba": "romana",
+    "surse_principale": [
+      "BBC Sport Football",
+      "Sky Sports Football",
+      "The Guardian Football",
+      "ESPN Soccer",
+      "Goal.com",
+      "ProSport.ro"
+    ]
+  },
+  "numar_stiri": 4,
   "stiri": [
+    {
+      "id": "eff770cf59c7",
+      "titlu": "Chelsea's ex-England defender Bright retires",
+      "rezumat": "Chelsea captain Millie Bright announces she has retired from football with immediate effect because of injury.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-04-29T10:15:57.818405+00:00",
+      "data_afisaj": "29 aprilie 2026, 13:15"
+    },
+    {
+      "id": "5ad91a695e40",
+      "titlu": "A record-breaking semi-final - the antidote to modern football?",
+      "rezumat": "A scintillating semi-final first leg between Paris St-Germain and Bayern Munich left many to wonder if this was the antidote to modern football.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-04-29T10:15:57.818483+00:00",
+      "data_afisaj": "29 aprilie 2026, 13:15"
+    },
+    {
+      "id": "215bdd70ea83",
+      "titlu": "Can Griezmann end his Atletico love story in style?",
+      "rezumat": "Antoine Griezmann's long love affair with Atletico Madrid is drawing to a close, but can the Frenchman bid farewell by securing the Champions League?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-04-29T10:15:57.818529+00:00",
+      "data_afisaj": "29 aprilie 2026, 13:15"
+    },
     {
       "titlu": "Agentul de stiri este pregatit",
       "rezumat": "Dupa configurarea cheilor API in GitHub Secrets, workflow-ul va genera automat trei stiri sportive scurte si obiective.",
       "categorie": "General",
-      "surse": ["RSS", "AI"]
+      "surse": [
+        "RSS",
+        "AI"
+      ],
+      "id": "3642e66b869e",
+      "data_publicare": null,
+      "data_afisaj": ""
     }
   ]
 }
