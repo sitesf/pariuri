@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-29T11:00:08.301095+00:00",
-  "updated_at_afisaj": "29 aprilie 2026, 14:00",
+  "updated_at": "2026-04-29T11:06:50.707890+00:00",
+  "updated_at_afisaj": "29 aprilie 2026, 14:06",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 3,
+  "numar_stiri": 8,
   "stiri": [
+    {
+      "id": "aa4798a1ced3",
+      "titlu": "Câștigătorul Europa League a devenit regizor, actor, DJ și fotograf",
+      "rezumat": "Alfie Whiteman a câștigat anul trecut o medalie de câștigător al Ligii Europa, acum la 27 de ani s-a retras din fotbal și își deschide prima expoziție de fotografie.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-04-29T11:06:24.791018+00:00",
+      "data_afisaj": "29 aprilie 2026, 14:06"
+    },
+    {
+      "id": "39e8eff10f3b",
+      "titlu": "Copiii de la Man Utd au început să strălucească în pre-sezon",
+      "rezumat": "Ce tineri de la Manchester United sunt cel mai probabil să facă presiuni pentru includerea în turneul lor de pre-sezon din iulie?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-04-29T11:06:24.791125+00:00",
+      "data_afisaj": "29 aprilie 2026, 14:06"
+    },
+    {
+      "id": "215bdd70ea83",
+      "titlu": "Poate Griezmann să-și încheie povestea de dragoste cu Atletico în stil?",
+      "rezumat": "Îndelungata poveste de dragoste a lui Antoine Griezmann cu Atletico Madrid se apropie de sfârșit, dar poate francezul să-și ia rămas bun, asigurându-se Liga Campionilor?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-04-29T11:06:24.791190+00:00",
+      "data_afisaj": "29 aprilie 2026, 14:06"
+    },
+    {
+      "id": "cf616a93c71d",
+      "titlu": "De ce Mourinho ar putea fi „caracterul joker final” al Realului",
+      "rezumat": "Cu Real Madrid ieșit din Liga Campionilor și rămânând în urmă în La Liga, zgomotul în jurul viitorului antrenorului Alvaro Arbeloa crește în mod nesurprinzător. Ar putea fi Jose Mourinho răspunsul?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-04-29T11:06:24.791259+00:00",
+      "data_afisaj": "29 aprilie 2026, 14:06"
+    },
+    {
+      "id": "9909fd033603",
+      "titlu": "Femeile din Afganistan pot reveni la competiție",
+      "rezumat": "Femeile din Afganistan vor deveni un „simbol al rezilienței” după ce FIFA le-a aprobat revenirea în competițiile internaționale, spune fostul căpitan Khalida Popal.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-04-29T11:06:24.791325+00:00",
+      "data_afisaj": "29 aprilie 2026, 14:06"
+    },
     {
       "id": "4e4c8da33cb1",
       "titlu": "Chelsea captain Bright retires - what now for ex-England defender?",
