@@ -28,21 +28,20 @@
       <div class="nav-actions">
         <a href="#stiri" class="nav-link">Stiri</a>
         <a href="#meciuri" class="nav-link">Meciuri</a>
-        <button id="toggleAlteBtn" class="nav-link alte-trigger" type="button">
+        <button id="toggleAlteBtn" class="alte-trigger" type="button">
           Alte Meciuri <span class="alte-arrow">▾</span>
         </button>
         <button id="makeTicketTop" class="btn btn-primary">Fa Bilet</button>
       </div>
     </nav>
 
-    <!-- Dropdown Alte Meciuri -->
     <div id="alteDropdown" class="alte-dropdown" aria-hidden="true">
       <div class="alte-dropdown-inner">
         <div class="section-head">
           <p class="eyebrow">Lista completă analizată de agentul AI</p>
           <h2>Alte Meciuri</h2>
         </div>
-        <div id="otherMatchesGrid" class="matches-grid skeleton-area"></div>
+        <div id="otherMatchesGrid" class="matches-grid"></div>
       </div>
     </div>
   </header>
@@ -71,7 +70,7 @@
       <div class="section-head">
         <h2>Știri Sportive</h2>
       </div>
-      <div id="newsGrid" class="news-grid skeleton-area"></div>
+      <div id="newsGrid" class="news-grid"></div>
     </section>
 
     <section id="meciuri" class="content-section section-in delay-2">
@@ -82,7 +81,7 @@
         </div>
         <button id="makeTicketMain" class="btn btn-primary">Fa Bilet</button>
       </div>
-      <div id="matchesGrid" class="matches-grid skeleton-area"></div>
+      <div id="matchesGrid" class="matches-grid"></div>
     </section>
   </main>
 
@@ -107,7 +106,6 @@
 
   <script src="app.js"></script>
 
-  <!-- Three.js mesh background -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
   <script>
   (function () {
@@ -126,7 +124,7 @@
     var baseY = new Float32Array(posArr.length / 3);
     for (var i = 0; i < baseY.length; i++) baseY[i] = posArr[i * 3 + 1];
     var mat = new THREE.MeshBasicMaterial({ color: 0x16a34a, wireframe: true, transparent: true, opacity: 0.4 });
-    var mat2 = new THREE.MeshBasicMaterial({ color: 0x052e16, wireframe: true, transparent: true, opacity: 0.25 });
+    var mat2 = new THREE.MeshBasicMaterial({ color: 0x052e16, wireframe: true, transparent: true, opacity: 0.22 });
     var mesh = new THREE.Mesh(geo, mat);
     var mesh2 = new THREE.Mesh(geo.clone(), mat2);
     mesh2.position.y = -0.6;
@@ -157,7 +155,6 @@
   })();
   </script>
 
-  <!-- Cycling text -->
   <script>
   (function(){
     var words = ['Predicții Sportive','Analize AI','Informatii Verificate','Automatizare AI','Decizii Logice','Statistici Avansate'];
@@ -179,7 +176,6 @@
   })();
   </script>
 
-  <!-- Alte Meciuri dropdown toggle -->
   <script>
   (function(){
     var btn = document.getElementById('toggleAlteBtn');
