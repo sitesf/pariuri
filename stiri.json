@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-30T12:05:47.593613+00:00",
-  "updated_at_afisaj": "30 aprilie 2026, 15:05",
+  "updated_at": "2026-04-30T13:10:59.195109+00:00",
+  "updated_at_afisaj": "30 aprilie 2026, 16:10",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,65 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 28,
+  "numar_stiri": 33,
   "stiri": [
+    {
+      "id": "fc860fcbd6b4",
+      "titlu": "O echipă din play-off-ul Ligii 1 nu a obținut licența pentru cupele europene",
+      "rezumat": "Federația Română de Fotbal a anunțat oficial că o echipă calificată în play-off-ul Ligii 1 nu a îndeplinit criteriile necesare pentru a primi licența UEFA, esențială pentru participarea în competițiile europene. Decizia vine în urma evaluării dosarelor de licențiere, care includ aspecte financiare, infrastructură și administrative. Această situație va afecta clasamentul final și distribuția locurilor pentru Europa League și Conference League, deschizând calea pentru o altă formație din campionatul intern să acceadă în competițiile continentale, în funcție de poziția ocupată la finalul sezonului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-04-30T13:10:59.193332+00:00",
+      "data_afisaj": "30 aprilie 2026, 16:10"
+    },
+    {
+      "id": "538ccbc1905a",
+      "titlu": "Fostul fundaș al Angliei, Ashley Young, se retrage din fotbal la 40 de ani",
+      "rezumat": "Ashley Young, fostul fundaș al naționalei Angliei și al unor cluburi precum Manchester United și Aston Villa, a anunțat că se va retrage din activitatea de fotbalist profesionist la vârsta de 40 de ani, la finalul acestui sezon. Young își va încheia cariera la Ipswich, marcând astfel 23 de ani petrecuți pe teren. De-a lungul carierei sale impresionante, el a câștigat titlul în Premier League și Europa League cu Manchester United, fiind recunoscut pentru versatilitatea și longevitatea sa în fotbalul de top.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-04-30T13:10:59.193822+00:00",
+      "data_afisaj": "30 aprilie 2026, 16:10"
+    },
+    {
+      "id": "1b1ef06b11a8",
+      "titlu": "Fiul lui Nobby Stiles, revoltat de poziția FA privind legătura dintre loviturile de cap și leziunile cerebrale",
+      "rezumat": "John Stiles, fiul legendarului fotbalist englez Nobby Stiles, și alți activiști s-au declarat revoltați de faptul că Federația Engleză de Fotbal (FA) ar fi negat o legătură directă între loviturile repetate de cap și leziunile cerebrale. Această controversă reaprinde dezbaterea despre siguranța jucătorilor și riscurile pe termen lung asociate cu practicarea fotbalului la nivel înalt. Familia Stiles militează de mult timp pentru recunoașterea și abordarea problemelor neurologice în rândul foștilor fotbaliști, subliniind necesitatea unor măsuri mai stricte de protecție.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-04-30T13:10:59.194272+00:00",
+      "data_afisaj": "30 aprilie 2026, 16:10"
+    },
+    {
+      "id": "8254da5c4ad0",
+      "titlu": "Șahtior Donețk luptă pentru glorie europeană în semifinalele Conference League",
+      "rezumat": "Echipa ucraineană Șahtior Donețk se pregătește pentru semifinala UEFA Conference League împotriva formației Crystal Palace, cu speranța de a aduce mândrie țării lor, afectată de conflict. În ciuda faptului că și-au pierdut stadionul și sunt nevoiți să joace meciurile de acasă în exil, jucătorii și staff-ul clubului subliniază că nu și-au pierdut identitatea și spiritul de luptă. Această confruntare reprezintă o ocazie importantă pentru Șahtior de a demonstra reziliența fotbalului ucrainean pe scena europeană și de a avansa spre o posibilă finală.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-04-30T13:10:59.194661+00:00",
+      "data_afisaj": "30 aprilie 2026, 16:10"
+    },
+    {
+      "id": "0c6c893dff49",
+      "titlu": "Cupa Mondială 2026, estimată la 13 miliarde de dolari, cel mai profitabil eveniment sportiv",
+      "rezumat": "Cupa Mondială din 2026, găzduită de Statele Unite, Mexic și Canada, este proiectată să devină cea mai profitabilă competiție din istoria sportului, cu venituri estimate la 13 miliarde de dolari. Președintele FIFA, Gianni Infantino, a descris evenimentul ca fiind \"cel mai mare eveniment pe care omenirea l-a văzut vreodată\". În ciuda acestor cifre impresionante, unele dintre cele 48 de țări participante se confruntă cu dificultăți financiare. FIFA și-a revizuit în creștere proiecțiile de venituri în ultimii ani, subliniind amploarea economică fără precedent a turneului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-04-30T13:10:59.195094+00:00",
+      "data_afisaj": "30 aprilie 2026, 16:10"
+    },
     {
       "id": "d3a055810437",
       "titlu": "Burnley o vrea pe Bellamy după ce Parker pleacă",
