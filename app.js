@@ -3,7 +3,8 @@ const state = {
   meciuri: [],
   alteMeciuri: [],
   bilete: [],
-  meta: {}
+  meta: {},
+  stiriVisible: 6
 };
 
 const $ = (selector) => document.querySelector(selector);
@@ -44,11 +45,16 @@ async function init() {
 
 function renderNews() {
   if (!newsGrid) return;
+
   if (!state.stiri.length) {
     newsGrid.innerHTML = emptyCard('Nu exista stiri disponibile momentan.');
+    removeLoadMoreBtn();
     return;
   }
-  newsGrid.innerHTML = state.stiri.map((item) => `
+
+  const visible = state.stiri.slice(0, state.stiriVisible);
+
+  newsGrid.innerHTML = visible.map((item) => `
     <article class="news-card">
       <span class="pill pill-green">${escapeHtml(item.categorie || 'Fotbal')}</span>
       <h3>${escapeHtml(item.titlu || 'Stire fara titlu')}</h3>
@@ -60,14 +66,46 @@ function renderNews() {
       </div>
     </article>
   `).join('');
+
+  renderLoadMoreBtn();
+}
+
+function renderLoadMoreBtn() {
+  removeLoadMoreBtn();
+
+  if (state.stiriVisible >= state.stiri.length) return;
+
+  const remaining = state.stiri.length - state.stiriVisible;
+  const btn = document.createElement('div');
+  btn.id = 'loadMoreWrap';
+  btn.style.cssText = 'grid-column:1/-1;display:flex;justify-content:center;margin-top:8px;';
+  btn.innerHTML = `
+    <button id="loadMoreBtn" class="btn btn-ghost" style="gap:8px;">
+      Încarcă mai multe
+      <span style="background:rgba(57,255,156,.18);color:var(--green);border-radius:999px;padding:2px 10px;font-size:12px;">${remaining}</span>
+    </button>
+  `;
+  newsGrid.appendChild(btn);
+
+  document.getElementById('loadMoreBtn').addEventListener('click', () => {
+    state.stiriVisible += 6;
+    renderNews();
+  });
+}
+
+function removeLoadMoreBtn() {
+  const existing = document.getElementById('loadMoreWrap');
+  if (existing) existing.remove();
 }
 
 function renderMatches() {
   if (!matchesGrid) return;
+
   if (!state.meciuri.length) {
     matchesGrid.innerHTML = emptyCard('Nu exista predictii disponibile momentan.');
     return;
   }
+
   matchesGrid.innerHTML = state.meciuri.map((match) => `
     <article class="match-card">
       <div class="match-top">
@@ -96,12 +134,13 @@ function renderMatches() {
 
 function renderOtherMatches() {
   if (!otherMatchesGrid) return;
+
   if (!state.alteMeciuri.length) {
     otherMatchesGrid.innerHTML = emptyCard('Nu exista alte meciuri disponibile momentan.');
     return;
   }
+
   otherMatchesGrid.innerHTML = state.alteMeciuri.map((match) => {
-    // Suporta ambele formate JSON: flat (cota_1) si nested (cote.1)
     const cote = match.cote || {};
     const cota1 = match.cota_1 ?? cote['1'] ?? '-';
     const cotax = match.cota_x ?? cote['X'] ?? '-';
@@ -135,20 +174,25 @@ function renderOtherMatches() {
 
 function generateTicket() {
   if (!modal || !ticketBody || !ticketOdd) return;
+
   if (state.bilete && state.bilete.length > 0) {
     showTicketSelector();
     return;
   }
+
   const pool = [...state.meciuri].filter(match => Number(match.cota) > 1);
+
   if (pool.length < 3) {
     ticketBody.innerHTML = '<p class="modal-note">Ai nevoie de minimum 3 meciuri pentru a genera biletul.</p>';
     ticketOdd.textContent = '0.00';
     openModal();
     return;
   }
+
   const selected = pool
     .sort((a, b) => Number(b.scor_incredere || 0) - Number(a.scor_incredere || 0))
     .slice(0, Math.min(5, pool.length));
+
   renderTicket('Bilet automat', selected);
 }
 
@@ -159,7 +203,9 @@ function showTicketSelector() {
       <small>cota ${Number(bilet.cota_totala || 0).toFixed(2)} · ${Number(bilet.incredere_medie || 0).toFixed(0)}%</small>
     </button>
   `).join('');
+
   ticketBody.innerHTML = `<div class="ticket-tabs">${buttons}</div><div id="ticketContent"></div>`;
+
   document.querySelectorAll('.ticket-tab').forEach(btn => {
     btn.addEventListener('click', () => {
       document.querySelectorAll('.ticket-tab').forEach(b => b.classList.remove('active'));
@@ -167,6 +213,7 @@ function showTicketSelector() {
       showBiletContent(Number(btn.dataset.biletIdx));
     });
   });
+
   showBiletContent(0);
   openModal();
 }
@@ -174,11 +221,14 @@ function showTicketSelector() {
 function showBiletContent(index) {
   const bilet = state.bilete[index];
   if (!bilet) return;
+
   const meciuriBilet = (bilet.fixture_ids || [])
     .map(id => state.meciuri.find(m => m.fixture_id === id))
     .filter(Boolean);
+
   const content = $('#ticketContent');
   if (!content) return;
+
   content.innerHTML = meciuriBilet.map(match => `
     <div class="ticket-item">
       <div>
@@ -188,11 +238,13 @@ function showBiletContent(index) {
       <strong>${Number(match.cota || 0).toFixed(2)}</strong>
     </div>
   `).join('');
+
   ticketOdd.textContent = Number(bilet.cota_totala || 0).toFixed(2);
 }
 
 function renderTicket(label, selected) {
   const totalOdd = selected.reduce((total, match) => total * Number(match.cota || 1), 1);
+
   ticketBody.innerHTML = `
     <p class="modal-note"><strong>${escapeHtml(label)}</strong></p>
     ${selected.map(match => `
@@ -205,6 +257,7 @@ function renderTicket(label, selected) {
       </div>
     `).join('')}
   `;
+
   ticketOdd.textContent = totalOdd.toFixed(2);
   openModal();
 }
