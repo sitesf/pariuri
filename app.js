@@ -2,18 +2,20 @@ const state = {
   stiri: [],
   meciuri: [],
   alteMeciuri: [],
+  alteMeciuriUpdatedAt: null,
   bilete: [],
-  meta: {},
   stiriVisible: 6
 };
 
 const $ = (selector) => document.querySelector(selector);
-const newsGrid        = $('#newsGrid');
-const matchesGrid     = $('#matchesGrid');
-const otherMatchesGrid = $('#otherMatchesGrid');
-const modal           = $('#ticketModal');
-const ticketBody      = $('#ticketBody');
-const ticketOdd       = $('#ticketOdd');
+const newsGrid         = $('#newsGrid');
+const matchesGrid      = $('#matchesGrid');
+const modal            = $('#ticketModal');
+const ticketBody       = $('#ticketBody');
+const ticketOdd        = $('#ticketOdd');
+const ticketEyebrow    = $('#ticketEyebrow');
+
+// ── JSON loader ───────────────────────────────────────────────────────────────
 
 async function loadJson(path, fallback) {
   try {
@@ -30,17 +32,17 @@ async function init() {
   const [newsData, matchesData, otherData] = await Promise.all([
     loadJson('stiri.json',        { stiri: [] }),
     loadJson('meciuri.json',      { meciuri: [], bilete_sugerate: [] }),
-    loadJson('alte_meciuri.json', { meciuri: [] })
+    loadJson('alte_meciuri.json', { meciuri: [], updated_at: null })
   ]);
 
-  state.stiri       = Array.isArray(newsData.stiri)               ? newsData.stiri               : [];
-  state.meciuri     = Array.isArray(matchesData.meciuri)          ? matchesData.meciuri          : [];
-  state.bilete      = Array.isArray(matchesData.bilete_sugerate)  ? matchesData.bilete_sugerate  : [];
-  state.alteMeciuri = Array.isArray(otherData.meciuri)            ? otherData.meciuri            : [];
+  state.stiri                = Array.isArray(newsData.stiri)              ? newsData.stiri              : [];
+  state.meciuri              = Array.isArray(matchesData.meciuri)         ? matchesData.meciuri         : [];
+  state.bilete               = Array.isArray(matchesData.bilete_sugerate) ? matchesData.bilete_sugerate : [];
+  state.alteMeciuri          = Array.isArray(otherData.meciuri)           ? otherData.meciuri           : [];
+  state.alteMeciuriUpdatedAt = otherData.updated_at || null;
 
   renderNews();
   renderMatches();
-  renderOtherMatches();
 }
 
 // ── Stiri cu Load More ────────────────────────────────────────────────────────
@@ -52,7 +54,6 @@ function renderNews() {
     removeLoadMoreBtn();
     return;
   }
-
   const visible = state.stiri.slice(0, state.stiriVisible);
   newsGrid.innerHTML = visible.map((item) => `
     <article class="news-card">
@@ -66,14 +67,12 @@ function renderNews() {
       </div>
     </article>
   `).join('');
-
   renderLoadMoreBtn();
 }
 
 function renderLoadMoreBtn() {
   removeLoadMoreBtn();
   if (state.stiriVisible >= state.stiri.length) return;
-
   const remaining = state.stiri.length - state.stiriVisible;
   const wrap = document.createElement('div');
   wrap.id = 'loadMoreWrap';
@@ -129,156 +128,137 @@ function renderMatches() {
   `).join('');
 }
 
-// ── Alte Meciuri cu highlight pronostic ──────────────────────────────────────
+// ── Helpers pronostic ─────────────────────────────────────────────────────────
 
 function cotaPronostic(match) {
   const p = match.pronostic;
   if (!p) return null;
-  if (p === '1')  return Number(match.cota_1) || null;
-  if (p === '2')  return Number(match.cota_2) || null;
-  if (p === 'X')  return Number(match.cota_x) || null;
-  if (p === '1X') return Number(match.cota_1) || null;
-  if (p === 'X2') return Number(match.cota_2) || null;
+  if (p === '1' || p === '1X') return Number(match.cota_1) || null;
+  if (p === '2' || p === 'X2') return Number(match.cota_2) || null;
+  if (p === 'X')               return Number(match.cota_x) || null;
   return null;
 }
 
-function cellStyle(cell, pronostic) {
-  const active = (
-    (cell === '1'  && (pronostic === '1' || pronostic === '1X')) ||
-    (cell === 'X'  && (pronostic === 'X' || pronostic === '1X' || pronostic === 'X2')) ||
-    (cell === '2'  && (pronostic === '2' || pronostic === 'X2'))
-  );
-  return active
-    ? 'background:rgba(57,255,156,.22);border-color:rgba(57,255,156,.5);'
-    : '';
+function formatDataMeci(match) {
+  const parts = [];
+  if (match.data) parts.push(match.data);
+  if (match.ora)  parts.push(match.ora);
+  if (match.liga) parts.push(match.liga);
+  return parts.join(' · ');
 }
 
-function renderOtherMatches() {
-  if (!otherMatchesGrid) return;
-  if (!state.alteMeciuri.length) {
-    otherMatchesGrid.innerHTML = emptyCard('Nu exista alte meciuri disponibile momentan.');
-    return;
+// ── BILET AI — fix pe zi ──────────────────────────────────────────────────────
+
+const STORAGE_KEY = 'nexas_bilet_ai';
+
+function getBiletAiSalvat() {
+  try {
+    const raw = localStorage.getItem(STORAGE_KEY);
+    if (!raw) return null;
+    return JSON.parse(raw);
+  } catch (e) {
+    return null;
   }
-
-  otherMatchesGrid.innerHTML = state.alteMeciuri.map((match) => {
-    const c1 = match.cota_1 != null ? Number(match.cota_1).toFixed(2) : '-';
-    const cx = match.cota_x != null ? Number(match.cota_x).toFixed(2) : '-';
-    const c2 = match.cota_2 != null ? Number(match.cota_2).toFixed(2) : '-';
-    const p  = match.pronostic || null;
-
-    return `
-      <article class="match-card other-match-card">
-        <div class="match-top">
-          <div>
-            <h3>${escapeHtml(match.home || '')} vs ${escapeHtml(match.away || '')}</h3>
-            <div class="league">
-              ${escapeHtml(match.liga || '')}
-              ${match.data ? ' · ' + escapeHtml(match.data) : ''}
-              ${match.ora  ? ' · ' + escapeHtml(match.ora)  : ''}
-            </div>
-          </div>
-        </div>
-        <div class="match-stats">
-          <div style="${cellStyle('1', p)}">
-            <span>${escapeHtml(c1)}</span><small>1</small>
-          </div>
-          <div style="${cellStyle('X', p)}">
-            <span>${escapeHtml(cx)}</span><small>X</small>
-          </div>
-          <div style="${cellStyle('2', p)}">
-            <span>${escapeHtml(c2)}</span><small>2</small>
-          </div>
-        </div>
-        ${p ? `<div class="match-pick" style="margin-top:10px;">
-          <span class="pill pill-green">${escapeHtml(p)}</span>
-          <small style="color:var(--muted);margin-left:8px;">${escapeHtml(match.motiv || '')}</small>
-        </div>` : ''}
-      </article>`;
-  }).join('');
 }
 
-// ── Bilet din Alte Meciuri (cota totala 10-20) ───────────────────────────────
+function salvaBiletAi(bilet, updatedAt) {
+  try {
+    localStorage.setItem(STORAGE_KEY, JSON.stringify({ bilet, updatedAt }));
+  } catch (e) {}
+}
 
-function generateTicketFromAlte() {
-  // Filtrare: meciuri cu pronostic si cota valida
+function genereazaBiletAiNou() {
   const pool = state.alteMeciuri.filter(m => {
     const c = cotaPronostic(m);
     return m.pronostic && c && c > 1.05 && c < 5.0;
   });
 
-  if (pool.length < 5) {
-    ticketBody.innerHTML = '<p class="modal-note">Nu sunt suficiente meciuri cu pronostic pentru a genera biletul. Reîncearcă mâine după actualizarea agentului.</p>';
-    ticketOdd.textContent = '0.00';
-    openModal();
-    return;
-  }
+  if (pool.length < 5) return null;
 
-  // Incercam sa gasim o selectie de 5-8 meciuri cu cota totala 10-20
-  const MAX_TRIES = 200;
+  const MAX_TRIES = 300;
   let best = null;
   let bestDist = Infinity;
 
   for (let attempt = 0; attempt < MAX_TRIES; attempt++) {
-    // Alegem aleatoriu intre 5 si 8 meciuri
-    const count = 5 + Math.floor(Math.random() * 4); // 5,6,7,8
+    const count    = 5 + Math.floor(Math.random() * 4); // 5-8
     const shuffled = [...pool].sort(() => Math.random() - 0.5);
     const selected = shuffled.slice(0, Math.min(count, shuffled.length));
-
-    const total = selected.reduce((acc, m) => acc * (cotaPronostic(m) || 1), 1);
+    const total    = selected.reduce((acc, m) => acc * (cotaPronostic(m) || 1), 1);
 
     if (total >= 10 && total <= 20) {
-      best = { selected, total };
-      break;
+      return { selected, total };
     }
-
-    // Pastram cea mai apropiata de interval
     const dist = total < 10 ? 10 - total : total - 20;
     if (dist < bestDist) {
       bestDist = dist;
       best = { selected, total };
     }
   }
+  return best;
+}
 
-  if (!best) {
-    ticketBody.innerHTML = '<p class="modal-note">Nu am putut genera un bilet in intervalul dorit.</p>';
+function deschideBiletAi() {
+  if (!modal || !ticketBody || !ticketOdd) return;
+
+  const salvat = getBiletAiSalvat();
+
+  // Refolosim biletul salvat daca e de la aceeasi rulare a agentului
+  if (salvat && salvat.updatedAt === state.alteMeciuriUpdatedAt && salvat.bilet) {
+    afiseazaBiletAi(salvat.bilet.selected, salvat.bilet.total);
+    return;
+  }
+
+  // Genereaza bilet nou si salveaza
+  const biletNou = genereazaBiletAiNou();
+
+  if (!biletNou) {
+    if (ticketEyebrow) ticketEyebrow.textContent = 'Bilet AI';
+    ticketBody.innerHTML = '<p class="modal-note">Nu sunt suficiente meciuri cu pronostic. Reîncearcă după actualizarea agentului.</p>';
     ticketOdd.textContent = '0.00';
     openModal();
     return;
   }
 
-  const { selected, total } = best;
+  salvaBiletAi(biletNou, state.alteMeciuriUpdatedAt);
+  afiseazaBiletAi(biletNou.selected, biletNou.total);
+}
+
+function afiseazaBiletAi(selected, total) {
+  if (ticketEyebrow) ticketEyebrow.textContent = 'Bilet AI al zilei';
 
   ticketBody.innerHTML = `
     <p class="modal-note" style="margin-bottom:16px;">
-      Bilet generat automat · ${selected.length} meciuri · cota țintă 10–20
+      Bilet fix · ${selected.length} meciuri · cota țintă 10–20
     </p>
     ${selected.map(match => {
       const cota = cotaPronostic(match);
+      const info = formatDataMeci(match);
       return `
         <div class="ticket-item">
           <div>
             <b>${escapeHtml(match.home)} vs ${escapeHtml(match.away)}</b><br>
-            <small>${escapeHtml(match.liga || '')} · <span style="color:var(--green);font-weight:700;">${escapeHtml(match.pronostic)}</span> · ${escapeHtml(match.motiv || '')}</small>
+            <small style="color:var(--muted);">${escapeHtml(info)}</small><br>
+            <small>
+              <span style="color:var(--green);font-weight:700;">${escapeHtml(match.pronostic)}</span>
+              · ${escapeHtml(match.motiv || '')}
+            </small>
           </div>
           <strong>${cota ? Number(cota).toFixed(2) : '-'}</strong>
         </div>`;
     }).join('')}
   `;
-  ticketOdd.textContent = total.toFixed(2);
+  ticketOdd.textContent = Number(total).toFixed(2);
   openModal();
 }
+
+// ── GENEREAZA BILET — aleatoriu la fiecare click ──────────────────────────────
 
 function generateTicket() {
   if (!modal || !ticketBody || !ticketOdd) return;
 
-  // Daca exista alte meciuri cu pronostic, folosim acelea pentru bilet
-  const cuPronostic = state.alteMeciuri.filter(m => m.pronostic && cotaPronostic(m));
-  if (cuPronostic.length >= 5) {
-    generateTicketFromAlte();
-    return;
-  }
+  if (ticketEyebrow) ticketEyebrow.textContent = 'Bilet generat aleatoriu';
 
-  // Fallback: bilet din meciurile principale
+  // Fallback daca exista bilete din meciuri.json
   if (state.bilete && state.bilete.length > 0) {
     showTicketSelector();
     return;
@@ -291,13 +271,29 @@ function generateTicket() {
     openModal();
     return;
   }
-  const selected = pool
-    .sort((a, b) => Number(b.scor_incredere || 0) - Number(a.scor_incredere || 0))
-    .slice(0, Math.min(5, pool.length));
-  renderTicket('Bilet automat', selected);
+
+  // Aleatoriu de fiecare data
+  const shuffled = [...pool].sort(() => Math.random() - 0.5);
+  const selected = shuffled.slice(0, Math.min(5, shuffled.length));
+  const total    = selected.reduce((acc, m) => acc * Number(m.cota || 1), 1);
+
+  ticketBody.innerHTML = `
+    <p class="modal-note"><strong>Bilet aleatoriu</strong></p>
+    ${selected.map(match => `
+      <div class="ticket-item">
+        <div>
+          <b>${escapeHtml(match.home)} vs ${escapeHtml(match.away)}</b><br>
+          <small style="color:var(--muted);">${escapeHtml(match.liga || '')}${match.data ? ' · ' + escapeHtml(match.data) : ''}${match.ora ? ' · ' + escapeHtml(match.ora) : ''}</small><br>
+          <small>${escapeHtml(match.tip_pariu || '')} · ${escapeHtml(match.pronostic || '')} · ${Number(match.scor_incredere || 0)}%</small>
+        </div>
+        <strong>${Number(match.cota || 0).toFixed(2)}</strong>
+      </div>`).join('')}
+  `;
+  ticketOdd.textContent = total.toFixed(2);
+  openModal();
 }
 
-// ── Ticket helpers ────────────────────────────────────────────────────────────
+// ── Ticket selector (bilete din meciuri.json) ─────────────────────────────────
 
 function showTicketSelector() {
   const buttons = state.bilete.map((bilet, i) => `
@@ -336,21 +332,7 @@ function showBiletContent(index) {
   ticketOdd.textContent = Number(bilet.cota_totala || 0).toFixed(2);
 }
 
-function renderTicket(label, selected) {
-  const total = selected.reduce((acc, m) => acc * Number(m.cota || 1), 1);
-  ticketBody.innerHTML = `
-    <p class="modal-note"><strong>${escapeHtml(label)}</strong></p>
-    ${selected.map(match => `
-      <div class="ticket-item">
-        <div>
-          <b>${escapeHtml(match.home)} vs ${escapeHtml(match.away)}</b><br>
-          <small>${escapeHtml(match.tip_pariu || '')} · ${escapeHtml(match.pronostic || '')} · ${Number(match.scor_incredere || 0)}%</small>
-        </div>
-        <strong>${Number(match.cota || 0).toFixed(2)}</strong>
-      </div>`).join('')}`;
-  ticketOdd.textContent = total.toFixed(2);
-  openModal();
-}
+// ── Modal ─────────────────────────────────────────────────────────────────────
 
 function openModal() {
   modal.classList.add('is-open');
@@ -361,6 +343,8 @@ function closeModal() {
   modal.classList.remove('is-open');
   modal.setAttribute('aria-hidden', 'true');
 }
+
+// ── Utils ─────────────────────────────────────────────────────────────────────
 
 function emptyCard(message) {
   return `<article class="news-card"><h3>Date indisponibile</h3><p>${escapeHtml(message)}</p></article>`;
@@ -377,10 +361,15 @@ function escapeHtml(value) {
 
 // ── Events ────────────────────────────────────────────────────────────────────
 
+// Genereaza Bilet — aleatoriu
 ['#makeTicketTop', '#makeTicketHero', '#makeTicketMain'].forEach(sel => {
   const btn = $(sel);
   if (btn) btn.addEventListener('click', generateTicket);
 });
+
+// Bilet AI — fix pe zi
+const biletAiBtn = $('#biletAiBtn');
+if (biletAiBtn) biletAiBtn.addEventListener('click', deschideBiletAi);
 
 document.querySelectorAll('[data-close-modal]').forEach(el => {
   el.addEventListener('click', closeModal);
