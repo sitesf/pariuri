@@ -355,42 +355,49 @@ function deschideBiletAi() {
   openModal();
 }
 
-// ── BILET RISC — 8-10 meciuri, cote 1.60-2.00 ────────────────────────────────
+// ── BILET RISC — cote 1.50-2.00, cota totala ~100 ───────────────────────────
 
 function genBiletRisc() {
   const pool = state.alteMeciuri.filter(m => {
     const c = cotaEf(m);
-    return m.pronostic && c && c >= 1.60 && c <= 2.00;
+    return m.pronostic && c && c >= 1.50 && c <= 2.00;
   });
-  if (pool.length < 5) return null;
+  if (pool.length < 3) return null;
 
-  // Sortam dupa probabilitate descrescator (mai sigur primul in intervalul risc)
+  // Sortat dupa probabilitate descrescator — cele mai sigure primele
   const sorted = [...pool].sort((a,b) => (b.probabilitate||0) - (a.probabilitate||0));
 
-  // Adaugam putina aleatorietate — shuffle primele 15
-  const top = sorted.slice(0, Math.min(15, sorted.length));
-  const shuffled = top.sort(() => Math.random() - 0.5);
+  // Greedy: adauga meciuri pana cota totala ajunge la ~100
+  const selected = [];
+  let total = 1;
+  const TARGET = 100;
 
-  const count    = 8 + Math.floor(Math.random() * 3); // 8, 9 sau 10
-  const selected = shuffled.slice(0, Math.min(count, shuffled.length));
-  const total    = selected.reduce((acc, m) => acc * (cotaEf(m)||1), 1);
+  for (const match of sorted) {
+    const c = cotaEf(match);
+    if (!c) continue;
+    selected.push(match);
+    total *= c;
+    if (total >= TARGET) break;
+    if (selected.length >= 20) break;
+  }
 
+  if (!selected.length) return null;
   return { selected, total };
 }
 
 function deschideBiletRisc() {
   if (!modal) return;
-  const bilet = getOrGenerate('nexas_bilet_risc_v2', genBiletRisc);
+  const bilet = getOrGenerate('nexas_bilet_risc_v3', genBiletRisc);
   if (!bilet) {
     setModalHeader('Bilet Risc', 'Biletul tau');
-    ticketBody.innerHTML = '<p class="modal-note">Nu sunt suficiente meciuri cu cote 1.60-2.00. Reîncearcă după actualizarea agentului.</p>';
+    ticketBody.innerHTML = '<p class="modal-note">Nu sunt suficiente meciuri cu cote 1.50-2.00. Reincerca dupa actualizarea agentului.</p>';
     ticketOdd.textContent = '0.00';
     openModal(); return;
   }
   setModalHeader('Bilet Risc', 'Biletul tau');
   ticketBody.innerHTML = `
     <p class="modal-note" style="margin-bottom:16px;">
-      ${bilet.selected.length} meciuri · cote 1.60–2.00 · potențial mare
+      ${bilet.selected.length} meciuri · cote 1.50-2.00 · cota tinta ~100
     </p>
     ${bilet.selected.map(m => ticketRow(m, cotaEf(m))).join('')}`;
   ticketOdd.textContent = Number(bilet.total).toFixed(2);
