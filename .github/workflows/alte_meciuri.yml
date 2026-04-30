@@ -5,7 +5,7 @@ permissions:
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 5 * * 3"
   workflow_dispatch:
 
 jobs:
@@ -26,7 +26,6 @@ jobs:
 
       - name: Run agent alte meciuri
         env:
-          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
         run: python scripts/alte_meciuri.py
 
@@ -35,5 +34,5 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add alte_meciuri.json
-          git commit -m "update alte meciuri" || echo "no changes"
+          git commit -m "Update alte meciuri $(date -u '+%Y-%m-%d %H:%M UTC')" || echo "no changes"
           git push
