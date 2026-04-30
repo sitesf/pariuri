@@ -113,6 +113,8 @@ function renderOtherMatches() {
     const cota1 = match.cota_1 ?? match.odds_1 ?? match['1'] ?? '-';
     const cotax = match.cota_x ?? match.odds_x ?? match.X ?? '-';
     const cota2 = match.cota_2 ?? match.odds_2 ?? match['2'] ?? '-';
+    const pronostic = match.pronostic || match.tip || null;
+    const motiv = match.motiv || match.motiv_scurt || null;
 
     return `
       <article class="match-card other-match-card">
@@ -128,10 +130,17 @@ function renderOtherMatches() {
         </div>
 
         <div class="match-stats">
-          <div><span>${escapeHtml(cota1)}</span><small>1</small></div>
-          <div><span>${escapeHtml(cotax)}</span><small>X</small></div>
-          <div><span>${escapeHtml(cota2)}</span><small>2</small></div>
+          <div><span>${escapeHtml(String(cota1))}</span><small>1</small></div>
+          <div><span>${escapeHtml(String(cotax))}</span><small>X</small></div>
+          <div><span>${escapeHtml(String(cota2))}</span><small>2</small></div>
         </div>
+
+        ${pronostic ? `
+        <div class="match-pick">
+          <span class="pill pill-green">${escapeHtml(pronostic)}</span>
+        </div>` : ''}
+
+        ${motiv ? `<p class="reason">${escapeHtml(motiv)}</p>` : ''}
       </article>
     `;
   }).join('');

@@ -9,93 +9,6 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css" />
-
-  <style>
-    /* ── Overflow mobile fix ── */
-    html, body { max-width: 100%; overflow-x: hidden; }
-
-    /* ── Cursor animatie ── */
-    @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
-
-    /* ── Text alb explicit in hero ── */
-    .hero-copy h1,
-    .hero-copy .eyebrow,
-    .hero-copy .hero-text { color: #ffffff; }
-
-    /* ── Card cycling ── */
-    .cycle-card {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      gap: 10px;
-      min-height: 120px;
-    }
-    .cycle-label {
-      font-size: 11px;
-      font-weight: 600;
-      letter-spacing: 0.18em;
-      color: rgba(255,255,255,0.35);
-      text-transform: uppercase;
-    }
-    .cycle-word {
-      font-size: clamp(1.1rem, 2.5vw, 1.8rem);
-      font-weight: 700;
-      color: #4ade80;
-      min-height: 1.4em;
-      text-align: center;
-    }
-    .cycle-cursor {
-      display: inline-block;
-      width: 2px;
-      height: 1em;
-      background: #4ade80;
-      vertical-align: middle;
-      margin-left: 3px;
-      animation: blink .7s step-end infinite;
-    }
-
-    /* ── Separare sectiuni ── */
-    #stiri {
-      background: rgba(0,0,0,0.78);
-      border-top: 1px solid rgba(74,222,128,0.15);
-      border-radius: 16px 16px 0 0;
-      position: relative;
-      z-index: 10;
-    }
-    #meciuri {
-      background: rgba(0,0,0,0.65);
-      border-top: 1px solid rgba(74,222,128,0.1);
-      position: relative;
-      z-index: 10;
-    }
-
-    /* ── Mobile responsive ── */
-    @media (max-width: 768px) {
-      .hero {
-        flex-direction: column !important;
-        padding: 5rem 1.25rem 3rem !important;
-        gap: 2rem !important;
-      }
-      .hero-copy h1 {
-        font-size: clamp(2rem, 8vw, 3.2rem) !important;
-      }
-      .hero-card {
-        width: 100% !important;
-        max-width: 100% !important;
-        box-sizing: border-box !important;
-      }
-      .hero-actions { flex-wrap: wrap; gap: 0.75rem; }
-      .news-grid, .matches-grid { grid-template-columns: 1fr !important; }
-      .section-head.row-head { flex-direction: column; align-items: flex-start; gap: 1rem; }
-      .nav-shell { padding: 0 1rem !important; }
-      .content-section { padding-left: 1.25rem !important; padding-right: 1.25rem !important; }
-    }
-    @media (max-width: 480px) {
-      .hero-copy h1 { font-size: clamp(1.7rem, 9vw, 2.4rem) !important; }
-      .btn-xl { width: 100%; text-align: center; }
-    }
-  </style>
 </head>
 <body>
 
@@ -115,10 +28,23 @@
       <div class="nav-actions">
         <a href="#stiri" class="nav-link">Stiri</a>
         <a href="#meciuri" class="nav-link">Meciuri</a>
-        <a href="#alteMeciuri" class="nav-link">Alte Meciuri</a>
+        <button id="toggleAlteBtn" class="nav-link alte-trigger" type="button">
+          Alte Meciuri <span class="alte-arrow">▾</span>
+        </button>
         <button id="makeTicketTop" class="btn btn-primary">Fa Bilet</button>
       </div>
     </nav>
+
+    <!-- Dropdown Alte Meciuri -->
+    <div id="alteDropdown" class="alte-dropdown" aria-hidden="true">
+      <div class="alte-dropdown-inner">
+        <div class="section-head">
+          <p class="eyebrow">Lista completă analizată de agentul AI</p>
+          <h2>Alte Meciuri</h2>
+        </div>
+        <div id="otherMatchesGrid" class="matches-grid skeleton-area"></div>
+      </div>
+    </div>
   </header>
 
   <main>
@@ -141,32 +67,23 @@
       </aside>
     </section>
 
-   <section id="stiri" class="content-section section-in delay-1">
-  <div class="section-head">
-    <h2>Știri Sportive</h2>
-  </div>
-  <div id="newsGrid" class="news-grid skeleton-area"></div>
-</section>
+    <section id="stiri" class="content-section section-in delay-1">
+      <div class="section-head">
+        <h2>Știri Sportive</h2>
+      </div>
+      <div id="newsGrid" class="news-grid skeleton-area"></div>
+    </section>
 
-<section id="meciuri" class="content-section section-in delay-2">
-  <div class="section-head row-head">
-    <div>
-      <p class="eyebrow">Predicții Sportive: Analiza Meciurilor Propuse de agentul NEXAS</p>
-      <h2>Selecția Meciurilor: Analize și Predicții</h2>
-    </div>
-    <button id="makeTicketMain" class="btn btn-primary">Fa Bilet</button>
-  </div>
-  <div id="matchesGrid" class="matches-grid skeleton-area"></div>
-</section>
-
-<section id="alteMeciuri" class="content-section section-in delay-2">
-  <div class="section-head">
-    <p class="eyebrow">Lista completă analizată de agentul AI</p>
-    <h2>Alte Meciuri</h2>
-  </div>
-
-  <div id="otherMatchesGrid" class="matches-grid skeleton-area"></div>
-</section>
+    <section id="meciuri" class="content-section section-in delay-2">
+      <div class="section-head row-head">
+        <div>
+          <p class="eyebrow">Predicții Sportive: Analiza Meciurilor Propuse de agentul NEXAS</p>
+          <h2>Selecția Meciurilor: Analize și Predicții</h2>
+        </div>
+        <button id="makeTicketMain" class="btn btn-primary">Fa Bilet</button>
+      </div>
+      <div id="matchesGrid" class="matches-grid skeleton-area"></div>
+    </section>
   </main>
 
   <div id="ticketModal" class="modal" aria-hidden="true">
@@ -245,6 +162,7 @@
   (function(){
     var words = ['Predicții Sportive','Analize AI','Informatii Verificate','Automatizare AI','Decizii Logice','Statistici Avansate'];
     var el = document.getElementById('cycleText');
+    if (!el) return;
     var wi=0, ci=0, deleting=false;
     function tick(){
       var w=words[wi];
@@ -258,6 +176,29 @@
       setTimeout(tick, deleting?40:80);
     }
     tick();
+  })();
+  </script>
+
+  <!-- Alte Meciuri dropdown toggle -->
+  <script>
+  (function(){
+    var btn = document.getElementById('toggleAlteBtn');
+    var dropdown = document.getElementById('alteDropdown');
+    var arrow = btn ? btn.querySelector('.alte-arrow') : null;
+    if (!btn || !dropdown) return;
+    btn.addEventListener('click', function(e){
+      e.stopPropagation();
+      var open = dropdown.classList.toggle('is-open');
+      dropdown.setAttribute('aria-hidden', String(!open));
+      if (arrow) arrow.style.transform = open ? 'rotate(180deg)' : 'rotate(0deg)';
+    });
+    document.addEventListener('click', function(e){
+      if (!dropdown.contains(e.target) && e.target !== btn) {
+        dropdown.classList.remove('is-open');
+        dropdown.setAttribute('aria-hidden', 'true');
+        if (arrow) arrow.style.transform = 'rotate(0deg)';
+      }
+    });
   })();
   </script>
 
