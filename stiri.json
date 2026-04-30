@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-30T20:18:44.542156+00:00",
-  "updated_at_afisaj": "30 aprilie 2026, 23:18",
+  "updated_at": "2026-04-30T20:43:27.738716+00:00",
+  "updated_at_afisaj": "30 aprilie 2026, 23:43",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,67 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 38,
+  "numar_stiri": 43,
   "stiri": [
+    {
+      "id": "63d66e8882e6",
+      "titlu": "Iran ratează congresul FIFA, dar 'va juca' la Cupa Mondială - Infantino",
+      "rezumat": "Președintele FIFA, Gianni Infantino, spune că Iranul va fi prezent la Cupa Mondială din 2026, în timp ce oficialii iranieni lipsesc de la congresul organismului mondial de conducere a fotbalului din Canada.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-04-30T20:43:20.991325+00:00",
+      "data_afisaj": "30 aprilie 2026, 23:43"
+    },
+    {
+      "id": "9a67b680698a",
+      "titlu": "Palace preia din nou conducerea în fața lui Șahtior Donețk LIVE!",
+      "rezumat": "(rezumat indisponibil)",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-04-30T20:43:20.991801+00:00",
+      "data_afisaj": "30 aprilie 2026, 23:43"
+    },
+    {
+      "id": "78a0356268c5",
+      "titlu": "Burnley îl vrea pe Bellamy după anunțarea plecării lui Parker",
+      "rezumat": "Burnley este interesată să-l numească pe Craig Bellamy antrenor după plecarea lui Scott Parker, în urma retrogradării din Premier League.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-04-30T20:43:20.992244+00:00",
+      "data_afisaj": "30 aprilie 2026, 23:43"
+    },
+    {
+      "id": "36f9642f0226",
+      "titlu": "'M-am pierdut pe mine însămi' - Bright despre retragere, abuz și viitor",
+      "rezumat": "Fosta căpitană a Angliei și a lui Chelsea, Millie Bright, vorbește cu BBC Sport la o zi după ce și-a anunțat retragerea.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-04-30T20:43:20.992725+00:00",
+      "data_afisaj": "30 aprilie 2026, 23:43"
+    },
+    {
+      "id": "48cbc17aa59b",
+      "titlu": "De ce discuțiile cu Coventry sunt cheia viitorului lui Lampard",
+      "rezumat": "Antrenorul lui Coventry, Frank Lampard, atrage interesul cluburilor din Premier League - dar discuțiile cu 'Sky Blues' sunt esențiale pentru viitorul său.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-04-30T20:43:20.993174+00:00",
+      "data_afisaj": "30 aprilie 2026, 23:43"
+    },
     {
       "id": "83bdb93dddf8",
       "titlu": "Iranul va participa la Cupa Mondială, în ciuda absenței de la congresul FIFA",
