@@ -1,7 +1,7 @@
 {
   "data_start": "2026-04-30",
   "data_final": "2026-05-02",
-  "updated_at": "2026-04-30T06:48:14.011088+00:00",
+  "updated_at": "2026-04-30T07:55:01.469174+00:00",
   "surse": [
     "The Odds API"
   ],
@@ -38,11 +38,11 @@
       "home": "Ipswich Town",
       "away": "Queens Park Rangers",
       "liga": "Championship",
-      "cota_1": 1.29,
-      "cota_x": 5.75,
+      "cota_1": 1.28,
+      "cota_x": 6.0,
       "cota_2": 10.5,
       "pronostic": "1",
-      "motiv": "Gazde favorite clare (cota 1.29)"
+      "motiv": "Gazde favorite clare (cota 1.28)"
     },
     {
       "data": "2026-05-02",
@@ -87,8 +87,8 @@
       "away": "Burnley",
       "liga": "Premier League",
       "cota_1": 1.4,
-      "cota_x": 4.8,
-      "cota_2": 7.0,
+      "cota_x": 5.0,
+      "cota_2": 6.5,
       "pronostic": "1",
       "motiv": "Gazde favorite clare (cota 1.40)"
     },
@@ -206,11 +206,11 @@
       "home": "Swansea City",
       "away": "Charlton Athletic",
       "liga": "Championship",
-      "cota_1": 1.68,
+      "cota_1": 1.7,
       "cota_x": 3.75,
       "cota_2": 4.2,
       "pronostic": "1X",
-      "motiv": "Gazde ușor favorizate (cota 1: 1.68, X: 3.75)"
+      "motiv": "Gazde ușor favorizate (cota 1: 1.70, X: 3.75)"
     },
     {
       "data": "2026-05-02",
