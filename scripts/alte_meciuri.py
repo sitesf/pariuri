@@ -177,7 +177,7 @@ def odds_get(sport_key: str) -> List[Dict]:
             params={
                 "apiKey": ODDS_API_KEY,
                 "regions": "eu",
-                "markets": "h2h,bts,totals",
+                "markets": "h2h",
                 "oddsFormat": "decimal",
                 "dateFormat": "iso",
             },
@@ -197,61 +197,39 @@ def odds_get(sport_key: str) -> List[Dict]:
 
 
 def extract_markets(match: Dict, home: str, away: str) -> Dict[str, Any]:
-    """Extrage h2h, bts si totals dintr-un singur match."""
+    """Extrage cotele h2h (1/X/2)."""
     result: Dict[str, Any] = {}
     for bookmaker in match.get("bookmakers", []):
         for market in bookmaker.get("markets", []):
-            key = market.get("key", "")
-            if key == "h2h" and "1" not in result:
-                for outcome in market.get("outcomes", []):
-                    name  = outcome.get("name", "")
-                    price = outcome.get("price")
-                    if price is None:
-                        continue
-                    if name == home:
-                        result["1"] = float(price)
-                    elif name == away:
-                        result["2"] = float(price)
-                    else:
-                        result["X"] = float(price)
-            elif key == "bts" and "gg" not in result:
-                for outcome in market.get("outcomes", []):
-                    name  = outcome.get("name", "")
-                    price = outcome.get("price")
-                    if price is None:
-                        continue
-                    if name == "Yes":
-                        result["gg"] = float(price)
-                    elif name == "No":
-                        result["ngg"] = float(price)
-            elif key == "totals" and "over25" not in result:
-                for outcome in market.get("outcomes", []):
-                    name  = outcome.get("name", "")
-                    point = outcome.get("point", 0)
-                    price = outcome.get("price")
-                    if price is None:
-                        continue
-                    if abs(point - 2.5) < 0.01:
-                        if name == "Over":
-                            result["over25"] = float(price)
-                        elif name == "Under":
-                            result["under25"] = float(price)
-        # daca am toate pietele, iesim
-        if all(k in result for k in ["1", "X", "2"]):
+            if market.get("key") != "h2h":
+                continue
+            for outcome in market.get("outcomes", []):
+                name  = outcome.get("name", "")
+                price = outcome.get("price")
+                if price is None:
+                    continue
+                if name == home:
+                    result["1"] = float(price)
+                elif name == away:
+                    result["2"] = float(price)
+                else:
+                    result["X"] = float(price)
+            if len(result) >= 2:
+                break
+        if len(result) >= 2:
             break
     return result
 
 
 def alege_pronostic(
-    c1, cx, c2, cgg, cngg, cover25, cunder25
+    c1, cx, c2
 ) -> Tuple[Optional[str], Optional[str], float, float]:
     """
-    Alege cel mai bun pronostic dintre toate pietele.
+    Alege cel mai bun pronostic din cotele h2h.
     Returneaza: (pronostic, motiv, cota_pronostic, probabilitate)
     """
     candidati = []
 
-    # H2H — victorie clara
     if c1 and c1 <= 2.00:
         if c1 < 1.67:
             candidati.append(("1", f"Gazde favorite clare (cota {c1:.2f})", c1, 1/c1))
@@ -268,20 +246,9 @@ def alege_pronostic(
             if dc > 1:
                 candidati.append(("X2", f"Oaspeți ușor favorizați (2:{c2:.2f} X:{cx:.2f})", dc, 1/dc))
 
-    # GG
-    if cgg and cgg < 1.75:
-        candidati.append(("GG", f"Ambele marchează (cota {cgg:.2f})", cgg, 1/cgg))
-
-    # Totals
-    if cunder25 and cunder25 < 1.75:
-        candidati.append(("Sub 2.5", f"Sub 2.5 goluri (cota {cunder25:.2f})", cunder25, 1/cunder25))
-    if cover25 and cover25 < 1.70:
-        candidati.append(("Peste 2.5", f"Peste 2.5 goluri (cota {cover25:.2f})", cover25, 1/cover25))
-
     if not candidati:
         return None, None, 0.0, 0.0
 
-    # Sorteaza dupa probabilitate descrescator (cel mai sigur primul)
     candidati.sort(key=lambda x: -x[3])
     best = candidati[0]
     return best[0], best[1], best[2], best[3]
@@ -306,17 +273,11 @@ def process_league(sport_key: str, start, end) -> List[Dict]:
         if not mkts.get("1"):
             continue
 
-        c1      = mkts.get("1")
-        cx      = mkts.get("X")
-        c2      = mkts.get("2")
-        cgg     = mkts.get("gg")
-        cngg    = mkts.get("ngg")
-        cover25 = mkts.get("over25")
-        cunder25= mkts.get("under25")
+        c1 = mkts.get("1")
+        cx = mkts.get("X")
+        c2 = mkts.get("2")
 
-        pronostic, motiv, cota_p, prob = alege_pronostic(
-            c1, cx, c2, cgg, cngg, cover25, cunder25
-        )
+        pronostic, motiv, cota_p, prob = alege_pronostic(c1, cx, c2)
 
         output.append({
             "data":           format_date(commence),
@@ -324,17 +285,13 @@ def process_league(sport_key: str, start, end) -> List[Dict]:
             "home":           home,
             "away":           away,
             "liga":           liga_name(sport_key),
-            "cota_1":         round(c1, 2)       if c1       else None,
-            "cota_x":         round(cx, 2)        if cx       else None,
-            "cota_2":         round(c2, 2)        if c2       else None,
-            "cota_gg":        round(cgg, 2)       if cgg      else None,
-            "cota_ngg":       round(cngg, 2)      if cngg     else None,
-            "cota_over25":    round(cover25, 2)   if cover25  else None,
-            "cota_under25":   round(cunder25, 2)  if cunder25 else None,
+            "cota_1":         round(c1, 2) if c1 else None,
+            "cota_x":         round(cx, 2) if cx else None,
+            "cota_2":         round(c2, 2) if c2 else None,
             "pronostic":      pronostic,
             "motiv":          motiv,
-            "cota_pronostic": round(cota_p, 2)    if cota_p   else None,
-            "probabilitate":  round(prob, 3)      if prob     else None,
+            "cota_pronostic": round(cota_p, 2) if cota_p else None,
+            "probabilitate":  round(prob, 3)    if prob    else None,
         })
     return output
 
