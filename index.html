@@ -9,6 +9,93 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css" />
+  <style>
+    /* ── Day filter tabs ── */
+    .day-filters {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      margin-bottom: 20px;
+    }
+    .day-tab {
+      padding: 7px 16px;
+      border-radius: 999px;
+      border: 1px solid var(--line);
+      background: rgba(255,255,255,.04);
+      color: var(--muted);
+      font-size: 13px;
+      font-weight: 700;
+      cursor: pointer;
+      font-family: inherit;
+      transition: all .2s;
+    }
+    .day-tab:hover { border-color: rgba(57,255,156,.4); color: var(--green); }
+    .day-tab.active {
+      background: rgba(57,255,156,.15);
+      border-color: var(--green);
+      color: var(--green);
+    }
+
+    /* ── Match card selected ── */
+    .match-card.is-selected {
+      border-color: rgba(57,255,156,.6) !important;
+      background: linear-gradient(180deg, rgba(57,255,156,.10), rgba(57,255,156,.04)) !important;
+      cursor: pointer;
+    }
+    .match-card { cursor: pointer; user-select: none; }
+
+    /* ── Sticky bottom bar ── */
+    #customBar {
+      position: fixed;
+      bottom: 0; left: 0; right: 0;
+      z-index: 150;
+      background: rgba(0,0,0,.97);
+      border-top: 1px solid rgba(57,255,156,.35);
+      padding: 14px 22px;
+      display: none;
+      align-items: center;
+      justify-content: space-between;
+      gap: 14px;
+      backdrop-filter: blur(12px);
+    }
+    #customBar.visible { display: flex; }
+    .custom-bar-info { display: flex; flex-direction: column; gap: 2px; }
+    .custom-bar-label { font-size: 11px; color: var(--muted); letter-spacing: .1em; text-transform: uppercase; }
+    .custom-bar-meta { font-size: 17px; font-weight: 800; }
+    .custom-bar-meta span { color: var(--green); }
+
+    /* ── Bilet Risc / Cota 2 nav buttons ── */
+    .nav-link-risc {
+      color: #ff6f91;
+      font-weight: 700;
+      background: none;
+      border: none;
+      cursor: pointer;
+      font-family: inherit;
+      font-size: inherit;
+      padding: 0;
+      transition: color .2s;
+    }
+    .nav-link-risc:hover { color: #ff9fb5; }
+
+    .nav-link-cota2 {
+      color: #f59e0b;
+      font-weight: 700;
+      background: none;
+      border: none;
+      cursor: pointer;
+      font-family: inherit;
+      font-size: inherit;
+      padding: 0;
+      transition: color .2s;
+    }
+    .nav-link-cota2:hover { color: #fcd34d; }
+
+    @media (max-width: 640px) {
+      #customBar { flex-direction: column; align-items: stretch; gap: 10px; }
+      #customBar .btn { width: 100%; }
+    }
+  </style>
 </head>
 <body>
 
@@ -26,9 +113,11 @@
         </span>
       </a>
       <div class="nav-actions">
-        <a href="#stiri" class="nav-link">Stiri</a>
+        <a href="#stiri"   class="nav-link">Stiri</a>
         <a href="#meciuri" class="nav-link">Meciuri</a>
-        <button id="biletAiBtn" class="nav-link alte-trigger" type="button">Bilet AI</button>
+        <button id="biletAiBtn"   class="nav-link alte-trigger" type="button">Bilet AI</button>
+        <button id="biletRiscBtn" class="nav-link-risc"         type="button">Bilet Risc</button>
+        <button id="cota2Btn"     class="nav-link-cota2"        type="button">Cota 2</button>
         <button id="makeTicketTop" class="btn btn-primary">Genereaza Bilet</button>
       </div>
     </nav>
@@ -45,7 +134,6 @@
           <a href="#meciuri" class="btn btn-ghost">Vezi meciurile</a>
         </div>
       </div>
-
       <aside class="hero-card glass-card cycle-card">
         <span class="cycle-label">NEXAS</span>
         <div class="cycle-word">
@@ -55,9 +143,7 @@
     </section>
 
     <section id="stiri" class="content-section section-in delay-1">
-      <div class="section-head">
-        <h2>Știri Sportive</h2>
-      </div>
+      <div class="section-head"><h2>Știri Sportive</h2></div>
       <div id="newsGrid" class="news-grid"></div>
     </section>
 
@@ -69,16 +155,32 @@
         </div>
         <button id="makeTicketMain" class="btn btn-primary">Genereaza Bilet</button>
       </div>
+      <div id="dayFilters" class="day-filters"></div>
       <div id="matchesGrid" class="matches-grid"></div>
     </section>
   </main>
 
+  <!-- Sticky bar bilet personalizat -->
+  <div id="customBar">
+    <div class="custom-bar-info">
+      <span class="custom-bar-label">Bilet personalizat</span>
+      <div class="custom-bar-meta">
+        <span id="customCount">0</span> meciuri · Cotă totală: <span id="customOdd">1.00</span>
+      </div>
+    </div>
+    <div style="display:flex;gap:10px;align-items:center;">
+      <button id="clearSelectionBtn" class="btn btn-ghost" style="padding:10px 16px;font-size:13px;">Golește</button>
+      <button id="customTicketBtn" class="btn btn-primary">Creează Bilet</button>
+    </div>
+  </div>
+
+  <!-- Modal -->
   <div id="ticketModal" class="modal" aria-hidden="true">
     <div class="modal-backdrop" data-close-modal></div>
     <div class="modal-panel">
       <button class="modal-close" data-close-modal aria-label="Inchide">×</button>
-      <p class="eyebrow" id="ticketEyebrow">Bilet generat aleatoriu</p>
-      <h2>Biletul tau</h2>
+      <p class="eyebrow" id="ticketEyebrow">Bilet</p>
+      <h2 id="ticketTitle">Biletul tau</h2>
       <div id="ticketBody" class="ticket-body"></div>
       <div class="ticket-total">
         <span>Cota totala</span>
