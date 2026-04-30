@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-30T13:10:59.195109+00:00",
-  "updated_at_afisaj": "30 aprilie 2026, 16:10",
+  "updated_at": "2026-04-30T20:18:44.542156+00:00",
+  "updated_at_afisaj": "30 aprilie 2026, 23:18",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,67 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 33,
+  "numar_stiri": 38,
   "stiri": [
+    {
+      "id": "83bdb93dddf8",
+      "titlu": "Iranul va participa la Cupa Mondială, în ciuda absenței de la congresul FIFA",
+      "rezumat": "Președintele FIFA, Gianni Infantino, a confirmat că Iranul va lua parte la Cupa Mondială din 2026, chiar dacă oficialii iranieni au lipsit de la congresul organismului mondial de fotbal din Canada. Declarația subliniază angajamentul FIFA de a include toate națiunile calificate, în ciuda oricăror tensiuni diplomatice sau administrative. Această asigurare este importantă pentru stabilitatea competiției și pentru fanii fotbalului din Iran.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-04-30T20:18:44.540030+00:00",
+      "data_afisaj": "30 aprilie 2026, 23:18"
+    },
+    {
+      "id": "34e6fce2f667",
+      "titlu": "Nottingham Forest și Aston Villa se duelează în semifinalele Europa League",
+      "rezumat": "Nottingham Forest și Aston Villa se confruntă în prima manșă a semifinalelor Europa League. Meciul, care a avut loc la ora 22:00 BST, este un moment crucial pentru ambele formații englezești în cursa pentru un loc în finala prestigioasei competiții europene. Echipele au abordat partida cu strategii diferite, Forest mizând pe contraatacuri, iar Villa pe construcția prin mijlocul terenului, cu Ollie Watkins căutând spațiile din spatele apărării adverse.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-04-30T20:18:44.540533+00:00",
+      "data_afisaj": "30 aprilie 2026, 23:18"
+    },
+    {
+      "id": "0321fd9ef69d",
+      "titlu": "Millie Bright, fosta căpitană a Angliei și Chelsea, se retrage din fotbal",
+      "rezumat": "Millie Bright, o figură emblematică a fotbalului feminin englez, fosta căpitană a naționalei Angliei și a clubului Chelsea, și-a anunțat retragerea din activitate. Decizia vine după o carieră de succes, marcată de numeroase trofee câștigate, dar și de o perioadă dificilă, afectată de accidentări persistente și de experiențe neplăcute legate de abuzul din mediul online. Bright lasă în urmă o moștenire impresionantă atât la nivel de club, cât și la echipa națională.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-04-30T20:18:44.541051+00:00",
+      "data_afisaj": "30 aprilie 2026, 23:18"
+    },
+    {
+      "id": "0e577e904a5b",
+      "titlu": "Mijlocașa Laura Coombs de la Manchester City își încheie cariera la finalul sezonului",
+      "rezumat": "Laura Coombs, mijlocașa echipei feminine Manchester City, a anunțat că se va retrage din fotbal la sfârșitul sezonului curent. Decizia marchează încheierea unei cariere dedicate sportului, în care a fost o prezență constantă și importantă pentru echipa sa. Anunțul vine pe măsură ce sezonul se apropie de final, iar Coombs se pregătește pentru o nouă etapă în viața sa, după o contribuție semnificativă la performanțele clubului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-04-30T20:18:44.541552+00:00",
+      "data_afisaj": "30 aprilie 2026, 23:18"
+    },
+    {
+      "id": "395831e7f2d3",
+      "titlu": "Selecționerul USMNT, Mauricio Pochettino, semnalează o lipsă de \"relație emoțională\" cu fotbalul în SUA",
+      "rezumat": "Mauricio Pochettino, antrenorul echipei naționale masculine a Statelor Unite (USMNT), a exprimat îngrijorarea că publicul american nu are o \"relație emoțională\" profundă cu fotbalul, spre deosebire de alte sporturi populare în țară. Într-o apariție la podcast, Pochettino a apărat perspectivele echipei sale la Cupa Mondială, dar a subliniat necesitatea de a dezvolta o legătură mai puternică între națiune și sport, inclusiv prin crearea mai multor spații de joc accesibile pentru copii și tineri.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-04-30T20:18:44.542137+00:00",
+      "data_afisaj": "30 aprilie 2026, 23:18"
+    },
     {
       "id": "fc860fcbd6b4",
       "titlu": "O echipă din play-off-ul Ligii 1 nu a obținut licența pentru cupele europene",
