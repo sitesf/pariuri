@@ -1,17 +1,18 @@
 # -*- coding: utf-8 -*-
 """
 Agent: Alte Meciuri
-- 14 ligi populare europene
-- 5 zile inainte
-- Max 50 meciuri (cele mai clare pronosticuri)
-- Output flat: cota_1, cota_x, cota_2, pronostic, motiv
+- 14 ligi principale + ligi extra daca < 50 meciuri
+- h2h + bts + totals intr-un singur request per liga
+- 7 zile inainte, 50 meciuri max
+- Rulare: miercuri 05:00 UTC
 """
 
 import json
 import os
+import random
 import time
 from datetime import datetime, timezone, timedelta
-from typing import Any, Dict, List, Optional
+from typing import Any, Dict, List, Optional, Tuple
 
 import requests
 
@@ -28,9 +29,10 @@ ODDS_API_KEY  = os.getenv("ODDS_API_KEY", "").strip()
 ODDS_API_BASE = "https://api.the-odds-api.com/v4"
 
 MAX_MECIURI = 50
-DAYS_AHEAD  = 5
+DAYS_AHEAD  = 7
 
-ODDS_SPORT_KEYS = [
+# 14 ligi principale
+MAIN_LEAGUES = [
     "soccer_uefa_champs_league",
     "soccer_uefa_europa_league",
     "soccer_uefa_europa_conference_league",
@@ -47,7 +49,25 @@ ODDS_SPORT_KEYS = [
     "soccer_efl_champ",
 ]
 
-CACHE_TTL = 6 * 60 * 60
+# Ligi extra — interogate doar daca < 50 meciuri
+EXTRA_LEAGUES = [
+    "soccer_spain_la_liga_2",
+    "soccer_italy_serie_b",
+    "soccer_germany_bundesliga2",
+    "soccer_france_ligue_two",
+    "soccer_greece_super_league",
+    "soccer_austria_bundesliga",
+    "soccer_denmark_superliga",
+    "soccer_sweden_allsvenskan",
+    "soccer_norway_eliteserien",
+    "soccer_poland_ekstraklasa",
+    "soccer_czech_rep_1_liga",
+    "soccer_switzerland_superleague",
+    "soccer_romania_1",
+    "soccer_croatia_hnl",
+]
+
+CACHE_TTL = 12 * 60 * 60  # 12 ore
 
 
 class DiskCache:
@@ -77,10 +97,7 @@ class DiskCache:
         return entry.get("value")
 
     def set(self, key: str, value: Any, ttl: int) -> None:
-        self.data[key] = {
-            "value": value,
-            "expires_at": time.time() + ttl,
-        }
+        self.data[key] = {"value": value, "expires_at": time.time() + ttl}
 
 
 cache = DiskCache(CACHE_FILE)
@@ -106,93 +123,11 @@ def format_time(iso: str) -> str:
         return ""
 
 
-def calculeaza_pronostic(c1: float, cx: float, c2: float):
-    """
-    Returneaza (pronostic, motiv, claritate).
-    claritate = probabilitate implicita (mai mare = mai sigur).
-    """
-    if not all([c1, cx, c2]):
-        return None, None, 0
-
-    prob1 = 1 / c1
-    prob2 = 1 / c2
-
-    # Favorit clar acasa (prob > 60%)
-    if c1 < 1.67 and c1 <= c2:
-        return "1", f"Gazde favorite clare (cota {c1:.2f})", prob1
-
-    # Favorit clar deplasare (prob > 60%)
-    if c2 < 1.67 and c2 < c1:
-        return "2", f"Oaspeti favoriți clari (cota {c2:.2f})", prob2
-
-    # Favorit moderat acasa (prob 50-60%)
-    if 1.67 <= c1 < 2.10 and c1 <= c2:
-        return "1X", f"Gazde ușor favorizate (cota 1: {c1:.2f}, X: {cx:.2f})", prob1
-
-    # Favorit moderat deplasare (prob 50-60%)
-    if 1.67 <= c2 < 2.10 and c2 < c1:
-        return "X2", f"Oaspeți ușor favorizați (cota 2: {c2:.2f}, X: {cx:.2f})", prob2
-
-    # Meci echilibrat
-    if abs(c1 - c2) < 0.40 and 2.60 <= cx <= 3.60:
-        return "X", f"Meci echilibrat, egal posibil (1:{c1:.2f} X:{cx:.2f} 2:{c2:.2f})", 1 / cx
-
-    return None, None, 0
-
-
-def odds_get(sport_key: str) -> List[Dict]:
-    if not ODDS_API_KEY:
-        return []
-
-    cache_key = f"odds_{sport_key}"
-    cached = cache.get(cache_key)
-    if cached is not None:
-        return cached
-
-    try:
-        resp = requests.get(
-            f"{ODDS_API_BASE}/sports/{sport_key}/odds",
-            params={
-                "apiKey": ODDS_API_KEY,
-                "regions": "eu",
-                "markets": "h2h",
-                "oddsFormat": "decimal",
-                "dateFormat": "iso",
-            },
-            timeout=20,
-        )
-        if resp.status_code == 200:
-            data = resp.json()
-            cache.set(cache_key, data, CACHE_TTL)
-            return data
-        else:
-            print(f"[odds-api] {sport_key}: HTTP {resp.status_code}")
-            return []
-    except Exception as exc:
-        print(f"[odds-api] {sport_key}: {exc}")
-        return []
-
-
-def extract_h2h(match: Dict, home: str, away: str) -> Optional[Dict[str, float]]:
-    result: Dict[str, float] = {}
-    for bookmaker in match.get("bookmakers", []):
-        for market in bookmaker.get("markets", []):
-            if market.get("key") != "h2h":
-                continue
-            for outcome in market.get("outcomes", []):
-                name  = outcome.get("name", "")
-                price = outcome.get("price")
-                if price is None:
-                    continue
-                if name == home:
-                    result["1"] = float(price)
-                elif name == away:
-                    result["2"] = float(price)
-                else:
-                    result["X"] = float(price)
-            if len(result) >= 2:
-                return result
-    return result if result else None
+def calc_dc(ca: float, cb: float) -> float:
+    """Double chance: 1/(1/ca + 1/cb)"""
+    if ca and cb:
+        return 1 / (1 / ca + 1 / cb)
+    return 0
 
 
 def liga_name(sport_key: str) -> str:
@@ -211,66 +146,236 @@ def liga_name(sport_key: str) -> str:
         "soccer_belgium_first_div":             "Belgian Pro League",
         "soccer_scotland_premiership":          "Scottish Premiership",
         "soccer_efl_champ":                     "Championship",
+        "soccer_spain_la_liga_2":               "La Liga 2",
+        "soccer_italy_serie_b":                 "Serie B",
+        "soccer_germany_bundesliga2":           "Bundesliga 2",
+        "soccer_france_ligue_two":              "Ligue 2",
+        "soccer_greece_super_league":           "Super League Grecia",
+        "soccer_austria_bundesliga":            "Bundesliga Austria",
+        "soccer_denmark_superliga":             "Superliga Danemarca",
+        "soccer_sweden_allsvenskan":            "Allsvenskan",
+        "soccer_norway_eliteserien":            "Eliteserien",
+        "soccer_poland_ekstraklasa":            "Ekstraklasa",
+        "soccer_czech_rep_1_liga":              "1. Liga Cehia",
+        "soccer_switzerland_superleague":       "Super League Elvetia",
+        "soccer_romania_1":                     "Liga 1 Romania",
+        "soccer_croatia_hnl":                   "HNL Croatia",
     }
     return mapping.get(sport_key, sport_key)
+
+
+def odds_get(sport_key: str) -> List[Dict]:
+    if not ODDS_API_KEY:
+        return []
+    cache_key = f"odds3_{sport_key}"
+    cached = cache.get(cache_key)
+    if cached is not None:
+        return cached
+    try:
+        resp = requests.get(
+            f"{ODDS_API_BASE}/sports/{sport_key}/odds",
+            params={
+                "apiKey": ODDS_API_KEY,
+                "regions": "eu",
+                "markets": "h2h,bts,totals",
+                "oddsFormat": "decimal",
+                "dateFormat": "iso",
+            },
+            timeout=25,
+        )
+        if resp.status_code == 200:
+            data = resp.json()
+            cache.set(cache_key, data, CACHE_TTL)
+            print(f"[odds-api] {sport_key}: {len(data)} meciuri")
+            return data
+        else:
+            print(f"[odds-api] {sport_key}: HTTP {resp.status_code}")
+            return []
+    except Exception as exc:
+        print(f"[odds-api] {sport_key}: {exc}")
+        return []
+
+
+def extract_markets(match: Dict, home: str, away: str) -> Dict[str, Any]:
+    """Extrage h2h, bts si totals dintr-un singur match."""
+    result: Dict[str, Any] = {}
+    for bookmaker in match.get("bookmakers", []):
+        for market in bookmaker.get("markets", []):
+            key = market.get("key", "")
+            if key == "h2h" and "1" not in result:
+                for outcome in market.get("outcomes", []):
+                    name  = outcome.get("name", "")
+                    price = outcome.get("price")
+                    if price is None:
+                        continue
+                    if name == home:
+                        result["1"] = float(price)
+                    elif name == away:
+                        result["2"] = float(price)
+                    else:
+                        result["X"] = float(price)
+            elif key == "bts" and "gg" not in result:
+                for outcome in market.get("outcomes", []):
+                    name  = outcome.get("name", "")
+                    price = outcome.get("price")
+                    if price is None:
+                        continue
+                    if name == "Yes":
+                        result["gg"] = float(price)
+                    elif name == "No":
+                        result["ngg"] = float(price)
+            elif key == "totals" and "over25" not in result:
+                for outcome in market.get("outcomes", []):
+                    name  = outcome.get("name", "")
+                    point = outcome.get("point", 0)
+                    price = outcome.get("price")
+                    if price is None:
+                        continue
+                    if abs(point - 2.5) < 0.01:
+                        if name == "Over":
+                            result["over25"] = float(price)
+                        elif name == "Under":
+                            result["under25"] = float(price)
+        # daca am toate pietele, iesim
+        if all(k in result for k in ["1", "X", "2"]):
+            break
+    return result
+
+
+def alege_pronostic(
+    c1, cx, c2, cgg, cngg, cover25, cunder25
+) -> Tuple[Optional[str], Optional[str], float, float]:
+    """
+    Alege cel mai bun pronostic dintre toate pietele.
+    Returneaza: (pronostic, motiv, cota_pronostic, probabilitate)
+    """
+    candidati = []
+
+    # H2H — victorie clara
+    if c1 and c1 <= 2.00:
+        if c1 < 1.67:
+            candidati.append(("1", f"Gazde favorite clare (cota {c1:.2f})", c1, 1/c1))
+        elif c1 < 2.00 and cx:
+            dc = calc_dc(c1, cx)
+            if dc > 1:
+                candidati.append(("1X", f"Gazde ușor favorizate (1:{c1:.2f} X:{cx:.2f})", dc, 1/dc))
+
+    if c2 and c2 <= 2.00:
+        if c2 < 1.67:
+            candidati.append(("2", f"Oaspeți favoriți clari (cota {c2:.2f})", c2, 1/c2))
+        elif c2 < 2.00 and cx:
+            dc = calc_dc(cx, c2)
+            if dc > 1:
+                candidati.append(("X2", f"Oaspeți ușor favorizați (2:{c2:.2f} X:{cx:.2f})", dc, 1/dc))
+
+    # GG
+    if cgg and cgg < 1.75:
+        candidati.append(("GG", f"Ambele marchează (cota {cgg:.2f})", cgg, 1/cgg))
+
+    # Totals
+    if cunder25 and cunder25 < 1.75:
+        candidati.append(("Sub 2.5", f"Sub 2.5 goluri (cota {cunder25:.2f})", cunder25, 1/cunder25))
+    if cover25 and cover25 < 1.70:
+        candidati.append(("Peste 2.5", f"Peste 2.5 goluri (cota {cover25:.2f})", cover25, 1/cover25))
+
+    if not candidati:
+        return None, None, 0.0, 0.0
+
+    # Sorteaza dupa probabilitate descrescator (cel mai sigur primul)
+    candidati.sort(key=lambda x: -x[3])
+    best = candidati[0]
+    return best[0], best[1], best[2], best[3]
+
+
+def process_league(sport_key: str, start, end) -> List[Dict]:
+    matches = odds_get(sport_key)
+    output = []
+    for match in matches:
+        commence = match.get("commence_time", "")
+        try:
+            match_date = datetime.fromisoformat(commence.replace("Z", "+00:00")).date()
+        except Exception:
+            continue
+        if match_date < start or match_date > end:
+            continue
+
+        home = match.get("home_team", "")
+        away = match.get("away_team", "")
+        mkts = extract_markets(match, home, away)
+
+        if not mkts.get("1"):
+            continue
+
+        c1      = mkts.get("1")
+        cx      = mkts.get("X")
+        c2      = mkts.get("2")
+        cgg     = mkts.get("gg")
+        cngg    = mkts.get("ngg")
+        cover25 = mkts.get("over25")
+        cunder25= mkts.get("under25")
+
+        pronostic, motiv, cota_p, prob = alege_pronostic(
+            c1, cx, c2, cgg, cngg, cover25, cunder25
+        )
+
+        output.append({
+            "data":           format_date(commence),
+            "ora":            format_time(commence),
+            "home":           home,
+            "away":           away,
+            "liga":           liga_name(sport_key),
+            "cota_1":         round(c1, 2)       if c1       else None,
+            "cota_x":         round(cx, 2)        if cx       else None,
+            "cota_2":         round(c2, 2)        if c2       else None,
+            "cota_gg":        round(cgg, 2)       if cgg      else None,
+            "cota_ngg":       round(cngg, 2)      if cngg     else None,
+            "cota_over25":    round(cover25, 2)   if cover25  else None,
+            "cota_under25":   round(cunder25, 2)  if cunder25 else None,
+            "pronostic":      pronostic,
+            "motiv":          motiv,
+            "cota_pronostic": round(cota_p, 2)    if cota_p   else None,
+            "probabilitate":  round(prob, 3)      if prob     else None,
+        })
+    return output
 
 
 def collect() -> List[Dict]:
     start = datetime.now(timezone.utc).date()
     end   = start + timedelta(days=DAYS_AHEAD)
-    candidates = []
 
-    for sport_key in ODDS_SPORT_KEYS:
-        matches = odds_get(sport_key)
-        for match in matches:
-            commence = match.get("commence_time", "")
-            try:
-                match_date = datetime.fromisoformat(
-                    commence.replace("Z", "+00:00")
-                ).date()
-            except Exception:
-                continue
-            if match_date < start or match_date > end:
-                continue
+    all_matches = []
+    seen = set()
 
-            home = match.get("home_team", "")
-            away = match.get("away_team", "")
-            h2h  = extract_h2h(match, home, away)
-            if not h2h or len(h2h) < 2:
-                continue
+    def add_unique(matches):
+        for m in matches:
+            key = f"{m['home']}_{m['away']}_{m['data']}"
+            if key not in seen:
+                seen.add(key)
+                all_matches.append(m)
 
-            c1 = h2h.get("1")
-            cx = h2h.get("X")
-            c2 = h2h.get("2")
+    # Ligi principale
+    for sk in MAIN_LEAGUES:
+        add_unique(process_league(sk, start, end))
 
-            pronostic, motiv, claritate = calculeaza_pronostic(c1, cx, c2)
+    print(f"[collect] dupa ligi principale: {len(all_matches)} meciuri")
 
-            candidates.append({
-                "data":       format_date(commence),
-                "ora":        format_time(commence),
-                "home":       home,
-                "away":       away,
-                "liga":       liga_name(sport_key),
-                "cota_1":     round(c1, 2) if c1 else None,
-                "cota_x":     round(cx, 2) if cx else None,
-                "cota_2":     round(c2, 2) if c2 else None,
-                "pronostic":  pronostic,
-                "motiv":      motiv,
-                "_claritate": claritate,
-            })
+    # Ligi extra daca < 50
+    if len(all_matches) < MAX_MECIURI:
+        extra = list(EXTRA_LEAGUES)
+        random.shuffle(extra)
+        for sk in extra:
+            if len(all_matches) >= MAX_MECIURI:
+                break
+            add_unique(process_league(sk, start, end))
+            print(f"[collect] dupa {sk}: {len(all_matches)} meciuri")
 
-    # Sorteaza: cu pronostic primul, apoi dupa claritate descrescator
-    candidates.sort(key=lambda x: (
-        0 if x["pronostic"] else 1,
-        -x["_claritate"]
+    # Sorteaza: cu pronostic primul, apoi dupa probabilitate descrescator
+    all_matches.sort(key=lambda x: (
+        0 if x.get("pronostic") else 1,
+        -(x.get("probabilitate") or 0)
     ))
 
-    output = []
-    for item in candidates[:MAX_MECIURI]:
-        item.pop("_claritate", None)
-        output.append(item)
-
-    return output
+    return all_matches[:MAX_MECIURI]
 
 
 def main() -> None:
