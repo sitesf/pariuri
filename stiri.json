@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-29T20:43:47.615153+00:00",
-  "updated_at_afisaj": "29 aprilie 2026, 23:43",
+  "updated_at": "2026-04-30T12:05:47.593613+00:00",
+  "updated_at_afisaj": "30 aprilie 2026, 15:05",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,69 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 23,
+  "numar_stiri": 28,
   "stiri": [
+    {
+      "id": "d3a055810437",
+      "titlu": "Burnley o vrea pe Bellamy după ce Parker pleacă",
+      "rezumat": "Burnley este interesat să-l numească pe Craig Bellamy ca antrenor după ce Scott Parker pleacă după retrogradarea din Premier League.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-04-30T12:05:19.717288+00:00",
+      "data_afisaj": "30 aprilie 2026, 15:05"
+    },
+    {
+      "id": "fc16fdaa835d",
+      "titlu": "Mainoo semnează un nou contract cu Man Utd până în 2031",
+      "rezumat": "Kobbie Mainoo semnează un nou contract cu Manchester United, care îl va ține la Old Trafford până în 2031.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-04-30T12:05:19.717736+00:00",
+      "data_afisaj": "30 aprilie 2026, 15:05"
+    },
+    {
+      "id": "d693add639f3",
+      "titlu": "Căpitanul Angliei Williamson a semnat un nou contract cu Arsenal",
+      "rezumat": "Leah Williamson este a patra jucătoare care și-a angajat viitorul clubului în ultimele săptămâni, Kim Little, Stina Blackstenius și Steph Catley semnând, de asemenea, noi contracte.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-04-30T12:05:19.718068+00:00",
+      "data_afisaj": "30 aprilie 2026, 15:05"
+    },
+    {
+      "id": "ae5f87935e34",
+      "titlu": "VAR respinge Arsenal penalty cu întârziere la egalitate împotriva Atletico",
+      "rezumat": "Viktor Gyokeres îl pune pe Arsenal înainte de la fața locului înainte de un penalty de egalare din partea lui Julian Alvarez de la Atletico Madrid în repriza secundă. Un al treilea penalty pentru Gunners este anulat de VAR, ceea ce asigură ca prima manșă a semifinalei Ligii Campionilor să se încheie la egalitate 1-1.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-04-30T12:05:19.718366+00:00",
+      "data_afisaj": "30 aprilie 2026, 15:05"
+    },
+    {
+      "id": "3f066979ac56",
+      "titlu": "Biletele la finala Cupei României, epuizate instant. FRF a făcut anunţul",
+      "rezumat": "(rezumat indisponibil)",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-04-30T12:05:19.718722+00:00",
+      "data_afisaj": "30 aprilie 2026, 15:05"
+    },
     {
       "id": "d5280458c455",
       "titlu": "Mudryk de la Chelsea face apel împotriva interdicției de patru ani din partea FA",
