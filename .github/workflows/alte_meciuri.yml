@@ -25,6 +25,9 @@ jobs:
         run: pip install requests
 
       - name: Run agent alte meciuri
+        env:
+          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
         run: python scripts/alte_meciuri.py
 
       - name: Commit & Push JSON
