@@ -1,7 +1,7 @@
 {
   "data_start": "2026-04-30",
   "data_final": "2026-05-07",
-  "updated_at": "2026-04-30T18:05:04.572519+00:00",
+  "updated_at": "2026-04-30T18:12:39.352399+00:00",
   "surse": [
     "The Odds API"
   ],
@@ -429,6 +429,20 @@
       "probabilitate": 0.798
     },
     {
+      "data": "2026-04-30",
+      "ora": "22:00",
+      "home": "Shakhtar Donetsk",
+      "away": "Crystal Palace",
+      "liga": "UEFA Conference League",
+      "cota_1": 4.29,
+      "cota_x": 3.42,
+      "cota_2": 1.98,
+      "pronostic": "X2",
+      "motiv": "Oaspeți ușor favorizați (2:1.98 X:3.42)",
+      "cota_pronostic": 1.25,
+      "probabilitate": 0.797
+    },
+    {
       "data": "2026-05-03",
       "ora": "17:45",
       "home": "Sparta Rotterdam",
@@ -693,20 +707,6 @@
       "motiv": "Gazde favorite clare (cota 1.49)",
       "cota_pronostic": 1.49,
       "probabilitate": 0.671
-    },
-    {
-      "data": "2026-05-03",
-      "ora": "20:00",
-      "home": "Braga",
-      "away": "Estoril",
-      "liga": "Primeira Liga",
-      "cota_1": 1.53,
-      "cota_x": 4.1,
-      "cota_2": 5.4,
-      "pronostic": "1",
-      "motiv": "Gazde favorite clare (cota 1.53)",
-      "cota_pronostic": 1.53,
-      "probabilitate": 0.654
     }
   ]
 }
