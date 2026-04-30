@@ -2,8 +2,8 @@
 """
 Agent: Alte Meciuri
 - 14 ligi populare europene
-- Pronostic simplu bazat pe cote
-- Max 20 meciuri selectate (cele mai clare)
+- 5 zile inainte
+- Max 50 meciuri (cele mai clare pronosticuri)
 - Output flat: cota_1, cota_x, cota_2, pronostic, motiv
 """
 
@@ -24,13 +24,12 @@ except Exception:
 OUTPUT_FILE = "alte_meciuri.json"
 CACHE_FILE  = "cache_alte_meciuri.json"
 
-ODDS_API_KEY = os.getenv("ODDS_API_KEY", "").strip()
+ODDS_API_KEY  = os.getenv("ODDS_API_KEY", "").strip()
 ODDS_API_BASE = "https://api.the-odds-api.com/v4"
 
-MAX_MECIURI = 20
-DAYS_AHEAD  = 2   # azi + maine — suficient, putine requesturi
+MAX_MECIURI = 50
+DAYS_AHEAD  = 5
 
-# 14 ligi populare (1 request / liga)
 ODDS_SPORT_KEYS = [
     "soccer_uefa_champs_league",
     "soccer_uefa_europa_league",
@@ -48,10 +47,8 @@ ODDS_SPORT_KEYS = [
     "soccer_efl_champ",
 ]
 
-CACHE_TTL = 6 * 60 * 60   # 6 ore
+CACHE_TTL = 6 * 60 * 60
 
-
-# ── Cache ────────────────────────────────────────────────────────────────────
 
 class DiskCache:
     def __init__(self, path: str):
@@ -89,8 +86,6 @@ class DiskCache:
 cache = DiskCache(CACHE_FILE)
 
 
-# ── Helpers ───────────────────────────────────────────────────────────────────
-
 def now_iso() -> str:
     return datetime.now(timezone.utc).isoformat()
 
@@ -111,42 +106,39 @@ def format_time(iso: str) -> str:
         return ""
 
 
-# ── Pronostic logic ───────────────────────────────────────────────────────────
-
 def calculeaza_pronostic(c1: float, cx: float, c2: float):
     """
     Returneaza (pronostic, motiv, claritate).
-    claritate = cat de sigur e pronosticul (mai mic = mai sigur).
+    claritate = probabilitate implicita (mai mare = mai sigur).
     """
     if not all([c1, cx, c2]):
-        return None, None, 999
+        return None, None, 0
 
-    min_c = min(c1, cx, c2)
+    prob1 = 1 / c1
+    prob2 = 1 / c2
 
-    # Favorit clar acasa
-    if c1 == min_c and c1 < 1.65:
-        return "1", f"Gazde favorite clare (cota {c1:.2f})", c1
+    # Favorit clar acasa (prob > 60%)
+    if c1 < 1.67 and c1 <= c2:
+        return "1", f"Gazde favorite clare (cota {c1:.2f})", prob1
 
-    # Favorit clar deplasare
-    if c2 == min_c and c2 < 1.65:
-        return "2", f"Oaspeti favoriți clari (cota {c2:.2f})", c2
+    # Favorit clar deplasare (prob > 60%)
+    if c2 < 1.67 and c2 < c1:
+        return "2", f"Oaspeti favoriți clari (cota {c2:.2f})", prob2
 
-    # Acasa nu pierde
-    if c1 == min_c and 1.65 <= c1 < 2.10:
-        return "1X", f"Gazde ușor favorizate (cota 1: {c1:.2f}, X: {cx:.2f})", c1
+    # Favorit moderat acasa (prob 50-60%)
+    if 1.67 <= c1 < 2.10 and c1 <= c2:
+        return "1X", f"Gazde ușor favorizate (cota 1: {c1:.2f}, X: {cx:.2f})", prob1
 
-    # Deplasare nu pierde
-    if c2 == min_c and 1.65 <= c2 < 2.10:
-        return "X2", f"Oaspeți ușor favorizați (cota 2: {c2:.2f}, X: {cx:.2f})", c2
+    # Favorit moderat deplasare (prob 50-60%)
+    if 1.67 <= c2 < 2.10 and c2 < c1:
+        return "X2", f"Oaspeți ușor favorizați (cota 2: {c2:.2f}, X: {cx:.2f})", prob2
 
-    # Meci echilibrat, sanse de egal
+    # Meci echilibrat
     if abs(c1 - c2) < 0.40 and 2.60 <= cx <= 3.60:
-        return "X", f"Meci echilibrat, egal posibil (1:{c1:.2f} X:{cx:.2f} 2:{c2:.2f})", cx
+        return "X", f"Meci echilibrat, egal posibil (1:{c1:.2f} X:{cx:.2f} 2:{c2:.2f})", 1 / cx
 
-    return None, None, 999
+    return None, None, 0
 
-
-# ── API ───────────────────────────────────────────────────────────────────────
 
 def odds_get(sport_key: str) -> List[Dict]:
     if not ODDS_API_KEY:
@@ -181,12 +173,8 @@ def odds_get(sport_key: str) -> List[Dict]:
         return []
 
 
-def extract_h2h(match: Dict) -> Optional[Dict[str, float]]:
-    """Extrage cotele 1/X/2 din primul bookmaker disponibil."""
-    home = match.get("home_team", "")
-    away = match.get("away_team", "")
+def extract_h2h(match: Dict, home: str, away: str) -> Optional[Dict[str, float]]:
     result: Dict[str, float] = {}
-
     for bookmaker in match.get("bookmakers", []):
         for market in bookmaker.get("markets", []):
             if market.get("key") != "h2h":
@@ -202,43 +190,39 @@ def extract_h2h(match: Dict) -> Optional[Dict[str, float]]:
                     result["2"] = float(price)
                 else:
                     result["X"] = float(price)
-            if len(result) == 3:
+            if len(result) >= 2:
                 return result
     return result if result else None
 
 
 def liga_name(sport_key: str) -> str:
     mapping = {
-        "soccer_uefa_champs_league":              "UEFA Champions League",
-        "soccer_uefa_europa_league":              "UEFA Europa League",
-        "soccer_uefa_europa_conference_league":   "UEFA Conference League",
-        "soccer_epl":                             "Premier League",
-        "soccer_spain_la_liga":                   "La Liga",
-        "soccer_italy_serie_a":                   "Serie A",
-        "soccer_germany_bundesliga":              "Bundesliga",
-        "soccer_france_ligue_one":                "Ligue 1",
-        "soccer_netherlands_eredivisie":          "Eredivisie",
-        "soccer_portugal_primeira_liga":          "Primeira Liga",
-        "soccer_turkey_super_league":             "Süper Lig",
-        "soccer_belgium_first_div":               "Belgian Pro League",
-        "soccer_scotland_premiership":            "Scottish Premiership",
-        "soccer_efl_champ":                       "Championship",
+        "soccer_uefa_champs_league":            "UEFA Champions League",
+        "soccer_uefa_europa_league":            "UEFA Europa League",
+        "soccer_uefa_europa_conference_league": "UEFA Conference League",
+        "soccer_epl":                           "Premier League",
+        "soccer_spain_la_liga":                 "La Liga",
+        "soccer_italy_serie_a":                 "Serie A",
+        "soccer_germany_bundesliga":            "Bundesliga",
+        "soccer_france_ligue_one":              "Ligue 1",
+        "soccer_netherlands_eredivisie":        "Eredivisie",
+        "soccer_portugal_primeira_liga":        "Primeira Liga",
+        "soccer_turkey_super_league":           "Süper Lig",
+        "soccer_belgium_first_div":             "Belgian Pro League",
+        "soccer_scotland_premiership":          "Scottish Premiership",
+        "soccer_efl_champ":                     "Championship",
     }
     return mapping.get(sport_key, sport_key)
 
 
-# ── Main ──────────────────────────────────────────────────────────────────────
-
 def collect() -> List[Dict]:
     start = datetime.now(timezone.utc).date()
     end   = start + timedelta(days=DAYS_AHEAD)
-
     candidates = []
 
     for sport_key in ODDS_SPORT_KEYS:
         matches = odds_get(sport_key)
         for match in matches:
-            # Filtru interval date
             commence = match.get("commence_time", "")
             try:
                 match_date = datetime.fromisoformat(
@@ -249,7 +233,9 @@ def collect() -> List[Dict]:
             if match_date < start or match_date > end:
                 continue
 
-            h2h = extract_h2h(match)
+            home = match.get("home_team", "")
+            away = match.get("away_team", "")
+            h2h  = extract_h2h(match, home, away)
             if not h2h or len(h2h) < 2:
                 continue
 
@@ -262,8 +248,8 @@ def collect() -> List[Dict]:
             candidates.append({
                 "data":       format_date(commence),
                 "ora":        format_time(commence),
-                "home":       match.get("home_team", ""),
-                "away":       match.get("away_team", ""),
+                "home":       home,
+                "away":       away,
                 "liga":       liga_name(sport_key),
                 "cota_1":     round(c1, 2) if c1 else None,
                 "cota_x":     round(cx, 2) if cx else None,
@@ -273,13 +259,12 @@ def collect() -> List[Dict]:
                 "_claritate": claritate,
             })
 
-    # Sorteaza: mai intai cele cu pronostic, apoi dupa claritate
+    # Sorteaza: cu pronostic primul, apoi dupa claritate descrescator
     candidates.sort(key=lambda x: (
         0 if x["pronostic"] else 1,
-        x["_claritate"]
+        -x["_claritate"]
     ))
 
-    # Pastreaza max 20, sterge campul intern
     output = []
     for item in candidates[:MAX_MECIURI]:
         item.pop("_claritate", None)
@@ -293,7 +278,6 @@ def main() -> None:
     end_date   = (datetime.now(timezone.utc) + timedelta(days=DAYS_AHEAD)).strftime("%Y-%m-%d")
 
     matches = []
-    status  = ""
     error   = None
 
     try:
