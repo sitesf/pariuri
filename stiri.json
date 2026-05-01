@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-01T11:43:50.626248+00:00",
-  "updated_at_afisaj": "1 mai 2026, 14:43",
+  "updated_at": "2026-05-01T19:57:31.440216+00:00",
+  "updated_at_afisaj": "1 mai 2026, 22:57",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,56 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 53,
+  "numar_stiri": 57,
   "stiri": [
+    {
+      "id": "65ae42da2720",
+      "titlu": "Lupta pentru promovare în Championship ajunge la apogeu în ultima etapă",
+      "rezumat": "Ipswich Town, Millwall și Middlesbrough se confruntă într-o bătălie intensă pentru promovarea în Premier League, în ultima zi a sezonului din Championship. Trei echipe luptă pentru un loc alături de Coventry în prima ligă, cu meciuri decisive programate sâmbătă la prânz. Fiecare club speră să obțină rezultatul necesar pentru a-și asigura ascensiunea în eșalonul superior al fotbalului englez, într-o zi plină de tensiune și emoție.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-05-01T19:57:31.437807+00:00",
+      "data_afisaj": "1 mai 2026, 22:57"
+    },
+    {
+      "id": "1f14963c0e44",
+      "titlu": "Arsenal Women vizează o finală istorică în Liga Campionilor",
+      "rezumat": "Echipa feminină Arsenal se pregătește să devină primul club britanic care ajunge în două finale europene consecutive, în timp ce se deplasează în Franța pentru returul semifinalei Ligii Campionilor împotriva echipei OL Lyonnes. Cu un avantaj de 2-1 obținut în prima manșă, formația antrenată de Renée Slegers speră să repete performanța din sezonul trecut și să-și asigure un loc în marea finală, marcând un moment important pentru fotbalul feminin britanic.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-01T19:57:31.438548+00:00",
+      "data_afisaj": "1 mai 2026, 22:57"
+    },
+    {
+      "id": "87edde2f2321",
+      "titlu": "Finală dramatică în WSL2 pentru locurile de promovare în Women's Super League",
+      "rezumat": "Trei echipe – Charlton, Birmingham și Crystal Palace – se luptă pentru cele două locuri de promovare automată în Women's Super League, într-o ultimă etapă plină de dramatism. Cu doar un punct diferență între ele și cu două dintre echipe confruntându-se direct, deznodământul sezonului din WSL2 promite emoții intense. Cluburile visează la un loc în prima ligă feminină, într-un sezon cu reguli speciale de promovare, aducând o miză uriașă pe teren.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-05-01T19:57:31.439390+00:00",
+      "data_afisaj": "1 mai 2026, 22:57"
+    },
+    {
+      "id": "78f07ee7de64",
+      "titlu": "Roberto De Zerbi de la Tottenham: „E ca și cum am plânge și am fi retrogradați”",
+      "rezumat": "Antrenorul lui Tottenham, Roberto de Zerbi, a susținut un monolog emoționant, îndemnând echipa să „reducă la tăcere vocea din interiorul nostru” în lupta clubului pentru a evita retrogradarea din Premier League. Declarațiile sale subliniază presiunea și starea de spirit din vestiar, în contextul unei situații dificile în campionat. De Zerbi încearcă să remotiveze jucătorii pentru a depăși momentul critic și a asigura rămânerea în prima ligă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-01T19:57:31.440199+00:00",
+      "data_afisaj": "1 mai 2026, 22:57"
+    },
     {
       "id": "883aa844068a",
       "titlu": "Unai Emery critică vehement decizia VAR după semifinala Europa League",
