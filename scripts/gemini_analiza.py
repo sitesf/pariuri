@@ -1,10 +1,9 @@
 # -*- coding: utf-8 -*-
 """
 Agent: Gemini Analiza Meciuri
-- Citeste alte_meciuri.json
-- Trimite fiecare meci catre Gemini 2.0 Flash
-- Extrage pronostic + cota + tip pariu + incredere
-- Actualizeaza alte_meciuri.json
+- Delay 6s intre requesturi (sub limita de 15 RPM)
+- Retry automat la 429 (rate limit)
+- Detectie automata model disponibil
 """
 
 import json
@@ -17,20 +16,20 @@ from typing import Any, Dict, Optional
 import requests
 
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "").strip()
+GEMINI_BASE    = "https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={key}"
 
-# Incercam modele in ordine pana gasim unul disponibil
 MODELS_TO_TRY = [
     "gemini-2.0-flash",
-    "gemini-2.0-flash-exp",
-    "gemini-1.5-flash",
-    "gemini-1.5-flash-latest",
+    "gemini-1.5-pro-latest",
+    "gemini-1.5-pro",
 ]
-
-GEMINI_BASE = "https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={key}"
 
 INPUT_FILE  = "alte_meciuri.json"
 OUTPUT_FILE = "alte_meciuri.json"
-DELAY       = 4  # secunde intre requesturi
+
+DELAY_SECONDS  = 6    # intre requesturi normale
+RETRY_WAIT     = 65   # secunde de asteptare la 429
+MAX_RETRIES    = 3
 
 
 def build_prompt(match: Dict[str, Any]) -> str:
@@ -52,97 +51,74 @@ Cote: 1={c1}, X={cx}, 2={c2}
 
 Analizeaza:
 1. Forma recenta a echipelor (ultimele 5-10 meciuri)
-2. Absente/suspendari importante
+2. Absente si suspendari importante
 3. Tipul meciului si miza
 4. Stilul de joc al ambelor echipe
 5. Head to head recent
 
-Returneaza EXCLUSIV acest JSON (fara markdown, fara ```json, fara alte cuvinte):
-{{"pronostic":"1X","tip_pariu":"Gazde nu pierd","cota_recomandata":1.45,"incredere":3,"motiv_scurt":"descriere scurta in romana","pariu_alternativ":"Sub 2.5 goluri","avertisment":"ce ar putea invalida pronosticul"}}
+Returneaza EXCLUSIV acest JSON (fara markdown, fara ```json, fara alte cuvinte inainte sau dupa):
+{{"pronostic":"1X","tip_pariu":"Gazde nu pierd","cota_recomandata":1.45,"incredere":3,"motiv_scurt":"descriere scurta max 15 cuvinte in romana","pariu_alternativ":"Sub 2.5 goluri","avertisment":"ce ar putea invalida pronosticul"}}
 
 Valori posibile pentru pronostic: 1, X, 2, 1X, X2, GG, NG, Sub 2.5, Peste 2.5
-incredere este un numar intreg de la 1 la 5
+incredere este un numar intreg de la 1 la 5 (5=maxim sigur)
 cota_recomandata este un numar zecimal calculat din cotele date"""
 
 
 def call_gemini(prompt: str, model: str) -> Optional[str]:
     url = GEMINI_BASE.format(model=model, key=GEMINI_API_KEY)
 
-    # Incercam mai intai fara grounding (mai simplu, mai stabil)
     payload = {
         "contents": [{"parts": [{"text": prompt}]}],
         "generationConfig": {
             "temperature": 0.1,
-            "maxOutputTokens": 512,
+            "maxOutputTokens": 256,
             "responseMimeType": "application/json",
         },
     }
 
-    try:
-        resp = requests.post(
-            url,
-            json=payload,
-            headers={"Content-Type": "application/json"},
-            timeout=30,
-        )
-        if resp.status_code == 200:
-            data = resp.json()
-            parts = data.get("candidates", [{}])[0].get("content", {}).get("parts", [])
-            text = "".join(p.get("text", "") for p in parts).strip()
-            return text
-        else:
-            print(f"  [gemini/{model}] HTTP {resp.status_code}: {resp.text[:150]}")
-            return None
-    except Exception as e:
-        print(f"  [gemini/{model}] Eroare: {e}")
-        return None
+    for attempt in range(1, MAX_RETRIES + 1):
+        try:
+            resp = requests.post(
+                url,
+                json=payload,
+                headers={"Content-Type": "application/json"},
+                timeout=30,
+            )
 
+            if resp.status_code == 200:
+                data = resp.json()
+                parts = (data.get("candidates") or [{}])[0] \
+                    .get("content", {}).get("parts", [])
+                return "".join(p.get("text", "") for p in parts).strip()
 
-def call_gemini_with_search(prompt: str, model: str) -> Optional[str]:
-    """Varianta cu Google Search grounding."""
-    url = GEMINI_BASE.format(model=model, key=GEMINI_API_KEY)
+            elif resp.status_code == 429:
+                print(f"    [429] Rate limit. Astept {RETRY_WAIT}s (incercare {attempt}/{MAX_RETRIES})...")
+                time.sleep(RETRY_WAIT)
+                continue
 
-    payload = {
-        "contents": [{"parts": [{"text": prompt}]}],
-        "generationConfig": {
-            "temperature": 0.1,
-            "maxOutputTokens": 1024,
-        },
-        "tools": [{"googleSearch": {}}],
-    }
+            else:
+                print(f"    [HTTP {resp.status_code}] {resp.text[:120]}")
+                return None
 
-    try:
-        resp = requests.post(
-            url,
-            json=payload,
-            headers={"Content-Type": "application/json"},
-            timeout=45,
-        )
-        if resp.status_code == 200:
-            data = resp.json()
-            parts = data.get("candidates", [{}])[0].get("content", {}).get("parts", [])
-            text = "".join(p.get("text", "") for p in parts).strip()
-            return text
-        else:
-            print(f"  [gemini-search/{model}] HTTP {resp.status_code}: {resp.text[:150]}")
-            return None
-    except Exception as e:
-        print(f"  [gemini-search/{model}] Eroare: {e}")
-        return None
+        except Exception as e:
+            print(f"    [ERR] {e}")
+            if attempt < MAX_RETRIES:
+                time.sleep(10)
+
+    return None
 
 
 def extract_json(text: str) -> Optional[Dict]:
-    """Extrage JSON din text cu multiple strategii."""
     if not text:
         return None
 
-    # Strategie 1: textul e direct JSON valid
+    # 1. Direct JSON
     try:
         return json.loads(text)
     except Exception:
         pass
 
-    # Strategie 2: cauta bloc ```json ... ```
+    # 2. Bloc ```json ... ```
     m = re.search(r"```(?:json)?\s*(\{.*?\})\s*```", text, re.DOTALL)
     if m:
         try:
@@ -150,7 +126,7 @@ def extract_json(text: str) -> Optional[Dict]:
         except Exception:
             pass
 
-    # Strategie 3: cauta primul { ... } care contine "pronostic"
+    # 3. Primul { } cu "pronostic"
     m = re.search(r'\{[^{}]*"pronostic"[^{}]*\}', text, re.DOTALL)
     if m:
         try:
@@ -158,7 +134,7 @@ def extract_json(text: str) -> Optional[Dict]:
         except Exception:
             pass
 
-    # Strategie 4: cauta orice { ... } valid
+    # 4. Orice { }
     m = re.search(r'\{.*\}', text, re.DOTALL)
     if m:
         try:
@@ -166,35 +142,28 @@ def extract_json(text: str) -> Optional[Dict]:
         except Exception:
             pass
 
-    # Strategie 5: extrage campuri individual cu regex
+    # 5. Extragere camp cu camp prin regex
     result = {}
-    fields = {
-        "pronostic":        r'"pronostic"\s*:\s*"([^"]+)"',
-        "tip_pariu":        r'"tip_pariu"\s*:\s*"([^"]+)"',
-        "motiv_scurt":      r'"motiv_scurt"\s*:\s*"([^"]+)"',
-        "pariu_alternativ": r'"pariu_alternativ"\s*:\s*"([^"]+)"',
-        "avertisment":      r'"avertisment"\s*:\s*"([^"]+)"',
-    }
-    num_fields = {
-        "cota_recomandata": r'"cota_recomandata"\s*:\s*([\d.]+)',
-        "incredere":        r'"incredere"\s*:\s*(\d+)',
-    }
-    for field, pattern in fields.items():
-        m2 = re.search(pattern, text)
+    str_fields = ["pronostic", "tip_pariu", "motiv_scurt", "pariu_alternativ", "avertisment"]
+    num_fields = ["cota_recomandata", "incredere"]
+
+    for f in str_fields:
+        m2 = re.search(rf'"{f}"\s*:\s*"([^"]+)"', text)
         if m2:
-            result[field] = m2.group(1)
-    for field, pattern in num_fields.items():
-        m2 = re.search(pattern, text)
+            result[f] = m2.group(1)
+
+    for f in num_fields:
+        m2 = re.search(rf'"{f}"\s*:\s*([\d.]+)', text)
         if m2:
             try:
-                result[field] = float(m2.group(1)) if "." in m2.group(1) else int(m2.group(1))
+                result[f] = float(m2.group(1)) if "." in m2.group(1) else int(m2.group(1))
             except Exception:
                 pass
 
     if result.get("pronostic"):
         return result
 
-    print(f"  [extract] Nu am gasit JSON. Raspuns primit: {text[:200]}")
+    print(f"    [WARN] JSON invalid. Text primit: {repr(text[:150])}")
     return None
 
 
@@ -202,79 +171,41 @@ def calc_cota(match: Dict, pronostic: str) -> Optional[float]:
     c1 = float(match.get("cota_1") or 0)
     cx = float(match.get("cota_x") or 0)
     c2 = float(match.get("cota_2") or 0)
-    if pronostic == "1"  and c1: return c1
-    if pronostic == "2"  and c2: return c2
-    if pronostic == "X"  and cx: return cx
-    if pronostic == "1X" and c1 and cx: return round(1/(1/c1+1/cx), 2)
-    if pronostic == "X2" and cx and c2: return round(1/(1/cx+1/c2), 2)
+    if pronostic == "1"  and c1:        return c1
+    if pronostic == "2"  and c2:        return c2
+    if pronostic == "X"  and cx:        return cx
+    if pronostic == "1X" and c1 and cx: return round(1 / (1/c1 + 1/cx), 2)
+    if pronostic == "X2" and cx and c2: return round(1 / (1/cx + 1/c2), 2)
     return None
 
 
-def find_working_model() -> Optional[str]:
-    """Gaseste primul model Gemini disponibil."""
-    test_payload = {
-        "contents": [{"parts": [{"text": "Raspunde doar cu: ok"}]}],
-        "generationConfig": {"maxOutputTokens": 10},
-    }
+def find_model() -> Optional[str]:
+    test = {"contents": [{"parts": [{"text": "ok"}]}],
+            "generationConfig": {"maxOutputTokens": 5}}
     for model in MODELS_TO_TRY:
         url = GEMINI_BASE.format(model=model, key=GEMINI_API_KEY)
         try:
-            resp = requests.post(url, json=test_payload, timeout=15)
-            if resp.status_code == 200:
-                print(f"[gemini] Model disponibil: {model}")
+            r = requests.post(url, json=test, timeout=15)
+            if r.status_code == 200:
+                print(f"[gemini] Model: {model}")
                 return model
+            elif r.status_code == 429:
+                print(f"[gemini] {model}: rate limit — astept 65s...")
+                time.sleep(65)
+                r2 = requests.post(url, json=test, timeout=15)
+                if r2.status_code == 200:
+                    print(f"[gemini] Model: {model}")
+                    return model
             else:
-                print(f"[gemini] Model {model}: HTTP {resp.status_code}")
+                print(f"[gemini] {model}: HTTP {r.status_code}")
         except Exception as e:
-            print(f"[gemini] Model {model}: {e}")
+            print(f"[gemini] {model}: {e}")
     return None
-
-
-def analizeaza_meci(match: Dict, model: str) -> Dict:
-    home = match.get("home", "?")
-    away = match.get("away", "?")
-    print(f"  → {home} vs {away}...", end=" ", flush=True)
-
-    prompt = build_prompt(match)
-
-    # Incercam mai intai cu search, apoi fara
-    text = call_gemini_with_search(prompt, model)
-    if not text:
-        text = call_gemini(prompt, model)
-
-    if not text:
-        print("SKIP (fara raspuns)")
-        return match
-
-    extracted = extract_json(text)
-    if not extracted:
-        print("SKIP (JSON invalid)")
-        return match
-
-    pronostic = extracted.get("pronostic") or match.get("pronostic")
-    cota_rec  = extracted.get("cota_recomandata")
-
-    if not cota_rec and pronostic:
-        cota_rec = calc_cota(match, pronostic)
-
-    match["pronostic"]        = pronostic
-    match["tip_pariu"]        = extracted.get("tip_pariu", "")
-    match["cota_pronostic"]   = round(float(cota_rec), 2) if cota_rec else match.get("cota_pronostic")
-    match["incredere"]        = int(extracted.get("incredere", 3))
-    match["motiv"]            = extracted.get("motiv_scurt", match.get("motiv", ""))
-    match["pariu_alternativ"] = extracted.get("pariu_alternativ", "")
-    match["avertisment"]      = extracted.get("avertisment", "")
-    match["analizat_de"]      = f"gemini/{model}"
-    match["analizat_la"]      = datetime.now(timezone.utc).isoformat()
-
-    inc = match["incredere"]
-    print(f"OK → {pronostic} @ {match['cota_pronostic']} ({'⭐'*inc})")
-    return match
 
 
 def main():
     if not GEMINI_API_KEY:
-        print("[ERR] GEMINI_API_KEY lipsa din environment.")
+        print("[ERR] GEMINI_API_KEY lipsa.")
         return
 
     if not os.path.exists(INPUT_FILE):
@@ -286,38 +217,62 @@ def main():
 
     meciuri = data.get("meciuri", [])
     if not meciuri:
-        print("[ERR] Nu exista meciuri in JSON.")
+        print("[ERR] Nu exista meciuri.")
         return
 
-    print(f"[gemini] Gasesc model disponibil...")
-    model = find_working_model()
+    model = find_model()
     if not model:
-        print("[ERR] Niciun model Gemini disponibil.")
+        print("[ERR] Niciun model disponibil.")
         return
 
-    print(f"[gemini] Analizez {len(meciuri)} meciuri cu {model}...")
+    print(f"[gemini] Analizez {len(meciuri)} meciuri | delay {DELAY_SECONDS}s intre requesturi\n")
 
-    meciuri_actualizate = []
+    actualizate = []
     ok = 0
 
     for i, match in enumerate(meciuri):
-        # Skip daca deja analizat de Gemini in aceasta rulare
+        home = match.get("home", "?")
+        away = match.get("away", "?")
+
+        # Skip daca deja analizat corect
         if match.get("analizat_de", "").startswith("gemini") and match.get("incredere"):
-            print(f"  → {match.get('home')} vs {match.get('away')}: SKIP (deja analizat)")
-            meciuri_actualizate.append(match)
+            print(f"  [{i+1:02d}] {home} vs {away} — SKIP (deja analizat)")
+            actualizate.append(match)
             ok += 1
             continue
 
-        match = analizeaza_meci(match, model)
-        meciuri_actualizate.append(match)
+        print(f"  [{i+1:02d}] {home} vs {away}...", end=" ", flush=True)
 
-        if match.get("analizat_de", "").startswith("gemini"):
+        text = call_gemini(build_prompt(match), model)
+        extracted = extract_json(text) if text else None
+
+        if extracted and extracted.get("pronostic"):
+            pronostic = extracted["pronostic"]
+            cota_rec  = extracted.get("cota_recomandata") or calc_cota(match, pronostic)
+
+            match["pronostic"]        = pronostic
+            match["tip_pariu"]        = extracted.get("tip_pariu", "")
+            match["cota_pronostic"]   = round(float(cota_rec), 2) if cota_rec else match.get("cota_pronostic")
+            match["incredere"]        = int(extracted.get("incredere") or 3)
+            match["motiv"]            = extracted.get("motiv_scurt") or match.get("motiv", "")
+            match["pariu_alternativ"] = extracted.get("pariu_alternativ", "")
+            match["avertisment"]      = extracted.get("avertisment", "")
+            match["analizat_de"]      = f"gemini/{model}"
+            match["analizat_la"]      = datetime.now(timezone.utc).isoformat()
+
+            stele = "⭐" * match["incredere"]
+            print(f"OK → {pronostic} @ {match['cota_pronostic']} {stele}")
             ok += 1
+        else:
+            print("SKIP (fara date suficiente)")
 
+        actualizate.append(match)
+
+        # Delay intre requesturi — las un pic de spatiu fata de limita
         if i < len(meciuri) - 1:
-            time.sleep(DELAY)
+            time.sleep(DELAY_SECONDS)
 
-    data["meciuri"]    = meciuri_actualizate
+    data["meciuri"]    = actualizate
     data["updated_at"] = datetime.now(timezone.utc).isoformat()
     data["gemini_analiza"] = {
         "total":     len(meciuri),
@@ -329,7 +284,7 @@ def main():
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
-    print(f"\n[OK] {OUTPUT_FILE} salvat: {ok}/{len(meciuri)} analizate de Gemini.")
+    print(f"\n[OK] Salvat: {ok}/{len(meciuri)} analizate.")
 
 
 if __name__ == "__main__":
