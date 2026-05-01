@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-30T20:43:27.738716+00:00",
-  "updated_at_afisaj": "30 aprilie 2026, 23:43",
+  "updated_at": "2026-05-01T10:59:02.628991+00:00",
+  "updated_at_afisaj": "1 mai 2026, 13:59",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,66 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 43,
+  "numar_stiri": 48,
   "stiri": [
+    {
+      "id": "023b2b4a0c72",
+      "titlu": "Infantino încearcă să medieze o strângere de mână Israel-Palestina la Congresul FIFA",
+      "rezumat": "Președintele FIFA, Gianni Infantino, a depus eforturi pentru a convinge reprezentanții palestinieni și israelieni să își strângă mâna în cadrul Congresului FIFA desfășurat la Vancouver. Inițiativa vine în contextul tensiunilor geopolitice și subliniază rolul pe care FIFA încearcă să și-l asume în promovarea păcii prin sport. Gestul simbolic ar fi reprezentat un moment de unitate, chiar dacă discuțiile din spatele scenei sunt adesea complexe și dificile.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-01T10:59:02.626588+00:00",
+      "data_afisaj": "1 mai 2026, 13:59"
+    },
+    {
+      "id": "eb6a3e6cc7b5",
+      "titlu": "Un fotbalist dă în judecată FCSB, Gigi Becali reacționează ferm",
+      "rezumat": "Un jucător al echipei FCSB a inițiat un proces împotriva clubului, o situație care a provocat o reacție rapidă și categorică din partea patronului Gigi Becali. Detaliile litigiului nu au fost complet elucidate, însă se pare că decizia fotbalistului de a acționa în instanță a determinat o poziție intransigentă din partea conducerii. Acest eveniment subliniază tensiunile interne și posibilele dispute contractuale din cadrul clubului bucureștean, cu implicații asupra stabilității lotului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-05-01T10:59:02.627219+00:00",
+      "data_afisaj": "1 mai 2026, 13:59"
+    },
+    {
+      "id": "c51c14b9e24a",
+      "titlu": "Angajamentul proprietarilor saudiți față de Newcastle rămâne neschimbat",
+      "rezumat": "Antrenorul principal al echipei Newcastle, Eddie Howe, a declarat că ambițiile proprietarilor clubului, Fondul de Investiții Public din Arabia Saudită (PIF), rămân \"neschimbate\", în ciuda deciziei PIF de a-și retrage finanțarea din circuitul de golf LIV Golf. Howe a confirmat că a avut \"conversații provocatoare\" cu ierarhia clubului, dar este convins că susținătorii saudiți sunt ferm dedicați eforturilor de a transforma Newcastle într-unul dintre cele mai bune cluburi din lume.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-01T10:59:02.627827+00:00",
+      "data_afisaj": "1 mai 2026, 13:59"
+    },
+    {
+      "id": "0eddf445a1ab",
+      "titlu": "Mohamed Salah va rata meciul cu Manchester United pe Old Trafford",
+      "rezumat": "Atacantul egiptean al lui Liverpool, Mohamed Salah, va absenta de la importanta deplasare pe Old Trafford, unde echipa sa va întâlni Manchester United. Această veste reprezintă o lovitură pentru \"Cormorani\" înaintea unui meci crucial, având în vedere importanța lui Salah în ofensiva echipei. Detaliile exacte ale absenței sale nu au fost specificate, dar impactul asupra strategiei de joc a lui Liverpool este considerabil, forțând antrenorul să găsească soluții alternative.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-01T10:59:02.628406+00:00",
+      "data_afisaj": "1 mai 2026, 13:59"
+    },
+    {
+      "id": "49da4e78ba24",
+      "titlu": "Provocările programării meciurilor în fotbalul feminin englez",
+      "rezumat": "Organizarea programului meciurilor în Women's Super League (WSL) și WSL 2 din Anglia se confruntă cu dificultăți majore, de la partajarea stadioanelor cu echipele masculine, care au prioritate la alegerea orelor de difuzare, până la evitarea evenimentelor locale precum maratoanele. Această situație generează frustrare și subliniază problemele structurale cu care se confruntă fotbalul feminin în încercarea de a-și consolida identitatea și de a asigura condiții optime pentru desfășurarea competițiilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-01T10:59:02.628974+00:00",
+      "data_afisaj": "1 mai 2026, 13:59"
+    },
     {
       "id": "63d66e8882e6",
       "titlu": "Iran ratează congresul FIFA, dar 'va juca' la Cupa Mondială - Infantino",
