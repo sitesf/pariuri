@@ -5,7 +5,7 @@ const state = {
   stiriVisible: 6,
   meciuriVisible: 10,
   activeDay: 'toate',
-  selectedMatches: new Map(), // key -> match object
+  selectedMatches: new Map(),
 };
 
 const $ = (sel) => document.querySelector(sel);
@@ -83,10 +83,7 @@ function renderDayFilters() {
   const dates = [...new Set(state.alteMeciuri.map(m => m.data).filter(Boolean))].sort();
   if (!dates.length) { dayFilters.innerHTML = ''; return; }
 
-  const tabs = [
-    { key: 'toate', label: 'Toate' },
-    ...dates.map(d => ({ key: d, label: formatDayLabel(d) }))
-  ];
+  const tabs = [{ key: 'toate', label: 'Toate' }, ...dates.map(d => ({ key: d, label: formatDayLabel(d) }))];
 
   dayFilters.innerHTML = tabs.map(t => `
     <button class="day-tab ${t.key === state.activeDay ? 'active' : ''}" data-day="${t.key}">
@@ -126,6 +123,12 @@ function matchKey(match) {
   return `${match.home}_${match.away}_${match.data}`;
 }
 
+function steleIncredere(n) {
+  if (!n) return '';
+  const stele = Math.min(5, Math.max(1, Number(n)));
+  return '⭐'.repeat(stele);
+}
+
 function renderMatches() {
   if (!matchesGrid) return;
   const list = filteredMatches();
@@ -141,10 +144,14 @@ function renderMatches() {
   matchesGrid.innerHTML = visible.map((match) => {
     const key = matchKey(match);
     const sel = state.selectedMatches.has(key);
-    const c1  = match.cota_1     != null ? Number(match.cota_1).toFixed(2)     : '-';
-    const cx  = match.cota_x     != null ? Number(match.cota_x).toFixed(2)     : '-';
-    const c2  = match.cota_2     != null ? Number(match.cota_2).toFixed(2)     : '-';
-    const p   = match.pronostic  || null;
+    const c1  = match.cota_1 != null ? Number(match.cota_1).toFixed(2) : '-';
+    const cx  = match.cota_x != null ? Number(match.cota_x).toFixed(2) : '-';
+    const c2  = match.cota_2 != null ? Number(match.cota_2).toFixed(2) : '-';
+    const p   = match.pronostic || null;
+    const cp  = match.cota_pronostic ? Number(match.cota_pronostic).toFixed(2) : null;
+    const inc = match.incredere || null;
+    const alt = match.pariu_alternativ || null;
+    const analizat = match.analizat_de === 'gemini-2.0-flash';
 
     return `
       <article class="match-card${sel ? ' is-selected' : ''}" data-key="${esc(key)}">
@@ -159,32 +166,31 @@ function renderMatches() {
           </div>
           ${sel ? `<div style="color:var(--green);font-size:20px;font-weight:900;">✓</div>` : ''}
         </div>
+
         <div class="match-stats">
           <div style="${cellStyle('1',p)}"><span>${esc(c1)}</span><small>1</small></div>
           <div style="${cellStyle('X',p)}"><span>${esc(cx)}</span><small>X</small></div>
           <div style="${cellStyle('2',p)}"><span>${esc(c2)}</span><small>2</small></div>
         </div>
-        ${match.cota_gg ? `
-        <div class="match-stats" style="margin-top:8px;">
-          <div style="${match.pronostic==='GG'?'background:rgba(57,255,156,.22);border-color:rgba(57,255,156,.5);':''}">
-            <span>${Number(match.cota_gg).toFixed(2)}</span><small>GG</small>
-          </div>
-          <div style="${match.pronostic==='Sub 2.5'?'background:rgba(57,255,156,.22);border-color:rgba(57,255,156,.5);':''}">
-            <span>${match.cota_under25 ? Number(match.cota_under25).toFixed(2) : '-'}</span><small>Sub 2.5</small>
-          </div>
-          <div style="${match.pronostic==='Peste 2.5'?'background:rgba(57,255,156,.22);border-color:rgba(57,255,156,.5);':''}">
-            <span>${match.cota_over25 ? Number(match.cota_over25).toFixed(2) : '-'}</span><small>Peste 2.5</small>
-          </div>
-        </div>` : ''}
+
         ${p ? `
-        <div class="match-pick" style="margin-top:10px;">
-          <span class="pill pill-green">${esc(p)}</span>
-          <small style="color:var(--muted);margin-left:8px;">${esc(match.motiv||'')}</small>
+        <div class="match-pick" style="margin-top:10px;display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+          <span class="pill pill-green" style="font-size:13px;font-weight:900;">${esc(p)}</span>
+          ${cp ? `<span style="color:var(--green);font-weight:800;font-size:15px;">@ ${cp}</span>` : ''}
+          ${inc ? `<span style="color:var(--muted);font-size:12px;">${steleIncredere(inc)}</span>` : ''}
+          ${analizat ? `<span style="color:rgba(57,255,156,.4);font-size:10px;letter-spacing:.08em;">AI</span>` : ''}
+        </div>` : ''}
+
+        ${match.motiv ? `<p class="reason" style="font-size:13px;">${esc(match.motiv)}</p>` : ''}
+
+        ${alt ? `
+        <div style="margin-top:6px;">
+          <span style="font-size:11px;color:var(--muted);">Alt: </span>
+          <span class="pill" style="font-size:11px;padding:4px 8px;">${esc(alt)}</span>
         </div>` : ''}
       </article>`;
   }).join('');
 
-  // Click pe card → toggle selectie
   matchesGrid.querySelectorAll('.match-card').forEach(card => {
     card.addEventListener('click', () => {
       const key = card.dataset.key;
@@ -206,39 +212,7 @@ function renderMatches() {
   );
 }
 
-// ── Custom bar (bilet personalizat) ──────────────────────────────────────────
-
-function updateCustomBar() {
-  if (!customBar) return;
-  const count = state.selectedMatches.size;
-  if (count === 0) {
-    customBar.classList.remove('visible');
-    return;
-  }
-  customBar.classList.add('visible');
-  if (customCount) customCount.textContent = count;
-
-  const total = [...state.selectedMatches.values()]
-    .reduce((acc, m) => acc * (Number(m.cota_pronostic) || 1), 1);
-  if (customOdd) customOdd.textContent = total.toFixed(2);
-}
-
-function deschideCustomBilet() {
-  if (!state.selectedMatches.size) return;
-  const selected = [...state.selectedMatches.values()];
-  const total = selected.reduce((acc, m) => acc * (Number(m.cota_pronostic) || 1), 1);
-
-  setModalHeader('Bilet Personalizat', 'Biletul tau');
-  ticketBody.innerHTML = `
-    <p class="modal-note" style="margin-bottom:16px;">
-      ${selected.length} meciuri selectate de tine
-    </p>
-    ${selected.map(m => ticketRow(m, Number(m.cota_pronostic) || null)).join('')}`;
-  ticketOdd.textContent = total.toFixed(2);
-  openModal();
-}
-
-// ── Highlight celula ──────────────────────────────────────────────────────────
+// ── Highlight celula pronostic ────────────────────────────────────────────────
 
 function cellStyle(cell, p) {
   const active =
@@ -251,7 +225,18 @@ function cellStyle(cell, p) {
 // ── Cota efectiva ─────────────────────────────────────────────────────────────
 
 function cotaEf(match) {
-  return Number(match.cota_pronostic) || null;
+  if (match.cota_pronostic) return Number(match.cota_pronostic);
+  const p  = match.pronostic;
+  const c1 = Number(match.cota_1) || 0;
+  const cx = Number(match.cota_x) || 0;
+  const c2 = Number(match.cota_2) || 0;
+  if (!p) return null;
+  if (p === '1') return c1 || null;
+  if (p === '2') return c2 || null;
+  if (p === 'X') return cx || null;
+  if (p === '1X' && c1 && cx) return 1 / (1/c1 + 1/cx);
+  if (p === 'X2' && cx && c2) return 1 / (1/cx + 1/c2);
+  return null;
 }
 
 function formatInfo(match) {
@@ -259,40 +244,60 @@ function formatInfo(match) {
 }
 
 function ticketRow(match, cota) {
+  const p = match.pronostic || '';
   return `
     <div class="ticket-item">
       <div>
         <b>${esc(match.home)} vs ${esc(match.away)}</b><br>
         <small style="color:var(--muted);">${esc(formatInfo(match))}</small><br>
         <small>
-          <span style="color:var(--green);font-weight:700;">${esc(match.pronostic||'')}</span>
+          <span style="color:var(--green);font-weight:700;">${esc(p)}</span>
           ${match.motiv ? ' · '+esc(match.motiv) : ''}
         </small>
       </div>
-      <strong>${cota ? cota.toFixed(2) : '-'}</strong>
+      <strong>${cota ? Number(cota).toFixed(2) : '-'}</strong>
     </div>`;
+}
+
+// ── Custom bar (bilet personalizat) ──────────────────────────────────────────
+
+function updateCustomBar() {
+  if (!customBar) return;
+  const count = state.selectedMatches.size;
+  if (count === 0) { customBar.classList.remove('visible'); return; }
+  customBar.classList.add('visible');
+  if (customCount) customCount.textContent = count;
+  const total = [...state.selectedMatches.values()]
+    .reduce((acc, m) => acc * (cotaEf(m) || 1), 1);
+  if (customOdd) customOdd.textContent = total.toFixed(2);
+}
+
+function deschideCustomBilet() {
+  if (!state.selectedMatches.size) return;
+  const selected = [...state.selectedMatches.values()];
+  const total = selected.reduce((acc, m) => acc * (cotaEf(m) || 1), 1);
+  setModalHeader('Bilet Personalizat', 'Biletul tau');
+  ticketBody.innerHTML = `
+    <p class="modal-note" style="margin-bottom:16px;">${selected.length} meciuri selectate de tine</p>
+    ${selected.map(m => ticketRow(m, cotaEf(m))).join('')}`;
+  ticketOdd.textContent = total.toFixed(2);
+  openModal();
 }
 
 // ── Storage helpers ───────────────────────────────────────────────────────────
 
-function getSaved(key) {
-  try { return JSON.parse(localStorage.getItem(key)); } catch(e) { return null; }
-}
-function setSaved(key, val) {
-  try { localStorage.setItem(key, JSON.stringify(val)); } catch(e) {}
-}
+function getSaved(key) { try { return JSON.parse(localStorage.getItem(key)); } catch(e) { return null; } }
+function setSaved(key, val) { try { localStorage.setItem(key, JSON.stringify(val)); } catch(e) {} }
 
 function getOrGenerate(storageKey, generatorFn) {
   const saved = getSaved(storageKey);
-  if (saved && saved.updatedAt === state.alteMeciuriUpdatedAt && saved.bilet) {
-    return saved.bilet;
-  }
+  if (saved && saved.updatedAt === state.alteMeciuriUpdatedAt && saved.bilet) return saved.bilet;
   const bilet = generatorFn();
   if (bilet) setSaved(storageKey, { bilet, updatedAt: state.alteMeciuriUpdatedAt });
   return bilet;
 }
 
-// ── BILET AI — selectie aleatorie ponderata, cote pana la 2.00 ───────────────
+// ── BILET AI — selectie ponderata, cote pana la 2.00 ─────────────────────────
 
 function genBiletAi() {
   const pool = state.alteMeciuri.filter(m => {
@@ -301,17 +306,14 @@ function genBiletAi() {
   });
   if (pool.length < 5) return null;
 
-  // Ponderam aleator dupa probabilitate
   const MAX_TRIES = 400;
   let best = null, bestDist = Infinity;
 
   for (let i = 0; i < MAX_TRIES; i++) {
-    // Selectie aleatorie ponderata dupa probabilitate
     const shuffled = weightedShuffle(pool);
-    const count    = 5 + Math.floor(Math.random() * 4); // 5-8
+    const count    = 5 + Math.floor(Math.random() * 4);
     const selected = shuffled.slice(0, Math.min(count, shuffled.length));
     const total    = selected.reduce((acc, m) => acc * (cotaEf(m)||1), 1);
-
     if (total >= 10 && total <= 25) return { selected, total };
     const dist = total < 10 ? 10 - total : total - 25;
     if (dist < bestDist) { bestDist = dist; best = { selected, total }; }
@@ -320,13 +322,10 @@ function genBiletAi() {
 }
 
 function weightedShuffle(pool) {
-  // Meciuri cu probabilitate mai mare au sansa mai mare sa fie alese
   const weighted = pool.map(m => ({
-    m,
-    w: (m.probabilitate || 0.5) + Math.random() * 0.3
+    m, w: (m.probabilitate || 0) + (m.incredere ? m.incredere * 0.1 : 0) + Math.random() * 0.3
   }));
   weighted.sort((a,b) => b.w - a.w);
-  // Micsora ordinea cu putina aleatorietate
   for (let i = weighted.length-1; i > 0; i--) {
     if (Math.random() < 0.3) {
       const j = Math.floor(Math.random() * (i+1));
@@ -338,24 +337,21 @@ function weightedShuffle(pool) {
 
 function deschideBiletAi() {
   if (!modal) return;
-  const bilet = getOrGenerate('nexas_bilet_ai_v4', genBiletAi);
+  const bilet = getOrGenerate('nexas_bilet_ai_v5', genBiletAi);
   if (!bilet) {
     setModalHeader('Bilet AI', 'Biletul tau');
     ticketBody.innerHTML = '<p class="modal-note">Nu sunt suficiente meciuri. Reîncearcă după actualizarea agentului (miercuri).</p>';
-    ticketOdd.textContent = '0.00';
-    openModal(); return;
+    ticketOdd.textContent = '0.00'; openModal(); return;
   }
   setModalHeader('Bilet AI al zilei', 'Biletul tau');
   ticketBody.innerHTML = `
-    <p class="modal-note" style="margin-bottom:16px;">
-      ${bilet.selected.length} meciuri · cele mai sigure pronosticuri
-    </p>
+    <p class="modal-note" style="margin-bottom:16px;">${bilet.selected.length} meciuri · cele mai sigure pronosticuri Gemini</p>
     ${bilet.selected.map(m => ticketRow(m, cotaEf(m))).join('')}`;
   ticketOdd.textContent = Number(bilet.total).toFixed(2);
   openModal();
 }
 
-// ── BILET RISC — cote 1.50-2.00, cota totala ~100 ───────────────────────────
+// ── BILET RISC — cote 1.50-2.00, cota totala ~100 ────────────────────────────
 
 function genBiletRisc() {
   const pool = state.alteMeciuri.filter(m => {
@@ -364,41 +360,37 @@ function genBiletRisc() {
   });
   if (pool.length < 3) return null;
 
-  // Sortat dupa probabilitate descrescator — cele mai sigure primele
-  const sorted = [...pool].sort((a,b) => (b.probabilitate||0) - (a.probabilitate||0));
+  const sorted = [...pool].sort((a,b) => {
+    const ia = (a.incredere||0) + (a.probabilitate||0);
+    const ib = (b.incredere||0) + (b.probabilitate||0);
+    return ib - ia;
+  });
 
-  // Greedy: adauga meciuri pana cota totala ajunge la ~100
   const selected = [];
   let total = 1;
-  const TARGET = 100;
-
   for (const match of sorted) {
     const c = cotaEf(match);
     if (!c) continue;
     selected.push(match);
     total *= c;
-    if (total >= TARGET) break;
+    if (total >= 100) break;
     if (selected.length >= 20) break;
   }
-
   if (!selected.length) return null;
   return { selected, total };
 }
 
 function deschideBiletRisc() {
   if (!modal) return;
-  const bilet = getOrGenerate('nexas_bilet_risc_v3', genBiletRisc);
+  const bilet = getOrGenerate('nexas_bilet_risc_v4', genBiletRisc);
   if (!bilet) {
     setModalHeader('Bilet Risc', 'Biletul tau');
     ticketBody.innerHTML = '<p class="modal-note">Nu sunt suficiente meciuri cu cote 1.50-2.00. Reincerca dupa actualizarea agentului.</p>';
-    ticketOdd.textContent = '0.00';
-    openModal(); return;
+    ticketOdd.textContent = '0.00'; openModal(); return;
   }
   setModalHeader('Bilet Risc', 'Biletul tau');
   ticketBody.innerHTML = `
-    <p class="modal-note" style="margin-bottom:16px;">
-      ${bilet.selected.length} meciuri · cote 1.50-2.00 · cota tinta ~100
-    </p>
+    <p class="modal-note" style="margin-bottom:16px;">${bilet.selected.length} meciuri · cote 1.50-2.00 · cota tinta ~100</p>
     ${bilet.selected.map(m => ticketRow(m, cotaEf(m))).join('')}`;
   ticketOdd.textContent = Number(bilet.total).toFixed(2);
   openModal();
@@ -407,42 +399,32 @@ function deschideBiletRisc() {
 // ── COTA 2 — 1-3 meciuri, cumulat ~2.00 ─────────────────────────────────────
 
 function genCota2() {
-  // Pool: pronosticuri foarte sigure (cota < 1.50)
   const pool = state.alteMeciuri.filter(m => {
     const c = cotaEf(m);
     return (m.pronostic === '1' || m.pronostic === '2') && c && c < 1.50;
   });
-
   if (!pool.length) return null;
 
-  // Sortat dupa probabilitate
-  const sorted = [...pool].sort((a,b) => (b.probabilitate||0) - (a.probabilitate||0));
-
-  // Gasim combinatia de 1-3 meciuri cu total cat mai aproape de 2.00
+  const sorted = [...pool].sort((a,b) => (b.incredere||0) - (a.incredere||0));
   let best = null, bestDist = Infinity;
 
   for (let i = 0; i < Math.min(sorted.length, 10); i++) {
-    // 1 meci
     const c1 = cotaEf(sorted[i]);
     if (c1) {
-      const d1 = Math.abs(c1 - 2.0);
-      if (d1 < bestDist) { bestDist=d1; best={ selected:[sorted[i]], total:c1 }; }
+      const d = Math.abs(c1 - 2.0);
+      if (d < bestDist) { bestDist=d; best={ selected:[sorted[i]], total:c1 }; }
     }
-    // 2 meciuri
     for (let j = i+1; j < Math.min(sorted.length, 10); j++) {
       const c2 = cotaEf(sorted[j]);
       if (c1 && c2) {
-        const t2 = c1*c2;
-        const d2 = Math.abs(t2 - 2.0);
-        if (d2 < bestDist) { bestDist=d2; best={ selected:[sorted[i],sorted[j]], total:t2 }; }
+        const t = c1*c2, d = Math.abs(t-2.0);
+        if (d < bestDist) { bestDist=d; best={ selected:[sorted[i],sorted[j]], total:t }; }
       }
-      // 3 meciuri
       for (let k = j+1; k < Math.min(sorted.length, 10); k++) {
         const c3 = cotaEf(sorted[k]);
         if (c1 && c2 && c3) {
-          const t3 = c1*c2*c3;
-          const d3 = Math.abs(t3 - 2.0);
-          if (d3 < bestDist) { bestDist=d3; best={ selected:[sorted[i],sorted[j],sorted[k]], total:t3 }; }
+          const t = c1*c2*c3, d = Math.abs(t-2.0);
+          if (d < bestDist) { bestDist=d; best={ selected:[sorted[i],sorted[j],sorted[k]], total:t }; }
         }
       }
     }
@@ -452,24 +434,21 @@ function genCota2() {
 
 function deschideCota2() {
   if (!modal) return;
-  const bilet = getOrGenerate('nexas_cota2_v2', genCota2);
+  const bilet = getOrGenerate('nexas_cota2_v3', genCota2);
   if (!bilet) {
     setModalHeader('Cota 2', 'Biletul tau');
-    ticketBody.innerHTML = '<p class="modal-note">Nu sunt suficiente meciuri foarte sigure. Reîncearcă după actualizarea agentului.</p>';
-    ticketOdd.textContent = '0.00';
-    openModal(); return;
+    ticketBody.innerHTML = '<p class="modal-note">Nu sunt suficiente meciuri foarte sigure. Reincerca dupa actualizarea agentului.</p>';
+    ticketOdd.textContent = '0.00'; openModal(); return;
   }
   setModalHeader('Cota 2', 'Biletul tau');
   ticketBody.innerHTML = `
-    <p class="modal-note" style="margin-bottom:16px;">
-      ${bilet.selected.length} ${bilet.selected.length===1?'meci':'meciuri'} · cele mai sigure · cotă totală ~2.00
-    </p>
+    <p class="modal-note" style="margin-bottom:16px;">${bilet.selected.length} ${bilet.selected.length===1?'meci':'meciuri'} · cele mai sigure · cotă totală ~2.00</p>
     ${bilet.selected.map(m => ticketRow(m, cotaEf(m))).join('')}`;
   ticketOdd.textContent = Number(bilet.total).toFixed(2);
   openModal();
 }
 
-// ── GENEREAZA BILET — aleatoriu din alteMeciuri, cota 10-20 ──────────────────
+// ── GENEREAZA BILET — aleatoriu, cota 10-20 ──────────────────────────────────
 
 function generateTicket() {
   if (!modal) return;
@@ -482,8 +461,7 @@ function generateTicket() {
 
   if (pool.length < 5) {
     ticketBody.innerHTML = '<p class="modal-note">Nu sunt suficiente meciuri cu pronostic. Reîncearcă după actualizarea agentului.</p>';
-    ticketOdd.textContent = '0.00';
-    openModal(); return;
+    ticketOdd.textContent = '0.00'; openModal(); return;
   }
 
   const MAX_TRIES = 300;
@@ -494,7 +472,6 @@ function generateTicket() {
     const shuffled = [...pool].sort(() => Math.random() - 0.5);
     const selected = shuffled.slice(0, Math.min(count, shuffled.length));
     const total    = selected.reduce((acc, m) => acc * (cotaEf(m)||1), 1);
-
     if (total >= 10 && total <= 20) { best = { selected, total }; break; }
     const dist = total < 10 ? 10 - total : total - 20;
     if (dist < bestDist) { bestDist = dist; best = { selected, total }; }
@@ -502,14 +479,11 @@ function generateTicket() {
 
   if (!best) {
     ticketBody.innerHTML = '<p class="modal-note">Nu am putut genera un bilet în intervalul dorit.</p>';
-    ticketOdd.textContent = '0.00';
-    openModal(); return;
+    ticketOdd.textContent = '0.00'; openModal(); return;
   }
 
   ticketBody.innerHTML = `
-    <p class="modal-note" style="margin-bottom:16px;">
-      ${best.selected.length} meciuri · cota țintă 10–20
-    </p>
+    <p class="modal-note" style="margin-bottom:16px;">${best.selected.length} meciuri · cota țintă 10–20</p>
     ${best.selected.map(m => ticketRow(m, cotaEf(m))).join('')}`;
   ticketOdd.textContent = Number(best.total).toFixed(2);
   openModal();
@@ -577,8 +551,10 @@ const biletAiBtn   = $('#biletAiBtn');   if (biletAiBtn)   biletAiBtn.addEventLi
 const biletRiscBtn = $('#biletRiscBtn'); if (biletRiscBtn) biletRiscBtn.addEventListener('click', deschideBiletRisc);
 const cota2Btn     = $('#cota2Btn');     if (cota2Btn)     cota2Btn.addEventListener('click',     deschideCota2);
 
-const customTicketBtn   = $('#customTicketBtn');   if (customTicketBtn)   customTicketBtn.addEventListener('click', deschideCustomBilet);
-const clearSelectionBtn = $('#clearSelectionBtn'); if (clearSelectionBtn) clearSelectionBtn.addEventListener('click', () => {
+const customTicketBtn   = $('#customTicketBtn');
+const clearSelectionBtn = $('#clearSelectionBtn');
+if (customTicketBtn)   customTicketBtn.addEventListener('click', deschideCustomBilet);
+if (clearSelectionBtn) clearSelectionBtn.addEventListener('click', () => {
   state.selectedMatches.clear();
   updateCustomBar();
   renderMatches();
