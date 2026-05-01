@@ -1,7 +1,7 @@
 {
   "data_start": "2026-05-01",
   "data_final": "2026-05-08",
-  "updated_at": "2026-05-01T04:29:54.162190+00:00",
+  "updated_at": "2026-05-01T04:38:42.634931+00:00",
   "surse": [
     "The Odds API"
   ],
@@ -84,13 +84,13 @@
       "home": "Arsenal",
       "away": "Atlético Madrid",
       "liga": "UEFA Champions League",
-      "cota_1": 1.68,
-      "cota_x": 4.0,
+      "cota_1": 1.7,
+      "cota_x": 3.95,
       "cota_2": 5.5,
       "pronostic": "1X",
-      "motiv": "Gazde ușor favorizate (1:1.68 X:4.00)",
-      "cota_pronostic": 1.18,
-      "probabilitate": 0.845
+      "motiv": "Gazde ușor favorizate (1:1.70 X:3.95)",
+      "cota_pronostic": 1.19,
+      "probabilitate": 0.841
     },
     {
       "data": "2026-05-02",
