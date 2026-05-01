@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-01T19:57:31.440216+00:00",
-  "updated_at_afisaj": "1 mai 2026, 22:57",
+  "updated_at": "2026-05-01T20:13:28.679592+00:00",
+  "updated_at_afisaj": "1 mai 2026, 23:13",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,65 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 57,
+  "numar_stiri": 62,
   "stiri": [
+    {
+      "id": "af3dac6efee3",
+      "titlu": "Leeds United vs. Burnley: Meci live din Premier League",
+      "rezumat": "Urmăriți actualizări în direct de la partida din Premier League dintre Leeds United și Burnley, care a început la ora 22:00, ora României. Meciul este crucial pentru ambele echipe în contextul clasamentului actual. Leeds a început partida de la dreapta la stânga, iar fanii așteaptă o confruntare intensă. Această transmisiune oferă detalii minut cu minut despre desfășurarea jocului, inclusiv faze cheie și evenimente importante de pe teren, menținând publicul la curent cu evoluția scorului și a jocului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-01T20:13:28.676315+00:00",
+      "data_afisaj": "1 mai 2026, 23:13"
+    },
+    {
+      "id": "673c38367cee",
+      "titlu": "Mykhailo Mudryk, suspendat în secret pentru dopaj: Detalii și implicații",
+      "rezumat": "Aripa lui Chelsea, Mykhailo Mudryk, face apel împotriva unei suspendări de patru ani pentru dopaj, un proces care a fost ținut secret până acum. Articolul explorează motivele pentru care procedura a fost confidențială și ce urmează pentru jucătorul ucrainean. Această situație ridică semne de întrebare despre transparența în cazurile de dopaj din fotbal și despre impactul asupra carierei lui Mudryk și a clubului Chelsea, care se confruntă cu o situație delicată.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-01T20:13:28.677139+00:00",
+      "data_afisaj": "1 mai 2026, 23:13"
+    },
+    {
+      "id": "7cba3e81f745",
+      "titlu": "Țările europene se așteaptă la pierderi financiare la Cupa Mondială, în ciuda creșterii fondului de premii",
+      "rezumat": "Mai multe țări europene de top anticipează că vor înregistra pierderi financiare la Cupa Mondială, chiar dacă FIFA a majorat fondul de premii și de participare cu 112 milioane de dolari. Costurile ridicate de călătorie și cazare depășesc plățile FIFA, iar federația gazdă principală, US Soccer, estimează, de asemenea, o pierdere operațională. Această situație subliniază provocările economice ale participării la un turneu de o asemenea anvergură, în ciuda beneficiilor sportive și de imagine.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-01T20:13:28.677980+00:00",
+      "data_afisaj": "1 mai 2026, 23:13"
+    },
+    {
+      "id": "510478401669",
+      "titlu": "FIFA intensifică vânzările de bilete de ospitalitate de lux pentru Cupa Mondială",
+      "rezumat": "FIFA își intensifică eforturile de a vinde pachete de ospitalitate de lux pentru Cupa Mondială, cu oferte încă disponibile pentru 102 din cele 104 meciuri ale turneului extins. Doar meciul Mexicului din Grupa A împotriva Coreei de Sud și o partidă din optimile de finală, așteptată să includă Spania, nu mai au disponibilitate. O nouă categorie, „suite essentials”, a fost adăugată, reflectând o reevaluare a veniturilor și o strategie de maximizare a profiturilor din eveniment.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-01T20:13:28.678734+00:00",
+      "data_afisaj": "1 mai 2026, 23:13"
+    },
+    {
+      "id": "29a1775bd680",
+      "titlu": "Victoria uimitoare a lui Leicester în Premier League, rememorată la 10 ani de la triumf",
+      "rezumat": "La zece ani de la victoria surprinzătoare a lui Leicester City în Premier League, fostul antrenor Claudio Ranieri și foști jucători precum Wes Morgan și Marc Albrighton își amintesc de triumful cotat la 5.000 la 1. Articolul evocă momente cheie, inclusiv glumele de la antrenamente, fanii celebri și o petrecere de Crăciun la Copenhaga, care au contribuit la succesul echipei. Această retrospectivă subliniază spiritul pragmatic al lui Ranieri și credința jucătorilor într-o realizare specială și istorică.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-01T20:13:28.679573+00:00",
+      "data_afisaj": "1 mai 2026, 23:13"
+    },
     {
       "id": "65ae42da2720",
       "titlu": "Lupta pentru promovare în Championship ajunge la apogeu în ultima etapă",
