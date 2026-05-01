@@ -24,15 +24,20 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Run agent alte meciuri
+      - name: Extrage meciuri
         env:
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
         run: python scripts/alte_meciuri.py
+
+      - name: Analiza Gemini
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scripts/gemini_analiza.py
 
       - name: Commit & Push JSON
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add alte_meciuri.json
-          git commit -m "Update alte meciuri $(date -u '+%Y-%m-%d %H:%M UTC')" || echo "no changes"
+          git commit -m "Update alte meciuri + analiza Gemini $(date -u '+%Y-%m-%d %H:%M UTC')" || echo "no changes"
           git push
