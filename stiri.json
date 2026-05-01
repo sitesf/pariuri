@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-01T10:59:02.628991+00:00",
-  "updated_at_afisaj": "1 mai 2026, 13:59",
+  "updated_at": "2026-05-01T11:43:50.626248+00:00",
+  "updated_at_afisaj": "1 mai 2026, 14:43",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 48,
+  "numar_stiri": 53,
   "stiri": [
+    {
+      "id": "883aa844068a",
+      "titlu": "Unai Emery critică vehement decizia VAR după semifinala Europa League",
+      "rezumat": "Antrenorul lui Aston Villa, Unai Emery, a declarat că arbitrajul video (VAR) a comis o \"greșeală uriașă\" prin faptul că nu l-a eliminat pe Elliot Anderson de la Nottingham Forest în prima manșă a semifinalei Europa League. Emery și-a exprimat frustrarea intensă, considerând că decizia a influențat semnificativ cursul jocului. Incidentul a stârnit dezbateri aprinse despre aplicarea regulilor VAR în competițiile europene și despre impactul acestora asupra rezultatelor, cerând mai multă coerență în deciziile arbitrilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-01T11:43:50.623483+00:00",
+      "data_afisaj": "1 mai 2026, 14:43"
+    },
+    {
+      "id": "6de9eafbf492",
+      "titlu": "Echipa feminină Leicester City va juca un baraj de retrogradare",
+      "rezumat": "Echipa feminină Leicester City a fost confirmată pentru un baraj de retrogradare, urmând să înfrunte echipa clasată pe locul trei în WSL 2. Această situație vine după un sezon dificil pentru club, în care nu a reușit să acumuleze suficiente puncte pentru a evita ultimele locuri. Rezultatul barajului va determina viitorul lor în liga superioară, iar implicațiile pentru club și pentru fotbalul feminin englez sunt semnificative, deoarece Leicester City Women încearcă să-și mențină statutul în Women's Super League.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-01T11:43:50.624147+00:00",
+      "data_afisaj": "1 mai 2026, 14:43"
+    },
+    {
+      "id": "d2be13150788",
+      "titlu": "Stina Blackstenius își prelungește contractul cu Arsenal și vorbește despre ambițiile din Liga Campionilor",
+      "rezumat": "Atacanta suedeză Stina Blackstenius a semnat o prelungire a contractului cu Arsenal, exprimându-și entuziasmul de a face parte din echipa londoneză. Jucătoarea a discutat despre speranțele clubului în Liga Campionilor la fotbal feminin, subliniind importanța de a fi parte dintr-un lot inspirator și competitiv. Această prelungire de contract reconfirmă angajamentul lui Blackstenius față de Arsenal și ambițiile echipei de a obține performanțe notabile pe scena europeană, consolidând lotul pentru sezoanele viitoare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-01T11:43:50.624850+00:00",
+      "data_afisaj": "1 mai 2026, 14:43"
+    },
+    {
+      "id": "1001e2b31ac0",
+      "titlu": "Arsenal învinge Leicester cu 7-0 și influențează soarta retrogradării în WSL",
+      "rezumat": "Arsenal a obținut o victorie categorică, scor 7-0, împotriva echipei Leicester City, reducând diferența față de liderul Manchester City la opt puncte, având două meciuri mai puțin jucate. Acest rezultat zdrobitor confirmă faptul că Leicester City va termina pe ultimul loc în Women's Super League, ceea ce înseamnă că echipa va trebui să joace un baraj de retrogradare pentru a-și păstra locul în prima ligă. Performanța impresionantă a lui Arsenal subliniază ambițiile lor la titlu.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-01T11:43:50.625502+00:00",
+      "data_afisaj": "1 mai 2026, 14:43"
+    },
+    {
+      "id": "d2737a5785f9",
+      "titlu": "Kinsky reflectă asupra coșmarului din Liga Campionilor și optimismului lui Spurs în lupta pentru retrogradare",
+      "rezumat": "Antolin Kinsky, jucătorul lui Tottenham, a vorbit despre experiența dificilă din Liga Campionilor și despre atitudinea pozitivă a echipei în contextul luptei pentru evitarea retrogradării din Premier League. O intervenție decisivă a sa, considerată \"paradă a sezonului\", este crucială pentru salvarea sezonului lui Spurs. Clubul, care se confruntă cu o situație neașteptată în partea inferioară a clasamentului, își menține speranța de a rămâne în prima ligă, bazându-se pe unitatea și determinarea jucătorilor pentru a depăși momentul dificil.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-01T11:43:50.626232+00:00",
+      "data_afisaj": "1 mai 2026, 14:43"
+    },
     {
       "id": "023b2b4a0c72",
       "titlu": "Infantino încearcă să medieze o strângere de mână Israel-Palestina la Congresul FIFA",
