@@ -5,12 +5,13 @@ permissions:
 
 on:
   schedule:
-    - cron: "0 5 * * 3"
+    - cron: "0 1 * * 3"
   workflow_dispatch:
 
 jobs:
   run-agent:
     runs-on: ubuntu-latest
+    timeout-minutes: 60
 
     steps:
       - name: Clone repo
