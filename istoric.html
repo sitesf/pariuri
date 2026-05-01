@@ -1,0 +1,735 @@
+<!doctype html>
+<html lang="ro">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>NEXAS — Istoric & Performanță</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&family=Syne:wght@400;700;800&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #050808;
+      --surface: #0d1117;
+      --card: #111820;
+      --border: rgba(255,255,255,.07);
+      --green: #00ff88;
+      --green-dim: rgba(0,255,136,.12);
+      --red: #ff4466;
+      --red-dim: rgba(255,68,102,.12);
+      --amber: #ffaa00;
+      --text: #e8f0f8;
+      --muted: #4a5568;
+      --mono: 'JetBrains Mono', monospace;
+      --sans: 'Syne', sans-serif;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--sans);
+      min-height: 100vh;
+      overflow-x: hidden;
+    }
+
+    /* ── Grid background ── */
+    body::before {
+      content: '';
+      position: fixed;
+      inset: 0;
+      background-image:
+        linear-gradient(rgba(0,255,136,.03) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(0,255,136,.03) 1px, transparent 1px);
+      background-size: 40px 40px;
+      pointer-events: none;
+      z-index: 0;
+    }
+
+    /* ── Header ── */
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: rgba(5,8,8,.9);
+      backdrop-filter: blur(20px);
+      border-bottom: 1px solid var(--border);
+      padding: 16px 32px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .brand {
+      font-family: var(--mono);
+      font-size: 13px;
+      color: var(--green);
+      letter-spacing: .15em;
+      text-transform: uppercase;
+    }
+
+    .brand span { color: var(--muted); }
+
+    .header-actions { display: flex; gap: 12px; align-items: center; }
+
+    .btn-import {
+      padding: 8px 16px;
+      border-radius: 8px;
+      border: 1px solid rgba(0,255,136,.3);
+      background: var(--green-dim);
+      color: var(--green);
+      font-family: var(--mono);
+      font-size: 12px;
+      cursor: pointer;
+      transition: all .2s;
+    }
+    .btn-import:hover { background: rgba(0,255,136,.2); }
+
+    .back-link {
+      font-family: var(--mono);
+      font-size: 12px;
+      color: var(--muted);
+      text-decoration: none;
+      transition: color .2s;
+    }
+    .back-link:hover { color: var(--text); }
+
+    /* ── Main ── */
+    main {
+      position: relative;
+      z-index: 1;
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 40px 24px 80px;
+    }
+
+    /* ── Stats bar ── */
+    .stats-bar {
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      gap: 12px;
+      margin-bottom: 40px;
+    }
+
+    .stat-card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 20px;
+      text-align: center;
+    }
+
+    .stat-val {
+      font-family: var(--mono);
+      font-size: 28px;
+      font-weight: 700;
+      display: block;
+      margin-bottom: 4px;
+    }
+
+    .stat-val.green { color: var(--green); }
+    .stat-val.red   { color: var(--red); }
+    .stat-val.amber { color: var(--amber); }
+    .stat-val.white { color: var(--text); }
+
+    .stat-label {
+      font-size: 11px;
+      color: var(--muted);
+      letter-spacing: .1em;
+      text-transform: uppercase;
+      font-family: var(--mono);
+    }
+
+    /* ── Progress bar ── */
+    .progress-wrap {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 20px 24px;
+      margin-bottom: 40px;
+    }
+
+    .progress-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 12px;
+    }
+
+    .progress-title {
+      font-family: var(--mono);
+      font-size: 12px;
+      color: var(--muted);
+      letter-spacing: .1em;
+      text-transform: uppercase;
+    }
+
+    .progress-pct {
+      font-family: var(--mono);
+      font-size: 24px;
+      font-weight: 700;
+      color: var(--green);
+    }
+
+    .progress-bar {
+      height: 8px;
+      background: rgba(255,255,255,.06);
+      border-radius: 999px;
+      overflow: hidden;
+    }
+
+    .progress-fill {
+      height: 100%;
+      border-radius: 999px;
+      background: linear-gradient(90deg, var(--green), #00cc66);
+      transition: width .8s ease;
+    }
+
+    /* ── Filters ── */
+    .filters {
+      display: flex;
+      gap: 8px;
+      margin-bottom: 24px;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+
+    .filter-label {
+      font-family: var(--mono);
+      font-size: 11px;
+      color: var(--muted);
+      letter-spacing: .1em;
+      text-transform: uppercase;
+      margin-right: 4px;
+    }
+
+    .filter-btn {
+      padding: 6px 14px;
+      border-radius: 999px;
+      border: 1px solid var(--border);
+      background: transparent;
+      color: var(--muted);
+      font-family: var(--mono);
+      font-size: 12px;
+      cursor: pointer;
+      transition: all .2s;
+    }
+    .filter-btn:hover { border-color: rgba(255,255,255,.2); color: var(--text); }
+    .filter-btn.active { border-color: var(--green); color: var(--green); background: var(--green-dim); }
+    .filter-btn.active-red { border-color: var(--red); color: var(--red); background: var(--red-dim); }
+
+    /* ── Match list ── */
+    .match-list { display: flex; flex-direction: column; gap: 8px; }
+
+    .match-row {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 16px 20px;
+      display: grid;
+      grid-template-columns: 120px 1fr auto auto auto;
+      align-items: center;
+      gap: 16px;
+      transition: border-color .2s;
+    }
+
+    .match-row:hover { border-color: rgba(255,255,255,.12); }
+    .match-row.win  { border-left: 3px solid var(--green); }
+    .match-row.loss { border-left: 3px solid var(--red); }
+    .match-row.pending { border-left: 3px solid var(--muted); }
+
+    .match-date {
+      font-family: var(--mono);
+      font-size: 11px;
+      color: var(--muted);
+    }
+
+    .match-teams {
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
+    }
+
+    .match-name {
+      font-size: 14px;
+      font-weight: 700;
+      color: var(--text);
+    }
+
+    .match-meta {
+      font-family: var(--mono);
+      font-size: 11px;
+      color: var(--muted);
+    }
+
+    .match-pronostic {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .pill-pronostic {
+      padding: 4px 10px;
+      border-radius: 999px;
+      font-family: var(--mono);
+      font-size: 12px;
+      font-weight: 700;
+      background: var(--green-dim);
+      color: var(--green);
+      border: 1px solid rgba(0,255,136,.25);
+      white-space: nowrap;
+    }
+
+    .match-cota {
+      font-family: var(--mono);
+      font-size: 13px;
+      font-weight: 700;
+      color: var(--amber);
+      min-width: 40px;
+      text-align: right;
+    }
+
+    .match-actions { display: flex; gap: 6px; }
+
+    .btn-result {
+      width: 36px;
+      height: 36px;
+      border-radius: 8px;
+      border: 1px solid var(--border);
+      background: transparent;
+      font-family: var(--mono);
+      font-size: 12px;
+      font-weight: 700;
+      cursor: pointer;
+      transition: all .2s;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .btn-w { color: var(--green); }
+    .btn-w:hover, .btn-w.active {
+      background: var(--green-dim);
+      border-color: var(--green);
+      color: var(--green);
+    }
+
+    .btn-l { color: var(--red); }
+    .btn-l:hover, .btn-l.active {
+      background: var(--red-dim);
+      border-color: var(--red);
+      color: var(--red);
+    }
+
+    .btn-del {
+      color: var(--muted);
+      font-size: 16px;
+    }
+    .btn-del:hover { color: var(--red); border-color: var(--red); }
+
+    /* ── Import modal ── */
+    .modal-overlay {
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,.8);
+      backdrop-filter: blur(8px);
+      z-index: 200;
+      display: none;
+      place-items: center;
+    }
+    .modal-overlay.open { display: grid; }
+
+    .modal-box {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      padding: 32px;
+      width: min(500px, 92vw);
+      max-height: 80vh;
+      overflow-y: auto;
+    }
+
+    .modal-title {
+      font-family: var(--mono);
+      font-size: 14px;
+      color: var(--green);
+      letter-spacing: .1em;
+      text-transform: uppercase;
+      margin-bottom: 8px;
+    }
+
+    .modal-sub {
+      font-size: 13px;
+      color: var(--muted);
+      margin-bottom: 20px;
+      line-height: 1.6;
+    }
+
+    .import-list { display: flex; flex-direction: column; gap: 8px; max-height: 300px; overflow-y: auto; }
+
+    .import-item {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 10px 14px;
+      border-radius: 10px;
+      border: 1px solid var(--border);
+      background: var(--card);
+      cursor: pointer;
+      transition: border-color .2s;
+    }
+    .import-item:hover { border-color: rgba(0,255,136,.3); }
+    .import-item input[type=checkbox] { accent-color: var(--green); width: 16px; height: 16px; }
+    .import-item-text { flex: 1; }
+    .import-item-name { font-size: 13px; font-weight: 700; }
+    .import-item-meta { font-family: var(--mono); font-size: 11px; color: var(--muted); }
+
+    .modal-actions { display: flex; gap: 10px; margin-top: 20px; justify-content: flex-end; }
+
+    .btn-cancel {
+      padding: 10px 20px;
+      border-radius: 8px;
+      border: 1px solid var(--border);
+      background: transparent;
+      color: var(--muted);
+      font-family: var(--mono);
+      font-size: 13px;
+      cursor: pointer;
+    }
+
+    .btn-confirm {
+      padding: 10px 20px;
+      border-radius: 8px;
+      border: none;
+      background: var(--green);
+      color: #050808;
+      font-family: var(--mono);
+      font-size: 13px;
+      font-weight: 700;
+      cursor: pointer;
+    }
+
+    .empty-state {
+      text-align: center;
+      padding: 60px 20px;
+      color: var(--muted);
+      font-family: var(--mono);
+      font-size: 13px;
+      line-height: 2;
+    }
+
+    .empty-state .icon { font-size: 40px; margin-bottom: 16px; display: block; }
+
+    @media (max-width: 700px) {
+      .stats-bar { grid-template-columns: repeat(3, 1fr); }
+      .match-row { grid-template-columns: 1fr auto; grid-template-rows: auto auto; gap: 8px; }
+      .match-date { grid-column: 1; }
+      .match-teams { grid-column: 1; grid-row: 2; }
+      .match-pronostic { grid-column: 2; grid-row: 1; }
+      .match-cota { display: none; }
+      .match-actions { grid-column: 2; grid-row: 2; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="brand">NEXAS <span>/</span> Istoric</div>
+  <div class="header-actions">
+    <a href="index.html" class="back-link">← Înapoi la site</a>
+    <button class="btn-import" onclick="openImport()">+ Importă meciuri</button>
+  </div>
+</header>
+
+<main>
+
+  <!-- Stats -->
+  <div class="stats-bar">
+    <div class="stat-card">
+      <span class="stat-val white" id="statTotal">0</span>
+      <span class="stat-label">Total meciuri</span>
+    </div>
+    <div class="stat-card">
+      <span class="stat-val green" id="statWin">0</span>
+      <span class="stat-label">Câștigate</span>
+    </div>
+    <div class="stat-card">
+      <span class="stat-val red" id="statLoss">0</span>
+      <span class="stat-label">Pierdute</span>
+    </div>
+    <div class="stat-card">
+      <span class="stat-val amber" id="statPending">0</span>
+      <span class="stat-label">În așteptare</span>
+    </div>
+    <div class="stat-card">
+      <span class="stat-val green" id="statPct">—</span>
+      <span class="stat-label">Rată succes</span>
+    </div>
+  </div>
+
+  <!-- Progress -->
+  <div class="progress-wrap">
+    <div class="progress-header">
+      <span class="progress-title">Rată de succes globală</span>
+      <span class="progress-pct" id="progressPct">—</span>
+    </div>
+    <div class="progress-bar">
+      <div class="progress-fill" id="progressFill" style="width:0%"></div>
+    </div>
+  </div>
+
+  <!-- Filters -->
+  <div class="filters">
+    <span class="filter-label">Filtru:</span>
+    <button class="filter-btn active" data-filter="all" onclick="setFilter('all',this)">Toate</button>
+    <button class="filter-btn" data-filter="win" onclick="setFilter('win',this)">✓ Câștigate</button>
+    <button class="filter-btn" data-filter="loss" onclick="setFilter('loss',this)">✗ Pierdute</button>
+    <button class="filter-btn" data-filter="pending" onclick="setFilter('pending',this)">◷ În așteptare</button>
+  </div>
+
+  <!-- Match list -->
+  <div class="match-list" id="matchList"></div>
+
+</main>
+
+<!-- Import modal -->
+<div class="modal-overlay" id="importModal">
+  <div class="modal-box">
+    <div class="modal-title">Importă meciuri</div>
+    <div class="modal-sub">Selectează meciurile din ultima rulare a agentului pe care vrei să le urmărești în istoric.</div>
+    <div class="import-list" id="importList"></div>
+    <div class="modal-actions">
+      <button class="btn-cancel" onclick="closeImport()">Anulează</button>
+      <button class="btn-confirm" onclick="confirmImport()">Adaugă selectate</button>
+    </div>
+  </div>
+</div>
+
+<script>
+const STORAGE_KEY   = 'nexas_istoric_v1';
+const MECIURI_KEY   = 'nexas_alte_meciuri_cache';
+const MAX_DAYS      = 15;
+
+let istoricData  = loadIstoric();
+let currentFilter = 'all';
+let importPool    = [];
+
+// ── Persistenta ──────────────────────────────────────────────────────────────
+
+function loadIstoric() {
+  try {
+    return JSON.parse(localStorage.getItem(STORAGE_KEY)) || [];
+  } catch(e) { return []; }
+}
+
+function saveIstoric() {
+  // Curata meciuri mai vechi de MAX_DAYS zile
+  const cutoff = new Date();
+  cutoff.setDate(cutoff.getDate() - MAX_DAYS);
+  istoricData = istoricData.filter(m => new Date(m.data) >= cutoff);
+  localStorage.setItem(STORAGE_KEY, JSON.stringify(istoricData));
+}
+
+// ── Stats ─────────────────────────────────────────────────────────────────────
+
+function updateStats() {
+  const total   = istoricData.length;
+  const win     = istoricData.filter(m => m.rezultat === 'win').length;
+  const loss    = istoricData.filter(m => m.rezultat === 'loss').length;
+  const pending = istoricData.filter(m => !m.rezultat).length;
+  const decided = win + loss;
+  const pct     = decided > 0 ? Math.round(win / decided * 100) : null;
+
+  document.getElementById('statTotal').textContent   = total;
+  document.getElementById('statWin').textContent     = win;
+  document.getElementById('statLoss').textContent    = loss;
+  document.getElementById('statPending').textContent = pending;
+  document.getElementById('statPct').textContent     = pct !== null ? pct + '%' : '—';
+  document.getElementById('progressPct').textContent = pct !== null ? pct + '%' : '—';
+  document.getElementById('progressFill').style.width = (pct || 0) + '%';
+}
+
+// ── Render ────────────────────────────────────────────────────────────────────
+
+function setFilter(f, btn) {
+  currentFilter = f;
+  document.querySelectorAll('.filter-btn').forEach(b => {
+    b.classList.remove('active', 'active-red');
+  });
+  if (f === 'loss') btn.classList.add('active-red');
+  else btn.classList.add('active');
+  renderList();
+}
+
+function renderList() {
+  const list = document.getElementById('matchList');
+
+  let filtered = [...istoricData].sort((a, b) => new Date(b.addedAt) - new Date(a.addedAt));
+
+  if (currentFilter === 'win')     filtered = filtered.filter(m => m.rezultat === 'win');
+  if (currentFilter === 'loss')    filtered = filtered.filter(m => m.rezultat === 'loss');
+  if (currentFilter === 'pending') filtered = filtered.filter(m => !m.rezultat);
+
+  if (!filtered.length) {
+    list.innerHTML = `
+      <div class="empty-state">
+        <span class="icon">📋</span>
+        ${istoricData.length === 0
+          ? 'Niciun meci în istoric.<br>Apasă <strong style="color:var(--green)">+ Importă meciuri</strong> pentru a începe.'
+          : 'Niciun meci corespunde filtrului selectat.'}
+      </div>`;
+    return;
+  }
+
+  list.innerHTML = filtered.map(m => {
+    const cls = m.rezultat === 'win' ? 'win' : m.rezultat === 'loss' ? 'loss' : 'pending';
+    const dateStr = m.data ? m.data : '—';
+    return `
+      <div class="match-row ${cls}" data-id="${m.id}">
+        <div class="match-date">${dateStr}<br>${m.liga || ''}</div>
+        <div class="match-teams">
+          <div class="match-name">${esc(m.home)} vs ${esc(m.away)}</div>
+          <div class="match-meta">${m.ora || ''} · ${m.motiv || ''}</div>
+        </div>
+        <div class="match-pronostic">
+          <span class="pill-pronostic">${esc(m.pronostic || '—')}</span>
+        </div>
+        <div class="match-cota">@ ${m.cota_pronostic ? Number(m.cota_pronostic).toFixed(2) : '—'}</div>
+        <div class="match-actions">
+          <button class="btn-result btn-w ${m.rezultat==='win'?'active':''}" onclick="setResult('${m.id}','win')" title="Win">W</button>
+          <button class="btn-result btn-l ${m.rezultat==='loss'?'active':''}" onclick="setResult('${m.id}','loss')" title="Loss">L</button>
+          <button class="btn-result btn-del" onclick="deleteMeci('${m.id}')" title="Șterge">×</button>
+        </div>
+      </div>`;
+  }).join('');
+}
+
+function setResult(id, rezultat) {
+  const m = istoricData.find(x => x.id === id);
+  if (!m) return;
+  // Toggle — daca dai din nou pe acelasi, resetezi
+  m.rezultat = m.rezultat === rezultat ? null : rezultat;
+  saveIstoric();
+  updateStats();
+  renderList();
+}
+
+function deleteMeci(id) {
+  istoricData = istoricData.filter(x => x.id !== id);
+  saveIstoric();
+  updateStats();
+  renderList();
+}
+
+// ── Import ────────────────────────────────────────────────────────────────────
+
+async function openImport() {
+  const modal = document.getElementById('importModal');
+  const importList = document.getElementById('importList');
+  importList.innerHTML = '<div style="color:var(--muted);font-family:var(--mono);font-size:12px;padding:20px;text-align:center;">Se încarcă meciurile...</div>';
+  modal.classList.add('open');
+
+  try {
+    const resp = await fetch('alte_meciuri.json?v=' + Date.now(), { cache: 'no-store' });
+    if (!resp.ok) throw new Error('Nu pot încărca alte_meciuri.json');
+    const data = await resp.json();
+    importPool = (data.meciuri || []).filter(m => m.pronostic);
+
+    if (!importPool.length) {
+      importList.innerHTML = '<div style="color:var(--muted);font-family:var(--mono);font-size:12px;padding:20px;text-align:center;">Nu există meciuri cu pronostic disponibile.</div>';
+      return;
+    }
+
+    // Exclude meciuri deja in istoric
+    const existingIds = new Set(istoricData.map(m => m.id));
+
+    importList.innerHTML = importPool.map((m, i) => {
+      const id = `${m.home}_${m.away}_${m.data}`.replace(/\s/g, '_');
+      const exists = existingIds.has(id);
+      return `
+        <label class="import-item" style="${exists?'opacity:.4;pointer-events:none;':''}">
+          <input type="checkbox" data-idx="${i}" ${exists?'disabled':''}>
+          <div class="import-item-text">
+            <div class="import-item-name">${esc(m.home)} vs ${esc(m.away)}</div>
+            <div class="import-item-meta">${m.liga} · ${m.data} · ${m.ora} · <span style="color:var(--green)">${m.pronostic}</span> @ ${m.cota_pronostic||'?'}${exists?' · deja în istoric':''}</div>
+          </div>
+        </label>`;
+    }).join('');
+
+  } catch(e) {
+    importList.innerHTML = `<div style="color:var(--red);font-family:var(--mono);font-size:12px;padding:20px;">${e.message}</div>`;
+  }
+}
+
+function closeImport() {
+  document.getElementById('importModal').classList.remove('open');
+}
+
+function confirmImport() {
+  const checkboxes = document.querySelectorAll('#importList input[type=checkbox]:checked');
+  let added = 0;
+  checkboxes.forEach(cb => {
+    const m = importPool[parseInt(cb.dataset.idx)];
+    if (!m) return;
+    const id = `${m.home}_${m.away}_${m.data}`.replace(/\s/g, '_');
+    if (istoricData.find(x => x.id === id)) return;
+    istoricData.push({
+      id,
+      home:          m.home,
+      away:          m.away,
+      liga:          m.liga,
+      data:          m.data,
+      ora:           m.ora,
+      pronostic:     m.pronostic,
+      cota_pronostic: m.cota_pronostic,
+      motiv:         m.motiv || '',
+      incredere:     m.incredere || null,
+      rezultat:      null,
+      addedAt:       new Date().toISOString(),
+    });
+    added++;
+  });
+
+  saveIstoric();
+  updateStats();
+  renderList();
+  closeImport();
+
+  if (added > 0) {
+    showToast(`${added} meci${added>1?'uri':''} adăugat${added>1?'e':''} în istoric.`);
+  }
+}
+
+// ── Toast ─────────────────────────────────────────────────────────────────────
+
+function showToast(msg) {
+  const t = document.createElement('div');
+  t.style.cssText = `
+    position:fixed;bottom:32px;left:50%;transform:translateX(-50%);
+    background:var(--green);color:#050808;
+    font-family:var(--mono);font-size:13px;font-weight:700;
+    padding:12px 24px;border-radius:999px;z-index:300;
+    animation:fadeup .3s ease;
+  `;
+  t.textContent = msg;
+  document.body.appendChild(t);
+  setTimeout(() => t.remove(), 3000);
+}
+
+// ── Utils ─────────────────────────────────────────────────────────────────────
+
+function esc(v) {
+  return String(v ?? '').replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;');
+}
+
+// ── Close modal on backdrop click ─────────────────────────────────────────────
+document.getElementById('importModal').addEventListener('click', function(e) {
+  if (e.target === this) closeImport();
+});
+
+// ── Init ──────────────────────────────────────────────────────────────────────
+updateStats();
+renderList();
+</script>
+</body>
+</html>
