@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-02T10:13:16.301169+00:00",
-  "updated_at_afisaj": "2 mai 2026, 13:13",
+  "updated_at": "2026-05-02T10:39:11.048117+00:00",
+  "updated_at_afisaj": "2 mai 2026, 13:39",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 67,
+  "numar_stiri": 72,
   "stiri": [
+    {
+      "id": "3763e5699aba",
+      "titlu": "Charlton, o surpriză în lupta pentru titlul din WSL 2",
+      "rezumat": "Echipa feminină Charlton Athletic a devenit o candidată neașteptată la titlul din WSL 2, intrând în ultima etapă a sezonului de pe prima poziție. Performanța lor a surprins mulți observatori, având în vedere că puțini îi considerau favoriți la începutul campaniei. Clubul se pregătește acum pentru o zi decisivă, în care va încerca să își asigure promovarea în Women's Super League, sfidând așteptările inițiale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-02T10:39:11.044487+00:00",
+      "data_afisaj": "2 mai 2026, 13:39"
+    },
+    {
+      "id": "432a65ff5eac",
+      "titlu": "Viitorul lui Kai Havertz la Arsenal, incert după un sezon marcat de accidentări",
+      "rezumat": "Atacantul german Kai Havertz a avut un sezon la Arsenal puternic afectat de accidentări, ceea ce a limitat semnificativ contribuția sa pe teren. Clubul nu a putut conta pe serviciile sale în mod constant, iar acum se ridică întrebări cu privire la viitorul său la echipă. Se analizează ce perspective are jucătorul și cum va evolua situația sa la Arsenal în perioada următoare, având în vedere provocările fizice întâmpinate.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-02T10:39:11.045465+00:00",
+      "data_afisaj": "2 mai 2026, 13:39"
+    },
+    {
+      "id": "d9065af700f0",
+      "titlu": "SPFL susține Celtic în disputa privind alocarea biletelor pentru derby-ul Old Firm",
+      "rezumat": "Liga Profesionistă Scoțiană de Fotbal (SPFL) a anunțat că susține decizia clubului Celtic în legătură cu alocarea biletelor pentru fani înaintea ultimei confruntări Old Firm din acest sezon împotriva rivalilor de la Rangers. Această hotărâre vine în contextul unei dispute privind numărul de bilete disponibile pentru suporterii echipei oaspete, o problemă recurentă în derby-urile scoțiene. Decizia SPFL confirmă poziția Celtic în această chestiune sensibilă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-02T10:39:11.046401+00:00",
+      "data_afisaj": "2 mai 2026, 13:39"
+    },
+    {
+      "id": "713442684d68",
+      "titlu": "Roy Hodgson, la 78 de ani: „Am demonstrat că sunt încă un manager capabil”",
+      "rezumat": "Antrenorul interimar al echipei Bristol City, Roy Hodgson, a declarat că a reușit să-și demonstreze sieși, la vârsta de 78 de ani, că este încă un manager de succes. Afirmația vine după o perioadă în care Hodgson a preluat conducerea tehnică a clubului, consolidându-și reputația de tehnician experimentat și capabil să obțină rezultate. Declarația subliniază încrederea sa în propriile abilități, în ciuda vârstei înaintate.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-02T10:39:11.047335+00:00",
+      "data_afisaj": "2 mai 2026, 13:39"
+    },
+    {
+      "id": "a5b2bb8f882f",
+      "titlu": "Olivia Rodrigo, pe tricoul Barcelonei pentru El Clasico",
+      "rezumat": "Artista Olivia Rodrigo va fi prezentă pe tricourile echipei FC Barcelona în timpul meciului El Clasico, în cadrul unei inițiative de marketing realizate în parteneriat cu Spotify. Această colaborare inedită marchează o premieră pentru clubul catalan, care continuă să exploreze modalități creative de a-și promova partenerii și de a atrage atenția publicului tânăr. Fanii vor vedea logo-ul artistei pe echipamentul de joc al Barcelonei în confruntarea cu Real Madrid.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-05-02T10:39:11.048100+00:00",
+      "data_afisaj": "2 mai 2026, 13:39"
+    },
     {
       "id": "44f2ec623d45",
       "titlu": "Mikel Arteta îndeamnă jucătorii Arsenal să se bucure de presiunea luptelor pentru titlu",
