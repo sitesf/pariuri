@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-02T18:38:00.053456+00:00",
-  "updated_at_afisaj": "2 mai 2026, 21:38",
+  "updated_at": "2026-05-02T19:58:18.999897+00:00",
+  "updated_at_afisaj": "2 mai 2026, 22:58",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,66 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 76,
+  "numar_stiri": 81,
   "stiri": [
+    {
+      "id": "f80bb370827a",
+      "titlu": "Arsenal Feminin, eliminată din Liga Campionilor de Lyon, după un gol târziu",
+      "rezumat": "Echipa feminină Arsenal a fost eliminată din Liga Campionilor de către OL Lyonnes, după o înfrângere cu scorul general de 4-3 în semifinale. Golul decisiv a fost marcat târziu de Jule Brand, punând capăt apărării titlului de către Arsenal. Meciul retur din Franța a fost unul intens, cu implicarea VAR, iar Lyonnes va juca a 12-a sa finală europeană, extinzându-și propriul record. Antrenoarea Renée Slegers a recunoscut superioritatea echipei adverse.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-02T19:58:18.995291+00:00",
+      "data_afisaj": "2 mai 2026, 22:58"
+    },
+    {
+      "id": "fa76bc8a2b18",
+      "titlu": "Newcastle United pune capăt seriei de înfrângeri cu o victorie împotriva lui Brighton",
+      "rezumat": "Newcastle United a obținut o victorie crucială cu 3-1 împotriva lui Brighton la St. James' Park, punând capăt unei serii de înfrângeri care dura din luna martie. Această victorie reprezintă un impuls important pentru antrenorul Eddie Howe. În ciuda pregătirii fizice intense a jucătorilor lui Brighton, care au inclus antrenamente cu un luptător de MMA, strategia nu a funcționat conform așteptărilor, iar Newcastle a reușit să se impună.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-02T19:58:18.996453+00:00",
+      "data_afisaj": "2 mai 2026, 22:58"
+    },
+    {
+      "id": "1861708c2707",
+      "titlu": "Cartonaș roșu controversat pentru Dan Ballard la egalul dintre Wolves și Sunderland",
+      "rezumat": "Fundașul Dan Ballard de la Sunderland a fost eliminat pentru o tragere de păr asupra lui Tolu Arokodare în timpul egalului 1-1 cu Wolves în Premier League. Decizia arbitrului Paul Tierney a fost considerată \"greu de digerat\" de către antrenorul lui Sunderland, Régis Le Bris, deoarece echipa sa a trebuit să joace cu 10 oameni mai mult de o oră. Incidentul a afectat speranțele lui Sunderland de a obține un loc în competițiile europene.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-02T19:58:18.997543+00:00",
+      "data_afisaj": "2 mai 2026, 22:58"
+    },
+    {
+      "id": "e74adefdf429",
+      "titlu": "PSG și Bayern Munchen, egaluri în campionat înainte de returul semifinalei Ligii Campionilor",
+      "rezumat": "Paris Saint-Germain și Bayern Munchen au înregistrat rezultate de egalitate în meciurile lor de campionat, înaintea returului semifinalei Ligii Campionilor. PSG a remizat 2-2 cu Lorient în Ligue 1, după ce a condus de două ori, folosind o echipă secundă. Bayern Munchen a obținut un egal spectaculos, 3-3 cu Heidenheim, după o revenire târzie. Aceste rezultate vin ca o încălzire pentru confruntarea decisivă din Liga Campionilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-02T19:58:18.998700+00:00",
+      "data_afisaj": "2 mai 2026, 22:58"
+    },
+    {
+      "id": "76faf6c3005c",
+      "titlu": "Programul play-off-urilor EFL pentru Championship, League One și League Two a fost confirmat",
+      "rezumat": "English Football League (EFL) a anunțat oficial datele pentru meciurile de play-off din sezoanele 2025/2026 ale Sky Bet Championship, League One și League Two. Programul include semifinalele și finalele, care vor determina echipele promovate în diviziile superioare. Această confirmare oferă claritate cluburilor și fanilor cu privire la etapele decisive ale luptei pentru promovare în fotbalul englez.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-02T19:58:18.999877+00:00",
+      "data_afisaj": "2 mai 2026, 22:58"
+    },
     {
       "id": "b0ef662a75bc",
       "titlu": "West Ham pierde la Brentford, deschizând calea pentru Tottenham să iasă din zona retrogradării",
