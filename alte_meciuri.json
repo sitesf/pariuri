@@ -1,7 +1,7 @@
 {
   "data_start": "2026-05-02",
   "data_final": "2026-05-09",
-  "updated_at": "2026-05-02T10:24:14.999833+00:00",
+  "updated_at": "2026-05-02T10:47:07.335921+00:00",
   "surse": [
     "The Odds API"
   ],
@@ -57,12 +57,12 @@
       "away": "Charlton Athletic",
       "liga": "Championship",
       "cota_1": 1.7,
-      "cota_x": 3.7,
-      "cota_2": 4.2,
+      "cota_x": 3.75,
+      "cota_2": 4.1,
       "pronostic": "1X",
-      "motiv": "Gazde ușor favorizate (1:1.70 X:3.70)",
-      "cota_pronostic": 1.16,
-      "probabilitate": 0.859
+      "motiv": "Gazde ușor favorizate (1:1.70 X:3.75)",
+      "cota_pronostic": 1.17,
+      "probabilitate": 0.855
     },
     {
       "data": "2026-05-07",
@@ -248,34 +248,6 @@
     },
     {
       "data": "2026-05-02",
-      "ora": "17:30",
-      "home": "FC Utrecht",
-      "away": "NAC Breda",
-      "liga": "Eredivisie",
-      "cota_1": 1.77,
-      "cota_x": 3.85,
-      "cota_2": 4.35,
-      "pronostic": "1X",
-      "motiv": "Gazde ușor favorizate (1:1.77 X:3.85)",
-      "cota_pronostic": 1.21,
-      "probabilitate": 0.825
-    },
-    {
-      "data": "2026-05-02",
-      "ora": "17:15",
-      "home": "Valencia",
-      "away": "Atlético Madrid",
-      "liga": "La Liga",
-      "cota_1": 1.76,
-      "cota_x": 3.93,
-      "cota_2": 4.7,
-      "pronostic": "1X",
-      "motiv": "Gazde ușor favorizate (1:1.76 X:3.93)",
-      "cota_pronostic": 1.22,
-      "probabilitate": 0.823
-    },
-    {
-      "data": "2026-05-02",
       "ora": "22:05",
       "home": "Nice",
       "away": "RC Lens",
@@ -318,17 +290,17 @@
     },
     {
       "data": "2026-05-02",
-      "ora": "22:00",
-      "home": "CA Osasuna",
-      "away": "Barcelona",
-      "liga": "La Liga",
-      "cota_1": 4.65,
-      "cota_x": 4.09,
-      "cota_2": 1.74,
-      "pronostic": "X2",
-      "motiv": "Oaspeți ușor favorizați (2:1.74 X:4.09)",
+      "ora": "17:30",
+      "home": "FC Utrecht",
+      "away": "NAC Breda",
+      "liga": "Eredivisie",
+      "cota_1": 1.77,
+      "cota_x": 3.9,
+      "cota_2": 4.3,
+      "pronostic": "1X",
+      "motiv": "Gazde ușor favorizate (1:1.77 X:3.90)",
       "cota_pronostic": 1.22,
-      "probabilitate": 0.819
+      "probabilitate": 0.821
     },
     {
       "data": "2026-05-02",
@@ -357,6 +329,34 @@
       "motiv": "Gazde ușor favorizate (1:1.92 X:3.35)",
       "cota_pronostic": 1.22,
       "probabilitate": 0.819
+    },
+    {
+      "data": "2026-05-02",
+      "ora": "17:15",
+      "home": "Valencia",
+      "away": "Atlético Madrid",
+      "liga": "La Liga",
+      "cota_1": 1.78,
+      "cota_x": 3.92,
+      "cota_2": 4.67,
+      "pronostic": "1X",
+      "motiv": "Gazde ușor favorizate (1:1.78 X:3.92)",
+      "cota_pronostic": 1.22,
+      "probabilitate": 0.817
+    },
+    {
+      "data": "2026-05-02",
+      "ora": "22:00",
+      "home": "CA Osasuna",
+      "away": "Barcelona",
+      "liga": "La Liga",
+      "cota_1": 4.65,
+      "cota_x": 4.08,
+      "cota_2": 1.75,
+      "pronostic": "X2",
+      "motiv": "Oaspeți ușor favorizați (2:1.75 X:4.08)",
+      "cota_pronostic": 1.22,
+      "probabilitate": 0.817
     },
     {
       "data": "2026-05-03",
@@ -401,6 +401,20 @@
       "probabilitate": 0.815
     },
     {
+      "data": "2026-05-02",
+      "ora": "14:30",
+      "home": "Bristol City",
+      "away": "Stoke City",
+      "liga": "Championship",
+      "cota_1": 1.85,
+      "cota_x": 3.65,
+      "cota_2": 3.5,
+      "pronostic": "1X",
+      "motiv": "Gazde ușor favorizate (1:1.85 X:3.65)",
+      "cota_pronostic": 1.23,
+      "probabilitate": 0.815
+    },
+    {
       "data": "2026-05-09",
       "ora": "19:30",
       "home": "Atlético Madrid",
@@ -430,20 +444,6 @@
     },
     {
       "data": "2026-05-02",
-      "ora": "14:30",
-      "home": "Bristol City",
-      "away": "Stoke City",
-      "liga": "Championship",
-      "cota_1": 1.88,
-      "cota_x": 3.6,
-      "cota_2": 3.5,
-      "pronostic": "1X",
-      "motiv": "Gazde ușor favorizate (1:1.88 X:3.60)",
-      "cota_pronostic": 1.24,
-      "probabilitate": 0.81
-    },
-    {
-      "data": "2026-05-02",
       "ora": "17:00",
       "home": "Brentford",
       "away": "West Ham United",
@@ -463,12 +463,12 @@
       "away": "Sheffield United",
       "liga": "Championship",
       "cota_1": 1.82,
-      "cota_x": 3.9,
+      "cota_x": 3.95,
       "cota_2": 4.2,
       "pronostic": "1X",
-      "motiv": "Gazde ușor favorizate (1:1.82 X:3.90)",
-      "cota_pronostic": 1.24,
-      "probabilitate": 0.806
+      "motiv": "Gazde ușor favorizate (1:1.82 X:3.95)",
+      "cota_pronostic": 1.25,
+      "probabilitate": 0.803
     },
     {
       "data": "2026-05-09",
@@ -483,20 +483,6 @@
       "motiv": "Oaspeți ușor favorizați (2:1.87 X:3.75)",
       "cota_pronostic": 1.25,
       "probabilitate": 0.801
-    },
-    {
-      "data": "2026-05-02",
-      "ora": "15:00",
-      "home": "Villarreal",
-      "away": "Levante",
-      "liga": "La Liga",
-      "cota_1": 1.75,
-      "cota_x": 4.37,
-      "cota_2": 4.67,
-      "pronostic": "1X",
-      "motiv": "Gazde ușor favorizate (1:1.75 X:4.37)",
-      "cota_pronostic": 1.25,
-      "probabilitate": 0.8
     },
     {
       "data": "2026-05-02",
@@ -519,8 +505,8 @@
       "away": "1. FC Heidenheim",
       "liga": "Bundesliga",
       "cota_1": 1.26,
-      "cota_x": 6.96,
-      "cota_2": 10.08,
+      "cota_x": 6.99,
+      "cota_2": 10.12,
       "pronostic": "1",
       "motiv": "Gazde favorite clare (cota 1.26)",
       "cota_pronostic": 1.26,
@@ -539,6 +525,20 @@
       "motiv": "Gazde favorite clare (cota 1.26)",
       "cota_pronostic": 1.26,
       "probabilitate": 0.794
+    },
+    {
+      "data": "2026-05-02",
+      "ora": "15:00",
+      "home": "Villarreal",
+      "away": "Levante",
+      "liga": "La Liga",
+      "cota_1": 1.79,
+      "cota_x": 4.32,
+      "cota_2": 4.46,
+      "pronostic": "1X",
+      "motiv": "Gazde ușor favorizate (1:1.79 X:4.32)",
+      "cota_pronostic": 1.27,
+      "probabilitate": 0.79
     },
     {
       "data": "2026-05-08",
@@ -560,13 +560,13 @@
       "home": "Preston North End",
       "away": "Southampton",
       "liga": "Championship",
-      "cota_1": 3.85,
-      "cota_x": 3.9,
-      "cota_2": 1.89,
+      "cota_1": 3.9,
+      "cota_x": 3.85,
+      "cota_2": 1.91,
       "pronostic": "X2",
-      "motiv": "Oaspeți ușor favorizați (2:1.89 X:3.90)",
-      "cota_pronostic": 1.27,
-      "probabilitate": 0.786
+      "motiv": "Oaspeți ușor favorizați (2:1.91 X:3.85)",
+      "cota_pronostic": 1.28,
+      "probabilitate": 0.783
     },
     {
       "data": "2026-05-06",
@@ -583,6 +583,20 @@
       "probabilitate": 0.781
     },
     {
+      "data": "2026-05-02",
+      "ora": "14:30",
+      "home": "Hull City",
+      "away": "Norwich City",
+      "liga": "Championship",
+      "cota_1": 1.93,
+      "cota_x": 3.8,
+      "cota_2": 3.5,
+      "pronostic": "1X",
+      "motiv": "Gazde ușor favorizate (1:1.93 X:3.80)",
+      "cota_pronostic": 1.28,
+      "probabilitate": 0.781
+    },
+    {
       "data": "2026-05-03",
       "ora": "17:45",
       "home": "Sparta Rotterdam",
@@ -595,20 +609,6 @@
       "motiv": "Gazde ușor favorizate (1:1.96 X:3.70)",
       "cota_pronostic": 1.28,
       "probabilitate": 0.78
-    },
-    {
-      "data": "2026-05-02",
-      "ora": "14:30",
-      "home": "Hull City",
-      "away": "Norwich City",
-      "liga": "Championship",
-      "cota_1": 1.94,
-      "cota_x": 3.85,
-      "cota_2": 3.45,
-      "pronostic": "1X",
-      "motiv": "Gazde ușor favorizate (1:1.94 X:3.85)",
-      "cota_pronostic": 1.29,
-      "probabilitate": 0.775
     },
     {
       "data": "2026-05-03",
@@ -631,7 +631,7 @@
       "away": "Oxford United",
       "liga": "Championship",
       "cota_1": 1.3,
-      "cota_x": 4.75,
+      "cota_x": 4.9,
       "cota_2": 8.0,
       "pronostic": "1",
       "motiv": "Gazde favorite clare (cota 1.30)",
@@ -645,10 +645,10 @@
       "away": "Augsburg",
       "liga": "Bundesliga",
       "cota_1": 1.97,
-      "cota_x": 3.89,
-      "cota_2": 3.8,
+      "cota_x": 3.88,
+      "cota_2": 3.79,
       "pronostic": "1X",
-      "motiv": "Gazde ușor favorizate (1:1.97 X:3.89)",
+      "motiv": "Gazde ușor favorizate (1:1.97 X:3.88)",
       "cota_pronostic": 1.31,
       "probabilitate": 0.765
     },
@@ -674,7 +674,7 @@
       "liga": "Ligue 1",
       "cota_1": 1.35,
       "cota_x": 5.78,
-      "cota_2": 8.34,
+      "cota_2": 8.36,
       "pronostic": "1",
       "motiv": "Gazde favorite clare (cota 1.35)",
       "cota_pronostic": 1.35,
@@ -700,13 +700,13 @@
       "home": "Metz",
       "away": "AS Monaco",
       "liga": "Ligue 1",
-      "cota_1": 7.73,
-      "cota_x": 5.82,
-      "cota_2": 1.36,
+      "cota_1": 7.65,
+      "cota_x": 5.79,
+      "cota_2": 1.37,
       "pronostic": "2",
-      "motiv": "Oaspeți favoriți clari (cota 1.36)",
-      "cota_pronostic": 1.36,
-      "probabilitate": 0.735
+      "motiv": "Oaspeți favoriți clari (cota 1.37)",
+      "cota_pronostic": 1.37,
+      "probabilitate": 0.73
     }
   ]
 }
