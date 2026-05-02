@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-02T10:39:11.048117+00:00",
-  "updated_at_afisaj": "2 mai 2026, 13:39",
+  "updated_at": "2026-05-02T18:38:00.053456+00:00",
+  "updated_at_afisaj": "2 mai 2026, 21:38",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,56 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 72,
+  "numar_stiri": 76,
   "stiri": [
+    {
+      "id": "b0ef662a75bc",
+      "titlu": "West Ham pierde la Brentford, deschizând calea pentru Tottenham să iasă din zona retrogradării",
+      "rezumat": "West Ham United a suferit o înfrângere categorică, scor 3-0, în deplasarea de la Brentford, un rezultat care complică situația echipei în clasamentul Premier League. Această înfrângere oferă rivalei Tottenham Hotspur o șansă importantă de a se distanța de zona retrogradării, punând presiune suplimentară pe 'Ciocănari' în ultimele etape ale campionatului. Echipa lui Nuno Espirito Santo trebuie să reacționeze rapid pentru a-și asigura supraviețuirea în prima ligă engleză.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-02T18:38:00.050096+00:00",
+      "data_afisaj": "2 mai 2026, 21:38"
+    },
+    {
+      "id": "ce9c7f34c548",
+      "titlu": "Tragedie la Galați: Tatăl fotbalistului Dragoș Huiban a decedat pe stadion",
+      "rezumat": "Comunitatea fotbalistică din România este în doliu după ce tatăl jucătorului Dragoș Huiban de la Oțelul Galați a decedat pe stadionul din oraș. Incidentul tragic a avut loc în timpul unui eveniment sportiv, provocând o undă de șoc și tristețe. Clubul Oțelul Galați a transmis un mesaj de condoleanțe familiei îndoliate, exprimându-și sprijinul în aceste momente dificile. Detaliile exacte ale cauzei decesului nu au fost încă făcute publice, dar evenimentul a marcat profund echipa și suporterii.",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-05-02T18:38:00.051135+00:00",
+      "data_afisaj": "2 mai 2026, 21:38"
+    },
+    {
+      "id": "63a1c4bd6bfe",
+      "titlu": "Arsenal se distanțează la șase puncte în fruntea Premier League după victoria cu Fulham",
+      "rezumat": "Arsenal a obținut o victorie convingătoare cu 3-0 împotriva lui Fulham, consolidându-și poziția de lider în Premier League. Echipa a reușit să se distanțeze la șase puncte de Manchester City, principalul său urmăritor, și și-a îmbunătățit semnificativ golaverajul. Bukayo Saka și Viktor Gyokeres au fost printre marcatorii serii, contribuind decisiv la succesul 'Tunarilor'. Acest rezultat crucial menține presiunea pe City în lupta pentru titlu și sporește încrederea echipei lui Arteta.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-02T18:38:00.052191+00:00",
+      "data_afisaj": "2 mai 2026, 21:38"
+    },
+    {
+      "id": "018c535d1055",
+      "titlu": "Ipswich Town a promovat în Premier League după o victorie categorică",
+      "rezumat": "Ipswich Town a revenit în Premier League după o absență îndelungată, asigurându-și promovarea printr-o victorie impresionantă împotriva echipei QPR. Două goluri rapide au eliminat orice urmă de emoție, transformând partida într-o sărbătoare pentru fani. Echipa antrenată de Kieran McKenna a demonstrat o formă excelentă pe parcursul sezonului, iar succesul de astăzi confirmă ascensiunea clubului. Suporterii au invadat terenul la finalul meciului pentru a celebra alături de jucători această performanță remarcabilă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-02T18:38:00.053176+00:00",
+      "data_afisaj": "2 mai 2026, 21:38"
+    },
     {
       "id": "3763e5699aba",
       "titlu": "Charlton, o surpriză în lupta pentru titlul din WSL 2",
