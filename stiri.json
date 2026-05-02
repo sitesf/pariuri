@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-01T20:13:28.679592+00:00",
-  "updated_at_afisaj": "1 mai 2026, 23:13",
+  "updated_at": "2026-05-02T10:13:16.301169+00:00",
+  "updated_at_afisaj": "2 mai 2026, 13:13",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 62,
+  "numar_stiri": 67,
   "stiri": [
+    {
+      "id": "44f2ec623d45",
+      "titlu": "Mikel Arteta îndeamnă jucătorii Arsenal să se bucure de presiunea luptelor pentru titlu",
+      "rezumat": "Antrenorul lui Arsenal, Mikel Arteta, a declarat că echipa sa trebuie să „iubească” presiunea și zgomotul din finalul sezonului, având în vedere lupta pentru titlul din Premier League și Liga Campionilor. Arteta a subliniat importanța prospețimii jucătorilor, sugerând că aceasta a fost cheia pentru nivelul înalt demonstrat de Bayern Munchen și Paris Saint-Germain în semifinalele Ligii Campionilor. El crede că Arsenal poate ajunge „foarte aproape” de a câștiga primul titlu de campioană în 22 de ani.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-02T10:13:16.297625+00:00",
+      "data_afisaj": "2 mai 2026, 13:13"
+    },
+    {
+      "id": "0da4513f52d6",
+      "titlu": "Casemiro se pregătește de plecarea de la Manchester United",
+      "rezumat": "Mijlocașul brazilian Casemiro, în vârstă de 34 de ani, este așteptat să părăsească Old Trafford la finalul sezonului, după ce a avut o contribuție semnificativă la Manchester United. În ciuda îndoielilor inițiale, Casemiro a demonstrat o formă excelentă în acest sezon, fiind al doilea marcator al echipei cu nouă goluri și acumulând peste 2.400 de minute în 31 de meciuri ca titular. Plecarea sa marchează sfârșitul unei perioade în care a reușit să contrazică criticile.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-02T10:13:16.298464+00:00",
+      "data_afisaj": "2 mai 2026, 13:13"
+    },
+    {
+      "id": "b6b29ec1211c",
+      "titlu": "Frenkie de Jong despre decizia de a rămâne la Barcelona și experiența Cupei Mondiale",
+      "rezumat": "Mijlocașul Frenkie de Jong a vorbit despre decizia sa de a refuza plecarea de la Barcelona și despre experiența sa la Cupa Mondială. De Jong, cel mai vechi jucător al primei echipe și un căpitan regulat, a declarat că s-a simțit confortabil la clubul catalan, pe care l-a vizitat pentru prima dată în adolescență. El a doborât recent un record olandez la Barça și este la o victorie distanță de a câștiga al treilea titlu de campion cu echipa.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-02T10:13:16.299358+00:00",
+      "data_afisaj": "2 mai 2026, 13:13"
+    },
+    {
+      "id": "8a79ad43a594",
+      "titlu": "Brighton construiește un stadion dedicat exclusiv fotbalului feminin",
+      "rezumat": "Clubul Brighton & Hove Albion construiește un stadion special conceput pentru echipa sa feminină, un proiect care subliniază angajamentul clubului față de egalitatea în sport. Această inițiativă este considerată un pas important în dezvoltarea infrastructurii pentru fotbalul feminin și reflectă mesajul de \"un singur club\" promovat de Brighton. Proiectul ar putea reprezenta o premieră în Europa, oferind condiții optime pentru creșterea și performanța echipei feminine.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-05-02T10:13:16.300222+00:00",
+      "data_afisaj": "2 mai 2026, 13:13"
+    },
+    {
+      "id": "55f1e243c55f",
+      "titlu": "Liverpool se bazează pe Alexander Isak și Florian Wirtz în absența lui Mohamed Salah",
+      "rezumat": "În contextul absenței lui Mohamed Salah, Liverpool își îndreaptă atenția către alți jucători pentru a prelua responsabilitatea ofensivă. Alexander Isak și Florian Wirtz sunt vizați să devină piloni importanți în atacul echipei. Această schimbare de strategie vine într-un moment crucial al sezonului, iar performanțele celor doi jucători vor fi sub o presiune intensă, având în vedere necesitatea de a compensa golurile și influența starului egiptean.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-02T10:13:16.301146+00:00",
+      "data_afisaj": "2 mai 2026, 13:13"
+    },
     {
       "id": "af3dac6efee3",
       "titlu": "Leeds United vs. Burnley: Meci live din Premier League",
