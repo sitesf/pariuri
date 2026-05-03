@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-03T10:34:37.030598+00:00",
-  "updated_at_afisaj": "3 mai 2026, 13:34",
+  "updated_at": "2026-05-03T11:08:47.021339+00:00",
+  "updated_at_afisaj": "3 mai 2026, 14:08",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 86,
+  "numar_stiri": 91,
   "stiri": [
+    {
+      "id": "5ac22dd1662c",
+      "titlu": "Wrexham analizează sezonul: Oportunitate ratată în Championship?",
+      "rezumat": "După ce a încheiat sezonul pe locul șapte în Championship, clubul Wrexham își evaluează performanța din campania 2025-26. BBC Sport analizează dacă echipa consideră acest sezon o oportunitate ratată de a obține un rezultat mai bun sau chiar de a lupta pentru promovare. Articolul explorează așteptările inițiale ale clubului, susținut de proprietari celebri, și le compară cu rezultatele finale, oferind o perspectivă asupra direcției viitoare și a strategiilor necesare pentru a-și atinge obiectivele ambițioase.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-03T11:08:47.015947+00:00",
+      "data_afisaj": "3 mai 2026, 14:08"
+    },
+    {
+      "id": "61323ede7799",
+      "titlu": "Antrenorul lui Leyton Orient, Richie Wellens, critică sezonul echipei, deși a evitat retrogradarea",
+      "rezumat": "Managerul echipei Leyton Orient, Richie Wellens, a avut o reacție vehementă, descriind sezonul clubului drept 'rușinos' și 'irosit', în ciuda faptului că echipa a reușit să evite retrogradarea. Declarațiile sale vin după ce Leyton Orient a asigurat menținerea în ligă, dar performanța generală a lăsat de dorit. Wellens a subliniat frustrarea sa față de lipsa de progres și de obiectivele nerealizate pe parcursul campaniei, cerând o schimbare de atitudine și performanță pentru viitor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-03T11:08:47.017323+00:00",
+      "data_afisaj": "3 mai 2026, 14:08"
+    },
+    {
+      "id": "e9f2b1c2ccf6",
+      "titlu": "Viitorul antrenorilor Iraola și Glasner, sub semnul întrebării: Manageri de mijloc sau viitori lideri la cluburi mari?",
+      "rezumat": "O analiză a viitorului antrenorilor Andoni Iraola (Bournemouth) și Oliver Glasner (Crystal Palace) ridică întrebări despre potențialul lor de a prelua echipe de top. Ambii tehnicieni sunt la final de contract la sfârșitul sezonului și speră să avanseze în carieră. Articolul explorează dacă aceștia sunt destinați să rămână manageri de cluburi de mijloc sau dacă au calitățile necesare pentru a conduce echipe cu ambiții mai mari, având în vedere performanțele lor recente și provocările viitoare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-03T11:08:47.018744+00:00",
+      "data_afisaj": "3 mai 2026, 14:08"
+    },
+    {
+      "id": "89801236689a",
+      "titlu": "Peter Crouch susține o posibilă mutare a lui Robert Lewandowski la Liverpool",
+      "rezumat": "Fostul atacant al lui Liverpool, Peter Crouch, a declarat că Robert Lewandowski ar fi o achiziție 'fantastică' pentru clubul de pe Anfield. Crouch a lăudat calitățile de atacant de clasă mondială ale polonezului, recunoscând totodată că vârsta sa avansată ar putea fi un factor. Această declarație alimentează speculațiile privind un potențial transfer al lui Lewandowski la Liverpool, aducând o perspectivă interesantă din partea unei figuri cunoscute în fotbalul englez și stârnind dezbateri printre fani.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-05-03T11:08:47.019942+00:00",
+      "data_afisaj": "3 mai 2026, 14:08"
+    },
+    {
+      "id": "d65550441f5e",
+      "titlu": "Morgan Rogers (Aston Villa) vorbește despre provocările depășite în drumul său spre Premier League",
+      "rezumat": "Jucătorul de la Aston Villa, Morgan Rogers, a împărtășit experiențele sale legate de momentele dificile și perioadele întunecate din cariera sa, subliniind că acestea fac parte din fotbal. Rogers a trecut prin mai multe împrumuturi înainte de a se impune în Premier League, iar mărturisirile sale oferă o perspectivă asupra perseverenței necesare pentru a ajunge la cel mai înalt nivel. Povestea sa este o inspirație pentru tinerii fotbaliști care se confruntă cu obstacole în parcursul lor, demonstrând importanța rezilienței.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-05-03T11:08:47.021320+00:00",
+      "data_afisaj": "3 mai 2026, 14:08"
+    },
     {
       "id": "56c628c65573",
       "titlu": "Watford l-a demis pe antrenorul Ed Still după mai puțin de trei luni",
