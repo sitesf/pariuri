@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-03T18:38:54.491219+00:00",
-  "updated_at_afisaj": "3 mai 2026, 21:38",
+  "updated_at": "2026-05-03T19:58:24.974176+00:00",
+  "updated_at_afisaj": "3 mai 2026, 22:58",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,53 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 96,
+  "numar_stiri": 100,
   "stiri": [
+    {
+      "id": "5c12cfe156b4",
+      "titlu": "Manchester City, aproape de titlul în WSL după o victorie dramatică împotriva lui Liverpool",
+      "rezumat": "Manchester City este aproape de câștigarea titlului în Women's Super League (WSL) după o victorie dramatică, scor 1-0, împotriva lui Liverpool. Rebecca Knaak a marcat golul decisiv în prelungiri, asigurând cele trei puncte pentru echipa sa. Cu o singură etapă rămasă, City a acumulat 52 de puncte și este la o distanță de nouă puncte față de Chelsea, ocupanta locului doi, care urmează să joace împotriva lui Leicester. Acest rezultat plasează Manchester City într-o poziție dominantă pentru a-și adjudeca trofeul.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-03T19:58:24.969505+00:00",
+      "data_afisaj": "3 mai 2026, 22:58"
+    },
+    {
+      "id": "5a741fc40740",
+      "titlu": "Andy Robertson, despre posibilitatea de a egala recordul de selecții al lui Kenny Dalglish",
+      "rezumat": "Fundașul lui Liverpool și căpitanul Scoției, Andy Robertson, a reflectat asupra perspectivei de a egala recordul de selecții al legendarului Kenny Dalglish pentru echipa națională. Robertson a declarat că este \"ireal\" să fie în discuția de a ajunge la numărul de apariții al celui considerat cel mai mare jucător scoțian din toate timpurile. El se află la mai puțin de zece meciuri distanță de a atinge această bornă semnificativă, o realizare care subliniază importanța sa pentru ambele echipe.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-05-03T19:58:24.970950+00:00",
+      "data_afisaj": "3 mai 2026, 22:58"
+    },
+    {
+      "id": "c9dd8badd218",
+      "titlu": "Eddie Howe va rămâne antrenor la Newcastle după discuțiile cu conducerea clubului",
+      "rezumat": "Antrenorul principal Eddie Howe este pregătit să rămână la conducerea echipei Newcastle United și în sezonul viitor. Această decizie vine în urma unor discuții cu conducerea clubului, reprezentată de proprietarii saudiți. Confirmarea continuității lui Howe la cârma echipei aduce stabilitate și claritate în planurile de viitor ale clubului, care își propune să își consolideze poziția în Premier League și să continue dezvoltarea sub îndrumarea sa.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-03T19:58:24.972745+00:00",
+      "data_afisaj": "3 mai 2026, 22:58"
+    },
+    {
+      "id": "47bac615c813",
+      "titlu": "Bukayo Saka, în formă maximă, readuce speranța lui Arsenal în lupta pentru titlu",
+      "rezumat": "Revenirea în formă excelentă a lui Bukayo Saka a reaprins speranțele lui Arsenal în lupta pentru titlul din Premier League. Contribuția decisivă a atacantului a subliniat rolul său crucial pentru echipa lui Mikel Arteta în încercarea de a depăși Manchester City. Fostul jucător al lui Arsenal, Robert Pires, a remarcat importanța revenirii lui Saka, care a fost un spectator frustrat în timp ce se recupera după o accidentare la tendonul lui Ahile. Prezența sa pe teren aduce un plus de încredere și forță ofensivă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-03T19:58:24.974160+00:00",
+      "data_afisaj": "3 mai 2026, 22:58"
+    },
     {
       "id": "b6698a491f16",
       "titlu": "Sir Alex Ferguson, transportat la spital înainte de meciul Manchester United - Liverpool",
