@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-03T11:08:47.021339+00:00",
-  "updated_at_afisaj": "3 mai 2026, 14:08",
+  "updated_at": "2026-05-03T18:38:54.491219+00:00",
+  "updated_at_afisaj": "3 mai 2026, 21:38",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,70 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 91,
+  "numar_stiri": 96,
   "stiri": [
+    {
+      "id": "b6698a491f16",
+      "titlu": "Sir Alex Ferguson, transportat la spital înainte de meciul Manchester United - Liverpool",
+      "rezumat": "Legendarul antrenor Sir Alex Ferguson a fost transportat la spital duminică, după ce s-a simțit rău pe Old Trafford, cu puțin timp înainte de meciul de Premier League dintre Manchester United și Liverpool. Internarea a avut loc ca măsură de precauție, iar starea sa de sănătate este monitorizată. Incidentul a stârnit îngrijorare în rândul comunității fotbalistice, având în vedere importanța sa istorică pentru club și sport în general. Detaliile complete despre starea sa nu au fost încă publicate.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-03T18:38:54.485904+00:00",
+      "data_afisaj": "3 mai 2026, 21:38"
+    },
+    {
+      "id": "c2640d7d41f6",
+      "titlu": "Manchester United învinge Liverpool și își asigură calificarea în Liga Campionilor",
+      "rezumat": "Manchester United a obținut o victorie dramatică, scor 3-2, împotriva rivalilor de la Liverpool pe Old Trafford, într-un meci epic din Premier League. Golul decisiv a fost marcat de Kobbie Mainoo în minutul 75, asigurând astfel \"Diavolilor Roșii\" un loc în viitoarea ediție a Ligii Campionilor. Antrenorul Michael Carrick a descris performanța echipei ca fiind o \"realizare adevărată\", având în vedere presiunea și importanța partidei. Victoria consolidează poziția lui United în topul clasamentului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football",
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-03T18:38:54.487241+00:00",
+      "data_afisaj": "3 mai 2026, 21:38"
+    },
+    {
+      "id": "eeb82e5adac9",
+      "titlu": "Inter Milano, la un pas de titlul în Serie A după înfrângerea lui AC Milan",
+      "rezumat": "Inter Milano este foarte aproape de a-și asigura titlul în Serie A, după ce rivala AC Milan a suferit o înfrângere surprinzătoare, scor 0-2, în fața echipei Sassuolo. Acest rezultat a spulberat ultimele speranțe ale lui Milan de a mai prinde liderul. Inter are acum nevoie de doar un punct din meciul cu Parma pentru a fi încoronată campioană pentru a 21-a oară în istoria sa. Situația creează o atmosferă de anticipare pentru fanii nerazzurri.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-03T18:38:54.488553+00:00",
+      "data_afisaj": "3 mai 2026, 21:38"
+    },
+    {
+      "id": "fa79493fc509",
+      "titlu": "Celtic egalează Hearts în clasamentul Scottish Premiership după victoria cu Hibernian",
+      "rezumat": "Celtic a reușit să egaleze la puncte liderul Hearts în clasamentul Scottish Premiership, în urma unei victorii cu 10 jucători de la Hibernian. Kelechi Iheanacho, intrat pe parcurs, a fost eroul meciului, marcând golul decisiv. Antrenorul interimar al lui Celtic, Martin O'Neill, a subliniat că echipa sa are în continuare o \"marjă mică de eroare\" în lupta pentru titlu, sugerând că fiecare meci rămas este crucial. Competiția pentru titlu rămâne intensă în Scoția.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football",
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-03T18:38:54.489822+00:00",
+      "data_afisaj": "3 mai 2026, 21:38"
+    },
+    {
+      "id": "008d4aa63cbf",
+      "titlu": "Chelsea își asigură locul în Liga Campionilor Feminin și Sam Kerr stabilește un nou record",
+      "rezumat": "Chelsea a obținut calificarea în Liga Campionilor Feminin pentru sezonul viitor, după o victorie convingătoare cu 3-1 împotriva lui Leicester City în Women's Super League. În timpul acestui meci, atacanta australiană Sam Kerr a stabilit un nou record pentru club, devenind cea mai bună marcatoare din istoria lui Chelsea în WSL, cu 64 de goluri, depășind-o pe Fran Kirby. Această performanță subliniază dominația lui Chelsea în fotbalul feminin englez și european.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-03T18:38:54.491200+00:00",
+      "data_afisaj": "3 mai 2026, 21:38"
+    },
     {
       "id": "5ac22dd1662c",
       "titlu": "Wrexham analizează sezonul: Oportunitate ratată în Championship?",
