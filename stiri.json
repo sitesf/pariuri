@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-04T17:44:29.660796+00:00",
-  "updated_at_afisaj": "4 mai 2026, 20:44",
+  "updated_at": "2026-05-04T18:11:50.512687+00:00",
+  "updated_at_afisaj": "4 mai 2026, 21:11",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 113,
+  "numar_stiri": 118,
   "stiri": [
+    {
+      "id": "11b63347b186",
+      "titlu": "Chelsea, aproape sigură de ratarea calificării în Liga Campionilor",
+      "rezumat": "După a șasea înfrângere consecutivă în campionat, Chelsea este aproape sigură că va rata calificarea în Liga Campionilor. Această lovitură dură este de așteptat să aibă consecințe pe termen lung pentru clubul londonez, afectând planurile financiare și de transferuri. Eșecul subliniază o perioadă dificilă pentru echipă, care se confruntă cu provocări semnificative în încercarea de a-și regăsi forma și stabilitatea la nivel înalt.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-04T18:11:50.506182+00:00",
+      "data_afisaj": "4 mai 2026, 21:11"
+    },
+    {
+      "id": "723b850bf016",
+      "titlu": "Nottingham Forest învinge Chelsea și se distanțează de zona retrogradării",
+      "rezumat": "Nottingham Forest a produs surpriza weekendului în Premier League, învingând-o pe Chelsea cu 3-1 pe Stamford Bridge. Această victorie crucială o propulsează pe Forest la șase puncte deasupra zonei retrogradării, consolidându-și șansele de a rămâne în prima ligă. Antrenorul Vitor Pereira a declarat că, deși a făcut opt schimbări în echipă față de meciul anterior din Europa League, spiritul echipei a rămas intact, demonstrând o performanță solidă împotriva unei echipe Chelsea dezamăgitoare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-04T18:11:50.507906+00:00",
+      "data_afisaj": "4 mai 2026, 21:11"
+    },
+    {
+      "id": "8d5d0e61a859",
+      "titlu": "CFR Cluj învinge Rapid cu 2-0 în play-off-ul Superligii",
+      "rezumat": "CFR Cluj a obținut o victorie importantă în deplasare împotriva Rapidului, scor 2-0, în etapa a 7-a din play-off-ul Superligii României. Golurile au fost marcate de Cordea dintr-un penalty și de un alt jucător, consolidând poziția echipei în lupta pentru titlu. Meciul a fost unul tensionat, cu momente cheie care au decis soarta partidei și au influențat clasamentul din vârful ierarhiei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-05-04T18:11:50.509456+00:00",
+      "data_afisaj": "4 mai 2026, 21:11"
+    },
+    {
+      "id": "53bdee72fe00",
+      "titlu": "Marcelino părăsește Villarreal după ce a calificat echipa în Liga Campionilor",
+      "rezumat": "Antrenorul Marcelino a decis să plece de la Villarreal, la scurt timp după ce a reușit performanța de a califica echipa în Liga Campionilor. Revenit la club în 2023, după o absență de șase ani, tehnicianul supranumit 'Salvador Milagros' a reușit o nouă performanță notabilă. Decizia sa de a pleca, după ce a readus clubul în cea mai prestigioasă competiție europeană, a surprins pe mulți și deschide o nouă pagină în istoria recentă a echipei spaniole.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-04T18:11:50.511001+00:00",
+      "data_afisaj": "4 mai 2026, 21:11"
+    },
+    {
+      "id": "cb77025d5f3e",
+      "titlu": "Cristiano Ronaldo, aproape de primul trofeu major cu Al-Nassr în Arabia Saudită",
+      "rezumat": "Cristiano Ronaldo se apropie de câștigarea primului său trofeu major de la transferul la Al-Nassr în decembrie 2022. Cu trei etape rămase din Saudi Pro League, echipa sa are un avans de cinci puncte față de rivala Al-Hilal. Deși Al-Hilal este pe locul doi și nu a pierdut niciun meci în cele 30 de partide sub conducerea lui Simone Inzaghi, Al-Nassr este favorită să obțină titlul, marcând o bornă importantă pentru superstarul portughez în fotbalul saudit.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-04T18:11:50.512662+00:00",
+      "data_afisaj": "4 mai 2026, 21:11"
+    },
     {
       "id": "ef0782846304",
       "titlu": "Hurzeler acceptă un nou acord pe termen lung cu Brighton",
