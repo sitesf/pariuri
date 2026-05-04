@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-04T13:14:58.559340+00:00",
-  "updated_at_afisaj": "4 mai 2026, 16:14",
+  "updated_at": "2026-05-04T17:44:29.660796+00:00",
+  "updated_at_afisaj": "4 mai 2026, 20:44",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,65 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 108,
+  "numar_stiri": 113,
   "stiri": [
+    {
+      "id": "ef0782846304",
+      "titlu": "Hurzeler acceptă un nou acord pe termen lung cu Brighton",
+      "rezumat": "Fabian Hurzeler își prelungește șederea ca antrenor la Brighton după ce a acceptat un nou contract pe termen lung.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-04T17:44:22.991451+00:00",
+      "data_afisaj": "4 mai 2026, 20:44"
+    },
+    {
+      "id": "35172575b44a",
+      "titlu": "„Nu există sentiment mai bun decât să mergi la un Campionat Mondial, să intri pe teren înainte de un meci, să vezi toți fanii Angliei acolo și să știi că întreaga lume privește” De ce Jordan Pickford excelează pentru Three Lions",
+      "rezumat": "Numărul 1 al Angliei se pregătește pentru al cincilea său turneu internațional major",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-05-04T17:44:22.993724+00:00",
+      "data_afisaj": "4 mai 2026, 20:44"
+    },
+    {
+      "id": "a66f9e778577",
+      "titlu": "Benfica lui Mourinho încă neînvinsă - dar ratează titlul",
+      "rezumat": "Benfica lui Jose Mourinho ar putea încheia un sezon întreg neînvinsă - dar acest lucru nu va fi suficient pentru a aduce clubului al 39-lea titlu de campioană a Portugaliei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-04T17:44:22.995090+00:00",
+      "data_afisaj": "4 mai 2026, 20:44"
+    },
+    {
+      "id": "675a3e927408",
+      "titlu": "Cum De Zerbi a readus la viață pe Spurs, aflată în declin",
+      "rezumat": "Expertul în tactici de la BBC Sport, Umir Irfan, analizează cum Roberto de Zerbi a revigorat echipa Tottenham, aflată în dificultate în Premier League.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-04T17:44:22.996343+00:00",
+      "data_afisaj": "4 mai 2026, 20:44"
+    },
+    {
+      "id": "5d07a0ab947a",
+      "titlu": "Derry, 18 ani, de la Chelsea, transportat la spital după o accidentare la cap",
+      "rezumat": "Atacantul adolescent al lui Chelsea, Jesse Derry, este transportat la spital ca măsură de precauție după ce a suferit o accidentare la cap în înfrângerea de luni din Premier League împotriva lui Nottingham Forest.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-04T17:44:22.997687+00:00",
+      "data_afisaj": "4 mai 2026, 20:44"
+    },
     {
       "id": "e1176baa4da6",
       "titlu": "Inter Milano câștigă al 21-lea titlu de campioană a Italiei, sub conducerea lui Christian Chivu",
