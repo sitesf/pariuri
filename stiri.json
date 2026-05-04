@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-04T12:15:52.964406+00:00",
-  "updated_at_afisaj": "4 mai 2026, 15:15",
+  "updated_at": "2026-05-04T13:14:58.559340+00:00",
+  "updated_at_afisaj": "4 mai 2026, 16:14",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 103,
+  "numar_stiri": 108,
   "stiri": [
+    {
+      "id": "e1176baa4da6",
+      "titlu": "Inter Milano câștigă al 21-lea titlu de campioană a Italiei, sub conducerea lui Christian Chivu",
+      "rezumat": "Internazionale Milano a fost încoronată campioana Italiei pentru a 21-a oară în istoria sa, după o victorie împotriva Parmei. Sub conducerea antrenorului Christian Chivu, echipa a dominat sezonul, asigurându-și Scudetto-ul chiar și fără a avea nevoie de o victorie în acest meci, având în vedere că rivalii săi au cedat pe parcursul primăverii. Această performanță marchează un succes notabil pentru club și pentru Chivu.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-04T13:14:58.553564+00:00",
+      "data_afisaj": "4 mai 2026, 16:14"
+    },
+    {
+      "id": "27268502dd75",
+      "titlu": "Real Madrid învinge Espanyol și amână sărbătoarea titlului pentru Barcelona",
+      "rezumat": "Real Madrid a obținut o victorie cu 2-0 împotriva echipei Espanyol, grație celor două goluri marcate de Vinicius Jr. Acest rezultat menține suspansul în lupta pentru titlul din La Liga, amânând momentul în care FC Barcelona ar putea fi declarată campioană. Victoria madrilenilor pune presiune pe rivalii catalani înaintea meciului El Clasico de săptămâna viitoare, asigurând că lupta pentru trofeu continuă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-04T13:14:58.554957+00:00",
+      "data_afisaj": "4 mai 2026, 16:14"
+    },
+    {
+      "id": "07f7a57ac40c",
+      "titlu": "Michael Carrick, așteptat să primească o ofertă de antrenor principal la Manchester United",
+      "rezumat": "Michael Carrick este așteptat să primească o ofertă pentru a continua ca antrenor principal la Manchester United, după ce a reușit să califice echipa în Liga Campionilor. Deși nu au existat discuții oficiale până acum, conducerea clubului a așteptat confirmarea calificării în competiția europeană de top înainte de a lua o decizie. Această mutare ar putea transforma rolul său interimar într-unul permanent.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-04T13:14:58.556370+00:00",
+      "data_afisaj": "4 mai 2026, 16:14"
+    },
+    {
+      "id": "4891d480023d",
+      "titlu": "Cluburile din EFL sunt nemulțumite după ce Sheffield Wednesday a evitat o penalizare de puncte",
+      "rezumat": "Liga de Fotbal Engleză (EFL) este așteptată să își revizuiască politicile de insolvență în urma preluării clubului Sheffield Wednesday. Nemulțumirea provine de la unele cluburi care consideră că Owls au evitat o penalizare de 15 puncte, în ciuda încălcării politicii convenite de ligă la ieșirea din administrare. Această situație a stârnit controverse și a determinat necesitatea unei reevaluări a regulamentelor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-04T13:14:58.557873+00:00",
+      "data_afisaj": "4 mai 2026, 16:14"
+    },
+    {
+      "id": "3f5b3967c663",
+      "titlu": "Arbitrul finalei controversate a Cupei Africii pe Națiuni va oficia finala Ligii Campionilor Africii",
+      "rezumat": "Jean-Jacques Ngambo Ndala, arbitrul din Republica Democratică Congo care a condus finala haotică a Cupei Africii pe Națiuni din ianuarie, în timpul căreia Senegal a părăsit terenul, a fost desemnat să oficieze prima manșă a finalei Ligii Campionilor Africii. Acesta va arbitra confruntarea dintre Mamelodi Sundowns din Africa de Sud și clubul marocan AS Far, o decizie care a stârnit discuții.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-04T13:14:58.559318+00:00",
+      "data_afisaj": "4 mai 2026, 16:14"
+    },
     {
       "id": "a5c44bec3dae",
       "titlu": "Tottenham Hotspur iese din zona retrogradării după victoria cu Aston Villa",
