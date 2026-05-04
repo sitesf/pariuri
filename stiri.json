@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-03T19:58:24.974176+00:00",
-  "updated_at_afisaj": "3 mai 2026, 22:58",
+  "updated_at": "2026-05-04T12:15:52.964406+00:00",
+  "updated_at_afisaj": "4 mai 2026, 15:15",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,44 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 100,
+  "numar_stiri": 103,
   "stiri": [
+    {
+      "id": "a5c44bec3dae",
+      "titlu": "Tottenham Hotspur iese din zona retrogradării după victoria cu Aston Villa",
+      "rezumat": "Tottenham Hotspur a reușit să se îndepărteze de zona retrogradării din Premier League, obținând o victorie convingătoare cu scorul de 2-1 împotriva lui Aston Villa. Acest rezultat crucial le permite \"Spurs\" să urce în clasament, oferind un impuls semnificativ în lupta pentru menținerea în prima ligă engleză. Performanța echipei a fost lăudată pentru determinarea arătată pe teren.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-04T12:15:52.961254+00:00",
+      "data_afisaj": "4 mai 2026, 15:15"
+    },
+    {
+      "id": "4b017545aa95",
+      "titlu": "Virgil van Dijk consideră sezonul lui Liverpool „inacceptabil”",
+      "rezumat": "Căpitanul lui Liverpool, Virgil van Dijk, a declarat că sezonul echipei sale a fost „inacceptabil”, după ce au înregistrat a 18-a înfrângere în toate competițiile. Fundașul olandez a subliniat necesitatea unor schimbări majore în vară pentru a evita repetarea unei astfel de performanțe. Declarația vine într-un moment dificil pentru club, care se confruntă cu provocări în asigurarea unui loc în topul clasamentului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-04T12:15:52.962641+00:00",
+      "data_afisaj": "4 mai 2026, 15:15"
+    },
+    {
+      "id": "f55b7bbc7a2a",
+      "titlu": "Echipă feminină de fotbal din Coreea de Nord, într-o vizită rară în Coreea de Sud",
+      "rezumat": "O echipă feminină de fotbal din Coreea de Nord va călători în Coreea de Sud luna aceasta, marcând prima vizită a unei delegații sportive nord-coreene în aproape opt ani. Clubul Naegohyang Women’s FC din Phenian va înfrunta echipa Suwon FC Women pe 20 mai, în semifinalele unei competiții, la complexul sportiv din Suwon. Această deplasare este considerată un eveniment rar, având în vedere relațiile tensionate dintre cele două țări.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-04T12:15:52.964387+00:00",
+      "data_afisaj": "4 mai 2026, 15:15"
+    },
     {
       "id": "5c12cfe156b4",
       "titlu": "Manchester City, aproape de titlul în WSL după o victorie dramatică împotriva lui Liverpool",
