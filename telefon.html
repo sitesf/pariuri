@@ -2,242 +2,193 @@
 <html lang="ro">
 <head>
 <meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-<meta name="theme-color" content="#02050a" />
-<meta name="color-scheme" content="dark" />
-
-<title>NEXAS — Automatizări de procese & site-uri care aduc rezultate</title>
-<meta name="description" content="NEXAS construiește site-uri rapide, automatizări RPA și integrări API pentru afaceri din România. Soluții digitale măsurabile." />
-
-<!-- Păstrăm tot SEO-ul tău original -->
-<meta name="keywords" content="creare site, automatizări procese, RPA România, integrări API, SEO, agenție digitală, NEXAS" />
-<!-- Open Graph, Twitter, JSON-LD etc. rămân la fel (le poți copia din varianta veche) -->
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>NEXAS — Automatizări & Site-uri care aduc rezultate</title>
+<meta name="description" content="Prezență digitală în 10 zile. Rezultate reale în 30 zile." />
 
 <style>
-/* === CSS ORIGINAL (păstrat integral) + NOILE STILURI === */
 :root {
-  --bg-0: #04070d;
-  --bg-1: #070b14;
-  --bg-2: #0a121f;
-  --panel: rgba(10, 18, 31, 0.72);
-  --accent: #5aa6ff;
-  --accent-2: #8ec7ff;
-  --accent-deep: #1f6bdb;
-  --text: #eef3fb;
-  --text-dim: #b6c3d6;
-  --text-mute: #7d8da4;
+  --bg: #05070f;
+  --accent: #4a9eff;
+  --accent2: #7eb8ff;
+  --text: #f0f4ff;
+  --text2: #a8b8d0;
 }
 
-* { box-sizing: border-box; margin: 0; padding: 0; }
+* { margin:0; padding:0; box-sizing:border-box; }
 body {
   font-family: 'Geist', system-ui, sans-serif;
-  background: var(--bg-0);
+  background: var(--bg);
   color: var(--text);
   line-height: 1.6;
+  overflow-x: hidden;
 }
 
-/* ==================== HERO NOU ==================== */
-.hero-new {
-  min-height: 100vh;
-  display: grid;
-  grid-template-columns: 1.05fr 0.95fr;
-  gap: 64px;
-  align-items: center;
-  padding: 160px 40px 100px;
-  position: relative;
-  overflow: hidden;
-}
-
-.hero-content h1 {
-  font-size: clamp(48px, 7.5vw, 82px);
-  line-height: 1.05;
-  letter-spacing: -0.04em;
-  font-weight: 600;
-}
-
-.hero-content .highlight {
-  color: var(--accent-2);
-  font-style: italic;
-}
-
-.hero-content p {
-  font-size: 17.5px;
-  color: var(--text-dim);
-  max-width: 520px;
-  margin-top: 28px;
-}
-
-.glowing-logo {
-  position: relative;
-  max-width: 520px;
-  margin: 0 auto;
-}
-
-.glowing-logo::before {
+/* Background futuristic */
+body::before {
   content: '';
-  position: absolute;
-  inset: -80px;
-  background: radial-gradient(circle at center, rgba(90,166,255,0.45), transparent 70%);
-  filter: blur(80px);
-  animation: pulse-glow 9s ease-in-out infinite;
+  position: fixed;
+  inset: 0;
+  background: 
+    radial-gradient(circle at 30% 20%, rgba(74,158,255,0.12), transparent 50%),
+    radial-gradient(circle at 70% 80%, rgba(126,184,255,0.08), transparent 50%);
+  pointer-events: none;
   z-index: -1;
 }
 
-.circle-logo {
-  width: 100%;
-  aspect-ratio: 1/1;
-  border-radius: 50%;
-  background: linear-gradient(145deg, #0a121f, #1a2538);
-  border: 3px solid rgba(90,166,255,0.5);
-  box-shadow: 0 0 90px rgba(90,166,255,0.7),
-              inset 0 0 80px rgba(0,0,0,0.9);
-  display: flex;
+/* ==================== HERO MODERN ==================== */
+.hero {
+  min-height: 100vh;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
   align-items: center;
-  justify-content: center;
+  padding: 0 5%;
+  position: relative;
+  gap: 40px;
+}
+
+.hero-text h1 {
+  font-size: clamp(42px, 8vw, 78px);
+  line-height: 1.05;
+  font-weight: 600;
+  letter-spacing: -0.03em;
+}
+
+.hero-text .blue {
+  color: var(--accent2);
+  font-style: italic;
+}
+
+.hero-text p {
+  font-size: 18px;
+  color: var(--text2);
+  max-width: 480px;
+  margin: 24px 0 40px;
+}
+
+.glowing-sphere {
+  position: relative;
+  width: 100%;
+  max-width: 520px;
+  margin: 0 auto;
+  animation: float 8s ease-in-out infinite;
+}
+
+.sphere {
+  width: 100%;
+  aspect-ratio: 1;
+  border-radius: 50%;
+  background: radial-gradient(circle at 40% 30%, #6eb8ff, #1e4a8f 40%, #0a1f3d);
+  box-shadow: 
+    0 0 120px rgba(74,158,255,0.8),
+    inset 0 0 80px rgba(255,255,255,0.15),
+    0 0 200px rgba(74,158,255,0.4);
   position: relative;
 }
 
-.nexas-text {
-  font-size: clamp(62px, 11vw, 110px);
+.sphere::after {
+  content: 'NEXAS';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: clamp(52px, 9vw, 96px);
   font-weight: 700;
-  letter-spacing: 0.12em;
-  background: linear-gradient(90deg, #ffffff, #8ec7ff, #ffffff);
+  letter-spacing: 0.15em;
+  background: linear-gradient(white, #a0d0ff);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  text-shadow: 0 0 50px rgba(90,166,255,0.8);
+  text-shadow: 0 0 40px rgba(255,255,255,0.6);
 }
 
-/* ==================== PROCES NOU ==================== */
-.process-new {
-  padding: 120px 40px;
-  background: var(--bg-1);
+/* Animație float */
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-25px); }
 }
 
-.process-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: flex-end;
+/* ==================== SERVICII MODERNE ==================== */
+.services {
+  padding: 120px 5%;
+  background: rgba(10,15,35,0.6);
+}
+
+.services h2 {
+  font-size: 2.8rem;
   margin-bottom: 60px;
-  flex-wrap: wrap;
-  gap: 30px;
+  text-align: center;
 }
 
-.process-grid {
+.services-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 24px;
+  grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+  gap: 28px;
+  max-width: 1300px;
+  margin: 0 auto;
 }
 
-.process-card {
-  background: rgba(10,18,31,0.9);
-  border: 1px solid rgba(120,170,230,0.18);
+.service-card {
+  background: rgba(15,22,45,0.85);
+  border: 1px solid rgba(74,158,255,0.2);
   border-radius: 20px;
-  padding: 36px 28px;
+  padding: 32px;
   transition: all 0.4s ease;
 }
 
-.process-card:hover {
-  transform: translateY(-10px);
+.service-card:hover {
   border-color: var(--accent);
-  box-shadow: 0 25px 60px rgba(90,166,255,0.18);
+  transform: translateY(-12px);
+  box-shadow: 0 30px 70px rgba(74,158,255,0.25);
 }
 
-.process-card .step-num {
-  font-family: monospace;
-  font-size: 13px;
-  color: var(--accent-2);
-  margin-bottom: 12px;
+.service-card h3 {
+  font-size: 1.5rem;
+  margin: 16px 0;
 }
 
-/* Restul CSS-ului tău original (nav, cards, footer etc.) */
+/* Restul secțiunilor tale vor urma același stil modern */
 </style>
 </head>
 <body>
 
-<!-- Navigație (identică cu originalul) -->
-<nav class="nav" id="nav">
-  <a href="#" class="brand">
-    <img src="poze/pozaLogo.png" alt="NEXAS" class="brand-logo-img" width="32" height="32" />
-    <span class="brand-name">NE<span class="x">X</span>AS</span>
-  </a>
-  <!-- restul nav-ului rămâne la fel -->
-</nav>
-
-<main>
-  <!-- === HERO NOU === -->
-  <section class="hero-new">
-    <div class="hero-content">
-      <span class="eyebrow">SOLUȚII DIGITALE MĂSURABILE</span>
-      <h1>
-        Prezență digitală<br>
-        <span class="highlight">în 10 zile.</span><br>
-        Rezultate reale<br>
-        <span class="highlight">în 30 zile.</span>
-      </h1>
-      <p>Ne adresăm afacerilor din România care vor să lase task-urile repetitive în seama tehnologiei și să se concentreze pe rezultate concrete. Construim ecosisteme digitale invizibile.</p>
-      
-      <div style="margin-top: 40px; display:flex; gap:16px; flex-wrap:wrap;">
-        <a href="#contact" class="btn btn-primary">Începe un proiect →</a>
-        <a href="#servicii" class="btn btn-secondary">Vezi serviciile</a>
-      </div>
+<section class="hero">
+  <div class="hero-text">
+    <p style="color:var(--accent); font-weight:500;">SOLUȚII DIGITALE MĂSURABILE</p>
+    <h1>Prezență digitală<br>în <span class="blue">10 zile.</span><br>
+    Rezultate reale<br>în <span class="blue">30 zile.</span></h1>
+    <p>Automatizări, site-uri premium și agenți AI pentru afaceri care vor să crească fără să piardă timp cu task-uri repetitive.</p>
+    
+    <div style="display:flex; gap:16px;">
+      <a href="#contact" style="background:#4a9eff; color:white; padding:14px 32px; border-radius:12px; text-decoration:none; font-weight:600;">Începe un proiect</a>
+      <a href="#servicii" style="border:1px solid #4a9eff; color:white; padding:14px 32px; border-radius:12px; text-decoration:none;">Vezi serviciile</a>
     </div>
+  </div>
 
-    <div class="glowing-logo">
-      <div class="circle-logo">
-        <span class="nexas-text">NEXAS</span>
-      </div>
+  <div class="glowing-sphere">
+    <div class="sphere"></div>
+  </div>
+</section>
+
+<section class="services" id="servicii">
+  <h2>Patru direcții. <span style="color:var(--accent2)">Un singur partener.</span></h2>
+  <div class="services-grid">
+    <!-- Carduri servicii - poți completa cu textul tău -->
+    <div class="service-card">
+      <h3>Site-uri de Prezentare</h3>
+      <p>Landing-uri și site-uri corporate rapide, optimizate pentru conversii.</p>
     </div>
-  </section>
-
-  <!-- === PROCES NOU === -->
-  <section id="proces" class="process-new">
-    <div class="process-header">
-      <div>
-        <span class="eyebrow">PROCES</span>
-        <h2 style="font-size: clamp(32px, 5vw, 52px);">Transparență.<br><span style="color:var(--accent-2)">Fără surprize.</span></h2>
-      </div>
-      <p style="max-width:480px; font-size:17px; color:var(--text-dim);">
-        Patru pași clari, cu ce primești la fiecare. Tu vezi exact unde suntem, ce urmează și ce ai de aprobat.
-      </p>
+    <div class="service-card">
+      <h3>Automatizări RPA</h3>
+      <p>Excel, email, SAP, scraping — tot ce consumă timp devine automat.</p>
     </div>
-
-    <div class="process-grid">
-      <div class="process-card">
-        <div class="step-num">01 · Discovery</div>
-        <h3>Înțelegem afacerea</h3>
-        <p style="margin-top:16px; color:var(--text-dim);">Apel de 30 de minute. Identificăm obiectivele, restricțiile și ce contează pentru tine. Pleci cu un brief scris.</p>
-      </div>
-      <div class="process-card">
-        <div class="step-num">02 · Plan</div>
-        <h3>Propunem soluția</h3>
-        <p style="margin-top:16px; color:var(--text-dim);">Estimare clară: scope, calendar, preț, livrabile. Decidem împreună ce intră în prima rundă.</p>
-      </div>
-      <div class="process-card">
-        <div class="step-num">03 · Build</div>
-        <h3>Construim & arătăm</h3>
-        <p style="margin-top:16px; color:var(--text-dim);">Lucrăm în iterații săptămânale, cu link de previzualizare. Vezi totul live, comentezi, aprobi.</p>
-      </div>
-      <div class="process-card">
-        <div class="step-num">04 · Lansare</div>
-        <h3>Lansăm & măsurăm</h3>
-        <p style="margin-top:16px; color:var(--text-dim);">Punem live, instalăm analytics, predăm documentația. Rămânem pe mentenanță dacă alegi.</p>
-      </div>
+    <div class="service-card">
+      <h3>SEO & Vizibilitate</h3>
+      <p>Te aducem sus în Google cu tehnică solidă și conținut care convertește.</p>
     </div>
-  </section>
+  </div>
+</section>
 
-  <!-- Aici poți pune secțiunile tale vechi: Servicii, Portofoliu, Despre, CTA etc. -->
-  <!-- Pentru moment le las pe cele vechi, poți să-mi spui dacă vrei să le modific și pe ele -->
-
-</main>
-
-<footer>
-  <!-- Footer-ul tău original -->
-</footer>
-
-<!-- Scripturile tale originale (mobile menu, reveal, etc.) -->
-<script>
-// Pune aici tot JavaScript-ul din codul original
-</script>
+<!-- Poți continua cu secțiunile tale vechi sau spune-mi ce vrei să refacem următor -->
 
 </body>
 </html>
