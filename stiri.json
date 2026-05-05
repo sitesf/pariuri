@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-05T09:09:01.238599+00:00",
-  "updated_at_afisaj": "5 mai 2026, 12:09",
+  "updated_at": "2026-05-05T10:03:14.581849+00:00",
+  "updated_at_afisaj": "5 mai 2026, 13:03",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 123,
+  "numar_stiri": 128,
   "stiri": [
+    {
+      "id": "f086e1923f10",
+      "titlu": "„Teatrul pur pune inimile în pragul basmului titlului”",
+      "rezumat": "Scriitorul-șef de sport al BBC Scoția, Tom English, rezumă haosul și cacofonia victoriei lui Hearts asupra Rangers la Tynecastle.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-05T10:02:37.764788+00:00",
+      "data_afisaj": "5 mai 2026, 13:02"
+    },
+    {
+      "id": "6fa0ed81a4c9",
+      "titlu": "Forest speră în fitness-ul lui Gibbs-White pentru Europa cravată",
+      "rezumat": "Morgan-Gibbs White ar putea avea nevoie de un \"miracol\" pentru a fi pregătit pentru manșa secundă a semifinalelor Europa League a Nottingham Forest - dar antrenorul său principal Vitor Pereira este plin de speranță.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-05T10:02:37.766373+00:00",
+      "data_afisaj": "5 mai 2026, 13:02"
+    },
+    {
+      "id": "e8409323c44e",
+      "titlu": "Ce înseamnă eșecul Ligii Campionilor pentru „clubul spart” Chelsea",
+      "rezumat": "După o a șasea pierdere consecutivă în ligă, Chelsea este aproape sigur că va rata calificarea în Liga Campionilor - o lovitură amară care probabil va avea consecințe de amploare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-05T10:02:37.767917+00:00",
+      "data_afisaj": "5 mai 2026, 13:02"
+    },
+    {
+      "id": "9a2b3cce2fa7",
+      "titlu": "Adriano, Samba, R.Larcos - clasamentul celor mai emblematici fotbaliști de jocuri video",
+      "rezumat": "Fifa, Pro Evolution Soccer și Football Antrenor au fost printre cele mai populare jocuri video de fotbal - dar care sunt cei mai emblematici jucători din ele?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-05T10:02:37.769550+00:00",
+      "data_afisaj": "5 mai 2026, 13:02"
+    },
+    {
+      "id": "0e42f222bda4",
+      "titlu": "Speranțele pentru titlul lui Man City s-au stricat, în ciuda uimitoarei Doku întârziate în thrillerul cu șase goluri",
+      "rezumat": "Egalizarea lui Jeremy Doku în minutul 97 salvează un egal pentru Manchester City într-un thriller de șase goluri la Everton.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-05T10:02:37.771205+00:00",
+      "data_afisaj": "5 mai 2026, 13:02"
+    },
     {
       "id": "4589dd382616",
       "titlu": "Foden ajunge la un acord pentru un nou contract cu Man City",
