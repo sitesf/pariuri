@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-05T10:03:14.581849+00:00",
-  "updated_at_afisaj": "5 mai 2026, 13:03",
+  "updated_at": "2026-05-05T17:28:35.205104+00:00",
+  "updated_at_afisaj": "5 mai 2026, 20:28",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,54 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 128,
+  "numar_stiri": 132,
   "stiri": [
+    {
+      "id": "98c6d97197d5",
+      "titlu": "Arsenal și Atlético Madrid se duelează în returul semifinalei Ligii Campionilor",
+      "rezumat": "Arsenal și Atlético Madrid se întâlnesc în manșa secundă a semifinalelor Ligii Campionilor, după un rezultat de 1-1 în prima manșă. Ambele echipe, nume mari în fotbalul european, dar fără un trofeu Champions League în palmares, luptă pentru un loc în finală. Meciul este crucial pentru ambițiile lor continentale, Arsenal căutând să depășească dezamăgirea din trecut, când a fost la un pas de glorie, iar Atlético sperând să își asigure prezența în ultimul act al competiției. Partida promite o confruntare intensă și plină de emoție.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-05T17:28:35.198768+00:00",
+      "data_afisaj": "5 mai 2026, 20:28"
+    },
+    {
+      "id": "9b4cf723a602",
+      "titlu": "Un suporter Everton, arestat pentru presupuse abuzuri rasiste la adresa lui Antoine Semenyo",
+      "rezumat": "Un suporter al echipei Everton, în vârstă de 71 de ani, a fost arestat de poliția din Merseyside sub acuzația de abuz rasist la adresa lui Antoine Semenyo de la Manchester City, în timpul meciului dintre cele două echipe. Incidentul a fost raportat de alți suporteri și de stewarzi, ducând la intervenția rapidă a autorităților. De asemenea, Marc Guéhi, coechipierul lui Semenyo, a fost ținta unor abuzuri rasiste online, subliniind o problemă persistentă în fotbalul modern, care necesită acțiuni ferme.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-05T17:28:35.200568+00:00",
+      "data_afisaj": "5 mai 2026, 20:28"
+    },
+    {
+      "id": "61dab143edea",
+      "titlu": "Kylian Mbappé își apără angajamentul față de Real Madrid după o călătorie controversată",
+      "rezumat": "Kylian Mbappé a răspuns criticilor apărute în presa spaniolă și din partea fanilor Real Madrid, după ce a călătorit în Sardinia alături de actrița Ester Expósito, în timp ce se recuperează după o accidentare la coapsă. Atacantul francez a emis o declarație prin reprezentanții săi, negând orice abatere și subliniind că rămâne pe deplin dedicat procesului de recuperare și echipei, înaintea meciului crucial El Clásico cu Barcelona. Situația a stârnit dezbateri intense privind profesionalismul jucătorilor de top.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-05T17:28:35.203076+00:00",
+      "data_afisaj": "5 mai 2026, 20:28"
+    },
+    {
+      "id": "52ae34ea2119",
+      "titlu": "Victor Angelescu infirmă varianta Daniel Pancu la Rapid: Gâlcă are contract cu prelungire automată",
+      "rezumat": "Victor Angelescu, acționarul majoritar al Rapidului, a clarificat situația băncii tehnice, infirmând speculațiile recente privind o posibilă numire a lui Daniel Pancu ca antrenor. Acesta a declarat că echipa are un contract valabil cu actualul tehnician, Costel Gâlcă, iar în cazul în care Rapidul reușește să se califice în cupele europene, înțelegerea contractuală a lui Gâlcă se va prelungi automat, asigurând continuitatea la club. Declarația vine în contextul discuțiilor intense despre viitorul antrenorului giuleștenilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-05-05T17:28:35.205082+00:00",
+      "data_afisaj": "5 mai 2026, 20:28"
+    },
     {
       "id": "f086e1923f10",
       "titlu": "„Teatrul pur pune inimile în pragul basmului titlului”",
