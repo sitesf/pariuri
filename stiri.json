@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-05T17:28:35.205104+00:00",
-  "updated_at_afisaj": "5 mai 2026, 20:28",
+  "updated_at": "2026-05-05T18:07:02.593664+00:00",
+  "updated_at_afisaj": "5 mai 2026, 21:07",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,52 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 132,
+  "numar_stiri": 136,
   "stiri": [
+    {
+      "id": "347d728baf80",
+      "titlu": "Morgan Gibbs-White, favorit pentru postul de număr 10 al Angliei la Cupa Mondială?",
+      "rezumat": "Morgan Gibbs-White, mijlocașul ofensiv al lui Nottingham Forest, a avut o revenire impresionantă în 2026, ceea ce îl plasează acum printre principalii candidați pentru rolul de număr 10 în echipa națională a Angliei la viitoarea Cupă Mondială. Performanțele sale recente au atras atenția selecționerului, iar discuțiile despre includerea sa în primul unsprezece al \"Three Lions\" se intensifică. Această ascensiune subliniază importanța sa crescândă în fotbalul englez și potențialul său de a influența jocul la cel mai înalt nivel internațional.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-05T18:07:02.587753+00:00",
+      "data_afisaj": "5 mai 2026, 21:07"
+    },
+    {
+      "id": "1ddf0ed7c4c1",
+      "titlu": "Controversă privind regula ofsaidului după golul lui Barry pentru Everton",
+      "rezumat": "O situație controversată a apărut în meciul dintre Manchester City și Everton, când Thierno Barry a marcat un gol după o pasă de la Marc Guehi, deși Barry se afla în poziție de ofsaid. Discuția se concentrează pe interpretarea regulii, care a permis ca golul să fie validat, deoarece Guehi, un jucător al lui Manchester City, a atins mingea înainte ca aceasta să ajungă la Barry. Acest incident a stârnit dezbateri aprinse despre echitatea și claritatea regulamentului ofsaidului în fotbalul modern, punând sub semnul întrebării aplicarea sa corectă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-05T18:07:02.589547+00:00",
+      "data_afisaj": "5 mai 2026, 21:07"
+    },
+    {
+      "id": "03a1d2145f1a",
+      "titlu": "Atacanții lui PSG, elogiați pentru contribuția defensivă sub Luis Enrique",
+      "rezumat": "Sub conducerea antrenorului Luis Enrique, atacanții de la Paris Saint-Germain, inclusiv Ousmane Dembélé, Khvicha Kvaratskhelia, Désiré Doué și Bradley Barcola, au adoptat o mentalitate defensivă remarcabilă. Această abordare tactică, în care jucătorii ofensivi participă activ la faza de presing, este considerată un factor cheie în succesul echipei. Dembélé a declarat chiar că lipsa presingului ar duce la excluderea sa din primul unsprezece, subliniind angajamentul colectiv față de viziunea antrenorului și importanța muncii fără minge pentru echilibrul echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-05T18:07:02.591918+00:00",
+      "data_afisaj": "5 mai 2026, 21:07"
+    },
+    {
+      "id": "0ccb5afbc6d4",
+      "titlu": "Noua regulă de ofsaid propusă de Arsène Wenger, testată în Canada",
+      "rezumat": "O nouă regulă de ofsaid, cunoscută sub numele de \"daylight offside rule\" și propusă de Arsène Wenger, este în prezent testată în Canadian Premier League. Această modificare își propune să facă jocul mai deschis și mai spectaculos, permițând ca un jucător să fie considerat în ofsaid doar dacă întregul său corp se află în fața penultimului apărător. Succesul acestei inițiative în Canada ar putea deschide calea pentru adoptarea sa la nivel global, având potențialul de a schimba fundamental dinamica jocului și de a reduce controversele legate de deciziile de ofsaid.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-05T18:07:02.593646+00:00",
+      "data_afisaj": "5 mai 2026, 21:07"
+    },
     {
       "id": "98c6d97197d5",
       "titlu": "Arsenal și Atlético Madrid se duelează în returul semifinalei Ligii Campionilor",
