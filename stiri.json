@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-04T18:11:50.512687+00:00",
-  "updated_at_afisaj": "4 mai 2026, 21:11",
+  "updated_at": "2026-05-05T09:09:01.238599+00:00",
+  "updated_at_afisaj": "5 mai 2026, 12:09",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,65 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 118,
+  "numar_stiri": 123,
   "stiri": [
+    {
+      "id": "4589dd382616",
+      "titlu": "Foden ajunge la un acord pentru un nou contract cu Man City",
+      "rezumat": "Mijlocașul englez Phil Foden ajunge la un acord de principiu pentru un nou contract pe patru ani la Manchester City.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-05T09:08:44.029988+00:00",
+      "data_afisaj": "5 mai 2026, 12:08"
+    },
+    {
+      "id": "17f8e0e47f04",
+      "titlu": "Cum să urmărești Everton vs Manchester City GRATUIT: Detalii TV pentru Monday Night Football",
+      "rezumat": "Everton încearcă să spulbere speranțele la titlu ale lui Man City în al doilea dintre cele două meciuri de luni - iată cum poți urmări meciul de oriunde din lume.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "GSP.ro"
+      ],
+      "data_publicare": "2026-05-05T09:08:44.031434+00:00",
+      "data_afisaj": "5 mai 2026, 12:08"
+    },
+    {
+      "id": "0325c541ea56",
+      "titlu": "Ce urmează pentru Rangers-ul lui Rohl pe măsură ce speranțele la titlu se sting?",
+      "rezumat": "Provocarea lui Rangers pentru titlul în Scottish Premiership a fost zădărnicită de două înfrângeri dăunătoare în fața lui Motherwell și Hearts. Ce urmează acum pentru Danny Rohl și jucătorii săi?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-05T09:08:44.032704+00:00",
+      "data_afisaj": "5 mai 2026, 12:08"
+    },
+    {
+      "id": "50087c4c456f",
+      "titlu": "Cine a intrat în echipa săptămânii din Premier League a lui Troy?",
+      "rezumat": "După fiecare rundă de meciuri din Premier League din acest sezon, Troy Deeney ne prezintă echipa sa a săptămânii. Ești de acord cu alegerile sale?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-05T09:08:44.034020+00:00",
+      "data_afisaj": "5 mai 2026, 12:08"
+    },
+    {
+      "id": "9afff0a91344",
+      "titlu": "Un final remarcabil - dar vor costa 13 minute haotice titlul lui Man City?",
+      "rezumat": "O perioadă haotică de 13 minute a lui Man City în a doua repriză a unui thriller cu șase goluri la Everton s-ar putea dovedi a fi dezastrul oaspeților în cursa pentru titlul din Premier League.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-05T09:08:44.035384+00:00",
+      "data_afisaj": "5 mai 2026, 12:08"
+    },
     {
       "id": "11b63347b186",
       "titlu": "Chelsea, aproape sigură de ratarea calificării în Liga Campionilor",
