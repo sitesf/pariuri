@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-05T18:07:02.593664+00:00",
-  "updated_at_afisaj": "5 mai 2026, 21:07",
+  "updated_at": "2026-05-06T09:26:44.635098+00:00",
+  "updated_at_afisaj": "6 mai 2026, 12:26",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 136,
+  "numar_stiri": 141,
   "stiri": [
+    {
+      "id": "436d92a8b7e7",
+      "titlu": "Test din Liga Campionilor: Poți să numești fiecare finalist?",
+      "rezumat": "Săptămâna aceasta are loc manșa secundă a semifinalelor Ligii Campionilor, cu echipe care se luptă pentru a ajunge în cea de-a 34-a finală a competiției de la rebranding în 1992-93. Dar poți numi fiecare finalist din 1993 până în 2025?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-05-06T09:26:17.167557+00:00",
+      "data_afisaj": "6 mai 2026, 12:26"
+    },
+    {
+      "id": "9a0429f1d5f2",
+      "titlu": "Liga este visul - dar este momentul acesta Arsenal în Europa?",
+      "rezumat": "Totul s-a vorbit despre provocarea lui Arsenal la titlul în Premier League - dar este acum timpul ca Gunners să cucerească Europa?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-06T09:26:17.169335+00:00",
+      "data_afisaj": "6 mai 2026, 12:26"
+    },
+    {
+      "id": "3c5bd42344a7",
+      "titlu": "Unde se clasează trio-ul prolific al lui Bayern în cei mai buni trio de până acum?",
+      "rezumat": "Atacul lui Bayern Munchen al lui Harry Kane, Luis Diaz și Michael Olise a marcat 100 de goluri în acest sezon. Odată cu manșa secundă a semifinalei Ligii Campionilor cu PSG, BBC Sport compară cele două prime trei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-06T09:26:17.171032+00:00",
+      "data_afisaj": "6 mai 2026, 12:26"
+    },
+    {
+      "id": "910e775e0255",
+      "titlu": "Gazda noastră la Cupa Mondială „este Fifa, nu Trump sau America” - Iran",
+      "rezumat": "Șeful de fotbal al Iranului, Mehdi Taj, spune că gazda lor Cupa Mondială „este Fifa, nu domnul Trump sau America” și face apel la respect față de delegația națiunii dacă echipa națională urmează să călătorească în Statele Unite pentru turneul din această vară.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-06T09:26:17.172793+00:00",
+      "data_afisaj": "6 mai 2026, 12:26"
+    },
+    {
+      "id": "a65fc2f0699b",
+      "titlu": "Proprietarii lui Chelsea se confruntă cu un moment de socoteală pe fondul reacțiilor fanilor",
+      "rezumat": "Momentul socotirii a sosit pentru proprietatea lui Chelsea BlueCo, care este acum ținta unei baze de fani din ce în ce mai supărate.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-06T09:26:17.174408+00:00",
+      "data_afisaj": "6 mai 2026, 12:26"
+    },
     {
       "id": "347d728baf80",
       "titlu": "Morgan Gibbs-White, favorit pentru postul de număr 10 al Angliei la Cupa Mondială?",
