@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-06T09:26:44.635098+00:00",
-  "updated_at_afisaj": "6 mai 2026, 12:26",
+  "updated_at": "2026-05-06T10:17:35.850036+00:00",
+  "updated_at_afisaj": "6 mai 2026, 13:17",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 141,
+  "numar_stiri": 146,
   "stiri": [
+    {
+      "id": "eaf764185900",
+      "titlu": "Golgeterul record al lui Haiti despre Paisley, Scoția uimitoare și evadarea din Iran",
+      "rezumat": "Golgeterul record al lui Haiti vorbește despre legătura sa cu Scoția înainte de a-i înfrunta la Cupa Mondială și despre cum a evadat recent din Iran.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-06T10:17:26.199676+00:00",
+      "data_afisaj": "6 mai 2026, 13:17"
+    },
+    {
+      "id": "c43dda6ffc91",
+      "titlu": "Este Gibbs-White favorit să înceapă ca numărul 10 al Angliei la Cupa Mondială?",
+      "rezumat": "Morgan Gibbs-White a avut o revenire impresionantă în 2026, așa că este mijlocașul ofensiv de la Nottingham Forest principalul candidat pentru rolul de număr 10 al Angliei la Cupa Mondială?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-06T10:17:26.201357+00:00",
+      "data_afisaj": "6 mai 2026, 13:17"
+    },
+    {
+      "id": "1920d0d7c787",
+      "titlu": "Arteta aduce un omagiu jucătorilor și fanilor lui Arsenal după o „noapte incredibilă”",
+      "rezumat": "Mikel Arteta spune că Arsenal „a creat istorie împreună” și laudă atmosfera și energia publicului de pe Emirates Stadium, în timp ce Arsenal a învins Atletico Madrid cu 2-1 la general pentru a ajunge în prima lor finală de Liga Campionilor în 20 de ani.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-06T10:17:26.202988+00:00",
+      "data_afisaj": "6 mai 2026, 13:17"
+    },
+    {
+      "id": "e62a885fc26d",
+      "titlu": "Napoli va face mutarea lui Hojlund permanentă - bârfele de miercuri",
+      "rezumat": "Napoli va transforma împrumutul atacantului lui Man Utd, Rasmus Hojlund, într-o mutare permanentă, aripa lui West Ham, Crysencio Summerville, este monitorizat de mai multe cluburi, iar Chelsea ia în considerare numirea lui Xavi Hernandez ca următorul lor antrenor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-06T10:17:26.204570+00:00",
+      "data_afisaj": "6 mai 2026, 13:17"
+    },
+    {
+      "id": "87a3150d3d99",
+      "titlu": "Urmărește: Kane oferă Dunfermline un avantaj în play-off",
+      "rezumat": "Urmărește golul lui Chris Kane în victoria lui Dunfermline Athletic cu 1-0 în prima manșă a sferturilor de finală ale play-off-ului Scottish Premiership împotriva lui Arbroath.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-06T10:17:26.206107+00:00",
+      "data_afisaj": "6 mai 2026, 13:17"
+    },
     {
       "id": "436d92a8b7e7",
       "titlu": "Test din Liga Campionilor: Poți să numești fiecare finalist?",
