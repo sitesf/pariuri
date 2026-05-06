@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-06T17:44:30.010664+00:00",
-  "updated_at_afisaj": "6 mai 2026, 20:44",
+  "updated_at": "2026-05-06T18:12:10.423990+00:00",
+  "updated_at_afisaj": "6 mai 2026, 21:12",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,52 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 137,
+  "numar_stiri": 141,
   "stiri": [
+    {
+      "id": "11853d72fa5c",
+      "titlu": "Gerard Piqué, suspendat două luni după o dispută cu arbitrul",
+      "rezumat": "Gerard Piqué, proprietarul clubului FC Andorra, a primit o suspendare de două luni în urma unei altercații cu arbitrul, după înfrângerea echipei sale cu 1-0 în fața celor de la Albacete, în liga a doua spaniolă. Incidentul a avut loc la finalul meciului, iar decizia subliniază consecințele comportamentului nesportiv, chiar și pentru oficialii cluburilor. Suspendarea îl va ține pe Piqué departe de activitățile oficiale ale clubului pentru o perioadă semnificativă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-06T18:12:10.418262+00:00",
+      "data_afisaj": "6 mai 2026, 21:12"
+    },
+    {
+      "id": "db768b0c2ed3",
+      "titlu": "Birmingham City va găzdui FC Barcelona într-un meci amical de pre-sezon",
+      "rezumat": "Clubul englez Birmingham City va fi gazda gigantului european FC Barcelona în această vară, ca parte a programului de pregătire al echipei spaniole pentru noul sezon. Acest meci amical de pre-sezon reprezintă o oportunitate importantă pentru fanii din Birmingham de a vedea la lucru o echipă de top la nivel mondial și pentru jucătorii ambelor formații de a se pregăti pentru competițiile viitoare. Detaliile specifice privind data și locația exactă a partidei urmează să fie anunțate.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-06T18:12:10.420076+00:00",
+      "data_afisaj": "6 mai 2026, 21:12"
+    },
+    {
+      "id": "188def964ae2",
+      "titlu": "Arsenal plănuiește vânzări de jucători în vară, în ciuda încasărilor de peste 120 de milioane de lire sterline din Liga Campionilor",
+      "rezumat": "Arsenal intenționează să realizeze vânzări semnificative de jucători în fereastra de transferuri din această vară, chiar dacă a obținut peste 120 de milioane de lire sterline din premiile UEFA, datorită parcursului său până în finala Ligii Campionilor. Această strategie sugerează o restructurare a lotului și o gestionare atentă a bugetului, indicând faptul că clubul nu se bazează exclusiv pe veniturile din competiții pentru a-și finanța viitoarele achiziții și pentru a echilibra balanța financiară.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-06T18:12:10.422145+00:00",
+      "data_afisaj": "6 mai 2026, 21:12"
+    },
+    {
+      "id": "ac92e7014fd8",
+      "titlu": "Corvinul Hunedoara promovează în Superligă, stârnind euforie și comparații cu Nottingham Forest",
+      "rezumat": "Corvinul Hunedoara a reușit o promovare spectaculoasă în Superligă, declanșând o reacție emoționantă în rândul oficialilor și fanilor. Un reprezentant al clubului a declarat, cu lacrimi în ochi, că echipa este \"Nottingham Forest de România\", evidențiind parcursul neașteptat și succesul obținut. Acesta a subliniat, de asemenea, importanța unui \"trident\" cheie, fără de care performanța nu ar fi fost posibilă, sugerând o coeziune puternică și o strategie eficientă în spatele ascensiunii clubului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-05-06T18:12:10.423973+00:00",
+      "data_afisaj": "6 mai 2026, 21:12"
+    },
     {
       "id": "084a5a814453",
       "titlu": "Euforia Arsenalului a fost justificată sau „prea mult”?",
