@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-06T10:17:35.850036+00:00",
-  "updated_at_afisaj": "6 mai 2026, 13:17",
+  "updated_at": "2026-05-06T17:44:30.010664+00:00",
+  "updated_at_afisaj": "6 mai 2026, 20:44",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,55 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 146,
+  "numar_stiri": 137,
   "stiri": [
+    {
+      "id": "084a5a814453",
+      "titlu": "Euforia Arsenalului a fost justificată sau „prea mult”?",
+      "rezumat": "Arsenal a ajuns în finala Ligii Campionilor pentru prima dată în 20 de ani, dar întrebarea este dacă au sărbătorit excesiv victoria de marți împotriva lui Atletico Madrid. Reacțiile post-meci au stârnit discuții despre echilibrul dintre bucuria performanței istorice și modestia necesară înaintea unui eveniment de o asemenea anvergură. Clubul londonez se pregătește acum pentru confruntarea decisivă, având în spate o campanie europeană remarcabilă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-06T17:44:30.005162+00:00",
+      "data_afisaj": "6 mai 2026, 20:44"
+    },
+    {
+      "id": "5b32751f78ab",
+      "titlu": "Controverse, accidentări și o petiție: Ce se întâmplă cu Kylian Mbappé la Real Madrid?",
+      "rezumat": "Kylian Mbappé traversează un al doilea sezon dificil la Real Madrid, marcat de o serie de evenimente controversate. Pe lângă problemele legate de accidentări, o călătorie cu iahtul și o petiție inițiată de fani au stârnit discuții aprinse. Se analizează ce anume a mers prost în parcursul său recent, punând sub semnul întrebării adaptarea sa la club și presiunea așteptărilor. Situația sa actuală este un subiect intens dezbătut în presa sportivă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-06T17:44:30.006951+00:00",
+      "data_afisaj": "6 mai 2026, 20:44"
+    },
+    {
+      "id": "f95564be568d",
+      "titlu": "Celtic ar putea realiza dubla, dar sunt schimbările inevitabile la club?",
+      "rezumat": "Echipa Celtic se află în postura de a încheia un nou sezon intern de succes, în ciuda unei campanii tumultoase și pline de tensiuni. Cu toate acestea, se ridică întrebarea dacă o serie de schimbări majore la nivelul clubului sunt inevitabile, chiar și în contextul unei potențiale duble. Analiza vizează stabilitatea conducerii, strategia de transferuri și viitorul antrenorului, indiferent de rezultatele finale din acest sezon.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-06T17:44:30.008619+00:00",
+      "data_afisaj": "6 mai 2026, 20:44"
+    },
+    {
+      "id": "c7211964295d",
+      "titlu": "FIFA impune o suspendare globală jucătorului Prestianni de la Benfica",
+      "rezumat": "FIFA a impus o suspendare globală jucătorului Gianluca Prestianni de la Benfica, după ce acesta a recunoscut că a folosit un limbaj homofob la adresa lui Vinicius Jr. de la Real Madrid, în timpul unui meci de Liga Campionilor din februarie. Această decizie înseamnă că aripa argentiniană ar putea rata primele două meciuri ale țării sale la Cupa Mondială, dacă va fi selecționat în lot. Sancțiunea subliniază angajamentul FIFA în combaterea discriminării în fotbal.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-05-06T17:44:30.010648+00:00",
+      "data_afisaj": "6 mai 2026, 20:44"
+    },
     {
       "id": "eaf764185900",
       "titlu": "Golgeterul record al lui Haiti despre Paisley, Scoția uimitoare și evadarea din Iran",
@@ -1548,150 +1595,6 @@
       ],
       "data_publicare": "2026-04-29T20:20:30.645072+00:00",
       "data_afisaj": "29 aprilie 2026, 23:20"
-    },
-    {
-      "id": "1c3d1db41afd",
-      "titlu": "Casa Albă vrea ca Departamentul pentru Securitate Internă să se redeschidă pentru Cupa Mondială",
-      "rezumat": "Oficialii de la Casa Albă care se pregătesc pentru Cupa Mondială din această vară îndeamnă Departamentul pentru Securitate Internă să se redeschidă după o tentativă de asasinare a președintelui american Donald Trump.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-04-29T11:36:24.506523+00:00",
-      "data_afisaj": "29 aprilie 2026, 14:36"
-    },
-    {
-      "id": "02bd9c78f801",
-      "titlu": "Tot ce vreau să fac este să ajut cât de mult pot - Grealish",
-      "rezumat": "Mijlocașul Angliei Jack Grealish vorbește cu Joe Wilson despre extinderea rolului său de ambasador la Special Olympics GB și despre ce înseamnă asta pentru el.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-04-29T11:36:24.506738+00:00",
-      "data_afisaj": "29 aprilie 2026, 14:36"
-    },
-    {
-      "id": "ea347081e297",
-      "titlu": "Bright reflectă asupra câștigului „incredibil” la Euro 2022",
-      "rezumat": "Vorbind în 2022, căpitanul Chelsea Millie Bright a reflectat la „cea mai bună vară din viața mea” și la „incredibilă” victorie a Angliei la Euro feminin.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-04-29T11:36:24.506873+00:00",
-      "data_afisaj": "29 aprilie 2026, 14:36"
-    },
-    {
-      "id": "074633f8e0ac",
-      "titlu": "„Tottenham a încurcat” - Spurs câștigă în sfârșit, dar este prea târziu?",
-      "rezumat": "Vorbind la Monday Night Club, scriitorul de fotbal Mark Ogden și fostul atacant din Premier League Chris Sutton discută despre modul în care Tottenham pare să se îndrepte spre retrogradarea din Premier League.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-04-29T11:36:24.507019+00:00",
-      "data_afisaj": "29 aprilie 2026, 14:36"
-    },
-    {
-      "id": "7126105fcc87",
-      "titlu": "Man Utd a supraviețuit lui Brentford pentru a câștiga o victorie crucială",
-      "rezumat": "Manchester United își păstrează nervii, deoarece golurile din prima repriză ale lui Casemiro și Benjamin Sesko sunt suficiente pentru a câștiga o întâlnire distractivă cu Brentford.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-04-29T11:36:24.507154+00:00",
-      "data_afisaj": "29 aprilie 2026, 14:36"
-    },
-    {
-      "id": "aa4798a1ced3",
-      "titlu": "Câștigătorul Europa League a devenit regizor, actor, DJ și fotograf",
-      "rezumat": "Alfie Whiteman a câștigat anul trecut o medalie de câștigător al Ligii Europa, acum la 27 de ani s-a retras din fotbal și își deschide prima expoziție de fotografie.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-04-29T11:06:24.791018+00:00",
-      "data_afisaj": "29 aprilie 2026, 14:06"
-    },
-    {
-      "id": "39e8eff10f3b",
-      "titlu": "Copiii de la Man Utd au început să strălucească în pre-sezon",
-      "rezumat": "Ce tineri de la Manchester United sunt cel mai probabil să facă presiuni pentru includerea în turneul lor de pre-sezon din iulie?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-04-29T11:06:24.791125+00:00",
-      "data_afisaj": "29 aprilie 2026, 14:06"
-    },
-    {
-      "id": "215bdd70ea83",
-      "titlu": "Poate Griezmann să-și încheie povestea de dragoste cu Atletico în stil?",
-      "rezumat": "Îndelungata poveste de dragoste a lui Antoine Griezmann cu Atletico Madrid se apropie de sfârșit, dar poate francezul să-și ia rămas bun, asigurându-se Liga Campionilor?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-04-29T11:06:24.791190+00:00",
-      "data_afisaj": "29 aprilie 2026, 14:06"
-    },
-    {
-      "id": "cf616a93c71d",
-      "titlu": "De ce Mourinho ar putea fi „caracterul joker final” al Realului",
-      "rezumat": "Cu Real Madrid ieșit din Liga Campionilor și rămânând în urmă în La Liga, zgomotul în jurul viitorului antrenorului Alvaro Arbeloa crește în mod nesurprinzător. Ar putea fi Jose Mourinho răspunsul?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-04-29T11:06:24.791259+00:00",
-      "data_afisaj": "29 aprilie 2026, 14:06"
-    },
-    {
-      "id": "9909fd033603",
-      "titlu": "Femeile din Afganistan pot reveni la competiție",
-      "rezumat": "Femeile din Afganistan vor deveni un „simbol al rezilienței” după ce FIFA le-a aprobat revenirea în competițiile internaționale, spune fostul căpitan Khalida Popal.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-04-29T11:06:24.791325+00:00",
-      "data_afisaj": "29 aprilie 2026, 14:06"
-    },
-    {
-      "id": "4e4c8da33cb1",
-      "titlu": "Chelsea captain Bright retires - what now for ex-England defender?",
-      "rezumat": "Chelsea captain Millie Bright announces she has retired from football with immediate effect because of injury.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-04-29T11:00:07.227383+00:00",
-      "data_afisaj": "29 aprilie 2026, 14:00"
-    },
-    {
-      "id": "5ad91a695e40",
-      "titlu": "A record-breaking semi-final - the antidote to modern football?",
-      "rezumat": "A scintillating semi-final first leg between Paris St-Germain and Bayern Munich left many to wonder if this was the antidote to modern football.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-04-29T11:00:07.227472+00:00",
-      "data_afisaj": "29 aprilie 2026, 14:00"
-    },
-    {
-      "id": "8db7f00b4f5a",
-      "titlu": "Grealish recovery 'couldn't be looking any better'",
-      "rezumat": "Jack Grealish says his recovery from the operation he had on his season-ending foot injury is going extremely well.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-04-29T11:00:07.227530+00:00",
-      "data_afisaj": "29 aprilie 2026, 14:00"
     }
   ]
 }
