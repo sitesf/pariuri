@@ -1,7 +1,7 @@
 {
   "data_start": "2026-05-06",
   "data_final": "2026-05-13",
-  "updated_at": "2026-05-06T09:38:09.281281+00:00",
+  "updated_at": "2026-05-06T11:30:40.053133+00:00",
   "surse": [
     "The Odds API"
   ],
@@ -14,13 +14,13 @@
       "home": "Paris Saint Germain",
       "away": "Brest",
       "liga": "Ligue 1",
-      "cota_1": 1.14,
-      "cota_x": 8.74,
-      "cota_2": 14.54,
+      "cota_1": 1.15,
+      "cota_x": 8.91,
+      "cota_2": 14.96,
       "pronostic": "1",
-      "motiv": "Gazde favorite clare (cota 1.14)",
-      "cota_pronostic": 1.14,
-      "probabilitate": 0.877
+      "motiv": "Gazde favorite clare (cota 1.15)",
+      "cota_pronostic": 1.15,
+      "probabilitate": 0.87
     },
     {
       "data": "2026-05-11",
@@ -182,8 +182,8 @@
       "home": "AVS Futebol SAD",
       "away": "FC Porto",
       "liga": "Primeira Liga",
-      "cota_1": 11.07,
-      "cota_x": 6.9,
+      "cota_1": 11.29,
+      "cota_x": 6.98,
       "cota_2": 1.21,
       "pronostic": "2",
       "motiv": "Oaspeți favoriți clari (cota 1.21)",
@@ -444,6 +444,20 @@
     },
     {
       "data": "2026-05-10",
+      "ora": "22:00",
+      "home": "Le Havre",
+      "away": "Marseille",
+      "liga": "Ligue 1",
+      "cota_1": 3.57,
+      "cota_x": 3.7,
+      "cota_2": 1.99,
+      "pronostic": "X2",
+      "motiv": "Oaspeți ușor favorizați (2:1.99 X:3.70)",
+      "cota_pronostic": 1.29,
+      "probabilitate": 0.773
+    },
+    {
+      "data": "2026-05-10",
       "ora": "17:45",
       "home": "Fortuna Sittard",
       "away": "FC Zwolle",
@@ -639,6 +653,20 @@
       "probabilitate": 0.662
     },
     {
+      "data": "2026-05-07",
+      "ora": "22:00",
+      "home": "Crystal Palace",
+      "away": "Shakhtar Donetsk",
+      "liga": "UEFA Conference League",
+      "cota_1": 1.52,
+      "cota_x": 4.3,
+      "cota_2": 5.9,
+      "pronostic": "1",
+      "motiv": "Gazde favorite clare (cota 1.52)",
+      "cota_pronostic": 1.52,
+      "probabilitate": 0.658
+    },
+    {
       "data": "2026-05-09",
       "ora": "20:00",
       "home": "Goztepe",
@@ -651,20 +679,6 @@
       "motiv": "Gazde favorite clare (cota 1.53)",
       "cota_pronostic": 1.53,
       "probabilitate": 0.654
-    },
-    {
-      "data": "2026-05-07",
-      "ora": "22:00",
-      "home": "Crystal Palace",
-      "away": "Shakhtar Donetsk",
-      "liga": "UEFA Conference League",
-      "cota_1": 1.54,
-      "cota_x": 4.3,
-      "cota_2": 5.6,
-      "pronostic": "1",
-      "motiv": "Gazde favorite clare (cota 1.54)",
-      "cota_pronostic": 1.54,
-      "probabilitate": 0.649
     },
     {
       "data": "2026-05-09",
@@ -693,20 +707,6 @@
       "motiv": "Gazde favorite clare (cota 1.58)",
       "cota_pronostic": 1.58,
       "probabilitate": 0.633
-    },
-    {
-      "data": "2026-05-10",
-      "ora": "19:00",
-      "home": "Parma",
-      "away": "AS Roma",
-      "liga": "Serie A",
-      "cota_1": 5.76,
-      "cota_x": 4.27,
-      "cota_2": 1.59,
-      "pronostic": "2",
-      "motiv": "Oaspeți favoriți clari (cota 1.59)",
-      "cota_pronostic": 1.59,
-      "probabilitate": 0.629
     }
   ]
 }
