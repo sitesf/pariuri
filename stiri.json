@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-07T17:51:27.463835+00:00",
-  "updated_at_afisaj": "7 mai 2026, 20:51",
+  "updated_at": "2026-05-07T18:19:21.484940+00:00",
+  "updated_at_afisaj": "7 mai 2026, 21:19",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,52 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 136,
+  "numar_stiri": 140,
   "stiri": [
+    {
+      "id": "cdbe81a9c566",
+      "titlu": "Michael Carrick subliniază importanța clarității privind viitorul său la Manchester United",
+      "rezumat": "Michael Carrick, antrenorul interimar al lui Manchester United, a declarat că este important să existe claritate în privința conducerii echipei pentru sezonul viitor, dar a recunoscut că decizia nu-i aparține. Deși a asigurat calificarea în Liga Campionilor duminica trecută, Carrick nu a fost încă informat dacă va primi postul permanent. United se va deplasa la Sunderland sâmbătă, ocupând locul trei în clasament, iar Carrick are garantate doar două meciuri după această declarație, menținând incertitudinea asupra rolului său pe termen lung.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-07T18:19:21.478870+00:00",
+      "data_afisaj": "7 mai 2026, 21:19"
+    },
+    {
+      "id": "ad93a0055d15",
+      "titlu": "Regulatorul de fotbal din Anglia, presat să interzică cluburilor din Premier League sponsorizările de la companii de jocuri de noroc nelicențiate",
+      "rezumat": "Regulatorul Independent de Fotbal (IFR) a fost îndemnat să împiedice cluburile din Premier League să accepte sponsorizări de la companii de jocuri de noroc nelicențiate în Marea Britanie. Solicitarea vine din partea Entain, o companie globală de pariuri sportive care deține Ladbrokes și Coral, în cadrul unei consultări publice privind regimul de licențiere. Această măsură ar viza asigurarea integrității și eticii în fotbalul englez, limitând expunerea cluburilor la operatori care nu respectă reglementările locale și promovând un mediu sportiv mai responsabil.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-07T18:19:21.481235+00:00",
+      "data_afisaj": "7 mai 2026, 21:19"
+    },
+    {
+      "id": "b9f7727fde79",
+      "titlu": "Ascensiunea incredibilă a clubului Como, condusă de Cesc Fàbregas",
+      "rezumat": "Clubul italian Como, cu ajutorul fostului jucător de la Arsenal, Cesc Fàbregas, al unor proprietari ambițioși și al unui guru în scouting inspirat de Football Manager, se bucură de o ascensiune remarcabilă. Fàbregas a declarat că echipa aduce \"jucători înfometați și umili\", contribuind la succesul clubului. Situat pe malul lacului Como, clubul a atras atenția prin performanțele sale, transformând o mică echipă într-o forță în fotbalul italian, cu ambiții mari pentru viitor și o strategie clară de dezvoltare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-07T18:19:21.483079+00:00",
+      "data_afisaj": "7 mai 2026, 21:19"
+    },
+    {
+      "id": "44606698b605",
+      "titlu": "Fotbalul francez, aproape de o dublă rară în Liga Campionilor",
+      "rezumat": "Cluburile franceze ar putea realiza o dublă istorică în Liga Campionilor, atât la masculin, cât și la feminin, pentru prima dată în istorie. Această performanță ar reprezenta un moment de referință pentru fotbalul francez, demonstrând forța și progresul echipelor din Hexagon pe scena europeană. O astfel de realizare ar sublinia investițiile și dezvoltarea continuă în ambele segmente ale fotbalului, consolidând poziția Franței ca o putere emergentă în competițiile continentale și atrăgând atenția asupra calității fotbalului practicat în țară.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-05-07T18:19:21.484905+00:00",
+      "data_afisaj": "7 mai 2026, 21:19"
+    },
     {
       "id": "14733b5bf9bc",
       "titlu": "Khadija Shaw părăsește Manchester City, Chelsea este favorită pentru transfer",
