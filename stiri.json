@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-06T18:12:10.423990+00:00",
-  "updated_at_afisaj": "6 mai 2026, 21:12",
+  "updated_at": "2026-05-07T09:36:31.805276+00:00",
+  "updated_at_afisaj": "7 mai 2026, 12:36",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 141,
+  "numar_stiri": 136,
   "stiri": [
+    {
+      "id": "deeea4378662",
+      "titlu": "În interiorul sezonului câștigător de titlu WSL al lui Man City",
+      "rezumat": "Manchester City a câștigat primul titlu în Women's Super League în 10 ani - dar cum a reușit acest lucru?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-07T09:36:20.986994+00:00",
+      "data_afisaj": "7 mai 2026, 12:36"
+    },
+    {
+      "id": "668c398cc9e1",
+      "titlu": "De la o echipă plină de ego la un pachet complet - de ce PSG reprezintă testul suprem",
+      "rezumat": "Expertiza lui Luis Enrique în reconstruirea unei culturi, precum și a unei echipe, înseamnă că Arsenal va înfrunta un pachet complet atunci când se va întâlni cu deținătoarea trofeului PSG în finala Ligii Campionilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-07T09:36:20.988603+00:00",
+      "data_afisaj": "7 mai 2026, 12:36"
+    },
+    {
+      "id": "9b8de394d7f7",
+      "titlu": "Liverpool reduce creșterea planificată a prețurilor biletelor",
+      "rezumat": "Liverpool a redus mărimea creșterii planificate a prețurilor biletelor pentru următoarele două sezoane, după protestele fanilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-07T09:36:20.989964+00:00",
+      "data_afisaj": "7 mai 2026, 12:36"
+    },
+    {
+      "id": "346cfe62b631",
+      "titlu": "Cum golul lui Kane ar putea aduce Germaniei un loc suplimentar în Liga Campionilor",
+      "rezumat": "Golul târziu al lui Harry Kane de miercuri nu a putut duce pe Bayern München în finală - dar ar putea aduce Bundesligii un loc suplimentar în Liga Campionilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-07T09:36:20.991440+00:00",
+      "data_afisaj": "7 mai 2026, 12:36"
+    },
+    {
+      "id": "f72988ed87c2",
+      "titlu": "Staniforth de la Villa 'împăcată' cu decizia de a se retrage",
+      "rezumat": "Mijlocașul lui Aston Villa și fosta internațională engleză Lucy Staniforth nu a ezitat când a luat decizia de a se retrage din fotbal la sfârșitul sezonului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-07T09:36:20.992897+00:00",
+      "data_afisaj": "7 mai 2026, 12:36"
+    },
     {
       "id": "11853d72fa5c",
       "titlu": "Gerard Piqué, suspendat două luni după o dispută cu arbitrul",
@@ -1514,131 +1570,6 @@
       ],
       "data_publicare": "2026-04-30T12:05:19.718722+00:00",
       "data_afisaj": "30 aprilie 2026, 15:05"
-    },
-    {
-      "id": "d5280458c455",
-      "titlu": "Mudryk de la Chelsea face apel împotriva interdicției de patru ani din partea FA",
-      "rezumat": "Mijlocașul de la Chelsea, Mykhailo Mudryk, își duce lupta împotriva unei interdicții pentru dopaj impuse de Asociația de Fotbal la Tribunalul de Arbitraj Sportiv.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-04-29T20:43:40.843314+00:00",
-      "data_afisaj": "29 aprilie 2026, 23:43"
-    },
-    {
-      "id": "d1b3ca1ba178",
-      "titlu": "Liverpool se așteaptă la revenirea lui Salah înainte de sfârșitul sezonului",
-      "rezumat": "Liverpool se așteaptă ca Mohamed Salah să revină după accidentare înainte de sfârșitul sezonului, după ce a fost forțat să părăsească terenul sâmbătă împotriva lui Crystal Palace.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-04-29T20:43:40.843637+00:00",
-      "data_afisaj": "29 aprilie 2026, 23:43"
-    },
-    {
-      "id": "d064aeedafcd",
-      "titlu": "Howson va face istorie ca primul oficial de culoare în finala Cupei Angliei",
-      "rezumat": "Akil Howson va deveni primul oficial de culoare care va participa la o finală a Cupei Angliei, când Chelsea va înfrunta Manchester City luna viitoare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-04-29T20:43:40.843888+00:00",
-      "data_afisaj": "29 aprilie 2026, 23:43"
-    },
-    {
-      "id": "fbb0ad054935",
-      "titlu": "🚨 LIVE Atletico Madrid – Arsenal 1-1 Live Text Online, în semifinalele Ligii Campionilor. Alvarez egalează tot din penalty",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-04-29T20:43:40.844267+00:00",
-      "data_afisaj": "29 aprilie 2026, 23:43"
-    },
-    {
-      "id": "436dcad11979",
-      "titlu": "Hakimi de la PSG, absent din returul cu Bayern din cauza unei accidentări",
-      "rezumat": "Fundașul lateral al lui Paris Saint-Germain, Achraf Hakimi, a fost scos din joc pentru „următoarele câteva săptămâni” după ce a suferit o accidentare în timpul victoriei dramatice împotriva lui Bayern München în Liga Campionilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-04-29T20:43:40.844559+00:00",
-      "data_afisaj": "29 aprilie 2026, 23:43"
-    },
-    {
-      "id": "92e31f13c712",
-      "titlu": "Mykhailo Mudryk de la Chelsea contestă suspendarea de patru ani primită de la FA",
-      "rezumat": "Mijlocașul lui Chelsea, Mykhailo Mudryk, a dus lupta împotriva suspendării de patru ani impuse de Asociația de Fotbal pentru dopaj la Tribunalul de Arbitraj Sportiv (TAS). Decizia inițială a fost contestată de jucător, care speră să obțină o reducere sau anulare a sancțiunii. Cazul este unul de rezonanță în fotbalul englez, având în vedere durata semnificativă a interdicției și impactul asupra carierei fotbalistului ucrainean, atrăgând atenția presei sportive internaționale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-04-29T20:20:30.644060+00:00",
-      "data_afisaj": "29 aprilie 2026, 23:20"
-    },
-    {
-      "id": "77022d5dec90",
-      "titlu": "Liverpool se așteaptă la revenirea lui Mohamed Salah înainte de finalul sezonului",
-      "rezumat": "Clubul Liverpool anticipează că starul său, Mohamed Salah, va reveni pe teren înainte de încheierea actualului sezon. Atacantul egiptean a fost nevoit să părăsească terenul din cauza unei accidentări suferite sâmbătă, în meciul împotriva echipei Crystal Palace. Această veste aduce speranțe fanilor \"Cormoranilor\" că Salah va putea contribui în etapele decisive ale campionatului, într-o perioadă crucială pentru obiectivele echipei în competițiile interne și europene.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-04-29T20:20:30.644323+00:00",
-      "data_afisaj": "29 aprilie 2026, 23:20"
-    },
-    {
-      "id": "8dd940efdb88",
-      "titlu": "Akil Howson va deveni primul arbitru de culoare la o finală de Cupa Angliei",
-      "rezumat": "Akil Howson va scrie istorie în fotbalul englez, devenind primul oficial de culoare care va arbitra o finală de Cupa Angliei. Acesta va face parte din brigada de arbitri la meciul dintre Chelsea și Manchester City, programat luna viitoare. Această numire reprezintă un moment important pentru diversitatea și incluziunea în sport, marcând o etapă semnificativă în recunoașterea meritelor și depășirea barierelor în arbitrajul de top la nivel național.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-04-29T20:20:30.644552+00:00",
-      "data_afisaj": "29 aprilie 2026, 23:20"
-    },
-    {
-      "id": "4c650bccf179",
-      "titlu": "Portarul lui Real Zaragoza, Esteban Andrada, suspendat 13 meciuri pentru că a lovit un adversar",
-      "rezumat": "Esteban Andrada, portarul echipei Real Zaragoza, a primit o suspendare de 13 meciuri din partea federației spaniole de fotbal. Sancțiunea drastică vine după ce jucătorul l-a lovit cu pumnul în față pe Jorge Pulido, un fotbalist de la Huesca, în timpul unui meci din liga a doua spaniolă. Incidentul a avut loc după ce Andrada fusese deja eliminat pentru o împingere asupra aceluiași adversar, gestul său violent atrăgând o pedeapsă severă și o amendă pentru club.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-04-29T20:20:30.644808+00:00",
-      "data_afisaj": "29 aprilie 2026, 23:20"
-    },
-    {
-      "id": "0f6aac383f85",
-      "titlu": "Un portar de 70 de ani revine pe teren pentru un meci oficial în Spania",
-      "rezumat": "Ángel Mateos González, un portar în vârstă de 70 de ani, se pregătește să revină pe teren pentru un meci oficial în Spania, devenind cel mai vârstnic jucător care participă la o partidă recunoscută. Acesta va îmbrăca din nou mănușile pentru echipa CD Colunga, într-un meci din liga a cincea spaniolă. Revenirea sa, la 27 de ani după ce s-a retras din fotbalul competitiv, reprezintă o poveste inspirațională despre pasiune și longevitate în sportul rege.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-04-29T20:20:30.645072+00:00",
-      "data_afisaj": "29 aprilie 2026, 23:20"
     }
   ]
 }
