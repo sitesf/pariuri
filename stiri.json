@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-07T09:36:31.805276+00:00",
-  "updated_at_afisaj": "7 mai 2026, 12:36",
+  "updated_at": "2026-05-07T10:25:35.265001+00:00",
+  "updated_at_afisaj": "7 mai 2026, 13:25",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 136,
+  "numar_stiri": 141,
   "stiri": [
+    {
+      "id": "3d13d1c4f376",
+      "titlu": "Oamenii lui Villa, aproape de momentul lor definitoriu",
+      "rezumat": "Aston Villa se confruntă cu momentul lor definitoriu sub Unai Emery în manșa a doua a semifinalei Europa League de joi împotriva lui Nottingham Forest.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-07T10:25:27.810371+00:00",
+      "data_afisaj": "7 mai 2026, 13:25"
+    },
+    {
+      "id": "966dea68e65d",
+      "titlu": "Promisiunea lui Infantino de 'hot dog și Coca-Cola' pentru un bilet de 2 milioane de dolari",
+      "rezumat": "Președintele Fifa, Gianni Infantino, spune că va \"aduce personal un hot dog și o Coca-Cola\" oricui cumpără un bilet la finala Cupei Mondiale pentru 2 milioane de dolari.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-07T10:25:27.812120+00:00",
+      "data_afisaj": "7 mai 2026, 13:25"
+    },
+    {
+      "id": "04a089340945",
+      "titlu": "De ce nu a fost penalty la hențul lui Neves împotriva lui Bayern?",
+      "rezumat": "Jucătorii, staff-ul tehnic și fanii lui Bayern München de la Allianz Arena au fost în stare de neîncredere după ce le-a fost refuzat un penalty pentru un henț comis de Joao Neves în manșa a doua a semifinalei împotriva lui Paris St-Germain.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-07T10:25:27.813753+00:00",
+      "data_afisaj": "7 mai 2026, 13:25"
+    },
+    {
+      "id": "ac9fbb2774f7",
+      "titlu": "Fundașul german Sule se va retrage în această vară la 30 de ani",
+      "rezumat": "Fundașul lui Borussia Dortmund și al Germaniei, Niklas Sule, alege să se retragă în această vară la vârsta de 30 de ani.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-07T10:25:27.815288+00:00",
+      "data_afisaj": "7 mai 2026, 13:25"
+    },
+    {
+      "id": "2bbf02cb9c02",
+      "titlu": "Presiunea târzie a lui Bayern nu a fost suficientă, PSG revine în finala Ligii Campionilor",
+      "rezumat": "Egalarea lui Harry Kane în prelungiri aduce lui Bayern München o remiză de 1-1 în manșa a doua de pe Allianz Arena, în timp ce deținătorii trofeului, PSG, își asigură revenirea în finala Ligii Campionilor cu 6-5 la general, unde se vor întâlni cu Arsenal la Budapesta.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-07T10:25:27.816946+00:00",
+      "data_afisaj": "7 mai 2026, 13:25"
+    },
     {
       "id": "deeea4378662",
       "titlu": "În interiorul sezonului câștigător de titlu WSL al lui Man City",
