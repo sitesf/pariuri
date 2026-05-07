@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-07T10:25:35.265001+00:00",
-  "updated_at_afisaj": "7 mai 2026, 13:25",
+  "updated_at": "2026-05-07T17:51:27.463835+00:00",
+  "updated_at_afisaj": "7 mai 2026, 20:51",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,67 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 141,
+  "numar_stiri": 136,
   "stiri": [
+    {
+      "id": "14733b5bf9bc",
+      "titlu": "Khadija Shaw părăsește Manchester City, Chelsea este favorită pentru transfer",
+      "rezumat": "Atacanta jamaicană Khadija Shaw a decis să plece de la Manchester City la finalul contractului său din această vară, în ciuda discuțiilor extinse pentru o nouă înțelegere. Chelsea este considerată favorită pentru a o semna pe jucătoare, care este pe cale să câștige Gheata de Aur în Women's Super League pentru al treilea sezon consecutiv. Mutarea ar reprezenta o nouă provocare pentru jucătoarea de 29 de ani.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-07T17:51:27.457018+00:00",
+      "data_afisaj": "7 mai 2026, 20:51"
+    },
+    {
+      "id": "5171b2df38cc",
+      "titlu": "FIFA și Panini își încheie parteneriatul după Cupa Mondială din 2030",
+      "rezumat": "Parteneriatul de lungă durată dintre FIFA și Panini, renumit pentru albumele de stickere ale Cupei Mondiale, se va încheia după turneul din 2030. Începând cu anul 2031, compania Fanatics va prelua rolul de furnizor oficial de produse de colecție, inclusiv albume de stickere, pentru FIFA, în urma unui nou acord semnat joi. Această schimbare marchează o eră nouă în piața de colecționabile sportive.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-07T17:51:27.458686+00:00",
+      "data_afisaj": "7 mai 2026, 20:51"
+    },
+    {
+      "id": "9dacf68088eb",
+      "titlu": "Ancheta privind decesul fostului manager Matt Beard, amânată din cauza acuzațiilor de hărțuire la Burnley",
+      "rezumat": "O audiere premergătoare anchetei în cazul decesului fostului manager din Women's Super League, Matt Beard, a dezvăluit că familia acestuia a acuzat clubul Burnley de hărțuire. Beard, care a câștigat două titluri WSL consecutive cu Liverpool, a demisionat de la Burnley în august 2025, cu puțin peste trei săptămâni înainte de a deceda la vârsta de 47 de ani. Familia consideră că evenimentele de la Burnley au fost un catalizator pentru deteriorarea sănătății sale mintale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-07T17:51:27.460502+00:00",
+      "data_afisaj": "7 mai 2026, 20:51"
+    },
+    {
+      "id": "85fddfcba318",
+      "titlu": "Antrenorul Fabian Hurzeler semnează un nou contract pe trei ani cu Brighton",
+      "rezumat": "Fabian Hurzeler, antrenorul principal al echipei Brighton, a semnat un nou contract pe trei ani cu clubul, valabil până în 2029. Tehnicianul german a declarat că este o \"onoare\" să continue la Brighton și s-a arătat entuziasmat de viitorul echipei. Această prelungire subliniază încrederea clubului în viziunea lui Hurzeler de a consolida poziția echipei în Premier League și de a perturba ierarhiile stabilite.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-07T17:51:27.462100+00:00",
+      "data_afisaj": "7 mai 2026, 20:51"
+    },
+    {
+      "id": "a4304bd57651",
+      "titlu": "Incident la antrenamentul Real Madrid: Valverde spitalizat după o altercație cu un coechipier",
+      "rezumat": "Jucătorii de la Real Madrid au susținut o ședință de criză la terenul de antrenament după mai multe altercații, inclusiv una care l-a implicat pe mijlocașul Federico Valverde. Acesta ar fi fost spitalizat în urma unei dispute cu un coechipier, Aurelien Tchouameni. Incidentul a generat tensiuni în cadrul echipei, determinând clubul să ia măsuri pentru a gestiona situația internă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-05-07T17:51:27.463817+00:00",
+      "data_afisaj": "7 mai 2026, 20:51"
+    },
     {
       "id": "3d13d1c4f376",
       "titlu": "Oamenii lui Villa, aproape de momentul lor definitoriu",
@@ -1507,124 +1566,6 @@
       ],
       "data_publicare": "2026-04-30T20:18:44.542137+00:00",
       "data_afisaj": "30 aprilie 2026, 23:18"
-    },
-    {
-      "id": "fc860fcbd6b4",
-      "titlu": "O echipă din play-off-ul Ligii 1 nu a obținut licența pentru cupele europene",
-      "rezumat": "Federația Română de Fotbal a anunțat oficial că o echipă calificată în play-off-ul Ligii 1 nu a îndeplinit criteriile necesare pentru a primi licența UEFA, esențială pentru participarea în competițiile europene. Decizia vine în urma evaluării dosarelor de licențiere, care includ aspecte financiare, infrastructură și administrative. Această situație va afecta clasamentul final și distribuția locurilor pentru Europa League și Conference League, deschizând calea pentru o altă formație din campionatul intern să acceadă în competițiile continentale, în funcție de poziția ocupată la finalul sezonului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-04-30T13:10:59.193332+00:00",
-      "data_afisaj": "30 aprilie 2026, 16:10"
-    },
-    {
-      "id": "538ccbc1905a",
-      "titlu": "Fostul fundaș al Angliei, Ashley Young, se retrage din fotbal la 40 de ani",
-      "rezumat": "Ashley Young, fostul fundaș al naționalei Angliei și al unor cluburi precum Manchester United și Aston Villa, a anunțat că se va retrage din activitatea de fotbalist profesionist la vârsta de 40 de ani, la finalul acestui sezon. Young își va încheia cariera la Ipswich, marcând astfel 23 de ani petrecuți pe teren. De-a lungul carierei sale impresionante, el a câștigat titlul în Premier League și Europa League cu Manchester United, fiind recunoscut pentru versatilitatea și longevitatea sa în fotbalul de top.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-04-30T13:10:59.193822+00:00",
-      "data_afisaj": "30 aprilie 2026, 16:10"
-    },
-    {
-      "id": "1b1ef06b11a8",
-      "titlu": "Fiul lui Nobby Stiles, revoltat de poziția FA privind legătura dintre loviturile de cap și leziunile cerebrale",
-      "rezumat": "John Stiles, fiul legendarului fotbalist englez Nobby Stiles, și alți activiști s-au declarat revoltați de faptul că Federația Engleză de Fotbal (FA) ar fi negat o legătură directă între loviturile repetate de cap și leziunile cerebrale. Această controversă reaprinde dezbaterea despre siguranța jucătorilor și riscurile pe termen lung asociate cu practicarea fotbalului la nivel înalt. Familia Stiles militează de mult timp pentru recunoașterea și abordarea problemelor neurologice în rândul foștilor fotbaliști, subliniind necesitatea unor măsuri mai stricte de protecție.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-04-30T13:10:59.194272+00:00",
-      "data_afisaj": "30 aprilie 2026, 16:10"
-    },
-    {
-      "id": "8254da5c4ad0",
-      "titlu": "Șahtior Donețk luptă pentru glorie europeană în semifinalele Conference League",
-      "rezumat": "Echipa ucraineană Șahtior Donețk se pregătește pentru semifinala UEFA Conference League împotriva formației Crystal Palace, cu speranța de a aduce mândrie țării lor, afectată de conflict. În ciuda faptului că și-au pierdut stadionul și sunt nevoiți să joace meciurile de acasă în exil, jucătorii și staff-ul clubului subliniază că nu și-au pierdut identitatea și spiritul de luptă. Această confruntare reprezintă o ocazie importantă pentru Șahtior de a demonstra reziliența fotbalului ucrainean pe scena europeană și de a avansa spre o posibilă finală.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-04-30T13:10:59.194661+00:00",
-      "data_afisaj": "30 aprilie 2026, 16:10"
-    },
-    {
-      "id": "0c6c893dff49",
-      "titlu": "Cupa Mondială 2026, estimată la 13 miliarde de dolari, cel mai profitabil eveniment sportiv",
-      "rezumat": "Cupa Mondială din 2026, găzduită de Statele Unite, Mexic și Canada, este proiectată să devină cea mai profitabilă competiție din istoria sportului, cu venituri estimate la 13 miliarde de dolari. Președintele FIFA, Gianni Infantino, a descris evenimentul ca fiind \"cel mai mare eveniment pe care omenirea l-a văzut vreodată\". În ciuda acestor cifre impresionante, unele dintre cele 48 de țări participante se confruntă cu dificultăți financiare. FIFA și-a revizuit în creștere proiecțiile de venituri în ultimii ani, subliniind amploarea economică fără precedent a turneului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-04-30T13:10:59.195094+00:00",
-      "data_afisaj": "30 aprilie 2026, 16:10"
-    },
-    {
-      "id": "d3a055810437",
-      "titlu": "Burnley o vrea pe Bellamy după ce Parker pleacă",
-      "rezumat": "Burnley este interesat să-l numească pe Craig Bellamy ca antrenor după ce Scott Parker pleacă după retrogradarea din Premier League.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-04-30T12:05:19.717288+00:00",
-      "data_afisaj": "30 aprilie 2026, 15:05"
-    },
-    {
-      "id": "fc16fdaa835d",
-      "titlu": "Mainoo semnează un nou contract cu Man Utd până în 2031",
-      "rezumat": "Kobbie Mainoo semnează un nou contract cu Manchester United, care îl va ține la Old Trafford până în 2031.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-04-30T12:05:19.717736+00:00",
-      "data_afisaj": "30 aprilie 2026, 15:05"
-    },
-    {
-      "id": "d693add639f3",
-      "titlu": "Căpitanul Angliei Williamson a semnat un nou contract cu Arsenal",
-      "rezumat": "Leah Williamson este a patra jucătoare care și-a angajat viitorul clubului în ultimele săptămâni, Kim Little, Stina Blackstenius și Steph Catley semnând, de asemenea, noi contracte.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-04-30T12:05:19.718068+00:00",
-      "data_afisaj": "30 aprilie 2026, 15:05"
-    },
-    {
-      "id": "ae5f87935e34",
-      "titlu": "VAR respinge Arsenal penalty cu întârziere la egalitate împotriva Atletico",
-      "rezumat": "Viktor Gyokeres îl pune pe Arsenal înainte de la fața locului înainte de un penalty de egalare din partea lui Julian Alvarez de la Atletico Madrid în repriza secundă. Un al treilea penalty pentru Gunners este anulat de VAR, ceea ce asigură ca prima manșă a semifinalei Ligii Campionilor să se încheie la egalitate 1-1.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-04-30T12:05:19.718366+00:00",
-      "data_afisaj": "30 aprilie 2026, 15:05"
-    },
-    {
-      "id": "3f066979ac56",
-      "titlu": "Biletele la finala Cupei României, epuizate instant. FRF a făcut anunţul",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-04-30T12:05:19.718722+00:00",
-      "data_afisaj": "30 aprilie 2026, 15:05"
     }
   ]
 }
