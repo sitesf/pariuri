@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-07T18:19:21.484940+00:00",
-  "updated_at_afisaj": "7 mai 2026, 21:19",
+  "updated_at": "2026-05-08T08:22:58.723338+00:00",
+  "updated_at_afisaj": "8 mai 2026, 11:22",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,43 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 140,
+  "numar_stiri": 133,
   "stiri": [
+    {
+      "id": "4f239a0cab93",
+      "titlu": "Aston Villa se califică în finala Europa League",
+      "rezumat": "Aston Villa a învins-o pe Nottingham Forest cu scorul de 4-0 pe Villa Park, asigurându-și calificarea în finala Europa League cu un scor general de 4-1. Echipa a demonstrat o formă excelentă în semifinala retur, dominând adversarul și confirmând ambițiile de a câștiga un trofeu european după o pauză lungă. Această performanță marchează un moment important pentru club și fanii săi, aducând speranța unui succes continental.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-08T08:22:58.719930+00:00",
+      "data_afisaj": "8 mai 2026, 11:22"
+    },
+    {
+      "id": "56a78341d07c",
+      "titlu": "Crystal Palace avansează în finala Conference League",
+      "rezumat": "Crystal Palace a reușit să treacă de Shakhtar Donetsk și s-a calificat în finala Conference League, unde va întâlni pe Rayo Vallecano. Echipa antrenată de Oliver Glasner a rezistat presiunii adversarilor, asigurându-și prezența în ultimul act al competiției europene. Această performanță reprezintă o realizare istorică pentru club, care ajunge într-o finală europeană pentru prima dată în istoria sa. Fanii au sărbătorit cu entuziasm calificarea.",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-08T08:22:58.721522+00:00",
+      "data_afisaj": "8 mai 2026, 11:22"
+    },
+    {
+      "id": "acdbc9efe720",
+      "titlu": "Cluburile englezești, performanță istorică: trei finale europene în același sezon",
+      "rezumat": "Pentru prima dată în istorie, cluburile englezești au reușit să se califice în finalele tuturor celor trei competiții europene majore într-un singur sezon. Această performanță subliniază dominația și forța fotbalului englez la nivel continental, cu echipe din Premier League ajungând în finalele Ligii Campionilor, Europa League și Conference League. Este o dovadă a calității și profunzimii fotbalului din Anglia, marcând un moment de referință.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-08T08:22:58.723317+00:00",
+      "data_afisaj": "8 mai 2026, 11:22"
+    },
     {
       "id": "cdbe81a9c566",
       "titlu": "Michael Carrick subliniază importanța clarității privind viitorul său la Manchester United",
@@ -1492,124 +1527,6 @@
       ],
       "data_publicare": "2026-05-01T10:59:02.628974+00:00",
       "data_afisaj": "1 mai 2026, 13:59"
-    },
-    {
-      "id": "63d66e8882e6",
-      "titlu": "Iran ratează congresul FIFA, dar 'va juca' la Cupa Mondială - Infantino",
-      "rezumat": "Președintele FIFA, Gianni Infantino, spune că Iranul va fi prezent la Cupa Mondială din 2026, în timp ce oficialii iranieni lipsesc de la congresul organismului mondial de conducere a fotbalului din Canada.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-04-30T20:43:20.991325+00:00",
-      "data_afisaj": "30 aprilie 2026, 23:43"
-    },
-    {
-      "id": "9a67b680698a",
-      "titlu": "Palace preia din nou conducerea în fața lui Șahtior Donețk LIVE!",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-04-30T20:43:20.991801+00:00",
-      "data_afisaj": "30 aprilie 2026, 23:43"
-    },
-    {
-      "id": "78a0356268c5",
-      "titlu": "Burnley îl vrea pe Bellamy după anunțarea plecării lui Parker",
-      "rezumat": "Burnley este interesată să-l numească pe Craig Bellamy antrenor după plecarea lui Scott Parker, în urma retrogradării din Premier League.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-04-30T20:43:20.992244+00:00",
-      "data_afisaj": "30 aprilie 2026, 23:43"
-    },
-    {
-      "id": "36f9642f0226",
-      "titlu": "'M-am pierdut pe mine însămi' - Bright despre retragere, abuz și viitor",
-      "rezumat": "Fosta căpitană a Angliei și a lui Chelsea, Millie Bright, vorbește cu BBC Sport la o zi după ce și-a anunțat retragerea.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-04-30T20:43:20.992725+00:00",
-      "data_afisaj": "30 aprilie 2026, 23:43"
-    },
-    {
-      "id": "48cbc17aa59b",
-      "titlu": "De ce discuțiile cu Coventry sunt cheia viitorului lui Lampard",
-      "rezumat": "Antrenorul lui Coventry, Frank Lampard, atrage interesul cluburilor din Premier League - dar discuțiile cu 'Sky Blues' sunt esențiale pentru viitorul său.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-04-30T20:43:20.993174+00:00",
-      "data_afisaj": "30 aprilie 2026, 23:43"
-    },
-    {
-      "id": "83bdb93dddf8",
-      "titlu": "Iranul va participa la Cupa Mondială, în ciuda absenței de la congresul FIFA",
-      "rezumat": "Președintele FIFA, Gianni Infantino, a confirmat că Iranul va lua parte la Cupa Mondială din 2026, chiar dacă oficialii iranieni au lipsit de la congresul organismului mondial de fotbal din Canada. Declarația subliniază angajamentul FIFA de a include toate națiunile calificate, în ciuda oricăror tensiuni diplomatice sau administrative. Această asigurare este importantă pentru stabilitatea competiției și pentru fanii fotbalului din Iran.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-04-30T20:18:44.540030+00:00",
-      "data_afisaj": "30 aprilie 2026, 23:18"
-    },
-    {
-      "id": "34e6fce2f667",
-      "titlu": "Nottingham Forest și Aston Villa se duelează în semifinalele Europa League",
-      "rezumat": "Nottingham Forest și Aston Villa se confruntă în prima manșă a semifinalelor Europa League. Meciul, care a avut loc la ora 22:00 BST, este un moment crucial pentru ambele formații englezești în cursa pentru un loc în finala prestigioasei competiții europene. Echipele au abordat partida cu strategii diferite, Forest mizând pe contraatacuri, iar Villa pe construcția prin mijlocul terenului, cu Ollie Watkins căutând spațiile din spatele apărării adverse.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-04-30T20:18:44.540533+00:00",
-      "data_afisaj": "30 aprilie 2026, 23:18"
-    },
-    {
-      "id": "0321fd9ef69d",
-      "titlu": "Millie Bright, fosta căpitană a Angliei și Chelsea, se retrage din fotbal",
-      "rezumat": "Millie Bright, o figură emblematică a fotbalului feminin englez, fosta căpitană a naționalei Angliei și a clubului Chelsea, și-a anunțat retragerea din activitate. Decizia vine după o carieră de succes, marcată de numeroase trofee câștigate, dar și de o perioadă dificilă, afectată de accidentări persistente și de experiențe neplăcute legate de abuzul din mediul online. Bright lasă în urmă o moștenire impresionantă atât la nivel de club, cât și la echipa națională.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-04-30T20:18:44.541051+00:00",
-      "data_afisaj": "30 aprilie 2026, 23:18"
-    },
-    {
-      "id": "0e577e904a5b",
-      "titlu": "Mijlocașa Laura Coombs de la Manchester City își încheie cariera la finalul sezonului",
-      "rezumat": "Laura Coombs, mijlocașa echipei feminine Manchester City, a anunțat că se va retrage din fotbal la sfârșitul sezonului curent. Decizia marchează încheierea unei cariere dedicate sportului, în care a fost o prezență constantă și importantă pentru echipa sa. Anunțul vine pe măsură ce sezonul se apropie de final, iar Coombs se pregătește pentru o nouă etapă în viața sa, după o contribuție semnificativă la performanțele clubului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-04-30T20:18:44.541552+00:00",
-      "data_afisaj": "30 aprilie 2026, 23:18"
-    },
-    {
-      "id": "395831e7f2d3",
-      "titlu": "Selecționerul USMNT, Mauricio Pochettino, semnalează o lipsă de \"relație emoțională\" cu fotbalul în SUA",
-      "rezumat": "Mauricio Pochettino, antrenorul echipei naționale masculine a Statelor Unite (USMNT), a exprimat îngrijorarea că publicul american nu are o \"relație emoțională\" profundă cu fotbalul, spre deosebire de alte sporturi populare în țară. Într-o apariție la podcast, Pochettino a apărat perspectivele echipei sale la Cupa Mondială, dar a subliniat necesitatea de a dezvolta o legătură mai puternică între națiune și sport, inclusiv prin crearea mai multor spații de joc accesibile pentru copii și tineri.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-04-30T20:18:44.542137+00:00",
-      "data_afisaj": "30 aprilie 2026, 23:18"
     }
   ]
 }
