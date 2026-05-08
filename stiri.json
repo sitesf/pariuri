@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-08T08:22:58.723338+00:00",
-  "updated_at_afisaj": "8 mai 2026, 11:22",
+  "updated_at": "2026-05-08T09:20:35.556099+00:00",
+  "updated_at_afisaj": "8 mai 2026, 12:20",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,65 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 133,
+  "numar_stiri": 138,
   "stiri": [
+    {
+      "id": "7979cdb42298",
+      "titlu": "Villa spulberă Forest pentru a ajunge în finala Europa League",
+      "rezumat": "Aston Villa a spulberat Nottingham Forest cu 4-0 pe Villa Park, câștigând cu 4-1 la general și ajungând în finala Europa League.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-08T09:20:27.725204+00:00",
+      "data_afisaj": "8 mai 2026, 12:20"
+    },
+    {
+      "id": "7791e54025de",
+      "titlu": "Valverde de la Real Madrid are copci după o ceartă cu coechipierul Tchouaméni",
+      "rezumat": "Valverde l-a acuzat pe francez că a divulgat o dispută anterioară. Real joacă duminică împotriva Barcelonei, cu titlul pe masă. Fede Valverde de la Real Madrid a fost dus la spital pentru a i se pune copci după o a doua confruntare cu coechipierul Aurélien Tchouaméni în două zile, pe măsură ce colapsul clubului în haos continuă. Jucătorii au ținut o ședință de urgență, iar Real a deschis proceduri disciplinare după o luptă fizică, cu sânge vărsat și Valverde dus la tratament. Citește mai departe...",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-08T09:20:27.727037+00:00",
+      "data_afisaj": "8 mai 2026, 12:20"
+    },
+    {
+      "id": "268a21c29365",
+      "titlu": "Vibrantă și victorioasă - Villa gata să pună capăt unei secete de trofee de 30 de ani",
+      "rezumat": "Când Unai Emery a ajuns la Aston Villa, a declarat că vrea să câștige trofee. Acum este la doar un meci distanță de un trofeu, după o victorie zdrobitoare în semifinala Europa League împotriva lui Nottingham Forest.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-08T09:20:27.728690+00:00",
+      "data_afisaj": "8 mai 2026, 12:20"
+    },
+    {
+      "id": "738e5d6a7951",
+      "titlu": "Jucători în vacanță? De ce lipsa de motivație este dificil de gestionat",
+      "rezumat": "Tony Pulis despre de ce motivarea jucătorilor care nu mai au pentru ce să joace este doar una dintre provocările cu care se confruntă un antrenor la sfârșitul sezonului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-08T09:20:27.730327+00:00",
+      "data_afisaj": "8 mai 2026, 12:20"
+    },
+    {
+      "id": "62b88b319f55",
+      "titlu": "Adio-ul lung al lui Glasner de la Palace pregătește o finală 'perfectă'",
+      "rezumat": "Crystal Palace nu a vrut cu disperare să fie în Conference League - acum sunt la un meci distanță de a o câștiga și de a crea mai multă istorie a clubului și o finală „perfectă” pentru antrenorul Oliver Glasner.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-08T09:20:27.731892+00:00",
+      "data_afisaj": "8 mai 2026, 12:20"
+    },
     {
       "id": "4f239a0cab93",
       "titlu": "Aston Villa se califică în finala Europa League",
