@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-09T08:28:53.001795+00:00",
-  "updated_at_afisaj": "9 mai 2026, 11:28",
+  "updated_at": "2026-05-09T09:19:29.598757+00:00",
+  "updated_at_afisaj": "9 mai 2026, 12:19",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 133,
+  "numar_stiri": 138,
   "stiri": [
+    {
+      "id": "39d1acbb8a6a",
+      "titlu": "Borussia Dortmund Își Asigură Locul Doi în Bundesliga După o Victorie Dramatică",
+      "rezumat": "Borussia Dortmund a reușit să învingă Eintracht Frankfurt cu scorul de 3-2 pe Signal Iduna Park, într-un meci plin de suspans. Victoria le-a permis celor de la Dortmund să-și asigure poziția a doua în clasamentul Bundesliga, în ciuda emoțiilor din finalul partidei. Echipa a demonstrat rezistență și determinare, consolidându-și statutul în campionatul german printr-o performanță solidă împotriva unui adversar dificil.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-09T09:19:29.591105+00:00",
+      "data_afisaj": "9 mai 2026, 12:19"
+    },
+    {
+      "id": "401866794f4d",
+      "titlu": "Mauricio Pochettino a Refuzat Real Madrid pentru a Rămâne la Tottenham",
+      "rezumat": "Mauricio Pochettino a dezvăluit că a avut ocazia să preia conducerea tehnică a echipei Real Madrid după plecarea lui Zinedine Zidane, dar a ales să rămână la Tottenham Hotspur. Antrenorul argentinian a declarat că și-a respectat promisiunea de a rămâne la Spurs până la finalizarea construcției noului stadion. Această decizie subliniază angajamentul său față de proiectul de la Tottenham, chiar și în fața unei oferte de la unul dintre cele mai prestigioase cluburi din lume.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-05-09T09:19:29.592926+00:00",
+      "data_afisaj": "9 mai 2026, 12:19"
+    },
+    {
+      "id": "a32fdd2b115b",
+      "titlu": "Jucătorii lui Bournemouth Îi Datorează lui Iraola Calificarea în Competițiile Europene",
+      "rezumat": "Fundașul James Hill a declarat că el și coechipierii săi de la Bournemouth sunt hotărâți să obțină calificarea în competițiile europene pentru prima dată în istoria clubului. Această performanță ar reprezenta o mulțumire adusă antrenorului Andoni Iraola, care va părăsi echipa la vară. Declarația subliniază motivația puternică a jucătorilor de a încheia mandatul lui Iraola cu un succes istoric, consolidând eforturile colective pentru atingerea acestui obiectiv.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-09T09:19:29.594814+00:00",
+      "data_afisaj": "9 mai 2026, 12:19"
+    },
+    {
+      "id": "d82fc28ff1a3",
+      "titlu": "Ascensiunea Clubului Le Mans de la Liga a Șasea spre Revenirea în Elită",
+      "rezumat": "Clubul de fotbal Le Mans, cunoscut mai degrabă pentru cursa de 24 de ore, se află pe o traiectorie rapidă de ascensiune. Susținut de nume mari din sport, echipa a reușit să urce din liga a șasea și se apropie de o revenire în eșalonul superior al fotbalului francez. Această poveste de succes subliniază ambiția și investițiile care au propulsat clubul, transformându-l într-un exemplu de dezvoltare rapidă în peisajul fotbalistic.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-09T09:19:29.596686+00:00",
+      "data_afisaj": "9 mai 2026, 12:19"
+    },
+    {
+      "id": "e4633caccb21",
+      "titlu": "Fran Kirby de la Brighton: „Nu mai alerg ca o găină fără cap, evaluez situația”",
+      "rezumat": "Fran Kirby, atacanta echipei Brighton, a vorbit despre evoluția sa ca jucătoare, subliniind că la 32 de ani nu mai este aceeași jucătoare ca la 25 de ani, dar că aduce creativitate și pase decisive. Fără probleme de accidentări, Kirby își propune să contribuie la o victorie împotriva lui Liverpool în Cupa Angliei la fotbal feminin. Declarațiile sale reflectă o abordare mai matură și strategică a jocului, bazată pe experiență.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-09T09:19:29.598737+00:00",
+      "data_afisaj": "9 mai 2026, 12:19"
+    },
     {
       "id": "aae3a8e9133a",
       "titlu": "Arteta Mobilizează Arsenal pentru Weekendul Decisiv din Premier League",
