@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-08T18:07:11.301056+00:00",
-  "updated_at_afisaj": "8 mai 2026, 21:07",
+  "updated_at": "2026-05-09T08:28:53.001795+00:00",
+  "updated_at_afisaj": "9 mai 2026, 11:28",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,65 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 137,
+  "numar_stiri": 133,
   "stiri": [
+    {
+      "id": "aae3a8e9133a",
+      "titlu": "Arteta Mobilizează Arsenal pentru Weekendul Decisiv din Premier League",
+      "rezumat": "Antrenorul lui Arsenal, Mikel Arteta, a transmis un mesaj de mobilizare jucătorilor și fanilor, în contextul în care cursa pentru titlul din Premier League se apropie de final. Arteta a subliniat importanța de a rămâne concentrați și de a trăi momentul, îndemnând echipa să își canalizeze energia în mod corect pentru ultimele etape. Declarațiile vin înaintea meciului crucial cu West Ham de duminică, într-un efort de a menține presiunea în lupta pentru campionat și de a ignora criticile externe.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-09T08:28:52.994964+00:00",
+      "data_afisaj": "9 mai 2026, 11:28"
+    },
+    {
+      "id": "0d596f987748",
+      "titlu": "Real Madrid, în Pragul unui Al Doilea Sezon Fără Trofee, Marcat de Conflicte Interne",
+      "rezumat": "Clubul iconic Real Madrid traversează o perioadă dificilă, fiind în pragul unui al doilea sezon consecutiv fără trofee majore. Rapoartele indică o săptămână tensionată, marcată de conflicte interne și haos la nivelul echipei. Un incident notabil a implicat vice-căpitanul, care a necesitat îngrijiri medicale după o altercație cu un coechipier la antrenament. Această situație tensionată vine înaintea unui meci crucial împotriva rivalilor de la Barcelona, care ar putea stinge definitiv speranțele la titlu și ar adânci criza de la Bernabeu.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-09T08:28:52.996684+00:00",
+      "data_afisaj": "9 mai 2026, 11:28"
+    },
+    {
+      "id": "5a9351000ffb",
+      "titlu": "Luis Suarez Nu Exclude o Revenire la Naționala Uruguayului pentru Cupa Mondială",
+      "rezumat": "Atacantul uruguayan Luis Suarez a declarat că nu ar refuza niciodată o convocare la echipa națională a Uruguayului, în cazul în care ar fi nevoie de serviciile sale pentru Cupa Mondială. Această afirmație vine în contextul speculațiilor privind viitorul său internațional, sugerând că, în ciuda vârstei, Suarez rămâne deschis la posibilitatea de a reprezenta țara sa la cel mai înalt nivel. Decizia finală ar depinde de nevoile selecționerului și de forma sa sportivă la momentul respectiv, însă angajamentul său față de națională rămâne puternic.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-09T08:28:52.998262+00:00",
+      "data_afisaj": "9 mai 2026, 11:28"
+    },
+    {
+      "id": "7448aafcc4d3",
+      "titlu": "West Ham, Amenințată cu Retrogradarea, la Zece Ani După Declarațiile Ambițioase ale Președintelui",
+      "rezumat": "West Ham United se confruntă cu o amenințare serioasă de retrogradare, la un deceniu după ce președintele clubului, David Sullivan, a declarat că mutarea pe Stadionul Olimpic din Londra demonstra statutul de \"club mare\" al echipei. Sullivan afirmase în 2017 că mutarea era menită să arate că West Ham nu este un \"club mic\", atrăgând jucători de calibru. Situația actuală contrastează puternic cu acele ambiții, punând sub semnul întrebării direcția clubului și eficacitatea deciziilor strategice pe termen lung.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-09T08:28:53+00:00",
+      "data_afisaj": "9 mai 2026, 11:28"
+    },
+    {
+      "id": "bc0b8c7da3d7",
+      "titlu": "FIFA a Luat o Decizie Crucială Privind Eligibilitatea lui Moises Caicedo pentru Cupa Mondială 2026",
+      "rezumat": "Federația Internațională de Fotbal (FIFA) a anunțat o decizie importantă referitoare la eligibilitatea mijlocașului Moises Caicedo pentru participarea la Cupa Mondială din 2026. Această hotărâre are implicații imediate și semnificative pentru naționalele Ecuadorului și Argentinei, afectând potențial compoziția loturilor și strategiile viitoare. Detaliile specifice ale deciziei nu au fost încă făcute publice, dar impactul asupra ambelor federații și a jucătorului însuși este considerabil, având în vedere importanța competiției.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-05-09T08:28:53.001775+00:00",
+      "data_afisaj": "9 mai 2026, 11:28"
+    },
     {
       "id": "5970b10b86df",
       "titlu": "Startul Playoff-urilor Championship: Hull City vs Millwall în Semifinale",
@@ -1473,111 +1530,6 @@
       ],
       "data_publicare": "2026-05-02T10:13:16.301146+00:00",
       "data_afisaj": "2 mai 2026, 13:13"
-    },
-    {
-      "id": "af3dac6efee3",
-      "titlu": "Leeds United vs. Burnley: Meci live din Premier League",
-      "rezumat": "Urmăriți actualizări în direct de la partida din Premier League dintre Leeds United și Burnley, care a început la ora 22:00, ora României. Meciul este crucial pentru ambele echipe în contextul clasamentului actual. Leeds a început partida de la dreapta la stânga, iar fanii așteaptă o confruntare intensă. Această transmisiune oferă detalii minut cu minut despre desfășurarea jocului, inclusiv faze cheie și evenimente importante de pe teren, menținând publicul la curent cu evoluția scorului și a jocului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-01T20:13:28.676315+00:00",
-      "data_afisaj": "1 mai 2026, 23:13"
-    },
-    {
-      "id": "673c38367cee",
-      "titlu": "Mykhailo Mudryk, suspendat în secret pentru dopaj: Detalii și implicații",
-      "rezumat": "Aripa lui Chelsea, Mykhailo Mudryk, face apel împotriva unei suspendări de patru ani pentru dopaj, un proces care a fost ținut secret până acum. Articolul explorează motivele pentru care procedura a fost confidențială și ce urmează pentru jucătorul ucrainean. Această situație ridică semne de întrebare despre transparența în cazurile de dopaj din fotbal și despre impactul asupra carierei lui Mudryk și a clubului Chelsea, care se confruntă cu o situație delicată.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-01T20:13:28.677139+00:00",
-      "data_afisaj": "1 mai 2026, 23:13"
-    },
-    {
-      "id": "7cba3e81f745",
-      "titlu": "Țările europene se așteaptă la pierderi financiare la Cupa Mondială, în ciuda creșterii fondului de premii",
-      "rezumat": "Mai multe țări europene de top anticipează că vor înregistra pierderi financiare la Cupa Mondială, chiar dacă FIFA a majorat fondul de premii și de participare cu 112 milioane de dolari. Costurile ridicate de călătorie și cazare depășesc plățile FIFA, iar federația gazdă principală, US Soccer, estimează, de asemenea, o pierdere operațională. Această situație subliniază provocările economice ale participării la un turneu de o asemenea anvergură, în ciuda beneficiilor sportive și de imagine.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-01T20:13:28.677980+00:00",
-      "data_afisaj": "1 mai 2026, 23:13"
-    },
-    {
-      "id": "510478401669",
-      "titlu": "FIFA intensifică vânzările de bilete de ospitalitate de lux pentru Cupa Mondială",
-      "rezumat": "FIFA își intensifică eforturile de a vinde pachete de ospitalitate de lux pentru Cupa Mondială, cu oferte încă disponibile pentru 102 din cele 104 meciuri ale turneului extins. Doar meciul Mexicului din Grupa A împotriva Coreei de Sud și o partidă din optimile de finală, așteptată să includă Spania, nu mai au disponibilitate. O nouă categorie, „suite essentials”, a fost adăugată, reflectând o reevaluare a veniturilor și o strategie de maximizare a profiturilor din eveniment.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-01T20:13:28.678734+00:00",
-      "data_afisaj": "1 mai 2026, 23:13"
-    },
-    {
-      "id": "29a1775bd680",
-      "titlu": "Victoria uimitoare a lui Leicester în Premier League, rememorată la 10 ani de la triumf",
-      "rezumat": "La zece ani de la victoria surprinzătoare a lui Leicester City în Premier League, fostul antrenor Claudio Ranieri și foști jucători precum Wes Morgan și Marc Albrighton își amintesc de triumful cotat la 5.000 la 1. Articolul evocă momente cheie, inclusiv glumele de la antrenamente, fanii celebri și o petrecere de Crăciun la Copenhaga, care au contribuit la succesul echipei. Această retrospectivă subliniază spiritul pragmatic al lui Ranieri și credința jucătorilor într-o realizare specială și istorică.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-01T20:13:28.679573+00:00",
-      "data_afisaj": "1 mai 2026, 23:13"
-    },
-    {
-      "id": "65ae42da2720",
-      "titlu": "Lupta pentru promovare în Championship ajunge la apogeu în ultima etapă",
-      "rezumat": "Ipswich Town, Millwall și Middlesbrough se confruntă într-o bătălie intensă pentru promovarea în Premier League, în ultima zi a sezonului din Championship. Trei echipe luptă pentru un loc alături de Coventry în prima ligă, cu meciuri decisive programate sâmbătă la prânz. Fiecare club speră să obțină rezultatul necesar pentru a-și asigura ascensiunea în eșalonul superior al fotbalului englez, într-o zi plină de tensiune și emoție.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-05-01T19:57:31.437807+00:00",
-      "data_afisaj": "1 mai 2026, 22:57"
-    },
-    {
-      "id": "1f14963c0e44",
-      "titlu": "Arsenal Women vizează o finală istorică în Liga Campionilor",
-      "rezumat": "Echipa feminină Arsenal se pregătește să devină primul club britanic care ajunge în două finale europene consecutive, în timp ce se deplasează în Franța pentru returul semifinalei Ligii Campionilor împotriva echipei OL Lyonnes. Cu un avantaj de 2-1 obținut în prima manșă, formația antrenată de Renée Slegers speră să repete performanța din sezonul trecut și să-și asigure un loc în marea finală, marcând un moment important pentru fotbalul feminin britanic.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-01T19:57:31.438548+00:00",
-      "data_afisaj": "1 mai 2026, 22:57"
-    },
-    {
-      "id": "87edde2f2321",
-      "titlu": "Finală dramatică în WSL2 pentru locurile de promovare în Women's Super League",
-      "rezumat": "Trei echipe – Charlton, Birmingham și Crystal Palace – se luptă pentru cele două locuri de promovare automată în Women's Super League, într-o ultimă etapă plină de dramatism. Cu doar un punct diferență între ele și cu două dintre echipe confruntându-se direct, deznodământul sezonului din WSL2 promite emoții intense. Cluburile visează la un loc în prima ligă feminină, într-un sezon cu reguli speciale de promovare, aducând o miză uriașă pe teren.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-05-01T19:57:31.439390+00:00",
-      "data_afisaj": "1 mai 2026, 22:57"
-    },
-    {
-      "id": "78f07ee7de64",
-      "titlu": "Roberto De Zerbi de la Tottenham: „E ca și cum am plânge și am fi retrogradați”",
-      "rezumat": "Antrenorul lui Tottenham, Roberto de Zerbi, a susținut un monolog emoționant, îndemnând echipa să „reducă la tăcere vocea din interiorul nostru” în lupta clubului pentru a evita retrogradarea din Premier League. Declarațiile sale subliniază presiunea și starea de spirit din vestiar, în contextul unei situații dificile în campionat. De Zerbi încearcă să remotiveze jucătorii pentru a depăși momentul critic și a asigura rămânerea în prima ligă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-01T19:57:31.440199+00:00",
-      "data_afisaj": "1 mai 2026, 22:57"
     }
   ]
 }
