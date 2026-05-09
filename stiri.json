@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-09T09:19:29.598757+00:00",
-  "updated_at_afisaj": "9 mai 2026, 12:19",
+  "updated_at": "2026-05-09T16:59:56.583786+00:00",
+  "updated_at_afisaj": "9 mai 2026, 19:59",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,54 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 138,
+  "numar_stiri": 132,
   "stiri": [
+    {
+      "id": "d701927ff57f",
+      "titlu": "Arne Slot, Antrenorul lui Liverpool, Vizează Recâștigarea Încrederii Fanilor",
+      "rezumat": "Antrenorul lui Liverpool, Arne Slot, a recunoscut că nu va putea recâștiga sprijinul total al fanilor în acest sezon, după huiduielile de pe Anfield de sâmbătă. Cu toate acestea, Slot s-a declarat încrezător că va reuși să restabilească încrederea suporterilor după încheierea ferestrei de transferuri din vară, sugerând o schimbare de strategie și de lot pentru a aduce rezultatele dorite și a îmbunătăți performanțele echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-09T16:59:56.576633+00:00",
+      "data_afisaj": "9 mai 2026, 19:59"
+    },
+    {
+      "id": "df9debd60d8d",
+      "titlu": "Bournemouth Își Consolidează Ambițiile Europene cu o Victorie Crucială Împotriva lui Fulham",
+      "rezumat": "Bournemouth a făcut un pas important spre calificarea în competițiile europene, învingând Fulham cu 1-0 într-un meci tensionat, în care ambele echipe au terminat cu câte zece jucători. Golul decisiv, marcat de Rayan, a venit într-un moment de calm pe fondul unei partide intense. Această victorie extinde seria remarcabilă de 16 meciuri fără înfrângere a lui Bournemouth, în timp ce pentru Fulham, înfrângerea ridică semne de întrebare privind direcția viitoare a clubului și contractul antrenorului Marco Silva.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-09T16:59:56.578480+00:00",
+      "data_afisaj": "9 mai 2026, 19:59"
+    },
+    {
+      "id": "fde56ed70c98",
+      "titlu": "Middlesbrough și Southampton, Egal în Prima Manșă a Semifinalei de Playoff Championship",
+      "rezumat": "Middlesbrough și Southampton au încheiat la egalitate, scor 0-0, prima manșă a semifinalei de playoff din Championship. Rezultatul lasă calificarea în finală deschisă pentru retur, ambele echipe având șanse egale de a avansa. Meciul a fost unul echilibrat, fără goluri, subliniind importanța partidei decisive care va urma pentru a determina cine va lupta pentru promovarea în Premier League. Tensiunile au fost amplificate de acuzațiile de spionaj dinaintea meciului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-09T16:59:56.580245+00:00",
+      "data_afisaj": "9 mai 2026, 19:59"
+    },
+    {
+      "id": "dbf5d06b989c",
+      "titlu": "Manchester United Ratează Șansa de a-și Asigura Locul Trei în Premier League",
+      "rezumat": "Manchester United nu a reușit să-și asigure locul trei în clasamentul Premier League, după ce a remizat 0-0 împotriva lui Sunderland. Echipa antrenată de Michael Carrick, care a avut o serie impresionantă de victorii de la preluarea interimară a conducerii, a arătat o lipsă de fluență în joc, în ciuda celor cinci modificări aduse în echipă. Acest rezultat reprezintă o reamintire a provocărilor cu care se confruntă United în efortul de a redeveni o forță majoră în fotbalul englez.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-09T16:59:56.582013+00:00",
+      "data_afisaj": "9 mai 2026, 19:59"
+    },
     {
       "id": "39d1acbb8a6a",
       "titlu": "Borussia Dortmund Își Asigură Locul Doi în Bundesliga După o Victorie Dramatică",
@@ -1474,117 +1520,6 @@
       ],
       "data_publicare": "2026-05-02T18:38:00.053176+00:00",
       "data_afisaj": "2 mai 2026, 21:38"
-    },
-    {
-      "id": "3763e5699aba",
-      "titlu": "Charlton, o surpriză în lupta pentru titlul din WSL 2",
-      "rezumat": "Echipa feminină Charlton Athletic a devenit o candidată neașteptată la titlul din WSL 2, intrând în ultima etapă a sezonului de pe prima poziție. Performanța lor a surprins mulți observatori, având în vedere că puțini îi considerau favoriți la începutul campaniei. Clubul se pregătește acum pentru o zi decisivă, în care va încerca să își asigure promovarea în Women's Super League, sfidând așteptările inițiale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-02T10:39:11.044487+00:00",
-      "data_afisaj": "2 mai 2026, 13:39"
-    },
-    {
-      "id": "432a65ff5eac",
-      "titlu": "Viitorul lui Kai Havertz la Arsenal, incert după un sezon marcat de accidentări",
-      "rezumat": "Atacantul german Kai Havertz a avut un sezon la Arsenal puternic afectat de accidentări, ceea ce a limitat semnificativ contribuția sa pe teren. Clubul nu a putut conta pe serviciile sale în mod constant, iar acum se ridică întrebări cu privire la viitorul său la echipă. Se analizează ce perspective are jucătorul și cum va evolua situația sa la Arsenal în perioada următoare, având în vedere provocările fizice întâmpinate.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-02T10:39:11.045465+00:00",
-      "data_afisaj": "2 mai 2026, 13:39"
-    },
-    {
-      "id": "d9065af700f0",
-      "titlu": "SPFL susține Celtic în disputa privind alocarea biletelor pentru derby-ul Old Firm",
-      "rezumat": "Liga Profesionistă Scoțiană de Fotbal (SPFL) a anunțat că susține decizia clubului Celtic în legătură cu alocarea biletelor pentru fani înaintea ultimei confruntări Old Firm din acest sezon împotriva rivalilor de la Rangers. Această hotărâre vine în contextul unei dispute privind numărul de bilete disponibile pentru suporterii echipei oaspete, o problemă recurentă în derby-urile scoțiene. Decizia SPFL confirmă poziția Celtic în această chestiune sensibilă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-02T10:39:11.046401+00:00",
-      "data_afisaj": "2 mai 2026, 13:39"
-    },
-    {
-      "id": "713442684d68",
-      "titlu": "Roy Hodgson, la 78 de ani: „Am demonstrat că sunt încă un manager capabil”",
-      "rezumat": "Antrenorul interimar al echipei Bristol City, Roy Hodgson, a declarat că a reușit să-și demonstreze sieși, la vârsta de 78 de ani, că este încă un manager de succes. Afirmația vine după o perioadă în care Hodgson a preluat conducerea tehnică a clubului, consolidându-și reputația de tehnician experimentat și capabil să obțină rezultate. Declarația subliniază încrederea sa în propriile abilități, în ciuda vârstei înaintate.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-02T10:39:11.047335+00:00",
-      "data_afisaj": "2 mai 2026, 13:39"
-    },
-    {
-      "id": "a5b2bb8f882f",
-      "titlu": "Olivia Rodrigo, pe tricoul Barcelonei pentru El Clasico",
-      "rezumat": "Artista Olivia Rodrigo va fi prezentă pe tricourile echipei FC Barcelona în timpul meciului El Clasico, în cadrul unei inițiative de marketing realizate în parteneriat cu Spotify. Această colaborare inedită marchează o premieră pentru clubul catalan, care continuă să exploreze modalități creative de a-și promova partenerii și de a atrage atenția publicului tânăr. Fanii vor vedea logo-ul artistei pe echipamentul de joc al Barcelonei în confruntarea cu Real Madrid.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-05-02T10:39:11.048100+00:00",
-      "data_afisaj": "2 mai 2026, 13:39"
-    },
-    {
-      "id": "44f2ec623d45",
-      "titlu": "Mikel Arteta îndeamnă jucătorii Arsenal să se bucure de presiunea luptelor pentru titlu",
-      "rezumat": "Antrenorul lui Arsenal, Mikel Arteta, a declarat că echipa sa trebuie să „iubească” presiunea și zgomotul din finalul sezonului, având în vedere lupta pentru titlul din Premier League și Liga Campionilor. Arteta a subliniat importanța prospețimii jucătorilor, sugerând că aceasta a fost cheia pentru nivelul înalt demonstrat de Bayern Munchen și Paris Saint-Germain în semifinalele Ligii Campionilor. El crede că Arsenal poate ajunge „foarte aproape” de a câștiga primul titlu de campioană în 22 de ani.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-02T10:13:16.297625+00:00",
-      "data_afisaj": "2 mai 2026, 13:13"
-    },
-    {
-      "id": "0da4513f52d6",
-      "titlu": "Casemiro se pregătește de plecarea de la Manchester United",
-      "rezumat": "Mijlocașul brazilian Casemiro, în vârstă de 34 de ani, este așteptat să părăsească Old Trafford la finalul sezonului, după ce a avut o contribuție semnificativă la Manchester United. În ciuda îndoielilor inițiale, Casemiro a demonstrat o formă excelentă în acest sezon, fiind al doilea marcator al echipei cu nouă goluri și acumulând peste 2.400 de minute în 31 de meciuri ca titular. Plecarea sa marchează sfârșitul unei perioade în care a reușit să contrazică criticile.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-02T10:13:16.298464+00:00",
-      "data_afisaj": "2 mai 2026, 13:13"
-    },
-    {
-      "id": "b6b29ec1211c",
-      "titlu": "Frenkie de Jong despre decizia de a rămâne la Barcelona și experiența Cupei Mondiale",
-      "rezumat": "Mijlocașul Frenkie de Jong a vorbit despre decizia sa de a refuza plecarea de la Barcelona și despre experiența sa la Cupa Mondială. De Jong, cel mai vechi jucător al primei echipe și un căpitan regulat, a declarat că s-a simțit confortabil la clubul catalan, pe care l-a vizitat pentru prima dată în adolescență. El a doborât recent un record olandez la Barça și este la o victorie distanță de a câștiga al treilea titlu de campion cu echipa.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-02T10:13:16.299358+00:00",
-      "data_afisaj": "2 mai 2026, 13:13"
-    },
-    {
-      "id": "8a79ad43a594",
-      "titlu": "Brighton construiește un stadion dedicat exclusiv fotbalului feminin",
-      "rezumat": "Clubul Brighton & Hove Albion construiește un stadion special conceput pentru echipa sa feminină, un proiect care subliniază angajamentul clubului față de egalitatea în sport. Această inițiativă este considerată un pas important în dezvoltarea infrastructurii pentru fotbalul feminin și reflectă mesajul de \"un singur club\" promovat de Brighton. Proiectul ar putea reprezenta o premieră în Europa, oferind condiții optime pentru creșterea și performanța echipei feminine.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-05-02T10:13:16.300222+00:00",
-      "data_afisaj": "2 mai 2026, 13:13"
-    },
-    {
-      "id": "55f1e243c55f",
-      "titlu": "Liverpool se bazează pe Alexander Isak și Florian Wirtz în absența lui Mohamed Salah",
-      "rezumat": "În contextul absenței lui Mohamed Salah, Liverpool își îndreaptă atenția către alți jucători pentru a prelua responsabilitatea ofensivă. Alexander Isak și Florian Wirtz sunt vizați să devină piloni importanți în atacul echipei. Această schimbare de strategie vine într-un moment crucial al sezonului, iar performanțele celor doi jucători vor fi sub o presiune intensă, având în vedere necesitatea de a compensa golurile și influența starului egiptean.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-02T10:13:16.301146+00:00",
-      "data_afisaj": "2 mai 2026, 13:13"
     }
   ]
 }
