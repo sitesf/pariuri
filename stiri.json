@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-10T09:28:23.040952+00:00",
-  "updated_at_afisaj": "10 mai 2026, 12:28",
+  "updated_at": "2026-05-10T17:00:42.693224+00:00",
+  "updated_at_afisaj": "10 mai 2026, 20:00",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 138,
+  "numar_stiri": 133,
   "stiri": [
+    {
+      "id": "02481195d6ab",
+      "titlu": "Brighton se Califică în Finala Cupei Angliei Feminine După o Victorie Dramatică Împotriva lui Liverpool",
+      "rezumat": "Echipa feminină Brighton a reușit o revenire spectaculoasă, învingând Liverpool cu 3-2 în semifinalele Cupei Angliei Feminine. Nadine Noordam a marcat golul victoriei în minutul 95, după ce Brighton a fost condusă cu 2-0. Această calificare marchează o premieră istorică pentru clubul Brighton, care va juca prima sa finală majoră în istoria echipei feminine pe Wembley. Antrenorul Dario Vidosic a avut o premoniție a victoriei, simțind că golul decisiv este iminent, confirmând o performanță memorabilă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-10T17:00:42.685841+00:00",
+      "data_afisaj": "10 mai 2026, 20:00"
+    },
+    {
+      "id": "5c07668f7b64",
+      "titlu": "Hansi Flick Va Conduce Barcelona în El Clasico, În Ciuda Decesului Tatălui Său",
+      "rezumat": "Antrenorul Barcelonei, Hansi Flick, va fi prezent pe banca tehnică pentru meciul El Clasico de duminică împotriva rivalei Real Madrid, în ciuda tragicului eveniment al decesului tatălui său. Decizia subliniază angajamentul lui Flick față de echipă într-un moment crucial al sezonului, în care Barcelona se luptă pentru titlul din La Liga. Prezența sa este considerată un factor important pentru moralul jucătorilor înaintea confruntării decisive, demonstrând profesionalism și dedicare în fața unei pierderi personale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-10T17:00:42.687725+00:00",
+      "data_afisaj": "10 mai 2026, 20:00"
+    },
+    {
+      "id": "be9fcd5e0a6f",
+      "titlu": "Mai Multe Cluburi din Championship Suspectează Southampton de Spionaj",
+      "rezumat": "După acuzațiile inițiale ale lui Middlesbrough, mai multe cluburi din Championship și-au exprimat temerile că ar fi putut fi, de asemenea, ținte ale spionajului din partea echipei Southampton. Liga Engleză de Fotbal a deschis o anchetă pentru comportament necorespunzător, după ce un membru al staff-ului lui Southampton ar fi fost prins filmând și înregistrând sesiuni de antrenament ale adversarilor. Scandalul \"Spygate\" se extinde, ridicând întrebări serioase despre etica sportivă și integritatea competiției în ligă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-10T17:00:42.689396+00:00",
+      "data_afisaj": "10 mai 2026, 20:00"
+    },
+    {
+      "id": "88897c2007eb",
+      "titlu": "Meciurile Cupei Mondiale FIFA din SUA, Sub Amenințare Teroristă Crescută",
+      "rezumat": "Experții în securitate avertizează că meciurile Cupei Mondiale FIFA, programate să aibă loc în Statele Unite, se confruntă cu riscuri teroriste sporite. Această amenințare este amplificată de conflictul dintre SUA și Israel cu Iranul, precum și de o diminuare a expertizei în contraterorism în cadrul agențiilor federale. Cea mai mare vulnerabilitate provine de la extremiștii violenți autohtoni, adesea actori singulari, ceea ce complică eforturile de securitate pentru cele 78 de meciuri din 11 orașe gazdă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-10T17:00:42.691198+00:00",
+      "data_afisaj": "10 mai 2026, 20:00"
+    },
+    {
+      "id": "d15cf72bfe80",
+      "titlu": "Celtic Învinge Rangers în Derby-ul Old Firm și Pune Presiune pe Hearts în Lupta pentru Titlu",
+      "rezumat": "Celtic a obținut o victorie crucială împotriva rivalei Rangers în derby-ul Old Firm, un rezultat care reduce diferența față de liderul Hearts la doar un punct în Premiership-ul Scoțian. Performanța remarcabilă a lui Daizen Maeda a fost decisivă, consolidând optimismul fanilor Celtic privind păstrarea titlului. Această înfrângere pune sub semnul întrebării viitorul antrenorului lui Rangers, Danny Röhl, și intensifică lupta pentru supremație în campionatul scoțian, promițând un final de sezon tensionat.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-10T17:00:42.693202+00:00",
+      "data_afisaj": "10 mai 2026, 20:00"
+    },
     {
       "id": "e70f0a3bb354",
       "titlu": "Hearts Obține un Punct Crucial în Lupta pentru Titlul din Premiership-ul Scoțian",
@@ -1472,117 +1527,6 @@
       ],
       "data_publicare": "2026-05-03T18:38:54.491200+00:00",
       "data_afisaj": "3 mai 2026, 21:38"
-    },
-    {
-      "id": "5ac22dd1662c",
-      "titlu": "Wrexham analizează sezonul: Oportunitate ratată în Championship?",
-      "rezumat": "După ce a încheiat sezonul pe locul șapte în Championship, clubul Wrexham își evaluează performanța din campania 2025-26. BBC Sport analizează dacă echipa consideră acest sezon o oportunitate ratată de a obține un rezultat mai bun sau chiar de a lupta pentru promovare. Articolul explorează așteptările inițiale ale clubului, susținut de proprietari celebri, și le compară cu rezultatele finale, oferind o perspectivă asupra direcției viitoare și a strategiilor necesare pentru a-și atinge obiectivele ambițioase.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-03T11:08:47.015947+00:00",
-      "data_afisaj": "3 mai 2026, 14:08"
-    },
-    {
-      "id": "61323ede7799",
-      "titlu": "Antrenorul lui Leyton Orient, Richie Wellens, critică sezonul echipei, deși a evitat retrogradarea",
-      "rezumat": "Managerul echipei Leyton Orient, Richie Wellens, a avut o reacție vehementă, descriind sezonul clubului drept 'rușinos' și 'irosit', în ciuda faptului că echipa a reușit să evite retrogradarea. Declarațiile sale vin după ce Leyton Orient a asigurat menținerea în ligă, dar performanța generală a lăsat de dorit. Wellens a subliniat frustrarea sa față de lipsa de progres și de obiectivele nerealizate pe parcursul campaniei, cerând o schimbare de atitudine și performanță pentru viitor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-05-03T11:08:47.017323+00:00",
-      "data_afisaj": "3 mai 2026, 14:08"
-    },
-    {
-      "id": "e9f2b1c2ccf6",
-      "titlu": "Viitorul antrenorilor Iraola și Glasner, sub semnul întrebării: Manageri de mijloc sau viitori lideri la cluburi mari?",
-      "rezumat": "O analiză a viitorului antrenorilor Andoni Iraola (Bournemouth) și Oliver Glasner (Crystal Palace) ridică întrebări despre potențialul lor de a prelua echipe de top. Ambii tehnicieni sunt la final de contract la sfârșitul sezonului și speră să avanseze în carieră. Articolul explorează dacă aceștia sunt destinați să rămână manageri de cluburi de mijloc sau dacă au calitățile necesare pentru a conduce echipe cu ambiții mai mari, având în vedere performanțele lor recente și provocările viitoare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-03T11:08:47.018744+00:00",
-      "data_afisaj": "3 mai 2026, 14:08"
-    },
-    {
-      "id": "89801236689a",
-      "titlu": "Peter Crouch susține o posibilă mutare a lui Robert Lewandowski la Liverpool",
-      "rezumat": "Fostul atacant al lui Liverpool, Peter Crouch, a declarat că Robert Lewandowski ar fi o achiziție 'fantastică' pentru clubul de pe Anfield. Crouch a lăudat calitățile de atacant de clasă mondială ale polonezului, recunoscând totodată că vârsta sa avansată ar putea fi un factor. Această declarație alimentează speculațiile privind un potențial transfer al lui Lewandowski la Liverpool, aducând o perspectivă interesantă din partea unei figuri cunoscute în fotbalul englez și stârnind dezbateri printre fani.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-05-03T11:08:47.019942+00:00",
-      "data_afisaj": "3 mai 2026, 14:08"
-    },
-    {
-      "id": "d65550441f5e",
-      "titlu": "Morgan Rogers (Aston Villa) vorbește despre provocările depășite în drumul său spre Premier League",
-      "rezumat": "Jucătorul de la Aston Villa, Morgan Rogers, a împărtășit experiențele sale legate de momentele dificile și perioadele întunecate din cariera sa, subliniind că acestea fac parte din fotbal. Rogers a trecut prin mai multe împrumuturi înainte de a se impune în Premier League, iar mărturisirile sale oferă o perspectivă asupra perseverenței necesare pentru a ajunge la cel mai înalt nivel. Povestea sa este o inspirație pentru tinerii fotbaliști care se confruntă cu obstacole în parcursul lor, demonstrând importanța rezilienței.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-05-03T11:08:47.021320+00:00",
-      "data_afisaj": "3 mai 2026, 14:08"
-    },
-    {
-      "id": "56c628c65573",
-      "titlu": "Watford l-a demis pe antrenorul Ed Still după mai puțin de trei luni",
-      "rezumat": "Clubul Watford a anunțat demiterea antrenorului principal Ed Still, la doar trei luni de la preluarea funcției. Decizia vine după un final dezamăgitor de sezon în Championship, în care echipa nu a reușit să se califice în play-off. Still, în vârstă de 35 de ani, a fost al 11-lea antrenor permanent al lui Watford de la sfârșitul sezonului 2020-2021, fiind numit în februarie după demisia lui Javi Gracia. Această schimbare subliniază instabilitatea managerială a clubului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-03T10:34:37.026434+00:00",
-      "data_afisaj": "3 mai 2026, 13:34"
-    },
-    {
-      "id": "e424eb036409",
-      "titlu": "Barcelona, la un pas de titlul La Liga după victoria cu Osasuna",
-      "rezumat": "FC Barcelona este aproape de a-și asigura titlul în La Liga, după o victorie cu 2-1 împotriva Osasunei, obținută prin golurile târzii ale lui Robert Lewandowski și Ferran Torres. Cu patru etape înainte de final, Barça are 88 de puncte, cu 14 mai multe decât Real Madrid, care are un meci mai puțin. Catalanii pot fi confirmați campioni duminică, dacă Real Madrid nu reușește să câștige meciul cu Espanyol. Acesta ar fi al doilea titlu consecutiv pentru Barcelona.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-03T10:34:37.027442+00:00",
-      "data_afisaj": "3 mai 2026, 13:34"
-    },
-    {
-      "id": "c8d40647c567",
-      "titlu": "Alexander Isak va rata meciul lui Liverpool cu Manchester United din cauza unei accidentări",
-      "rezumat": "Atacantul Alexander Isak va absenta din lotul lui Liverpool pentru deplasarea crucială pe terenul lui Manchester United, din cauza unei leziuni la inghinal. Această veste reprezintă o lovitură semnificativă pentru echipa lui Liverpool, având în vedere importanța meciului în lupta pentru obiectivele din Premier League. Absența lui Isak ar putea influența strategia antrenorului și opțiunile ofensive ale echipei în derby-ul cu rivalii de la Manchester United.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-05-03T10:34:37.028505+00:00",
-      "data_afisaj": "3 mai 2026, 13:34"
-    },
-    {
-      "id": "386dde2c5139",
-      "titlu": "Cât ar costa fanii englezi și scoțieni să participe la Cupa Mondială?",
-      "rezumat": "O analiză recentă a dezvăluit costurile semnificative pe care fanii din Anglia și Scoția ar trebui să le suporte pentru a participa la Cupa Mondială. Prețurile ridicate ale biletelor, cazarea scumpă și tarifele la transportul feroviar mult peste cele obișnuite contribuie la o cheltuială considerabilă. Cei care doresc să-și rezerve o călătorie la turneul final se confruntă cu provocări financiare majore, reflectând costul tot mai mare al evenimentelor sportive internaționale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-03T10:34:37.029519+00:00",
-      "data_afisaj": "3 mai 2026, 13:34"
-    },
-    {
-      "id": "93dec4f65755",
-      "titlu": "Viktor Gyokeres, atacantul de 20 de goluri al lui Arsenal, își demonstrează valoarea",
-      "rezumat": "Viktor Gyokeres a confirmat așteptările la Arsenal, atingând pragul de 20 de goluri într-un sezon, o performanță considerată esențială pentru ambițiile de titlu ale clubului. Înainte de începerea campaniei, se discuta intens despre necesitatea unui atacant prolific pentru a câștiga un trofeu, iar Gyokeres a reușit să răspundă acestei cerințe. Contribuția sa ofensivă a fost crucială pentru parcursul echipei, demonstrând că este un jucător capabil să facă diferența în momentele cheie ale sezonului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-03T10:34:37.030582+00:00",
-      "data_afisaj": "3 mai 2026, 13:34"
     }
   ]
 }
