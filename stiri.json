@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-09T17:43:33.431292+00:00",
-  "updated_at_afisaj": "9 mai 2026, 20:43",
+  "updated_at": "2026-05-10T08:57:04.963255+00:00",
+  "updated_at_afisaj": "10 mai 2026, 11:57",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 137,
+  "numar_stiri": 133,
   "stiri": [
+    {
+      "id": "f8a61435e98e",
+      "titlu": "Thomas Tuchel, antrenorul Angliei la Cupa Mondială",
+      "rezumat": "Antrenorul german Thomas Tuchel se pregătește să conducă naționala Angliei la Cupa Mondială din această vară. Această numire este considerată o mișcare strategică importantă pentru echipa națională, având în vedere experiența și palmaresul lui Tuchel la nivel de club. Fostul antrenor al lui Chelsea și PSG va avea sarcina de a maximiza potențialul jucătorilor englezi într-o competiție majoră, unde așteptările sunt ridicate. Decizia subliniază încrederea în capacitatea sa de a gestiona presiunea și de a aduce succesul pe scena internațională.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-05-10T08:57:04.956351+00:00",
+      "data_afisaj": "10 mai 2026, 11:57"
+    },
+    {
+      "id": "12ef2f504bf2",
+      "titlu": "Mesajul lui Pep Guardiola înainte de meciul West Ham - Arsenal",
+      "rezumat": "Antrenorul lui Manchester City, Pep Guardiola, a încheiat conferința de presă cu un mesaj clar și amuzant înainte de deplasarea lui Arsenal la West Ham. Declarația sa, 'Haideți, Ciocănarilor!', a fost interpretată ca o modalitate de a pune presiune pe rivala la titlu, Arsenal, și de a-și arăta susținerea pentru West Ham în meciul direct. Acest gest subliniază intensitatea luptei pentru titlu din Premier League și rivalitatea dintre cele două cluburi de top.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-10T08:57:04.958083+00:00",
+      "data_afisaj": "10 mai 2026, 11:57"
+    },
+    {
+      "id": "702b1de6abb4",
+      "titlu": "Derby-ul de la Praga, abandonat după ce fanii au invadat terenul",
+      "rezumat": "Derby-ul dintre Slavia Praga și Sparta Praga a fost abandonat sâmbătă, după ce sute de fani ai echipei gazdă au invadat terenul în ultimele minute ale meciului. Incidentul a avut loc în timp ce Slavia conducea cu 3-2 și era la doar câteva secunde distanță de a-și asigura titlul în liga cehă. Suporterii au forțat barierele de securitate și au pătruns pe teren, unii dintre ei purtând torțe aprinse și alergând spre jucători. Portarul Spartei, Surovcik, a anunțat că va iniția acțiuni legale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-10T08:57:04.959779+00:00",
+      "data_afisaj": "10 mai 2026, 11:57"
+    },
+    {
+      "id": "8c06d027825c",
+      "titlu": "El Clasico decisiv: Barcelona vizează titlul pe fondul tensiunilor de la Real Madrid",
+      "rezumat": "Barcelona va găzdui Real Madrid în al doilea El Clasico al sezonului, într-o încercare de a-și asigura al doilea titlu consecutiv în La Liga. Meciul vine într-un moment de criză pentru Real Madrid, marcat de conflicte interne și rezultate sub așteptări. Rivalitatea intensă dintre cele două cluburi promite un spectacol fără menajamente, Barcelona căutând să profite de situația adversarilor pentru a-și consolida poziția în fruntea clasamentului și a obține o victorie crucială în lupta pentru titlu.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-10T08:57:04.961552+00:00",
+      "data_afisaj": "10 mai 2026, 11:57"
+    },
+    {
+      "id": "5b8643e8c6f0",
+      "titlu": "Manchester United se confruntă cu dificultăți în înlocuirea lui Casemiro",
+      "rezumat": "Manchester United a eșuat să câștige niciunul dintre cele patru meciuri din Premier League în care Casemiro nu a fost titular în acest sezon. Această statistică ridică semne de întrebare cu privire la capacitatea echipei de a-l înlocui pe mijlocașul brazilian, în contextul unei posibile plecări a acestuia în vară. Michael Carrick, antrenorul interimar, trebuie să găsească soluții pentru a compensa absența sa, subliniind dependența clubului de experiența și calitatea lui Casemiro în linia mediană.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-10T08:57:04.963236+00:00",
+      "data_afisaj": "10 mai 2026, 11:57"
+    },
     {
       "id": "2db056b8841a",
       "titlu": "Manchester City Continuă Presiunea în Lupta pentru Titlu în Premier League",
@@ -1471,112 +1527,6 @@
       ],
       "data_publicare": "2026-05-03T10:34:37.030582+00:00",
       "data_afisaj": "3 mai 2026, 13:34"
-    },
-    {
-      "id": "f80bb370827a",
-      "titlu": "Arsenal Feminin, eliminată din Liga Campionilor de Lyon, după un gol târziu",
-      "rezumat": "Echipa feminină Arsenal a fost eliminată din Liga Campionilor de către OL Lyonnes, după o înfrângere cu scorul general de 4-3 în semifinale. Golul decisiv a fost marcat târziu de Jule Brand, punând capăt apărării titlului de către Arsenal. Meciul retur din Franța a fost unul intens, cu implicarea VAR, iar Lyonnes va juca a 12-a sa finală europeană, extinzându-și propriul record. Antrenoarea Renée Slegers a recunoscut superioritatea echipei adverse.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-02T19:58:18.995291+00:00",
-      "data_afisaj": "2 mai 2026, 22:58"
-    },
-    {
-      "id": "fa76bc8a2b18",
-      "titlu": "Newcastle United pune capăt seriei de înfrângeri cu o victorie împotriva lui Brighton",
-      "rezumat": "Newcastle United a obținut o victorie crucială cu 3-1 împotriva lui Brighton la St. James' Park, punând capăt unei serii de înfrângeri care dura din luna martie. Această victorie reprezintă un impuls important pentru antrenorul Eddie Howe. În ciuda pregătirii fizice intense a jucătorilor lui Brighton, care au inclus antrenamente cu un luptător de MMA, strategia nu a funcționat conform așteptărilor, iar Newcastle a reușit să se impună.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-02T19:58:18.996453+00:00",
-      "data_afisaj": "2 mai 2026, 22:58"
-    },
-    {
-      "id": "1861708c2707",
-      "titlu": "Cartonaș roșu controversat pentru Dan Ballard la egalul dintre Wolves și Sunderland",
-      "rezumat": "Fundașul Dan Ballard de la Sunderland a fost eliminat pentru o tragere de păr asupra lui Tolu Arokodare în timpul egalului 1-1 cu Wolves în Premier League. Decizia arbitrului Paul Tierney a fost considerată \"greu de digerat\" de către antrenorul lui Sunderland, Régis Le Bris, deoarece echipa sa a trebuit să joace cu 10 oameni mai mult de o oră. Incidentul a afectat speranțele lui Sunderland de a obține un loc în competițiile europene.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-02T19:58:18.997543+00:00",
-      "data_afisaj": "2 mai 2026, 22:58"
-    },
-    {
-      "id": "e74adefdf429",
-      "titlu": "PSG și Bayern Munchen, egaluri în campionat înainte de returul semifinalei Ligii Campionilor",
-      "rezumat": "Paris Saint-Germain și Bayern Munchen au înregistrat rezultate de egalitate în meciurile lor de campionat, înaintea returului semifinalei Ligii Campionilor. PSG a remizat 2-2 cu Lorient în Ligue 1, după ce a condus de două ori, folosind o echipă secundă. Bayern Munchen a obținut un egal spectaculos, 3-3 cu Heidenheim, după o revenire târzie. Aceste rezultate vin ca o încălzire pentru confruntarea decisivă din Liga Campionilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-02T19:58:18.998700+00:00",
-      "data_afisaj": "2 mai 2026, 22:58"
-    },
-    {
-      "id": "76faf6c3005c",
-      "titlu": "Programul play-off-urilor EFL pentru Championship, League One și League Two a fost confirmat",
-      "rezumat": "English Football League (EFL) a anunțat oficial datele pentru meciurile de play-off din sezoanele 2025/2026 ale Sky Bet Championship, League One și League Two. Programul include semifinalele și finalele, care vor determina echipele promovate în diviziile superioare. Această confirmare oferă claritate cluburilor și fanilor cu privire la etapele decisive ale luptei pentru promovare în fotbalul englez.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-05-02T19:58:18.999877+00:00",
-      "data_afisaj": "2 mai 2026, 22:58"
-    },
-    {
-      "id": "b0ef662a75bc",
-      "titlu": "West Ham pierde la Brentford, deschizând calea pentru Tottenham să iasă din zona retrogradării",
-      "rezumat": "West Ham United a suferit o înfrângere categorică, scor 3-0, în deplasarea de la Brentford, un rezultat care complică situația echipei în clasamentul Premier League. Această înfrângere oferă rivalei Tottenham Hotspur o șansă importantă de a se distanța de zona retrogradării, punând presiune suplimentară pe 'Ciocănari' în ultimele etape ale campionatului. Echipa lui Nuno Espirito Santo trebuie să reacționeze rapid pentru a-și asigura supraviețuirea în prima ligă engleză.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-02T18:38:00.050096+00:00",
-      "data_afisaj": "2 mai 2026, 21:38"
-    },
-    {
-      "id": "ce9c7f34c548",
-      "titlu": "Tragedie la Galați: Tatăl fotbalistului Dragoș Huiban a decedat pe stadion",
-      "rezumat": "Comunitatea fotbalistică din România este în doliu după ce tatăl jucătorului Dragoș Huiban de la Oțelul Galați a decedat pe stadionul din oraș. Incidentul tragic a avut loc în timpul unui eveniment sportiv, provocând o undă de șoc și tristețe. Clubul Oțelul Galați a transmis un mesaj de condoleanțe familiei îndoliate, exprimându-și sprijinul în aceste momente dificile. Detaliile exacte ale cauzei decesului nu au fost încă făcute publice, dar evenimentul a marcat profund echipa și suporterii.",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-05-02T18:38:00.051135+00:00",
-      "data_afisaj": "2 mai 2026, 21:38"
-    },
-    {
-      "id": "63a1c4bd6bfe",
-      "titlu": "Arsenal se distanțează la șase puncte în fruntea Premier League după victoria cu Fulham",
-      "rezumat": "Arsenal a obținut o victorie convingătoare cu 3-0 împotriva lui Fulham, consolidându-și poziția de lider în Premier League. Echipa a reușit să se distanțeze la șase puncte de Manchester City, principalul său urmăritor, și și-a îmbunătățit semnificativ golaverajul. Bukayo Saka și Viktor Gyokeres au fost printre marcatorii serii, contribuind decisiv la succesul 'Tunarilor'. Acest rezultat crucial menține presiunea pe City în lupta pentru titlu și sporește încrederea echipei lui Arteta.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-02T18:38:00.052191+00:00",
-      "data_afisaj": "2 mai 2026, 21:38"
-    },
-    {
-      "id": "018c535d1055",
-      "titlu": "Ipswich Town a promovat în Premier League după o victorie categorică",
-      "rezumat": "Ipswich Town a revenit în Premier League după o absență îndelungată, asigurându-și promovarea printr-o victorie impresionantă împotriva echipei QPR. Două goluri rapide au eliminat orice urmă de emoție, transformând partida într-o sărbătoare pentru fani. Echipa antrenată de Kieran McKenna a demonstrat o formă excelentă pe parcursul sezonului, iar succesul de astăzi confirmă ascensiunea clubului. Suporterii au invadat terenul la finalul meciului pentru a celebra alături de jucători această performanță remarcabilă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-02T18:38:00.053176+00:00",
-      "data_afisaj": "2 mai 2026, 21:38"
     }
   ]
 }
