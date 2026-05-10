@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-10T08:57:04.963255+00:00",
-  "updated_at_afisaj": "10 mai 2026, 11:57",
+  "updated_at": "2026-05-10T09:28:23.040952+00:00",
+  "updated_at_afisaj": "10 mai 2026, 12:28",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 133,
+  "numar_stiri": 138,
   "stiri": [
+    {
+      "id": "e70f0a3bb354",
+      "titlu": "Hearts Obține un Punct Crucial în Lupta pentru Titlul din Premiership-ul Scoțian",
+      "rezumat": "Echipa Hearts a reușit să obțină un punct important într-un meci intens împotriva lui Motherwell, menținându-se în fruntea clasamentului Scottish Premiership cu o singură etapă înainte de final. Echipa a revenit după ce a fost condusă, Lawrence Shankland egalând înainte de pauză, într-o partidă care a reflectat intensitatea și dramatismul cursei pentru titlu din acest sezon.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-10T09:28:23.033559+00:00",
+      "data_afisaj": "10 mai 2026, 12:28"
+    },
+    {
+      "id": "88ce3906190a",
+      "titlu": "Scandal de Spionaj în Playoff-ul Championship: Middlesbrough Acuză Southampton de „Înșelăciune”",
+      "rezumat": "Tensiunile au escaladat în playoff-ul Championship, după ce managerul lui Middlesbrough, Kim Hellberg, a acuzat Southampton de „înșelăciune”. Acuzațiile vizează un analist al lui Southampton care ar fi spionat o sesiune de antrenament a lui Middlesbrough. Managerul Southampton, Tonda Eckert, a refuzat să comenteze, părăsind conferința de presă, ceea ce a adâncit controversa.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-10T09:28:23.035582+00:00",
+      "data_afisaj": "10 mai 2026, 12:28"
+    },
+    {
+      "id": "87f7263ca7ff",
+      "titlu": "Viitorul lui Kieran Trippier la Newcastle United Rămâne Deschis",
+      "rezumat": "Fundașul lui Newcastle United, Kieran Trippier, are o abordare deschisă în privința următoarei sale mișcări în carieră. Jucătorul se concentrează pe încheierea cu succes a perioadei petrecute la St James' Park, în timp ce speculațiile privind viitorul său continuă să apară. Decizia finală privind rămânerea sau plecarea sa de la club nu a fost încă anunțată, lăsând loc incertitudinii.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-10T09:28:23.037336+00:00",
+      "data_afisaj": "10 mai 2026, 12:28"
+    },
+    {
+      "id": "3f463af95a10",
+      "titlu": "Premier League Domină Competițiile Europene de Nivel Inferior",
+      "rezumat": "Calificările echipelor Aston Villa și Crystal Palace în finale europene reprezintă realizări istorice, dar și un simptom al unei tendințe îngrijorătoare. Articolul analizează modul în care cluburile din Premier League, prin resursele lor financiare, încep să domine competițiile UEFA de nivel inferior, ridicând întrebări despre echilibrul și valoarea acestora în peisajul fotbalistic european.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-10T09:28:23.039059+00:00",
+      "data_afisaj": "10 mai 2026, 12:28"
+    },
+    {
+      "id": "d3c9a866de8f",
+      "titlu": "Ascensiunea lui Moise Bombito și Provocările Dezvoltării Tinerilor Jucători în Canada",
+      "rezumat": "Articolul analizează ascensiunea fundașului central canadian Moise Bombito, evidențiind în același timp deficiențele sistemului de dezvoltare a tinerilor jucători din Canada. Povestea lui Bombito, care a ajuns la echipa națională după ce a terminat pe locul patru la Copa America 2024, subliniază necesitatea unor îmbunătățiri în infrastructura de formare a talentelor pentru a asigura un viitor solid fotbalului canadian.",
+      "categorie": "Fotbal",
+      "surse": [
+        "World Soccer"
+      ],
+      "data_publicare": "2026-05-10T09:28:23.040931+00:00",
+      "data_afisaj": "10 mai 2026, 12:28"
+    },
     {
       "id": "f8a61435e98e",
       "titlu": "Thomas Tuchel, antrenorul Angliei la Cupa Mondială",
