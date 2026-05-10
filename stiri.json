@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-10T17:00:42.693224+00:00",
-  "updated_at_afisaj": "10 mai 2026, 20:00",
+  "updated_at": "2026-05-10T17:44:06.036284+00:00",
+  "updated_at_afisaj": "10 mai 2026, 20:44",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,67 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 133,
+  "numar_stiri": 138,
   "stiri": [
+    {
+      "id": "0e3d0bea104c",
+      "titlu": "Arsenal Câștigă la Limită Împotriva lui West Ham și Continuă Lupta pentru Titlu",
+      "rezumat": "Arsenal a obținut o victorie crucială cu scorul de 1-0 împotriva lui West Ham United, menținându-se în cursa pentru titlul din Premier League. Leandro Trossard a marcat golul decisiv în repriza a doua, asigurând cele trei puncte pentru echipa sa. Meciul a fost tensionat, cu o atmosferă vibrantă pe London Stadium. Echipa lui Mikel Arteta a trebuit să depună eforturi considerabile pentru a obține victoria, însă a suferit și o pierdere importantă, Ben White fiind nevoit să părăsească terenul din cauza unei accidentări.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "The Guardian Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-10T17:44:06.028686+00:00",
+      "data_afisaj": "10 mai 2026, 20:44"
+    },
+    {
+      "id": "9280f474ae06",
+      "titlu": "Khadija Shaw Propulsează Manchester City în Finala Cupei Angliei Feminine, Eliminând Chelsea",
+      "rezumat": "Khadija Shaw a fost eroina lui Manchester City în semifinala dramatică a Cupei Angliei Feminine, marcând golul egalizator în prelungiri și apoi golul victoriei împotriva lui Chelsea. City a revenit de la un deficit de două goluri pe Stamford Bridge, asigurându-și un loc în finala competiției, unde va întâlni Brighton. Performanța lui Shaw vine pe fondul speculațiilor privind plecarea sa de la Manchester City, cu Chelsea fiind printre cluburile interesate de serviciile golgheterei din Women's Super League.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-10T17:44:06.030721+00:00",
+      "data_afisaj": "10 mai 2026, 20:44"
+    },
+    {
+      "id": "9b5c1c1982af",
+      "titlu": "Hearts și Celtic Își Asigură Locurile în Calificările Ligii Campionilor",
+      "rezumat": "Hearts va participa în preliminariile Ligii Campionilor pentru prima dată în ultimii 20 de ani, o performanță notabilă pentru clubul scoțian. Această realizare vine după ce Celtic și-a asigurat, de asemenea, un loc în primele două poziții ale Premiership-ului Scoțian, în urma victoriei înregistrate împotriva rivalei Rangers. Ambele echipe își vor reprezenta țara în cea mai prestigioasă competiție europeană intercluburi în sezonul viitor, consolidându-și pozițiile în fotbalul scoțian.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-10T17:44:06.032506+00:00",
+      "data_afisaj": "10 mai 2026, 20:44"
+    },
+    {
+      "id": "1024575e00de",
+      "titlu": "Jucătorii Debutanți la Cupa Mondială Vor Purta Embleme Speciale pe Tricouri",
+      "rezumat": "Toți jucătorii care își vor face prima apariție la turneul final al Cupei Mondiale FIFA din această vară vor purta o emblemă specială de debut pe tricourile lor. Această inițiativă are scopul de a marca momentul important din cariera fiecărui fotbalist și de a oferi o piesă de colecție unică. Detaliile exacte ale designului emblemei nu au fost încă dezvăluite, dar se așteaptă să devină un simbol al participării la cel mai mare eveniment fotbalistic mondial, recunoscând contribuția noilor talente.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-10T17:44:06.034341+00:00",
+      "data_afisaj": "10 mai 2026, 20:44"
+    },
+    {
+      "id": "401a6dd06bd7",
+      "titlu": "Rochdale Revine în Football League După o Finală Dramatică Decisă la Penalty-uri",
+      "rezumat": "Rochdale a reușit să revină în Football League după o finală de playoff extrem de dramatică împotriva lui Boreham Wood, câștigată la loviturile de departajare cu 3-1, după ce scorul a fost 2-2 la finalul prelungirilor. Meciul a fost plin de suspans, cu răsturnări de situație și goluri marcate în ultimele minute. Această promovare reprezintă o realizare majoră pentru club, care a trecut printr-o perioadă dificilă, dar a reușit să-și îndeplinească obiectivul de a reveni în eșaloanele superioare ale fotbalului englez, spre bucuria fanilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-10T17:44:06.036265+00:00",
+      "data_afisaj": "10 mai 2026, 20:44"
+    },
     {
       "id": "02481195d6ab",
       "titlu": "Brighton se Califică în Finala Cupei Angliei Feminine După o Victorie Dramatică Împotriva lui Liverpool",
