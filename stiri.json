@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-11T10:40:18.127569+00:00",
-  "updated_at_afisaj": "11 mai 2026, 13:40",
+  "updated_at": "2026-05-11T11:19:18.029309+00:00",
+  "updated_at_afisaj": "11 mai 2026, 14:19",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 134,
+  "numar_stiri": 139,
   "stiri": [
+    {
+      "id": "72648dee7364",
+      "titlu": "West Ham Va Contacta Organismul Arbitrilor în Legătură cu Golul Anulat",
+      "rezumat": "Clubul West Ham United a anunțat că va lua legătura cu Professional Game Match Officials (PGMO), organismul responsabil cu arbitrajul în fotbalul englez, pentru a discuta despre golul anulat în meciul de duminică împotriva lui Arsenal. Egalarea târzie a fost invalidată de VAR, o decizie care a stârnit controverse intense și a influențat rezultatul partidei. Oficialii clubului londonez doresc clarificări și o analiză aprofundată a fazei, considerând că decizia a fost eronată și a afectat în mod direct șansele echipei în lupta pentru evitarea retrogradării.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-11T11:19:18.021446+00:00",
+      "data_afisaj": "11 mai 2026, 14:19"
+    },
+    {
+      "id": "585094aa29a2",
+      "titlu": "Premier League se Confruntă cu o Problemă Evidentă Legată de Faulturile de Ținere în Suprafața de Pedeapsă",
+      "rezumat": "Decizia de a anula golul egalizator al lui West Ham împotriva lui Arsenal a readus în prim-plan o problemă recurentă în Premier League: faulturile de ținere în careu. Deși plângerile lui West Ham ar putea să nu aibă un impact major asupra rezultatului, devine tot mai clar că fotbalul englez trebuie să abordeze serios modul în care arbitrii și sistemul VAR gestionează aceste situații. Există o nevoie stringentă de claritate și consecvență în aplicarea regulamentului, pentru a evita controversele și a asigura un joc echitabil.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-11T11:19:18.023540+00:00",
+      "data_afisaj": "11 mai 2026, 14:19"
+    },
+    {
+      "id": "ee28c0677ec4",
+      "titlu": "Liverpool Dezvăluie Imagini cu Memorialul „Forever 20” Dedicat lui Diogo Jota și André Silva",
+      "rezumat": "Clubul Liverpool a publicat imagini cu memorialul permanent care va fi dezvelit pe Anfield, în memoria lui Diogo Jota și a fratelui său, André Silva. Intitulat „Forever 20”, monumentul include o sculptură în formă de inimă, inspirată de celebrarea golurilor lui Jota, și numerele 20 și 30, numerele de pe tricourile celor doi frați, vizibile din unghiuri diferite. Memorialul va fi amplasat pe 97 Avenue la Anfield și va include versuri ale unui cântec, aducând un omagiu emoționant celor doi, care au decedat într-un accident de mașină în iulie anul trecut.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-11T11:19:18.025607+00:00",
+      "data_afisaj": "11 mai 2026, 14:19"
+    },
+    {
+      "id": "fdb0a2636ae3",
+      "titlu": "Anderson Marchează Egalizatorul Târziu, Nottingham Forest se Apropie de Salvare",
+      "rezumat": "Elliot Anderson a marcat un gol crucial împotriva fostului său club, Newcastle United, asigurând un egal de 1-1 pentru Nottingham Forest. Acest rezultat oferă echipei un avans de șapte puncte față de zona retrogradării din Premier League, consolidându-le poziția în clasament. Golul, venit în momentele de final ale partidei, a fost vital pentru ambițiile lui Forest de a-și asigura menținerea în prima ligă, aducând un punct prețios într-o luptă strânsă pentru supraviețuire.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-11T11:19:18.027513+00:00",
+      "data_afisaj": "11 mai 2026, 14:19"
+    },
+    {
+      "id": "6a2542ab16c1",
+      "titlu": "Când Poate Arsenal Câștiga Titlul în Premier League?",
+      "rezumat": "După victoria la limită împotriva lui West Ham, Arsenal s-a distanțat la cinci puncte în fruntea clasamentului Premier League, intensificând speculațiile privind momentul în care ar putea securiza titlul. Echipa lui Mikel Arteta continuă să pună presiune în cursa pentru campionat, iar fanii și analiștii calculează scenariile posibile. Fiecare meci rămas devine crucial, iar performanțele constante ale \"Tunarilor\" îi aduc tot mai aproape de mult-așteptatul trofeu, transformând fiecare etapă într-un pas decisiv spre obiectiv.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-05-11T11:19:18.029286+00:00",
+      "data_afisaj": "11 mai 2026, 14:19"
+    },
     {
       "id": "6e52636ebaa0",
       "titlu": "Barcelona Câștigă Titlul La Liga După Victoria în El Clasico",
