@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-10T17:44:06.036284+00:00",
-  "updated_at_afisaj": "10 mai 2026, 20:44",
+  "updated_at": "2026-05-11T10:40:18.127569+00:00",
+  "updated_at_afisaj": "11 mai 2026, 13:40",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 138,
+  "numar_stiri": 134,
   "stiri": [
+    {
+      "id": "6e52636ebaa0",
+      "titlu": "Barcelona Câștigă Titlul La Liga După Victoria în El Clasico",
+      "rezumat": "FC Barcelona a învins Real Madrid în El Clasico, asigurându-și al doilea titlu consecutiv în La Liga. Un gol marcat de Marcus Rashford a contribuit decisiv la victoria catalanilor, care au dominat partida împotriva rivalilor lor de moarte. Această performanță subliniază consistența echipei și capacitatea de a gestiona presiunea în momentele cheie ale sezonului. Victoria în derby-ul spaniol a declanșat sărbătoarea pentru fanii Barcelonei, consolidând poziția clubului în fruntea fotbalului spaniol.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-11T10:40:18.120196+00:00",
+      "data_afisaj": "11 mai 2026, 13:40"
+    },
+    {
+      "id": "b58a7f428fb3",
+      "titlu": "Analiza Succesului lui Hansi Flick la Barcelona în Cucerirea Titlului La Liga",
+      "rezumat": "Antrenorul Hansi Flick a reușit să ghideze FC Barcelona către al doilea titlu consecutiv în La Liga, implementând un nou stil de joc care a transformat echipa. Articolul detaliază strategiile și deciziile tactice ale tehnicianului german, explicând cum a reușit să remodeleze lotul și să obțină performanțe constante. Această analiză oferă o perspectivă asupra metodelor lui Flick și a modului în care a consolidat dominația Barcelonei în campionatul spaniol, depășind așteptările inițiale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-11T10:40:18.121995+00:00",
+      "data_afisaj": "11 mai 2026, 13:40"
+    },
+    {
+      "id": "6ddeb90752c1",
+      "titlu": "Amploarea Reconstrucției la Rangers Sub Conducerea lui Danny Rohl",
+      "rezumat": "Managerul Danny Rohl se confruntă cu o provocare majoră de reconstrucție la Rangers în această vară, după ce echipa a încheiat sezonul pe locul trei în Premiership-ul scoțian. Jurnalistul Kheredine Idessane subliniază necesitatea unor schimbări rapide și a unor lecții învățate din performanța sub așteptări. Articolul explorează amploarea transformărilor necesare în lot și în strategia clubului pentru a reveni în lupta pentru titlu și a-și consolida poziția în fotbalul scoțian.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-11T10:40:18.123725+00:00",
+      "data_afisaj": "11 mai 2026, 13:40"
+    },
+    {
+      "id": "f62c681e81b0",
+      "titlu": "Prețurile Biletelor la Cupa Mondială pentru Familiile Jucătorilor Stârnesc Controverse",
+      "rezumat": "Mai multe federații de fotbal și-au exprimat consternarea față de creșterea semnificativă a prețurilor biletelor la Cupa Mondială, destinate familiilor și invitaților jucătorilor. Costul mediu al unui bilet ar fi ajuns la 3.000 de dolari, conform rapoartelor. FIFA susține că termenii și condițiile de vânzare au fost comunicate clar, însă modelul de prețuri dinamice a afectat echipele participante. Această situație ridică semne de întrebare privind accesibilitatea și echitatea pentru apropiații sportivilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-11T10:40:18.125556+00:00",
+      "data_afisaj": "11 mai 2026, 13:40"
+    },
+    {
+      "id": "ccd60d41cf8a",
+      "titlu": "PSG, la un Pas de Cucerirea Titlului în Ligue 1 După Victoria Târzie Împotriva lui Brest",
+      "rezumat": "Paris Saint-Germain este la un singur punct distanță de a-și asigura al cincilea titlu consecutiv în Ligue 1, după o victorie dramatică cu 1-0 împotriva lui Brest. Désiré Doué, intrat de pe bancă, a marcat golul decisiv în minutul 82, aducând echipa lui Luis Enrique la 73 de puncte, cu șase puncte avans față de Lens, ocupanta locului doi, și cu un golaveraj mult superior. PSG are nevoie de un singur punct din ultimele două meciuri pentru a-și confirma dominația în campionatul francez.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-11T10:40:18.127549+00:00",
+      "data_afisaj": "11 mai 2026, 13:40"
+    },
     {
       "id": "0e3d0bea104c",
       "titlu": "Arsenal Câștigă la Limită Împotriva lui West Ham și Continuă Lupta pentru Titlu",
@@ -1479,113 +1535,6 @@
       ],
       "data_publicare": "2026-05-04T12:15:52.964387+00:00",
       "data_afisaj": "4 mai 2026, 15:15"
-    },
-    {
-      "id": "5c12cfe156b4",
-      "titlu": "Manchester City, aproape de titlul în WSL după o victorie dramatică împotriva lui Liverpool",
-      "rezumat": "Manchester City este aproape de câștigarea titlului în Women's Super League (WSL) după o victorie dramatică, scor 1-0, împotriva lui Liverpool. Rebecca Knaak a marcat golul decisiv în prelungiri, asigurând cele trei puncte pentru echipa sa. Cu o singură etapă rămasă, City a acumulat 52 de puncte și este la o distanță de nouă puncte față de Chelsea, ocupanta locului doi, care urmează să joace împotriva lui Leicester. Acest rezultat plasează Manchester City într-o poziție dominantă pentru a-și adjudeca trofeul.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-03T19:58:24.969505+00:00",
-      "data_afisaj": "3 mai 2026, 22:58"
-    },
-    {
-      "id": "5a741fc40740",
-      "titlu": "Andy Robertson, despre posibilitatea de a egala recordul de selecții al lui Kenny Dalglish",
-      "rezumat": "Fundașul lui Liverpool și căpitanul Scoției, Andy Robertson, a reflectat asupra perspectivei de a egala recordul de selecții al legendarului Kenny Dalglish pentru echipa națională. Robertson a declarat că este \"ireal\" să fie în discuția de a ajunge la numărul de apariții al celui considerat cel mai mare jucător scoțian din toate timpurile. El se află la mai puțin de zece meciuri distanță de a atinge această bornă semnificativă, o realizare care subliniază importanța sa pentru ambele echipe.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-05-03T19:58:24.970950+00:00",
-      "data_afisaj": "3 mai 2026, 22:58"
-    },
-    {
-      "id": "c9dd8badd218",
-      "titlu": "Eddie Howe va rămâne antrenor la Newcastle după discuțiile cu conducerea clubului",
-      "rezumat": "Antrenorul principal Eddie Howe este pregătit să rămână la conducerea echipei Newcastle United și în sezonul viitor. Această decizie vine în urma unor discuții cu conducerea clubului, reprezentată de proprietarii saudiți. Confirmarea continuității lui Howe la cârma echipei aduce stabilitate și claritate în planurile de viitor ale clubului, care își propune să își consolideze poziția în Premier League și să continue dezvoltarea sub îndrumarea sa.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-03T19:58:24.972745+00:00",
-      "data_afisaj": "3 mai 2026, 22:58"
-    },
-    {
-      "id": "47bac615c813",
-      "titlu": "Bukayo Saka, în formă maximă, readuce speranța lui Arsenal în lupta pentru titlu",
-      "rezumat": "Revenirea în formă excelentă a lui Bukayo Saka a reaprins speranțele lui Arsenal în lupta pentru titlul din Premier League. Contribuția decisivă a atacantului a subliniat rolul său crucial pentru echipa lui Mikel Arteta în încercarea de a depăși Manchester City. Fostul jucător al lui Arsenal, Robert Pires, a remarcat importanța revenirii lui Saka, care a fost un spectator frustrat în timp ce se recupera după o accidentare la tendonul lui Ahile. Prezența sa pe teren aduce un plus de încredere și forță ofensivă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-03T19:58:24.974160+00:00",
-      "data_afisaj": "3 mai 2026, 22:58"
-    },
-    {
-      "id": "b6698a491f16",
-      "titlu": "Sir Alex Ferguson, transportat la spital înainte de meciul Manchester United - Liverpool",
-      "rezumat": "Legendarul antrenor Sir Alex Ferguson a fost transportat la spital duminică, după ce s-a simțit rău pe Old Trafford, cu puțin timp înainte de meciul de Premier League dintre Manchester United și Liverpool. Internarea a avut loc ca măsură de precauție, iar starea sa de sănătate este monitorizată. Incidentul a stârnit îngrijorare în rândul comunității fotbalistice, având în vedere importanța sa istorică pentru club și sport în general. Detaliile complete despre starea sa nu au fost încă publicate.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-05-03T18:38:54.485904+00:00",
-      "data_afisaj": "3 mai 2026, 21:38"
-    },
-    {
-      "id": "c2640d7d41f6",
-      "titlu": "Manchester United învinge Liverpool și își asigură calificarea în Liga Campionilor",
-      "rezumat": "Manchester United a obținut o victorie dramatică, scor 3-2, împotriva rivalilor de la Liverpool pe Old Trafford, într-un meci epic din Premier League. Golul decisiv a fost marcat de Kobbie Mainoo în minutul 75, asigurând astfel \"Diavolilor Roșii\" un loc în viitoarea ediție a Ligii Campionilor. Antrenorul Michael Carrick a descris performanța echipei ca fiind o \"realizare adevărată\", având în vedere presiunea și importanța partidei. Victoria consolidează poziția lui United în topul clasamentului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football",
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-03T18:38:54.487241+00:00",
-      "data_afisaj": "3 mai 2026, 21:38"
-    },
-    {
-      "id": "eeb82e5adac9",
-      "titlu": "Inter Milano, la un pas de titlul în Serie A după înfrângerea lui AC Milan",
-      "rezumat": "Inter Milano este foarte aproape de a-și asigura titlul în Serie A, după ce rivala AC Milan a suferit o înfrângere surprinzătoare, scor 0-2, în fața echipei Sassuolo. Acest rezultat a spulberat ultimele speranțe ale lui Milan de a mai prinde liderul. Inter are acum nevoie de doar un punct din meciul cu Parma pentru a fi încoronată campioană pentru a 21-a oară în istoria sa. Situația creează o atmosferă de anticipare pentru fanii nerazzurri.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-03T18:38:54.488553+00:00",
-      "data_afisaj": "3 mai 2026, 21:38"
-    },
-    {
-      "id": "fa79493fc509",
-      "titlu": "Celtic egalează Hearts în clasamentul Scottish Premiership după victoria cu Hibernian",
-      "rezumat": "Celtic a reușit să egaleze la puncte liderul Hearts în clasamentul Scottish Premiership, în urma unei victorii cu 10 jucători de la Hibernian. Kelechi Iheanacho, intrat pe parcurs, a fost eroul meciului, marcând golul decisiv. Antrenorul interimar al lui Celtic, Martin O'Neill, a subliniat că echipa sa are în continuare o \"marjă mică de eroare\" în lupta pentru titlu, sugerând că fiecare meci rămas este crucial. Competiția pentru titlu rămâne intensă în Scoția.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football",
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-03T18:38:54.489822+00:00",
-      "data_afisaj": "3 mai 2026, 21:38"
-    },
-    {
-      "id": "008d4aa63cbf",
-      "titlu": "Chelsea își asigură locul în Liga Campionilor Feminin și Sam Kerr stabilește un nou record",
-      "rezumat": "Chelsea a obținut calificarea în Liga Campionilor Feminin pentru sezonul viitor, după o victorie convingătoare cu 3-1 împotriva lui Leicester City în Women's Super League. În timpul acestui meci, atacanta australiană Sam Kerr a stabilit un nou record pentru club, devenind cea mai bună marcatoare din istoria lui Chelsea în WSL, cu 64 de goluri, depășind-o pe Fran Kirby. Această performanță subliniază dominația lui Chelsea în fotbalul feminin englez și european.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-05-03T18:38:54.491200+00:00",
-      "data_afisaj": "3 mai 2026, 21:38"
     }
   ]
 }
