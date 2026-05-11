@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-11T11:19:18.029309+00:00",
-  "updated_at_afisaj": "11 mai 2026, 14:19",
+  "updated_at": "2026-05-11T17:58:30.073839+00:00",
+  "updated_at_afisaj": "11 mai 2026, 20:58",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,55 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 139,
+  "numar_stiri": 130,
   "stiri": [
+    {
+      "id": "8d390013dc08",
+      "titlu": "Golul anulat al lui West Ham împotriva lui Arsenal a fost corect, conform analizei",
+      "rezumat": "Decizia VAR de a anula golul lui West Ham împotriva lui Arsenal, care a stârnit controverse, a fost analizată și considerată corectă. Incidentul, care a implicat o busculadă la un corner și multiple contacte, a fost un exemplu al complexității deciziilor din fotbalul modern. Această decizie a avut un impact semnificativ asupra luptei pentru titlu din Premier League, consolidând poziția lui Arsenal și generând discuții aprinse despre rolul VAR în meciurile decisive.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-11T17:58:30.067145+00:00",
+      "data_afisaj": "11 mai 2026, 20:58"
+    },
+    {
+      "id": "6929a175adf9",
+      "titlu": "Jose Mourinho, tot mai aproape de Real Madrid; Benfica pregătește un plan de urgență",
+      "rezumat": "Zvonurile indică o probabilitate crescută ca Jose Mourinho să revină la Real Madrid în calitate de antrenor principal. Această mutare ar declanșa un plan de urgență la Benfica, care îl are pe Mourinho sub contract până în septembrie. Clubul portughez ar viza pe Marco Silva de la Fulham ca potențial înlocuitor, în cazul în care antrenorul portughez ar părăsi echipa pentru a prelua din nou frâiele gigantului spaniol, o decizie care ar reconfigura peisajul managerial european.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-11T17:58:30.069086+00:00",
+      "data_afisaj": "11 mai 2026, 20:58"
+    },
+    {
+      "id": "4daf60519208",
+      "titlu": "Chelsea intensifică căutarea noului antrenor principal, cu Xabi Alonso pe lista scurtă",
+      "rezumat": "Clubul Chelsea a început să contacteze potențiali candidați pentru postul de antrenor principal permanent, cu intenția de a finaliza numirea înainte de Cupa Mondială. Printre numele vehiculate pe lista scurtă se numără Andoni Iraola, Marco Silva și Xabi Alonso, acesta din urmă fiind considerat o prioritate. Căutarea intensificată subliniază dorința clubului de a asigura stabilitatea la conducerea tehnică și de a construi o echipă competitivă pentru sezoanele viitoare, după o perioadă de incertitudine.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-11T17:58:30.070896+00:00",
+      "data_afisaj": "11 mai 2026, 20:58"
+    },
+    {
+      "id": "cd6c8dc76207",
+      "titlu": "Edin Dzeko, aproape să se alăture listei selecte a jucătorilor de peste 40 de ani la Cupa Mondială",
+      "rezumat": "Fostul atacant al lui Manchester City, Edin Dzeko, este pe cale să devină unul dintre puținii jucători care vor evolua la o Cupă Mondială la vârsta de peste 40 de ani. Această performanță ar reprezenta o bornă remarcabilă în cariera sa longevivă și ar sublinia rezistența și dedicarea sa la cel mai înalt nivel al fotbalului internațional. Dzeko, originar din Bosnia, continuă să fie o figură influentă în fotbalul european, demonstrând o formă fizică și mentală excepțională la o vârstă avansată.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-11T17:58:30.073817+00:00",
+      "data_afisaj": "11 mai 2026, 20:58"
+    },
     {
       "id": "72648dee7364",
       "titlu": "West Ham Va Contacta Organismul Arbitrilor în Legătură cu Golul Anulat",
@@ -1443,154 +1490,6 @@
       ],
       "data_publicare": "2026-05-04T18:11:50.512662+00:00",
       "data_afisaj": "4 mai 2026, 21:11"
-    },
-    {
-      "id": "ef0782846304",
-      "titlu": "Hurzeler acceptă un nou acord pe termen lung cu Brighton",
-      "rezumat": "Fabian Hurzeler își prelungește șederea ca antrenor la Brighton după ce a acceptat un nou contract pe termen lung.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-05-04T17:44:22.991451+00:00",
-      "data_afisaj": "4 mai 2026, 20:44"
-    },
-    {
-      "id": "35172575b44a",
-      "titlu": "„Nu există sentiment mai bun decât să mergi la un Campionat Mondial, să intri pe teren înainte de un meci, să vezi toți fanii Angliei acolo și să știi că întreaga lume privește” De ce Jordan Pickford excelează pentru Three Lions",
-      "rezumat": "Numărul 1 al Angliei se pregătește pentru al cincilea său turneu internațional major",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-05-04T17:44:22.993724+00:00",
-      "data_afisaj": "4 mai 2026, 20:44"
-    },
-    {
-      "id": "a66f9e778577",
-      "titlu": "Benfica lui Mourinho încă neînvinsă - dar ratează titlul",
-      "rezumat": "Benfica lui Jose Mourinho ar putea încheia un sezon întreg neînvinsă - dar acest lucru nu va fi suficient pentru a aduce clubului al 39-lea titlu de campioană a Portugaliei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-04T17:44:22.995090+00:00",
-      "data_afisaj": "4 mai 2026, 20:44"
-    },
-    {
-      "id": "675a3e927408",
-      "titlu": "Cum De Zerbi a readus la viață pe Spurs, aflată în declin",
-      "rezumat": "Expertul în tactici de la BBC Sport, Umir Irfan, analizează cum Roberto de Zerbi a revigorat echipa Tottenham, aflată în dificultate în Premier League.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-04T17:44:22.996343+00:00",
-      "data_afisaj": "4 mai 2026, 20:44"
-    },
-    {
-      "id": "5d07a0ab947a",
-      "titlu": "Derry, 18 ani, de la Chelsea, transportat la spital după o accidentare la cap",
-      "rezumat": "Atacantul adolescent al lui Chelsea, Jesse Derry, este transportat la spital ca măsură de precauție după ce a suferit o accidentare la cap în înfrângerea de luni din Premier League împotriva lui Nottingham Forest.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-04T17:44:22.997687+00:00",
-      "data_afisaj": "4 mai 2026, 20:44"
-    },
-    {
-      "id": "e1176baa4da6",
-      "titlu": "Inter Milano câștigă al 21-lea titlu de campioană a Italiei, sub conducerea lui Christian Chivu",
-      "rezumat": "Internazionale Milano a fost încoronată campioana Italiei pentru a 21-a oară în istoria sa, după o victorie împotriva Parmei. Sub conducerea antrenorului Christian Chivu, echipa a dominat sezonul, asigurându-și Scudetto-ul chiar și fără a avea nevoie de o victorie în acest meci, având în vedere că rivalii săi au cedat pe parcursul primăverii. Această performanță marchează un succes notabil pentru club și pentru Chivu.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-04T13:14:58.553564+00:00",
-      "data_afisaj": "4 mai 2026, 16:14"
-    },
-    {
-      "id": "27268502dd75",
-      "titlu": "Real Madrid învinge Espanyol și amână sărbătoarea titlului pentru Barcelona",
-      "rezumat": "Real Madrid a obținut o victorie cu 2-0 împotriva echipei Espanyol, grație celor două goluri marcate de Vinicius Jr. Acest rezultat menține suspansul în lupta pentru titlul din La Liga, amânând momentul în care FC Barcelona ar putea fi declarată campioană. Victoria madrilenilor pune presiune pe rivalii catalani înaintea meciului El Clasico de săptămâna viitoare, asigurând că lupta pentru trofeu continuă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-04T13:14:58.554957+00:00",
-      "data_afisaj": "4 mai 2026, 16:14"
-    },
-    {
-      "id": "07f7a57ac40c",
-      "titlu": "Michael Carrick, așteptat să primească o ofertă de antrenor principal la Manchester United",
-      "rezumat": "Michael Carrick este așteptat să primească o ofertă pentru a continua ca antrenor principal la Manchester United, după ce a reușit să califice echipa în Liga Campionilor. Deși nu au existat discuții oficiale până acum, conducerea clubului a așteptat confirmarea calificării în competiția europeană de top înainte de a lua o decizie. Această mutare ar putea transforma rolul său interimar într-unul permanent.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-04T13:14:58.556370+00:00",
-      "data_afisaj": "4 mai 2026, 16:14"
-    },
-    {
-      "id": "4891d480023d",
-      "titlu": "Cluburile din EFL sunt nemulțumite după ce Sheffield Wednesday a evitat o penalizare de puncte",
-      "rezumat": "Liga de Fotbal Engleză (EFL) este așteptată să își revizuiască politicile de insolvență în urma preluării clubului Sheffield Wednesday. Nemulțumirea provine de la unele cluburi care consideră că Owls au evitat o penalizare de 15 puncte, în ciuda încălcării politicii convenite de ligă la ieșirea din administrare. Această situație a stârnit controverse și a determinat necesitatea unei reevaluări a regulamentelor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-05-04T13:14:58.557873+00:00",
-      "data_afisaj": "4 mai 2026, 16:14"
-    },
-    {
-      "id": "3f5b3967c663",
-      "titlu": "Arbitrul finalei controversate a Cupei Africii pe Națiuni va oficia finala Ligii Campionilor Africii",
-      "rezumat": "Jean-Jacques Ngambo Ndala, arbitrul din Republica Democratică Congo care a condus finala haotică a Cupei Africii pe Națiuni din ianuarie, în timpul căreia Senegal a părăsit terenul, a fost desemnat să oficieze prima manșă a finalei Ligii Campionilor Africii. Acesta va arbitra confruntarea dintre Mamelodi Sundowns din Africa de Sud și clubul marocan AS Far, o decizie care a stârnit discuții.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-04T13:14:58.559318+00:00",
-      "data_afisaj": "4 mai 2026, 16:14"
-    },
-    {
-      "id": "a5c44bec3dae",
-      "titlu": "Tottenham Hotspur iese din zona retrogradării după victoria cu Aston Villa",
-      "rezumat": "Tottenham Hotspur a reușit să se îndepărteze de zona retrogradării din Premier League, obținând o victorie convingătoare cu scorul de 2-1 împotriva lui Aston Villa. Acest rezultat crucial le permite \"Spurs\" să urce în clasament, oferind un impuls semnificativ în lupta pentru menținerea în prima ligă engleză. Performanța echipei a fost lăudată pentru determinarea arătată pe teren.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-04T12:15:52.961254+00:00",
-      "data_afisaj": "4 mai 2026, 15:15"
-    },
-    {
-      "id": "4b017545aa95",
-      "titlu": "Virgil van Dijk consideră sezonul lui Liverpool „inacceptabil”",
-      "rezumat": "Căpitanul lui Liverpool, Virgil van Dijk, a declarat că sezonul echipei sale a fost „inacceptabil”, după ce au înregistrat a 18-a înfrângere în toate competițiile. Fundașul olandez a subliniat necesitatea unor schimbări majore în vară pentru a evita repetarea unei astfel de performanțe. Declarația vine într-un moment dificil pentru club, care se confruntă cu provocări în asigurarea unui loc în topul clasamentului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-04T12:15:52.962641+00:00",
-      "data_afisaj": "4 mai 2026, 15:15"
-    },
-    {
-      "id": "f55b7bbc7a2a",
-      "titlu": "Echipă feminină de fotbal din Coreea de Nord, într-o vizită rară în Coreea de Sud",
-      "rezumat": "O echipă feminină de fotbal din Coreea de Nord va călători în Coreea de Sud luna aceasta, marcând prima vizită a unei delegații sportive nord-coreene în aproape opt ani. Clubul Naegohyang Women’s FC din Phenian va înfrunta echipa Suwon FC Women pe 20 mai, în semifinalele unei competiții, la complexul sportiv din Suwon. Această deplasare este considerată un eveniment rar, având în vedere relațiile tensionate dintre cele două țări.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-04T12:15:52.964387+00:00",
-      "data_afisaj": "4 mai 2026, 15:15"
     }
   ]
 }
