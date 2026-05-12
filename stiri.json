@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-12T09:45:19.355407+00:00",
-  "updated_at_afisaj": "12 mai 2026, 12:45",
+  "updated_at": "2026-05-12T10:32:03.502188+00:00",
+  "updated_at_afisaj": "12 mai 2026, 13:32",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,62 @@
   },
   "numar_stiri": 130,
   "stiri": [
+    {
+      "id": "26850e224a6a",
+      "titlu": "Southampton cere timp suplimentar pentru investigarea acuzațiilor de spionaj",
+      "rezumat": "Clubul Southampton a solicitat mai mult timp pentru a efectua o revizuire internă, după ce a fost acuzat de spionaj asupra rivalilor din play-off-ul Championship, Middlesbrough. Acuzațiile vin înaintea returului semifinalei de play-off, iar clubul dorește să stabilească întregul context înainte de a trage concluzii. Liga de Fotbal din Anglia a acuzat clubul de comportament necorespunzător, iar investigația internă este în curs de desfășurare pentru a clarifica situația.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-12T10:32:03.494905+00:00",
+      "data_afisaj": "12 mai 2026, 13:32"
+    },
+    {
+      "id": "31afa651d7e5",
+      "titlu": "FIFA se confruntă cu dificultăți în încheierea acordurilor TV pentru Cupa Mondială în China și India",
+      "rezumat": "Cu o lună înainte de startul turneului, FIFA nu a reușit încă să încheie acorduri de difuzare TV cu China și India, două piețe majore cu 2,7 miliarde de locuitori. Această situație reprezintă o provocare semnificativă pentru președintele Gianni Infantino, deoarece ar putea împiedica miliarde de fani să urmărească cele 104 meciuri ale Cupei Mondiale extinse. Negocierile continuă, dar timpul este scurt pentru a asigura acoperirea globală dorită.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-12T10:32:03.496842+00:00",
+      "data_afisaj": "12 mai 2026, 13:32"
+    },
+    {
+      "id": "fd841e8e2c75",
+      "titlu": "Accesibilitatea la Stadionul MetLife pentru Cupa Mondială 2026, o provocare pentru fani",
+      "rezumat": "Pe fondul creșterii prețului biletelor de tren de la 13 la 105 dolari pentru Cupa Mondială, mulți fani se întreabă dacă este posibil să ajungă pe jos la Stadionul MetLife din New York City. O investigație a relevat un traseu dificil de 4,5 ore, care se încheie cu rute pietonale blocate, sugerând că infrastructura americană nu este pregătită pentru a susține un aflux mare de pietoni. Aceasta ridică semne de întrebare privind experiența fanilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-12T10:32:03.498626+00:00",
+      "data_afisaj": "12 mai 2026, 13:32"
+    },
+    {
+      "id": "097f9f91650c",
+      "titlu": "Mauricio Pochettino va decide lotul SUA pentru Cupa Mondială 2026",
+      "rezumat": "În două săptămâni, selecționerul echipei naționale a Statelor Unite, Mauricio Pochettino, va anunța cei 26 de jucători care vor reprezenta țara la Cupa Mondială din această vară. De la preluarea funcției, Pochettino a utilizat 61 de jucători diferiți în cele 24 de meciuri, ceea ce face ca decizia finală să fie una dificilă, având în vedere lipsa unui nucleu clar cristalizat până în prezent. Așteptările sunt mari pentru selecția finală.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-12T10:32:03.500319+00:00",
+      "data_afisaj": "12 mai 2026, 13:32"
+    },
+    {
+      "id": "64d8bd53f0d3",
+      "titlu": "Fost oficial propune o schimbare majoră a regulilor pentru fazele fixe în Premier League",
+      "rezumat": "Un fost arbitru asistent din Premier League a propus o modificare drastică a regulilor privind fazele fixe, care ar avea un impact semnificativ asupra modului în care sunt executate și gestionate cornerele. Această propunere vine în contextul unei discuții mai ample despre drama generată de fazele fixe în sezonul actual al Premier League și ar putea schimba fundamental abordarea echipelor. Detaliile propunerii vizează reducerea numărului de faulturi în careu.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-05-12T10:32:03.502167+00:00",
+      "data_afisaj": "12 mai 2026, 13:32"
+    },
     {
       "id": "4a9b64d063b3",
       "titlu": "Penalty-ul lui Calvert-Lewin aduce un egal lui Leeds la Tottenham",
@@ -1435,61 +1491,6 @@
       ],
       "data_publicare": "2026-05-05T17:28:35.205082+00:00",
       "data_afisaj": "5 mai 2026, 20:28"
-    },
-    {
-      "id": "f086e1923f10",
-      "titlu": "„Teatrul pur pune inimile în pragul basmului titlului”",
-      "rezumat": "Scriitorul-șef de sport al BBC Scoția, Tom English, rezumă haosul și cacofonia victoriei lui Hearts asupra Rangers la Tynecastle.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-05T10:02:37.764788+00:00",
-      "data_afisaj": "5 mai 2026, 13:02"
-    },
-    {
-      "id": "6fa0ed81a4c9",
-      "titlu": "Forest speră în fitness-ul lui Gibbs-White pentru Europa cravată",
-      "rezumat": "Morgan-Gibbs White ar putea avea nevoie de un \"miracol\" pentru a fi pregătit pentru manșa secundă a semifinalelor Europa League a Nottingham Forest - dar antrenorul său principal Vitor Pereira este plin de speranță.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-05T10:02:37.766373+00:00",
-      "data_afisaj": "5 mai 2026, 13:02"
-    },
-    {
-      "id": "e8409323c44e",
-      "titlu": "Ce înseamnă eșecul Ligii Campionilor pentru „clubul spart” Chelsea",
-      "rezumat": "După o a șasea pierdere consecutivă în ligă, Chelsea este aproape sigur că va rata calificarea în Liga Campionilor - o lovitură amară care probabil va avea consecințe de amploare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-05T10:02:37.767917+00:00",
-      "data_afisaj": "5 mai 2026, 13:02"
-    },
-    {
-      "id": "9a2b3cce2fa7",
-      "titlu": "Adriano, Samba, R.Larcos - clasamentul celor mai emblematici fotbaliști de jocuri video",
-      "rezumat": "Fifa, Pro Evolution Soccer și Football Antrenor au fost printre cele mai populare jocuri video de fotbal - dar care sunt cei mai emblematici jucători din ele?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-05T10:02:37.769550+00:00",
-      "data_afisaj": "5 mai 2026, 13:02"
-    },
-    {
-      "id": "0e42f222bda4",
-      "titlu": "Speranțele pentru titlul lui Man City s-au stricat, în ciuda uimitoarei Doku întârziate în thrillerul cu șase goluri",
-      "rezumat": "Egalizarea lui Jeremy Doku în minutul 97 salvează un egal pentru Manchester City într-un thriller de șase goluri la Everton.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-05T10:02:37.771205+00:00",
-      "data_afisaj": "5 mai 2026, 13:02"
     }
   ]
 }
