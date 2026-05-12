@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-12T10:32:03.502188+00:00",
-  "updated_at_afisaj": "12 mai 2026, 13:32",
+  "updated_at": "2026-05-12T18:03:13.731550+00:00",
+  "updated_at_afisaj": "12 mai 2026, 21:03",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,67 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 130,
+  "numar_stiri": 131,
   "stiri": [
+    {
+      "id": "e05edee2d2af",
+      "titlu": "Fundașul Ben White de la Arsenal și Anglia ratează restul sezonului și Cupa Mondială",
+      "rezumat": "Fundașul englez Ben White, component al echipei Arsenal și al naționalei Angliei, va lipsi de pe teren pentru restul sezonului din cauza unei accidentări la genunchi. Această veste reprezintă o lovitură semnificativă atât pentru clubul său, care luptă pentru titlu, cât și pentru selecționata Angliei, deoarece jucătorul nu va putea participa la viitoarea Cupă Mondială. Absența sa va necesita ajustări tactice și va pune presiune pe ceilalți fundași ai echipei, într-o perioadă crucială.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-12T18:03:13.724780+00:00",
+      "data_afisaj": "12 mai 2026, 21:03"
+    },
+    {
+      "id": "6d810eb30699",
+      "titlu": "Casemiro: Ronaldo este cel mai mare, dar Bale este cel mai complet jucător",
+      "rezumat": "Mijlocașul brazilian Casemiro, fost jucător la Real Madrid și actual la Manchester United, a făcut declarații interesante despre foștii săi coechipieri. El a afirmat că portughezul Cristiano Ronaldo este cel mai mare fotbalist alături de care a jucat vreodată. Cu toate acestea, Casemiro a adăugat că galezul Gareth Bale este, în opinia sa, cel mai \"complet\" jucător, evidențiind versatilitatea și abilitățile multiple ale acestuia pe teren, de la viteză la finalizare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-12T18:03:13.726408+00:00",
+      "data_afisaj": "12 mai 2026, 21:03"
+    },
+    {
+      "id": "79c812144d7f",
+      "titlu": "Dick Advocaat revine la cârma naționalei Curaçao pentru Cupa Mondială 2026",
+      "rezumat": "Antrenorul olandez Dick Advocaat, în vârstă de 78 de ani, a revenit în mod surprinzător la conducerea echipei naționale a Curaçao, după ce predecesorul său, Fred Rutten, a demisionat cu doar o lună înainte de debutul lor la Cupa Mondială. Advocaat, care va deveni cel mai vârstnic antrenor din istoria turneului, a părăsit inițial postul în februarie din motive de sănătate ale fiicei sale. Revenirea sa este menită să asigure stabilitatea echipei înaintea unei competiții istorice.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-12T18:03:13.727971+00:00",
+      "data_afisaj": "12 mai 2026, 21:03"
+    },
+    {
+      "id": "0194cb6f5d0d",
+      "titlu": "Foștii antrenori de la Tottenham, Frank și Postecoglou, vor fi analiști TV rivali la Cupa Mondială",
+      "rezumat": "Thomas Frank și Ange Postecoglou, ambii foști antrenori ai echipei Tottenham Hotspur, se vor confrunta în această vară în studiourile TV, în calitate de analiști pentru Cupa Mondială. Frank a semnat un acord cu BBC Sport pentru a fi unul dintre principalii lor comentatori, în timp ce Postecoglou a acceptat să lucreze pentru ITV. De asemenea, BBC ar fi adăugat pe lista analiștilor și pe fostul atacant al lui Arsenal, Olivier Giroud, completând echipa de experți pentru transmisiunile turneului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-05-12T18:03:13.729662+00:00",
+      "data_afisaj": "12 mai 2026, 21:03"
+    },
+    {
+      "id": "9e00d0fb9f41",
+      "titlu": "Howard Webb confirmă că Sesko a atins mingea cu mâna la golul împotriva lui Liverpool, dar VAR nu a putut interveni",
+      "rezumat": "Howard Webb, șeful arbitrilor din Premier League, a declarat că, în opinia sa, atacantul Benjamin Sesko a atins mingea cu mâna la golul marcat pentru Manchester United împotriva lui Liverpool. Cu toate acestea, Webb a explicat că arbitrajul video (VAR) nu a putut anula golul din cauza lipsei de dovezi concludente. Înregistrările audio ale discuțiilor VAR au fost făcute publice, arătând complexitatea deciziei și dificultatea de a demonstra intenția sau contactul clar cu mâna în absența unor unghiuri video definitive.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-12T18:03:13.731532+00:00",
+      "data_afisaj": "12 mai 2026, 21:03"
+    },
     {
       "id": "26850e224a6a",
       "titlu": "Southampton cere timp suplimentar pentru investigarea acuzațiilor de spionaj",
@@ -1445,52 +1504,6 @@
       ],
       "data_publicare": "2026-05-05T18:07:02.593646+00:00",
       "data_afisaj": "5 mai 2026, 21:07"
-    },
-    {
-      "id": "98c6d97197d5",
-      "titlu": "Arsenal și Atlético Madrid se duelează în returul semifinalei Ligii Campionilor",
-      "rezumat": "Arsenal și Atlético Madrid se întâlnesc în manșa secundă a semifinalelor Ligii Campionilor, după un rezultat de 1-1 în prima manșă. Ambele echipe, nume mari în fotbalul european, dar fără un trofeu Champions League în palmares, luptă pentru un loc în finală. Meciul este crucial pentru ambițiile lor continentale, Arsenal căutând să depășească dezamăgirea din trecut, când a fost la un pas de glorie, iar Atlético sperând să își asigure prezența în ultimul act al competiției. Partida promite o confruntare intensă și plină de emoție.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-05T17:28:35.198768+00:00",
-      "data_afisaj": "5 mai 2026, 20:28"
-    },
-    {
-      "id": "9b4cf723a602",
-      "titlu": "Un suporter Everton, arestat pentru presupuse abuzuri rasiste la adresa lui Antoine Semenyo",
-      "rezumat": "Un suporter al echipei Everton, în vârstă de 71 de ani, a fost arestat de poliția din Merseyside sub acuzația de abuz rasist la adresa lui Antoine Semenyo de la Manchester City, în timpul meciului dintre cele două echipe. Incidentul a fost raportat de alți suporteri și de stewarzi, ducând la intervenția rapidă a autorităților. De asemenea, Marc Guéhi, coechipierul lui Semenyo, a fost ținta unor abuzuri rasiste online, subliniind o problemă persistentă în fotbalul modern, care necesită acțiuni ferme.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-05T17:28:35.200568+00:00",
-      "data_afisaj": "5 mai 2026, 20:28"
-    },
-    {
-      "id": "61dab143edea",
-      "titlu": "Kylian Mbappé își apără angajamentul față de Real Madrid după o călătorie controversată",
-      "rezumat": "Kylian Mbappé a răspuns criticilor apărute în presa spaniolă și din partea fanilor Real Madrid, după ce a călătorit în Sardinia alături de actrița Ester Expósito, în timp ce se recuperează după o accidentare la coapsă. Atacantul francez a emis o declarație prin reprezentanții săi, negând orice abatere și subliniind că rămâne pe deplin dedicat procesului de recuperare și echipei, înaintea meciului crucial El Clásico cu Barcelona. Situația a stârnit dezbateri intense privind profesionalismul jucătorilor de top.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-05T17:28:35.203076+00:00",
-      "data_afisaj": "5 mai 2026, 20:28"
-    },
-    {
-      "id": "52ae34ea2119",
-      "titlu": "Victor Angelescu infirmă varianta Daniel Pancu la Rapid: Gâlcă are contract cu prelungire automată",
-      "rezumat": "Victor Angelescu, acționarul majoritar al Rapidului, a clarificat situația băncii tehnice, infirmând speculațiile recente privind o posibilă numire a lui Daniel Pancu ca antrenor. Acesta a declarat că echipa are un contract valabil cu actualul tehnician, Costel Gâlcă, iar în cazul în care Rapidul reușește să se califice în cupele europene, înțelegerea contractuală a lui Gâlcă se va prelungi automat, asigurând continuitatea la club. Declarația vine în contextul discuțiilor intense despre viitorul antrenorului giuleștenilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-05-05T17:28:35.205082+00:00",
-      "data_afisaj": "5 mai 2026, 20:28"
     }
   ]
 }
