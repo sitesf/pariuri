@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-11T18:53:17.193977+00:00",
-  "updated_at_afisaj": "11 mai 2026, 21:53",
+  "updated_at": "2026-05-12T09:45:19.355407+00:00",
+  "updated_at_afisaj": "12 mai 2026, 12:45",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,63 @@
   },
   "numar_stiri": 130,
   "stiri": [
+    {
+      "id": "4a9b64d063b3",
+      "titlu": "Penalty-ul lui Calvert-Lewin aduce un egal lui Leeds la Tottenham",
+      "rezumat": "Tottenham Hotspur risipește oportunitatea de a face un pas semnificativ către siguranța în Premier League, fiind ținută la un egal 1-1 acasă de Leeds United.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-12T09:45:11.395169+00:00",
+      "data_afisaj": "12 mai 2026, 12:45"
+    },
+    {
+      "id": "898edf6979d9",
+      "titlu": "Hull învinge Millwall și ajunge în finala play-off-ului Championship",
+      "rezumat": "Hull a avut o prestație clinică la Millwall, câștigând cu 2-0 în manșa a doua și ajungând în finala play-off-ului Championship.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-12T09:45:11.396704+00:00",
+      "data_afisaj": "12 mai 2026, 12:45"
+    },
+    {
+      "id": "e14e8171c8ab",
+      "titlu": "Antrenorii 'supra-umani' nu ar trebui să fie nevoiți să ceară ajutor - familia lui Beard despre pierdere",
+      "rezumat": "Familia fostului antrenor WSL Matt Beard vorbește pentru BBC Sport despre povara emoțională a managementului fotbalistic și despre schimbările pe care le doresc.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-12T09:45:11.398369+00:00",
+      "data_afisaj": "12 mai 2026, 12:45"
+    },
+    {
+      "id": "5a12836283a4",
+      "titlu": "Spurs prelungește lupta pentru siguranță, menținând nervii încordați",
+      "rezumat": "Tottenham apasă din nou butonul de autodistrugere, lăsându-l pe Roberto de Zerbi frustrat, în timp ce lupta pentru evitarea retrogradării pare să meargă până la capăt, spune principalul scriitor de fotbal Phil McNulty.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-12T09:45:11.399837+00:00",
+      "data_afisaj": "12 mai 2026, 12:45"
+    },
+    {
+      "id": "5e44641a2b50",
+      "titlu": "Patruzeci de ani de play-off-uri EFL - alege-ți amintirile preferate",
+      "rezumat": "BBC Sport rememorează 15 momente memorabile din 40 de ani de play-off-uri în English Football League.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-12T09:45:11.401419+00:00",
+      "data_afisaj": "12 mai 2026, 12:45"
+    },
     {
       "id": "97600978e88d",
       "titlu": "Premier League va respinge extinderea atribuțiilor VAR pentru sezonul viitor",
@@ -1433,63 +1490,6 @@
       ],
       "data_publicare": "2026-05-05T10:02:37.771205+00:00",
       "data_afisaj": "5 mai 2026, 13:02"
-    },
-    {
-      "id": "4589dd382616",
-      "titlu": "Foden ajunge la un acord pentru un nou contract cu Man City",
-      "rezumat": "Mijlocașul englez Phil Foden ajunge la un acord de principiu pentru un nou contract pe patru ani la Manchester City.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-05-05T09:08:44.029988+00:00",
-      "data_afisaj": "5 mai 2026, 12:08"
-    },
-    {
-      "id": "17f8e0e47f04",
-      "titlu": "Cum să urmărești Everton vs Manchester City GRATUIT: Detalii TV pentru Monday Night Football",
-      "rezumat": "Everton încearcă să spulbere speranțele la titlu ale lui Man City în al doilea dintre cele două meciuri de luni - iată cum poți urmări meciul de oriunde din lume.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "GSP.ro"
-      ],
-      "data_publicare": "2026-05-05T09:08:44.031434+00:00",
-      "data_afisaj": "5 mai 2026, 12:08"
-    },
-    {
-      "id": "0325c541ea56",
-      "titlu": "Ce urmează pentru Rangers-ul lui Rohl pe măsură ce speranțele la titlu se sting?",
-      "rezumat": "Provocarea lui Rangers pentru titlul în Scottish Premiership a fost zădărnicită de două înfrângeri dăunătoare în fața lui Motherwell și Hearts. Ce urmează acum pentru Danny Rohl și jucătorii săi?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-05T09:08:44.032704+00:00",
-      "data_afisaj": "5 mai 2026, 12:08"
-    },
-    {
-      "id": "50087c4c456f",
-      "titlu": "Cine a intrat în echipa săptămânii din Premier League a lui Troy?",
-      "rezumat": "După fiecare rundă de meciuri din Premier League din acest sezon, Troy Deeney ne prezintă echipa sa a săptămânii. Ești de acord cu alegerile sale?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-05T09:08:44.034020+00:00",
-      "data_afisaj": "5 mai 2026, 12:08"
-    },
-    {
-      "id": "9afff0a91344",
-      "titlu": "Un final remarcabil - dar vor costa 13 minute haotice titlul lui Man City?",
-      "rezumat": "O perioadă haotică de 13 minute a lui Man City în a doua repriză a unui thriller cu șase goluri la Everton s-ar putea dovedi a fi dezastrul oaspeților în cursa pentru titlul din Premier League.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-05T09:08:44.035384+00:00",
-      "data_afisaj": "5 mai 2026, 12:08"
     }
   ]
 }
