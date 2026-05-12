@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-12T18:03:13.731550+00:00",
-  "updated_at_afisaj": "12 mai 2026, 21:03",
+  "updated_at": "2026-05-12T18:52:47.523336+00:00",
+  "updated_at_afisaj": "12 mai 2026, 21:52",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,51 @@
   },
   "numar_stiri": 131,
   "stiri": [
+    {
+      "id": "914d0f05f4de",
+      "titlu": "Filipe Coelho, pregătit pentru finala Cupei României",
+      "rezumat": "Antrenorul Filipe Coelho a declarat că echipa sa este pe deplin pregătită pentru finala Cupei României, exprimându-și dorința de a câștiga trofeul. Declarațiile vin în contextul pregătirilor intense pentru meciul decisiv, unde Coelho speră ca jucătorii săi să demonstreze determinare și să aducă acasă acest trofeu important. El a subliniat importanța evenimentului pentru club și fani, promițând o abordare ofensivă și un joc spectaculos în încercarea de a-și îndeplini obiectivul.",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-05-12T18:52:47.516820+00:00",
+      "data_afisaj": "12 mai 2026, 21:52"
+    },
+    {
+      "id": "5d6fa822c0c8",
+      "titlu": "Președintele Real Madrid, Florentino Perez, convoacă alegeri după un sezon fără trofee",
+      "rezumat": "Florentino Perez, președintele clubului Real Madrid, a susținut o conferință de presă tensionată în care a anunțat convocarea de alegeri, ca urmare a unui sezon încheiat fără niciun trofeu. Perez a avut un schimb de replici cu jurnaliștii, reafirmând că nu intenționează să părăsească funcția. Decizia de a organiza alegeri vine pe fondul nemulțumirilor legate de performanța echipei și reprezintă o mișcare strategică pentru a-și consolida poziția sau a obține un nou mandat.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-12T18:52:47.518786+00:00",
+      "data_afisaj": "12 mai 2026, 21:52"
+    },
+    {
+      "id": "09fdc0846f04",
+      "titlu": "Michael O'Neill refuză oferta de la Blackburn pentru a rămâne selecționerul Irlandei de Nord",
+      "rezumat": "Michael O'Neill a decis să nu preia postul de antrenor permanent la Blackburn Rovers, preferând să-și continue mandatul de selecționer al echipei naționale a Irlandei de Nord. Această hotărâre confirmă angajamentul său față de proiectul național, în ciuda interesului manifestat de clubul din Championship. O'Neill a declarat că își dorește să continue munca începută cu naționala, concentrându-se pe dezvoltarea echipei și pe obiectivele viitoare în competițiile internaționale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-12T18:52:47.521413+00:00",
+      "data_afisaj": "12 mai 2026, 21:52"
+    },
+    {
+      "id": "a731b5a6aaf3",
+      "titlu": "Ora de start a finalei Ligii Campionilor, cu Arsenal, modificată din motive de siguranță",
+      "rezumat": "UEFA a anunțat modificarea orei de start a finalei Ligii Campionilor, în care va juca Arsenal, invocând motive de siguranță. Această decizie, considerată o premieră în era modernă a competiției, are ca scop îmbunătățirea experienței fanilor și asigurarea unui eveniment fără incidente. Autoritățile europene de fotbal au subliniat că prioritatea este siguranța spectatorilor și a tuturor participanților, iar ajustarea programului a fost necesară pentru a gestiona mai eficient fluxul de oameni și a preveni eventualele probleme.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-05-12T18:52:47.523317+00:00",
+      "data_afisaj": "12 mai 2026, 21:52"
+    },
     {
       "id": "e05edee2d2af",
       "titlu": "Fundașul Ben White de la Arsenal și Anglia ratează restul sezonului și Cupa Mondială",
@@ -1460,50 +1505,6 @@
       ],
       "data_publicare": "2026-05-06T09:26:17.174408+00:00",
       "data_afisaj": "6 mai 2026, 12:26"
-    },
-    {
-      "id": "347d728baf80",
-      "titlu": "Morgan Gibbs-White, favorit pentru postul de număr 10 al Angliei la Cupa Mondială?",
-      "rezumat": "Morgan Gibbs-White, mijlocașul ofensiv al lui Nottingham Forest, a avut o revenire impresionantă în 2026, ceea ce îl plasează acum printre principalii candidați pentru rolul de număr 10 în echipa națională a Angliei la viitoarea Cupă Mondială. Performanțele sale recente au atras atenția selecționerului, iar discuțiile despre includerea sa în primul unsprezece al \"Three Lions\" se intensifică. Această ascensiune subliniază importanța sa crescândă în fotbalul englez și potențialul său de a influența jocul la cel mai înalt nivel internațional.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-05T18:07:02.587753+00:00",
-      "data_afisaj": "5 mai 2026, 21:07"
-    },
-    {
-      "id": "1ddf0ed7c4c1",
-      "titlu": "Controversă privind regula ofsaidului după golul lui Barry pentru Everton",
-      "rezumat": "O situație controversată a apărut în meciul dintre Manchester City și Everton, când Thierno Barry a marcat un gol după o pasă de la Marc Guehi, deși Barry se afla în poziție de ofsaid. Discuția se concentrează pe interpretarea regulii, care a permis ca golul să fie validat, deoarece Guehi, un jucător al lui Manchester City, a atins mingea înainte ca aceasta să ajungă la Barry. Acest incident a stârnit dezbateri aprinse despre echitatea și claritatea regulamentului ofsaidului în fotbalul modern, punând sub semnul întrebării aplicarea sa corectă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-05T18:07:02.589547+00:00",
-      "data_afisaj": "5 mai 2026, 21:07"
-    },
-    {
-      "id": "03a1d2145f1a",
-      "titlu": "Atacanții lui PSG, elogiați pentru contribuția defensivă sub Luis Enrique",
-      "rezumat": "Sub conducerea antrenorului Luis Enrique, atacanții de la Paris Saint-Germain, inclusiv Ousmane Dembélé, Khvicha Kvaratskhelia, Désiré Doué și Bradley Barcola, au adoptat o mentalitate defensivă remarcabilă. Această abordare tactică, în care jucătorii ofensivi participă activ la faza de presing, este considerată un factor cheie în succesul echipei. Dembélé a declarat chiar că lipsa presingului ar duce la excluderea sa din primul unsprezece, subliniind angajamentul colectiv față de viziunea antrenorului și importanța muncii fără minge pentru echilibrul echipei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-05T18:07:02.591918+00:00",
-      "data_afisaj": "5 mai 2026, 21:07"
-    },
-    {
-      "id": "0ccb5afbc6d4",
-      "titlu": "Noua regulă de ofsaid propusă de Arsène Wenger, testată în Canada",
-      "rezumat": "O nouă regulă de ofsaid, cunoscută sub numele de \"daylight offside rule\" și propusă de Arsène Wenger, este în prezent testată în Canadian Premier League. Această modificare își propune să facă jocul mai deschis și mai spectaculos, permițând ca un jucător să fie considerat în ofsaid doar dacă întregul său corp se află în fața penultimului apărător. Succesul acestei inițiative în Canada ar putea deschide calea pentru adoptarea sa la nivel global, având potențialul de a schimba fundamental dinamica jocului și de a reduce controversele legate de deciziile de ofsaid.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-05T18:07:02.593646+00:00",
-      "data_afisaj": "5 mai 2026, 21:07"
     }
   ]
 }
