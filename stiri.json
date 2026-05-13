@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-13T09:48:08.016195+00:00",
-  "updated_at_afisaj": "13 mai 2026, 12:48",
+  "updated_at": "2026-05-13T10:27:42.607132+00:00",
+  "updated_at_afisaj": "13 mai 2026, 13:27",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,42 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 129,
+  "numar_stiri": 127,
   "stiri": [
+    {
+      "id": "cd55e2e0625c",
+      "titlu": "Manchester United ia în considerare numirea permanentă a lui Michael Carrick ca antrenor",
+      "rezumat": "Manchester United este pregătită să inițieze discuții cu Michael Carrick pentru a-l numi antrenor principal permanent după încheierea sezonului. Prezența lui Carrick este considerată o sursă de inspirație pentru tinerii jucători ai clubului, în special în contextul participării la FA Youth Cup. Această decizie ar marca o schimbare semnificativă în strategia de management a echipei, oferind continuitate și stabilitate la nivelul băncii tehnice, pe fondul eforturilor de reconstrucție a clubului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-13T10:27:42.603588+00:00",
+      "data_afisaj": "13 mai 2026, 13:27"
+    },
+    {
+      "id": "acdb76d50b0d",
+      "titlu": "Pep Guardiola critică arbitrajul și VAR, cerând jucătorilor săi să depășească deciziile controversate",
+      "rezumat": "Pep Guardiola, antrenorul lui Manchester City, a declarat că deciziile arbitrilor sunt \"o chestiune de noroc\" și își îndeamnă constant jucătorii să performeze mai bine pentru a depăși aceste obstacole. Comentariile vin în contextul unei noi examinări a arbitrajului și a sistemului VAR, după golul anulat al lui West Ham împotriva lui Arsenal. Guardiola subliniază că arbitrii \"nu și-au făcut treaba\" în finalele Cupei Angliei și că echipa sa trebuie să fie mai bună pentru a nu depinde de deciziile oficialilor, accentuând necesitatea unei performanțe superioare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-13T10:27:42.605477+00:00",
+      "data_afisaj": "13 mai 2026, 13:27"
+    },
+    {
+      "id": "7bf1eb69698d",
+      "titlu": "Manchester City Women inovează cu facilități de antrenament de ultimă generație",
+      "rezumat": "Echipa feminină Manchester City utilizează facilități de antrenament de 10 milioane de lire sterline, construite special pentru ele, pentru a-și îmbunătăți performanțele. Acestea includ bețișoare personalizate în cantină pentru jucătoarele japoneze, shake-uri de recuperare personalizate cu ananas și mango pentru Khadija \"Bunny\" Shaw, și benzi de alergare subacvatice unde jucătoarele pot urmări știri sportive în timpul recuperării. Căpitanul Alex Greenwood a declarat că \"nimic nu se compară\" cu aceste facilități, care contribuie la succesul și dezvoltarea continuă a echipei, consolidând poziția clubului în fotbalul feminin.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-13T10:27:42.607115+00:00",
+      "data_afisaj": "13 mai 2026, 13:27"
+    },
     {
       "id": "e21a90f77529",
       "titlu": "Southampton riscă excluderea din play-off-urile Championship din cauza acuzațiilor de spionaj",
@@ -1428,61 +1462,6 @@
       ],
       "data_publicare": "2026-05-06T17:44:30.010648+00:00",
       "data_afisaj": "6 mai 2026, 20:44"
-    },
-    {
-      "id": "eaf764185900",
-      "titlu": "Golgeterul record al lui Haiti despre Paisley, Scoția uimitoare și evadarea din Iran",
-      "rezumat": "Golgeterul record al lui Haiti vorbește despre legătura sa cu Scoția înainte de a-i înfrunta la Cupa Mondială și despre cum a evadat recent din Iran.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-06T10:17:26.199676+00:00",
-      "data_afisaj": "6 mai 2026, 13:17"
-    },
-    {
-      "id": "c43dda6ffc91",
-      "titlu": "Este Gibbs-White favorit să înceapă ca numărul 10 al Angliei la Cupa Mondială?",
-      "rezumat": "Morgan Gibbs-White a avut o revenire impresionantă în 2026, așa că este mijlocașul ofensiv de la Nottingham Forest principalul candidat pentru rolul de număr 10 al Angliei la Cupa Mondială?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-06T10:17:26.201357+00:00",
-      "data_afisaj": "6 mai 2026, 13:17"
-    },
-    {
-      "id": "1920d0d7c787",
-      "titlu": "Arteta aduce un omagiu jucătorilor și fanilor lui Arsenal după o „noapte incredibilă”",
-      "rezumat": "Mikel Arteta spune că Arsenal „a creat istorie împreună” și laudă atmosfera și energia publicului de pe Emirates Stadium, în timp ce Arsenal a învins Atletico Madrid cu 2-1 la general pentru a ajunge în prima lor finală de Liga Campionilor în 20 de ani.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-06T10:17:26.202988+00:00",
-      "data_afisaj": "6 mai 2026, 13:17"
-    },
-    {
-      "id": "e62a885fc26d",
-      "titlu": "Napoli va face mutarea lui Hojlund permanentă - bârfele de miercuri",
-      "rezumat": "Napoli va transforma împrumutul atacantului lui Man Utd, Rasmus Hojlund, într-o mutare permanentă, aripa lui West Ham, Crysencio Summerville, este monitorizat de mai multe cluburi, iar Chelsea ia în considerare numirea lui Xavi Hernandez ca următorul lor antrenor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-06T10:17:26.204570+00:00",
-      "data_afisaj": "6 mai 2026, 13:17"
-    },
-    {
-      "id": "87a3150d3d99",
-      "titlu": "Urmărește: Kane oferă Dunfermline un avantaj în play-off",
-      "rezumat": "Urmărește golul lui Chris Kane în victoria lui Dunfermline Athletic cu 1-0 în prima manșă a sferturilor de finală ale play-off-ului Scottish Premiership împotriva lui Arbroath.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-06T10:17:26.206107+00:00",
-      "data_afisaj": "6 mai 2026, 13:17"
     }
   ]
 }
