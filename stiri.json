@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-13T10:27:42.607132+00:00",
-  "updated_at_afisaj": "13 mai 2026, 13:27",
+  "updated_at": "2026-05-13T18:04:46.923188+00:00",
+  "updated_at_afisaj": "13 mai 2026, 21:04",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 127,
+  "numar_stiri": 128,
   "stiri": [
+    {
+      "id": "a77208d589eb",
+      "titlu": "🚨 LIVE U Cluj – Universitatea Craiova 0-0, Live Text Online, în finala din Cupa României. Pauză la Sibiu",
+      "rezumat": "(rezumat indisponibil)",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-05-13T18:04:22.441543+00:00",
+      "data_afisaj": "13 mai 2026, 21:04"
+    },
+    {
+      "id": "c38b1e64c2d0",
+      "titlu": "O mână de fier care se alătură unui club stricat: Returul lui Mourinho în interiorul Realului",
+      "rezumat": "Jose Mourinho urmează să fie numit noul antrenor al lui Real Madrid. Expertul spaniol în fotbal Guillem Balague explică de ce.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-13T18:04:22.443156+00:00",
+      "data_afisaj": "13 mai 2026, 21:04"
+    },
+    {
+      "id": "0206e194e49d",
+      "titlu": "Șefii lui Man Utd îl vor recomanda pe Carrick pentru un loc de muncă permanent",
+      "rezumat": "Michael Carrick este de așteptat să fie recomandat lui Sir Jim Ratcliffe ca șef permanent al Manchester United de către directorii superiori ai clubului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-13T18:04:22.444625+00:00",
+      "data_afisaj": "13 mai 2026, 21:04"
+    },
+    {
+      "id": "9e3cb8e1d209",
+      "titlu": "Ar putea Southampton să fie exclus din play-off pentru Spygate?",
+      "rezumat": "Southampton va juca cu Hull în finala play-off-ului campionatului. Sau vor? Pe măsură ce Spygate se îndreaptă spre încheierea sa, Middlesbrough ar putea încă să se îndrepte spre Wembley.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-13T18:04:22.446126+00:00",
+      "data_afisaj": "13 mai 2026, 21:04"
+    },
+    {
+      "id": "35a003fc8d20",
+      "titlu": "Fostul șef al lui Spurs, Levy, nu și-a imaginat niciodată lupta pentru retrogradare",
+      "rezumat": "„Nu într-un milion de ani” a crezut Daniel Levy că Tottenham va lupta pentru supraviețuirea în Premier League, după ce a demisionat din funcția de președinte executiv.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-13T18:04:22.447607+00:00",
+      "data_afisaj": "13 mai 2026, 21:04"
+    },
     {
       "id": "cd55e2e0625c",
       "titlu": "Manchester United ia în considerare numirea permanentă a lui Michael Carrick ca antrenor",
@@ -1415,53 +1471,6 @@
       ],
       "data_publicare": "2026-05-06T18:12:10.423973+00:00",
       "data_afisaj": "6 mai 2026, 21:12"
-    },
-    {
-      "id": "084a5a814453",
-      "titlu": "Euforia Arsenalului a fost justificată sau „prea mult”?",
-      "rezumat": "Arsenal a ajuns în finala Ligii Campionilor pentru prima dată în 20 de ani, dar întrebarea este dacă au sărbătorit excesiv victoria de marți împotriva lui Atletico Madrid. Reacțiile post-meci au stârnit discuții despre echilibrul dintre bucuria performanței istorice și modestia necesară înaintea unui eveniment de o asemenea anvergură. Clubul londonez se pregătește acum pentru confruntarea decisivă, având în spate o campanie europeană remarcabilă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-06T17:44:30.005162+00:00",
-      "data_afisaj": "6 mai 2026, 20:44"
-    },
-    {
-      "id": "5b32751f78ab",
-      "titlu": "Controverse, accidentări și o petiție: Ce se întâmplă cu Kylian Mbappé la Real Madrid?",
-      "rezumat": "Kylian Mbappé traversează un al doilea sezon dificil la Real Madrid, marcat de o serie de evenimente controversate. Pe lângă problemele legate de accidentări, o călătorie cu iahtul și o petiție inițiată de fani au stârnit discuții aprinse. Se analizează ce anume a mers prost în parcursul său recent, punând sub semnul întrebării adaptarea sa la club și presiunea așteptărilor. Situația sa actuală este un subiect intens dezbătut în presa sportivă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-06T17:44:30.006951+00:00",
-      "data_afisaj": "6 mai 2026, 20:44"
-    },
-    {
-      "id": "f95564be568d",
-      "titlu": "Celtic ar putea realiza dubla, dar sunt schimbările inevitabile la club?",
-      "rezumat": "Echipa Celtic se află în postura de a încheia un nou sezon intern de succes, în ciuda unei campanii tumultoase și pline de tensiuni. Cu toate acestea, se ridică întrebarea dacă o serie de schimbări majore la nivelul clubului sunt inevitabile, chiar și în contextul unei potențiale duble. Analiza vizează stabilitatea conducerii, strategia de transferuri și viitorul antrenorului, indiferent de rezultatele finale din acest sezon.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-06T17:44:30.008619+00:00",
-      "data_afisaj": "6 mai 2026, 20:44"
-    },
-    {
-      "id": "c7211964295d",
-      "titlu": "FIFA impune o suspendare globală jucătorului Prestianni de la Benfica",
-      "rezumat": "FIFA a impus o suspendare globală jucătorului Gianluca Prestianni de la Benfica, după ce acesta a recunoscut că a folosit un limbaj homofob la adresa lui Vinicius Jr. de la Real Madrid, în timpul unui meci de Liga Campionilor din februarie. Această decizie înseamnă că aripa argentiniană ar putea rata primele două meciuri ale țării sale la Cupa Mondială, dacă va fi selecționat în lot. Sancțiunea subliniază angajamentul FIFA în combaterea discriminării în fotbal.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-05-06T17:44:30.010648+00:00",
-      "data_afisaj": "6 mai 2026, 20:44"
     }
   ]
 }
