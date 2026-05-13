@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-12T18:52:47.523336+00:00",
-  "updated_at_afisaj": "12 mai 2026, 21:52",
+  "updated_at": "2026-05-13T09:48:08.016195+00:00",
+  "updated_at_afisaj": "13 mai 2026, 12:48",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,42 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 131,
+  "numar_stiri": 129,
   "stiri": [
+    {
+      "id": "e21a90f77529",
+      "titlu": "Southampton riscă excluderea din play-off-urile Championship din cauza acuzațiilor de spionaj",
+      "rezumat": "Clubul Southampton ar putea fi exclus din play-off-urile Championship și ar putea pierde șansa de promovare în Premier League, dacă o comisie independentă va susține acuzația conform căreia echipa ar fi spionat o sesiune de antrenament a echipei Middlesbrough înainte de semifinala play-off-ului. Acuzațiile au apărut în contextul victoriei cu 2-1 a lui Southampton împotriva lui Middlesbrough, care le-a asigurat un loc în finala play-off-ului. Incidentul a generat controverse și ar putea avea consecințe semnificative asupra deznodământului competiției.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-05-13T09:48:08.011956+00:00",
+      "data_afisaj": "13 mai 2026, 12:48"
+    },
+    {
+      "id": "f77e6f529a4e",
+      "titlu": "Conducerea Liverpool se confruntă cu o dilemă privind viitorul antrenorului Arne Slot",
+      "rezumat": "Proprietarii clubului Liverpool, FSG, se află într-o situație dificilă, analizând dacă să mențină sau să schimbe antrenorul Arne Slot, pe fondul nemulțumirilor crescânde ale fanilor. Potrivit analistului șef de fotbal Phil McNulty, decizia vine după o perioadă în care performanțele echipei și stilul de joc sub conducerea lui Slot au generat dezbateri intense. Conducerea clubului trebuie să evalueze cu atenție impactul pe termen lung al oricărei decizii asupra stabilității și succesului echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-13T09:48:08.013801+00:00",
+      "data_afisaj": "13 mai 2026, 12:48"
+    },
+    {
+      "id": "be93591f8eb6",
+      "titlu": "Carlo Ancelotti: Convocarea lui Neymar la naționala Braziliei depinde de performanțele sale pe teren",
+      "rezumat": "Într-un interviu exclusiv, selecționerul Braziliei, Carlo Ancelotti, a declarat că o eventuală convocare a lui Neymar la echipa națională depinde exclusiv de jucător și de ceea ce va demonstra pe teren. Antrenorul italian, în vârstă de 66 de ani, a discutat despre provocările de a conduce 'cea mai importantă echipă națională' și despre cum să obțină cele mai bune performanțe de la jucători precum Vinícius Júnior. Ancelotti a subliniat importanța formei sportive și a angajamentului pentru a face parte din lotul național.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-13T09:48:08.015487+00:00",
+      "data_afisaj": "13 mai 2026, 12:48"
+    },
     {
       "id": "914d0f05f4de",
       "titlu": "Filipe Coelho, pregătit pentru finala Cupei României",
@@ -1449,62 +1483,6 @@
       ],
       "data_publicare": "2026-05-06T10:17:26.206107+00:00",
       "data_afisaj": "6 mai 2026, 13:17"
-    },
-    {
-      "id": "436d92a8b7e7",
-      "titlu": "Test din Liga Campionilor: Poți să numești fiecare finalist?",
-      "rezumat": "Săptămâna aceasta are loc manșa secundă a semifinalelor Ligii Campionilor, cu echipe care se luptă pentru a ajunge în cea de-a 34-a finală a competiției de la rebranding în 1992-93. Dar poți numi fiecare finalist din 1993 până în 2025?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-05-06T09:26:17.167557+00:00",
-      "data_afisaj": "6 mai 2026, 12:26"
-    },
-    {
-      "id": "9a0429f1d5f2",
-      "titlu": "Liga este visul - dar este momentul acesta Arsenal în Europa?",
-      "rezumat": "Totul s-a vorbit despre provocarea lui Arsenal la titlul în Premier League - dar este acum timpul ca Gunners să cucerească Europa?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-06T09:26:17.169335+00:00",
-      "data_afisaj": "6 mai 2026, 12:26"
-    },
-    {
-      "id": "3c5bd42344a7",
-      "titlu": "Unde se clasează trio-ul prolific al lui Bayern în cei mai buni trio de până acum?",
-      "rezumat": "Atacul lui Bayern Munchen al lui Harry Kane, Luis Diaz și Michael Olise a marcat 100 de goluri în acest sezon. Odată cu manșa secundă a semifinalei Ligii Campionilor cu PSG, BBC Sport compară cele două prime trei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-06T09:26:17.171032+00:00",
-      "data_afisaj": "6 mai 2026, 12:26"
-    },
-    {
-      "id": "910e775e0255",
-      "titlu": "Gazda noastră la Cupa Mondială „este Fifa, nu Trump sau America” - Iran",
-      "rezumat": "Șeful de fotbal al Iranului, Mehdi Taj, spune că gazda lor Cupa Mondială „este Fifa, nu domnul Trump sau America” și face apel la respect față de delegația națiunii dacă echipa națională urmează să călătorească în Statele Unite pentru turneul din această vară.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-06T09:26:17.172793+00:00",
-      "data_afisaj": "6 mai 2026, 12:26"
-    },
-    {
-      "id": "a65fc2f0699b",
-      "titlu": "Proprietarii lui Chelsea se confruntă cu un moment de socoteală pe fondul reacțiilor fanilor",
-      "rezumat": "Momentul socotirii a sosit pentru proprietatea lui Chelsea BlueCo, care este acum ținta unei baze de fani din ce în ce mai supărate.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-06T09:26:17.174408+00:00",
-      "data_afisaj": "6 mai 2026, 12:26"
     }
   ]
 }
