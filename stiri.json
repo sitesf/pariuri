@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-14T10:14:35.896464+00:00",
-  "updated_at_afisaj": "14 mai 2026, 13:14",
+  "updated_at": "2026-05-14T17:56:36.314236+00:00",
+  "updated_at_afisaj": "14 mai 2026, 20:56",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,44 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 133,
+  "numar_stiri": 126,
   "stiri": [
+    {
+      "id": "124a3a180b32",
+      "titlu": "Sam Kerr părăsește Chelsea la finalul sezonului",
+      "rezumat": "Sam Kerr, golghetera all-time a clubului Chelsea în Superliga Feminină (WSL), va părăsi echipa la finalul acestui sezon, odată cu expirarea contractului său. Atacanta australiană a fost o figură emblematică pentru \"Blues\", contribuind semnificativ la succesele clubului de-a lungul anilor. Plecarea sa marchează sfârșitul unei ere pentru echipa londoneză, care va trebui să găsească soluții pentru a-i înlocui contribuția ofensivă în campania viitoare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-14T17:56:36.309340+00:00",
+      "data_afisaj": "14 mai 2026, 20:56"
+    },
+    {
+      "id": "213745789ccf",
+      "titlu": "Unai Emery critică împrumutul \"irosit\" al lui Harvey Elliott la Aston Villa",
+      "rezumat": "Antrenorul Unai Emery a exprimat dezamăgirea față de împrumutul lui Harvey Elliott la Aston Villa, considerându-l \"jenant\" din cauza lipsei de oportunități. Jucătorul a evoluat în doar patru meciuri de Premier League pentru Villa în acest sezon și nu a mai fost inclus în lot de la începutul lunii februarie. Situația ridică semne de întrebare cu privire la gestionarea talentelor tinere și la eficacitatea deciziilor de împrumut pentru dezvoltarea jucătorilor în fotbalul de elită.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-14T17:56:36.311354+00:00",
+      "data_afisaj": "14 mai 2026, 20:56"
+    },
+    {
+      "id": "1bc5fa33b3cb",
+      "titlu": "Wilfried Nancy regretă lipsa de timp după scurta perioadă la Celtic",
+      "rezumat": "Wilfried Nancy a descris mandatul său de 33 de zile ca antrenor la Celtic drept o \"experiență frumoasă\", dar a susținut că este \"evident\" că nu a avut suficient timp pentru a schimba cultura și a-și impune viziunea la club. Plecarea sa rapidă subliniază presiunea și așteptările ridicate din fotbalul de top, unde antrenorii sunt adesea judecați pe termen scurt, fără a li se oferi răbdarea necesară pentru implementarea unor schimbări profunde și durabile.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-14T17:56:36.313084+00:00",
+      "data_afisaj": "14 mai 2026, 20:56"
+    },
     {
       "id": "1c11af2935fd",
       "titlu": "Oamenii de știință avertizează FIFA cu privire la riscurile de căldură la Cupa Mondială 2026",
@@ -1416,120 +1452,6 @@
       ],
       "data_publicare": "2026-05-07T18:19:21.484905+00:00",
       "data_afisaj": "7 mai 2026, 21:19"
-    },
-    {
-      "id": "14733b5bf9bc",
-      "titlu": "Khadija Shaw părăsește Manchester City, Chelsea este favorită pentru transfer",
-      "rezumat": "Atacanta jamaicană Khadija Shaw a decis să plece de la Manchester City la finalul contractului său din această vară, în ciuda discuțiilor extinse pentru o nouă înțelegere. Chelsea este considerată favorită pentru a o semna pe jucătoare, care este pe cale să câștige Gheata de Aur în Women's Super League pentru al treilea sezon consecutiv. Mutarea ar reprezenta o nouă provocare pentru jucătoarea de 29 de ani.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-07T17:51:27.457018+00:00",
-      "data_afisaj": "7 mai 2026, 20:51"
-    },
-    {
-      "id": "5171b2df38cc",
-      "titlu": "FIFA și Panini își încheie parteneriatul după Cupa Mondială din 2030",
-      "rezumat": "Parteneriatul de lungă durată dintre FIFA și Panini, renumit pentru albumele de stickere ale Cupei Mondiale, se va încheia după turneul din 2030. Începând cu anul 2031, compania Fanatics va prelua rolul de furnizor oficial de produse de colecție, inclusiv albume de stickere, pentru FIFA, în urma unui nou acord semnat joi. Această schimbare marchează o eră nouă în piața de colecționabile sportive.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-07T17:51:27.458686+00:00",
-      "data_afisaj": "7 mai 2026, 20:51"
-    },
-    {
-      "id": "9dacf68088eb",
-      "titlu": "Ancheta privind decesul fostului manager Matt Beard, amânată din cauza acuzațiilor de hărțuire la Burnley",
-      "rezumat": "O audiere premergătoare anchetei în cazul decesului fostului manager din Women's Super League, Matt Beard, a dezvăluit că familia acestuia a acuzat clubul Burnley de hărțuire. Beard, care a câștigat două titluri WSL consecutive cu Liverpool, a demisionat de la Burnley în august 2025, cu puțin peste trei săptămâni înainte de a deceda la vârsta de 47 de ani. Familia consideră că evenimentele de la Burnley au fost un catalizator pentru deteriorarea sănătății sale mintale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-07T17:51:27.460502+00:00",
-      "data_afisaj": "7 mai 2026, 20:51"
-    },
-    {
-      "id": "85fddfcba318",
-      "titlu": "Antrenorul Fabian Hurzeler semnează un nou contract pe trei ani cu Brighton",
-      "rezumat": "Fabian Hurzeler, antrenorul principal al echipei Brighton, a semnat un nou contract pe trei ani cu clubul, valabil până în 2029. Tehnicianul german a declarat că este o \"onoare\" să continue la Brighton și s-a arătat entuziasmat de viitorul echipei. Această prelungire subliniază încrederea clubului în viziunea lui Hurzeler de a consolida poziția echipei în Premier League și de a perturba ierarhiile stabilite.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-05-07T17:51:27.462100+00:00",
-      "data_afisaj": "7 mai 2026, 20:51"
-    },
-    {
-      "id": "a4304bd57651",
-      "titlu": "Incident la antrenamentul Real Madrid: Valverde spitalizat după o altercație cu un coechipier",
-      "rezumat": "Jucătorii de la Real Madrid au susținut o ședință de criză la terenul de antrenament după mai multe altercații, inclusiv una care l-a implicat pe mijlocașul Federico Valverde. Acesta ar fi fost spitalizat în urma unei dispute cu un coechipier, Aurelien Tchouameni. Incidentul a generat tensiuni în cadrul echipei, determinând clubul să ia măsuri pentru a gestiona situația internă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-05-07T17:51:27.463817+00:00",
-      "data_afisaj": "7 mai 2026, 20:51"
-    },
-    {
-      "id": "3d13d1c4f376",
-      "titlu": "Oamenii lui Villa, aproape de momentul lor definitoriu",
-      "rezumat": "Aston Villa se confruntă cu momentul lor definitoriu sub Unai Emery în manșa a doua a semifinalei Europa League de joi împotriva lui Nottingham Forest.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-07T10:25:27.810371+00:00",
-      "data_afisaj": "7 mai 2026, 13:25"
-    },
-    {
-      "id": "966dea68e65d",
-      "titlu": "Promisiunea lui Infantino de 'hot dog și Coca-Cola' pentru un bilet de 2 milioane de dolari",
-      "rezumat": "Președintele Fifa, Gianni Infantino, spune că va \"aduce personal un hot dog și o Coca-Cola\" oricui cumpără un bilet la finala Cupei Mondiale pentru 2 milioane de dolari.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-07T10:25:27.812120+00:00",
-      "data_afisaj": "7 mai 2026, 13:25"
-    },
-    {
-      "id": "04a089340945",
-      "titlu": "De ce nu a fost penalty la hențul lui Neves împotriva lui Bayern?",
-      "rezumat": "Jucătorii, staff-ul tehnic și fanii lui Bayern München de la Allianz Arena au fost în stare de neîncredere după ce le-a fost refuzat un penalty pentru un henț comis de Joao Neves în manșa a doua a semifinalei împotriva lui Paris St-Germain.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-07T10:25:27.813753+00:00",
-      "data_afisaj": "7 mai 2026, 13:25"
-    },
-    {
-      "id": "ac9fbb2774f7",
-      "titlu": "Fundașul german Sule se va retrage în această vară la 30 de ani",
-      "rezumat": "Fundașul lui Borussia Dortmund și al Germaniei, Niklas Sule, alege să se retragă în această vară la vârsta de 30 de ani.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-07T10:25:27.815288+00:00",
-      "data_afisaj": "7 mai 2026, 13:25"
-    },
-    {
-      "id": "2bbf02cb9c02",
-      "titlu": "Presiunea târzie a lui Bayern nu a fost suficientă, PSG revine în finala Ligii Campionilor",
-      "rezumat": "Egalarea lui Harry Kane în prelungiri aduce lui Bayern München o remiză de 1-1 în manșa a doua de pe Allianz Arena, în timp ce deținătorii trofeului, PSG, își asigură revenirea în finala Ligii Campionilor cu 6-5 la general, unde se vor întâlni cu Arsenal la Budapesta.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-07T10:25:27.816946+00:00",
-      "data_afisaj": "7 mai 2026, 13:25"
     }
   ]
 }
