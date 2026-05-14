@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-14T17:56:36.314236+00:00",
-  "updated_at_afisaj": "14 mai 2026, 20:56",
+  "updated_at": "2026-05-14T18:30:41.495981+00:00",
+  "updated_at_afisaj": "14 mai 2026, 21:30",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,67 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 126,
+  "numar_stiri": 127,
   "stiri": [
+    {
+      "id": "f706d5a9c4ce",
+      "titlu": "Kerr va părăsi Chelsea la sfârșitul sezonului",
+      "rezumat": "Golgheterul all-time al lui Chelsea în WSL, Sam Kerr, va părăsi clubul la expirarea contractului ei în această vară.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-14T18:30:35.277745+00:00",
+      "data_afisaj": "14 mai 2026, 21:30"
+    },
+    {
+      "id": "35a265a5c380",
+      "titlu": "Finala play-off-ului Championship ar putea fi amânată din cauza audierii Spygate",
+      "rezumat": "Finala play-off-ului Championship s-ar putea să nu aibă loc sâmbătă, 23 mai, deoarece EFL investighează scandalul Spygate care înconjoară finalista Southampton.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-14T18:30:35.279336+00:00",
+      "data_afisaj": "14 mai 2026, 21:30"
+    },
+    {
+      "id": "f98484227400",
+      "titlu": "Împrumutul irosit al lui Elliott la Villa este jenant - Emery",
+      "rezumat": "Harvey Elliott a jucat doar patru meciuri în Premier League pentru Aston Villa în acest sezon și nu a mai apărut pe teren din februarie.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-14T18:30:35.280797+00:00",
+      "data_afisaj": "14 mai 2026, 21:30"
+    },
+    {
+      "id": "f8d3dd3274fd",
+      "titlu": "Cum deciziile controversate VAR au definit două lupte pentru titlu",
+      "rezumat": "Anglia și Scoția au experimentat două decizii VAR extrem de controversate în doar câteva zile, care ar putea contribui la decizia cine va încheia sezonul ca și campioană.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-14T18:30:35.282310+00:00",
+      "data_afisaj": "14 mai 2026, 21:30"
+    },
+    {
+      "id": "3e43a9218760",
+      "titlu": "Tavernier rănit de pierderea apariției de adio pe Ibrox",
+      "rezumat": "Căpitanul lui Rangers, James Tavernier, care pleacă de la club, a declarat că s-a simțit „profund rănit și dezamăgit” și că „situația ar fi putut și ar fi trebuit să fie gestionată mult mai bine” după ce a ratat o apariție de adio pe Ibrox.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-14T18:30:35.283724+00:00",
+      "data_afisaj": "14 mai 2026, 21:30"
+    },
     {
       "id": "124a3a180b32",
       "titlu": "Sam Kerr părăsește Chelsea la finalul sezonului",
@@ -1408,50 +1467,6 @@
       ],
       "data_publicare": "2026-05-08T08:22:58.723317+00:00",
       "data_afisaj": "8 mai 2026, 11:22"
-    },
-    {
-      "id": "cdbe81a9c566",
-      "titlu": "Michael Carrick subliniază importanța clarității privind viitorul său la Manchester United",
-      "rezumat": "Michael Carrick, antrenorul interimar al lui Manchester United, a declarat că este important să existe claritate în privința conducerii echipei pentru sezonul viitor, dar a recunoscut că decizia nu-i aparține. Deși a asigurat calificarea în Liga Campionilor duminica trecută, Carrick nu a fost încă informat dacă va primi postul permanent. United se va deplasa la Sunderland sâmbătă, ocupând locul trei în clasament, iar Carrick are garantate doar două meciuri după această declarație, menținând incertitudinea asupra rolului său pe termen lung.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-07T18:19:21.478870+00:00",
-      "data_afisaj": "7 mai 2026, 21:19"
-    },
-    {
-      "id": "ad93a0055d15",
-      "titlu": "Regulatorul de fotbal din Anglia, presat să interzică cluburilor din Premier League sponsorizările de la companii de jocuri de noroc nelicențiate",
-      "rezumat": "Regulatorul Independent de Fotbal (IFR) a fost îndemnat să împiedice cluburile din Premier League să accepte sponsorizări de la companii de jocuri de noroc nelicențiate în Marea Britanie. Solicitarea vine din partea Entain, o companie globală de pariuri sportive care deține Ladbrokes și Coral, în cadrul unei consultări publice privind regimul de licențiere. Această măsură ar viza asigurarea integrității și eticii în fotbalul englez, limitând expunerea cluburilor la operatori care nu respectă reglementările locale și promovând un mediu sportiv mai responsabil.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-07T18:19:21.481235+00:00",
-      "data_afisaj": "7 mai 2026, 21:19"
-    },
-    {
-      "id": "b9f7727fde79",
-      "titlu": "Ascensiunea incredibilă a clubului Como, condusă de Cesc Fàbregas",
-      "rezumat": "Clubul italian Como, cu ajutorul fostului jucător de la Arsenal, Cesc Fàbregas, al unor proprietari ambițioși și al unui guru în scouting inspirat de Football Manager, se bucură de o ascensiune remarcabilă. Fàbregas a declarat că echipa aduce \"jucători înfometați și umili\", contribuind la succesul clubului. Situat pe malul lacului Como, clubul a atras atenția prin performanțele sale, transformând o mică echipă într-o forță în fotbalul italian, cu ambiții mari pentru viitor și o strategie clară de dezvoltare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-07T18:19:21.483079+00:00",
-      "data_afisaj": "7 mai 2026, 21:19"
-    },
-    {
-      "id": "44606698b605",
-      "titlu": "Fotbalul francez, aproape de o dublă rară în Liga Campionilor",
-      "rezumat": "Cluburile franceze ar putea realiza o dublă istorică în Liga Campionilor, atât la masculin, cât și la feminin, pentru prima dată în istorie. Această performanță ar reprezenta un moment de referință pentru fotbalul francez, demonstrând forța și progresul echipelor din Hexagon pe scena europeană. O astfel de realizare ar sublinia investițiile și dezvoltarea continuă în ambele segmente ale fotbalului, consolidând poziția Franței ca o putere emergentă în competițiile continentale și atrăgând atenția asupra calității fotbalului practicat în țară.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-05-07T18:19:21.484905+00:00",
-      "data_afisaj": "7 mai 2026, 21:19"
     }
   ]
 }
