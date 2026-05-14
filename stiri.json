@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-13T18:53:43.270675+00:00",
-  "updated_at_afisaj": "13 mai 2026, 21:53",
+  "updated_at": "2026-05-14T09:38:33.414675+00:00",
+  "updated_at_afisaj": "14 mai 2026, 12:38",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,55 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 129,
+  "numar_stiri": 128,
   "stiri": [
+    {
+      "id": "26226fba74cc",
+      "titlu": "Stockport County se califică în finala play-off-ului League One",
+      "rezumat": "Echipa Stockport County și-a asigurat prezența pe stadionul Wembley, în finala play-off-ului League One, după ce a învins Stevenage cu scorul general de 3-0. Această victorie le permite să lupte pentru promovarea în eșalonul superior, marcând un moment important în parcursul lor din acest sezon. Calificarea reprezintă o performanță notabilă pentru club, care își propune să revină în ligile superioare ale fotbalului englez.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-14T09:38:33.409145+00:00",
+      "data_afisaj": "14 mai 2026, 12:38"
+    },
+    {
+      "id": "32f11388fabf",
+      "titlu": "Decizie controversată de penalty în Scoția: Cursa pentru titlu se decide în ultima etapă",
+      "rezumat": "Antrenorul echipei Hearts, Derek McInnes, a calificat drept „dezgustătoare” decizia de a acorda un penalty pentru Celtic în minutul 99 al meciului cu Motherwell. Acest gol controversat a asigurat victoria lui Celtic și a trimis lupta pentru titlul din Premiership-ul Scoției într-o ultimă etapă decisivă, programată sâmbătă. Hearts consideră că sunt dezavantajați în această confruntare crucială, iar incidentul a stârnit ample discuții în presa sportivă scoțiană.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-14T09:38:33.410999+00:00",
+      "data_afisaj": "14 mai 2026, 12:38"
+    },
+    {
+      "id": "95e95f901806",
+      "titlu": "Paris Saint-Germain câștigă al 14-lea titlu de campioană în Ligue 1",
+      "rezumat": "Paris Saint-Germain a obținut al cincilea titlu consecutiv în Ligue 1 și al 14-lea din istoria clubului, după ce a învins pe Lens cu scorul de 2-0. Khvicha Kvaratskhelia a deschis scorul în minutul 29, iar Ibrahim Mbaye a stabilit rezultatul final în prelungiri. Această victorie le-a asigurat matematic titlul, cu o etapă înainte de finalul sezonului, distanțându-se decisiv de urmăritoarea Lens și confirmând dominația lor în fotbalul francez.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-14T09:38:33.412692+00:00",
+      "data_afisaj": "14 mai 2026, 12:38"
+    },
+    {
+      "id": "a7d3265f94eb",
+      "titlu": "Pasa magică a lui Phil Foden menține Manchester City în cursa pentru titlu",
+      "rezumat": "O pasă decisivă spectaculoasă a lui Phil Foden în prima repriză a fost elementul cheie de care Manchester City avea nevoie pentru a-și continua lupta în captivanta cursă pentru titlul din Premier League. Contribuția sa a fost esențială în menținerea presiunii asupra liderului clasamentului, Arsenal, demonstrând forma excelentă a mijlocașului în momentele cruciale ale sezonului. Performanța lui Foden a fost lăudată de antrenorul Pep Guardiola, care s-a declarat 'mai mult decât fericit' de evoluția jucătorului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-14T09:38:33.414654+00:00",
+      "data_afisaj": "14 mai 2026, 12:38"
+    },
     {
       "id": "85f6ce2279bc",
       "titlu": "🚨 Inter – Lazio Live Text Online, de la ora 22:00, în finala Cupei Italiei. Echipele de start. Cristi Chivu poate realiza evenimentul în primul sezon la echipa din Milano",
@@ -1427,62 +1474,6 @@
       ],
       "data_publicare": "2026-05-07T10:25:27.816946+00:00",
       "data_afisaj": "7 mai 2026, 13:25"
-    },
-    {
-      "id": "deeea4378662",
-      "titlu": "În interiorul sezonului câștigător de titlu WSL al lui Man City",
-      "rezumat": "Manchester City a câștigat primul titlu în Women's Super League în 10 ani - dar cum a reușit acest lucru?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-05-07T09:36:20.986994+00:00",
-      "data_afisaj": "7 mai 2026, 12:36"
-    },
-    {
-      "id": "668c398cc9e1",
-      "titlu": "De la o echipă plină de ego la un pachet complet - de ce PSG reprezintă testul suprem",
-      "rezumat": "Expertiza lui Luis Enrique în reconstruirea unei culturi, precum și a unei echipe, înseamnă că Arsenal va înfrunta un pachet complet atunci când se va întâlni cu deținătoarea trofeului PSG în finala Ligii Campionilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-07T09:36:20.988603+00:00",
-      "data_afisaj": "7 mai 2026, 12:36"
-    },
-    {
-      "id": "9b8de394d7f7",
-      "titlu": "Liverpool reduce creșterea planificată a prețurilor biletelor",
-      "rezumat": "Liverpool a redus mărimea creșterii planificate a prețurilor biletelor pentru următoarele două sezoane, după protestele fanilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-07T09:36:20.989964+00:00",
-      "data_afisaj": "7 mai 2026, 12:36"
-    },
-    {
-      "id": "346cfe62b631",
-      "titlu": "Cum golul lui Kane ar putea aduce Germaniei un loc suplimentar în Liga Campionilor",
-      "rezumat": "Golul târziu al lui Harry Kane de miercuri nu a putut duce pe Bayern München în finală - dar ar putea aduce Bundesligii un loc suplimentar în Liga Campionilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-07T09:36:20.991440+00:00",
-      "data_afisaj": "7 mai 2026, 12:36"
-    },
-    {
-      "id": "f72988ed87c2",
-      "titlu": "Staniforth de la Villa 'împăcată' cu decizia de a se retrage",
-      "rezumat": "Mijlocașul lui Aston Villa și fosta internațională engleză Lucy Staniforth nu a ezitat când a luat decizia de a se retrage din fotbal la sfârșitul sezonului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-07T09:36:20.992897+00:00",
-      "data_afisaj": "7 mai 2026, 12:36"
     }
   ]
 }
