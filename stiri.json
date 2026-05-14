@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-14T09:38:33.414675+00:00",
-  "updated_at_afisaj": "14 mai 2026, 12:38",
+  "updated_at": "2026-05-14T10:14:35.896464+00:00",
+  "updated_at_afisaj": "14 mai 2026, 13:14",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 128,
+  "numar_stiri": 133,
   "stiri": [
+    {
+      "id": "1c11af2935fd",
+      "titlu": "Oamenii de știință avertizează FIFA cu privire la riscurile de căldură la Cupa Mondială 2026",
+      "rezumat": "Un grup de oameni de știință de renume mondial a emis un avertisment către FIFA, declarând că măsurile actuale de siguranță privind căldura pentru Cupa Mondială masculină din 2026 sunt \"inadecvate\" și ar putea pune jucătorii în pericol de vătămări grave. Cercetătorii subliniază un \"risc real\" de condiții nesigure, în special în orașe precum Miami, unde se anticipează temperaturi peste media istorică în lunile iunie și iulie. Această preocupare vizează bunăstarea jucătorilor și a fanilor în timpul turneului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-14T10:14:35.888992+00:00",
+      "data_afisaj": "14 mai 2026, 13:14"
+    },
+    {
+      "id": "257d3c443030",
+      "titlu": "Arne Slot este încrezător că va rămâne antrenor la Liverpool și în sezonul următor",
+      "rezumat": "Antrenorul principal al echipei Liverpool, Arne Slot, a declarat că are \"toate motivele să creadă\" că va continua să conducă echipa și în sezonul viitor. Această declarație vine în contextul speculațiilor privind viitorul său la club, după un sezon în care apărarea titlului nu a fost la înălțimea așteptărilor. Slot își exprimă astfel încrederea în continuitatea proiectului său la Anfield, oferind o clarificare în privința poziției sale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-14T10:14:35.890846+00:00",
+      "data_afisaj": "14 mai 2026, 13:14"
+    },
+    {
+      "id": "7a5f6aab9269",
+      "titlu": "Middlesbrough se pregătește pentru o posibilă finală de play-off, în cazul excluderii lui Southampton",
+      "rezumat": "Clubul Middlesbrough a anunțat că va relua antrenamentele vineri, pregătindu-se pentru o eventuală finală de play-off, în contextul acuzațiilor de spionaj aduse echipei Southampton. Deși Middlesbrough a pierdut semifinala împotriva lui Southampton, clubul exercită presiuni pentru excluderea adversarului din play-off, după ce un analist al lui Southampton ar fi fost surprins spionând antrenamentele echipei lui Kim Hellberg. Această situație menține deschisă posibilitatea ca Middlesbrough să ajungă la Wembley.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-14T10:14:35.892831+00:00",
+      "data_afisaj": "14 mai 2026, 13:14"
+    },
+    {
+      "id": "0d1e0cf886d2",
+      "titlu": "Cluburile din Championship vor vota modificări ale regulamentelor financiare",
+      "rezumat": "Cluburile din Championship vor vota vineri propuneri semnificative de modificare a regulamentelor financiare, care ar putea mări diferența de putere de cheltuire față de League One. Propunerea vizează alinierea cu Premier League începând cu sezonul viitor, prin înlocuirea regulilor de profitabilitate și sustenabilitate (P&S) cu un sistem de raport al costurilor lotului, care ar plafona cheltuielile cu salariile jucătorilor. Aceste schimbări ar putea avea un impact major asupra structurii financiare a ligilor inferioare engleze.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-14T10:14:35.894598+00:00",
+      "data_afisaj": "14 mai 2026, 13:14"
+    },
+    {
+      "id": "df5fcc258477",
+      "titlu": "Julian Hall, cel mai tânăr jucător cu un hat-trick în istoria MLS",
+      "rezumat": "Atacantul Julian Hall, în vârstă de 18 ani, a intrat în istoria Major League Soccer (MLS) devenind cel mai tânăr jucător care a reușit un hat-trick. Performanța sa remarcabilă a avut loc în victoria echipei Red Bull New York împotriva formației Columbus Crew. Această realizare subliniază talentul promițător al tânărului fotbalist și reprezintă un moment important în cariera sa la început de drum în fotbalul profesionist american, atrăgând atenția asupra potențialului său.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-14T10:14:35.896442+00:00",
+      "data_afisaj": "14 mai 2026, 13:14"
+    },
     {
       "id": "26226fba74cc",
       "titlu": "Stockport County se califică în finala play-off-ului League One",
