@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-15T09:50:07.869741+00:00",
-  "updated_at_afisaj": "15 mai 2026, 12:50",
+  "updated_at": "2026-05-15T10:23:01.954525+00:00",
+  "updated_at_afisaj": "15 mai 2026, 13:23",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 124,
+  "numar_stiri": 129,
   "stiri": [
+    {
+      "id": "9df03ca2545b",
+      "titlu": "Antrenorul U18 Manchester United, Darren Fletcher, acuză FA că a permis Manchester City să preia controlul finalei Youth Cup",
+      "rezumat": "Darren Fletcher, antrenorul echipei U18 a lui Manchester United, a declarat că Asociația de Fotbal (FA) a permis clubului Manchester City să preia controlul asupra finalei Youth Cup. Declarația vine în contextul unei rivalități intense și ridică întrebări despre imparțialitatea organizării evenimentelor importante din fotbalul juvenil englez. Fletcher a subliniat că această situație a creat un dezechilibru și a afectat experiența competițională a tinerilor jucători.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-15T10:23:01.947153+00:00",
+      "data_afisaj": "15 mai 2026, 13:23"
+    },
+    {
+      "id": "505be6b12419",
+      "titlu": "Bellingham marchează, iar Mbappe este huiduit în victoria lui Real Madrid",
+      "rezumat": "Jude Bellingham a marcat un gol în victoria cu 2-0 a lui Real Madrid împotriva lui Real Oviedo în La Liga. În același meci, atacantul vedetă Kylian Mbappe a avut parte de o primire ostilă din partea suporterilor, fiind huiduit. Acest eveniment subliniază tensiunile continue legate de viitorul lui Mbappe și reacția fanilor la situația sa contractuală, în ciuda performanței echipei. Victoria menține Real Madrid în fruntea clasamentului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-15T10:23:01.948930+00:00",
+      "data_afisaj": "15 mai 2026, 13:23"
+    },
+    {
+      "id": "84a10ad1434b",
+      "titlu": "Antrenorul Newcastle, Eddie Howe, sugerează plecarea lui Anthony Gordon pe fondul speculațiilor cu Bayern",
+      "rezumat": "Antrenorul lui Newcastle, Eddie Howe, a lăsat să se înțeleagă că Anthony Gordon ar fi putut juca ultimul său meci pentru club, pe fondul zvonurilor privind un transfer de vară la Bayern Munchen. Declarația lui Howe adaugă credibilitate speculațiilor despre viitorul atacantului, indicând o posibilă despărțire iminentă. Această situație ar putea influența planurile de transfer ale ambelor cluburi pentru sezonul viitor și strategia de reconstrucție a lotului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-15T10:23:01.950809+00:00",
+      "data_afisaj": "15 mai 2026, 13:23"
+    },
+    {
+      "id": "748bcdcb4ee1",
+      "titlu": "Arteta: Arsenal este pregătită să facă ultimul pas în cursa pentru trofee",
+      "rezumat": "Mikel Arteta, antrenorul lui Arsenal, a îndemnat echipa să profite de șansa meciului împotriva lui Burnley pentru a se apropia de câștigarea unui trofeu major. Declarația sa subliniază determinarea clubului de a-și finaliza obiectivele în acest sezon, pe măsură ce lupta pentru titlu se apropie de deznodământ. Arteta își dorește ca jucătorii să demonstreze mentalitatea de învingători în etapele decisive ale competiției, consolidând progresul echipei sub conducerea sa.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-15T10:23:01.952568+00:00",
+      "data_afisaj": "15 mai 2026, 13:23"
+    },
+    {
+      "id": "2d7573eca0a1",
+      "titlu": "Cum l-a impresionat Thomas Tuchel pe FA în timpul unei întâlniri secrete pe aeroportul din München",
+      "rezumat": "Un extras exclusiv dintr-o carte dezvăluie procesul remarcabil care a dus la numirea lui Thomas Tuchel ca antrenor al Angliei în 2024. Se detaliază cum Asociația de Fotbal (FA) a folosit companii externe de date pentru a identifica profilul ideal al unui manager internațional de succes, adaptat bazei de jucători a Angliei. Tuchel a fost selectat dintr-o listă de 50 de antrenori de top, impresionând prin viziunea și abordarea sa în timpul unei întâlniri confidențiale, care a pavat drumul spre numirea sa.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-15T10:23:01.954501+00:00",
+      "data_afisaj": "15 mai 2026, 13:23"
+    },
     {
       "id": "24ef8c3bf513",
       "titlu": "Marcos Senesi va părăsi Bournemouth la finalul sezonului",
