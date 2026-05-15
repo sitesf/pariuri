@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-15T17:43:10.940037+00:00",
-  "updated_at_afisaj": "15 mai 2026, 20:43",
+  "updated_at": "2026-05-15T18:19:05.275587+00:00",
+  "updated_at_afisaj": "15 mai 2026, 21:19",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,50 @@
   },
   "numar_stiri": 128,
   "stiri": [
+    {
+      "id": "7dd942a7d4dd",
+      "titlu": "Carlo Ancelotti, selecționerul Braziliei, explică de ce Neymar ar putea rata lotul pentru Cupa Mondială",
+      "rezumat": "Carlo Ancelotti, antrenorul naționalei Braziliei, a dezvăluit motivele pentru care Neymar, golgheterul record al țării, ar putea fi exclus din lotul pentru Cupa Mondială din această vară. Deși Neymar a participat la ultimele trei ediții ale turneului final, Ancelotti a indicat că speranțele sale de a fi convocat din nou ar putea fi spulberate. Declarația vine în contextul pregătirilor pentru competiția majoră, iar absența unui jucător de calibrul lui Neymar ar reprezenta o surpriză semnificativă pentru fanii brazilieni și pentru fotbalul mondial.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-05-15T18:19:05.269698+00:00",
+      "data_afisaj": "15 mai 2026, 21:19"
+    },
+    {
+      "id": "ea3120984b5a",
+      "titlu": "Bernardo Silva este pregătit să plece de la Manchester City în această vară",
+      "rezumat": "Mijlocașul portughez Bernardo Silva este așteptat să părăsească Manchester City la finalul acestui sezon. Deși a fost un jucător cheie în echipa lui Pep Guardiola, contribuind la numeroase succese, se pare că Silva a refuzat anterior un rol în cadrul clubului, iar acum este pregătit să își încheie perioada de joc la echipa engleză. Plecarea sa ar marca o schimbare importantă în lotul campioanei Angliei și ar deschide noi perspective pentru cariera sa.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-05-15T18:19:05.271588+00:00",
+      "data_afisaj": "15 mai 2026, 21:19"
+    },
+    {
+      "id": "31341bd2339b",
+      "titlu": "Proprietarul unui club de fotbal acuzat că a încasat peste 28.000 de lire sterline de la părinții jucătorilor",
+      "rezumat": "Proprietarul clubului de fotbal feminin Red Star Lionesses, Jamie Austin, este acuzat de părinți că ar fi încasat peste 28.000 de lire sterline pentru turnee care nu au avut loc, echipamente care nu au fost livrate și sesiuni de antrenament cu jucătoare din Women's Super League care nu s-au concretizat. Afirmațiile sunt în prezent analizate de poliție și de Asociația de Fotbal. Austin, care are două condamnări anterioare pentru fraudă, se confruntă cu acuzații din partea a peste 70 de părinți.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-15T18:19:05.273600+00:00",
+      "data_afisaj": "15 mai 2026, 21:19"
+    },
+    {
+      "id": "1f5286b53373",
+      "titlu": "Plecările lui Kerr, Mead și Shaw marchează sfârșitul unei ere în Women's Super League",
+      "rezumat": "Finala sezonului din Women's Super League marchează sfârșitul unei ere, nu doar prin expansiunea viitoare a diviziei la 14 echipe, ci și prin plecarea mai multor jucătoare emblematice. Printre acestea se numără Sam Kerr de la Chelsea, Beth Mead de la Arsenal și Bunny Shaw, ale căror contracte expiră. Aceste plecări semnificative vor schimba radical liniile ofensive ale multor cluburi de top și vor influența dinamica campionatului, deschizând un nou capitol pentru fotbalul feminin englez.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-15T18:19:05.275557+00:00",
+      "data_afisaj": "15 mai 2026, 21:19"
+    },
     {
       "id": "665bc9813310",
       "titlu": "Daniel Farke cere ca Leeds să-i egaleze ambiția pentru a rămâne la club",
@@ -1426,52 +1470,6 @@
       ],
       "data_publicare": "2026-05-09T08:28:53.001775+00:00",
       "data_afisaj": "9 mai 2026, 11:28"
-    },
-    {
-      "id": "5970b10b86df",
-      "titlu": "Startul Playoff-urilor Championship: Hull City vs Millwall în Semifinale",
-      "rezumat": "Playoff-urile Championship au debutat cu prima manșă a semifinalei dintre Hull City și Millwall. După un sezon regulat intens de 46 de etape, aceste echipe, despărțite de doar 10 puncte în clasament, se luptă acum pentru un loc în Premier League. Millwall a ratat la limită promovarea directă, în timp ce Hull City și-a asigurat prezența în playoff printr-o marjă restrânsă. Această partidă marchează începutul crucial al bătăliei pentru promovare în eșalonul superior al fotbalului englez.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-08T18:07:11.294820+00:00",
-      "data_afisaj": "8 mai 2026, 21:07"
-    },
-    {
-      "id": "cc605eaa8c12",
-      "titlu": "FIFA Triplează Prețul Biletelor de Top pentru Finala Cupei Mondiale 2026",
-      "rezumat": "FIFA a anunțat o creștere semnificativă a prețurilor pentru cele mai exclusiviste bilete la finala Cupei Mondiale din 2026, ajungând la 32.970 de dolari pentru locurile din categoria Front Category 1. Această decizie a generat îngrijorări în rândul politicienilor americani, care au trimis o scrisoare președintelui FIFA, Gianni Infantino, exprimându-și nemulțumirea față de politica de prețuri. Prețul anterior maxim pentru un bilet din categoria 1 fusese de 10.990 de dolari, iar biletele de revânzare pentru finală sunt listate între 8.000 și 11,5 milioane de dolari.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-08T18:07:11.296515+00:00",
-      "data_afisaj": "8 mai 2026, 21:07"
-    },
-    {
-      "id": "f5f9730e8882",
-      "titlu": "Până la Nouă Cluburi Englezești s-ar Putea Califica în Competițiile Europene",
-      "rezumat": "Un număr potențial record de până la nouă cluburi englezești ar putea obține calificarea în competițiile europene pentru sezonul viitor, o performanță istorică pentru fotbalul britanic. O analiză detaliată realizată de Sky Sports explorează diversele scenarii și combinații de rezultate în Premier League și în cupele europene, care ar putea conduce la o prezență atât de masivă a echipelor englezești pe scena continentală. Această perspectivă subliniază forța și profunzimea actuală a fotbalului din Anglia.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-05-08T18:07:11.298153+00:00",
-      "data_afisaj": "8 mai 2026, 21:07"
-    },
-    {
-      "id": "70821da7497b",
-      "titlu": "Andoni Iraola, Principalul Candidat pentru Postul de Antrenor la Crystal Palace",
-      "rezumat": "Andoni Iraola, actualul manager al echipei Bournemouth, se află în fruntea listei scurte de candidați pentru a prelua funcția de antrenor principal la Crystal Palace. Clubul londonez este în căutarea unui înlocuitor pentru Oliver Glasner, care este programat să părăsească echipa la sfârșitul sezonului. Decizia privind noul antrenor este considerată crucială pentru direcția și performanța viitoare a clubului din Premier League, având în vedere ambițiile acestuia.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-08T18:07:11.299683+00:00",
-      "data_afisaj": "8 mai 2026, 21:07"
     }
   ]
 }
