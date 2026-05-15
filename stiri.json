@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-15T10:23:01.954525+00:00",
-  "updated_at_afisaj": "15 mai 2026, 13:23",
+  "updated_at": "2026-05-15T17:43:10.940037+00:00",
+  "updated_at_afisaj": "15 mai 2026, 20:43",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,55 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 129,
+  "numar_stiri": 128,
   "stiri": [
+    {
+      "id": "665bc9813310",
+      "titlu": "Daniel Farke cere ca Leeds să-i egaleze ambiția pentru a rămâne la club",
+      "rezumat": "Antrenorul principal al echipei Leeds, Daniel Farke, a declarat că nu este \"alegerea potrivită\" pentru a rămâne la conducerea clubului dacă acesta nu-i va egala ambiția în timpul verii. Declarația subliniază importanța investițiilor și a planurilor de dezvoltare pentru a menține echipa competitivă. Farke a subliniat necesitatea unei viziuni comune pentru viitorul clubului, sugerând că plecarea sa este o posibilitate în cazul unor divergențe.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-15T17:43:10.934469+00:00",
+      "data_afisaj": "15 mai 2026, 20:43"
+    },
+    {
+      "id": "b3a7a250dd43",
+      "titlu": "Romelu Lukaku, inclus în lotul Belgiei pentru Cupa Mondială, deși \"nu este în formă\"",
+      "rezumat": "Atacantul Romelu Lukaku a fost inclus în lotul Belgiei pentru Cupa Mondială, în ciuda declarațiilor antrenorului Rudi Garcia, care a afirmat că jucătorul \"nu este în formă\". Decizia de a-l convoca pe Lukaku, chiar și cu rezerve privind condiția sa fizică, subliniază importanța sa pentru echipa națională și speranța că va atinge forma optimă până la debutul turneului. Această selecție a stârnit discuții în presa sportivă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-05-15T17:43:10.936419+00:00",
+      "data_afisaj": "15 mai 2026, 20:43"
+    },
+    {
+      "id": "2d8f242370df",
+      "titlu": "Arbitrul John Beaton, sub supraveghere polițienească în Scoția, după controverse",
+      "rezumat": "Federația Scoțiană de Fotbal (SFA) a anunțat că arbitrul John Beaton și familia sa au fost plasați sub supraveghere polițienească, în urma controverselor recente legate de deciziile de penalty. SFA a criticat \"narativa media isterică\" și a vizat declarațiile managerului Hearts, Derek McInnes, care a numit o decizie a lui Beaton \"dezgustătoare\", subliniind presiunea intensă asupra oficialilor din fotbalul scoțian.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-15T17:43:10.938204+00:00",
+      "data_afisaj": "15 mai 2026, 20:43"
+    },
+    {
+      "id": "6981adad286c",
+      "titlu": "Matthijs de Ligt de la Manchester United ratează Cupa Mondială după operația la spate",
+      "rezumat": "Fundașul echipei Manchester United, Matthijs de Ligt, va rata Cupa Mondială din 2026, după ce a acceptat în cele din urmă să se opereze pentru o problemă cronică la spate. Decizia vine după o lungă luptă pentru a evita intervenția chirurgicală, iar absența sa reprezintă o lovitură semnificativă atât pentru clubul său, cât și pentru echipa națională la turneul final. Recuperarea sa este estimată să dureze mai multe luni.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-15T17:43:10.940017+00:00",
+      "data_afisaj": "15 mai 2026, 20:43"
+    },
     {
       "id": "9df03ca2545b",
       "titlu": "Antrenorul U18 Manchester United, Darren Fletcher, acuză FA că a permis Manchester City să preia controlul finalei Youth Cup",
@@ -1425,67 +1472,6 @@
       ],
       "data_publicare": "2026-05-08T18:07:11.299683+00:00",
       "data_afisaj": "8 mai 2026, 21:07"
-    },
-    {
-      "id": "dc96617ba787",
-      "titlu": "Adrian Mutu a dezvăluit noul antrenor al Rapidului",
-      "rezumat": "Fostul internațional român Adrian Mutu a declarat că Rapid București a ajuns la un acord cu noul său antrenor. Deși numele nu a fost confirmat oficial de club, Mutu a menționat că înțelegerea este rezolvată, sugerând o decizie iminentă privind banca tehnică a echipei. Această veste vine în contextul căutărilor Rapidului pentru un nou tehnician care să conducă echipa în viitorul sezon, după o perioadă de incertitudine la nivel de conducere sportivă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-05-08T17:23:21.198550+00:00",
-      "data_afisaj": "8 mai 2026, 20:23"
-    },
-    {
-      "id": "be1a7bc0696a",
-      "titlu": "Bruno Fernandes, desemnat Jucătorul Anului de Asociația Jurnaliștilor de Fotbal",
-      "rezumat": "Căpitanul echipei Manchester United, Bruno Fernandes, a fost votat Jucătorul Anului de către Asociația Jurnaliștilor de Fotbal (FWA) pentru sezonul 2025/26. Mijlocașul portughez a fost recunoscut pentru performanțele sale excepționale, contribuind semnificativ la jocul echipei sale prin goluri, pase decisive și leadership. Acest premiu subliniază influența sa majoră în Premier League și rolul său central în strategia lui Manchester United pe parcursul campaniei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-05-08T17:23:21.200200+00:00",
-      "data_afisaj": "8 mai 2026, 20:23"
-    },
-    {
-      "id": "eac5964102c1",
-      "titlu": "Khadija Shaw, numită Jucătoarea Anului de Asociația Jurnaliștilor de Fotbal",
-      "rezumat": "Atacanta echipei Manchester City, Khadija Shaw, a fost desemnată Jucătoarea Anului de către Asociația Jurnaliștilor de Fotbal (FWA) pentru sezonul 2025/26. Supranumită \"Bunny\", Shaw a avut un sezon remarcabil, contribuind decisiv la succesul echipei sale în Women's Super League. Recunoașterea din partea jurnaliștilor subliniază impactul său ofensiv și importanța sa pentru Manchester City în campania recent încheiată.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-05-08T17:23:21.201801+00:00",
-      "data_afisaj": "8 mai 2026, 20:23"
-    },
-    {
-      "id": "9bddd3475080",
-      "titlu": "Bournemouth îl suspendă pe Alex Jimenez în urma unei investigații privind postări pe rețelele sociale",
-      "rezumat": "Clubul AFC Bournemouth l-a suspendat pe fundașul Alex Jimenez din lotul echipei, în urma deschiderii unei investigații legate de postări pe rețelele de socializare. Decizia vine după ce au apărut acuzații privind presupuse schimburi de mesaje între Jimenez și o persoană care s-a declarat o fată de 15 ani. Clubul a confirmat că este la curent cu postările și a luat măsuri imediate, scoțându-l pe jucător din lot pentru meciul următor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-08T17:23:21.203521+00:00",
-      "data_afisaj": "8 mai 2026, 20:23"
-    },
-    {
-      "id": "a6bede9a357e",
-      "titlu": "Southampton, sub investigație pentru spionaj la antrenamentul lui Middlesbrough",
-      "rezumat": "Clubul Southampton este investigat de Liga de Fotbal din Anglia (EFL) după ce a fost acuzat că ar fi spionat o sesiune de antrenament a rivalilor din play-off-ul Championship, Middlesbrough. Incidentul a avut loc înaintea primei manșe a semifinalei play-off-ului, iar Middlesbrough a raportat cazul, considerând că spionajul la antrenamentele adversarilor încalcă regulamentele ligii. Furia clubului Middlesbrough este evidentă, cerând o accelerare a procesului de investigație.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-05-08T17:23:21.205125+00:00",
-      "data_afisaj": "8 mai 2026, 20:23"
     }
   ]
 }
