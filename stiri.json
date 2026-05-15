@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-14T18:30:41.495981+00:00",
-  "updated_at_afisaj": "14 mai 2026, 21:30",
+  "updated_at": "2026-05-15T09:50:07.869741+00:00",
+  "updated_at_afisaj": "15 mai 2026, 12:50",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 127,
+  "numar_stiri": 124,
   "stiri": [
+    {
+      "id": "24ef8c3bf513",
+      "titlu": "Marcos Senesi va părăsi Bournemouth la finalul sezonului",
+      "rezumat": "Fundașul argentinian Marcos Senesi va pleca de la Bournemouth la sfârșitul sezonului, odată cu expirarea contractului său. Senesi a petrecut patru sezoane la clubul Cherries de la sosirea sa de la Feyenoord. Plecarea sa pe un transfer gratuit ar putea stârni interesul mai multor cluburi, inclusiv Liverpool și Tottenham, care au fost anterior legate de o mutare. Această decizie marchează o schimbare importantă în lotul echipei. Anunțul a fost confirmat de club.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-15T09:50:07.863452+00:00",
+      "data_afisaj": "15 mai 2026, 12:50"
+    },
+    {
+      "id": "b83ad66772d2",
+      "titlu": "Seamus Coleman își încheie cariera de jucător la Everton după 17 ani",
+      "rezumat": "Seamus Coleman își va încheia cariera de jucător la Everton la sfârșitul acestui sezon, când contractul său va expira, după 17 ani petrecuți la club. Fundașul irlandez a devenit o legendă a clubului, fiind adus pentru doar 60.000 de lire sterline. Plecarea sa marchează sfârșitul unei ere pentru Everton și pentru fanii care l-au admirat pentru dedicarea și performanțele sale constante. Anunțul a fost făcut oficial de club.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-15T09:50:07.865115+00:00",
+      "data_afisaj": "15 mai 2026, 12:50"
+    },
+    {
+      "id": "05923271a124",
+      "titlu": "Jucătorii lui Chelsea îl susțin pe Xabi Alonso pentru postul de antrenor",
+      "rezumat": "Jucătorii lui Chelsea consideră că Xabi Alonso este candidatul ideal pentru a deveni următorul lor antrenor principal. Discuțiile cu reprezentanții spaniolului progresează, iar sentimentul în vestiar este că fostul antrenor de la Real Madrid și Bayer Leverkusen este omul potrivit pentru a readuce echipa pe drumul cel bun. Deși nu există încă un acord final, Chelsea analizează cu atenție opțiunile pentru numirea succesorului, iar Alonso pare a fi o alegere populară.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-15T09:50:07.866745+00:00",
+      "data_afisaj": "15 mai 2026, 12:50"
+    },
+    {
+      "id": "269ec633a245",
+      "titlu": "Trei noi erori VAR confirmate de panelul Premier League",
+      "rezumat": "Panelul de Incidente Cheie ale Meciurilor din Premier League a confirmat încă trei erori ale sistemului de asistență video (VAR). Această decizie ridică numărul total de erori confirmate în acest sezon la 23. Confirmarea acestor greșeli subliniază preocupările continue legate de implementarea și eficacitatea tehnologiei VAR în fotbalul englez, alimentând dezbaterile privind impactul său asupra rezultatelor meciurilor și corectitudinii competiției.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-15T09:50:07.868218+00:00",
+      "data_afisaj": "15 mai 2026, 12:50"
+    },
+    {
+      "id": "7a329b2a6674",
+      "titlu": "David Beckham devine primul sportiv miliardar din Marea Britanie",
+      "rezumat": "Fostul căpitan al Angliei, Sir David Beckham, a devenit primul sportiv miliardar din Marea Britanie, conform listei Sunday Times Rich List din 2026. Această realizare subliniază succesul său continuu nu doar în cariera sportivă, ci și în afaceri și marketing, transformându-l într-o figură iconică la nivel global. Averea sa provine din diverse investiții și parteneriate comerciale, consolidându-i statutul de personalitate influentă în sport și dincolo de el.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-15T09:50:07.869720+00:00",
+      "data_afisaj": "15 mai 2026, 12:50"
+    },
     {
       "id": "f706d5a9c4ce",
       "titlu": "Kerr va părăsi Chelsea la sfârșitul sezonului",
@@ -1375,98 +1431,6 @@
       ],
       "data_publicare": "2026-05-08T17:23:21.205125+00:00",
       "data_afisaj": "8 mai 2026, 20:23"
-    },
-    {
-      "id": "7979cdb42298",
-      "titlu": "Villa spulberă Forest pentru a ajunge în finala Europa League",
-      "rezumat": "Aston Villa a spulberat Nottingham Forest cu 4-0 pe Villa Park, câștigând cu 4-1 la general și ajungând în finala Europa League.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-05-08T09:20:27.725204+00:00",
-      "data_afisaj": "8 mai 2026, 12:20"
-    },
-    {
-      "id": "7791e54025de",
-      "titlu": "Valverde de la Real Madrid are copci după o ceartă cu coechipierul Tchouaméni",
-      "rezumat": "Valverde l-a acuzat pe francez că a divulgat o dispută anterioară. Real joacă duminică împotriva Barcelonei, cu titlul pe masă. Fede Valverde de la Real Madrid a fost dus la spital pentru a i se pune copci după o a doua confruntare cu coechipierul Aurélien Tchouaméni în două zile, pe măsură ce colapsul clubului în haos continuă. Jucătorii au ținut o ședință de urgență, iar Real a deschis proceduri disciplinare după o luptă fizică, cu sânge vărsat și Valverde dus la tratament. Citește mai departe...",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-08T09:20:27.727037+00:00",
-      "data_afisaj": "8 mai 2026, 12:20"
-    },
-    {
-      "id": "268a21c29365",
-      "titlu": "Vibrantă și victorioasă - Villa gata să pună capăt unei secete de trofee de 30 de ani",
-      "rezumat": "Când Unai Emery a ajuns la Aston Villa, a declarat că vrea să câștige trofee. Acum este la doar un meci distanță de un trofeu, după o victorie zdrobitoare în semifinala Europa League împotriva lui Nottingham Forest.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-08T09:20:27.728690+00:00",
-      "data_afisaj": "8 mai 2026, 12:20"
-    },
-    {
-      "id": "738e5d6a7951",
-      "titlu": "Jucători în vacanță? De ce lipsa de motivație este dificil de gestionat",
-      "rezumat": "Tony Pulis despre de ce motivarea jucătorilor care nu mai au pentru ce să joace este doar una dintre provocările cu care se confruntă un antrenor la sfârșitul sezonului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-08T09:20:27.730327+00:00",
-      "data_afisaj": "8 mai 2026, 12:20"
-    },
-    {
-      "id": "62b88b319f55",
-      "titlu": "Adio-ul lung al lui Glasner de la Palace pregătește o finală 'perfectă'",
-      "rezumat": "Crystal Palace nu a vrut cu disperare să fie în Conference League - acum sunt la un meci distanță de a o câștiga și de a crea mai multă istorie a clubului și o finală „perfectă” pentru antrenorul Oliver Glasner.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-08T09:20:27.731892+00:00",
-      "data_afisaj": "8 mai 2026, 12:20"
-    },
-    {
-      "id": "4f239a0cab93",
-      "titlu": "Aston Villa se califică în finala Europa League",
-      "rezumat": "Aston Villa a învins-o pe Nottingham Forest cu scorul de 4-0 pe Villa Park, asigurându-și calificarea în finala Europa League cu un scor general de 4-1. Echipa a demonstrat o formă excelentă în semifinala retur, dominând adversarul și confirmând ambițiile de a câștiga un trofeu european după o pauză lungă. Această performanță marchează un moment important pentru club și fanii săi, aducând speranța unui succes continental.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-05-08T08:22:58.719930+00:00",
-      "data_afisaj": "8 mai 2026, 11:22"
-    },
-    {
-      "id": "56a78341d07c",
-      "titlu": "Crystal Palace avansează în finala Conference League",
-      "rezumat": "Crystal Palace a reușit să treacă de Shakhtar Donetsk și s-a calificat în finala Conference League, unde va întâlni pe Rayo Vallecano. Echipa antrenată de Oliver Glasner a rezistat presiunii adversarilor, asigurându-și prezența în ultimul act al competiției europene. Această performanță reprezintă o realizare istorică pentru club, care ajunge într-o finală europeană pentru prima dată în istoria sa. Fanii au sărbătorit cu entuziasm calificarea.",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-08T08:22:58.721522+00:00",
-      "data_afisaj": "8 mai 2026, 11:22"
-    },
-    {
-      "id": "acdbc9efe720",
-      "titlu": "Cluburile englezești, performanță istorică: trei finale europene în același sezon",
-      "rezumat": "Pentru prima dată în istorie, cluburile englezești au reușit să se califice în finalele tuturor celor trei competiții europene majore într-un singur sezon. Această performanță subliniază dominația și forța fotbalului englez la nivel continental, cu echipe din Premier League ajungând în finalele Ligii Campionilor, Europa League și Conference League. Este o dovadă a calității și profunzimii fotbalului din Anglia, marcând un moment de referință.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-08T08:22:58.723317+00:00",
-      "data_afisaj": "8 mai 2026, 11:22"
     }
   ]
 }
