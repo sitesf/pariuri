@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-16T09:40:46.359970+00:00",
-  "updated_at_afisaj": "16 mai 2026, 12:40",
+  "updated_at": "2026-05-16T17:02:27.691535+00:00",
+  "updated_at_afisaj": "16 mai 2026, 20:02",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,70 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 121,
+  "numar_stiri": 122,
   "stiri": [
+    {
+      "id": "39b42e2b6c0f",
+      "titlu": "Mohamed Salah cere Liverpool să revină la stilul de joc „heavy metal”",
+      "rezumat": "Atacantul egiptean Mohamed Salah a declarat că Liverpool trebuie să redevină o „echipă ofensivă de tip heavy metal, de care adversarii să se teamă”, după un sezon în care nu a câștigat niciun trofeu. Declarația subliniază dorința jucătorului de a vedea o schimbare de abordare tactică pentru a readuce clubul în lupta pentru marile competiții și pentru a-și recăpăta identitatea dominantă pe teren.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-16T17:02:27.684671+00:00",
+      "data_afisaj": "16 mai 2026, 20:02"
+    },
+    {
+      "id": "54d067fdf906",
+      "titlu": "Manchester City câștigă Cupa Angliei grație unui gol spectaculos al lui Semenyo",
+      "rezumat": "Manchester City a cucerit Cupa Angliei după o victorie cu 1-0 împotriva lui Chelsea în finala de pe Wembley. Unicul gol al partidei a fost marcat de Antoine Semenyo, printr-o execuție „specială”, un călcâi improvizat, care a asigurat trofeul pentru echipa lui Pep Guardiola și a completat o dublă cupă internă. Victoria confirmă încă o dată forța echipei din Manchester în competițiile interne.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-16T17:02:27.686391+00:00",
+      "data_afisaj": "16 mai 2026, 20:02"
+    },
+    {
+      "id": "9775872939c2",
+      "titlu": "Manchester City a ridicat trofeul Women's Super League după victoria cu West Ham",
+      "rezumat": "Echipa feminină Manchester City, campioana en-titre a Women's Super League, și-a încheiat sezonul cu o victorie convingătoare în fața lui West Ham. Khadija Shaw a marcat de două ori în partida câștigată cu 4-1, înainte ca echipa să ridice trofeul, sărbătorind un nou titlu în fotbalul feminin englez. Acest succes subliniază dominanța continuă a clubului în campionatul feminin.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-16T17:02:27.688102+00:00",
+      "data_afisaj": "16 mai 2026, 20:02"
+    },
+    {
+      "id": "49a4c3b387ea",
+      "titlu": "Jordan Pickford: Anglia este una dintre cele mai bune echipe la Cupa Mondială",
+      "rezumat": "Portarul naționalei Angliei, Jordan Pickford, a declarat că este convins că echipa sa este „una dintre cele mai bune” la viitoarea Cupă Mondială. Jucătorul de la Everton, care se pregătește pentru a treia sa participare la un Mondial cu „Cei Trei Lei”, a subliniat că succesul va depinde de capacitatea echipei de a-și arăta cea mai bună versiune pe teren și de a gestiona presiunea competiției.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-05-16T17:02:27.689814+00:00",
+      "data_afisaj": "16 mai 2026, 20:02"
+    },
+    {
+      "id": "764273f3d8af",
+      "titlu": "Celtic a câștigat titlul în Premiership-ul Scoțian după o finală dramatică cu Hearts",
+      "rezumat": "Celtic a fost încoronată campioană în Premiership-ul Scoțian pentru al cincilea sezon consecutiv, după o victorie dramatică cu 3-1 împotriva lui Hearts în ultima etapă. Echipa lui Martin O'Neill a depășit Hearts într-o cursă strânsă pentru titlu, decisă în ultimele momente ale sezonului, după o urmărire de opt luni. Victoria a declanșat scene de bucurie pe stadion, confirmând dominanța lui Celtic în fotbalul scoțian și oferind un final memorabil campionatului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-16T17:02:27.691516+00:00",
+      "data_afisaj": "16 mai 2026, 20:02"
+    },
     {
       "id": "304184d329c6",
       "titlu": "Celtic și Hearts se pregătesc pentru un duel decisiv pentru titlu în Premiership-ul Scoțian",
@@ -1346,52 +1408,6 @@
       ],
       "data_publicare": "2026-05-09T17:43:33.431270+00:00",
       "data_afisaj": "9 mai 2026, 20:43"
-    },
-    {
-      "id": "d701927ff57f",
-      "titlu": "Arne Slot, Antrenorul lui Liverpool, Vizează Recâștigarea Încrederii Fanilor",
-      "rezumat": "Antrenorul lui Liverpool, Arne Slot, a recunoscut că nu va putea recâștiga sprijinul total al fanilor în acest sezon, după huiduielile de pe Anfield de sâmbătă. Cu toate acestea, Slot s-a declarat încrezător că va reuși să restabilească încrederea suporterilor după încheierea ferestrei de transferuri din vară, sugerând o schimbare de strategie și de lot pentru a aduce rezultatele dorite și a îmbunătăți performanțele echipei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-05-09T16:59:56.576633+00:00",
-      "data_afisaj": "9 mai 2026, 19:59"
-    },
-    {
-      "id": "df9debd60d8d",
-      "titlu": "Bournemouth Își Consolidează Ambițiile Europene cu o Victorie Crucială Împotriva lui Fulham",
-      "rezumat": "Bournemouth a făcut un pas important spre calificarea în competițiile europene, învingând Fulham cu 1-0 într-un meci tensionat, în care ambele echipe au terminat cu câte zece jucători. Golul decisiv, marcat de Rayan, a venit într-un moment de calm pe fondul unei partide intense. Această victorie extinde seria remarcabilă de 16 meciuri fără înfrângere a lui Bournemouth, în timp ce pentru Fulham, înfrângerea ridică semne de întrebare privind direcția viitoare a clubului și contractul antrenorului Marco Silva.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-05-09T16:59:56.578480+00:00",
-      "data_afisaj": "9 mai 2026, 19:59"
-    },
-    {
-      "id": "fde56ed70c98",
-      "titlu": "Middlesbrough și Southampton, Egal în Prima Manșă a Semifinalei de Playoff Championship",
-      "rezumat": "Middlesbrough și Southampton au încheiat la egalitate, scor 0-0, prima manșă a semifinalei de playoff din Championship. Rezultatul lasă calificarea în finală deschisă pentru retur, ambele echipe având șanse egale de a avansa. Meciul a fost unul echilibrat, fără goluri, subliniind importanța partidei decisive care va urma pentru a determina cine va lupta pentru promovarea în Premier League. Tensiunile au fost amplificate de acuzațiile de spionaj dinaintea meciului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-05-09T16:59:56.580245+00:00",
-      "data_afisaj": "9 mai 2026, 19:59"
-    },
-    {
-      "id": "dbf5d06b989c",
-      "titlu": "Manchester United Ratează Șansa de a-și Asigura Locul Trei în Premier League",
-      "rezumat": "Manchester United nu a reușit să-și asigure locul trei în clasamentul Premier League, după ce a remizat 0-0 împotriva lui Sunderland. Echipa antrenată de Michael Carrick, care a avut o serie impresionantă de victorii de la preluarea interimară a conducerii, a arătat o lipsă de fluență în joc, în ciuda celor cinci modificări aduse în echipă. Acest rezultat reprezintă o reamintire a provocărilor cu care se confruntă United în efortul de a redeveni o forță majoră în fotbalul englez.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-09T16:59:56.582013+00:00",
-      "data_afisaj": "9 mai 2026, 19:59"
     }
   ]
 }
