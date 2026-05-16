@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-16T17:02:27.691535+00:00",
-  "updated_at_afisaj": "16 mai 2026, 20:02",
+  "updated_at": "2026-05-16T17:51:14.374881+00:00",
+  "updated_at_afisaj": "16 mai 2026, 20:51",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,42 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 122,
+  "numar_stiri": 120,
   "stiri": [
+    {
+      "id": "abf7f5c90151",
+      "titlu": "Achizițiile din ianuarie ale lui Manchester City, decisive în finala Cupei Angliei",
+      "rezumat": "Jucătorii transferați în ianuarie, Antoine Semenyo și Marc Guehi, au avut prestații remarcabile pentru Manchester City în victoria tensionată cu 1-0 împotriva lui Chelsea, în finala Cupei Angliei de pe Wembley. Contribuția lor a fost crucială în asigurarea trofeului pentru echipa lui Pep Guardiola, demonstrând impactul imediat al investițiilor făcute în perioada de transferuri de iarnă. Semenyo a marcat unicul gol al partidei, iar Guehi a consolidat apărarea, fiind doi dintre cei mai buni jucători de pe teren.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-16T17:51:14.370201+00:00",
+      "data_afisaj": "16 mai 2026, 20:51"
+    },
+    {
+      "id": "4a11e3e81bf6",
+      "titlu": "Bayern Munchen câștigă titlul în Bundesliga cu un hat-trick al lui Kane; Lewandowski pleacă de la Barcelona",
+      "rezumat": "Bayern Munchen a sărbătorit cel de-al 35-lea titlu în Bundesliga, în ultima etapă a sezonului, după o victorie convingătoare cu 5-1 împotriva lui FC Köln, meci în care Harry Kane a reușit un hat-trick. Între timp, Robert Lewandowski, în vârstă de 37 de ani, care a marcat 119 goluri pentru clubul catalan, este pregătit să părăsească FC Barcelona. Aceste evenimente marchează momente cheie în fotbalul european, influențând viitorul a două mari cluburi.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-16T17:51:14.373182+00:00",
+      "data_afisaj": "16 mai 2026, 20:51"
+    },
+    {
+      "id": "3e5eb941cfa5",
+      "titlu": "Strategia de vară a lui Manchester United: plecări și ținte de transfer",
+      "rezumat": "Manchester United își conturează strategia pentru perioada de transferuri din vară, cu Marcus Rashford și Manuel Ugarte printre principalii candidați la plecare. Pe lista de achiziții se numără Elliot Anderson și Adam Wharton. De asemenea, plecarea lui Casemiro a fost deja confirmată. Clubul vizează consolidarea lotului pentru a face față provocărilor din Champions League și pentru a-și îmbunătăți performanțele în competițiile interne, căutând jucători care să se integreze în viziunea antrenorului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-16T17:51:14.374862+00:00",
+      "data_afisaj": "16 mai 2026, 20:51"
+    },
     {
       "id": "39b42e2b6c0f",
       "titlu": "Mohamed Salah cere Liverpool să revină la stilul de joc „heavy metal”",
@@ -1351,63 +1385,6 @@
       ],
       "data_publicare": "2026-05-10T08:57:04.963236+00:00",
       "data_afisaj": "10 mai 2026, 11:57"
-    },
-    {
-      "id": "2db056b8841a",
-      "titlu": "Manchester City Continuă Presiunea în Lupta pentru Titlu în Premier League",
-      "rezumat": "Manchester City a jucat împotriva lui Brentford într-un meci crucial din Premier League, încercând să mențină presiunea asupra lui Arsenal în cursa pentru titlu. Partida a fost una dintre cele șapte rămase pentru a decide campioana. Discuțiile pre-meci au inclus comparații între eficacitatea unui marcator prolific precum Haaland, cu 25 de goluri, și abordarea mai echilibrată a lui Arsenal, unde golurile vin de la mai mulți jucători. Această confruntare subliniază complexitatea strategiilor în lupta pentru supremație.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-09T17:43:33.423366+00:00",
-      "data_afisaj": "9 mai 2026, 20:43"
-    },
-    {
-      "id": "d6c4e4816c1b",
-      "titlu": "Povești Uitade din Istoria Cupei Mondiale a SUA: De la Accidentări Grave la Eroi Dispăruți",
-      "rezumat": "Pe măsură ce fanii fotbalului își îndreaptă atenția către viitorul sportului în Statele Unite, o analiză recentă readuce în prim-plan patru momente adesea trecute cu vederea, alături de o lovitură celebră, care au modelat trecutul Cupei Mondiale pe pământ american. Ultima dată când SUA a găzduit Cupa Mondială masculină, în 1994, fotbalul era perceput de mulți americani ca un joc pentru copii. Treizeci și doi de ani mai târziu, popularitatea sportului a explodat, iar aceste povești istorice oferă o perspectivă unică asupra evoluției sale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-05-09T17:43:33.425380+00:00",
-      "data_afisaj": "9 mai 2026, 20:43"
-    },
-    {
-      "id": "8e77554daddd",
-      "titlu": "Chelsea Întrerupe Seria Negativă și Își Consolidează Moralul Înainte de Finala Cupei Angliei",
-      "rezumat": "Echipa Chelsea a reușit să evite o situație istorică negativă, aceea de a deveni prima formație din fotbalul englez care pierde șapte meciuri consecutive în campionat înainte de o finală de Cupa Angliei. Deși s-au văzut conduși cu 1-0 pe Anfield, jucătorii au găsit resurse pentru a reveni și a obține un rezultat care le-a oprit declinul. Această performanță este crucială pentru moralul echipei, oferindu-le un impuls semnificativ înaintea confruntării decisive din finala Cupei Angliei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-09T17:43:33.427297+00:00",
-      "data_afisaj": "9 mai 2026, 20:43"
-    },
-    {
-      "id": "bf3e4eea7066",
-      "titlu": "Artiști Renumiți Vor Cânta la Cele Trei Ceremonii de Deschidere ale Cupei Mondiale",
-      "rezumat": "Cupa Mondială din această vară va beneficia de prezența unor nume mari din industria muzicală la cele trei ceremonii de deschidere. Printre artiștii confirmați se numără Katy Perry, Michael Buble și Alanis Morissette, care vor susține spectacole memorabile. Această abordare cu multiple ceremonii de deschidere promite un eveniment global grandios, combinând spectacolul sportiv cu divertismentul de talie mondială, pentru a marca începutul competiției mult așteptate.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-09T17:43:33.429179+00:00",
-      "data_afisaj": "9 mai 2026, 20:43"
-    },
-    {
-      "id": "35dd67b36bec",
-      "titlu": "Arsenal Feminin Își Asigură Locul în Liga Campionilor cu o Victorie Convingătoare Împotriva lui Aston Villa",
-      "rezumat": "Echipa feminină a lui Arsenal a obținut o victorie categorică, scor 3-0, împotriva lui Aston Villa în Women's Super League (WSL), confirmându-și astfel calificarea în Liga Campionilor pentru sezonul viitor. Alessia Russo a fost jucătoarea cheie a meciului, având o prestație remarcabilă care a contribuit decisiv la succesul echipei. Acest rezultat subliniază ambițiile clubului Arsenal în fotbalul feminin și le asigură un loc în cea mai prestigioasă competiție europeană inter-cluburi.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-09T17:43:33.431270+00:00",
-      "data_afisaj": "9 mai 2026, 20:43"
     }
   ]
 }
