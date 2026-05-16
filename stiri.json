@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-15T18:19:05.275587+00:00",
-  "updated_at_afisaj": "15 mai 2026, 21:19",
+  "updated_at": "2026-05-16T08:50:11.652010+00:00",
+  "updated_at_afisaj": "16 mai 2026, 11:50",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,19 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 128,
+  "numar_stiri": 124,
   "stiri": [
+    {
+      "id": "d454b5303444",
+      "titlu": "Pep Guardiola insistă că își va duce la bun sfârșit contractul cu Manchester City",
+      "rezumat": "Antrenorul Pep Guardiola a declarat că mai are 'încă un an' din contractul său cu Manchester City, în ciuda speculațiilor privind viitorul său la club. Guardiola a descris deceniul petrecut la City ca fiind 'foarte distractiv' și a sugerat că finala Cupei Angliei împotriva lui Chelsea ar putea să nu fie ultima sa apariție pe Wembley. Deși contractul său expiră în vara anului 2027, există așteptări crescânde că ar putea părăsi clubul la sfârșitul sezonului curent.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-16T08:50:11.650889+00:00",
+      "data_afisaj": "16 mai 2026, 11:50"
+    },
     {
       "id": "7dd942a7d4dd",
       "titlu": "Carlo Ancelotti, selecționerul Braziliei, explică de ce Neymar ar putea rata lotul pentru Cupa Mondială",
@@ -1413,63 +1424,6 @@
       ],
       "data_publicare": "2026-05-09T09:19:29.598737+00:00",
       "data_afisaj": "9 mai 2026, 12:19"
-    },
-    {
-      "id": "aae3a8e9133a",
-      "titlu": "Arteta Mobilizează Arsenal pentru Weekendul Decisiv din Premier League",
-      "rezumat": "Antrenorul lui Arsenal, Mikel Arteta, a transmis un mesaj de mobilizare jucătorilor și fanilor, în contextul în care cursa pentru titlul din Premier League se apropie de final. Arteta a subliniat importanța de a rămâne concentrați și de a trăi momentul, îndemnând echipa să își canalizeze energia în mod corect pentru ultimele etape. Declarațiile vin înaintea meciului crucial cu West Ham de duminică, într-un efort de a menține presiunea în lupta pentru campionat și de a ignora criticile externe.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-09T08:28:52.994964+00:00",
-      "data_afisaj": "9 mai 2026, 11:28"
-    },
-    {
-      "id": "0d596f987748",
-      "titlu": "Real Madrid, în Pragul unui Al Doilea Sezon Fără Trofee, Marcat de Conflicte Interne",
-      "rezumat": "Clubul iconic Real Madrid traversează o perioadă dificilă, fiind în pragul unui al doilea sezon consecutiv fără trofee majore. Rapoartele indică o săptămână tensionată, marcată de conflicte interne și haos la nivelul echipei. Un incident notabil a implicat vice-căpitanul, care a necesitat îngrijiri medicale după o altercație cu un coechipier la antrenament. Această situație tensionată vine înaintea unui meci crucial împotriva rivalilor de la Barcelona, care ar putea stinge definitiv speranțele la titlu și ar adânci criza de la Bernabeu.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-09T08:28:52.996684+00:00",
-      "data_afisaj": "9 mai 2026, 11:28"
-    },
-    {
-      "id": "5a9351000ffb",
-      "titlu": "Luis Suarez Nu Exclude o Revenire la Naționala Uruguayului pentru Cupa Mondială",
-      "rezumat": "Atacantul uruguayan Luis Suarez a declarat că nu ar refuza niciodată o convocare la echipa națională a Uruguayului, în cazul în care ar fi nevoie de serviciile sale pentru Cupa Mondială. Această afirmație vine în contextul speculațiilor privind viitorul său internațional, sugerând că, în ciuda vârstei, Suarez rămâne deschis la posibilitatea de a reprezenta țara sa la cel mai înalt nivel. Decizia finală ar depinde de nevoile selecționerului și de forma sa sportivă la momentul respectiv, însă angajamentul său față de națională rămâne puternic.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-09T08:28:52.998262+00:00",
-      "data_afisaj": "9 mai 2026, 11:28"
-    },
-    {
-      "id": "7448aafcc4d3",
-      "titlu": "West Ham, Amenințată cu Retrogradarea, la Zece Ani După Declarațiile Ambițioase ale Președintelui",
-      "rezumat": "West Ham United se confruntă cu o amenințare serioasă de retrogradare, la un deceniu după ce președintele clubului, David Sullivan, a declarat că mutarea pe Stadionul Olimpic din Londra demonstra statutul de \"club mare\" al echipei. Sullivan afirmase în 2017 că mutarea era menită să arate că West Ham nu este un \"club mic\", atrăgând jucători de calibru. Situația actuală contrastează puternic cu acele ambiții, punând sub semnul întrebării direcția clubului și eficacitatea deciziilor strategice pe termen lung.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-09T08:28:53+00:00",
-      "data_afisaj": "9 mai 2026, 11:28"
-    },
-    {
-      "id": "bc0b8c7da3d7",
-      "titlu": "FIFA a Luat o Decizie Crucială Privind Eligibilitatea lui Moises Caicedo pentru Cupa Mondială 2026",
-      "rezumat": "Federația Internațională de Fotbal (FIFA) a anunțat o decizie importantă referitoare la eligibilitatea mijlocașului Moises Caicedo pentru participarea la Cupa Mondială din 2026. Această hotărâre are implicații imediate și semnificative pentru naționalele Ecuadorului și Argentinei, afectând potențial compoziția loturilor și strategiile viitoare. Detaliile specifice ale deciziei nu au fost încă făcute publice, dar impactul asupra ambelor federații și a jucătorului însuși este considerabil, având în vedere importanța competiției.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-05-09T08:28:53.001775+00:00",
-      "data_afisaj": "9 mai 2026, 11:28"
     }
   ]
 }
