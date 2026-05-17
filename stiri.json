@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-17T17:01:09.383283+00:00",
-  "updated_at_afisaj": "17 mai 2026, 20:01",
+  "updated_at": "2026-05-17T17:53:08.257409+00:00",
+  "updated_at_afisaj": "17 mai 2026, 20:53",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 125,
+  "numar_stiri": 120,
   "stiri": [
+    {
+      "id": "f6de2db19be4",
+      "titlu": "Locul trei asigurat - ce provocări îl așteaptă pe Carrick la Manchester United?",
+      "rezumat": "Michael Carrick a reușit să asigure locul al treilea pentru Manchester United în Premier League, garantând participarea în Liga Campionilor. Acum, principala provocare pentru managerul englez este să definească direcția pe termen lung a echipei. Se analizează sarcinile cheie care îi stau în față, inclusiv consolidarea lotului, dezvoltarea tinerilor jucători și stabilirea unei strategii coerente pentru a menține clubul la cel mai înalt nivel în competițiile interne și europene.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-17T17:53:08.250846+00:00",
+      "data_afisaj": "17 mai 2026, 20:53"
+    },
+    {
+      "id": "07b79efc718b",
+      "titlu": "Este O'Neill soluția pe termen lung pentru Celtic?",
+      "rezumat": "Martin O'Neill, care în octombrie anul trecut se bucura de pensie, a orchestrat o victorie de titlu pentru Celtic. Această performanță remarcabilă ridică întrebări despre viitorul său la club. Se analizează dacă O'Neill este considerat o soluție pe termen lung pentru banca tehnică a lui Celtic sau dacă succesul său recent este o realizare pe termen scurt, în contextul planurilor de dezvoltare și stabilitate ale clubului scoțian.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-17T17:53:08.252457+00:00",
+      "data_afisaj": "17 mai 2026, 20:53"
+    },
+    {
+      "id": "9d601ff611f4",
+      "titlu": "Marco Silva nu a decis dacă rămâne la Fulham",
+      "rezumat": "Managerul lui Fulham, Marco Silva, a declarat că nu a luat încă o decizie cu privire la viitorul său la club, dincolo de sfârșitul sezonului viitor. Această incertitudine planează asupra planurilor de transfer și de dezvoltare ale echipei. Speculațiile privind o posibilă plecare a antrenorului portughez ar putea influența strategia de vară a clubului și stabilitatea pe termen mediu a proiectului sportiv de la Fulham.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-17T17:53:08.253994+00:00",
+      "data_afisaj": "17 mai 2026, 20:53"
+    },
+    {
+      "id": "8e2c24530856",
+      "titlu": "Mary Earps aproape de revenirea în Women's Super League, pe fondul plecării de la PSG",
+      "rezumat": "Fosta portăriță a naționalei Angliei, Mary Earps, este aproape de o revenire în Women's Super League (WSL), pe măsură ce plecarea sa de la Paris Saint-Germain se apropie. Această mutare ar reprezenta un transfer important în fotbalul feminin englez, aducând o jucătoare cu experiență internațională înapoi în campionatul intern. Detaliile privind clubul de destinație și termenii acordului sunt așteptate să fie clarificate în curând.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-17T17:53:08.255736+00:00",
+      "data_afisaj": "17 mai 2026, 20:53"
+    },
+    {
+      "id": "c4344271770c",
+      "titlu": "Este Bruno Fernandes cel mai creativ jucător din istoria Premier League?",
+      "rezumat": "Bruno Fernandes a egalat recordul de pase decisive într-un singur sezon de Premier League, stârnind dezbateri despre locul său în ierarhia celor mai creativi jucători din istoria campionatului. BBC Sport analizează performanțele sale, comparându-l cu alte legende ale Premier League în ceea ce privește viziunea, execuția și impactul asupra jocului ofensiv al echipei sale. Această analiză detaliază contribuția sa la crearea de ocazii și influența sa asupra rezultatelor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-17T17:53:08.257390+00:00",
+      "data_afisaj": "17 mai 2026, 20:53"
+    },
     {
       "id": "80a27f10378e",
       "titlu": "Speranțele europene ale lui Brighton, lovite puternic după golul târziu al lui Calvert-Lewin",
@@ -1328,120 +1383,6 @@
       ],
       "data_publicare": "2026-05-11T10:40:18.127549+00:00",
       "data_afisaj": "11 mai 2026, 13:40"
-    },
-    {
-      "id": "0e3d0bea104c",
-      "titlu": "Arsenal Câștigă la Limită Împotriva lui West Ham și Continuă Lupta pentru Titlu",
-      "rezumat": "Arsenal a obținut o victorie crucială cu scorul de 1-0 împotriva lui West Ham United, menținându-se în cursa pentru titlul din Premier League. Leandro Trossard a marcat golul decisiv în repriza a doua, asigurând cele trei puncte pentru echipa sa. Meciul a fost tensionat, cu o atmosferă vibrantă pe London Stadium. Echipa lui Mikel Arteta a trebuit să depună eforturi considerabile pentru a obține victoria, însă a suferit și o pierdere importantă, Ben White fiind nevoit să părăsească terenul din cauza unei accidentări.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-05-10T17:44:06.028686+00:00",
-      "data_afisaj": "10 mai 2026, 20:44"
-    },
-    {
-      "id": "9280f474ae06",
-      "titlu": "Khadija Shaw Propulsează Manchester City în Finala Cupei Angliei Feminine, Eliminând Chelsea",
-      "rezumat": "Khadija Shaw a fost eroina lui Manchester City în semifinala dramatică a Cupei Angliei Feminine, marcând golul egalizator în prelungiri și apoi golul victoriei împotriva lui Chelsea. City a revenit de la un deficit de două goluri pe Stamford Bridge, asigurându-și un loc în finala competiției, unde va întâlni Brighton. Performanța lui Shaw vine pe fondul speculațiilor privind plecarea sa de la Manchester City, cu Chelsea fiind printre cluburile interesate de serviciile golgheterei din Women's Super League.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-10T17:44:06.030721+00:00",
-      "data_afisaj": "10 mai 2026, 20:44"
-    },
-    {
-      "id": "9b5c1c1982af",
-      "titlu": "Hearts și Celtic Își Asigură Locurile în Calificările Ligii Campionilor",
-      "rezumat": "Hearts va participa în preliminariile Ligii Campionilor pentru prima dată în ultimii 20 de ani, o performanță notabilă pentru clubul scoțian. Această realizare vine după ce Celtic și-a asigurat, de asemenea, un loc în primele două poziții ale Premiership-ului Scoțian, în urma victoriei înregistrate împotriva rivalei Rangers. Ambele echipe își vor reprezenta țara în cea mai prestigioasă competiție europeană intercluburi în sezonul viitor, consolidându-și pozițiile în fotbalul scoțian.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-10T17:44:06.032506+00:00",
-      "data_afisaj": "10 mai 2026, 20:44"
-    },
-    {
-      "id": "1024575e00de",
-      "titlu": "Jucătorii Debutanți la Cupa Mondială Vor Purta Embleme Speciale pe Tricouri",
-      "rezumat": "Toți jucătorii care își vor face prima apariție la turneul final al Cupei Mondiale FIFA din această vară vor purta o emblemă specială de debut pe tricourile lor. Această inițiativă are scopul de a marca momentul important din cariera fiecărui fotbalist și de a oferi o piesă de colecție unică. Detaliile exacte ale designului emblemei nu au fost încă dezvăluite, dar se așteaptă să devină un simbol al participării la cel mai mare eveniment fotbalistic mondial, recunoscând contribuția noilor talente.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-10T17:44:06.034341+00:00",
-      "data_afisaj": "10 mai 2026, 20:44"
-    },
-    {
-      "id": "401a6dd06bd7",
-      "titlu": "Rochdale Revine în Football League După o Finală Dramatică Decisă la Penalty-uri",
-      "rezumat": "Rochdale a reușit să revină în Football League după o finală de playoff extrem de dramatică împotriva lui Boreham Wood, câștigată la loviturile de departajare cu 3-1, după ce scorul a fost 2-2 la finalul prelungirilor. Meciul a fost plin de suspans, cu răsturnări de situație și goluri marcate în ultimele minute. Această promovare reprezintă o realizare majoră pentru club, care a trecut printr-o perioadă dificilă, dar a reușit să-și îndeplinească obiectivul de a reveni în eșaloanele superioare ale fotbalului englez, spre bucuria fanilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-10T17:44:06.036265+00:00",
-      "data_afisaj": "10 mai 2026, 20:44"
-    },
-    {
-      "id": "02481195d6ab",
-      "titlu": "Brighton se Califică în Finala Cupei Angliei Feminine După o Victorie Dramatică Împotriva lui Liverpool",
-      "rezumat": "Echipa feminină Brighton a reușit o revenire spectaculoasă, învingând Liverpool cu 3-2 în semifinalele Cupei Angliei Feminine. Nadine Noordam a marcat golul victoriei în minutul 95, după ce Brighton a fost condusă cu 2-0. Această calificare marchează o premieră istorică pentru clubul Brighton, care va juca prima sa finală majoră în istoria echipei feminine pe Wembley. Antrenorul Dario Vidosic a avut o premoniție a victoriei, simțind că golul decisiv este iminent, confirmând o performanță memorabilă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-10T17:00:42.685841+00:00",
-      "data_afisaj": "10 mai 2026, 20:00"
-    },
-    {
-      "id": "5c07668f7b64",
-      "titlu": "Hansi Flick Va Conduce Barcelona în El Clasico, În Ciuda Decesului Tatălui Său",
-      "rezumat": "Antrenorul Barcelonei, Hansi Flick, va fi prezent pe banca tehnică pentru meciul El Clasico de duminică împotriva rivalei Real Madrid, în ciuda tragicului eveniment al decesului tatălui său. Decizia subliniază angajamentul lui Flick față de echipă într-un moment crucial al sezonului, în care Barcelona se luptă pentru titlul din La Liga. Prezența sa este considerată un factor important pentru moralul jucătorilor înaintea confruntării decisive, demonstrând profesionalism și dedicare în fața unei pierderi personale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-10T17:00:42.687725+00:00",
-      "data_afisaj": "10 mai 2026, 20:00"
-    },
-    {
-      "id": "be9fcd5e0a6f",
-      "titlu": "Mai Multe Cluburi din Championship Suspectează Southampton de Spionaj",
-      "rezumat": "După acuzațiile inițiale ale lui Middlesbrough, mai multe cluburi din Championship și-au exprimat temerile că ar fi putut fi, de asemenea, ținte ale spionajului din partea echipei Southampton. Liga Engleză de Fotbal a deschis o anchetă pentru comportament necorespunzător, după ce un membru al staff-ului lui Southampton ar fi fost prins filmând și înregistrând sesiuni de antrenament ale adversarilor. Scandalul \"Spygate\" se extinde, ridicând întrebări serioase despre etica sportivă și integritatea competiției în ligă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-10T17:00:42.689396+00:00",
-      "data_afisaj": "10 mai 2026, 20:00"
-    },
-    {
-      "id": "88897c2007eb",
-      "titlu": "Meciurile Cupei Mondiale FIFA din SUA, Sub Amenințare Teroristă Crescută",
-      "rezumat": "Experții în securitate avertizează că meciurile Cupei Mondiale FIFA, programate să aibă loc în Statele Unite, se confruntă cu riscuri teroriste sporite. Această amenințare este amplificată de conflictul dintre SUA și Israel cu Iranul, precum și de o diminuare a expertizei în contraterorism în cadrul agențiilor federale. Cea mai mare vulnerabilitate provine de la extremiștii violenți autohtoni, adesea actori singulari, ceea ce complică eforturile de securitate pentru cele 78 de meciuri din 11 orașe gazdă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-10T17:00:42.691198+00:00",
-      "data_afisaj": "10 mai 2026, 20:00"
-    },
-    {
-      "id": "d15cf72bfe80",
-      "titlu": "Celtic Învinge Rangers în Derby-ul Old Firm și Pune Presiune pe Hearts în Lupta pentru Titlu",
-      "rezumat": "Celtic a obținut o victorie crucială împotriva rivalei Rangers în derby-ul Old Firm, un rezultat care reduce diferența față de liderul Hearts la doar un punct în Premiership-ul Scoțian. Performanța remarcabilă a lui Daizen Maeda a fost decisivă, consolidând optimismul fanilor Celtic privind păstrarea titlului. Această înfrângere pune sub semnul întrebării viitorul antrenorului lui Rangers, Danny Röhl, și intensifică lupta pentru supremație în campionatul scoțian, promițând un final de sezon tensionat.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-10T17:00:42.693202+00:00",
-      "data_afisaj": "10 mai 2026, 20:00"
     }
   ]
 }
