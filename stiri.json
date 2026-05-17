@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-16T17:51:14.374881+00:00",
-  "updated_at_afisaj": "16 mai 2026, 20:51",
+  "updated_at": "2026-05-17T09:08:23.369729+00:00",
+  "updated_at_afisaj": "17 mai 2026, 12:08",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,63 @@
   },
   "numar_stiri": 120,
   "stiri": [
+    {
+      "id": "6a9294d24af1",
+      "titlu": "Chelsea anunță numirea lui Alonso ca antrenor",
+      "rezumat": "Chelsea a anunțat numirea lui Xabi Alonso în funcția de antrenor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-17T09:07:58.135482+00:00",
+      "data_afisaj": "17 mai 2026, 12:07"
+    },
+    {
+      "id": "97e3e506aab8",
+      "titlu": "„Mulți jucători se vor opri de pe rețelele sociale la Cupa Mondială – poți să te pui într-un balon” Emile Heskey despre modul în care Anglia poate bloca zgomotul în această vară",
+      "rezumat": "Emile Heskey a mers la două Cupe Mondiale cu Anglia - și are experiență în a face față presiunii turneului",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-05-17T09:07:58.137838+00:00",
+      "data_afisaj": "17 mai 2026, 12:07"
+    },
+    {
+      "id": "911889e4a77f",
+      "titlu": "„Împărtășim aceeași ambiție” – Alonso a numit al treilea șef al lui Chelsea în acest an",
+      "rezumat": "Fostul mijlocaș al lui Liverpool, Xabi Alonso, este numit antrenor al lui Chelsea - la o zi după înfrângerea în finala Cupei FA de către Manchester City.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-17T09:07:58.139406+00:00",
+      "data_afisaj": "17 mai 2026, 12:07"
+    },
+    {
+      "id": "abc1492a0a35",
+      "titlu": "Niciun trofeu în sezonul turbulent, dar sosirea lui Alonso îi oferă lui Chelsea speranță",
+      "rezumat": "Din întunericul unei înfrângeri în finala FA Cup pe fondul unei campanii agitate, sosirea lui Xabi Alonso îi dă speranță Chelsea, scrie Nizaar Kinsella.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-17T09:07:58.140828+00:00",
+      "data_afisaj": "17 mai 2026, 12:07"
+    },
+    {
+      "id": "6a10ed6b8058",
+      "titlu": "La revedere dragut al lui Casemiro - cum brazilianul a schimbat cariera lui Man Utd",
+      "rezumat": "Casemiro joacă ultimul său meci cu Manchester United la Old Trafford împotriva Nottingham Forest și va reveni la un erou indiferent de viitor, după ce și-a schimbat cariera la club.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-17T09:07:58.142335+00:00",
+      "data_afisaj": "17 mai 2026, 12:07"
+    },
     {
       "id": "abf7f5c90151",
       "titlu": "Achizițiile din ianuarie ale lui Manchester City, decisive în finala Cupei Angliei",
@@ -1329,62 +1386,6 @@
       ],
       "data_publicare": "2026-05-10T09:28:23.040931+00:00",
       "data_afisaj": "10 mai 2026, 12:28"
-    },
-    {
-      "id": "f8a61435e98e",
-      "titlu": "Thomas Tuchel, antrenorul Angliei la Cupa Mondială",
-      "rezumat": "Antrenorul german Thomas Tuchel se pregătește să conducă naționala Angliei la Cupa Mondială din această vară. Această numire este considerată o mișcare strategică importantă pentru echipa națională, având în vedere experiența și palmaresul lui Tuchel la nivel de club. Fostul antrenor al lui Chelsea și PSG va avea sarcina de a maximiza potențialul jucătorilor englezi într-o competiție majoră, unde așteptările sunt ridicate. Decizia subliniază încrederea în capacitatea sa de a gestiona presiunea și de a aduce succesul pe scena internațională.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-05-10T08:57:04.956351+00:00",
-      "data_afisaj": "10 mai 2026, 11:57"
-    },
-    {
-      "id": "12ef2f504bf2",
-      "titlu": "Mesajul lui Pep Guardiola înainte de meciul West Ham - Arsenal",
-      "rezumat": "Antrenorul lui Manchester City, Pep Guardiola, a încheiat conferința de presă cu un mesaj clar și amuzant înainte de deplasarea lui Arsenal la West Ham. Declarația sa, 'Haideți, Ciocănarilor!', a fost interpretată ca o modalitate de a pune presiune pe rivala la titlu, Arsenal, și de a-și arăta susținerea pentru West Ham în meciul direct. Acest gest subliniază intensitatea luptei pentru titlu din Premier League și rivalitatea dintre cele două cluburi de top.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-10T08:57:04.958083+00:00",
-      "data_afisaj": "10 mai 2026, 11:57"
-    },
-    {
-      "id": "702b1de6abb4",
-      "titlu": "Derby-ul de la Praga, abandonat după ce fanii au invadat terenul",
-      "rezumat": "Derby-ul dintre Slavia Praga și Sparta Praga a fost abandonat sâmbătă, după ce sute de fani ai echipei gazdă au invadat terenul în ultimele minute ale meciului. Incidentul a avut loc în timp ce Slavia conducea cu 3-2 și era la doar câteva secunde distanță de a-și asigura titlul în liga cehă. Suporterii au forțat barierele de securitate și au pătruns pe teren, unii dintre ei purtând torțe aprinse și alergând spre jucători. Portarul Spartei, Surovcik, a anunțat că va iniția acțiuni legale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-10T08:57:04.959779+00:00",
-      "data_afisaj": "10 mai 2026, 11:57"
-    },
-    {
-      "id": "8c06d027825c",
-      "titlu": "El Clasico decisiv: Barcelona vizează titlul pe fondul tensiunilor de la Real Madrid",
-      "rezumat": "Barcelona va găzdui Real Madrid în al doilea El Clasico al sezonului, într-o încercare de a-și asigura al doilea titlu consecutiv în La Liga. Meciul vine într-un moment de criză pentru Real Madrid, marcat de conflicte interne și rezultate sub așteptări. Rivalitatea intensă dintre cele două cluburi promite un spectacol fără menajamente, Barcelona căutând să profite de situația adversarilor pentru a-și consolida poziția în fruntea clasamentului și a obține o victorie crucială în lupta pentru titlu.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-10T08:57:04.961552+00:00",
-      "data_afisaj": "10 mai 2026, 11:57"
-    },
-    {
-      "id": "5b8643e8c6f0",
-      "titlu": "Manchester United se confruntă cu dificultăți în înlocuirea lui Casemiro",
-      "rezumat": "Manchester United a eșuat să câștige niciunul dintre cele patru meciuri din Premier League în care Casemiro nu a fost titular în acest sezon. Această statistică ridică semne de întrebare cu privire la capacitatea echipei de a-l înlocui pe mijlocașul brazilian, în contextul unei posibile plecări a acestuia în vară. Michael Carrick, antrenorul interimar, trebuie să găsească soluții pentru a compensa absența sa, subliniind dependența clubului de experiența și calitatea lui Casemiro în linia mediană.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-10T08:57:04.963236+00:00",
-      "data_afisaj": "10 mai 2026, 11:57"
     }
   ]
 }
