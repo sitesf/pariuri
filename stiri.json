@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-17T09:08:23.369729+00:00",
-  "updated_at_afisaj": "17 mai 2026, 12:08",
+  "updated_at": "2026-05-17T09:46:48.444119+00:00",
+  "updated_at_afisaj": "17 mai 2026, 12:46",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,62 @@
   },
   "numar_stiri": 120,
   "stiri": [
+    {
+      "id": "7f4b0d84d3f2",
+      "titlu": "AGF Aarhus, de la candidată la retrogradare la campioană în Danemarca după 40 de ani",
+      "rezumat": "Echipa daneză Aarhus GF, considerată la începutul sezonului o candidată la retrogradare din Superliga, va ridica duminică trofeul de campioană. Aceasta este prima dată în ultimii 40 de ani când clubul câștigă titlul, marcând o performanță remarcabilă și o poveste de succes neașteptată în fotbalul danez. Victoria reprezintă un moment istoric pentru club și fanii săi, care au așteptat decenii pentru a celebra o astfel de realizare, transformând o prognoză sumbră într-un triumf memorabil.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-17T09:46:48.437025+00:00",
+      "data_afisaj": "17 mai 2026, 12:46"
+    },
+    {
+      "id": "7d32621fafb5",
+      "titlu": "Cristiano Ronaldo și Al-Nassr ratează trofeul Ligii Campionilor Asiei",
+      "rezumat": "Așteptarea lui Cristiano Ronaldo pentru primul său trofeu major cu Al-Nassr continuă, după ce echipa sa a fost învinsă surprinzător cu 1-0 pe teren propriu de Gamba Osaka în finala Ligii Campionilor Asiei Doi. Această înfrângere reprezintă o dezamăgire semnificativă pentru starul portughez și pentru clubul saudit, care sperau să obțină o victorie importantă în competiția continentală. Rezultatul subliniază dificultățile întâmpinate de Al-Nassr în atingerea obiectivelor de performanță la nivel înalt.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-17T09:46:48.438704+00:00",
+      "data_afisaj": "17 mai 2026, 12:46"
+    },
+    {
+      "id": "9d733d8ddd7f",
+      "titlu": "Hearts denunță abuzuri grave asupra jucătorilor și staff-ului după invazia terenului de la Celtic Park",
+      "rezumat": "Clubul Hearts a emis o declarație prin care condamnă ferm invazia terenului de la Celtic Park, descriind scenele ca fiind „rușinoase”, „inacceptabile” și „dezgustătoare”. Jucătorii și personalul echipei au raportat „abuzuri fizice și verbale grave” în urma incidentelor care au avut loc după meciul decisiv pentru titlul din Premiership-ul Scoțian. Hearts solicită autorităților să ia măsuri urgente pentru a proteja integritatea jocului și siguranța participanților, subliniind necesitatea unor sancțiuni exemplare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-17T09:46:48.440595+00:00",
+      "data_afisaj": "17 mai 2026, 12:46"
+    },
+    {
+      "id": "28434670ca06",
+      "titlu": "Scandal de spionaj în Championship: Southampton acuzată de furt de secrete",
+      "rezumat": "Un scandal de spionaj a izbucnit în Championship, unde Southampton este acuzată că ar fi furat secrete ale altor cluburi. Managerul lui Middlesbrough, Kim Hellberg, și-a exprimat public frustrarea și emoția după înfrângerea echipei sale în semifinala playoff-ului împotriva lui Southampton, subliniind necesitatea unei abordări de toleranță zero față de astfel de practici. Incidentul ridică semne de întrebare serioase privind integritatea competiției și fair-play-ul în fotbal, cerând o investigație amănunțită.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-17T09:46:48.442251+00:00",
+      "data_afisaj": "17 mai 2026, 12:46"
+    },
+    {
+      "id": "a9dbffc9424b",
+      "titlu": "Fanii West Ham și Tottenham, furioși pe fondul amenințării retrogradării din Premier League",
+      "rezumat": "Suporterii cluburilor West Ham și Tottenham Hotspur își exprimă furia și disperarea pe măsură ce echipele lor se confruntă cu spectrul retrogradării din Premier League. Ani de management defectuos au condus la o situație critică, generând emoții puternice de furie, tristețe și jenă în rândul fanilor. Această criză subliniază frustrarea legată de deciziile luate de conducere, mai ales după demolarea stadioanelor istorice ale cluburilor în numele progresului și profitului, afectând profund identitatea suporterilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-17T09:46:48.444097+00:00",
+      "data_afisaj": "17 mai 2026, 12:46"
+    },
     {
       "id": "6a9294d24af1",
       "titlu": "Chelsea anunță numirea lui Alonso ca antrenor",
@@ -1330,62 +1386,6 @@
       ],
       "data_publicare": "2026-05-10T17:00:42.693202+00:00",
       "data_afisaj": "10 mai 2026, 20:00"
-    },
-    {
-      "id": "e70f0a3bb354",
-      "titlu": "Hearts Obține un Punct Crucial în Lupta pentru Titlul din Premiership-ul Scoțian",
-      "rezumat": "Echipa Hearts a reușit să obțină un punct important într-un meci intens împotriva lui Motherwell, menținându-se în fruntea clasamentului Scottish Premiership cu o singură etapă înainte de final. Echipa a revenit după ce a fost condusă, Lawrence Shankland egalând înainte de pauză, într-o partidă care a reflectat intensitatea și dramatismul cursei pentru titlu din acest sezon.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-10T09:28:23.033559+00:00",
-      "data_afisaj": "10 mai 2026, 12:28"
-    },
-    {
-      "id": "88ce3906190a",
-      "titlu": "Scandal de Spionaj în Playoff-ul Championship: Middlesbrough Acuză Southampton de „Înșelăciune”",
-      "rezumat": "Tensiunile au escaladat în playoff-ul Championship, după ce managerul lui Middlesbrough, Kim Hellberg, a acuzat Southampton de „înșelăciune”. Acuzațiile vizează un analist al lui Southampton care ar fi spionat o sesiune de antrenament a lui Middlesbrough. Managerul Southampton, Tonda Eckert, a refuzat să comenteze, părăsind conferința de presă, ceea ce a adâncit controversa.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-10T09:28:23.035582+00:00",
-      "data_afisaj": "10 mai 2026, 12:28"
-    },
-    {
-      "id": "87f7263ca7ff",
-      "titlu": "Viitorul lui Kieran Trippier la Newcastle United Rămâne Deschis",
-      "rezumat": "Fundașul lui Newcastle United, Kieran Trippier, are o abordare deschisă în privința următoarei sale mișcări în carieră. Jucătorul se concentrează pe încheierea cu succes a perioadei petrecute la St James' Park, în timp ce speculațiile privind viitorul său continuă să apară. Decizia finală privind rămânerea sau plecarea sa de la club nu a fost încă anunțată, lăsând loc incertitudinii.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-10T09:28:23.037336+00:00",
-      "data_afisaj": "10 mai 2026, 12:28"
-    },
-    {
-      "id": "3f463af95a10",
-      "titlu": "Premier League Domină Competițiile Europene de Nivel Inferior",
-      "rezumat": "Calificările echipelor Aston Villa și Crystal Palace în finale europene reprezintă realizări istorice, dar și un simptom al unei tendințe îngrijorătoare. Articolul analizează modul în care cluburile din Premier League, prin resursele lor financiare, încep să domine competițiile UEFA de nivel inferior, ridicând întrebări despre echilibrul și valoarea acestora în peisajul fotbalistic european.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-10T09:28:23.039059+00:00",
-      "data_afisaj": "10 mai 2026, 12:28"
-    },
-    {
-      "id": "d3c9a866de8f",
-      "titlu": "Ascensiunea lui Moise Bombito și Provocările Dezvoltării Tinerilor Jucători în Canada",
-      "rezumat": "Articolul analizează ascensiunea fundașului central canadian Moise Bombito, evidențiind în același timp deficiențele sistemului de dezvoltare a tinerilor jucători din Canada. Povestea lui Bombito, care a ajuns la echipa națională după ce a terminat pe locul patru la Copa America 2024, subliniază necesitatea unor îmbunătățiri în infrastructura de formare a talentelor pentru a asigura un viitor solid fotbalului canadian.",
-      "categorie": "Fotbal",
-      "surse": [
-        "World Soccer"
-      ],
-      "data_publicare": "2026-05-10T09:28:23.040931+00:00",
-      "data_afisaj": "10 mai 2026, 12:28"
     }
   ]
 }
