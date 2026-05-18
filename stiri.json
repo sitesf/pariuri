@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-18T18:04:28.877313+00:00",
-  "updated_at_afisaj": "18 mai 2026, 21:04",
+  "updated_at": "2026-05-18T18:28:30.002150+00:00",
+  "updated_at_afisaj": "18 mai 2026, 21:28",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 120,
+  "numar_stiri": 125,
   "stiri": [
+    {
+      "id": "9a297bbc2b27",
+      "titlu": "Croația îl include pe Luka Modric, la 40 de ani, în lotul pentru Cupa Mondială",
+      "rezumat": "Mijlocașul veteran Luka Modric, în vârstă de 40 de ani, a fost inclus în lotul Croației pentru Cupa Mondială. Se anticipează că Modric se va recupera la timp pentru turneu, după o fractură de pomete. Prezența sa la o vârstă atât de înaintată subliniază importanța și longevitatea sa în fotbalul internațional, oferind experiență crucială echipei naționale în competiția supremă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-18T18:28:29.995172+00:00",
+      "data_afisaj": "18 mai 2026, 21:28"
+    },
+    {
+      "id": "ed1028b52ba1",
+      "titlu": "Ousmane Dembele de la PSG urmează tratament pentru o leziune musculară la gambă",
+      "rezumat": "Atacantul Ousmane Dembele va urma un tratament în următoarele zile pentru o leziune musculară la gamba dreaptă, conform unui comunicat emis de Paris Saint-Germain. Această veste vine ca o preocupare pentru club, având în vedere importanța jucătorului în planurile echipei. Perioada exactă de indisponibilitate nu a fost specificată, dar se așteaptă o evaluare continuă a stării sale medicale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-18T18:28:29.996946+00:00",
+      "data_afisaj": "18 mai 2026, 21:28"
+    },
+    {
+      "id": "71693421c4c7",
+      "titlu": "Jose Mourinho a acceptat să revină la Real Madrid",
+      "rezumat": "Jose Mourinho a ajuns la un acord pentru a reveni la Real Madrid în calitate de antrenor principal, semnând un contract pe doi ani. Această mutare marchează o a doua perioadă a antrenorului portughez la cârma gigantului spaniol, după un mandat anterior de succes. Anunțul a stârnit un val de reacții în lumea fotbalului, având în vedere reputația și stilul său distinctiv de management.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-18T18:28:29.998469+00:00",
+      "data_afisaj": "18 mai 2026, 21:28"
+    },
+    {
+      "id": "e0251cdf33cd",
+      "titlu": "West Ham ar putea fi nevoită să vândă jucători de 100 de milioane de lire sterline în caz de retrogradare",
+      "rezumat": "West Ham United ar putea fi sub presiune să obțină peste 100 de milioane de lire sterline din vânzarea de jucători dacă va retrograda din Premier League. Clubul a înregistrat o pierdere de 104,2 milioane de lire sterline în ultimele conturi, iar problemele financiare s-ar adânci considerabil fără veniturile din Premier League. Jucători cheie precum Bowen, Fernandes și Summerville ar putea atrage oferte, iar soarta clubului depinde de evitarea retrogradării.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-18T18:28:30.000363+00:00",
+      "data_afisaj": "18 mai 2026, 21:28"
+    },
+    {
+      "id": "511c747a41ce",
+      "titlu": "Finala Ligii Campionilor nu va fi gratuită în Marea Britanie pentru prima dată în era modernă",
+      "rezumat": "Finala Ligii Campionilor, în care Arsenal va întâlni Paris Saint-Germain la Budapesta, nu va fi disponibilă gratuit în Marea Britanie pentru prima dată de la rebranduirea modernă a competiției, acum 34 de ani. Deținătorul drepturilor, TNT Sports, a decis să taxeze fanii pentru a viziona toate cele trei finale europene, o decizie care a nemulțumit UEFA. Această schimbare marchează o modificare semnificativă în accesul publicului la evenimente sportive majore.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-18T18:28:30.002131+00:00",
+      "data_afisaj": "18 mai 2026, 21:28"
+    },
     {
       "id": "1fd1dad91390",
       "titlu": "Arsenal v Burnley: Premier League – live",
