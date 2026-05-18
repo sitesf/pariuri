@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-18T11:44:00.780315+00:00",
-  "updated_at_afisaj": "18 mai 2026, 14:44",
+  "updated_at": "2026-05-18T18:04:28.877313+00:00",
+  "updated_at_afisaj": "18 mai 2026, 21:04",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 119,
+  "numar_stiri": 120,
   "stiri": [
+    {
+      "id": "1fd1dad91390",
+      "titlu": "Arsenal v Burnley: Premier League – live",
+      "rezumat": "⚽ Actualizări de la ora 20:00 BST, startul meciului de pe Emirates Stadium ⚽ Clasament | Golgheteri | Football Daily | Trimite e-mail lui Taha Lectură prealabilă pentru a te familiariza: Primul împotriva celui de-al 19-lea, vizitatorii deja retrogradați. Ar trebui să fie simplu, dar nu este, nu-i așa? Arsenal este la două victorii distanță de primul său titlu de campioană în 22 de ani, poate chiar la una singură dacă Manchester City nu reușește să învingă Bournemouth mâine seară. Fiecare fan Arsenal cu care vorbesc este terifiat, inima îi bate constant, fără nicio liniște până când",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-18T18:04:18.806743+00:00",
+      "data_afisaj": "18 mai 2026, 21:04"
+    },
+    {
+      "id": "8d26b43fe4ac",
+      "titlu": "PGMO admite eroare de henț la golul lui Man Utd împotriva lui Forest",
+      "rezumat": "Al doilea gol al lui Manchester United în victoria de duminică din Premier League împotriva lui Nottingham Forest ar fi trebuit anulat pentru henț, a recunoscut organismul arbitrilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-18T18:04:18.808228+00:00",
+      "data_afisaj": "18 mai 2026, 21:04"
+    },
+    {
+      "id": "a38bc0450d90",
+      "titlu": "Întrebările cheie ale lui Clarke pentru lotul Scoției la Cupa Mondială",
+      "rezumat": "Steve Clarke își va anunța marți lotul Scoției pentru Cupa Mondială și, deși antrenorul principal are un grup în mare parte stabilit, BBC Sport Scotland aruncă o privire asupra potențialilor jucători surpriză.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-18T18:04:18.809682+00:00",
+      "data_afisaj": "18 mai 2026, 21:04"
+    },
+    {
+      "id": "d8d4ce2e6261",
+      "titlu": "Salah, egoist, ar trebui scos din finala de pe Anfield - Rooney",
+      "rezumat": "Mohamed Salah ar trebui scos din finala sezonului lui Liverpool pentru criticile „egoiste” aduse clubului, spune Wayne Rooney.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-18T18:04:18.811132+00:00",
+      "data_afisaj": "18 mai 2026, 21:04"
+    },
+    {
+      "id": "b71df2cff786",
+      "titlu": "Leeds promite interdicții pentru scandări homofobe",
+      "rezumat": "Leeds United anunță că fanii găsiți responsabili pentru scandări homofobe în timpul meciului lor din Premier League împotriva lui Brighton vor primi „interdicții lungi de acces pe stadion”.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-18T18:04:18.812476+00:00",
+      "data_afisaj": "18 mai 2026, 21:04"
+    },
     {
       "id": "91f54f4adc39",
       "titlu": "Vedete ale fotbalului se alătură echipei BBC pentru Cupa Mondială 2026",
@@ -1324,53 +1380,6 @@
       ],
       "data_publicare": "2026-05-11T18:53:17.193955+00:00",
       "data_afisaj": "11 mai 2026, 21:53"
-    },
-    {
-      "id": "8d390013dc08",
-      "titlu": "Golul anulat al lui West Ham împotriva lui Arsenal a fost corect, conform analizei",
-      "rezumat": "Decizia VAR de a anula golul lui West Ham împotriva lui Arsenal, care a stârnit controverse, a fost analizată și considerată corectă. Incidentul, care a implicat o busculadă la un corner și multiple contacte, a fost un exemplu al complexității deciziilor din fotbalul modern. Această decizie a avut un impact semnificativ asupra luptei pentru titlu din Premier League, consolidând poziția lui Arsenal și generând discuții aprinse despre rolul VAR în meciurile decisive.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-11T17:58:30.067145+00:00",
-      "data_afisaj": "11 mai 2026, 20:58"
-    },
-    {
-      "id": "6929a175adf9",
-      "titlu": "Jose Mourinho, tot mai aproape de Real Madrid; Benfica pregătește un plan de urgență",
-      "rezumat": "Zvonurile indică o probabilitate crescută ca Jose Mourinho să revină la Real Madrid în calitate de antrenor principal. Această mutare ar declanșa un plan de urgență la Benfica, care îl are pe Mourinho sub contract până în septembrie. Clubul portughez ar viza pe Marco Silva de la Fulham ca potențial înlocuitor, în cazul în care antrenorul portughez ar părăsi echipa pentru a prelua din nou frâiele gigantului spaniol, o decizie care ar reconfigura peisajul managerial european.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-11T17:58:30.069086+00:00",
-      "data_afisaj": "11 mai 2026, 20:58"
-    },
-    {
-      "id": "4daf60519208",
-      "titlu": "Chelsea intensifică căutarea noului antrenor principal, cu Xabi Alonso pe lista scurtă",
-      "rezumat": "Clubul Chelsea a început să contacteze potențiali candidați pentru postul de antrenor principal permanent, cu intenția de a finaliza numirea înainte de Cupa Mondială. Printre numele vehiculate pe lista scurtă se numără Andoni Iraola, Marco Silva și Xabi Alonso, acesta din urmă fiind considerat o prioritate. Căutarea intensificată subliniază dorința clubului de a asigura stabilitatea la conducerea tehnică și de a construi o echipă competitivă pentru sezoanele viitoare, după o perioadă de incertitudine.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-05-11T17:58:30.070896+00:00",
-      "data_afisaj": "11 mai 2026, 20:58"
-    },
-    {
-      "id": "cd6c8dc76207",
-      "titlu": "Edin Dzeko, aproape să se alăture listei selecte a jucătorilor de peste 40 de ani la Cupa Mondială",
-      "rezumat": "Fostul atacant al lui Manchester City, Edin Dzeko, este pe cale să devină unul dintre puținii jucători care vor evolua la o Cupă Mondială la vârsta de peste 40 de ani. Această performanță ar reprezenta o bornă remarcabilă în cariera sa longevivă și ar sublinia rezistența și dedicarea sa la cel mai înalt nivel al fotbalului internațional. Dzeko, originar din Bosnia, continuă să fie o figură influentă în fotbalul european, demonstrând o formă fizică și mentală excepțională la o vârstă avansată.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-11T17:58:30.073817+00:00",
-      "data_afisaj": "11 mai 2026, 20:58"
     }
   ]
 }
