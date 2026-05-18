@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-17T17:53:08.257409+00:00",
-  "updated_at_afisaj": "17 mai 2026, 20:53",
+  "updated_at": "2026-05-18T11:09:18.467955+00:00",
+  "updated_at_afisaj": "18 mai 2026, 14:09",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,62 @@
   },
   "numar_stiri": 120,
   "stiri": [
+    {
+      "id": "955e58fa3dac",
+      "titlu": "Controversă privind validarea golului lui Cunha pentru Manchester United",
+      "rezumat": "Experții BBC Sport, Mark Schwarzer și Dion Dublin, consideră că Bryan Mbeumo a folosit brațul pentru a controla mingea în faza premergătoare golului marcat de Matheus Cunha. Acest incident, petrecut în victoria cu 3-2 a lui Manchester United împotriva echipei Nottingham Forest în Premier League, ar fi oferit un \"avantaj incorect\" echipei din Manchester. Discuția subliniază din nou provocările interpretării regulilor de joc în momentele cheie ale partidelor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-18T11:09:18.461429+00:00",
+      "data_afisaj": "18 mai 2026, 14:09"
+    },
+    {
+      "id": "c28be592f6d3",
+      "titlu": "Viitorul lui Pep Guardiola la Manchester City rămâne incert",
+      "rezumat": "Viitorul antrenorului Pep Guardiola la Manchester City este învăluit în incertitudine, înaintea unei săptămâni decisive pentru club. Se pare că Guardiola menține suspansul cu privire la posibilitatea ca acesta să fie ultimul său sezon la cârma echipei de pe Etihad. Speculațiile privind plecarea sa au crescut, iar fanii și presa așteaptă cu nerăbdare o clarificare din partea tehnicianului spaniol, care a avut un impact major asupra performanțelor clubului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-18T11:09:18.463023+00:00",
+      "data_afisaj": "18 mai 2026, 14:09"
+    },
+    {
+      "id": "3baf5d4ae62c",
+      "titlu": "Arsenal confirmă transferul internaționalei engleze Georgia Stanway",
+      "rezumat": "Arsenal a ajuns la un acord pentru transferul internaționalei engleze Georgia Stanway de la Bayern Munchen. Mijlocașa, în vârstă de 27 de ani, se va alătura clubului londonez la începutul lunii iulie, ca jucătoare liberă de contract, după ce înțelegerea sa cu clubul german expiră în această vară. Mutarea este condiționată de trecerea cu succes a vizitei medicale. Stanway a petrecut patru sezoane de succes la Bayern, contribuind la performanțele echipei în Frauen Bundesliga.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-18T11:09:18.464619+00:00",
+      "data_afisaj": "18 mai 2026, 14:09"
+    },
+    {
+      "id": "f47cd33fe14b",
+      "titlu": "Retrogradarea lui West Ham ar putea costa contribuabilii londonezi 2,5 milioane de lire sterline",
+      "rezumat": "Contribuabilii din Londra ar putea fi nevoiți să plătească o sumă suplimentară de 2,5 milioane de lire sterline în cazul în care West Ham United retrogradează din Premier League. Această situație este cauzată de termenii acordului de închiriere al clubului pentru Stadionul Londrei. Clauzele contractuale prevăd compensații financiare în cazul în care echipa nu mai evoluează în prima ligă, ceea ce ar adăuga o povară financiară neașteptată asupra bugetului public.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-18T11:09:18.466273+00:00",
+      "data_afisaj": "18 mai 2026, 14:09"
+    },
+    {
+      "id": "605d953610b6",
+      "titlu": "Bruno Fernandes egalează recordul de pase decisive în Premier League",
+      "rezumat": "Bruno Fernandes a egalat recordul de pase decisive într-un singur sezon de Premier League, ajungând la 20 de assist-uri. Performanța a fost realizată în victoria cu 3-2 a lui Manchester United împotriva echipei Nottingham Forest, în ultimul meci pe teren propriu al campaniei. Mijlocașul portughez se alătură astfel lui Kevin De Bruyne și Thierry Henry, singurii jucători care au atins această bornă impresionantă în istoria Premier League.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-18T11:09:18.467934+00:00",
+      "data_afisaj": "18 mai 2026, 14:09"
+    },
     {
       "id": "f6de2db19be4",
       "titlu": "Locul trei asigurat - ce provocări îl așteaptă pe Carrick la Manchester United?",
@@ -1327,62 +1383,6 @@
       ],
       "data_publicare": "2026-05-11T11:19:18.029286+00:00",
       "data_afisaj": "11 mai 2026, 14:19"
-    },
-    {
-      "id": "6e52636ebaa0",
-      "titlu": "Barcelona Câștigă Titlul La Liga După Victoria în El Clasico",
-      "rezumat": "FC Barcelona a învins Real Madrid în El Clasico, asigurându-și al doilea titlu consecutiv în La Liga. Un gol marcat de Marcus Rashford a contribuit decisiv la victoria catalanilor, care au dominat partida împotriva rivalilor lor de moarte. Această performanță subliniază consistența echipei și capacitatea de a gestiona presiunea în momentele cheie ale sezonului. Victoria în derby-ul spaniol a declanșat sărbătoarea pentru fanii Barcelonei, consolidând poziția clubului în fruntea fotbalului spaniol.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-05-11T10:40:18.120196+00:00",
-      "data_afisaj": "11 mai 2026, 13:40"
-    },
-    {
-      "id": "b58a7f428fb3",
-      "titlu": "Analiza Succesului lui Hansi Flick la Barcelona în Cucerirea Titlului La Liga",
-      "rezumat": "Antrenorul Hansi Flick a reușit să ghideze FC Barcelona către al doilea titlu consecutiv în La Liga, implementând un nou stil de joc care a transformat echipa. Articolul detaliază strategiile și deciziile tactice ale tehnicianului german, explicând cum a reușit să remodeleze lotul și să obțină performanțe constante. Această analiză oferă o perspectivă asupra metodelor lui Flick și a modului în care a consolidat dominația Barcelonei în campionatul spaniol, depășind așteptările inițiale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-11T10:40:18.121995+00:00",
-      "data_afisaj": "11 mai 2026, 13:40"
-    },
-    {
-      "id": "6ddeb90752c1",
-      "titlu": "Amploarea Reconstrucției la Rangers Sub Conducerea lui Danny Rohl",
-      "rezumat": "Managerul Danny Rohl se confruntă cu o provocare majoră de reconstrucție la Rangers în această vară, după ce echipa a încheiat sezonul pe locul trei în Premiership-ul scoțian. Jurnalistul Kheredine Idessane subliniază necesitatea unor schimbări rapide și a unor lecții învățate din performanța sub așteptări. Articolul explorează amploarea transformărilor necesare în lot și în strategia clubului pentru a reveni în lupta pentru titlu și a-și consolida poziția în fotbalul scoțian.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-11T10:40:18.123725+00:00",
-      "data_afisaj": "11 mai 2026, 13:40"
-    },
-    {
-      "id": "f62c681e81b0",
-      "titlu": "Prețurile Biletelor la Cupa Mondială pentru Familiile Jucătorilor Stârnesc Controverse",
-      "rezumat": "Mai multe federații de fotbal și-au exprimat consternarea față de creșterea semnificativă a prețurilor biletelor la Cupa Mondială, destinate familiilor și invitaților jucătorilor. Costul mediu al unui bilet ar fi ajuns la 3.000 de dolari, conform rapoartelor. FIFA susține că termenii și condițiile de vânzare au fost comunicate clar, însă modelul de prețuri dinamice a afectat echipele participante. Această situație ridică semne de întrebare privind accesibilitatea și echitatea pentru apropiații sportivilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-11T10:40:18.125556+00:00",
-      "data_afisaj": "11 mai 2026, 13:40"
-    },
-    {
-      "id": "ccd60d41cf8a",
-      "titlu": "PSG, la un Pas de Cucerirea Titlului în Ligue 1 După Victoria Târzie Împotriva lui Brest",
-      "rezumat": "Paris Saint-Germain este la un singur punct distanță de a-și asigura al cincilea titlu consecutiv în Ligue 1, după o victorie dramatică cu 1-0 împotriva lui Brest. Désiré Doué, intrat de pe bancă, a marcat golul decisiv în minutul 82, aducând echipa lui Luis Enrique la 73 de puncte, cu șase puncte avans față de Lens, ocupanta locului doi, și cu un golaveraj mult superior. PSG are nevoie de un singur punct din ultimele două meciuri pentru a-și confirma dominația în campionatul francez.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-11T10:40:18.127549+00:00",
-      "data_afisaj": "11 mai 2026, 13:40"
     }
   ]
 }
