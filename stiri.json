@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-19T11:17:12.605802+00:00",
-  "updated_at_afisaj": "19 mai 2026, 14:17",
+  "updated_at": "2026-05-19T18:10:04.673787+00:00",
+  "updated_at_afisaj": "19 mai 2026, 21:10",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,53 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 119,
+  "numar_stiri": 118,
   "stiri": [
+    {
+      "id": "87b5c782876a",
+      "titlu": "Antrenor de fotbal feminin, interzis pe viață pentru filmări secrete",
+      "rezumat": "Antrenorul ceh Petr Vlachovsky a primit o interdicție pe viață de la UEFA pentru toate activitățile legate de fotbal, după ce a filmat în secret jucătoare de fotbal în vestiare și dușuri. Vlachovsky a fost condamnat în mai 2025 pentru că a filmat 14 jucătoare de la FC Slovacko pe o perioadă de patru ani. Această decizie vine după ce o interdicție internă de cinci ani a fost considerată prea blândă, UEFA intervenind pentru a impune o sancțiune mai severă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-19T18:10:04.668611+00:00",
+      "data_afisaj": "19 mai 2026, 21:10"
+    },
+    {
+      "id": "9592c6ded5ce",
+      "titlu": "Cluburi de top din Premier League îl vizează pe Jarrod Bowen de la West Ham",
+      "rezumat": "Manchester United, Liverpool și Chelsea sunt interesate de Jarrod Bowen, pe măsură ce cluburile rivale se pregătesc să profite de potențialele probleme financiare ale lui West Ham, în cazul retrogradării. West Ham ar putea fi nevoită să strângă peste 100 de milioane de lire sterline dacă va retrograda din Premier League, iar interesul pentru Bowen din partea echipelor de top este în creștere. Această situație ar putea forța jucătorul englez să își reevalueze viitorul la clubul londonez.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-19T18:10:04.670304+00:00",
+      "data_afisaj": "19 mai 2026, 21:10"
+    },
+    {
+      "id": "bd78f32e841d",
+      "titlu": "Aston Villa, în finala Europa League, la șapte ani de la promovarea din Championship",
+      "rezumat": "Aston Villa se pregătește pentru finala Europa League împotriva echipei Freiburg, la șapte ani după ce a promovat din Championship. John McGinn, care va fi căpitanul echipei în Istanbul, a făcut parte din lotul care a obținut promovarea prin play-off. Clubul urmărește să câștige primul său trofeu european major din 1982, marcând o călătorie remarcabilă de la liga secundă la o finală continentală, sub conducerea antrenorului Unai Emery.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-19T18:10:04.672018+00:00",
+      "data_afisaj": "19 mai 2026, 21:10"
+    },
+    {
+      "id": "a904ea297efa",
+      "titlu": "Viitorul transfer al lui Beth Mead, crucial pentru șansele sale la naționala Angliei",
+      "rezumat": "Selecționerul Angliei, Sarina Wiegman, a declarat că următorul transfer al lui Beth Mead va fi un factor \"foarte important\" pentru șansele atacantei de a participa la Cupa Mondială feminină din 2027. Mead, care va părăsi Arsenal la finalul contractului, caută să obțină mai multe meciuri ca titulară pentru a-și menține forma. Se pare că jucătoarea în vârstă de 31 de ani este aproape de a ajunge la un acord cu Manchester City. Între timp, Toone, Beever-Jones și Godfrey au fost convocate pentru meciurile de calificare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-19T18:10:04.673767+00:00",
+      "data_afisaj": "19 mai 2026, 21:10"
+    },
     {
       "id": "1b6d64f20705",
       "titlu": "UEFA refuză să adopte noile reguli FIFA privind cartonașele roșii",
@@ -1308,65 +1353,6 @@
       ],
       "data_publicare": "2026-05-12T18:52:47.523317+00:00",
       "data_afisaj": "12 mai 2026, 21:52"
-    },
-    {
-      "id": "e05edee2d2af",
-      "titlu": "Fundașul Ben White de la Arsenal și Anglia ratează restul sezonului și Cupa Mondială",
-      "rezumat": "Fundașul englez Ben White, component al echipei Arsenal și al naționalei Angliei, va lipsi de pe teren pentru restul sezonului din cauza unei accidentări la genunchi. Această veste reprezintă o lovitură semnificativă atât pentru clubul său, care luptă pentru titlu, cât și pentru selecționata Angliei, deoarece jucătorul nu va putea participa la viitoarea Cupă Mondială. Absența sa va necesita ajustări tactice și va pune presiune pe ceilalți fundași ai echipei, într-o perioadă crucială.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-12T18:03:13.724780+00:00",
-      "data_afisaj": "12 mai 2026, 21:03"
-    },
-    {
-      "id": "6d810eb30699",
-      "titlu": "Casemiro: Ronaldo este cel mai mare, dar Bale este cel mai complet jucător",
-      "rezumat": "Mijlocașul brazilian Casemiro, fost jucător la Real Madrid și actual la Manchester United, a făcut declarații interesante despre foștii săi coechipieri. El a afirmat că portughezul Cristiano Ronaldo este cel mai mare fotbalist alături de care a jucat vreodată. Cu toate acestea, Casemiro a adăugat că galezul Gareth Bale este, în opinia sa, cel mai \"complet\" jucător, evidențiind versatilitatea și abilitățile multiple ale acestuia pe teren, de la viteză la finalizare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-05-12T18:03:13.726408+00:00",
-      "data_afisaj": "12 mai 2026, 21:03"
-    },
-    {
-      "id": "79c812144d7f",
-      "titlu": "Dick Advocaat revine la cârma naționalei Curaçao pentru Cupa Mondială 2026",
-      "rezumat": "Antrenorul olandez Dick Advocaat, în vârstă de 78 de ani, a revenit în mod surprinzător la conducerea echipei naționale a Curaçao, după ce predecesorul său, Fred Rutten, a demisionat cu doar o lună înainte de debutul lor la Cupa Mondială. Advocaat, care va deveni cel mai vârstnic antrenor din istoria turneului, a părăsit inițial postul în februarie din motive de sănătate ale fiicei sale. Revenirea sa este menită să asigure stabilitatea echipei înaintea unei competiții istorice.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-12T18:03:13.727971+00:00",
-      "data_afisaj": "12 mai 2026, 21:03"
-    },
-    {
-      "id": "0194cb6f5d0d",
-      "titlu": "Foștii antrenori de la Tottenham, Frank și Postecoglou, vor fi analiști TV rivali la Cupa Mondială",
-      "rezumat": "Thomas Frank și Ange Postecoglou, ambii foști antrenori ai echipei Tottenham Hotspur, se vor confrunta în această vară în studiourile TV, în calitate de analiști pentru Cupa Mondială. Frank a semnat un acord cu BBC Sport pentru a fi unul dintre principalii lor comentatori, în timp ce Postecoglou a acceptat să lucreze pentru ITV. De asemenea, BBC ar fi adăugat pe lista analiștilor și pe fostul atacant al lui Arsenal, Olivier Giroud, completând echipa de experți pentru transmisiunile turneului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-05-12T18:03:13.729662+00:00",
-      "data_afisaj": "12 mai 2026, 21:03"
-    },
-    {
-      "id": "9e00d0fb9f41",
-      "titlu": "Howard Webb confirmă că Sesko a atins mingea cu mâna la golul împotriva lui Liverpool, dar VAR nu a putut interveni",
-      "rezumat": "Howard Webb, șeful arbitrilor din Premier League, a declarat că, în opinia sa, atacantul Benjamin Sesko a atins mingea cu mâna la golul marcat pentru Manchester United împotriva lui Liverpool. Cu toate acestea, Webb a explicat că arbitrajul video (VAR) nu a putut anula golul din cauza lipsei de dovezi concludente. Înregistrările audio ale discuțiilor VAR au fost făcute publice, arătând complexitatea deciziei și dificultatea de a demonstra intenția sau contactul clar cu mâna în absența unor unghiuri video definitive.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-05-12T18:03:13.731532+00:00",
-      "data_afisaj": "12 mai 2026, 21:03"
     }
   ]
 }
