@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-18T18:28:30.002150+00:00",
-  "updated_at_afisaj": "18 mai 2026, 21:28",
+  "updated_at": "2026-05-19T10:40:47.326116+00:00",
+  "updated_at_afisaj": "19 mai 2026, 13:40",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,65 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 125,
+  "numar_stiri": 115,
   "stiri": [
+    {
+      "id": "d7d12580b1a6",
+      "titlu": "Stewart și Curtis în lotul Scoției pentru Cupa Mondială",
+      "rezumat": "Ross Stewart și Findlay Curtis sunt numiți în lotul Scoției pentru Cupa Mondială, dar Lennon Miller nu are loc.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-19T10:40:23.775847+00:00",
+      "data_afisaj": "19 mai 2026, 13:40"
+    },
+    {
+      "id": "acb58615f778",
+      "titlu": "Neymar a fost ales în lotul Braziliei pentru Cupa Mondială 2026, dar João Pedro ratează",
+      "rezumat": "Carlo Ancelotti laudă „formarea fizică îmbunătățită” a jucătorului Santos Vinícius Júnior, Rayan și Igor Thiago, selectați de asemenea, Neymar va avea a patra apariție la Cupa Mondială, după ce Brazilia l-a numit luni în echipa lor de 26 de oameni. Decizia nu a fost garantată, deoarece întrebările au înconjurat fitness-ul lui Neymar de la ruptura de ligament încrucișat anterior cu mai bine de doi ani în urmă. Antrenorul Braziliei, Carlo Ancelotti, a spus că Neymar „și-a îmbunătățit forma fizică” după anunțarea echipei la o gală la Rio de Janeiro. „El w",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-05-19T10:40:23.777448+00:00",
+      "data_afisaj": "19 mai 2026, 13:40"
+    },
+    {
+      "id": "895ca223404b",
+      "titlu": "Man City se pregătește să-l înlocuiască pe Guardiola cu Maresca",
+      "rezumat": "Enzo Maresca urmează să-l înlocuiască pe Pep Guardiola ca antrenor al Manchester City înainte de sezonul viitor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-19T10:40:23.778759+00:00",
+      "data_afisaj": "19 mai 2026, 13:40"
+    },
+    {
+      "id": "edf529d3e1de",
+      "titlu": "S-ar putea rescrie istoria? Guardiola, Man City și acuzațiile 115",
+      "rezumat": "Având în vedere că Pep Guardiola se așteaptă să părăsească Manchester City la sfârșitul acestui sezon, cum îi pot influența moștenirea pe Etihad Stadium cele 115 acuzații din Premier League ale clubului pentru presupuse încălcări ale regulilor financiare?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-19T10:40:23.780195+00:00",
+      "data_afisaj": "19 mai 2026, 13:40"
+    },
+    {
+      "id": "546f52e12563",
+      "titlu": "Încordați, încordați, dar triumfători - toți ochii Arsenalului sunt acum îndreptați spre Bournemouth",
+      "rezumat": "Toți ochii lui Arsenal vor fi ațintiți marți spre Bournemouth v Man City, iar Gunners sunt foarte aproape de a pune capăt așteptării de 22 de ani pentru un titlu în Premier League.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-19T10:40:23.781621+00:00",
+      "data_afisaj": "19 mai 2026, 13:40"
+    },
     {
       "id": "9a297bbc2b27",
       "titlu": "Croația îl include pe Luka Modric, la 40 de ani, în lotul pentru Cupa Mondială",
@@ -1266,175 +1323,6 @@
       ],
       "data_publicare": "2026-05-12T18:03:13.731532+00:00",
       "data_afisaj": "12 mai 2026, 21:03"
-    },
-    {
-      "id": "26850e224a6a",
-      "titlu": "Southampton cere timp suplimentar pentru investigarea acuzațiilor de spionaj",
-      "rezumat": "Clubul Southampton a solicitat mai mult timp pentru a efectua o revizuire internă, după ce a fost acuzat de spionaj asupra rivalilor din play-off-ul Championship, Middlesbrough. Acuzațiile vin înaintea returului semifinalei de play-off, iar clubul dorește să stabilească întregul context înainte de a trage concluzii. Liga de Fotbal din Anglia a acuzat clubul de comportament necorespunzător, iar investigația internă este în curs de desfășurare pentru a clarifica situația.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-12T10:32:03.494905+00:00",
-      "data_afisaj": "12 mai 2026, 13:32"
-    },
-    {
-      "id": "31afa651d7e5",
-      "titlu": "FIFA se confruntă cu dificultăți în încheierea acordurilor TV pentru Cupa Mondială în China și India",
-      "rezumat": "Cu o lună înainte de startul turneului, FIFA nu a reușit încă să încheie acorduri de difuzare TV cu China și India, două piețe majore cu 2,7 miliarde de locuitori. Această situație reprezintă o provocare semnificativă pentru președintele Gianni Infantino, deoarece ar putea împiedica miliarde de fani să urmărească cele 104 meciuri ale Cupei Mondiale extinse. Negocierile continuă, dar timpul este scurt pentru a asigura acoperirea globală dorită.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-12T10:32:03.496842+00:00",
-      "data_afisaj": "12 mai 2026, 13:32"
-    },
-    {
-      "id": "fd841e8e2c75",
-      "titlu": "Accesibilitatea la Stadionul MetLife pentru Cupa Mondială 2026, o provocare pentru fani",
-      "rezumat": "Pe fondul creșterii prețului biletelor de tren de la 13 la 105 dolari pentru Cupa Mondială, mulți fani se întreabă dacă este posibil să ajungă pe jos la Stadionul MetLife din New York City. O investigație a relevat un traseu dificil de 4,5 ore, care se încheie cu rute pietonale blocate, sugerând că infrastructura americană nu este pregătită pentru a susține un aflux mare de pietoni. Aceasta ridică semne de întrebare privind experiența fanilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-12T10:32:03.498626+00:00",
-      "data_afisaj": "12 mai 2026, 13:32"
-    },
-    {
-      "id": "097f9f91650c",
-      "titlu": "Mauricio Pochettino va decide lotul SUA pentru Cupa Mondială 2026",
-      "rezumat": "În două săptămâni, selecționerul echipei naționale a Statelor Unite, Mauricio Pochettino, va anunța cei 26 de jucători care vor reprezenta țara la Cupa Mondială din această vară. De la preluarea funcției, Pochettino a utilizat 61 de jucători diferiți în cele 24 de meciuri, ceea ce face ca decizia finală să fie una dificilă, având în vedere lipsa unui nucleu clar cristalizat până în prezent. Așteptările sunt mari pentru selecția finală.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-12T10:32:03.500319+00:00",
-      "data_afisaj": "12 mai 2026, 13:32"
-    },
-    {
-      "id": "64d8bd53f0d3",
-      "titlu": "Fost oficial propune o schimbare majoră a regulilor pentru fazele fixe în Premier League",
-      "rezumat": "Un fost arbitru asistent din Premier League a propus o modificare drastică a regulilor privind fazele fixe, care ar avea un impact semnificativ asupra modului în care sunt executate și gestionate cornerele. Această propunere vine în contextul unei discuții mai ample despre drama generată de fazele fixe în sezonul actual al Premier League și ar putea schimba fundamental abordarea echipelor. Detaliile propunerii vizează reducerea numărului de faulturi în careu.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-05-12T10:32:03.502167+00:00",
-      "data_afisaj": "12 mai 2026, 13:32"
-    },
-    {
-      "id": "4a9b64d063b3",
-      "titlu": "Penalty-ul lui Calvert-Lewin aduce un egal lui Leeds la Tottenham",
-      "rezumat": "Tottenham Hotspur risipește oportunitatea de a face un pas semnificativ către siguranța în Premier League, fiind ținută la un egal 1-1 acasă de Leeds United.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-05-12T09:45:11.395169+00:00",
-      "data_afisaj": "12 mai 2026, 12:45"
-    },
-    {
-      "id": "898edf6979d9",
-      "titlu": "Hull învinge Millwall și ajunge în finala play-off-ului Championship",
-      "rezumat": "Hull a avut o prestație clinică la Millwall, câștigând cu 2-0 în manșa a doua și ajungând în finala play-off-ului Championship.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-05-12T09:45:11.396704+00:00",
-      "data_afisaj": "12 mai 2026, 12:45"
-    },
-    {
-      "id": "e14e8171c8ab",
-      "titlu": "Antrenorii 'supra-umani' nu ar trebui să fie nevoiți să ceară ajutor - familia lui Beard despre pierdere",
-      "rezumat": "Familia fostului antrenor WSL Matt Beard vorbește pentru BBC Sport despre povara emoțională a managementului fotbalistic și despre schimbările pe care le doresc.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-12T09:45:11.398369+00:00",
-      "data_afisaj": "12 mai 2026, 12:45"
-    },
-    {
-      "id": "5a12836283a4",
-      "titlu": "Spurs prelungește lupta pentru siguranță, menținând nervii încordați",
-      "rezumat": "Tottenham apasă din nou butonul de autodistrugere, lăsându-l pe Roberto de Zerbi frustrat, în timp ce lupta pentru evitarea retrogradării pare să meargă până la capăt, spune principalul scriitor de fotbal Phil McNulty.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-12T09:45:11.399837+00:00",
-      "data_afisaj": "12 mai 2026, 12:45"
-    },
-    {
-      "id": "5e44641a2b50",
-      "titlu": "Patruzeci de ani de play-off-uri EFL - alege-ți amintirile preferate",
-      "rezumat": "BBC Sport rememorează 15 momente memorabile din 40 de ani de play-off-uri în English Football League.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-12T09:45:11.401419+00:00",
-      "data_afisaj": "12 mai 2026, 12:45"
-    },
-    {
-      "id": "97600978e88d",
-      "titlu": "Premier League va respinge extinderea atribuțiilor VAR pentru sezonul viitor",
-      "rezumat": "Premier League intenționează să refuze extinderea competențelor sistemului VAR pentru sezonul următor, în ciuda unei modificări de regulament aprobate de International Football Association Board (IFAB) în februarie. Conform acestei modificări, arbitrii asistenți video ar fi putut interveni în deciziile privind acordarea cornerelor și a celui de-al doilea cartonaș galben. Decizia vine după discuții cu organismul arbitrilor, Professional Game Match Officials (PGMO), care își exprimase îngrijorarea că o astfel de schimbare ar pune o presiune suplimentară asupra oficialilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-11T18:53:17.186695+00:00",
-      "data_afisaj": "11 mai 2026, 21:53"
-    },
-    {
-      "id": "62be3959328e",
-      "titlu": "Beth Mead, aproape de un transfer la Manchester City după plecarea de la Arsenal",
-      "rezumat": "Atacanta engleză Beth Mead este aproape de a ajunge la un acord cu Manchester City, conform informațiilor obținute de The Guardian. Această mutare vine după ce s-a confirmat că jucătoarea va părăsi Arsenal la sfârșitul verii, odată cu expirarea contractului său, după nouă ani petrecuți la club. Mead a avut un rol cheie în multiplele victorii ale echipei, înregistrând 265 de apariții și 86 de goluri pentru Arsenal, contribuind la câștigarea unui titlu WSL, trei Cupe ale Ligii și Liga Campionilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-11T18:53:17.188527+00:00",
-      "data_afisaj": "11 mai 2026, 21:53"
-    },
-    {
-      "id": "901d1d1b3ee2",
-      "titlu": "Liverpool ar fi reluat discuțiile cu Xabi Alonso, pe fondul nemulțumirilor legate de Arne Slot",
-      "rezumat": "Pe fondul unei noi nemulțumiri la Liverpool față de Arne Slot, clubul ar fi inițiat discuții cu Xabi Alonso. Conform rapoartelor, \"Cormoranii\" s-au interesat de perioada petrecută de antrenorul spaniol la Real Madrid. Această mișcare sugerează o posibilă reorientare în căutarea noului antrenor principal, după ce anterior se părea că Slot era favorit. Situația actuală indică o incertitudine crescută în privința viitorului băncii tehnice de pe Anfield.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-05-11T18:53:17.190392+00:00",
-      "data_afisaj": "11 mai 2026, 21:53"
-    },
-    {
-      "id": "ecff515e09f2",
-      "titlu": "AC Milan se confruntă cu dificultăți, ratând calificarea în Liga Campionilor",
-      "rezumat": "AC Milan se confruntă din nou cu perspectiva de a rata calificarea în Liga Campionilor, pe fondul unor performanțe dezamăgitoare. La un meci crucial de final de sezon, stadionul San Siro a fost pe jumătate gol înainte de fluierul final, suporterii părăsind tribunele pentru a protesta. Fanii, inclusiv Ultras din Curva Sud, au manifestat nemulțumirea față de situația clubului, care pare să fie afectat de \"fantoma\" fostului director Paolo Maldini, al cărui nume a fost scandat de suporteri.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-11T18:53:17.192126+00:00",
-      "data_afisaj": "11 mai 2026, 21:53"
-    },
-    {
-      "id": "fbce956c1f4c",
-      "titlu": "Manchester United ar putea beneficia de un câștig financiar de 38 de milioane de lire sterline",
-      "rezumat": "Manchester United ar putea primi un impuls financiar semnificativ în valoare de 38 de milioane de lire sterline în această seară. Această sumă ar proveni dintr-o clauză legată de transferul lui Rasmus Hojlund la Napoli, conform rapoartelor. Această injecție de capital ar putea oferi clubului o flexibilitate sporită pentru viitoarele investiții în lot sau pentru echilibrarea situației financiare, având un impact pozitiv asupra planurilor de dezvoltare ale echipei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-05-11T18:53:17.193955+00:00",
-      "data_afisaj": "11 mai 2026, 21:53"
     }
   ]
 }
