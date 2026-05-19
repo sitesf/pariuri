@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-19T10:40:47.326116+00:00",
-  "updated_at_afisaj": "19 mai 2026, 13:40",
+  "updated_at": "2026-05-19T11:17:12.605802+00:00",
+  "updated_at_afisaj": "19 mai 2026, 14:17",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,52 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 115,
+  "numar_stiri": 119,
   "stiri": [
+    {
+      "id": "1b6d64f20705",
+      "titlu": "UEFA refuză să adopte noile reguli FIFA privind cartonașele roșii",
+      "rezumat": "UEFA a decis să nu urmeze exemplul FIFA în privința introducerii unor noi reguli pentru acordarea cartonașelor roșii. Forul european a optat să nu implementeze sancțiuni automate cu cartonaș roșu pentru jucătorii care își acoperă gura în timpul confruntărilor cu un adversar sau care părăsesc terenul în semn de protest față de o decizie a arbitrului. Aceste reguli fuseseră aprobate de International Football Association Board (Ifab) la solicitarea FIFA și ar fi trebuit să intre în vigoare la 1 iunie, dar UEFA va monitoriza aplicarea lor la Cupa Mondială înainte de a lua o decizie finală.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-19T11:17:12.600629+00:00",
+      "data_afisaj": "19 mai 2026, 14:17"
+    },
+    {
+      "id": "3d202b366b18",
+      "titlu": "Southampton riscă sancțiuni într-un caz de spionaj înainte de finala play-off-ului",
+      "rezumat": "Clubul Southampton se confruntă cu o audiere disciplinară crucială, fiind acuzat că ar fi spionat o sesiune de antrenament a echipei Middlesbrough. Rezultatul acestei audieri este așteptat marți și ar putea avea implicații majore asupra participării echipei în finala play-off-ului. Acuzațiile de \"Spygate\" pun sub semnul întrebării integritatea competiției și ar putea duce la sancțiuni severe, afectând șansele lui Southampton de a promova. Situația creează tensiuni considerabile înaintea unui moment decisiv pentru club.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-19T11:17:12.602407+00:00",
+      "data_afisaj": "19 mai 2026, 14:17"
+    },
+    {
+      "id": "815312a7a6ba",
+      "titlu": "Miza uriașă în Premier League: Titlu, retrogradare și locuri de Liga Campionilor se decid în această seară",
+      "rezumat": "Cursa pentru titlul din Premier League, lupta pentru evitarea retrogradării și calificarea în Liga Campionilor pentru Liverpool ar putea fi decise în această seară. Arsenal speră să își asigure primul titlu în 22 de ani, în timp ce Manchester City se confruntă cu o deplasare dificilă la Bournemouth. În zona retrogradării, West Ham ar putea fi condamnată, iar Liverpool își joacă șansa de a-și securiza locul în competiția europeană de elită. Toate aceste scenarii vor fi urmărite cu sufletul la gură, cu transmisiuni live pe Sky Sports.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-19T11:17:12.604176+00:00",
+      "data_afisaj": "19 mai 2026, 14:17"
+    },
+    {
+      "id": "323a1c4138d2",
+      "titlu": "Acuzații de intimidare la adresa candidatului la președinția Federației de Fotbal din Congo",
+      "rezumat": "Véron Mosengo-Omba, singurul candidat la președinția Federației de Fotbal din Republica Democrată Congo (Fecofa), este vizat de acuzații de hărțuire și intimidare. Membri ai Comitetului de Audit și Conformitate (AACC) al Confederației Africane de Fotbal (Caf) au formulat aceste acuzații, care se concentrează pe o întâlnire de două ore între Mosengo-Omba și comitet în octombrie 2024. Situația ridică semne de întrebare serioase cu privire la procesul electoral și la integritatea conducerii fotbalului african.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-19T11:17:12.605785+00:00",
+      "data_afisaj": "19 mai 2026, 14:17"
+    },
     {
       "id": "d7d12580b1a6",
       "titlu": "Stewart și Curtis în lotul Scoției pentru Cupa Mondială",
