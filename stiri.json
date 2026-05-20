@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-20T10:49:48.290885+00:00",
-  "updated_at_afisaj": "20 mai 2026, 13:49",
+  "updated_at": "2026-05-20T18:22:08.440437+00:00",
+  "updated_at_afisaj": "20 mai 2026, 21:22",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,62 @@
   },
   "numar_stiri": 120,
   "stiri": [
+    {
+      "id": "d1c7e10afb8e",
+      "titlu": "De ce Bournemouth și Brighton își doresc ca Aston Villa să câștige Europa League",
+      "rezumat": "Aston Villa are șansa de a deschide o a șasea poziție de calificare în Liga Campionilor pentru Premier League, dacă va câștiga finala Europa League. Echipe precum Bournemouth și Brighton sunt direct interesate de acest rezultat, deoarece o victorie a lui Villa le-ar putea oferi o cale neașteptată către cea mai prestigioasă competiție europeană, în funcție de clasamentul final din campionatul intern. Această situație adaugă o miză suplimentară finalei europene pentru mai multe cluburi din Anglia.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-20T18:22:08.433894+00:00",
+      "data_afisaj": "20 mai 2026, 21:22"
+    },
+    {
+      "id": "692dcf78c8ca",
+      "titlu": "UEFA propune un sistem de calificare la Cupa Mondială pe două niveluri",
+      "rezumat": "UEFA intenționează să introducă un proces de calificare pe două niveluri pentru Cupa Mondială din 2030, o măsură care ar schimba radical formatul actual. Conform acestei propuneri, națiunile majore nu ar mai juca împotriva națiunilor considerate minore, precum San Marino, Gibraltar și Andorra. Scopul este de a crea meciuri mai competitive și de a eficientiza procesul de calificare, evitând scorurile dezechilibrate și oferind o experiență mai bună atât pentru echipe, cât și pentru fani.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-20T18:22:08.435460+00:00",
+      "data_afisaj": "20 mai 2026, 21:22"
+    },
+    {
+      "id": "e1322530b8b4",
+      "titlu": "UEFA va aplica strict regulile privind proprietatea multi-club în Liga Campionilor Feminină",
+      "rezumat": "Șefa fotbalului feminin de la UEFA a anunțat că regulile care interzic cluburilor cu același proprietar să concureze împreună în Liga Campionilor Feminină vor fi aplicate cu strictețe, fără excepții. Această decizie reprezintă o lovitură pentru investitori precum Michele Kang, care deține atât OL Lyonnes, cât și London City Lionesses. Scopul este de a asigura integritatea competiției și de a preveni conflictele de interese, garantând un mediu echitabil pentru toate echipele participante.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-20T18:22:08.437156+00:00",
+      "data_afisaj": "20 mai 2026, 21:22"
+    },
+    {
+      "id": "a2785d0ec15e",
+      "titlu": "Bournemouth se grăbește să modernizeze stadionul Vitality pentru debutul în competițiile europene",
+      "rezumat": "Clubul Bournemouth se confruntă cu o cursă contracronometru pentru a finaliza modernizările necesare la stadionul Vitality, înaintea primului său sezon în competițiile europene. Deși UEFA a acordat o licență provizorie, sunt necesare îmbunătățiri la zonele de ospitalitate și facilitățile de transmisie pentru a îndeplini standardele. O vizită a oficialilor UEFA este programată pentru a evalua progresele, iar clubul trebuie să obțină permisiunea pentru modificările propuse pentru a putea găzdui meciuri europene.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-20T18:22:08.438779+00:00",
+      "data_afisaj": "20 mai 2026, 21:22"
+    },
+    {
+      "id": "63a8c65e954d",
+      "titlu": "Hotelurile din SUA se tem de un eșec economic la Cupa Mondială din 2026",
+      "rezumat": "Deși se anticipa că Cupa Mondială FIFA 2026 va genera un boom turistic semnificativ pentru Statele Unite, există acum temeri că acest lucru ar putea să nu se materializeze. Anulări din partea FIFA și camere de hotel rămase goale sugerează că evenimentul ar putea să nu aducă beneficiile economice așteptate. Această situație ridică semne de întrebare cu privire la planificarea și impactul real al turneului asupra industriei ospitalității din SUA.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-20T18:22:08.440416+00:00",
+      "data_afisaj": "20 mai 2026, 21:22"
+    },
     {
       "id": "eb489f54d80f",
       "titlu": "Tottenham luptă pentru supraviețuirea în Premier League până în ultima etapă",
@@ -1318,62 +1374,6 @@
       ],
       "data_publicare": "2026-05-13T18:53:19.374530+00:00",
       "data_afisaj": "13 mai 2026, 21:53"
-    },
-    {
-      "id": "a77208d589eb",
-      "titlu": "🚨 LIVE U Cluj – Universitatea Craiova 0-0, Live Text Online, în finala din Cupa României. Pauză la Sibiu",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-05-13T18:04:22.441543+00:00",
-      "data_afisaj": "13 mai 2026, 21:04"
-    },
-    {
-      "id": "c38b1e64c2d0",
-      "titlu": "O mână de fier care se alătură unui club stricat: Returul lui Mourinho în interiorul Realului",
-      "rezumat": "Jose Mourinho urmează să fie numit noul antrenor al lui Real Madrid. Expertul spaniol în fotbal Guillem Balague explică de ce.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-13T18:04:22.443156+00:00",
-      "data_afisaj": "13 mai 2026, 21:04"
-    },
-    {
-      "id": "0206e194e49d",
-      "titlu": "Șefii lui Man Utd îl vor recomanda pe Carrick pentru un loc de muncă permanent",
-      "rezumat": "Michael Carrick este de așteptat să fie recomandat lui Sir Jim Ratcliffe ca șef permanent al Manchester United de către directorii superiori ai clubului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-13T18:04:22.444625+00:00",
-      "data_afisaj": "13 mai 2026, 21:04"
-    },
-    {
-      "id": "9e3cb8e1d209",
-      "titlu": "Ar putea Southampton să fie exclus din play-off pentru Spygate?",
-      "rezumat": "Southampton va juca cu Hull în finala play-off-ului campionatului. Sau vor? Pe măsură ce Spygate se îndreaptă spre încheierea sa, Middlesbrough ar putea încă să se îndrepte spre Wembley.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-13T18:04:22.446126+00:00",
-      "data_afisaj": "13 mai 2026, 21:04"
-    },
-    {
-      "id": "35a003fc8d20",
-      "titlu": "Fostul șef al lui Spurs, Levy, nu și-a imaginat niciodată lupta pentru retrogradare",
-      "rezumat": "„Nu într-un milion de ani” a crezut Daniel Levy că Tottenham va lupta pentru supraviețuirea în Premier League, după ce a demisionat din funcția de președinte executiv.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-13T18:04:22.447607+00:00",
-      "data_afisaj": "13 mai 2026, 21:04"
     }
   ]
 }
