@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-20T10:26:32.465439+00:00",
-  "updated_at_afisaj": "20 mai 2026, 13:26",
+  "updated_at": "2026-05-20T10:49:48.290885+00:00",
+  "updated_at_afisaj": "20 mai 2026, 13:49",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,52 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 119,
+  "numar_stiri": 120,
   "stiri": [
+    {
+      "id": "eb489f54d80f",
+      "titlu": "Tottenham luptă pentru supraviețuirea în Premier League până în ultima etapă",
+      "rezumat": "O decizie controversată de ultim moment a lăsat echipa Tottenham Hotspur într-o luptă acerbă pentru menținerea în Premier League, evitând o umilință supremă în ultima zi a sezonului. Potrivit scriitorului șef de fotbal Phil McNulty, soarta clubului se va decide în meciul final, unde un singur punct ar putea face diferența între salvare și retrogradare. Situația tensionată subliniază presiunea imensă asupra jucătorilor și staff-ului tehnic.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-20T10:49:48.285346+00:00",
+      "data_afisaj": "20 mai 2026, 13:49"
+    },
+    {
+      "id": "7f15c732d311",
+      "titlu": "Khadija Shaw, considerată cea mai bună atacantă din istoria WSL după un nou titlu cu Manchester City",
+      "rezumat": "După ce Khadija Shaw a ajutat-o pe Manchester City să câștige Women's Super League cu un alt sezon superb, BBC Sport analizează poziția sa printre cele mai mari atacante din istoria diviziei. Jucătoarea din Jamaica a încheiat campania de campionat în stil, cu o dublă împotriva lui West Ham, ajungând la 21 de goluri. Prin aceasta, a devenit prima jucătoare din istoria WSL care a marcat peste 20 de goluri în trei sezoane diferite.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-20T10:49:48.287451+00:00",
+      "data_afisaj": "20 mai 2026, 13:49"
+    },
+    {
+      "id": "fa68d02c0273",
+      "titlu": "Freiburg, condusă de Julian Schuster, țintește imortalitatea în finala Europa League",
+      "rezumat": "SC Freiburg, sub conducerea agresivă a lui Julian Schuster, își propune să atingă un moment istoric în finala Europa League împotriva lui Aston Villa. În ciuda plecărilor unor legende ale clubului și a unor jucători cheie, modestul club german a reușit să ajungă în această fază a competiției. Indiferent de rezultat, clubul va organiza o recepție la întoarcerea în oraș pentru a celebra parcursul remarcabil din acest sezon.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-20T10:49:48.289100+00:00",
+      "data_afisaj": "20 mai 2026, 13:49"
+    },
+    {
+      "id": "9821b17c1f8b",
+      "titlu": "Rodri de la Manchester City, pe prima pagină a ziarelor spaniole, cu o posibilă mutare la Real Madrid",
+      "rezumat": "Starul lui Manchester City, Rodri, este pregătit să-l urmeze pe Pep Guardiola în afara stadionului Etihad, cu Real Madrid interesată de serviciile sale. Această știre a ajuns pe prima pagină a ziarelor din Spania, sugerând o posibilă plecare în masă de la Manchester City. Speculațiile privind viitorul lui Rodri adaugă o nouă dimensiune incertitudinii care planează asupra clubului englez după un sezon tumultuos.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-05-20T10:49:48.290870+00:00",
+      "data_afisaj": "20 mai 2026, 13:49"
+    },
     {
       "id": "74d3a0440b58",
       "titlu": "Jucătorii și Fanii Arsenalului Sărbătoresc Titlul la Emirates Până Dimineață",
@@ -1330,40 +1374,6 @@
       ],
       "data_publicare": "2026-05-13T18:04:22.447607+00:00",
       "data_afisaj": "13 mai 2026, 21:04"
-    },
-    {
-      "id": "cd55e2e0625c",
-      "titlu": "Manchester United ia în considerare numirea permanentă a lui Michael Carrick ca antrenor",
-      "rezumat": "Manchester United este pregătită să inițieze discuții cu Michael Carrick pentru a-l numi antrenor principal permanent după încheierea sezonului. Prezența lui Carrick este considerată o sursă de inspirație pentru tinerii jucători ai clubului, în special în contextul participării la FA Youth Cup. Această decizie ar marca o schimbare semnificativă în strategia de management a echipei, oferind continuitate și stabilitate la nivelul băncii tehnice, pe fondul eforturilor de reconstrucție a clubului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-05-13T10:27:42.603588+00:00",
-      "data_afisaj": "13 mai 2026, 13:27"
-    },
-    {
-      "id": "acdb76d50b0d",
-      "titlu": "Pep Guardiola critică arbitrajul și VAR, cerând jucătorilor săi să depășească deciziile controversate",
-      "rezumat": "Pep Guardiola, antrenorul lui Manchester City, a declarat că deciziile arbitrilor sunt \"o chestiune de noroc\" și își îndeamnă constant jucătorii să performeze mai bine pentru a depăși aceste obstacole. Comentariile vin în contextul unei noi examinări a arbitrajului și a sistemului VAR, după golul anulat al lui West Ham împotriva lui Arsenal. Guardiola subliniază că arbitrii \"nu și-au făcut treaba\" în finalele Cupei Angliei și că echipa sa trebuie să fie mai bună pentru a nu depinde de deciziile oficialilor, accentuând necesitatea unei performanțe superioare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-13T10:27:42.605477+00:00",
-      "data_afisaj": "13 mai 2026, 13:27"
-    },
-    {
-      "id": "7bf1eb69698d",
-      "titlu": "Manchester City Women inovează cu facilități de antrenament de ultimă generație",
-      "rezumat": "Echipa feminină Manchester City utilizează facilități de antrenament de 10 milioane de lire sterline, construite special pentru ele, pentru a-și îmbunătăți performanțele. Acestea includ bețișoare personalizate în cantină pentru jucătoarele japoneze, shake-uri de recuperare personalizate cu ananas și mango pentru Khadija \"Bunny\" Shaw, și benzi de alergare subacvatice unde jucătoarele pot urmări știri sportive în timpul recuperării. Căpitanul Alex Greenwood a declarat că \"nimic nu se compară\" cu aceste facilități, care contribuie la succesul și dezvoltarea continuă a echipei, consolidând poziția clubului în fotbalul feminin.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-13T10:27:42.607115+00:00",
-      "data_afisaj": "13 mai 2026, 13:27"
     }
   ]
 }
