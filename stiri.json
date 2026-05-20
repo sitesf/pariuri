@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-20T18:22:08.440437+00:00",
-  "updated_at_afisaj": "20 mai 2026, 21:22",
+  "updated_at": "2026-05-20T19:17:11.731546+00:00",
+  "updated_at_afisaj": "20 mai 2026, 22:17",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,41 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 120,
+  "numar_stiri": 118,
   "stiri": [
+    {
+      "id": "efe478281690",
+      "titlu": "Arbitrul meciului Manchester United - Nottingham Forest, omis de la ultima etapă din Premier League",
+      "rezumat": "Arbitrul care a oficiat partida dintre Manchester United și Nottingham Forest, disputată duminica trecută, nu a fost desemnat să conducă niciun meci din ultima rundă a campionatului Premier League. Decizia vine după o victorie controversată a lui Manchester United, iar omisiunea sa de pe lista arbitrilor pentru etapa finală sugerează o posibilă evaluare negativă a prestației sale. Această măsură subliniază presiunea și scrutinul la care sunt supuși oficialii în cele mai importante ligi de fotbal, în special în momentele decisive ale sezonului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-20T19:17:11.726270+00:00",
+      "data_afisaj": "20 mai 2026, 22:17"
+    },
+    {
+      "id": "fd8ce3628e54",
+      "titlu": "Toulouse îl vizează pe antrenorul lui Motherwell, Jens Berthel Askou",
+      "rezumat": "Clubul francez Toulouse a inițiat o abordare oficială către Motherwell, echipa scoțiană, cu intenția de a-l numi pe Jens Berthel Askou în funcția de antrenor principal. Această mișcare indică interesul lui Toulouse de a-și consolida banca tehnică cu un nou lider, în căutarea unor performanțe îmbunătățite. Askou, actualul manager al lui Motherwell, ar putea face astfel pasul către un campionat mai puternic, marcând o schimbare importantă în cariera sa de antrenor și o nouă direcție pentru clubul francez.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-20T19:17:11.727953+00:00",
+      "data_afisaj": "20 mai 2026, 22:17"
+    },
+    {
+      "id": "f84b1acbaaf3",
+      "titlu": "Hearts contestă \"încheierea prematură\" a meciului decisiv de titlu din Premiership",
+      "rezumat": "Clubul Hearts a trimis o scrisoare către Federația Scoțiană de Fotbal (SFA) și SPFL, contestând \"precedentul îngrijorător\" creat de \"încheierea prematură\" a meciului decisiv pentru titlul din Premiership, disputat sâmbăta trecută pe Celtic Park. Această acțiune subliniază preocupările clubului cu privire la modul în care a fost gestionată situația și la implicațiile pe termen lung pentru integritatea competiției. Hearts solicită clarificări și o analiză aprofundată a evenimentelor care au dus la oprirea jocului înainte de fluierul final, considerând că s-a creat un precedent periculos.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-20T19:17:11.731524+00:00",
+      "data_afisaj": "20 mai 2026, 22:17"
+    },
     {
       "id": "d1c7e10afb8e",
       "titlu": "De ce Bournemouth și Brighton își doresc ca Aston Villa să câștige Europa League",
@@ -1318,62 +1351,6 @@
       ],
       "data_publicare": "2026-05-14T09:38:33.414654+00:00",
       "data_afisaj": "14 mai 2026, 12:38"
-    },
-    {
-      "id": "85f6ce2279bc",
-      "titlu": "🚨 Inter – Lazio Live Text Online, de la ora 22:00, în finala Cupei Italiei. Echipele de start. Cristi Chivu poate realiza evenimentul în primul sezon la echipa din Milano",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-05-13T18:53:19.368367+00:00",
-      "data_afisaj": "13 mai 2026, 21:53"
-    },
-    {
-      "id": "7022a5a15db0",
-      "titlu": "O mână de fier alăturându-se unei echipe rupte: Returul lui Mourinho din Real",
-      "rezumat": "Jose Mourinho urmează să fie numit noul antrenor al lui Real Madrid. Expertul spaniol în fotbal Guillem Balague explică de ce.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-13T18:53:19.370060+00:00",
-      "data_afisaj": "13 mai 2026, 21:53"
-    },
-    {
-      "id": "a3ddbe2665ab",
-      "titlu": "Proprietarii lui Liverpool se confruntă cu o dilemă - să se lipească sau să se răsucească cu Slot?",
-      "rezumat": "Proprietarii lui Liverpool, FSG, se confruntă cu o dilemă în timp ce se gândesc dacă să reacționeze la o disidență tot mai mare a fanilor împotriva lui Arne Slot, spune scriitorul șef de fotbal Phil McNulty.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-13T18:53:19.371630+00:00",
-      "data_afisaj": "13 mai 2026, 21:53"
-    },
-    {
-      "id": "2bcaae23a979",
-      "titlu": "Prețurile transportului la Cupa Mondială au scăzut după reacția fanilor",
-      "rezumat": "Prețurile pentru autobuze și trenuri către meciurile Cupei Mondiale de pe stadionul MetLife din New Jersey au fost reduse în urma reacțiilor fanilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-13T18:53:19.373077+00:00",
-      "data_afisaj": "13 mai 2026, 21:53"
-    },
-    {
-      "id": "b993e3133ebe",
-      "titlu": "West Brom nu va face recurs împotriva penalizării cu puncte",
-      "rezumat": "West Bromwich Albion susține că un recurs împotriva deciziei EFL de a le atrage două puncte pentru încălcarea regulilor financiare „nu este în interesul lor” și doresc „să meargă mai departe”.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-13T18:53:19.374530+00:00",
-      "data_afisaj": "13 mai 2026, 21:53"
     }
   ]
 }
