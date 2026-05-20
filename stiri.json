@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-19T18:56:50.848174+00:00",
-  "updated_at_afisaj": "19 mai 2026, 21:56",
+  "updated_at": "2026-05-20T10:26:32.465439+00:00",
+  "updated_at_afisaj": "20 mai 2026, 13:26",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,54 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 118,
+  "numar_stiri": 119,
   "stiri": [
+    {
+      "id": "74d3a0440b58",
+      "titlu": "Jucătorii și Fanii Arsenalului Sărbătoresc Titlul la Emirates Până Dimineață",
+      "rezumat": "După o așteptare de 22 de ani, jucătorii și suporterii Arsenalului au sărbătorit intens câștigarea titlului Premier League. Festivitățile au continuat până la primele ore ale dimineții la stadionul Emirates, unde echipa și fanii s-au adunat pentru a savura momentul istoric. Bucuria a fost palpabilă, marcând o realizare mult-așteptată pentru clubul londonez.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-20T10:26:32.460386+00:00",
+      "data_afisaj": "20 mai 2026, 13:26"
+    },
+    {
+      "id": "f9536de2a1a4",
+      "titlu": "Manchester City, 24 de Ore de Suferință: Pierderea Titlului și Plecarea lui Guardiola",
+      "rezumat": "Manchester City a traversat o perioadă de 24 de ore extrem de dificilă, marcate de pierderea titlului Premier League în fața lui Arsenal și de vestea șocantă a plecării iminente a antrenorului Pep Guardiola. Această dublă lovitură a zguduit clubul, transformând o zi obișnuită într-un moment de profundă dezamăgire și incertitudine pentru viitorul echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-20T10:26:32.462181+00:00",
+      "data_afisaj": "20 mai 2026, 13:26"
+    },
+    {
+      "id": "88b575bdcd04",
+      "titlu": "Bournemouth Se Califică în Competițiile Europene pentru Prima Dată în Istorie",
+      "rezumat": "Echipa Bournemouth și-a asigurat un loc în competițiile europene pentru prima dată în istoria clubului, după o remiză împotriva lui Manchester City. Deși calificarea este deja obținută, clubul păstrează speranțe de a ajunge chiar în Liga Campionilor, în funcție de rezultatele finale ale sezonului. Această performanță reprezintă o realizare remarcabilă pentru Bournemouth.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-05-20T10:26:32.463810+00:00",
+      "data_afisaj": "20 mai 2026, 13:26"
+    },
+    {
+      "id": "4bcfa83b02d1",
+      "titlu": "MLS Propune IFAB Introducerea Ceasului Oprit în Timpul Întreruperilor de Joc",
+      "rezumat": "Major League Soccer (MLS) a inițiat discuții cu International Football Association Board (IFAB), organismul responsabil cu regulile fotbalului, pentru a explora posibilitatea testării unui sistem de cronometrare cu ceas oprit în timpul întreruperilor de joc. Această propunere vizează oprirea ceasului la faulturi, înlocuiri și alte pauze, o schimbare fundamentală față de sistemul actual de cronometrare continuă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-20T10:26:32.465420+00:00",
+      "data_afisaj": "20 mai 2026, 13:26"
+    },
     {
       "id": "56e23aca7eb7",
       "titlu": "Cristiano Ronaldo, Convocat în Lotul Portugaliei pentru a Șasea Cupă Mondială, un Record",
@@ -1318,40 +1364,6 @@
       ],
       "data_publicare": "2026-05-13T10:27:42.607115+00:00",
       "data_afisaj": "13 mai 2026, 13:27"
-    },
-    {
-      "id": "e21a90f77529",
-      "titlu": "Southampton riscă excluderea din play-off-urile Championship din cauza acuzațiilor de spionaj",
-      "rezumat": "Clubul Southampton ar putea fi exclus din play-off-urile Championship și ar putea pierde șansa de promovare în Premier League, dacă o comisie independentă va susține acuzația conform căreia echipa ar fi spionat o sesiune de antrenament a echipei Middlesbrough înainte de semifinala play-off-ului. Acuzațiile au apărut în contextul victoriei cu 2-1 a lui Southampton împotriva lui Middlesbrough, care le-a asigurat un loc în finala play-off-ului. Incidentul a generat controverse și ar putea avea consecințe semnificative asupra deznodământului competiției.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-05-13T09:48:08.011956+00:00",
-      "data_afisaj": "13 mai 2026, 12:48"
-    },
-    {
-      "id": "f77e6f529a4e",
-      "titlu": "Conducerea Liverpool se confruntă cu o dilemă privind viitorul antrenorului Arne Slot",
-      "rezumat": "Proprietarii clubului Liverpool, FSG, se află într-o situație dificilă, analizând dacă să mențină sau să schimbe antrenorul Arne Slot, pe fondul nemulțumirilor crescânde ale fanilor. Potrivit analistului șef de fotbal Phil McNulty, decizia vine după o perioadă în care performanțele echipei și stilul de joc sub conducerea lui Slot au generat dezbateri intense. Conducerea clubului trebuie să evalueze cu atenție impactul pe termen lung al oricărei decizii asupra stabilității și succesului echipei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-13T09:48:08.013801+00:00",
-      "data_afisaj": "13 mai 2026, 12:48"
-    },
-    {
-      "id": "be93591f8eb6",
-      "titlu": "Carlo Ancelotti: Convocarea lui Neymar la naționala Braziliei depinde de performanțele sale pe teren",
-      "rezumat": "Într-un interviu exclusiv, selecționerul Braziliei, Carlo Ancelotti, a declarat că o eventuală convocare a lui Neymar la echipa națională depinde exclusiv de jucător și de ceea ce va demonstra pe teren. Antrenorul italian, în vârstă de 66 de ani, a discutat despre provocările de a conduce 'cea mai importantă echipă națională' și despre cum să obțină cele mai bune performanțe de la jucători precum Vinícius Júnior. Ancelotti a subliniat importanța formei sportive și a angajamentului pentru a face parte din lotul național.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-13T09:48:08.015487+00:00",
-      "data_afisaj": "13 mai 2026, 12:48"
     }
   ]
 }
