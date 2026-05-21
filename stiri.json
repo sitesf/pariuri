@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-21T10:41:44.120153+00:00",
-  "updated_at_afisaj": "21 mai 2026, 13:41",
+  "updated_at": "2026-05-21T11:24:01.007102+00:00",
+  "updated_at_afisaj": "21 mai 2026, 14:24",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,41 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 112,
+  "numar_stiri": 115,
   "stiri": [
+    {
+      "id": "4f610faec489",
+      "titlu": "Emiliano Martinez a jucat finala Europa League cu degetul rupt",
+      "rezumat": "Portarul lui Aston Villa, Emiliano Martinez, a dezvăluit că și-a rupt un deget în timpul încălzirii premergătoare finalei Europa League împotriva lui Freiburg. În ciuda accidentării, Martinez a continuat să joace, contribuind decisiv la victoria echipei sale și la cucerirea trofeului. Performanța sa subliniază dedicarea și spiritul de sacrificiu al jucătorului în momentele cruciale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-21T11:24:01.004560+00:00",
+      "data_afisaj": "21 mai 2026, 14:24"
+    },
+    {
+      "id": "568baec273c9",
+      "titlu": "Victoria Aston Villa în Europa League menține speranțele Angliei pentru șase locuri în Liga Campionilor",
+      "rezumat": "Succesul lui Aston Villa în finala Europa League împotriva lui Freiburg a menținut vii șansele Premier League de a avea șase echipe calificate în Liga Campionilor în sezonul următor. Acest scenariu depinde de rezultatele finale din campionat și de clasamentul coeficienților UEFA. Victoria Villa este crucială pentru ambițiile fotbalului englez de a maximiza reprezentarea în cea mai prestigioasă competiție europeană inter-cluburi.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-21T11:24:01.005888+00:00",
+      "data_afisaj": "21 mai 2026, 14:24"
+    },
+    {
+      "id": "6d21e04e9fec",
+      "titlu": "Millwall și Wrexham analizează acțiuni legale în scandalul de spionaj al lui Southampton",
+      "rezumat": "Cluburile Millwall și Wrexham iau în considerare opțiunile legale după confirmarea excluderii lui Southampton din finala play-off-ului Championship, în urma scandalului de spionaj. Middlesbrough a fost desemnată să o înlocuiască pe Southampton. Cluburile afectate așteaptă publicarea motivelor scrise ale deciziilor luate de panelul disciplinar independent al English Football League, care au fost susținute de un apel. Acestea ar putea solicita compensații.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-21T11:24:01.007088+00:00",
+      "data_afisaj": "21 mai 2026, 14:24"
+    },
     {
       "id": "1d046cd844a0",
       "titlu": "Parada victoriei Aston Villa în Europa League va bloca centrul orașului Birmingham",
