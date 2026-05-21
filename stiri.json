@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-21T11:24:01.007102+00:00",
-  "updated_at_afisaj": "21 mai 2026, 14:24",
+  "updated_at": "2026-05-21T18:03:34.158114+00:00",
+  "updated_at_afisaj": "21 mai 2026, 21:03",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,69 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 115,
+  "numar_stiri": 117,
   "stiri": [
+    {
+      "id": "2d3aeadf501e",
+      "titlu": "Foden și l-au „șocat” pe Maguire să rateze lotul pentru Cupa Mondială",
+      "rezumat": "Phil Foden și Harry Maguire se numără printre jucătorii care urmează să fie lăsați în afara lotului lui Thomas Tuchel pentru Cupa Mondială a Angliei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-21T18:03:06.868576+00:00",
+      "data_afisaj": "21 mai 2026, 21:03"
+    },
+    {
+      "id": "795922f87d01",
+      "titlu": "Susține că jucătorii Hearts au fost atacați „nu dovedit” - O'Neill",
+      "rezumat": "Antrenorul Celtic, Martin O'Neill, spune că acuzațiile jucătorilor Hearts au fost agresați pe fondul invaziei terenului de sâmbătă „nu au fost dovedite”, în timp ce consecințele de la decizia titlului în Premiership continuă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-21T18:03:06.869995+00:00",
+      "data_afisaj": "21 mai 2026, 21:03"
+    },
+    {
+      "id": "82cc40622806",
+      "titlu": "Trei ofițeri de poliție vor însoți 10.000 de fani Angliei la Cupa Mondială",
+      "rezumat": "Poliția britanică trimite doar trei ofițeri în SUA pentru a însoți fanii Angliei la Cupa Mondială, după ce autoritățile americane refuză să ofere finanțare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-21T18:03:06.871361+00:00",
+      "data_afisaj": "21 mai 2026, 21:03"
+    },
+    {
+      "id": "37dd9beca4da",
+      "titlu": "Neuer, în vârstă de 40 de ani, își schimbă retragerea pentru a fi portarul de primă alegere al Germaniei la Cupa Mondială",
+      "rezumat": "Portarul Bayern Munchen, Manuel Neuer, iese din pensionare internațională pentru a fi numit în lotul Germaniei pentru Cupa Mondială din 2026, iar antrenorul Julian Nagelsmann afirmând că jucătorul de 40 de ani va fi numărul unu al echipei sale la turneu.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-21T18:03:06.872794+00:00",
+      "data_afisaj": "21 mai 2026, 21:03"
+    },
+    {
+      "id": "9ad980dc5002",
+      "titlu": "Gigi Becali l-a făcut praf pe Tavi Popescu după ce a râs de convocările lui Gică Hagi: „E grav! A făcut-o din prostie”",
+      "rezumat": "(rezumat indisponibil)",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-05-21T18:03:06.874696+00:00",
+      "data_afisaj": "21 mai 2026, 21:03"
+    },
     {
       "id": "4f610faec489",
       "titlu": "Emiliano Martinez a jucat finala Europa League cu degetul rupt",
@@ -1281,42 +1342,6 @@
       ],
       "data_publicare": "2026-05-14T18:30:35.283724+00:00",
       "data_afisaj": "14 mai 2026, 21:30"
-    },
-    {
-      "id": "124a3a180b32",
-      "titlu": "Sam Kerr părăsește Chelsea la finalul sezonului",
-      "rezumat": "Sam Kerr, golghetera all-time a clubului Chelsea în Superliga Feminină (WSL), va părăsi echipa la finalul acestui sezon, odată cu expirarea contractului său. Atacanta australiană a fost o figură emblematică pentru \"Blues\", contribuind semnificativ la succesele clubului de-a lungul anilor. Plecarea sa marchează sfârșitul unei ere pentru echipa londoneză, care va trebui să găsească soluții pentru a-i înlocui contribuția ofensivă în campania viitoare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-14T17:56:36.309340+00:00",
-      "data_afisaj": "14 mai 2026, 20:56"
-    },
-    {
-      "id": "213745789ccf",
-      "titlu": "Unai Emery critică împrumutul \"irosit\" al lui Harvey Elliott la Aston Villa",
-      "rezumat": "Antrenorul Unai Emery a exprimat dezamăgirea față de împrumutul lui Harvey Elliott la Aston Villa, considerându-l \"jenant\" din cauza lipsei de oportunități. Jucătorul a evoluat în doar patru meciuri de Premier League pentru Villa în acest sezon și nu a mai fost inclus în lot de la începutul lunii februarie. Situația ridică semne de întrebare cu privire la gestionarea talentelor tinere și la eficacitatea deciziilor de împrumut pentru dezvoltarea jucătorilor în fotbalul de elită.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-05-14T17:56:36.311354+00:00",
-      "data_afisaj": "14 mai 2026, 20:56"
-    },
-    {
-      "id": "1bc5fa33b3cb",
-      "titlu": "Wilfried Nancy regretă lipsa de timp după scurta perioadă la Celtic",
-      "rezumat": "Wilfried Nancy a descris mandatul său de 33 de zile ca antrenor la Celtic drept o \"experiență frumoasă\", dar a susținut că este \"evident\" că nu a avut suficient timp pentru a schimba cultura și a-și impune viziunea la club. Plecarea sa rapidă subliniază presiunea și așteptările ridicate din fotbalul de top, unde antrenorii sunt adesea judecați pe termen scurt, fără a li se oferi răbdarea necesară pentru implementarea unor schimbări profunde și durabile.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-14T17:56:36.313084+00:00",
-      "data_afisaj": "14 mai 2026, 20:56"
     }
   ]
 }
