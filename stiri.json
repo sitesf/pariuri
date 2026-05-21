@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-20T19:17:11.731546+00:00",
-  "updated_at_afisaj": "20 mai 2026, 22:17",
+  "updated_at": "2026-05-21T10:41:44.120153+00:00",
+  "updated_at_afisaj": "21 mai 2026, 13:41",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,44 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 118,
+  "numar_stiri": 112,
   "stiri": [
+    {
+      "id": "1d046cd844a0",
+      "titlu": "Parada victoriei Aston Villa în Europa League va bloca centrul orașului Birmingham",
+      "rezumat": "Centrul orașului Birmingham se pregătește pentru o zi de sărbătoare, joi, când Aston Villa va defila cu trofeul Europa League. În urma victoriei istorice a clubului, mai multe drumuri vor fi închise pentru a permite desfășurarea paradei. Fanii sunt așteptați în număr mare pentru a celebra alături de echipă primul trofeu major obținut în ultimele trei decenii. Autoritățile locale au anunțat rutele și restricțiile de trafic pentru a asigura buna desfășurare a evenimentului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-05-21T10:41:44.116647+00:00",
+      "data_afisaj": "21 mai 2026, 13:41"
+    },
+    {
+      "id": "6b30be7557b0",
+      "titlu": "FA deschide o investigație împotriva clubului Southampton în cazul \"Spygate\"",
+      "rezumat": "Asociația de Fotbal (FA) a deschis o investigație oficială împotriva clubului Southampton, după ce acesta a recunoscut că a spionat trei cluburi pe parcursul sezonului din Championship. Această acțiune vine în urma acuzațiilor de \"Spygate\" și ar putea duce la sancțiuni pentru club. Incidentul a generat controverse semnificative în fotbalul englez, iar rezultatele investigației sunt așteptate cu interes de comunitatea sportivă, având implicații potențiale asupra integrității competiției.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-21T10:41:44.118153+00:00",
+      "data_afisaj": "21 mai 2026, 13:41"
+    },
+    {
+      "id": "8c711140404b",
+      "titlu": "Apelul clubului Southampton împotriva excluderii din play-off-ul Championship a fost respins",
+      "rezumat": "Apelul clubului Southampton împotriva excluderii din finala play-off-ului Championship, ca urmare a scandalului \"Spygate\", a fost respins de un panel de arbitraj al English Football League. Decizia confirmă sancțiunea inițială și înseamnă că Hull City și Middlesbrough se vor întâlni în finala de la Wembley. Southampton consideră că pedeapsa este \"disproporționată\" și a exprimat dezamăgirea față de hotărâre, care le-a anulat șansele de promovare în Premier League.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-21T10:41:44.119727+00:00",
+      "data_afisaj": "21 mai 2026, 13:41"
+    },
     {
       "id": "efe478281690",
       "titlu": "Arbitrul meciului Manchester United - Nottingham Forest, omis de la ultima etapă din Premier League",
@@ -1248,109 +1284,6 @@
       ],
       "data_publicare": "2026-05-14T17:56:36.313084+00:00",
       "data_afisaj": "14 mai 2026, 20:56"
-    },
-    {
-      "id": "1c11af2935fd",
-      "titlu": "Oamenii de știință avertizează FIFA cu privire la riscurile de căldură la Cupa Mondială 2026",
-      "rezumat": "Un grup de oameni de știință de renume mondial a emis un avertisment către FIFA, declarând că măsurile actuale de siguranță privind căldura pentru Cupa Mondială masculină din 2026 sunt \"inadecvate\" și ar putea pune jucătorii în pericol de vătămări grave. Cercetătorii subliniază un \"risc real\" de condiții nesigure, în special în orașe precum Miami, unde se anticipează temperaturi peste media istorică în lunile iunie și iulie. Această preocupare vizează bunăstarea jucătorilor și a fanilor în timpul turneului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-14T10:14:35.888992+00:00",
-      "data_afisaj": "14 mai 2026, 13:14"
-    },
-    {
-      "id": "257d3c443030",
-      "titlu": "Arne Slot este încrezător că va rămâne antrenor la Liverpool și în sezonul următor",
-      "rezumat": "Antrenorul principal al echipei Liverpool, Arne Slot, a declarat că are \"toate motivele să creadă\" că va continua să conducă echipa și în sezonul viitor. Această declarație vine în contextul speculațiilor privind viitorul său la club, după un sezon în care apărarea titlului nu a fost la înălțimea așteptărilor. Slot își exprimă astfel încrederea în continuitatea proiectului său la Anfield, oferind o clarificare în privința poziției sale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-05-14T10:14:35.890846+00:00",
-      "data_afisaj": "14 mai 2026, 13:14"
-    },
-    {
-      "id": "7a5f6aab9269",
-      "titlu": "Middlesbrough se pregătește pentru o posibilă finală de play-off, în cazul excluderii lui Southampton",
-      "rezumat": "Clubul Middlesbrough a anunțat că va relua antrenamentele vineri, pregătindu-se pentru o eventuală finală de play-off, în contextul acuzațiilor de spionaj aduse echipei Southampton. Deși Middlesbrough a pierdut semifinala împotriva lui Southampton, clubul exercită presiuni pentru excluderea adversarului din play-off, după ce un analist al lui Southampton ar fi fost surprins spionând antrenamentele echipei lui Kim Hellberg. Această situație menține deschisă posibilitatea ca Middlesbrough să ajungă la Wembley.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-14T10:14:35.892831+00:00",
-      "data_afisaj": "14 mai 2026, 13:14"
-    },
-    {
-      "id": "0d1e0cf886d2",
-      "titlu": "Cluburile din Championship vor vota modificări ale regulamentelor financiare",
-      "rezumat": "Cluburile din Championship vor vota vineri propuneri semnificative de modificare a regulamentelor financiare, care ar putea mări diferența de putere de cheltuire față de League One. Propunerea vizează alinierea cu Premier League începând cu sezonul viitor, prin înlocuirea regulilor de profitabilitate și sustenabilitate (P&S) cu un sistem de raport al costurilor lotului, care ar plafona cheltuielile cu salariile jucătorilor. Aceste schimbări ar putea avea un impact major asupra structurii financiare a ligilor inferioare engleze.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-14T10:14:35.894598+00:00",
-      "data_afisaj": "14 mai 2026, 13:14"
-    },
-    {
-      "id": "df5fcc258477",
-      "titlu": "Julian Hall, cel mai tânăr jucător cu un hat-trick în istoria MLS",
-      "rezumat": "Atacantul Julian Hall, în vârstă de 18 ani, a intrat în istoria Major League Soccer (MLS) devenind cel mai tânăr jucător care a reușit un hat-trick. Performanța sa remarcabilă a avut loc în victoria echipei Red Bull New York împotriva formației Columbus Crew. Această realizare subliniază talentul promițător al tânărului fotbalist și reprezintă un moment important în cariera sa la început de drum în fotbalul profesionist american, atrăgând atenția asupra potențialului său.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-14T10:14:35.896442+00:00",
-      "data_afisaj": "14 mai 2026, 13:14"
-    },
-    {
-      "id": "26226fba74cc",
-      "titlu": "Stockport County se califică în finala play-off-ului League One",
-      "rezumat": "Echipa Stockport County și-a asigurat prezența pe stadionul Wembley, în finala play-off-ului League One, după ce a învins Stevenage cu scorul general de 3-0. Această victorie le permite să lupte pentru promovarea în eșalonul superior, marcând un moment important în parcursul lor din acest sezon. Calificarea reprezintă o performanță notabilă pentru club, care își propune să revină în ligile superioare ale fotbalului englez.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-05-14T09:38:33.409145+00:00",
-      "data_afisaj": "14 mai 2026, 12:38"
-    },
-    {
-      "id": "32f11388fabf",
-      "titlu": "Decizie controversată de penalty în Scoția: Cursa pentru titlu se decide în ultima etapă",
-      "rezumat": "Antrenorul echipei Hearts, Derek McInnes, a calificat drept „dezgustătoare” decizia de a acorda un penalty pentru Celtic în minutul 99 al meciului cu Motherwell. Acest gol controversat a asigurat victoria lui Celtic și a trimis lupta pentru titlul din Premiership-ul Scoției într-o ultimă etapă decisivă, programată sâmbătă. Hearts consideră că sunt dezavantajați în această confruntare crucială, iar incidentul a stârnit ample discuții în presa sportivă scoțiană.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-14T09:38:33.410999+00:00",
-      "data_afisaj": "14 mai 2026, 12:38"
-    },
-    {
-      "id": "95e95f901806",
-      "titlu": "Paris Saint-Germain câștigă al 14-lea titlu de campioană în Ligue 1",
-      "rezumat": "Paris Saint-Germain a obținut al cincilea titlu consecutiv în Ligue 1 și al 14-lea din istoria clubului, după ce a învins pe Lens cu scorul de 2-0. Khvicha Kvaratskhelia a deschis scorul în minutul 29, iar Ibrahim Mbaye a stabilit rezultatul final în prelungiri. Această victorie le-a asigurat matematic titlul, cu o etapă înainte de finalul sezonului, distanțându-se decisiv de urmăritoarea Lens și confirmând dominația lor în fotbalul francez.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-14T09:38:33.412692+00:00",
-      "data_afisaj": "14 mai 2026, 12:38"
-    },
-    {
-      "id": "a7d3265f94eb",
-      "titlu": "Pasa magică a lui Phil Foden menține Manchester City în cursa pentru titlu",
-      "rezumat": "O pasă decisivă spectaculoasă a lui Phil Foden în prima repriză a fost elementul cheie de care Manchester City avea nevoie pentru a-și continua lupta în captivanta cursă pentru titlul din Premier League. Contribuția sa a fost esențială în menținerea presiunii asupra liderului clasamentului, Arsenal, demonstrând forma excelentă a mijlocașului în momentele cruciale ale sezonului. Performanța lui Foden a fost lăudată de antrenorul Pep Guardiola, care s-a declarat 'mai mult decât fericit' de evoluția jucătorului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-14T09:38:33.414654+00:00",
-      "data_afisaj": "14 mai 2026, 12:38"
     }
   ]
 }
