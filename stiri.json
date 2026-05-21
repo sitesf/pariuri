@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-21T18:03:34.158114+00:00",
-  "updated_at_afisaj": "21 mai 2026, 21:03",
+  "updated_at": "2026-05-21T18:56:09.287260+00:00",
+  "updated_at_afisaj": "21 mai 2026, 21:56",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,41 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 117,
+  "numar_stiri": 115,
   "stiri": [
+    {
+      "id": "71c17129d325",
+      "titlu": "Antrenorul lui Southampton, Tonda Eckert, a Autorizat Spionajul, Confirmă Comisia",
+      "rezumat": "O comisie disciplinară independentă a stabilit că acțiunile de spionaj ale clubului Southampton au fost autorizate de antrenorul principal Tonda Eckert. Raportul indică faptul că a fost un \"plan elaborat și determinat, de sus în jos, pentru a obține un avantaj competitiv\". Această concluzie aduce noi detalii în scandalul \"Spygate\" care a afectat clubul și ridică întrebări serioase despre etica sportivă și responsabilitatea conducerii.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-21T18:56:09.283867+00:00",
+      "data_afisaj": "21 mai 2026, 21:56"
+    },
+    {
+      "id": "fb48079e8a92",
+      "titlu": "Morgan Rogers de la Aston Villa, Numit Jucătorul Sezonului în Europa League",
+      "rezumat": "Mijlocașul echipei Aston Villa, Morgan Rogers, a fost desemnat Jucătorul Sezonului în Europa League. Această recunoaștere vine după o performanță remarcabilă a jucătorului, care a contribuit semnificativ la victoria echipei sale în competiția europeană. Premiul subliniază impactul său decisiv pe parcursul turneului și rolul său cheie în succesul clubului, consolidându-i reputația la nivel continental.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-21T18:56:09.285658+00:00",
+      "data_afisaj": "21 mai 2026, 21:56"
+    },
+    {
+      "id": "61e3f4d7616c",
+      "titlu": "Înregistrările VAR Dezvăluie Că Hearts a Cerut Oprirea Meciului După Invazia Terenului",
+      "rezumat": "Înregistrările VAR de la meciul dintre Hearts și Celtic din Premiership-ul Scoției au fost făcute publice, dezvăluind că oficialii clubului Hearts au solicitat încheierea partidei după invazia terenului de către suporteri. Această informație aduce o nouă perspectivă asupra evenimentelor controversate care au avut loc în timpul meciului, oferind detalii despre reacția clubului în fața incidentului și posibilele implicații disciplinare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-21T18:56:09.287243+00:00",
+      "data_afisaj": "21 mai 2026, 21:56"
+    },
     {
       "id": "2d3aeadf501e",
       "titlu": "Foden și l-au „șocat” pe Maguire să rateze lotul pentru Cupa Mondială",
@@ -1283,65 +1316,6 @@
       ],
       "data_publicare": "2026-05-15T09:50:07.869720+00:00",
       "data_afisaj": "15 mai 2026, 12:50"
-    },
-    {
-      "id": "f706d5a9c4ce",
-      "titlu": "Kerr va părăsi Chelsea la sfârșitul sezonului",
-      "rezumat": "Golgheterul all-time al lui Chelsea în WSL, Sam Kerr, va părăsi clubul la expirarea contractului ei în această vară.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-14T18:30:35.277745+00:00",
-      "data_afisaj": "14 mai 2026, 21:30"
-    },
-    {
-      "id": "35a265a5c380",
-      "titlu": "Finala play-off-ului Championship ar putea fi amânată din cauza audierii Spygate",
-      "rezumat": "Finala play-off-ului Championship s-ar putea să nu aibă loc sâmbătă, 23 mai, deoarece EFL investighează scandalul Spygate care înconjoară finalista Southampton.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-05-14T18:30:35.279336+00:00",
-      "data_afisaj": "14 mai 2026, 21:30"
-    },
-    {
-      "id": "f98484227400",
-      "titlu": "Împrumutul irosit al lui Elliott la Villa este jenant - Emery",
-      "rezumat": "Harvey Elliott a jucat doar patru meciuri în Premier League pentru Aston Villa în acest sezon și nu a mai apărut pe teren din februarie.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-05-14T18:30:35.280797+00:00",
-      "data_afisaj": "14 mai 2026, 21:30"
-    },
-    {
-      "id": "f8d3dd3274fd",
-      "titlu": "Cum deciziile controversate VAR au definit două lupte pentru titlu",
-      "rezumat": "Anglia și Scoția au experimentat două decizii VAR extrem de controversate în doar câteva zile, care ar putea contribui la decizia cine va încheia sezonul ca și campioană.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-14T18:30:35.282310+00:00",
-      "data_afisaj": "14 mai 2026, 21:30"
-    },
-    {
-      "id": "3e43a9218760",
-      "titlu": "Tavernier rănit de pierderea apariției de adio pe Ibrox",
-      "rezumat": "Căpitanul lui Rangers, James Tavernier, care pleacă de la club, a declarat că s-a simțit „profund rănit și dezamăgit” și că „situația ar fi putut și ar fi trebuit să fie gestionată mult mai bine” după ce a ratat o apariție de adio pe Ibrox.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-14T18:30:35.283724+00:00",
-      "data_afisaj": "14 mai 2026, 21:30"
     }
   ]
 }
