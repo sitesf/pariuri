@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-22T10:50:48.378525+00:00",
-  "updated_at_afisaj": "22 mai 2026, 13:50",
+  "updated_at": "2026-05-22T17:55:56.129131+00:00",
+  "updated_at_afisaj": "22 mai 2026, 20:55",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,65 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 112,
+  "numar_stiri": 113,
   "stiri": [
+    {
+      "id": "162f5d4f1f7a",
+      "titlu": "Tuchel cel nemilos lasă nume mari în afara lotului Angliei pentru Cupa Mondială",
+      "rezumat": "Thomas Tuchel cel nemilos a lăsat un număr de nume de profil înalt în afara lotului său al Angliei pentru Cupa Mondială, în timp ce atacantul Ivan Toney a obținut o rechemare surprinzătoare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-22T17:55:50.085472+00:00",
+      "data_afisaj": "22 mai 2026, 20:55"
+    },
+    {
+      "id": "cf485aa5c5ae",
+      "titlu": "Maguire 'foarte ghinionist' să rateze Cupa Mondială - Rooney",
+      "rezumat": "Fostul căpitan al Angliei, Wayne Rooney, spune că Harry Maguire este \"foarte ghinionist\" să rateze un loc în lotul lui Thomas Tuchel pentru Cupa Mondială din această vară.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-22T17:55:50.086872+00:00",
+      "data_afisaj": "22 mai 2026, 20:55"
+    },
+    {
+      "id": "d799aca12e17",
+      "titlu": "'Altruism' în detrimentul 'egoului' - ce spun scurgerile despre Anglia lui Tuchel?",
+      "rezumat": "BBC Sport explorează de ce întreaga lume a știut lotul Angliei pentru Cupa Mondială înainte de a fi anunțat și ce spune răspunsul lui Thomas Tuchel despre cultura Angliei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-22T17:55:50.088299+00:00",
+      "data_afisaj": "22 mai 2026, 20:55"
+    },
+    {
+      "id": "2ff7289c78ae",
+      "titlu": "Guardiola spune că Man City 'are nevoie de energie nouă' pe măsură ce plecarea este confirmată",
+      "rezumat": "Manchester City confirmă că Pep Guardiola va pleca la sfârșitul sezonului după un deceniu de succes fără precedent.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-22T17:55:50.089669+00:00",
+      "data_afisaj": "22 mai 2026, 20:55"
+    },
+    {
+      "id": "4f87ac111408",
+      "titlu": "Slot refuză să confirme selecția lui Salah pentru ultimul meci",
+      "rezumat": "Arne Slot refuză să confirme dacă Mohamed Salah va juca duminică pe Anfield, în ceea ce ar fi ultima sa apariție pentru Liverpool.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-22T17:55:50.090962+00:00",
+      "data_afisaj": "22 mai 2026, 20:55"
+    },
     {
       "id": "dcb9ffb4e55b",
       "titlu": "Pep Guardiola Confirmă Plecarea de la Manchester City la Finalul Sezonului, Enzo Maresca Vizat ca Succesor",
@@ -1240,53 +1297,6 @@
       ],
       "data_publicare": "2026-05-15T18:19:05.275557+00:00",
       "data_afisaj": "15 mai 2026, 21:19"
-    },
-    {
-      "id": "665bc9813310",
-      "titlu": "Daniel Farke cere ca Leeds să-i egaleze ambiția pentru a rămâne la club",
-      "rezumat": "Antrenorul principal al echipei Leeds, Daniel Farke, a declarat că nu este \"alegerea potrivită\" pentru a rămâne la conducerea clubului dacă acesta nu-i va egala ambiția în timpul verii. Declarația subliniază importanța investițiilor și a planurilor de dezvoltare pentru a menține echipa competitivă. Farke a subliniat necesitatea unei viziuni comune pentru viitorul clubului, sugerând că plecarea sa este o posibilitate în cazul unor divergențe.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-05-15T17:43:10.934469+00:00",
-      "data_afisaj": "15 mai 2026, 20:43"
-    },
-    {
-      "id": "b3a7a250dd43",
-      "titlu": "Romelu Lukaku, inclus în lotul Belgiei pentru Cupa Mondială, deși \"nu este în formă\"",
-      "rezumat": "Atacantul Romelu Lukaku a fost inclus în lotul Belgiei pentru Cupa Mondială, în ciuda declarațiilor antrenorului Rudi Garcia, care a afirmat că jucătorul \"nu este în formă\". Decizia de a-l convoca pe Lukaku, chiar și cu rezerve privind condiția sa fizică, subliniază importanța sa pentru echipa națională și speranța că va atinge forma optimă până la debutul turneului. Această selecție a stârnit discuții în presa sportivă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-05-15T17:43:10.936419+00:00",
-      "data_afisaj": "15 mai 2026, 20:43"
-    },
-    {
-      "id": "2d8f242370df",
-      "titlu": "Arbitrul John Beaton, sub supraveghere polițienească în Scoția, după controverse",
-      "rezumat": "Federația Scoțiană de Fotbal (SFA) a anunțat că arbitrul John Beaton și familia sa au fost plasați sub supraveghere polițienească, în urma controverselor recente legate de deciziile de penalty. SFA a criticat \"narativa media isterică\" și a vizat declarațiile managerului Hearts, Derek McInnes, care a numit o decizie a lui Beaton \"dezgustătoare\", subliniind presiunea intensă asupra oficialilor din fotbalul scoțian.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-15T17:43:10.938204+00:00",
-      "data_afisaj": "15 mai 2026, 20:43"
-    },
-    {
-      "id": "6981adad286c",
-      "titlu": "Matthijs de Ligt de la Manchester United ratează Cupa Mondială după operația la spate",
-      "rezumat": "Fundașul echipei Manchester United, Matthijs de Ligt, va rata Cupa Mondială din 2026, după ce a acceptat în cele din urmă să se opereze pentru o problemă cronică la spate. Decizia vine după o lungă luptă pentru a evita intervenția chirurgicală, iar absența sa reprezintă o lovitură semnificativă atât pentru clubul său, cât și pentru echipa națională la turneul final. Recuperarea sa este estimată să dureze mai multe luni.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-15T17:43:10.940017+00:00",
-      "data_afisaj": "15 mai 2026, 20:43"
     }
   ]
 }
