@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-22T10:26:32.896745+00:00",
-  "updated_at_afisaj": "22 mai 2026, 13:26",
+  "updated_at": "2026-05-22T10:50:48.378525+00:00",
+  "updated_at_afisaj": "22 mai 2026, 13:50",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,43 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 109,
+  "numar_stiri": 112,
   "stiri": [
+    {
+      "id": "dcb9ffb4e55b",
+      "titlu": "Pep Guardiola Confirmă Plecarea de la Manchester City la Finalul Sezonului, Enzo Maresca Vizat ca Succesor",
+      "rezumat": "Manchester City a confirmat că antrenorul Pep Guardiola va părăsi clubul la sfârșitul acestui sezon, după un deceniu de succes fără precedent. Tehnicianul spaniol a declarat că \"nimic nu este etern\", sugerând că a venit momentul să se despartă de echipa pe care a transformat-o într-o forță dominantă în fotbalul englez și european. Enzo Maresca este vizat ca potențial înlocuitor. Plecarea sa marchează sfârșitul unei ere glorioase pentru clubul din Manchester.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-22T10:50:48.372962+00:00",
+      "data_afisaj": "22 mai 2026, 13:50"
+    },
+    {
+      "id": "1b5a405c5d36",
+      "titlu": "Michail Antonio, Fostul Atacant al Lui West Ham, Contemplă Retragerea din Fotbal",
+      "rezumat": "Michail Antonio, legenda lui West Ham United, a dezvăluit că ia în considerare retragerea din activitatea de fotbalist profesionist. Fostul atacant, în vârstă de 36 de ani, a declarat că a purtat discuții cu mai multe cluburi după plecarea din Qatar, dar acum cântărește serios posibilitatea de a-și agăța ghetele în cui. O decizie finală este așteptată până la jumătatea sau sfârșitul lunii iunie, marcând un moment important în cariera sa.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-05-22T10:50:48.376863+00:00",
+      "data_afisaj": "22 mai 2026, 13:50"
+    },
+    {
+      "id": "8ba3305529c6",
+      "titlu": "Fanii Tottenham Hotspur Pregătesc un Protest Semnificativ Împotriva Conducerii Clubului",
+      "rezumat": "Un grup de suporteri ai lui Tottenham Hotspur, \"Change for Tottenham\", se pregătește să organizeze un protest amplu împotriva conducerii clubului. Acțiunea este planificată să aibă loc după meciul crucial de duminică împotriva lui Everton, în contextul luptei echipei pentru evitarea retrogradării în Premier League. Fanii își exprimă nemulțumirea față de deciziile și direcția strategică a consiliului de administrație, solicitând schimbări majore la nivel de conducere.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-05-22T10:50:48.378504+00:00",
+      "data_afisaj": "22 mai 2026, 13:50"
+    },
     {
       "id": "992c62eaef77",
       "titlu": "Michael Carrick, numit antrenor permanent la Manchester United",
