@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-21T18:56:09.287260+00:00",
-  "updated_at_afisaj": "21 mai 2026, 21:56",
+  "updated_at": "2026-05-22T10:26:32.896745+00:00",
+  "updated_at_afisaj": "22 mai 2026, 13:26",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,55 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 115,
+  "numar_stiri": 109,
   "stiri": [
+    {
+      "id": "992c62eaef77",
+      "titlu": "Michael Carrick, numit antrenor permanent la Manchester United",
+      "rezumat": "Manchester United a confirmat numirea lui Michael Carrick în funcția de antrenor principal permanent, semnând un contract pe doi ani. Fostul mijlocaș a fost recompensat pentru perioada sa interimară de succes, în care a condus echipa pe locul trei în Premier League și a asigurat calificarea în Liga Campionilor cu trei etape înainte de finalul sezonului. Această decizie marchează o nouă etapă în cariera sa de antrenor la clubul de pe Old Trafford.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-22T10:26:32.891978+00:00",
+      "data_afisaj": "22 mai 2026, 13:26"
+    },
+    {
+      "id": "1556b7f0eba3",
+      "titlu": "Cristiano Ronaldo câștigă primul titlu în Saudi Pro League cu Al-Nassr",
+      "rezumat": "Cristiano Ronaldo a obținut primul său titlu de campion în Saudi Pro League alături de echipa Al-Nassr, după trei ani petrecuți în Arabia Saudită. Victoria a fost confirmată în ultima etapă a sezonului, aducând o mare bucurie fanilor și clubului. Acest succes reprezintă o realizare importantă pentru starul portughez în cariera sa post-europeană, consolidându-i statutul de legendă a fotbalului și în campionatul saudit.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-05-22T10:26:32.893976+00:00",
+      "data_afisaj": "22 mai 2026, 13:26"
+    },
+    {
+      "id": "43158aa82f77",
+      "titlu": "Arne Slot refuză să confirme prezența lui Mohamed Salah în ultimul meci la Liverpool",
+      "rezumat": "Antrenorul Arne Slot a refuzat să confirme dacă Mohamed Salah va juca în meciul de duminică de pe Anfield, care ar putea fi ultima sa apariție pentru Liverpool. Speculațiile privind viitorul atacantului egiptean sunt intense, iar incertitudinea legată de participarea sa la această partidă crucială adaugă tensiune înaintea finalului de sezon. Decizia lui Slot menține suspansul cu privire la viitorul unuia dintre cei mai importanți jucători ai clubului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-22T10:26:32.895369+00:00",
+      "data_afisaj": "22 mai 2026, 13:26"
+    },
+    {
+      "id": "c2adc7830654",
+      "titlu": "Vicky Lopez, noua stea a fotbalului feminin, înaintea finalei Ligii Campionilor",
+      "rezumat": "Înaintea finalei Ligii Campionilor la fotbal feminin dintre Barcelona și Lyon, atenția se îndreaptă către Vicky Lopez, considerată următoarea superstar global a sportului. BBC Sport a publicat o analiză a ascensiunii extraordinare a tinerei jucătoare, de la începuturile sale până la statutul actual. Finala de sâmbătă oferă o platformă importantă pentru ca Lopez să-și demonstreze talentul la cel mai înalt nivel și să-și consolideze reputația în fotbalul feminin.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-22T10:26:32.896730+00:00",
+      "data_afisaj": "22 mai 2026, 13:26"
+    },
     {
       "id": "71c17129d325",
       "titlu": "Antrenorul lui Southampton, Tonda Eckert, a Autorizat Spionajul, Confirmă Comisia",
@@ -1205,117 +1252,6 @@
       ],
       "data_publicare": "2026-05-15T17:43:10.940017+00:00",
       "data_afisaj": "15 mai 2026, 20:43"
-    },
-    {
-      "id": "9df03ca2545b",
-      "titlu": "Antrenorul U18 Manchester United, Darren Fletcher, acuză FA că a permis Manchester City să preia controlul finalei Youth Cup",
-      "rezumat": "Darren Fletcher, antrenorul echipei U18 a lui Manchester United, a declarat că Asociația de Fotbal (FA) a permis clubului Manchester City să preia controlul asupra finalei Youth Cup. Declarația vine în contextul unei rivalități intense și ridică întrebări despre imparțialitatea organizării evenimentelor importante din fotbalul juvenil englez. Fletcher a subliniat că această situație a creat un dezechilibru și a afectat experiența competițională a tinerilor jucători.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-15T10:23:01.947153+00:00",
-      "data_afisaj": "15 mai 2026, 13:23"
-    },
-    {
-      "id": "505be6b12419",
-      "titlu": "Bellingham marchează, iar Mbappe este huiduit în victoria lui Real Madrid",
-      "rezumat": "Jude Bellingham a marcat un gol în victoria cu 2-0 a lui Real Madrid împotriva lui Real Oviedo în La Liga. În același meci, atacantul vedetă Kylian Mbappe a avut parte de o primire ostilă din partea suporterilor, fiind huiduit. Acest eveniment subliniază tensiunile continue legate de viitorul lui Mbappe și reacția fanilor la situația sa contractuală, în ciuda performanței echipei. Victoria menține Real Madrid în fruntea clasamentului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-15T10:23:01.948930+00:00",
-      "data_afisaj": "15 mai 2026, 13:23"
-    },
-    {
-      "id": "84a10ad1434b",
-      "titlu": "Antrenorul Newcastle, Eddie Howe, sugerează plecarea lui Anthony Gordon pe fondul speculațiilor cu Bayern",
-      "rezumat": "Antrenorul lui Newcastle, Eddie Howe, a lăsat să se înțeleagă că Anthony Gordon ar fi putut juca ultimul său meci pentru club, pe fondul zvonurilor privind un transfer de vară la Bayern Munchen. Declarația lui Howe adaugă credibilitate speculațiilor despre viitorul atacantului, indicând o posibilă despărțire iminentă. Această situație ar putea influența planurile de transfer ale ambelor cluburi pentru sezonul viitor și strategia de reconstrucție a lotului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-05-15T10:23:01.950809+00:00",
-      "data_afisaj": "15 mai 2026, 13:23"
-    },
-    {
-      "id": "748bcdcb4ee1",
-      "titlu": "Arteta: Arsenal este pregătită să facă ultimul pas în cursa pentru trofee",
-      "rezumat": "Mikel Arteta, antrenorul lui Arsenal, a îndemnat echipa să profite de șansa meciului împotriva lui Burnley pentru a se apropia de câștigarea unui trofeu major. Declarația sa subliniază determinarea clubului de a-și finaliza obiectivele în acest sezon, pe măsură ce lupta pentru titlu se apropie de deznodământ. Arteta își dorește ca jucătorii să demonstreze mentalitatea de învingători în etapele decisive ale competiției, consolidând progresul echipei sub conducerea sa.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-05-15T10:23:01.952568+00:00",
-      "data_afisaj": "15 mai 2026, 13:23"
-    },
-    {
-      "id": "2d7573eca0a1",
-      "titlu": "Cum l-a impresionat Thomas Tuchel pe FA în timpul unei întâlniri secrete pe aeroportul din München",
-      "rezumat": "Un extras exclusiv dintr-o carte dezvăluie procesul remarcabil care a dus la numirea lui Thomas Tuchel ca antrenor al Angliei în 2024. Se detaliază cum Asociația de Fotbal (FA) a folosit companii externe de date pentru a identifica profilul ideal al unui manager internațional de succes, adaptat bazei de jucători a Angliei. Tuchel a fost selectat dintr-o listă de 50 de antrenori de top, impresionând prin viziunea și abordarea sa în timpul unei întâlniri confidențiale, care a pavat drumul spre numirea sa.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-15T10:23:01.954501+00:00",
-      "data_afisaj": "15 mai 2026, 13:23"
-    },
-    {
-      "id": "24ef8c3bf513",
-      "titlu": "Marcos Senesi va părăsi Bournemouth la finalul sezonului",
-      "rezumat": "Fundașul argentinian Marcos Senesi va pleca de la Bournemouth la sfârșitul sezonului, odată cu expirarea contractului său. Senesi a petrecut patru sezoane la clubul Cherries de la sosirea sa de la Feyenoord. Plecarea sa pe un transfer gratuit ar putea stârni interesul mai multor cluburi, inclusiv Liverpool și Tottenham, care au fost anterior legate de o mutare. Această decizie marchează o schimbare importantă în lotul echipei. Anunțul a fost confirmat de club.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-15T09:50:07.863452+00:00",
-      "data_afisaj": "15 mai 2026, 12:50"
-    },
-    {
-      "id": "b83ad66772d2",
-      "titlu": "Seamus Coleman își încheie cariera de jucător la Everton după 17 ani",
-      "rezumat": "Seamus Coleman își va încheia cariera de jucător la Everton la sfârșitul acestui sezon, când contractul său va expira, după 17 ani petrecuți la club. Fundașul irlandez a devenit o legendă a clubului, fiind adus pentru doar 60.000 de lire sterline. Plecarea sa marchează sfârșitul unei ere pentru Everton și pentru fanii care l-au admirat pentru dedicarea și performanțele sale constante. Anunțul a fost făcut oficial de club.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-15T09:50:07.865115+00:00",
-      "data_afisaj": "15 mai 2026, 12:50"
-    },
-    {
-      "id": "05923271a124",
-      "titlu": "Jucătorii lui Chelsea îl susțin pe Xabi Alonso pentru postul de antrenor",
-      "rezumat": "Jucătorii lui Chelsea consideră că Xabi Alonso este candidatul ideal pentru a deveni următorul lor antrenor principal. Discuțiile cu reprezentanții spaniolului progresează, iar sentimentul în vestiar este că fostul antrenor de la Real Madrid și Bayer Leverkusen este omul potrivit pentru a readuce echipa pe drumul cel bun. Deși nu există încă un acord final, Chelsea analizează cu atenție opțiunile pentru numirea succesorului, iar Alonso pare a fi o alegere populară.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-15T09:50:07.866745+00:00",
-      "data_afisaj": "15 mai 2026, 12:50"
-    },
-    {
-      "id": "269ec633a245",
-      "titlu": "Trei noi erori VAR confirmate de panelul Premier League",
-      "rezumat": "Panelul de Incidente Cheie ale Meciurilor din Premier League a confirmat încă trei erori ale sistemului de asistență video (VAR). Această decizie ridică numărul total de erori confirmate în acest sezon la 23. Confirmarea acestor greșeli subliniază preocupările continue legate de implementarea și eficacitatea tehnologiei VAR în fotbalul englez, alimentând dezbaterile privind impactul său asupra rezultatelor meciurilor și corectitudinii competiției.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-15T09:50:07.868218+00:00",
-      "data_afisaj": "15 mai 2026, 12:50"
-    },
-    {
-      "id": "7a329b2a6674",
-      "titlu": "David Beckham devine primul sportiv miliardar din Marea Britanie",
-      "rezumat": "Fostul căpitan al Angliei, Sir David Beckham, a devenit primul sportiv miliardar din Marea Britanie, conform listei Sunday Times Rich List din 2026. Această realizare subliniază succesul său continuu nu doar în cariera sportivă, ci și în afaceri și marketing, transformându-l într-o figură iconică la nivel global. Averea sa provine din diverse investiții și parteneriate comerciale, consolidându-i statutul de personalitate influentă în sport și dincolo de el.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-15T09:50:07.869720+00:00",
-      "data_afisaj": "15 mai 2026, 12:50"
     }
   ]
 }
