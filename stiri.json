@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-22T17:55:56.129131+00:00",
-  "updated_at_afisaj": "22 mai 2026, 20:55",
+  "updated_at": "2026-05-22T18:50:11.230046+00:00",
+  "updated_at_afisaj": "22 mai 2026, 21:50",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 113,
+  "numar_stiri": 114,
   "stiri": [
+    {
+      "id": "4d612c34c88c",
+      "titlu": "🚨 LIVE CFR Cluj – FC Argeș 0-0, Live Text Online, în etapa 10 din play-off-ul Superligii. A început repriza a doua a meciului din Gruia",
+      "rezumat": "(rezumat indisponibil)",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-05-22T18:49:49.348391+00:00",
+      "data_afisaj": "22 mai 2026, 21:49"
+    },
+    {
+      "id": "3e8eefd89dc0",
+      "titlu": "Predicțiile lui Sutton în ultima zi împotriva Sam Tompkins",
+      "rezumat": "Expertul în fotbal de la BBC Sport, Chris Sutton, îl ia pe cântărețul-compozitor Sam Tompkins, plus cititorii BBC și AI cu previziunile sale pentru runda finală de duminică a meciurilor din Premier League.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-22T18:49:49.349757+00:00",
+      "data_afisaj": "22 mai 2026, 21:49"
+    },
+    {
+      "id": "54aff5c3d2f8",
+      "titlu": "„Pariurile lui Tuchel și convingerile de fier îl poziționează drept anti-Southgate”",
+      "rezumat": "Thomas Tuchel demonstrează că este „anti-Southgate” în apeluri dure pentru echipa Angliei pentru Cupa Mondială 2026.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-22T18:49:49.351198+00:00",
+      "data_afisaj": "22 mai 2026, 21:49"
+    },
+    {
+      "id": "12171b1131cd",
+      "titlu": "Anglia lui Maguire postează „nu este necesar” - Tuchel",
+      "rezumat": "Antrenorul Angliei, Thomas Tuchel, a declarat că decizia fundașului Manchester United Harry Maguire de a face publică pe rețelele de socializare cu „șocul și dezamăgirea” lui că a ratat lotul pentru Cupa Mondială este „nu este necesară”.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-22T18:49:49.352522+00:00",
+      "data_afisaj": "22 mai 2026, 21:49"
+    },
+    {
+      "id": "b1a4392d79e7",
+      "titlu": "De ce Tuchel l-a vrut pe Toney înapoi în Anglia",
+      "rezumat": "Ivan Toney abia a jucat sub șeful Angliei, Thomas Tuchel, dar acesta este motivul pentru care antrenorul german îl vrea în lotul său pentru Cupa Mondială.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-22T18:49:49.353785+00:00",
+      "data_afisaj": "22 mai 2026, 21:49"
+    },
     {
       "id": "162f5d4f1f7a",
       "titlu": "Tuchel cel nemilos lasă nume mari în afara lotului Angliei pentru Cupa Mondială",
@@ -1253,50 +1309,6 @@
       ],
       "data_publicare": "2026-05-16T08:50:11.650889+00:00",
       "data_afisaj": "16 mai 2026, 11:50"
-    },
-    {
-      "id": "7dd942a7d4dd",
-      "titlu": "Carlo Ancelotti, selecționerul Braziliei, explică de ce Neymar ar putea rata lotul pentru Cupa Mondială",
-      "rezumat": "Carlo Ancelotti, antrenorul naționalei Braziliei, a dezvăluit motivele pentru care Neymar, golgheterul record al țării, ar putea fi exclus din lotul pentru Cupa Mondială din această vară. Deși Neymar a participat la ultimele trei ediții ale turneului final, Ancelotti a indicat că speranțele sale de a fi convocat din nou ar putea fi spulberate. Declarația vine în contextul pregătirilor pentru competiția majoră, iar absența unui jucător de calibrul lui Neymar ar reprezenta o surpriză semnificativă pentru fanii brazilieni și pentru fotbalul mondial.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-05-15T18:19:05.269698+00:00",
-      "data_afisaj": "15 mai 2026, 21:19"
-    },
-    {
-      "id": "ea3120984b5a",
-      "titlu": "Bernardo Silva este pregătit să plece de la Manchester City în această vară",
-      "rezumat": "Mijlocașul portughez Bernardo Silva este așteptat să părăsească Manchester City la finalul acestui sezon. Deși a fost un jucător cheie în echipa lui Pep Guardiola, contribuind la numeroase succese, se pare că Silva a refuzat anterior un rol în cadrul clubului, iar acum este pregătit să își încheie perioada de joc la echipa engleză. Plecarea sa ar marca o schimbare importantă în lotul campioanei Angliei și ar deschide noi perspective pentru cariera sa.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-05-15T18:19:05.271588+00:00",
-      "data_afisaj": "15 mai 2026, 21:19"
-    },
-    {
-      "id": "31341bd2339b",
-      "titlu": "Proprietarul unui club de fotbal acuzat că a încasat peste 28.000 de lire sterline de la părinții jucătorilor",
-      "rezumat": "Proprietarul clubului de fotbal feminin Red Star Lionesses, Jamie Austin, este acuzat de părinți că ar fi încasat peste 28.000 de lire sterline pentru turnee care nu au avut loc, echipamente care nu au fost livrate și sesiuni de antrenament cu jucătoare din Women's Super League care nu s-au concretizat. Afirmațiile sunt în prezent analizate de poliție și de Asociația de Fotbal. Austin, care are două condamnări anterioare pentru fraudă, se confruntă cu acuzații din partea a peste 70 de părinți.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-15T18:19:05.273600+00:00",
-      "data_afisaj": "15 mai 2026, 21:19"
-    },
-    {
-      "id": "1f5286b53373",
-      "titlu": "Plecările lui Kerr, Mead și Shaw marchează sfârșitul unei ere în Women's Super League",
-      "rezumat": "Finala sezonului din Women's Super League marchează sfârșitul unei ere, nu doar prin expansiunea viitoare a diviziei la 14 echipe, ci și prin plecarea mai multor jucătoare emblematice. Printre acestea se numără Sam Kerr de la Chelsea, Beth Mead de la Arsenal și Bunny Shaw, ale căror contracte expiră. Aceste plecări semnificative vor schimba radical liniile ofensive ale multor cluburi de top și vor influența dinamica campionatului, deschizând un nou capitol pentru fotbalul feminin englez.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-15T18:19:05.275557+00:00",
-      "data_afisaj": "15 mai 2026, 21:19"
     }
   ]
 }
