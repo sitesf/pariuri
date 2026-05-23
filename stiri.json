@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-22T18:50:11.230046+00:00",
-  "updated_at_afisaj": "22 mai 2026, 21:50",
+  "updated_at": "2026-05-23T09:03:51.583349+00:00",
+  "updated_at_afisaj": "23 mai 2026, 12:03",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 114,
+  "numar_stiri": 118,
   "stiri": [
+    {
+      "id": "98f5771a66f6",
+      "titlu": "Hull și Middlesbrough se pregătesc pentru o finală unică a play-off-ului",
+      "rezumat": "BBC Sport se uită la finaliștii play-off-urilor din campionat, Hull City și Middlesbrough, după ce pregătirea a fost dominată de Southampton și Spygate.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-23T09:03:26.341423+00:00",
+      "data_afisaj": "23 mai 2026, 12:03"
+    },
+    {
+      "id": "ba3474412c5a",
+      "titlu": "Celtic v Dunfermline: Tot ce trebuie să știți despre finala Cupei Scoției",
+      "rezumat": "Celticul lui Martin O'Neill și Dunfermline Athletic lui Neil Lennon se înfruntă în finala Cupei Scoției de sâmbătă. Iată toate detaliile cheie.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-23T09:03:26.342637+00:00",
+      "data_afisaj": "23 mai 2026, 12:03"
+    },
+    {
+      "id": "213bb4a22295",
+      "titlu": "Romero urmează să fie în Argentina în timp ce Spurs luptă pentru a evita căderea în ultima zi",
+      "rezumat": "Căpitanul lui Tottenham Hotspur, Cristian Romero, este de așteptat să nu participe la ultimul meci al clubului din Premier League al sezonului împotriva lui Everton.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-23T09:03:26.343773+00:00",
+      "data_afisaj": "23 mai 2026, 12:03"
+    },
+    {
+      "id": "b2bfd2cf901a",
+      "titlu": "Kane pe lista scurtă de la Barcelona - bârfa de sâmbătă",
+      "rezumat": "Atacantul Angliei și Bayern Munchen, Harry Kane, este pe lista scurtă a Barcelonei pentru a-l înlocui pe Robert Lewandowski, Manchester United a căzut de acord pentru mijlocașul Atalanta Ederson, în timp ce Liverpool se apropie de atacatorul adolescent columbian Samuel Martinez, plus multe altele.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-23T09:03:26.344817+00:00",
+      "data_afisaj": "23 mai 2026, 12:03"
+    },
+    {
+      "id": "ff360b129c68",
+      "titlu": "Robertson, Dalglish și o legătură specială între Liverpool și Scoția",
+      "rezumat": "Căpitanul Scoției, Andy Robertson, vorbește cu Kelly Cates și cu tatăl ei, Sir Kenny Dalglish, înainte de ultimul său meci pentru Liverpool.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-23T09:03:26.345901+00:00",
+      "data_afisaj": "23 mai 2026, 12:03"
+    },
     {
       "id": "4d612c34c88c",
       "titlu": "🚨 LIVE CFR Cluj – FC Argeș 0-0, Live Text Online, în etapa 10 din play-off-ul Superligii. A început repriza a doua a meciului din Gruia",
@@ -1298,17 +1353,6 @@
       ],
       "data_publicare": "2026-05-16T09:40:46.359946+00:00",
       "data_afisaj": "16 mai 2026, 12:40"
-    },
-    {
-      "id": "d454b5303444",
-      "titlu": "Pep Guardiola insistă că își va duce la bun sfârșit contractul cu Manchester City",
-      "rezumat": "Antrenorul Pep Guardiola a declarat că mai are 'încă un an' din contractul său cu Manchester City, în ciuda speculațiilor privind viitorul său la club. Guardiola a descris deceniul petrecut la City ca fiind 'foarte distractiv' și a sugerat că finala Cupei Angliei împotriva lui Chelsea ar putea să nu fie ultima sa apariție pe Wembley. Deși contractul său expiră în vara anului 2027, există așteptări crescânde că ar putea părăsi clubul la sfârșitul sezonului curent.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-16T08:50:11.650889+00:00",
-      "data_afisaj": "16 mai 2026, 11:50"
     }
   ]
 }
