@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-23T09:03:51.583349+00:00",
-  "updated_at_afisaj": "23 mai 2026, 12:03",
+  "updated_at": "2026-05-23T17:04:17.846991+00:00",
+  "updated_at_afisaj": "23 mai 2026, 20:04",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,56 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 118,
+  "numar_stiri": 115,
   "stiri": [
+    {
+      "id": "41d4c78358ed",
+      "titlu": "Keir Starmer solicită TNT Sports să transmită gratuit finala Ligii Campionilor",
+      "rezumat": "Prim-ministrul britanic, Sir Keir Starmer, a cerut postului de televiziune TNT Sports să facă disponibilă gratuit finala Ligii Campionilor de sâmbăta viitoare. Meciul, care va opune echipele Arsenal și Paris Saint-Germain, ar trebui să fie accesibil unui public cât mai larg, conform apelului liderului politic. Această solicitare subliniază importanța evenimentului sportiv și dorința de a-l face accesibil tuturor fanilor, indiferent de abonamentele plătite.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-23T17:04:17.840982+00:00",
+      "data_afisaj": "23 mai 2026, 20:04"
+    },
+    {
+      "id": "5566ba0b5578",
+      "titlu": "Oli McBurnie trimite Hull City în Premier League cu un gol în prelungiri",
+      "rezumat": "Oli McBurnie a marcat un gol decisiv în prelungiri, propulsând dramatic echipa Hull City în Premier League. Hull City a învins Middlesbrough cu scorul de 1-0 pe stadionul Wembley, într-o finală de play-off tensionată. Victoria asigură promovarea clubului în eșalonul de elită al fotbalului englez, declanșând sărbătoare în rândul fanilor și al echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-23T17:04:17.842532+00:00",
+      "data_afisaj": "23 mai 2026, 20:04"
+    },
+    {
+      "id": "48fb47455e32",
+      "titlu": "Celtic câștigă Cupa Scoției și realizează dubla internă sub conducerea lui Martin O'Neill",
+      "rezumat": "Echipa Celtic a cucerit Cupa Scoției, completând astfel dubla internă sub îndrumarea antrenorului Martin O'Neill. Victoria a fost obținută într-o atmosferă însorită pe stadionul Hampden, consolidând dominația clubului în fotbalul scoțian. Acest succes marchează o performanță remarcabilă pentru Celtic, adăugând un nou trofeu în palmaresul lor și confirmând o strategie de succes.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-23T17:04:17.844246+00:00",
+      "data_afisaj": "23 mai 2026, 20:04"
+    },
+    {
+      "id": "65d27e43f2af",
+      "titlu": "Finala Ligii Campionilor la Fotbal Feminin: Barcelona vs. Lyon, transmisie în direct",
+      "rezumat": "Finala Ligii Campionilor la fotbal feminin dintre Barcelona și OL Lyonnes este în desfășurare, cu startul la ora 17:00 BST pe stadionul Ullevaal din Oslo. Meciul promite o confruntare intensă între două dintre cele mai puternice echipe din Europa. Fanii pot urmări evoluția partidei în timp real, pe măsură ce echipele luptă pentru prestigiosul trofeu european.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-23T17:04:17.845834+00:00",
+      "data_afisaj": "23 mai 2026, 20:04"
+    },
     {
       "id": "98f5771a66f6",
       "titlu": "Hull și Middlesbrough se pregătesc pentru o finală unică a play-off-ului",
@@ -1268,91 +1316,6 @@
       ],
       "data_publicare": "2026-05-16T17:51:14.374862+00:00",
       "data_afisaj": "16 mai 2026, 20:51"
-    },
-    {
-      "id": "39b42e2b6c0f",
-      "titlu": "Mohamed Salah cere Liverpool să revină la stilul de joc „heavy metal”",
-      "rezumat": "Atacantul egiptean Mohamed Salah a declarat că Liverpool trebuie să redevină o „echipă ofensivă de tip heavy metal, de care adversarii să se teamă”, după un sezon în care nu a câștigat niciun trofeu. Declarația subliniază dorința jucătorului de a vedea o schimbare de abordare tactică pentru a readuce clubul în lupta pentru marile competiții și pentru a-și recăpăta identitatea dominantă pe teren.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-16T17:02:27.684671+00:00",
-      "data_afisaj": "16 mai 2026, 20:02"
-    },
-    {
-      "id": "54d067fdf906",
-      "titlu": "Manchester City câștigă Cupa Angliei grație unui gol spectaculos al lui Semenyo",
-      "rezumat": "Manchester City a cucerit Cupa Angliei după o victorie cu 1-0 împotriva lui Chelsea în finala de pe Wembley. Unicul gol al partidei a fost marcat de Antoine Semenyo, printr-o execuție „specială”, un călcâi improvizat, care a asigurat trofeul pentru echipa lui Pep Guardiola și a completat o dublă cupă internă. Victoria confirmă încă o dată forța echipei din Manchester în competițiile interne.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-05-16T17:02:27.686391+00:00",
-      "data_afisaj": "16 mai 2026, 20:02"
-    },
-    {
-      "id": "9775872939c2",
-      "titlu": "Manchester City a ridicat trofeul Women's Super League după victoria cu West Ham",
-      "rezumat": "Echipa feminină Manchester City, campioana en-titre a Women's Super League, și-a încheiat sezonul cu o victorie convingătoare în fața lui West Ham. Khadija Shaw a marcat de două ori în partida câștigată cu 4-1, înainte ca echipa să ridice trofeul, sărbătorind un nou titlu în fotbalul feminin englez. Acest succes subliniază dominanța continuă a clubului în campionatul feminin.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-16T17:02:27.688102+00:00",
-      "data_afisaj": "16 mai 2026, 20:02"
-    },
-    {
-      "id": "49a4c3b387ea",
-      "titlu": "Jordan Pickford: Anglia este una dintre cele mai bune echipe la Cupa Mondială",
-      "rezumat": "Portarul naționalei Angliei, Jordan Pickford, a declarat că este convins că echipa sa este „una dintre cele mai bune” la viitoarea Cupă Mondială. Jucătorul de la Everton, care se pregătește pentru a treia sa participare la un Mondial cu „Cei Trei Lei”, a subliniat că succesul va depinde de capacitatea echipei de a-și arăta cea mai bună versiune pe teren și de a gestiona presiunea competiției.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-05-16T17:02:27.689814+00:00",
-      "data_afisaj": "16 mai 2026, 20:02"
-    },
-    {
-      "id": "764273f3d8af",
-      "titlu": "Celtic a câștigat titlul în Premiership-ul Scoțian după o finală dramatică cu Hearts",
-      "rezumat": "Celtic a fost încoronată campioană în Premiership-ul Scoțian pentru al cincilea sezon consecutiv, după o victorie dramatică cu 3-1 împotriva lui Hearts în ultima etapă. Echipa lui Martin O'Neill a depășit Hearts într-o cursă strânsă pentru titlu, decisă în ultimele momente ale sezonului, după o urmărire de opt luni. Victoria a declanșat scene de bucurie pe stadion, confirmând dominanța lui Celtic în fotbalul scoțian și oferind un final memorabil campionatului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-16T17:02:27.691516+00:00",
-      "data_afisaj": "16 mai 2026, 20:02"
-    },
-    {
-      "id": "304184d329c6",
-      "titlu": "Celtic și Hearts se pregătesc pentru un duel decisiv pentru titlu în Premiership-ul Scoțian",
-      "rezumat": "Sezonul remarcabil din Premiership-ul Scoțian va culmina sâmbătă cu o confruntare directă între Hearts și Celtic pentru titlul de campioană. Ambele echipe au avut un parcurs impresionant, iar meciul final va decide soarta trofeului. Fanii anticipează o partidă tensionată și plină de dramatism, în care fiecare echipă va lupta pentru a-și asigura supremația în fotbalul scoțian. Miza este uriașă, iar rezultatul va fi urmărit cu sufletul la gură de suporterii ambelor cluburi.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-05-16T09:40:46.356507+00:00",
-      "data_afisaj": "16 mai 2026, 12:40"
-    },
-    {
-      "id": "a8d060723ed9",
-      "titlu": "Căpitanul Coreei de Sud, Son Heung-min, selecționat pentru a patra Cupă Mondială",
-      "rezumat": "Atacantul Son Heung-min, fostul jucător al lui Tottenham Hotspur și căpitanul naționalei Coreei de Sud, a fost inclus în lotul pentru cea de-a patra sa participare la Cupa Mondială din această vară. Prezența lui Son este crucială pentru ambițiile echipei asiatice, el fiind considerat unul dintre cei mai importanți jucători ai țării. Experiența și abilitățile sale vor fi esențiale în încercarea Coreei de Sud de a obține rezultate notabile la turneul final.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-16T09:40:46.359946+00:00",
-      "data_afisaj": "16 mai 2026, 12:40"
     }
   ]
 }
