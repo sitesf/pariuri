@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-23T17:04:17.846991+00:00",
-  "updated_at_afisaj": "23 mai 2026, 20:04",
+  "updated_at": "2026-05-23T17:56:56.296732+00:00",
+  "updated_at_afisaj": "23 mai 2026, 20:56",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,40 @@
   },
   "numar_stiri": 115,
   "stiri": [
+    {
+      "id": "6d31b9d9751c",
+      "titlu": "Charlton Athletic Promovează în Women's Super League După O Serie de Penaltiuri Decisivă",
+      "rezumat": "Portarul Sophie Whitehouse a fost eroina echipei Charlton Athletic, salvând patru penaltiuri în finala play-off-ului pentru promovarea în Women's Super League. Charlton a învins Leicester, asigurându-și astfel un loc în prima ligă feminină pentru prima dată în istoria clubului. Victoria a venit după un meci tensionat și o serie dramatică de penaltiuri, în care Whitehouse a demonstrat o performanță excepțională, chiar și după ce sticla sa cu notițe a fost aruncată în tribune de portarul advers, fiind recuperată la timp.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-23T17:56:56.291272+00:00",
+      "data_afisaj": "23 mai 2026, 20:56"
+    },
+    {
+      "id": "3b2a6f9be306",
+      "titlu": "Echipa Nord-Coreeană Naegohyang Câștigă Liga Campionilor Asiei la Fotbal Feminin",
+      "rezumat": "Echipa nord-coreeană Naegohyang a scris istorie, traversând granița în Coreea de Sud pentru a câștiga finala Ligii Campionilor Asiei la Fotbal Feminin. Victoria marchează un moment semnificativ pentru club și pentru fotbalul feminin din regiune, demonstrând performanța remarcabilă a echipei într-o competiție continentală. Succesul vine după o campanie impresionantă, culminând cu triumful în finala disputată pe teren sud-coreean, unde au devenit campioane asiatice.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-23T17:56:56.294074+00:00",
+      "data_afisaj": "23 mai 2026, 20:56"
+    },
+    {
+      "id": "a72b8c042472",
+      "titlu": "Jucătorii din R.D. Congo, Plasați în Izolare Înainte de Cupa Mondială din Cauza Ebola",
+      "rezumat": "Lotul Republicii Democrate Congo pentru Cupa Mondială a fost instruit să intre în izolare pentru 21 de zile înainte de a putea intra în Statele Unite, din cauza focarului de Ebola. Această măsură preventivă este impusă pentru a asigura siguranța sanitară a tuturor participanților la turneu și a respecta protocoalele internaționale de sănătate publică. Decizia subliniază provocările logistice și medicale cu care se confruntă echipele în contextul evenimentelor sportive majore, afectând pregătirea.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-23T17:56:56.296714+00:00",
+      "data_afisaj": "23 mai 2026, 20:56"
+    },
     {
       "id": "41d4c78358ed",
       "titlu": "Keir Starmer solicită TNT Sports să transmită gratuit finala Ligii Campionilor",
@@ -1282,40 +1316,6 @@
       ],
       "data_publicare": "2026-05-17T09:07:58.142335+00:00",
       "data_afisaj": "17 mai 2026, 12:07"
-    },
-    {
-      "id": "abf7f5c90151",
-      "titlu": "Achizițiile din ianuarie ale lui Manchester City, decisive în finala Cupei Angliei",
-      "rezumat": "Jucătorii transferați în ianuarie, Antoine Semenyo și Marc Guehi, au avut prestații remarcabile pentru Manchester City în victoria tensionată cu 1-0 împotriva lui Chelsea, în finala Cupei Angliei de pe Wembley. Contribuția lor a fost crucială în asigurarea trofeului pentru echipa lui Pep Guardiola, demonstrând impactul imediat al investițiilor făcute în perioada de transferuri de iarnă. Semenyo a marcat unicul gol al partidei, iar Guehi a consolidat apărarea, fiind doi dintre cei mai buni jucători de pe teren.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-16T17:51:14.370201+00:00",
-      "data_afisaj": "16 mai 2026, 20:51"
-    },
-    {
-      "id": "4a11e3e81bf6",
-      "titlu": "Bayern Munchen câștigă titlul în Bundesliga cu un hat-trick al lui Kane; Lewandowski pleacă de la Barcelona",
-      "rezumat": "Bayern Munchen a sărbătorit cel de-al 35-lea titlu în Bundesliga, în ultima etapă a sezonului, după o victorie convingătoare cu 5-1 împotriva lui FC Köln, meci în care Harry Kane a reușit un hat-trick. Între timp, Robert Lewandowski, în vârstă de 37 de ani, care a marcat 119 goluri pentru clubul catalan, este pregătit să părăsească FC Barcelona. Aceste evenimente marchează momente cheie în fotbalul european, influențând viitorul a două mari cluburi.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-16T17:51:14.373182+00:00",
-      "data_afisaj": "16 mai 2026, 20:51"
-    },
-    {
-      "id": "3e5eb941cfa5",
-      "titlu": "Strategia de vară a lui Manchester United: plecări și ținte de transfer",
-      "rezumat": "Manchester United își conturează strategia pentru perioada de transferuri din vară, cu Marcus Rashford și Manuel Ugarte printre principalii candidați la plecare. Pe lista de achiziții se numără Elliot Anderson și Adam Wharton. De asemenea, plecarea lui Casemiro a fost deja confirmată. Clubul vizează consolidarea lotului pentru a face față provocărilor din Champions League și pentru a-și îmbunătăți performanțele în competițiile interne, căutând jucători care să se integreze în viziunea antrenorului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-16T17:51:14.374862+00:00",
-      "data_afisaj": "16 mai 2026, 20:51"
     }
   ]
 }
