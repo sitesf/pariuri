@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-24T09:23:06.330192+00:00",
-  "updated_at_afisaj": "24 mai 2026, 12:23",
+  "updated_at": "2026-05-24T09:53:35.253617+00:00",
+  "updated_at_afisaj": "24 mai 2026, 12:53",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,19 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 115,
+  "numar_stiri": 111,
   "stiri": [
+    {
+      "id": "e7cab41d511f",
+      "titlu": "Bolton Wanderers și Stockport County se luptă pentru promovarea în eșalonul secund",
+      "rezumat": "Bolton Wanderers și Stockport County se pregătesc pentru finala play-off-ului League One, programată duminică pe Wembley. Ambele echipe își propun să pună capăt perioadei petrecute în al treilea eșalon al fotbalului englez și să obțină promovarea în Championship. Meciul reprezintă o miză importantă pentru ambele cluburi, care speră să revină în ligile superioare după o absență îndelungată.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-24T09:53:35.253453+00:00",
+      "data_afisaj": "24 mai 2026, 12:53"
+    },
     {
       "id": "1a057f5dce41",
       "titlu": "Harry Kane Marchează un Hat-trick, Bayern Munchen Realizează Dubla Internă",
@@ -1258,62 +1269,6 @@
       ],
       "data_publicare": "2026-05-17T17:01:09.383261+00:00",
       "data_afisaj": "17 mai 2026, 20:01"
-    },
-    {
-      "id": "7f4b0d84d3f2",
-      "titlu": "AGF Aarhus, de la candidată la retrogradare la campioană în Danemarca după 40 de ani",
-      "rezumat": "Echipa daneză Aarhus GF, considerată la începutul sezonului o candidată la retrogradare din Superliga, va ridica duminică trofeul de campioană. Aceasta este prima dată în ultimii 40 de ani când clubul câștigă titlul, marcând o performanță remarcabilă și o poveste de succes neașteptată în fotbalul danez. Victoria reprezintă un moment istoric pentru club și fanii săi, care au așteptat decenii pentru a celebra o astfel de realizare, transformând o prognoză sumbră într-un triumf memorabil.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-17T09:46:48.437025+00:00",
-      "data_afisaj": "17 mai 2026, 12:46"
-    },
-    {
-      "id": "7d32621fafb5",
-      "titlu": "Cristiano Ronaldo și Al-Nassr ratează trofeul Ligii Campionilor Asiei",
-      "rezumat": "Așteptarea lui Cristiano Ronaldo pentru primul său trofeu major cu Al-Nassr continuă, după ce echipa sa a fost învinsă surprinzător cu 1-0 pe teren propriu de Gamba Osaka în finala Ligii Campionilor Asiei Doi. Această înfrângere reprezintă o dezamăgire semnificativă pentru starul portughez și pentru clubul saudit, care sperau să obțină o victorie importantă în competiția continentală. Rezultatul subliniază dificultățile întâmpinate de Al-Nassr în atingerea obiectivelor de performanță la nivel înalt.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-17T09:46:48.438704+00:00",
-      "data_afisaj": "17 mai 2026, 12:46"
-    },
-    {
-      "id": "9d733d8ddd7f",
-      "titlu": "Hearts denunță abuzuri grave asupra jucătorilor și staff-ului după invazia terenului de la Celtic Park",
-      "rezumat": "Clubul Hearts a emis o declarație prin care condamnă ferm invazia terenului de la Celtic Park, descriind scenele ca fiind „rușinoase”, „inacceptabile” și „dezgustătoare”. Jucătorii și personalul echipei au raportat „abuzuri fizice și verbale grave” în urma incidentelor care au avut loc după meciul decisiv pentru titlul din Premiership-ul Scoțian. Hearts solicită autorităților să ia măsuri urgente pentru a proteja integritatea jocului și siguranța participanților, subliniind necesitatea unor sancțiuni exemplare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-17T09:46:48.440595+00:00",
-      "data_afisaj": "17 mai 2026, 12:46"
-    },
-    {
-      "id": "28434670ca06",
-      "titlu": "Scandal de spionaj în Championship: Southampton acuzată de furt de secrete",
-      "rezumat": "Un scandal de spionaj a izbucnit în Championship, unde Southampton este acuzată că ar fi furat secrete ale altor cluburi. Managerul lui Middlesbrough, Kim Hellberg, și-a exprimat public frustrarea și emoția după înfrângerea echipei sale în semifinala playoff-ului împotriva lui Southampton, subliniind necesitatea unei abordări de toleranță zero față de astfel de practici. Incidentul ridică semne de întrebare serioase privind integritatea competiției și fair-play-ul în fotbal, cerând o investigație amănunțită.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-17T09:46:48.442251+00:00",
-      "data_afisaj": "17 mai 2026, 12:46"
-    },
-    {
-      "id": "a9dbffc9424b",
-      "titlu": "Fanii West Ham și Tottenham, furioși pe fondul amenințării retrogradării din Premier League",
-      "rezumat": "Suporterii cluburilor West Ham și Tottenham Hotspur își exprimă furia și disperarea pe măsură ce echipele lor se confruntă cu spectrul retrogradării din Premier League. Ani de management defectuos au condus la o situație critică, generând emoții puternice de furie, tristețe și jenă în rândul fanilor. Această criză subliniază frustrarea legată de deciziile luate de conducere, mai ales după demolarea stadioanelor istorice ale cluburilor în numele progresului și profitului, afectând profund identitatea suporterilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-17T09:46:48.444097+00:00",
-      "data_afisaj": "17 mai 2026, 12:46"
     }
   ]
 }
