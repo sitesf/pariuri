@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-24T09:53:35.253617+00:00",
-  "updated_at_afisaj": "24 mai 2026, 12:53",
+  "updated_at": "2026-05-24T17:06:56.297471+00:00",
+  "updated_at_afisaj": "24 mai 2026, 20:06",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,43 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 111,
+  "numar_stiri": 109,
   "stiri": [
+    {
+      "id": "4e3061d4121e",
+      "titlu": "Miza Ultimei Etape a Sezonului din Premier League",
+      "rezumat": "Echipa \"Ask Me Anything\" de la BBC Sport detaliază implicațiile și obiectivele pentru ultima zi a sezonului 2025-26 din Premier League. Cu titlul deja decis, atenția se îndreaptă către locurile de calificare în competițiile europene și lupta pentru evitarea retrogradării, unde mai multe echipe sunt încă în joc. Fanii anticipează o zi plină de dramatism și rezultate surprinzătoare, care vor decide soarta cluburilor pentru sezonul următor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-24T17:06:56.294148+00:00",
+      "data_afisaj": "24 mai 2026, 20:06"
+    },
+    {
+      "id": "bd5afbdd8e65",
+      "titlu": "Mohamed Salah Părăsește Liverpool, O Eră Majoră Se Încheie",
+      "rezumat": "Perioada lui Mohamed Salah la Liverpool ajunge la final, marcând încheierea unei ere de succes pentru \"Regele Egiptean\" pe Anfield. Plecarea sa vine după ani de performanțe remarcabile, în care a devenit unul dintre cei mai prolifici marcatori și o figură emblematică a clubului. Articolul analizează moștenirea lăsată de Salah, incluzând perspective de la Jurgen Klopp, Ian Rush și Steven Gerrard, evidențiind impactul său profund asupra echipei și a fanilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-24T17:06:56.296360+00:00",
+      "data_afisaj": "24 mai 2026, 20:06"
+    },
+    {
+      "id": "e0bf7b541abe",
+      "titlu": "Max Dowman Devine Cel Mai Tânăr Titular din Istoria Premier League",
+      "rezumat": "Max Dowman a intrat în istoria Premier League, devenind cel mai tânăr jucător care începe un meci în această competiție. La vârsta de doar 16 ani și 144 de zile, tânărul fotbalist a debutat ca titular, stabilind un nou record de precocitate. Această performanță subliniază potențialul său excepțional și deschide noi perspective pentru cariera sa în fotbalul de elită.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-24T17:06:56.297458+00:00",
+      "data_afisaj": "24 mai 2026, 20:06"
+    },
     {
       "id": "e7cab41d511f",
       "titlu": "Bolton Wanderers și Stockport County se luptă pentru promovarea în eșalonul secund",
@@ -1213,62 +1248,6 @@
       ],
       "data_publicare": "2026-05-17T17:53:08.257390+00:00",
       "data_afisaj": "17 mai 2026, 20:53"
-    },
-    {
-      "id": "80a27f10378e",
-      "titlu": "Speranțele europene ale lui Brighton, lovite puternic după golul târziu al lui Calvert-Lewin",
-      "rezumat": "Speranțele echipei Brighton de a se califica în competițiile europene au suferit o lovitură semnificativă, după ce Dominic Calvert-Lewin a marcat un gol târziu, asigurând victoria cu 1-0 pentru Leeds United. Meciul a reprezentat ultima partidă pe teren propriu a sezonului pentru Leeds, iar rezultatul a complicat serios situația lui Brighton în lupta pentru un loc în Europa. Echipa a pierdut puncte cruciale într-un moment cheie al campaniei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-17T17:01:09.375954+00:00",
-      "data_afisaj": "17 mai 2026, 20:01"
-    },
-    {
-      "id": "bba2255d29a3",
-      "titlu": "Doi ofițeri de poliție grav răniți și 14 arestări în timpul dezordinilor de la celebrarea titlului Celtic",
-      "rezumat": "Doi ofițeri de poliție au fost grav răniți, iar 14 persoane au fost arestate în urma incidentelor violente care au avut loc în Glasgow, după ce mii de fani s-au adunat pentru a celebra al cincilea titlu consecutiv al echipei Celtic în Premiership-ul Scoțian. Poliția antirevoltă a fost nevoită să intervină pentru a dispersa mulțimea de pe străzi, în contextul unor confruntări și acte de dezordine care au umbrit bucuria victoriei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-17T17:01:09.377862+00:00",
-      "data_afisaj": "17 mai 2026, 20:01"
-    },
-    {
-      "id": "b6f88b3a9ec8",
-      "titlu": "O nouă controversă legată de henț – este timpul pentru o schimbare a regulii?",
-      "rezumat": "Decizia de a valida golul lui Matheus Cunha, în urma unui henț 'accidental' comis de Bryan Mbeumo în faza premergătoare, a stârnit confuzie și dezbateri aprinse în rândul analiștilor, jucătorilor și fanilor. Incidentul a reaprins discuțiile despre interpretarea regulii hențului în fotbal și despre necesitatea unor modificări clare pentru a evita astfel de 'încurcături' în viitor, care afectează integritatea jocului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-17T17:01:09.379620+00:00",
-      "data_afisaj": "17 mai 2026, 20:01"
-    },
-    {
-      "id": "fa5305b24de7",
-      "titlu": "Cupa Mondială FIFA 2026, pe cale să devină o catastrofă climatică",
-      "rezumat": "Cupa Mondială FIFA din 2026 este pe cale să eșueze în respectarea promisiunilor ecologice, similar cu ediția din 2022. Experții avertizează că, din cauza emisiilor generate de călătoriile aeriene și a pericolelor legate de căldură, ediția din 2026 ar putea fi chiar mai problematică. Pregătirile pentru cel mai popular eveniment sportiv al planetei sunt deja marcate de controverse, inclusiv prețurile exorbitante ale biletelor și alte aspecte organizaționale, ridicând semne de întrebare serioase privind impactul său asupra mediului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-17T17:01:09.381400+00:00",
-      "data_afisaj": "17 mai 2026, 20:01"
-    },
-    {
-      "id": "24ac93695499",
-      "titlu": "De la Wiltshire la Wembley: Călătoria 'ireală' a lui Semenyo atinge noi culmi",
-      "rezumat": "Antoine Semenyo, eroul lui Manchester City în finala Cupei Angliei, a avut o ascensiune remarcabilă în carieră, începând cu împrumuturi la cluburi precum Bath City și Newport. Povestea sa este un exemplu de triumf împotriva adversității, de la refuzurile repetate din partea cluburilor londoneze în timpul copilăriei, până la momentul în care a devenit o figură cheie într-o echipă de top. Această călătorie 'ireală' subliniază perseverența și talentul jucătorului, care acum se bucură de recunoaștere la cel mai înalt nivel.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-17T17:01:09.383261+00:00",
-      "data_afisaj": "17 mai 2026, 20:01"
     }
   ]
 }
