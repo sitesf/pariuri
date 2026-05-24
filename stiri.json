@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-23T17:56:56.296732+00:00",
-  "updated_at_afisaj": "23 mai 2026, 20:56",
+  "updated_at": "2026-05-24T09:23:06.330192+00:00",
+  "updated_at_afisaj": "24 mai 2026, 12:23",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,61 @@
   },
   "numar_stiri": 115,
   "stiri": [
+    {
+      "id": "1a057f5dce41",
+      "titlu": "Harry Kane Marchează un Hat-trick, Bayern Munchen Realizează Dubla Internă",
+      "rezumat": "Harry Kane a marcat un hat-trick decisiv în finala Cupei Germaniei (DFB-Pokal), ajutând-o pe Bayern Munchen să învingă campioana en-titre Stuttgart cu 3-0. Această victorie le-a asigurat bavarezilor o nouă dublă internă sâmbătă. Golurile lui Kane din a doua repriză au declanșat sărbătoarea fanilor Bayern, care s-au alăturat rivalilor din Stuttgart în protestele împotriva federației germane de fotbal (DFB) pentru o creștere planificată a măsurilor de securitate.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-24T09:23:06.323956+00:00",
+      "data_afisaj": "24 mai 2026, 12:23"
+    },
+    {
+      "id": "78401f9e7648",
+      "titlu": "Girona Retrogradează din La Liga, la un An După Participarea în Liga Campionilor",
+      "rezumat": "Echipa spaniolă Girona a retrogradat din La Liga, o veste surprinzătoare având în vedere că formația a evoluat în Liga Campionilor în sezonul precedent. Această cădere rapidă subliniază dificultățile de menținere la cel mai înalt nivel în fotbalul european, chiar și pentru echipele care au avut performanțe notabile recent. Situația clubului va fi reevaluată pentru a pregăti revenirea în prima divizie.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-24T09:23:06.325591+00:00",
+      "data_afisaj": "24 mai 2026, 12:23"
+    },
+    {
+      "id": "57c05f20a621",
+      "titlu": "Pep Guardiola Nu Exclude Posibilitatea de a Antrena Naționala Angliei",
+      "rezumat": "Pep Guardiola, antrenorul care părăsește Manchester City, a declarat că nu are planuri concrete pentru viitor, dar a lăsat deschisă posibilitatea de a prelua conducerea naționalei Angliei. Tehnicianul spaniol, în vârstă de 55 de ani, intenționează să ia o pauză de la antrenorat, dar nu a exclus o viitoare implicare la nivel internațional, o decizie care ar putea schimba peisajul fotbalistic englez și ar stârni un interes uriaș.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-24T09:23:06.327119+00:00",
+      "data_afisaj": "24 mai 2026, 12:23"
+    },
+    {
+      "id": "74a59c8a65e6",
+      "titlu": "Mauricio Pochettino, Deschis la o Revenire la Tottenham Hotspur",
+      "rezumat": "Mauricio Pochettino a declarat că Tottenham Hotspur se simte ca acasă pentru el și că ar fi deschis să se întoarcă la club dacă condițiile ar fi potrivite. Antrenorul argentinian, care a părăsit echipa din nordul Londrei în noiembrie 2019, a făcut această declarație sinceră, alimentând speculațiile privind o posibilă a doua perioadă la cârma clubului. Fanii așteaptă cu interes evoluția situației.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-05-24T09:23:06.328522+00:00",
+      "data_afisaj": "24 mai 2026, 12:23"
+    },
+    {
+      "id": "d0eef976f815",
+      "titlu": "Miză Colosală pentru Tottenham și West Ham în Lupta pentru Evitarea Retrogradării",
+      "rezumat": "Miza este extrem de mare pentru Tottenham și West Ham, care se confruntă într-o luptă decisivă pentru evitarea retrogradării din Premier League. Ambele echipe se află într-o situație critică, iar rezultatul confruntării lor va determina soarta în privința menținerii în prima ligă. Presiunea este imensă, iar fiecare punct contează în această etapă crucială a sezonului, promițând un final de campionat plin de tensiune.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-24T09:23:06.330170+00:00",
+      "data_afisaj": "24 mai 2026, 12:23"
+    },
     {
       "id": "6d31b9d9751c",
       "titlu": "Charlton Athletic Promovează în Women's Super League După O Serie de Penaltiuri Decisivă",
@@ -1259,63 +1314,6 @@
       ],
       "data_publicare": "2026-05-17T09:46:48.444097+00:00",
       "data_afisaj": "17 mai 2026, 12:46"
-    },
-    {
-      "id": "6a9294d24af1",
-      "titlu": "Chelsea anunță numirea lui Alonso ca antrenor",
-      "rezumat": "Chelsea a anunțat numirea lui Xabi Alonso în funcția de antrenor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-17T09:07:58.135482+00:00",
-      "data_afisaj": "17 mai 2026, 12:07"
-    },
-    {
-      "id": "97e3e506aab8",
-      "titlu": "„Mulți jucători se vor opri de pe rețelele sociale la Cupa Mondială – poți să te pui într-un balon” Emile Heskey despre modul în care Anglia poate bloca zgomotul în această vară",
-      "rezumat": "Emile Heskey a mers la două Cupe Mondiale cu Anglia - și are experiență în a face față presiunii turneului",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-05-17T09:07:58.137838+00:00",
-      "data_afisaj": "17 mai 2026, 12:07"
-    },
-    {
-      "id": "911889e4a77f",
-      "titlu": "„Împărtășim aceeași ambiție” – Alonso a numit al treilea șef al lui Chelsea în acest an",
-      "rezumat": "Fostul mijlocaș al lui Liverpool, Xabi Alonso, este numit antrenor al lui Chelsea - la o zi după înfrângerea în finala Cupei FA de către Manchester City.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-17T09:07:58.139406+00:00",
-      "data_afisaj": "17 mai 2026, 12:07"
-    },
-    {
-      "id": "abc1492a0a35",
-      "titlu": "Niciun trofeu în sezonul turbulent, dar sosirea lui Alonso îi oferă lui Chelsea speranță",
-      "rezumat": "Din întunericul unei înfrângeri în finala FA Cup pe fondul unei campanii agitate, sosirea lui Xabi Alonso îi dă speranță Chelsea, scrie Nizaar Kinsella.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-17T09:07:58.140828+00:00",
-      "data_afisaj": "17 mai 2026, 12:07"
-    },
-    {
-      "id": "6a10ed6b8058",
-      "titlu": "La revedere dragut al lui Casemiro - cum brazilianul a schimbat cariera lui Man Utd",
-      "rezumat": "Casemiro joacă ultimul său meci cu Manchester United la Old Trafford împotriva Nottingham Forest și va reveni la un erou indiferent de viitor, după ce și-a schimbat cariera la club.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-17T09:07:58.142335+00:00",
-      "data_afisaj": "17 mai 2026, 12:07"
     }
   ]
 }
