@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-25T17:46:55.746269+00:00",
-  "updated_at_afisaj": "25 mai 2026, 20:46",
+  "updated_at": "2026-05-25T18:22:23.279239+00:00",
+  "updated_at_afisaj": "25 mai 2026, 21:22",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,68 @@
   },
   "numar_stiri": 112,
   "stiri": [
+    {
+      "id": "e70ac4e6f7ce",
+      "titlu": "The Debrief: O echipă alternativă a sezonului din Premier League",
+      "rezumat": "(rezumat indisponibil)",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "Sky Sports Football",
+        "The Guardian Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-05-25T18:22:00.653182+00:00",
+      "data_afisaj": "25 mai 2026, 21:22"
+    },
+    {
+      "id": "9a000e4456f8",
+      "titlu": "Lamine Yamal în echipa Spaniei, dar nu jucători de la Real",
+      "rezumat": "Atacantul accidentat Lamine Yamal este numit în lotul Spaniei pentru Cupa Mondială, care nu include niciun jucător de la Real Madrid.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-25T18:22:00.654468+00:00",
+      "data_afisaj": "25 mai 2026, 21:22"
+    },
+    {
+      "id": "bdbaf4870e3d",
+      "titlu": "Comitatul Notts a trecut de Salford pentru a promova în League One",
+      "rezumat": "Notts County a sigilat promovarea în League One pentru prima dată în 11 ani după ce a învins Salford cu 3-0 la Wembley.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-25T18:22:00.655772+00:00",
+      "data_afisaj": "25 mai 2026, 21:22"
+    },
+    {
+      "id": "d5f710037d26",
+      "titlu": "„Nu este vorba despre crearea istoriei, ci despre dorința de a avea succes în acest turneu – vom crea un pic de istorie pe parcurs, dacă putem face asta să se întâmple” Andy Robertson despre obiectivele Scoției la Cupa Mondială",
+      "rezumat": "Scotienii vor juca la prima lor Cupa Mondiala de la Franta 98 ​​in aceasta vara",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-05-25T18:22:00.657943+00:00",
+      "data_afisaj": "25 mai 2026, 21:22"
+    },
+    {
+      "id": "9beacf04f9d6",
+      "titlu": "Primele imagini cu Daniel Pancu în Giulești, după ce a bătut palma cu Rapid! Alături de cine a fost surprins antrenorul",
+      "rezumat": "(rezumat indisponibil)",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-05-25T18:22:00.659653+00:00",
+      "data_afisaj": "25 mai 2026, 21:22"
+    },
     {
       "id": "1e1f62168ac4",
       "titlu": "Notts County Promovează în League One După o Victorie Convingătoare pe Wembley",
@@ -1230,62 +1292,6 @@
       ],
       "data_publicare": "2026-05-18T18:28:30.002131+00:00",
       "data_afisaj": "18 mai 2026, 21:28"
-    },
-    {
-      "id": "1fd1dad91390",
-      "titlu": "Arsenal v Burnley: Premier League – live",
-      "rezumat": "⚽ Actualizări de la ora 20:00 BST, startul meciului de pe Emirates Stadium ⚽ Clasament | Golgheteri | Football Daily | Trimite e-mail lui Taha Lectură prealabilă pentru a te familiariza: Primul împotriva celui de-al 19-lea, vizitatorii deja retrogradați. Ar trebui să fie simplu, dar nu este, nu-i așa? Arsenal este la două victorii distanță de primul său titlu de campioană în 22 de ani, poate chiar la una singură dacă Manchester City nu reușește să învingă Bournemouth mâine seară. Fiecare fan Arsenal cu care vorbesc este terifiat, inima îi bate constant, fără nicio liniște până când",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-18T18:04:18.806743+00:00",
-      "data_afisaj": "18 mai 2026, 21:04"
-    },
-    {
-      "id": "8d26b43fe4ac",
-      "titlu": "PGMO admite eroare de henț la golul lui Man Utd împotriva lui Forest",
-      "rezumat": "Al doilea gol al lui Manchester United în victoria de duminică din Premier League împotriva lui Nottingham Forest ar fi trebuit anulat pentru henț, a recunoscut organismul arbitrilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-18T18:04:18.808228+00:00",
-      "data_afisaj": "18 mai 2026, 21:04"
-    },
-    {
-      "id": "a38bc0450d90",
-      "titlu": "Întrebările cheie ale lui Clarke pentru lotul Scoției la Cupa Mondială",
-      "rezumat": "Steve Clarke își va anunța marți lotul Scoției pentru Cupa Mondială și, deși antrenorul principal are un grup în mare parte stabilit, BBC Sport Scotland aruncă o privire asupra potențialilor jucători surpriză.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-18T18:04:18.809682+00:00",
-      "data_afisaj": "18 mai 2026, 21:04"
-    },
-    {
-      "id": "d8d4ce2e6261",
-      "titlu": "Salah, egoist, ar trebui scos din finala de pe Anfield - Rooney",
-      "rezumat": "Mohamed Salah ar trebui scos din finala sezonului lui Liverpool pentru criticile „egoiste” aduse clubului, spune Wayne Rooney.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-18T18:04:18.811132+00:00",
-      "data_afisaj": "18 mai 2026, 21:04"
-    },
-    {
-      "id": "b71df2cff786",
-      "titlu": "Leeds promite interdicții pentru scandări homofobe",
-      "rezumat": "Leeds United anunță că fanii găsiți responsabili pentru scandări homofobe în timpul meciului lor din Premier League împotriva lui Brighton vor primi „interdicții lungi de acces pe stadion”.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-18T18:04:18.812476+00:00",
-      "data_afisaj": "18 mai 2026, 21:04"
     }
   ]
 }
