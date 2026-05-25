@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-24T17:55:11.739594+00:00",
-  "updated_at_afisaj": "24 mai 2026, 20:55",
+  "updated_at": "2026-05-25T11:13:30.769716+00:00",
+  "updated_at_afisaj": "25 mai 2026, 14:13",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,62 @@
   },
   "numar_stiri": 107,
   "stiri": [
+    {
+      "id": "6a49e8510fe7",
+      "titlu": "Sunderland se Califică în Europa League După Victoria Împotriva Chelsea",
+      "rezumat": "Sunderland a învins Chelsea și s-a calificat în competițiile europene pentru prima dată în 53 de ani, asigurându-și un loc în Europa League în detrimentul adversarilor. Această performanță istorică marchează o revenire notabilă pentru club, care va reprezenta Anglia pe scena europeană în sezonul viitor. Victoria a fost obținută în ultima etapă a campionatului, consolidând eforturile echipei pe parcursul întregului sezon.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-25T11:13:30.764282+00:00",
+      "data_afisaj": "25 mai 2026, 14:13"
+    },
+    {
+      "id": "06d6593be6f8",
+      "titlu": "West Ham Retrogradează în Championship După 14 Ani în Premier League",
+      "rezumat": "West Ham United a retrogradat în Championship, punând capăt unei prezențe de 14 ani în Premier League, chiar și după o victorie obținută împotriva lui Leeds în ultima etapă a sezonului. Rezultatele celorlalte meciuri au condamnat echipa la retrogradare, marcând un moment dificil pentru club și fanii săi. Această schimbare va aduce provocări semnificative pentru West Ham în sezonul următor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-25T11:13:30.765691+00:00",
+      "data_afisaj": "25 mai 2026, 14:13"
+    },
+    {
+      "id": "5854b86195b5",
+      "titlu": "Bruno Fernandes Stabilește un Nou Record de Asisturi în Premier League",
+      "rezumat": "Căpitanul lui Manchester United, Bruno Fernandes, a stabilit un nou record în Premier League pentru cele mai multe asisturi într-un singur sezon, în ultima etapă a campionatului, în victoria echipei sale împotriva lui Brighton. Această performanță individuală remarcabilă subliniază influența sa crucială în jocul ofensiv al lui Manchester United pe parcursul întregii stagiuni. Recordul anterior a fost depășit, consolidând statutul lui Fernandes ca unul dintre cei mai buni creatori de joc din ligă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-25T11:13:30.767025+00:00",
+      "data_afisaj": "25 mai 2026, 14:13"
+    },
+    {
+      "id": "174c5dcfffb2",
+      "titlu": "Pep Guardiola Părăsește Manchester City După Un Deceniu de Succes",
+      "rezumat": "Pep Guardiola a părăsit banca tehnică a lui Manchester City după un deceniu glorios, marcând sfârșitul unei ere de succes pentru club. Deși a încercat să-și păstreze calmul în ultimul său meci, emoția momentului l-a copleșit pe antrenor. Sub conducerea sa, Manchester City a atins performanțe remarcabile, câștigând numeroase trofee și transformând echipa într-una dintre cele mai dominante din fotbalul european.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-25T11:13:30.768340+00:00",
+      "data_afisaj": "25 mai 2026, 14:13"
+    },
+    {
+      "id": "43acd9b3ff0a",
+      "titlu": "Lionel Messi Suferă o Accidentare la Coapsă Înainte de Cupa Mondială",
+      "rezumat": "Starul argentinian Lionel Messi a fost substituit dintr-un meci din cauza unei aparente probleme la coapsă, cu puțin timp înainte de începerea Cupei Mondiale de luna viitoare. Această accidentare ridică semne de întrebare cu privire la starea sa de sănătate și la capacitatea de a juca la capacitate maximă în turneul final. Fanii și staff-ul naționalei Argentinei așteaptă cu îngrijorare vești despre gravitatea leziunii.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-25T11:13:30.769699+00:00",
+      "data_afisaj": "25 mai 2026, 14:13"
+    },
     {
       "id": "e4f9ce43ed7a",
       "titlu": "Tottenham Hotspur Își Asigură Rămânerea în Premier League",
@@ -1173,62 +1229,6 @@
       ],
       "data_publicare": "2026-05-18T11:44:00.778766+00:00",
       "data_afisaj": "18 mai 2026, 14:44"
-    },
-    {
-      "id": "955e58fa3dac",
-      "titlu": "Controversă privind validarea golului lui Cunha pentru Manchester United",
-      "rezumat": "Experții BBC Sport, Mark Schwarzer și Dion Dublin, consideră că Bryan Mbeumo a folosit brațul pentru a controla mingea în faza premergătoare golului marcat de Matheus Cunha. Acest incident, petrecut în victoria cu 3-2 a lui Manchester United împotriva echipei Nottingham Forest în Premier League, ar fi oferit un \"avantaj incorect\" echipei din Manchester. Discuția subliniază din nou provocările interpretării regulilor de joc în momentele cheie ale partidelor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-05-18T11:09:18.461429+00:00",
-      "data_afisaj": "18 mai 2026, 14:09"
-    },
-    {
-      "id": "c28be592f6d3",
-      "titlu": "Viitorul lui Pep Guardiola la Manchester City rămâne incert",
-      "rezumat": "Viitorul antrenorului Pep Guardiola la Manchester City este învăluit în incertitudine, înaintea unei săptămâni decisive pentru club. Se pare că Guardiola menține suspansul cu privire la posibilitatea ca acesta să fie ultimul său sezon la cârma echipei de pe Etihad. Speculațiile privind plecarea sa au crescut, iar fanii și presa așteaptă cu nerăbdare o clarificare din partea tehnicianului spaniol, care a avut un impact major asupra performanțelor clubului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-05-18T11:09:18.463023+00:00",
-      "data_afisaj": "18 mai 2026, 14:09"
-    },
-    {
-      "id": "3baf5d4ae62c",
-      "titlu": "Arsenal confirmă transferul internaționalei engleze Georgia Stanway",
-      "rezumat": "Arsenal a ajuns la un acord pentru transferul internaționalei engleze Georgia Stanway de la Bayern Munchen. Mijlocașa, în vârstă de 27 de ani, se va alătura clubului londonez la începutul lunii iulie, ca jucătoare liberă de contract, după ce înțelegerea sa cu clubul german expiră în această vară. Mutarea este condiționată de trecerea cu succes a vizitei medicale. Stanway a petrecut patru sezoane de succes la Bayern, contribuind la performanțele echipei în Frauen Bundesliga.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-18T11:09:18.464619+00:00",
-      "data_afisaj": "18 mai 2026, 14:09"
-    },
-    {
-      "id": "f47cd33fe14b",
-      "titlu": "Retrogradarea lui West Ham ar putea costa contribuabilii londonezi 2,5 milioane de lire sterline",
-      "rezumat": "Contribuabilii din Londra ar putea fi nevoiți să plătească o sumă suplimentară de 2,5 milioane de lire sterline în cazul în care West Ham United retrogradează din Premier League. Această situație este cauzată de termenii acordului de închiriere al clubului pentru Stadionul Londrei. Clauzele contractuale prevăd compensații financiare în cazul în care echipa nu mai evoluează în prima ligă, ceea ce ar adăuga o povară financiară neașteptată asupra bugetului public.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-18T11:09:18.466273+00:00",
-      "data_afisaj": "18 mai 2026, 14:09"
-    },
-    {
-      "id": "605d953610b6",
-      "titlu": "Bruno Fernandes egalează recordul de pase decisive în Premier League",
-      "rezumat": "Bruno Fernandes a egalat recordul de pase decisive într-un singur sezon de Premier League, ajungând la 20 de assist-uri. Performanța a fost realizată în victoria cu 3-2 a lui Manchester United împotriva echipei Nottingham Forest, în ultimul meci pe teren propriu al campaniei. Mijlocașul portughez se alătură astfel lui Kevin De Bruyne și Thierry Henry, singurii jucători care au atins această bornă impresionantă în istoria Premier League.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-18T11:09:18.467934+00:00",
-      "data_afisaj": "18 mai 2026, 14:09"
     }
   ]
 }
