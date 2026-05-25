@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-25T11:13:30.769716+00:00",
-  "updated_at_afisaj": "25 mai 2026, 14:13",
+  "updated_at": "2026-05-25T11:53:02.089443+00:00",
+  "updated_at_afisaj": "25 mai 2026, 14:53",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 107,
+  "numar_stiri": 108,
   "stiri": [
+    {
+      "id": "ad12ba0eab73",
+      "titlu": "Golul lui McTominay, Imprimat pe Noua Bancnotă de 20 de Lire Sterline a Scoției",
+      "rezumat": "Un gol spectaculos marcat de Scott McTominay pentru Scoția împotriva Danemarcei a fost imortalizat pe noua bancnotă de 20 de lire sterline a țării. Designul bancnotei combină elemente tradiționale cu imaginea golului, recunoscând astfel momentul iconic din fotbalul scoțian. Această decizie subliniază impactul cultural al sportului și al performanțelor individuale în identitatea națională.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-25T11:53:02.083670+00:00",
+      "data_afisaj": "25 mai 2026, 14:53"
+    },
+    {
+      "id": "d7f0f76c219d",
+      "titlu": "Antonio Conte Pleacă de la Napoli; Como se Califică în Liga Campionilor",
+      "rezumat": "Antonio Conte a anunțat că părăsește postul de antrenor principal al echipei Napoli, după ce a condus echipa la o victorie cu 1-0 împotriva Udinese în ultima etapă a sezonului din Serie A. Decizia vine după un mandat în care a câștigat titlul de campion în primul său sezon. Între timp, Como a reușit o performanță remarcabilă, calificându-se în Liga Campionilor, în timp ce giganți precum Juventus și Milan au ratat locurile de top patru.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-25T11:53:02.085146+00:00",
+      "data_afisaj": "25 mai 2026, 14:53"
+    },
+    {
+      "id": "468384026425",
+      "titlu": "Jordan Pickford Despre Pregătirea Angliei pentru Căldura de la Cupa Mondială",
+      "rezumat": "Portarul Angliei, Jordan Pickford, a declarat că echipa este pregătită să facă față temperaturilor ridicate și umidității din Statele Unite, unde se va desfășura Cupa Mondială. Acesta a subliniat că există o percepție de lungă durată conform căreia echipele europene se confruntă cu dificultăți în condiții de căldură, dar a asigurat că Anglia va fi pregătită să demonteze acest mit prin pregătire riguroasă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-05-25T11:53:02.086555+00:00",
+      "data_afisaj": "25 mai 2026, 14:53"
+    },
+    {
+      "id": "69289e35f786",
+      "titlu": "PRO TV Achiziționează Drepturile de Transmisiune pentru Competițiile Europene cu Echipe Românești",
+      "rezumat": "Postul de televiziune PRO TV a anunțat achiziționarea drepturilor de transmisie pentru competițiile europene de fotbal la care vor participa echipele românești. Această mișcare reprezintă o lovitură media importantă, asigurând fanilor din România accesul la meciurile echipelor autohtone în cupele europene. Detaliile specifice ale acordului și impactul asupra programului de transmisii vor fi comunicate ulterior.",
+      "categorie": "Fotbal",
+      "surse": [
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-05-25T11:53:02.088005+00:00",
+      "data_afisaj": "25 mai 2026, 14:53"
+    },
+    {
+      "id": "5d191422aafe",
+      "titlu": "Nuno Espirito Santo în Discuții cu Conducerea West Ham Privind Viitorul Său",
+      "rezumat": "Antrenorul Nuno Espirito Santo se află în discuții cu oficialii clubului West Ham United pentru a clarifica situația sa contractuală și viitorul său la echipă. Aceste discuții vin în contextul retrogradării clubului din Premier League, după o ședere de 14 ani în eșalonul de elită. Incertitudinea planează asupra băncii tehnice, pe măsură ce clubul se pregătește pentru viața în Championship.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-25T11:53:02.089425+00:00",
+      "data_afisaj": "25 mai 2026, 14:53"
+    },
     {
       "id": "6a49e8510fe7",
       "titlu": "Sunderland se Califică în Europa League După Victoria Împotriva Chelsea",
@@ -1185,50 +1241,6 @@
       ],
       "data_publicare": "2026-05-18T18:04:18.812476+00:00",
       "data_afisaj": "18 mai 2026, 21:04"
-    },
-    {
-      "id": "91f54f4adc39",
-      "titlu": "Vedete ale fotbalului se alătură echipei BBC pentru Cupa Mondială 2026",
-      "rezumat": "BBC Sport a anunțat planurile sale pentru Cupa Mondială FIFA 2026, care va avea loc luna viitoare în Statele Unite, Canada și Mexic. Printre noile nume care se alătură echipei de comentatori și analiști se numără Olivier Giroud, Cesar Azpilicueta și Alex McCarthy. Televiziunea publică britanică va asigura acoperirea tuturor celor 104 meciuri ale turneului, oferind o experiență completă fanilor. Această inițiativă subliniază angajamentul BBC de a aduce cele mai importante evenimente fotbalistice în casele telespectatorilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-18T11:44:00.773513+00:00",
-      "data_afisaj": "18 mai 2026, 14:44"
-    },
-    {
-      "id": "9856eb4dd34a",
-      "titlu": "Neymar, furios după o substituție eronată la Santos, înaintea anunțului lotului Braziliei pentru Cupa Mondială",
-      "rezumat": "Atacantul brazilian Neymar a fost implicat într-o dispută aprinsă cu oficialii meciului, după ce clubul său, Santos, a susținut că a fost substituit în mod greșit în înfrângerea cu 3-0 împotriva echipei Coritiba. Incidentul a avut loc cu o zi înainte ca Brazilia să anunțe lotul pentru Cupa Mondială, adăugând tensiune în jurul starului. Reacția vehementă a lui Neymar subliniază frustrarea sa și importanța momentului, având în vedere iminența selecției naționale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-18T11:44:00.775376+00:00",
-      "data_afisaj": "18 mai 2026, 14:44"
-    },
-    {
-      "id": "4bb04db0a58b",
-      "titlu": "Elversberg, oraș cu 13.000 de locuitori, promovează în Bundesliga",
-      "rezumat": "Clubul german Elversberg va deveni una dintre cele mai mici echipe care au evoluat vreodată în Bundesliga, după ce a reușit o promovare istorică în prima ligă a Germaniei. Această performanță remarcabilă transformă o localitate cu doar 13.000 de locuitori într-un centru al fotbalului de elită, demonstrând că ambiția și munca susținută pot depăși constrângerile de mărime. Succesul echipei este o sursă de inspirație și mândrie pentru comunitatea locală.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-18T11:44:00.776915+00:00",
-      "data_afisaj": "18 mai 2026, 14:44"
-    },
-    {
-      "id": "fc9ed1374ae1",
-      "titlu": "Visul lui St. Pauli de a promova în Bundesliga se spulberă; Wolfsburg își menține speranțele de salvare",
-      "rezumat": "Visul clubului cult St. Pauli de a ajunge în Bundesliga s-a încheiat dramatic, după ce Christian Eriksen a inspirat o victorie crucială pentru Wolfsburg într-un meci tensionat. Echipa din Hamburg a dat totul pe stadionul Millentor, dar Wolfsburg a obținut o victorie dramatică, menținându-și astfel speranțele de a evita retrogradarea. Rezultatul a fost o dezamăgire pentru fanii lui St. Pauli, dar o gură de oxigen pentru Wolfsburg în lupta pentru supraviețuire în prima ligă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-18T11:44:00.778766+00:00",
-      "data_afisaj": "18 mai 2026, 14:44"
     }
   ]
 }
