@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-25T11:53:02.089443+00:00",
-  "updated_at_afisaj": "25 mai 2026, 14:53",
+  "updated_at": "2026-05-25T17:46:55.746269+00:00",
+  "updated_at_afisaj": "25 mai 2026, 20:46",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,53 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 108,
+  "numar_stiri": 112,
   "stiri": [
+    {
+      "id": "1e1f62168ac4",
+      "titlu": "Notts County Promovează în League One După o Victorie Convingătoare pe Wembley",
+      "rezumat": "Echipa Notts County a reușit să obțină promovarea în League One, a treia divizie a fotbalului englez, pentru prima dată în ultimii 11 ani. Performanța a fost asigurată printr-o victorie clară, scor 3-0, împotriva formației Salford City, într-un meci decisiv disputat pe legendarul stadion Wembley. Acest succes reprezintă o recompensă pentru eforturile clubului și ale suporterilor, marcând un pas important în revenirea echipei în eșaloanele superioare ale fotbalului profesionist englez.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-25T17:46:55.741489+00:00",
+      "data_afisaj": "25 mai 2026, 20:46"
+    },
+    {
+      "id": "af828f37b83e",
+      "titlu": "Tottenham Hotspur Recunoaște Că 'Succesul Fotbalistic Nu a Fost Prioritar' în Deciziile Clubului",
+      "rezumat": "Conducerea clubului Tottenham Hotspur a făcut o declarație publică sinceră, prin intermediul președintelui neexecutiv Peter Charrington, recunoscând că 'succesul fotbalistic nu a stat la baza deciziilor noastre'. Această admitere, prezentată într-o scrisoare deschisă adresată fanilor, vine după un sezon considerat dificil. Clubul promite o reconstrucție și o reorientare strategică, cu scopul de a prioritiza performanța sportivă și de a restabili încrederea suporterilor, asigurând o direcție mai clară pentru viitorul echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-25T17:46:55.743090+00:00",
+      "data_afisaj": "25 mai 2026, 20:46"
+    },
+    {
+      "id": "6f00b2fd6373",
+      "titlu": "AC Milan îl Demite pe Antrenorul Massimiliano Allegri După un Sezon Considerat 'Eșec Neîndoielnic'",
+      "rezumat": "Clubul italian AC Milan a anunțat demiterea antrenorului principal Massimiliano Allegri, în urma unui sezon pe care oficialii clubului l-au descris drept un 'eșec neîndoielnic'. Decizia a fost luată după ce echipa nu a reușit să se califice în Liga Campionilor, un obiectiv esențial. Allegri, aflat la al doilea mandat pe banca tehnică a Milanului, părăsește clubul într-un moment de căutare a unei noi direcții, cu scopul de a readuce echipa în topul fotbalului european.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-25T17:46:55.744687+00:00",
+      "data_afisaj": "25 mai 2026, 20:46"
+    },
+    {
+      "id": "b4d8de649ddd",
+      "titlu": "Arne Slot Consideră că Liverpool Poate Reveni în Forță Prin Achiziționarea de Aripi de Calitate",
+      "rezumat": "Noul antrenor al lui Liverpool, Arne Slot, a subliniat importanța crucială a transferurilor de aripi de calitate pentru a asigura o revenire puternică a echipei în sezonul următor. Declarația sa vine în contextul plecării lui Mohamed Salah și a necesității de a găsi înlocuitori adecvați. Slot este convins că, în ciuda unui sezon recent dezamăgitor, caracterizat de cel mai mic număr de puncte și goluri din 2015-16, adăugarea jucătorilor potriviți pe flancuri va fi esențială pentru a rectifica situația și a readuce clubul în lupta pentru trofee majore.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-25T17:46:55.746253+00:00",
+      "data_afisaj": "25 mai 2026, 20:46"
+    },
     {
       "id": "ad12ba0eab73",
       "titlu": "Golul lui McTominay, Imprimat pe Noua Bancnotă de 20 de Lire Sterline a Scoției",
