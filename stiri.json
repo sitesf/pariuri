@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-26T18:30:31.226870+00:00",
-  "updated_at_afisaj": "26 mai 2026, 21:30",
+  "updated_at": "2026-05-26T19:14:10.202119+00:00",
+  "updated_at_afisaj": "26 mai 2026, 22:14",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 98,
+  "numar_stiri": 99,
   "stiri": [
+    {
+      "id": "60f2961c71b1",
+      "titlu": "Enzo Maresca, Așteptat să Preia Conducerea Tehnică la Manchester City",
+      "rezumat": "Negocierile dintre Manchester City și Enzo Maresca, fostul antrenor al lui Chelsea, continuă, iar un acord este așteptat în zilele următoare. Maresca este favorit să-i succeadă lui Pep Guardiola, care a părăsit clubul după un deceniu de succes. Această mutare ar marca o nouă eră pentru campioana Angliei, cu Maresca având sarcina de a menține standardele înalte stabilite de predecesorul său. Fanii așteaptă cu interes confirmarea oficială a numirii noului antrenor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-26T19:14:10.196519+00:00",
+      "data_afisaj": "26 mai 2026, 22:14"
+    },
+    {
+      "id": "8c796f7b340d",
+      "titlu": "PFA Acuză Programul Aglomerat al Competițiilor pentru Epuizarea Jucătorilor Cheie",
+      "rezumat": "Asociația Fotbaliștilor Profesioniști (PFA) a criticat programul \"nebun\" al meciurilor, considerându-l responsabil pentru epuizarea unor jucători precum Cole Palmer și Phil Foden. Directorul executiv al PFA, Maheta Molango, a declarat că ambii jucători au ratat convocarea la Cupa Mondială din această vară din cauza suprasolicitării. Noile date arată că șapte dintre cei zece jucători cu cele mai multe meciuri în ligile de top europene provin de la cluburi engleze, subliniind presiunea intensă la care sunt supuși fotbaliștii.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-26T19:14:10.197949+00:00",
+      "data_afisaj": "26 mai 2026, 22:14"
+    },
+    {
+      "id": "30a1c02abb62",
+      "titlu": "Absența lui Sardar Azmoun de la Cupa Mondială, din Motive Politice, Stârnește Controverse în Iran",
+      "rezumat": "Decizia de a-l exclude pe atacantul Sardar Azmoun din lotul preliminar al Iranului pentru Cupa Mondială a generat o dezbatere aprinsă în țară. Mulți consideră că omisiunea jucătorului de 31 de ani este legată de acțiunile sale de protest împotriva regimului, exprimate pe rețelele de socializare. Această situație subliniază tensiunile dintre sport și politică, cu implicații semnificative pentru echipa națională și pentru percepția publică a evenimentului sportiv major.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-26T19:14:10.199462+00:00",
+      "data_afisaj": "26 mai 2026, 22:14"
+    },
+    {
+      "id": "6816ca1f5f01",
+      "titlu": "Daniel Oprița Așteaptă Decizia Finală Privind Viitorul Său la Steaua București",
+      "rezumat": "Antrenorul Daniel Oprița a declarat că își așteaptă finalul contractului cu Steaua București înainte de a lua o decizie privind viitorul său. Declarația sa vine în contextul speculațiilor legate de o posibilă plecare de la club. Oprița a menționat că va analiza toate opțiunile disponibile odată ce angajamentul său contractual actual se va încheia, lăsând deschisă posibilitatea de a continua sau de a căuta noi provocări în cariera sa de antrenor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-05-26T19:14:10.200799+00:00",
+      "data_afisaj": "26 mai 2026, 22:14"
+    },
+    {
+      "id": "3de84c48693a",
+      "titlu": "FCSB Exclude Transferul lui Tavi Popescu După o Decizie Surprinzătoare",
+      "rezumat": "Un singur gol marcat recent a influențat decisiv decizia FCSB-ului în privința transferului lui Tavi Popescu. Conducerea clubului a anunțat că, \"sub nicio formă\", jucătorul nu va fi vândut în această perioadă de mercato. Această hotărâre vine pe fondul performanțelor recente ale lui Popescu, care au convins clubul să-l păstreze, contrar așteptărilor inițiale sau unor oferte anterioare. Fanii sunt curioși să vadă cum va evolua situația jucătorului în viitorul apropiat.",
+      "categorie": "Fotbal",
+      "surse": [
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-05-26T19:14:10.202099+00:00",
+      "data_afisaj": "26 mai 2026, 22:14"
+    },
     {
       "id": "1041c147cf66",
       "titlu": "Lawrence Shankland Își Îndeplinește Visul de a Juca la Rangers",
@@ -1095,50 +1150,6 @@
       ],
       "data_publicare": "2026-05-20T10:26:32.465420+00:00",
       "data_afisaj": "20 mai 2026, 13:26"
-    },
-    {
-      "id": "56e23aca7eb7",
-      "titlu": "Cristiano Ronaldo, Convocat în Lotul Portugaliei pentru a Șasea Cupă Mondială, un Record",
-      "rezumat": "Superstarul portughez Cristiano Ronaldo a fost inclus în lotul naționalei Portugaliei pentru turneul Cupei Mondiale din această vară, marcând o performanță istorică. Aceasta va fi a șasea participare a lui Ronaldo la o Cupă Mondială, un record absolut în istoria fotbalului masculin. Selecția sa subliniază importanța continuă a atacantului în planurile echipei naționale, în ciuda vârstei sale. Fanii așteaptă cu nerăbdare să vadă dacă Ronaldo va reuși să-și extindă palmaresul la acest turneu major.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-19T18:56:50.843134+00:00",
-      "data_afisaj": "19 mai 2026, 21:56"
-    },
-    {
-      "id": "34f65ccca799",
-      "titlu": "Newcastle United Anunță o Achiziție Majoră înaintea Ferestrei de Transferuri de Vară",
-      "rezumat": "Clubul Newcastle United a confirmat o achiziție importantă, parte a strategiei sale de planificare pe termen lung, înainte de deschiderea ferestrei de transferuri din vară. Detaliile specifice ale achiziției nu au fost încă dezvăluite, dar se anticipează că aceasta va juca un rol crucial în dezvoltarea și consolidarea echipei. Această mișcare subliniază ambițiile clubului de a-și întări poziția și de a concura la cel mai înalt nivel în sezoanele următoare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-05-19T18:56:50.844769+00:00",
-      "data_afisaj": "19 mai 2026, 21:56"
-    },
-    {
-      "id": "11452b8ec5b6",
-      "titlu": "Chelsea, Aluzie Subtilă la un Fost Antrenor după Anunțul de Final de Sezon",
-      "rezumat": "Clubul Chelsea ar fi făcut o aluzie subtilă la un fost antrenor, printr-o postare pe platforma X (fostul Twitter), în urma anunțului de final de sezon. Această acțiune a stârnit speculații și discuții în rândul fanilor și al presei sportive, mulți interpretând-o ca pe o \"săpătură\" la adresa unei figuri din trecutul recent al echipei. Gestul, deși nespecificat direct, a fost perceput ca o critică voalată, adăugând o notă de controversă în peisajul fotbalistic.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-05-19T18:56:50.846376+00:00",
-      "data_afisaj": "19 mai 2026, 21:56"
-    },
-    {
-      "id": "3ca297cf3fde",
-      "titlu": "Liverpool Lansează Echipamentul de Acasă pentru Sezonul 2026/27 cu un Design Retro Actualizat",
-      "rezumat": "Clubul Liverpool a lansat oficial noul său echipament de acasă pentru sezonul 2026/27, care prezintă un design retro actualizat. Noul tricou aduce un omagiu ultimului echipament purtat în timpul primei perioade a lui Sir Kenny Dalglish ca antrenor. Această abordare nostalgică, combinată cu elemente moderne, este menită să rezoneze cu fanii, celebrând istoria bogată a clubului. Lansarea a generat entuziasm în rândul suporterilor, dornici să achiziționeze noul echipament.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-05-19T18:56:50.848151+00:00",
-      "data_afisaj": "19 mai 2026, 21:56"
     }
   ]
 }
