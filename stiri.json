@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-25T18:22:23.279239+00:00",
-  "updated_at_afisaj": "25 mai 2026, 21:22",
+  "updated_at": "2026-05-26T18:30:31.226870+00:00",
+  "updated_at_afisaj": "26 mai 2026, 21:30",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,56 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 112,
+  "numar_stiri": 98,
   "stiri": [
+    {
+      "id": "1041c147cf66",
+      "titlu": "Lawrence Shankland Își Îndeplinește Visul de a Juca la Rangers",
+      "rezumat": "Atacantul scoțian Lawrence Shankland a finalizat transferul său de la Heart of Midlothian la Rangers, clubul său de suflet. Jucătorul a declarat că mutarea reprezintă îndeplinirea unui vis personal, fiind un pas important în cariera sa. Această mutare semnificativă în Premiership-ul scoțian a fost confirmată de mai multe surse sportive de top, subliniind ambițiile lui Rangers de a-și consolida lotul. Shankland este un marcator prolific și se așteaptă să aducă un plus de forță ofensivă echipei din Glasgow în competițiile viitoare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-26T18:30:31.222707+00:00",
+      "data_afisaj": "26 mai 2026, 21:30"
+    },
+    {
+      "id": "36aebcadde82",
+      "titlu": "Alexia Putellas, Dublă Câștigătoare a Balonului de Aur, Părăsește Barcelona și Este Urmărită de London City Lionesses",
+      "rezumat": "Alexia Putellas, de două ori laureată a Balonului de Aur, a anunțat plecarea sa de la FC Barcelona după 14 ani petrecuți la clubul catalan. Această veste a stârnit interesul mai multor echipe din fotbalul feminin european, iar London City Lionesses se numără printre cluburile care o urmăresc activ. Plecarea unei jucătoare de calibrul lui Putellas marchează sfârșitul unei ere la Barcelona și deschide un nou capitol în cariera sa, cu potențialul de a influența semnificativ echilibrul de forțe în competițiile continentale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-26T18:30:31.224265+00:00",
+      "data_afisaj": "26 mai 2026, 21:30"
+    },
+    {
+      "id": "3b9b63bc3fa7",
+      "titlu": "Fox Sports Anunță o Echipă de Experți de Renume pentru Cupa Mondială FIFA 2026",
+      "rezumat": "Fox Sports a dezvăluit panelul său de experți pentru Cupa Mondială FIFA 2026, care include nume mari din lumea fotbalului. Declarația unui membru, \"Oamenii m-au judecat toată cariera, acum e timpul să-i judec eu pe ei\", sugerează o abordare directă și incisivă a analizelor. Această inițiativă face parte din pregătirile ample ale Fox Sports pentru un turneu care se anunță transformator, promițând o acoperire detaliată și perspective variate asupra competiției, cu scopul de a oferi telespectatorilor o experiență completă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-05-26T18:30:31.225631+00:00",
+      "data_afisaj": "26 mai 2026, 21:30"
+    },
+    {
+      "id": "168bbd358a16",
+      "titlu": "Costel Gâlcă S-a Despărțit Oficial de Rapid București",
+      "rezumat": "Antrenorul Costel Gâlcă și-a încheiat oficial colaborarea cu Rapid București. Anunțul vine după o perioadă de speculații privind viitorul său la clubul giuleștean, confirmând o schimbare la nivelul băncii tehnice. Despărțirea a fost confirmată de surse media importante din România, marcând o decizie importantă pentru ambele părți. Detaliile complete ale plecării și planurile de viitor ale clubului nu au fost încă făcute publice, dar se anticipează o reorganizare în perspectiva noului sezon competițional, cu scopul de a atinge obiectivele stabilite.",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-05-26T18:30:31.226851+00:00",
+      "data_afisaj": "26 mai 2026, 21:30"
+    },
     {
       "id": "e70ac4e6f7ce",
       "titlu": "The Debrief: O echipă alternativă a sezonului din Premier League",
@@ -1091,207 +1139,6 @@
       ],
       "data_publicare": "2026-05-19T18:56:50.848151+00:00",
       "data_afisaj": "19 mai 2026, 21:56"
-    },
-    {
-      "id": "87b5c782876a",
-      "titlu": "Antrenor de fotbal feminin, interzis pe viață pentru filmări secrete",
-      "rezumat": "Antrenorul ceh Petr Vlachovsky a primit o interdicție pe viață de la UEFA pentru toate activitățile legate de fotbal, după ce a filmat în secret jucătoare de fotbal în vestiare și dușuri. Vlachovsky a fost condamnat în mai 2025 pentru că a filmat 14 jucătoare de la FC Slovacko pe o perioadă de patru ani. Această decizie vine după ce o interdicție internă de cinci ani a fost considerată prea blândă, UEFA intervenind pentru a impune o sancțiune mai severă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-19T18:10:04.668611+00:00",
-      "data_afisaj": "19 mai 2026, 21:10"
-    },
-    {
-      "id": "9592c6ded5ce",
-      "titlu": "Cluburi de top din Premier League îl vizează pe Jarrod Bowen de la West Ham",
-      "rezumat": "Manchester United, Liverpool și Chelsea sunt interesate de Jarrod Bowen, pe măsură ce cluburile rivale se pregătesc să profite de potențialele probleme financiare ale lui West Ham, în cazul retrogradării. West Ham ar putea fi nevoită să strângă peste 100 de milioane de lire sterline dacă va retrograda din Premier League, iar interesul pentru Bowen din partea echipelor de top este în creștere. Această situație ar putea forța jucătorul englez să își reevalueze viitorul la clubul londonez.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-19T18:10:04.670304+00:00",
-      "data_afisaj": "19 mai 2026, 21:10"
-    },
-    {
-      "id": "bd78f32e841d",
-      "titlu": "Aston Villa, în finala Europa League, la șapte ani de la promovarea din Championship",
-      "rezumat": "Aston Villa se pregătește pentru finala Europa League împotriva echipei Freiburg, la șapte ani după ce a promovat din Championship. John McGinn, care va fi căpitanul echipei în Istanbul, a făcut parte din lotul care a obținut promovarea prin play-off. Clubul urmărește să câștige primul său trofeu european major din 1982, marcând o călătorie remarcabilă de la liga secundă la o finală continentală, sub conducerea antrenorului Unai Emery.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-19T18:10:04.672018+00:00",
-      "data_afisaj": "19 mai 2026, 21:10"
-    },
-    {
-      "id": "a904ea297efa",
-      "titlu": "Viitorul transfer al lui Beth Mead, crucial pentru șansele sale la naționala Angliei",
-      "rezumat": "Selecționerul Angliei, Sarina Wiegman, a declarat că următorul transfer al lui Beth Mead va fi un factor \"foarte important\" pentru șansele atacantei de a participa la Cupa Mondială feminină din 2027. Mead, care va părăsi Arsenal la finalul contractului, caută să obțină mai multe meciuri ca titulară pentru a-și menține forma. Se pare că jucătoarea în vârstă de 31 de ani este aproape de a ajunge la un acord cu Manchester City. Între timp, Toone, Beever-Jones și Godfrey au fost convocate pentru meciurile de calificare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-19T18:10:04.673767+00:00",
-      "data_afisaj": "19 mai 2026, 21:10"
-    },
-    {
-      "id": "1b6d64f20705",
-      "titlu": "UEFA refuză să adopte noile reguli FIFA privind cartonașele roșii",
-      "rezumat": "UEFA a decis să nu urmeze exemplul FIFA în privința introducerii unor noi reguli pentru acordarea cartonașelor roșii. Forul european a optat să nu implementeze sancțiuni automate cu cartonaș roșu pentru jucătorii care își acoperă gura în timpul confruntărilor cu un adversar sau care părăsesc terenul în semn de protest față de o decizie a arbitrului. Aceste reguli fuseseră aprobate de International Football Association Board (Ifab) la solicitarea FIFA și ar fi trebuit să intre în vigoare la 1 iunie, dar UEFA va monitoriza aplicarea lor la Cupa Mondială înainte de a lua o decizie finală.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-19T11:17:12.600629+00:00",
-      "data_afisaj": "19 mai 2026, 14:17"
-    },
-    {
-      "id": "3d202b366b18",
-      "titlu": "Southampton riscă sancțiuni într-un caz de spionaj înainte de finala play-off-ului",
-      "rezumat": "Clubul Southampton se confruntă cu o audiere disciplinară crucială, fiind acuzat că ar fi spionat o sesiune de antrenament a echipei Middlesbrough. Rezultatul acestei audieri este așteptat marți și ar putea avea implicații majore asupra participării echipei în finala play-off-ului. Acuzațiile de \"Spygate\" pun sub semnul întrebării integritatea competiției și ar putea duce la sancțiuni severe, afectând șansele lui Southampton de a promova. Situația creează tensiuni considerabile înaintea unui moment decisiv pentru club.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-19T11:17:12.602407+00:00",
-      "data_afisaj": "19 mai 2026, 14:17"
-    },
-    {
-      "id": "815312a7a6ba",
-      "titlu": "Miza uriașă în Premier League: Titlu, retrogradare și locuri de Liga Campionilor se decid în această seară",
-      "rezumat": "Cursa pentru titlul din Premier League, lupta pentru evitarea retrogradării și calificarea în Liga Campionilor pentru Liverpool ar putea fi decise în această seară. Arsenal speră să își asigure primul titlu în 22 de ani, în timp ce Manchester City se confruntă cu o deplasare dificilă la Bournemouth. În zona retrogradării, West Ham ar putea fi condamnată, iar Liverpool își joacă șansa de a-și securiza locul în competiția europeană de elită. Toate aceste scenarii vor fi urmărite cu sufletul la gură, cu transmisiuni live pe Sky Sports.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-05-19T11:17:12.604176+00:00",
-      "data_afisaj": "19 mai 2026, 14:17"
-    },
-    {
-      "id": "323a1c4138d2",
-      "titlu": "Acuzații de intimidare la adresa candidatului la președinția Federației de Fotbal din Congo",
-      "rezumat": "Véron Mosengo-Omba, singurul candidat la președinția Federației de Fotbal din Republica Democrată Congo (Fecofa), este vizat de acuzații de hărțuire și intimidare. Membri ai Comitetului de Audit și Conformitate (AACC) al Confederației Africane de Fotbal (Caf) au formulat aceste acuzații, care se concentrează pe o întâlnire de două ore între Mosengo-Omba și comitet în octombrie 2024. Situația ridică semne de întrebare serioase cu privire la procesul electoral și la integritatea conducerii fotbalului african.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-19T11:17:12.605785+00:00",
-      "data_afisaj": "19 mai 2026, 14:17"
-    },
-    {
-      "id": "d7d12580b1a6",
-      "titlu": "Stewart și Curtis în lotul Scoției pentru Cupa Mondială",
-      "rezumat": "Ross Stewart și Findlay Curtis sunt numiți în lotul Scoției pentru Cupa Mondială, dar Lennon Miller nu are loc.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-05-19T10:40:23.775847+00:00",
-      "data_afisaj": "19 mai 2026, 13:40"
-    },
-    {
-      "id": "acb58615f778",
-      "titlu": "Neymar a fost ales în lotul Braziliei pentru Cupa Mondială 2026, dar João Pedro ratează",
-      "rezumat": "Carlo Ancelotti laudă „formarea fizică îmbunătățită” a jucătorului Santos Vinícius Júnior, Rayan și Igor Thiago, selectați de asemenea, Neymar va avea a patra apariție la Cupa Mondială, după ce Brazilia l-a numit luni în echipa lor de 26 de oameni. Decizia nu a fost garantată, deoarece întrebările au înconjurat fitness-ul lui Neymar de la ruptura de ligament încrucișat anterior cu mai bine de doi ani în urmă. Antrenorul Braziliei, Carlo Ancelotti, a spus că Neymar „și-a îmbunătățit forma fizică” după anunțarea echipei la o gală la Rio de Janeiro. „El w",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-05-19T10:40:23.777448+00:00",
-      "data_afisaj": "19 mai 2026, 13:40"
-    },
-    {
-      "id": "895ca223404b",
-      "titlu": "Man City se pregătește să-l înlocuiască pe Guardiola cu Maresca",
-      "rezumat": "Enzo Maresca urmează să-l înlocuiască pe Pep Guardiola ca antrenor al Manchester City înainte de sezonul viitor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-19T10:40:23.778759+00:00",
-      "data_afisaj": "19 mai 2026, 13:40"
-    },
-    {
-      "id": "edf529d3e1de",
-      "titlu": "S-ar putea rescrie istoria? Guardiola, Man City și acuzațiile 115",
-      "rezumat": "Având în vedere că Pep Guardiola se așteaptă să părăsească Manchester City la sfârșitul acestui sezon, cum îi pot influența moștenirea pe Etihad Stadium cele 115 acuzații din Premier League ale clubului pentru presupuse încălcări ale regulilor financiare?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-19T10:40:23.780195+00:00",
-      "data_afisaj": "19 mai 2026, 13:40"
-    },
-    {
-      "id": "546f52e12563",
-      "titlu": "Încordați, încordați, dar triumfători - toți ochii Arsenalului sunt acum îndreptați spre Bournemouth",
-      "rezumat": "Toți ochii lui Arsenal vor fi ațintiți marți spre Bournemouth v Man City, iar Gunners sunt foarte aproape de a pune capăt așteptării de 22 de ani pentru un titlu în Premier League.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-19T10:40:23.781621+00:00",
-      "data_afisaj": "19 mai 2026, 13:40"
-    },
-    {
-      "id": "9a297bbc2b27",
-      "titlu": "Croația îl include pe Luka Modric, la 40 de ani, în lotul pentru Cupa Mondială",
-      "rezumat": "Mijlocașul veteran Luka Modric, în vârstă de 40 de ani, a fost inclus în lotul Croației pentru Cupa Mondială. Se anticipează că Modric se va recupera la timp pentru turneu, după o fractură de pomete. Prezența sa la o vârstă atât de înaintată subliniază importanța și longevitatea sa în fotbalul internațional, oferind experiență crucială echipei naționale în competiția supremă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-18T18:28:29.995172+00:00",
-      "data_afisaj": "18 mai 2026, 21:28"
-    },
-    {
-      "id": "ed1028b52ba1",
-      "titlu": "Ousmane Dembele de la PSG urmează tratament pentru o leziune musculară la gambă",
-      "rezumat": "Atacantul Ousmane Dembele va urma un tratament în următoarele zile pentru o leziune musculară la gamba dreaptă, conform unui comunicat emis de Paris Saint-Germain. Această veste vine ca o preocupare pentru club, având în vedere importanța jucătorului în planurile echipei. Perioada exactă de indisponibilitate nu a fost specificată, dar se așteaptă o evaluare continuă a stării sale medicale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-18T18:28:29.996946+00:00",
-      "data_afisaj": "18 mai 2026, 21:28"
-    },
-    {
-      "id": "71693421c4c7",
-      "titlu": "Jose Mourinho a acceptat să revină la Real Madrid",
-      "rezumat": "Jose Mourinho a ajuns la un acord pentru a reveni la Real Madrid în calitate de antrenor principal, semnând un contract pe doi ani. Această mutare marchează o a doua perioadă a antrenorului portughez la cârma gigantului spaniol, după un mandat anterior de succes. Anunțul a stârnit un val de reacții în lumea fotbalului, având în vedere reputația și stilul său distinctiv de management.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-05-18T18:28:29.998469+00:00",
-      "data_afisaj": "18 mai 2026, 21:28"
-    },
-    {
-      "id": "e0251cdf33cd",
-      "titlu": "West Ham ar putea fi nevoită să vândă jucători de 100 de milioane de lire sterline în caz de retrogradare",
-      "rezumat": "West Ham United ar putea fi sub presiune să obțină peste 100 de milioane de lire sterline din vânzarea de jucători dacă va retrograda din Premier League. Clubul a înregistrat o pierdere de 104,2 milioane de lire sterline în ultimele conturi, iar problemele financiare s-ar adânci considerabil fără veniturile din Premier League. Jucători cheie precum Bowen, Fernandes și Summerville ar putea atrage oferte, iar soarta clubului depinde de evitarea retrogradării.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-18T18:28:30.000363+00:00",
-      "data_afisaj": "18 mai 2026, 21:28"
-    },
-    {
-      "id": "511c747a41ce",
-      "titlu": "Finala Ligii Campionilor nu va fi gratuită în Marea Britanie pentru prima dată în era modernă",
-      "rezumat": "Finala Ligii Campionilor, în care Arsenal va întâlni Paris Saint-Germain la Budapesta, nu va fi disponibilă gratuit în Marea Britanie pentru prima dată de la rebranduirea modernă a competiției, acum 34 de ani. Deținătorul drepturilor, TNT Sports, a decis să taxeze fanii pentru a viziona toate cele trei finale europene, o decizie care a nemulțumit UEFA. Această schimbare marchează o modificare semnificativă în accesul publicului la evenimente sportive majore.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-18T18:28:30.002131+00:00",
-      "data_afisaj": "18 mai 2026, 21:28"
     }
   ]
 }
