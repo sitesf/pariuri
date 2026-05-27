@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-26T19:14:10.202119+00:00",
-  "updated_at_afisaj": "26 mai 2026, 22:14",
+  "updated_at": "2026-05-27T10:57:52.715026+00:00",
+  "updated_at_afisaj": "27 mai 2026, 13:57",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,67 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 99,
+  "numar_stiri": 96,
   "stiri": [
+    {
+      "id": "42a125f2bb34",
+      "titlu": "Arteta a fost numit Antrenorul Sezonului din Premier League",
+      "rezumat": "Mikel Arteta a fost numit antrenorul sezonului în Premier League.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-05-27T10:57:30.092511+00:00",
+      "data_afisaj": "27 mai 2026, 13:57"
+    },
+    {
+      "id": "ed89d3c66f3d",
+      "titlu": "Nuno va rămâne șef de la West Ham după retrogradare",
+      "rezumat": "Nuno Espirito Santo va rămâne antrenorul West Ham pentru a conduce lupta pentru a reveni în Premier League la prima încercare, spune clubul.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-27T10:57:30.093648+00:00",
+      "data_afisaj": "27 mai 2026, 13:57"
+    },
+    {
+      "id": "3eee734e7958",
+      "titlu": "Ghidul echipei Mexic Cupa Mondială 2026",
+      "rezumat": "Co-gazdele vor pune pragmatismul mai presus de stil sub Javier Aguirre într-o atmosferă acasă care poate fi atât o inspirație, cât și o povară. theguardian.com difuzează în fiecare zi previzualizări din trei țări, înaintea turneului care va începe pe 11 iunie. Continuă să citești...",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-05-27T10:57:30.094683+00:00",
+      "data_afisaj": "27 mai 2026, 13:57"
+    },
+    {
+      "id": "4c56a9306c7c",
+      "titlu": "Spurs avea nevoie de „resetare completă”, spune CEO-ul sub fire",
+      "rezumat": "Într-un interviu exclusiv cu BBC Sport, directorul executiv al lui Tottenham, Vinai Venkatesham, vorbește despre o serie de probleme pe care clubul trebuie să le abordeze.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-27T10:57:30.095823+00:00",
+      "data_afisaj": "27 mai 2026, 13:57"
+    },
+    {
+      "id": "5b7fab37d357",
+      "titlu": "Schmeichel se retrage din cauza unei răni grave la umăr",
+      "rezumat": "Kasper Schmeichel se retrage la vârsta de 39 de ani, portarul Celticului și al Danemarcei neputând să-și revină suficient de la o accidentare gravă la umăr.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-27T10:57:30.096888+00:00",
+      "data_afisaj": "27 mai 2026, 13:57"
+    },
     {
       "id": "60f2961c71b1",
       "titlu": "Enzo Maresca, Așteptat să Preia Conducerea Tehnică la Manchester City",
@@ -1060,96 +1119,6 @@
       ],
       "data_publicare": "2026-05-20T18:22:08.440416+00:00",
       "data_afisaj": "20 mai 2026, 21:22"
-    },
-    {
-      "id": "eb489f54d80f",
-      "titlu": "Tottenham luptă pentru supraviețuirea în Premier League până în ultima etapă",
-      "rezumat": "O decizie controversată de ultim moment a lăsat echipa Tottenham Hotspur într-o luptă acerbă pentru menținerea în Premier League, evitând o umilință supremă în ultima zi a sezonului. Potrivit scriitorului șef de fotbal Phil McNulty, soarta clubului se va decide în meciul final, unde un singur punct ar putea face diferența între salvare și retrogradare. Situația tensionată subliniază presiunea imensă asupra jucătorilor și staff-ului tehnic.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-20T10:49:48.285346+00:00",
-      "data_afisaj": "20 mai 2026, 13:49"
-    },
-    {
-      "id": "7f15c732d311",
-      "titlu": "Khadija Shaw, considerată cea mai bună atacantă din istoria WSL după un nou titlu cu Manchester City",
-      "rezumat": "După ce Khadija Shaw a ajutat-o pe Manchester City să câștige Women's Super League cu un alt sezon superb, BBC Sport analizează poziția sa printre cele mai mari atacante din istoria diviziei. Jucătoarea din Jamaica a încheiat campania de campionat în stil, cu o dublă împotriva lui West Ham, ajungând la 21 de goluri. Prin aceasta, a devenit prima jucătoare din istoria WSL care a marcat peste 20 de goluri în trei sezoane diferite.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-20T10:49:48.287451+00:00",
-      "data_afisaj": "20 mai 2026, 13:49"
-    },
-    {
-      "id": "fa68d02c0273",
-      "titlu": "Freiburg, condusă de Julian Schuster, țintește imortalitatea în finala Europa League",
-      "rezumat": "SC Freiburg, sub conducerea agresivă a lui Julian Schuster, își propune să atingă un moment istoric în finala Europa League împotriva lui Aston Villa. În ciuda plecărilor unor legende ale clubului și a unor jucători cheie, modestul club german a reușit să ajungă în această fază a competiției. Indiferent de rezultat, clubul va organiza o recepție la întoarcerea în oraș pentru a celebra parcursul remarcabil din acest sezon.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-20T10:49:48.289100+00:00",
-      "data_afisaj": "20 mai 2026, 13:49"
-    },
-    {
-      "id": "9821b17c1f8b",
-      "titlu": "Rodri de la Manchester City, pe prima pagină a ziarelor spaniole, cu o posibilă mutare la Real Madrid",
-      "rezumat": "Starul lui Manchester City, Rodri, este pregătit să-l urmeze pe Pep Guardiola în afara stadionului Etihad, cu Real Madrid interesată de serviciile sale. Această știre a ajuns pe prima pagină a ziarelor din Spania, sugerând o posibilă plecare în masă de la Manchester City. Speculațiile privind viitorul lui Rodri adaugă o nouă dimensiune incertitudinii care planează asupra clubului englez după un sezon tumultuos.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-05-20T10:49:48.290870+00:00",
-      "data_afisaj": "20 mai 2026, 13:49"
-    },
-    {
-      "id": "74d3a0440b58",
-      "titlu": "Jucătorii și Fanii Arsenalului Sărbătoresc Titlul la Emirates Până Dimineață",
-      "rezumat": "După o așteptare de 22 de ani, jucătorii și suporterii Arsenalului au sărbătorit intens câștigarea titlului Premier League. Festivitățile au continuat până la primele ore ale dimineții la stadionul Emirates, unde echipa și fanii s-au adunat pentru a savura momentul istoric. Bucuria a fost palpabilă, marcând o realizare mult-așteptată pentru clubul londonez.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-05-20T10:26:32.460386+00:00",
-      "data_afisaj": "20 mai 2026, 13:26"
-    },
-    {
-      "id": "f9536de2a1a4",
-      "titlu": "Manchester City, 24 de Ore de Suferință: Pierderea Titlului și Plecarea lui Guardiola",
-      "rezumat": "Manchester City a traversat o perioadă de 24 de ore extrem de dificilă, marcate de pierderea titlului Premier League în fața lui Arsenal și de vestea șocantă a plecării iminente a antrenorului Pep Guardiola. Această dublă lovitură a zguduit clubul, transformând o zi obișnuită într-un moment de profundă dezamăgire și incertitudine pentru viitorul echipei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-20T10:26:32.462181+00:00",
-      "data_afisaj": "20 mai 2026, 13:26"
-    },
-    {
-      "id": "88b575bdcd04",
-      "titlu": "Bournemouth Se Califică în Competițiile Europene pentru Prima Dată în Istorie",
-      "rezumat": "Echipa Bournemouth și-a asigurat un loc în competițiile europene pentru prima dată în istoria clubului, după o remiză împotriva lui Manchester City. Deși calificarea este deja obținută, clubul păstrează speranțe de a ajunge chiar în Liga Campionilor, în funcție de rezultatele finale ale sezonului. Această performanță reprezintă o realizare remarcabilă pentru Bournemouth.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-05-20T10:26:32.463810+00:00",
-      "data_afisaj": "20 mai 2026, 13:26"
-    },
-    {
-      "id": "4bcfa83b02d1",
-      "titlu": "MLS Propune IFAB Introducerea Ceasului Oprit în Timpul Întreruperilor de Joc",
-      "rezumat": "Major League Soccer (MLS) a inițiat discuții cu International Football Association Board (IFAB), organismul responsabil cu regulile fotbalului, pentru a explora posibilitatea testării unui sistem de cronometrare cu ceas oprit în timpul întreruperilor de joc. Această propunere vizează oprirea ceasului la faulturi, înlocuiri și alte pauze, o schimbare fundamentală față de sistemul actual de cronometrare continuă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-20T10:26:32.465420+00:00",
-      "data_afisaj": "20 mai 2026, 13:26"
     }
   ]
 }
