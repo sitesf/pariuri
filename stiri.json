@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-27T18:29:26.009213+00:00",
-  "updated_at_afisaj": "27 mai 2026, 21:29",
+  "updated_at": "2026-05-27T19:15:20.429317+00:00",
+  "updated_at_afisaj": "27 mai 2026, 22:15",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,54 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 95,
+  "numar_stiri": 99,
   "stiri": [
+    {
+      "id": "e40b316f1e82",
+      "titlu": "Barcelona A Ajuns la un Acord pentru Transferul lui Anthony Gordon de la Newcastle",
+      "rezumat": "FC Barcelona a convenit un acord cu Newcastle United pentru achiziționarea atacantului englez Anthony Gordon. Tranzacția este evaluată la peste 70 de milioane de lire sterline. Jucătorul este așteptat să efectueze vizita medicală în Spania în cursul acestei săptămâni, posibil joi sau vineri. Deși Bayern Munchen fusese anterior considerată favorită pentru a-l semna pe Gordon, negocierile avansate dintre cluburile spaniole și engleze indică o mutare iminentă a acestuia pe Camp Nou, consolidând ofensiva catalană.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-27T19:15:20.424801+00:00",
+      "data_afisaj": "27 mai 2026, 22:15"
+    },
+    {
+      "id": "2f2fb1b74099",
+      "titlu": "Enzo Fernandez Dorește să Plece de la Chelsea, Clubul Cere 120 de Milioane de Lire Sterline",
+      "rezumat": "Mijlocașul argentinian Enzo Fernandez și-a exprimat dorința de a părăsi clubul Chelsea, după ce echipa nu a reușit să se califice în competițiile europene. Orice potențială mutare a campionului mondial ar implica o sumă considerabilă, clubul londonez solicitând aproximativ 120 de milioane de lire sterline pentru serviciile sale. Dorința jucătorului de a părăsi Stamford Bridge vine în contextul unui sezon sub așteptări pentru Chelsea, care a ratat obiectivele majore.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-27T19:15:20.426481+00:00",
+      "data_afisaj": "27 mai 2026, 22:15"
+    },
+    {
+      "id": "46e58babc444",
+      "titlu": "Arteta Vizează Primul Titlu Arsenal în Liga Campionilor, După 20 de Ani",
+      "rezumat": "La două decenii de la dezamăgirea finalei Ligii Campionilor din 2006, Arsenal se pregătește să facă un pas decisiv către primul său titlu în această competiție. Echipa antrenată de Mikel Arteta, care a reușit să pună capăt așteptării pentru titlul din Premier League, pare să fi depășit frica și tensiunea care au marcat campaniile anterioare. Fanii 'tunarilor' speră ca echipa să-și îndeplinească visul european în finala împotriva lui Paris Saint-Germain, marcând o nouă eră de succes.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-27T19:15:20.427826+00:00",
+      "data_afisaj": "27 mai 2026, 22:15"
+    },
+    {
+      "id": "085093b8b07a",
+      "titlu": "Verdictul în Cazul Celor 115 Acuzații Adresate lui Manchester City, Așteptat în Săptămânile Următoare",
+      "rezumat": "Manchester City continuă să aștepte verdictul în cazul celor 115 acuzații de încălcare a regulilor financiare ale Premier League. Se zvonește că o decizie ar putea fi anunțată în următoarele săptămâni, ceea ce ar putea avea implicații semnificative pentru club, variind de la amenzi substanțiale până la deduceri de puncte sau chiar retrogradare. Această situație reprezintă un subiect major de discuție în fotbalul englez, iar rezultatul investigației este anticipat cu interes de întreaga comunitate fotbalistică.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-05-27T19:15:20.429299+00:00",
+      "data_afisaj": "27 mai 2026, 22:15"
+    },
     {
       "id": "fe5a615449f5",
       "titlu": "Manchester United, Aproape de Transferul lui Ederson de la Atalanta",
