@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-28T10:58:19.918092+00:00",
-  "updated_at_afisaj": "28 mai 2026, 13:58",
+  "updated_at": "2026-05-28T11:38:50.129348+00:00",
+  "updated_at_afisaj": "28 mai 2026, 14:38",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 97,
+  "numar_stiri": 99,
   "stiri": [
+    {
+      "id": "5bd035586cfe",
+      "titlu": "FCSB a Făcut o Ofertă Oficială pentru un Jucător, Care Ar Putea Deveni Cel Mai Scump din Istoria Clubului",
+      "rezumat": "Conform informațiilor apărute în presa sportivă din România, FCSB a înaintat o ofertă oficială pentru un fotbalist, a cărui identitate nu a fost încă dezvăluită public. Se anticipează că, în cazul concretizării transferului, acesta ar putea deveni unul dintre cei mai costisitori jucători achiziționați vreodată de clubul bucureștean. Această mișcare strategică subliniază ambițiile FCSB de a-și consolida lotul cu talente valoroase, pregătindu-se pentru viitoarele competiții interne și europene. Detaliile financiare exacte și numele jucătorului rămân de confirmat.",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-05-28T11:38:50.123611+00:00",
+      "data_afisaj": "28 mai 2026, 14:38"
+    },
+    {
+      "id": "8e6107872964",
+      "titlu": "Barcelona Vizează Transferurile lui Julian Alvarez și Marcus Rashford, Pe Lângă Acordul cu Anthony Gordon",
+      "rezumat": "Barcelona își continuă strategia de consolidare a lotului, manifestând interes pentru Julian Alvarez de la Manchester City și Marcus Rashford de la Manchester United, chiar și după ce a ajuns la un acord pentru transferul lui Anthony Gordon. Clubul spaniol explorează posibilitatea de a aduce mai mulți atacanți de top, ceea ce ar putea avea implicații semnificative pentru viitorul lui Rashford la clubul său actual. Această abordare sugerează o campanie de transferuri ambițioasă din partea Barcelonei, menită să aducă un plus de forță ofensivă echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-28T11:38:50.125161+00:00",
+      "data_afisaj": "28 mai 2026, 14:38"
+    },
+    {
+      "id": "b1954960774d",
+      "titlu": "Andy Robertson, Aproape de un Transfer la Tottenham După Plecarea de la Liverpool",
+      "rezumat": "Fundașul stânga scoțian Andy Robertson este pe punctul de a ajunge la un acord cu Tottenham Hotspur, după ce a părăsit-o pe Liverpool. Mutarea ar reprezenta o schimbare majoră în cariera jucătorului, care a fost un pilon important al defensivei \"Cormoranilor\" în ultimii ani. Tottenham își propune să-și întărească lotul cu un jucător experimentat și de valoare, iar Robertson ar aduce un plus de calitate și leadership pe flancul stâng. Detaliile financiare ale transferului sunt în curs de finalizare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-28T11:38:50.126560+00:00",
+      "data_afisaj": "28 mai 2026, 14:38"
+    },
+    {
+      "id": "9b67ce91c402",
+      "titlu": "Manchester United Cedează în Cursa pentru Anderson în Fața Rivalilor de la Manchester City",
+      "rezumat": "Conform presei sportive, Manchester United ar fi renunțat la încercările de a-l transfera pe jucătorul Anderson, recunoscând că rivalii de la Manchester City sunt favoriți în această cursă. Această evoluție marchează o potențială victorie pentru City pe piața transferurilor și o dezamăgire pentru United, care își dorea să-și întărească lotul. Detaliile despre suma de transfer și condițiile contractuale nu au fost încă publicate, dar se anticipează că Anderson ar putea ajunge la Manchester City în viitorul apropiat.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-28T11:38:50.127934+00:00",
+      "data_afisaj": "28 mai 2026, 14:38"
+    },
+    {
+      "id": "23b998ec0ea5",
+      "titlu": "Arsenal Dezvăluie Planurile pentru Modernizarea Stadionului, Cu Orizont pe Următorii 20 de Ani",
+      "rezumat": "Conducerea clubului Arsenal a prezentat un plan ambițios de modernizare a stadionului, cu o viziune pe termen lung, de aproximativ 20 de ani. Fanii \"Tunarilor\" se pot aștepta la îmbunătățiri semnificative ale facilităților, menite să ducă experiența la meciuri la un nou nivel. Această inițiativă subliniază angajamentul proprietarilor de a investi în infrastructura clubului și de a asigura că Arsenal rămâne în topul fotbalului european, oferind condiții de ultimă generație atât jucătorilor, cât și suporterilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-05-28T11:38:50.129327+00:00",
+      "data_afisaj": "28 mai 2026, 14:38"
+    },
     {
       "id": "abb9bf06c574",
       "titlu": "Steve Clarke Semnează un Nou Contract cu Scoția Până la Cupa Mondială din 2030",
@@ -1098,39 +1154,6 @@
       ],
       "data_publicare": "2026-05-21T18:03:06.874696+00:00",
       "data_afisaj": "21 mai 2026, 21:03"
-    },
-    {
-      "id": "4f610faec489",
-      "titlu": "Emiliano Martinez a jucat finala Europa League cu degetul rupt",
-      "rezumat": "Portarul lui Aston Villa, Emiliano Martinez, a dezvăluit că și-a rupt un deget în timpul încălzirii premergătoare finalei Europa League împotriva lui Freiburg. În ciuda accidentării, Martinez a continuat să joace, contribuind decisiv la victoria echipei sale și la cucerirea trofeului. Performanța sa subliniază dedicarea și spiritul de sacrificiu al jucătorului în momentele cruciale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-21T11:24:01.004560+00:00",
-      "data_afisaj": "21 mai 2026, 14:24"
-    },
-    {
-      "id": "568baec273c9",
-      "titlu": "Victoria Aston Villa în Europa League menține speranțele Angliei pentru șase locuri în Liga Campionilor",
-      "rezumat": "Succesul lui Aston Villa în finala Europa League împotriva lui Freiburg a menținut vii șansele Premier League de a avea șase echipe calificate în Liga Campionilor în sezonul următor. Acest scenariu depinde de rezultatele finale din campionat și de clasamentul coeficienților UEFA. Victoria Villa este crucială pentru ambițiile fotbalului englez de a maximiza reprezentarea în cea mai prestigioasă competiție europeană inter-cluburi.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-21T11:24:01.005888+00:00",
-      "data_afisaj": "21 mai 2026, 14:24"
-    },
-    {
-      "id": "6d21e04e9fec",
-      "titlu": "Millwall și Wrexham analizează acțiuni legale în scandalul de spionaj al lui Southampton",
-      "rezumat": "Cluburile Millwall și Wrexham iau în considerare opțiunile legale după confirmarea excluderii lui Southampton din finala play-off-ului Championship, în urma scandalului de spionaj. Middlesbrough a fost desemnată să o înlocuiască pe Southampton. Cluburile afectate așteaptă publicarea motivelor scrise ale deciziilor luate de panelul disciplinar independent al English Football League, care au fost susținute de un apel. Acestea ar putea solicita compensații.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-21T11:24:01.007088+00:00",
-      "data_afisaj": "21 mai 2026, 14:24"
     }
   ]
 }
