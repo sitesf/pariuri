@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-28T18:39:16.056040+00:00",
-  "updated_at_afisaj": "28 mai 2026, 21:39",
+  "updated_at": "2026-05-28T19:34:06.717387+00:00",
+  "updated_at_afisaj": "28 mai 2026, 22:34",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,52 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 98,
+  "numar_stiri": 99,
   "stiri": [
+    {
+      "id": "e9ac0c1a23df",
+      "titlu": "Neymar Ar Putea Rata Meciul de Deschidere al Braziliei la Cupa Mondială din Cauza unei Accidentări",
+      "rezumat": "Atacantul brazilian Neymar va fi indisponibil pentru o perioadă de două până la trei săptămâni, conform ultimelor informații. Această accidentare îl va împiedica să participe la meciurile amicale de pregătire ale Braziliei împotriva selecționatelor din Panama și Egipt. Există, de asemenea, o îngrijorare semnificativă că starul ar putea rata și primul meci al echipei naționale la Cupa Mondială, un eveniment major pentru selecționata sud-americană.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-28T19:34:06.714084+00:00",
+      "data_afisaj": "28 mai 2026, 22:34"
+    },
+    {
+      "id": "c7c7f8a7f77b",
+      "titlu": "Declan Rice, Luke Shaw și Derek McInnes Printre Câștigătorii Premiilor BBC Football",
+      "rezumat": "BBC Sport a decernat pentru prima dată premiile de fotbal de la sfârșitul sezonului, recompensând cei mai buni jucători și antrenori din fotbalul englez și scoțian. Printre laureați se numără Declan Rice, mijlocașul de la Arsenal, Luke Shaw, fundașul lui Manchester United, și Derek McInnes, antrenorul echipei Kilmarnock. Aceste distincții recunosc performanțele excepționale și contribuțiile semnificative ale acestora pe parcursul campaniei recente.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-28T19:34:06.715183+00:00",
+      "data_afisaj": "28 mai 2026, 22:34"
+    },
+    {
+      "id": "9f2c14947b62",
+      "titlu": "Crystal Palace Așteaptă Decizia lui Andoni Iraola pentru Postul de Antrenor, Frank Lampard o Alternativă",
+      "rezumat": "Clubul Crystal Palace, recent câștigător al Ligii Conferințelor, se află în așteptarea unui răspuns din partea antrenorului Andoni Iraola, considerat principala opțiune pentru preluarea băncii tehnice. În cazul în care negocierile cu Iraola nu se concretizează, Frank Lampard, actualul antrenor al echipei Coventry, este văzut ca o alternativă viabilă. Clubul caută să-și consolideze poziția după plecarea lui Oliver Glasner și succesul european.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-28T19:34:06.716333+00:00",
+      "data_afisaj": "28 mai 2026, 22:34"
+    },
+    {
+      "id": "a5ac56df3995",
+      "titlu": "Impactul Prezenței a Nouă Echipe Engleze în Competițiile Europene Asupra Premier League",
+      "rezumat": "Pentru al doilea sezon consecutiv, Premier League va avea nouă echipe calificate în competițiile europene, un număr record care va genera efecte semnificative la nivel intern. Această prezență masivă în Liga Campionilor, Europa League și Conference League va influența programul meciurilor, strategia cluburilor și, implicit, performanțele în campionatul intern. Se anticipează provocări logistice și de gestionare a loturilor pentru cluburile engleze, cu repercusiuni potențiale chiar și asupra echipelor din ligile inferioare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-28T19:34:06.717373+00:00",
+      "data_afisaj": "28 mai 2026, 22:34"
+    },
     {
       "id": "1f8f7b3673a6",
       "titlu": "Proprietarii Arsenal Promit Întăriri Semnificative ale Echipei și un Nou Contract pentru Arteta",
@@ -1105,39 +1149,6 @@
       ],
       "data_publicare": "2026-05-22T10:26:32.896730+00:00",
       "data_afisaj": "22 mai 2026, 13:26"
-    },
-    {
-      "id": "71c17129d325",
-      "titlu": "Antrenorul lui Southampton, Tonda Eckert, a Autorizat Spionajul, Confirmă Comisia",
-      "rezumat": "O comisie disciplinară independentă a stabilit că acțiunile de spionaj ale clubului Southampton au fost autorizate de antrenorul principal Tonda Eckert. Raportul indică faptul că a fost un \"plan elaborat și determinat, de sus în jos, pentru a obține un avantaj competitiv\". Această concluzie aduce noi detalii în scandalul \"Spygate\" care a afectat clubul și ridică întrebări serioase despre etica sportivă și responsabilitatea conducerii.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-21T18:56:09.283867+00:00",
-      "data_afisaj": "21 mai 2026, 21:56"
-    },
-    {
-      "id": "fb48079e8a92",
-      "titlu": "Morgan Rogers de la Aston Villa, Numit Jucătorul Sezonului în Europa League",
-      "rezumat": "Mijlocașul echipei Aston Villa, Morgan Rogers, a fost desemnat Jucătorul Sezonului în Europa League. Această recunoaștere vine după o performanță remarcabilă a jucătorului, care a contribuit semnificativ la victoria echipei sale în competiția europeană. Premiul subliniază impactul său decisiv pe parcursul turneului și rolul său cheie în succesul clubului, consolidându-i reputația la nivel continental.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-21T18:56:09.285658+00:00",
-      "data_afisaj": "21 mai 2026, 21:56"
-    },
-    {
-      "id": "61e3f4d7616c",
-      "titlu": "Înregistrările VAR Dezvăluie Că Hearts a Cerut Oprirea Meciului După Invazia Terenului",
-      "rezumat": "Înregistrările VAR de la meciul dintre Hearts și Celtic din Premiership-ul Scoției au fost făcute publice, dezvăluind că oficialii clubului Hearts au solicitat încheierea partidei după invazia terenului de către suporteri. Această informație aduce o nouă perspectivă asupra evenimentelor controversate care au avut loc în timpul meciului, oferind detalii despre reacția clubului în fața incidentului și posibilele implicații disciplinare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-05-21T18:56:09.287243+00:00",
-      "data_afisaj": "21 mai 2026, 21:56"
     }
   ]
 }
