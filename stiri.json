@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-27T19:15:20.429317+00:00",
-  "updated_at_afisaj": "27 mai 2026, 22:15",
+  "updated_at": "2026-05-28T10:58:19.918092+00:00",
+  "updated_at_afisaj": "28 mai 2026, 13:58",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,53 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 99,
+  "numar_stiri": 97,
   "stiri": [
+    {
+      "id": "abb9bf06c574",
+      "titlu": "Steve Clarke Semnează un Nou Contract cu Scoția Până la Cupa Mondială din 2030",
+      "rezumat": "Selecționerul Steve Clarke și-a prelungit contractul cu echipa națională a Scoției, un acord care se va întinde până la Cupa Mondială din 2030. Noul angajament include și acoperirea Campionatului European din 2028. Această decizie subliniază încrederea federației în viziunea și capacitatea lui Clarke de a ghida echipa în competițiile majore viitoare, consolidând stabilitatea la nivelul băncii tehnice și oferind continuitate proiectului sportiv. Obiectivul principal rămâne calificarea și performanța la turneele finale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-28T10:58:19.913719+00:00",
+      "data_afisaj": "28 mai 2026, 13:58"
+    },
+    {
+      "id": "b22885b26a37",
+      "titlu": "New York și New Jersey Lansează o Investigație Împotriva FIFA Privind Practicile de Ticketing la Cupa Mondială 2026",
+      "rezumat": "Procurorii generali din New York și New Jersey au inițiat o investigație oficială împotriva FIFA, vizând presupuse practici de manipulare a biletelor pentru Cupa Mondială din 2026. Ancheta se concentrează în special pe meciurile programate să aibă loc pe stadionul MetLife din East Rutherford, New Jersey. Anunțul a fost făcut de Letitia James din New York și Jennifer Dav din New Jersey, semnalând o acțiune legală importantă împotriva organismului de conducere al fotbalului mondial, cu implicații potențiale semnificative.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-28T10:58:19.915315+00:00",
+      "data_afisaj": "28 mai 2026, 13:58"
+    },
+    {
+      "id": "b580617f145a",
+      "titlu": "UEFA Este Criticată pentru Inacțiunea Față de Cluburile Ucrainene False Integrate în Sistemul de Fotbal Rus",
+      "rezumat": "UEFA nu a luat încă măsuri împotriva integrării cluburilor din teritoriile ucrainene ocupate ilegal în sistemul de fotbal al Rusiei, în ciuda solicitărilor Asociației Ucrainene de Fotbal (UAF) de anul trecut. Versiuni imitate ale unor cluburi de succes din Ucraina, precum Șahtior Donețk și Zorya Luhansk, concurează în prezent în a patra ligă rusă. Această situație ridică semne de întrebare privind respectarea regulamentelor și integritatea competițiilor europene, generând controverse și presiuni asupra forului continental.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-28T10:58:19.916731+00:00",
+      "data_afisaj": "28 mai 2026, 13:58"
+    },
+    {
+      "id": "1dc973b26c10",
+      "titlu": "Crystal Palace Câștigă Liga Conferințelor, Oferind un Adio Perfect Antrenorului Oliver Glasner",
+      "rezumat": "Crystal Palace a învins Rayo Vallecano cu scorul de 1-0 în finala UEFA Conference League, disputată la Leipzig. Golul victoriei a fost marcat de Jean-Philippe Mateta, asigurând clubului primul trofeu european din istorie. Această performanță reprezintă un adio memorabil pentru antrenorul Oliver Glasner, care părăsește echipa după un sezon încununat cu succes, lăsând o amprentă semnificativă asupra clubului londonez. Victoria marchează un moment istoric pentru Crystal Palace și încununează munca depusă sub conducerea lui Glasner.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-28T10:58:19.918076+00:00",
+      "data_afisaj": "28 mai 2026, 13:58"
+    },
     {
       "id": "e40b316f1e82",
       "titlu": "Barcelona A Ajuns la un Acord pentru Transferul lui Anthony Gordon de la Newcastle",
@@ -1086,75 +1131,6 @@
       ],
       "data_publicare": "2026-05-21T11:24:01.007088+00:00",
       "data_afisaj": "21 mai 2026, 14:24"
-    },
-    {
-      "id": "1d046cd844a0",
-      "titlu": "Parada victoriei Aston Villa în Europa League va bloca centrul orașului Birmingham",
-      "rezumat": "Centrul orașului Birmingham se pregătește pentru o zi de sărbătoare, joi, când Aston Villa va defila cu trofeul Europa League. În urma victoriei istorice a clubului, mai multe drumuri vor fi închise pentru a permite desfășurarea paradei. Fanii sunt așteptați în număr mare pentru a celebra alături de echipă primul trofeu major obținut în ultimele trei decenii. Autoritățile locale au anunțat rutele și restricțiile de trafic pentru a asigura buna desfășurare a evenimentului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-05-21T10:41:44.116647+00:00",
-      "data_afisaj": "21 mai 2026, 13:41"
-    },
-    {
-      "id": "6b30be7557b0",
-      "titlu": "FA deschide o investigație împotriva clubului Southampton în cazul \"Spygate\"",
-      "rezumat": "Asociația de Fotbal (FA) a deschis o investigație oficială împotriva clubului Southampton, după ce acesta a recunoscut că a spionat trei cluburi pe parcursul sezonului din Championship. Această acțiune vine în urma acuzațiilor de \"Spygate\" și ar putea duce la sancțiuni pentru club. Incidentul a generat controverse semnificative în fotbalul englez, iar rezultatele investigației sunt așteptate cu interes de comunitatea sportivă, având implicații potențiale asupra integrității competiției.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-05-21T10:41:44.118153+00:00",
-      "data_afisaj": "21 mai 2026, 13:41"
-    },
-    {
-      "id": "8c711140404b",
-      "titlu": "Apelul clubului Southampton împotriva excluderii din play-off-ul Championship a fost respins",
-      "rezumat": "Apelul clubului Southampton împotriva excluderii din finala play-off-ului Championship, ca urmare a scandalului \"Spygate\", a fost respins de un panel de arbitraj al English Football League. Decizia confirmă sancțiunea inițială și înseamnă că Hull City și Middlesbrough se vor întâlni în finala de la Wembley. Southampton consideră că pedeapsa este \"disproporționată\" și a exprimat dezamăgirea față de hotărâre, care le-a anulat șansele de promovare în Premier League.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-21T10:41:44.119727+00:00",
-      "data_afisaj": "21 mai 2026, 13:41"
-    },
-    {
-      "id": "efe478281690",
-      "titlu": "Arbitrul meciului Manchester United - Nottingham Forest, omis de la ultima etapă din Premier League",
-      "rezumat": "Arbitrul care a oficiat partida dintre Manchester United și Nottingham Forest, disputată duminica trecută, nu a fost desemnat să conducă niciun meci din ultima rundă a campionatului Premier League. Decizia vine după o victorie controversată a lui Manchester United, iar omisiunea sa de pe lista arbitrilor pentru etapa finală sugerează o posibilă evaluare negativă a prestației sale. Această măsură subliniază presiunea și scrutinul la care sunt supuși oficialii în cele mai importante ligi de fotbal, în special în momentele decisive ale sezonului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-20T19:17:11.726270+00:00",
-      "data_afisaj": "20 mai 2026, 22:17"
-    },
-    {
-      "id": "fd8ce3628e54",
-      "titlu": "Toulouse îl vizează pe antrenorul lui Motherwell, Jens Berthel Askou",
-      "rezumat": "Clubul francez Toulouse a inițiat o abordare oficială către Motherwell, echipa scoțiană, cu intenția de a-l numi pe Jens Berthel Askou în funcția de antrenor principal. Această mișcare indică interesul lui Toulouse de a-și consolida banca tehnică cu un nou lider, în căutarea unor performanțe îmbunătățite. Askou, actualul manager al lui Motherwell, ar putea face astfel pasul către un campionat mai puternic, marcând o schimbare importantă în cariera sa de antrenor și o nouă direcție pentru clubul francez.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-20T19:17:11.727953+00:00",
-      "data_afisaj": "20 mai 2026, 22:17"
-    },
-    {
-      "id": "f84b1acbaaf3",
-      "titlu": "Hearts contestă \"încheierea prematură\" a meciului decisiv de titlu din Premiership",
-      "rezumat": "Clubul Hearts a trimis o scrisoare către Federația Scoțiană de Fotbal (SFA) și SPFL, contestând \"precedentul îngrijorător\" creat de \"încheierea prematură\" a meciului decisiv pentru titlul din Premiership, disputat sâmbăta trecută pe Celtic Park. Această acțiune subliniază preocupările clubului cu privire la modul în care a fost gestionată situația și la implicațiile pe termen lung pentru integritatea competiției. Hearts solicită clarificări și o analiză aprofundată a evenimentelor care au dus la oprirea jocului înainte de fluierul final, considerând că s-a creat un precedent periculos.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-05-20T19:17:11.731524+00:00",
-      "data_afisaj": "20 mai 2026, 22:17"
     }
   ]
 }
