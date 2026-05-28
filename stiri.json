@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-28T11:38:50.129348+00:00",
-  "updated_at_afisaj": "28 mai 2026, 14:38",
+  "updated_at": "2026-05-28T18:39:16.056040+00:00",
+  "updated_at_afisaj": "28 mai 2026, 21:39",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,53 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 99,
+  "numar_stiri": 98,
   "stiri": [
+    {
+      "id": "1f8f7b3673a6",
+      "titlu": "Proprietarii Arsenal Promit Întăriri Semnificative ale Echipei și un Nou Contract pentru Arteta",
+      "rezumat": "Familia Kroenke, proprietarii clubului Arsenal, a declarat că va investi în întărirea lotului, indiferent de rezultatul finalei Ligii Campionilor. Josh Kroenke a subliniat că nu va exista o \"stagnare\" și că prioritatea absolută este prelungirea contractului antrenorului Mikel Arteta. Această decizie vine în contextul în care clubul își propune să continue dezvoltarea și să-și consolideze poziția la vârful fotbalului european, după un sezon de succes și o performanță notabilă în competițiile interne și europene.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-28T18:39:16.052278+00:00",
+      "data_afisaj": "28 mai 2026, 21:39"
+    },
+    {
+      "id": "e3c11ae7dbba",
+      "titlu": "Mauricio Pochettino, în Discuții cu AC Milan pentru Rolul de Antrenor Principal",
+      "rezumat": "Antrenorul echipei naționale a Statelor Unite, Mauricio Pochettino, a purtat discuții cu clubul italian AC Milan pentru a prelua funcția de manager începând cu sezonul viitor. Informația a fost confirmată de The Guardian, după ce jurnalistul italian Nicolò Schira a raportat inițial negocierile. Această mutare ar marca o revenire a lui Pochettino în fotbalul de club european, după o perioadă petrecută la cârma naționalei americane, și ar putea aduce o nouă direcție strategică pentru echipa din Serie A.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-28T18:39:16.053504+00:00",
+      "data_afisaj": "28 mai 2026, 21:39"
+    },
+    {
+      "id": "63c7d7ddb3f9",
+      "titlu": "Women's Super League Semnează un Acord Record de Patru Ani cu CBS Sports pentru Transmisii în SUA",
+      "rezumat": "Women's Super League (WSL) a încheiat un contract istoric pe patru ani cu CBS Sports, obținând drepturile de difuzare în Statele Unite, începând cu sezonul viitor și până la sfârșitul campaniei 2029-2030. Noul acord prevede ca serviciul de streaming Paramount+ să transmită 183 de meciuri WSL pe sezon, în timp ce CBS Sports Network va difuza un meci live pe săptămână, cu selecții suplimentare pe CBS Sports Golazo Network. Aceasta reprezintă o creștere semnificativă a valorii drepturilor TV pentru fotbalul feminin la nivel global.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-28T18:39:16.054842+00:00",
+      "data_afisaj": "28 mai 2026, 21:39"
+    },
+    {
+      "id": "844cc8e88705",
+      "titlu": "Tottenham Este Aproape de Transferul Fundașului Marcos Senesi de la Bournemouth",
+      "rezumat": "Clubul Tottenham Hotspur este pe cale să finalizeze transferul fundașului Marcos Senesi de la Bournemouth. Jucătorul ar urma să ajungă la Tottenham printr-un transfer gratuit, consolidând astfel defensiva echipei. Această mutare reprezintă o achiziție strategică pentru Spurs, care își propune să-și întărească lotul înaintea noului sezon, profitând de oportunitatea de a aduce un jucător experimentat fără costuri de transfer, în contextul planurilor de reconstrucție a echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-28T18:39:16.056023+00:00",
+      "data_afisaj": "28 mai 2026, 21:39"
+    },
     {
       "id": "5bd035586cfe",
       "titlu": "FCSB a Făcut o Ofertă Oficială pentru un Jucător, Care Ar Putea Deveni Cel Mai Scump din Istoria Clubului",
@@ -1093,67 +1138,6 @@
       ],
       "data_publicare": "2026-05-21T18:56:09.287243+00:00",
       "data_afisaj": "21 mai 2026, 21:56"
-    },
-    {
-      "id": "2d3aeadf501e",
-      "titlu": "Foden și l-au „șocat” pe Maguire să rateze lotul pentru Cupa Mondială",
-      "rezumat": "Phil Foden și Harry Maguire se numără printre jucătorii care urmează să fie lăsați în afara lotului lui Thomas Tuchel pentru Cupa Mondială a Angliei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-21T18:03:06.868576+00:00",
-      "data_afisaj": "21 mai 2026, 21:03"
-    },
-    {
-      "id": "795922f87d01",
-      "titlu": "Susține că jucătorii Hearts au fost atacați „nu dovedit” - O'Neill",
-      "rezumat": "Antrenorul Celtic, Martin O'Neill, spune că acuzațiile jucătorilor Hearts au fost agresați pe fondul invaziei terenului de sâmbătă „nu au fost dovedite”, în timp ce consecințele de la decizia titlului în Premiership continuă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-05-21T18:03:06.869995+00:00",
-      "data_afisaj": "21 mai 2026, 21:03"
-    },
-    {
-      "id": "82cc40622806",
-      "titlu": "Trei ofițeri de poliție vor însoți 10.000 de fani Angliei la Cupa Mondială",
-      "rezumat": "Poliția britanică trimite doar trei ofițeri în SUA pentru a însoți fanii Angliei la Cupa Mondială, după ce autoritățile americane refuză să ofere finanțare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-21T18:03:06.871361+00:00",
-      "data_afisaj": "21 mai 2026, 21:03"
-    },
-    {
-      "id": "37dd9beca4da",
-      "titlu": "Neuer, în vârstă de 40 de ani, își schimbă retragerea pentru a fi portarul de primă alegere al Germaniei la Cupa Mondială",
-      "rezumat": "Portarul Bayern Munchen, Manuel Neuer, iese din pensionare internațională pentru a fi numit în lotul Germaniei pentru Cupa Mondială din 2026, iar antrenorul Julian Nagelsmann afirmând că jucătorul de 40 de ani va fi numărul unu al echipei sale la turneu.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-21T18:03:06.872794+00:00",
-      "data_afisaj": "21 mai 2026, 21:03"
-    },
-    {
-      "id": "9ad980dc5002",
-      "titlu": "Gigi Becali l-a făcut praf pe Tavi Popescu după ce a râs de convocările lui Gică Hagi: „E grav! A făcut-o din prostie”",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-05-21T18:03:06.874696+00:00",
-      "data_afisaj": "21 mai 2026, 21:03"
     }
   ]
 }
