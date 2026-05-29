@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-29T10:50:12.190882+00:00",
-  "updated_at_afisaj": "29 mai 2026, 13:50",
+  "updated_at": "2026-05-29T11:29:20.467034+00:00",
+  "updated_at_afisaj": "29 mai 2026, 14:29",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,52 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 100,
+  "numar_stiri": 101,
   "stiri": [
+    {
+      "id": "7aa1ea24db17",
+      "titlu": "Torreense, Club de Liga a Doua, Va Juca în Competițiile Europene",
+      "rezumat": "Echipa portugheză Torreense, câștigătoare a Cupei Portugaliei, va intra într-un grup select de cluburi din liga a doua care vor participa în competițiile europene. Această performanță vine în ciuda faptului că echipa a suferit o înfrângere în finala play-off-ului de promovare. Participarea în Europa reprezintă o realizare notabilă pentru un club care nu activează în prima divizie, subliniind parcursul său remarcabil în cupa națională.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-29T11:29:20.462861+00:00",
+      "data_afisaj": "29 mai 2026, 14:29"
+    },
+    {
+      "id": "4a8ef3ebe521",
+      "titlu": "Cristian Volpato Schimbă Naționala din Italia în Australia Înainte de Cupa Mondială",
+      "rezumat": "Fostul internațional italian de tineret sub 21 de ani, Cristian Volpato, a decis să-și schimbe loialitatea națională, optând să reprezinte Australia. Anunțul vine cu doar câteva zile înainte ca \"Socceroos\" să-și dezvăluie lotul pentru Cupa Mondială FIFA 2026. Această decizie strategică îi permite lui Volpato să spere la o participare la cel mai important turneu de fotbal, oferind Australiei un talent nou în perspectiva competiției.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-29T11:29:20.464265+00:00",
+      "data_afisaj": "29 mai 2026, 14:29"
+    },
+    {
+      "id": "9358d906e9c5",
+      "titlu": "Kai Havertz de la Arsenal: „Să Joci o Finală de Liga Campionilor Este Ireala”",
+      "rezumat": "Atacantul lui Arsenal, Kai Havertz, a declarat că a juca într-o finală de Liga Campionilor este o experiență „ireală”, amintindu-și de golul victoriei marcat pentru Chelsea în finala din 2021. Havertz, care a trecut printr-o perioadă dificilă din cauza unei accidentări în acest sezon, este hotărât să compenseze și să contribuie la succesul echipei sale. El subliniază mândria de a fi marcat într-o finală și de a fi câștigat cel mai prestigios trofeu european la nivel de club.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-29T11:29:20.465672+00:00",
+      "data_afisaj": "29 mai 2026, 14:29"
+    },
+    {
+      "id": "699a3c4ad5a4",
+      "titlu": "Mexic Speră ca o Lună de Izolare să Reînvie Magia Cupei Mondiale din 1986",
+      "rezumat": "Echipa națională a Mexicului, \"El Tri\", speră să-și regăsească forma și spiritul care au dus-o în sferturile de finală la Cupa Mondială din 1986, ultima dată când a găzduit turneul. După o prestație dezastruoasă în 2022, selecționata mexicană intenționează să utilizeze metode de pregătire similare, inclusiv o perioadă de izolare. Această strategie vizează recrearea coeziunii și a condiției fizice optime, în speranța de a obține rezultate mai bune la viitoarea ediție a Cupei Mondiale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-29T11:29:20.467018+00:00",
+      "data_afisaj": "29 mai 2026, 14:29"
+    },
     {
       "id": "5fcd44ab1534",
       "titlu": "Ibrahima Konate Va Părăsi Liverpool la Finalul Contractului",
@@ -1123,41 +1167,6 @@
       ],
       "data_publicare": "2026-05-22T17:55:50.090962+00:00",
       "data_afisaj": "22 mai 2026, 20:55"
-    },
-    {
-      "id": "dcb9ffb4e55b",
-      "titlu": "Pep Guardiola Confirmă Plecarea de la Manchester City la Finalul Sezonului, Enzo Maresca Vizat ca Succesor",
-      "rezumat": "Manchester City a confirmat că antrenorul Pep Guardiola va părăsi clubul la sfârșitul acestui sezon, după un deceniu de succes fără precedent. Tehnicianul spaniol a declarat că \"nimic nu este etern\", sugerând că a venit momentul să se despartă de echipa pe care a transformat-o într-o forță dominantă în fotbalul englez și european. Enzo Maresca este vizat ca potențial înlocuitor. Plecarea sa marchează sfârșitul unei ere glorioase pentru clubul din Manchester.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-22T10:50:48.372962+00:00",
-      "data_afisaj": "22 mai 2026, 13:50"
-    },
-    {
-      "id": "1b5a405c5d36",
-      "titlu": "Michail Antonio, Fostul Atacant al Lui West Ham, Contemplă Retragerea din Fotbal",
-      "rezumat": "Michail Antonio, legenda lui West Ham United, a dezvăluit că ia în considerare retragerea din activitatea de fotbalist profesionist. Fostul atacant, în vârstă de 36 de ani, a declarat că a purtat discuții cu mai multe cluburi după plecarea din Qatar, dar acum cântărește serios posibilitatea de a-și agăța ghetele în cui. O decizie finală este așteptată până la jumătatea sau sfârșitul lunii iunie, marcând un moment important în cariera sa.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-05-22T10:50:48.376863+00:00",
-      "data_afisaj": "22 mai 2026, 13:50"
-    },
-    {
-      "id": "8ba3305529c6",
-      "titlu": "Fanii Tottenham Hotspur Pregătesc un Protest Semnificativ Împotriva Conducerii Clubului",
-      "rezumat": "Un grup de suporteri ai lui Tottenham Hotspur, \"Change for Tottenham\", se pregătește să organizeze un protest amplu împotriva conducerii clubului. Acțiunea este planificată să aibă loc după meciul crucial de duminică împotriva lui Everton, în contextul luptei echipei pentru evitarea retrogradării în Premier League. Fanii își exprimă nemulțumirea față de deciziile și direcția strategică a consiliului de administrație, solicitând schimbări majore la nivel de conducere.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-05-22T10:50:48.378504+00:00",
-      "data_afisaj": "22 mai 2026, 13:50"
     }
   ]
 }
