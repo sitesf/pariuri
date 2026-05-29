@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-29T11:29:20.467034+00:00",
-  "updated_at_afisaj": "29 mai 2026, 14:29",
+  "updated_at": "2026-05-29T18:37:51.358322+00:00",
+  "updated_at_afisaj": "29 mai 2026, 21:37",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,53 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 101,
+  "numar_stiri": 100,
   "stiri": [
+    {
+      "id": "63d2f71974ab",
+      "titlu": "Jose Mourinho Revine la Real Madrid cu un Contract pe Trei Ani",
+      "rezumat": "Jose Mourinho a semnat un contract pe trei ani pentru a deveni antrenorul principal al echipei Real Madrid pentru a doua oară în cariera sa. Această mutare marchează o revenire importantă pentru antrenorul portughez la clubul unde a mai activat anterior, aducând cu sine așteptări mari din partea fanilor și a conducerii. Detaliile financiare și obiectivele specifice ale noului mandat nu au fost încă publicate, dar se anticipează o perioadă de reconstrucție și de luptă pentru trofee majore, atât pe plan intern, cât și european.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-29T18:37:51.355040+00:00",
+      "data_afisaj": "29 mai 2026, 21:37"
+    },
+    {
+      "id": "d1882d036d4c",
+      "titlu": "Kieran Trippier Este Aproape de un Transfer la Wolves",
+      "rezumat": "Fostul internațional englez Kieran Trippier este pe cale să devină prima achiziție a clubului Wolves în această vară, după plecarea sa de la Newcastle. S-a ajuns la un acord verbal între jucător și club, iar detaliile transferului sunt în curs de finalizare. Această mutare ar aduce experiență semnificativă în defensiva lui Wolves, Trippier fiind recunoscut pentru abilitățile sale de lider și pentru contribuțiile sale ofensive. Transferul este confirmat de mai multe surse de încredere.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-29T18:37:51.356371+00:00",
+      "data_afisaj": "29 mai 2026, 21:37"
+    },
+    {
+      "id": "4dabf1c4b997",
+      "titlu": "Real Madrid, Cel Mai Valoros Club de Fotbal din Lume",
+      "rezumat": "Real Madrid a fost desemnat cel mai valoros club din fotbalul mondial, conform unui raport recent. Rivala Barcelona a depășit Manchester United, urcând pe locul al doilea în acest clasament prestigios. Această evaluare subliniază nu doar succesul sportiv al clubului madrilen, ci și forța sa economică, brandul global și capacitatea de a genera venituri semnificative din diverse surse, consolidându-și poziția de lider în industria fotbalului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-29T18:37:51.357337+00:00",
+      "data_afisaj": "29 mai 2026, 21:37"
+    },
+    {
+      "id": "0f8326cff457",
+      "titlu": "Jurrien Timber de la Arsenal Este Apt pentru Finala Ligii Campionilor",
+      "rezumat": "Antrenorul lui Arsenal, Mikel Arteta, a confirmat că fundașul olandez Jurrien Timber este apt să înceapă finala Ligii Campionilor. Această veste vine după ce Timber a fost absent de pe teren pentru mai bine de două luni din cauza unei accidentări la inghinal. Revenirea sa este un impuls semnificativ pentru \"tunari\" înaintea meciului decisiv, oferind opțiuni suplimentare în defensivă și consolidând speranțele echipei de a câștiga trofeul european.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-29T18:37:51.358309+00:00",
+      "data_afisaj": "29 mai 2026, 21:37"
+    },
     {
       "id": "7aa1ea24db17",
       "titlu": "Torreense, Club de Liga a Doua, Va Juca în Competițiile Europene",
@@ -1110,63 +1155,6 @@
       ],
       "data_publicare": "2026-05-22T18:49:49.353785+00:00",
       "data_afisaj": "22 mai 2026, 21:49"
-    },
-    {
-      "id": "162f5d4f1f7a",
-      "titlu": "Tuchel cel nemilos lasă nume mari în afara lotului Angliei pentru Cupa Mondială",
-      "rezumat": "Thomas Tuchel cel nemilos a lăsat un număr de nume de profil înalt în afara lotului său al Angliei pentru Cupa Mondială, în timp ce atacantul Ivan Toney a obținut o rechemare surprinzătoare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-22T17:55:50.085472+00:00",
-      "data_afisaj": "22 mai 2026, 20:55"
-    },
-    {
-      "id": "cf485aa5c5ae",
-      "titlu": "Maguire 'foarte ghinionist' să rateze Cupa Mondială - Rooney",
-      "rezumat": "Fostul căpitan al Angliei, Wayne Rooney, spune că Harry Maguire este \"foarte ghinionist\" să rateze un loc în lotul lui Thomas Tuchel pentru Cupa Mondială din această vară.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-22T17:55:50.086872+00:00",
-      "data_afisaj": "22 mai 2026, 20:55"
-    },
-    {
-      "id": "d799aca12e17",
-      "titlu": "'Altruism' în detrimentul 'egoului' - ce spun scurgerile despre Anglia lui Tuchel?",
-      "rezumat": "BBC Sport explorează de ce întreaga lume a știut lotul Angliei pentru Cupa Mondială înainte de a fi anunțat și ce spune răspunsul lui Thomas Tuchel despre cultura Angliei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-22T17:55:50.088299+00:00",
-      "data_afisaj": "22 mai 2026, 20:55"
-    },
-    {
-      "id": "2ff7289c78ae",
-      "titlu": "Guardiola spune că Man City 'are nevoie de energie nouă' pe măsură ce plecarea este confirmată",
-      "rezumat": "Manchester City confirmă că Pep Guardiola va pleca la sfârșitul sezonului după un deceniu de succes fără precedent.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-22T17:55:50.089669+00:00",
-      "data_afisaj": "22 mai 2026, 20:55"
-    },
-    {
-      "id": "4f87ac111408",
-      "titlu": "Slot refuză să confirme selecția lui Salah pentru ultimul meci",
-      "rezumat": "Arne Slot refuză să confirme dacă Mohamed Salah va juca duminică pe Anfield, în ceea ce ar fi ultima sa apariție pentru Liverpool.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-22T17:55:50.090962+00:00",
-      "data_afisaj": "22 mai 2026, 20:55"
     }
   ]
 }
