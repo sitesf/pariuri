@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-28T19:34:06.717387+00:00",
-  "updated_at_afisaj": "28 mai 2026, 22:34",
+  "updated_at": "2026-05-29T10:50:12.190882+00:00",
+  "updated_at_afisaj": "29 mai 2026, 13:50",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 99,
+  "numar_stiri": 100,
   "stiri": [
+    {
+      "id": "5fcd44ab1534",
+      "titlu": "Ibrahima Konate Va Părăsi Liverpool la Finalul Contractului",
+      "rezumat": "Fundașul Ibrahima Konate este pregătit să plece de la Liverpool ca jucător liber de contract, odată cu expirarea înțelegerii sale în luna iunie. Reprezentanții jucătorului și clubul nu au reușit să ajungă la un acord pentru prelungirea contractului, punând capăt unei perioade de cinci ani petrecute de francez pe Anfield. Konate este acum liber să negocieze cu alte cluburi, fiind o țintă pentru echipe precum PSG, Real Madrid și Bayern Munchen. Plecarea sa ar marca al doilea an consecutiv în care Liverpool pierde un jucător important fără a primi o sumă de transfer.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-29T10:50:12.185519+00:00",
+      "data_afisaj": "29 mai 2026, 13:50"
+    },
+    {
+      "id": "c69fa712b669",
+      "titlu": "Lionel Messi Va Juca la a Șasea Sa Cupă Mondială",
+      "rezumat": "Lionel Messi, căpitanul și deținătorul trofeului Cupei Mondiale cu Argentina, a confirmat participarea sa la turneul din 2026. Aceasta va marca a șasea apariție a starului argentinian la o Cupă Mondială, o performanță remarcabilă în cariera sa deja legendară. Messi va conduce echipa Argentinei în încercarea de a-și apăra titlul mondial, consolidându-și astfel statutul de unul dintre cei mai mari fotbaliști din istorie. Anunțul vine în contextul pregătirilor pentru competiția globală.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-29T10:50:12.186755+00:00",
+      "data_afisaj": "29 mai 2026, 13:50"
+    },
+    {
+      "id": "5315ee64d7b4",
+      "titlu": "Irlanda Învinge Qatarul Într-un Amical Tensionat, Ambele Echipe Terminând în 10 Jucători",
+      "rezumat": "Naționala Republicii Irlanda a obținut o victorie cu 1-0 împotriva Qatarului, calificată la Cupa Mondială, într-un meci amical disputat recent. Căpitanul Nathan Collins a marcat singurul gol al partidei cu o lovitură de cap. Meciul a fost marcat de tensiuni, ambele echipe terminând jocul cu câte 10 jucători pe teren, în urma unor eliminări. Această confruntare a servit drept pregătire pentru ambele formații înaintea angajamentelor internaționale viitoare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-29T10:50:12.188203+00:00",
+      "data_afisaj": "29 mai 2026, 13:50"
+    },
+    {
+      "id": "b7569360ce85",
+      "titlu": "Eberechi Eze de la Arsenal Vizează o Victorie „Specială” în Finala Ligii Campionilor",
+      "rezumat": "Atacantul lui Arsenal, Eberechi Eze, a declarat că echipa sa are o oportunitate unică de a câștiga Liga Campionilor și că o astfel de victorie ar fi un moment cu adevărat special. Eze a respins criticile adresate echipei, subliniind determinarea jucătorilor de a cuceri trofeul. Arsenal se pregătește pentru finala Ligii Campionilor, iar declarațiile lui Eze reflectă încrederea și ambiția grupului de a realiza o performanță istorică pentru club.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-29T10:50:12.189575+00:00",
+      "data_afisaj": "29 mai 2026, 13:50"
+    },
+    {
+      "id": "45dbb9f786c2",
+      "titlu": "Manchester City Women Vizează o Dublă Istorică După Câștigarea Titlului",
+      "rezumat": "Echipa feminină a lui Manchester City, proaspăt campioană a ligii după un deceniu, își propune să realizeze o dublă istorică prin câștigarea finalei Cupei Angliei împotriva lui Brighton. Luna mai 2026 a fost una excepțională pentru club, care a reușit să-și prelungească și contractul cu atacanta Khadija \"Bunny\" Shaw, câștigătoare a Ghetei de Aur. Jucătoarele sunt motivate să adauge încă un trofeu în palmares, consolidând astfel succesul unui sezon remarcabil.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-29T10:50:12.190863+00:00",
+      "data_afisaj": "29 mai 2026, 13:50"
+    },
     {
       "id": "e9ac0c1a23df",
       "titlu": "Neymar Ar Putea Rata Meciul de Deschidere al Braziliei la Cupa Mondială din Cauza unei Accidentări",
@@ -1102,53 +1158,6 @@
       ],
       "data_publicare": "2026-05-22T10:50:48.378504+00:00",
       "data_afisaj": "22 mai 2026, 13:50"
-    },
-    {
-      "id": "992c62eaef77",
-      "titlu": "Michael Carrick, numit antrenor permanent la Manchester United",
-      "rezumat": "Manchester United a confirmat numirea lui Michael Carrick în funcția de antrenor principal permanent, semnând un contract pe doi ani. Fostul mijlocaș a fost recompensat pentru perioada sa interimară de succes, în care a condus echipa pe locul trei în Premier League și a asigurat calificarea în Liga Campionilor cu trei etape înainte de finalul sezonului. Această decizie marchează o nouă etapă în cariera sa de antrenor la clubul de pe Old Trafford.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-22T10:26:32.891978+00:00",
-      "data_afisaj": "22 mai 2026, 13:26"
-    },
-    {
-      "id": "1556b7f0eba3",
-      "titlu": "Cristiano Ronaldo câștigă primul titlu în Saudi Pro League cu Al-Nassr",
-      "rezumat": "Cristiano Ronaldo a obținut primul său titlu de campion în Saudi Pro League alături de echipa Al-Nassr, după trei ani petrecuți în Arabia Saudită. Victoria a fost confirmată în ultima etapă a sezonului, aducând o mare bucurie fanilor și clubului. Acest succes reprezintă o realizare importantă pentru starul portughez în cariera sa post-europeană, consolidându-i statutul de legendă a fotbalului și în campionatul saudit.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-05-22T10:26:32.893976+00:00",
-      "data_afisaj": "22 mai 2026, 13:26"
-    },
-    {
-      "id": "43158aa82f77",
-      "titlu": "Arne Slot refuză să confirme prezența lui Mohamed Salah în ultimul meci la Liverpool",
-      "rezumat": "Antrenorul Arne Slot a refuzat să confirme dacă Mohamed Salah va juca în meciul de duminică de pe Anfield, care ar putea fi ultima sa apariție pentru Liverpool. Speculațiile privind viitorul atacantului egiptean sunt intense, iar incertitudinea legată de participarea sa la această partidă crucială adaugă tensiune înaintea finalului de sezon. Decizia lui Slot menține suspansul cu privire la viitorul unuia dintre cei mai importanți jucători ai clubului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-22T10:26:32.895369+00:00",
-      "data_afisaj": "22 mai 2026, 13:26"
-    },
-    {
-      "id": "c2adc7830654",
-      "titlu": "Vicky Lopez, noua stea a fotbalului feminin, înaintea finalei Ligii Campionilor",
-      "rezumat": "Înaintea finalei Ligii Campionilor la fotbal feminin dintre Barcelona și Lyon, atenția se îndreaptă către Vicky Lopez, considerată următoarea superstar global a sportului. BBC Sport a publicat o analiză a ascensiunii extraordinare a tinerei jucătoare, de la începuturile sale până la statutul actual. Finala de sâmbătă oferă o platformă importantă pentru ca Lopez să-și demonstreze talentul la cel mai înalt nivel și să-și consolideze reputația în fotbalul feminin.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-22T10:26:32.896730+00:00",
-      "data_afisaj": "22 mai 2026, 13:26"
     }
   ]
 }
