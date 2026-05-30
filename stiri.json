@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-30T10:00:49.950189+00:00",
-  "updated_at_afisaj": "30 mai 2026, 13:00",
+  "updated_at": "2026-05-30T17:12:38.645222+00:00",
+  "updated_at_afisaj": "30 mai 2026, 20:12",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,56 @@
   },
   "numar_stiri": 97,
   "stiri": [
+    {
+      "id": "5e1ba1d09a04",
+      "titlu": "Liverpool îl demite pe Arne Slot; Andoni Iraola, principalul favorit pentru înlocuire",
+      "rezumat": "Liverpool a anunțat demiterea antrenorului principal Arne Slot, după doar două sezoane la conducerea clubului, în care a reușit să câștige titlul în Premier League. Decizia vine în urma unei scăderi dramatice a performanțelor echipei în acest sezon, culminând cu un loc cinci în campionat. Andoni Iraola, actualul antrenor al lui Bournemouth, este considerat principalul candidat pentru a prelua banca tehnică de pe Anfield. S-a speculat că relațiile tensionate cu jucătorii ar fi contribuit la plecarea lui Slot, marcând o cădere remarcabilă pentru antrenorul olandez.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "FourFourTwo",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-30T17:12:38.640745+00:00",
+      "data_afisaj": "30 mai 2026, 20:12"
+    },
+    {
+      "id": "8f80cf3bb9c0",
+      "titlu": "Finala Ligii Campionilor: Paris Saint-Germain vs Arsenal, Live de la Budapesta",
+      "rezumat": "Finala Ligii Campionilor dintre Paris Saint-Germain și Arsenal se desfășoară la Budapesta, cu start la ora 18:00 (ora locală). Meciul este un eveniment major al calendarului fotbalistic european, atrăgând atenția fanilor din întreaga lume. Arsenal, care nu a mai câștigat Premier League din 2004, speră să își adauge un trofeu european în palmares. Transmisiunea în direct oferă cele mai recente actualizări și analize de la fața locului, pe măsură ce cele două echipe se luptă pentru supremația continentală, într-o confruntare așteptată cu mare interes.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-30T17:12:38.641995+00:00",
+      "data_afisaj": "30 mai 2026, 20:12"
+    },
+    {
+      "id": "698ef3b611f2",
+      "titlu": "Scoția Învinge Curaçao într-un Amical de Pregătire pentru Cupa Mondială, dar Billy Gilmour se Accidentază",
+      "rezumat": "Naționala Scoției a obținut o victorie cu 4-1 împotriva selecționatei Curaçao într-un meci amical, ultimul pe teren propriu înainte de plecarea la Cupa Mondială din 2026. Lawrence Shankland și Findlay Curtis au fost printre remarcații partidei. Cu toate acestea, antrenorul Steve Clarke și-a exprimat îngrijorarea cu privire la starea de sănătate a mijlocașului Billy Gilmour, care a părăsit terenul accidentat. Accidentarea lui Gilmour ridică semne de întrebare serioase în privința participării sale la turneul final, fiind o lovitură pentru planurile Scoției înaintea competiției majore.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-30T17:12:38.643464+00:00",
+      "data_afisaj": "30 mai 2026, 20:12"
+    },
+    {
+      "id": "eb2fe9654bfd",
+      "titlu": "Kasper Schmeichel Anunță Retragerea din Fotbal la Vârsta de 39 de Ani",
+      "rezumat": "Portarul danez Kasper Schmeichel, fost jucător emblematic al lui Leicester City, a anunțat oficial retragerea sa din activitatea de fotbalist profesionist la vârsta de 39 de ani. Într-un interviu emoționant, Schmeichel a declarat că \"uneori corpul ia deciziile pe care inima nu le poate citi\", indicând că decizia nu a fost una ușoară. Cariera sa impresionantă include câștigarea titlului de Premier League cu Leicester în 2016, o performanță istorică. Retragerea sa marchează sfârșitul unei ere pentru unul dintre cei mai respectați portari ai generației sale, lăsând în urmă o moștenire importantă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-05-30T17:12:38.645205+00:00",
+      "data_afisaj": "30 mai 2026, 20:12"
+    },
     {
       "id": "edae41c0bb79",
       "titlu": "Raheem Sterling, Arestat Sub Suspiciunea de Conducere Sub Influența Drogurilor",
@@ -1073,54 +1123,6 @@
       ],
       "data_publicare": "2026-05-23T17:56:56.296714+00:00",
       "data_afisaj": "23 mai 2026, 20:56"
-    },
-    {
-      "id": "41d4c78358ed",
-      "titlu": "Keir Starmer solicită TNT Sports să transmită gratuit finala Ligii Campionilor",
-      "rezumat": "Prim-ministrul britanic, Sir Keir Starmer, a cerut postului de televiziune TNT Sports să facă disponibilă gratuit finala Ligii Campionilor de sâmbăta viitoare. Meciul, care va opune echipele Arsenal și Paris Saint-Germain, ar trebui să fie accesibil unui public cât mai larg, conform apelului liderului politic. Această solicitare subliniază importanța evenimentului sportiv și dorința de a-l face accesibil tuturor fanilor, indiferent de abonamentele plătite.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-23T17:04:17.840982+00:00",
-      "data_afisaj": "23 mai 2026, 20:04"
-    },
-    {
-      "id": "5566ba0b5578",
-      "titlu": "Oli McBurnie trimite Hull City în Premier League cu un gol în prelungiri",
-      "rezumat": "Oli McBurnie a marcat un gol decisiv în prelungiri, propulsând dramatic echipa Hull City în Premier League. Hull City a învins Middlesbrough cu scorul de 1-0 pe stadionul Wembley, într-o finală de play-off tensionată. Victoria asigură promovarea clubului în eșalonul de elită al fotbalului englez, declanșând sărbătoare în rândul fanilor și al echipei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-23T17:04:17.842532+00:00",
-      "data_afisaj": "23 mai 2026, 20:04"
-    },
-    {
-      "id": "48fb47455e32",
-      "titlu": "Celtic câștigă Cupa Scoției și realizează dubla internă sub conducerea lui Martin O'Neill",
-      "rezumat": "Echipa Celtic a cucerit Cupa Scoției, completând astfel dubla internă sub îndrumarea antrenorului Martin O'Neill. Victoria a fost obținută într-o atmosferă însorită pe stadionul Hampden, consolidând dominația clubului în fotbalul scoțian. Acest succes marchează o performanță remarcabilă pentru Celtic, adăugând un nou trofeu în palmaresul lor și confirmând o strategie de succes.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-23T17:04:17.844246+00:00",
-      "data_afisaj": "23 mai 2026, 20:04"
-    },
-    {
-      "id": "65d27e43f2af",
-      "titlu": "Finala Ligii Campionilor la Fotbal Feminin: Barcelona vs. Lyon, transmisie în direct",
-      "rezumat": "Finala Ligii Campionilor la fotbal feminin dintre Barcelona și OL Lyonnes este în desfășurare, cu startul la ora 17:00 BST pe stadionul Ullevaal din Oslo. Meciul promite o confruntare intensă între două dintre cele mai puternice echipe din Europa. Fanii pot urmări evoluția partidei în timp real, pe măsură ce echipele luptă pentru prestigiosul trofeu european.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-23T17:04:17.845834+00:00",
-      "data_afisaj": "23 mai 2026, 20:04"
     }
   ]
 }
