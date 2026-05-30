@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-29T19:30:08.896831+00:00",
-  "updated_at_afisaj": "29 mai 2026, 22:30",
+  "updated_at": "2026-05-30T09:22:29.850284+00:00",
+  "updated_at_afisaj": "30 mai 2026, 12:22",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,19 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 98,
+  "numar_stiri": 94,
   "stiri": [
+    {
+      "id": "4c7bd1fd2b00",
+      "titlu": "Alphonso Davies, Inclus în Cel Mai Bun Lot al Canadei pentru Cupa Mondială",
+      "rezumat": "Selecționerul Canadei, Jesse Marsch, l-a inclus pe fundașul de la Bayern München, Alphonso Davies, în ceea ce el a descris ca fiind cel mai bun lot al Canadei \"adunat vreodată\" pentru Cupa Mondială din această vară. Prezența lui Davies este crucială pentru ambițiile echipei, care speră să aibă o performanță notabilă la turneul final. Anunțul subliniază încrederea antrenorului în calitatea jucătorilor selecționați.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-30T09:22:29.850060+00:00",
+      "data_afisaj": "30 mai 2026, 12:22"
+    },
     {
       "id": "b19684579045",
       "titlu": "Finala Ligii Campionilor Rămâne Fără Transmisie Gratuită, în Ciuda Presiunilor",
@@ -1077,61 +1088,6 @@
       ],
       "data_publicare": "2026-05-23T17:04:17.845834+00:00",
       "data_afisaj": "23 mai 2026, 20:04"
-    },
-    {
-      "id": "98f5771a66f6",
-      "titlu": "Hull și Middlesbrough se pregătesc pentru o finală unică a play-off-ului",
-      "rezumat": "BBC Sport se uită la finaliștii play-off-urilor din campionat, Hull City și Middlesbrough, după ce pregătirea a fost dominată de Southampton și Spygate.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-23T09:03:26.341423+00:00",
-      "data_afisaj": "23 mai 2026, 12:03"
-    },
-    {
-      "id": "ba3474412c5a",
-      "titlu": "Celtic v Dunfermline: Tot ce trebuie să știți despre finala Cupei Scoției",
-      "rezumat": "Celticul lui Martin O'Neill și Dunfermline Athletic lui Neil Lennon se înfruntă în finala Cupei Scoției de sâmbătă. Iată toate detaliile cheie.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-23T09:03:26.342637+00:00",
-      "data_afisaj": "23 mai 2026, 12:03"
-    },
-    {
-      "id": "213bb4a22295",
-      "titlu": "Romero urmează să fie în Argentina în timp ce Spurs luptă pentru a evita căderea în ultima zi",
-      "rezumat": "Căpitanul lui Tottenham Hotspur, Cristian Romero, este de așteptat să nu participe la ultimul meci al clubului din Premier League al sezonului împotriva lui Everton.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-23T09:03:26.343773+00:00",
-      "data_afisaj": "23 mai 2026, 12:03"
-    },
-    {
-      "id": "b2bfd2cf901a",
-      "titlu": "Kane pe lista scurtă de la Barcelona - bârfa de sâmbătă",
-      "rezumat": "Atacantul Angliei și Bayern Munchen, Harry Kane, este pe lista scurtă a Barcelonei pentru a-l înlocui pe Robert Lewandowski, Manchester United a căzut de acord pentru mijlocașul Atalanta Ederson, în timp ce Liverpool se apropie de atacatorul adolescent columbian Samuel Martinez, plus multe altele.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-23T09:03:26.344817+00:00",
-      "data_afisaj": "23 mai 2026, 12:03"
-    },
-    {
-      "id": "ff360b129c68",
-      "titlu": "Robertson, Dalglish și o legătură specială între Liverpool și Scoția",
-      "rezumat": "Căpitanul Scoției, Andy Robertson, vorbește cu Kelly Cates și cu tatăl ei, Sir Kenny Dalglish, înainte de ultimul său meci pentru Liverpool.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-23T09:03:26.345901+00:00",
-      "data_afisaj": "23 mai 2026, 12:03"
     }
   ]
 }
