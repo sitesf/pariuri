@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-30T09:22:29.850284+00:00",
-  "updated_at_afisaj": "30 mai 2026, 12:22",
+  "updated_at": "2026-05-30T10:00:49.950189+00:00",
+  "updated_at_afisaj": "30 mai 2026, 13:00",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,41 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 94,
+  "numar_stiri": 97,
   "stiri": [
+    {
+      "id": "edae41c0bb79",
+      "titlu": "Raheem Sterling, Arestat Sub Suspiciunea de Conducere Sub Influența Drogurilor",
+      "rezumat": "Fostul internațional englez Raheem Sterling a fost arestat sub suspiciunea de conducere sub influența drogurilor. Informația a fost confirmată de Sky News. Detaliile complete ale incidentului nu au fost încă făcute publice, iar autoritățile continuă investigațiile. Această veste reprezintă un eveniment neașteptat în afara terenului pentru jucătorul de fotbal, care a reprezentat Anglia la nivel internațional.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-30T10:00:49.947537+00:00",
+      "data_afisaj": "30 mai 2026, 13:00"
+    },
+    {
+      "id": "1ef25e1bb5ce",
+      "titlu": "Actualizare Stare de Sănătate Achraf Hakimi Înainte de Finala Ligii Campionilor",
+      "rezumat": "Există îngrijorări semnificative cu privire la starea de sănătate a fundașului dreapta Achraf Hakimi de la Paris Saint-Germain, înaintea finalei Ligii Campionilor. Atât PSG, cât și naționala Marocului, sunt în așteptarea unei decizii finale privind aptitudinea sa de joc. O eventuală absență a lui Hakimi ar reprezenta o lovitură majoră pentru echipa franceză, având în vedere rolul său crucial în defensivă și atac.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-05-30T10:00:49.948914+00:00",
+      "data_afisaj": "30 mai 2026, 13:00"
+    },
+    {
+      "id": "831d835afe38",
+      "titlu": "Viitorul lui Vinicius Jr. Sub Conducerea lui Jose Mourinho la Real Madrid",
+      "rezumat": "Odată cu revenirea lui Jose Mourinho la cârma Real Madrid, una dintre cele mai atent urmărite aspecte va fi modul în care antrenorul portughez va gestiona relația cu atacantul brazilian Vinicius Junior. Relația dintre antrenor și jucătorul cheie va fi crucială pentru performanța echipei în noul mandat al lui Mourinho. Această dinamică va influența strategia și succesul clubului în sezoanele următoare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-30T10:00:49.950171+00:00",
+      "data_afisaj": "30 mai 2026, 13:00"
+    },
     {
       "id": "4c7bd1fd2b00",
       "titlu": "Alphonso Davies, Inclus în Cel Mai Bun Lot al Canadei pentru Cupa Mondială",
