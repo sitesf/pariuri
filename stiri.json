@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-30T17:12:38.645222+00:00",
-  "updated_at_afisaj": "30 mai 2026, 20:12",
+  "updated_at": "2026-05-30T17:59:54.787745+00:00",
+  "updated_at_afisaj": "30 mai 2026, 20:59",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,53 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 97,
+  "numar_stiri": 98,
   "stiri": [
+    {
+      "id": "d31915ea1f0e",
+      "titlu": "Poliția din Budapesta Investigează o Bătălie între Suporteri Înainte de Finala Ligii Campionilor",
+      "rezumat": "Poliția din Budapesta a efectuat arestări și analizează înregistrările camerelor de supraveghere în urma unei bătălii între suporteri, care a avut loc înainte de finala Ligii Campionilor dintre Arsenal și Paris Saint-Germain. Incidentele violente au umbrit atmosfera premergătoare marelui meci, forțele de ordine intervenind pentru a restabili ordinea. Autoritățile locale sunt determinate să identifice și să tragă la răspundere persoanele implicate în altercații, pentru a asigura siguranța publică la evenimentele sportive majore.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-30T17:59:54.783531+00:00",
+      "data_afisaj": "30 mai 2026, 20:59"
+    },
+    {
+      "id": "644a4b4e0eb6",
+      "titlu": "Anthony Gordon S-a Transferat la Barcelona Într-o Afacere de Peste 69 Milioane Lire Sterline",
+      "rezumat": "Atacantul englez Anthony Gordon a fost prezentat oficial la FC Barcelona, după ce a finalizat transferul de la Newcastle United într-o tranzacție evaluată la peste 69,3 milioane de lire sterline. Jucătorul a semnat un contract cu gigantul spaniol până în 2031, declarând că mutarea reprezintă un vis devenit realitate încă din copilărie. Prezentarea sa a fost marcată de entuziasm, Gordon exprimându-și dorința de a contribui la succesul clubului catalan.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-30T17:59:54.784931+00:00",
+      "data_afisaj": "30 mai 2026, 20:59"
+    },
+    {
+      "id": "f11302565483",
+      "titlu": "Antrenorul Brighton, Dario Vidosic, Motivat de o Tragedie Familială în Finala Cupei Angliei la Fotbal Feminin",
+      "rezumat": "Antrenorul principal al echipei feminine Brighton, Dario Vidosic, își conduce echipa spre finala Cupei Angliei împotriva lui Manchester City, la doar patru luni după ce și-a pierdut tatăl. Crescut în Brisbane, Vidosic își amintește cu drag de serile petrecute alături de tatăl său, Rado, urmărind finale pe Wembley. Tragedia personală a adăugat o motivație suplimentară pentru Vidosic și echipa sa, care speră să aducă trofeul acasă în memoria tatălui său.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-30T17:59:54.786369+00:00",
+      "data_afisaj": "30 mai 2026, 20:59"
+    },
+    {
+      "id": "5c73935acc30",
+      "titlu": "Impresarul lui Kennedy Boateng, Negocieri cu Gigi Becali: „N-a Semnat cu Alt Club!”",
+      "rezumat": "Într-o evoluție surprinzătoare pe piața transferurilor din România, impresarul fundașului Kennedy Boateng a inițiat discuții cu Gigi Becali, patronul FCSB. Declarația conform căreia jucătorul nu a semnat încă cu niciun alt club deschide posibilitatea unui transfer la echipa bucureșteană. Această veste vine ca o \"lovitură de teatru\" și ar putea influența semnificativ strategia de mercato a FCSB, care caută să-și întărească lotul pentru viitoarele competiții.",
+      "categorie": "Fotbal",
+      "surse": [
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-05-30T17:59:54.787726+00:00",
+      "data_afisaj": "30 mai 2026, 20:59"
+    },
     {
       "id": "5e1ba1d09a04",
       "titlu": "Liverpool îl demite pe Arne Slot; Andoni Iraola, principalul favorit pentru înlocuire",
@@ -1089,40 +1134,6 @@
       ],
       "data_publicare": "2026-05-24T09:23:06.330170+00:00",
       "data_afisaj": "24 mai 2026, 12:23"
-    },
-    {
-      "id": "6d31b9d9751c",
-      "titlu": "Charlton Athletic Promovează în Women's Super League După O Serie de Penaltiuri Decisivă",
-      "rezumat": "Portarul Sophie Whitehouse a fost eroina echipei Charlton Athletic, salvând patru penaltiuri în finala play-off-ului pentru promovarea în Women's Super League. Charlton a învins Leicester, asigurându-și astfel un loc în prima ligă feminină pentru prima dată în istoria clubului. Victoria a venit după un meci tensionat și o serie dramatică de penaltiuri, în care Whitehouse a demonstrat o performanță excepțională, chiar și după ce sticla sa cu notițe a fost aruncată în tribune de portarul advers, fiind recuperată la timp.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-23T17:56:56.291272+00:00",
-      "data_afisaj": "23 mai 2026, 20:56"
-    },
-    {
-      "id": "3b2a6f9be306",
-      "titlu": "Echipa Nord-Coreeană Naegohyang Câștigă Liga Campionilor Asiei la Fotbal Feminin",
-      "rezumat": "Echipa nord-coreeană Naegohyang a scris istorie, traversând granița în Coreea de Sud pentru a câștiga finala Ligii Campionilor Asiei la Fotbal Feminin. Victoria marchează un moment semnificativ pentru club și pentru fotbalul feminin din regiune, demonstrând performanța remarcabilă a echipei într-o competiție continentală. Succesul vine după o campanie impresionantă, culminând cu triumful în finala disputată pe teren sud-coreean, unde au devenit campioane asiatice.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-23T17:56:56.294074+00:00",
-      "data_afisaj": "23 mai 2026, 20:56"
-    },
-    {
-      "id": "a72b8c042472",
-      "titlu": "Jucătorii din R.D. Congo, Plasați în Izolare Înainte de Cupa Mondială din Cauza Ebola",
-      "rezumat": "Lotul Republicii Democrate Congo pentru Cupa Mondială a fost instruit să intre în izolare pentru 21 de zile înainte de a putea intra în Statele Unite, din cauza focarului de Ebola. Această măsură preventivă este impusă pentru a asigura siguranța sanitară a tuturor participanților la turneu și a respecta protocoalele internaționale de sănătate publică. Decizia subliniază provocările logistice și medicale cu care se confruntă echipele în contextul evenimentelor sportive majore, afectând pregătirea.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-23T17:56:56.296714+00:00",
-      "data_afisaj": "23 mai 2026, 20:56"
     }
   ]
 }
