@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-30T17:59:54.787745+00:00",
-  "updated_at_afisaj": "30 mai 2026, 20:59",
+  "updated_at": "2026-05-31T09:48:35.641897+00:00",
+  "updated_at_afisaj": "31 mai 2026, 12:48",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,54 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 98,
+  "numar_stiri": 97,
   "stiri": [
+    {
+      "id": "84a94b247e1d",
+      "titlu": "PSG Câștigă Liga Campionilor la Fotbal, Învingând Arsenal la Loviturile de Departajare",
+      "rezumat": "Paris Saint-Germain a reușit să-și păstreze titlul în Liga Campionilor, învingând echipa Arsenal într-o finală dramatică decisă la loviturile de departajare. Meciul, care a avut loc la Budapesta, a fost unul echilibrat, cu ambele echipe luptând pentru supremație. Victoria marchează al doilea succes consecutiv al parizienilor în cea mai prestigioasă competiție europeană inter-cluburi, consolidându-le poziția în elita fotbalului continental. Pentru Arsenal, înfrângerea reprezintă o dezamăgire majoră după un parcurs remarcabil până în finală.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-31T09:48:35.637436+00:00",
+      "data_afisaj": "31 mai 2026, 12:48"
+    },
+    {
+      "id": "fb67ae107211",
+      "titlu": "Sute de Persoane Arestate în Franța După Sărbătorile Ligii Campionilor",
+      "rezumat": "Sute de persoane au fost arestate în Franța în urma unor incidente izbucnite pe fondul sărbătorilor pentru victoria echipei Paris Saint-Germain în finala Ligii Campionilor. Mii de ofițeri de poliție au intervenit pentru a calma mulțimile de fani, dintre care unii au folosit torțe, în timp ce celebrau succesul echipei lor împotriva lui Arsenal. Autoritățile au raportat tulburări și acte de vandalism în mai multe orașe, necesitând o intervenție amplă pentru restabilirea ordinii publice.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-05-31T09:48:35.638670+00:00",
+      "data_afisaj": "31 mai 2026, 12:48"
+    },
+    {
+      "id": "6bc67c55d712",
+      "titlu": "Sezonul Dificil al lui Liverpool, Marcat de Tragedia Dispariției lui Jota",
+      "rezumat": "Sezonul echipei Liverpool a fost profund afectat de o tragedie personală, moartea atacantului Jota, care a decedat într-un accident rutier în iulie 2025, în timp ce se întorcea din Portugalia. Această pierdere devastatoare, survenită la doar 11 zile după nunta sa, a marcat un declin dramatic în performanțele echipei sub conducerea antrenorului Arne Slot. Deși inițial echipa a avut un start promițător, tragedia a creat o atmosferă de doliu și a contribuit la un sezon plin de dificultăți și rezultate sub așteptări.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-31T09:48:35.640574+00:00",
+      "data_afisaj": "31 mai 2026, 12:48"
+    },
+    {
+      "id": "497d9d0dd077",
+      "titlu": "Canada Anunță Lotul pentru Cupa Mondială, Mizând pe Sănătate, Viteză și Încredere",
+      "rezumat": "Selecționerul Canadei, Jesse Marsch, a anunțat lotul de 26 de jucători pentru Cupa Mondială, punând accent pe sănătatea fizică, viteza jucătorilor și încrederea în potențialul echipei. Deciziile finale au fost influențate de accidentări de ultim moment, dar Marsch este convins că a asamblat cel mai puternic lot pe care Canada l-a avut vreodată. Obiectivul este de a obține o performanță notabilă pe teren propriu, în contextul în care Canada este una dintre țările gazdă ale turneului din 2026.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-31T09:48:35.641883+00:00",
+      "data_afisaj": "31 mai 2026, 12:48"
+    },
     {
       "id": "d31915ea1f0e",
       "titlu": "Poliția din Budapesta Investigează o Bătălie între Suporteri Înainte de Finala Ligii Campionilor",
@@ -1079,61 +1125,6 @@
       ],
       "data_publicare": "2026-05-24T09:53:35.253453+00:00",
       "data_afisaj": "24 mai 2026, 12:53"
-    },
-    {
-      "id": "1a057f5dce41",
-      "titlu": "Harry Kane Marchează un Hat-trick, Bayern Munchen Realizează Dubla Internă",
-      "rezumat": "Harry Kane a marcat un hat-trick decisiv în finala Cupei Germaniei (DFB-Pokal), ajutând-o pe Bayern Munchen să învingă campioana en-titre Stuttgart cu 3-0. Această victorie le-a asigurat bavarezilor o nouă dublă internă sâmbătă. Golurile lui Kane din a doua repriză au declanșat sărbătoarea fanilor Bayern, care s-au alăturat rivalilor din Stuttgart în protestele împotriva federației germane de fotbal (DFB) pentru o creștere planificată a măsurilor de securitate.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-24T09:23:06.323956+00:00",
-      "data_afisaj": "24 mai 2026, 12:23"
-    },
-    {
-      "id": "78401f9e7648",
-      "titlu": "Girona Retrogradează din La Liga, la un An După Participarea în Liga Campionilor",
-      "rezumat": "Echipa spaniolă Girona a retrogradat din La Liga, o veste surprinzătoare având în vedere că formația a evoluat în Liga Campionilor în sezonul precedent. Această cădere rapidă subliniază dificultățile de menținere la cel mai înalt nivel în fotbalul european, chiar și pentru echipele care au avut performanțe notabile recent. Situația clubului va fi reevaluată pentru a pregăti revenirea în prima divizie.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-24T09:23:06.325591+00:00",
-      "data_afisaj": "24 mai 2026, 12:23"
-    },
-    {
-      "id": "57c05f20a621",
-      "titlu": "Pep Guardiola Nu Exclude Posibilitatea de a Antrena Naționala Angliei",
-      "rezumat": "Pep Guardiola, antrenorul care părăsește Manchester City, a declarat că nu are planuri concrete pentru viitor, dar a lăsat deschisă posibilitatea de a prelua conducerea naționalei Angliei. Tehnicianul spaniol, în vârstă de 55 de ani, intenționează să ia o pauză de la antrenorat, dar nu a exclus o viitoare implicare la nivel internațional, o decizie care ar putea schimba peisajul fotbalistic englez și ar stârni un interes uriaș.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-24T09:23:06.327119+00:00",
-      "data_afisaj": "24 mai 2026, 12:23"
-    },
-    {
-      "id": "74a59c8a65e6",
-      "titlu": "Mauricio Pochettino, Deschis la o Revenire la Tottenham Hotspur",
-      "rezumat": "Mauricio Pochettino a declarat că Tottenham Hotspur se simte ca acasă pentru el și că ar fi deschis să se întoarcă la club dacă condițiile ar fi potrivite. Antrenorul argentinian, care a părăsit echipa din nordul Londrei în noiembrie 2019, a făcut această declarație sinceră, alimentând speculațiile privind o posibilă a doua perioadă la cârma clubului. Fanii așteaptă cu interes evoluția situației.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-05-24T09:23:06.328522+00:00",
-      "data_afisaj": "24 mai 2026, 12:23"
-    },
-    {
-      "id": "d0eef976f815",
-      "titlu": "Miză Colosală pentru Tottenham și West Ham în Lupta pentru Evitarea Retrogradării",
-      "rezumat": "Miza este extrem de mare pentru Tottenham și West Ham, care se confruntă într-o luptă decisivă pentru evitarea retrogradării din Premier League. Ambele echipe se află într-o situație critică, iar rezultatul confruntării lor va determina soarta în privința menținerii în prima ligă. Presiunea este imensă, iar fiecare punct contează în această etapă crucială a sezonului, promițând un final de campionat plin de tensiune.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-24T09:23:06.330170+00:00",
-      "data_afisaj": "24 mai 2026, 12:23"
     }
   ]
 }
