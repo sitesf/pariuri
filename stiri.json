@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-31T17:11:04.523379+00:00",
-  "updated_at_afisaj": "31 mai 2026, 20:11",
+  "updated_at": "2026-05-31T17:56:19.662166+00:00",
+  "updated_at_afisaj": "31 mai 2026, 20:56",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,53 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 101,
+  "numar_stiri": 102,
   "stiri": [
+    {
+      "id": "0100c89de90a",
+      "titlu": "Manchester City Câștigă Finala Cupei Angliei la Fotbal Feminin și Realizează Dubla Domestică",
+      "rezumat": "Manchester City a obținut a patra Cupă a Angliei la fotbal feminin și a completat dubla domestică, învingând Brighton cu un scor categoric de 4-0 pe stadionul Wembley. Khadija Shaw a marcat un gol, sărbătorind astfel noul său contract. Echipa a demonstrat o eficiență clinică în fața porții, oferind o lecție dură adversarelor despre importanța concretizării ocaziilor într-o finală, chiar dacă Brighton a avut momente bune de joc. Această victorie subliniază dominația echipei în fotbalul feminin englez.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-31T17:56:19.657333+00:00",
+      "data_afisaj": "31 mai 2026, 20:56"
+    },
+    {
+      "id": "093fd04eaff6",
+      "titlu": "Ibrahima Konate Își Exprimă Regretul După Plecarea de la Liverpool",
+      "rezumat": "Fundașul francez Ibrahima Konate a declarat că va părăsi clubul Liverpool cu \"amintiri pe viață\", după ce a experimentat \"momente de glorie și dificultăți\" în perioada petrecută pe Anfield. Plecarea sa marchează sfârșitul unei etape importante pentru jucător, care a contribuit la parcursul echipei în diverse competiții. Declarația sa subliniază legătura emoțională creată cu clubul și suporterii, reflectând complexitatea tranzițiilor în cariera unui fotbalist de top.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-31T17:56:19.659461+00:00",
+      "data_afisaj": "31 mai 2026, 20:56"
+    },
+    {
+      "id": "9b069f290288",
+      "titlu": "Țara Galilor Îl Convoacă pe Tânărul Fundaș de la Leeds, Jayden Lienou",
+      "rezumat": "Jayden Lienou, tânărul fundaș stânga de la Leeds United, a fost convocat pentru prima dată la echipa națională de seniori a Țării Galilor. Acesta va participa la meciurile amicale împotriva Ghanei și României, oferindu-i o oportunitate importantă de a se afirma pe scena internațională. Convocarea reprezintă o recunoaștere a performanțelor sale la nivel de club și indică o posibilă nouă generație de talente pentru naționala galeză, care își propune să construiască o echipă competitivă pentru viitor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-31T17:56:19.660765+00:00",
+      "data_afisaj": "31 mai 2026, 20:56"
+    },
+    {
+      "id": "601bdfef327b",
+      "titlu": "Mauricio Pochettino: Lionel Messi Este Fundamental pentru Creșterea Fotbalului în SUA",
+      "rezumat": "Mauricio Pochettino a subliniat rolul esențial al lui Lionel Messi în dezvoltarea fotbalului în Statele Unite. Antrenorul argentinian a declarat că Messi a devenit un \"etalon\" pentru adversarii din MLS, forțându-i să înțeleagă ce înseamnă cu adevărat să concurezi la cel mai înalt nivel. De la sosirea sa la Inter Miami în 2023, Messi a avut un impact semnificativ, ridicând standardele și vizibilitatea ligii americane, atrăgând o atenție globală fără precedent asupra campionatului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-05-31T17:56:19.662151+00:00",
+      "data_afisaj": "31 mai 2026, 20:56"
+    },
     {
       "id": "34e39fb6bc9b",
       "titlu": "Liverpool Începe Negocierile Oficiale cu Andoni Iraola",
@@ -1134,42 +1179,6 @@
       ],
       "data_publicare": "2026-05-25T11:13:30.769699+00:00",
       "data_afisaj": "25 mai 2026, 14:13"
-    },
-    {
-      "id": "e4f9ce43ed7a",
-      "titlu": "Tottenham Hotspur Își Asigură Rămânerea în Premier League",
-      "rezumat": "Tottenham Hotspur și-a garantat statutul în Premier League printr-o victorie cu 1-0 în ultima etapă împotriva lui Everton. Golul marcat de Joao Palhinha în prima repriză a fost suficient pentru a asigura supraviețuirea echipei în prima ligă engleză. Acest rezultat pune capăt unei perioade de incertitudine pentru clubul londonez, care a evitat retrogradarea.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-24T17:55:11.736654+00:00",
-      "data_afisaj": "24 mai 2026, 20:55"
-    },
-    {
-      "id": "88a917603ab4",
-      "titlu": "Bolton Promovează în Championship După O Victorie Dramatică",
-      "rezumat": "Bolton Wanderers a obținut promovarea în Championship, revenind în eșalonul secund după o absență din 2019. Victoria a venit în urma unui gol spectaculos marcat de Sam Dalby în minutul 81, printr-o execuție de tip foarfecă, în finala play-off-ului împotriva lui Stockport County. Această performanță marchează o revenire importantă pentru club, după ani de dificultăți.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-24T17:55:11.738036+00:00",
-      "data_afisaj": "24 mai 2026, 20:55"
-    },
-    {
-      "id": "4c90dfdc7a0b",
-      "titlu": "Liverpool Se Califică în Liga Campionilor, Salah Își Ia Rămas Bun de la Anfield",
-      "rezumat": "Liverpool a reușit să obțină calificarea în Liga Campionilor, la un an după ce a câștigat titlul. Echipa a încheiat sezonul cu o remiză 1-1 împotriva lui Brentford, într-o zi marcată de momente emoționante pe Anfield. Mohamed Salah și Andy Robertson și-au luat rămas bun de la fani, într-o atmosferă încărcată de emoție la finalul partidei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football",
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-24T17:55:11.739575+00:00",
-      "data_afisaj": "24 mai 2026, 20:55"
     }
   ]
 }
