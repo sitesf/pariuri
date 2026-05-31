@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-31T10:15:38.659476+00:00",
-  "updated_at_afisaj": "31 mai 2026, 13:15",
+  "updated_at": "2026-05-31T17:11:04.523379+00:00",
+  "updated_at_afisaj": "31 mai 2026, 20:11",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,55 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 100,
+  "numar_stiri": 101,
   "stiri": [
+    {
+      "id": "34e39fb6bc9b",
+      "titlu": "Liverpool Începe Negocierile Oficiale cu Andoni Iraola",
+      "rezumat": "Clubul Liverpool va demara discuții oficiale cu Andoni Iraola în această săptămână, având în vedere posibilitatea ca acesta să devină noul antrenor principal. Iraola este considerat principalul favorit pentru a prelua banca tehnică a echipei, după plecarea precedentului antrenor. Această mutare indică o etapă decisivă în procesul de selecție a noului lider al băncii tehnice de pe Anfield, cu scopul de a pregăti echipa pentru viitorul sezon și de a readuce clubul în topul performanțelor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-31T17:11:04.518250+00:00",
+      "data_afisaj": "31 mai 2026, 20:11"
+    },
+    {
+      "id": "25b6cb7595dd",
+      "titlu": "Luca Zidane și Riyad Mahrez, Incluși în Lotul Algeriei pentru Cupa Mondială",
+      "rezumat": "Luca Zidane, fiul legendarului Zinedine Zidane, a fost convocat în lotul naționalei Algeriei pentru viitoarea Cupă Mondială. Alături de el, starul Riyad Mahrez se numără, de asemenea, printre jucătorii selecționați. Această decizie marchează o prezență notabilă pentru fiul fostului mare fotbalist francez, care va reprezenta Algeria la cel mai important turneu internațional. Selecția subliniază strategia antrenorului de a combina experiența cu talente noi pentru competiția globală, sperând la o performanță solidă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-31T17:11:04.519650+00:00",
+      "data_afisaj": "31 mai 2026, 20:11"
+    },
+    {
+      "id": "8066a33dfd10",
+      "titlu": "Sute de Mii de Fani Arsenal Sărbătoresc Titlul în Premier League pe Străzile Londrei",
+      "rezumat": "Sute de mii de suporteri ai echipei Arsenal au ieșit pe străzile Londrei pentru a celebra câștigarea titlului în Premier League. Această sărbătoare vine după o așteptare de 22 de ani pentru fanii 'Tunarilor', care au transformat orașul într-o mare de roșu și alb. Parada cu autocarul descoperit a marcat un moment istoric pentru club și a oferit suporterilor ocazia de a-și arăta entuziasmul și loialitatea față de echipa lor, după un sezon plin de emoții și performanțe remarcabile, culminând cu succesul mult-așteptat.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-31T17:11:04.521884+00:00",
+      "data_afisaj": "31 mai 2026, 20:11"
+    },
+    {
+      "id": "e58673db2a4a",
+      "titlu": "Uruguay Îl Convoacă pe Manuel Ugarte, dar Îl Omit pe Luis Suárez din Lotul pentru Cupa Mondială",
+      "rezumat": "Naționala Uruguayului l-a inclus pe mijlocașul lui Manchester United, Manuel Ugarte, în lotul său pentru Cupa Mondială. Cu toate acestea, veteranul atacant Luis Suárez nu a fost convocat, o decizie surprinzătoare pentru mulți. Absența lui Suárez marchează o schimbare de generație în echipa națională, antrenorul optând pentru o abordare mai tânără. Includerea lui Ugarte subliniază încrederea în talentul său și în capacitatea sa de a contribui la performanța echipei la turneul final, în timp ce Suárez își încheie probabil cariera internațională la nivel înalt.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-31T17:11:04.523365+00:00",
+      "data_afisaj": "31 mai 2026, 20:11"
+    },
     {
       "id": "24c595d4b377",
       "titlu": "Tyler Fletcher, Convocat în Lotul Scoției pentru Cupa Mondială, Îl Înlocuiește pe Billy Gilmour",
@@ -1123,41 +1170,6 @@
       ],
       "data_publicare": "2026-05-24T17:55:11.739575+00:00",
       "data_afisaj": "24 mai 2026, 20:55"
-    },
-    {
-      "id": "4e3061d4121e",
-      "titlu": "Miza Ultimei Etape a Sezonului din Premier League",
-      "rezumat": "Echipa \"Ask Me Anything\" de la BBC Sport detaliază implicațiile și obiectivele pentru ultima zi a sezonului 2025-26 din Premier League. Cu titlul deja decis, atenția se îndreaptă către locurile de calificare în competițiile europene și lupta pentru evitarea retrogradării, unde mai multe echipe sunt încă în joc. Fanii anticipează o zi plină de dramatism și rezultate surprinzătoare, care vor decide soarta cluburilor pentru sezonul următor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-24T17:06:56.294148+00:00",
-      "data_afisaj": "24 mai 2026, 20:06"
-    },
-    {
-      "id": "bd5afbdd8e65",
-      "titlu": "Mohamed Salah Părăsește Liverpool, O Eră Majoră Se Încheie",
-      "rezumat": "Perioada lui Mohamed Salah la Liverpool ajunge la final, marcând încheierea unei ere de succes pentru \"Regele Egiptean\" pe Anfield. Plecarea sa vine după ani de performanțe remarcabile, în care a devenit unul dintre cei mai prolifici marcatori și o figură emblematică a clubului. Articolul analizează moștenirea lăsată de Salah, incluzând perspective de la Jurgen Klopp, Ian Rush și Steven Gerrard, evidențiind impactul său profund asupra echipei și a fanilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-24T17:06:56.296360+00:00",
-      "data_afisaj": "24 mai 2026, 20:06"
-    },
-    {
-      "id": "e0bf7b541abe",
-      "titlu": "Max Dowman Devine Cel Mai Tânăr Titular din Istoria Premier League",
-      "rezumat": "Max Dowman a intrat în istoria Premier League, devenind cel mai tânăr jucător care începe un meci în această competiție. La vârsta de doar 16 ani și 144 de zile, tânărul fotbalist a debutat ca titular, stabilind un nou record de precocitate. Această performanță subliniază potențialul său excepțional și deschide noi perspective pentru cariera sa în fotbalul de elită.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-24T17:06:56.297458+00:00",
-      "data_afisaj": "24 mai 2026, 20:06"
     }
   ]
 }
