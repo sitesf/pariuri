@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-31T09:48:35.641897+00:00",
-  "updated_at_afisaj": "31 mai 2026, 12:48",
+  "updated_at": "2026-05-31T10:15:38.659476+00:00",
+  "updated_at_afisaj": "31 mai 2026, 13:15",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,52 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 97,
+  "numar_stiri": 100,
   "stiri": [
+    {
+      "id": "24c595d4b377",
+      "titlu": "Tyler Fletcher, Convocat în Lotul Scoției pentru Cupa Mondială, Îl Înlocuiește pe Billy Gilmour",
+      "rezumat": "Adolescentul Tyler Fletcher, de la Manchester United, a fost selecționat în ultimul moment pentru a se alătura lotului Scoției pentru Cupa Mondială, înlocuindu-l pe Billy Gilmour. Mijlocașul Billy Gilmour a fost exclus din turneu după ce a suferit o accidentare la genunchi în timpul victoriei amicale a Scoției cu 4-1 împotriva echipei Curaçao. Această schimbare oferă o șansă neașteptată tânărului Fletcher de a participa la o competiție majoră, reprezentând o oportunitate importantă pentru cariera sa.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-05-31T10:15:38.655134+00:00",
+      "data_afisaj": "31 mai 2026, 13:15"
+    },
+    {
+      "id": "0456dcb5516f",
+      "titlu": "Rinat Akhmetov, Proprietarul lui Șahtior Donețk, Vorbește Despre Război și Viitorul Clubului",
+      "rezumat": "Rinat Akhmetov, cel mai bogat om din Ucraina și proprietarul clubului de fotbal Șahtior Donețk, a acordat un interviu rar în care a discutat despre impactul războiului asupra țării sale și a clubului. Acesta a relatat o experiență personală dramatică, afirmând că a fost la cinci secunde de moarte în timpul unui atac aerian asupra Kievului. Akhmetov a subliniat importanța fotbalului în contextul rezistenței Ucrainei și și-a exprimat optimismul cu privire la viitor, în ciuda provocărilor continue și a situației dificile din regiune.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-05-31T10:15:38.656659+00:00",
+      "data_afisaj": "31 mai 2026, 13:15"
+    },
+    {
+      "id": "cc7e76487616",
+      "titlu": "Ascensiunea Rapidă a lui Igor Thiago, de la Brazilia la Premier League",
+      "rezumat": "Igor Thiago a avut o ascensiune fulminantă, trecând de la ligile inferioare ale fotbalului brazilian la statutul de golgheter în Premier League, cu o posibilă convocare la Cupa Mondială în viitor. Clubul său, Brentford, este recunoscut pentru strategia sa de planificare a succesiunii, având capacitatea de a identifica și dezvolta talente brute. Povestea lui Thiago este un exemplu elocvent al acestei abordări, demonstrând cum un jucător poate ajunge la cel mai înalt nivel al fotbalului european prin muncă asiduă și oportunități bine gestionate.",
+      "categorie": "Fotbal",
+      "surse": [
+        "World Soccer"
+      ],
+      "data_publicare": "2026-05-31T10:15:38.657996+00:00",
+      "data_afisaj": "31 mai 2026, 13:15"
+    },
+    {
+      "id": "66f2845a0676",
+      "titlu": "Finala Cupei Campionilor CONCACAF 2026: Duel Mexican Între Deportivo Toluca și Tigres UANL",
+      "rezumat": "Finala Cupei Campionilor CONCACAF din 2026 va aduce față în față două echipe mexicane de top, Deportivo Toluca și Tigres UANL. Această confruntare integral mexicană va decide campioana regională și este un eveniment major în calendarul fotbalistic al Americii de Nord, Centrale și Caraibe. Meciul promite o luptă intensă pentru trofeu, atrăgând atenția fanilor din întreaga lume, care vor putea urmări spectacolul fotbalistic și vor fi martorii unei dispute pasionante pentru supremația continentală.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-05-31T10:15:38.659458+00:00",
+      "data_afisaj": "31 mai 2026, 13:15"
+    },
     {
       "id": "84a94b247e1d",
       "titlu": "PSG Câștigă Liga Campionilor la Fotbal, Învingând Arsenal la Loviturile de Departajare",
@@ -1114,17 +1158,6 @@
       ],
       "data_publicare": "2026-05-24T17:06:56.297458+00:00",
       "data_afisaj": "24 mai 2026, 20:06"
-    },
-    {
-      "id": "e7cab41d511f",
-      "titlu": "Bolton Wanderers și Stockport County se luptă pentru promovarea în eșalonul secund",
-      "rezumat": "Bolton Wanderers și Stockport County se pregătesc pentru finala play-off-ului League One, programată duminică pe Wembley. Ambele echipe își propun să pună capăt perioadei petrecute în al treilea eșalon al fotbalului englez și să obțină promovarea în Championship. Meciul reprezintă o miză importantă pentru ambele cluburi, care speră să revină în ligile superioare după o absență îndelungată.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-24T09:53:35.253453+00:00",
-      "data_afisaj": "24 mai 2026, 12:53"
     }
   ]
 }
