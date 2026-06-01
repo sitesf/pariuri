@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-01T20:19:51.617486+00:00",
-  "updated_at_afisaj": "1 iunie 2026, 23:19",
+  "updated_at": "2026-06-01T20:52:28.193612+00:00",
+  "updated_at_afisaj": "1 iunie 2026, 23:52",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 98,
+  "numar_stiri": 103,
   "stiri": [
+    {
+      "id": "f135ce4e69ec",
+      "titlu": "DECLARAȚII Lui Florin Pîrvu i-au dat lacrimile după ce a promovat în Superliga la 2 ani de la decesul soției: „M-a ajutat de sus”",
+      "rezumat": "(rezumat indisponibil)",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-06-01T20:52:04.473448+00:00",
+      "data_afisaj": "1 iunie 2026, 23:52"
+    },
+    {
+      "id": "1046ee5b2b44",
+      "titlu": "Ochiul Arsenal Kroupi & Rogers - și o nouă afacere Arteta",
+      "rezumat": "După mult așteptata câștigare a titlului în Premier League, corespondentul senior de fotbal Sami Mokbel evaluează lista de sarcini a lui Arsenal pentru această vară.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-01T20:52:04.474770+00:00",
+      "data_afisaj": "1 iunie 2026, 23:52"
+    },
+    {
+      "id": "bda3bd2d29e4",
+      "titlu": "— Ești legendă. Antrenorului i-a plăcut' - a dezvăluit WhatsApp-urile Spygate de la Southampton",
+      "rezumat": "Noile mesaje WhatsApp au dezvăluit cum Southampton a orchestrat o campanie de spionaj împotriva rivalilor lor din campionat.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-01T20:52:04.476091+00:00",
+      "data_afisaj": "1 iunie 2026, 23:52"
+    },
+    {
+      "id": "14826d360208",
+      "titlu": "Chelsea respinge abordările pentru Acheampong",
+      "rezumat": "Chelsea respinge multiple abordări pentru tânărul fundaș promițător Josh Acheampong, pe care clubul îl consideră unul dintre „de neatins”.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-01T20:52:04.477229+00:00",
+      "data_afisaj": "1 iunie 2026, 23:52"
+    },
+    {
+      "id": "57bf245b701e",
+      "titlu": "Ambii rivali prezidențiali de la Fenerbahce își doresc Greenwood",
+      "rezumat": "Fostul atacant Angliei și Manchester United, Mason Greenwood, este o țintă cheie a transferurilor pentru ambii candidați la președinție ai lui Fenerbahce",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-01T20:52:04.478391+00:00",
+      "data_afisaj": "1 iunie 2026, 23:52"
+    },
     {
       "id": "71e7300068f9",
       "titlu": "Chelsea o semnează pe McCabe după plecarea de la Arsenal",
