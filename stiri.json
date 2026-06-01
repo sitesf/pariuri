@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-01T12:41:18.631483+00:00",
-  "updated_at_afisaj": "1 iunie 2026, 15:41",
+  "updated_at": "2026-06-01T13:39:43.293100+00:00",
+  "updated_at_afisaj": "1 iunie 2026, 16:39",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,68 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 97,
+  "numar_stiri": 102,
   "stiri": [
+    {
+      "id": "18d88d185915",
+      "titlu": "Milner, deținător de record, se retrage după o carieră de 24 de ani",
+      "rezumat": "Fostul internațional englez James Milner își anunță retragerea după o carieră de 24 de ani în Premier League.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-01T13:39:30.677308+00:00",
+      "data_afisaj": "1 iunie 2026, 16:39"
+    },
+    {
+      "id": "41809cd2584c",
+      "titlu": "Keegan dezvăluie diagnosticul de cancer în stadiul patru",
+      "rezumat": "Fostul căpitan și antrenor al Angliei, Kevin Keegan, dezvăluie că are cancer în stadiul patru.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-06-01T13:39:30.678008+00:00",
+      "data_afisaj": "1 iunie 2026, 16:39"
+    },
+    {
+      "id": "55afbd259f8e",
+      "titlu": "Cupa Mondială 2026: un ghid vizual al stadioanelor din cele trei națiuni gazdă",
+      "rezumat": "Tot ce trebuie să știi despre cele 16 stadioane gazdă din SUA, Mexic și Canada. Cupa Mondială din 2026 este cel mai mare turneu din istorie și, ca atare, implică mai multe stadioane în mai multe țări decât oricând. Un total de 16 locații vor găzdui marile meciuri din această vară, iar fiecare are o poveste de spus despre trecutul, prezentul și viitorul sportului în orașul său. Numele stadioanelor pot părea necunoscute, deoarece folosim numele aprobate de Fifa în loc de numele sponsorizate care contravin regulilor organismului de conducere.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-01T13:39:30.678732+00:00",
+      "data_afisaj": "1 iunie 2026, 16:39"
+    },
+    {
+      "id": "5b7f9d0dcb33",
+      "titlu": "TENIS Cine transmite la TV Sorana Cîrstea – Mirra Andreeva. Meciul din sferturile Roland Garros e marți, 2 iunie 2026, de la ora 12:00",
+      "rezumat": "(rezumat indisponibil)",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-06-01T13:39:30.679660+00:00",
+      "data_afisaj": "1 iunie 2026, 16:39"
+    },
+    {
+      "id": "c1fc91b193d7",
+      "titlu": "De ce Liverpool îl vrea pe Iraola și ce ar putea aduce el pe Anfield",
+      "rezumat": "De ce Liverpool crede că Andoni Iraola este omul potrivit pentru a restabili statutul „Cormoranilor” ca unul dintre cele mai bune cluburi din Europa.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-01T13:39:30.680331+00:00",
+      "data_afisaj": "1 iunie 2026, 16:39"
+    },
     {
       "id": "9f0d83c1e3f0",
       "titlu": "James Milner Se Retrage Din Fotbal După O Carieră De 24 De Ani",
