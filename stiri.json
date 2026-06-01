@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-01T13:39:43.293100+00:00",
-  "updated_at_afisaj": "1 iunie 2026, 16:39",
+  "updated_at": "2026-06-01T20:19:51.617486+00:00",
+  "updated_at_afisaj": "1 iunie 2026, 23:19",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,68 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 102,
+  "numar_stiri": 98,
   "stiri": [
+    {
+      "id": "71e7300068f9",
+      "titlu": "Chelsea o semnează pe McCabe după plecarea de la Arsenal",
+      "rezumat": "Chelsea confirmă semnarea căpitanului Republicii Irlanda, Katie McCabe, după plecarea ei de la Arsenal.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-01T20:19:45.045786+00:00",
+      "data_afisaj": "1 iunie 2026, 23:19"
+    },
+    {
+      "id": "9507b96a09ea",
+      "titlu": "Earps & Leon gata să se alăture echipei London City Lionesses",
+      "rezumat": "Fosta portăriță a Angliei, Mary Earps, și fundașul Spaniei, Mapi Leon, sunt pe punctul de a se alătura echipei London City Lionesses în această vară.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-06-01T20:19:45.046687+00:00",
+      "data_afisaj": "1 iunie 2026, 23:19"
+    },
+    {
+      "id": "f308e5561552",
+      "titlu": "Rodri își va rezolva viitorul la Man City după Cupa Mondială",
+      "rezumat": "Mijlocașul lui Manchester City, Rodri, spune că va aștepta până după Cupa Mondială pentru a-și rezolva viitorul la club, pe fondul legăturilor cu Real Madrid.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-01T20:19:45.047563+00:00",
+      "data_afisaj": "1 iunie 2026, 23:19"
+    },
+    {
+      "id": "54a8472d4026",
+      "titlu": "Ghidul echipei Curaçao pentru Cupa Mondială 2026",
+      "rezumat": "Cea mai mică națiune care a ajuns la o Cupă Mondială va fi ghidată de cel mai în vârstă antrenor, Dick Advocaat. Acest articol face parte din Rețeaua de Experți a Cupei Mondiale 2026 a Guardian, o cooperare între unele dintre cele mai bune organizații media din cele 48 de țări calificate. theguardian.com publică previzualizări din trei țări în fiecare zi, în perioada premergătoare începerii turneului pe 11 iunie. Continuă să citești...",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-01T20:19:45.048382+00:00",
+      "data_afisaj": "1 iunie 2026, 23:19"
+    },
+    {
+      "id": "17e9fc168ea6",
+      "titlu": "🚨 FC Voluntari – FC Hermannstadt 3-0. Ilfovenii au promovat în Superliga! Echipa lui Dorinel Munteanu a retrogradat",
+      "rezumat": "(rezumat indisponibil)",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-06-01T20:19:45.049493+00:00",
+      "data_afisaj": "1 iunie 2026, 23:19"
+    },
     {
       "id": "18d88d185915",
       "titlu": "Milner, deținător de record, se retrage după o carieră de 24 de ani",
@@ -1081,113 +1141,6 @@
       ],
       "data_publicare": "2026-05-26T18:30:31.226851+00:00",
       "data_afisaj": "26 mai 2026, 21:30"
-    },
-    {
-      "id": "e70ac4e6f7ce",
-      "titlu": "The Debrief: O echipă alternativă a sezonului din Premier League",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "Sky Sports Football",
-        "The Guardian Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-05-25T18:22:00.653182+00:00",
-      "data_afisaj": "25 mai 2026, 21:22"
-    },
-    {
-      "id": "9a000e4456f8",
-      "titlu": "Lamine Yamal în echipa Spaniei, dar nu jucători de la Real",
-      "rezumat": "Atacantul accidentat Lamine Yamal este numit în lotul Spaniei pentru Cupa Mondială, care nu include niciun jucător de la Real Madrid.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-25T18:22:00.654468+00:00",
-      "data_afisaj": "25 mai 2026, 21:22"
-    },
-    {
-      "id": "bdbaf4870e3d",
-      "titlu": "Comitatul Notts a trecut de Salford pentru a promova în League One",
-      "rezumat": "Notts County a sigilat promovarea în League One pentru prima dată în 11 ani după ce a învins Salford cu 3-0 la Wembley.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-25T18:22:00.655772+00:00",
-      "data_afisaj": "25 mai 2026, 21:22"
-    },
-    {
-      "id": "d5f710037d26",
-      "titlu": "„Nu este vorba despre crearea istoriei, ci despre dorința de a avea succes în acest turneu – vom crea un pic de istorie pe parcurs, dacă putem face asta să se întâmple” Andy Robertson despre obiectivele Scoției la Cupa Mondială",
-      "rezumat": "Scotienii vor juca la prima lor Cupa Mondiala de la Franta 98 ​​in aceasta vara",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-05-25T18:22:00.657943+00:00",
-      "data_afisaj": "25 mai 2026, 21:22"
-    },
-    {
-      "id": "9beacf04f9d6",
-      "titlu": "Primele imagini cu Daniel Pancu în Giulești, după ce a bătut palma cu Rapid! Alături de cine a fost surprins antrenorul",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-05-25T18:22:00.659653+00:00",
-      "data_afisaj": "25 mai 2026, 21:22"
-    },
-    {
-      "id": "1e1f62168ac4",
-      "titlu": "Notts County Promovează în League One După o Victorie Convingătoare pe Wembley",
-      "rezumat": "Echipa Notts County a reușit să obțină promovarea în League One, a treia divizie a fotbalului englez, pentru prima dată în ultimii 11 ani. Performanța a fost asigurată printr-o victorie clară, scor 3-0, împotriva formației Salford City, într-un meci decisiv disputat pe legendarul stadion Wembley. Acest succes reprezintă o recompensă pentru eforturile clubului și ale suporterilor, marcând un pas important în revenirea echipei în eșaloanele superioare ale fotbalului profesionist englez.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-25T17:46:55.741489+00:00",
-      "data_afisaj": "25 mai 2026, 20:46"
-    },
-    {
-      "id": "af828f37b83e",
-      "titlu": "Tottenham Hotspur Recunoaște Că 'Succesul Fotbalistic Nu a Fost Prioritar' în Deciziile Clubului",
-      "rezumat": "Conducerea clubului Tottenham Hotspur a făcut o declarație publică sinceră, prin intermediul președintelui neexecutiv Peter Charrington, recunoscând că 'succesul fotbalistic nu a stat la baza deciziilor noastre'. Această admitere, prezentată într-o scrisoare deschisă adresată fanilor, vine după un sezon considerat dificil. Clubul promite o reconstrucție și o reorientare strategică, cu scopul de a prioritiza performanța sportivă și de a restabili încrederea suporterilor, asigurând o direcție mai clară pentru viitorul echipei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-25T17:46:55.743090+00:00",
-      "data_afisaj": "25 mai 2026, 20:46"
-    },
-    {
-      "id": "6f00b2fd6373",
-      "titlu": "AC Milan îl Demite pe Antrenorul Massimiliano Allegri După un Sezon Considerat 'Eșec Neîndoielnic'",
-      "rezumat": "Clubul italian AC Milan a anunțat demiterea antrenorului principal Massimiliano Allegri, în urma unui sezon pe care oficialii clubului l-au descris drept un 'eșec neîndoielnic'. Decizia a fost luată după ce echipa nu a reușit să se califice în Liga Campionilor, un obiectiv esențial. Allegri, aflat la al doilea mandat pe banca tehnică a Milanului, părăsește clubul într-un moment de căutare a unei noi direcții, cu scopul de a readuce echipa în topul fotbalului european.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-25T17:46:55.744687+00:00",
-      "data_afisaj": "25 mai 2026, 20:46"
-    },
-    {
-      "id": "b4d8de649ddd",
-      "titlu": "Arne Slot Consideră că Liverpool Poate Reveni în Forță Prin Achiziționarea de Aripi de Calitate",
-      "rezumat": "Noul antrenor al lui Liverpool, Arne Slot, a subliniat importanța crucială a transferurilor de aripi de calitate pentru a asigura o revenire puternică a echipei în sezonul următor. Declarația sa vine în contextul plecării lui Mohamed Salah și a necesității de a găsi înlocuitori adecvați. Slot este convins că, în ciuda unui sezon recent dezamăgitor, caracterizat de cel mai mic număr de puncte și goluri din 2015-16, adăugarea jucătorilor potriviți pe flancuri va fi esențială pentru a rectifica situația și a readuce clubul în lupta pentru trofee majore.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-25T17:46:55.746253+00:00",
-      "data_afisaj": "25 mai 2026, 20:46"
     }
   ]
 }
