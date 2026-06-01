@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-31T17:56:19.662166+00:00",
-  "updated_at_afisaj": "31 mai 2026, 20:56",
+  "updated_at": "2026-06-01T12:41:18.631483+00:00",
+  "updated_at_afisaj": "1 iunie 2026, 15:41",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,69 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 102,
+  "numar_stiri": 97,
   "stiri": [
+    {
+      "id": "9f0d83c1e3f0",
+      "titlu": "James Milner Se Retrage Din Fotbal După O Carieră De 24 De Ani",
+      "rezumat": "Fostul internațional englez James Milner și-a anunțat retragerea din fotbal la vârsta de 40 de ani, punând capăt unei cariere impresionante de 24 de ani în Premier League. Milner, cunoscut pentru versatilitatea și profesionalismul său, a jucat pentru cluburi precum Leeds United, Newcastle United, Aston Villa, Manchester City, Liverpool și Brighton. De-a lungul carierei sale, a câștigat numeroase trofee, inclusiv trei titluri de Premier League și Liga Campionilor cu Liverpool, fiind un exemplu de longevitate și dedicare în fotbalul de elită.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-01T12:41:18.626141+00:00",
+      "data_afisaj": "1 iunie 2026, 15:41"
+    },
+    {
+      "id": "659b0cdbf679",
+      "titlu": "Kevin Keegan, Fostul Căpitan și Antrenor al Angliei, Diagnosticat Cu Cancer În Stadiul Patru",
+      "rezumat": "Legenda fotbalului englez, Kevin Keegan, a dezvăluit public că a fost diagnosticat cu cancer în stadiul patru. Fostul căpitan al naționalei Angliei și antrenor la cluburi precum Newcastle United și Manchester City, Keegan este o figură emblematică în fotbalul britanic. Anunțul a fost făcut de Keegan însuși, stârnind un val de mesaje de susținere din partea comunității fotbalistice și a fanilor din întreaga lume. Detalii suplimentare despre starea sa de sănătate nu au fost oferite public.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-06-01T12:41:18.627619+00:00",
+      "data_afisaj": "1 iunie 2026, 15:41"
+    },
+    {
+      "id": "801f429a5f5e",
+      "titlu": "Leah Williamson, Căpitanul Angliei, Ratează Meciurile De Calificare La Cupa Mondială",
+      "rezumat": "Leah Williamson, căpitanul echipei naționale de fotbal feminin a Angliei, va lipsi de la următoarele două meciuri de calificare pentru Cupa Mondială. Fundașul lui Arsenal a fost exclusă din lot pentru partidele împotriva Spaniei și Ucrainei din cauza unei accidentări. Absența lui Williamson reprezintă o lovitură semnificativă pentru selecționata Angliei, având în vedere rolul său crucial atât pe teren, cât și ca lider al echipei. Detalii specifice despre natura și gravitatea accidentării nu au fost comunicate.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-06-01T12:41:18.628947+00:00",
+      "data_afisaj": "1 iunie 2026, 15:41"
+    },
+    {
+      "id": "998df78aaf07",
+      "titlu": "Ghid Vizual Al Stadioanelor Gazdă Pentru Cupa Mondială 2026",
+      "rezumat": "Cu ocazia Cupei Mondiale din 2026, care va fi cel mai mare turneu din istorie, a fost publicat un ghid vizual detaliat al celor 16 stadioane gazdă. Aceste arene sunt situate în Statele Unite, Mexic și Canada, cele trei țări co-organizatoare ale evenimentului. Fiecare dintre cele 16 locații a fost prezentată cu informații relevante despre istoria, prezentul și viitorul sportului în orașele respective, oferind o perspectivă amplă asupra infrastructurii care va găzdui meciurile turneului final.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-01T12:41:18.630144+00:00",
+      "data_afisaj": "1 iunie 2026, 15:41"
+    },
+    {
+      "id": "2f28188baf5b",
+      "titlu": "Majoritatea Jucătoarelor De La Echipa Feminină Plymouth Argyle Vor Fi Eliberate Prin Email",
+      "rezumat": "Clubul Plymouth Argyle a informat majoritatea jucătoarelor din echipa sa feminină că nu li se vor reînnoi contractele în această vară. Decizia, descrisă ca fiind una dificilă de către directorul executiv Paul Berne, a fost comunicată prin email aproape întregului lot de senioare. Această veste vine la doar câteva săptămâni după ce echipa a ratat la limită promovarea în Women’s Super League 2, ridicând semne de întrebare cu privire la viitorul secției de fotbal feminin a clubului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-01T12:41:18.631467+00:00",
+      "data_afisaj": "1 iunie 2026, 15:41"
+    },
     {
       "id": "0100c89de90a",
       "titlu": "Manchester City Câștigă Finala Cupei Angliei la Fotbal Feminin și Realizează Dubla Domestică",
@@ -1067,118 +1128,6 @@
       ],
       "data_publicare": "2026-05-25T17:46:55.746253+00:00",
       "data_afisaj": "25 mai 2026, 20:46"
-    },
-    {
-      "id": "ad12ba0eab73",
-      "titlu": "Golul lui McTominay, Imprimat pe Noua Bancnotă de 20 de Lire Sterline a Scoției",
-      "rezumat": "Un gol spectaculos marcat de Scott McTominay pentru Scoția împotriva Danemarcei a fost imortalizat pe noua bancnotă de 20 de lire sterline a țării. Designul bancnotei combină elemente tradiționale cu imaginea golului, recunoscând astfel momentul iconic din fotbalul scoțian. Această decizie subliniază impactul cultural al sportului și al performanțelor individuale în identitatea națională.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-25T11:53:02.083670+00:00",
-      "data_afisaj": "25 mai 2026, 14:53"
-    },
-    {
-      "id": "d7f0f76c219d",
-      "titlu": "Antonio Conte Pleacă de la Napoli; Como se Califică în Liga Campionilor",
-      "rezumat": "Antonio Conte a anunțat că părăsește postul de antrenor principal al echipei Napoli, după ce a condus echipa la o victorie cu 1-0 împotriva Udinese în ultima etapă a sezonului din Serie A. Decizia vine după un mandat în care a câștigat titlul de campion în primul său sezon. Între timp, Como a reușit o performanță remarcabilă, calificându-se în Liga Campionilor, în timp ce giganți precum Juventus și Milan au ratat locurile de top patru.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-25T11:53:02.085146+00:00",
-      "data_afisaj": "25 mai 2026, 14:53"
-    },
-    {
-      "id": "468384026425",
-      "titlu": "Jordan Pickford Despre Pregătirea Angliei pentru Căldura de la Cupa Mondială",
-      "rezumat": "Portarul Angliei, Jordan Pickford, a declarat că echipa este pregătită să facă față temperaturilor ridicate și umidității din Statele Unite, unde se va desfășura Cupa Mondială. Acesta a subliniat că există o percepție de lungă durată conform căreia echipele europene se confruntă cu dificultăți în condiții de căldură, dar a asigurat că Anglia va fi pregătită să demonteze acest mit prin pregătire riguroasă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-05-25T11:53:02.086555+00:00",
-      "data_afisaj": "25 mai 2026, 14:53"
-    },
-    {
-      "id": "69289e35f786",
-      "titlu": "PRO TV Achiziționează Drepturile de Transmisiune pentru Competițiile Europene cu Echipe Românești",
-      "rezumat": "Postul de televiziune PRO TV a anunțat achiziționarea drepturilor de transmisie pentru competițiile europene de fotbal la care vor participa echipele românești. Această mișcare reprezintă o lovitură media importantă, asigurând fanilor din România accesul la meciurile echipelor autohtone în cupele europene. Detaliile specifice ale acordului și impactul asupra programului de transmisii vor fi comunicate ulterior.",
-      "categorie": "Fotbal",
-      "surse": [
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-05-25T11:53:02.088005+00:00",
-      "data_afisaj": "25 mai 2026, 14:53"
-    },
-    {
-      "id": "5d191422aafe",
-      "titlu": "Nuno Espirito Santo în Discuții cu Conducerea West Ham Privind Viitorul Său",
-      "rezumat": "Antrenorul Nuno Espirito Santo se află în discuții cu oficialii clubului West Ham United pentru a clarifica situația sa contractuală și viitorul său la echipă. Aceste discuții vin în contextul retrogradării clubului din Premier League, după o ședere de 14 ani în eșalonul de elită. Incertitudinea planează asupra băncii tehnice, pe măsură ce clubul se pregătește pentru viața în Championship.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-25T11:53:02.089425+00:00",
-      "data_afisaj": "25 mai 2026, 14:53"
-    },
-    {
-      "id": "6a49e8510fe7",
-      "titlu": "Sunderland se Califică în Europa League După Victoria Împotriva Chelsea",
-      "rezumat": "Sunderland a învins Chelsea și s-a calificat în competițiile europene pentru prima dată în 53 de ani, asigurându-și un loc în Europa League în detrimentul adversarilor. Această performanță istorică marchează o revenire notabilă pentru club, care va reprezenta Anglia pe scena europeană în sezonul viitor. Victoria a fost obținută în ultima etapă a campionatului, consolidând eforturile echipei pe parcursul întregului sezon.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-25T11:13:30.764282+00:00",
-      "data_afisaj": "25 mai 2026, 14:13"
-    },
-    {
-      "id": "06d6593be6f8",
-      "titlu": "West Ham Retrogradează în Championship După 14 Ani în Premier League",
-      "rezumat": "West Ham United a retrogradat în Championship, punând capăt unei prezențe de 14 ani în Premier League, chiar și după o victorie obținută împotriva lui Leeds în ultima etapă a sezonului. Rezultatele celorlalte meciuri au condamnat echipa la retrogradare, marcând un moment dificil pentru club și fanii săi. Această schimbare va aduce provocări semnificative pentru West Ham în sezonul următor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-25T11:13:30.765691+00:00",
-      "data_afisaj": "25 mai 2026, 14:13"
-    },
-    {
-      "id": "5854b86195b5",
-      "titlu": "Bruno Fernandes Stabilește un Nou Record de Asisturi în Premier League",
-      "rezumat": "Căpitanul lui Manchester United, Bruno Fernandes, a stabilit un nou record în Premier League pentru cele mai multe asisturi într-un singur sezon, în ultima etapă a campionatului, în victoria echipei sale împotriva lui Brighton. Această performanță individuală remarcabilă subliniază influența sa crucială în jocul ofensiv al lui Manchester United pe parcursul întregii stagiuni. Recordul anterior a fost depășit, consolidând statutul lui Fernandes ca unul dintre cei mai buni creatori de joc din ligă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-25T11:13:30.767025+00:00",
-      "data_afisaj": "25 mai 2026, 14:13"
-    },
-    {
-      "id": "174c5dcfffb2",
-      "titlu": "Pep Guardiola Părăsește Manchester City După Un Deceniu de Succes",
-      "rezumat": "Pep Guardiola a părăsit banca tehnică a lui Manchester City după un deceniu glorios, marcând sfârșitul unei ere de succes pentru club. Deși a încercat să-și păstreze calmul în ultimul său meci, emoția momentului l-a copleșit pe antrenor. Sub conducerea sa, Manchester City a atins performanțe remarcabile, câștigând numeroase trofee și transformând echipa într-una dintre cele mai dominante din fotbalul european.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-25T11:13:30.768340+00:00",
-      "data_afisaj": "25 mai 2026, 14:13"
-    },
-    {
-      "id": "43acd9b3ff0a",
-      "titlu": "Lionel Messi Suferă o Accidentare la Coapsă Înainte de Cupa Mondială",
-      "rezumat": "Starul argentinian Lionel Messi a fost substituit dintr-un meci din cauza unei aparente probleme la coapsă, cu puțin timp înainte de începerea Cupei Mondiale de luna viitoare. Această accidentare ridică semne de întrebare cu privire la starea sa de sănătate și la capacitatea de a juca la capacitate maximă în turneul final. Fanii și staff-ul naționalei Argentinei așteaptă cu îngrijorare vești despre gravitatea leziunii.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-25T11:13:30.769699+00:00",
-      "data_afisaj": "25 mai 2026, 14:13"
     }
   ]
 }
