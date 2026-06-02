@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-01T20:52:28.193612+00:00",
-  "updated_at_afisaj": "1 iunie 2026, 23:52",
+  "updated_at": "2026-06-02T11:20:24.169324+00:00",
+  "updated_at_afisaj": "2 iunie 2026, 14:20",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 103,
+  "numar_stiri": 108,
   "stiri": [
+    {
+      "id": "b9487f0a7d89",
+      "titlu": "Echipa Angliei a sosit în Florida pentru cantonamentul premergător Cupei Mondiale",
+      "rezumat": "Jucătorii și antrenorul principal al Angliei, Thomas Tuchel, au ajuns în cantonamentul lor premergător Cupei Mondiale din West Palm Beach, Florida. Această sosire marchează începutul oficial al pregătirilor echipei pentru turneul final. Echipa va petrece timp în Florida pentru a se adapta condițiilor și a-și perfecționa strategia înainte de startul competiției, având ca scop o performanță solidă la turneul global.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-02T11:20:24.163213+00:00",
+      "data_afisaj": "2 iunie 2026, 14:20"
+    },
+    {
+      "id": "55a130535dc1",
+      "titlu": "Tuchel dezvăluie că Team GB ajută Anglia să se pregătească pentru căldura de la Cupa Mondială",
+      "rezumat": "Antrenorul principal al Angliei, Thomas Tuchel, a declarat că echipa a primit sprijin de la Team GB, bazându-se pe experiențele olimpice ale acestora, precum și de la alți specialiști, pentru a găsi soluții pentru condițiile meteorologice dificile. Căldura și umiditatea vor fi obstacole de depășit la Cupa Mondială, dar Tuchel are încredere deplină în capacitatea echipei de a ajunge departe în turneu, subliniind importanța pregătirii fizice și tactice.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-02T11:20:24.164779+00:00",
+      "data_afisaj": "2 iunie 2026, 14:20"
+    },
+    {
+      "id": "858b0d59fb31",
+      "titlu": "Tricoul cu numărul 10 al lui Pelé din finala Cupei Mondiale din 1958 este estimat la 4,5 milioane de lire sterline la licitație",
+      "rezumat": "Iconicul tricou albastru cu numărul 10, purtat de legendarul Pelé în finala Cupei Mondiale din 1958, este așteptat să atingă suma de 4,5 milioane de lire sterline la o licitație organizată de Sotheby's în New York, în luna iulie. Pelé avea doar 17 ani când a marcat două goluri în victoria cu 5-2 împotriva Suediei, asigurând Braziliei primul său titlu mondial și consacrându-și numele în istoria fotbalului, transformând acest obiect într-o piesă de colecție de o valoare excepțională.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-02T11:20:24.166502+00:00",
+      "data_afisaj": "2 iunie 2026, 14:20"
+    },
+    {
+      "id": "a0c426324262",
+      "titlu": "Irak revine la Cupa Mondială după o așteptare de 40 de ani, marcată de războaie și sancțiuni",
+      "rezumat": "Irakul se pregătește să revină la Cupa Mondială după o absență de 40 de ani, cu ambiția de a oferi performanțe și rezultate mai bune decât la prima lor participare din 1986. Parcursul echipei a fost marcat de perioade dificile, incluzând războaie, sancțiuni și pedepse, care au influențat dezvoltarea fotbalului în țară. Această revenire reprezintă un moment semnificativ pentru națiunea irakiană, simbolizând reziliența și speranța.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-02T11:20:24.168028+00:00",
+      "data_afisaj": "2 iunie 2026, 14:20"
+    },
+    {
+      "id": "94a87a323ecb",
+      "titlu": "Cum minerii din Cornwall au adus fotbalul în Mexic",
+      "rezumat": "Pe măsură ce Mexicul se pregătește să devină prima țară care găzduiește sau co-găzduiește Cupa Mondială de trei ori, BBC Sport explorează rădăcinile fotbalistice cornwalliene ale țării. Articolul detaliază modul în care minerii din Cornwall, care au emigrat în Mexic în secolul al XIX-lea, au introdus jocul de fotbal în regiune, contribuind la dezvoltarea și popularizarea acestuia pe teritoriul mexican și la formarea unei culturi fotbalistice vibrante.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-02T11:20:24.169306+00:00",
+      "data_afisaj": "2 iunie 2026, 14:20"
+    },
     {
       "id": "f135ce4e69ec",
       "titlu": "DECLARAȚII Lui Florin Pîrvu i-au dat lacrimile după ce a promovat în Superliga la 2 ani de la decesul soției: „M-a ajutat de sus”",
