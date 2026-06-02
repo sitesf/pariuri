@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-02T11:20:24.169324+00:00",
-  "updated_at_afisaj": "2 iunie 2026, 14:20",
+  "updated_at": "2026-06-02T12:04:07.855642+00:00",
+  "updated_at_afisaj": "2 iunie 2026, 15:04",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,69 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 108,
+  "numar_stiri": 113,
   "stiri": [
+    {
+      "id": "5c0c2fbb66cb",
+      "titlu": "Liverpool în discuții avansate cu Iraola",
+      "rezumat": "Liverpool se află în discuții avansate cu Andoni Iraola, deoarece încearcă să numească un nou antrenor principal după demiterea lui Arne Slot.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-02T12:03:42.752417+00:00",
+      "data_afisaj": "2 iunie 2026, 15:03"
+    },
+    {
+      "id": "537b05587b65",
+      "titlu": "Ghid pentru Cupa Mondială Grupa B",
+      "rezumat": "Grupa B a Cupei Mondiale vede co-gazdele Canada joacă primul meci în țara lor natală împotriva Bosniei-Herțegovinei, urmată de meciuri împotriva Qatarului și Elveției.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-02T12:03:42.753550+00:00",
+      "data_afisaj": "2 iunie 2026, 15:03"
+    },
+    {
+      "id": "7c239f34b12f",
+      "titlu": "Sir Kenny Dalglish urmează un tratament pentru cancer",
+      "rezumat": "Scoția, Liverpool și marele celtic Sir Kenny Dalglish confirmă că urmează un tratament pentru cancer.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-02T12:03:42.754767+00:00",
+      "data_afisaj": "2 iunie 2026, 15:03"
+    },
+    {
+      "id": "0f0938a70c57",
+      "titlu": "Proprietarul Southampton nu îl va demite pe Eckert din cauza Spygate",
+      "rezumat": "Proprietarul de la Southampton, Dragan Solak, a declarat pentru BBC Sport că nu o va concedia pe Tonda Eckert, în ciuda „greșelii” pe care a făcut-o antrenorul principal când a autorizat o campanie de spionaj împotriva cluburilor rivale din Championship.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-02T12:03:42.755933+00:00",
+      "data_afisaj": "2 iunie 2026, 15:03"
+    },
+    {
+      "id": "1722327e78ec",
+      "titlu": "Seful Fulham, Silva, aproape de acordul cu Benfica",
+      "rezumat": "Antrenorul principal al Fulham, Marco Silva, este aproape de a ajunge la un acord pentru a prelua conducerea la Benfica.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-02T12:03:42.757045+00:00",
+      "data_afisaj": "2 iunie 2026, 15:03"
+    },
     {
       "id": "b9487f0a7d89",
       "titlu": "Echipa Angliei a sosit în Florida pentru cantonamentul premergător Cupei Mondiale",
