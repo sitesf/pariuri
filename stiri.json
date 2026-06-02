@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-02T12:04:07.855642+00:00",
-  "updated_at_afisaj": "2 iunie 2026, 15:04",
+  "updated_at": "2026-06-02T19:43:55.052672+00:00",
+  "updated_at_afisaj": "2 iunie 2026, 22:43",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,68 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 113,
+  "numar_stiri": 109,
   "stiri": [
+    {
+      "id": "8bcdbf1a22ed",
+      "titlu": "Bellingham este pe locul 10 în echipa Angliei pentru Cupa Mondială",
+      "rezumat": "Au fost anunțate numerele de echipă ale Angliei pentru Cupa Mondială - dar cât de mult sugerează alegerile gândirii lui Thomas Tuchel?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-02T19:43:31.174166+00:00",
+      "data_afisaj": "2 iunie 2026, 22:43"
+    },
+    {
+      "id": "cff99cb4fd8a",
+      "titlu": "Konate aproape să se alăture lui Real Madrid după părăsirea lui Liverpool",
+      "rezumat": "Fundașul Franței, Ibrahima Konate, este în discuții avansate cu Real Madrid pentru a se alătura clubului La Liga cu un transfer gratuit.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-06-02T19:43:31.175895+00:00",
+      "data_afisaj": "2 iunie 2026, 22:43"
+    },
+    {
+      "id": "c0cb93a2f090",
+      "titlu": "Ghidul echipei Japoniei pentru Cupa Mondială 2026",
+      "rezumat": "Rezultatele impresionante au alimentat credința că echipa lui Hajime Moriyasu nu poate supraviețui doar împotriva celor mai buni, ci și îi poate învinge. theguardian.com difuzează în fiecare zi previzualizări din trei țări, înaintea turneului care va începe pe 11 iunie. Continuă să citești...",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-02T19:43:31.177389+00:00",
+      "data_afisaj": "2 iunie 2026, 22:43"
+    },
+    {
+      "id": "8ce5fba0b893",
+      "titlu": "Gică Hagi, prima reacție după Georgia – România 1-1: „Asta le-am zis în vestiar”",
+      "rezumat": "(rezumat indisponibil)",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-06-02T19:43:31.179036+00:00",
+      "data_afisaj": "2 iunie 2026, 22:43"
+    },
+    {
+      "id": "b06f0c193a85",
+      "titlu": "Gata cu steagul întârziat? FIFA adaugă o nouă tehnologie de offside pentru Cupa Mondială",
+      "rezumat": "Steagul offside amânat ar putea deveni aproape un lucru din trecut, după ce FIFA a dezvăluit o nouă tehnologie care va fi folosită la Cupa Mondială din 2026.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-02T19:43:31.180395+00:00",
+      "data_afisaj": "2 iunie 2026, 22:43"
+    },
     {
       "id": "5c0c2fbb66cb",
       "titlu": "Liverpool în discuții avansate cu Iraola",
@@ -1210,109 +1270,6 @@
       ],
       "data_publicare": "2026-05-27T10:57:30.096888+00:00",
       "data_afisaj": "27 mai 2026, 13:57"
-    },
-    {
-      "id": "60f2961c71b1",
-      "titlu": "Enzo Maresca, Așteptat să Preia Conducerea Tehnică la Manchester City",
-      "rezumat": "Negocierile dintre Manchester City și Enzo Maresca, fostul antrenor al lui Chelsea, continuă, iar un acord este așteptat în zilele următoare. Maresca este favorit să-i succeadă lui Pep Guardiola, care a părăsit clubul după un deceniu de succes. Această mutare ar marca o nouă eră pentru campioana Angliei, cu Maresca având sarcina de a menține standardele înalte stabilite de predecesorul său. Fanii așteaptă cu interes confirmarea oficială a numirii noului antrenor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-05-26T19:14:10.196519+00:00",
-      "data_afisaj": "26 mai 2026, 22:14"
-    },
-    {
-      "id": "8c796f7b340d",
-      "titlu": "PFA Acuză Programul Aglomerat al Competițiilor pentru Epuizarea Jucătorilor Cheie",
-      "rezumat": "Asociația Fotbaliștilor Profesioniști (PFA) a criticat programul \"nebun\" al meciurilor, considerându-l responsabil pentru epuizarea unor jucători precum Cole Palmer și Phil Foden. Directorul executiv al PFA, Maheta Molango, a declarat că ambii jucători au ratat convocarea la Cupa Mondială din această vară din cauza suprasolicitării. Noile date arată că șapte dintre cei zece jucători cu cele mai multe meciuri în ligile de top europene provin de la cluburi engleze, subliniind presiunea intensă la care sunt supuși fotbaliștii.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-26T19:14:10.197949+00:00",
-      "data_afisaj": "26 mai 2026, 22:14"
-    },
-    {
-      "id": "30a1c02abb62",
-      "titlu": "Absența lui Sardar Azmoun de la Cupa Mondială, din Motive Politice, Stârnește Controverse în Iran",
-      "rezumat": "Decizia de a-l exclude pe atacantul Sardar Azmoun din lotul preliminar al Iranului pentru Cupa Mondială a generat o dezbatere aprinsă în țară. Mulți consideră că omisiunea jucătorului de 31 de ani este legată de acțiunile sale de protest împotriva regimului, exprimate pe rețelele de socializare. Această situație subliniază tensiunile dintre sport și politică, cu implicații semnificative pentru echipa națională și pentru percepția publică a evenimentului sportiv major.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-26T19:14:10.199462+00:00",
-      "data_afisaj": "26 mai 2026, 22:14"
-    },
-    {
-      "id": "6816ca1f5f01",
-      "titlu": "Daniel Oprița Așteaptă Decizia Finală Privind Viitorul Său la Steaua București",
-      "rezumat": "Antrenorul Daniel Oprița a declarat că își așteaptă finalul contractului cu Steaua București înainte de a lua o decizie privind viitorul său. Declarația sa vine în contextul speculațiilor legate de o posibilă plecare de la club. Oprița a menționat că va analiza toate opțiunile disponibile odată ce angajamentul său contractual actual se va încheia, lăsând deschisă posibilitatea de a continua sau de a căuta noi provocări în cariera sa de antrenor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-05-26T19:14:10.200799+00:00",
-      "data_afisaj": "26 mai 2026, 22:14"
-    },
-    {
-      "id": "3de84c48693a",
-      "titlu": "FCSB Exclude Transferul lui Tavi Popescu După o Decizie Surprinzătoare",
-      "rezumat": "Un singur gol marcat recent a influențat decisiv decizia FCSB-ului în privința transferului lui Tavi Popescu. Conducerea clubului a anunțat că, \"sub nicio formă\", jucătorul nu va fi vândut în această perioadă de mercato. Această hotărâre vine pe fondul performanțelor recente ale lui Popescu, care au convins clubul să-l păstreze, contrar așteptărilor inițiale sau unor oferte anterioare. Fanii sunt curioși să vadă cum va evolua situația jucătorului în viitorul apropiat.",
-      "categorie": "Fotbal",
-      "surse": [
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-05-26T19:14:10.202099+00:00",
-      "data_afisaj": "26 mai 2026, 22:14"
-    },
-    {
-      "id": "1041c147cf66",
-      "titlu": "Lawrence Shankland Își Îndeplinește Visul de a Juca la Rangers",
-      "rezumat": "Atacantul scoțian Lawrence Shankland a finalizat transferul său de la Heart of Midlothian la Rangers, clubul său de suflet. Jucătorul a declarat că mutarea reprezintă îndeplinirea unui vis personal, fiind un pas important în cariera sa. Această mutare semnificativă în Premiership-ul scoțian a fost confirmată de mai multe surse sportive de top, subliniind ambițiile lui Rangers de a-și consolida lotul. Shankland este un marcator prolific și se așteaptă să aducă un plus de forță ofensivă echipei din Glasgow în competițiile viitoare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-05-26T18:30:31.222707+00:00",
-      "data_afisaj": "26 mai 2026, 21:30"
-    },
-    {
-      "id": "36aebcadde82",
-      "titlu": "Alexia Putellas, Dublă Câștigătoare a Balonului de Aur, Părăsește Barcelona și Este Urmărită de London City Lionesses",
-      "rezumat": "Alexia Putellas, de două ori laureată a Balonului de Aur, a anunțat plecarea sa de la FC Barcelona după 14 ani petrecuți la clubul catalan. Această veste a stârnit interesul mai multor echipe din fotbalul feminin european, iar London City Lionesses se numără printre cluburile care o urmăresc activ. Plecarea unei jucătoare de calibrul lui Putellas marchează sfârșitul unei ere la Barcelona și deschide un nou capitol în cariera sa, cu potențialul de a influența semnificativ echilibrul de forțe în competițiile continentale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-05-26T18:30:31.224265+00:00",
-      "data_afisaj": "26 mai 2026, 21:30"
-    },
-    {
-      "id": "3b9b63bc3fa7",
-      "titlu": "Fox Sports Anunță o Echipă de Experți de Renume pentru Cupa Mondială FIFA 2026",
-      "rezumat": "Fox Sports a dezvăluit panelul său de experți pentru Cupa Mondială FIFA 2026, care include nume mari din lumea fotbalului. Declarația unui membru, \"Oamenii m-au judecat toată cariera, acum e timpul să-i judec eu pe ei\", sugerează o abordare directă și incisivă a analizelor. Această inițiativă face parte din pregătirile ample ale Fox Sports pentru un turneu care se anunță transformator, promițând o acoperire detaliată și perspective variate asupra competiției, cu scopul de a oferi telespectatorilor o experiență completă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-05-26T18:30:31.225631+00:00",
-      "data_afisaj": "26 mai 2026, 21:30"
-    },
-    {
-      "id": "168bbd358a16",
-      "titlu": "Costel Gâlcă S-a Despărțit Oficial de Rapid București",
-      "rezumat": "Antrenorul Costel Gâlcă și-a încheiat oficial colaborarea cu Rapid București. Anunțul vine după o perioadă de speculații privind viitorul său la clubul giuleștean, confirmând o schimbare la nivelul băncii tehnice. Despărțirea a fost confirmată de surse media importante din România, marcând o decizie importantă pentru ambele părți. Detaliile complete ale plecării și planurile de viitor ale clubului nu au fost încă făcute publice, dar se anticipează o reorganizare în perspectiva noului sezon competițional, cu scopul de a atinge obiectivele stabilite.",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-05-26T18:30:31.226851+00:00",
-      "data_afisaj": "26 mai 2026, 21:30"
     }
   ]
 }
