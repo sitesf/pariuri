@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-02T19:43:55.052672+00:00",
-  "updated_at_afisaj": "2 iunie 2026, 22:43",
+  "updated_at": "2026-06-02T19:59:46.416231+00:00",
+  "updated_at_afisaj": "2 iunie 2026, 22:59",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 109,
+  "numar_stiri": 114,
   "stiri": [
+    {
+      "id": "c7eeb7a8c523",
+      "titlu": "Silva pleacă de la Fulham, fiind aproape de un transfer la Benfica",
+      "rezumat": "Antrenorul lui Fulham, Marco Silva, confirmă că va părăsi echipa după cinci ani la conducere, tehnicianul de 48 de ani fiind aproape de a ajunge la un acord pentru a prelua Benfica.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-02T19:59:39.516554+00:00",
+      "data_afisaj": "2 iunie 2026, 22:59"
+    },
+    {
+      "id": "9fc61a187910",
+      "titlu": "Merită antrenorul lui Southampton, Eckert, implicat în scandalul Spygate, o a doua șansă?",
+      "rezumat": "BBC Sport analizează viitorul antrenorului lui Southampton, Tonda Eckert, după ce acesta și-a recunoscut rolul în scandalul Spygate.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-02T19:59:39.517970+00:00",
+      "data_afisaj": "2 iunie 2026, 22:59"
+    },
+    {
+      "id": "446e812f8d1d",
+      "titlu": "Gordon va fi cel mai vârstnic jucător la Cupa Mondială, dar Gunn primește numărul 1",
+      "rezumat": "Portarul Scoției, Craig Gordon, va fi cel mai vârstnic jucător la Cupa Mondială din această vară, dar portarul de 43 de ani nu a primit tricoul cu numărul unu.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-02T19:59:39.519285+00:00",
+      "data_afisaj": "2 iunie 2026, 22:59"
+    },
+    {
+      "id": "5846a84389fb",
+      "titlu": "Cum minerii din Cornwall au adus fotbalul în Mexic",
+      "rezumat": "În timp ce Mexicul se pregătește să devină prima țară care găzduiește sau co-găzduiește Cupa Mondială de trei ori, BBC Sport analizează rădăcinile sale fotbalistice din Cornwall.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-02T19:59:39.520519+00:00",
+      "data_afisaj": "2 iunie 2026, 22:59"
+    },
+    {
+      "id": "6399c1e0a5d9",
+      "titlu": "Descarcă-ți posterul Cupei Mondiale 2026",
+      "rezumat": "Obține acum piesa ta esențială de echipament descărcând posterul Cupei Mondiale Fifa 2026.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-02T19:59:39.521758+00:00",
+      "data_afisaj": "2 iunie 2026, 22:59"
+    },
     {
       "id": "8bcdbf1a22ed",
       "titlu": "Bellingham este pe locul 10 în echipa Angliei pentru Cupa Mondială",
