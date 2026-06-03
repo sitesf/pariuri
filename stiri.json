@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-03T19:52:50.497083+00:00",
-  "updated_at_afisaj": "3 iunie 2026, 22:52",
+  "updated_at": "2026-06-03T20:13:50.395677+00:00",
+  "updated_at_afisaj": "3 iunie 2026, 23:13",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,19 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 112,
+  "numar_stiri": 113,
   "stiri": [
+    {
+      "id": "2a1e6370d23f",
+      "titlu": "NWSL Vizează Creșterea Popularității Prin Intermediul Cupei Mondiale Masculine",
+      "rezumat": "Liga Națională de Fotbal Feminin (NWSL) din SUA își propune să capitalizeze pe entuziasmul generat de Cupa Mondială masculină pentru a-și extinde audiența. Deși multe femei urmăresc turneul masculin, acest interes nu s-a tradus întotdeauna într-o susținere similară pentru fotbalul feminin. NWSL speră ca pauza competițională din timpul Cupei Mondiale să ofere o oportunitate strategică de a atrage noi fani și de a consolida legăturile cu publicul feminin.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-03T20:13:50.395199+00:00",
+      "data_afisaj": "3 iunie 2026, 23:13"
+    },
     {
       "id": "4618f49b9939",
       "titlu": "Campanie Majoră Împotriva FIFA și a Președintelui Infantino, Lansată Înainte de Cupa Mondială",
