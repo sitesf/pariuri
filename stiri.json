@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-02T19:59:46.416231+00:00",
-  "updated_at_afisaj": "2 iunie 2026, 22:59",
+  "updated_at": "2026-06-03T11:58:26.911707+00:00",
+  "updated_at_afisaj": "3 iunie 2026, 14:58",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,53 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 114,
+  "numar_stiri": 113,
   "stiri": [
+    {
+      "id": "8376ad6ded69",
+      "titlu": "Manchester United a convenit o taxă de 35 de milioane de lire sterline pentru Ederson, semnalând intențiile de vară",
+      "rezumat": "Mijlocașul brazilian Ederson de la Atalanta este pe cale să devină prima achiziție a lui Michael Carrick, după ce Manchester United a ajuns la un acord de 35 de milioane de lire sterline pentru jucătorul de 26 de ani. Această mutare subliniază ambițiile clubului pentru fereastra de transferuri din vară, aducând un plus de forță la mijlocul terenului. Ederson este recunoscut pentru abilitățile sale defensive și capacitatea de a distribui mingea, fiind considerat o piesă importantă pentru viitorul echipei de pe Old Trafford.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-06-03T11:58:26.906794+00:00",
+      "data_afisaj": "3 iunie 2026, 14:58"
+    },
+    {
+      "id": "bd8bbac49208",
+      "titlu": "Scandal de meciuri trucate la Cupa Mondială FIFA, suspiciuni legate de cartonașe galbene",
+      "rezumat": "Un scandal de meciuri trucate a ieșit la iveală înaintea Cupei Mondiale FIFA 2026, cu suspiciuni legate de aranjarea unor cartonașe galbene. Jucătorii implicați sunt programați să participe la turneul din această vară. Această situație ridică semne de întrebare serioase cu privire la integritatea competiției și la măsurile de prevenire a corupției în fotbalul de elită. FIFA este așteptată să investigheze amănunțit aceste acuzații pentru a menține credibilitatea evenimentului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-06-03T11:58:26.908571+00:00",
+      "data_afisaj": "3 iunie 2026, 14:58"
+    },
+    {
+      "id": "cfba1dae5371",
+      "titlu": "Federația Mexicană de Fotbal pierde apelul împotriva amenzilor FIFA pentru scandările homofobe ale fanilor",
+      "rezumat": "Federația Mexicană de Fotbal a pierdut cel mai recent apel împotriva sancțiunilor impuse de FIFA pentru scandările homofobe repetate ale fanilor împotriva jucătorilor adverși. Decizia Curții de Arbitraj Sportiv (CAS) vine în contextul în care Mexicul se pregătește să găzduiască meciuri la Cupa Mondială 2026. FIFA a aplicat amenzi consistente pentru încălcări repetate, iar federația mexicană a desfășurat campanii pentru eradicarea acestor scandări, însă fără succes deplin până acum.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-03T11:58:26.910277+00:00",
+      "data_afisaj": "3 iunie 2026, 14:58"
+    },
+    {
+      "id": "1fd525776615",
+      "titlu": "Ce reguli VAR se aplică la Cupa Mondială 2026?",
+      "rezumat": "Viitoarea Cupă Mondială din 2026 va introduce cinci modificări majore ale regulamentului de joc, inclusiv aspecte legate de sistemul VAR. Aceste schimbări sunt menite să îmbunătățească fluiditatea jocului și acuratețea deciziilor. Fanii și echipele vor trebui să se familiarizeze cu noile protocoale VAR, care ar putea influența modul în care se desfășoară meciurile și deciziile cruciale pe parcursul turneului. Detaliile complete ale acestor modificări sunt așteptate să fie comunicate în curând.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-06-03T11:58:26.911687+00:00",
+      "data_afisaj": "3 iunie 2026, 14:58"
+    },
     {
       "id": "c7eeb7a8c523",
       "titlu": "Silva pleacă de la Fulham, fiind aproape de un transfer la Benfica",
@@ -1266,65 +1311,6 @@
       ],
       "data_publicare": "2026-05-27T18:29:26.009198+00:00",
       "data_afisaj": "27 mai 2026, 21:29"
-    },
-    {
-      "id": "42a125f2bb34",
-      "titlu": "Arteta a fost numit Antrenorul Sezonului din Premier League",
-      "rezumat": "Mikel Arteta a fost numit antrenorul sezonului în Premier League.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-05-27T10:57:30.092511+00:00",
-      "data_afisaj": "27 mai 2026, 13:57"
-    },
-    {
-      "id": "ed89d3c66f3d",
-      "titlu": "Nuno va rămâne șef de la West Ham după retrogradare",
-      "rezumat": "Nuno Espirito Santo va rămâne antrenorul West Ham pentru a conduce lupta pentru a reveni în Premier League la prima încercare, spune clubul.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-05-27T10:57:30.093648+00:00",
-      "data_afisaj": "27 mai 2026, 13:57"
-    },
-    {
-      "id": "3eee734e7958",
-      "titlu": "Ghidul echipei Mexic Cupa Mondială 2026",
-      "rezumat": "Co-gazdele vor pune pragmatismul mai presus de stil sub Javier Aguirre într-o atmosferă acasă care poate fi atât o inspirație, cât și o povară. theguardian.com difuzează în fiecare zi previzualizări din trei țări, înaintea turneului care va începe pe 11 iunie. Continuă să citești...",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-05-27T10:57:30.094683+00:00",
-      "data_afisaj": "27 mai 2026, 13:57"
-    },
-    {
-      "id": "4c56a9306c7c",
-      "titlu": "Spurs avea nevoie de „resetare completă”, spune CEO-ul sub fire",
-      "rezumat": "Într-un interviu exclusiv cu BBC Sport, directorul executiv al lui Tottenham, Vinai Venkatesham, vorbește despre o serie de probleme pe care clubul trebuie să le abordeze.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-27T10:57:30.095823+00:00",
-      "data_afisaj": "27 mai 2026, 13:57"
-    },
-    {
-      "id": "5b7fab37d357",
-      "titlu": "Schmeichel se retrage din cauza unei răni grave la umăr",
-      "rezumat": "Kasper Schmeichel se retrage la vârsta de 39 de ani, portarul Celticului și al Danemarcei neputând să-și revină suficient de la o accidentare gravă la umăr.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-27T10:57:30.096888+00:00",
-      "data_afisaj": "27 mai 2026, 13:57"
     }
   ]
 }
