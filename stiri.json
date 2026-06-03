@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-03T12:41:52.594322+00:00",
-  "updated_at_afisaj": "3 iunie 2026, 15:41",
+  "updated_at": "2026-06-03T19:52:50.497083+00:00",
+  "updated_at_afisaj": "3 iunie 2026, 22:52",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,41 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 117,
+  "numar_stiri": 112,
   "stiri": [
+    {
+      "id": "4618f49b9939",
+      "titlu": "Campanie Majoră Împotriva FIFA și a Președintelui Infantino, Lansată Înainte de Cupa Mondială",
+      "rezumat": "O campanie denumită „Reboot Fifa” a fost lansată cu o săptămână înainte de startul Cupei Mondiale, având ca scop depunerea unei plângeri masive împotriva FIFA și a președintelui Gianni Infantino. Inițiativa vine pe fondul preocupărilor fanilor legate de siguranța și costurile biletelor la turneu, precum și al plângerilor continue din partea organizațiilor pentru drepturile omului. Plângerea, de tip acțiune colectivă, solicită o investigație aprofundată a conducerii FIFA.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-03T19:52:50.493910+00:00",
+      "data_afisaj": "3 iunie 2026, 22:52"
+    },
+    {
+      "id": "b275ff4a4e03",
+      "titlu": "Manchester City Negociază cu Chelsea Taxa de Compensare pentru Enzo Maresca",
+      "rezumat": "Manchester City se află în discuții cu Chelsea pentru a stabili o taxă de compensare în legătură cu antrenorul Enzo Maresca. Această negociere indică o posibilă mișcare managerială importantă, având în vedere că Maresca a fost asociat cu roluri cheie la ambele cluburi. Detaliile exacte ale discuțiilor și implicațiile pentru viitorul antrenorului rămân de clarificat, dar situația subliniază complexitatea tranzacțiilor din fotbalul de top.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-06-03T19:52:50.495627+00:00",
+      "data_afisaj": "3 iunie 2026, 22:52"
+    },
+    {
+      "id": "4d65ced37a68",
+      "titlu": "Ibrahima Konaté Dezvăluie Luptele Personale După Un An Marcat de Tragedii",
+      "rezumat": "Fundașul francez Ibrahima Konaté a vorbit deschis despre dificultățile emoționale și luptele personale prin care a trecut într-un an marcat de tragedii. Acesta a fost profund afectat de decesul fostului său coechipier de la Liverpool, Diogo Jota, urmat de pierderea tatălui său, Hamady, după o lungă boală. Aceste evenimente tragice au avut un impact asupra formei sale sportive, iar Konaté a subliniat importanța conștientizării problemelor de sănătate mintală în fotbal.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-03T19:52:50.497065+00:00",
+      "data_afisaj": "3 iunie 2026, 22:52"
+    },
     {
       "id": "fab0c748836f",
       "titlu": "Alex Scott, aproape de debutul pentru Anglia în meciurile amicale premergătoare Cupei Mondiale",
@@ -1263,98 +1296,6 @@
       ],
       "data_publicare": "2026-05-28T10:58:19.918076+00:00",
       "data_afisaj": "28 mai 2026, 13:58"
-    },
-    {
-      "id": "e40b316f1e82",
-      "titlu": "Barcelona A Ajuns la un Acord pentru Transferul lui Anthony Gordon de la Newcastle",
-      "rezumat": "FC Barcelona a convenit un acord cu Newcastle United pentru achiziționarea atacantului englez Anthony Gordon. Tranzacția este evaluată la peste 70 de milioane de lire sterline. Jucătorul este așteptat să efectueze vizita medicală în Spania în cursul acestei săptămâni, posibil joi sau vineri. Deși Bayern Munchen fusese anterior considerată favorită pentru a-l semna pe Gordon, negocierile avansate dintre cluburile spaniole și engleze indică o mutare iminentă a acestuia pe Camp Nou, consolidând ofensiva catalană.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-27T19:15:20.424801+00:00",
-      "data_afisaj": "27 mai 2026, 22:15"
-    },
-    {
-      "id": "2f2fb1b74099",
-      "titlu": "Enzo Fernandez Dorește să Plece de la Chelsea, Clubul Cere 120 de Milioane de Lire Sterline",
-      "rezumat": "Mijlocașul argentinian Enzo Fernandez și-a exprimat dorința de a părăsi clubul Chelsea, după ce echipa nu a reușit să se califice în competițiile europene. Orice potențială mutare a campionului mondial ar implica o sumă considerabilă, clubul londonez solicitând aproximativ 120 de milioane de lire sterline pentru serviciile sale. Dorința jucătorului de a părăsi Stamford Bridge vine în contextul unui sezon sub așteptări pentru Chelsea, care a ratat obiectivele majore.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-27T19:15:20.426481+00:00",
-      "data_afisaj": "27 mai 2026, 22:15"
-    },
-    {
-      "id": "46e58babc444",
-      "titlu": "Arteta Vizează Primul Titlu Arsenal în Liga Campionilor, După 20 de Ani",
-      "rezumat": "La două decenii de la dezamăgirea finalei Ligii Campionilor din 2006, Arsenal se pregătește să facă un pas decisiv către primul său titlu în această competiție. Echipa antrenată de Mikel Arteta, care a reușit să pună capăt așteptării pentru titlul din Premier League, pare să fi depășit frica și tensiunea care au marcat campaniile anterioare. Fanii 'tunarilor' speră ca echipa să-și îndeplinească visul european în finala împotriva lui Paris Saint-Germain, marcând o nouă eră de succes.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-27T19:15:20.427826+00:00",
-      "data_afisaj": "27 mai 2026, 22:15"
-    },
-    {
-      "id": "085093b8b07a",
-      "titlu": "Verdictul în Cazul Celor 115 Acuzații Adresate lui Manchester City, Așteptat în Săptămânile Următoare",
-      "rezumat": "Manchester City continuă să aștepte verdictul în cazul celor 115 acuzații de încălcare a regulilor financiare ale Premier League. Se zvonește că o decizie ar putea fi anunțată în următoarele săptămâni, ceea ce ar putea avea implicații semnificative pentru club, variind de la amenzi substanțiale până la deduceri de puncte sau chiar retrogradare. Această situație reprezintă un subiect major de discuție în fotbalul englez, iar rezultatul investigației este anticipat cu interes de întreaga comunitate fotbalistică.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-05-27T19:15:20.429299+00:00",
-      "data_afisaj": "27 mai 2026, 22:15"
-    },
-    {
-      "id": "fe5a615449f5",
-      "titlu": "Manchester United, Aproape de Transferul lui Ederson de la Atalanta",
-      "rezumat": "Manchester United se află în negocieri avansate pentru a-l aduce pe mijlocașul brazilian Ederson de la Atalanta. Acesta ar urma să fie prima achiziție a clubului în această vară, pentru o sumă de aproximativ 38 de milioane de lire sterline. Transferul ar consolida mijlocul terenului pentru \"Diavolii Roșii\", care își propun să își întărească lotul în perspectiva noului sezon. Ederson este considerat un jucător cheie în planurile de reconstrucție ale echipei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-05-27T18:29:26.005164+00:00",
-      "data_afisaj": "27 mai 2026, 21:29"
-    },
-    {
-      "id": "550f6d942ad3",
-      "titlu": "Proprietarii Tottenham Promit Investiții Semnificative După un Sezon Dificil",
-      "rezumat": "Familia Lewis, proprietara majoritară a clubului Tottenham Hotspur, a promis investiții substanțiale și schimbări semnificative pentru a redresa echipa. Declarația vine după două sezoane consecutive încheiate pe locul 17 în Premier League, o performanță considerată dezamăgitoare. Conducerea clubului își propune să reconstruiască încrederea fanilor și să asigure o îmbunătățire notabilă a rezultatelor sportive, evitând astfel o nouă luptă pentru evitarea retrogradării.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-05-27T18:29:26.006562+00:00",
-      "data_afisaj": "27 mai 2026, 21:29"
-    },
-    {
-      "id": "e3d8e44f9f5c",
-      "titlu": "Manchester United Anunță Rezultate Financiare Pozitive, În Ciuda Costurilor Demiterii lui Ruben Amorim",
-      "rezumat": "Cele mai recente rezultate financiare ale clubului Manchester United indică o traiectorie pozitivă, demonstrând stabilitate economică. Cu toate acestea, clubul a fost nevoit să achite o sumă de 16,7 milioane de lire sterline pentru demiterea antrenorului Ruben Amorim și a staff-ului său tehnic. Această cheltuială semnificativă subliniază costurile asociate schimbărilor de management, chiar și în contextul unei situații financiare generale favorabile pentru \"Diavolii Roșii\".",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-05-27T18:29:26.007915+00:00",
-      "data_afisaj": "27 mai 2026, 21:29"
-    },
-    {
-      "id": "6ad908974f95",
-      "titlu": "Andrea Pirlo și Marco Materazzi, Criticați pentru Participarea la un Eveniment în Rusia",
-      "rezumat": "Foștii campioni mondiali italieni Andrea Pirlo și Marco Materazzi au stârnit indignare prin prezența lor la un eveniment sportiv în Rusia. Cei doi foști jucători au semnat autografe și au făcut fotografii cu susținători, chiar în ziua în care Moscova a lansat unul dintre cele mai violente atacuri cu rachete asupra Kievului. Participarea lor a fost considerată controversată și a atras critici vehemente din partea publicului și a presei internaționale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-27T18:29:26.009198+00:00",
-      "data_afisaj": "27 mai 2026, 21:29"
     }
   ]
 }
