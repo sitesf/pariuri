@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-03T11:58:26.911707+00:00",
-  "updated_at_afisaj": "3 iunie 2026, 14:58",
+  "updated_at": "2026-06-03T12:41:52.594322+00:00",
+  "updated_at_afisaj": "3 iunie 2026, 15:41",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,52 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 113,
+  "numar_stiri": 117,
   "stiri": [
+    {
+      "id": "fab0c748836f",
+      "titlu": "Alex Scott, aproape de debutul pentru Anglia în meciurile amicale premergătoare Cupei Mondiale",
+      "rezumat": "Mijlocașul lui Bournemouth, Alex Scott, este pe cale să-și facă debutul pentru echipa națională a Angliei în meciurile amicale de pregătire pentru Cupa Mondială, care vor avea loc în Statele Unite. Această oportunitate vine în contextul pregătirilor finale ale selecționatei Angliei pentru turneul major, oferind tânărului jucător șansa de a se afirma la nivel internațional și de a-și demonstra valoarea în fața selecționerului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-03T12:41:52.589204+00:00",
+      "data_afisaj": "3 iunie 2026, 15:41"
+    },
+    {
+      "id": "c810dfd221ca",
+      "titlu": "Situația calificărilor la Cupa Mondială: Cine are nevoie de ce?",
+      "rezumat": "Anglia își va asigura un loc la Cupa Mondială de anul viitor dacă va evita înfrângerea împotriva Spaniei vineri. Articolul analizează scenariile de calificare pentru diverse echipe, explicând ce rezultate sunt necesare pentru a-și asigura un loc la turneul final din Brazilia. O privire de ansamblu asupra luptei intense pentru calificarea la cel mai prestigios eveniment fotbalistic global.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-03T12:41:52.590797+00:00",
+      "data_afisaj": "3 iunie 2026, 15:41"
+    },
+    {
+      "id": "ceff44de3d7f",
+      "titlu": "Marcus Rashford se pregătește de Cupa Mondială într-o situație incertă, în ciuda performanțelor la Barcelona",
+      "rezumat": "Marcus Rashford se află într-o situație incertă înaintea Cupei Mondiale, în ciuda faptului că a prosperat la Barcelona. Sosirea lui Gordon, salariul său și cererile de transfer ale lui Manchester United fac ca următoarea sa mutare să fie neclară. Această stare de incertitudine este o situație neobișnuită pentru un atacant așteptat să fie titular în meciul de deschidere al Angliei la Cupa Mondială.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-03T12:41:52.592594+00:00",
+      "data_afisaj": "3 iunie 2026, 15:41"
+    },
+    {
+      "id": "c1f8fa42877e",
+      "titlu": "Arsenal învinge opt cluburi rivale pentru a semna un tânăr talent, prima achiziție a verii",
+      "rezumat": "Arsenal a reușit să depășească opt cluburi rivale pentru a asigura semnătura unui tânăr jucător de 16 ani, marcând astfel prima achiziție a verii pentru club. Aripa, considerată un talent promițător, era dorită de numeroase echipe de top din Europa, iar succesul lui Arsenal în această cursă subliniază strategia clubului de a investi în viitor și de a-și consolida academia.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-06-03T12:41:52.594303+00:00",
+      "data_afisaj": "3 iunie 2026, 15:41"
+    },
     {
       "id": "8376ad6ded69",
       "titlu": "Manchester United a convenit o taxă de 35 de milioane de lire sterline pentru Ederson, semnalând intențiile de vară",
