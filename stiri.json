@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-04T18:22:12.151911+00:00",
-  "updated_at_afisaj": "4 iunie 2026, 21:22",
+  "updated_at": "2026-06-04T19:16:04.459754+00:00",
+  "updated_at_afisaj": "4 iunie 2026, 22:16",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,41 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 117,
+  "numar_stiri": 116,
   "stiri": [
+    {
+      "id": "526fea8335d9",
+      "titlu": "CEO-ul Manchester United, Omar Berrada, face aluzie la incertitudinile privind viitorul lui Bruno Fernandes",
+      "rezumat": "Omar Berrada, directorul executiv al Manchester United, a declarat că, deși clubul dorește ca Bruno Fernandes să rămână, nu a exclus posibilitatea plecării căpitanului în această vară. Fernandes, în vârstă de 31 de ani, a fost votat Jucătorul Anului de către Asociația Jurnaliștilor de Fotbal după un sezon remarcabil cu 21 de pase decisive în Premier League. Cu toate acestea, mesajele sale ambigue despre viitor au stârnit speculații și discuții intense în rândul fanilor și presei sportive.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-04T19:16:04.455808+00:00",
+      "data_afisaj": "4 iunie 2026, 22:16"
+    },
+    {
+      "id": "8e591a5391d5",
+      "titlu": "Liga Engleză de Fotbal (EFL) elimină interdicția de transfer pe trei ferestre pentru plățile întârziate",
+      "rezumat": "Cluburile din English Football League (EFL) au votat pentru a reduce durata ferestrelor de transfer cu restricții pentru plățile întârziate. Această modificare semnificativă a regulamentului vizează oferirea unei flexibilități mai mari cluburilor care se confruntă cu dificultăți financiare temporare, permițându-le să gestioneze mai eficient situațiile legate de transferuri. Decizia reflectă o adaptare a politicilor ligii la realitățile economice ale cluburilor și ar putea avea un impact considerabil asupra strategiilor de mercato.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-04T19:16:04.457598+00:00",
+      "data_afisaj": "4 iunie 2026, 22:16"
+    },
+    {
+      "id": "d34782d8725f",
+      "titlu": "Un potențial mai mare decât Messi? Ce urmează pentru Lamine Yamal?",
+      "rezumat": "Lamine Yamal, tânărul talent în vârstă de 18 ani, este o figură cheie în lotul Spaniei pentru Cupa Mondială. Articolul explorează potențialul său imens și motivele pentru care este rapid să respingă comparațiile cu Lionel Messi. Se analizează așteptările legate de cariera sa și pașii următori în dezvoltarea sa ca fotbalist de top, având în vedere performanțele sale impresionante la o vârstă atât de fragedă și impactul pe care l-a avut deja în fotbalul de elită.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-04T19:16:04.459735+00:00",
+      "data_afisaj": "4 iunie 2026, 22:16"
+    },
     {
       "id": "312e4a36589f",
       "titlu": "Manchester United nu va ceda presiunii de a supraplăti în mercato",
@@ -1313,51 +1346,6 @@
       ],
       "data_publicare": "2026-05-28T19:34:06.717373+00:00",
       "data_afisaj": "28 mai 2026, 22:34"
-    },
-    {
-      "id": "1f8f7b3673a6",
-      "titlu": "Proprietarii Arsenal Promit Întăriri Semnificative ale Echipei și un Nou Contract pentru Arteta",
-      "rezumat": "Familia Kroenke, proprietarii clubului Arsenal, a declarat că va investi în întărirea lotului, indiferent de rezultatul finalei Ligii Campionilor. Josh Kroenke a subliniat că nu va exista o \"stagnare\" și că prioritatea absolută este prelungirea contractului antrenorului Mikel Arteta. Această decizie vine în contextul în care clubul își propune să continue dezvoltarea și să-și consolideze poziția la vârful fotbalului european, după un sezon de succes și o performanță notabilă în competițiile interne și europene.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-05-28T18:39:16.052278+00:00",
-      "data_afisaj": "28 mai 2026, 21:39"
-    },
-    {
-      "id": "e3c11ae7dbba",
-      "titlu": "Mauricio Pochettino, în Discuții cu AC Milan pentru Rolul de Antrenor Principal",
-      "rezumat": "Antrenorul echipei naționale a Statelor Unite, Mauricio Pochettino, a purtat discuții cu clubul italian AC Milan pentru a prelua funcția de manager începând cu sezonul viitor. Informația a fost confirmată de The Guardian, după ce jurnalistul italian Nicolò Schira a raportat inițial negocierile. Această mutare ar marca o revenire a lui Pochettino în fotbalul de club european, după o perioadă petrecută la cârma naționalei americane, și ar putea aduce o nouă direcție strategică pentru echipa din Serie A.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-28T18:39:16.053504+00:00",
-      "data_afisaj": "28 mai 2026, 21:39"
-    },
-    {
-      "id": "63c7d7ddb3f9",
-      "titlu": "Women's Super League Semnează un Acord Record de Patru Ani cu CBS Sports pentru Transmisii în SUA",
-      "rezumat": "Women's Super League (WSL) a încheiat un contract istoric pe patru ani cu CBS Sports, obținând drepturile de difuzare în Statele Unite, începând cu sezonul viitor și până la sfârșitul campaniei 2029-2030. Noul acord prevede ca serviciul de streaming Paramount+ să transmită 183 de meciuri WSL pe sezon, în timp ce CBS Sports Network va difuza un meci live pe săptămână, cu selecții suplimentare pe CBS Sports Golazo Network. Aceasta reprezintă o creștere semnificativă a valorii drepturilor TV pentru fotbalul feminin la nivel global.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-28T18:39:16.054842+00:00",
-      "data_afisaj": "28 mai 2026, 21:39"
-    },
-    {
-      "id": "844cc8e88705",
-      "titlu": "Tottenham Este Aproape de Transferul Fundașului Marcos Senesi de la Bournemouth",
-      "rezumat": "Clubul Tottenham Hotspur este pe cale să finalizeze transferul fundașului Marcos Senesi de la Bournemouth. Jucătorul ar urma să ajungă la Tottenham printr-un transfer gratuit, consolidând astfel defensiva echipei. Această mutare reprezintă o achiziție strategică pentru Spurs, care își propune să-și întărească lotul înaintea noului sezon, profitând de oportunitatea de a aduce un jucător experimentat fără costuri de transfer, în contextul planurilor de reconstrucție a echipei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-28T18:39:16.056023+00:00",
-      "data_afisaj": "28 mai 2026, 21:39"
     }
   ]
 }
