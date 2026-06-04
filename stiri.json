@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-03T20:13:50.395677+00:00",
-  "updated_at_afisaj": "3 iunie 2026, 23:13",
+  "updated_at": "2026-06-04T10:40:13.810768+00:00",
+  "updated_at_afisaj": "4 iunie 2026, 13:40",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,68 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 113,
+  "numar_stiri": 118,
   "stiri": [
+    {
+      "id": "0484b068d5cd",
+      "titlu": "Man City ia în considerare acțiuni în justiție pentru promisiunea candidatului Real de a semna Haaland",
+      "rezumat": "După ce un candidat la alegerile prezidențiale de la Real Madrid dezvăluie un tricou Erling Haaland la TV în direct, Manchester City a respins sugestia că atacantul lor se va muta în Spania.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-06-04T10:39:50.661349+00:00",
+      "data_afisaj": "4 iunie 2026, 13:39"
+    },
+    {
+      "id": "ff8dd1eedaaa",
+      "titlu": "Man City are oferta de deschidere a lui Anderson respinsă de Forest",
+      "rezumat": "Manchester City are o ofertă de transfer pentru mijlocașul Elliot Anderson, respinsă de Nottingham Forest.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-06-04T10:39:50.662739+00:00",
+      "data_afisaj": "4 iunie 2026, 13:39"
+    },
+    {
+      "id": "e257783f9764",
+      "titlu": "Legenda Chelsea Tambling a murit la vârsta de 84 de ani",
+      "rezumat": "Fostul marcator record al lui Chelsea, Bobby Tambling, care a marcat 202 de goluri pentru club, a murit la vârsta de 84 de ani.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-06-04T10:39:50.664113+00:00",
+      "data_afisaj": "4 iunie 2026, 13:39"
+    },
+    {
+      "id": "b55eeca6d189",
+      "titlu": "Cupa Mondială 2026: ghid pentru toți cei 1.248 de jucători",
+      "rezumat": "Tot ce trebuie să știi (și mai multe) despre fiecare membru al echipei. Faceți clic pe imaginile jucătorului pentru mai multe informații. Continuați să citiți...",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-04T10:39:50.665491+00:00",
+      "data_afisaj": "4 iunie 2026, 13:39"
+    },
+    {
+      "id": "ae29242c808f",
+      "titlu": "Victoriile underdog la Cupa Mondială: care au fost cele mai mari și cele mai bune supărări?",
+      "rezumat": "Am analizat datele din SUA 1994 încoace pentru a vedea cum și când au loc supărările clasice – și ce ar putea însemna asta pentru competiția din acest an. Anul acesta, cea mai mare Cupă Mondială din toate timpurile va cuprinde 48 de echipe, o creștere de la 32, deschizând turneul la și mai multe supărări, șocuri și surprize. Capriciile de la tragerea la sorți la Cupa Mondială au dat naștere de-a lungul anilor la victorii clasice de nefavorabili, de la înfrângerea șocantă a unei echipe amatoare din SUA în fața Angliei, favorite de atunci, în 1950. Dar ce face da",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-04T10:39:50.666964+00:00",
+      "data_afisaj": "4 iunie 2026, 13:39"
+    },
     {
       "id": "2a1e6370d23f",
       "titlu": "NWSL Vizează Creșterea Popularității Prin Intermediul Cupei Mondiale Masculine",
