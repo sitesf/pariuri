@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-04T10:40:13.810768+00:00",
-  "updated_at_afisaj": "4 iunie 2026, 13:40",
+  "updated_at": "2026-06-04T11:15:30.741027+00:00",
+  "updated_at_afisaj": "4 iunie 2026, 14:15",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,42 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 118,
+  "numar_stiri": 117,
   "stiri": [
+    {
+      "id": "d7e619d173ff",
+      "titlu": "Scandal în Naționala Franței privind costurile biletelor la Cupa Mondială 2026",
+      "rezumat": "Vedetele naționalei de fotbal a Franței se află într-un conflict cu federația „cocoșilor galici” înaintea Cupei Mondiale din 2026. Disputa vizează refuzul jucătorilor de a achita costul biletelor pentru membrii familiilor lor la meciurile turneului final. Această situație tensionată ridică semne de întrebare cu privire la armonia din cadrul echipei și la modul în care va fi gestionată relația dintre jucători și conducerea federației pe parcursul competiției.",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-06-04T11:15:30.737123+00:00",
+      "data_afisaj": "4 iunie 2026, 14:15"
+    },
+    {
+      "id": "b826b60995d8",
+      "titlu": "Tottenham Hotspur negociază transferul fundașului Jan Paul van Hecke de la Brighton",
+      "rezumat": "Tottenham Hotspur se află în discuții avansate cu Brighton pentru achiziționarea fundașului central Jan Paul van Hecke. Clubul londonez caută să-și consolideze defensiva în această perioadă de transferuri, iar jucătorul olandez, în vârstă de 24 de ani, este considerat o țintă prioritară. Negocierile sunt în desfășurare, iar un acord ar putea fi finalizat în curând, marcând o mutare importantă pentru ambele cluburi.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-06-04T11:15:30.739472+00:00",
+      "data_afisaj": "4 iunie 2026, 14:15"
+    },
+    {
+      "id": "cf2f88acff43",
+      "titlu": "Transferul lui Katie McCabe la Chelsea stârnește controverse și abuzuri online",
+      "rezumat": "Mutarea controversată a lui Katie McCabe de la Arsenal la Chelsea, după 11 ani petrecuți la clubul din nordul Londrei, a generat reacții puternice în rândul fanilor. Deși transferurile între rivale sunt inevitabile în fotbalul feminin, având în vedere numărul restrâns de cluburi de elită, reacția publicului a depășit limitele, transformându-se în abuzuri online. Această situație subliniază provocările cu care se confruntă jucătoarele în mediul digital.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-04T11:15:30.741008+00:00",
+      "data_afisaj": "4 iunie 2026, 14:15"
+    },
     {
       "id": "0484b068d5cd",
       "titlu": "Man City ia în considerare acțiuni în justiție pentru promisiunea candidatului Real de a semna Haaland",
@@ -1322,51 +1356,6 @@
       ],
       "data_publicare": "2026-05-28T11:38:50.129327+00:00",
       "data_afisaj": "28 mai 2026, 14:38"
-    },
-    {
-      "id": "abb9bf06c574",
-      "titlu": "Steve Clarke Semnează un Nou Contract cu Scoția Până la Cupa Mondială din 2030",
-      "rezumat": "Selecționerul Steve Clarke și-a prelungit contractul cu echipa națională a Scoției, un acord care se va întinde până la Cupa Mondială din 2030. Noul angajament include și acoperirea Campionatului European din 2028. Această decizie subliniază încrederea federației în viziunea și capacitatea lui Clarke de a ghida echipa în competițiile majore viitoare, consolidând stabilitatea la nivelul băncii tehnice și oferind continuitate proiectului sportiv. Obiectivul principal rămâne calificarea și performanța la turneele finale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-05-28T10:58:19.913719+00:00",
-      "data_afisaj": "28 mai 2026, 13:58"
-    },
-    {
-      "id": "b22885b26a37",
-      "titlu": "New York și New Jersey Lansează o Investigație Împotriva FIFA Privind Practicile de Ticketing la Cupa Mondială 2026",
-      "rezumat": "Procurorii generali din New York și New Jersey au inițiat o investigație oficială împotriva FIFA, vizând presupuse practici de manipulare a biletelor pentru Cupa Mondială din 2026. Ancheta se concentrează în special pe meciurile programate să aibă loc pe stadionul MetLife din East Rutherford, New Jersey. Anunțul a fost făcut de Letitia James din New York și Jennifer Dav din New Jersey, semnalând o acțiune legală importantă împotriva organismului de conducere al fotbalului mondial, cu implicații potențiale semnificative.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-28T10:58:19.915315+00:00",
-      "data_afisaj": "28 mai 2026, 13:58"
-    },
-    {
-      "id": "b580617f145a",
-      "titlu": "UEFA Este Criticată pentru Inacțiunea Față de Cluburile Ucrainene False Integrate în Sistemul de Fotbal Rus",
-      "rezumat": "UEFA nu a luat încă măsuri împotriva integrării cluburilor din teritoriile ucrainene ocupate ilegal în sistemul de fotbal al Rusiei, în ciuda solicitărilor Asociației Ucrainene de Fotbal (UAF) de anul trecut. Versiuni imitate ale unor cluburi de succes din Ucraina, precum Șahtior Donețk și Zorya Luhansk, concurează în prezent în a patra ligă rusă. Această situație ridică semne de întrebare privind respectarea regulamentelor și integritatea competițiilor europene, generând controverse și presiuni asupra forului continental.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-28T10:58:19.916731+00:00",
-      "data_afisaj": "28 mai 2026, 13:58"
-    },
-    {
-      "id": "1dc973b26c10",
-      "titlu": "Crystal Palace Câștigă Liga Conferințelor, Oferind un Adio Perfect Antrenorului Oliver Glasner",
-      "rezumat": "Crystal Palace a învins Rayo Vallecano cu scorul de 1-0 în finala UEFA Conference League, disputată la Leipzig. Golul victoriei a fost marcat de Jean-Philippe Mateta, asigurând clubului primul trofeu european din istorie. Această performanță reprezintă un adio memorabil pentru antrenorul Oliver Glasner, care părăsește echipa după un sezon încununat cu succes, lăsând o amprentă semnificativă asupra clubului londonez. Victoria marchează un moment istoric pentru Crystal Palace și încununează munca depusă sub conducerea lui Glasner.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-05-28T10:58:19.918076+00:00",
-      "data_afisaj": "28 mai 2026, 13:58"
     }
   ]
 }
