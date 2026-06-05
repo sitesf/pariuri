@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-04T19:16:04.459754+00:00",
-  "updated_at_afisaj": "4 iunie 2026, 22:16",
+  "updated_at": "2026-06-05T10:50:44.483935+00:00",
+  "updated_at_afisaj": "5 iunie 2026, 13:50",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,68 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 116,
+  "numar_stiri": 117,
   "stiri": [
+    {
+      "id": "82b3d24cc589",
+      "titlu": "Zeljko Kopic pleacă de la Dinamo București, invocând diferențe de strategie",
+      "rezumat": "Antrenorul croat Zeljko Kopic s-a despărțit de clubul Dinamo București, conform surselor românești. Decizia vine pe fondul unor diferențe de strategie între tehnician și acționarii clubului, precum și a unei posibile oferte primite de Kopic de la o echipă din zona arabă. Plecarea sa deschide discuții intense despre viitorul băncii tehnice a clubului și despre posibilele variante de antrenor luate în considerare de conducere. Această schimbare majoră vine într-un moment crucial pentru Dinamo.",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-06-05T10:50:44.477725+00:00",
+      "data_afisaj": "5 iunie 2026, 13:50"
+    },
+    {
+      "id": "b4ff6ebc0710",
+      "titlu": "Gică Hagi anunță portarul titular pentru meciul România – Țara Galilor",
+      "rezumat": "Selecționerul Gică Hagi a confirmat portarul titular al naționalei României pentru viitorul meci de pregătire împotriva Țării Galilor. Anunțul vine în contextul unor incertitudini legate de postul de portar, în special în absența lui Aioani. Decizia lui Hagi este așteptată să influențeze strategia echipei pentru această partidă importantă, care servește drept pregătire pentru competițiile viitoare. Detaliile privind alegerea portarului și motivele din spatele acesteia au fost făcute publice înainte de confruntarea crucială.",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-06-05T10:50:44.479309+00:00",
+      "data_afisaj": "5 iunie 2026, 13:50"
+    },
+    {
+      "id": "36e835c38cb5",
+      "titlu": "Au fost anunțate listele scurte pentru premiile PFA Jucătorul Anului (masculin și feminin)",
+      "rezumat": "Asociația Fotbaliștilor Profesioniști (PFA) a publicat listele scurte pentru premiile Jucătorul Anului, atât la categoria masculină, cât și la cea feminină. Printre nominalizații la categoria masculină se numără Declan Rice, Gabriel și David Raya de la Arsenal, alături de Bruno Fernandes, Erling Haaland și Rayan Cherki. La feminin, Khadija 'Bunny' Shaw și Yui Hasegawa de la Manchester City sunt printre candidate. Aceste nominalizări recunosc performanțele excepționale ale jucătorilor pe parcursul sezonului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-05T10:50:44.480964+00:00",
+      "data_afisaj": "5 iunie 2026, 13:50"
+    },
+    {
+      "id": "65b3f20e5e77",
+      "titlu": "Liverpool îl numește pe Andoni Iraola noul antrenor principal",
+      "rezumat": "Clubul englez Liverpool a anunțat numirea lui Andoni Iraola în funcția de antrenor principal, semnând un contract pe doi ani. Această decizie vine în urma demiterii lui Arne Slot. Iraola, cunoscut pentru stilul său de joc dinamic și rezultatele obținute la Bournemouth, este așteptat să aducă o nouă energie echipei de pe Anfield. Numirea sa marchează o schimbare importantă la conducerea tehnică a clubului, cu scopul de a revitaliza performanțele în competițiile viitoare și de a lupta pentru titluri.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-05T10:50:44.482373+00:00",
+      "data_afisaj": "5 iunie 2026, 13:50"
+    },
+    {
+      "id": "59b7840751bd",
+      "titlu": "FIFA solicită plata biletelor oferite din greșeală gratuit la Cupa Mondială",
+      "rezumat": "FIFA a anunțat că fanii care au primit din eroare bilete gratuite pentru meciurile din faza grupelor la Cupa Mondială, desfășurate în Toronto, trebuie să le plătească în termen de șapte zile, altfel își vor pierde locurile. Eroarea de ticketing a afectat un număr de suporteri, iar organismul de conducere al fotbalului mondial a luat măsuri pentru a rectifica situația. Această decizie a stârnit reacții diverse în rândul fanilor afectați, care se văd puși în fața unei situații neașteptate.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-05T10:50:44.483914+00:00",
+      "data_afisaj": "5 iunie 2026, 13:50"
+    },
     {
       "id": "526fea8335d9",
       "titlu": "CEO-ul Manchester United, Omar Berrada, face aluzie la incertitudinile privind viitorul lui Bruno Fernandes",
@@ -1302,50 +1362,6 @@
       ],
       "data_publicare": "2026-05-29T10:50:12.190863+00:00",
       "data_afisaj": "29 mai 2026, 13:50"
-    },
-    {
-      "id": "e9ac0c1a23df",
-      "titlu": "Neymar Ar Putea Rata Meciul de Deschidere al Braziliei la Cupa Mondială din Cauza unei Accidentări",
-      "rezumat": "Atacantul brazilian Neymar va fi indisponibil pentru o perioadă de două până la trei săptămâni, conform ultimelor informații. Această accidentare îl va împiedica să participe la meciurile amicale de pregătire ale Braziliei împotriva selecționatelor din Panama și Egipt. Există, de asemenea, o îngrijorare semnificativă că starul ar putea rata și primul meci al echipei naționale la Cupa Mondială, un eveniment major pentru selecționata sud-americană.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-28T19:34:06.714084+00:00",
-      "data_afisaj": "28 mai 2026, 22:34"
-    },
-    {
-      "id": "c7c7f8a7f77b",
-      "titlu": "Declan Rice, Luke Shaw și Derek McInnes Printre Câștigătorii Premiilor BBC Football",
-      "rezumat": "BBC Sport a decernat pentru prima dată premiile de fotbal de la sfârșitul sezonului, recompensând cei mai buni jucători și antrenori din fotbalul englez și scoțian. Printre laureați se numără Declan Rice, mijlocașul de la Arsenal, Luke Shaw, fundașul lui Manchester United, și Derek McInnes, antrenorul echipei Kilmarnock. Aceste distincții recunosc performanțele excepționale și contribuțiile semnificative ale acestora pe parcursul campaniei recente.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-28T19:34:06.715183+00:00",
-      "data_afisaj": "28 mai 2026, 22:34"
-    },
-    {
-      "id": "9f2c14947b62",
-      "titlu": "Crystal Palace Așteaptă Decizia lui Andoni Iraola pentru Postul de Antrenor, Frank Lampard o Alternativă",
-      "rezumat": "Clubul Crystal Palace, recent câștigător al Ligii Conferințelor, se află în așteptarea unui răspuns din partea antrenorului Andoni Iraola, considerat principala opțiune pentru preluarea băncii tehnice. În cazul în care negocierile cu Iraola nu se concretizează, Frank Lampard, actualul antrenor al echipei Coventry, este văzut ca o alternativă viabilă. Clubul caută să-și consolideze poziția după plecarea lui Oliver Glasner și succesul european.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-28T19:34:06.716333+00:00",
-      "data_afisaj": "28 mai 2026, 22:34"
-    },
-    {
-      "id": "a5ac56df3995",
-      "titlu": "Impactul Prezenței a Nouă Echipe Engleze în Competițiile Europene Asupra Premier League",
-      "rezumat": "Pentru al doilea sezon consecutiv, Premier League va avea nouă echipe calificate în competițiile europene, un număr record care va genera efecte semnificative la nivel intern. Această prezență masivă în Liga Campionilor, Europa League și Conference League va influența programul meciurilor, strategia cluburilor și, implicit, performanțele în campionatul intern. Se anticipează provocări logistice și de gestionare a loturilor pentru cluburile engleze, cu repercusiuni potențiale chiar și asupra echipelor din ligile inferioare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-28T19:34:06.717373+00:00",
-      "data_afisaj": "28 mai 2026, 22:34"
     }
   ]
 }
