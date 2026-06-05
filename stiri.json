@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-05T10:50:44.483935+00:00",
-  "updated_at_afisaj": "5 iunie 2026, 13:50",
+  "updated_at": "2026-06-05T11:28:32.603446+00:00",
+  "updated_at_afisaj": "5 iunie 2026, 14:28",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,44 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 117,
+  "numar_stiri": 115,
   "stiri": [
+    {
+      "id": "1e3d636ebae8",
+      "titlu": "Graham Potter, bucuros de calificarea Suediei la Cupa Mondială după eșecurile de la Chelsea și West Ham",
+      "rezumat": "Antrenorul Graham Potter a vorbit despre satisfacția și mândria de a conduce echipa națională a Suediei la Cupa Mondială, după experiențele sale dificile la cârma cluburilor Chelsea și West Ham. El a reflectat asupra modului în care a depășit eșecurile anterioare, găsind o nouă bucurie în rolul său de selecționer. Potter a menționat că se simte 'foarte suedez' în timpul activității sale, subliniind adaptarea sa la noul mediu și importanța acestei calificări în cariera sa.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-05T11:28:32.597993+00:00",
+      "data_afisaj": "5 iunie 2026, 14:28"
+    },
+    {
+      "id": "80b7f450042b",
+      "titlu": "St Mirren îl numește pe Craig McLeish antrenor permanent",
+      "rezumat": "Craig McLeish a fost numit antrenor permanent al echipei St Mirren, semnând un contract pe o perioadă de trei ani. Numirea vine după ce McLeish a condus echipa spre supraviețuirea în Premiership-ul Scoțian, demonstrând abilități manageriale solide. Experiența sa anterioară la academia clubului a fost un factor decisiv în decizia conducerii, care își propune să continue dezvoltarea echipei și să-i consolideze poziția în ligă sub îndrumarea sa.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-06-05T11:28:32.601133+00:00",
+      "data_afisaj": "5 iunie 2026, 14:28"
+    },
+    {
+      "id": "452de7393c9c",
+      "titlu": "Regulatorul Independent al Fotbalului din Anglia respinge apelurile pentru un rol mai amplu în promovarea egalității",
+      "rezumat": "Regulatorul Independent al Fotbalului (IFR) din Anglia este pregătit să respingă solicitările organizației Kick It Out de a-și asuma un rol mai amplu în promovarea egalității, diversității și incluziunii (EDI) în cadrul cluburilor. Decizia IFR vine după o a doua rundă de consultări privind termenii de licențiere și indică faptul că nu va impune cluburilor ținte EDI obligatorii sau rapoarte anuale în acest sens. Această poziție a stârnit discuții privind viitorul inițiativelor de egalitate în fotbalul englez.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-05T11:28:32.603426+00:00",
+      "data_afisaj": "5 iunie 2026, 14:28"
+    },
     {
       "id": "82b3d24cc589",
       "titlu": "Zeljko Kopic pleacă de la Dinamo București, invocând diferențe de strategie",
@@ -1306,62 +1342,6 @@
       ],
       "data_publicare": "2026-05-29T11:29:20.467018+00:00",
       "data_afisaj": "29 mai 2026, 14:29"
-    },
-    {
-      "id": "5fcd44ab1534",
-      "titlu": "Ibrahima Konate Va Părăsi Liverpool la Finalul Contractului",
-      "rezumat": "Fundașul Ibrahima Konate este pregătit să plece de la Liverpool ca jucător liber de contract, odată cu expirarea înțelegerii sale în luna iunie. Reprezentanții jucătorului și clubul nu au reușit să ajungă la un acord pentru prelungirea contractului, punând capăt unei perioade de cinci ani petrecute de francez pe Anfield. Konate este acum liber să negocieze cu alte cluburi, fiind o țintă pentru echipe precum PSG, Real Madrid și Bayern Munchen. Plecarea sa ar marca al doilea an consecutiv în care Liverpool pierde un jucător important fără a primi o sumă de transfer.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-05-29T10:50:12.185519+00:00",
-      "data_afisaj": "29 mai 2026, 13:50"
-    },
-    {
-      "id": "c69fa712b669",
-      "titlu": "Lionel Messi Va Juca la a Șasea Sa Cupă Mondială",
-      "rezumat": "Lionel Messi, căpitanul și deținătorul trofeului Cupei Mondiale cu Argentina, a confirmat participarea sa la turneul din 2026. Aceasta va marca a șasea apariție a starului argentinian la o Cupă Mondială, o performanță remarcabilă în cariera sa deja legendară. Messi va conduce echipa Argentinei în încercarea de a-și apăra titlul mondial, consolidându-și astfel statutul de unul dintre cei mai mari fotbaliști din istorie. Anunțul vine în contextul pregătirilor pentru competiția globală.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-29T10:50:12.186755+00:00",
-      "data_afisaj": "29 mai 2026, 13:50"
-    },
-    {
-      "id": "5315ee64d7b4",
-      "titlu": "Irlanda Învinge Qatarul Într-un Amical Tensionat, Ambele Echipe Terminând în 10 Jucători",
-      "rezumat": "Naționala Republicii Irlanda a obținut o victorie cu 1-0 împotriva Qatarului, calificată la Cupa Mondială, într-un meci amical disputat recent. Căpitanul Nathan Collins a marcat singurul gol al partidei cu o lovitură de cap. Meciul a fost marcat de tensiuni, ambele echipe terminând jocul cu câte 10 jucători pe teren, în urma unor eliminări. Această confruntare a servit drept pregătire pentru ambele formații înaintea angajamentelor internaționale viitoare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-05-29T10:50:12.188203+00:00",
-      "data_afisaj": "29 mai 2026, 13:50"
-    },
-    {
-      "id": "b7569360ce85",
-      "titlu": "Eberechi Eze de la Arsenal Vizează o Victorie „Specială” în Finala Ligii Campionilor",
-      "rezumat": "Atacantul lui Arsenal, Eberechi Eze, a declarat că echipa sa are o oportunitate unică de a câștiga Liga Campionilor și că o astfel de victorie ar fi un moment cu adevărat special. Eze a respins criticile adresate echipei, subliniind determinarea jucătorilor de a cuceri trofeul. Arsenal se pregătește pentru finala Ligii Campionilor, iar declarațiile lui Eze reflectă încrederea și ambiția grupului de a realiza o performanță istorică pentru club.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-05-29T10:50:12.189575+00:00",
-      "data_afisaj": "29 mai 2026, 13:50"
-    },
-    {
-      "id": "45dbb9f786c2",
-      "titlu": "Manchester City Women Vizează o Dublă Istorică După Câștigarea Titlului",
-      "rezumat": "Echipa feminină a lui Manchester City, proaspăt campioană a ligii după un deceniu, își propune să realizeze o dublă istorică prin câștigarea finalei Cupei Angliei împotriva lui Brighton. Luna mai 2026 a fost una excepțională pentru club, care a reușit să-și prelungească și contractul cu atacanta Khadija \"Bunny\" Shaw, câștigătoare a Ghetei de Aur. Jucătoarele sunt motivate să adauge încă un trofeu în palmares, consolidând astfel succesul unui sezon remarcabil.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-29T10:50:12.190863+00:00",
-      "data_afisaj": "29 mai 2026, 13:50"
     }
   ]
 }
