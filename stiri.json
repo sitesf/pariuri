@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-05T17:59:14.288765+00:00",
-  "updated_at_afisaj": "5 iunie 2026, 20:59",
+  "updated_at": "2026-06-05T18:56:05.504543+00:00",
+  "updated_at_afisaj": "5 iunie 2026, 21:56",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,52 @@
   },
   "numar_stiri": 115,
   "stiri": [
+    {
+      "id": "548a46e03db2",
+      "titlu": "Spania și Anglia se confruntă într-un meci crucial de calificare la Cupa Mondială Feminină 2027",
+      "rezumat": "Naționalele feminine ale Spaniei și Angliei se întâlnesc într-un meci decisiv de calificare pentru Cupa Mondială din 2027, o reeditare a finalei Cupei Mondiale din 2023. Partida, considerată cea mai dificilă din fotbalul internațional feminin, are loc în Mallorca. O victorie ar demonstra că „Leoaicele” Angliei sunt pregătite să adauge un titlu mondial la cele două triumfuri europene, consolidându-și poziția în fruntea unei grupe de calificare dificile. Meciul este un test major pentru ambele echipe, cu implicații semnificative pentru parcursul lor în competiție.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-05T18:56:05.499081+00:00",
+      "data_afisaj": "5 iunie 2026, 21:56"
+    },
+    {
+      "id": "106e0142fb52",
+      "titlu": "Atmosfera Cupei Mondiale în Iran, marcată de diviziuni și dificultăți economice",
+      "rezumat": "Bucuria tradițională adusă de Cupa Mondială pe străzile Iranului s-a diminuat considerabil, pe fondul unei diviziuni tot mai mari între fani și echipa națională. Dificultățile economice și conflictele armate au contribuit la o schimbare profundă a stării de spirit. Un exemplu este filmul „Life, and Nothing More…” al regizorului iranian Abbas Kiarostami, care ilustra cum, în timpul Cupei Mondiale din 1990, chiar și într-un sat devastat de cutremur, pasiunea pentru fotbal persista. Astăzi, contextul social și politic a umbrit entuziasmul general pentru turneu.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-05T18:56:05.500647+00:00",
+      "data_afisaj": "5 iunie 2026, 21:56"
+    },
+    {
+      "id": "b756aaff008a",
+      "titlu": "Jucătorii Iranului primesc vize pentru SUA înaintea Cupei Mondiale, confirmă Casa Albă",
+      "rezumat": "Jucătorii echipei naționale de fotbal a Iranului au primit vizele necesare pentru a intra în Statele Unite, a confirmat un oficial al Casei Albe. Anunțul vine cu doar zece zile înainte de primul lor meci la Los Angeles, pe fondul tensiunilor continue dintre cele două țări. Ambasadorul iranian în Mexic declarase anterior că echipa încă aștepta vizele, dar acestea au fost acordate peste noapte. Echipa și-a mutat deja baza de antrenament din Arizona în Mexic, pregătindu-se pentru debutul la turneul mondial.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-05T18:56:05.502990+00:00",
+      "data_afisaj": "5 iunie 2026, 21:56"
+    },
+    {
+      "id": "65d5f89ed0e6",
+      "titlu": "Jonathan Wilson: VAR a modificat fundamental modul în care se joacă fotbalul",
+      "rezumat": "Jonathan Wilson, editorialist la World Soccer Magazine, susține că sistemul VAR a adus schimbări fundamentale în dinamica fotbalului modern. Într-un articol publicat inițial în ediția din ianuarie 2026, Wilson subliniază că fotbalul este un joc complex, iar orice modificare a regulilor are efecte în lanț. Introducerea VAR, deși menită să rectifice erorile de arbitraj, a alterat ritmul jocului, strategia echipelor și experiența generală a fanilor, necesitând o analiză atentă a impactului său pe termen lung și a consecințelor neintenționate.",
+      "categorie": "Fotbal",
+      "surse": [
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-05T18:56:05.504527+00:00",
+      "data_afisaj": "5 iunie 2026, 21:56"
+    },
     {
       "id": "576e06d1aa36",
       "titlu": "Martin O'Neill, numit antrenor permanent la Celtic după un dublu succes",
@@ -1299,51 +1345,6 @@
       ],
       "data_publicare": "2026-05-29T19:30:08.896761+00:00",
       "data_afisaj": "29 mai 2026, 22:30"
-    },
-    {
-      "id": "63d2f71974ab",
-      "titlu": "Jose Mourinho Revine la Real Madrid cu un Contract pe Trei Ani",
-      "rezumat": "Jose Mourinho a semnat un contract pe trei ani pentru a deveni antrenorul principal al echipei Real Madrid pentru a doua oară în cariera sa. Această mutare marchează o revenire importantă pentru antrenorul portughez la clubul unde a mai activat anterior, aducând cu sine așteptări mari din partea fanilor și a conducerii. Detaliile financiare și obiectivele specifice ale noului mandat nu au fost încă publicate, dar se anticipează o perioadă de reconstrucție și de luptă pentru trofee majore, atât pe plan intern, cât și european.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-29T18:37:51.355040+00:00",
-      "data_afisaj": "29 mai 2026, 21:37"
-    },
-    {
-      "id": "d1882d036d4c",
-      "titlu": "Kieran Trippier Este Aproape de un Transfer la Wolves",
-      "rezumat": "Fostul internațional englez Kieran Trippier este pe cale să devină prima achiziție a clubului Wolves în această vară, după plecarea sa de la Newcastle. S-a ajuns la un acord verbal între jucător și club, iar detaliile transferului sunt în curs de finalizare. Această mutare ar aduce experiență semnificativă în defensiva lui Wolves, Trippier fiind recunoscut pentru abilitățile sale de lider și pentru contribuțiile sale ofensive. Transferul este confirmat de mai multe surse de încredere.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-05-29T18:37:51.356371+00:00",
-      "data_afisaj": "29 mai 2026, 21:37"
-    },
-    {
-      "id": "4dabf1c4b997",
-      "titlu": "Real Madrid, Cel Mai Valoros Club de Fotbal din Lume",
-      "rezumat": "Real Madrid a fost desemnat cel mai valoros club din fotbalul mondial, conform unui raport recent. Rivala Barcelona a depășit Manchester United, urcând pe locul al doilea în acest clasament prestigios. Această evaluare subliniază nu doar succesul sportiv al clubului madrilen, ci și forța sa economică, brandul global și capacitatea de a genera venituri semnificative din diverse surse, consolidându-și poziția de lider în industria fotbalului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-29T18:37:51.357337+00:00",
-      "data_afisaj": "29 mai 2026, 21:37"
-    },
-    {
-      "id": "0f8326cff457",
-      "titlu": "Jurrien Timber de la Arsenal Este Apt pentru Finala Ligii Campionilor",
-      "rezumat": "Antrenorul lui Arsenal, Mikel Arteta, a confirmat că fundașul olandez Jurrien Timber este apt să înceapă finala Ligii Campionilor. Această veste vine după ce Timber a fost absent de pe teren pentru mai bine de două luni din cauza unei accidentări la inghinal. Revenirea sa este un impuls semnificativ pentru \"tunari\" înaintea meciului decisiv, oferind opțiuni suplimentare în defensivă și consolidând speranțele echipei de a câștiga trofeul european.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-29T18:37:51.358309+00:00",
-      "data_afisaj": "29 mai 2026, 21:37"
     }
   ]
 }
