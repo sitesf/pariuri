@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-05T18:56:05.504543+00:00",
-  "updated_at_afisaj": "5 iunie 2026, 21:56",
+  "updated_at": "2026-06-06T09:27:46.397655+00:00",
+  "updated_at_afisaj": "6 iunie 2026, 12:27",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 115,
+  "numar_stiri": 116,
   "stiri": [
+    {
+      "id": "456a7f7f5fc3",
+      "titlu": "Ghidul echipei Uruguay pentru Cupa Mondială 2026",
+      "rezumat": "Uruguayenii speră că Marcelo Bielsa va avea rezultate mai puțin fluctuante, astfel încât Federico Valverde să-i poată inspira să ajungă în fazele superioare. Acest articol face parte din Rețeaua de Experți a Cupei Mondiale 2026 a Guardian, o cooperare între unele dintre cele mai bune organizații media din cele 48 de țări calificate. theguardian.com publică previzualizări din trei țări în fiecare zi, în perioada premergătoare începerii turneului pe 11 iunie. Continuă lectura...",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-06T09:27:35.709122+00:00",
+      "data_afisaj": "6 iunie 2026, 12:27"
+    },
+    {
+      "id": "09db7300e454",
+      "titlu": "Domnul de neînlocuit și pretendent la Balonul de Aur – este acesta momentul lui Kane?",
+      "rezumat": "Harry Kane a fost descris ca fiind de neînlocuit pentru Anglia, dar va oferi Cupa Mondială scena pentru a demonstra că este acum cel mai bun?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-06T09:27:35.710610+00:00",
+      "data_afisaj": "6 iunie 2026, 12:27"
+    },
+    {
+      "id": "80975a0319ad",
+      "titlu": "Pionierul într-o echipă improbabilă de Cupa Mondială",
+      "rezumat": "Când Desmond Armstrong a înfruntat presa la Cupa Mondială din 1990, prima întrebare pe care a primit-o a fost una care i-a rămas în minte din motive greșite.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-06T09:27:35.712046+00:00",
+      "data_afisaj": "6 iunie 2026, 12:27"
+    },
+    {
+      "id": "b1c375a92063",
+      "titlu": "Spania expune slăbiciunile Angliei într-o înfrângere dureroasă",
+      "rezumat": "Anglia trebuia doar să evite înfrângerea împotriva Spaniei – în schimb, a suferit cea mai grea pierdere din ultimii 17 ani, dar nu este încă momentul să intrăm în panică.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-06T09:27:35.713359+00:00",
+      "data_afisaj": "6 iunie 2026, 12:27"
+    },
+    {
+      "id": "ae00dc57da77",
+      "titlu": "Impactul subestimat al omului de PR al Scoției care rade pe spate",
+      "rezumat": "Liam Kelly pare perplex după ce i s-a spus că a fost desemnat de unii coechipieri drept „omul de PR” al Scoției.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-06T09:27:35.714762+00:00",
+      "data_afisaj": "6 iunie 2026, 12:27"
+    },
     {
       "id": "548a46e03db2",
       "titlu": "Spania și Anglia se confruntă într-un meci crucial de calificare la Cupa Mondială Feminină 2027",
@@ -1301,50 +1357,6 @@
       ],
       "data_publicare": "2026-05-30T10:00:49.950171+00:00",
       "data_afisaj": "30 mai 2026, 13:00"
-    },
-    {
-      "id": "4c7bd1fd2b00",
-      "titlu": "Alphonso Davies, Inclus în Cel Mai Bun Lot al Canadei pentru Cupa Mondială",
-      "rezumat": "Selecționerul Canadei, Jesse Marsch, l-a inclus pe fundașul de la Bayern München, Alphonso Davies, în ceea ce el a descris ca fiind cel mai bun lot al Canadei \"adunat vreodată\" pentru Cupa Mondială din această vară. Prezența lui Davies este crucială pentru ambițiile echipei, care speră să aibă o performanță notabilă la turneul final. Anunțul subliniază încrederea antrenorului în calitatea jucătorilor selecționați.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-30T09:22:29.850060+00:00",
-      "data_afisaj": "30 mai 2026, 12:22"
-    },
-    {
-      "id": "b19684579045",
-      "titlu": "Finala Ligii Campionilor Rămâne Fără Transmisie Gratuită, în Ciuda Presiunilor",
-      "rezumat": "Fanii fotbalului vor avea nevoie de un abonament pentru a urmări finala Ligii Campionilor dintre Arsenal și PSG, după ce TNT Sports a decis să nu facă meciul disponibil gratuit. Decizia vine în ciuda presiunilor publice și a dorinței multor suporteri de a avea acces liber la unul dintre cele mai importante evenimente sportive ale anului, stârnind dezbateri privind accesibilitatea evenimentelor sportive majore.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-29T19:30:08.893984+00:00",
-      "data_afisaj": "29 mai 2026, 22:30"
-    },
-    {
-      "id": "470b97d2272a",
-      "titlu": "Bristol City Îl Numește pe Michael Skubala Antrenor Principal",
-      "rezumat": "Clubul Bristol City l-a numit pe Michael Skubala, fostul antrenor al echipei Lincoln, în funcția de manager. Skubala a semnat un contract pe o perioadă de trei ani cu echipa din Championship. Această mutare marchează o nouă etapă pentru Bristol City, care speră să obțină rezultate pozitive sub conducerea noului tehnician și să își îmbunătățească performanțele în campionat.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-29T19:30:08.895294+00:00",
-      "data_afisaj": "29 mai 2026, 22:30"
-    },
-    {
-      "id": "32214633fe1e",
-      "titlu": "Dick Advocaat Revine în Scoția cu Naționala Curaçao Înainte de o Apariție Istorică la Cupa Mondială",
-      "rezumat": "Antrenorul Dick Advocaat a revenit în Scoția, de această dată la conducerea naționalei Curaçao, care se pregătește pentru o apariție istorică la Cupa Mondială din 2026. Advocaat, care a avut succes cu Rangers în Scoția în urmă cu 27 de ani, a adus echipa sa la Glasgow pentru un meci amical. Această participare la Cupa Mondială reprezintă o premieră pentru Curaçao și un moment important pentru fotbalul din insulă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-29T19:30:08.896761+00:00",
-      "data_afisaj": "29 mai 2026, 22:30"
     }
   ]
 }
