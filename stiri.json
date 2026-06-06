@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-06T10:03:38.479107+00:00",
-  "updated_at_afisaj": "6 iunie 2026, 13:03",
+  "updated_at": "2026-06-06T17:18:39.457632+00:00",
+  "updated_at_afisaj": "6 iunie 2026, 20:18",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,67 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 118,
+  "numar_stiri": 119,
   "stiri": [
+    {
+      "id": "6a7b4e5d41e8",
+      "titlu": "Sullivan demisionează de la West Ham în urma acuzațiilor istorice",
+      "rezumat": "Co-proprietarul West Ham United, David Sullivan, demisionează din funcția de președinte comun al clubului cu efect imediat, în urma unei investigații comune a BBC Panorama și a ziarului The Times privind comportamentul său.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-06T17:18:31.231206+00:00",
+      "data_afisaj": "6 iunie 2026, 20:18"
+    },
+    {
+      "id": "c022240bad66",
+      "titlu": "Cum să urmărești Cupa Mondială la BBC",
+      "rezumat": "Cea mai mare Cupă Mondială din istorie începe pe 11 iunie și există mai multe modalități de a o urmări la BBC decât oricând înainte.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-06-06T17:18:31.232437+00:00",
+      "data_afisaj": "6 iunie 2026, 20:18"
+    },
+    {
+      "id": "8857f5699b22",
+      "titlu": "Cupa Mondială 2026: Toate cele 48 de loturi confirmate",
+      "rezumat": "Toate cele 48 de loturi confirmate pentru Cupa Mondială 2026 din SUA, Canada și Mexic.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-06T17:18:31.233649+00:00",
+      "data_afisaj": "6 iunie 2026, 20:18"
+    },
+    {
+      "id": "7ba9f2140ee3",
+      "titlu": "Cupa Mondială 2026: Ghidul echipei Franței",
+      "rezumat": "Kylian Mbappé, Ousmane Dembélé și Michael Olise au puterea ofensivă de a distruge adversarii, dar îi va lăsa Didier Deschamps să-și facă de cap? Acest articol face parte din Rețeaua de Experți a Cupei Mondiale 2026 a The Guardian, o colaborare între unele dintre cele mai bune organizații media din cele 48 de țări calificate. theguardian.com publică previzualizări din trei țări în fiecare zi, în perioada premergătoare începerii turneului pe 11 iunie. Continuă să citești...",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-06T17:18:31.234816+00:00",
+      "data_afisaj": "6 iunie 2026, 20:18"
+    },
+    {
+      "id": "1f24894cf9ff",
+      "titlu": "Fulgerul oprește un amical pre-Cupa Mondială în Texas timp de două ore",
+      "rezumat": "Meciul de pregătire al Arabiei Saudite pentru Cupa Mondială împotriva Puerto Rico din Texas este oprit timp de aproape două ore din cauza vremii extreme.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-06T17:18:31.236125+00:00",
+      "data_afisaj": "6 iunie 2026, 20:18"
+    },
     {
       "id": "e2662cae3fd9",
       "titlu": "FIFA a dat înapoi pe sticlele de apă din plastic la Cupa Mondială după condamnarea interdicției",
@@ -1330,56 +1389,6 @@
       ],
       "data_publicare": "2026-05-30T17:59:54.787726+00:00",
       "data_afisaj": "30 mai 2026, 20:59"
-    },
-    {
-      "id": "5e1ba1d09a04",
-      "titlu": "Liverpool îl demite pe Arne Slot; Andoni Iraola, principalul favorit pentru înlocuire",
-      "rezumat": "Liverpool a anunțat demiterea antrenorului principal Arne Slot, după doar două sezoane la conducerea clubului, în care a reușit să câștige titlul în Premier League. Decizia vine în urma unei scăderi dramatice a performanțelor echipei în acest sezon, culminând cu un loc cinci în campionat. Andoni Iraola, actualul antrenor al lui Bournemouth, este considerat principalul candidat pentru a prelua banca tehnică de pe Anfield. S-a speculat că relațiile tensionate cu jucătorii ar fi contribuit la plecarea lui Slot, marcând o cădere remarcabilă pentru antrenorul olandez.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "FourFourTwo",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-30T17:12:38.640745+00:00",
-      "data_afisaj": "30 mai 2026, 20:12"
-    },
-    {
-      "id": "8f80cf3bb9c0",
-      "titlu": "Finala Ligii Campionilor: Paris Saint-Germain vs Arsenal, Live de la Budapesta",
-      "rezumat": "Finala Ligii Campionilor dintre Paris Saint-Germain și Arsenal se desfășoară la Budapesta, cu start la ora 18:00 (ora locală). Meciul este un eveniment major al calendarului fotbalistic european, atrăgând atenția fanilor din întreaga lume. Arsenal, care nu a mai câștigat Premier League din 2004, speră să își adauge un trofeu european în palmares. Transmisiunea în direct oferă cele mai recente actualizări și analize de la fața locului, pe măsură ce cele două echipe se luptă pentru supremația continentală, într-o confruntare așteptată cu mare interes.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-30T17:12:38.641995+00:00",
-      "data_afisaj": "30 mai 2026, 20:12"
-    },
-    {
-      "id": "698ef3b611f2",
-      "titlu": "Scoția Învinge Curaçao într-un Amical de Pregătire pentru Cupa Mondială, dar Billy Gilmour se Accidentază",
-      "rezumat": "Naționala Scoției a obținut o victorie cu 4-1 împotriva selecționatei Curaçao într-un meci amical, ultimul pe teren propriu înainte de plecarea la Cupa Mondială din 2026. Lawrence Shankland și Findlay Curtis au fost printre remarcații partidei. Cu toate acestea, antrenorul Steve Clarke și-a exprimat îngrijorarea cu privire la starea de sănătate a mijlocașului Billy Gilmour, care a părăsit terenul accidentat. Accidentarea lui Gilmour ridică semne de întrebare serioase în privința participării sale la turneul final, fiind o lovitură pentru planurile Scoției înaintea competiției majore.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-30T17:12:38.643464+00:00",
-      "data_afisaj": "30 mai 2026, 20:12"
-    },
-    {
-      "id": "eb2fe9654bfd",
-      "titlu": "Kasper Schmeichel Anunță Retragerea din Fotbal la Vârsta de 39 de Ani",
-      "rezumat": "Portarul danez Kasper Schmeichel, fost jucător emblematic al lui Leicester City, a anunțat oficial retragerea sa din activitatea de fotbalist profesionist la vârsta de 39 de ani. Într-un interviu emoționant, Schmeichel a declarat că \"uneori corpul ia deciziile pe care inima nu le poate citi\", indicând că decizia nu a fost una ușoară. Cariera sa impresionantă include câștigarea titlului de Premier League cu Leicester în 2016, o performanță istorică. Retragerea sa marchează sfârșitul unei ere pentru unul dintre cei mai respectați portari ai generației sale, lăsând în urmă o moștenire importantă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-05-30T17:12:38.645205+00:00",
-      "data_afisaj": "30 mai 2026, 20:12"
     }
   ]
 }
