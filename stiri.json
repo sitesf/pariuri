@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-06T17:18:39.457632+00:00",
-  "updated_at_afisaj": "6 iunie 2026, 20:18",
+  "updated_at": "2026-06-06T18:02:48.137957+00:00",
+  "updated_at_afisaj": "6 iunie 2026, 21:02",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 119,
+  "numar_stiri": 120,
   "stiri": [
+    {
+      "id": "b38986563b2a",
+      "titlu": "Arsenal se apropie de fundașul PSG Mbemba",
+      "rezumat": "Arsenal face o abordare pentru a semna pe adolescent fundașul Paris St-Germain, Emmanuel Mbemba, la un transfer gratuit în această vară.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-06T18:02:23.444192+00:00",
+      "data_afisaj": "6 iunie 2026, 21:02"
+    },
+    {
+      "id": "11f8747fb000",
+      "titlu": "Republica Irlanda remiză salvarea împotriva Canadei",
+      "rezumat": "Chiedozie Ogbene a egalat în a doua repriză pentru Republica Irlanda într-un egal 1-1 împotriva Canadei la Montreal.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-06T18:02:23.445590+00:00",
+      "data_afisaj": "6 iunie 2026, 21:02"
+    },
+    {
+      "id": "a17aae26dc3b",
+      "titlu": "Noapte de luptă: Billam-Smith vs Rozicki se află în topul numărului de bani LIVE!",
+      "rezumat": "(rezumat indisponibil)",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-06-06T18:02:23.447010+00:00",
+      "data_afisaj": "6 iunie 2026, 21:02"
+    },
+    {
+      "id": "d8ae1fd9bafa",
+      "titlu": "Cricketul „se împușcă în picior” în timp ce prânzul este luat în mijlocul soarelui",
+      "rezumat": "Chiar și cei care adoră cricket-ul pot fi frustrați de el.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-06-06T18:02:23.448416+00:00",
+      "data_afisaj": "6 iunie 2026, 21:02"
+    },
+    {
+      "id": "d00356a3e9e8",
+      "titlu": "„Puterea răutăcioasă!” | MacMillan înscrie prima oprire istorică la Zuffa Boxing UK!",
+      "rezumat": "Alex MacMillan a organizat o clinică pentru a-l învinge pe Leo Fanthome și a marca prima oprire a lui Zuffa Boxing pe teritoriul Marii Britanii.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-06-06T18:02:23.449847+00:00",
+      "data_afisaj": "6 iunie 2026, 21:02"
+    },
     {
       "id": "6a7b4e5d41e8",
       "titlu": "Sullivan demisionează de la West Ham în urma acuzațiilor istorice",
@@ -1344,51 +1399,6 @@
       ],
       "data_publicare": "2026-05-31T09:48:35.641883+00:00",
       "data_afisaj": "31 mai 2026, 12:48"
-    },
-    {
-      "id": "d31915ea1f0e",
-      "titlu": "Poliția din Budapesta Investigează o Bătălie între Suporteri Înainte de Finala Ligii Campionilor",
-      "rezumat": "Poliția din Budapesta a efectuat arestări și analizează înregistrările camerelor de supraveghere în urma unei bătălii între suporteri, care a avut loc înainte de finala Ligii Campionilor dintre Arsenal și Paris Saint-Germain. Incidentele violente au umbrit atmosfera premergătoare marelui meci, forțele de ordine intervenind pentru a restabili ordinea. Autoritățile locale sunt determinate să identifice și să tragă la răspundere persoanele implicate în altercații, pentru a asigura siguranța publică la evenimentele sportive majore.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-30T17:59:54.783531+00:00",
-      "data_afisaj": "30 mai 2026, 20:59"
-    },
-    {
-      "id": "644a4b4e0eb6",
-      "titlu": "Anthony Gordon S-a Transferat la Barcelona Într-o Afacere de Peste 69 Milioane Lire Sterline",
-      "rezumat": "Atacantul englez Anthony Gordon a fost prezentat oficial la FC Barcelona, după ce a finalizat transferul de la Newcastle United într-o tranzacție evaluată la peste 69,3 milioane de lire sterline. Jucătorul a semnat un contract cu gigantul spaniol până în 2031, declarând că mutarea reprezintă un vis devenit realitate încă din copilărie. Prezentarea sa a fost marcată de entuziasm, Gordon exprimându-și dorința de a contribui la succesul clubului catalan.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-30T17:59:54.784931+00:00",
-      "data_afisaj": "30 mai 2026, 20:59"
-    },
-    {
-      "id": "f11302565483",
-      "titlu": "Antrenorul Brighton, Dario Vidosic, Motivat de o Tragedie Familială în Finala Cupei Angliei la Fotbal Feminin",
-      "rezumat": "Antrenorul principal al echipei feminine Brighton, Dario Vidosic, își conduce echipa spre finala Cupei Angliei împotriva lui Manchester City, la doar patru luni după ce și-a pierdut tatăl. Crescut în Brisbane, Vidosic își amintește cu drag de serile petrecute alături de tatăl său, Rado, urmărind finale pe Wembley. Tragedia personală a adăugat o motivație suplimentară pentru Vidosic și echipa sa, care speră să aducă trofeul acasă în memoria tatălui său.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-30T17:59:54.786369+00:00",
-      "data_afisaj": "30 mai 2026, 20:59"
-    },
-    {
-      "id": "5c73935acc30",
-      "titlu": "Impresarul lui Kennedy Boateng, Negocieri cu Gigi Becali: „N-a Semnat cu Alt Club!”",
-      "rezumat": "Într-o evoluție surprinzătoare pe piața transferurilor din România, impresarul fundașului Kennedy Boateng a inițiat discuții cu Gigi Becali, patronul FCSB. Declarația conform căreia jucătorul nu a semnat încă cu niciun alt club deschide posibilitatea unui transfer la echipa bucureșteană. Această veste vine ca o \"lovitură de teatru\" și ar putea influența semnificativ strategia de mercato a FCSB, care caută să-și întărească lotul pentru viitoarele competiții.",
-      "categorie": "Fotbal",
-      "surse": [
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-05-30T17:59:54.787726+00:00",
-      "data_afisaj": "30 mai 2026, 20:59"
     }
   ]
 }
