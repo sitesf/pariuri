@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-06T09:27:46.397655+00:00",
-  "updated_at_afisaj": "6 iunie 2026, 12:27",
+  "updated_at": "2026-06-06T10:03:38.479107+00:00",
+  "updated_at_afisaj": "6 iunie 2026, 13:03",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 116,
+  "numar_stiri": 118,
   "stiri": [
+    {
+      "id": "e2662cae3fd9",
+      "titlu": "FIFA a dat înapoi pe sticlele de apă din plastic la Cupa Mondială după condamnarea interdicției",
+      "rezumat": "Fanilor li se va permite acum o sticlă sigilată la meciurile Keir Starmer, printre criticii politicii anterioare de schimbare în U. Fifa și-a modificat din nou politica privind sticlele de apă pentru Cupa Mondială din America de Nord, permițând fanilor să aducă pe stadioane o sticlă sigilată, de unică folosință, de 590 ml. Deținătorilor de bilete li s-a permis anterior o sticlă goală, transparentă și reutilizabilă de până la un litru, dar o actualizare la începutul acestei săptămâni a confirmat că sticlele reutilizabile nu mai erau permise. Continuă să citești...",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-06T10:03:12.111918+00:00",
+      "data_afisaj": "6 iunie 2026, 13:03"
+    },
+    {
+      "id": "2799f6e4dcfd",
+      "titlu": "Ce echipă de Cupă Mondială ești? Faceți testul nostru",
+      "rezumat": "Indiferent dacă sunteți neutru și aveți nevoie de o echipă care să vă susțină sau pur și simplu doriți să urmăriți o a doua parte, BBC Sport vă găsește.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-06T10:03:12.113344+00:00",
+      "data_afisaj": "6 iunie 2026, 13:03"
+    },
+    {
+      "id": "b40340cfb44a",
+      "titlu": "Tuchel nu va lăsa pasul Tampa să afecteze selecția",
+      "rezumat": "Antrenorul principal al Angliei, Thomas Tuchel, spune că rapoartele despre starea terenului de la locul de desfășurare a amicalului echipei sale împotriva Noii Zeelande nu vor influența selecția echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-06T10:03:12.114670+00:00",
+      "data_afisaj": "6 iunie 2026, 13:03"
+    },
+    {
+      "id": "fa5cffbe542e",
+      "titlu": "O'Neill se pregătește să rămână ca antrenor al Celticului",
+      "rezumat": "Martin O'Neill va continua ca antrenor Celtic după ce a condus echipa la o dublă în Premiership și Cupa Scoției.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-06T10:03:12.115947+00:00",
+      "data_afisaj": "6 iunie 2026, 13:03"
+    },
+    {
+      "id": "ccedcb264ee1",
+      "titlu": "Mowbray se întoarce ca antrenor principal al Blackburn",
+      "rezumat": "Blackburn Rovers îl numește pe Tony Mowbray ca noul lor antrenor principal pentru a doua perioadă la conducere.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-06T10:03:12.117175+00:00",
+      "data_afisaj": "6 iunie 2026, 13:03"
+    },
     {
       "id": "456a7f7f5fc3",
       "titlu": "Ghidul echipei Uruguay pentru Cupa Mondială 2026",
@@ -1324,39 +1380,6 @@
       ],
       "data_publicare": "2026-05-30T17:12:38.645205+00:00",
       "data_afisaj": "30 mai 2026, 20:12"
-    },
-    {
-      "id": "edae41c0bb79",
-      "titlu": "Raheem Sterling, Arestat Sub Suspiciunea de Conducere Sub Influența Drogurilor",
-      "rezumat": "Fostul internațional englez Raheem Sterling a fost arestat sub suspiciunea de conducere sub influența drogurilor. Informația a fost confirmată de Sky News. Detaliile complete ale incidentului nu au fost încă făcute publice, iar autoritățile continuă investigațiile. Această veste reprezintă un eveniment neașteptat în afara terenului pentru jucătorul de fotbal, care a reprezentat Anglia la nivel internațional.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-05-30T10:00:49.947537+00:00",
-      "data_afisaj": "30 mai 2026, 13:00"
-    },
-    {
-      "id": "1ef25e1bb5ce",
-      "titlu": "Actualizare Stare de Sănătate Achraf Hakimi Înainte de Finala Ligii Campionilor",
-      "rezumat": "Există îngrijorări semnificative cu privire la starea de sănătate a fundașului dreapta Achraf Hakimi de la Paris Saint-Germain, înaintea finalei Ligii Campionilor. Atât PSG, cât și naționala Marocului, sunt în așteptarea unei decizii finale privind aptitudinea sa de joc. O eventuală absență a lui Hakimi ar reprezenta o lovitură majoră pentru echipa franceză, având în vedere rolul său crucial în defensivă și atac.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-05-30T10:00:49.948914+00:00",
-      "data_afisaj": "30 mai 2026, 13:00"
-    },
-    {
-      "id": "831d835afe38",
-      "titlu": "Viitorul lui Vinicius Jr. Sub Conducerea lui Jose Mourinho la Real Madrid",
-      "rezumat": "Odată cu revenirea lui Jose Mourinho la cârma Real Madrid, una dintre cele mai atent urmărite aspecte va fi modul în care antrenorul portughez va gestiona relația cu atacantul brazilian Vinicius Junior. Relația dintre antrenor și jucătorul cheie va fi crucială pentru performanța echipei în noul mandat al lui Mourinho. Această dinamică va influența strategia și succesul clubului în sezoanele următoare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-30T10:00:49.950171+00:00",
-      "data_afisaj": "30 mai 2026, 13:00"
     }
   ]
 }
