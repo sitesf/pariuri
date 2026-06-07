@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-06T18:02:48.137957+00:00",
-  "updated_at_afisaj": "6 iunie 2026, 21:02",
+  "updated_at": "2026-06-07T10:06:47.088888+00:00",
+  "updated_at_afisaj": "7 iunie 2026, 13:06",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,67 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 120,
+  "numar_stiri": 121,
   "stiri": [
+    {
+      "id": "634cb417f7c5",
+      "titlu": "Anglia învinge Noua Zeelandă în primul meci de pregătire pentru Cupa Mondială",
+      "rezumat": "O lovitură de cap a lui Harry Kane a adus Angliei o victorie cu 1-0 împotriva Noii Zeelande în primul lor meci de pregătire pentru Cupa Mondială, în Tampa, Florida.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-07T10:06:38.386945+00:00",
+      "data_afisaj": "7 iunie 2026, 13:06"
+    },
+    {
+      "id": "2cfd64d01a2e",
+      "titlu": "Scoția zdrobește Bolivia înainte de deschiderea Cupei Mondiale",
+      "rezumat": "Che Adams a marcat de două ori, în timp ce o Scoție dominantă a zdrobit Bolivia cu 4-0 în New Jersey, în ultimul lor amical înainte de a-și începe campania la Cupa Mondială săptămâna viitoare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-07T10:06:38.388303+00:00",
+      "data_afisaj": "7 iunie 2026, 13:06"
+    },
+    {
+      "id": "b2a77437e960",
+      "titlu": "Ghidul echipei Norvegiei pentru Cupa Mondială 2026",
+      "rezumat": "Ståle Solbakken conduce țara la primul turneu major în 26 de ani, știind că, avându-l pe Erling Haaland în atac, orice se poate întâmpla. Acest articol face parte din Rețeaua de Experți a Cupei Mondiale 2026 a Guardian, o cooperare între unele dintre cele mai bune organizații media din cele 48 de țări calificate. theguardian.com publică previzualizări din trei țări în fiecare zi, în perioada premergătoare începerii turneului pe 11 iunie. Continuă lectura...",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-07T10:06:38.389552+00:00",
+      "data_afisaj": "7 iunie 2026, 13:06"
+    },
+    {
+      "id": "7ba0dd19cc97",
+      "titlu": "Acesta a fost un meci de antrenament - Anglia și Tuchel trebuie acum să devină serioși",
+      "rezumat": "Anglia mai are un singur meci pentru a se pregăti pentru campania lor la Cupa Mondială - și trebuie să-l folosească cu înțelepciune, scrie Phil McNulty.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-07T10:06:38.390996+00:00",
+      "data_afisaj": "7 iunie 2026, 13:06"
+    },
+    {
+      "id": "a2343c8f110c",
+      "titlu": "Pacientă, precisă, clinică - este Scoția pregătită să-și lase amprenta la Cupa Mondială?",
+      "rezumat": "Scoția zdrobește Bolivia și este într-o formă decentă cu o săptămână înainte de cel mai mare meci din viața lor internațională.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-07T10:06:38.392464+00:00",
+      "data_afisaj": "7 iunie 2026, 13:06"
+    },
     {
       "id": "b38986563b2a",
       "titlu": "Arsenal se apropie de fundașul PSG Mbemba",
@@ -1353,52 +1412,6 @@
       ],
       "data_publicare": "2026-05-31T10:15:38.659458+00:00",
       "data_afisaj": "31 mai 2026, 13:15"
-    },
-    {
-      "id": "84a94b247e1d",
-      "titlu": "PSG Câștigă Liga Campionilor la Fotbal, Învingând Arsenal la Loviturile de Departajare",
-      "rezumat": "Paris Saint-Germain a reușit să-și păstreze titlul în Liga Campionilor, învingând echipa Arsenal într-o finală dramatică decisă la loviturile de departajare. Meciul, care a avut loc la Budapesta, a fost unul echilibrat, cu ambele echipe luptând pentru supremație. Victoria marchează al doilea succes consecutiv al parizienilor în cea mai prestigioasă competiție europeană inter-cluburi, consolidându-le poziția în elita fotbalului continental. Pentru Arsenal, înfrângerea reprezintă o dezamăgire majoră după un parcurs remarcabil până în finală.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-05-31T09:48:35.637436+00:00",
-      "data_afisaj": "31 mai 2026, 12:48"
-    },
-    {
-      "id": "fb67ae107211",
-      "titlu": "Sute de Persoane Arestate în Franța După Sărbătorile Ligii Campionilor",
-      "rezumat": "Sute de persoane au fost arestate în Franța în urma unor incidente izbucnite pe fondul sărbătorilor pentru victoria echipei Paris Saint-Germain în finala Ligii Campionilor. Mii de ofițeri de poliție au intervenit pentru a calma mulțimile de fani, dintre care unii au folosit torțe, în timp ce celebrau succesul echipei lor împotriva lui Arsenal. Autoritățile au raportat tulburări și acte de vandalism în mai multe orașe, necesitând o intervenție amplă pentru restabilirea ordinii publice.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-05-31T09:48:35.638670+00:00",
-      "data_afisaj": "31 mai 2026, 12:48"
-    },
-    {
-      "id": "6bc67c55d712",
-      "titlu": "Sezonul Dificil al lui Liverpool, Marcat de Tragedia Dispariției lui Jota",
-      "rezumat": "Sezonul echipei Liverpool a fost profund afectat de o tragedie personală, moartea atacantului Jota, care a decedat într-un accident rutier în iulie 2025, în timp ce se întorcea din Portugalia. Această pierdere devastatoare, survenită la doar 11 zile după nunta sa, a marcat un declin dramatic în performanțele echipei sub conducerea antrenorului Arne Slot. Deși inițial echipa a avut un start promițător, tragedia a creat o atmosferă de doliu și a contribuit la un sezon plin de dificultăți și rezultate sub așteptări.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-31T09:48:35.640574+00:00",
-      "data_afisaj": "31 mai 2026, 12:48"
-    },
-    {
-      "id": "497d9d0dd077",
-      "titlu": "Canada Anunță Lotul pentru Cupa Mondială, Mizând pe Sănătate, Viteză și Încredere",
-      "rezumat": "Selecționerul Canadei, Jesse Marsch, a anunțat lotul de 26 de jucători pentru Cupa Mondială, punând accent pe sănătatea fizică, viteza jucătorilor și încrederea în potențialul echipei. Deciziile finale au fost influențate de accidentări de ultim moment, dar Marsch este convins că a asamblat cel mai puternic lot pe care Canada l-a avut vreodată. Obiectivul este de a obține o performanță notabilă pe teren propriu, în contextul în care Canada este una dintre țările gazdă ale turneului din 2026.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-31T09:48:35.641883+00:00",
-      "data_afisaj": "31 mai 2026, 12:48"
     }
   ]
 }
