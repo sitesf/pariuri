@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-07T17:22:56.201224+00:00",
-  "updated_at_afisaj": "7 iunie 2026, 20:22",
+  "updated_at": "2026-06-07T18:00:17.907019+00:00",
+  "updated_at_afisaj": "7 iunie 2026, 21:00",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,42 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 121,
+  "numar_stiri": 120,
   "stiri": [
+    {
+      "id": "2b8ce35bae75",
+      "titlu": "Echipa Iranului a aterizat în Mexic pe fondul disputei privind vizele pentru SUA",
+      "rezumat": "Naționala de fotbal a Iranului a ajuns în Mexic pentru pregătirile finale înaintea Cupei Mondiale 2026. Această deplasare vine în contextul unei controverse legate de vizele pentru Statele Unite, unde Iranul va disputa toate meciurile din faza grupelor. Din cauza tensiunilor diplomatice, jucătorii și staff-ul tehnic vor fi nevoiți să călătorească în și din SUA în fiecare zi de meci, o situație logistică complexă care ar putea afecta pregătirea și performanța echipei pe durata turneului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-07T18:00:17.902414+00:00",
+      "data_afisaj": "7 iunie 2026, 21:00"
+    },
+    {
+      "id": "a20c821df085",
+      "titlu": "Cupa Mondială din America de Nord va fi o experiență unică, afirmă Emma Hayes",
+      "rezumat": "Emma Hayes, o voce respectată în fotbal, anticipează că viitoarea Cupă Mondială din America de Nord va fi o experiență fără precedent. Echipele participante trebuie să se pregătească pentru provocări logistice semnificative, incluzând distanțe mari de călătorie și condiții climatice variate, cu temperaturi ridicate. Cu 104 meciuri desfășurate în trei țări și 16 orașe, pe trei fusuri orare diferite, amploarea turneului este imensă. Hayes subliniază că, pe lângă dificultăți, jucătorii și fanii vor descoperi o cultură fotbalistică vibrantă și suporteri entuziaști.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-07T18:00:17.905212+00:00",
+      "data_afisaj": "7 iunie 2026, 21:00"
+    },
+    {
+      "id": "21adf3d64a71",
+      "titlu": "Luis de la Fuente: „Aprecierea pentru antrenorii spanioli ar fi trebuit să apară cu mult timp în urmă”",
+      "rezumat": "Selecționerul Spaniei, Luis de la Fuente, a declarat că valoarea antrenorilor spanioli ar fi trebuit recunoscută la nivel global cu mult timp în urmă. Într-un interviu, el a vorbit despre cultura antrenoratului din Spania, bucuria de a preda și talentele excepționale ale unor jucători precum Lamine Yamal. De la Fuente, a cărui carieră internațională ca jucător s-a limitat la naționalele de tineret, conduce acum echipa mare spre Cupa Mondială, subliniind importanța dezvoltării continue și a filosofiei de joc specifice Spaniei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-07T18:00:17.906996+00:00",
+      "data_afisaj": "7 iunie 2026, 21:00"
+    },
     {
       "id": "48ec54a0de13",
       "titlu": "De la aripă sclipitoare la veteranul care abia mai aleargă: evoluția lui Messi",
@@ -1365,51 +1399,6 @@
       ],
       "data_publicare": "2026-06-01T12:41:18.631467+00:00",
       "data_afisaj": "1 iunie 2026, 15:41"
-    },
-    {
-      "id": "0100c89de90a",
-      "titlu": "Manchester City Câștigă Finala Cupei Angliei la Fotbal Feminin și Realizează Dubla Domestică",
-      "rezumat": "Manchester City a obținut a patra Cupă a Angliei la fotbal feminin și a completat dubla domestică, învingând Brighton cu un scor categoric de 4-0 pe stadionul Wembley. Khadija Shaw a marcat un gol, sărbătorind astfel noul său contract. Echipa a demonstrat o eficiență clinică în fața porții, oferind o lecție dură adversarelor despre importanța concretizării ocaziilor într-o finală, chiar dacă Brighton a avut momente bune de joc. Această victorie subliniază dominația echipei în fotbalul feminin englez.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-31T17:56:19.657333+00:00",
-      "data_afisaj": "31 mai 2026, 20:56"
-    },
-    {
-      "id": "093fd04eaff6",
-      "titlu": "Ibrahima Konate Își Exprimă Regretul După Plecarea de la Liverpool",
-      "rezumat": "Fundașul francez Ibrahima Konate a declarat că va părăsi clubul Liverpool cu \"amintiri pe viață\", după ce a experimentat \"momente de glorie și dificultăți\" în perioada petrecută pe Anfield. Plecarea sa marchează sfârșitul unei etape importante pentru jucător, care a contribuit la parcursul echipei în diverse competiții. Declarația sa subliniază legătura emoțională creată cu clubul și suporterii, reflectând complexitatea tranzițiilor în cariera unui fotbalist de top.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-31T17:56:19.659461+00:00",
-      "data_afisaj": "31 mai 2026, 20:56"
-    },
-    {
-      "id": "9b069f290288",
-      "titlu": "Țara Galilor Îl Convoacă pe Tânărul Fundaș de la Leeds, Jayden Lienou",
-      "rezumat": "Jayden Lienou, tânărul fundaș stânga de la Leeds United, a fost convocat pentru prima dată la echipa națională de seniori a Țării Galilor. Acesta va participa la meciurile amicale împotriva Ghanei și României, oferindu-i o oportunitate importantă de a se afirma pe scena internațională. Convocarea reprezintă o recunoaștere a performanțelor sale la nivel de club și indică o posibilă nouă generație de talente pentru naționala galeză, care își propune să construiască o echipă competitivă pentru viitor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-31T17:56:19.660765+00:00",
-      "data_afisaj": "31 mai 2026, 20:56"
-    },
-    {
-      "id": "601bdfef327b",
-      "titlu": "Mauricio Pochettino: Lionel Messi Este Fundamental pentru Creșterea Fotbalului în SUA",
-      "rezumat": "Mauricio Pochettino a subliniat rolul esențial al lui Lionel Messi în dezvoltarea fotbalului în Statele Unite. Antrenorul argentinian a declarat că Messi a devenit un \"etalon\" pentru adversarii din MLS, forțându-i să înțeleagă ce înseamnă cu adevărat să concurezi la cel mai înalt nivel. De la sosirea sa la Inter Miami în 2023, Messi a avut un impact semnificativ, ridicând standardele și vizibilitatea ligii americane, atrăgând o atenție globală fără precedent asupra campionatului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-05-31T17:56:19.662151+00:00",
-      "data_afisaj": "31 mai 2026, 20:56"
     }
   ]
 }
