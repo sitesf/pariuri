@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-07T10:06:47.088888+00:00",
-  "updated_at_afisaj": "7 iunie 2026, 13:06",
+  "updated_at": "2026-06-07T10:29:07.700183+00:00",
+  "updated_at_afisaj": "7 iunie 2026, 13:29",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 121,
+  "numar_stiri": 122,
   "stiri": [
+    {
+      "id": "0fbffea85192",
+      "titlu": "Ghidul echipei pentru Cupa Mondială din Irak 2026",
+      "rezumat": "Echipa lui Graham Arnold a depășit adversitatea pe teren și în afara terenului, dar poate beneficia de presiunea exercitată de ei într-un grup dur. theguardian.com difuzează în fiecare zi previzualizări din trei țări, înaintea turneului care va începe pe 11 iunie. Continuă să citești...",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-07T10:28:42.608095+00:00",
+      "data_afisaj": "7 iunie 2026, 13:28"
+    },
+    {
+      "id": "03dacb0cc4cc",
+      "titlu": "Este Portugalia mai bună fără Ronaldo - și este el de neatins?",
+      "rezumat": "În timp ce Cristiano Ronaldo se pregătește pentru a șasea sa Cupă Mondială cu Portugalia, BBC Sport aruncă o privire mai atentă asupra locului său în echipă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-07T10:28:42.609521+00:00",
+      "data_afisaj": "7 iunie 2026, 13:28"
+    },
+    {
+      "id": "62a80659b434",
+      "titlu": "Născut în Leeds, realizat în Norvegia: Cum Haaland a devenit superstarul națiunii",
+      "rezumat": "Erling Haaland a condus Norvegia la prima lor Cupă Mondială din 1998. Deci, cum este să fii un nume global al unei națiuni cu o populație de doar 5,5 milioane de oameni?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-07T10:28:42.611003+00:00",
+      "data_afisaj": "7 iunie 2026, 13:28"
+    },
+    {
+      "id": "6f7ef9636643",
+      "titlu": "Shankland, Gunn și o enigmă la mijlocul terenului - marile decizii ale lui Clarke",
+      "rezumat": "Antrenorul principal al Scoției, Steve Clarke, are „câteva decizii de luat” când vine vorba de XI-ul său titular pentru deschiderea Cupei Mondiale împotriva Haiti, duminică, dar care sunt acestea?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-07T10:28:42.612422+00:00",
+      "data_afisaj": "7 iunie 2026, 13:28"
+    },
+    {
+      "id": "9a0344a32e7f",
+      "titlu": "Amicale înainte de Cupa Mondială - Messi sa odihnit și Leao eliminat",
+      "rezumat": "Marele argentinian Lionel Messi se odihnește împotriva Hondurasului, în timp ce Brazilia, Germania, Belgia și Portugalia câștigă fiecare meciuri de încălzire înainte de Cupa Mondială.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-07T10:28:42.613840+00:00",
+      "data_afisaj": "7 iunie 2026, 13:28"
+    },
     {
       "id": "634cb417f7c5",
       "titlu": "Anglia învinge Noua Zeelandă în primul meci de pregătire pentru Cupa Mondială",
@@ -1368,50 +1424,6 @@
       ],
       "data_publicare": "2026-05-31T17:11:04.523365+00:00",
       "data_afisaj": "31 mai 2026, 20:11"
-    },
-    {
-      "id": "24c595d4b377",
-      "titlu": "Tyler Fletcher, Convocat în Lotul Scoției pentru Cupa Mondială, Îl Înlocuiește pe Billy Gilmour",
-      "rezumat": "Adolescentul Tyler Fletcher, de la Manchester United, a fost selecționat în ultimul moment pentru a se alătura lotului Scoției pentru Cupa Mondială, înlocuindu-l pe Billy Gilmour. Mijlocașul Billy Gilmour a fost exclus din turneu după ce a suferit o accidentare la genunchi în timpul victoriei amicale a Scoției cu 4-1 împotriva echipei Curaçao. Această schimbare oferă o șansă neașteptată tânărului Fletcher de a participa la o competiție majoră, reprezentând o oportunitate importantă pentru cariera sa.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-05-31T10:15:38.655134+00:00",
-      "data_afisaj": "31 mai 2026, 13:15"
-    },
-    {
-      "id": "0456dcb5516f",
-      "titlu": "Rinat Akhmetov, Proprietarul lui Șahtior Donețk, Vorbește Despre Război și Viitorul Clubului",
-      "rezumat": "Rinat Akhmetov, cel mai bogat om din Ucraina și proprietarul clubului de fotbal Șahtior Donețk, a acordat un interviu rar în care a discutat despre impactul războiului asupra țării sale și a clubului. Acesta a relatat o experiență personală dramatică, afirmând că a fost la cinci secunde de moarte în timpul unui atac aerian asupra Kievului. Akhmetov a subliniat importanța fotbalului în contextul rezistenței Ucrainei și și-a exprimat optimismul cu privire la viitor, în ciuda provocărilor continue și a situației dificile din regiune.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-05-31T10:15:38.656659+00:00",
-      "data_afisaj": "31 mai 2026, 13:15"
-    },
-    {
-      "id": "cc7e76487616",
-      "titlu": "Ascensiunea Rapidă a lui Igor Thiago, de la Brazilia la Premier League",
-      "rezumat": "Igor Thiago a avut o ascensiune fulminantă, trecând de la ligile inferioare ale fotbalului brazilian la statutul de golgheter în Premier League, cu o posibilă convocare la Cupa Mondială în viitor. Clubul său, Brentford, este recunoscut pentru strategia sa de planificare a succesiunii, având capacitatea de a identifica și dezvolta talente brute. Povestea lui Thiago este un exemplu elocvent al acestei abordări, demonstrând cum un jucător poate ajunge la cel mai înalt nivel al fotbalului european prin muncă asiduă și oportunități bine gestionate.",
-      "categorie": "Fotbal",
-      "surse": [
-        "World Soccer"
-      ],
-      "data_publicare": "2026-05-31T10:15:38.657996+00:00",
-      "data_afisaj": "31 mai 2026, 13:15"
-    },
-    {
-      "id": "66f2845a0676",
-      "titlu": "Finala Cupei Campionilor CONCACAF 2026: Duel Mexican Între Deportivo Toluca și Tigres UANL",
-      "rezumat": "Finala Cupei Campionilor CONCACAF din 2026 va aduce față în față două echipe mexicane de top, Deportivo Toluca și Tigres UANL. Această confruntare integral mexicană va decide campioana regională și este un eveniment major în calendarul fotbalistic al Americii de Nord, Centrale și Caraibe. Meciul promite o luptă intensă pentru trofeu, atrăgând atenția fanilor din întreaga lume, care vor putea urmări spectacolul fotbalistic și vor fi martorii unei dispute pasionante pentru supremația continentală.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-05-31T10:15:38.659458+00:00",
-      "data_afisaj": "31 mai 2026, 13:15"
     }
   ]
 }
