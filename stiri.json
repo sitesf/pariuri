@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-07T18:00:17.907019+00:00",
-  "updated_at_afisaj": "7 iunie 2026, 21:00",
+  "updated_at": "2026-06-08T12:01:15.501590+00:00",
+  "updated_at_afisaj": "8 iunie 2026, 15:01",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,32 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 120,
+  "numar_stiri": 122,
   "stiri": [
+    {
+      "id": "bcaf8f5505d9",
+      "titlu": "Christian Eriksen este \"bine dispus\" după colapsul său",
+      "rezumat": "Mijlocașul danez Christian Eriksen se simte \"bine dispus\" după ce a suferit un colaps pe teren în timpul meciului împotriva Ucrainei. Doctorul echipei naționale a Danemarcei, Morten Boesen, a declarat că jucătorul este așteptat să fie externat din spital în curând. Incidentul a stârnit îngrijorare la nivel mondial, dar veștile recente sunt liniștitoare, indicând o recuperare pozitivă. Această veste aduce un sentiment de ușurare în lumea fotbalului, după momentele de tensiune de pe teren.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-08T12:01:15.497927+00:00",
+      "data_afisaj": "8 iunie 2026, 15:01"
+    },
+    {
+      "id": "57e57f4d2930",
+      "titlu": "Impuls major pentru WSL: Alexia Putellas ajunge la un acord cu London City",
+      "rezumat": "Alexia Putellas, considerată una dintre cele mai bune jucătoare de fotbal din lume, a ajuns la un acord personal cu London City Lionesses. Această mutare reprezintă o achiziție extraordinară pentru Women's Super League (WSL) și pentru clubul London City, o echipă independentă cu un singur sezon în prima ligă a fotbalului feminin englez. Venirea vedetei spaniole, după 14 ani petrecuți la Barcelona, este un semn al ambiției clubului și un impuls semnificativ pentru vizibilitatea și calitatea campionatului feminin.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-08T12:01:15.501565+00:00",
+      "data_afisaj": "8 iunie 2026, 15:01"
+    },
     {
       "id": "2b8ce35bae75",
       "titlu": "Echipa Iranului a aterizat în Mexic pe fondul disputei privind vizele pentru SUA",
