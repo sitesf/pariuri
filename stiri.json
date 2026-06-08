@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-08T12:27:37.528037+00:00",
-  "updated_at_afisaj": "8 iunie 2026, 15:27",
+  "updated_at": "2026-06-08T18:28:42.105661+00:00",
+  "updated_at_afisaj": "8 iunie 2026, 21:28",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,69 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 127,
+  "numar_stiri": 122,
   "stiri": [
+    {
+      "id": "e4cf4256633c",
+      "titlu": "Cum să urmărești Cupa Mondială pe BBC și ITV",
+      "rezumat": "Toate detaliile TV și radio pentru fiecare dintre meciurile din grupe ale Cupei Mondiale din 2026.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-08T18:28:34.789248+00:00",
+      "data_afisaj": "8 iunie 2026, 21:28"
+    },
+    {
+      "id": "b0a3b0d81b3c",
+      "titlu": "Eriksen acasă și 'se simte bine' după colaps",
+      "rezumat": "Christian Eriksen spune că \"se simte bine\" și este acasă cu familia sa după colapsul său din meciul de duminică împotriva Ucrainei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-06-08T18:28:34.790666+00:00",
+      "data_afisaj": "8 iunie 2026, 21:28"
+    },
+    {
+      "id": "0da9edf3303e",
+      "titlu": "Antrenorul Norvegiei îl numește pe Clarke al Scoției 'neprofesionist'",
+      "rezumat": "Steve Clarke este numit \"neprofesionist\" de omologul norvegian Stale Solbakken după ce Scoția a anulat un amical de antrenament înainte de Cupa Mondială.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-06-08T18:28:34.792010+00:00",
+      "data_afisaj": "8 iunie 2026, 21:28"
+    },
+    {
+      "id": "fc8a8fbee40f",
+      "titlu": "Cine sunt eu? Ghicește vedeta Cupei Mondiale Nr. 1",
+      "rezumat": "Vei ghici jucătorul de astăzi în cât mai puține încercări?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-06-08T18:28:34.793304+00:00",
+      "data_afisaj": "8 iunie 2026, 21:28"
+    },
+    {
+      "id": "f1c7bfc829cb",
+      "titlu": "Ghidul echipei Austriei pentru Cupa Mondială 2026",
+      "rezumat": "Lotul consacrat rămâne fidel metodelor lui Ralf Rangnick, cu Konrad Laimer și noul talent strălucitor Paul Wanner aducând un plus de calitate. Acest articol face parte din Rețeaua de Experți a Cupei Mondiale 2026 a The Guardian, o cooperare între unele dintre cele mai bune organizații media din cele 48 de țări calificate. theguardian.com publică previzualizări din trei țări în fiecare zi, în perioada premergătoare turneului care începe pe 11 iunie. Continuă să citești...",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-08T18:28:34.794553+00:00",
+      "data_afisaj": "8 iunie 2026, 21:28"
+    },
     {
       "id": "7dac81a491c6",
       "titlu": "Eriksen 'cu moral bun' după colaps",
@@ -1363,127 +1424,6 @@
       ],
       "data_publicare": "2026-06-01T20:19:45.049493+00:00",
       "data_afisaj": "1 iunie 2026, 23:19"
-    },
-    {
-      "id": "18d88d185915",
-      "titlu": "Milner, deținător de record, se retrage după o carieră de 24 de ani",
-      "rezumat": "Fostul internațional englez James Milner își anunță retragerea după o carieră de 24 de ani în Premier League.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-01T13:39:30.677308+00:00",
-      "data_afisaj": "1 iunie 2026, 16:39"
-    },
-    {
-      "id": "41809cd2584c",
-      "titlu": "Keegan dezvăluie diagnosticul de cancer în stadiul patru",
-      "rezumat": "Fostul căpitan și antrenor al Angliei, Kevin Keegan, dezvăluie că are cancer în stadiul patru.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-06-01T13:39:30.678008+00:00",
-      "data_afisaj": "1 iunie 2026, 16:39"
-    },
-    {
-      "id": "55afbd259f8e",
-      "titlu": "Cupa Mondială 2026: un ghid vizual al stadioanelor din cele trei națiuni gazdă",
-      "rezumat": "Tot ce trebuie să știi despre cele 16 stadioane gazdă din SUA, Mexic și Canada. Cupa Mondială din 2026 este cel mai mare turneu din istorie și, ca atare, implică mai multe stadioane în mai multe țări decât oricând. Un total de 16 locații vor găzdui marile meciuri din această vară, iar fiecare are o poveste de spus despre trecutul, prezentul și viitorul sportului în orașul său. Numele stadioanelor pot părea necunoscute, deoarece folosim numele aprobate de Fifa în loc de numele sponsorizate care contravin regulilor organismului de conducere.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-01T13:39:30.678732+00:00",
-      "data_afisaj": "1 iunie 2026, 16:39"
-    },
-    {
-      "id": "5b7f9d0dcb33",
-      "titlu": "TENIS Cine transmite la TV Sorana Cîrstea – Mirra Andreeva. Meciul din sferturile Roland Garros e marți, 2 iunie 2026, de la ora 12:00",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-06-01T13:39:30.679660+00:00",
-      "data_afisaj": "1 iunie 2026, 16:39"
-    },
-    {
-      "id": "c1fc91b193d7",
-      "titlu": "De ce Liverpool îl vrea pe Iraola și ce ar putea aduce el pe Anfield",
-      "rezumat": "De ce Liverpool crede că Andoni Iraola este omul potrivit pentru a restabili statutul „Cormoranilor” ca unul dintre cele mai bune cluburi din Europa.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-01T13:39:30.680331+00:00",
-      "data_afisaj": "1 iunie 2026, 16:39"
-    },
-    {
-      "id": "9f0d83c1e3f0",
-      "titlu": "James Milner Se Retrage Din Fotbal După O Carieră De 24 De Ani",
-      "rezumat": "Fostul internațional englez James Milner și-a anunțat retragerea din fotbal la vârsta de 40 de ani, punând capăt unei cariere impresionante de 24 de ani în Premier League. Milner, cunoscut pentru versatilitatea și profesionalismul său, a jucat pentru cluburi precum Leeds United, Newcastle United, Aston Villa, Manchester City, Liverpool și Brighton. De-a lungul carierei sale, a câștigat numeroase trofee, inclusiv trei titluri de Premier League și Liga Campionilor cu Liverpool, fiind un exemplu de longevitate și dedicare în fotbalul de elită.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-01T12:41:18.626141+00:00",
-      "data_afisaj": "1 iunie 2026, 15:41"
-    },
-    {
-      "id": "659b0cdbf679",
-      "titlu": "Kevin Keegan, Fostul Căpitan și Antrenor al Angliei, Diagnosticat Cu Cancer În Stadiul Patru",
-      "rezumat": "Legenda fotbalului englez, Kevin Keegan, a dezvăluit public că a fost diagnosticat cu cancer în stadiul patru. Fostul căpitan al naționalei Angliei și antrenor la cluburi precum Newcastle United și Manchester City, Keegan este o figură emblematică în fotbalul britanic. Anunțul a fost făcut de Keegan însuși, stârnind un val de mesaje de susținere din partea comunității fotbalistice și a fanilor din întreaga lume. Detalii suplimentare despre starea sa de sănătate nu au fost oferite public.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-06-01T12:41:18.627619+00:00",
-      "data_afisaj": "1 iunie 2026, 15:41"
-    },
-    {
-      "id": "801f429a5f5e",
-      "titlu": "Leah Williamson, Căpitanul Angliei, Ratează Meciurile De Calificare La Cupa Mondială",
-      "rezumat": "Leah Williamson, căpitanul echipei naționale de fotbal feminin a Angliei, va lipsi de la următoarele două meciuri de calificare pentru Cupa Mondială. Fundașul lui Arsenal a fost exclusă din lot pentru partidele împotriva Spaniei și Ucrainei din cauza unei accidentări. Absența lui Williamson reprezintă o lovitură semnificativă pentru selecționata Angliei, având în vedere rolul său crucial atât pe teren, cât și ca lider al echipei. Detalii specifice despre natura și gravitatea accidentării nu au fost comunicate.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-06-01T12:41:18.628947+00:00",
-      "data_afisaj": "1 iunie 2026, 15:41"
-    },
-    {
-      "id": "998df78aaf07",
-      "titlu": "Ghid Vizual Al Stadioanelor Gazdă Pentru Cupa Mondială 2026",
-      "rezumat": "Cu ocazia Cupei Mondiale din 2026, care va fi cel mai mare turneu din istorie, a fost publicat un ghid vizual detaliat al celor 16 stadioane gazdă. Aceste arene sunt situate în Statele Unite, Mexic și Canada, cele trei țări co-organizatoare ale evenimentului. Fiecare dintre cele 16 locații a fost prezentată cu informații relevante despre istoria, prezentul și viitorul sportului în orașele respective, oferind o perspectivă amplă asupra infrastructurii care va găzdui meciurile turneului final.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-01T12:41:18.630144+00:00",
-      "data_afisaj": "1 iunie 2026, 15:41"
-    },
-    {
-      "id": "2f28188baf5b",
-      "titlu": "Majoritatea Jucătoarelor De La Echipa Feminină Plymouth Argyle Vor Fi Eliberate Prin Email",
-      "rezumat": "Clubul Plymouth Argyle a informat majoritatea jucătoarelor din echipa sa feminină că nu li se vor reînnoi contractele în această vară. Decizia, descrisă ca fiind una dificilă de către directorul executiv Paul Berne, a fost comunicată prin email aproape întregului lot de senioare. Această veste vine la doar câteva săptămâni după ce echipa a ratat la limită promovarea în Women’s Super League 2, ridicând semne de întrebare cu privire la viitorul secției de fotbal feminin a clubului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-01T12:41:18.631467+00:00",
-      "data_afisaj": "1 iunie 2026, 15:41"
     }
   ]
 }
