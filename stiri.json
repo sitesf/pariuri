@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-08T18:28:42.105661+00:00",
-  "updated_at_afisaj": "8 iunie 2026, 21:28",
+  "updated_at": "2026-06-08T19:17:05.328947+00:00",
+  "updated_at_afisaj": "8 iunie 2026, 22:17",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 122,
+  "numar_stiri": 127,
   "stiri": [
+    {
+      "id": "d00e40625eb4",
+      "titlu": "„Lionel Messi nu avea nevoie de Cupa Mondială pentru a fi printre cei mai mari din toate timpurile, dar a meritat-o. El a adus glorie lui Javier Zanetti din Argentina pentru modul în care Messi a creat istoria în 2022",
+      "rezumat": "Lionel Messi a fost căpitanul Argentinei la Cupa Mondială în urmă cu patru ani, în Qatar",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-08T19:16:41.110063+00:00",
+      "data_afisaj": "8 iunie 2026, 22:16"
+    },
+    {
+      "id": "8d1bb7efe8d1",
+      "titlu": "Coproprietarul miliardarului West Ham, acuzat că și-a abuzat de putere și că a făcut sex cu femeile",
+      "rezumat": "Femeile spun că David Sullivan le-a spus că trebuie să facă sex cu el ca să apară în ziarele lui.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-08T19:16:41.111802+00:00",
+      "data_afisaj": "8 iunie 2026, 22:16"
+    },
+    {
+      "id": "0088c8abc4ed",
+      "titlu": "Urmărește: The Monday Night Club",
+      "rezumat": "Mark Chapman și invitații dezbat fotbalul din această săptămână.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-08T19:16:41.113213+00:00",
+      "data_afisaj": "8 iunie 2026, 22:16"
+    },
+    {
+      "id": "f934b2f55909",
+      "titlu": "Man City si Chelsea raman in discutii despre Maresca",
+      "rezumat": "Manchester City continuă negocierile cu Chelsea pentru a-l numi pe Enzo Maresca în funcția de nou antrenor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-08T19:16:41.114670+00:00",
+      "data_afisaj": "8 iunie 2026, 22:16"
+    },
+    {
+      "id": "a7b91d8428f0",
+      "titlu": "Arbitrul somalez Artan i-a fost interzis să intre în SUA",
+      "rezumat": "Arbitrul somalez Omar Artan, care urma să fie primul din țara sa care oficiază finala Cupei Mondiale, i se interzice intrarea în Statele Unite.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-08T19:16:41.116067+00:00",
+      "data_afisaj": "8 iunie 2026, 22:16"
+    },
     {
       "id": "e4cf4256633c",
       "titlu": "Cum să urmărești Cupa Mondială pe BBC și ITV",
