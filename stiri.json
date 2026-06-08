@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-08T12:01:15.501590+00:00",
-  "updated_at_afisaj": "8 iunie 2026, 15:01",
+  "updated_at": "2026-06-08T12:27:37.528037+00:00",
+  "updated_at_afisaj": "8 iunie 2026, 15:27",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,69 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 122,
+  "numar_stiri": 127,
   "stiri": [
+    {
+      "id": "7dac81a491c6",
+      "titlu": "Eriksen 'cu moral bun' după colaps",
+      "rezumat": "Christian Eriksen este \"cu moral bun\" după colapsul său împotriva Ucrainei și este de așteptat să fie externat din spital în curând, spune medicul echipei naționale a Danemarcei, Morten Boesen.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-08T12:27:29.684115+00:00",
+      "data_afisaj": "8 iunie 2026, 15:27"
+    },
+    {
+      "id": "198d63134d6b",
+      "titlu": "Bellingham are de luptat pentru un loc de titular la Anglia - Tuchel",
+      "rezumat": "Jude Bellingham are de luptat pentru a prinde un loc în echipa de start a Angliei la Cupa Mondială, spune antrenorul Thomas Tuchel.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-06-08T12:27:29.685593+00:00",
+      "data_afisaj": "8 iunie 2026, 15:27"
+    },
+    {
+      "id": "2655edf75f56",
+      "titlu": "Ghidul echipei Argentinei pentru Cupa Mondială 2026",
+      "rezumat": "Lotul puternic și încrezător al lui Lionel Scaloni nu mai depinde de Messi, în timp ce vizează titluri consecutive la Cupa Mondială. Acest articol face parte din Rețeaua de Experți a Cupei Mondiale 2026 a The Guardian, o cooperare între unele dintre cele mai bune organizații media din cele 48 de țări calificate. theguardian.com publică previzualizări din trei țări în fiecare zi, în perioada premergătoare începerii turneului pe 11 iunie. Continuă să citești...",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-08T12:27:29.686943+00:00",
+      "data_afisaj": "8 iunie 2026, 15:27"
+    },
+    {
+      "id": "3b8d8f383388",
+      "titlu": "Marius Șumudică, uimit de plecarea lui Zeljko Kopic de la Dinamo: „O să mă interesez dacă are ofertă din Arabia”",
+      "rezumat": "(rezumat indisponibil)",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-06-08T12:27:29.688917+00:00",
+      "data_afisaj": "8 iunie 2026, 15:27"
+    },
+    {
+      "id": "c2ce57e88f5b",
+      "titlu": "Primele două transferuri făcute de Real Madrid, după ce Florentino Perez a câștigat alegerile! Urmează marea lovitură",
+      "rezumat": "(rezumat indisponibil)",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-06-08T12:27:29.690846+00:00",
+      "data_afisaj": "8 iunie 2026, 15:27"
+    },
     {
       "id": "bcaf8f5505d9",
       "titlu": "Christian Eriksen este \"bine dispus\" după colapsul său",
