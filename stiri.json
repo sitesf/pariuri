@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-08T19:17:05.328947+00:00",
-  "updated_at_afisaj": "8 iunie 2026, 22:17",
+  "updated_at": "2026-06-09T10:35:59.861223+00:00",
+  "updated_at_afisaj": "9 iunie 2026, 13:35",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,53 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 127,
+  "numar_stiri": 121,
   "stiri": [
+    {
+      "id": "e7f8fd56d844",
+      "titlu": "Wolves îl transferă pe Trippier și negociază revenirea lui Jimenez",
+      "rezumat": "Clubul englez Wolverhampton Wanderers a anunțat achiziționarea fundașului Kieran Trippier, fost internațional englez, într-o mutare menită să consolideze apărarea echipei. Pe lângă acest transfer confirmat, Wolves se află în discuții avansate pentru a-l readuce pe fostul atacant Raul Jimenez, care ar urma să sosească la club ca jucător liber de contract. Aceste mișcări strategice subliniază intenția clubului de a-și întări lotul pentru viitorul sezon și de a aduce experiență în compartimentele cheie.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-09T10:35:59.856916+00:00",
+      "data_afisaj": "9 iunie 2026, 13:35"
+    },
+    {
+      "id": "c0a4c80f43a5",
+      "titlu": "Michel Platini depune plângere împotriva lui Gianni Infantino",
+      "rezumat": "Michel Platini, fostul președinte al UEFA, a depus o plângere împotriva actualului președinte FIFA, Gianni Infantino. Această acțiune legală reprezintă o nouă etapă în disputa dintre cei doi oficiali, adăugând tensiune în peisajul administrativ al fotbalului mondial. Detaliile plângerii nu au fost încă făcute publice în totalitate, dar se anticipează că vor viza aspecte legate de conducerea și deciziile luate la nivelul forului fotbalistic internațional, continuând o serie de confruntări juridice anterioare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-09T10:35:59.858302+00:00",
+      "data_afisaj": "9 iunie 2026, 13:35"
+    },
+    {
+      "id": "6905debdb086",
+      "titlu": "Edin Dzeko, la 40 de ani, se pregătește să-și conducă țara la Cupa Mondială",
+      "rezumat": "Atacantul bosniac Edin Dzeko, în vârstă de 40 de ani, a declarat că nu se aștepta să mai joace fotbal la această vârstă, dar se pregătește acum să fie căpitanul Bosniei și Herțegovinei la Cupa Mondială din 2026. Venind după un titlu câștigat cu Schalke în Germania, Dzeko este hotărât să demonstreze că vârsta este doar un număr și să-și inspire echipa într-o competiție majoră. El speră să surprindă Canada în meciul de deschidere, aducând experiența sa vastă pe terenul de joc.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-09T10:35:59.859798+00:00",
+      "data_afisaj": "9 iunie 2026, 13:35"
+    },
+    {
+      "id": "91fca0166817",
+      "titlu": "Clubul Durham din WSL2 riscă închiderea fără investiții urgente",
+      "rezumat": "Clubul de fotbal feminin Durham, care activează în a doua ligă engleză (WSL2), a emis un avertisment urgent, declarând că va fi nevoit să își înceteze operațiunile dacă nu va primi o injecție de capital în următoarele 21 de zile. Clubul, independent și neafiliat unei echipe masculine profesioniste, se confruntă cu dificultăți financiare majore, iar discuțiile cu potențiali investitori au eșuat. Această situație pune sub semnul întrebării viitorul unei echipe cu o istorie de 12 ani în eșalonul secund al fotbalului feminin englez.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-09T10:35:59.861206+00:00",
+      "data_afisaj": "9 iunie 2026, 13:35"
+    },
     {
       "id": "d00e40625eb4",
       "titlu": "„Lionel Messi nu avea nevoie de Cupa Mondială pentru a fi printre cei mai mari din toate timpurile, dar a meritat-o. El a adus glorie lui Javier Zanetti din Argentina pentru modul în care Messi a creat istoria în 2022",
@@ -1364,122 +1409,6 @@
       ],
       "data_publicare": "2026-06-02T11:20:24.169306+00:00",
       "data_afisaj": "2 iunie 2026, 14:20"
-    },
-    {
-      "id": "f135ce4e69ec",
-      "titlu": "DECLARAȚII Lui Florin Pîrvu i-au dat lacrimile după ce a promovat în Superliga la 2 ani de la decesul soției: „M-a ajutat de sus”",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-06-01T20:52:04.473448+00:00",
-      "data_afisaj": "1 iunie 2026, 23:52"
-    },
-    {
-      "id": "1046ee5b2b44",
-      "titlu": "Ochiul Arsenal Kroupi & Rogers - și o nouă afacere Arteta",
-      "rezumat": "După mult așteptata câștigare a titlului în Premier League, corespondentul senior de fotbal Sami Mokbel evaluează lista de sarcini a lui Arsenal pentru această vară.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-01T20:52:04.474770+00:00",
-      "data_afisaj": "1 iunie 2026, 23:52"
-    },
-    {
-      "id": "bda3bd2d29e4",
-      "titlu": "— Ești legendă. Antrenorului i-a plăcut' - a dezvăluit WhatsApp-urile Spygate de la Southampton",
-      "rezumat": "Noile mesaje WhatsApp au dezvăluit cum Southampton a orchestrat o campanie de spionaj împotriva rivalilor lor din campionat.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-01T20:52:04.476091+00:00",
-      "data_afisaj": "1 iunie 2026, 23:52"
-    },
-    {
-      "id": "14826d360208",
-      "titlu": "Chelsea respinge abordările pentru Acheampong",
-      "rezumat": "Chelsea respinge multiple abordări pentru tânărul fundaș promițător Josh Acheampong, pe care clubul îl consideră unul dintre „de neatins”.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-01T20:52:04.477229+00:00",
-      "data_afisaj": "1 iunie 2026, 23:52"
-    },
-    {
-      "id": "57bf245b701e",
-      "titlu": "Ambii rivali prezidențiali de la Fenerbahce își doresc Greenwood",
-      "rezumat": "Fostul atacant Angliei și Manchester United, Mason Greenwood, este o țintă cheie a transferurilor pentru ambii candidați la președinție ai lui Fenerbahce",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-01T20:52:04.478391+00:00",
-      "data_afisaj": "1 iunie 2026, 23:52"
-    },
-    {
-      "id": "71e7300068f9",
-      "titlu": "Chelsea o semnează pe McCabe după plecarea de la Arsenal",
-      "rezumat": "Chelsea confirmă semnarea căpitanului Republicii Irlanda, Katie McCabe, după plecarea ei de la Arsenal.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-01T20:19:45.045786+00:00",
-      "data_afisaj": "1 iunie 2026, 23:19"
-    },
-    {
-      "id": "9507b96a09ea",
-      "titlu": "Earps & Leon gata să se alăture echipei London City Lionesses",
-      "rezumat": "Fosta portăriță a Angliei, Mary Earps, și fundașul Spaniei, Mapi Leon, sunt pe punctul de a se alătura echipei London City Lionesses în această vară.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-06-01T20:19:45.046687+00:00",
-      "data_afisaj": "1 iunie 2026, 23:19"
-    },
-    {
-      "id": "f308e5561552",
-      "titlu": "Rodri își va rezolva viitorul la Man City după Cupa Mondială",
-      "rezumat": "Mijlocașul lui Manchester City, Rodri, spune că va aștepta până după Cupa Mondială pentru a-și rezolva viitorul la club, pe fondul legăturilor cu Real Madrid.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-01T20:19:45.047563+00:00",
-      "data_afisaj": "1 iunie 2026, 23:19"
-    },
-    {
-      "id": "54a8472d4026",
-      "titlu": "Ghidul echipei Curaçao pentru Cupa Mondială 2026",
-      "rezumat": "Cea mai mică națiune care a ajuns la o Cupă Mondială va fi ghidată de cel mai în vârstă antrenor, Dick Advocaat. Acest articol face parte din Rețeaua de Experți a Cupei Mondiale 2026 a Guardian, o cooperare între unele dintre cele mai bune organizații media din cele 48 de țări calificate. theguardian.com publică previzualizări din trei țări în fiecare zi, în perioada premergătoare începerii turneului pe 11 iunie. Continuă să citești...",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-01T20:19:45.048382+00:00",
-      "data_afisaj": "1 iunie 2026, 23:19"
-    },
-    {
-      "id": "17e9fc168ea6",
-      "titlu": "🚨 FC Voluntari – FC Hermannstadt 3-0. Ilfovenii au promovat în Superliga! Echipa lui Dorinel Munteanu a retrogradat",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-06-01T20:19:45.049493+00:00",
-      "data_afisaj": "1 iunie 2026, 23:19"
     }
   ]
 }
