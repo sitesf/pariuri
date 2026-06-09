@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-09T10:35:59.861223+00:00",
-  "updated_at_afisaj": "9 iunie 2026, 13:35",
+  "updated_at": "2026-06-09T11:14:53.931867+00:00",
+  "updated_at_afisaj": "9 iunie 2026, 14:14",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,68 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 121,
+  "numar_stiri": 126,
   "stiri": [
+    {
+      "id": "177ebc5ae8e6",
+      "titlu": "'Mazadona', 'Einstein', 'Furnica' - 20 de noi jucători de urmărit la Cupa Mondială 2026",
+      "rezumat": "Comentatorii TV și radio BBC Sport aleg jucătorii pe care îi consideră a fi vedetele în ascensiune ale Cupei Mondiale 2026.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-09T11:14:38.596256+00:00",
+      "data_afisaj": "9 iunie 2026, 14:14"
+    },
+    {
+      "id": "f1be64c68c63",
+      "titlu": "Arbitrul somalez Artan va rata Cupa Mondială după ce i-a fost interzisă intrarea în SUA",
+      "rezumat": "Omar Artan, care urma să fie primul somalez care arbitrează la Cupa Mondială, este scos de pe lista oficialilor după ce i-a fost refuzată intrarea în Statele Unite.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-06-09T11:14:38.597853+00:00",
+      "data_afisaj": "9 iunie 2026, 14:14"
+    },
+    {
+      "id": "8cc99fcae8b2",
+      "titlu": "Ghidul echipei Portugaliei pentru Cupa Mondială 2026",
+      "rezumat": "Ultima Cupă Mondială – cu siguranță – pentru Cristiano Ronaldo, iar Portugalia este într-o formă excelentă pentru o participare lungă în competiție. Acest articol face parte din Rețeaua de Experți a Cupei Mondiale 2026 a The Guardian, o cooperare între unele dintre cele mai bune organizații media din cele 48 de țări calificate. theguardian.com publică previzualizări din trei țări în fiecare zi, în perioada premergătoare turneului care începe pe 11 iunie. Continuă lectura...",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-09T11:14:38.599199+00:00",
+      "data_afisaj": "9 iunie 2026, 14:14"
+    },
+    {
+      "id": "3ae6366870af",
+      "titlu": "Meciul de deschidere de la Campionatul Mondial 2026. Unde se joacă prima partidă a celui mai mare turneu din istorie",
+      "rezumat": "(rezumat indisponibil)",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-06-09T11:14:38.601215+00:00",
+      "data_afisaj": "9 iunie 2026, 14:14"
+    },
+    {
+      "id": "46e30abd4239",
+      "titlu": "De ce o Cupă Mondială super-dimensionată și politizată vine cu un cost",
+      "rezumat": "Indiferent de perspectivă, pare cert că, pe lângă spectacolul de pe teren, această Cupă Mondială super-dimensionată ar putea fi una dintre cele mai controversate din toate timpurile.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-09T11:14:38.602717+00:00",
+      "data_afisaj": "9 iunie 2026, 14:14"
+    },
     {
       "id": "e7f8fd56d844",
       "titlu": "Wolves îl transferă pe Trippier și negociază revenirea lui Jimenez",
