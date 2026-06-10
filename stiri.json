@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-10T18:33:06.068686+00:00",
-  "updated_at_afisaj": "10 iunie 2026, 21:33",
+  "updated_at": "2026-06-10T19:30:05.331128+00:00",
+  "updated_at_afisaj": "10 iunie 2026, 22:30",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,52 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 123,
+  "numar_stiri": 127,
   "stiri": [
+    {
+      "id": "f7e88a8c95df",
+      "titlu": "Oficial american susține că arbitrul somalez interzis avea legături cu „organizații teroriste”",
+      "rezumat": "Un oficial american a declarat că arbitrul somalez Omar Artan, căruia i-a fost refuzată intrarea în Statele Unite, ar fi avut legături cu „membri suspectați ai unor organizații teroriste”. Artan fusese inclus pe lista finală a FIFA pentru a arbitra la Cupa Mondială 2026, devenind primul arbitru somalez cu această onoare. Această acuzație vine după ce i-a fost interzisă intrarea în SUA, împiedicându-l să participe la turneu.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-10T19:30:05.325249+00:00",
+      "data_afisaj": "10 iunie 2026, 22:30"
+    },
+    {
+      "id": "593d9859890d",
+      "titlu": "Deținătorii drepturilor TV, frustrați de întârzierea confirmării spectacolului de la pauza finalei Cupei Mondiale",
+      "rezumat": "Deținătorii drepturilor de televiziune pentru Cupa Mondială 2026 își exprimă frustrarea crescândă față de FIFA, care nu a confirmat încă durata spectacolului de la pauza finalei. Această întârziere creează probleme echipelor de publicitate și planificării transmisiunilor. Madonna, Shakira și trupa K-pop BTS sunt printre artiștii programați să performeze pe stadionul MetLife, iar incertitudinea legată de program afectează pregătirile logistice și comerciale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-10T19:30:05.327383+00:00",
+      "data_afisaj": "10 iunie 2026, 22:30"
+    },
+    {
+      "id": "e36cbbeac623",
+      "titlu": "Poliția din Essex a primit noi informații în cazul copreședintelui West Ham, David Sullivan",
+      "rezumat": "Poliția din Essex a fost contactată și a primit noi informații referitoare la David Sullivan, copreședintele clubului West Ham. Această dezvoltare vine în urma unei investigații realizate de BBC Panorama și The Times. Detaliile exacte ale noilor informații nu au fost făcute publice, dar acestea se adaugă contextului investigației anterioare care a vizat activitățile oficialului clubului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-10T19:30:05.329212+00:00",
+      "data_afisaj": "10 iunie 2026, 22:30"
+    },
+    {
+      "id": "b812fbef421c",
+      "titlu": "Haiti va juca la Cupa Mondială 2026 cu un steag inspirat de Polonia, în semn de omagiu istoric",
+      "rezumat": "Naționala de fotbal a Haitiului va participa la Cupa Mondială 2026 purtând un steag cu o simbolistică specială, inspirată de Polonia. Această decizie inedită marchează un omagiu adus unor evenimente istorice petrecute în urmă cu peste 200 de ani. Gestul subliniază legăturile culturale și istorice dintre cele două națiuni, oferind o poveste unică în contextul celui mai mare turneu de fotbal din lume.",
+      "categorie": "Fotbal",
+      "surse": [
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-06-10T19:30:05.331106+00:00",
+      "data_afisaj": "10 iunie 2026, 22:30"
+    },
     {
       "id": "b9a29ac51d4c",
       "titlu": "Everton, obligată să plătească despăgubiri clubului Burnley pentru încălcarea regulilor financiare",
