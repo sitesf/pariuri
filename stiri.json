@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-10T11:38:46.170182+00:00",
-  "updated_at_afisaj": "10 iunie 2026, 14:38",
+  "updated_at": "2026-06-10T18:33:06.068686+00:00",
+  "updated_at_afisaj": "10 iunie 2026, 21:33",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,70 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 126,
+  "numar_stiri": 123,
   "stiri": [
+    {
+      "id": "b9a29ac51d4c",
+      "titlu": "Everton, obligată să plătească despăgubiri clubului Burnley pentru încălcarea regulilor financiare",
+      "rezumat": "Clubul Everton a fost obligat să plătească o sumă cuprinsă între 35 și 40 de milioane de lire sterline către Burnley, în urma unei decizii legate de încălcarea regulilor de profitabilitate și sustenabilitate (PSR) ale Premier League. Această hotărâre vine după ce Burnley a fost retrogradată în 2022, iar Everton a fost sancționată anterior cu o deducere de puncte pentru aceleași nereguli financiare. Everton a anunțat că va contesta decizia.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-10T18:33:06.062404+00:00",
+      "data_afisaj": "10 iunie 2026, 21:33"
+    },
+    {
+      "id": "40a5207a9d39",
+      "titlu": "Kieran McKenna părăsește postul de antrenor al echipei Ipswich Town",
+      "rezumat": "Kieran McKenna a demisionat din funcția de antrenor principal al clubului Ipswich Town, la scurt timp după ce a reușit promovarea echipei în Premier League. Decizia sa vine ca o surpriză, iar antrenorul a declarat că intenționează să ia o pauză de la fotbal. McKenna a fost o figură cheie în succesul recent al lui Ipswich, conducând echipa la două promovări consecutive.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-06-10T18:33:06.063947+00:00",
+      "data_afisaj": "10 iunie 2026, 21:33"
+    },
+    {
+      "id": "0f915c2fbfac",
+      "titlu": "Meciul amical al Angliei împotriva Costa Rica, amenințat de furtuni",
+      "rezumat": "Ultima partidă de pregătire a naționalei Angliei, programată împotriva selecționatei Costa Rica, este în pericol de a fi afectată sau chiar anulată din cauza condițiilor meteorologice nefavorabile. Furtunile puternice amenință zona în care ar trebui să se desfășoare meciul, punând sub semnul întrebării desfășurarea acestui test crucial înainte de începerea Cupei Mondiale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-10T18:33:06.065505+00:00",
+      "data_afisaj": "10 iunie 2026, 21:33"
+    },
+    {
+      "id": "abd8f95fa0c8",
+      "titlu": "Tottenham Hotspur îl transferă pe Marcos Senesi de la Bournemouth",
+      "rezumat": "Clubul Tottenham Hotspur a confirmat achiziționarea fundașului Marcos Senesi, care sosește de la Bournemouth printr-un transfer gratuit. Jucătorul argentinian se alătură echipei londoneze după patru ani petrecuți la Bournemouth. Această mutare marchează o întărire a defensivei pentru Spurs înaintea noului sezon.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-06-10T18:33:06.066963+00:00",
+      "data_afisaj": "10 iunie 2026, 21:33"
+    },
+    {
+      "id": "c70c188202e8",
+      "titlu": "Programul complet al fazei grupelor la Cupa Mondială 2026, disponibil cu orele României",
+      "rezumat": "A fost publicat programul detaliat al meciurilor din faza grupelor a Cupei Mondiale din 2026, incluzând orele de începere adaptate fusului orar al României. Fanii fotbalului pot consulta acum calendarul complet pentru a urmări partidele celui mai mare turneu din istorie, care se va desfășura în Statele Unite, Canada și Mexic.",
+      "categorie": "Fotbal",
+      "surse": [
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-06-10T18:33:06.068667+00:00",
+      "data_afisaj": "10 iunie 2026, 21:33"
+    },
     {
       "id": "595fb5e13624",
       "titlu": "Arbitrul interzis Artan ajunge acasă, în Somalia",
@@ -1375,95 +1437,6 @@
       ],
       "data_publicare": "2026-06-03T19:52:50.497065+00:00",
       "data_afisaj": "3 iunie 2026, 22:52"
-    },
-    {
-      "id": "fab0c748836f",
-      "titlu": "Alex Scott, aproape de debutul pentru Anglia în meciurile amicale premergătoare Cupei Mondiale",
-      "rezumat": "Mijlocașul lui Bournemouth, Alex Scott, este pe cale să-și facă debutul pentru echipa națională a Angliei în meciurile amicale de pregătire pentru Cupa Mondială, care vor avea loc în Statele Unite. Această oportunitate vine în contextul pregătirilor finale ale selecționatei Angliei pentru turneul major, oferind tânărului jucător șansa de a se afirma la nivel internațional și de a-și demonstra valoarea în fața selecționerului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-03T12:41:52.589204+00:00",
-      "data_afisaj": "3 iunie 2026, 15:41"
-    },
-    {
-      "id": "c810dfd221ca",
-      "titlu": "Situația calificărilor la Cupa Mondială: Cine are nevoie de ce?",
-      "rezumat": "Anglia își va asigura un loc la Cupa Mondială de anul viitor dacă va evita înfrângerea împotriva Spaniei vineri. Articolul analizează scenariile de calificare pentru diverse echipe, explicând ce rezultate sunt necesare pentru a-și asigura un loc la turneul final din Brazilia. O privire de ansamblu asupra luptei intense pentru calificarea la cel mai prestigios eveniment fotbalistic global.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-03T12:41:52.590797+00:00",
-      "data_afisaj": "3 iunie 2026, 15:41"
-    },
-    {
-      "id": "ceff44de3d7f",
-      "titlu": "Marcus Rashford se pregătește de Cupa Mondială într-o situație incertă, în ciuda performanțelor la Barcelona",
-      "rezumat": "Marcus Rashford se află într-o situație incertă înaintea Cupei Mondiale, în ciuda faptului că a prosperat la Barcelona. Sosirea lui Gordon, salariul său și cererile de transfer ale lui Manchester United fac ca următoarea sa mutare să fie neclară. Această stare de incertitudine este o situație neobișnuită pentru un atacant așteptat să fie titular în meciul de deschidere al Angliei la Cupa Mondială.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-03T12:41:52.592594+00:00",
-      "data_afisaj": "3 iunie 2026, 15:41"
-    },
-    {
-      "id": "c1f8fa42877e",
-      "titlu": "Arsenal învinge opt cluburi rivale pentru a semna un tânăr talent, prima achiziție a verii",
-      "rezumat": "Arsenal a reușit să depășească opt cluburi rivale pentru a asigura semnătura unui tânăr jucător de 16 ani, marcând astfel prima achiziție a verii pentru club. Aripa, considerată un talent promițător, era dorită de numeroase echipe de top din Europa, iar succesul lui Arsenal în această cursă subliniază strategia clubului de a investi în viitor și de a-și consolida academia.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-06-03T12:41:52.594303+00:00",
-      "data_afisaj": "3 iunie 2026, 15:41"
-    },
-    {
-      "id": "8376ad6ded69",
-      "titlu": "Manchester United a convenit o taxă de 35 de milioane de lire sterline pentru Ederson, semnalând intențiile de vară",
-      "rezumat": "Mijlocașul brazilian Ederson de la Atalanta este pe cale să devină prima achiziție a lui Michael Carrick, după ce Manchester United a ajuns la un acord de 35 de milioane de lire sterline pentru jucătorul de 26 de ani. Această mutare subliniază ambițiile clubului pentru fereastra de transferuri din vară, aducând un plus de forță la mijlocul terenului. Ederson este recunoscut pentru abilitățile sale defensive și capacitatea de a distribui mingea, fiind considerat o piesă importantă pentru viitorul echipei de pe Old Trafford.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-06-03T11:58:26.906794+00:00",
-      "data_afisaj": "3 iunie 2026, 14:58"
-    },
-    {
-      "id": "bd8bbac49208",
-      "titlu": "Scandal de meciuri trucate la Cupa Mondială FIFA, suspiciuni legate de cartonașe galbene",
-      "rezumat": "Un scandal de meciuri trucate a ieșit la iveală înaintea Cupei Mondiale FIFA 2026, cu suspiciuni legate de aranjarea unor cartonașe galbene. Jucătorii implicați sunt programați să participe la turneul din această vară. Această situație ridică semne de întrebare serioase cu privire la integritatea competiției și la măsurile de prevenire a corupției în fotbalul de elită. FIFA este așteptată să investigheze amănunțit aceste acuzații pentru a menține credibilitatea evenimentului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-06-03T11:58:26.908571+00:00",
-      "data_afisaj": "3 iunie 2026, 14:58"
-    },
-    {
-      "id": "cfba1dae5371",
-      "titlu": "Federația Mexicană de Fotbal pierde apelul împotriva amenzilor FIFA pentru scandările homofobe ale fanilor",
-      "rezumat": "Federația Mexicană de Fotbal a pierdut cel mai recent apel împotriva sancțiunilor impuse de FIFA pentru scandările homofobe repetate ale fanilor împotriva jucătorilor adverși. Decizia Curții de Arbitraj Sportiv (CAS) vine în contextul în care Mexicul se pregătește să găzduiască meciuri la Cupa Mondială 2026. FIFA a aplicat amenzi consistente pentru încălcări repetate, iar federația mexicană a desfășurat campanii pentru eradicarea acestor scandări, însă fără succes deplin până acum.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-03T11:58:26.910277+00:00",
-      "data_afisaj": "3 iunie 2026, 14:58"
-    },
-    {
-      "id": "1fd525776615",
-      "titlu": "Ce reguli VAR se aplică la Cupa Mondială 2026?",
-      "rezumat": "Viitoarea Cupă Mondială din 2026 va introduce cinci modificări majore ale regulamentului de joc, inclusiv aspecte legate de sistemul VAR. Aceste schimbări sunt menite să îmbunătățească fluiditatea jocului și acuratețea deciziilor. Fanii și echipele vor trebui să se familiarizeze cu noile protocoale VAR, care ar putea influența modul în care se desfășoară meciurile și deciziile cruciale pe parcursul turneului. Detaliile complete ale acestor modificări sunt așteptate să fie comunicate în curând.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-06-03T11:58:26.911687+00:00",
-      "data_afisaj": "3 iunie 2026, 14:58"
     }
   ]
 }
