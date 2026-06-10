@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-09T19:10:01.659126+00:00",
-  "updated_at_afisaj": "9 iunie 2026, 22:10",
+  "updated_at": "2026-06-10T10:58:23.689247+00:00",
+  "updated_at_afisaj": "10 iunie 2026, 13:58",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,66 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 126,
+  "numar_stiri": 121,
   "stiri": [
+    {
+      "id": "2ad0bd7c4a7a",
+      "titlu": "Cine va câștiga Cupa Mondială? Expertii BBC își fac previziunile",
+      "rezumat": "Cine va câștiga, cine ar putea face o surpriză și cum se vor descurca Anglia și Scoția? Expertii BBC prezic ce se va întâmpla la Cupa Mondială din 2026.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-10T10:57:57.349475+00:00",
+      "data_afisaj": "10 iunie 2026, 13:57"
+    },
+    {
+      "id": "93e786c1300e",
+      "titlu": "Anglia ratează locul automat la Cupa Mondială - deci ce se întâmplă acum?",
+      "rezumat": "Anglia a învins Ucraina cu 3-0 marți seară, dar nu a contat ce au făcut, deoarece calificarea automată pentru Cupa Mondială feminină din 2027 nu le-a mai rămas din mână.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-10T10:57:57.351005+00:00",
+      "data_afisaj": "10 iunie 2026, 13:57"
+    },
+    {
+      "id": "6399c1e0a5d9",
+      "titlu": "Descărcați graficul de perete pentru Cupa Mondială 2026",
+      "rezumat": "Obține acum piesa ta esențială de kit, descarcând graficul de perete al Cupei Mondiale Fifa 2026.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-10T10:57:57.352310+00:00",
+      "data_afisaj": "10 iunie 2026, 13:57"
+    },
+    {
+      "id": "7f671e80dc37",
+      "titlu": "Petrecerile hip-hop sălbatice care au început călătoria lui Tuchel către șeful Angliei",
+      "rezumat": "Thomas Tuchel licitează să devină primul antrenor străin care a câștigat Cupa Mondială. BBC Sport prezintă începutul călătoriei sale spre a deveni șeful Angliei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-10T10:57:57.353806+00:00",
+      "data_afisaj": "10 iunie 2026, 13:57"
+    },
+    {
+      "id": "f41224c1f57e",
+      "titlu": "Keane și Fernandes aer curat după ceartă pentru „minciună”",
+      "rezumat": "Roy Keane eliberează aerul cu căpitanul lui Manchester United, Bruno Fernandes, după ce l-a citat greșit pe portughez - ceea ce l-a determinat pe Fernandes să-l acuze de minciună.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-10T10:57:57.355222+00:00",
+      "data_afisaj": "10 iunie 2026, 13:57"
+    },
     {
       "id": "39f9b0740213",
       "titlu": "Crystal Palace este pe cale să-l numească pe Pierre Sage antrenor principal",
@@ -1351,121 +1409,6 @@
       ],
       "data_publicare": "2026-06-03T11:58:26.911687+00:00",
       "data_afisaj": "3 iunie 2026, 14:58"
-    },
-    {
-      "id": "c7eeb7a8c523",
-      "titlu": "Silva pleacă de la Fulham, fiind aproape de un transfer la Benfica",
-      "rezumat": "Antrenorul lui Fulham, Marco Silva, confirmă că va părăsi echipa după cinci ani la conducere, tehnicianul de 48 de ani fiind aproape de a ajunge la un acord pentru a prelua Benfica.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-02T19:59:39.516554+00:00",
-      "data_afisaj": "2 iunie 2026, 22:59"
-    },
-    {
-      "id": "9fc61a187910",
-      "titlu": "Merită antrenorul lui Southampton, Eckert, implicat în scandalul Spygate, o a doua șansă?",
-      "rezumat": "BBC Sport analizează viitorul antrenorului lui Southampton, Tonda Eckert, după ce acesta și-a recunoscut rolul în scandalul Spygate.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-02T19:59:39.517970+00:00",
-      "data_afisaj": "2 iunie 2026, 22:59"
-    },
-    {
-      "id": "446e812f8d1d",
-      "titlu": "Gordon va fi cel mai vârstnic jucător la Cupa Mondială, dar Gunn primește numărul 1",
-      "rezumat": "Portarul Scoției, Craig Gordon, va fi cel mai vârstnic jucător la Cupa Mondială din această vară, dar portarul de 43 de ani nu a primit tricoul cu numărul unu.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-02T19:59:39.519285+00:00",
-      "data_afisaj": "2 iunie 2026, 22:59"
-    },
-    {
-      "id": "5846a84389fb",
-      "titlu": "Cum minerii din Cornwall au adus fotbalul în Mexic",
-      "rezumat": "În timp ce Mexicul se pregătește să devină prima țară care găzduiește sau co-găzduiește Cupa Mondială de trei ori, BBC Sport analizează rădăcinile sale fotbalistice din Cornwall.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-02T19:59:39.520519+00:00",
-      "data_afisaj": "2 iunie 2026, 22:59"
-    },
-    {
-      "id": "6399c1e0a5d9",
-      "titlu": "Descarcă-ți posterul Cupei Mondiale 2026",
-      "rezumat": "Obține acum piesa ta esențială de echipament descărcând posterul Cupei Mondiale Fifa 2026.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-02T19:59:39.521758+00:00",
-      "data_afisaj": "2 iunie 2026, 22:59"
-    },
-    {
-      "id": "8bcdbf1a22ed",
-      "titlu": "Bellingham este pe locul 10 în echipa Angliei pentru Cupa Mondială",
-      "rezumat": "Au fost anunțate numerele de echipă ale Angliei pentru Cupa Mondială - dar cât de mult sugerează alegerile gândirii lui Thomas Tuchel?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-02T19:43:31.174166+00:00",
-      "data_afisaj": "2 iunie 2026, 22:43"
-    },
-    {
-      "id": "cff99cb4fd8a",
-      "titlu": "Konate aproape să se alăture lui Real Madrid după părăsirea lui Liverpool",
-      "rezumat": "Fundașul Franței, Ibrahima Konate, este în discuții avansate cu Real Madrid pentru a se alătura clubului La Liga cu un transfer gratuit.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-06-02T19:43:31.175895+00:00",
-      "data_afisaj": "2 iunie 2026, 22:43"
-    },
-    {
-      "id": "c0cb93a2f090",
-      "titlu": "Ghidul echipei Japoniei pentru Cupa Mondială 2026",
-      "rezumat": "Rezultatele impresionante au alimentat credința că echipa lui Hajime Moriyasu nu poate supraviețui doar împotriva celor mai buni, ci și îi poate învinge. theguardian.com difuzează în fiecare zi previzualizări din trei țări, înaintea turneului care va începe pe 11 iunie. Continuă să citești...",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-02T19:43:31.177389+00:00",
-      "data_afisaj": "2 iunie 2026, 22:43"
-    },
-    {
-      "id": "8ce5fba0b893",
-      "titlu": "Gică Hagi, prima reacție după Georgia – România 1-1: „Asta le-am zis în vestiar”",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-06-02T19:43:31.179036+00:00",
-      "data_afisaj": "2 iunie 2026, 22:43"
-    },
-    {
-      "id": "b06f0c193a85",
-      "titlu": "Gata cu steagul întârziat? FIFA adaugă o nouă tehnologie de offside pentru Cupa Mondială",
-      "rezumat": "Steagul offside amânat ar putea deveni aproape un lucru din trecut, după ce FIFA a dezvăluit o nouă tehnologie care va fi folosită la Cupa Mondială din 2026.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-02T19:43:31.180395+00:00",
-      "data_afisaj": "2 iunie 2026, 22:43"
     }
   ]
 }
