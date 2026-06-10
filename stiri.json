@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-10T10:58:23.689247+00:00",
-  "updated_at_afisaj": "10 iunie 2026, 13:58",
+  "updated_at": "2026-06-10T11:38:46.170182+00:00",
+  "updated_at_afisaj": "10 iunie 2026, 14:38",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 121,
+  "numar_stiri": 126,
   "stiri": [
+    {
+      "id": "595fb5e13624",
+      "titlu": "Arbitrul interzis Artan ajunge acasă, în Somalia",
+      "rezumat": "Omar Artan promite că va oficia Cupa Mondială din 2030, după ce a ajuns acasă în Somalia, după ce i s-a interzis intrarea în Statele Unite.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-10T11:38:21.735111+00:00",
+      "data_afisaj": "10 iunie 2026, 14:38"
+    },
+    {
+      "id": "f3b6d6b54f99",
+      "titlu": "De ce Newcastle semnează un „gigant” de la al doilea nivel francez",
+      "rezumat": "Ewen Jaouen a fost supus unei examinări medicale înainte de a finaliza mutarea de la Stade de Reims la Newcastle United.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-10T11:38:21.736708+00:00",
+      "data_afisaj": "10 iunie 2026, 14:38"
+    },
+    {
+      "id": "ead7721f4eae",
+      "titlu": "De ce această Cupă Mondială va prezenta „Steve Clarke diferit”",
+      "rezumat": "Antrenorul principal al Scoției se simte ca un om nou care se îndreaptă spre o deschidere seismică a Cupei Mondiale cu Haiti - și simte un nou val de optimism.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-10T11:38:21.738211+00:00",
+      "data_afisaj": "10 iunie 2026, 14:38"
+    },
+    {
+      "id": "90b31ce1220a",
+      "titlu": "Oferta de 130 de milioane de lire sterline a lui Real Madrid Alvarez a fost râsă de Atletico",
+      "rezumat": "Real Madrid face o ofertă de 150 de milioane de euro (130 de milioane de lire sterline) pentru atacantul Julian Alvarez, dar rivalii orașului Atletico Madrid o refuză.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-10T11:38:21.739774+00:00",
+      "data_afisaj": "10 iunie 2026, 14:38"
+    },
+    {
+      "id": "598c7fae8487",
+      "titlu": "Real Madrid îl vede pe Calafiori de la Arsenal - bârfa de miercuri",
+      "rezumat": "Real Madrid îl urmărește pe Riccardo Calafiori de la Arsenal, Tottenham îl consideră pe fundașul lui Juventus Gleison Bremer, Manchester United îl urmărește pe Lewis Hall de la Newcastle și multe altele.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-10T11:38:21.741263+00:00",
+      "data_afisaj": "10 iunie 2026, 14:38"
+    },
     {
       "id": "2ad0bd7c4a7a",
       "titlu": "Cine va câștiga Cupa Mondială? Expertii BBC își fac previziunile",
