@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-11T12:11:35.271108+00:00",
-  "updated_at_afisaj": "11 iunie 2026, 15:11",
+  "updated_at": "2026-06-11T18:49:08.116913+00:00",
+  "updated_at_afisaj": "11 iunie 2026, 21:49",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,54 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 125,
+  "numar_stiri": 124,
   "stiri": [
+    {
+      "id": "647c14b4c94d",
+      "titlu": "Oboseala la Cupa Mondială? Jucătorii cu cele mai solicitante sezoane",
+      "rezumat": "BBC Sport a analizat care echipe și jucători de la Cupa Mondială au acumulat cele mai multe minute de joc de la începutul verii trecute, când a debutat Cupa Mondială a Cluburilor în Statele Unite. Studiul evidențiază potențialul impact al oboselii asupra performanțelor jucătorilor cheie în timpul turneului final. Această analiză detaliază volumul de joc al fotbaliștilor, oferind o perspectivă asupra provocărilor fizice cu care se confruntă aceștia după un sezon lung și intens.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-11T18:49:08.112753+00:00",
+      "data_afisaj": "11 iunie 2026, 21:49"
+    },
+    {
+      "id": "6965e5537cae",
+      "titlu": "Harry Kane, un \"fals nouă\" prolific pentru Anglia la Cupa Mondială",
+      "rezumat": "Articolul explorează modul în care Harry Kane a reușit să aibă cel mai bun sezon din cariera sa la Bayern München, chiar și atunci când a jucat adesea într-o poziție mai retrasă. Antrenorul Thomas Tuchel cunoaște secretele acestei performanțe, iar echipa Angliei ar putea beneficia acum de această abordare tactică la Cupa Mondială. Analiza detaliază cum abilitatea lui Kane de a se retrage în teren poate crea spații și oportunități de gol, transformându-l într-un atacant central atipic, dar extrem de eficient.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-11T18:49:08.114490+00:00",
+      "data_afisaj": "11 iunie 2026, 21:49"
+    },
+    {
+      "id": "b65f248459fe",
+      "titlu": "Ascensiunea lui John McGinn: De la jocurile interzise la Cupa Mondială",
+      "rezumat": "John McGinn, un băiat din Clydebank cu \"un cap mare și rotund\" și visuri și mai mari, a parcurs un drum remarcabil până la Cupa Mondială. Meciul de deschidere al Scoției la turneul final marchează un nou apogeu într-o carieră de poveste. Articolul detaliază parcursul său, de la începuturile modeste, unde jocurile cu mingea erau adesea interzise, până la statutul de jucător cheie pentru echipa națională, ilustrând perseverența și talentul care l-au adus pe cea mai mare scenă a fotbalului mondial.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-11T18:49:08.115721+00:00",
+      "data_afisaj": "11 iunie 2026, 21:49"
+    },
+    {
+      "id": "3e1008cf5fa3",
+      "titlu": "Newcastle United negociază transferul mijlocașului spaniol Victor Munoz",
+      "rezumat": "Clubul Newcastle United se află în discuții avansate cu Osasuna pentru a-l transfera pe mijlocașul spaniol Victor Munoz. Această potențială mutare ar consolida lotul echipei din Premier League, aducând un jucător cu experiență și calități tehnice din La Liga. Negocierile sunt în desfășurare, iar oficialii clubului speră să ajungă la un acord pentru a-l aduce pe Munoz pe St James' Park în această perioadă de transferuri.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-11T18:49:08.116901+00:00",
+      "data_afisaj": "11 iunie 2026, 21:49"
+    },
     {
       "id": "deaba55814c3",
       "titlu": "Bellingham la numărul 10? Va începe Saka? E timpul deciziei pentru Tuchel",
@@ -1400,64 +1446,6 @@
       ],
       "data_publicare": "2026-06-04T19:16:04.459735+00:00",
       "data_afisaj": "4 iunie 2026, 22:16"
-    },
-    {
-      "id": "312e4a36589f",
-      "titlu": "Manchester United nu va ceda presiunii de a supraplăti în mercato",
-      "rezumat": "Directorul executiv al Manchester United, Omar Berrada, a declarat că clubul nu va ceda presiunii de a plăti sume exagerate în fereastra de transferuri din vară. Această abordare strategică subliniază angajamentul clubului de a menține disciplina financiară și de a evita supraevaluarea jucătorilor, asigurând o gestionare responsabilă a resurselor. Decizia reflectă o viziune pe termen lung pentru dezvoltarea echipei, concentrându-se pe achiziții valoroase și sustenabile, în ciuda așteptărilor pieței.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-06-04T18:22:12.145249+00:00",
-      "data_afisaj": "4 iunie 2026, 21:22"
-    },
-    {
-      "id": "f0f4ee66e315",
-      "titlu": "Președintele Manchester City dezvăluie că Guardiola a vrut să plece de \"100 de ori\"",
-      "rezumat": "Khaldoon Al Mubarak, președintele lui Manchester City, a dezvăluit că Pep Guardiola și-a exprimat de \"100 de ori\" intenția de a părăsi postul de antrenor. Al Mubarak a confirmat că, deși a reușit să-l convingă pe Guardiola să rămână în trecut, au existat momente în care antrenorul a fost serios în privința plecării. Această perspectivă oferă o imagine rară asupra dinamicii interne a clubului și a relației cu unul dintre cei mai de succes antrenori din fotbalul modern, evidențiind provocările gestionării unei echipe de top.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-04T18:22:12.146884+00:00",
-      "data_afisaj": "4 iunie 2026, 21:22"
-    },
-    {
-      "id": "a4d0e559066e",
-      "titlu": "Experții avertizează FIFA cu privire la riscurile interzicerii sticlelor de apă reutilizabile la Cupa Mondială",
-      "rezumat": "Experții în sănătate au avertizat FIFA că decizia de a interzice sticlele de apă reutilizabile pe stadioanele Cupei Mondiale este \"iresponsabilă\" și prezintă riscuri pentru sănătate. FIFA a justificat măsura prin preocupări legate de siguranță, dar grupurile de suporteri au condamnat \"schimbarea imorală\" a politicii, acuzând forul că pune veniturile înaintea bunăstării fanilor. Această decizie de ultim moment a stârnit controverse semnificative, mai ales în contextul temperaturilor ridicate așteptate la turneu, generând îngrijorări serioase privind confortul și siguranța spectatorilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-04T18:22:12.148532+00:00",
-      "data_afisaj": "4 iunie 2026, 21:22"
-    },
-    {
-      "id": "ab3adb2e923f",
-      "titlu": "CEO-ul Manchester United, Omar Berrada, anticipează câștigarea Premier League în următorii doi ani",
-      "rezumat": "Omar Berrada, noul director executiv al Manchester United, a declarat că clubul se află într-o \"poziție bună\" pentru a câștiga titlul în Premier League în următorii doi ani. Această declarație ambițioasă subliniază încrederea conducerii în direcția strategică a echipei și în capacitatea de a concura la cel mai înalt nivel. Berrada a subliniat că planurile de transferuri vor fi disciplinate, dar vizează consolidarea lotului pentru a atinge acest obiectiv major, semnalând o perioadă de investiții și dezvoltare intensă la club.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-06-04T18:22:12.150218+00:00",
-      "data_afisaj": "4 iunie 2026, 21:22"
-    },
-    {
-      "id": "60dd757f4c90",
-      "titlu": "Antonio Rüdiger, fundașul lui Real Madrid, pledează pentru ascultarea vocilor refugiaților",
-      "rezumat": "Antonio Rüdiger, fundașul echipei Real Madrid și al naționalei Germaniei, a vorbit despre importanța ascultării și sprijinirii refugiaților, bazându-se pe propria experiență familială. Jucătorul a subliniat că refugiații nu au alte opțiuni și că este crucial să li se ofere o platformă pentru a-și împărtăși poveștile și a contesta stereotipurile negative. Mesajul său subliniază rolul sportivilor în abordarea problemelor sociale și promovarea incluziunii, folosindu-și influența pentru o cauză umanitară importantă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-04T18:22:12.151892+00:00",
-      "data_afisaj": "4 iunie 2026, 21:22"
     }
   ]
 }
