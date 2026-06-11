@@ -3,9 +3,10 @@ name: Automatizare alte meciuri
 permissions:
   contents: write
 
+# NOTA: programarea automata e dezactivata — acest workflow era un duplicat
+# al lui gemini_analiza.yml (rulau exact aceiasi pasi). Ramane disponibil
+# doar pentru rulare manuala (workflow_dispatch).
 on:
-  schedule:
-    - cron: "0 1 * * 3"
   workflow_dispatch:
 
 jobs:
