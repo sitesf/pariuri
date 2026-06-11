@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-11T18:49:08.116913+00:00",
-  "updated_at_afisaj": "11 iunie 2026, 21:49",
+  "updated_at": "2026-06-11T19:29:20.715244+00:00",
+  "updated_at_afisaj": "11 iunie 2026, 22:29",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,69 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 124,
+  "numar_stiri": 126,
   "stiri": [
+    {
+      "id": "64727d3986a7",
+      "titlu": "Oboseală? Jucătorii Cupei Mondiale care au avut cele mai grele sezoane",
+      "rezumat": "BBC Sport analizează ce echipe și jucători de la Cupa Mondială au jucat cele mai multe minute de vara trecută, când începea Cupa Mondială a Cluburilor în Statele Unite.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-11T19:28:54.799708+00:00",
+      "data_afisaj": "11 iunie 2026, 22:28"
+    },
+    {
+      "id": "ff7e998f9e8c",
+      "titlu": "Real Madrid îl numește din nou pe Jose Mourinho cu un contract de trei ani",
+      "rezumat": "Real Madrid a confirmat renumirea lui Jose Mourinho ca antrenor principal.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-06-11T19:28:54.801220+00:00",
+      "data_afisaj": "11 iunie 2026, 22:28"
+    },
+    {
+      "id": "f1d46173c5d9",
+      "titlu": "Jucători vedete și istoria Cupei Mondiale - ghidul tău pentru Mexic",
+      "rezumat": "Obțineți informații despre fiecare echipă la Cupa Mondială din 2026. Aici aruncăm o privire mai atentă asupra Mexicului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-11T19:28:54.802722+00:00",
+      "data_afisaj": "11 iunie 2026, 22:28"
+    },
+    {
+      "id": "583caecda2d7",
+      "titlu": "Mexic - Africa de Sud: meci de deschidere a Cupei Mondiale 2026 – în direct",
+      "rezumat": "⚽️ Ora începerii: 13:00 local/20:00 BST/15:00 EDT/5:00 AEST ⚽️ Ghidul jucătorului | Bracketologie | Grafică murală | Trimite un e-mail lui Daniel „Studioul acela ITV este spectaculos”, consideră Poetul Kev. \"Aproape la fel de spectaculos ca și nark-off-ul dintre Roy Keane și oricine altcineva. BBC va avea The Ghost Of Barry Davies să iasă de pe Manchester Ship Canal pentru a concura.\" Este – este în aer liber pe East River, cu o priveliște senzațională asupra Manhattanului. Dar l-aș lua pe Barry Davies venind de oriunde. Continuă să citești...",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-11T19:28:54.804286+00:00",
+      "data_afisaj": "11 iunie 2026, 22:28"
+    },
+    {
+      "id": "84e088a8adbc",
+      "titlu": "Ghidul echipei Angliei Cupa Mondială 2026",
+      "rezumat": "Thomas Tuchel vrea să „pună o a doua stea pe tricou” după ce a făcut apeluri mari de selecție, dar care va fi rolul lui Jude Bellingham? Acest articol face parte din Rețeaua de experți ai Cupei Mondiale 2026 a The Guardian, o cooperare între unele dintre cele mai bune organizații media din cele 48 de țări care s-au calificat. theguardian.com difuzează în fiecare zi previzualizări din trei țări, înaintea turneului care va începe pe 11 iunie. Continuă să citești...",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-11T19:28:54.805654+00:00",
+      "data_afisaj": "11 iunie 2026, 22:28"
+    },
     {
       "id": "647c14b4c94d",
       "titlu": "Oboseala la Cupa Mondială? Jucătorii cu cele mai solicitante sezoane",
@@ -1413,39 +1474,6 @@
       ],
       "data_publicare": "2026-06-05T10:50:44.483914+00:00",
       "data_afisaj": "5 iunie 2026, 13:50"
-    },
-    {
-      "id": "526fea8335d9",
-      "titlu": "CEO-ul Manchester United, Omar Berrada, face aluzie la incertitudinile privind viitorul lui Bruno Fernandes",
-      "rezumat": "Omar Berrada, directorul executiv al Manchester United, a declarat că, deși clubul dorește ca Bruno Fernandes să rămână, nu a exclus posibilitatea plecării căpitanului în această vară. Fernandes, în vârstă de 31 de ani, a fost votat Jucătorul Anului de către Asociația Jurnaliștilor de Fotbal după un sezon remarcabil cu 21 de pase decisive în Premier League. Cu toate acestea, mesajele sale ambigue despre viitor au stârnit speculații și discuții intense în rândul fanilor și presei sportive.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-04T19:16:04.455808+00:00",
-      "data_afisaj": "4 iunie 2026, 22:16"
-    },
-    {
-      "id": "8e591a5391d5",
-      "titlu": "Liga Engleză de Fotbal (EFL) elimină interdicția de transfer pe trei ferestre pentru plățile întârziate",
-      "rezumat": "Cluburile din English Football League (EFL) au votat pentru a reduce durata ferestrelor de transfer cu restricții pentru plățile întârziate. Această modificare semnificativă a regulamentului vizează oferirea unei flexibilități mai mari cluburilor care se confruntă cu dificultăți financiare temporare, permițându-le să gestioneze mai eficient situațiile legate de transferuri. Decizia reflectă o adaptare a politicilor ligii la realitățile economice ale cluburilor și ar putea avea un impact considerabil asupra strategiilor de mercato.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-04T19:16:04.457598+00:00",
-      "data_afisaj": "4 iunie 2026, 22:16"
-    },
-    {
-      "id": "d34782d8725f",
-      "titlu": "Un potențial mai mare decât Messi? Ce urmează pentru Lamine Yamal?",
-      "rezumat": "Lamine Yamal, tânărul talent în vârstă de 18 ani, este o figură cheie în lotul Spaniei pentru Cupa Mondială. Articolul explorează potențialul său imens și motivele pentru care este rapid să respingă comparațiile cu Lionel Messi. Se analizează așteptările legate de cariera sa și pașii următori în dezvoltarea sa ca fotbalist de top, având în vedere performanțele sale impresionante la o vârstă atât de fragedă și impactul pe care l-a avut deja în fotbalul de elită.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-04T19:16:04.459735+00:00",
-      "data_afisaj": "4 iunie 2026, 22:16"
     }
   ]
 }
