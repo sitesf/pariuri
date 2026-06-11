@@ -413,6 +413,7 @@ def main():
 
     actualizate = []
     ok = 0
+    esecuri_consecutive = 0  # cota zilnica epuizata => abandonam elegant
 
     for i, match in enumerate(meciuri):
         home = match.get("home", "?")
@@ -423,6 +424,11 @@ def main():
             print(f"  [{i+1:02d}] {home} vs {away} — SKIP (deja analizat)")
             actualizate.append(match)
             ok += 1
+            continue
+
+        if esecuri_consecutive >= 3:
+            print(f"  [{i+1:02d}] {home} vs {away} — SKIP (cota zilnica Gemini epuizata)")
+            actualizate.append(match)
             continue
 
         print(f"  [{i+1:02d}] {home} vs {away}...", end=" ", flush=True)
@@ -452,8 +458,11 @@ def main():
             stele = "⭐" * match["incredere"]
             print(f"OK → {pronostic} @ {match['cota_pronostic']} {stele}")
             ok += 1
+            esecuri_consecutive = 0
         else:
             print("SKIP (fara date suficiente)")
+            if text is None:
+                esecuri_consecutive += 1
 
         actualizate.append(match)
 
