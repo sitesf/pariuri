@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-11T11:23:48.394744+00:00",
-  "updated_at_afisaj": "11 iunie 2026, 14:23",
+  "updated_at": "2026-06-11T12:11:35.271108+00:00",
+  "updated_at_afisaj": "11 iunie 2026, 15:11",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 120,
+  "numar_stiri": 125,
   "stiri": [
+    {
+      "id": "deaba55814c3",
+      "titlu": "Bellingham la numărul 10? Va începe Saka? E timpul deciziei pentru Tuchel",
+      "rezumat": "Pregătirile Angliei pentru Cupa Mondială sunt finalizate, așa că cine va intra acum în echipa lui Thomas Tuchel pentru a înfrunta Croația?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-11T12:11:13.186395+00:00",
+      "data_afisaj": "11 iunie 2026, 15:11"
+    },
+    {
+      "id": "7c043389983e",
+      "titlu": "O'Neill, cel mai sigur dintre pariuri sigure, deoarece Celtic optează împotriva unui alt pariu",
+      "rezumat": "Celtic poate fi acuzat de pe termen scurt, dar a ales calea celei mai puține rezistențe, păstrând în calitate de antrenor câștigătorul dovedit Martin O'Neill, scrie Tom English.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-11T12:11:13.187897+00:00",
+      "data_afisaj": "11 iunie 2026, 15:11"
+    },
+    {
+      "id": "0aa311ae8707",
+      "titlu": "Jucătorii din Germania vor plăti pentru 600 de fani pentru a călători la meci",
+      "rezumat": "Jucătorii Germaniei vor plăti pentru ca 600 de fani ai țării să călătorească cu autobuzul la ultimul lor meci din grupa Cupei Mondiale din New Jersey, pe fondul criticilor privind creșterea costurilor de transport la turneu.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-11T12:11:13.189303+00:00",
+      "data_afisaj": "11 iunie 2026, 15:11"
+    },
+    {
+      "id": "e2f530457ae5",
+      "titlu": "Cupa Mondială este mai mare ca niciodată - iar BBC Sport are o aplicație pe măsură",
+      "rezumat": "BBC Sport lansează o nouă experiență de aplicație îmbunătățită pentru Cupa Mondială Fifa 2026",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-11T12:11:13.190828+00:00",
+      "data_afisaj": "11 iunie 2026, 15:11"
+    },
+    {
+      "id": "74d1ec1bc109",
+      "titlu": "Messi, Maradona sau Pele? Clasamentul primelor 10 legende ale Cupei Mondiale",
+      "rezumat": "Care sunt cele mai mari legende ale Cupei Mondiale din toate timpurile? De la Pele la Lionel Messi, încercăm să numim primii 10.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-11T12:11:13.192305+00:00",
+      "data_afisaj": "11 iunie 2026, 15:11"
+    },
     {
       "id": "e64106715e4e",
       "titlu": "Dalglish, Souness & Rod Stewart - Amintiri de la Cupa Mondială '86 a Scoției",
