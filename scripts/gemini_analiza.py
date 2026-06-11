@@ -24,15 +24,16 @@ FORM_CACHE_FILE = "cache_forma_echipe.json"
 GEMINI_BASE    = "https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={key}"
 
 MODELS_TO_TRY = [
+    "gemini-2.5-flash",
+    "gemini-2.5-flash-lite",
     "gemini-2.0-flash",
-    "gemini-1.5-pro-latest",
-    "gemini-1.5-pro",
+    "gemini-2.0-flash-lite",
 ]
 
 INPUT_FILE  = "alte_meciuri.json"
 OUTPUT_FILE = "alte_meciuri.json"
 
-DELAY_SECONDS  = 6    # intre requesturi normale
+DELAY_SECONDS  = 7    # intre requesturi normale (sub 10 RPM, limita free 2.5-flash)
 RETRY_WAIT     = 65   # secunde de asteptare la 429
 MAX_RETRIES    = 3
 
@@ -375,12 +376,10 @@ def find_model() -> Optional[str]:
                 print(f"[gemini] Model: {model}")
                 return model
             elif r.status_code == 429:
-                print(f"[gemini] {model}: rate limit — astept 65s...")
-                time.sleep(65)
-                r2 = requests.post(url, json=test, timeout=15)
-                if r2.status_code == 200:
-                    print(f"[gemini] Model: {model}")
-                    return model
+                # 429 = modelul exista, doar e limitat temporar — il folosim,
+                # retry-ul din call_gemini() gestioneaza asteptarea
+                print(f"[gemini] Model: {model} (rate limit temporar, continui cu retry)")
+                return model
             else:
                 print(f"[gemini] {model}: HTTP {r.status_code}")
         except Exception as e:
