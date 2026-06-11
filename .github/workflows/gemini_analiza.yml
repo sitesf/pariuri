@@ -5,10 +5,10 @@ permissions:
 
 on:
   schedule:
-    # Pe durata Cupei Mondiale 2026 (iunie-iulie) sunt meciuri zilnic,
-    # deci rulam in fiecare zi. Scriptul intra automat in mod Cupa Mondiala
-    # (doar meciurile de la CM) pana pe 19 iulie, apoi revine la toate ligile.
-    - cron: "0 5 * * *"
+    # O data la 7 zile, joia la 05:00 UTC (08:00 ora Romaniei) — acopera
+    # urmatoarele 7 zile de meciuri. Pe durata Cupei Mondiale scriptul ia
+    # automat doar meciurile de la CM, apoi revine la toate ligile.
+    - cron: "0 5 * * 4"
   workflow_dispatch:
 
 jobs:
