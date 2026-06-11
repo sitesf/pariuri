@@ -147,6 +147,7 @@ function renderMatches() {
     const c1  = match.cota_1 != null ? Number(match.cota_1).toFixed(2) : '-';
     const cx  = match.cota_x != null ? Number(match.cota_x).toFixed(2) : '-';
     const c2  = match.cota_2 != null ? Number(match.cota_2).toFixed(2) : '-';
+    const fav = cotaFavorita(match);
     const p   = match.pronostic || null;
     const cp  = match.cota_pronostic ? Number(match.cota_pronostic).toFixed(2) : null;
     const inc = match.incredere || null;
@@ -168,9 +169,9 @@ function renderMatches() {
         </div>
 
         <div class="match-stats">
-          <div style="${cellStyle('1',p)}"><span>${esc(c1)}</span><small>1</small></div>
-          <div style="${cellStyle('X',p)}"><span>${esc(cx)}</span><small>X</small></div>
-          <div style="${cellStyle('2',p)}"><span>${esc(c2)}</span><small>2</small></div>
+          <div style="${cellStyle('1',p)}"><span style="${favStyle('1',fav)}">${esc(c1)}</span><small>1</small></div>
+          <div style="${cellStyle('X',p)}"><span style="${favStyle('X',fav)}">${esc(cx)}</span><small>X</small></div>
+          <div style="${cellStyle('2',p)}"><span style="${favStyle('2',fav)}">${esc(c2)}</span><small>2</small></div>
         </div>
 
         ${p ? `
@@ -213,6 +214,20 @@ function renderMatches() {
 }
 
 // ── Highlight celula pronostic ────────────────────────────────────────────────
+
+// Cota cu cele mai mari sanse (cea mai mica) — primeste bold
+function cotaFavorita(match) {
+  const odds = { '1': Number(match.cota_1) || 0, 'X': Number(match.cota_x) || 0, '2': Number(match.cota_2) || 0 };
+  let fav = null, best = Infinity;
+  for (const [k, v] of Object.entries(odds)) {
+    if (v > 0 && v < best) { best = v; fav = k; }
+  }
+  return fav;
+}
+
+function favStyle(cell, fav) {
+  return cell === fav ? 'font-weight:900;font-size:1.18em;color:var(--green);' : '';
+}
 
 function cellStyle(cell, p) {
   const active =
