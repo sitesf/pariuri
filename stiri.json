@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-10T19:30:05.331128+00:00",
-  "updated_at_afisaj": "10 iunie 2026, 22:30",
+  "updated_at": "2026-06-11T11:23:48.394744+00:00",
+  "updated_at_afisaj": "11 iunie 2026, 14:23",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,68 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 127,
+  "numar_stiri": 120,
   "stiri": [
+    {
+      "id": "e64106715e4e",
+      "titlu": "Dalglish, Souness & Rod Stewart - Amintiri de la Cupa Mondială '86 a Scoției",
+      "rezumat": "Amintiri despre campania Scoției la Cupa Mondială din 1986, a patra lor apariție consecutivă la turneu.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-11T11:23:40.858441+00:00",
+      "data_afisaj": "11 iunie 2026, 14:23"
+    },
+    {
+      "id": "a52ff2cb2710",
+      "titlu": "Surprize timpurii? Predicțiile lui Sutton pentru scorurile Cupei Mondiale 2026 - primele meciuri din grupe",
+      "rezumat": "Expertul BBC Sport în fotbal, Chris Sutton, oferă predicțiile sale pentru scorurile primei runde de meciuri din grupe la Cupa Mondială 2026.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-11T11:23:40.860025+00:00",
+      "data_afisaj": "11 iunie 2026, 14:23"
+    },
+    {
+      "id": "e5e8493f6c3d",
+      "titlu": "Mexic vs Africa de Sud: Prezice scorul pentru meciul de deschidere al Cupei Mondiale",
+      "rezumat": "(rezumat indisponibil)",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-06-11T11:23:40.861450+00:00",
+      "data_afisaj": "11 iunie 2026, 14:23"
+    },
+    {
+      "id": "8a92183445bb",
+      "titlu": "Edwards 'șocat' de demiterea de la Wolves, cu înlocuitorul deja pregătit",
+      "rezumat": "Wolves l-a demis pe antrenorul principal Rob Edwards după retrogradarea clubului din Premier League.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-06-11T11:23:40.862827+00:00",
+      "data_afisaj": "11 iunie 2026, 14:23"
+    },
+    {
+      "id": "352d6bdfac8b",
+      "titlu": "Ghidul echipei Panama pentru Cupa Mondială 2026",
+      "rezumat": "După prestații impresionante în turneele majore recente, jucătorii lui Thomas Christiansen își propun să demonstreze ceva pe scena globală. Acest articol face parte din Rețeaua de Experți a Cupei Mondiale 2026 a Guardian, o cooperare între unele dintre cele mai bune organizații media din cele 48 de țări calificate. theguardian.com publică previzualizări din trei țări în fiecare zi în perioada premergătoare începerii turneului pe 11 iunie. Continuă lectura...",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-11T11:23:40.864089+00:00",
+      "data_afisaj": "11 iunie 2026, 14:23"
+    },
     {
       "id": "f7e88a8c95df",
       "titlu": "Oficial american susține că arbitrul somalez interzis avea legături cu „organizații teroriste”",
@@ -1343,144 +1403,6 @@
       ],
       "data_publicare": "2026-06-04T18:22:12.151892+00:00",
       "data_afisaj": "4 iunie 2026, 21:22"
-    },
-    {
-      "id": "d7e619d173ff",
-      "titlu": "Scandal în Naționala Franței privind costurile biletelor la Cupa Mondială 2026",
-      "rezumat": "Vedetele naționalei de fotbal a Franței se află într-un conflict cu federația „cocoșilor galici” înaintea Cupei Mondiale din 2026. Disputa vizează refuzul jucătorilor de a achita costul biletelor pentru membrii familiilor lor la meciurile turneului final. Această situație tensionată ridică semne de întrebare cu privire la armonia din cadrul echipei și la modul în care va fi gestionată relația dintre jucători și conducerea federației pe parcursul competiției.",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-06-04T11:15:30.737123+00:00",
-      "data_afisaj": "4 iunie 2026, 14:15"
-    },
-    {
-      "id": "b826b60995d8",
-      "titlu": "Tottenham Hotspur negociază transferul fundașului Jan Paul van Hecke de la Brighton",
-      "rezumat": "Tottenham Hotspur se află în discuții avansate cu Brighton pentru achiziționarea fundașului central Jan Paul van Hecke. Clubul londonez caută să-și consolideze defensiva în această perioadă de transferuri, iar jucătorul olandez, în vârstă de 24 de ani, este considerat o țintă prioritară. Negocierile sunt în desfășurare, iar un acord ar putea fi finalizat în curând, marcând o mutare importantă pentru ambele cluburi.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-06-04T11:15:30.739472+00:00",
-      "data_afisaj": "4 iunie 2026, 14:15"
-    },
-    {
-      "id": "cf2f88acff43",
-      "titlu": "Transferul lui Katie McCabe la Chelsea stârnește controverse și abuzuri online",
-      "rezumat": "Mutarea controversată a lui Katie McCabe de la Arsenal la Chelsea, după 11 ani petrecuți la clubul din nordul Londrei, a generat reacții puternice în rândul fanilor. Deși transferurile între rivale sunt inevitabile în fotbalul feminin, având în vedere numărul restrâns de cluburi de elită, reacția publicului a depășit limitele, transformându-se în abuzuri online. Această situație subliniază provocările cu care se confruntă jucătoarele în mediul digital.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-04T11:15:30.741008+00:00",
-      "data_afisaj": "4 iunie 2026, 14:15"
-    },
-    {
-      "id": "0484b068d5cd",
-      "titlu": "Man City ia în considerare acțiuni în justiție pentru promisiunea candidatului Real de a semna Haaland",
-      "rezumat": "După ce un candidat la alegerile prezidențiale de la Real Madrid dezvăluie un tricou Erling Haaland la TV în direct, Manchester City a respins sugestia că atacantul lor se va muta în Spania.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-06-04T10:39:50.661349+00:00",
-      "data_afisaj": "4 iunie 2026, 13:39"
-    },
-    {
-      "id": "ff8dd1eedaaa",
-      "titlu": "Man City are oferta de deschidere a lui Anderson respinsă de Forest",
-      "rezumat": "Manchester City are o ofertă de transfer pentru mijlocașul Elliot Anderson, respinsă de Nottingham Forest.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-06-04T10:39:50.662739+00:00",
-      "data_afisaj": "4 iunie 2026, 13:39"
-    },
-    {
-      "id": "e257783f9764",
-      "titlu": "Legenda Chelsea Tambling a murit la vârsta de 84 de ani",
-      "rezumat": "Fostul marcator record al lui Chelsea, Bobby Tambling, care a marcat 202 de goluri pentru club, a murit la vârsta de 84 de ani.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-06-04T10:39:50.664113+00:00",
-      "data_afisaj": "4 iunie 2026, 13:39"
-    },
-    {
-      "id": "b55eeca6d189",
-      "titlu": "Cupa Mondială 2026: ghid pentru toți cei 1.248 de jucători",
-      "rezumat": "Tot ce trebuie să știi (și mai multe) despre fiecare membru al echipei. Faceți clic pe imaginile jucătorului pentru mai multe informații. Continuați să citiți...",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-04T10:39:50.665491+00:00",
-      "data_afisaj": "4 iunie 2026, 13:39"
-    },
-    {
-      "id": "ae29242c808f",
-      "titlu": "Victoriile underdog la Cupa Mondială: care au fost cele mai mari și cele mai bune supărări?",
-      "rezumat": "Am analizat datele din SUA 1994 încoace pentru a vedea cum și când au loc supărările clasice – și ce ar putea însemna asta pentru competiția din acest an. Anul acesta, cea mai mare Cupă Mondială din toate timpurile va cuprinde 48 de echipe, o creștere de la 32, deschizând turneul la și mai multe supărări, șocuri și surprize. Capriciile de la tragerea la sorți la Cupa Mondială au dat naștere de-a lungul anilor la victorii clasice de nefavorabili, de la înfrângerea șocantă a unei echipe amatoare din SUA în fața Angliei, favorite de atunci, în 1950. Dar ce face da",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-04T10:39:50.666964+00:00",
-      "data_afisaj": "4 iunie 2026, 13:39"
-    },
-    {
-      "id": "2a1e6370d23f",
-      "titlu": "NWSL Vizează Creșterea Popularității Prin Intermediul Cupei Mondiale Masculine",
-      "rezumat": "Liga Națională de Fotbal Feminin (NWSL) din SUA își propune să capitalizeze pe entuziasmul generat de Cupa Mondială masculină pentru a-și extinde audiența. Deși multe femei urmăresc turneul masculin, acest interes nu s-a tradus întotdeauna într-o susținere similară pentru fotbalul feminin. NWSL speră ca pauza competițională din timpul Cupei Mondiale să ofere o oportunitate strategică de a atrage noi fani și de a consolida legăturile cu publicul feminin.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-03T20:13:50.395199+00:00",
-      "data_afisaj": "3 iunie 2026, 23:13"
-    },
-    {
-      "id": "4618f49b9939",
-      "titlu": "Campanie Majoră Împotriva FIFA și a Președintelui Infantino, Lansată Înainte de Cupa Mondială",
-      "rezumat": "O campanie denumită „Reboot Fifa” a fost lansată cu o săptămână înainte de startul Cupei Mondiale, având ca scop depunerea unei plângeri masive împotriva FIFA și a președintelui Gianni Infantino. Inițiativa vine pe fondul preocupărilor fanilor legate de siguranța și costurile biletelor la turneu, precum și al plângerilor continue din partea organizațiilor pentru drepturile omului. Plângerea, de tip acțiune colectivă, solicită o investigație aprofundată a conducerii FIFA.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-03T19:52:50.493910+00:00",
-      "data_afisaj": "3 iunie 2026, 22:52"
-    },
-    {
-      "id": "b275ff4a4e03",
-      "titlu": "Manchester City Negociază cu Chelsea Taxa de Compensare pentru Enzo Maresca",
-      "rezumat": "Manchester City se află în discuții cu Chelsea pentru a stabili o taxă de compensare în legătură cu antrenorul Enzo Maresca. Această negociere indică o posibilă mișcare managerială importantă, având în vedere că Maresca a fost asociat cu roluri cheie la ambele cluburi. Detaliile exacte ale discuțiilor și implicațiile pentru viitorul antrenorului rămân de clarificat, dar situația subliniază complexitatea tranzacțiilor din fotbalul de top.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-06-03T19:52:50.495627+00:00",
-      "data_afisaj": "3 iunie 2026, 22:52"
-    },
-    {
-      "id": "4d65ced37a68",
-      "titlu": "Ibrahima Konaté Dezvăluie Luptele Personale După Un An Marcat de Tragedii",
-      "rezumat": "Fundașul francez Ibrahima Konaté a vorbit deschis despre dificultățile emoționale și luptele personale prin care a trecut într-un an marcat de tragedii. Acesta a fost profund afectat de decesul fostului său coechipier de la Liverpool, Diogo Jota, urmat de pierderea tatălui său, Hamady, după o lungă boală. Aceste evenimente tragice au avut un impact asupra formei sale sportive, iar Konaté a subliniat importanța conștientizării problemelor de sănătate mintală în fotbal.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-03T19:52:50.497065+00:00",
-      "data_afisaj": "3 iunie 2026, 22:52"
     }
   ]
 }
