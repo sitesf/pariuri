@@ -37,10 +37,14 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python scripts/gemini_analiza.py
 
+      - name: Verificare rezultate si statistici
+        run: python scripts/verificare_rezultate.py
+
       - name: Commit & Push JSON
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add alte_meciuri.json
+          git add alte_meciuri.json istoric_pronosticuri.json statistici.json
+          git add cache_forma_echipe.json || true
           git commit -m "Update alte meciuri + analiza Gemini $(date -u '+%Y-%m-%d %H:%M UTC')" || echo "no changes"
           git push
