@@ -5,7 +5,10 @@ permissions:
 
 on:
   schedule:
-    - cron: "0 5 * * 3"
+    # Pe durata Cupei Mondiale 2026 (iunie-iulie) sunt meciuri zilnic,
+    # deci rulam in fiecare zi. Scriptul intra automat in mod Cupa Mondiala
+    # (doar meciurile de la CM) pana pe 19 iulie, apoi revine la toate ligile.
+    - cron: "0 5 * * *"
   workflow_dispatch:
 
 jobs:

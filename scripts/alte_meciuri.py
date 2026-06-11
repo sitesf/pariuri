@@ -31,6 +31,18 @@ ODDS_API_BASE = "https://api.the-odds-api.com/v4"
 MAX_MECIURI = 50
 DAYS_AHEAD  = 7
 
+# Cupa Mondiala 2026 (11 iunie - 19 iulie 2026)
+# Pe durata turneului se iau DOAR meciurile de la Cupa Mondiala;
+# celelalte ligi sunt suspendate si revin automat dupa finala.
+WORLD_CUP_KEY   = "soccer_fifa_world_cup"
+WORLD_CUP_START = datetime(2026, 6, 1,  tzinfo=timezone.utc).date()
+WORLD_CUP_END   = datetime(2026, 7, 19, tzinfo=timezone.utc).date()
+
+
+def world_cup_mode() -> bool:
+    today = datetime.now(timezone.utc).date()
+    return WORLD_CUP_START <= today <= WORLD_CUP_END
+
 # 14 ligi principale
 MAIN_LEAGUES = [
     "soccer_uefa_champs_league",
@@ -132,6 +144,7 @@ def calc_dc(ca: float, cb: float) -> float:
 
 def liga_name(sport_key: str) -> str:
     mapping = {
+        "soccer_fifa_world_cup":                "Cupa Mondială 2026",
         "soccer_uefa_champs_league":            "UEFA Champions League",
         "soccer_uefa_europa_league":            "UEFA Europa League",
         "soccer_uefa_europa_conference_league": "UEFA Conference League",
@@ -309,6 +322,13 @@ def collect() -> List[Dict]:
             if key not in seen:
                 seen.add(key)
                 all_matches.append(m)
+
+    # Mod Cupa Mondiala: doar meciurile de la CM, restul ligilor suspendate
+    if world_cup_mode():
+        add_unique(process_league(WORLD_CUP_KEY, start, end))
+        print(f"[collect] mod Cupa Mondiala: {len(all_matches)} meciuri")
+        all_matches.sort(key=lambda x: (x.get("data") or "", x.get("ora") or ""))
+        return all_matches[:MAX_MECIURI]
 
     # Ligi principale
     for sk in MAIN_LEAGUES:
