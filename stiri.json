@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-11T19:29:20.715244+00:00",
-  "updated_at_afisaj": "11 iunie 2026, 22:29",
+  "updated_at": "2026-06-12T11:03:45.766133+00:00",
+  "updated_at_afisaj": "12 iunie 2026, 14:03",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,69 @@
   },
   "numar_stiri": 126,
   "stiri": [
+    {
+      "id": "74b37e594ec7",
+      "titlu": "Marele jucător al Watford, Jackett, moare la 64 de ani",
+      "rezumat": "Fostul antrenor al Watford și Swansea City și internaționalul galez Kenny Jackett a murit la vârsta de 64 de ani.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-12T11:03:36.329871+00:00",
+      "data_afisaj": "12 iunie 2026, 14:03"
+    },
+    {
+      "id": "1748eb6822c2",
+      "titlu": "Un nou mod de a experimenta Cupa Mondială - doar pe BBC Sport",
+      "rezumat": "Ai vrut vreodată să vezi un meci de la Cupa Mondială din fiecare unghi? Ce zici de o vedere tactică a întregului teren? Acum poți pe BBC.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-12T11:03:36.331420+00:00",
+      "data_afisaj": "12 iunie 2026, 14:03"
+    },
+    {
+      "id": "88a2fae7b7a9",
+      "titlu": "Cupa Mondială 2026: Startul victorios al Mexicului; locuri goale; SUA și Canada intră în joc; Retragerea lui Endo din naționala Japoniei – live",
+      "rezumat": "⚽️ Canada se pregătește cu anticipare | Ce este suficient pentru SUA? ⚽️ Ghidul jucătorilor | Bracketology | Gheata de Aur | Mail Cinci concluzii de la deschiderea Cupei Mondiale. Acestea vin prin amabilitatea lui Matt Hughes, care a fost în Azteca (nu mă pot hotărî să spun Stadionul Mexico City). Ce zici de asta: încă îți savurezi cerealele de dimineață și există deja un podcast zilnic despre Cupa Mondială de ascultat. Jet-lag-ul nu este prietenul lui Jonathan Wilson, dar o seară în Azteca a ridicat moralul, mai ales al lui Raul Jimenez.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "The Guardian Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-12T11:03:36.333350+00:00",
+      "data_afisaj": "12 iunie 2026, 14:03"
+    },
+    {
+      "id": "aa911d99d0db",
+      "titlu": "'Nimeni nu știe că are loc' - Finalele NBA alimentează apatia SUA față de Cupa Mondială",
+      "rezumat": "Cu Cupa Mondială în desfășurare, cât de entuziasmați sunt oamenii din Statele Unite - și chiar știu că are loc?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-12T11:03:36.334874+00:00",
+      "data_afisaj": "12 iunie 2026, 14:03"
+    },
+    {
+      "id": "ed95ed760e5c",
+      "titlu": "Bellingham: Anglia a greșit în afara terenului la Euro 2024",
+      "rezumat": "Jude Bellingham a susținut că lucrurile nu au fost în regulă în afara terenului în cantonamentul Angliei la Euro 2024.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-12T11:03:36.336384+00:00",
+      "data_afisaj": "12 iunie 2026, 14:03"
+    },
     {
       "id": "64727d3986a7",
       "titlu": "Oboseală? Jucătorii Cupei Mondiale care au avut cele mai grele sezoane",
@@ -1414,66 +1477,6 @@
       ],
       "data_publicare": "2026-06-05T11:28:32.603426+00:00",
       "data_afisaj": "5 iunie 2026, 14:28"
-    },
-    {
-      "id": "82b3d24cc589",
-      "titlu": "Zeljko Kopic pleacă de la Dinamo București, invocând diferențe de strategie",
-      "rezumat": "Antrenorul croat Zeljko Kopic s-a despărțit de clubul Dinamo București, conform surselor românești. Decizia vine pe fondul unor diferențe de strategie între tehnician și acționarii clubului, precum și a unei posibile oferte primite de Kopic de la o echipă din zona arabă. Plecarea sa deschide discuții intense despre viitorul băncii tehnice a clubului și despre posibilele variante de antrenor luate în considerare de conducere. Această schimbare majoră vine într-un moment crucial pentru Dinamo.",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-06-05T10:50:44.477725+00:00",
-      "data_afisaj": "5 iunie 2026, 13:50"
-    },
-    {
-      "id": "b4ff6ebc0710",
-      "titlu": "Gică Hagi anunță portarul titular pentru meciul România – Țara Galilor",
-      "rezumat": "Selecționerul Gică Hagi a confirmat portarul titular al naționalei României pentru viitorul meci de pregătire împotriva Țării Galilor. Anunțul vine în contextul unor incertitudini legate de postul de portar, în special în absența lui Aioani. Decizia lui Hagi este așteptată să influențeze strategia echipei pentru această partidă importantă, care servește drept pregătire pentru competițiile viitoare. Detaliile privind alegerea portarului și motivele din spatele acesteia au fost făcute publice înainte de confruntarea crucială.",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-06-05T10:50:44.479309+00:00",
-      "data_afisaj": "5 iunie 2026, 13:50"
-    },
-    {
-      "id": "36e835c38cb5",
-      "titlu": "Au fost anunțate listele scurte pentru premiile PFA Jucătorul Anului (masculin și feminin)",
-      "rezumat": "Asociația Fotbaliștilor Profesioniști (PFA) a publicat listele scurte pentru premiile Jucătorul Anului, atât la categoria masculină, cât și la cea feminină. Printre nominalizații la categoria masculină se numără Declan Rice, Gabriel și David Raya de la Arsenal, alături de Bruno Fernandes, Erling Haaland și Rayan Cherki. La feminin, Khadija 'Bunny' Shaw și Yui Hasegawa de la Manchester City sunt printre candidate. Aceste nominalizări recunosc performanțele excepționale ale jucătorilor pe parcursul sezonului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-05T10:50:44.480964+00:00",
-      "data_afisaj": "5 iunie 2026, 13:50"
-    },
-    {
-      "id": "65b3f20e5e77",
-      "titlu": "Liverpool îl numește pe Andoni Iraola noul antrenor principal",
-      "rezumat": "Clubul englez Liverpool a anunțat numirea lui Andoni Iraola în funcția de antrenor principal, semnând un contract pe doi ani. Această decizie vine în urma demiterii lui Arne Slot. Iraola, cunoscut pentru stilul său de joc dinamic și rezultatele obținute la Bournemouth, este așteptat să aducă o nouă energie echipei de pe Anfield. Numirea sa marchează o schimbare importantă la conducerea tehnică a clubului, cu scopul de a revitaliza performanțele în competițiile viitoare și de a lupta pentru titluri.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-05T10:50:44.482373+00:00",
-      "data_afisaj": "5 iunie 2026, 13:50"
-    },
-    {
-      "id": "59b7840751bd",
-      "titlu": "FIFA solicită plata biletelor oferite din greșeală gratuit la Cupa Mondială",
-      "rezumat": "FIFA a anunțat că fanii care au primit din eroare bilete gratuite pentru meciurile din faza grupelor la Cupa Mondială, desfășurate în Toronto, trebuie să le plătească în termen de șapte zile, altfel își vor pierde locurile. Eroarea de ticketing a afectat un număr de suporteri, iar organismul de conducere al fotbalului mondial a luat măsuri pentru a rectifica situația. Această decizie a stârnit reacții diverse în rândul fanilor afectați, care se văd puși în fața unei situații neașteptate.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-05T10:50:44.483914+00:00",
-      "data_afisaj": "5 iunie 2026, 13:50"
     }
   ]
 }
