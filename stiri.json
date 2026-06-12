@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-12T11:03:45.766133+00:00",
-  "updated_at_afisaj": "12 iunie 2026, 14:03",
+  "updated_at": "2026-06-12T11:43:23.656063+00:00",
+  "updated_at_afisaj": "12 iunie 2026, 14:43",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 126,
+  "numar_stiri": 128,
   "stiri": [
+    {
+      "id": "02d874880734",
+      "titlu": "Ghid complet al celor 1.248 de jucători de la Cupa Mondială 2026",
+      "rezumat": "Un ghid interactiv detaliat a fost lansat, oferind informații esențiale despre fiecare dintre cei 1.248 de jucători care participă la Cupa Mondială din 2026. Resursa include profiluri complete ale membrilor fiecărui lot, permițând fanilor să exploreze date despre carieră, statistici și alte detalii relevante. Acest instrument este conceput pentru a îmbunătăți experiența suporterilor pe durata turneului, oferind acces rapid la informații despre vedetele și talentele emergente ale competiției.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-12T11:43:23.649265+00:00",
+      "data_afisaj": "12 iunie 2026, 14:43"
+    },
+    {
+      "id": "c5ed120a749f",
+      "titlu": "Meciul Irlanda - Israel din Liga Națiunilor se va disputa pe teren neutru",
+      "rezumat": "Asociația de Fotbal a Irlandei (FAI) a confirmat că partida de acasă a Republicii Irlanda din Liga Națiunilor, împotriva Israelului, programată pentru mai târziu în acest an, se va juca pe un teren neutru. Decizia vine în urma unor considerații legate de securitate și contextul geopolitic actual, asigurând desfășurarea meciului în condiții optime. Locația exactă a terenului neutru urmează să fie anunțată, iar fanii așteaptă detalii suplimentare privind organizarea.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-12T11:43:23.651047+00:00",
+      "data_afisaj": "12 iunie 2026, 14:43"
+    },
+    {
+      "id": "1909a55ed4a4",
+      "titlu": "Politica internă umbrește participarea Franței la Cupa Mondială după declarațiile lui Mbappé",
+      "rezumat": "Echipa națională a Franței se confruntă cu presiuni politice interne înaintea Cupei Mondiale, după ce căpitanul Kylian Mbappé a criticat public extrema dreaptă. Fostul jucător Michel Platini și alți foști internaționali l-au acuzat pe Mbappé că a creat o distragere, în timp ce selecționerul Didier Deschamps a apărat dreptul căpitanului de a-și exprima opiniile. Situația subliniază tensiunile dintre sport și contextul social-politic, adăugând o dimensiune neașteptată pregătirilor pentru turneu.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-12T11:43:23.652858+00:00",
+      "data_afisaj": "12 iunie 2026, 14:43"
+    },
+    {
+      "id": "155606b44580",
+      "titlu": "Beth Mead semnează cu Manchester City",
+      "rezumat": "Atacanta engleză Beth Mead a semnat un contract cu Manchester City, alăturându-se clubului printr-un transfer gratuit, după plecarea sa de la Arsenal în această vară. Mutarea reprezintă o achiziție importantă pentru echipa feminină a lui Manchester City, aducând o jucătoare de calibru, recunoscută pentru performanțele sale la nivel național și internațional. Mead va contribui la consolidarea lotului și la ambițiile clubului în competițiile viitoare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-06-12T11:43:23.654331+00:00",
+      "data_afisaj": "12 iunie 2026, 14:43"
+    },
+    {
+      "id": "db84a15cc7c5",
+      "titlu": "Locuri goale la Cupa Mondială generează critici suplimentare la adresa FIFA",
+      "rezumat": "Prezența unui număr mare de locuri goale la al doilea cel mai mic stadion al Cupei Mondiale a stârnit noi critici la adresa FIFA. Politica de vânzare a biletelor a fost deja pusă sub semnul întrebării înainte de debutul turneului, iar imaginile cu tribunele parțial goale, la doar o zi de la începerea competiției, au intensificat nemulțumirile. Situația ridică semne de întrebare privind organizarea și strategia de marketing a evenimentului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-06-12T11:43:23.656043+00:00",
+      "data_afisaj": "12 iunie 2026, 14:43"
+    },
     {
       "id": "74b37e594ec7",
       "titlu": "Marele jucător al Watford, Jackett, moare la 64 de ani",
@@ -1441,42 +1497,6 @@
       ],
       "data_publicare": "2026-06-05T17:59:14.288748+00:00",
       "data_afisaj": "5 iunie 2026, 20:59"
-    },
-    {
-      "id": "1e3d636ebae8",
-      "titlu": "Graham Potter, bucuros de calificarea Suediei la Cupa Mondială după eșecurile de la Chelsea și West Ham",
-      "rezumat": "Antrenorul Graham Potter a vorbit despre satisfacția și mândria de a conduce echipa națională a Suediei la Cupa Mondială, după experiențele sale dificile la cârma cluburilor Chelsea și West Ham. El a reflectat asupra modului în care a depășit eșecurile anterioare, găsind o nouă bucurie în rolul său de selecționer. Potter a menționat că se simte 'foarte suedez' în timpul activității sale, subliniind adaptarea sa la noul mediu și importanța acestei calificări în cariera sa.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-05T11:28:32.597993+00:00",
-      "data_afisaj": "5 iunie 2026, 14:28"
-    },
-    {
-      "id": "80b7f450042b",
-      "titlu": "St Mirren îl numește pe Craig McLeish antrenor permanent",
-      "rezumat": "Craig McLeish a fost numit antrenor permanent al echipei St Mirren, semnând un contract pe o perioadă de trei ani. Numirea vine după ce McLeish a condus echipa spre supraviețuirea în Premiership-ul Scoțian, demonstrând abilități manageriale solide. Experiența sa anterioară la academia clubului a fost un factor decisiv în decizia conducerii, care își propune să continue dezvoltarea echipei și să-i consolideze poziția în ligă sub îndrumarea sa.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-06-05T11:28:32.601133+00:00",
-      "data_afisaj": "5 iunie 2026, 14:28"
-    },
-    {
-      "id": "452de7393c9c",
-      "titlu": "Regulatorul Independent al Fotbalului din Anglia respinge apelurile pentru un rol mai amplu în promovarea egalității",
-      "rezumat": "Regulatorul Independent al Fotbalului (IFR) din Anglia este pregătit să respingă solicitările organizației Kick It Out de a-și asuma un rol mai amplu în promovarea egalității, diversității și incluziunii (EDI) în cadrul cluburilor. Decizia IFR vine după o a doua rundă de consultări privind termenii de licențiere și indică faptul că nu va impune cluburilor ținte EDI obligatorii sau rapoarte anuale în acest sens. Această poziție a stârnit discuții privind viitorul inițiativelor de egalitate în fotbalul englez.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-05T11:28:32.603426+00:00",
-      "data_afisaj": "5 iunie 2026, 14:28"
     }
   ]
 }
