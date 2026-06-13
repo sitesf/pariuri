@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-12T19:00:31.081762+00:00",
-  "updated_at_afisaj": "12 iunie 2026, 22:00",
+  "updated_at": "2026-06-13T09:58:01.787792+00:00",
+  "updated_at_afisaj": "13 iunie 2026, 12:58",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,61 @@
   },
   "numar_stiri": 130,
   "stiri": [
+    {
+      "id": "d1bcfba2451e",
+      "titlu": "Ancelotti confirmă absența lui Neymar de la meciul de deschidere al Braziliei",
+      "rezumat": "Selecționerul Braziliei, Carlo Ancelotti, a confirmat că starul echipei, Neymar, va rata meciul de deschidere al Cupei Mondiale împotriva Marocului, programat sâmbătă. Absența jucătorului este o lovitură pentru ambițiile Braziliei de a începe turneul cu o victorie, având în vedere importanța sa în ofensivă. Ancelotti nu a oferit detalii suplimentare despre durata indisponibilității, dar echipa va trebui să se adapteze rapid pentru a compensa lipsa unuia dintre cei mai influenți fotbaliști ai săi în prima partidă a competiției.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-13T09:58:01.780676+00:00",
+      "data_afisaj": "13 iunie 2026, 12:58"
+    },
+    {
+      "id": "ed536c2117f2",
+      "titlu": "Echipament de antrenament al Angliei, furat înainte de meciul de la Cupa Mondială",
+      "rezumat": "Naționala Angliei a fost victima unui furt de echipament de antrenament, incident petrecut înainte de sosirea delegației în Kansas City, sâmbătă. Detaliile furtului nu au fost pe deplin clarificate, dar incidentul a generat îngrijorare în rândul staff-ului tehnic și al jucătorilor. Autoritățile locale au demarat o anchetă pentru a recupera bunurile și a identifica făptașii. Acest eveniment neplăcut vine într-un moment crucial, chiar înaintea debutului Angliei la Cupa Mondială, perturbând pregătirile finale ale echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-13T09:58:01.782496+00:00",
+      "data_afisaj": "13 iunie 2026, 12:58"
+    },
+    {
+      "id": "b537008a115f",
+      "titlu": "Decizie VAR controversată la Cupa Mondială: un cartonaș galben acordat greșit stârnește confuzie",
+      "rezumat": "O decizie a sistemului VAR a stârnit controverse și confuzie în timpul meciului de deschidere al Statelor Unite la Cupa Mondială, împotriva Paraguayului. Arbitrul a acordat un cartonaș galben pe baza unei \"identități greșite\", o situație rară care a lăsat fanii și comentatorii perplecși. Deși SUA a obținut o victorie convingătoare cu 4-1, incidentul a umbrit parțial performanța, generând discuții aprinse despre aplicarea regulamentului și intervenția tehnologiei în fotbal.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-13T09:58:01.784380+00:00",
+      "data_afisaj": "13 iunie 2026, 12:58"
+    },
+    {
+      "id": "c38dab004562",
+      "titlu": "Cyle Larin salvează un punct pentru Canada în meciul de deschidere al Cupei Mondiale",
+      "rezumat": "Atacantul Cyle Larin a devenit eroul Canadei, marcând golul egalizator împotriva Bosniei și Herțegovinei, într-un meci tensionat de la Cupa Mondială. Intrat pe teren ca rezervă, Larin a înscris la doar 121 de secunde după ce a fost introdus, aducând scorul la 1-1. Golul său a anulat avantajul Bosniei, care deschisese scorul prin Jovo Lukic. Această remiză este crucială pentru Canada, una dintre țările gazdă, oferindu-le un punct prețios în debutul competiției.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-13T09:58:01.786168+00:00",
+      "data_afisaj": "13 iunie 2026, 12:58"
+    },
+    {
+      "id": "d4ff4dc092d7",
+      "titlu": "David Beckham, onorat cu o stea pe Hollywood Walk of Fame",
+      "rezumat": "Legendarul fotbalist englez Sir David Beckham a fost onorat cu o stea pe faimosul Hollywood Walk of Fame, devenind astfel primul jucător de fotbal care primește o astfel de distincție. Ceremonia a avut loc în prezența familiei și a numeroaselor personalități, marcând o recunoaștere a impactului său global, atât pe terenul de fotbal, cât și în cultura populară. Această realizare subliniază statutul său iconic și contribuția sa la promovarea sportului la nivel mondial.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-06-13T09:58:01.787772+00:00",
+      "data_afisaj": "13 iunie 2026, 12:58"
+    },
     {
       "id": "8cc441749b8e",
       "titlu": "Jude Bellingham, așteptat titular în primul meci al Angliei la Cupa Mondială",
@@ -1464,62 +1519,6 @@
       ],
       "data_publicare": "2026-06-06T10:03:12.117175+00:00",
       "data_afisaj": "6 iunie 2026, 13:03"
-    },
-    {
-      "id": "456a7f7f5fc3",
-      "titlu": "Ghidul echipei Uruguay pentru Cupa Mondială 2026",
-      "rezumat": "Uruguayenii speră că Marcelo Bielsa va avea rezultate mai puțin fluctuante, astfel încât Federico Valverde să-i poată inspira să ajungă în fazele superioare. Acest articol face parte din Rețeaua de Experți a Cupei Mondiale 2026 a Guardian, o cooperare între unele dintre cele mai bune organizații media din cele 48 de țări calificate. theguardian.com publică previzualizări din trei țări în fiecare zi, în perioada premergătoare începerii turneului pe 11 iunie. Continuă lectura...",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-06T09:27:35.709122+00:00",
-      "data_afisaj": "6 iunie 2026, 12:27"
-    },
-    {
-      "id": "09db7300e454",
-      "titlu": "Domnul de neînlocuit și pretendent la Balonul de Aur – este acesta momentul lui Kane?",
-      "rezumat": "Harry Kane a fost descris ca fiind de neînlocuit pentru Anglia, dar va oferi Cupa Mondială scena pentru a demonstra că este acum cel mai bun?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-06T09:27:35.710610+00:00",
-      "data_afisaj": "6 iunie 2026, 12:27"
-    },
-    {
-      "id": "80975a0319ad",
-      "titlu": "Pionierul într-o echipă improbabilă de Cupa Mondială",
-      "rezumat": "Când Desmond Armstrong a înfruntat presa la Cupa Mondială din 1990, prima întrebare pe care a primit-o a fost una care i-a rămas în minte din motive greșite.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-06T09:27:35.712046+00:00",
-      "data_afisaj": "6 iunie 2026, 12:27"
-    },
-    {
-      "id": "b1c375a92063",
-      "titlu": "Spania expune slăbiciunile Angliei într-o înfrângere dureroasă",
-      "rezumat": "Anglia trebuia doar să evite înfrângerea împotriva Spaniei – în schimb, a suferit cea mai grea pierdere din ultimii 17 ani, dar nu este încă momentul să intrăm în panică.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-06T09:27:35.713359+00:00",
-      "data_afisaj": "6 iunie 2026, 12:27"
-    },
-    {
-      "id": "ae00dc57da77",
-      "titlu": "Impactul subestimat al omului de PR al Scoției care rade pe spate",
-      "rezumat": "Liam Kelly pare perplex după ce i s-a spus că a fost desemnat de unii coechipieri drept „omul de PR” al Scoției.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-06T09:27:35.714762+00:00",
-      "data_afisaj": "6 iunie 2026, 12:27"
     }
   ]
 }
