@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-13T10:28:16.857201+00:00",
-  "updated_at_afisaj": "13 iunie 2026, 13:28",
+  "updated_at": "2026-06-13T17:26:35.789432+00:00",
+  "updated_at_afisaj": "13 iunie 2026, 20:26",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,64 @@
   },
   "numar_stiri": 129,
   "stiri": [
+    {
+      "id": "31bac0945d9f",
+      "titlu": "Haiti marchează o apariție rară la Cupa Mondială, purtând speranța unei națiuni",
+      "rezumat": "Naționala masculină de fotbal a statului Haiti participă la Cupa Mondială pentru prima dată în 52 de ani, o prezență care simbolizează mai mult decât simple obiective sportive pentru țara sfâșiată de conflicte. Această calificare rară este văzută ca o sursă de speranță și inspirație pentru o națiune care se confruntă cu numeroase provocări, oferind un moment de unitate și mândrie pe scena globală a fotbalului. Participarea la turneul final subliniază reziliența și spiritul sportiv al jucătorilor și al poporului haitian.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-13T17:26:35.782391+00:00",
+      "data_afisaj": "13 iunie 2026, 20:26"
+    },
+    {
+      "id": "55fcb4b8b36b",
+      "titlu": "Foști jucători ai Scoției vorbesc despre experiența de a juca la Cupa Mondială",
+      "rezumat": "Paul Lambert, Darren Jackson și Rachel Corsie, foști internaționali scoțieni, au împărtășit experiențele lor despre cum este să-ți îndeplinești visul de a juca la o Cupă Mondială. Aceștia au descris emoțiile, presiunea și mândria de a reprezenta Scoția la cel mai înalt nivel al fotbalului. Mărturiile lor oferă o perspectivă unică asupra provocărilor și recompenselor participării la un turneu major, evidențiind impactul profund pe care îl are o astfel de competiție asupra carierei și vieții unui sportiv.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-06-13T17:26:35.784165+00:00",
+      "data_afisaj": "13 iunie 2026, 20:26"
+    },
+    {
+      "id": "cf1c071ecf54",
+      "titlu": "Noi reguli și modificări la Cupa Mondială 2026 generează confuzie",
+      "rezumat": "Pentru Cupa Mondială din 2026 au fost introduse mai multe reguli noi și ajustări la cele existente. Aceste schimbări, menite să îmbunătățească jocul, par să fi generat deja o anumită confuzie printre jucători și arbitri. Discuțiile se concentrează pe modul în care aceste modificări sunt interpretate și aplicate în timpul meciurilor, ridicând întrebări despre eficacitatea lor și despre impactul asupra dinamicii jocului. Este esențial ca regulile să fie clare pentru a asigura un arbitraj consecvent și echitabil.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-13T17:26:35.785889+00:00",
+      "data_afisaj": "13 iunie 2026, 20:26"
+    },
+    {
+      "id": "de4db4f2bc48",
+      "titlu": "Fulham negociază numirea lui Alvaro Arbeloa ca înlocuitor al lui Marco Silva",
+      "rezumat": "Clubul Fulham se află în discuții avansate pentru a-l numi pe Alvaro Arbeloa în funcția de antrenor principal, înlocuindu-l pe Marco Silva, care a părăsit echipa. Arbeloa, fost fundaș al lui Real Madrid și al naționalei Spaniei, ar urma să preia conducerea tehnică a echipei din Premier League. Această mutare marchează o schimbare importantă la nivelul băncii tehnice pentru Fulham, care caută să-și consolideze performanțele sub o nouă conducere. Negocierile sunt în desfășurare și se așteaptă o decizie finală în curând.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-13T17:26:35.787614+00:00",
+      "data_afisaj": "13 iunie 2026, 20:26"
+    },
+    {
+      "id": "b408c6470bac",
+      "titlu": "Daniel Kretinsky devine cel mai mare acționar al clubului West Ham United",
+      "rezumat": "Miliardarul ceh Daniel Kretinsky este pe cale să devină cel mai mare acționar al clubului West Ham United, depășindu-l pe David Sullivan. Kretinsky, proprietarul Royal Mail, și-a mărit participația de la 27% la 43% prin achiziționarea de acțiuni suplimentare de la familia Gold. Această mișcare consolidează influența lui Kretinsky la club, venind după ce Sullivan a demisionat din funcțiile de director și co-președinte. Noii acționari au abordat și acuzațiile recente împotriva lui David Sullivan, exprimându-și profunda îngrijorare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-13T17:26:35.789411+00:00",
+      "data_afisaj": "13 iunie 2026, 20:26"
+    },
     {
       "id": "48d3fa4c36f6",
       "titlu": "Manchester United conduce cursa pentru transferul lui Mateus Fernandes de la West Ham",
@@ -1449,65 +1507,6 @@
       ],
       "data_publicare": "2026-06-06T18:02:23.449847+00:00",
       "data_afisaj": "6 iunie 2026, 21:02"
-    },
-    {
-      "id": "6a7b4e5d41e8",
-      "titlu": "Sullivan demisionează de la West Ham în urma acuzațiilor istorice",
-      "rezumat": "Co-proprietarul West Ham United, David Sullivan, demisionează din funcția de președinte comun al clubului cu efect imediat, în urma unei investigații comune a BBC Panorama și a ziarului The Times privind comportamentul său.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-06T17:18:31.231206+00:00",
-      "data_afisaj": "6 iunie 2026, 20:18"
-    },
-    {
-      "id": "c022240bad66",
-      "titlu": "Cum să urmărești Cupa Mondială la BBC",
-      "rezumat": "Cea mai mare Cupă Mondială din istorie începe pe 11 iunie și există mai multe modalități de a o urmări la BBC decât oricând înainte.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-06-06T17:18:31.232437+00:00",
-      "data_afisaj": "6 iunie 2026, 20:18"
-    },
-    {
-      "id": "8857f5699b22",
-      "titlu": "Cupa Mondială 2026: Toate cele 48 de loturi confirmate",
-      "rezumat": "Toate cele 48 de loturi confirmate pentru Cupa Mondială 2026 din SUA, Canada și Mexic.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-06T17:18:31.233649+00:00",
-      "data_afisaj": "6 iunie 2026, 20:18"
-    },
-    {
-      "id": "7ba9f2140ee3",
-      "titlu": "Cupa Mondială 2026: Ghidul echipei Franței",
-      "rezumat": "Kylian Mbappé, Ousmane Dembélé și Michael Olise au puterea ofensivă de a distruge adversarii, dar îi va lăsa Didier Deschamps să-și facă de cap? Acest articol face parte din Rețeaua de Experți a Cupei Mondiale 2026 a The Guardian, o colaborare între unele dintre cele mai bune organizații media din cele 48 de țări calificate. theguardian.com publică previzualizări din trei țări în fiecare zi, în perioada premergătoare începerii turneului pe 11 iunie. Continuă să citești...",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-06T17:18:31.234816+00:00",
-      "data_afisaj": "6 iunie 2026, 20:18"
-    },
-    {
-      "id": "1f24894cf9ff",
-      "titlu": "Fulgerul oprește un amical pre-Cupa Mondială în Texas timp de două ore",
-      "rezumat": "Meciul de pregătire al Arabiei Saudite pentru Cupa Mondială împotriva Puerto Rico din Texas este oprit timp de aproape două ore din cauza vremii extreme.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-06T17:18:31.236125+00:00",
-      "data_afisaj": "6 iunie 2026, 20:18"
     }
   ]
 }
