@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-13T09:58:01.787792+00:00",
-  "updated_at_afisaj": "13 iunie 2026, 12:58",
+  "updated_at": "2026-06-13T10:28:16.857201+00:00",
+  "updated_at_afisaj": "13 iunie 2026, 13:28",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,53 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 130,
+  "numar_stiri": 129,
   "stiri": [
+    {
+      "id": "48d3fa4c36f6",
+      "titlu": "Manchester United conduce cursa pentru transferul lui Mateus Fernandes de la West Ham",
+      "rezumat": "Manchester United este în fruntea listei de cluburi interesate de Mateus Fernandes, mijlocașul lui West Ham, evaluat la 80 de milioane de lire sterline. Arsenal, Real Madrid și Paris Saint-Germain au manifestat, de asemenea, interes pentru tânărul jucător. West Ham speră să obțină suma cerută, deși ar putea fi sub presiune financiară pentru a reduce prețul după retrogradarea lor. Această mutare ar putea consolida semnificativ lotul lui Michael Carrick la United.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-13T10:28:16.850833+00:00",
+      "data_afisaj": "13 iunie 2026, 13:28"
+    },
+    {
+      "id": "70f2c54bf4e2",
+      "titlu": "Arsenal ia în considerare o mutare pentru atacantul grec Christos Tzolis",
+      "rezumat": "Clubul Arsenal analizează posibilitatea de a accelera o mutare pentru atacantul internațional grec Christos Tzolis, de la Club Brugge. Jucătorul a fost oferit clubului londonez, iar oficialii \"tunarilor\" evaluează opțiunile pentru a-și întări linia ofensivă. Această potențială achiziție ar aduce un plus de viteză și creativitate în atacul echipei, pe măsură ce se pregătesc pentru noul sezon.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-13T10:28:16.852483+00:00",
+      "data_afisaj": "13 iunie 2026, 13:28"
+    },
+    {
+      "id": "d7db34d266e8",
+      "titlu": "Katy Perry, Tyla și Future printre artiștii care vor cânta la ceremonia de deschidere a Cupei Mondiale din SUA",
+      "rezumat": "Ceremonia de deschidere a Cupei Mondiale din SUA, găzduită pe stadionul SoFi, va beneficia de prezența unor nume sonore din industria muzicală. Printre artiștii confirmați care vor urca pe scenă se numără Katy Perry, Tyla și Future. Evenimentul promite un spectacol grandios, menit să marcheze startul oficial al turneului final și să ofere o experiență memorabilă fanilor prezenți și telespectatorilor din întreaga lume.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-13T10:28:16.854505+00:00",
+      "data_afisaj": "13 iunie 2026, 13:28"
+    },
+    {
+      "id": "c536bc96f2b4",
+      "titlu": "Arbitrul Michael Oliver ratează un meci de la Cupa Mondială din cauza unei accidentări",
+      "rezumat": "Arbitrul englez Michael Oliver a fost exclus de la meciul din faza grupelor dintre Coasta de Fildeș și Ecuador, din cauza unei accidentări. Această absență reprezintă o pierdere pentru brigada de arbitri a turneului, Oliver fiind considerat unul dintre cei mai experimentați și respectați oficiali. Detaliile complete ale accidentării nu au fost încă publicate, dar se așteaptă o perioadă de recuperare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-13T10:28:16.857180+00:00",
+      "data_afisaj": "13 iunie 2026, 13:28"
+    },
     {
       "id": "d1bcfba2451e",
       "titlu": "Ancelotti confirmă absența lui Neymar de la meciul de deschidere al Braziliei",
@@ -1463,62 +1508,6 @@
       ],
       "data_publicare": "2026-06-06T17:18:31.236125+00:00",
       "data_afisaj": "6 iunie 2026, 20:18"
-    },
-    {
-      "id": "e2662cae3fd9",
-      "titlu": "FIFA a dat înapoi pe sticlele de apă din plastic la Cupa Mondială după condamnarea interdicției",
-      "rezumat": "Fanilor li se va permite acum o sticlă sigilată la meciurile Keir Starmer, printre criticii politicii anterioare de schimbare în U. Fifa și-a modificat din nou politica privind sticlele de apă pentru Cupa Mondială din America de Nord, permițând fanilor să aducă pe stadioane o sticlă sigilată, de unică folosință, de 590 ml. Deținătorilor de bilete li s-a permis anterior o sticlă goală, transparentă și reutilizabilă de până la un litru, dar o actualizare la începutul acestei săptămâni a confirmat că sticlele reutilizabile nu mai erau permise. Continuă să citești...",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-06T10:03:12.111918+00:00",
-      "data_afisaj": "6 iunie 2026, 13:03"
-    },
-    {
-      "id": "2799f6e4dcfd",
-      "titlu": "Ce echipă de Cupă Mondială ești? Faceți testul nostru",
-      "rezumat": "Indiferent dacă sunteți neutru și aveți nevoie de o echipă care să vă susțină sau pur și simplu doriți să urmăriți o a doua parte, BBC Sport vă găsește.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-06T10:03:12.113344+00:00",
-      "data_afisaj": "6 iunie 2026, 13:03"
-    },
-    {
-      "id": "b40340cfb44a",
-      "titlu": "Tuchel nu va lăsa pasul Tampa să afecteze selecția",
-      "rezumat": "Antrenorul principal al Angliei, Thomas Tuchel, spune că rapoartele despre starea terenului de la locul de desfășurare a amicalului echipei sale împotriva Noii Zeelande nu vor influența selecția echipei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-06T10:03:12.114670+00:00",
-      "data_afisaj": "6 iunie 2026, 13:03"
-    },
-    {
-      "id": "fa5cffbe542e",
-      "titlu": "O'Neill se pregătește să rămână ca antrenor al Celticului",
-      "rezumat": "Martin O'Neill va continua ca antrenor Celtic după ce a condus echipa la o dublă în Premiership și Cupa Scoției.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-06T10:03:12.115947+00:00",
-      "data_afisaj": "6 iunie 2026, 13:03"
-    },
-    {
-      "id": "ccedcb264ee1",
-      "titlu": "Mowbray se întoarce ca antrenor principal al Blackburn",
-      "rezumat": "Blackburn Rovers îl numește pe Tony Mowbray ca noul lor antrenor principal pentru a doua perioadă la conducere.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-06T10:03:12.117175+00:00",
-      "data_afisaj": "6 iunie 2026, 13:03"
     }
   ]
 }
