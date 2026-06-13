@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-13T17:26:35.789432+00:00",
-  "updated_at_afisaj": "13 iunie 2026, 20:26",
+  "updated_at": "2026-06-13T18:03:51.837659+00:00",
+  "updated_at_afisaj": "13 iunie 2026, 21:03",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,32 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 129,
+  "numar_stiri": 126,
   "stiri": [
+    {
+      "id": "4d8d922f521e",
+      "titlu": "SUA debutează convingător la Cupa Mondială cu o victorie de 4-1 împotriva Paraguayului",
+      "rezumat": "Echipa națională a Statelor Unite a început campania la Cupa Mondială 2026 cu o victorie impresionantă de 4-1 împotriva Paraguayului, pe stadionul din Los Angeles. Folarin Balogun a marcat de două ori, contribuind la o performanță solidă care a risipit îndoielile privind capacitatea gazdelor de a gestiona presiunea turneului. Această victorie, considerată una istorică, sugerează o nouă abordare a jocului american, mai dinamică și atractivă, atrăgând un număr mare de fani.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-06-13T18:03:51.836097+00:00",
+      "data_afisaj": "13 iunie 2026, 21:03"
+    },
+    {
+      "id": "e0ba52253a3c",
+      "titlu": "Oferte pentru Jovo Lukic după golul marcat la Cupa Mondială",
+      "rezumat": "Atacantul Jovo Lukic, de la U Cluj, a atras atenția cluburilor din China, Europa și Orientul Mijlociu, după ce a marcat un gol la Cupa Mondială 2026. Performanța sa la turneul final a generat un interes crescut pe piața transferurilor, iar viitorul său la echipa românească este acum incert. Discuțiile privind o posibilă plecare sunt în plină desfășurare, clubul urmând să analizeze propunerile primite.",
+      "categorie": "Fotbal",
+      "surse": [
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-06-13T18:03:51.837639+00:00",
+      "data_afisaj": "13 iunie 2026, 21:03"
+    },
     {
       "id": "31bac0945d9f",
       "titlu": "Haiti marchează o apariție rară la Cupa Mondială, purtând speranța unei națiuni",
@@ -1452,61 +1476,6 @@
       ],
       "data_publicare": "2026-06-07T10:06:38.392464+00:00",
       "data_afisaj": "7 iunie 2026, 13:06"
-    },
-    {
-      "id": "b38986563b2a",
-      "titlu": "Arsenal se apropie de fundașul PSG Mbemba",
-      "rezumat": "Arsenal face o abordare pentru a semna pe adolescent fundașul Paris St-Germain, Emmanuel Mbemba, la un transfer gratuit în această vară.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-06T18:02:23.444192+00:00",
-      "data_afisaj": "6 iunie 2026, 21:02"
-    },
-    {
-      "id": "11f8747fb000",
-      "titlu": "Republica Irlanda remiză salvarea împotriva Canadei",
-      "rezumat": "Chiedozie Ogbene a egalat în a doua repriză pentru Republica Irlanda într-un egal 1-1 împotriva Canadei la Montreal.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-06T18:02:23.445590+00:00",
-      "data_afisaj": "6 iunie 2026, 21:02"
-    },
-    {
-      "id": "a17aae26dc3b",
-      "titlu": "Noapte de luptă: Billam-Smith vs Rozicki se află în topul numărului de bani LIVE!",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-06-06T18:02:23.447010+00:00",
-      "data_afisaj": "6 iunie 2026, 21:02"
-    },
-    {
-      "id": "d8ae1fd9bafa",
-      "titlu": "Cricketul „se împușcă în picior” în timp ce prânzul este luat în mijlocul soarelui",
-      "rezumat": "Chiar și cei care adoră cricket-ul pot fi frustrați de el.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-06-06T18:02:23.448416+00:00",
-      "data_afisaj": "6 iunie 2026, 21:02"
-    },
-    {
-      "id": "d00356a3e9e8",
-      "titlu": "„Puterea răutăcioasă!” | MacMillan înscrie prima oprire istorică la Zuffa Boxing UK!",
-      "rezumat": "Alex MacMillan a organizat o clinică pentru a-l învinge pe Leo Fanthome și a marca prima oprire a lui Zuffa Boxing pe teritoriul Marii Britanii.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-06-06T18:02:23.449847+00:00",
-      "data_afisaj": "6 iunie 2026, 21:02"
     }
   ]
 }
