@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-13T18:03:51.837659+00:00",
-  "updated_at_afisaj": "13 iunie 2026, 21:03",
+  "updated_at": "2026-06-14T10:27:04.176147+00:00",
+  "updated_at_afisaj": "14 iunie 2026, 13:27",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,67 @@
   },
   "numar_stiri": 126,
   "stiri": [
+    {
+      "id": "782307c95245",
+      "titlu": "Scoția obține prima victorie la Cupa Mondială după 36 de ani",
+      "rezumat": "Naționala Scoției a învins Haiti cu scorul de 1-0 pe stadionul din Boston, grație golului marcat de John McGinn. Această victorie reprezintă prima pentru Scoția la o Cupă Mondială în ultimele 36 de ani, marcând un moment istoric pentru echipa națională. Succesul le oferă scoțienilor un start pozitiv în competiție și speranțe pentru calificarea în fazele superioare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-14T10:27:04.168931+00:00",
+      "data_afisaj": "14 iunie 2026, 13:27"
+    },
+    {
+      "id": "d3a23eb9f77d",
+      "titlu": "Australia produce o surpriză și învinge Turcia în meciul de deschidere al Cupei Mondiale",
+      "rezumat": "Australia a reușit să învingă Turcia în primul lor meci de la Cupa Mondială, într-o partidă în care Nestory Irankunda, în vârstă de 20 de ani, a devenit cel mai tânăr marcator al \"Socceroos\" la un Campionat Mondial. Victoria reprezintă o surpriză notabilă în faza grupelor și oferă Australiei un avans important în lupta pentru calificare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-14T10:27:04.170670+00:00",
+      "data_afisaj": "14 iunie 2026, 13:27"
+    },
+    {
+      "id": "cebf11826c2e",
+      "titlu": "Autogolul din prelungiri al lui Muheim aduce Qatarului o remiză dramatică la Cupa Mondială împotriva Elveției",
+      "rezumat": "Qatar a obținut primul său punct la Cupa Mondială, remizând 1-1 cu Elveția, după un autogol dramatic marcat de Miro Muheim în prelungiri. Sub presiunea lui Boualem Khoukhi, Muheim a deviat involuntar o centrare în minutul 94, anulând un penalty transformat de Breel Embolo în prima repriză. Rezultatul a lăsat Grupa B deschisă, toate echipele având câte un punct.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-14T10:27:04.172526+00:00",
+      "data_afisaj": "14 iunie 2026, 13:27"
+    },
+    {
+      "id": "9622e4f212fa",
+      "titlu": "Fereastra de transferuri de vară 2026: Toate mutările confirmate din cele cinci ligi de top ale Europei",
+      "rezumat": "O listă completă a tuturor transferurilor confirmate până în prezent în Premier League, La Liga, Bundesliga, Ligue 1 și Serie A, oferind o imagine de ansamblu a mișcărilor de jucători din cele mai puternice campionate europene. Ghidul include detalii despre fiecare club și achizițiile sau plecările importante din această perioadă de mercato.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-14T10:27:04.174404+00:00",
+      "data_afisaj": "14 iunie 2026, 13:27"
+    },
+    {
+      "id": "94a3f822f4dc",
+      "titlu": "FIFA va plăti integral onorariul arbitrului somalez Omar Artan pentru Cupa Mondială",
+      "rezumat": "Arbitrul somalez Omar Artan, căruia i-a fost refuzată intrarea în Statele Unite pentru a oficia la Cupa Mondială, va primi totuși integral onorariul său pentru turneu din partea FIFA. Decizia subliniază angajamentul FIFA de a susține oficialii, chiar și în circumstanțe neprevăzute care îi împiedică să participe fizic la eveniment.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-14T10:27:04.176128+00:00",
+      "data_afisaj": "14 iunie 2026, 13:27"
+    },
     {
       "id": "4d8d922f521e",
       "titlu": "SUA debutează convingător la Cupa Mondială cu o victorie de 4-1 împotriva Paraguayului",
@@ -1417,65 +1478,6 @@
       ],
       "data_publicare": "2026-06-07T10:28:42.613840+00:00",
       "data_afisaj": "7 iunie 2026, 13:28"
-    },
-    {
-      "id": "634cb417f7c5",
-      "titlu": "Anglia învinge Noua Zeelandă în primul meci de pregătire pentru Cupa Mondială",
-      "rezumat": "O lovitură de cap a lui Harry Kane a adus Angliei o victorie cu 1-0 împotriva Noii Zeelande în primul lor meci de pregătire pentru Cupa Mondială, în Tampa, Florida.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-07T10:06:38.386945+00:00",
-      "data_afisaj": "7 iunie 2026, 13:06"
-    },
-    {
-      "id": "2cfd64d01a2e",
-      "titlu": "Scoția zdrobește Bolivia înainte de deschiderea Cupei Mondiale",
-      "rezumat": "Che Adams a marcat de două ori, în timp ce o Scoție dominantă a zdrobit Bolivia cu 4-0 în New Jersey, în ultimul lor amical înainte de a-și începe campania la Cupa Mondială săptămâna viitoare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-07T10:06:38.388303+00:00",
-      "data_afisaj": "7 iunie 2026, 13:06"
-    },
-    {
-      "id": "b2a77437e960",
-      "titlu": "Ghidul echipei Norvegiei pentru Cupa Mondială 2026",
-      "rezumat": "Ståle Solbakken conduce țara la primul turneu major în 26 de ani, știind că, avându-l pe Erling Haaland în atac, orice se poate întâmpla. Acest articol face parte din Rețeaua de Experți a Cupei Mondiale 2026 a Guardian, o cooperare între unele dintre cele mai bune organizații media din cele 48 de țări calificate. theguardian.com publică previzualizări din trei țări în fiecare zi, în perioada premergătoare începerii turneului pe 11 iunie. Continuă lectura...",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-07T10:06:38.389552+00:00",
-      "data_afisaj": "7 iunie 2026, 13:06"
-    },
-    {
-      "id": "7ba0dd19cc97",
-      "titlu": "Acesta a fost un meci de antrenament - Anglia și Tuchel trebuie acum să devină serioși",
-      "rezumat": "Anglia mai are un singur meci pentru a se pregăti pentru campania lor la Cupa Mondială - și trebuie să-l folosească cu înțelepciune, scrie Phil McNulty.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-07T10:06:38.390996+00:00",
-      "data_afisaj": "7 iunie 2026, 13:06"
-    },
-    {
-      "id": "a2343c8f110c",
-      "titlu": "Pacientă, precisă, clinică - este Scoția pregătită să-și lase amprenta la Cupa Mondială?",
-      "rezumat": "Scoția zdrobește Bolivia și este într-o formă decentă cu o săptămână înainte de cel mai mare meci din viața lor internațională.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-07T10:06:38.392464+00:00",
-      "data_afisaj": "7 iunie 2026, 13:06"
     }
   ]
 }
