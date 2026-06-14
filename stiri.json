@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-14T10:48:53.915425+00:00",
-  "updated_at_afisaj": "14 iunie 2026, 13:48",
+  "updated_at": "2026-06-14T17:23:16.125788+00:00",
+  "updated_at_afisaj": "14 iunie 2026, 20:23",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,54 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 126,
+  "numar_stiri": 130,
   "stiri": [
+    {
+      "id": "e340c407ea49",
+      "titlu": "Real Madrid ajunge la un acord pentru transferul lui Marc Cucurella de la Chelsea",
+      "rezumat": "Real Madrid a convenit un acord cu Chelsea pentru transferul fundașului Marc Cucurella, valoarea tranzacției putând ajunge până la 51,8 milioane de lire sterline. Mutarea este programată să aibă loc după încheierea Cupei Mondiale din 2026. Jucătorul spaniol, în prezent la Chelsea, ar urma să se alăture gigantului spaniol, consolidând apărarea echipei madrilene pentru sezoanele viitoare. Acest transfer marchează o achiziție importantă pentru Real Madrid pe piața europeană.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-06-14T17:23:16.120613+00:00",
+      "data_afisaj": "14 iunie 2026, 20:23"
+    },
+    {
+      "id": "e525ef6c4473",
+      "titlu": "Întârzieri la startul meciurilor de la Cupa Mondială 2026, o tendință îngrijorătoare",
+      "rezumat": "Primele opt meciuri ale Cupei Mondiale din 2026 nu au început la ora programată, continuând o tendință vizibilă de întârziere la turneu. Această problemă a fost evidențiată și de partida dintre Scoția și Haiti din Grupa C, care a avut parte de o amânare. Organizatorii și FIFA sunt sub presiune pentru a asigura respectarea programului, având în vedere impactul asupra fanilor și a transmisiunilor televizate. Cauzele acestor întârzieri nu au fost clarificate public.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-06-14T17:23:16.122410+00:00",
+      "data_afisaj": "14 iunie 2026, 20:23"
+    },
+    {
+      "id": "a753d3ac9850",
+      "titlu": "Curacao își face debutul istoric la Cupa Mondială 2026",
+      "rezumat": "Națiunea Curacao, cunoscută anterior mai ales pentru băutura sa alcoolică omonimă, este acum pregătită să se afirme pe scena fotbalului mondial, participând pentru prima dată la Cupa Mondială din 2026. Cu o populație mică și o puternică influență olandeză în dezvoltarea fotbalului, Curacao reprezintă o poveste inspirațională a unei echipe care își depășește limitele geografice și istorice pentru a concura la cel mai înalt nivel.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-14T17:23:16.124017+00:00",
+      "data_afisaj": "14 iunie 2026, 20:23"
+    },
+    {
+      "id": "206d9654b8db",
+      "titlu": "Lionel Messi, în centrul atenției la ceea ce ar putea fi ultima sa Cupă Mondială",
+      "rezumat": "Lionel Messi continuă să atragă mulțimi impresionante de fani și jurnaliști, chiar și la antrenamente, înaintea a ceea ce este considerat a fi ultima sa participare la Cupa Mondială. Prezența sa pe teren rămâne un eveniment de neratat, confirmând statutul său de \"box office\" al fotbalului. Toți ochii sunt ațintiți asupra starului argentinian, care speră să își încheie cariera la cel mai înalt nivel cu o performanță memorabilă la turneul final.",
+      "categorie": "Fotbal",
+      "surse": [
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-14T17:23:16.125772+00:00",
+      "data_afisaj": "14 iunie 2026, 20:23"
+    },
     {
       "id": "0c73f149935b",
       "titlu": "Nestory Irankunda, de la refugiat la cel mai tânăr marcator al Australiei la Cupa Mondială",
