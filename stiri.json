@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-14T10:27:04.176147+00:00",
-  "updated_at_afisaj": "14 iunie 2026, 13:27",
+  "updated_at": "2026-06-14T10:48:53.915425+00:00",
+  "updated_at_afisaj": "14 iunie 2026, 13:48",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,68 @@
   },
   "numar_stiri": 126,
   "stiri": [
+    {
+      "id": "0c73f149935b",
+      "titlu": "Nestory Irankunda, de la refugiat la cel mai tânăr marcator al Australiei la Cupa Mondială",
+      "rezumat": "Nestory Irankunda, în vârstă de 20 de ani, a devenit cel mai tânăr marcator al Australiei la Cupa Mondială, în victoria împotriva Turciei. Povestea sa este remarcabilă, el fiind născut într-o tabără de refugiați din Tanzania înainte de a ajunge în Australia și a-și construi o carieră în fotbal. Fost jucător la Bayern, Irankunda a impresionat la debutul său la turneul final, aducând un plus de emoție și inspirație pentru națiunea sa.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "World Soccer",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-06-14T10:48:53.908059+00:00",
+      "data_afisaj": "14 iunie 2026, 13:48"
+    },
+    {
+      "id": "1039c6b98198",
+      "titlu": "Antrenorul Scoției, Steve Clarke, consideră că presiunea a scăzut după victoria crucială de la Cupa Mondială",
+      "rezumat": "Selecționerul Scoției, Steve Clarke, a declarat că presiunea asupra echipei s-a diminuat semnificativ după victoria cu 1-0 împotriva Haiti în meciul de deschidere al Grupei C. Această victorie, prima pentru Scoția la o Cupă Mondială în ultimii 36 de ani, a fost considerată crucială. Clarke a subliniat importanța rezultatului pentru moralul jucătorilor și pentru parcursul ulterior al echipei în competiție, oferind o perspectivă mai relaxată asupra provocărilor viitoare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-14T10:48:53.909999+00:00",
+      "data_afisaj": "14 iunie 2026, 13:48"
+    },
+    {
+      "id": "72c785bf5415",
+      "titlu": "Japonia își propune să depășească statutul de cea mai bună echipă din Asia la Cupa Mondială",
+      "rezumat": "Echipa națională a Japoniei, condusă de Hajime Moriyasu, își propune să facă un pas înainte la Cupa Mondială, considerând că statutul de cea mai bună echipă din Asia nu mai este suficient. În ciuda absenței unor jucători cheie, Japonia a reușit să-și construiască o echipă solidă, cu o adâncime a lotului care le permite să conteste ordinea tradițională în fotbalul mondial. Obiectivul este depășirea performanțelor anterioare și realizarea unei surprize la turneul final.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-14T10:48:53.911793+00:00",
+      "data_afisaj": "14 iunie 2026, 13:48"
+    },
+    {
+      "id": "e60fb4a47b7f",
+      "titlu": "FIFA explică defecțiunea tehnică VAR după controversa de la meciul Qatar – Elveția",
+      "rezumat": "FIFA a emis o declarație oficială prin care a atribuit o defecțiune tehnică întârzierii în publicarea imaginilor VAR, în urma unei decizii controversate de ofsaid în timpul meciului de la Cupa Mondială dintre Qatar și Elveția. Incidentul a stârnit confuzie și nemulțumire în rândul fanilor, iar explicația FIFA vine în contextul în care autogolul din prelungiri al lui Miro Muheim a adus Qatarului o remiză dramatică, lăsând deschisă discuția despre acuratețea sistemului VAR.",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro",
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-14T10:48:53.913528+00:00",
+      "data_afisaj": "14 iunie 2026, 13:48"
+    },
+    {
+      "id": "248215b0bb13",
+      "titlu": "Valoarea bunurilor furate din baza de antrenament a Angliei la Cupa Mondială se ridică la 18.000 de dolari",
+      "rezumat": "Doi bărbați au fost acuzați de furtul unor bunuri în valoare de 18.000 de dolari din baza de antrenament a echipei Angliei din Kansas City, înainte de meciul cu Croația. Printre obiectele sustrase se numără tricouri, lei de pluș și piese Lego. Incidentul a stârnit îngrijorare cu privire la securitatea echipelor participante la Cupa Mondială și a dus la acuzații penale împotriva celor responsabili pentru furt.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-06-14T10:48:53.915406+00:00",
+      "data_afisaj": "14 iunie 2026, 13:48"
+    },
     {
       "id": "782307c95245",
       "titlu": "Scoția obține prima victorie la Cupa Mondială după 36 de ani",
@@ -1422,62 +1484,6 @@
       ],
       "data_publicare": "2026-06-07T17:22:56.201201+00:00",
       "data_afisaj": "7 iunie 2026, 20:22"
-    },
-    {
-      "id": "0fbffea85192",
-      "titlu": "Ghidul echipei pentru Cupa Mondială din Irak 2026",
-      "rezumat": "Echipa lui Graham Arnold a depășit adversitatea pe teren și în afara terenului, dar poate beneficia de presiunea exercitată de ei într-un grup dur. theguardian.com difuzează în fiecare zi previzualizări din trei țări, înaintea turneului care va începe pe 11 iunie. Continuă să citești...",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-07T10:28:42.608095+00:00",
-      "data_afisaj": "7 iunie 2026, 13:28"
-    },
-    {
-      "id": "03dacb0cc4cc",
-      "titlu": "Este Portugalia mai bună fără Ronaldo - și este el de neatins?",
-      "rezumat": "În timp ce Cristiano Ronaldo se pregătește pentru a șasea sa Cupă Mondială cu Portugalia, BBC Sport aruncă o privire mai atentă asupra locului său în echipă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-07T10:28:42.609521+00:00",
-      "data_afisaj": "7 iunie 2026, 13:28"
-    },
-    {
-      "id": "62a80659b434",
-      "titlu": "Născut în Leeds, realizat în Norvegia: Cum Haaland a devenit superstarul națiunii",
-      "rezumat": "Erling Haaland a condus Norvegia la prima lor Cupă Mondială din 1998. Deci, cum este să fii un nume global al unei națiuni cu o populație de doar 5,5 milioane de oameni?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-07T10:28:42.611003+00:00",
-      "data_afisaj": "7 iunie 2026, 13:28"
-    },
-    {
-      "id": "6f7ef9636643",
-      "titlu": "Shankland, Gunn și o enigmă la mijlocul terenului - marile decizii ale lui Clarke",
-      "rezumat": "Antrenorul principal al Scoției, Steve Clarke, are „câteva decizii de luat” când vine vorba de XI-ul său titular pentru deschiderea Cupei Mondiale împotriva Haiti, duminică, dar care sunt acestea?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-07T10:28:42.612422+00:00",
-      "data_afisaj": "7 iunie 2026, 13:28"
-    },
-    {
-      "id": "9a0344a32e7f",
-      "titlu": "Amicale înainte de Cupa Mondială - Messi sa odihnit și Leao eliminat",
-      "rezumat": "Marele argentinian Lionel Messi se odihnește împotriva Hondurasului, în timp ce Brazilia, Germania, Belgia și Portugalia câștigă fiecare meciuri de încălzire înainte de Cupa Mondială.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-07T10:28:42.613840+00:00",
-      "data_afisaj": "7 iunie 2026, 13:28"
     }
   ]
 }
