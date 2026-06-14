@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-14T17:23:16.125788+00:00",
-  "updated_at_afisaj": "14 iunie 2026, 20:23",
+  "updated_at": "2026-06-14T18:08:58.647160+00:00",
+  "updated_at_afisaj": "14 iunie 2026, 21:08",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,66 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 130,
+  "numar_stiri": 129,
   "stiri": [
+    {
+      "id": "85aedaae7987",
+      "titlu": "Germania înfruntă Curaçao la Cupa Mondială 2026",
+      "rezumat": "Naționala Germaniei a început campania la Cupa Mondială 2026 înfruntând debutanta Curaçao. Micul stat insular, cu o populație de doar 158.000 de cetățeni, a reușit o performanță remarcabilă, având un jucător la fiecare 10.500 de locuitori care a evoluat împotriva Germaniei la un turneu final. Această participare istorică a fost posibilă datorită extinderii competiției și a sprijinului antrenorilor de calibru precum Guus Hiddink, care au contribuit la dezvoltarea fotbalului în Curaçao. Meciul a marcat un moment important pentru națiunea mică.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "The Guardian Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-14T18:08:58.640030+00:00",
+      "data_afisaj": "14 iunie 2026, 21:08"
+    },
+    {
+      "id": "843a226f83dc",
+      "titlu": "Ben Gannon-Doak, tânărul erou al revenirii Scoției la Cupa Mondială",
+      "rezumat": "La 20 de ani, Ben Gannon-Doak a fost figura centrală în mult-așteptata revenire a Scoției la Cupa Mondială, contribuind decisiv la prima victorie a echipei în 36 de ani, împotriva selecționatei din Haiti. Născut după ultima participare a Scoției la un Mondial masculin, Gannon-Doak a impresionat prin prestația sa, fiind considerat cel care a \"furat spectacolul\" și a adus un suflu nou în echipa scoțiană. Performanța sa a fost esențială pentru succesul istoric al naționalei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-14T18:08:58.641838+00:00",
+      "data_afisaj": "14 iunie 2026, 21:08"
+    },
+    {
+      "id": "c6d4231880c9",
+      "titlu": "Schimbări de antrenori la Fulham, Real Madrid și Benfica, cu un super-agent în prim-plan",
+      "rezumat": "O serie de mutări strategice în lumea antrenorilor implică nume sonore precum Alvaro Arbeloa, Jose Mourinho și Marco Silva. Arbeloa este vehiculat ca înlocuitor al lui Marco Silva la Fulham, în timp ce Silva ar putea prelua banca tehnică a Benficăi. Între timp, Jose Mourinho ar putea reveni la Real Madrid. Aceste schimbări complexe sunt orchestrate de un singur super-agent, care joacă un rol cheie în negocierile dintre cluburile Fulham, Real Madrid și Benfica, reconfigurând peisajul tactic european.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-14T18:08:58.643786+00:00",
+      "data_afisaj": "14 iunie 2026, 21:08"
+    },
+    {
+      "id": "ed8111c5287e",
+      "titlu": "Pedro Porro semnează un nou contract pe termen lung cu Tottenham",
+      "rezumat": "Fundașul dreapta Pedro Porro a semnat un nou contract pe termen lung cu clubul Tottenham Hotspur. Acordul este valabil până în 2031, consolidând prezența jucătorului spaniol în echipa londoneză pentru anii următori. Această prelungire de contract subliniază încrederea clubului în abilitățile și contribuția lui Porro la performanțele echipei. Jucătorul, care a devenit un element important în defensiva lui Tottenham, își asigură astfel viitorul pe White Hart Lane.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-14T18:08:58.645451+00:00",
+      "data_afisaj": "14 iunie 2026, 21:08"
+    },
+    {
+      "id": "a4eadd1fc667",
+      "titlu": "Adolescentul Ayyoub Bouaddi impresionează la Cupa Mondială pentru Maroc",
+      "rezumat": "Mijlocașul de la Lille, Ayyoub Bouaddi, a captivat atenția publicului și a presei după prestația sa excepțională împotriva Braziliei la Cupa Mondială. Deși Vinícius Júnior a fost desemnat omul meciului, mulți jurnaliști sud-americani au recunoscut talentul remarcabil al lui Bouaddi. Tânărul fotbalist a jucat un rol crucial în convingerea antrenorului naționalei Marocului să refuze ofertele din partea Franței, demonstrând o grație și o maturitate impresionante pe terenul de joc, la o vârstă fragedă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-14T18:08:58.647142+00:00",
+      "data_afisaj": "14 iunie 2026, 21:08"
+    },
     {
       "id": "e340c407ea49",
       "titlu": "Real Madrid ajunge la un acord pentru transferul lui Marc Cucurella de la Chelsea",
@@ -1463,73 +1521,6 @@
       ],
       "data_publicare": "2026-06-08T12:01:15.501565+00:00",
       "data_afisaj": "8 iunie 2026, 15:01"
-    },
-    {
-      "id": "2b8ce35bae75",
-      "titlu": "Echipa Iranului a aterizat în Mexic pe fondul disputei privind vizele pentru SUA",
-      "rezumat": "Naționala de fotbal a Iranului a ajuns în Mexic pentru pregătirile finale înaintea Cupei Mondiale 2026. Această deplasare vine în contextul unei controverse legate de vizele pentru Statele Unite, unde Iranul va disputa toate meciurile din faza grupelor. Din cauza tensiunilor diplomatice, jucătorii și staff-ul tehnic vor fi nevoiți să călătorească în și din SUA în fiecare zi de meci, o situație logistică complexă care ar putea afecta pregătirea și performanța echipei pe durata turneului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-07T18:00:17.902414+00:00",
-      "data_afisaj": "7 iunie 2026, 21:00"
-    },
-    {
-      "id": "a20c821df085",
-      "titlu": "Cupa Mondială din America de Nord va fi o experiență unică, afirmă Emma Hayes",
-      "rezumat": "Emma Hayes, o voce respectată în fotbal, anticipează că viitoarea Cupă Mondială din America de Nord va fi o experiență fără precedent. Echipele participante trebuie să se pregătească pentru provocări logistice semnificative, incluzând distanțe mari de călătorie și condiții climatice variate, cu temperaturi ridicate. Cu 104 meciuri desfășurate în trei țări și 16 orașe, pe trei fusuri orare diferite, amploarea turneului este imensă. Hayes subliniază că, pe lângă dificultăți, jucătorii și fanii vor descoperi o cultură fotbalistică vibrantă și suporteri entuziaști.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-07T18:00:17.905212+00:00",
-      "data_afisaj": "7 iunie 2026, 21:00"
-    },
-    {
-      "id": "21adf3d64a71",
-      "titlu": "Luis de la Fuente: „Aprecierea pentru antrenorii spanioli ar fi trebuit să apară cu mult timp în urmă”",
-      "rezumat": "Selecționerul Spaniei, Luis de la Fuente, a declarat că valoarea antrenorilor spanioli ar fi trebuit recunoscută la nivel global cu mult timp în urmă. Într-un interviu, el a vorbit despre cultura antrenoratului din Spania, bucuria de a preda și talentele excepționale ale unor jucători precum Lamine Yamal. De la Fuente, a cărui carieră internațională ca jucător s-a limitat la naționalele de tineret, conduce acum echipa mare spre Cupa Mondială, subliniind importanța dezvoltării continue și a filosofiei de joc specifice Spaniei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-07T18:00:17.906996+00:00",
-      "data_afisaj": "7 iunie 2026, 21:00"
-    },
-    {
-      "id": "48ec54a0de13",
-      "titlu": "De la aripă sclipitoare la veteranul care abia mai aleargă: evoluția lui Messi",
-      "rezumat": "Lionel Messi se pregătește pentru a șasea sa participare la Cupa Mondială cu naționala Argentinei. Jurnalistul Guillem Balague analizează transformarea legendarului fotbalist, de la un aripă sclipitoare, plină de energie, la un veteran care își dozează efortul pe teren. Articolul explorează cum s-a adaptat stilul de joc al lui Messi de-a lungul anilor, menținându-și influența decisivă în ciuda schimbărilor fizice, pe măsură ce se apropie de un nou turneu major.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-07T17:22:56.197902+00:00",
-      "data_afisaj": "7 iunie 2026, 20:22"
-    },
-    {
-      "id": "3a1cb4085cb9",
-      "titlu": "Amicalul RD Congo se va juca fără spectatori din cauza epidemiei de Ebola",
-      "rezumat": "Ultimul meci de pregătire al Republicii Democrate Congo pentru Cupa Mondială, împotriva naționalei Chile, se va disputa cu porțile închise. Decizia a fost luată pe fondul îngrijorărilor legate de epidemia de Ebola care afectează națiunea central-africană. Măsura de precauție vizează limitarea riscului de răspândire a virusului și asigurarea siguranței publice, înaintea plecării echipei la turneul final.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-07T17:22:56.199561+00:00",
-      "data_afisaj": "7 iunie 2026, 20:22"
-    },
-    {
-      "id": "942f28584b0b",
-      "titlu": "Brighton a ajuns la un acord de 21,5 milioane de lire sterline pentru transferul lui Yohanna",
-      "rezumat": "Clubul Brighton a confirmat un acord pentru achiziționarea mijlocașului nigerian Zadok Yohanna de la AIK Stockholm. Suma transferului se ridică la 21,5 milioane de lire sterline. Wingerul talentat este așteptat să se alăture echipei, consolidând opțiunile ofensive ale clubului din Premier League. Această mutare reprezintă o investiție semnificativă pentru Brighton, care își propune să își întărească lotul pentru viitoarele competiții.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-07T17:22:56.201201+00:00",
-      "data_afisaj": "7 iunie 2026, 20:22"
     }
   ]
 }
