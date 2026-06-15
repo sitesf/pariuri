@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-14T18:08:58.647160+00:00",
-  "updated_at_afisaj": "14 iunie 2026, 21:08",
+  "updated_at": "2026-06-15T13:18:41.299126+00:00",
+  "updated_at_afisaj": "15 iunie 2026, 16:18",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,67 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 129,
+  "numar_stiri": 127,
   "stiri": [
+    {
+      "id": "7cc1fe9e9692",
+      "titlu": "FIFA investighează gestul controversat al unui oficial VAR",
+      "rezumat": "FIFA a solicitat explicații cu privire la un gest făcut de arbitrul asistent video Shaun Evans înainte de meciul Germania – Curaçao, scor 7-1. Monitorul anti-discriminare al FIFA la Cupa Mondială a cerut îndepărtarea oficialului VAR pentru că ar fi făcut un gest de mână asemănător unui semn de supremație albă. Incidentul a stârnit controverse și a determinat forul mondial să ia măsuri pentru clarificarea situației, subliniind angajamentul său împotriva oricărei forme de discriminare în fotbal.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-06-15T13:18:41.292335+00:00",
+      "data_afisaj": "15 iunie 2026, 16:18"
+    },
+    {
+      "id": "d0e1123253c9",
+      "titlu": "Amad Diallo marchează golul victoriei pentru Coasta de Fildeș împotriva Ecuadorului",
+      "rezumat": "Atacantul lui Manchester United, Amad Diallo, a înscris un gol superb în minutul 90, asigurând victoria Coastei de Fildeș împotriva Ecuadorului într-un meci disputat la Philadelphia. Performanța sa a fost crucială pentru echipa africană, care a obținut astfel un rezultat important în competiție. Golul a venit în urma unei acțiuni ofensive bine construite, demonstrând calitățile individuale ale tânărului jucător și contribuind la un start pozitiv în campania lor la Cupa Mondială.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-15T13:18:41.294106+00:00",
+      "data_afisaj": "15 iunie 2026, 16:18"
+    },
+    {
+      "id": "31dac54571f8",
+      "titlu": "Pauzele de hidratare la Cupa Mondială: Cine beneficiază și cine este dezavantajat?",
+      "rezumat": "Pauzele obligatorii de hidratare au devenit o caracteristică constantă a meciurilor de la Cupa Mondială, ridicând întrebări despre impactul lor asupra jocului. Aceste întreruperi influențează strategia echipelor, ritmul partidelor și performanța jucătorilor, în special în condiții de căldură extremă. Analiza arată că unele echipe pot beneficia de aceste momente pentru a-și reajusta tactica și a se odihni, în timp ce altele pot fi dezavantajate de întreruperea fluxului jocului și de pierderea momentului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-15T13:18:41.295885+00:00",
+      "data_afisaj": "15 iunie 2026, 16:18"
+    },
+    {
+      "id": "a41c47f96208",
+      "titlu": "Ruben Amorim, noul antrenor principal al echipei AC Milan",
+      "rezumat": "Ruben Amorim este pe cale să revină în antrenorat, după ce a acceptat să devină noul antrenor principal al echipei AC Milan. Antrenorul portughez îl va înlocui pe Massimiliano Allegri la San Siro, semnând un contract pe doi ani, cu opțiune de prelungire pentru al treilea. Această mutare va aduce și o economie semnificativă pentru Manchester United în ceea ce privește pachetul său de compensații, clubul englez concediindu-l pe Amorim în ianuarie.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-15T13:18:41.297419+00:00",
+      "data_afisaj": "15 iunie 2026, 16:18"
+    },
+    {
+      "id": "b5b97595b849",
+      "titlu": "FIFA propune un meci simbolic Israel – Palestina la un nou turneu U15",
+      "rezumat": "FIFA intenționează să organizeze un meci simbolic între Israel și Palestina ca partidă de deschidere a unui nou turneu Under-15, programat să aibă loc în Statele Unite în luna septembrie. Deși nu este o Cupă Mondială oficială U15, competiția va fi deschisă tuturor celor 211 membri FIFA, inclusiv Rusiei, care rămâne suspendată la nivel de seniori. Această inițiativă urmărește să utilizeze fotbalul pentru a promova pacea și înțelegerea prin sport la nivel juvenil.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-15T13:18:41.299106+00:00",
+      "data_afisaj": "15 iunie 2026, 16:18"
+    },
     {
       "id": "85aedaae7987",
       "titlu": "Germania înfruntă Curaçao la Cupa Mondială 2026",
@@ -1436,91 +1495,6 @@
       ],
       "data_publicare": "2026-06-08T18:28:34.794553+00:00",
       "data_afisaj": "8 iunie 2026, 21:28"
-    },
-    {
-      "id": "7dac81a491c6",
-      "titlu": "Eriksen 'cu moral bun' după colaps",
-      "rezumat": "Christian Eriksen este \"cu moral bun\" după colapsul său împotriva Ucrainei și este de așteptat să fie externat din spital în curând, spune medicul echipei naționale a Danemarcei, Morten Boesen.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-08T12:27:29.684115+00:00",
-      "data_afisaj": "8 iunie 2026, 15:27"
-    },
-    {
-      "id": "198d63134d6b",
-      "titlu": "Bellingham are de luptat pentru un loc de titular la Anglia - Tuchel",
-      "rezumat": "Jude Bellingham are de luptat pentru a prinde un loc în echipa de start a Angliei la Cupa Mondială, spune antrenorul Thomas Tuchel.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-06-08T12:27:29.685593+00:00",
-      "data_afisaj": "8 iunie 2026, 15:27"
-    },
-    {
-      "id": "2655edf75f56",
-      "titlu": "Ghidul echipei Argentinei pentru Cupa Mondială 2026",
-      "rezumat": "Lotul puternic și încrezător al lui Lionel Scaloni nu mai depinde de Messi, în timp ce vizează titluri consecutive la Cupa Mondială. Acest articol face parte din Rețeaua de Experți a Cupei Mondiale 2026 a The Guardian, o cooperare între unele dintre cele mai bune organizații media din cele 48 de țări calificate. theguardian.com publică previzualizări din trei țări în fiecare zi, în perioada premergătoare începerii turneului pe 11 iunie. Continuă să citești...",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-08T12:27:29.686943+00:00",
-      "data_afisaj": "8 iunie 2026, 15:27"
-    },
-    {
-      "id": "3b8d8f383388",
-      "titlu": "Marius Șumudică, uimit de plecarea lui Zeljko Kopic de la Dinamo: „O să mă interesez dacă are ofertă din Arabia”",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-06-08T12:27:29.688917+00:00",
-      "data_afisaj": "8 iunie 2026, 15:27"
-    },
-    {
-      "id": "c2ce57e88f5b",
-      "titlu": "Primele două transferuri făcute de Real Madrid, după ce Florentino Perez a câștigat alegerile! Urmează marea lovitură",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-06-08T12:27:29.690846+00:00",
-      "data_afisaj": "8 iunie 2026, 15:27"
-    },
-    {
-      "id": "bcaf8f5505d9",
-      "titlu": "Christian Eriksen este \"bine dispus\" după colapsul său",
-      "rezumat": "Mijlocașul danez Christian Eriksen se simte \"bine dispus\" după ce a suferit un colaps pe teren în timpul meciului împotriva Ucrainei. Doctorul echipei naționale a Danemarcei, Morten Boesen, a declarat că jucătorul este așteptat să fie externat din spital în curând. Incidentul a stârnit îngrijorare la nivel mondial, dar veștile recente sunt liniștitoare, indicând o recuperare pozitivă. Această veste aduce un sentiment de ușurare în lumea fotbalului, după momentele de tensiune de pe teren.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-08T12:01:15.497927+00:00",
-      "data_afisaj": "8 iunie 2026, 15:01"
-    },
-    {
-      "id": "57e57f4d2930",
-      "titlu": "Impuls major pentru WSL: Alexia Putellas ajunge la un acord cu London City",
-      "rezumat": "Alexia Putellas, considerată una dintre cele mai bune jucătoare de fotbal din lume, a ajuns la un acord personal cu London City Lionesses. Această mutare reprezintă o achiziție extraordinară pentru Women's Super League (WSL) și pentru clubul London City, o echipă independentă cu un singur sezon în prima ligă a fotbalului feminin englez. Venirea vedetei spaniole, după 14 ani petrecuți la Barcelona, este un semn al ambiției clubului și un impuls semnificativ pentru vizibilitatea și calitatea campionatului feminin.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-08T12:01:15.501565+00:00",
-      "data_afisaj": "8 iunie 2026, 15:01"
     }
   ]
 }
