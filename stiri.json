@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-15T13:56:07.911668+00:00",
-  "updated_at_afisaj": "15 iunie 2026, 16:56",
+  "updated_at": "2026-06-15T19:50:35.372589+00:00",
+  "updated_at_afisaj": "15 iunie 2026, 22:50",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,56 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 131,
+  "numar_stiri": 125,
   "stiri": [
+    {
+      "id": "72746a57f5e0",
+      "titlu": "Atacantul Iranului, Mehdi Taremi, declară că tensiunile politice afectează bucuria Cupei Mondiale",
+      "rezumat": "Mehdi Taremi, atacantul naționalei Iranului, a declarat că situația politică dificilă din țara sa umbrește bucuria participării la Cupa Mondială. Afirmația subliniază impactul contextului geopolitic asupra experienței sportivilor și a fanilor, aducând în discuție modul în care evenimentele extra-sportive pot influența percepția și atmosfera unui turneu global. Comentariul lui Taremi oferă o perspectivă rară asupra presiunilor cu care se confruntă jucătorii din anumite națiuni.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-15T19:50:35.367657+00:00",
+      "data_afisaj": "15 iunie 2026, 22:50"
+    },
+    {
+      "id": "d90b9bb10d3b",
+      "titlu": "Tendințe tactice emergente la Cupa Mondială 2026: revenirea sistemului 4-4-2 și rolul 'falsului nouă'",
+      "rezumat": "O analiză a tendințelor tactice observate până acum la Cupa Mondială 2026 relevă o posibilă revenire a sistemului clasic 4-4-2, alături de utilizarea tot mai frecventă a rolului de 'fals nouă'. Experții BBC Sport au examinat modul în care echipele își adaptează strategiile, evidențiind inovațiile și reîntoarcerea la anumite abordări tradiționale. Aceste observații oferă o perspectivă asupra evoluției fotbalului la nivel înalt și a modului în care antrenorii încearcă să obțină avantaje competitive.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-15T19:50:35.369448+00:00",
+      "data_afisaj": "15 iunie 2026, 22:50"
+    },
+    {
+      "id": "62db510bda41",
+      "titlu": "Wolverhampton Wanderers îl numește pe portughezul Cesar Peixoto noul antrenor principal",
+      "rezumat": "Clubul englez Wolverhampton Wanderers a anunțat numirea lui Cesar Peixoto în funcția de antrenor principal. Tehnicianul portughez preia conducerea echipei, marcând o nouă etapă în strategia clubului. Această decizie vine în contextul eforturilor de a consolida performanța echipei în competițiile interne și de a-i imprima o nouă direcție tactică. Numirea lui Peixoto este o mutare importantă pe piața antrenorilor din Premier League.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-06-15T19:50:35.370980+00:00",
+      "data_afisaj": "15 iunie 2026, 22:50"
+    },
+    {
+      "id": "1b6121e261b3",
+      "titlu": "Salariul lui Darius Olaru la Union Saint-Gilloise, dezvăluit în presa română",
+      "rezumat": "Darius Olaru, fostul jucător al lui Gigi Becali, ar urma să primească un salariu considerabil la noua sa echipă, Union Saint-Gilloise din Belgia. Detaliile financiare ale transferului său au fost publicate de presa sportivă din România, indicând o creștere semnificativă a veniturilor fotbalistului. Această mutare marchează o etapă importantă în cariera lui Olaru, oferindu-i oportunitatea de a evolua într-un campionat european de top și de a-și asigura o stabilitate financiară.",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-06-15T19:50:35.372572+00:00",
+      "data_afisaj": "15 iunie 2026, 22:50"
+    },
     {
       "id": "4d5d1f2e4159",
       "titlu": "John Stones, de la pragul retragerii la bucuria pură a Cupei Mondiale",
@@ -1422,123 +1470,6 @@
       ],
       "data_publicare": "2026-06-09T10:35:59.861206+00:00",
       "data_afisaj": "9 iunie 2026, 13:35"
-    },
-    {
-      "id": "d00e40625eb4",
-      "titlu": "„Lionel Messi nu avea nevoie de Cupa Mondială pentru a fi printre cei mai mari din toate timpurile, dar a meritat-o. El a adus glorie lui Javier Zanetti din Argentina pentru modul în care Messi a creat istoria în 2022",
-      "rezumat": "Lionel Messi a fost căpitanul Argentinei la Cupa Mondială în urmă cu patru ani, în Qatar",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-08T19:16:41.110063+00:00",
-      "data_afisaj": "8 iunie 2026, 22:16"
-    },
-    {
-      "id": "8d1bb7efe8d1",
-      "titlu": "Coproprietarul miliardarului West Ham, acuzat că și-a abuzat de putere și că a făcut sex cu femeile",
-      "rezumat": "Femeile spun că David Sullivan le-a spus că trebuie să facă sex cu el ca să apară în ziarele lui.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-08T19:16:41.111802+00:00",
-      "data_afisaj": "8 iunie 2026, 22:16"
-    },
-    {
-      "id": "0088c8abc4ed",
-      "titlu": "Urmărește: The Monday Night Club",
-      "rezumat": "Mark Chapman și invitații dezbat fotbalul din această săptămână.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-08T19:16:41.113213+00:00",
-      "data_afisaj": "8 iunie 2026, 22:16"
-    },
-    {
-      "id": "f934b2f55909",
-      "titlu": "Man City si Chelsea raman in discutii despre Maresca",
-      "rezumat": "Manchester City continuă negocierile cu Chelsea pentru a-l numi pe Enzo Maresca în funcția de nou antrenor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-08T19:16:41.114670+00:00",
-      "data_afisaj": "8 iunie 2026, 22:16"
-    },
-    {
-      "id": "a7b91d8428f0",
-      "titlu": "Arbitrul somalez Artan i-a fost interzis să intre în SUA",
-      "rezumat": "Arbitrul somalez Omar Artan, care urma să fie primul din țara sa care oficiază finala Cupei Mondiale, i se interzice intrarea în Statele Unite.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-08T19:16:41.116067+00:00",
-      "data_afisaj": "8 iunie 2026, 22:16"
-    },
-    {
-      "id": "e4cf4256633c",
-      "titlu": "Cum să urmărești Cupa Mondială pe BBC și ITV",
-      "rezumat": "Toate detaliile TV și radio pentru fiecare dintre meciurile din grupe ale Cupei Mondiale din 2026.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-08T18:28:34.789248+00:00",
-      "data_afisaj": "8 iunie 2026, 21:28"
-    },
-    {
-      "id": "b0a3b0d81b3c",
-      "titlu": "Eriksen acasă și 'se simte bine' după colaps",
-      "rezumat": "Christian Eriksen spune că \"se simte bine\" și este acasă cu familia sa după colapsul său din meciul de duminică împotriva Ucrainei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-06-08T18:28:34.790666+00:00",
-      "data_afisaj": "8 iunie 2026, 21:28"
-    },
-    {
-      "id": "0da9edf3303e",
-      "titlu": "Antrenorul Norvegiei îl numește pe Clarke al Scoției 'neprofesionist'",
-      "rezumat": "Steve Clarke este numit \"neprofesionist\" de omologul norvegian Stale Solbakken după ce Scoția a anulat un amical de antrenament înainte de Cupa Mondială.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-06-08T18:28:34.792010+00:00",
-      "data_afisaj": "8 iunie 2026, 21:28"
-    },
-    {
-      "id": "fc8a8fbee40f",
-      "titlu": "Cine sunt eu? Ghicește vedeta Cupei Mondiale Nr. 1",
-      "rezumat": "Vei ghici jucătorul de astăzi în cât mai puține încercări?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-06-08T18:28:34.793304+00:00",
-      "data_afisaj": "8 iunie 2026, 21:28"
-    },
-    {
-      "id": "f1c7bfc829cb",
-      "titlu": "Ghidul echipei Austriei pentru Cupa Mondială 2026",
-      "rezumat": "Lotul consacrat rămâne fidel metodelor lui Ralf Rangnick, cu Konrad Laimer și noul talent strălucitor Paul Wanner aducând un plus de calitate. Acest articol face parte din Rețeaua de Experți a Cupei Mondiale 2026 a The Guardian, o cooperare între unele dintre cele mai bune organizații media din cele 48 de țări calificate. theguardian.com publică previzualizări din trei țări în fiecare zi, în perioada premergătoare turneului care începe pe 11 iunie. Continuă să citești...",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-08T18:28:34.794553+00:00",
-      "data_afisaj": "8 iunie 2026, 21:28"
     }
   ]
 }
