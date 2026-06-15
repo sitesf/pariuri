@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-15T13:18:41.299126+00:00",
-  "updated_at_afisaj": "15 iunie 2026, 16:18",
+  "updated_at": "2026-06-15T13:56:07.911668+00:00",
+  "updated_at_afisaj": "15 iunie 2026, 16:56",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,52 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 127,
+  "numar_stiri": 131,
   "stiri": [
+    {
+      "id": "4d5d1f2e4159",
+      "titlu": "John Stones, de la pragul retragerii la bucuria pură a Cupei Mondiale",
+      "rezumat": "Selecția lui John Stones în lotul Angliei pentru Cupa Mondială a surprins pe mulți, dar fundașul a declarat că a trebuit să depună eforturi considerabile pentru a-și asigura locul în echipa de 26 de jucători. După o perioadă dificilă, Stones a reușit să revină în formă și să impresioneze, transformând o posibilă retragere într-o experiență de \"bucurie pură\" la cel mai înalt nivel al fotbalului internațional. Povestea sa subliniază perseverența și dedicarea necesare pentru a atinge succesul și a depăși obstacolele.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-15T13:56:07.906237+00:00",
+      "data_afisaj": "15 iunie 2026, 16:56"
+    },
+    {
+      "id": "dddcb618a0a7",
+      "titlu": "Wirtz, Isak și Diomande impresionează la Cupa Mondială, în timp ce Iraola planifică revitalizarea Liverpool",
+      "rezumat": "Florian Wirtz, Alexander Isak și Yan Diomande au avut prestații remarcabile la Cupa Mondială, oferind o oportunitate excelentă de scouting pentru noul antrenor al lui Liverpool, Andoni Iraola. Phil McNulty subliniază că turneul final este un teren fertil pentru identificarea talentelor, iar acești jucători au demonstrat calități care ar putea fi esențiale pentru planurile lui Iraola de a reconstrui și întări echipa de pe Anfield. Performanțele lor sugerează un potențial de transfer semnificativ și o atenție sporită din partea cluburilor de top.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-15T13:56:07.908223+00:00",
+      "data_afisaj": "15 iunie 2026, 16:56"
+    },
+    {
+      "id": "2e04767cc620",
+      "titlu": "Manchester United va fi subiectul documentarului Amazon 'All or Nothing'",
+      "rezumat": "Manchester United va fi în centrul unui documentar de tip 'fly-on-the-wall' produs de Amazon Prime, care va urmări echipa pe parcursul campaniei 2026-27. Această serie va oferi fanilor o perspectivă unică și detaliată asupra vieții de zi cu zi a clubului, antrenamentelor, strategiilor și provocărilor cu care se confruntă jucătorii și staff-ul tehnic. Documentarul promite să dezvăluie aspecte inedite din culisele unuia dintre cele mai mari cluburi de fotbal din lume, oferind o incursiune profundă în universul 'Diavolilor Roșii'.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-15T13:56:07.909854+00:00",
+      "data_afisaj": "15 iunie 2026, 16:56"
+    },
+    {
+      "id": "1dcd695969db",
+      "titlu": "Antrenor demis la Cupa Mondială după o înfrângere dezastruoasă în meciul de deschidere",
+      "rezumat": "La doar cinci zile de la debutul Cupei Mondiale 2026, un antrenor a fost deja demis din funcție, conform rapoartelor. Decizia vine în urma unei înfrângeri considerate dezastruoase în meciul de deschidere al echipei sale. Această schimbare rapidă subliniază presiunea intensă și așteptările ridicate la un turneu de o asemenea anvergură, unde rezultatele imediate pot avea consecințe drastice asupra staff-ului tehnic. Este un eveniment rar și semnificativ în istoria recentă a competiției.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-06-15T13:56:07.911650+00:00",
+      "data_afisaj": "15 iunie 2026, 16:56"
+    },
     {
       "id": "7cc1fe9e9692",
       "titlu": "FIFA investighează gestul controversat al unui oficial VAR",
