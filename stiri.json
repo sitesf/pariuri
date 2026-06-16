@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-16T12:52:39.142848+00:00",
-  "updated_at_afisaj": "16 iunie 2026, 15:52",
+  "updated_at": "2026-06-16T19:40:21.399115+00:00",
+  "updated_at_afisaj": "16 iunie 2026, 22:40",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,65 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 131,
+  "numar_stiri": 126,
   "stiri": [
+    {
+      "id": "90fd65894efa",
+      "titlu": "Tottenham Hotspur a ajuns la un acord de 52 de milioane de lire sterline pentru transferul lui Jan Paul van Hecke",
+      "rezumat": "Tottenham Hotspur a convenit cu Brighton un acord în valoare de 52 de milioane de lire sterline pentru transferul fundașului olandez Jan Paul van Hecke. Jucătorul, care a reprezentat Olanda la Cupa Mondială, este așteptat să se alăture echipei din nordul Londrei, consolidând astfel defensiva Spurs. Această mutare reprezintă o achiziție importantă pentru Tottenham în vederea sezonului viitor, aducând un fundaș cu experiență internațională și confirmând intențiile clubului pe piața transferurilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-06-16T19:40:21.393024+00:00",
+      "data_afisaj": "16 iunie 2026, 22:40"
+    },
+    {
+      "id": "6bb317fedd93",
+      "titlu": "Iordania și Uzbekistan debutează la Cupa Mondială 2026",
+      "rezumat": "Iordania și Uzbekistan se pregătesc pentru primele lor meciuri la Cupa Mondială 2026, marcând o premieră istorică pentru ambele națiuni asiatice. Iordania va înfrunta Austria, Algeria și Argentina, în timp ce Uzbekistan va juca împotriva Columbiei, Portugaliei și Republicii Democrate Congo. Străzile din Amman și Tașkent sunt pline de entuziasm, suporterii fiind dornici să vadă cum echipele lor se vor descurca împotriva unor adversari de calibru mondial în această competiție majoră.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-16T19:40:21.394463+00:00",
+      "data_afisaj": "16 iunie 2026, 22:40"
+    },
+    {
+      "id": "dc304d78162b",
+      "titlu": "FIFA confirmă cauza erorii VAR în meciul Elveția – Qatar de la Cupa Mondială",
+      "rezumat": "FIFA a emis o declarație prin care a confirmat cauza unei erori VAR considerate \"suspecte\" în timpul meciului dintre Elveția și Qatar de la Cupa Mondială 2026. Incidentul a generat controverse și a ridicat semne de întrebare cu privire la funcționarea sistemului de arbitraj video. Declarația oficială a FIFA urmărește să clarifice circumstanțele care au dus la această eroare și să restabilească încrederea în deciziile luate cu ajutorul tehnologiei VAR în timpul turneului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-06-16T19:40:21.396049+00:00",
+      "data_afisaj": "16 iunie 2026, 22:40"
+    },
+    {
+      "id": "81f71881c79d",
+      "titlu": "Uruguay se confruntă cu dificultăți de călătorie la Cupa Mondială 2026",
+      "rezumat": "Echipa națională a Uruguayului se confruntă cu probleme logistice și de călătorie la Cupa Mondială 2026. Aceste dificultăți, care nu sunt legate de performanța pe teren, ar putea afecta pregătirea și moralul jucătorilor. Detaliile exacte ale problemelor nu au fost specificate, dar situația a fost semnalată de mai multe surse. Echipa încearcă să gestioneze aceste impedimente pentru a se concentra pe competiția sportivă și a asigura o participare optimă la turneu.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-06-16T19:40:21.397494+00:00",
+      "data_afisaj": "16 iunie 2026, 22:40"
+    },
+    {
+      "id": "ab16a5e4c3a4",
+      "titlu": "Arsenal confirmă transferul unui tânăr talent, depășind concurența lui Liverpool",
+      "rezumat": "Arsenal a finalizat transferul unui tânăr jucător considerat un \"wonderkid\", reușind să-l aducă la club în ciuda interesului manifestat de Liverpool. Această achiziție subliniază strategia \"Tunarilor\" de a investi în viitor și de a-și consolida lotul cu talente promițătoare. Transferul este văzut ca un succes pentru Arsenal în cursa pentru semnătura tânărului fotbalist, adăugând profunzime și potențial echipei înaintea noului sezon competițional.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-06-16T19:40:21.399097+00:00",
+      "data_afisaj": "16 iunie 2026, 22:40"
+    },
     {
       "id": "11d6982e1075",
       "titlu": "Cupa Mondială a Livramento este îndoială, în timp ce Chalobah se pregătea să intervină",
@@ -1432,119 +1489,6 @@
       ],
       "data_publicare": "2026-06-10T10:57:57.355222+00:00",
       "data_afisaj": "10 iunie 2026, 13:57"
-    },
-    {
-      "id": "39f9b0740213",
-      "titlu": "Crystal Palace este pe cale să-l numească pe Pierre Sage antrenor principal",
-      "rezumat": "Clubul Crystal Palace este aproape de a-l numi pe Pierre Sage în funcția de antrenor principal, după discuții productive cu tehnicianul francez. Sage, care a condus echipa Lens pe locul doi în Ligue 1 în acest sezon și a câștigat Cupa Franței, ar fi acceptat un contract pe doi ani, cu opțiunea de prelungire pentru încă 12 luni. Se așteaptă ca detaliile privind compensația pentru antrenorul în vârstă de 47 de ani să fie rezolvate în curând, deschizând calea pentru anunțul oficial. Această mutare vine în contextul în care actualul antrenor, Oliver Glasner, este așteptat să se alăture echipei AC Milan.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-09T19:10:01.651907+00:00",
-      "data_afisaj": "9 iunie 2026, 22:10"
-    },
-    {
-      "id": "c9e73cab8627",
-      "titlu": "Craig Gordon, cel mai în vârstă jucător la Cupa Mondială, o poveste de revenire remarcabilă",
-      "rezumat": "Cariera portarului scoțian Craig Gordon, în vârstă de 43 de ani, a fost marcată de o serie de reveniri spectaculoase, iar includerea sa în lotul Scoției pentru Cupa Mondială părea un vis imposibil cu doar câteva luni în urmă. După ce a depășit o accidentare gravă care i-a pus în pericol viața și cariera, Gordon a demonstrat o rezistență extraordinară. Prezența sa la turneul final este considerată un miracol, evidențiind determinarea și perseverența unui sportiv care a refuzat să renunțe, devenind o sursă de inspirație pentru echipa sa și pentru fanii fotbalului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-09T19:10:01.653802+00:00",
-      "data_afisaj": "9 iunie 2026, 22:10"
-    },
-    {
-      "id": "6761b32f02fd",
-      "titlu": "Didier Deschamps: „Mbappé știe că atunci când vorbește, vorbește în numele tuturor jucătorilor”",
-      "rezumat": "Selecționerul Franței, Didier Deschamps, a subliniat importanța rolului lui Kylian Mbappé în cadrul echipei naționale, afirmând că atacantul este conștient de responsabilitatea pe care o poartă. Deschamps a declarat că Mbappé, prin statutul său de lider și căpitan, reprezintă vocea colectivă a jucătorilor, iar declarațiile sale au o greutate semnificativă. Această afirmație evidențiază influența crescândă a lui Mbappé nu doar pe teren, ci și în vestiar, consolidându-i poziția de figură centrală pentru \"Les Bleus\" înaintea turneului final.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-09T19:10:01.655675+00:00",
-      "data_afisaj": "9 iunie 2026, 22:10"
-    },
-    {
-      "id": "fc8cb650b639",
-      "titlu": "Anglia, a treia favorită la Cupa Mondială? O analiză a șanselor reale",
-      "rezumat": "Pe măsură ce Cupa Mondială se apropie, șansele Angliei de a câștiga trofeul sunt evaluate, echipa fiind cotată ca a treia favorită, după Spania și Franța. O analiză detaliată a performanțelor recente, a formei jucătorilor cheie și a strategiei antrenorului este esențială pentru a înțelege perspectivele reale ale \"Leilor\" la cel mai mare eveniment fotbalistic. Deși există optimism, experții examinează punctele forte și slăbiciunile echipei, precum și potențialii adversari, pentru a oferi o imagine clară asupra drumului pe care Anglia ar trebui să-l parcurgă pentru a-și îndeplini ambițiile.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-06-09T19:10:01.657373+00:00",
-      "data_afisaj": "9 iunie 2026, 22:10"
-    },
-    {
-      "id": "5ad55690eb77",
-      "titlu": "Curaçao, națiunea minusculă gata să-și facă debutul la Cupa Mondială",
-      "rezumat": "Cu o populație de doar 155.000 de locuitori, Curaçao este pe cale să devină cea mai mică națiune care a participat vreodată la o Cupă Mondială. Această performanță istorică a stârnit entuziasm pe insulă și în rândul fanilor fotbalului din întreaga lume. Calificarea echipei naționale, supranumită \"La Pantera Azul\", este rezultatul unei munci asidue și a unei dezvoltări continue a fotbalului local. Participarea la turneul final reprezintă o oportunitate unică pentru Curaçao de a-și arăta talentul pe scena globală și de a inspira o nouă generație de sportivi.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-06-09T19:10:01.659103+00:00",
-      "data_afisaj": "9 iunie 2026, 22:10"
-    },
-    {
-      "id": "cfb318cf07dc",
-      "titlu": "Fanii iranieni, interziși să fluture steagul pre-revoluționar la Cupa Mondială",
-      "rezumat": "Suporterii iranieni care locuiesc în Los Angeles și-au exprimat dorința de a flutura steagul Iranului de dinainte de revoluția islamică din 1979 la Cupa Mondială, respingând drapelul actual al echipei. Această situație subliniază tensiunile politice și culturale care însoțesc participarea Iranului la turneul final, aducând în discuție libertatea de exprimare a fanilor în contextul unui eveniment sportiv global.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-09T18:10:02.448872+00:00",
-      "data_afisaj": "9 iunie 2026, 21:10"
-    },
-    {
-      "id": "7bae9a25a95d",
-      "titlu": "David Sullivan, copreședinte West Ham, interzis să contacteze echipele feminine și de tineret",
-      "rezumat": "David Sullivan, copreședintele clubului West Ham United, a primit interdicția de a intra în contact cu echipele feminine și de tineret ale clubului încă din 2023. Decizia a fost luată în urma unei investigații de siguranță inițiate de Asociația de Fotbal. Această măsură vine în contextul acuzațiilor anterioare de comportament abuziv și prădător la adresa lui Sullivan, pe care acesta le neagă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-09T18:10:02.450693+00:00",
-      "data_afisaj": "9 iunie 2026, 21:10"
-    },
-    {
-      "id": "2cad3fe61388",
-      "titlu": "FIFA încearcă să rezolve problema biletelor anulate pentru suporterii iranieni la Cupa Mondială",
-      "rezumat": "FIFA a anunțat că depune eforturi pentru a „maximiza oportunitățile suporterilor iranieni de a participa la meciuri”, după ce alocarea de bilete pentru faza grupelor a fost revocată cu doar câteva zile înainte de startul turneului. Decizia a stârnit furia Iranului, care a emis o declarație dură condamnând acțiunea și punând sub semnul întrebării integritatea planificării Cupei Mondiale 2026.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-06-09T18:10:02.452395+00:00",
-      "data_afisaj": "9 iunie 2026, 21:10"
-    },
-    {
-      "id": "eef51ae1d641",
-      "titlu": "SUA se pregătește să găzduiască Cupa Mondială 2026, pe fondul îngrijorărilor legate de trafic și bilete",
-      "rezumat": "Statele Unite se confruntă cu provocări logistice semnificative în pregătirea pentru găzduirea Cupei Mondiale 2026, un eveniment sportiv global de amploare. Există îngrijorări legate de posibilele „zile de blocaj în trafic” și o cursă intensă pentru achiziționarea biletelor. Se pune întrebarea dacă SUA este pe deplin pregătită să gestioneze presiunea și complexitatea organizării unui turneu cu 48 de echipe, desfășurat în trei țări.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-09T18:10:02.454160+00:00",
-      "data_afisaj": "9 iunie 2026, 21:10"
-    },
-    {
-      "id": "e716c6b878d2",
-      "titlu": "Real Madrid a oferit 150 de milioane de euro pentru Julian Alvarez, oferta respinsă de Atletico Madrid",
-      "rezumat": "Real Madrid a anunțat că oferta sa de 150 de milioane de euro (aproximativ 129 de milioane de lire sterline) pentru atacantul lui Atletico Madrid, Julian Alvarez, a fost respinsă. Această mișcare subliniază interesul puternic al gigantului spaniol pentru jucător, în contextul unei posibile rivalități cu Barcelona pentru semnătura acestuia. Refuzul ofertei indică o poziție fermă a lui Atletico de a-și păstra unul dintre cei mai valoroși fotbaliști.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-06-09T18:10:02.455935+00:00",
-      "data_afisaj": "9 iunie 2026, 21:10"
     }
   ]
 }
