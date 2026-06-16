@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-16T12:13:35.885575+00:00",
-  "updated_at_afisaj": "16 iunie 2026, 15:13",
+  "updated_at": "2026-06-16T12:52:39.142848+00:00",
+  "updated_at_afisaj": "16 iunie 2026, 15:52",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,66 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 126,
+  "numar_stiri": 131,
   "stiri": [
+    {
+      "id": "11d6982e1075",
+      "titlu": "Cupa Mondială a Livramento este îndoială, în timp ce Chalobah se pregătea să intervină",
+      "rezumat": "Fundașul Angliei Tino Livramento ar putea rata campania Angliei la Cupa Mondială după ce a suferit o nouă accidentare în ajunul deschiderii turneului celor Trei Lei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-16T12:52:14.855165+00:00",
+      "data_afisaj": "16 iunie 2026, 15:52"
+    },
+    {
+      "id": "1204656b916b",
+      "titlu": "Cupa Mondială 2026: Livramento din Anglia a exclus; Viza jucătorului iranian expiră după deschidere; Tunisia îl angajează pe Renard – live",
+      "rezumat": "⚽ Toate cele mai recente din ziua a șasea a turneului ⚽ Ghidul jucătorului | Bracketologie | Cizma de Aur | Trimite-ne un e-mail Donald Trump: Președintele SUA se află în Franța pentru summitul G7, unde se întâlnește cu lideri mondiali. Acordul SUA-Iran va fi pe primul loc pe ordinea de zi după ce Trump s-a ciocnit cu aliații cheie și i-a amenințat. De ce menționez asta pe blogul Cupei Mondiale de Geopolitică? Pentru că cancelarul german, Friedrich Merz, a luat un baraj și a optat pentru a-i oferi lui Trump un cadou întârziat pentru aniversarea de 80 de ani: un top de fotbal din Germania w",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-16T12:52:14.857277+00:00",
+      "data_afisaj": "16 iunie 2026, 15:52"
+    },
+    {
+      "id": "267dc8dae629",
+      "titlu": "Acordul lui Tuchel cu Anglia include o clauză de performanță",
+      "rezumat": "Prelungirea contractului lui Thomas Tuchel în Anglia este supusă unei clauze de performanță, spune directorul executiv al FA, Mark Bullingham.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-16T12:52:14.858764+00:00",
+      "data_afisaj": "16 iunie 2026, 15:52"
+    },
+    {
+      "id": "99c8dfd2f22d",
+      "titlu": "Tunisia îl concediază pe Lamouchi la doar un meci la Cupa Mondială",
+      "rezumat": "Tunisia îl concediază pe Sabri Lamouchi la un meci de la Cupa Mondială, fostul antrenor al Marocului și al Arabia Saudită Herve Renard îl înlocuiește.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-16T12:52:14.860318+00:00",
+      "data_afisaj": "16 iunie 2026, 15:52"
+    },
+    {
+      "id": "cfe9a662fea3",
+      "titlu": "Faceți cunoștință cu jucătorul din Irak care va face istorie pentru Pakistan",
+      "rezumat": "Zidane Iqbal, un fost jucător de la Manchester United, va face istorie când va juca pentru Irak în această vară, devenind primul jucător din moștenirea pakistaneză care a participat la o Cupă Mondială masculină.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-16T12:52:14.861898+00:00",
+      "data_afisaj": "16 iunie 2026, 15:52"
+    },
     {
       "id": "300c38b20ba2",
       "titlu": "Participarea lui Livramento la Cupa Mondială, sub semnul întrebării după o nouă accidentare",
