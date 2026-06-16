@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-15T20:22:11.162013+00:00",
-  "updated_at_afisaj": "15 iunie 2026, 23:22",
+  "updated_at": "2026-06-16T12:13:35.885575+00:00",
+  "updated_at_afisaj": "16 iunie 2026, 15:13",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,68 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 130,
+  "numar_stiri": 126,
   "stiri": [
+    {
+      "id": "300c38b20ba2",
+      "titlu": "Participarea lui Livramento la Cupa Mondială, sub semnul întrebării după o nouă accidentare",
+      "rezumat": "Fundașul englez Tino Livramento ar putea rata campania Angliei la Cupa Mondială după ce a suferit o nouă accidentare în ajunul meciului de deschidere al turneului pentru „Cei Trei Lei”.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-16T12:13:23.796621+00:00",
+      "data_afisaj": "16 iunie 2026, 15:13"
+    },
+    {
+      "id": "bd1249313896",
+      "titlu": "De la petreceri de burlaci la Cupa Mondială - ascensiunea celuilalt imn național al Scoției",
+      "rezumat": "De la petreceri de burlaci la Fenway Park, cum a devenit un hit disco din anii '70 coloana sonoră a Armatei Tartan?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-16T12:13:23.798268+00:00",
+      "data_afisaj": "16 iunie 2026, 15:13"
+    },
+    {
+      "id": "fc8a8fbee40f",
+      "titlu": "Cine sunt? Ghicește vedeta Cupei Mondiale numărul 9",
+      "rezumat": "Vei ghici jucătorul de astăzi în cât mai puține încercări?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-06-16T12:13:23.799625+00:00",
+      "data_afisaj": "16 iunie 2026, 15:13"
+    },
+    {
+      "id": "643b4ba9d844",
+      "titlu": "'Nu sunt un model' - Bielsa refuză să participe la ședința foto a Cupei Mondiale",
+      "rezumat": "Antrenorul Uruguayului și fostul antrenor al lui Leeds, Marcelo Bielsa, își apără apariția impasibilă în ședința foto oficială a Cupei Mondiale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-16T12:13:23.801146+00:00",
+      "data_afisaj": "16 iunie 2026, 15:13"
+    },
+    {
+      "id": "326b015f7f36",
+      "titlu": "Cupa Mondială 2026: Viza jucătorului iranian expiră după meciul de deschidere; Tunisia îl angajează pe Renard; Klopp criticat pentru remarcă – live",
+      "rezumat": "⚽ Toate noutățile din ziua a șasea a turneului ⚽ Ghidul jucătorilor | Bracketology | Gheata de Aur | Trimite-ne un mail Donald Trump: Președintele SUA se află în Franța pentru summitul G7 unde se întâlnește cu lideri mondiali. Acordul SUA-Iran va fi o prioritate pe agendă după ce Trump s-a confruntat și a amenințat aliați cheie. De ce menționez asta în blogul Geopolitics World Cup? Pentru că cancelarul german, Friedrich Merz, a riscat și a ales să-i ofere lui Trump un cadou întârziat de 80 de ani: un tricou de fotbal al Germaniei c",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-16T12:13:23.803038+00:00",
+      "data_afisaj": "16 iunie 2026, 15:13"
+    },
     {
       "id": "bedaf129e79e",
       "titlu": "Belgia v Egipt: Cupa Mondială 2026 – în direct",
@@ -1427,111 +1487,6 @@
       ],
       "data_publicare": "2026-06-09T18:10:02.455935+00:00",
       "data_afisaj": "9 iunie 2026, 21:10"
-    },
-    {
-      "id": "177ebc5ae8e6",
-      "titlu": "'Mazadona', 'Einstein', 'Furnica' - 20 de noi jucători de urmărit la Cupa Mondială 2026",
-      "rezumat": "Comentatorii TV și radio BBC Sport aleg jucătorii pe care îi consideră a fi vedetele în ascensiune ale Cupei Mondiale 2026.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-09T11:14:38.596256+00:00",
-      "data_afisaj": "9 iunie 2026, 14:14"
-    },
-    {
-      "id": "f1be64c68c63",
-      "titlu": "Arbitrul somalez Artan va rata Cupa Mondială după ce i-a fost interzisă intrarea în SUA",
-      "rezumat": "Omar Artan, care urma să fie primul somalez care arbitrează la Cupa Mondială, este scos de pe lista oficialilor după ce i-a fost refuzată intrarea în Statele Unite.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-06-09T11:14:38.597853+00:00",
-      "data_afisaj": "9 iunie 2026, 14:14"
-    },
-    {
-      "id": "8cc99fcae8b2",
-      "titlu": "Ghidul echipei Portugaliei pentru Cupa Mondială 2026",
-      "rezumat": "Ultima Cupă Mondială – cu siguranță – pentru Cristiano Ronaldo, iar Portugalia este într-o formă excelentă pentru o participare lungă în competiție. Acest articol face parte din Rețeaua de Experți a Cupei Mondiale 2026 a The Guardian, o cooperare între unele dintre cele mai bune organizații media din cele 48 de țări calificate. theguardian.com publică previzualizări din trei țări în fiecare zi, în perioada premergătoare turneului care începe pe 11 iunie. Continuă lectura...",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-09T11:14:38.599199+00:00",
-      "data_afisaj": "9 iunie 2026, 14:14"
-    },
-    {
-      "id": "3ae6366870af",
-      "titlu": "Meciul de deschidere de la Campionatul Mondial 2026. Unde se joacă prima partidă a celui mai mare turneu din istorie",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-06-09T11:14:38.601215+00:00",
-      "data_afisaj": "9 iunie 2026, 14:14"
-    },
-    {
-      "id": "46e30abd4239",
-      "titlu": "De ce o Cupă Mondială super-dimensionată și politizată vine cu un cost",
-      "rezumat": "Indiferent de perspectivă, pare cert că, pe lângă spectacolul de pe teren, această Cupă Mondială super-dimensionată ar putea fi una dintre cele mai controversate din toate timpurile.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-09T11:14:38.602717+00:00",
-      "data_afisaj": "9 iunie 2026, 14:14"
-    },
-    {
-      "id": "e7f8fd56d844",
-      "titlu": "Wolves îl transferă pe Trippier și negociază revenirea lui Jimenez",
-      "rezumat": "Clubul englez Wolverhampton Wanderers a anunțat achiziționarea fundașului Kieran Trippier, fost internațional englez, într-o mutare menită să consolideze apărarea echipei. Pe lângă acest transfer confirmat, Wolves se află în discuții avansate pentru a-l readuce pe fostul atacant Raul Jimenez, care ar urma să sosească la club ca jucător liber de contract. Aceste mișcări strategice subliniază intenția clubului de a-și întări lotul pentru viitorul sezon și de a aduce experiență în compartimentele cheie.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-09T10:35:59.856916+00:00",
-      "data_afisaj": "9 iunie 2026, 13:35"
-    },
-    {
-      "id": "c0a4c80f43a5",
-      "titlu": "Michel Platini depune plângere împotriva lui Gianni Infantino",
-      "rezumat": "Michel Platini, fostul președinte al UEFA, a depus o plângere împotriva actualului președinte FIFA, Gianni Infantino. Această acțiune legală reprezintă o nouă etapă în disputa dintre cei doi oficiali, adăugând tensiune în peisajul administrativ al fotbalului mondial. Detaliile plângerii nu au fost încă făcute publice în totalitate, dar se anticipează că vor viza aspecte legate de conducerea și deciziile luate la nivelul forului fotbalistic internațional, continuând o serie de confruntări juridice anterioare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-09T10:35:59.858302+00:00",
-      "data_afisaj": "9 iunie 2026, 13:35"
-    },
-    {
-      "id": "6905debdb086",
-      "titlu": "Edin Dzeko, la 40 de ani, se pregătește să-și conducă țara la Cupa Mondială",
-      "rezumat": "Atacantul bosniac Edin Dzeko, în vârstă de 40 de ani, a declarat că nu se aștepta să mai joace fotbal la această vârstă, dar se pregătește acum să fie căpitanul Bosniei și Herțegovinei la Cupa Mondială din 2026. Venind după un titlu câștigat cu Schalke în Germania, Dzeko este hotărât să demonstreze că vârsta este doar un număr și să-și inspire echipa într-o competiție majoră. El speră să surprindă Canada în meciul de deschidere, aducând experiența sa vastă pe terenul de joc.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-09T10:35:59.859798+00:00",
-      "data_afisaj": "9 iunie 2026, 13:35"
-    },
-    {
-      "id": "91fca0166817",
-      "titlu": "Clubul Durham din WSL2 riscă închiderea fără investiții urgente",
-      "rezumat": "Clubul de fotbal feminin Durham, care activează în a doua ligă engleză (WSL2), a emis un avertisment urgent, declarând că va fi nevoit să își înceteze operațiunile dacă nu va primi o injecție de capital în următoarele 21 de zile. Clubul, independent și neafiliat unei echipe masculine profesioniste, se confruntă cu dificultăți financiare majore, iar discuțiile cu potențiali investitori au eșuat. Această situație pune sub semnul întrebării viitorul unei echipe cu o istorie de 12 ani în eșalonul secund al fotbalului feminin englez.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-09T10:35:59.861206+00:00",
-      "data_afisaj": "9 iunie 2026, 13:35"
     }
   ]
 }
