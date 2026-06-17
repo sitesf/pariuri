@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-16T20:10:55.716601+00:00",
-  "updated_at_afisaj": "16 iunie 2026, 23:10",
+  "updated_at": "2026-06-17T11:51:30.469566+00:00",
+  "updated_at_afisaj": "17 iunie 2026, 14:51",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,68 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 130,
+  "numar_stiri": 125,
   "stiri": [
+    {
+      "id": "6a23800feac0",
+      "titlu": "Messi, Mbappe și Haaland impresionează la Cupa Mondială cu performanțe remarcabile",
+      "rezumat": "Lionel Messi a marcat un hat-trick istoric pentru Argentina în victoria cu 3-0 împotriva Algeriei, egalând recordul de goluri la Cupa Mondială deținut de Miroslav Klose. În aceeași zi, Kylian Mbappe a devenit cel mai bun marcator din istoria Franței, contribuind cu o dublă la victoria cu 3-1 împotriva Senegalului. De asemenea, Erling Haaland a avut un debut spectaculos la Cupa Mondială, înscriind două goluri pentru Norvegia în meciul împotriva Irakului. Aceste performanțe individuale subliniază impactul major al vedetelor în primele etape ale turneului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-06-17T11:51:30.462791+00:00",
+      "data_afisaj": "17 iunie 2026, 14:51"
+    },
+    {
+      "id": "dcd1cde0f0d2",
+      "titlu": "Real Madrid îl transferă pe Bernardo Silva de la Manchester City",
+      "rezumat": "Mijlocașul portughez Bernardo Silva a semnat cu Real Madrid, ajungând la clubul spaniol ca jucător liber de contract după despărțirea de Manchester City la finalul sezonului. Silva se alătură echipei conduse de noul antrenor Jose Mourinho, aducând experiență și creativitate la mijlocul terenului. Acest transfer reprezintă o mutare strategică importantă pentru Real Madrid, care își consolidează lotul cu un jucător de calibru, capabil să influențeze decisiv jocul.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-06-17T11:51:30.464429+00:00",
+      "data_afisaj": "17 iunie 2026, 14:51"
+    },
+    {
+      "id": "be2ddbaedaee",
+      "titlu": "Danny Röhl părăsește Rangers pentru a prelua Red Bull Salzburg",
+      "rezumat": "Danny Röhl a plecat de la Rangers, după opt luni petrecute la conducerea clubului scoțian, pentru a deveni noul antrenor principal al echipei Red Bull Salzburg. Plecarea sa a fost confirmată de Rangers, care a ajuns la un acord de compensare cu clubul austriac. Röhl, care a preluat Rangers în octombrie anul trecut, va fi înlocuit, conform speculațiilor, de Derek McInnes. Această mutare marchează o nouă etapă în cariera antrenorului german.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-17T11:51:30.466086+00:00",
+      "data_afisaj": "17 iunie 2026, 14:51"
+    },
+    {
+      "id": "7b3ccfbd9b38",
+      "titlu": "Adrien Rabiot își exprimă îngrijorarea cu privire la calitatea terenului de pe MetLife Stadium",
+      "rezumat": "Mijlocașul francez Adrien Rabiot a ridicat semne de întrebare cu privire la starea gazonului de pe stadionul MetLife din New York/New Jersey, unde se desfășoară meciuri din cadrul Cupei Mondiale. Rabiot a descris suprafața de joc ca fiind \"mai degrabă artificială\", sugerând că aceasta ar putea afecta calitatea jocului și siguranța jucătorilor. Această preocupare subliniază provocările legate de menținerea standardelor optime ale terenurilor pe durata unui turneu de o asemenea anvergură.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-17T11:51:30.467915+00:00",
+      "data_afisaj": "17 iunie 2026, 14:51"
+    },
+    {
+      "id": "5b1d6dca52d4",
+      "titlu": "U Cluj va întâlni PAOK Salonic în preliminariile Europa League",
+      "rezumat": "Universitatea Cluj a primit o veste importantă în ceea ce privește parcursul său european, urmând să se confrunte cu puternica echipă greacă PAOK Salonic în preliminariile Europa League. Această tragere la sorți anunță o dublă manșă dificilă pentru formația ardeleană, care va avea de înfruntat un adversar cu experiență considerabilă în competițiile europene. Meciurile se anunță a fi un test serios pentru ambițiile europene ale clubului din Cluj.",
+      "categorie": "Fotbal",
+      "surse": [
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-06-17T11:51:30.469547+00:00",
+      "data_afisaj": "17 iunie 2026, 14:51"
+    },
     {
       "id": "4a5bfdfdcf3b",
       "titlu": "Până la 15.000 de fani englezi se îndreaptă spre Dallas pentru meciul de deschidere al Cupei Mondiale",
@@ -1422,119 +1482,6 @@
       ],
       "data_publicare": "2026-06-10T18:33:06.068667+00:00",
       "data_afisaj": "10 iunie 2026, 21:33"
-    },
-    {
-      "id": "595fb5e13624",
-      "titlu": "Arbitrul interzis Artan ajunge acasă, în Somalia",
-      "rezumat": "Omar Artan promite că va oficia Cupa Mondială din 2030, după ce a ajuns acasă în Somalia, după ce i s-a interzis intrarea în Statele Unite.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-10T11:38:21.735111+00:00",
-      "data_afisaj": "10 iunie 2026, 14:38"
-    },
-    {
-      "id": "f3b6d6b54f99",
-      "titlu": "De ce Newcastle semnează un „gigant” de la al doilea nivel francez",
-      "rezumat": "Ewen Jaouen a fost supus unei examinări medicale înainte de a finaliza mutarea de la Stade de Reims la Newcastle United.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-10T11:38:21.736708+00:00",
-      "data_afisaj": "10 iunie 2026, 14:38"
-    },
-    {
-      "id": "ead7721f4eae",
-      "titlu": "De ce această Cupă Mondială va prezenta „Steve Clarke diferit”",
-      "rezumat": "Antrenorul principal al Scoției se simte ca un om nou care se îndreaptă spre o deschidere seismică a Cupei Mondiale cu Haiti - și simte un nou val de optimism.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-10T11:38:21.738211+00:00",
-      "data_afisaj": "10 iunie 2026, 14:38"
-    },
-    {
-      "id": "90b31ce1220a",
-      "titlu": "Oferta de 130 de milioane de lire sterline a lui Real Madrid Alvarez a fost râsă de Atletico",
-      "rezumat": "Real Madrid face o ofertă de 150 de milioane de euro (130 de milioane de lire sterline) pentru atacantul Julian Alvarez, dar rivalii orașului Atletico Madrid o refuză.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-10T11:38:21.739774+00:00",
-      "data_afisaj": "10 iunie 2026, 14:38"
-    },
-    {
-      "id": "598c7fae8487",
-      "titlu": "Real Madrid îl vede pe Calafiori de la Arsenal - bârfa de miercuri",
-      "rezumat": "Real Madrid îl urmărește pe Riccardo Calafiori de la Arsenal, Tottenham îl consideră pe fundașul lui Juventus Gleison Bremer, Manchester United îl urmărește pe Lewis Hall de la Newcastle și multe altele.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-10T11:38:21.741263+00:00",
-      "data_afisaj": "10 iunie 2026, 14:38"
-    },
-    {
-      "id": "2ad0bd7c4a7a",
-      "titlu": "Cine va câștiga Cupa Mondială? Expertii BBC își fac previziunile",
-      "rezumat": "Cine va câștiga, cine ar putea face o surpriză și cum se vor descurca Anglia și Scoția? Expertii BBC prezic ce se va întâmpla la Cupa Mondială din 2026.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-10T10:57:57.349475+00:00",
-      "data_afisaj": "10 iunie 2026, 13:57"
-    },
-    {
-      "id": "93e786c1300e",
-      "titlu": "Anglia ratează locul automat la Cupa Mondială - deci ce se întâmplă acum?",
-      "rezumat": "Anglia a învins Ucraina cu 3-0 marți seară, dar nu a contat ce au făcut, deoarece calificarea automată pentru Cupa Mondială feminină din 2027 nu le-a mai rămas din mână.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-10T10:57:57.351005+00:00",
-      "data_afisaj": "10 iunie 2026, 13:57"
-    },
-    {
-      "id": "6399c1e0a5d9",
-      "titlu": "Descărcați graficul de perete pentru Cupa Mondială 2026",
-      "rezumat": "Obține acum piesa ta esențială de kit, descarcând graficul de perete al Cupei Mondiale Fifa 2026.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-10T10:57:57.352310+00:00",
-      "data_afisaj": "10 iunie 2026, 13:57"
-    },
-    {
-      "id": "7f671e80dc37",
-      "titlu": "Petrecerile hip-hop sălbatice care au început călătoria lui Tuchel către șeful Angliei",
-      "rezumat": "Thomas Tuchel licitează să devină primul antrenor străin care a câștigat Cupa Mondială. BBC Sport prezintă începutul călătoriei sale spre a deveni șeful Angliei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-10T10:57:57.353806+00:00",
-      "data_afisaj": "10 iunie 2026, 13:57"
-    },
-    {
-      "id": "f41224c1f57e",
-      "titlu": "Keane și Fernandes aer curat după ceartă pentru „minciună”",
-      "rezumat": "Roy Keane eliberează aerul cu căpitanul lui Manchester United, Bruno Fernandes, după ce l-a citat greșit pe portughez - ceea ce l-a determinat pe Fernandes să-l acuze de minciună.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-10T10:57:57.355222+00:00",
-      "data_afisaj": "10 iunie 2026, 13:57"
     }
   ]
 }
