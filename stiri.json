@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-17T11:51:30.469566+00:00",
-  "updated_at_afisaj": "17 iunie 2026, 14:51",
+  "updated_at": "2026-06-17T12:16:27.874770+00:00",
+  "updated_at_afisaj": "17 iunie 2026, 15:16",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 125,
+  "numar_stiri": 130,
   "stiri": [
+    {
+      "id": "5da3b96baf4e",
+      "titlu": "Jude Bellingham, pregătit să fie o figură cheie pentru Anglia la Cupa Mondială",
+      "rezumat": "După o pregătire intensă sub îndrumarea selecționerului Thomas Tuchel, Jude Bellingham este considerat un talent special, capabil să joace un rol crucial în ambiția Angliei de a câștiga Cupa Mondială. Evoluția sa recentă indică o formă excelentă, sugerând că mijlocașul poate fi un lider pe teren pentru echipa națională în turneul final. Analiza subliniază importanța sa strategică și impactul potențial asupra performanței Angliei în competiție, consolidându-i statutul de superstar.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-17T12:16:27.867868+00:00",
+      "data_afisaj": "17 iunie 2026, 15:16"
+    },
+    {
+      "id": "e8ffa4067590",
+      "titlu": "Hull City riscă o depunctare în Premier League",
+      "rezumat": "Echipa Hull City, recent promovată în Premier League după câștigarea finalei play-off-ului, se confruntă cu riscul unei depunctări. Pentru a evita această sancțiune, clubul trebuie să vândă jucători înainte de sfârșitul lunii, conform regulamentelor financiare ale ligii. Această situație pune presiune pe conducerea clubului de a echilibra bugetul și de a respecta normele Fair Play-ului Financiar, chiar și după succesul sportiv, pentru a-și asigura un start fără probleme în noua divizie.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-17T12:16:27.869490+00:00",
+      "data_afisaj": "17 iunie 2026, 15:16"
+    },
+    {
+      "id": "9f3e5e19f8db",
+      "titlu": "Anglia nu își va schimba stilul de joc din cauza căldurii din SUA, afirmă Tuchel",
+      "rezumat": "Selecționerul Angliei, Thomas Tuchel, a declarat că nu este dispus să adapteze stilul de joc al echipei la Cupa Mondială, în ciuda temperaturilor ridicate din Statele Unite. Tuchel a subliniat că o astfel de modificare ar însemna să renunțe la punctele forte ale echipei, preferând să mențină abordarea tactică stabilită. Această decizie reflectă încrederea antrenorului în strategia sa și în capacitatea jucătorilor de a performa în condiții dificile, fără a compromite identitatea echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-17T12:16:27.871392+00:00",
+      "data_afisaj": "17 iunie 2026, 15:16"
+    },
+    {
+      "id": "3e801c40de44",
+      "titlu": "Lionel Messi explică lacrimile după golul marcat pentru Argentina",
+      "rezumat": "Lionel Messi a fost vizibil emoționat până la lacrimi după ce a marcat primul gol în victoria Argentinei cu 3-0 împotriva Algeriei. Atacantul a declarat că momentul emoționant a fost cauzat de o chestiune \"complet nelegată de fotbal\", fără a oferi detalii suplimentare despre natura personală a evenimentului. Această reacție neașteptată a stârnit curiozitatea fanilor și a presei, adăugând o notă personală performanței sale pe teren și subliniind latura umană a superstarului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-17T12:16:27.873089+00:00",
+      "data_afisaj": "17 iunie 2026, 15:16"
+    },
+    {
+      "id": "87e3ff72ef3e",
+      "titlu": "Hearts va întâlni Sturm Graz în preliminariile Ligii Campionilor",
+      "rezumat": "Echipa scoțiană Heart of Midlothian va juca împotriva formației austriece Sturm Graz în turul doi preliminar al Ligii Campionilor. Această confruntare reprezintă o provocare importantă pentru Hearts în încercarea de a avansa în competiția europeană de elită. Meciurile vor avea loc în curând, iar ambele echipe se pregătesc intens pentru a obține un rezultat favorabil și a continua parcursul în Liga Campionilor, visând la o prezență în grupe.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-17T12:16:27.874747+00:00",
+      "data_afisaj": "17 iunie 2026, 15:16"
+    },
     {
       "id": "6a23800feac0",
       "titlu": "Messi, Mbappe și Haaland impresionează la Cupa Mondială cu performanțe remarcabile",
