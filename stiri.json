@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-17T18:23:42.011536+00:00",
-  "updated_at_afisaj": "17 iunie 2026, 21:23",
+  "updated_at": "2026-06-17T19:20:09.690250+00:00",
+  "updated_at_afisaj": "17 iunie 2026, 22:20",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,56 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 134,
+  "numar_stiri": 133,
   "stiri": [
+    {
+      "id": "0e8c569ba429",
+      "titlu": "Rangers îl numește pe Derek McInnes în funcția de antrenor principal",
+      "rezumat": "Clubul scoțian Rangers a anunțat numirea lui Derek McInnes în funcția de antrenor principal, încheind un acord pe o perioadă de trei ani. McInnes preia echipa după un sezon remarcabil la conducerea formației Hearts. Această mutare vine în urma plecării lui Danny Röhl de la cârma echipei de pe Ibrox. Numirea a fost confirmată de mai multe surse sportive de top, subliniind importanța acestei decizii pentru viitorul clubului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football",
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-17T19:20:09.684846+00:00",
+      "data_afisaj": "17 iunie 2026, 22:20"
+    },
+    {
+      "id": "f8c073e00662",
+      "titlu": "Portugalia a remizat cu RD Congo la Cupa Mondială 2026; Cristiano Ronaldo a avut o prestație modestă",
+      "rezumat": "Naționala Portugaliei a debutat la Cupa Mondială 2026 cu o remiză dezamăgitoare, scor 1-1, împotriva Republicii Democrate Congo. Cristiano Ronaldo a avut o prestație sub așteptări în primul său meci la turneu, nereușind să impresioneze și fiind considerat unul dintre cei mai slabi jucători de pe teren. Rezultatul reprezintă un start lent pentru Portugalia, care spera la o victorie clară în fața adversarului său.",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-06-17T19:20:09.686795+00:00",
+      "data_afisaj": "17 iunie 2026, 22:20"
+    },
+    {
+      "id": "e9dd71ce4340",
+      "titlu": "Luka Modric și Croația continuă să sfideze așteptările la Cupa Mondială",
+      "rezumat": "Povestea lui Luka Modric, copilul refugiat de război care a ajuns să câștige șase titluri de Liga Campionilor și un Balon de Aur, este un simbol al rezilienței. Modric și echipa națională a Croației, adversara Angliei la Cupa Mondială, continuă să demonstreze o capacitate remarcabilă de a depăși obstacolele și de a obține performanțe notabile pe scena internațională, sfidând de fiecare dată pronosticurile.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-17T19:20:09.688462+00:00",
+      "data_afisaj": "17 iunie 2026, 22:20"
+    },
+    {
+      "id": "533f6e1be956",
+      "titlu": "Scoția se pregătește să facă față căldurii intense la meciurile de la Cupa Mondială",
+      "rezumat": "Echipa națională a Scoției se confruntă cu o provocare suplimentară la Cupa Mondială, având în vedere că meciurile sale sunt programate să se desfășoare la temperaturi de aproximativ 30 de grade Celsius. Antrenorul Steve Clarke și jucătorii săi vor trebui să lupte nu doar împotriva adversarilor precum Maroc și Brazilia, ci și împotriva condițiilor climatice dificile, adaptându-și strategia pentru a gestiona căldura sufocantă din timpul partidelor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-17T19:20:09.690231+00:00",
+      "data_afisaj": "17 iunie 2026, 22:20"
+    },
     {
       "id": "ea102a547b1c",
       "titlu": "Mama portarului din Capul Verde, Vozinha, va primi viză pentru a asista la Cupa Mondială din SUA",
@@ -1520,68 +1568,6 @@
       ],
       "data_publicare": "2026-06-10T19:30:05.331106+00:00",
       "data_afisaj": "10 iunie 2026, 22:30"
-    },
-    {
-      "id": "b9a29ac51d4c",
-      "titlu": "Everton, obligată să plătească despăgubiri clubului Burnley pentru încălcarea regulilor financiare",
-      "rezumat": "Clubul Everton a fost obligat să plătească o sumă cuprinsă între 35 și 40 de milioane de lire sterline către Burnley, în urma unei decizii legate de încălcarea regulilor de profitabilitate și sustenabilitate (PSR) ale Premier League. Această hotărâre vine după ce Burnley a fost retrogradată în 2022, iar Everton a fost sancționată anterior cu o deducere de puncte pentru aceleași nereguli financiare. Everton a anunțat că va contesta decizia.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-10T18:33:06.062404+00:00",
-      "data_afisaj": "10 iunie 2026, 21:33"
-    },
-    {
-      "id": "40a5207a9d39",
-      "titlu": "Kieran McKenna părăsește postul de antrenor al echipei Ipswich Town",
-      "rezumat": "Kieran McKenna a demisionat din funcția de antrenor principal al clubului Ipswich Town, la scurt timp după ce a reușit promovarea echipei în Premier League. Decizia sa vine ca o surpriză, iar antrenorul a declarat că intenționează să ia o pauză de la fotbal. McKenna a fost o figură cheie în succesul recent al lui Ipswich, conducând echipa la două promovări consecutive.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-06-10T18:33:06.063947+00:00",
-      "data_afisaj": "10 iunie 2026, 21:33"
-    },
-    {
-      "id": "0f915c2fbfac",
-      "titlu": "Meciul amical al Angliei împotriva Costa Rica, amenințat de furtuni",
-      "rezumat": "Ultima partidă de pregătire a naționalei Angliei, programată împotriva selecționatei Costa Rica, este în pericol de a fi afectată sau chiar anulată din cauza condițiilor meteorologice nefavorabile. Furtunile puternice amenință zona în care ar trebui să se desfășoare meciul, punând sub semnul întrebării desfășurarea acestui test crucial înainte de începerea Cupei Mondiale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-10T18:33:06.065505+00:00",
-      "data_afisaj": "10 iunie 2026, 21:33"
-    },
-    {
-      "id": "abd8f95fa0c8",
-      "titlu": "Tottenham Hotspur îl transferă pe Marcos Senesi de la Bournemouth",
-      "rezumat": "Clubul Tottenham Hotspur a confirmat achiziționarea fundașului Marcos Senesi, care sosește de la Bournemouth printr-un transfer gratuit. Jucătorul argentinian se alătură echipei londoneze după patru ani petrecuți la Bournemouth. Această mutare marchează o întărire a defensivei pentru Spurs înaintea noului sezon.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-06-10T18:33:06.066963+00:00",
-      "data_afisaj": "10 iunie 2026, 21:33"
-    },
-    {
-      "id": "c70c188202e8",
-      "titlu": "Programul complet al fazei grupelor la Cupa Mondială 2026, disponibil cu orele României",
-      "rezumat": "A fost publicat programul detaliat al meciurilor din faza grupelor a Cupei Mondiale din 2026, incluzând orele de începere adaptate fusului orar al României. Fanii fotbalului pot consulta acum calendarul complet pentru a urmări partidele celui mai mare turneu din istorie, care se va desfășura în Statele Unite, Canada și Mexic.",
-      "categorie": "Fotbal",
-      "surse": [
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-06-10T18:33:06.068667+00:00",
-      "data_afisaj": "10 iunie 2026, 21:33"
     }
   ]
 }
