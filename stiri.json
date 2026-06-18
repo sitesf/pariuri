@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-18T11:10:39.075066+00:00",
-  "updated_at_afisaj": "18 iunie 2026, 14:10",
+  "updated_at": "2026-06-18T11:50:46.980166+00:00",
+  "updated_at_afisaj": "18 iunie 2026, 14:50",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,55 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 134,
+  "numar_stiri": 133,
   "stiri": [
+    {
+      "id": "a1fdb0a19d31",
+      "titlu": "Anglia și Scoția își cunosc adversarele din play-off-ul Cupei Mondiale Feminine 2027",
+      "rezumat": "Echipele naționale feminine ale Angliei și Scoției au aflat cu cine se vor confrunta în play-off-urile pentru calificarea la Cupa Mondială din 2027. Anglia va juca împotriva Greciei, iar în cazul unei victorii, va întâlni Slovacia sau Ucraina. Scoția a fost repartizată într-o grupă mai dificilă, urmând să joace cu Cehia și, probabil, cu Suedia, una dintre națiunile de top din fotbalul feminin, pentru un loc la turneul final din Brazilia.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-06-18T11:50:46.973311+00:00",
+      "data_afisaj": "18 iunie 2026, 14:50"
+    },
+    {
+      "id": "d1e12a45223c",
+      "titlu": "Atacantului Coastei de Fildeș, Elye Wahi, i-a fost refuzată intrarea în Canada",
+      "rezumat": "Federația de Fotbal din Coasta de Fildeș a anunțat că atacantului Elye Wahi i-a fost refuzată intrarea în Canada, unde echipa sa urma să joace următorul meci din cadrul Cupei Mondiale. Detaliile exacte ale motivului refuzului nu au fost specificate, dar incidentul ridică semne de întrebare cu privire la participarea jucătorului la meciurile viitoare ale naționalei sale în turneul final. Această situație neprevăzută ar putea afecta strategia echipei pentru următoarele etape ale competiției.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-18T11:50:46.975195+00:00",
+      "data_afisaj": "18 iunie 2026, 14:50"
+    },
+    {
+      "id": "4f6653d32f91",
+      "titlu": "CEDO a emis verdictul în dosarul dezafilierii FCU Craiova, o lovitură pentru Adrian Mititelu",
+      "rezumat": "Curtea Europeană a Drepturilor Omului (CEDO) a pronunțat o decizie finală în cazul dezafilierii echipei FCU Craiova, considerată o lovitură devastatoare pentru Adrian Mititelu. Verdictul CEDO pune capăt unui lung șir de litigii și contestații legate de soarta clubului, având implicații majore asupra viitorului sportiv și juridic al entității. Această hotărâre marchează un moment crucial în istoria recentă a fotbalului românesc, încheind o saga care a ținut prima pagină a ziarelor sportive.",
+      "categorie": "Fotbal",
+      "surse": [
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-06-18T11:50:46.977155+00:00",
+      "data_afisaj": "18 iunie 2026, 14:50"
+    },
+    {
+      "id": "5e9390fbcbae",
+      "titlu": "Răzvan Lucescu va semna un contract pe doi ani cu o nouă echipă din Arabia Saudită",
+      "rezumat": "Antrenorul român Răzvan Lucescu este pe cale să semneze un contract pe o perioadă de doi ani cu o nouă echipă din Arabia Saudită, conform anunțurilor făcute de surse din regiune. Această mutare marchează un nou capitol în cariera tehnicianului, care a avut deja succes în campionatul saudit. Detaliile complete ale acordului și numele exact al clubului urmează să fie oficializate în curând, dar se anticipează o revenire a lui Lucescu în fotbalul arab.",
+      "categorie": "Fotbal",
+      "surse": [
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-06-18T11:50:46.979055+00:00",
+      "data_afisaj": "18 iunie 2026, 14:50"
+    },
     {
       "id": "b24299c39af8",
       "titlu": "Traseul Angliei către finala Cupei Mondiale 2026",
@@ -1523,66 +1570,6 @@
       ],
       "data_publicare": "2026-06-11T12:11:13.192305+00:00",
       "data_afisaj": "11 iunie 2026, 15:11"
-    },
-    {
-      "id": "e64106715e4e",
-      "titlu": "Dalglish, Souness & Rod Stewart - Amintiri de la Cupa Mondială '86 a Scoției",
-      "rezumat": "Amintiri despre campania Scoției la Cupa Mondială din 1986, a patra lor apariție consecutivă la turneu.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-11T11:23:40.858441+00:00",
-      "data_afisaj": "11 iunie 2026, 14:23"
-    },
-    {
-      "id": "a52ff2cb2710",
-      "titlu": "Surprize timpurii? Predicțiile lui Sutton pentru scorurile Cupei Mondiale 2026 - primele meciuri din grupe",
-      "rezumat": "Expertul BBC Sport în fotbal, Chris Sutton, oferă predicțiile sale pentru scorurile primei runde de meciuri din grupe la Cupa Mondială 2026.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-11T11:23:40.860025+00:00",
-      "data_afisaj": "11 iunie 2026, 14:23"
-    },
-    {
-      "id": "e5e8493f6c3d",
-      "titlu": "Mexic vs Africa de Sud: Prezice scorul pentru meciul de deschidere al Cupei Mondiale",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-06-11T11:23:40.861450+00:00",
-      "data_afisaj": "11 iunie 2026, 14:23"
-    },
-    {
-      "id": "8a92183445bb",
-      "titlu": "Edwards 'șocat' de demiterea de la Wolves, cu înlocuitorul deja pregătit",
-      "rezumat": "Wolves l-a demis pe antrenorul principal Rob Edwards după retrogradarea clubului din Premier League.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-06-11T11:23:40.862827+00:00",
-      "data_afisaj": "11 iunie 2026, 14:23"
-    },
-    {
-      "id": "352d6bdfac8b",
-      "titlu": "Ghidul echipei Panama pentru Cupa Mondială 2026",
-      "rezumat": "După prestații impresionante în turneele majore recente, jucătorii lui Thomas Christiansen își propun să demonstreze ceva pe scena globală. Acest articol face parte din Rețeaua de Experți a Cupei Mondiale 2026 a Guardian, o cooperare între unele dintre cele mai bune organizații media din cele 48 de țări calificate. theguardian.com publică previzualizări din trei țări în fiecare zi în perioada premergătoare începerii turneului pe 11 iunie. Continuă lectura...",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-11T11:23:40.864089+00:00",
-      "data_afisaj": "11 iunie 2026, 14:23"
     }
   ]
 }
