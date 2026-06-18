@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-18T11:50:46.980166+00:00",
-  "updated_at_afisaj": "18 iunie 2026, 14:50",
+  "updated_at": "2026-06-18T18:28:20.836133+00:00",
+  "updated_at_afisaj": "18 iunie 2026, 21:28",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,67 @@
   },
   "numar_stiri": 133,
   "stiri": [
+    {
+      "id": "474bc49c360a",
+      "titlu": "Elveția și Bosnia și Herțegovina se întâlnesc la Cupa Mondială 2026",
+      "rezumat": "Meciul dintre Elveția și Bosnia și Herțegovina este în desfășurare, făcând parte din programul Cupei Mondiale 2026. Partida a început la ora locală 12:00 (15:00 EDT/20:00 BST). Fanii și analiștii urmăresc cu interes evoluția celor două echipe, în contextul în care primele meciuri ale turneului au oferit deja surprize și prestații variate. Se anticipează o confruntare echilibrată, cu ambele formații luptând pentru puncte esențiale în faza grupelor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "The Guardian Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-18T18:28:20.828934+00:00",
+      "data_afisaj": "18 iunie 2026, 21:28"
+    },
+    {
+      "id": "3fc371e04c64",
+      "titlu": "Analiza statistică a Cupei Mondiale 2026 după prima rundă de meciuri",
+      "rezumat": "După ce toate echipele participante la Cupa Mondială 2026 au disputat cel puțin un meci, BBC Sport și World Soccer au publicat o analiză detaliată a performanțelor individuale și colective. Studiul evidențiază jucătorii cu cele mai multe șuturi la poartă, cei mai buni dribleri și alte statistici cheie care definesc startul turneului. Această privire de ansamblu oferă o perspectivă numerică asupra echipelor și fotbaliștilor care s-au remarcat, sau dimpotrivă, au dezamăgit în primele etape ale competiției.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-18T18:28:20.830706+00:00",
+      "data_afisaj": "18 iunie 2026, 21:28"
+    },
+    {
+      "id": "fd8d971a31fe",
+      "titlu": "Cehia și Africa de Sud încheie la egalitate, scor 1-1, la Cupa Mondială 2026",
+      "rezumat": "Reprezentativele Cehiei și Africii de Sud au remizat, scor 1-1, în cadrul Cupei Mondiale 2026. Meciul a fost marcat de un penalti acordat târziu, care a permis Africii de Sud să obțină primul punct în competiție. Naționala europeană a avut ocazii de a-și asigura victoria, însă nu a reușit să le concretizeze, permițând adversarilor să egaleze. Acest rezultat influențează clasamentul în Grupa A, menținând suspansul pentru calificarea în fazele superioare ale turneului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro",
+        "FourFourTwo",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-18T18:28:20.832621+00:00",
+      "data_afisaj": "18 iunie 2026, 21:28"
+    },
+    {
+      "id": "eb799e2c3276",
+      "titlu": "Lionel Messi egalează recordul de goluri marcate la Cupa Mondială",
+      "rezumat": "Lionel Messi a egalat recordul de goluri marcate în istoria Cupei Mondiale, ajungând la un total de 16 reușite. Performanța a fost atinsă după ce starul argentinian a înscris un hat-trick în victoria cu 3-0 împotriva Algeriei, în debutul campaniei sale la Cupa Mondială 2026. Messi se alătură astfel lui Miroslav Klose în fruntea clasamentului all-time al marcatorilor la turneul final, o realizare notabilă care subliniază impactul său continuu în fotbalul mondial.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-18T18:28:20.834284+00:00",
+      "data_afisaj": "18 iunie 2026, 21:28"
+    },
+    {
+      "id": "d93f47cc5087",
+      "titlu": "Activitate intensă la FCSB: un jucător semnează, altul este în discuții de plecare",
+      "rezumat": "FCSB, echipa patronată de Gigi Becali, traversează o perioadă agitată pe piața transferurilor. Clubul a anunțat o achiziție surpriză, semnând cu un fotbalist din Martinica, despre care nu se știau detalii anterior. În același timp, Gigi Becali a declarat că intenționează să renunțe la un alt jucător, însă impresarul acestuia contrazice informația, afirmând că fotbalistul mai are contract până în 2027. Situația subliniază dinamica deciziilor la clubul bucureștean și incertitudinea privind lotul pentru sezonul viitor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-06-18T18:28:20.836113+00:00",
+      "data_afisaj": "18 iunie 2026, 21:28"
+    },
     {
       "id": "a1fdb0a19d31",
       "titlu": "Anglia și Scoția își cunosc adversarele din play-off-ul Cupei Mondiale Feminine 2027",
@@ -1515,61 +1576,6 @@
       ],
       "data_publicare": "2026-06-11T18:49:08.116901+00:00",
       "data_afisaj": "11 iunie 2026, 21:49"
-    },
-    {
-      "id": "deaba55814c3",
-      "titlu": "Bellingham la numărul 10? Va începe Saka? E timpul deciziei pentru Tuchel",
-      "rezumat": "Pregătirile Angliei pentru Cupa Mondială sunt finalizate, așa că cine va intra acum în echipa lui Thomas Tuchel pentru a înfrunta Croația?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-11T12:11:13.186395+00:00",
-      "data_afisaj": "11 iunie 2026, 15:11"
-    },
-    {
-      "id": "7c043389983e",
-      "titlu": "O'Neill, cel mai sigur dintre pariuri sigure, deoarece Celtic optează împotriva unui alt pariu",
-      "rezumat": "Celtic poate fi acuzat de pe termen scurt, dar a ales calea celei mai puține rezistențe, păstrând în calitate de antrenor câștigătorul dovedit Martin O'Neill, scrie Tom English.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-11T12:11:13.187897+00:00",
-      "data_afisaj": "11 iunie 2026, 15:11"
-    },
-    {
-      "id": "0aa311ae8707",
-      "titlu": "Jucătorii din Germania vor plăti pentru 600 de fani pentru a călători la meci",
-      "rezumat": "Jucătorii Germaniei vor plăti pentru ca 600 de fani ai țării să călătorească cu autobuzul la ultimul lor meci din grupa Cupei Mondiale din New Jersey, pe fondul criticilor privind creșterea costurilor de transport la turneu.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-11T12:11:13.189303+00:00",
-      "data_afisaj": "11 iunie 2026, 15:11"
-    },
-    {
-      "id": "e2f530457ae5",
-      "titlu": "Cupa Mondială este mai mare ca niciodată - iar BBC Sport are o aplicație pe măsură",
-      "rezumat": "BBC Sport lansează o nouă experiență de aplicație îmbunătățită pentru Cupa Mondială Fifa 2026",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-11T12:11:13.190828+00:00",
-      "data_afisaj": "11 iunie 2026, 15:11"
-    },
-    {
-      "id": "74d1ec1bc109",
-      "titlu": "Messi, Maradona sau Pele? Clasamentul primelor 10 legende ale Cupei Mondiale",
-      "rezumat": "Care sunt cele mai mari legende ale Cupei Mondiale din toate timpurile? De la Pele la Lionel Messi, încercăm să numim primii 10.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-11T12:11:13.192305+00:00",
-      "data_afisaj": "11 iunie 2026, 15:11"
     }
   ]
 }
