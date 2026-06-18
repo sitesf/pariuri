@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-18T18:28:20.836133+00:00",
-  "updated_at_afisaj": "18 iunie 2026, 21:28",
+  "updated_at": "2026-06-18T19:23:01.806060+00:00",
+  "updated_at_afisaj": "18 iunie 2026, 22:23",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,51 @@
   },
   "numar_stiri": 133,
   "stiri": [
+    {
+      "id": "18234be7a57c",
+      "titlu": "Rafael van der Vaart își cere scuze pentru remarca rasistă la adresa jucătorilor japonezi",
+      "rezumat": "Fostul mijlocaș al lui Tottenham, Rafael van der Vaart, a emis scuze publice după ce a făcut o remarcă controversată, afirmând că jucătorii Japoniei \"toți arată la fel\" în timpul meciului lor de Cupă Mondială împotriva Olandei, încheiat la egalitate 2-2. Declarația sa a stârnit un val de critici și a fost considerată rasistă. Van der Vaart a recunoscut greșeala și a subliniat că regretă profund comentariul său, care nu reflectă valorile sale personale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-18T19:23:01.800998+00:00",
+      "data_afisaj": "18 iunie 2026, 22:23"
+    },
+    {
+      "id": "9fa6082aca0b",
+      "titlu": "Thierry Henry își numește favoritele pentru Cupa Mondială 2026, excluzând Anglia",
+      "rezumat": "Legendarul atacant francez Thierry Henry a dezvăluit echipele pe care le consideră favorite la câștigarea Cupei Mondiale 2026, care se desfășoară în America de Nord. Surprinzător pentru mulți, Henry a omis Anglia din lista sa de pretendente la trofeu, stârnind discuții în rândul fanilor și analiștilor. Declarațiile sale oferă o perspectivă interesantă asupra forțelor din fotbalul mondial, venind din partea unei figuri respectate cu o vastă experiență la cel mai înalt nivel.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-18T19:23:01.802876+00:00",
+      "data_afisaj": "18 iunie 2026, 22:23"
+    },
+    {
+      "id": "ffd267a65628",
+      "titlu": "Cristi Chivu a semnat un nou contract cu Inter Milano",
+      "rezumat": "Fostul internațional român Cristi Chivu a semnat un nou contract cu clubul italian Inter Milano, unde activează în prezent ca antrenor la nivel de juniori. Anunțul oficial subliniază \"mândria și loialitatea\" asociate cu prelungirea înțelegerii. Detaliile financiare sugerează un salariu considerabil, reflectând aprecierea clubului pentru contribuția sa. Această prelungire confirmă angajamentul lui Chivu față de Inter și continuarea parcursului său în cariera de antrenor la un club de top din Europa.",
+      "categorie": "Fotbal",
+      "surse": [
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-06-18T19:23:01.804455+00:00",
+      "data_afisaj": "18 iunie 2026, 22:23"
+    },
+    {
+      "id": "7089c0156d54",
+      "titlu": "Neymar va rata meciul Braziliei împotriva statului Haiti",
+      "rezumat": "Starul brazilian Neymar nu va fi disponibil pentru meciul naționalei sale împotriva statului Haiti, conform ultimelor informații. Absența sa reprezintă o lovitură pentru echipa Braziliei, care va trebui să găsească soluții ofensive alternative în această confruntare. Detaliile exacte ale motivului absenței nu au fost specificate în rezumatul inițial, dar este o știre importantă având în vedere statutul său de jucător cheie.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-06-18T19:23:01.806043+00:00",
+      "data_afisaj": "18 iunie 2026, 22:23"
+    },
     {
       "id": "474bc49c360a",
       "titlu": "Elveția și Bosnia și Herțegovina se întâlnesc la Cupa Mondială 2026",
@@ -1530,52 +1575,6 @@
       ],
       "data_publicare": "2026-06-11T19:28:54.805654+00:00",
       "data_afisaj": "11 iunie 2026, 22:28"
-    },
-    {
-      "id": "647c14b4c94d",
-      "titlu": "Oboseala la Cupa Mondială? Jucătorii cu cele mai solicitante sezoane",
-      "rezumat": "BBC Sport a analizat care echipe și jucători de la Cupa Mondială au acumulat cele mai multe minute de joc de la începutul verii trecute, când a debutat Cupa Mondială a Cluburilor în Statele Unite. Studiul evidențiază potențialul impact al oboselii asupra performanțelor jucătorilor cheie în timpul turneului final. Această analiză detaliază volumul de joc al fotbaliștilor, oferind o perspectivă asupra provocărilor fizice cu care se confruntă aceștia după un sezon lung și intens.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-11T18:49:08.112753+00:00",
-      "data_afisaj": "11 iunie 2026, 21:49"
-    },
-    {
-      "id": "6965e5537cae",
-      "titlu": "Harry Kane, un \"fals nouă\" prolific pentru Anglia la Cupa Mondială",
-      "rezumat": "Articolul explorează modul în care Harry Kane a reușit să aibă cel mai bun sezon din cariera sa la Bayern München, chiar și atunci când a jucat adesea într-o poziție mai retrasă. Antrenorul Thomas Tuchel cunoaște secretele acestei performanțe, iar echipa Angliei ar putea beneficia acum de această abordare tactică la Cupa Mondială. Analiza detaliază cum abilitatea lui Kane de a se retrage în teren poate crea spații și oportunități de gol, transformându-l într-un atacant central atipic, dar extrem de eficient.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-11T18:49:08.114490+00:00",
-      "data_afisaj": "11 iunie 2026, 21:49"
-    },
-    {
-      "id": "b65f248459fe",
-      "titlu": "Ascensiunea lui John McGinn: De la jocurile interzise la Cupa Mondială",
-      "rezumat": "John McGinn, un băiat din Clydebank cu \"un cap mare și rotund\" și visuri și mai mari, a parcurs un drum remarcabil până la Cupa Mondială. Meciul de deschidere al Scoției la turneul final marchează un nou apogeu într-o carieră de poveste. Articolul detaliază parcursul său, de la începuturile modeste, unde jocurile cu mingea erau adesea interzise, până la statutul de jucător cheie pentru echipa națională, ilustrând perseverența și talentul care l-au adus pe cea mai mare scenă a fotbalului mondial.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-11T18:49:08.115721+00:00",
-      "data_afisaj": "11 iunie 2026, 21:49"
-    },
-    {
-      "id": "3e1008cf5fa3",
-      "titlu": "Newcastle United negociază transferul mijlocașului spaniol Victor Munoz",
-      "rezumat": "Clubul Newcastle United se află în discuții avansate cu Osasuna pentru a-l transfera pe mijlocașul spaniol Victor Munoz. Această potențială mutare ar consolida lotul echipei din Premier League, aducând un jucător cu experiență și calități tehnice din La Liga. Negocierile sunt în desfășurare, iar oficialii clubului speră să ajungă la un acord pentru a-l aduce pe Munoz pe St James' Park în această perioadă de transferuri.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-11T18:49:08.116901+00:00",
-      "data_afisaj": "11 iunie 2026, 21:49"
     }
   ]
 }
