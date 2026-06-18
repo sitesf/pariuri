@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-17T19:20:09.690250+00:00",
-  "updated_at_afisaj": "17 iunie 2026, 22:20",
+  "updated_at": "2026-06-18T11:10:39.075066+00:00",
+  "updated_at_afisaj": "18 iunie 2026, 14:10",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,67 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 133,
+  "numar_stiri": 134,
   "stiri": [
+    {
+      "id": "b24299c39af8",
+      "titlu": "Traseul Angliei către finala Cupei Mondiale 2026",
+      "rezumat": "După debutul la Cupa Mondială, naționala Angliei își analizează parcursul potențial către finala competiției din 2026. Articolul explorează posibilele adversare și scenarii pe care echipa lui Gareth Southgate le-ar putea întâlni în fazele eliminatorii, detaliind drumul spre o eventuală victorie. Se discută despre provocările tactice și strategice necesare pentru a ajunge în ultimul act al turneului, oferind o perspectivă asupra șanselor Angliei de a ridica trofeul.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-18T11:10:39.067619+00:00",
+      "data_afisaj": "18 iunie 2026, 14:10"
+    },
+    {
+      "id": "41a6e3952092",
+      "titlu": "Pauzele de hidratare la Cupa Mondială: reacții diverse din partea fanilor și jucătorilor",
+      "rezumat": "Pauzele de hidratare introduse la Cupa Mondială au generat reacții mixte. Fanii își exprimă nemulțumirea prin huiduieli, în timp ce antrenorii le utilizează strategic, iar jucătorii se adaptează noilor condiții. Aceste întreruperi în mijlocul reprizelor influențează dinamica meciurilor și performanța echipelor, având un impact diferit asupra tuturor participanților la turneu, de la staff-uri tehnice la suporteri.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-18T11:10:39.069556+00:00",
+      "data_afisaj": "18 iunie 2026, 14:10"
+    },
+    {
+      "id": "4e75a58a5b7b",
+      "titlu": "Liverpool îl transferă pe Víctor Muñoz de la Osasuna pentru 34,5 milioane de lire sterline",
+      "rezumat": "Liverpool a finalizat transferul atacantului Víctor Muñoz de la Osasuna, activând clauza de reziliere în valoare de 34,5 milioane de lire sterline. Jucătorul spaniol, dorit și de Newcastle, devine prima achiziție a erei antrenorului Andoni Iraola la clubul de pe Anfield. Muñoz va semna un contract pe șase ani, după ce a efectuat vizita medicală în Atlanta, unde se află alături de naționala Spaniei la Cupa Mondială, aducând versatilitate și viteză echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-18T11:10:39.071427+00:00",
+      "data_afisaj": "18 iunie 2026, 14:10"
+    },
+    {
+      "id": "6112f84c7e13",
+      "titlu": "Ibrahima Konate se alătură echipei Real Madrid cu un contract pe patru ani",
+      "rezumat": "Real Madrid a ajuns la un acord pentru transferul fundașului central francez Ibrahima Konate. Jucătorul va părăsi Liverpool la sfârșitul lunie iunie și va semna un contract pe patru ani cu gigantul spaniol. Această mutare reprezintă o întărire semnificativă pentru defensiva Realului, aducând un jucător cu experiență la nivel înalt în La Liga și Liga Campionilor, consolidând lotul pentru viitoarele sezoane.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-18T11:10:39.073173+00:00",
+      "data_afisaj": "18 iunie 2026, 14:10"
+    },
+    {
+      "id": "e59c52c8cd85",
+      "titlu": "Armata mexicană a doborât o dronă în apropierea cantonamentului Coreei de Sud la Cupa Mondială",
+      "rezumat": "Forțele militare mexicane au interceptat și doborât o dronă care a zburat în apropierea cantonamentului echipei naționale a Coreei de Sud, în timp ce aceasta se pregătea pentru meciul de la Cupa Mondială împotriva co-gazdelor. Oficialii sud-coreeni au declarat că tacticile lor nu ar fi putut fi observate. Incidentul a avut loc în contextul în care drone au fost detectate și în apropierea zonelor de securitate ale stadioanelor, ridicând semne de întrebare privind securitatea.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-18T11:10:39.075041+00:00",
+      "data_afisaj": "18 iunie 2026, 14:10"
+    },
     {
       "id": "0e8c569ba429",
       "titlu": "Rangers îl numește pe Derek McInnes în funcția de antrenor principal",
@@ -1524,50 +1583,6 @@
       ],
       "data_publicare": "2026-06-11T11:23:40.864089+00:00",
       "data_afisaj": "11 iunie 2026, 14:23"
-    },
-    {
-      "id": "f7e88a8c95df",
-      "titlu": "Oficial american susține că arbitrul somalez interzis avea legături cu „organizații teroriste”",
-      "rezumat": "Un oficial american a declarat că arbitrul somalez Omar Artan, căruia i-a fost refuzată intrarea în Statele Unite, ar fi avut legături cu „membri suspectați ai unor organizații teroriste”. Artan fusese inclus pe lista finală a FIFA pentru a arbitra la Cupa Mondială 2026, devenind primul arbitru somalez cu această onoare. Această acuzație vine după ce i-a fost interzisă intrarea în SUA, împiedicându-l să participe la turneu.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-10T19:30:05.325249+00:00",
-      "data_afisaj": "10 iunie 2026, 22:30"
-    },
-    {
-      "id": "593d9859890d",
-      "titlu": "Deținătorii drepturilor TV, frustrați de întârzierea confirmării spectacolului de la pauza finalei Cupei Mondiale",
-      "rezumat": "Deținătorii drepturilor de televiziune pentru Cupa Mondială 2026 își exprimă frustrarea crescândă față de FIFA, care nu a confirmat încă durata spectacolului de la pauza finalei. Această întârziere creează probleme echipelor de publicitate și planificării transmisiunilor. Madonna, Shakira și trupa K-pop BTS sunt printre artiștii programați să performeze pe stadionul MetLife, iar incertitudinea legată de program afectează pregătirile logistice și comerciale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-10T19:30:05.327383+00:00",
-      "data_afisaj": "10 iunie 2026, 22:30"
-    },
-    {
-      "id": "e36cbbeac623",
-      "titlu": "Poliția din Essex a primit noi informații în cazul copreședintelui West Ham, David Sullivan",
-      "rezumat": "Poliția din Essex a fost contactată și a primit noi informații referitoare la David Sullivan, copreședintele clubului West Ham. Această dezvoltare vine în urma unei investigații realizate de BBC Panorama și The Times. Detaliile exacte ale noilor informații nu au fost făcute publice, dar acestea se adaugă contextului investigației anterioare care a vizat activitățile oficialului clubului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-10T19:30:05.329212+00:00",
-      "data_afisaj": "10 iunie 2026, 22:30"
-    },
-    {
-      "id": "b812fbef421c",
-      "titlu": "Haiti va juca la Cupa Mondială 2026 cu un steag inspirat de Polonia, în semn de omagiu istoric",
-      "rezumat": "Naționala de fotbal a Haitiului va participa la Cupa Mondială 2026 purtând un steag cu o simbolistică specială, inspirată de Polonia. Această decizie inedită marchează un omagiu adus unor evenimente istorice petrecute în urmă cu peste 200 de ani. Gestul subliniază legăturile culturale și istorice dintre cele două națiuni, oferind o poveste unică în contextul celui mai mare turneu de fotbal din lume.",
-      "categorie": "Fotbal",
-      "surse": [
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-06-10T19:30:05.331106+00:00",
-      "data_afisaj": "10 iunie 2026, 22:30"
     }
   ]
 }
