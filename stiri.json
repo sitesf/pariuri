@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-19T18:01:49.318359+00:00",
-  "updated_at_afisaj": "19 iunie 2026, 21:01",
+  "updated_at": "2026-06-19T18:29:09.564608+00:00",
+  "updated_at_afisaj": "19 iunie 2026, 21:29",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,62 @@
   },
   "numar_stiri": 133,
   "stiri": [
+    {
+      "id": "a454d8385c92",
+      "titlu": "EXCLUSIV Jucătorul adus de Mirel Rădoi a luat titlul, iar acum se desparte de Universitatea Craiova!",
+      "rezumat": "(rezumat indisponibil)",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-06-19T18:29:04.110510+00:00",
+      "data_afisaj": "19 iunie 2026, 21:29"
+    },
+    {
+      "id": "0faf927dea0b",
+      "titlu": "După cel mare vine unul și mai mare pentru Scoția",
+      "rezumat": "Scoția va avea nevoie de cea mai bună prestație a sa de când Steve Clarke a preluat conducerea pentru a obține rezultatul împotriva Marocului care le va asigura, pentru prima dată, calificarea în fazele eliminatorii ale turneului, scrie Tom English.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-19T18:29:04.112168+00:00",
+      "data_afisaj": "19 iunie 2026, 21:29"
+    },
+    {
+      "id": "35cc181160b3",
+      "titlu": "Barry de la Anglia va continua cu interviurile de la pauză",
+      "rezumat": "Antrenorul secund al Angliei, Anthony Barry, are permisiunea de a continua să acorde interviuri televizate la pauză în timpul Cupei Mondiale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-19T18:29:04.113673+00:00",
+      "data_afisaj": "19 iunie 2026, 21:29"
+    },
+    {
+      "id": "f65cf7c6f6e2",
+      "titlu": "Geniul matematicii devenit star adolescent care a ales Marocul în detrimentul Franței",
+      "rezumat": "Fă cunoștință cu Ayyoub Bouaddi - noua stea a Marocului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-19T18:29:04.115253+00:00",
+      "data_afisaj": "19 iunie 2026, 21:29"
+    },
+    {
+      "id": "339601bc63e7",
+      "titlu": "Rămâi sau riști? Rashford și Guehi sunt marile dileme ale lui Tuchel",
+      "rezumat": "Înainte de meciul Angliei de la Cupa Mondială împotriva Ghanei de marți, Phil McNulty de la BBC Sport analizează marile dileme de selecție ale lui Thomas Tuchel.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-19T18:29:04.116825+00:00",
+      "data_afisaj": "19 iunie 2026, 21:29"
+    },
     {
       "id": "84327a6bb619",
       "titlu": "Kone din Canada este recunoscător pentru sprijinul după operație",
@@ -1513,66 +1569,6 @@
       ],
       "data_publicare": "2026-06-12T19:00:31.081740+00:00",
       "data_afisaj": "12 iunie 2026, 22:00"
-    },
-    {
-      "id": "aa883c43efb3",
-      "titlu": "Thomas Partey, refuzat la intrarea în Canada, ratează meciul de deschidere al Ghanei la Cupa Mondială",
-      "rezumat": "Mijlocașul ghanez Thomas Partey nu va putea participa la primul meci al naționalei sale la Cupa Mondială, programat la Toronto împotriva echipei Panama. Jucătorului i-a fost refuzată intrarea în Canada, ceea ce îl va împiedica să se alăture coechipierilor săi pentru debutul competiției. Această situație reprezintă o lovitură semnificativă pentru Ghana, care se baza pe experiența și calitățile lui Partey în linia mediană. Absența sa va forța staff-ul tehnic să regândească strategia pentru confruntarea inaugurală.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-12T18:10:33.301364+00:00",
-      "data_afisaj": "12 iunie 2026, 21:10"
-    },
-    {
-      "id": "9ffa2872d1d0",
-      "titlu": "Ancelotti își propune să pună capăt secetei Braziliei la Cupa Mondială, sub o presiune imensă",
-      "rezumat": "Antrenorul italian Carlo Ancelotti se confruntă cu o presiune considerabilă în încercarea de a aduce Braziliei un nou titlu mondial, primul după triumful din 2002. Fără Neymar în meciul împotriva Marocului, Ancelotti aduce \"bucurie și entuziasm\" echipei, conform relatărilor. Această provocare este una majoră pentru selecționer, având în vedere așteptările uriașe ale fanilor brazilieni, care consideră că 24 de ani fără un trofeu mondial este o perioadă mult prea lungă. Misiunea sa este de a revitaliza echipa și de a o conduce spre glorie.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-12T18:10:33.303316+00:00",
-      "data_afisaj": "12 iunie 2026, 21:10"
-    },
-    {
-      "id": "72f457ad7740",
-      "titlu": "Arbitrii din Premier League vor acorda cartonaș galben pentru trasul de păr începând cu sezonul 2026/27",
-      "rezumat": "Premier League a anunțat o modificare importantă a regulamentului pentru sezonul 2026/27, prin care arbitrii vor fi instruiți să sancționeze cu cartonaș galben acțiunile de tras de păr. Decizia vine în urma incidentelor din sezonul precedent, când trei jucători au fost eliminați pentru astfel de gesturi. Această nouă directivă face parte dintr-un set de principii și puncte de accentuare pentru arbitraj, menite să îmbunătățească disciplina și fair-play-ul pe teren. Măsura subliniază angajamentul ligii de a proteja integritatea fizică a jucătorilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-06-12T18:10:33.305278+00:00",
-      "data_afisaj": "12 iunie 2026, 21:10"
-    },
-    {
-      "id": "ae7699ddbbe2",
-      "titlu": "Ousmane Dembélé consideră că criticile la adresa lui Kylian Mbappé au depășit limita",
-      "rezumat": "Atacantul francez Ousmane Dembélé a sărit în apărarea căpitanului echipei naționale, Kylian Mbappé, declarând că valul de critici îndreptate către starul lui Real Madrid a mers \"prea departe\". Dembélé a subliniat importanța de a susține jucătorii, mai ales în perioadele dificile, și a cerut o abordare mai echilibrată din partea presei și a fanilor. Această declarație vine în contextul unei presiuni intense asupra lui Mbappé, atât pe teren, cât și în afara acestuia, înaintea și în timpul Cupei Mondiale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-12T18:10:33.307012+00:00",
-      "data_afisaj": "12 iunie 2026, 21:10"
-    },
-    {
-      "id": "2c437aa4f09a",
-      "titlu": "Tehnologia „Refcam” la Cupa Mondială oferă o nouă perspectivă și sugerează viitorul transmisiunilor de fotbal",
-      "rezumat": "O inovație tehnologică la Cupa Mondială 2026, denumită „Refcam”, a oferit o nouă perspectivă asupra meciurilor, sugerând direcția viitoare a transmisiunilor sportive. Această cameră mică, de înaltă definiție și stabilizată, este atașată la casca arbitrului, permițând vizualizarea acțiunilor de pe teren dintr-un unghi unic. Utilizarea sa în meciurile de deschidere s-a concentrat pe reluări ale golurilor, oferind telespectatorilor o imersiune mai profundă în joc. Deși nu toate inovațiile FIFA au fost primite cu entuziasm, „Refcam” pare să fie un succes.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-12T18:10:33.308876+00:00",
-      "data_afisaj": "12 iunie 2026, 21:10"
     }
   ]
 }
