@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-19T12:06:30.584105+00:00",
-  "updated_at_afisaj": "19 iunie 2026, 15:06",
+  "updated_at": "2026-06-19T18:01:49.318359+00:00",
+  "updated_at_afisaj": "19 iunie 2026, 21:01",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,68 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 128,
+  "numar_stiri": 133,
   "stiri": [
+    {
+      "id": "84327a6bb619",
+      "titlu": "Kone din Canada este recunoscător pentru sprijinul după operație",
+      "rezumat": "Mijlocașul canadian Ismael Kone le mulțumește coechipierilor și fanilor pentru sprijinul acordat după o intervenție chirurgicală la un picior rupt.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-19T18:01:24.647863+00:00",
+      "data_afisaj": "19 iunie 2026, 21:01"
+    },
+    {
+      "id": "38ccb9c983af",
+      "titlu": "Nike v Adidas - bătălia de brand pentru Cupa Mondială",
+      "rezumat": "Bugetele atrăgătoare nu sunt nimic nou, dar în acest an atât Nike, cât și Adidas au devenit mai mari și mai îndrăznețe decât oricând în lupta pentru atenția Cupei Mondiale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-19T18:01:24.649429+00:00",
+      "data_afisaj": "19 iunie 2026, 21:01"
+    },
+    {
+      "id": "1037520e1083",
+      "titlu": "Căpitanul Marocului Hakimi va fi judecat pentru viol",
+      "rezumat": "Procurorii francezi confirmă că căpitanul Marocului Achraf Hakimi va fi judecat pentru viol, în acuzații care datează din 2023.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-06-19T18:01:24.650918+00:00",
+      "data_afisaj": "19 iunie 2026, 21:01"
+    },
+    {
+      "id": "1e8aef4fbecb",
+      "titlu": "Cine este Bos-ul? - faceți cunoștință cu cel mai rapid jucător al Cupei Mondiale 2026",
+      "rezumat": "Datele de sprint ale FIFA l-au dezvăluit pe Jordan Bos din Australia ca fiind cel mai rapid jucător la Cupa Mondială 2026, limitând o ascensiune remarcabilă pentru fundașul Feyenoord.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-19T18:01:24.652540+00:00",
+      "data_afisaj": "19 iunie 2026, 21:01"
+    },
+    {
+      "id": "96eb02673eff",
+      "titlu": "SUA v Australia: Cupa Mondială 2026 – în direct",
+      "rezumat": "⚽️ Ora începerii: la prânz local/15:00 ET/20:00 BST/5:00 AEST ⚽️ Ghidul jucătorului | Bracketologie | Cizma de Aur | Mail Beau Cu Christian Pulisic eliberat, Mauricio Pochettino optează pentru un parteneriat de lovitură de om mare/omul mic cu Ricardo Pepi alături de Folarin Balogun. Pepi este cel mai bun atacant al grupului, dornic să coboare la mijlocul terenului pentru a ajuta la secvențele de posesie și o contribuție constantă la o presă din prima linie. Acum poate face tot felul de lucrări în afara mingii cu Balogun capabil să întindă linia din spate",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-19T18:01:24.654073+00:00",
+      "data_afisaj": "19 iunie 2026, 21:01"
+    },
     {
       "id": "d28043bf8773",
       "titlu": "Partide în Premier League - află programul clubului tău",
