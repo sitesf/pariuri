@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-18T19:23:01.806060+00:00",
-  "updated_at_afisaj": "18 iunie 2026, 22:23",
+  "updated_at": "2026-06-19T11:26:17.723951+00:00",
+  "updated_at_afisaj": "19 iunie 2026, 14:26",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,67 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 133,
+  "numar_stiri": 128,
   "stiri": [
+    {
+      "id": "cdf052750967",
+      "titlu": "Coventry City va înfrunta campioana Arsenal în deschiderea Premier League",
+      "rezumat": "Echipa nou-promovată Coventry City va juca în deplasare împotriva campioanei en-titre Arsenal în primul meci al sezonului 2026-27 din Premier League. Această confruntare marchează debutul stagiunii pentru ambele formații, cu Arsenal începând apărarea titlului și Coventry revenind în elita fotbalului englez. Meciul este programat să aibă loc pe terenul lui Arsenal, oferind un start spectaculos noului sezon.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-19T11:26:17.717488+00:00",
+      "data_afisaj": "19 iunie 2026, 14:26"
+    },
+    {
+      "id": "ce5ec3adb9dd",
+      "titlu": "Fosta portăriță a Angliei, Mary Earps, semnează cu London City Lionesses",
+      "rezumat": "Mary Earps, fosta portăriță a naționalei Angliei, s-a alăturat echipei London City Lionesses, semnând un contract pe doi ani. Transferul vine după ce Earps a părăsit clubul francez Paris Saint-Germain. Această mutare reprezintă o achiziție importantă pentru London City Lionesses, aducând experiență și calitate la nivel înalt în poarta echipei, consolidând lotul pentru viitoarele competiții.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-06-19T11:26:17.719114+00:00",
+      "data_afisaj": "19 iunie 2026, 14:26"
+    },
+    {
+      "id": "56d803d7ca6c",
+      "titlu": "Mexic se califică în optimile Cupei Mondiale după victoria împotriva Coreei de Sud",
+      "rezumat": "Naționala Mexicului a devenit prima echipă care și-a asigurat un loc în optimile de finală ale Cupei Mondiale, învingând Coreea de Sud cu scorul de 1-0 la Guadalajara. Victoria a fost facilitată de o eroare a portarului sud-coreean Seung-Gyu Kim. Acest rezultat confirmă parcursul solid al Mexicului în faza grupelor și îi propulsează în etapele eliminatorii ale competiției, consolidându-și poziția de lider în grupă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-19T11:26:17.720682+00:00",
+      "data_afisaj": "19 iunie 2026, 14:26"
+    },
+    {
+      "id": "021b60a9c201",
+      "titlu": "Căpitanul Marocului, Achraf Hakimi, va fi judecat pentru acuzații de viol",
+      "rezumat": "Procurorii francezi au confirmat că Achraf Hakimi, căpitanul naționalei Marocului, va fi judecat sub acuzația de viol. Acuzațiile datează din anul 2023 și au fost investigate de autoritățile franceze. Această veste aduce o umbră asupra carierei fotbalistului și a participării sale la competițiile internaționale, având un impact semnificativ asupra imaginii sale publice și a echipei naționale, în așteptarea verdictului instanței.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-19T11:26:17.722228+00:00",
+      "data_afisaj": "19 iunie 2026, 14:26"
+    },
+    {
+      "id": "df174f6b7bf3",
+      "titlu": "Canada înregistrează o victorie istorică la Cupa Mondială, umbrită de accidentarea lui Ismael Kone",
+      "rezumat": "Canada a obținut prima sa victorie la Cupa Mondială, învingând Qatarul cu un scor categoric de 6-0, în fața unei echipe reduse la nouă jucători. Totuși, bucuria succesului a fost umbrită de o accidentare gravă suferită de mijlocașul Ismael Kone, care l-a lăsat pe antrenorul Canadei, Jesse Marsch, în lacrimi. Incidentul a marcat un moment emoționant într-o partidă altfel memorabilă pentru naționala canadiană, ridicând semne de întrebare privind starea de sănătate a jucătorului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-19T11:26:17.723918+00:00",
+      "data_afisaj": "19 iunie 2026, 14:26"
+    },
     {
       "id": "18234be7a57c",
       "titlu": "Rafael van der Vaart își cere scuze pentru remarca rasistă la adresa jucătorilor japonezi",
@@ -1451,130 +1510,6 @@
       ],
       "data_publicare": "2026-06-12T11:43:23.656043+00:00",
       "data_afisaj": "12 iunie 2026, 14:43"
-    },
-    {
-      "id": "74b37e594ec7",
-      "titlu": "Marele jucător al Watford, Jackett, moare la 64 de ani",
-      "rezumat": "Fostul antrenor al Watford și Swansea City și internaționalul galez Kenny Jackett a murit la vârsta de 64 de ani.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-12T11:03:36.329871+00:00",
-      "data_afisaj": "12 iunie 2026, 14:03"
-    },
-    {
-      "id": "1748eb6822c2",
-      "titlu": "Un nou mod de a experimenta Cupa Mondială - doar pe BBC Sport",
-      "rezumat": "Ai vrut vreodată să vezi un meci de la Cupa Mondială din fiecare unghi? Ce zici de o vedere tactică a întregului teren? Acum poți pe BBC.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-12T11:03:36.331420+00:00",
-      "data_afisaj": "12 iunie 2026, 14:03"
-    },
-    {
-      "id": "88a2fae7b7a9",
-      "titlu": "Cupa Mondială 2026: Startul victorios al Mexicului; locuri goale; SUA și Canada intră în joc; Retragerea lui Endo din naționala Japoniei – live",
-      "rezumat": "⚽️ Canada se pregătește cu anticipare | Ce este suficient pentru SUA? ⚽️ Ghidul jucătorilor | Bracketology | Gheata de Aur | Mail Cinci concluzii de la deschiderea Cupei Mondiale. Acestea vin prin amabilitatea lui Matt Hughes, care a fost în Azteca (nu mă pot hotărî să spun Stadionul Mexico City). Ce zici de asta: încă îți savurezi cerealele de dimineață și există deja un podcast zilnic despre Cupa Mondială de ascultat. Jet-lag-ul nu este prietenul lui Jonathan Wilson, dar o seară în Azteca a ridicat moralul, mai ales al lui Raul Jimenez.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-12T11:03:36.333350+00:00",
-      "data_afisaj": "12 iunie 2026, 14:03"
-    },
-    {
-      "id": "aa911d99d0db",
-      "titlu": "'Nimeni nu știe că are loc' - Finalele NBA alimentează apatia SUA față de Cupa Mondială",
-      "rezumat": "Cu Cupa Mondială în desfășurare, cât de entuziasmați sunt oamenii din Statele Unite - și chiar știu că are loc?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-12T11:03:36.334874+00:00",
-      "data_afisaj": "12 iunie 2026, 14:03"
-    },
-    {
-      "id": "ed95ed760e5c",
-      "titlu": "Bellingham: Anglia a greșit în afara terenului la Euro 2024",
-      "rezumat": "Jude Bellingham a susținut că lucrurile nu au fost în regulă în afara terenului în cantonamentul Angliei la Euro 2024.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-12T11:03:36.336384+00:00",
-      "data_afisaj": "12 iunie 2026, 14:03"
-    },
-    {
-      "id": "64727d3986a7",
-      "titlu": "Oboseală? Jucătorii Cupei Mondiale care au avut cele mai grele sezoane",
-      "rezumat": "BBC Sport analizează ce echipe și jucători de la Cupa Mondială au jucat cele mai multe minute de vara trecută, când începea Cupa Mondială a Cluburilor în Statele Unite.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-11T19:28:54.799708+00:00",
-      "data_afisaj": "11 iunie 2026, 22:28"
-    },
-    {
-      "id": "ff7e998f9e8c",
-      "titlu": "Real Madrid îl numește din nou pe Jose Mourinho cu un contract de trei ani",
-      "rezumat": "Real Madrid a confirmat renumirea lui Jose Mourinho ca antrenor principal.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-06-11T19:28:54.801220+00:00",
-      "data_afisaj": "11 iunie 2026, 22:28"
-    },
-    {
-      "id": "f1d46173c5d9",
-      "titlu": "Jucători vedete și istoria Cupei Mondiale - ghidul tău pentru Mexic",
-      "rezumat": "Obțineți informații despre fiecare echipă la Cupa Mondială din 2026. Aici aruncăm o privire mai atentă asupra Mexicului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-11T19:28:54.802722+00:00",
-      "data_afisaj": "11 iunie 2026, 22:28"
-    },
-    {
-      "id": "583caecda2d7",
-      "titlu": "Mexic - Africa de Sud: meci de deschidere a Cupei Mondiale 2026 – în direct",
-      "rezumat": "⚽️ Ora începerii: 13:00 local/20:00 BST/15:00 EDT/5:00 AEST ⚽️ Ghidul jucătorului | Bracketologie | Grafică murală | Trimite un e-mail lui Daniel „Studioul acela ITV este spectaculos”, consideră Poetul Kev. \"Aproape la fel de spectaculos ca și nark-off-ul dintre Roy Keane și oricine altcineva. BBC va avea The Ghost Of Barry Davies să iasă de pe Manchester Ship Canal pentru a concura.\" Este – este în aer liber pe East River, cu o priveliște senzațională asupra Manhattanului. Dar l-aș lua pe Barry Davies venind de oriunde. Continuă să citești...",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-11T19:28:54.804286+00:00",
-      "data_afisaj": "11 iunie 2026, 22:28"
-    },
-    {
-      "id": "84e088a8adbc",
-      "titlu": "Ghidul echipei Angliei Cupa Mondială 2026",
-      "rezumat": "Thomas Tuchel vrea să „pună o a doua stea pe tricou” după ce a făcut apeluri mari de selecție, dar care va fi rolul lui Jude Bellingham? Acest articol face parte din Rețeaua de experți ai Cupei Mondiale 2026 a The Guardian, o cooperare între unele dintre cele mai bune organizații media din cele 48 de țări care s-au calificat. theguardian.com difuzează în fiecare zi previzualizări din trei țări, înaintea turneului care va începe pe 11 iunie. Continuă să citești...",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-11T19:28:54.805654+00:00",
-      "data_afisaj": "11 iunie 2026, 22:28"
     }
   ]
 }
