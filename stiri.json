@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-19T18:29:09.564608+00:00",
-  "updated_at_afisaj": "19 iunie 2026, 21:29",
+  "updated_at": "2026-06-20T10:10:25.867513+00:00",
+  "updated_at_afisaj": "20 iunie 2026, 13:10",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,68 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 133,
+  "numar_stiri": 128,
   "stiri": [
+    {
+      "id": "3c7bf05df1bd",
+      "titlu": "Miguel Almiron, primul jucător eliminat pentru că și-a acoperit gura la Cupa Mondială",
+      "rezumat": "Mijlocașul paraguayan Miguel Almiron a devenit primul fotbalist din istoria Cupei Mondiale care a primit un cartonaș roșu pentru că și-a acoperit gura în timp ce vorbea cu un adversar. Incidentul s-a petrecut în timpul meciului dintre Paraguay și Turcia. Această decizie inedită a stârnit discuții aprinse despre regulamentul fair-play-ului și interpretarea gesturilor pe teren. Eliminarea sa a influențat semnificativ dinamica partidei, contribuind la un deznodământ neașteptat pentru echipa sa.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-06-20T10:10:25.860310+00:00",
+      "data_afisaj": "20 iunie 2026, 13:10"
+    },
+    {
+      "id": "24ec05ccb93a",
+      "titlu": "Controversă majoră la Cupa Mondială: Scoția, privată de două posibile penalty-uri împotriva Marocului",
+      "rezumat": "Naționala Scoției a fost în centrul unei controverse majore la Cupa Mondială, după înfrângerea cu 1-0 în fața Marocului. Presa internațională și fanii dezbat intens dacă scoțienilor ar fi trebuit să li se acorde două lovituri de pedeapsă clare, care ar fi putut schimba soarta meciului. Deciziile arbitrului au stârnit indignare în tabăra scoțiană, care consideră că a fost dezavantajată, în timp ce Marocul a obținut o victorie importantă în grupa C.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-06-20T10:10:25.862266+00:00",
+      "data_afisaj": "20 iunie 2026, 13:10"
+    },
+    {
+      "id": "450c9c960e60",
+      "titlu": "Primele impresii de la Cupa Mondială 2026: stadioane futuriste și entuziasm global",
+      "rezumat": "După prima săptămână a Cupei Mondiale 2026, jurnaliștii de la The Guardian au împărtășit primele lor impresii despre turneu. Aceștia au remarcat contrastele puternice, de la provocările logistice la entuziasmul publicului și calitatea fotbalului. Stadioanele moderne, descrise ca fiind futuriste, și \"Ronaldo-mania\" au captivat atenția, în ciuda unor aspecte comerciale criticate, cum ar fi prețul ridicat al apei. Per ansamblu, atmosfera este una vibrantă, iar turneul promite să fie memorabil.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-20T10:10:25.863967+00:00",
+      "data_afisaj": "20 iunie 2026, 13:10"
+    },
+    {
+      "id": "8b2132a33474",
+      "titlu": "SUA se califică în optimile Cupei Mondiale, iar Zlatan Ibrahimovic le vede campioane",
+      "rezumat": "Echipa națională a Statelor Unite s-a calificat în faza eliminatorie a Cupei Mondiale 2026, după două victorii consecutive în grupă. Performanța americanilor a atras atenția, inclusiv pe cea a fostului atacant suedez Zlatan Ibrahimovic, care a declarat că SUA are potențialul de a câștiga trofeul. Jucătorii americani au confirmat că împărtășesc această mentalitate, subliniind încrederea lor în șansele de a ajunge departe în competiție, o performanță pe care nu au mai atins-o din 1930.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-20T10:10:25.865695+00:00",
+      "data_afisaj": "20 iunie 2026, 13:10"
+    },
+    {
+      "id": "c0347c8b4030",
+      "titlu": "Turcia, eliminată șocant de la Cupa Mondială de Paraguay, în ciuda superiorității numerice",
+      "rezumat": "Naționala Turciei a fost eliminată prematur de la Cupa Mondială 2026, după o înfrângere surprinzătoare cu 1-0 în fața Paraguayului, care a jucat în inferioritate numerică după eliminarea lui Miguel Almiron. Turcii, aflați la prima lor participare în 24 de ani, au părăsit competiția cu lacrimi în ochi, după ce nu au reușit să concretizeze cele 32 de ocazii de gol create. Atacantul Arda Guler și-a cerut scuze fanilor pentru performanța dezamăgitoare, care a pus capăt visului lor mondial.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-20T10:10:25.867485+00:00",
+      "data_afisaj": "20 iunie 2026, 13:10"
+    },
     {
       "id": "a454d8385c92",
       "titlu": "EXCLUSIV Jucătorul adus de Mirel Rădoi a luat titlul, iar acum se desparte de Universitatea Craiova!",
@@ -1459,116 +1519,6 @@
       ],
       "data_publicare": "2026-06-13T10:28:16.857180+00:00",
       "data_afisaj": "13 iunie 2026, 13:28"
-    },
-    {
-      "id": "d1bcfba2451e",
-      "titlu": "Ancelotti confirmă absența lui Neymar de la meciul de deschidere al Braziliei",
-      "rezumat": "Selecționerul Braziliei, Carlo Ancelotti, a confirmat că starul echipei, Neymar, va rata meciul de deschidere al Cupei Mondiale împotriva Marocului, programat sâmbătă. Absența jucătorului este o lovitură pentru ambițiile Braziliei de a începe turneul cu o victorie, având în vedere importanța sa în ofensivă. Ancelotti nu a oferit detalii suplimentare despre durata indisponibilității, dar echipa va trebui să se adapteze rapid pentru a compensa lipsa unuia dintre cei mai influenți fotbaliști ai săi în prima partidă a competiției.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-13T09:58:01.780676+00:00",
-      "data_afisaj": "13 iunie 2026, 12:58"
-    },
-    {
-      "id": "ed536c2117f2",
-      "titlu": "Echipament de antrenament al Angliei, furat înainte de meciul de la Cupa Mondială",
-      "rezumat": "Naționala Angliei a fost victima unui furt de echipament de antrenament, incident petrecut înainte de sosirea delegației în Kansas City, sâmbătă. Detaliile furtului nu au fost pe deplin clarificate, dar incidentul a generat îngrijorare în rândul staff-ului tehnic și al jucătorilor. Autoritățile locale au demarat o anchetă pentru a recupera bunurile și a identifica făptașii. Acest eveniment neplăcut vine într-un moment crucial, chiar înaintea debutului Angliei la Cupa Mondială, perturbând pregătirile finale ale echipei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-13T09:58:01.782496+00:00",
-      "data_afisaj": "13 iunie 2026, 12:58"
-    },
-    {
-      "id": "b537008a115f",
-      "titlu": "Decizie VAR controversată la Cupa Mondială: un cartonaș galben acordat greșit stârnește confuzie",
-      "rezumat": "O decizie a sistemului VAR a stârnit controverse și confuzie în timpul meciului de deschidere al Statelor Unite la Cupa Mondială, împotriva Paraguayului. Arbitrul a acordat un cartonaș galben pe baza unei \"identități greșite\", o situație rară care a lăsat fanii și comentatorii perplecși. Deși SUA a obținut o victorie convingătoare cu 4-1, incidentul a umbrit parțial performanța, generând discuții aprinse despre aplicarea regulamentului și intervenția tehnologiei în fotbal.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-13T09:58:01.784380+00:00",
-      "data_afisaj": "13 iunie 2026, 12:58"
-    },
-    {
-      "id": "c38dab004562",
-      "titlu": "Cyle Larin salvează un punct pentru Canada în meciul de deschidere al Cupei Mondiale",
-      "rezumat": "Atacantul Cyle Larin a devenit eroul Canadei, marcând golul egalizator împotriva Bosniei și Herțegovinei, într-un meci tensionat de la Cupa Mondială. Intrat pe teren ca rezervă, Larin a înscris la doar 121 de secunde după ce a fost introdus, aducând scorul la 1-1. Golul său a anulat avantajul Bosniei, care deschisese scorul prin Jovo Lukic. Această remiză este crucială pentru Canada, una dintre țările gazdă, oferindu-le un punct prețios în debutul competiției.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-13T09:58:01.786168+00:00",
-      "data_afisaj": "13 iunie 2026, 12:58"
-    },
-    {
-      "id": "d4ff4dc092d7",
-      "titlu": "David Beckham, onorat cu o stea pe Hollywood Walk of Fame",
-      "rezumat": "Legendarul fotbalist englez Sir David Beckham a fost onorat cu o stea pe faimosul Hollywood Walk of Fame, devenind astfel primul jucător de fotbal care primește o astfel de distincție. Ceremonia a avut loc în prezența familiei și a numeroaselor personalități, marcând o recunoaștere a impactului său global, atât pe terenul de fotbal, cât și în cultura populară. Această realizare subliniază statutul său iconic și contribuția sa la promovarea sportului la nivel mondial.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-06-13T09:58:01.787772+00:00",
-      "data_afisaj": "13 iunie 2026, 12:58"
-    },
-    {
-      "id": "8cc441749b8e",
-      "titlu": "Jude Bellingham, așteptat titular în primul meci al Angliei la Cupa Mondială",
-      "rezumat": "Mijlocașul Jude Bellingham este anticipat să înceapă ca titular în partida de deschidere a Angliei la Cupa Mondială 2026. Această decizie subliniază importanța sa în planurile selecționerului, având în vedere rolul său cheie în echipa națională. De asemenea, se speculează că Marc Guehi ar putea fi lăsat pe banca de rezerve, indicând posibile ajustări tactice pentru debutul Angliei în turneul mondial, unde așteptările sunt considerabile.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-12T19:00:31.074179+00:00",
-      "data_afisaj": "12 iunie 2026, 22:00"
-    },
-    {
-      "id": "4d15d12a5042",
-      "titlu": "Costurile datoriilor Manchester United cresc după un nou acord de finanțare de 550 de milioane de dolari",
-      "rezumat": "Manchester United a încheiat un nou acord de finanțare în valoare de 550 de milioane de dolari, ceea ce va duce la o creștere a costurilor de deservire a datoriilor clubului. Ratele dobânzilor vor crește de la 3,79% la 5,36%. Această mișcare financiară are implicații semnificative pentru strategia economică a clubului și pentru viitoarele investiții în echipă, reflectând presiunile financiare din fotbalul de top și necesitatea de a gestiona eficient resursele.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-12T19:00:31.076096+00:00",
-      "data_afisaj": "12 iunie 2026, 22:00"
-    },
-    {
-      "id": "c9af3dbd8e8e",
-      "titlu": "Scott McTominay, pregătit pentru debutul Scoției la Cupa Mondială după o indispoziție",
-      "rezumat": "Mijlocașul scoțian Scott McTominay a participat la antrenamente în ajunul meciului de deschidere al Cupei Mondiale împotriva Haiti, după ce a lipsit în ziua precedentă din cauza unei probleme stomacale. Prezența sa la antrenament confirmă disponibilitatea jucătorului pentru partida importantă, aducând vești bune pentru selecționerul Scoției și fanii echipei. Recuperarea sa rapidă este crucială pentru planurile tactice ale naționalei în debutul său la turneul final.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-12T19:00:31.077936+00:00",
-      "data_afisaj": "12 iunie 2026, 22:00"
-    },
-    {
-      "id": "70228d313140",
-      "titlu": "Antrenorul Scoției, Steve Clarke, își dorește o performanță specială la revenirea la Cupa Mondială",
-      "rezumat": "Steve Clarke, selecționerul Scoției, a declarat că își dorește ca echipa sa să realizeze „ceva special” la revenirea la Cupa Mondială, după o absență de 28 de ani. Declarația subliniază ambițiile Scoției de a depăși așteptările și de a lăsa o amprentă memorabilă la turneul final. Clarke își propune să inspire jucătorii pentru o performanță istorică, marcând o nouă eră pentru fotbalul scoțian pe cea mai mare scenă a lumii.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-06-12T19:00:31.079856+00:00",
-      "data_afisaj": "12 iunie 2026, 22:00"
-    },
-    {
-      "id": "a152d871991c",
-      "titlu": "Alphonso Davies, într-o cursă contra cronometru pentru a fi apt la Cupa Mondială",
-      "rezumat": "Starul de la Bayern München, Alphonso Davies, este cel mai proeminent nume din lotul Canadei pentru Cupa Mondială, însă se confruntă cu o cursă contra cronometru pentru a-și recăpăta forma fizică optimă. Jucătorul cheie al naționalei canadiene trebuie să depășească problemele de sănătate pentru a putea juca un rol semnificativ în performanța țării sale la turneul final. Prezența sa la capacitate maximă este considerată esențială pentru ambițiile Canadei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-06-12T19:00:31.081740+00:00",
-      "data_afisaj": "12 iunie 2026, 22:00"
     }
   ]
 }
