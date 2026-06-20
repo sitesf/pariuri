@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-20T10:10:25.867513+00:00",
-  "updated_at_afisaj": "20 iunie 2026, 13:10",
+  "updated_at": "2026-06-20T10:32:02.081263+00:00",
+  "updated_at_afisaj": "20 iunie 2026, 13:32",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,50 @@
   },
   "numar_stiri": 128,
   "stiri": [
+    {
+      "id": "44046ca8d6ee",
+      "titlu": "Brazilia încă își caută forma la Cupa Mondială 2026",
+      "rezumat": "Deși a obținut o victorie cu 3-0 împotriva statului Haiti, echipa națională a Braziliei nu a reușit să impresioneze pe deplin la Cupa Mondială din Statele Unite. Spre deosebire de rivalele Argentina și Franța, care au arătat o formă excelentă, Brazilia se confruntă cu dificultăți în atingerea potențialului maxim. Fanii și analiștii așteaptă ca selecționata braziliană să-și îmbunătățească performanțele în meciurile următoare pentru a-și justifica statutul de favorită la titlu.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-20T10:32:02.075077+00:00",
+      "data_afisaj": "20 iunie 2026, 13:32"
+    },
+    {
+      "id": "1e3303ba67b3",
+      "titlu": "Manchester City, aproape de un acord financiar cu Chelsea pentru numirea lui Enzo Maresca",
+      "rezumat": "Manchester City este aproape de a ajunge la o înțelegere financiară cu Chelsea, ceea ce ar permite numirea lui Enzo Maresca în funcția de antrenor. Chelsea solicită compensații pentru fostul său antrenor, susținând că italianul a încălcat termenii contractului său de la Stamford Bridge prin discuții cu rivalii din Premier League în timp ce era încă sub contract. Această mutare ar marca o schimbare importantă la nivelul conducerii tehnice a lui Manchester City.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-20T10:32:02.077786+00:00",
+      "data_afisaj": "20 iunie 2026, 13:32"
+    },
+    {
+      "id": "f723c1f248a7",
+      "titlu": "Universitatea Craiova pregătește transferul lui Denis Drăguș, dorit și de FCSB",
+      "rezumat": "Universitatea Craiova este pe cale să realizeze un transfer important, vizându-l pe atacantul Denis Drăguș. Jucătorul, care a fost și în atenția lui Gigi Becali și a campioanei României, este considerat o țintă prioritară pentru echipa din Bănie. Această mutare ar putea reprezenta o lovitură semnificativă pe piața transferurilor din Liga 1, consolidând lotul Craiovei pentru viitoarele competiții și intensificând rivalitatea cu alte cluburi de top.",
+      "categorie": "Fotbal",
+      "surse": [
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-06-20T10:32:02.079520+00:00",
+      "data_afisaj": "20 iunie 2026, 13:32"
+    },
+    {
+      "id": "046b6cad6deb",
+      "titlu": "Juventus negociază un transfer care ar putea afecta situația lui Radu Drăgușin",
+      "rezumat": "Juventus Torino se află în negocieri avansate pentru un nou transfer, o mutare care ar putea avea consecințe directe asupra poziției fundașului român Radu Drăgușin în cadrul echipei. Această achiziție ar putea reduce șansele lui Drăgușin de a juca constant, punându-l într-o situație dificilă în lupta pentru un loc în primul unsprezece. Viitorul său la club ar putea depinde de rezultatul acestor negocieri și de adaptarea la noua concurență.",
+      "categorie": "Fotbal",
+      "surse": [
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-06-20T10:32:02.081244+00:00",
+      "data_afisaj": "20 iunie 2026, 13:32"
+    },
     {
       "id": "3c7bf05df1bd",
       "titlu": "Miguel Almiron, primul jucător eliminat pentru că și-a acoperit gura la Cupa Mondială",
@@ -1474,51 +1518,6 @@
       ],
       "data_publicare": "2026-06-13T17:26:35.789411+00:00",
       "data_afisaj": "13 iunie 2026, 20:26"
-    },
-    {
-      "id": "48d3fa4c36f6",
-      "titlu": "Manchester United conduce cursa pentru transferul lui Mateus Fernandes de la West Ham",
-      "rezumat": "Manchester United este în fruntea listei de cluburi interesate de Mateus Fernandes, mijlocașul lui West Ham, evaluat la 80 de milioane de lire sterline. Arsenal, Real Madrid și Paris Saint-Germain au manifestat, de asemenea, interes pentru tânărul jucător. West Ham speră să obțină suma cerută, deși ar putea fi sub presiune financiară pentru a reduce prețul după retrogradarea lor. Această mutare ar putea consolida semnificativ lotul lui Michael Carrick la United.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-13T10:28:16.850833+00:00",
-      "data_afisaj": "13 iunie 2026, 13:28"
-    },
-    {
-      "id": "70f2c54bf4e2",
-      "titlu": "Arsenal ia în considerare o mutare pentru atacantul grec Christos Tzolis",
-      "rezumat": "Clubul Arsenal analizează posibilitatea de a accelera o mutare pentru atacantul internațional grec Christos Tzolis, de la Club Brugge. Jucătorul a fost oferit clubului londonez, iar oficialii \"tunarilor\" evaluează opțiunile pentru a-și întări linia ofensivă. Această potențială achiziție ar aduce un plus de viteză și creativitate în atacul echipei, pe măsură ce se pregătesc pentru noul sezon.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-13T10:28:16.852483+00:00",
-      "data_afisaj": "13 iunie 2026, 13:28"
-    },
-    {
-      "id": "d7db34d266e8",
-      "titlu": "Katy Perry, Tyla și Future printre artiștii care vor cânta la ceremonia de deschidere a Cupei Mondiale din SUA",
-      "rezumat": "Ceremonia de deschidere a Cupei Mondiale din SUA, găzduită pe stadionul SoFi, va beneficia de prezența unor nume sonore din industria muzicală. Printre artiștii confirmați care vor urca pe scenă se numără Katy Perry, Tyla și Future. Evenimentul promite un spectacol grandios, menit să marcheze startul oficial al turneului final și să ofere o experiență memorabilă fanilor prezenți și telespectatorilor din întreaga lume.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-13T10:28:16.854505+00:00",
-      "data_afisaj": "13 iunie 2026, 13:28"
-    },
-    {
-      "id": "c536bc96f2b4",
-      "titlu": "Arbitrul Michael Oliver ratează un meci de la Cupa Mondială din cauza unei accidentări",
-      "rezumat": "Arbitrul englez Michael Oliver a fost exclus de la meciul din faza grupelor dintre Coasta de Fildeș și Ecuador, din cauza unei accidentări. Această absență reprezintă o pierdere pentru brigada de arbitri a turneului, Oliver fiind considerat unul dintre cei mai experimentați și respectați oficiali. Detaliile complete ale accidentării nu au fost încă publicate, dar se așteaptă o perioadă de recuperare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-13T10:28:16.857180+00:00",
-      "data_afisaj": "13 iunie 2026, 13:28"
     }
   ]
 }
