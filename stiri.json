@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-20T10:32:02.081263+00:00",
-  "updated_at_afisaj": "20 iunie 2026, 13:32",
+  "updated_at": "2026-06-20T17:38:14.643870+00:00",
+  "updated_at_afisaj": "20 iunie 2026, 20:38",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,65 @@
   },
   "numar_stiri": 128,
   "stiri": [
+    {
+      "id": "aeccdec5e7c5",
+      "titlu": "Olanda și Suedia se duelează într-un meci cheie la Cupa Mondială 2026",
+      "rezumat": "Echipele naționale ale Olandei și Suediei se confruntă într-o partidă importantă din faza grupelor a Cupei Mondiale 2026. Meciul, transmis în direct de mai multe surse, prezintă o confruntare între doi giganți europeni. Olanda aliniază o formație puternică, incluzând jucători precum Verbruggen, van Dijk și Gakpo, în timp ce Suedia răspunde cu Nordfeldt, Lindelof și Isak. Rezultatul acestei întâlniri este crucial pentru ambele echipe în lupta pentru calificarea în fazele eliminatorii ale competiției, având un impact direct asupra clasamentului Grupei F.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "The Guardian Football",
+        "World Soccer",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-06-20T17:38:14.636714+00:00",
+      "data_afisaj": "20 iunie 2026, 20:38"
+    },
+    {
+      "id": "e4d053f48136",
+      "titlu": "Cum funcționează sistemul de calificare în fazele eliminatorii la Cupa Mondială 2026",
+      "rezumat": "Pe măsură ce a doua rundă a meciurilor din faza grupelor la Cupa Mondială 2026 este în plină desfășurare, se analizează în detaliu mecanismele de calificare pentru etapele eliminatorii. Articolul explică modul în care echipele pot avansa, ținând cont de puncte, golaveraj și alte criterii de departajare. Înțelegerea acestor reguli este esențială pentru a anticipa posibilele confruntări din optimile de finală și pentru a urmări cu atenție evoluția clasamentelor, pe măsură ce competiția devine tot mai intensă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-20T17:38:14.638479+00:00",
+      "data_afisaj": "20 iunie 2026, 20:38"
+    },
+    {
+      "id": "b810b2864fdf",
+      "titlu": "Alan Shearer analizează evoluția lui Harry Kane la Cupa Mondială 2026",
+      "rezumat": "Fostul căpitan al naționalei Angliei, Alan Shearer, a oferit o perspectivă asupra schimbărilor în jocul lui Harry Kane la actuala ediție a Cupei Mondiale. Shearer explică ce anume s-a modificat în abordarea atacantului față de performanțele sale mai puțin convingătoare de la Cupa Mondială din Qatar din 2022. Această analiză subliniază adaptările tactice și mentale ale lui Kane, considerându-l un jucător diferit și mai influent în cadrul echipei Angliei. Observațiile lui Shearer oferă o înțelegere mai profundă a rolului și impactului căpitanului în competiția din 2026.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-20T17:38:14.640196+00:00",
+      "data_afisaj": "20 iunie 2026, 20:38"
+    },
+    {
+      "id": "d7ee5f5592f8",
+      "titlu": "Brazilia învinge Haiti, care devine prima echipă eliminată de la Cupa Mondială 2026",
+      "rezumat": "Echipa națională a Braziliei a obținut o victorie convingătoare împotriva selecționatei din Haiti, grație celor două goluri marcate de atacantul Matheus Cunha de la Manchester United. Succesul Braziliei a fost unul confortabil, consolidându-și poziția în grupă. În urma acestei înfrângeri, Haiti devine, din păcate, prima echipă eliminată oficial de la Cupa Mondială 2026. Rezultatul evidențiază diferența de valoare dintre cele două formații și subliniază provocările cu care se confruntă națiunile mai mici pe scena fotbalului mondial.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-20T17:38:14.642027+00:00",
+      "data_afisaj": "20 iunie 2026, 20:38"
+    },
+    {
+      "id": "a18770497fb9",
+      "titlu": "Germania se pregătește pentru un test dificil împotriva Coastei de Fildeș la Cupa Mondială",
+      "rezumat": "Echipa națională a Germaniei va întâlni selecționata Coastei de Fildeș într-un meci important din cadrul Cupei Mondiale 2026. Partida este considerată un pas înainte pentru nemți, care își propun să demonstreze că pot trece la un nivel superior de performanță în competiție. Coasta de Fildeș, având în componență jucători talentați precum Yan Diomande, este percepută ca un adversar redutabil, capabil să ofere o rezistență puternică. Această confruntare promite un spectacol fotbalistic intens și va fi crucială pentru ambițiile ambelor echipe la turneul final.",
+      "categorie": "Fotbal",
+      "surse": [
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-06-20T17:38:14.643850+00:00",
+      "data_afisaj": "20 iunie 2026, 20:38"
+    },
     {
       "id": "44046ca8d6ee",
       "titlu": "Brazilia încă își caută forma la Cupa Mondială 2026",
@@ -1460,64 +1519,6 @@
       ],
       "data_publicare": "2026-06-13T18:03:51.837639+00:00",
       "data_afisaj": "13 iunie 2026, 21:03"
-    },
-    {
-      "id": "31bac0945d9f",
-      "titlu": "Haiti marchează o apariție rară la Cupa Mondială, purtând speranța unei națiuni",
-      "rezumat": "Naționala masculină de fotbal a statului Haiti participă la Cupa Mondială pentru prima dată în 52 de ani, o prezență care simbolizează mai mult decât simple obiective sportive pentru țara sfâșiată de conflicte. Această calificare rară este văzută ca o sursă de speranță și inspirație pentru o națiune care se confruntă cu numeroase provocări, oferind un moment de unitate și mândrie pe scena globală a fotbalului. Participarea la turneul final subliniază reziliența și spiritul sportiv al jucătorilor și al poporului haitian.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-13T17:26:35.782391+00:00",
-      "data_afisaj": "13 iunie 2026, 20:26"
-    },
-    {
-      "id": "55fcb4b8b36b",
-      "titlu": "Foști jucători ai Scoției vorbesc despre experiența de a juca la Cupa Mondială",
-      "rezumat": "Paul Lambert, Darren Jackson și Rachel Corsie, foști internaționali scoțieni, au împărtășit experiențele lor despre cum este să-ți îndeplinești visul de a juca la o Cupă Mondială. Aceștia au descris emoțiile, presiunea și mândria de a reprezenta Scoția la cel mai înalt nivel al fotbalului. Mărturiile lor oferă o perspectivă unică asupra provocărilor și recompenselor participării la un turneu major, evidențiind impactul profund pe care îl are o astfel de competiție asupra carierei și vieții unui sportiv.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-06-13T17:26:35.784165+00:00",
-      "data_afisaj": "13 iunie 2026, 20:26"
-    },
-    {
-      "id": "cf1c071ecf54",
-      "titlu": "Noi reguli și modificări la Cupa Mondială 2026 generează confuzie",
-      "rezumat": "Pentru Cupa Mondială din 2026 au fost introduse mai multe reguli noi și ajustări la cele existente. Aceste schimbări, menite să îmbunătățească jocul, par să fi generat deja o anumită confuzie printre jucători și arbitri. Discuțiile se concentrează pe modul în care aceste modificări sunt interpretate și aplicate în timpul meciurilor, ridicând întrebări despre eficacitatea lor și despre impactul asupra dinamicii jocului. Este esențial ca regulile să fie clare pentru a asigura un arbitraj consecvent și echitabil.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-13T17:26:35.785889+00:00",
-      "data_afisaj": "13 iunie 2026, 20:26"
-    },
-    {
-      "id": "de4db4f2bc48",
-      "titlu": "Fulham negociază numirea lui Alvaro Arbeloa ca înlocuitor al lui Marco Silva",
-      "rezumat": "Clubul Fulham se află în discuții avansate pentru a-l numi pe Alvaro Arbeloa în funcția de antrenor principal, înlocuindu-l pe Marco Silva, care a părăsit echipa. Arbeloa, fost fundaș al lui Real Madrid și al naționalei Spaniei, ar urma să preia conducerea tehnică a echipei din Premier League. Această mutare marchează o schimbare importantă la nivelul băncii tehnice pentru Fulham, care caută să-și consolideze performanțele sub o nouă conducere. Negocierile sunt în desfășurare și se așteaptă o decizie finală în curând.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-13T17:26:35.787614+00:00",
-      "data_afisaj": "13 iunie 2026, 20:26"
-    },
-    {
-      "id": "b408c6470bac",
-      "titlu": "Daniel Kretinsky devine cel mai mare acționar al clubului West Ham United",
-      "rezumat": "Miliardarul ceh Daniel Kretinsky este pe cale să devină cel mai mare acționar al clubului West Ham United, depășindu-l pe David Sullivan. Kretinsky, proprietarul Royal Mail, și-a mărit participația de la 27% la 43% prin achiziționarea de acțiuni suplimentare de la familia Gold. Această mișcare consolidează influența lui Kretinsky la club, venind după ce Sullivan a demisionat din funcțiile de director și co-președinte. Noii acționari au abordat și acuzațiile recente împotriva lui David Sullivan, exprimându-și profunda îngrijorare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-13T17:26:35.789411+00:00",
-      "data_afisaj": "13 iunie 2026, 20:26"
     }
   ]
 }
