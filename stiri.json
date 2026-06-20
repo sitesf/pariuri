@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-20T17:38:14.643870+00:00",
-  "updated_at_afisaj": "20 iunie 2026, 20:38",
+  "updated_at": "2026-06-20T18:06:56.945667+00:00",
+  "updated_at_afisaj": "20 iunie 2026, 21:06",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,66 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 128,
+  "numar_stiri": 131,
   "stiri": [
+    {
+      "id": "2297b220a3fb",
+      "titlu": "Olanda v Suedia: Cupa Mondială 2026 – în direct",
+      "rezumat": "⚽️ Demararea Cupei Mondiale: 13:00 ET/18:00 BST/3:00 AEST ⚽️ Ghidul jucătorului | Bracketologie | Cizma de Aur | Email John Netherlands: Verbruggen, Dumfries, van Dijk, van Hecke, van de Ven, Gravenberch, de Jong, Reijnders, Malen, Brobbey, Gakpo. Înlocuitori: Flekken, Roefs, Ake, Geertruida, Hato, Kluivert, Koopmeiners, Lang, Depay, de Roon, Summerville, Til, Weghorst, Wieffer. Suedia: Nordfeldt, Lagerbielke, Hien, Lindelof, Karlstrom, Bernhardsson, Nygren, Ayari, Gudmundsson, Gyokeres, Isak. Înlocuitori: Zetterstrom, Viktor J",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "The Guardian Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-20T18:06:32.205859+00:00",
+      "data_afisaj": "20 iunie 2026, 21:06"
+    },
+    {
+      "id": "4c3d0bc3c8b9",
+      "titlu": "Cum funcționează calificarea pentru faza eliminatorie a Cupei Mondiale?",
+      "rezumat": "Cu cel de-al doilea tur al meciurilor din faza grupelor în desfășurare, evaluăm cine poate juca pe cine în rundele eliminatorii - și cum pot ajunge acolo.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-20T18:06:32.207510+00:00",
+      "data_afisaj": "20 iunie 2026, 21:06"
+    },
+    {
+      "id": "9689aaf2ca67",
+      "titlu": "Saka se antrenează singur în timp ce Anglia se pregătește pentru meciul din Ghana",
+      "rezumat": "Bukayo Saka a fost singurul jucător care nu a fost prezent la antrenamentele de grupă, deoarece Anglia și-a continuat pregătirile pentru al doilea meci de Cupa Mondială împotriva Ghanei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-20T18:06:32.209009+00:00",
+      "data_afisaj": "20 iunie 2026, 21:06"
+    },
+    {
+      "id": "cf6568512e4c",
+      "titlu": "De ce Kane este diferit la această Cupă Mondială - Shearer",
+      "rezumat": "Fostul căpitan al Angliei, Alan Shearer, explică ce s-a schimbat pentru Harry Kane de la luptele sale la Cupa Mondială din Qatar din 2022.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-20T18:06:32.210619+00:00",
+      "data_afisaj": "20 iunie 2026, 21:06"
+    },
+    {
+      "id": "baa457f22050",
+      "titlu": "Arbitrul i-a spus lui McGinn că penalty a fost refuzat, deoarece mingea iese din joc",
+      "rezumat": "Arbitrul Ilgiz Tantashev i-a spus lui John McGinn că i-a respins cererea de un penalty împotriva Marocului, deoarece mingea iese din joc, spune fratele mijlocașului Scoției, Stephen.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-20T18:06:32.212195+00:00",
+      "data_afisaj": "20 iunie 2026, 21:06"
+    },
     {
       "id": "aeccdec5e7c5",
       "titlu": "Olanda și Suedia se duelează într-un meci cheie la Cupa Mondială 2026",
@@ -1495,30 +1553,6 @@
       ],
       "data_publicare": "2026-06-14T10:27:04.176128+00:00",
       "data_afisaj": "14 iunie 2026, 13:27"
-    },
-    {
-      "id": "4d8d922f521e",
-      "titlu": "SUA debutează convingător la Cupa Mondială cu o victorie de 4-1 împotriva Paraguayului",
-      "rezumat": "Echipa națională a Statelor Unite a început campania la Cupa Mondială 2026 cu o victorie impresionantă de 4-1 împotriva Paraguayului, pe stadionul din Los Angeles. Folarin Balogun a marcat de două ori, contribuind la o performanță solidă care a risipit îndoielile privind capacitatea gazdelor de a gestiona presiunea turneului. Această victorie, considerată una istorică, sugerează o nouă abordare a jocului american, mai dinamică și atractivă, atrăgând un număr mare de fani.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-06-13T18:03:51.836097+00:00",
-      "data_afisaj": "13 iunie 2026, 21:03"
-    },
-    {
-      "id": "e0ba52253a3c",
-      "titlu": "Oferte pentru Jovo Lukic după golul marcat la Cupa Mondială",
-      "rezumat": "Atacantul Jovo Lukic, de la U Cluj, a atras atenția cluburilor din China, Europa și Orientul Mijlociu, după ce a marcat un gol la Cupa Mondială 2026. Performanța sa la turneul final a generat un interes crescut pe piața transferurilor, iar viitorul său la echipa românească este acum incert. Discuțiile privind o posibilă plecare sunt în plină desfășurare, clubul urmând să analizeze propunerile primite.",
-      "categorie": "Fotbal",
-      "surse": [
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-06-13T18:03:51.837639+00:00",
-      "data_afisaj": "13 iunie 2026, 21:03"
     }
   ]
 }
