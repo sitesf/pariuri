@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-21T17:43:12.081551+00:00",
-  "updated_at_afisaj": "21 iunie 2026, 20:43",
+  "updated_at": "2026-06-21T18:15:33.623479+00:00",
+  "updated_at_afisaj": "21 iunie 2026, 21:15",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,66 @@
   },
   "numar_stiri": 129,
   "stiri": [
+    {
+      "id": "4aa033f27473",
+      "titlu": "Belgia v Iran: Cupa Mondială 2026 – live",
+      "rezumat": "⚽️ Start: 12pm ora locală/8pm BST/5am (Luni) AEST ⚽️ Ghid jucători | Bracketologie | Gheata de Aur | Trimite e-mail lui Daniel În Atlanta, se administrează o corecție. Belgia (4-2-3-1): Courtois; Meunier, Ngoy, Mechele, De Cuyper; Raskin, Tielemans; Saelemaekers, De Bruyne, Trossard; Lukaku. Rezerve: Castagne, De Ketelaere, De Winter, Fernandez-Pardp, Witsel, Lammens, Lukébakio, Onana, Penders, Seys, Theate, Vanaken, Moreira. Citește în continuare...",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "The Guardian Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-21T18:15:26.461990+00:00",
+      "data_afisaj": "21 iunie 2026, 21:15"
+    },
+    {
+      "id": "02d6e5e84a73",
+      "titlu": "Frumusețea de a împărtăși prima Cupă Mondială a copilului tău",
+      "rezumat": "Nu există nimic asemănător cu prima Cupă Mondială de care te poți bucura alături de copilul tău - și uimirea cu ochii larg deschiși prin care o vede el.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-21T18:15:26.463554+00:00",
+      "data_afisaj": "21 iunie 2026, 21:15"
+    },
+    {
+      "id": "4230a88d24a0",
+      "titlu": "Spania trimite un mesaj la Cupa Mondială cu o victorie mare LIVE!",
+      "rezumat": "(rezumat indisponibil)",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-21T18:15:26.465054+00:00",
+      "data_afisaj": "21 iunie 2026, 21:15"
+    },
+    {
+      "id": "50aac1b1d55d",
+      "titlu": "CM 2026 Spania – Arabia Saudită 4-0. Efectul Lamine Yamal l-a trezit pe Oyarzabal: hai că au ajuns și ibericii la Mondial! Clasament grupa H acum",
+      "rezumat": "(rezumat indisponibil)",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-06-21T18:15:26.467235+00:00",
+      "data_afisaj": "21 iunie 2026, 21:15"
+    },
+    {
+      "id": "36980b7ca3ab",
+      "titlu": "Recordurile de la Cupa Mondială care par a fi doborâte",
+      "rezumat": "Cupa Mondială din 2026 ar putea avea doar 10 zile, dar turneul a rescris deja istoria fotbalului. BBC Sport aruncă o privire asupra recordurilor deja doborâte sau care urmează să fie doborâte.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-21T18:15:26.468689+00:00",
+      "data_afisaj": "21 iunie 2026, 21:15"
+    },
     {
       "id": "2cca58a606e6",
       "titlu": "Declan Rice a jucat șase luni cu dureri la nervul ischiatic",
@@ -1467,64 +1527,6 @@
       ],
       "data_publicare": "2026-06-15T13:18:41.299106+00:00",
       "data_afisaj": "15 iunie 2026, 16:18"
-    },
-    {
-      "id": "85aedaae7987",
-      "titlu": "Germania înfruntă Curaçao la Cupa Mondială 2026",
-      "rezumat": "Naționala Germaniei a început campania la Cupa Mondială 2026 înfruntând debutanta Curaçao. Micul stat insular, cu o populație de doar 158.000 de cetățeni, a reușit o performanță remarcabilă, având un jucător la fiecare 10.500 de locuitori care a evoluat împotriva Germaniei la un turneu final. Această participare istorică a fost posibilă datorită extinderii competiției și a sprijinului antrenorilor de calibru precum Guus Hiddink, care au contribuit la dezvoltarea fotbalului în Curaçao. Meciul a marcat un moment important pentru națiunea mică.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-14T18:08:58.640030+00:00",
-      "data_afisaj": "14 iunie 2026, 21:08"
-    },
-    {
-      "id": "843a226f83dc",
-      "titlu": "Ben Gannon-Doak, tânărul erou al revenirii Scoției la Cupa Mondială",
-      "rezumat": "La 20 de ani, Ben Gannon-Doak a fost figura centrală în mult-așteptata revenire a Scoției la Cupa Mondială, contribuind decisiv la prima victorie a echipei în 36 de ani, împotriva selecționatei din Haiti. Născut după ultima participare a Scoției la un Mondial masculin, Gannon-Doak a impresionat prin prestația sa, fiind considerat cel care a \"furat spectacolul\" și a adus un suflu nou în echipa scoțiană. Performanța sa a fost esențială pentru succesul istoric al naționalei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-14T18:08:58.641838+00:00",
-      "data_afisaj": "14 iunie 2026, 21:08"
-    },
-    {
-      "id": "c6d4231880c9",
-      "titlu": "Schimbări de antrenori la Fulham, Real Madrid și Benfica, cu un super-agent în prim-plan",
-      "rezumat": "O serie de mutări strategice în lumea antrenorilor implică nume sonore precum Alvaro Arbeloa, Jose Mourinho și Marco Silva. Arbeloa este vehiculat ca înlocuitor al lui Marco Silva la Fulham, în timp ce Silva ar putea prelua banca tehnică a Benficăi. Între timp, Jose Mourinho ar putea reveni la Real Madrid. Aceste schimbări complexe sunt orchestrate de un singur super-agent, care joacă un rol cheie în negocierile dintre cluburile Fulham, Real Madrid și Benfica, reconfigurând peisajul tactic european.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-14T18:08:58.643786+00:00",
-      "data_afisaj": "14 iunie 2026, 21:08"
-    },
-    {
-      "id": "ed8111c5287e",
-      "titlu": "Pedro Porro semnează un nou contract pe termen lung cu Tottenham",
-      "rezumat": "Fundașul dreapta Pedro Porro a semnat un nou contract pe termen lung cu clubul Tottenham Hotspur. Acordul este valabil până în 2031, consolidând prezența jucătorului spaniol în echipa londoneză pentru anii următori. Această prelungire de contract subliniază încrederea clubului în abilitățile și contribuția lui Porro la performanțele echipei. Jucătorul, care a devenit un element important în defensiva lui Tottenham, își asigură astfel viitorul pe White Hart Lane.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-14T18:08:58.645451+00:00",
-      "data_afisaj": "14 iunie 2026, 21:08"
-    },
-    {
-      "id": "a4eadd1fc667",
-      "titlu": "Adolescentul Ayyoub Bouaddi impresionează la Cupa Mondială pentru Maroc",
-      "rezumat": "Mijlocașul de la Lille, Ayyoub Bouaddi, a captivat atenția publicului și a presei după prestația sa excepțională împotriva Braziliei la Cupa Mondială. Deși Vinícius Júnior a fost desemnat omul meciului, mulți jurnaliști sud-americani au recunoscut talentul remarcabil al lui Bouaddi. Tânărul fotbalist a jucat un rol crucial în convingerea antrenorului naționalei Marocului să refuze ofertele din partea Franței, demonstrând o grație și o maturitate impresionante pe terenul de joc, la o vârstă fragedă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-14T18:08:58.647142+00:00",
-      "data_afisaj": "14 iunie 2026, 21:08"
     }
   ]
 }
