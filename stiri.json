@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-21T11:15:39.243498+00:00",
-  "updated_at_afisaj": "21 iunie 2026, 14:15",
+  "updated_at": "2026-06-21T17:43:12.081551+00:00",
+  "updated_at_afisaj": "21 iunie 2026, 20:43",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,41 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 130,
+  "numar_stiri": 129,
   "stiri": [
+    {
+      "id": "2cca58a606e6",
+      "titlu": "Declan Rice a jucat șase luni cu dureri la nervul ischiatic",
+      "rezumat": "Mijlocașul englez Declan Rice a dezvăluit că a evoluat cu dureri la nervul ischiatic, localizate în zona superioară a ischiogambierilor și radiind în partea inferioară a spatelui, încă de la Crăciun. Acesta a descris programul de meciuri pentru club și țară ca fiind \"obscen\" din cauza numărului mare de partide disputate. Deși a fost înlocuit în minutul 72 al victoriei Angliei cu 4-2 împotriva Croației, Rice a asigurat că este \"pregătit și în formă\" pentru următorul meci al Angliei la Cupa Mondială împotriva Ghanei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-21T17:43:12.076191+00:00",
+      "data_afisaj": "21 iunie 2026, 20:43"
+    },
+    {
+      "id": "cf2d9156c25a",
+      "titlu": "Thomas Partey, în atenția publicului înainte de meciul cu Anglia, pe fondul acuzațiilor de viol",
+      "rezumat": "Mijlocașul ghanez Thomas Partey se află în centrul atenției înaintea confruntării Ghanei cu Anglia la Cupa Mondială, unde se va întâlni cu foști coechipieri de la Arsenal. Partey, care a negat toate acuzațiile de viol aduse împotriva sa, urmează să-și înceapă campania la Cupa Mondială marți, la Boston. Asociația de Fotbal a Angliei a evitat să comenteze protocolul de dinaintea meciului, unde toți jucătorii sunt așteptați să dea mâna. Partey va fi eliberat de contractul său cu Villarreal la sfârșitul acestei luni.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-21T17:43:12.078160+00:00",
+      "data_afisaj": "21 iunie 2026, 20:43"
+    },
+    {
+      "id": "c2a8c66c6bb2",
+      "titlu": "Fereastra de transferuri de vară 2026: Toate mutările confirmate din top 5 ligi europene",
+      "rezumat": "Piața transferurilor de vară din 2026 este în plină desfășurare, cu numeroase mutări confirmate în cele cinci mari ligi europene: Premier League, La Liga, Bundesliga, Ligue 1 și Serie A. Cluburile își definitivează loturile pentru noul sezon, iar lista actualizată include toate acordurile încheiate până în prezent. Această perioadă este crucială pentru echipe în vederea consolidării sau reconstrucției, având un impact semnificativ asupra echilibrului de forțe din fotbalul european.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-21T17:43:12.080056+00:00",
+      "data_afisaj": "21 iunie 2026, 20:43"
+    },
     {
       "id": "a33da6617d0f",
       "titlu": "Japonia elimină Tunisia de la Cupa Mondială cu o victorie categorică",
@@ -1492,52 +1525,6 @@
       ],
       "data_publicare": "2026-06-14T18:08:58.647142+00:00",
       "data_afisaj": "14 iunie 2026, 21:08"
-    },
-    {
-      "id": "e340c407ea49",
-      "titlu": "Real Madrid ajunge la un acord pentru transferul lui Marc Cucurella de la Chelsea",
-      "rezumat": "Real Madrid a convenit un acord cu Chelsea pentru transferul fundașului Marc Cucurella, valoarea tranzacției putând ajunge până la 51,8 milioane de lire sterline. Mutarea este programată să aibă loc după încheierea Cupei Mondiale din 2026. Jucătorul spaniol, în prezent la Chelsea, ar urma să se alăture gigantului spaniol, consolidând apărarea echipei madrilene pentru sezoanele viitoare. Acest transfer marchează o achiziție importantă pentru Real Madrid pe piața europeană.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-06-14T17:23:16.120613+00:00",
-      "data_afisaj": "14 iunie 2026, 20:23"
-    },
-    {
-      "id": "e525ef6c4473",
-      "titlu": "Întârzieri la startul meciurilor de la Cupa Mondială 2026, o tendință îngrijorătoare",
-      "rezumat": "Primele opt meciuri ale Cupei Mondiale din 2026 nu au început la ora programată, continuând o tendință vizibilă de întârziere la turneu. Această problemă a fost evidențiată și de partida dintre Scoția și Haiti din Grupa C, care a avut parte de o amânare. Organizatorii și FIFA sunt sub presiune pentru a asigura respectarea programului, având în vedere impactul asupra fanilor și a transmisiunilor televizate. Cauzele acestor întârzieri nu au fost clarificate public.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-06-14T17:23:16.122410+00:00",
-      "data_afisaj": "14 iunie 2026, 20:23"
-    },
-    {
-      "id": "a753d3ac9850",
-      "titlu": "Curacao își face debutul istoric la Cupa Mondială 2026",
-      "rezumat": "Națiunea Curacao, cunoscută anterior mai ales pentru băutura sa alcoolică omonimă, este acum pregătită să se afirme pe scena fotbalului mondial, participând pentru prima dată la Cupa Mondială din 2026. Cu o populație mică și o puternică influență olandeză în dezvoltarea fotbalului, Curacao reprezintă o poveste inspirațională a unei echipe care își depășește limitele geografice și istorice pentru a concura la cel mai înalt nivel.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-14T17:23:16.124017+00:00",
-      "data_afisaj": "14 iunie 2026, 20:23"
-    },
-    {
-      "id": "206d9654b8db",
-      "titlu": "Lionel Messi, în centrul atenției la ceea ce ar putea fi ultima sa Cupă Mondială",
-      "rezumat": "Lionel Messi continuă să atragă mulțimi impresionante de fani și jurnaliști, chiar și la antrenamente, înaintea a ceea ce este considerat a fi ultima sa participare la Cupa Mondială. Prezența sa pe teren rămâne un eveniment de neratat, confirmând statutul său de \"box office\" al fotbalului. Toți ochii sunt ațintiți asupra starului argentinian, care speră să își încheie cariera la cel mai înalt nivel cu o performanță memorabilă la turneul final.",
-      "categorie": "Fotbal",
-      "surse": [
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-14T17:23:16.125772+00:00",
-      "data_afisaj": "14 iunie 2026, 20:23"
     }
   ]
 }
