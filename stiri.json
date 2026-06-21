@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-20T18:06:56.945667+00:00",
-  "updated_at_afisaj": "20 iunie 2026, 21:06",
+  "updated_at": "2026-06-21T10:32:45.020948+00:00",
+  "updated_at_afisaj": "21 iunie 2026, 13:32",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,66 @@
   },
   "numar_stiri": 131,
   "stiri": [
+    {
+      "id": "32d035dc4f5b",
+      "titlu": "Test Cupa Mondială: Numiți fiecare câștigător al Ghetei de Aur",
+      "rezumat": "Câți cei mai buni marcatori ai Cupei Mondiale din ultimii ani poți numi?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-21T10:32:20.197881+00:00",
+      "data_afisaj": "21 iunie 2026, 13:32"
+    },
+    {
+      "id": "5cc7497fa595",
+      "titlu": "Newcastle respinge oferta Spurs de aproximativ 80 de milioane de lire sterline pentru Tonali",
+      "rezumat": "Newcastle United respinge oferta de la Tottenham Hotspur pentru mijlocașul Sandro Tonali de aproximativ 80 de milioane de lire sterline.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-06-21T10:32:20.199490+00:00",
+      "data_afisaj": "21 iunie 2026, 13:32"
+    },
+    {
+      "id": "e6a634311ba3",
+      "titlu": "Impenetrable Room inspiră Curacao la primul punct la Cupa Mondială",
+      "rezumat": "Portarul din Curacao, Eloy Room, egalează recordul pentru cele mai multe salvari într-un meci de la Cupa Mondială, deoarece echipa lui Dick Advocaat câștigă primul punct în turneu cu un egal 0-0 împotriva Ecuadorului pe stadionul Kansas City.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-21T10:32:20.200956+00:00",
+      "data_afisaj": "21 iunie 2026, 13:32"
+    },
+    {
+      "id": "6ead06c48973",
+      "titlu": "Gakpo a tras al 100-lea gol al acestei Cupe Mondiale",
+      "rezumat": "Cody Gakpo marchează cel de-al 100-lea gol al acestei Cupe Mondiale, fiind cel de-al doilea din meci pentru a pune Olanda cu 4-0 în avantajul Suediei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-21T10:32:20.202461+00:00",
+      "data_afisaj": "21 iunie 2026, 13:32"
+    },
+    {
+      "id": "036b54800bc6",
+      "titlu": "Cupa Mondială 2026: Infantino criticat pentru utilizarea avionului privat; Curaçao securizat punct istoric – live",
+      "rezumat": "⚽ Toate cele mai recente știri din ziua 10 a turneului ⚽ Ghidul jucătorului | Bracketologie | Cizma de Aur | Trimiteți-ne un e-mail echipei de la Cupa Mondială a turneului de până acum: John Brewin, Marcus Christenson și cu mine am compilat câțiva dintre cei mai buni performanți din primele 10 zile... cu o singură regulă – fără superstaruri. Treceți peste Messi, Mbappé și Haaland - este vorba despre Laryea, Just și Quiñones: Citiți în continuare...",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-21T10:32:20.204362+00:00",
+      "data_afisaj": "21 iunie 2026, 13:32"
+    },
     {
       "id": "2297b220a3fb",
       "titlu": "Olanda v Suedia: Cupa Mondială 2026 – în direct",
@@ -1492,67 +1552,6 @@
       ],
       "data_publicare": "2026-06-14T10:48:53.915406+00:00",
       "data_afisaj": "14 iunie 2026, 13:48"
-    },
-    {
-      "id": "782307c95245",
-      "titlu": "Scoția obține prima victorie la Cupa Mondială după 36 de ani",
-      "rezumat": "Naționala Scoției a învins Haiti cu scorul de 1-0 pe stadionul din Boston, grație golului marcat de John McGinn. Această victorie reprezintă prima pentru Scoția la o Cupă Mondială în ultimele 36 de ani, marcând un moment istoric pentru echipa națională. Succesul le oferă scoțienilor un start pozitiv în competiție și speranțe pentru calificarea în fazele superioare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-14T10:27:04.168931+00:00",
-      "data_afisaj": "14 iunie 2026, 13:27"
-    },
-    {
-      "id": "d3a23eb9f77d",
-      "titlu": "Australia produce o surpriză și învinge Turcia în meciul de deschidere al Cupei Mondiale",
-      "rezumat": "Australia a reușit să învingă Turcia în primul lor meci de la Cupa Mondială, într-o partidă în care Nestory Irankunda, în vârstă de 20 de ani, a devenit cel mai tânăr marcator al \"Socceroos\" la un Campionat Mondial. Victoria reprezintă o surpriză notabilă în faza grupelor și oferă Australiei un avans important în lupta pentru calificare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-14T10:27:04.170670+00:00",
-      "data_afisaj": "14 iunie 2026, 13:27"
-    },
-    {
-      "id": "cebf11826c2e",
-      "titlu": "Autogolul din prelungiri al lui Muheim aduce Qatarului o remiză dramatică la Cupa Mondială împotriva Elveției",
-      "rezumat": "Qatar a obținut primul său punct la Cupa Mondială, remizând 1-1 cu Elveția, după un autogol dramatic marcat de Miro Muheim în prelungiri. Sub presiunea lui Boualem Khoukhi, Muheim a deviat involuntar o centrare în minutul 94, anulând un penalty transformat de Breel Embolo în prima repriză. Rezultatul a lăsat Grupa B deschisă, toate echipele având câte un punct.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-14T10:27:04.172526+00:00",
-      "data_afisaj": "14 iunie 2026, 13:27"
-    },
-    {
-      "id": "9622e4f212fa",
-      "titlu": "Fereastra de transferuri de vară 2026: Toate mutările confirmate din cele cinci ligi de top ale Europei",
-      "rezumat": "O listă completă a tuturor transferurilor confirmate până în prezent în Premier League, La Liga, Bundesliga, Ligue 1 și Serie A, oferind o imagine de ansamblu a mișcărilor de jucători din cele mai puternice campionate europene. Ghidul include detalii despre fiecare club și achizițiile sau plecările importante din această perioadă de mercato.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-14T10:27:04.174404+00:00",
-      "data_afisaj": "14 iunie 2026, 13:27"
-    },
-    {
-      "id": "94a3f822f4dc",
-      "titlu": "FIFA va plăti integral onorariul arbitrului somalez Omar Artan pentru Cupa Mondială",
-      "rezumat": "Arbitrul somalez Omar Artan, căruia i-a fost refuzată intrarea în Statele Unite pentru a oficia la Cupa Mondială, va primi totuși integral onorariul său pentru turneu din partea FIFA. Decizia subliniază angajamentul FIFA de a susține oficialii, chiar și în circumstanțe neprevăzute care îi împiedică să participe fizic la eveniment.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-14T10:27:04.176128+00:00",
-      "data_afisaj": "14 iunie 2026, 13:27"
     }
   ]
 }
