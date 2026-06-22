@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-22T19:33:38.740244+00:00",
-  "updated_at_afisaj": "22 iunie 2026, 22:33",
+  "updated_at": "2026-06-22T20:00:44.105531+00:00",
+  "updated_at_afisaj": "22 iunie 2026, 23:00",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,70 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 134,
+  "numar_stiri": 135,
   "stiri": [
+    {
+      "id": "06ddc2f63574",
+      "titlu": "Messi bate recordul de goluri la Cupa Mondială cu goluri împotriva Austriei",
+      "rezumat": "Starul Argentinei Lionel Messi a doborât recordul de goluri al lui Miroslav Klose la Cupa Mondială după cele două goluri ale sale împotriva Austriei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-22T20:00:20.301130+00:00",
+      "data_afisaj": "22 iunie 2026, 23:00"
+    },
+    {
+      "id": "a21a45bc8c15",
+      "titlu": "Franța v Irak: Cupa Mondială 2026 – în direct",
+      "rezumat": "⚽️ Începutul Cupei Mondiale: 17:00 ET/22:00 BST/7:00 AEST ⚽️ Ghidul jucătorului | Bracketologie | Cizma de Aur | Trimiteți un e-mail lui Tim Evening tuturor și bun venit la show-ul Kylian Mbappé. Este căpitanul Franței, este cel mai mare nume dintr-o echipă plină de stele, de fapt cel mai mare nume din această Cupă Mondială dintre toți cei care nu au împlinit încă 38 de ani. Are nevoie de încă patru goluri pentru a împărtăși recordul de toate timpurile la Cupa Mondială pe care tocmai l-a stabilit Lionel Messi. Iar Mbappé este deja CAPRA la goluri pe meci, printre cei care au sc",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "The Guardian Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-22T20:00:20.302755+00:00",
+      "data_afisaj": "22 iunie 2026, 23:00"
+    },
+    {
+      "id": "290dac861eb9",
+      "titlu": "Saliba apt pentru a începe pentru Franța vs Irak LIVE!",
+      "rezumat": "(rezumat indisponibil)",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-06-22T20:00:20.304273+00:00",
+      "data_afisaj": "22 iunie 2026, 23:00"
+    },
+    {
+      "id": "51b178da906d",
+      "titlu": "Thomas Tuchel aduce The Surge pentru a face Anglia o adevărată amenințare la Cupa Mondială",
+      "rezumat": "Antrenorul principal dorește ca jucătorii să folosească energia în spațiile potrivite și, de asemenea, obține tot ce este mai bun dintr-un Harry Kane în formă. Nu a durat mult până când o singură mișcare în caravana călătoriei Angliei a găsit o poreclă profund nepotrivită pentru acel început plin de energie al spectacolului din a doua repriză de la Dallas miercurea trecută. Numele acela era: Packetball. Cuvântul pachet este, confirmă Dicționarul Urban, argou pentru un mic plic din același stimulent ilegal și complet nerecomandabil care a fost descoperit.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-22T20:00:20.305892+00:00",
+      "data_afisaj": "22 iunie 2026, 23:00"
+    },
+    {
+      "id": "8008c058a5b0",
+      "titlu": "CM 2026 La cât au crescut șansele lui Leo Messi să câștige Balonul de Aur după cele 5 goluri de la Cupa Mondială 2026!",
+      "rezumat": "(rezumat indisponibil)",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-06-22T20:00:20.307968+00:00",
+      "data_afisaj": "22 iunie 2026, 23:00"
+    },
     {
       "id": "8cc6f14c984d",
       "titlu": "Meciul Franța – Irak de la Cupa Mondială, afectat de vremea nefavorabilă",
@@ -1536,54 +1598,6 @@
       ],
       "data_publicare": "2026-06-15T20:21:48.187412+00:00",
       "data_afisaj": "15 iunie 2026, 23:21"
-    },
-    {
-      "id": "72746a57f5e0",
-      "titlu": "Atacantul Iranului, Mehdi Taremi, declară că tensiunile politice afectează bucuria Cupei Mondiale",
-      "rezumat": "Mehdi Taremi, atacantul naționalei Iranului, a declarat că situația politică dificilă din țara sa umbrește bucuria participării la Cupa Mondială. Afirmația subliniază impactul contextului geopolitic asupra experienței sportivilor și a fanilor, aducând în discuție modul în care evenimentele extra-sportive pot influența percepția și atmosfera unui turneu global. Comentariul lui Taremi oferă o perspectivă rară asupra presiunilor cu care se confruntă jucătorii din anumite națiuni.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-15T19:50:35.367657+00:00",
-      "data_afisaj": "15 iunie 2026, 22:50"
-    },
-    {
-      "id": "d90b9bb10d3b",
-      "titlu": "Tendințe tactice emergente la Cupa Mondială 2026: revenirea sistemului 4-4-2 și rolul 'falsului nouă'",
-      "rezumat": "O analiză a tendințelor tactice observate până acum la Cupa Mondială 2026 relevă o posibilă revenire a sistemului clasic 4-4-2, alături de utilizarea tot mai frecventă a rolului de 'fals nouă'. Experții BBC Sport au examinat modul în care echipele își adaptează strategiile, evidențiind inovațiile și reîntoarcerea la anumite abordări tradiționale. Aceste observații oferă o perspectivă asupra evoluției fotbalului la nivel înalt și a modului în care antrenorii încearcă să obțină avantaje competitive.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-15T19:50:35.369448+00:00",
-      "data_afisaj": "15 iunie 2026, 22:50"
-    },
-    {
-      "id": "62db510bda41",
-      "titlu": "Wolverhampton Wanderers îl numește pe portughezul Cesar Peixoto noul antrenor principal",
-      "rezumat": "Clubul englez Wolverhampton Wanderers a anunțat numirea lui Cesar Peixoto în funcția de antrenor principal. Tehnicianul portughez preia conducerea echipei, marcând o nouă etapă în strategia clubului. Această decizie vine în contextul eforturilor de a consolida performanța echipei în competițiile interne și de a-i imprima o nouă direcție tactică. Numirea lui Peixoto este o mutare importantă pe piața antrenorilor din Premier League.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-06-15T19:50:35.370980+00:00",
-      "data_afisaj": "15 iunie 2026, 22:50"
-    },
-    {
-      "id": "1b6121e261b3",
-      "titlu": "Salariul lui Darius Olaru la Union Saint-Gilloise, dezvăluit în presa română",
-      "rezumat": "Darius Olaru, fostul jucător al lui Gigi Becali, ar urma să primească un salariu considerabil la noua sa echipă, Union Saint-Gilloise din Belgia. Detaliile financiare ale transferului său au fost publicate de presa sportivă din România, indicând o creștere semnificativă a veniturilor fotbalistului. Această mutare marchează o etapă importantă în cariera lui Olaru, oferindu-i oportunitatea de a evolua într-un campionat european de top și de a-și asigura o stabilitate financiară.",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-06-15T19:50:35.372572+00:00",
-      "data_afisaj": "15 iunie 2026, 22:50"
     }
   ]
 }
