@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-21T18:15:33.623479+00:00",
-  "updated_at_afisaj": "21 iunie 2026, 21:15",
+  "updated_at": "2026-06-22T12:51:39.885885+00:00",
+  "updated_at_afisaj": "22 iunie 2026, 15:51",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,68 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 129,
+  "numar_stiri": 134,
   "stiri": [
+    {
+      "id": "d3ece05abe61",
+      "titlu": "Salah marchează pentru a ajuta Egiptul la prima victorie la Cupa Mondială",
+      "rezumat": "Mohamed Salah marchează un gol și creează altul, în timp ce Egiptul revine de la scor pentru a învinge Noua Zeelandă și a-și asigura prima victorie la Cupa Mondială.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-22T12:51:25.847010+00:00",
+      "data_afisaj": "22 iunie 2026, 15:51"
+    },
+    {
+      "id": "35773d5d1533",
+      "titlu": "'Este stocat pe un hard disk în capul meu' - urmărind Cupa Mondială ca antrenor",
+      "rezumat": "Fostul antrenor al echipelor Tottenham și Brentford, Thomas Frank, despre urmărirea noilor jucători la Cupa Mondială - pe cine ar semna și cine va fi vedeta turneului?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-22T12:51:25.848762+00:00",
+      "data_afisaj": "22 iunie 2026, 15:51"
+    },
+    {
+      "id": "09c8ee8efe8c",
+      "titlu": "Capul Verde continuă să surprindă cu o remiză spectaculoasă împotriva Uruguayului",
+      "rezumat": "Campania captivantă de debut a Capului Verde la Cupa Mondială a continuat, deoarece au ținut pe loc dubla campioană Uruguay la o remiză palpitantă în Miami.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-06-22T12:51:25.850274+00:00",
+      "data_afisaj": "22 iunie 2026, 15:51"
+    },
+    {
+      "id": "9519975c138e",
+      "titlu": "Cupa Mondială 2026: Povestea Capului Verde continuă; L’Équipe își cere scuze lui Doku pentru comentariile „dezgustătoare” – live",
+      "rezumat": "⚽ Toate cele mai recente știri din ziua 11 a turneului ⚽ Ghidul jucătorilor | Bracketology | Gheata de Aur | Trimite-ne un e-mail Apropo, Beiranvand deține recordul mondial pentru cea mai lungă aruncare într-un meci competitiv – 61.0026m – și pentru cel mai lung drop-kick, 78.014m. Nu e rău pentru cineva care a dormit odată pe străzi. Dar să ne întoarcem pentru o clipă la Iran. Portarul lor, Alireza Beiranvand – sau „Zidul Persiei” așa cum este cunoscut – a trebuit să fugă de acasă pentru a deveni fotbalist, tatăl său fiind mai puțin încântat d",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-22T12:51:25.852335+00:00",
+      "data_afisaj": "22 iunie 2026, 15:51"
+    },
+    {
+      "id": "60aeec789c9e",
+      "titlu": "Sezonul remarcabil al lui Madueke - de la petiție la titular la Cupa Mondială",
+      "rezumat": "Noni Madueke a trecut de la fani care protestau împotriva semnării sale la Arsenal la titular al Angliei la Cupa Mondială. BBC Sport analizează sezonul său plin de suișuri și coborâșuri.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-22T12:51:25.853917+00:00",
+      "data_afisaj": "22 iunie 2026, 15:51"
+    },
     {
       "id": "4aa033f27473",
       "titlu": "Belgia v Iran: Cupa Mondială 2026 – live",
