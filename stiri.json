@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-22T12:51:39.885885+00:00",
-  "updated_at_afisaj": "22 iunie 2026, 15:51",
+  "updated_at": "2026-06-22T13:34:38.770208+00:00",
+  "updated_at_afisaj": "22 iunie 2026, 16:34",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,61 @@
   },
   "numar_stiri": 134,
   "stiri": [
+    {
+      "id": "df88fe65eaf3",
+      "titlu": "Iranul a lăsat un bilet cerând pace după tragerea la sorți a Belgiei",
+      "rezumat": "Iranul a lăsat un mesaj în care spune: „Fie ca pacea, respectul și prietenia să prevaleze între toate națiunile” după meciul din grupa de la Cupa Mondială cu Belgia.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-22T13:34:11.306969+00:00",
+      "data_afisaj": "22 iunie 2026, 16:34"
+    },
+    {
+      "id": "13c5d6663658",
+      "titlu": "Cum s-a unit fotbalul în spatele lui Doku după criticile privind nașterea",
+      "rezumat": "Jeremy Doku vrea să zboare acasă pentru a asista la nașterea primului său copil - dar de ce s-a dovedit asta controversat în unele privințe?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-22T13:34:11.308609+00:00",
+      "data_afisaj": "22 iunie 2026, 16:34"
+    },
+    {
+      "id": "3a87c4ef533c",
+      "titlu": "O viziune a fundașului despre cum să-i oprești pe cei mai buni atacanți de la Cupa Mondială",
+      "rezumat": "Lionel Messi, Kylian Mbappe, Erling Haaland și Harry Kane par să fie în formă letală la această Cupă Mondială. Așadar, cum îi poți opri pe drumul lor?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-22T13:34:11.310271+00:00",
+      "data_afisaj": "22 iunie 2026, 16:34"
+    },
+    {
+      "id": "17fbfec3f318",
+      "titlu": "Contează dacă Scoția pierde și totuși face istorie?",
+      "rezumat": "Performanța, chiar și rezultatul, contează atâta timp cât Scoția se califică în faza grupelor de la Cupa Mondială după meciul de miercuri împotriva Braziliei? Tom English se gândește.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-22T13:34:11.311824+00:00",
+      "data_afisaj": "22 iunie 2026, 16:34"
+    },
+    {
+      "id": "0241413c307d",
+      "titlu": "Fundașul Germaniei Schlotterbeck a ieșit de la Cupa Mondială",
+      "rezumat": "Fundașul Germaniei Nico Schlotterbeck este exclus din restul Cupei Mondiale din cauza unei accidentări la gleznă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-22T13:34:11.313263+00:00",
+      "data_afisaj": "22 iunie 2026, 16:34"
+    },
     {
       "id": "d3ece05abe61",
       "titlu": "Salah marchează pentru a ajuta Egiptul la prima victorie la Cupa Mondială",
@@ -1528,65 +1583,6 @@
       ],
       "data_publicare": "2026-06-15T13:56:07.911650+00:00",
       "data_afisaj": "15 iunie 2026, 16:56"
-    },
-    {
-      "id": "7cc1fe9e9692",
-      "titlu": "FIFA investighează gestul controversat al unui oficial VAR",
-      "rezumat": "FIFA a solicitat explicații cu privire la un gest făcut de arbitrul asistent video Shaun Evans înainte de meciul Germania – Curaçao, scor 7-1. Monitorul anti-discriminare al FIFA la Cupa Mondială a cerut îndepărtarea oficialului VAR pentru că ar fi făcut un gest de mână asemănător unui semn de supremație albă. Incidentul a stârnit controverse și a determinat forul mondial să ia măsuri pentru clarificarea situației, subliniind angajamentul său împotriva oricărei forme de discriminare în fotbal.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-06-15T13:18:41.292335+00:00",
-      "data_afisaj": "15 iunie 2026, 16:18"
-    },
-    {
-      "id": "d0e1123253c9",
-      "titlu": "Amad Diallo marchează golul victoriei pentru Coasta de Fildeș împotriva Ecuadorului",
-      "rezumat": "Atacantul lui Manchester United, Amad Diallo, a înscris un gol superb în minutul 90, asigurând victoria Coastei de Fildeș împotriva Ecuadorului într-un meci disputat la Philadelphia. Performanța sa a fost crucială pentru echipa africană, care a obținut astfel un rezultat important în competiție. Golul a venit în urma unei acțiuni ofensive bine construite, demonstrând calitățile individuale ale tânărului jucător și contribuind la un start pozitiv în campania lor la Cupa Mondială.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-15T13:18:41.294106+00:00",
-      "data_afisaj": "15 iunie 2026, 16:18"
-    },
-    {
-      "id": "31dac54571f8",
-      "titlu": "Pauzele de hidratare la Cupa Mondială: Cine beneficiază și cine este dezavantajat?",
-      "rezumat": "Pauzele obligatorii de hidratare au devenit o caracteristică constantă a meciurilor de la Cupa Mondială, ridicând întrebări despre impactul lor asupra jocului. Aceste întreruperi influențează strategia echipelor, ritmul partidelor și performanța jucătorilor, în special în condiții de căldură extremă. Analiza arată că unele echipe pot beneficia de aceste momente pentru a-și reajusta tactica și a se odihni, în timp ce altele pot fi dezavantajate de întreruperea fluxului jocului și de pierderea momentului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-15T13:18:41.295885+00:00",
-      "data_afisaj": "15 iunie 2026, 16:18"
-    },
-    {
-      "id": "a41c47f96208",
-      "titlu": "Ruben Amorim, noul antrenor principal al echipei AC Milan",
-      "rezumat": "Ruben Amorim este pe cale să revină în antrenorat, după ce a acceptat să devină noul antrenor principal al echipei AC Milan. Antrenorul portughez îl va înlocui pe Massimiliano Allegri la San Siro, semnând un contract pe doi ani, cu opțiune de prelungire pentru al treilea. Această mutare va aduce și o economie semnificativă pentru Manchester United în ceea ce privește pachetul său de compensații, clubul englez concediindu-l pe Amorim în ianuarie.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-15T13:18:41.297419+00:00",
-      "data_afisaj": "15 iunie 2026, 16:18"
-    },
-    {
-      "id": "b5b97595b849",
-      "titlu": "FIFA propune un meci simbolic Israel – Palestina la un nou turneu U15",
-      "rezumat": "FIFA intenționează să organizeze un meci simbolic între Israel și Palestina ca partidă de deschidere a unui nou turneu Under-15, programat să aibă loc în Statele Unite în luna septembrie. Deși nu este o Cupă Mondială oficială U15, competiția va fi deschisă tuturor celor 211 membri FIFA, inclusiv Rusiei, care rămâne suspendată la nivel de seniori. Această inițiativă urmărește să utilizeze fotbalul pentru a promova pacea și înțelegerea prin sport la nivel juvenil.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-15T13:18:41.299106+00:00",
-      "data_afisaj": "15 iunie 2026, 16:18"
     }
   ]
 }
