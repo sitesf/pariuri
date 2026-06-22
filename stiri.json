@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-22T13:34:38.770208+00:00",
-  "updated_at_afisaj": "22 iunie 2026, 16:34",
+  "updated_at": "2026-06-22T19:33:38.740244+00:00",
+  "updated_at_afisaj": "22 iunie 2026, 22:33",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,51 @@
   },
   "numar_stiri": 134,
   "stiri": [
+    {
+      "id": "8cc6f14c984d",
+      "titlu": "Meciul Franța – Irak de la Cupa Mondială, afectat de vremea nefavorabilă",
+      "rezumat": "Partida dintre Franța și Irak de la Cupa Mondială 2026, programată în Philadelphia, a fost afectată de condiții meteorologice nefavorabile. Fanii au fost inițial sfătuiți să nu se deplaseze la stadion din cauza vremii severe. FIFA a pregătit măsuri pentru gestionarea perturbărilor cauzate de furtunile prognozate, asigurând desfășurarea meciului în condiții de siguranță, după ce porțile stadionului au fost deschise, permițând accesul spectatorilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-06-22T19:33:38.734589+00:00",
+      "data_afisaj": "22 iunie 2026, 22:33"
+    },
+    {
+      "id": "9e8bfdeb5c8f",
+      "titlu": "Manchester United a achiziționat teren pentru un nou stadion de 100.000 de locuri",
+      "rezumat": "Planurile clubului Manchester United pentru construirea unui nou stadion, cu o capacitate de 100.000 de locuri, au avansat semnificativ. Clubul a confirmat achiziționarea unui teren de 25 de acri, situat în apropierea actualului Old Trafford. Această mișcare reprezintă un pas crucial în dezvoltarea infrastructurii clubului, indicând o viziune pe termen lung pentru modernizarea facilităților și creșterea capacității de spectatori, consolidând poziția clubului în fotbalul mondial.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-22T19:33:38.736562+00:00",
+      "data_afisaj": "22 iunie 2026, 22:33"
+    },
+    {
+      "id": "378b58b17913",
+      "titlu": "Fanii din WSL și WSL2 vor putea consuma alcool în tribune din sezonul viitor",
+      "rezumat": "Suporterii echipelor din Women’s Super League (WSL) și WSL2 vor avea permisiunea de a consuma băuturi alcoolice în tribune, în timpul meciurilor, începând cu sezonul viitor. Această modificare a regulamentului vine în urma unei perioade de testare de 18 luni, care a avut rezultate pozitive. Decizia a fost aprobată de acționarii WSL Football, deși cluburile nu sunt obligate să ofere această opțiune fanilor, având libertatea de a decide implementarea.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-22T19:33:38.738407+00:00",
+      "data_afisaj": "22 iunie 2026, 22:33"
+    },
+    {
+      "id": "79c918f0eabd",
+      "titlu": "Thomas Tuchel amână decizia privind echipa Angliei pentru meciul cu Ghana",
+      "rezumat": "Antrenorul Angliei, Thomas Tuchel, este cunoscut pentru obiceiul său de a lua deciziile finale privind selecția echipei în ziua meciului. La această Cupă Mondială, Tuchel amână anunțarea primului unsprezece mai mult ca oricând, înaintea confruntării cu Ghana. Această abordare strategică subliniază importanța meciului și dorința antrenorului de a evalua toate opțiunile până în ultimul moment, posibil pentru a surprinde adversarul sau pentru a gestiona starea fizică a jucătorilor cheie.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-06-22T19:33:38.740225+00:00",
+      "data_afisaj": "22 iunie 2026, 22:33"
+    },
     {
       "id": "df88fe65eaf3",
       "titlu": "Iranul a lăsat un bilet cerând pace după tragerea la sorți a Belgiei",
@@ -1539,50 +1584,6 @@
       ],
       "data_publicare": "2026-06-15T19:50:35.372572+00:00",
       "data_afisaj": "15 iunie 2026, 22:50"
-    },
-    {
-      "id": "4d5d1f2e4159",
-      "titlu": "John Stones, de la pragul retragerii la bucuria pură a Cupei Mondiale",
-      "rezumat": "Selecția lui John Stones în lotul Angliei pentru Cupa Mondială a surprins pe mulți, dar fundașul a declarat că a trebuit să depună eforturi considerabile pentru a-și asigura locul în echipa de 26 de jucători. După o perioadă dificilă, Stones a reușit să revină în formă și să impresioneze, transformând o posibilă retragere într-o experiență de \"bucurie pură\" la cel mai înalt nivel al fotbalului internațional. Povestea sa subliniază perseverența și dedicarea necesare pentru a atinge succesul și a depăși obstacolele.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-15T13:56:07.906237+00:00",
-      "data_afisaj": "15 iunie 2026, 16:56"
-    },
-    {
-      "id": "dddcb618a0a7",
-      "titlu": "Wirtz, Isak și Diomande impresionează la Cupa Mondială, în timp ce Iraola planifică revitalizarea Liverpool",
-      "rezumat": "Florian Wirtz, Alexander Isak și Yan Diomande au avut prestații remarcabile la Cupa Mondială, oferind o oportunitate excelentă de scouting pentru noul antrenor al lui Liverpool, Andoni Iraola. Phil McNulty subliniază că turneul final este un teren fertil pentru identificarea talentelor, iar acești jucători au demonstrat calități care ar putea fi esențiale pentru planurile lui Iraola de a reconstrui și întări echipa de pe Anfield. Performanțele lor sugerează un potențial de transfer semnificativ și o atenție sporită din partea cluburilor de top.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-15T13:56:07.908223+00:00",
-      "data_afisaj": "15 iunie 2026, 16:56"
-    },
-    {
-      "id": "2e04767cc620",
-      "titlu": "Manchester United va fi subiectul documentarului Amazon 'All or Nothing'",
-      "rezumat": "Manchester United va fi în centrul unui documentar de tip 'fly-on-the-wall' produs de Amazon Prime, care va urmări echipa pe parcursul campaniei 2026-27. Această serie va oferi fanilor o perspectivă unică și detaliată asupra vieții de zi cu zi a clubului, antrenamentelor, strategiilor și provocărilor cu care se confruntă jucătorii și staff-ul tehnic. Documentarul promite să dezvăluie aspecte inedite din culisele unuia dintre cele mai mari cluburi de fotbal din lume, oferind o incursiune profundă în universul 'Diavolilor Roșii'.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-15T13:56:07.909854+00:00",
-      "data_afisaj": "15 iunie 2026, 16:56"
-    },
-    {
-      "id": "1dcd695969db",
-      "titlu": "Antrenor demis la Cupa Mondială după o înfrângere dezastruoasă în meciul de deschidere",
-      "rezumat": "La doar cinci zile de la debutul Cupei Mondiale 2026, un antrenor a fost deja demis din funcție, conform rapoartelor. Decizia vine în urma unei înfrângeri considerate dezastruoase în meciul de deschidere al echipei sale. Această schimbare rapidă subliniază presiunea intensă și așteptările ridicate la un turneu de o asemenea anvergură, unde rezultatele imediate pot avea consecințe drastice asupra staff-ului tehnic. Este un eveniment rar și semnificativ în istoria recentă a competiției.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-06-15T13:56:07.911650+00:00",
-      "data_afisaj": "15 iunie 2026, 16:56"
     }
   ]
 }
