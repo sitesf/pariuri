@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-23T11:16:10.706818+00:00",
-  "updated_at_afisaj": "23 iunie 2026, 14:16",
+  "updated_at": "2026-06-23T18:00:58.146387+00:00",
+  "updated_at_afisaj": "23 iunie 2026, 21:00",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,69 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 140,
+  "numar_stiri": 135,
   "stiri": [
+    {
+      "id": "4e66bb8de5d8",
+      "titlu": "Portugalia v Uzbekistan: Cupa Mondială 2026 – în direct",
+      "rezumat": "⚽ Lansarea startului: ora 12:00 locală/13:00 EST/18:00 BST/3:00 AEST ⚽ Ghidul jucătorului | Bracketologie | Cizma de Aur | Mail Sarah O părere despre Ronaldo este deja primită de la Justin Kavanagh: Între narcisismul nesfârșit al lui Ronaldo și narkismul nesfârșit al lui Bruno Fernandes, Portugalia a devenit o echipă greu de plăcut. Ca să nu mai vorbim de lipsa de coloană vertebrală a antrenorului lor pentru a lua decizia de a renunța la un bărbat de 41 de ani, ceea ce nu ar trebui să fie atât de greu. Este păcat, pentru că sunt o țară cu o bună tradiție fotbalistică, care i-a făcut pe mulți",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "The Guardian Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-23T18:00:31.499505+00:00",
+      "data_afisaj": "23 iunie 2026, 21:00"
+    },
+    {
+      "id": "bc0aed0e31d6",
+      "titlu": "Trump va participa la finala Cupei Mondiale și va prezenta trofeul",
+      "rezumat": "Președintele Statelor Unite, Donald Trump, va participa la finala Cupei Mondiale și va ajuta la prezentarea trofeului, spune președintele FIFA, Gianni Infantino.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-23T18:00:31.501118+00:00",
+      "data_afisaj": "23 iunie 2026, 21:00"
+    },
+    {
+      "id": "91e4f8f65e18",
+      "titlu": "De la non-liga la Cupa Mondială - povestea Semenyo",
+      "rezumat": "Călătoria fotbalistică a lateralului Antoine Semenyo a început în ligile inferioare ale Angliei. BBC Sport își prezintă ascensiunea de la Bath City la Cupa Mondială, Ghana fiind pregătită să înfrunte Anglia.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-06-23T18:00:31.502732+00:00",
+      "data_afisaj": "23 iunie 2026, 21:00"
+    },
+    {
+      "id": "1c4a97caa4c8",
+      "titlu": "O'Neil semnează un contract de trei ani ca noul șef la Ipswich",
+      "rezumat": "Ipswich îl numește pe fostul șef de la Wolves și Bournemouth, Gary O'Neil, ca antrenor al lor, pe o contract de trei ani, după plecarea lui Kieran McKenna.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-06-23T18:00:31.504316+00:00",
+      "data_afisaj": "23 iunie 2026, 21:00"
+    },
+    {
+      "id": "23dd0a58f6a7",
+      "titlu": "Ramsey a numit antrenorul principal al Oxford United",
+      "rezumat": "Fostul mijlocaș de la Arsenal și Țara Galilor, Aaron Ramsey, este numit antrenor principal al Oxford United.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-06-23T18:00:31.505810+00:00",
+      "data_afisaj": "23 iunie 2026, 21:00"
+    },
     {
       "id": "11db266e014d",
       "titlu": "Cupa Mondială 2026: Martínez spune că criticile la adresa lui Ronaldo și Portugalia sunt „nedrepte”; Anglia se confruntă cu Ghana – în direct",
@@ -1533,124 +1594,6 @@
       ],
       "data_publicare": "2026-06-16T19:40:21.399097+00:00",
       "data_afisaj": "16 iunie 2026, 22:40"
-    },
-    {
-      "id": "11d6982e1075",
-      "titlu": "Cupa Mondială a Livramento este îndoială, în timp ce Chalobah se pregătea să intervină",
-      "rezumat": "Fundașul Angliei Tino Livramento ar putea rata campania Angliei la Cupa Mondială după ce a suferit o nouă accidentare în ajunul deschiderii turneului celor Trei Lei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-16T12:52:14.855165+00:00",
-      "data_afisaj": "16 iunie 2026, 15:52"
-    },
-    {
-      "id": "1204656b916b",
-      "titlu": "Cupa Mondială 2026: Livramento din Anglia a exclus; Viza jucătorului iranian expiră după deschidere; Tunisia îl angajează pe Renard – live",
-      "rezumat": "⚽ Toate cele mai recente din ziua a șasea a turneului ⚽ Ghidul jucătorului | Bracketologie | Cizma de Aur | Trimite-ne un e-mail Donald Trump: Președintele SUA se află în Franța pentru summitul G7, unde se întâlnește cu lideri mondiali. Acordul SUA-Iran va fi pe primul loc pe ordinea de zi după ce Trump s-a ciocnit cu aliații cheie și i-a amenințat. De ce menționez asta pe blogul Cupei Mondiale de Geopolitică? Pentru că cancelarul german, Friedrich Merz, a luat un baraj și a optat pentru a-i oferi lui Trump un cadou întârziat pentru aniversarea de 80 de ani: un top de fotbal din Germania w",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-16T12:52:14.857277+00:00",
-      "data_afisaj": "16 iunie 2026, 15:52"
-    },
-    {
-      "id": "267dc8dae629",
-      "titlu": "Acordul lui Tuchel cu Anglia include o clauză de performanță",
-      "rezumat": "Prelungirea contractului lui Thomas Tuchel în Anglia este supusă unei clauze de performanță, spune directorul executiv al FA, Mark Bullingham.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-16T12:52:14.858764+00:00",
-      "data_afisaj": "16 iunie 2026, 15:52"
-    },
-    {
-      "id": "99c8dfd2f22d",
-      "titlu": "Tunisia îl concediază pe Lamouchi la doar un meci la Cupa Mondială",
-      "rezumat": "Tunisia îl concediază pe Sabri Lamouchi la un meci de la Cupa Mondială, fostul antrenor al Marocului și al Arabia Saudită Herve Renard îl înlocuiește.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-16T12:52:14.860318+00:00",
-      "data_afisaj": "16 iunie 2026, 15:52"
-    },
-    {
-      "id": "cfe9a662fea3",
-      "titlu": "Faceți cunoștință cu jucătorul din Irak care va face istorie pentru Pakistan",
-      "rezumat": "Zidane Iqbal, un fost jucător de la Manchester United, va face istorie când va juca pentru Irak în această vară, devenind primul jucător din moștenirea pakistaneză care a participat la o Cupă Mondială masculină.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-16T12:52:14.861898+00:00",
-      "data_afisaj": "16 iunie 2026, 15:52"
-    },
-    {
-      "id": "300c38b20ba2",
-      "titlu": "Participarea lui Livramento la Cupa Mondială, sub semnul întrebării după o nouă accidentare",
-      "rezumat": "Fundașul englez Tino Livramento ar putea rata campania Angliei la Cupa Mondială după ce a suferit o nouă accidentare în ajunul meciului de deschidere al turneului pentru „Cei Trei Lei”.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-16T12:13:23.796621+00:00",
-      "data_afisaj": "16 iunie 2026, 15:13"
-    },
-    {
-      "id": "bd1249313896",
-      "titlu": "De la petreceri de burlaci la Cupa Mondială - ascensiunea celuilalt imn național al Scoției",
-      "rezumat": "De la petreceri de burlaci la Fenway Park, cum a devenit un hit disco din anii '70 coloana sonoră a Armatei Tartan?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-16T12:13:23.798268+00:00",
-      "data_afisaj": "16 iunie 2026, 15:13"
-    },
-    {
-      "id": "fc8a8fbee40f",
-      "titlu": "Cine sunt? Ghicește vedeta Cupei Mondiale numărul 9",
-      "rezumat": "Vei ghici jucătorul de astăzi în cât mai puține încercări?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-06-16T12:13:23.799625+00:00",
-      "data_afisaj": "16 iunie 2026, 15:13"
-    },
-    {
-      "id": "643b4ba9d844",
-      "titlu": "'Nu sunt un model' - Bielsa refuză să participe la ședința foto a Cupei Mondiale",
-      "rezumat": "Antrenorul Uruguayului și fostul antrenor al lui Leeds, Marcelo Bielsa, își apără apariția impasibilă în ședința foto oficială a Cupei Mondiale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-16T12:13:23.801146+00:00",
-      "data_afisaj": "16 iunie 2026, 15:13"
-    },
-    {
-      "id": "326b015f7f36",
-      "titlu": "Cupa Mondială 2026: Viza jucătorului iranian expiră după meciul de deschidere; Tunisia îl angajează pe Renard; Klopp criticat pentru remarcă – live",
-      "rezumat": "⚽ Toate noutățile din ziua a șasea a turneului ⚽ Ghidul jucătorilor | Bracketology | Gheata de Aur | Trimite-ne un mail Donald Trump: Președintele SUA se află în Franța pentru summitul G7 unde se întâlnește cu lideri mondiali. Acordul SUA-Iran va fi o prioritate pe agendă după ce Trump s-a confruntat și a amenințat aliați cheie. De ce menționez asta în blogul Geopolitics World Cup? Pentru că cancelarul german, Friedrich Merz, a riscat și a ales să-i ofere lui Trump un cadou întârziat de 80 de ani: un tricou de fotbal al Germaniei c",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-16T12:13:23.803038+00:00",
-      "data_afisaj": "16 iunie 2026, 15:13"
     }
   ]
 }
