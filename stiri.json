@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-23T18:00:58.146387+00:00",
-  "updated_at_afisaj": "23 iunie 2026, 21:00",
+  "updated_at": "2026-06-23T19:06:12.294487+00:00",
+  "updated_at_afisaj": "23 iunie 2026, 22:06",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 135,
+  "numar_stiri": 140,
   "stiri": [
+    {
+      "id": "f9e613cbf49e",
+      "titlu": "Având în vedere că Regatul Unit este în prezent mai fierbinte decât majoritatea locurilor de Cupă Mondială, iată tot echipamentul de care aveți nevoie pentru a învinge căldura și a vă bucura de fotbal în această Amazon Prime Day",
+      "rezumat": "Obțineți reduceri de reducere a căldurii la mini-frigidere, ventilatoare turn, grătare, televizoare și multe altele",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-23T19:05:48.338986+00:00",
+      "data_afisaj": "23 iunie 2026, 22:05"
+    },
+    {
+      "id": "852bc5d71622",
+      "titlu": "Vor urma fanii Angliei de la Boston exemplul Scoției?",
+      "rezumat": "După ce Scoția a câștigat inimile Bostonului, pot fanii Angliei să le calce pe urme?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-23T19:05:48.340652+00:00",
+      "data_afisaj": "23 iunie 2026, 22:05"
+    },
+    {
+      "id": "920f03304a0a",
+      "titlu": "Procesul care a salvat cariera lui Antoine Semenyo",
+      "rezumat": "BBC Sport urmărește povestea de origine a starului din Manchester City și Ghana, Antoine Semenyo, și aude de la fostul antrenor David Hockaday despre procesul care i-a salvat cariera.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-23T19:05:48.342221+00:00",
+      "data_afisaj": "23 iunie 2026, 22:05"
+    },
+    {
+      "id": "364076f96f95",
+      "titlu": "Modificările la Cupa Mondială au făcut ca meciurile finale ale grupelor să fie nedrepte?",
+      "rezumat": "Cu opt echipe care deja nu au pentru ce să joace, pericolul din faza grupelor de la Cupa Mondială a fost diminuat? Și sunt justificate preocupările cu privire la integritatea concurenței?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-23T19:05:48.343860+00:00",
+      "data_afisaj": "23 iunie 2026, 22:05"
+    },
+    {
+      "id": "2b9bf6ded9ce",
+      "titlu": "Condițiile de intrare ale Iranului pentru SUA s-au schimbat pentru meciul final din grupă",
+      "rezumat": "Echipa de fotbal a Iranului primește prelungiri în Statele Unite pentru a se pregăti pentru ultimul meci din grupa de la Cupa Mondială, a declarat Departamentul pentru Securitate Internă al SUA.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-23T19:05:48.345444+00:00",
+      "data_afisaj": "23 iunie 2026, 22:05"
+    },
     {
       "id": "4e66bb8de5d8",
       "titlu": "Portugalia v Uzbekistan: Cupa Mondială 2026 – în direct",
