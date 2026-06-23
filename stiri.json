@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-22T20:00:44.105531+00:00",
-  "updated_at_afisaj": "22 iunie 2026, 23:00",
+  "updated_at": "2026-06-23T10:38:04.912316+00:00",
+  "updated_at_afisaj": "23 iunie 2026, 13:38",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,65 @@
   },
   "numar_stiri": 135,
   "stiri": [
+    {
+      "id": "759c89e792d4",
+      "titlu": "Messi a intrat în istoria Cupei Mondiale, Argentina ajungând în ultimele 32",
+      "rezumat": "Lionel Messi devine cel mai mare marcator al Cupei Mondiale din toate timpurile, dubla lui împotriva Austriei, care o trimite pe deținătoarea Argentina în ultimele 32.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-23T10:37:41.847084+00:00",
+      "data_afisaj": "23 iunie 2026, 13:37"
+    },
+    {
+      "id": "428f8858dae7",
+      "titlu": "Toate unghiurile golului record al lui Messi",
+      "rezumat": "Urmărește toate unghiurile golului de deschidere al lui Lionel Messi, care a doborât recordul împotriva Austriei, în victoria Argentinei cu 2-0.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-06-23T10:37:41.848726+00:00",
+      "data_afisaj": "23 iunie 2026, 13:37"
+    },
+    {
+      "id": "28cfdb06465d",
+      "titlu": "Algeria a câștigat o victorie de întoarcere pentru a-i elimina pe debutanții la Cupa Mondială, Iordania",
+      "rezumat": "Debutanții Iordania au fost eliminati de la Cupa Mondială, după ce victoria Algeriei cu 2-1 în repriza a doua le-a menținut vii speranțele de a se califica în fazele eliminatorii.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-06-23T10:37:41.850339+00:00",
+      "data_afisaj": "23 iunie 2026, 13:37"
+    },
+    {
+      "id": "b55eeca6d189",
+      "titlu": "Cupa Mondială 2026: ghid pentru toți cei 1.248 de jucători",
+      "rezumat": "Tot ce trebuie să știi (și mai multe) despre fiecare membru al echipei. Faceți clic pe imaginile jucătorului pentru mai multe informații. Continuați să citiți...",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-23T10:37:41.851921+00:00",
+      "data_afisaj": "23 iunie 2026, 13:37"
+    },
+    {
+      "id": "626df7f1e07c",
+      "titlu": "O cursă Ghete de Aur pentru veacuri - dar cine va ieși în frunte?",
+      "rezumat": "Se transformă rapid într-o cursă de Ghete de Aur pentru secole, în calitate de cel mai bun atacant star din lume la Cupa Mondială. Dar cine va ieși în frunte?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-23T10:37:41.853650+00:00",
+      "data_afisaj": "23 iunie 2026, 13:37"
+    },
     {
       "id": "06ddc2f63574",
       "titlu": "Messi bate recordul de goluri la Cupa Mondială cu goluri împotriva Austriei",
@@ -1536,68 +1595,6 @@
       ],
       "data_publicare": "2026-06-16T12:13:23.803038+00:00",
       "data_afisaj": "16 iunie 2026, 15:13"
-    },
-    {
-      "id": "bedaf129e79e",
-      "titlu": "Belgia v Egipt: Cupa Mondială 2026 – în direct",
-      "rezumat": "⚽️ Ora startului: 12:00 locală/20:00 BST/15:00 EDT/5:00 AEST ⚽️ Spania 0-0 Capul Verde | Ghidul jucătorului | Bracketology Imnurile au fost scoase la centură și meciul este pe cale să înceapă. Cu Romelu Lukaku care începe pe bancă - abia a jucat tot sezonul - Charles De Ketelaere de la Atalanta va juca ca un fals nouă. „Va fi nevoie de ceva timp pentru ca Spania v Capul Verde să nu fie jocul meu al turneului”, scrie James Humphries, iar el este un susținător al Scoției. „Abia am putut să urmăresc ultimele cinci minute și t",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-15T20:21:48.181425+00:00",
-      "data_afisaj": "15 iunie 2026, 23:21"
-    },
-    {
-      "id": "b55eeca6d189",
-      "titlu": "Cupa Mondială 2026: ghid pentru toți cei 1.248 de jucători",
-      "rezumat": "Tot ce trebuie să știi (și mai multe) despre fiecare membru al echipei. Faceți clic pe imaginile jucătorului pentru mai multe informații. Continuați să citiți...",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-15T20:21:48.182847+00:00",
-      "data_afisaj": "15 iunie 2026, 23:21"
-    },
-    {
-      "id": "5c24de32c877",
-      "titlu": "Portarul în vârstă de 40 de ani care a inspirat debutul istoric al Capului Verde împotriva Spaniei",
-      "rezumat": "Capul Verde uimește Spania cu o remiză fără goluri inspirată de un portar de 40 de ani care a devenit viral pe rețelele de socializare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-06-15T20:21:48.184422+00:00",
-      "data_afisaj": "15 iunie 2026, 23:21"
-    },
-    {
-      "id": "a7b62d437202",
-      "titlu": "Tensiunea politică a subminat bucuria Cupei Mondiale, spune atacantul Iranului",
-      "rezumat": "Atacantul iranian Mehdi Taremi a spus că situația politică a țării „subminează bucuria Cupei Mondiale”.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-15T20:21:48.185894+00:00",
-      "data_afisaj": "15 iunie 2026, 23:21"
-    },
-    {
-      "id": "8d7617b50d08",
-      "titlu": "Nouă false? 4-4-2? Tendințele tactice care definesc Cupa Mondială de până acum",
-      "rezumat": "Revenirea lui 4-4-2? Nouă false? BBC Sport analizează tendințele tactice care au apărut până acum la Cupa Mondială.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-15T20:21:48.187412+00:00",
-      "data_afisaj": "15 iunie 2026, 23:21"
     }
   ]
 }
