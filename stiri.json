@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-23T10:38:04.912316+00:00",
-  "updated_at_afisaj": "23 iunie 2026, 13:38",
+  "updated_at": "2026-06-23T11:16:10.706818+00:00",
+  "updated_at_afisaj": "23 iunie 2026, 14:16",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 135,
+  "numar_stiri": 140,
   "stiri": [
+    {
+      "id": "11db266e014d",
+      "titlu": "Cupa Mondială 2026: Martínez spune că criticile la adresa lui Ronaldo și Portugalia sunt „nedrepte”; Anglia se confruntă cu Ghana – în direct",
+      "rezumat": "⚽ Toate cele mai recente știri din ziua 13 a turneului ⚽ Ghidul jucătorului | Bracketologie | Cizma de Aur | Trimiteți-ne un e-mail Omul nostru din tabără David Hytner trece sub capota (a dat în cuie) pregătirilor Angliei pentru Black Stars. Thomas Tuchel își împărtășește părerea despre ceea ce Ghana va aduce la Foxborough: \"Mă așteaptă la mai multă posesie de minge. Mă aștept ca Ghana să se bazeze pe contraatacuri, deoarece sunt foarte fizice, foarte rapide și periculoase\". Continuă să citești...",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-23T11:15:45.842405+00:00",
+      "data_afisaj": "23 iunie 2026, 14:15"
+    },
+    {
+      "id": "0b9db89f089d",
+      "titlu": "De la retragere la recorduri - un alt moment Messi nemuritor",
+      "rezumat": "La zece ani după ce a anunțat că renunță la fotbalul internațional, Lionel Messi încă bate recorduri pentru Argentina, campioană a Cupei Mondiale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-23T11:15:45.844052+00:00",
+      "data_afisaj": "23 iunie 2026, 14:15"
+    },
+    {
+      "id": "5b873cf7d79d",
+      "titlu": "Cum rezolvi o problemă ca Ronaldo?",
+      "rezumat": "Portugalia se confruntă cu Uzbekistanul cu Cristiano Ronaldo într-o formă proastă pentru țara sa și o reacție violentă pe rețelele de socializare împotriva coechipierilor săi.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-23T11:15:45.845605+00:00",
+      "data_afisaj": "23 iunie 2026, 14:15"
+    },
+    {
+      "id": "2b214b608800",
+      "titlu": "Călătoria lui Anderson în Anglia vedetă și potențial record britanic",
+      "rezumat": "Elliot Anderson a devenit o parte cheie a echipei Angliei a lui Thomas Tuchel și ar putea fi în pragul unui transfer record britanic.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-23T11:15:45.847231+00:00",
+      "data_afisaj": "23 iunie 2026, 14:15"
+    },
+    {
+      "id": "8fd90a747fb6",
+      "titlu": "Romantism din Miami, Billy Gilmour și un hot dog tocat și tatuaj",
+      "rezumat": "Alt oraș. Un alt stagiu. Încă un love-in al Armatei Tartanilor. Căldura față de fanii Scoției în timpul acestei Cupe Mondiale arde mai fierbinte decât soarele din Florida.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-23T11:15:45.848904+00:00",
+      "data_afisaj": "23 iunie 2026, 14:15"
+    },
     {
       "id": "759c89e792d4",
       "titlu": "Messi a intrat în istoria Cupei Mondiale, Argentina ajungând în ultimele 32",
