@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-24T17:59:21.190166+00:00",
-  "updated_at_afisaj": "24 iunie 2026, 20:59",
+  "updated_at": "2026-06-24T18:29:10.937390+00:00",
+  "updated_at_afisaj": "24 iunie 2026, 21:29",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,51 @@
   },
   "numar_stiri": 132,
   "stiri": [
+    {
+      "id": "88bfc72660b7",
+      "titlu": "Tottenham îl transferă pe Martin Dubravka cu titlu gratuit",
+      "rezumat": "Tottenham a ajuns la un acord pentru a-l semna pe portarul Martin Dubravka cu titlu gratuit, după expirarea contractului său cu Burnley la 1 iulie. Această mutare vine pe fondul incertitudinilor legate de viitorul actualului portar Guglielmo Vicario la clubul londonez. Dubravka, cu experiență considerabilă în Premier League, este așteptat să aducă stabilitate și o opțiune solidă pentru poarta lui Spurs, consolidând lotul pentru sezonul viitor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-24T18:29:10.931533+00:00",
+      "data_afisaj": "24 iunie 2026, 21:29"
+    },
+    {
+      "id": "a02d745a16df",
+      "titlu": "Leeds United ajunge la un acord cu atacantul Harry Wilson",
+      "rezumat": "Leeds United a convenit un contract pe termen lung cu atacantul Harry Wilson de la Fulham. Jucătorul se va alătura clubului din Leeds cu titlu gratuit, după expirarea contractului său actual la 1 iulie. Această achiziție este considerată o mutare importantă pentru Leeds, aducând un plus de forță ofensivă și experiență echipei, în vederea obiectivelor stabilite pentru noul sezon.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-06-24T18:29:10.933149+00:00",
+      "data_afisaj": "24 iunie 2026, 21:29"
+    },
+    {
+      "id": "a09807843607",
+      "titlu": "Columbia se califică în optimile de finală ale Cupei Mondiale 2026",
+      "rezumat": "Columbia și-a asigurat un loc în faza eliminatorie a Cupei Mondiale 2026, după o victorie cu 1-0 împotriva Republicii Democrate Congo. Golul deviat al lui Daniel Munoz a fost suficient pentru a aduce cele trei puncte și a confirma calificarea echipei în optimile de finală ale competiției. Această performanță subliniază ambițiile Columbiei de a progresa cât mai mult în turneu.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-24T18:29:10.934834+00:00",
+      "data_afisaj": "24 iunie 2026, 21:29"
+    },
+    {
+      "id": "163627d7d984",
+      "titlu": "Ronaldinho semnează cu echipa de Serie C Ravenna la vârsta de 46 de ani",
+      "rezumat": "Legendarul fotbalist brazilian Ronaldinho a semnat un contract cu clubul italian de Serie C Ravenna, la vârsta de 46 de ani, la peste un deceniu după ce s-a retras din fotbalul profesionist. \"Abia aștept să dansez cu mingea\", a declarat Ronaldinho, exprimându-și entuziasmul de a aduce bucurie și spiritul său unic la Ravenna. Această revenire surprinzătoare a fost primită cu entuziasm de fanii fotbalului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-24T18:29:10.937369+00:00",
+      "data_afisaj": "24 iunie 2026, 21:29"
+    },
     {
       "id": "e903bf41c36b",
       "titlu": "Elveția v Canada: Cupa Mondială 2026 – în direct",
@@ -1516,50 +1561,6 @@
       ],
       "data_publicare": "2026-06-17T19:20:09.690231+00:00",
       "data_afisaj": "17 iunie 2026, 22:20"
-    },
-    {
-      "id": "ea102a547b1c",
-      "titlu": "Mama portarului din Capul Verde, Vozinha, va primi viză pentru a asista la Cupa Mondială din SUA",
-      "rezumat": "Mama portarului naționalei Capului Verde, Vozinha, va putea obține o viză pentru a intra în Statele Unite și a-și susține fiul la Cupa Mondială. Anunțul a fost făcut de liderul Camerei Reprezentanților din SUA, Hakeem Jeffries, care a confirmat că taxele au fost anulate. Această veste vine după ce problemele legate de costuri au împiedicat-o să participe la meciul istoric al echipei sale împotriva Spaniei, o remiză fără goluri, aducând o notă umană în contextul marelui turneu.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-17T18:23:42.006033+00:00",
-      "data_afisaj": "17 iunie 2026, 21:23"
-    },
-    {
-      "id": "474b4d5c1f0a",
-      "titlu": "Proteste anunțate împotriva sponsorului Hyundai înainte de meciul Mexic – Coreea de Sud",
-      "rezumat": "Un protest este planificat împotriva sponsorului Cupei Mondiale, Hyundai, înainte de meciul din Grupa A dintre Mexic și Coreea de Sud, care va avea loc la Guadalajara. Manifestanții vor să atragă atenția asupra legăturilor de afaceri ale companiei auto cu Ternium, o companie minieră sud-americană. Un raport din 2025 al grupului ecologist Mighty Earth a criticat implicarea Hyundai într-un \"lanț de aprovizionare cu oțel murdar\", evidențiind preocupări etice și de mediu legate de turneul global.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-17T18:23:42.007936+00:00",
-      "data_afisaj": "17 iunie 2026, 21:23"
-    },
-    {
-      "id": "72d5d9228a92",
-      "titlu": "Giovanni van Bronckhorst revine la Feyenoord în funcția de antrenor principal",
-      "rezumat": "Giovanni van Bronckhorst a fost numit din nou antrenor principal al echipei Feyenoord, semnând un contract pe doi ani, cu opțiunea de prelungire pentru încă un an. Fostul internațional olandez revine la clubul unde a avut succes și în primul său mandat ca antrenor, conducând echipa către titlul de campioană a Olandei în 2017. Această mutare marchează o revenire importantă pentru Van Bronckhorst în fotbalul olandez, cu speranța de a readuce clubul la performanțe de top.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-17T18:23:42.009691+00:00",
-      "data_afisaj": "17 iunie 2026, 21:23"
-    },
-    {
-      "id": "68048ce2aadc",
-      "titlu": "Acuzații de evaziune fiscală la CFR Cluj, vizați membrii Consiliului de Administrație",
-      "rezumat": "Poliția Economică investighează acuzații de evaziune fiscală la clubul CFR Cluj, vizând membrii Consiliului de Administrație. Detaliile investigației sugerează nereguli financiare semnificative, care ar putea avea implicații serioase pentru conducerea clubului și pentru viitorul acestuia. Această situație reprezintă un șoc pentru fotbalul românesc și ar putea duce la sancțiuni severe, în funcție de rezultatele anchetei, afectând imaginea și stabilitatea unuia dintre cluburile de top din țară.",
-      "categorie": "Fotbal",
-      "surse": [
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-06-17T18:23:42.011517+00:00",
-      "data_afisaj": "17 iunie 2026, 21:23"
     }
   ]
 }
