@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-24T10:24:39.691758+00:00",
-  "updated_at_afisaj": "24 iunie 2026, 13:24",
+  "updated_at": "2026-06-24T10:48:57.138822+00:00",
+  "updated_at_afisaj": "24 iunie 2026, 13:48",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,67 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 132,
+  "numar_stiri": 137,
   "stiri": [
+    {
+      "id": "09f0c2203a7d",
+      "titlu": "Nu trebuie să intrați în panică pentru Anglia - dar aceasta a fost o verificare a realității",
+      "rezumat": "Remiza lipsită de goluri a Angliei cu Ghana nu este un motiv de panică - dar servește drept verificare a realității, scrie Phil McNulty.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-06-24T10:48:31.499575+00:00",
+      "data_afisaj": "24 iunie 2026, 13:48"
+    },
+    {
+      "id": "fc8a8fbee40f",
+      "titlu": "cine sunt eu? Guess Steaua Cupei Mondiale nr. 17",
+      "rezumat": "Veți obține jucătorul de astăzi în cât mai puține încercări?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-24T10:48:31.500762+00:00",
+      "data_afisaj": "24 iunie 2026, 13:48"
+    },
+    {
+      "id": "017ccab9b56d",
+      "titlu": "Anglia a ținut la egalitate fără goluri de Ghana",
+      "rezumat": "Anglia nu reușește să-și repete performanța care a depășit Croația în primul lor meci la Cupa Mondială, deoarece este ținută la egalitate de o Ghana hotărâtă pe stadionul Boston.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-24T10:48:31.501852+00:00",
+      "data_afisaj": "24 iunie 2026, 13:48"
+    },
+    {
+      "id": "398d503d765c",
+      "titlu": "Cupa Mondială 2026: Anglia frustrată; Scoția se confruntă cu Brazilia; Infantino apără pauzele de hidratare – în direct",
+      "rezumat": "⚽ Toate cele mai recente știri într-o zi plină cu șase meciuri ⚽ Ghidul jucătorului | Bracketologie | Cizma de Aur | Trimiteți-ne un e-mail Cum ne simțim cu privire la pedeapsa care nu a fost? Nu văd cum să nu-l dai. Fatawu a intrat și Konsa se lansează în el, apropiindu-se de minge fără nicio șansă de a ajunge la minge – ceea ce îl face și un cartonaș roșu. Continuă să citești...",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-24T10:48:31.503328+00:00",
+      "data_afisaj": "24 iunie 2026, 13:48"
+    },
+    {
+      "id": "712816b7f9f6",
+      "titlu": "„VAR a mers la o cafea” – ar fi trebuit Ghana să aibă penalty împotriva Angliei?",
+      "rezumat": "Fanii Angliei au fost frustrați de egalul fără goluri împotriva Ghanei, dar a avut norocul echipei lui Thomas Tuchel să nu fi acordat un penalty?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-24T10:48:31.504648+00:00",
+      "data_afisaj": "24 iunie 2026, 13:48"
+    },
     {
       "id": "e8d20b2b0b88",
       "titlu": "Coreea de Sud se confruntă cu provocări extra-sportive la Cupa Mondială",
