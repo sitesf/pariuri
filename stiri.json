@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-23T19:06:12.294487+00:00",
-  "updated_at_afisaj": "23 iunie 2026, 22:06",
+  "updated_at": "2026-06-24T10:24:39.691758+00:00",
+  "updated_at_afisaj": "24 iunie 2026, 13:24",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,19 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 140,
+  "numar_stiri": 132,
   "stiri": [
+    {
+      "id": "e8d20b2b0b88",
+      "titlu": "Coreea de Sud se confruntă cu provocări extra-sportive la Cupa Mondială",
+      "rezumat": "Naționala Coreei de Sud, condusă de Hong Myung-bo, a avut parte de o serie de incidente în afara terenului la Cupa Mondială 2026. Echipa s-a confruntat cu probleme precum ironii la adresa serviciului militar al lui Son Heung-min și doborârea unei drone în apropierea cantonamentului. În ciuda acestor distrageri, un punct obținut împotriva Africii de Sud ar fi suficient pentru a asigura calificarea. Aceste evenimente adaugă o notă de haos la parcursul echipei asiatice în turneu, testând rezistența mentală a jucătorilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-24T10:24:39.691711+00:00",
+      "data_afisaj": "24 iunie 2026, 13:24"
+    },
     {
       "id": "f9e613cbf49e",
       "titlu": "Având în vedere că Regatul Unit este în prezent mai fierbinte decât majoritatea locurilor de Cupă Mondială, iată tot echipamentul de care aveți nevoie pentru a învinge căldura și a vă bucura de fotbal în această Amazon Prime Day",
@@ -1547,109 +1558,6 @@
       ],
       "data_publicare": "2026-06-17T11:51:30.469547+00:00",
       "data_afisaj": "17 iunie 2026, 14:51"
-    },
-    {
-      "id": "4a5bfdfdcf3b",
-      "titlu": "Până la 15.000 de fani englezi se îndreaptă spre Dallas pentru meciul de deschidere al Cupei Mondiale",
-      "rezumat": "Aproximativ 15.000 de suporteri ai naționalei Angliei au început să sosească în Dallas pentru a susține echipa la meciul de deschidere al campaniei lor la Cupa Mondială 2026. Fanii englezi au așteptat mai mult decât majoritatea pentru debutul echipei lor la turneu, iar acum entuziasmul crește pe măsură ce se pregătesc să fie prezenți la primul joc al Angliei în competiție.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-16T20:10:55.710625+00:00",
-      "data_afisaj": "16 iunie 2026, 23:10"
-    },
-    {
-      "id": "0ee04eb4f6d7",
-      "titlu": "Remize record și un start lent al echipelor europene la Cupa Mondială: Lipsește miza?",
-      "rezumat": "Șapte din cele zece echipe europene care au evoluat până acum la Cupa Mondială 2026 nu au reușit să obțină victorii, înregistrând un număr neobișnuit de mare de remize. Această tendință ridică întrebări despre competitivitatea turneului și dacă factori precum căldura excesivă influențează performanțele echipelor, în special pe cele europene, care par să aibă un start mai lent decât se anticipa.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-16T20:10:55.712503+00:00",
-      "data_afisaj": "16 iunie 2026, 23:10"
-    },
-    {
-      "id": "86d3324ebae0",
-      "titlu": "Alegerile defensive riscante ale lui Tuchel și implicațiile pentru Alexander-Arnold la Cupa Mondială",
-      "rezumat": "Selecția defensivă cu risc ridicat a antrenorului Angliei, Thomas Tuchel, pentru Cupa Mondială a fost expusă de accidentarea lui Tino Livramento, în timp ce Trent Alexander-Arnold a fost din nou ignorat, conform analizei lui Phil McNulty. Deciziile lui Tuchel privind apărarea au stârnit discuții, mai ales în contextul absenței lui Livramento și al omiterii repetate a lui Alexander-Arnold din lot, sugerând o strategie defensivă neconvențională pentru turneu.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-16T20:10:55.714398+00:00",
-      "data_afisaj": "16 iunie 2026, 23:10"
-    },
-    {
-      "id": "55c992077444",
-      "titlu": "Lipsa segregării fanilor la Cupa Mondială reprezintă un risc, avertizează șeful suporterilor",
-      "rezumat": "Șeful grupului de suporteri Football Supporters Europe a declarat că lipsa segregării adecvate a fanilor la Cupa Mondială 2026 demonstrează că FIFA a 'pierdut controlul asupra sistemului de ticketing'. Această situație ridică îngrijorări serioase privind siguranța și ordinea pe stadioane, sugerând că organizatorii nu au implementat măsuri suficiente pentru a preveni potențialele incidente între suporterii echipelor rivale, o problemă crucială pentru buna desfășurare a evenimentului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-16T20:10:55.716207+00:00",
-      "data_afisaj": "16 iunie 2026, 23:10"
-    },
-    {
-      "id": "90fd65894efa",
-      "titlu": "Tottenham Hotspur a ajuns la un acord de 52 de milioane de lire sterline pentru transferul lui Jan Paul van Hecke",
-      "rezumat": "Tottenham Hotspur a convenit cu Brighton un acord în valoare de 52 de milioane de lire sterline pentru transferul fundașului olandez Jan Paul van Hecke. Jucătorul, care a reprezentat Olanda la Cupa Mondială, este așteptat să se alăture echipei din nordul Londrei, consolidând astfel defensiva Spurs. Această mutare reprezintă o achiziție importantă pentru Tottenham în vederea sezonului viitor, aducând un fundaș cu experiență internațională și confirmând intențiile clubului pe piața transferurilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-06-16T19:40:21.393024+00:00",
-      "data_afisaj": "16 iunie 2026, 22:40"
-    },
-    {
-      "id": "6bb317fedd93",
-      "titlu": "Iordania și Uzbekistan debutează la Cupa Mondială 2026",
-      "rezumat": "Iordania și Uzbekistan se pregătesc pentru primele lor meciuri la Cupa Mondială 2026, marcând o premieră istorică pentru ambele națiuni asiatice. Iordania va înfrunta Austria, Algeria și Argentina, în timp ce Uzbekistan va juca împotriva Columbiei, Portugaliei și Republicii Democrate Congo. Străzile din Amman și Tașkent sunt pline de entuziasm, suporterii fiind dornici să vadă cum echipele lor se vor descurca împotriva unor adversari de calibru mondial în această competiție majoră.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-16T19:40:21.394463+00:00",
-      "data_afisaj": "16 iunie 2026, 22:40"
-    },
-    {
-      "id": "dc304d78162b",
-      "titlu": "FIFA confirmă cauza erorii VAR în meciul Elveția – Qatar de la Cupa Mondială",
-      "rezumat": "FIFA a emis o declarație prin care a confirmat cauza unei erori VAR considerate \"suspecte\" în timpul meciului dintre Elveția și Qatar de la Cupa Mondială 2026. Incidentul a generat controverse și a ridicat semne de întrebare cu privire la funcționarea sistemului de arbitraj video. Declarația oficială a FIFA urmărește să clarifice circumstanțele care au dus la această eroare și să restabilească încrederea în deciziile luate cu ajutorul tehnologiei VAR în timpul turneului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-06-16T19:40:21.396049+00:00",
-      "data_afisaj": "16 iunie 2026, 22:40"
-    },
-    {
-      "id": "81f71881c79d",
-      "titlu": "Uruguay se confruntă cu dificultăți de călătorie la Cupa Mondială 2026",
-      "rezumat": "Echipa națională a Uruguayului se confruntă cu probleme logistice și de călătorie la Cupa Mondială 2026. Aceste dificultăți, care nu sunt legate de performanța pe teren, ar putea afecta pregătirea și moralul jucătorilor. Detaliile exacte ale problemelor nu au fost specificate, dar situația a fost semnalată de mai multe surse. Echipa încearcă să gestioneze aceste impedimente pentru a se concentra pe competiția sportivă și a asigura o participare optimă la turneu.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-06-16T19:40:21.397494+00:00",
-      "data_afisaj": "16 iunie 2026, 22:40"
-    },
-    {
-      "id": "ab16a5e4c3a4",
-      "titlu": "Arsenal confirmă transferul unui tânăr talent, depășind concurența lui Liverpool",
-      "rezumat": "Arsenal a finalizat transferul unui tânăr jucător considerat un \"wonderkid\", reușind să-l aducă la club în ciuda interesului manifestat de Liverpool. Această achiziție subliniază strategia \"Tunarilor\" de a investi în viitor și de a-și consolida lotul cu talente promițătoare. Transferul este văzut ca un succes pentru Arsenal în cursa pentru semnătura tânărului fotbalist, adăugând profunzime și potențial echipei înaintea noului sezon competițional.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-06-16T19:40:21.399097+00:00",
-      "data_afisaj": "16 iunie 2026, 22:40"
     }
   ]
 }
