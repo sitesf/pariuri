@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-25T10:16:45.973276+00:00",
-  "updated_at_afisaj": "25 iunie 2026, 13:16",
+  "updated_at": "2026-06-25T10:41:12.744190+00:00",
+  "updated_at_afisaj": "25 iunie 2026, 13:41",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,66 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 133,
+  "numar_stiri": 138,
   "stiri": [
+    {
+      "id": "5f467fcf9deb",
+      "titlu": "Scoția, aproape de eliminare după înfrângerea cu Brazilia la Cupa Mondială",
+      "rezumat": "Speranțele Scoției de a ajunge pentru prima dată în fazele eliminatorii ale Cupei Mondiale sunt serios amenințate, după ce o apărare catastrofală a permis Braziliei să câștige cu 3-0 la Miami și să termine pe primul loc în Grupa C. Rezultatul plasează Scoția într-o poziție dificilă, depinzând acum de rezultatele altor meciuri pentru a mai spera la calificarea în optimi. Echipa a arătat deficiențe majore în defensivă, care au fost exploatate eficient de atacul brazilian.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-25T10:41:12.736872+00:00",
+      "data_afisaj": "25 iunie 2026, 13:41"
+    },
+    {
+      "id": "b708d5fe55e4",
+      "titlu": "Fotbalistul francez Kenzo Kies, în vârstă de 21 de ani, a murit înecat",
+      "rezumat": "O veste tragică a lovit lumea fotbalului francez: Kenzo Kies, un tânăr fotbalist promițător de 21 de ani, a decedat după ce s-a înecat în râul Ron. Detaliile exacte ale incidentului nu au fost încă pe deplin clarificate, însă vestea a șocat comunitatea sportivă. Clubul la care activa și apropiații jucătorului au transmis mesaje de condoleanțe, deplângând pierderea prematură a talentatului sportiv și exprimându-și profunda tristețe.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-25T10:41:12.738792+00:00",
+      "data_afisaj": "25 iunie 2026, 13:41"
+    },
+    {
+      "id": "6d59693f188b",
+      "titlu": "Cupa Mondială a Cluburilor se va extinde probabil la 48 de echipe din 2029",
+      "rezumat": "FIFA a ajuns la un acord cu grupul de lobby European Football Clubs (EFC) pentru a crea o societate mixtă care va opera Cupa Mondială a Cluburilor. Ediția din 2029 este preconizată să se extindă de la 32 la 48 de cluburi, ceea ce ar putea permite mai multor echipe din Premier League să participe la această competiție profitabilă. Chelsea a câștigat aproximativ 84 de milioane de lire sterline la ediția inaugurală cu 32 de echipe de anul trecut, ceea ce a stârnit interesul altor cluburi europene mari.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-25T10:41:12.740551+00:00",
+      "data_afisaj": "25 iunie 2026, 13:41"
+    },
+    {
+      "id": "5d17e4d226d8",
+      "titlu": "Mexic elimină Cehia și își menține recordul de victorii la Cupa Mondială",
+      "rezumat": "Echipa națională a Mexicului a obținut o victorie convingătoare împotriva Cehiei, marcând trei goluri în a doua repriză și eliminând astfel adversara din Cupa Mondială. Mexicul încheie faza grupelor cu punctaj maxim, demonstrând o formă excelentă și confirmându-și statutul de favorită. Această performanță solidă le oferă un moral ridicat pentru fazele eliminatorii ale competiției, unde speră să continue parcursul impresionant început în faza grupelor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-06-25T10:41:12.742313+00:00",
+      "data_afisaj": "25 iunie 2026, 13:41"
+    },
+    {
+      "id": "4249a32104cd",
+      "titlu": "Marocul avansează în fazele eliminatorii ale Cupei Mondiale după victoria împotriva Haiti",
+      "rezumat": "Echipa națională a Marocului s-a calificat în fazele eliminatorii ale Cupei Mondiale 2026, după o victorie dramatică împotriva Haiti. Soufiane Rahimi și Gessime Yassine au marcat goluri decisive pe finalul meciului, disputat la Atlanta, negând astfel Haiti primul punct din istoria participărilor sale la Cupa Mondială. Performanța Marocului este salutată ca un succes important pentru fotbalul african, consolidând prezența continentului în etapele superioare ale competiției globale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-25T10:41:12.744172+00:00",
+      "data_afisaj": "25 iunie 2026, 13:41"
+    },
     {
       "id": "f400c9d0918c",
       "titlu": "Programul meciurilor Cupei Mondiale 2026 - ghidul tău zi de zi",
