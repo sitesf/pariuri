@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-24T18:29:10.937390+00:00",
-  "updated_at_afisaj": "24 iunie 2026, 21:29",
+  "updated_at": "2026-06-25T10:16:45.973276+00:00",
+  "updated_at_afisaj": "25 iunie 2026, 13:16",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,69 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 132,
+  "numar_stiri": 133,
   "stiri": [
+    {
+      "id": "f400c9d0918c",
+      "titlu": "Programul meciurilor Cupei Mondiale 2026 - ghidul tău zi de zi",
+      "rezumat": "Iată defalcarea zi de zi a Cupei Mondiale cu 48 de echipe, pe durata a 37 de zile, care include 103 meciuri până la finala din 19 iulie.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-25T10:16:38.567390+00:00",
+      "data_afisaj": "25 iunie 2026, 13:16"
+    },
+    {
+      "id": "e396db3c0707",
+      "titlu": "Ce are nevoie Scoția pentru a ajunge în fazele eliminatorii ale Cupei Mondiale?",
+      "rezumat": "După înfrângerea cu 3-0 în fața Braziliei, BBC Sport analizează ce are nevoie Scoția pentru a ajunge în faza eliminatorie.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-06-25T10:16:38.568910+00:00",
+      "data_afisaj": "25 iunie 2026, 13:16"
+    },
+    {
+      "id": "ea20326db405",
+      "titlu": "'Cred că mergem acasă' - Clarke și McGinn regretă greșelile Scoției",
+      "rezumat": "Scoția va trebui să aștepte până, posibil, în primele ore ale zilei de duminică pentru a afla dacă își va continua campania la Cupa Mondială, dar mijlocașul John McGinn suspectează că acest lucru este \"improbabil\", iar antrenorul principal Steve Clarke suspectează că \"merg acasă\".",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-06-25T10:16:38.570461+00:00",
+      "data_afisaj": "25 iunie 2026, 13:16"
+    },
+    {
+      "id": "0d921162e68c",
+      "titlu": "Africa de Sud în șaisprezecimi după victoria împotriva Coreei de Sud",
+      "rezumat": "Golul lui Thapelo Maseko din a doua repriză oferă Africii de Sud o victorie cu 1-0 împotriva Coreei de Sud în Monterrey și o trimite în faza eliminatorie a Cupei Mondiale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-25T10:16:38.571938+00:00",
+      "data_afisaj": "25 iunie 2026, 13:16"
+    },
+    {
+      "id": "27963c776981",
+      "titlu": "CM 2026 Scandal imens la Campionatul Mondial! Căpitanul naționalei care a șocat Portugalia ar fi cu șase ani mai bătrân decât în acte",
+      "rezumat": "(rezumat indisponibil)",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-06-25T10:16:38.573969+00:00",
+      "data_afisaj": "25 iunie 2026, 13:16"
+    },
     {
       "id": "88bfc72660b7",
       "titlu": "Tottenham îl transferă pe Martin Dubravka cu titlu gratuit",
@@ -1513,54 +1574,6 @@
       ],
       "data_publicare": "2026-06-18T11:10:39.075041+00:00",
       "data_afisaj": "18 iunie 2026, 14:10"
-    },
-    {
-      "id": "0e8c569ba429",
-      "titlu": "Rangers îl numește pe Derek McInnes în funcția de antrenor principal",
-      "rezumat": "Clubul scoțian Rangers a anunțat numirea lui Derek McInnes în funcția de antrenor principal, încheind un acord pe o perioadă de trei ani. McInnes preia echipa după un sezon remarcabil la conducerea formației Hearts. Această mutare vine în urma plecării lui Danny Röhl de la cârma echipei de pe Ibrox. Numirea a fost confirmată de mai multe surse sportive de top, subliniind importanța acestei decizii pentru viitorul clubului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football",
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-17T19:20:09.684846+00:00",
-      "data_afisaj": "17 iunie 2026, 22:20"
-    },
-    {
-      "id": "f8c073e00662",
-      "titlu": "Portugalia a remizat cu RD Congo la Cupa Mondială 2026; Cristiano Ronaldo a avut o prestație modestă",
-      "rezumat": "Naționala Portugaliei a debutat la Cupa Mondială 2026 cu o remiză dezamăgitoare, scor 1-1, împotriva Republicii Democrate Congo. Cristiano Ronaldo a avut o prestație sub așteptări în primul său meci la turneu, nereușind să impresioneze și fiind considerat unul dintre cei mai slabi jucători de pe teren. Rezultatul reprezintă un start lent pentru Portugalia, care spera la o victorie clară în fața adversarului său.",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-06-17T19:20:09.686795+00:00",
-      "data_afisaj": "17 iunie 2026, 22:20"
-    },
-    {
-      "id": "e9dd71ce4340",
-      "titlu": "Luka Modric și Croația continuă să sfideze așteptările la Cupa Mondială",
-      "rezumat": "Povestea lui Luka Modric, copilul refugiat de război care a ajuns să câștige șase titluri de Liga Campionilor și un Balon de Aur, este un simbol al rezilienței. Modric și echipa națională a Croației, adversara Angliei la Cupa Mondială, continuă să demonstreze o capacitate remarcabilă de a depăși obstacolele și de a obține performanțe notabile pe scena internațională, sfidând de fiecare dată pronosticurile.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-17T19:20:09.688462+00:00",
-      "data_afisaj": "17 iunie 2026, 22:20"
-    },
-    {
-      "id": "533f6e1be956",
-      "titlu": "Scoția se pregătește să facă față căldurii intense la meciurile de la Cupa Mondială",
-      "rezumat": "Echipa națională a Scoției se confruntă cu o provocare suplimentară la Cupa Mondială, având în vedere că meciurile sale sunt programate să se desfășoare la temperaturi de aproximativ 30 de grade Celsius. Antrenorul Steve Clarke și jucătorii săi vor trebui să lupte nu doar împotriva adversarilor precum Maroc și Brazilia, ci și împotriva condițiilor climatice dificile, adaptându-și strategia pentru a gestiona căldura sufocantă din timpul partidelor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-17T19:20:09.690231+00:00",
-      "data_afisaj": "17 iunie 2026, 22:20"
     }
   ]
 }
