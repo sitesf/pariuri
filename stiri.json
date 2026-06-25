@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-25T18:14:04.995110+00:00",
-  "updated_at_afisaj": "25 iunie 2026, 21:14",
+  "updated_at": "2026-06-25T19:03:40.991787+00:00",
+  "updated_at_afisaj": "25 iunie 2026, 22:03",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,66 @@
   },
   "numar_stiri": 134,
   "stiri": [
+    {
+      "id": "e442526b28fa",
+      "titlu": "Ecuador v Germania: Cupa Mondială 2026 – în direct",
+      "rezumat": "⚽️ Lansarea Cupei Mondiale: 16:00 EDT/21:00 BST/6:00 AEST ⚽️ Locul trei | Ghidul jucătorului | Și e-mail Scott Ecuador: Galindez, Franco, Ordonez, Pacho, Hincapie, Yeboah, Vite, Moises Caicedo, Angulo, Plata, Enner Valencia. Înlocuitori: Ramirez, Valle, Torres, Alcivar, Estupinan, Anthony Valencia, Paez, Rodriguez, Minda, Jordy Caicedo, Preciado, Castillo, Arevalo, Porozo, Medina. Germania: Neuer, Kimmich, Rudiger, Tah, Raum, Nmecha, Pavlovic, Sane, Musiala, Wirtz, Havertz. Înlocuitori: Baumann, Nubel, Anton, Goretzka,",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "The Guardian Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-25T19:03:16.614783+00:00",
+      "data_afisaj": "25 iunie 2026, 22:03"
+    },
+    {
+      "id": "669d1d5b9512",
+      "titlu": "Jocurile care arată defectele unei Cupe Mondiale cu 48 de echipe",
+      "rezumat": "Două meciuri din runda finală a grupelor oferă șansa ca două echipe să joace pur și simplu o remiză pentru a se califica.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-06-25T19:03:16.616344+00:00",
+      "data_afisaj": "25 iunie 2026, 22:03"
+    },
+    {
+      "id": "cf19ded3df03",
+      "titlu": "Noutățile echipei Ecuador vs Germania și Curacao vs Coasta de Fildeș LIVE!",
+      "rezumat": "(rezumat indisponibil)",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-06-25T19:03:16.617886+00:00",
+      "data_afisaj": "25 iunie 2026, 22:03"
+    },
+    {
+      "id": "08d7fc0384a3",
+      "titlu": "Gigi Becali a intrat în direct la TV și a făcut anunțul despre negocierile cu Florin Tănase: „E rezolvată! Poate aduc altul de cinci ori mai bun”",
+      "rezumat": "(rezumat indisponibil)",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-06-25T19:03:16.620098+00:00",
+      "data_afisaj": "25 iunie 2026, 22:03"
+    },
+    {
+      "id": "23e5fb177eab",
+      "titlu": "De ce este timpul pentru Saka și Rashford - Shearer",
+      "rezumat": "Fostul căpitan al Angliei, Alan Shearer, explică de ce Thomas Tuchel trebuie să schimbe o parte din personal, precum și mentalitatea echipei sale atunci când se confruntă cu Panama.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-25T19:03:16.621593+00:00",
+      "data_afisaj": "25 iunie 2026, 22:03"
+    },
     {
       "id": "1a326a67f203",
       "titlu": "Alexia Putellas se alătură echipei London City Lionesses",
@@ -1523,67 +1583,6 @@
       ],
       "data_publicare": "2026-06-18T19:23:01.806043+00:00",
       "data_afisaj": "18 iunie 2026, 22:23"
-    },
-    {
-      "id": "474bc49c360a",
-      "titlu": "Elveția și Bosnia și Herțegovina se întâlnesc la Cupa Mondială 2026",
-      "rezumat": "Meciul dintre Elveția și Bosnia și Herțegovina este în desfășurare, făcând parte din programul Cupei Mondiale 2026. Partida a început la ora locală 12:00 (15:00 EDT/20:00 BST). Fanii și analiștii urmăresc cu interes evoluția celor două echipe, în contextul în care primele meciuri ale turneului au oferit deja surprize și prestații variate. Se anticipează o confruntare echilibrată, cu ambele formații luptând pentru puncte esențiale în faza grupelor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-18T18:28:20.828934+00:00",
-      "data_afisaj": "18 iunie 2026, 21:28"
-    },
-    {
-      "id": "3fc371e04c64",
-      "titlu": "Analiza statistică a Cupei Mondiale 2026 după prima rundă de meciuri",
-      "rezumat": "După ce toate echipele participante la Cupa Mondială 2026 au disputat cel puțin un meci, BBC Sport și World Soccer au publicat o analiză detaliată a performanțelor individuale și colective. Studiul evidențiază jucătorii cu cele mai multe șuturi la poartă, cei mai buni dribleri și alte statistici cheie care definesc startul turneului. Această privire de ansamblu oferă o perspectivă numerică asupra echipelor și fotbaliștilor care s-au remarcat, sau dimpotrivă, au dezamăgit în primele etape ale competiției.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-18T18:28:20.830706+00:00",
-      "data_afisaj": "18 iunie 2026, 21:28"
-    },
-    {
-      "id": "fd8d971a31fe",
-      "titlu": "Cehia și Africa de Sud încheie la egalitate, scor 1-1, la Cupa Mondială 2026",
-      "rezumat": "Reprezentativele Cehiei și Africii de Sud au remizat, scor 1-1, în cadrul Cupei Mondiale 2026. Meciul a fost marcat de un penalti acordat târziu, care a permis Africii de Sud să obțină primul punct în competiție. Naționala europeană a avut ocazii de a-și asigura victoria, însă nu a reușit să le concretizeze, permițând adversarilor să egaleze. Acest rezultat influențează clasamentul în Grupa A, menținând suspansul pentru calificarea în fazele superioare ale turneului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro",
-        "FourFourTwo",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-18T18:28:20.832621+00:00",
-      "data_afisaj": "18 iunie 2026, 21:28"
-    },
-    {
-      "id": "eb799e2c3276",
-      "titlu": "Lionel Messi egalează recordul de goluri marcate la Cupa Mondială",
-      "rezumat": "Lionel Messi a egalat recordul de goluri marcate în istoria Cupei Mondiale, ajungând la un total de 16 reușite. Performanța a fost atinsă după ce starul argentinian a înscris un hat-trick în victoria cu 3-0 împotriva Algeriei, în debutul campaniei sale la Cupa Mondială 2026. Messi se alătură astfel lui Miroslav Klose în fruntea clasamentului all-time al marcatorilor la turneul final, o realizare notabilă care subliniază impactul său continuu în fotbalul mondial.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-18T18:28:20.834284+00:00",
-      "data_afisaj": "18 iunie 2026, 21:28"
-    },
-    {
-      "id": "d93f47cc5087",
-      "titlu": "Activitate intensă la FCSB: un jucător semnează, altul este în discuții de plecare",
-      "rezumat": "FCSB, echipa patronată de Gigi Becali, traversează o perioadă agitată pe piața transferurilor. Clubul a anunțat o achiziție surpriză, semnând cu un fotbalist din Martinica, despre care nu se știau detalii anterior. În același timp, Gigi Becali a declarat că intenționează să renunțe la un alt jucător, însă impresarul acestuia contrazice informația, afirmând că fotbalistul mai are contract până în 2027. Situația subliniază dinamica deciziilor la clubul bucureștean și incertitudinea privind lotul pentru sezonul viitor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-06-18T18:28:20.836113+00:00",
-      "data_afisaj": "18 iunie 2026, 21:28"
     }
   ]
 }
