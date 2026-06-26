@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-26T10:50:56.559862+00:00",
-  "updated_at_afisaj": "26 iunie 2026, 13:50",
+  "updated_at": "2026-06-26T17:51:53.013670+00:00",
+  "updated_at_afisaj": "26 iunie 2026, 20:51",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 137,
+  "numar_stiri": 132,
   "stiri": [
+    {
+      "id": "a9e3cd93cc7c",
+      "titlu": "Arsenal explorează transferurile lui Bruno Guimaraes și Sandro Tonali de la Newcastle",
+      "rezumat": "Clubul Arsenal a inițiat discuții preliminare pentru posibile mutări ale mijlocașilor Bruno Guimaraes și Sandro Tonali de la Newcastle. Aceste explorări indică intenția \"Tunarilor\" de a-și consolida lotul cu jucători de calibru, în vederea viitoarelor competiții. Ambii fotbaliști sunt considerați piese importante la Newcastle, iar un eventual transfer ar reprezenta o achiziție semnificativă pentru echipa londoneză, reflectând ambițiile clubului de a concura la cel mai înalt nivel.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-26T17:51:53.006841+00:00",
+      "data_afisaj": "26 iunie 2026, 20:51"
+    },
+    {
+      "id": "08e9722f8628",
+      "titlu": "Japonia și Suedia se califică în optimi după o remiză la Cupa Mondială",
+      "rezumat": "Naționalele Japoniei și Suediei au obținut calificarea în fazele eliminatorii ale Cupei Mondiale 2026, după ce au încheiat la egalitate, scor 1-1, în ultimul meci din grupă. Golul inteligent marcat de Daizen Maeda pentru Japonia a fost anulat de o execuție de la distanță a lui Anthony Elanga pentru Suedia. Acest rezultat le permite ambelor echipe să avanseze în optimile de finală, demonstrând echilibrul din grupă și performanța solidă a ambelor formații pe parcursul turneului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-26T17:51:53.008530+00:00",
+      "data_afisaj": "26 iunie 2026, 20:51"
+    },
+    {
+      "id": "5507d171f807",
+      "titlu": "Declan Rice revine la antrenamentele Angliei, Reece James rămâne incert pentru meciul cu Panama",
+      "rezumat": "Mijlocașul Declan Rice s-a alăturat vineri antrenamentelor echipei naționale a Angliei, aducând vești bune pentru selecționerul Thomas Tuchel înaintea meciului cu Panama. Cu toate acestea, fundașul Reece James a lipsit din nou de la ședința de pregătire și rămâne sub semnul întrebării pentru partida crucială din faza grupelor a Cupei Mondiale 2026. Situația lui James reprezintă o preocupare pentru staff-ul tehnic, care speră la o recuperare rapidă și la disponibilitatea sa pentru meciurile viitoare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-26T17:51:53.010406+00:00",
+      "data_afisaj": "26 iunie 2026, 20:51"
+    },
+    {
+      "id": "63726c8dca43",
+      "titlu": "Didier Deschamps nu va fi pe banca tehnică a Franței în meciul cu Norvegia",
+      "rezumat": "Naționala Franței și-a asigurat deja calificarea în fazele eliminatorii ale Cupei Mondiale 2026, însă selecționerul Didier Deschamps nu va fi prezent pe banca tehnică în meciul din această seară împotriva Norvegiei. Absența sa, deși echipa este deja calificată, ridică întrebări privind motivele și impactul asupra strategiei de joc. Echipa va fi condusă de un alt membru al staff-ului tehnic, în timp ce Deschamps va lipsi de la marginea terenului pentru această partidă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-06-26T17:51:53.012034+00:00",
+      "data_afisaj": "26 iunie 2026, 20:51"
+    },
+    {
+      "id": "d80529e28fa3",
+      "titlu": "Victor Pițurcă dezvăluie temerile investitorilor în negocierile pentru Steaua",
+      "rezumat": "Fostul selecționer Victor Pițurcă a oferit detalii exclusive despre negocierile dintre potențialii investitori și Ministerul Apărării Naționale (MApN) pentru preluarea echipei Steaua. Pițurcă a explicat că milionarii ezită să se implice din cauza temerilor legate de posibilele consecințe legale, menționând că \"oamenii au fost condamnați\" în trecut în legătură cu clubul. Această situație complică eforturile de a găsi o soluție financiară stabilă și de a clarifica viitorul echipei, afectând perspectivele de dezvoltare ale clubului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-06-26T17:51:53.013650+00:00",
+      "data_afisaj": "26 iunie 2026, 20:51"
+    },
     {
       "id": "ecc0b0f01950",
       "titlu": "Turcia învinge SUA la Cupa Mondială într-un meci dramatic",
@@ -1506,124 +1561,6 @@
       ],
       "data_publicare": "2026-06-19T18:01:24.654073+00:00",
       "data_afisaj": "19 iunie 2026, 21:01"
-    },
-    {
-      "id": "d28043bf8773",
-      "titlu": "Partide în Premier League - află programul clubului tău",
-      "rezumat": "Partidele din Premier League sunt disponibile - află programul clubului tău.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-06-19T12:06:00.294079+00:00",
-      "data_afisaj": "19 iunie 2026, 15:06"
-    },
-    {
-      "id": "a4a3cbcabf3d",
-      "titlu": "Starul Cupei Mondiale din SUA care nu putea fi american în planul lui Trump",
-      "rezumat": "Folarin Balogun a marcat două goluri la debutul său la Cupa Mondială, dar el este genul de persoană pe care președintele Trump încearcă să o interzică în virtutea dreptului de cetățenie prin naștere.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-19T12:06:00.295374+00:00",
-      "data_afisaj": "19 iunie 2026, 15:06"
-    },
-    {
-      "id": "ee6911b87df7",
-      "titlu": "Mexic a învins Coreea de Sud și a obținut primul loc eliminatoriu la Cupa Mondială",
-      "rezumat": "Mexic a devenit prima națiune care și-a asigurat un loc în optimile de finală ale Cupei Mondiale și poate mulțumi o greșeală a portarului lui Seung-Gyu Kim, în timp ce Coreea de Sud a fost învinsă cu 1-0 la Guadalajara.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-19T12:06:00.296537+00:00",
-      "data_afisaj": "19 iunie 2026, 15:06"
-    },
-    {
-      "id": "683ae41bdab7",
-      "titlu": "Cupa Mondială 2026: fanii Scoției preiau Bostonul; Pochettino caută spioni; accidentare Koné – în direct",
-      "rezumat": "⚽ Toate cele mai recente știri din ziua a opta a turneului ⚽ Ghidul jucătorului | Bracketologie | Cizma de Aur | Trimite-ne un e-mail Să începem privirea asupra a ceea ce se va întâmpla mai târziu astăzi. Primul clasat este SUA - Australia în Seattle, la 20:00 BST/12:00, ora locală. Continuă să citești...",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-19T12:06:00.298037+00:00",
-      "data_afisaj": "19 iunie 2026, 15:06"
-    },
-    {
-      "id": "9eb5b9b79e16",
-      "titlu": "Mina de aur de 250 de milioane de dolari, foarte batjocorită - sunt reclamele de pauză de hidratare aici pentru a rămâne?",
-      "rezumat": "BBC Sport explorează modul în care reclamele pentru pauze de hidratare funcționează în alte țări și cum ar putea avea impact asupra viitorului fotbalului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-19T12:06:00.299337+00:00",
-      "data_afisaj": "19 iunie 2026, 15:06"
-    },
-    {
-      "id": "cdf052750967",
-      "titlu": "Coventry City va înfrunta campioana Arsenal în deschiderea Premier League",
-      "rezumat": "Echipa nou-promovată Coventry City va juca în deplasare împotriva campioanei en-titre Arsenal în primul meci al sezonului 2026-27 din Premier League. Această confruntare marchează debutul stagiunii pentru ambele formații, cu Arsenal începând apărarea titlului și Coventry revenind în elita fotbalului englez. Meciul este programat să aibă loc pe terenul lui Arsenal, oferind un start spectaculos noului sezon.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-19T11:26:17.717488+00:00",
-      "data_afisaj": "19 iunie 2026, 14:26"
-    },
-    {
-      "id": "ce5ec3adb9dd",
-      "titlu": "Fosta portăriță a Angliei, Mary Earps, semnează cu London City Lionesses",
-      "rezumat": "Mary Earps, fosta portăriță a naționalei Angliei, s-a alăturat echipei London City Lionesses, semnând un contract pe doi ani. Transferul vine după ce Earps a părăsit clubul francez Paris Saint-Germain. Această mutare reprezintă o achiziție importantă pentru London City Lionesses, aducând experiență și calitate la nivel înalt în poarta echipei, consolidând lotul pentru viitoarele competiții.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-06-19T11:26:17.719114+00:00",
-      "data_afisaj": "19 iunie 2026, 14:26"
-    },
-    {
-      "id": "56d803d7ca6c",
-      "titlu": "Mexic se califică în optimile Cupei Mondiale după victoria împotriva Coreei de Sud",
-      "rezumat": "Naționala Mexicului a devenit prima echipă care și-a asigurat un loc în optimile de finală ale Cupei Mondiale, învingând Coreea de Sud cu scorul de 1-0 la Guadalajara. Victoria a fost facilitată de o eroare a portarului sud-coreean Seung-Gyu Kim. Acest rezultat confirmă parcursul solid al Mexicului în faza grupelor și îi propulsează în etapele eliminatorii ale competiției, consolidându-și poziția de lider în grupă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-19T11:26:17.720682+00:00",
-      "data_afisaj": "19 iunie 2026, 14:26"
-    },
-    {
-      "id": "021b60a9c201",
-      "titlu": "Căpitanul Marocului, Achraf Hakimi, va fi judecat pentru acuzații de viol",
-      "rezumat": "Procurorii francezi au confirmat că Achraf Hakimi, căpitanul naționalei Marocului, va fi judecat sub acuzația de viol. Acuzațiile datează din anul 2023 și au fost investigate de autoritățile franceze. Această veste aduce o umbră asupra carierei fotbalistului și a participării sale la competițiile internaționale, având un impact semnificativ asupra imaginii sale publice și a echipei naționale, în așteptarea verdictului instanței.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-19T11:26:17.722228+00:00",
-      "data_afisaj": "19 iunie 2026, 14:26"
-    },
-    {
-      "id": "df174f6b7bf3",
-      "titlu": "Canada înregistrează o victorie istorică la Cupa Mondială, umbrită de accidentarea lui Ismael Kone",
-      "rezumat": "Canada a obținut prima sa victorie la Cupa Mondială, învingând Qatarul cu un scor categoric de 6-0, în fața unei echipe reduse la nouă jucători. Totuși, bucuria succesului a fost umbrită de o accidentare gravă suferită de mijlocașul Ismael Kone, care l-a lăsat pe antrenorul Canadei, Jesse Marsch, în lacrimi. Incidentul a marcat un moment emoționant într-o partidă altfel memorabilă pentru naționala canadiană, ridicând semne de întrebare privind starea de sănătate a jucătorului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-19T11:26:17.723918+00:00",
-      "data_afisaj": "19 iunie 2026, 14:26"
     }
   ]
 }
