@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-25T19:03:40.991787+00:00",
-  "updated_at_afisaj": "25 iunie 2026, 22:03",
+  "updated_at": "2026-06-26T10:24:52.603133+00:00",
+  "updated_at_afisaj": "26 iunie 2026, 13:24",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,57 @@
   },
   "numar_stiri": 134,
   "stiri": [
+    {
+      "id": "9f7ff7af69d3",
+      "titlu": "Manchester City a ajuns la un acord record pentru transferul lui Elliot Anderson",
+      "rezumat": "Manchester City a convenit un acord record cu Nottingham Forest pentru transferul mijlocașului englez Elliot Anderson. Suma de transfer, care nu a fost dezvăluită oficial, reprezintă o sumă fără precedent plătită de City pentru un jucător de la Forest. Anderson, un talent promițător, este așteptat să efectueze vizita medicală în Statele Unite, conform rapoartelor. Acest transfer marchează o mișcare semnificativă pe piața transferurilor, consolidând lotul lui Manchester City pentru sezoanele viitoare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-06-26T10:24:52.596403+00:00",
+      "data_afisaj": "26 iunie 2026, 13:24"
+    },
+    {
+      "id": "a890de254905",
+      "titlu": "Cupa Mondială 2026: Duelul Haaland vs Mbappé și controversele legate de comentariile lui Schweinsteiger",
+      "rezumat": "Ziua a 15-a a Cupei Mondiale 2026 aduce în prim-plan confruntarea directă dintre Kylian Mbappé (Franța) și Erling Haaland (Norvegia), ambii având câte patru goluri marcate până acum în turneu. Această partidă este considerată un \"duel al titanilor\" între doi dintre cei mai importanți atacanți ai fotbalului mondial. Pe lângă acțiunea de pe teren, turneul este marcat și de controverse, după ce comentariile fostului mijlocaș german Bastian Schweinsteiger despre stilul de joc \"sălbatic\" al Coastei de Fildeș au fost criticate, fiind considerate de antrenorul Emerse Faé ca potențial rasiste.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "World Soccer",
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-06-26T10:24:52.598611+00:00",
+      "data_afisaj": "26 iunie 2026, 13:24"
+    },
+    {
+      "id": "ee8af4a264b1",
+      "titlu": "Olanda câștigă Grupa F la Cupa Mondială după victoria împotriva Tunisiei",
+      "rezumat": "Naționala Olandei a învins Tunisia cu scorul de 3-1, asigurându-și primul loc în Grupa F a Cupei Mondiale 2026. Brian Brobbey a marcat pentru a doua oară consecutiv, contribuind la succesul \"Portocalei Mecanice\". Această victorie le permite olandezilor să evite o confruntare cu Brazilia în optimile de finală, urmând să întâlnească Marocul în faza următoare a competiției. Performanța solidă a Olandei confirmă statutul de favorită la calificarea în etapele superioare ale turneului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-26T10:24:52.601451+00:00",
+      "data_afisaj": "26 iunie 2026, 13:24"
+    },
+    {
+      "id": "3689fd1872fc",
+      "titlu": "Controverse în jurul \"Meciului Pride\" de la Cupa Mondială 2026 din Seattle",
+      "rezumat": "Comitetul de organizare al Cupei Mondiale din Seattle continuă planurile pentru \"Meciul Pride\", o celebrare a drepturilor LGBTQ+, în ciuda obiecțiilor și solicitărilor de anulare venite din partea echipelor implicate, Egipt și Iran. Acestea au cerut anularea festivităților legate de drepturile LGBTQ+ în jurul meciului lor din 26 iunie. Comitetul local, independent de FIFA, a stabilit anul trecut ca această dată să fie dedicată tematicii Pride, coincizând cu evenimentul sportiv. Situația a generat discuții aprinse despre intersecția dintre sport, politică și drepturile omului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-26T10:24:52.603114+00:00",
+      "data_afisaj": "26 iunie 2026, 13:24"
+    },
     {
       "id": "e442526b28fa",
       "titlu": "Ecuador v Germania: Cupa Mondială 2026 – în direct",
@@ -1538,51 +1589,6 @@
       ],
       "data_publicare": "2026-06-19T11:26:17.723918+00:00",
       "data_afisaj": "19 iunie 2026, 14:26"
-    },
-    {
-      "id": "18234be7a57c",
-      "titlu": "Rafael van der Vaart își cere scuze pentru remarca rasistă la adresa jucătorilor japonezi",
-      "rezumat": "Fostul mijlocaș al lui Tottenham, Rafael van der Vaart, a emis scuze publice după ce a făcut o remarcă controversată, afirmând că jucătorii Japoniei \"toți arată la fel\" în timpul meciului lor de Cupă Mondială împotriva Olandei, încheiat la egalitate 2-2. Declarația sa a stârnit un val de critici și a fost considerată rasistă. Van der Vaart a recunoscut greșeala și a subliniat că regretă profund comentariul său, care nu reflectă valorile sale personale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-18T19:23:01.800998+00:00",
-      "data_afisaj": "18 iunie 2026, 22:23"
-    },
-    {
-      "id": "9fa6082aca0b",
-      "titlu": "Thierry Henry își numește favoritele pentru Cupa Mondială 2026, excluzând Anglia",
-      "rezumat": "Legendarul atacant francez Thierry Henry a dezvăluit echipele pe care le consideră favorite la câștigarea Cupei Mondiale 2026, care se desfășoară în America de Nord. Surprinzător pentru mulți, Henry a omis Anglia din lista sa de pretendente la trofeu, stârnind discuții în rândul fanilor și analiștilor. Declarațiile sale oferă o perspectivă interesantă asupra forțelor din fotbalul mondial, venind din partea unei figuri respectate cu o vastă experiență la cel mai înalt nivel.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-18T19:23:01.802876+00:00",
-      "data_afisaj": "18 iunie 2026, 22:23"
-    },
-    {
-      "id": "ffd267a65628",
-      "titlu": "Cristi Chivu a semnat un nou contract cu Inter Milano",
-      "rezumat": "Fostul internațional român Cristi Chivu a semnat un nou contract cu clubul italian Inter Milano, unde activează în prezent ca antrenor la nivel de juniori. Anunțul oficial subliniază \"mândria și loialitatea\" asociate cu prelungirea înțelegerii. Detaliile financiare sugerează un salariu considerabil, reflectând aprecierea clubului pentru contribuția sa. Această prelungire confirmă angajamentul lui Chivu față de Inter și continuarea parcursului său în cariera de antrenor la un club de top din Europa.",
-      "categorie": "Fotbal",
-      "surse": [
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-06-18T19:23:01.804455+00:00",
-      "data_afisaj": "18 iunie 2026, 22:23"
-    },
-    {
-      "id": "7089c0156d54",
-      "titlu": "Neymar va rata meciul Braziliei împotriva statului Haiti",
-      "rezumat": "Starul brazilian Neymar nu va fi disponibil pentru meciul naționalei sale împotriva statului Haiti, conform ultimelor informații. Absența sa reprezintă o lovitură pentru echipa Braziliei, care va trebui să găsească soluții ofensive alternative în această confruntare. Detaliile exacte ale motivului absenței nu au fost specificate în rezumatul inițial, dar este o știre importantă având în vedere statutul său de jucător cheie.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-06-18T19:23:01.806043+00:00",
-      "data_afisaj": "18 iunie 2026, 22:23"
     }
   ]
 }
