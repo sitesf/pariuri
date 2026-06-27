@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-27T09:30:49.305445+00:00",
-  "updated_at_afisaj": "27 iunie 2026, 12:30",
+  "updated_at": "2026-06-27T10:07:49.060788+00:00",
+  "updated_at_afisaj": "27 iunie 2026, 13:07",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,52 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 130,
+  "numar_stiri": 134,
   "stiri": [
+    {
+      "id": "418a2af2bae2",
+      "titlu": "Anglia se califică în optimile Cupei Mondiale înainte de ultimul meci din grupă",
+      "rezumat": "Echipa națională a Angliei și-a asigurat un loc în fazele eliminatorii ale Cupei Mondiale, calificarea fiind confirmată în urma rezultatelor altor meciuri din grupă. Această performanță vine înainte ca Anglia să dispute ultimul său meci din faza grupelor, împotriva echipei Panama, programat sâmbătă. Calificarea timpurie permite selecționerului să gestioneze mai bine lotul pentru meciurile viitoare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-27T10:07:49.055477+00:00",
+      "data_afisaj": "27 iunie 2026, 13:07"
+    },
+    {
+      "id": "a141f51bfdef",
+      "titlu": "Lionel Messi va începe pe banca de rezerve ultimul meci al Argentinei din grupă",
+      "rezumat": "Selecționerul Argentinei, Lionel Scaloni, a confirmat că golgheterul Cupei Mondiale, Lionel Messi, va fi rezervă în ultimul meci al echipei din faza grupelor, împotriva Iordaniei. Decizia sugerează o strategie de odihnă pentru starul argentinian, având în vedere importanța fazelor eliminatorii. Această mișcare ar putea oferi oportunități altor jucători de a se afirma înaintea meciurilor decisive.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-27T10:07:49.057302+00:00",
+      "data_afisaj": "27 iunie 2026, 13:07"
+    },
+    {
+      "id": "2e9b23cc1bc4",
+      "titlu": "Antrenorul Iranului acuză SUA de tratament incorect la Cupa Mondială",
+      "rezumat": "Selecționerul Iranului, Amir Ghalenoei, a criticat vehement Statele Unite, co-gazda Cupei Mondiale, acuzând un tratament 'foarte incorect' la adresa echipei sale. Ghalenoei i-a cerut președintelui FIFA, Gianni Infantino, să intervină în această situație. Declarațiile vin după un egal dramatic cu Egiptul, în care Iranului i-a fost anulat un gol în prelungiri, lăsând echipa în așteptarea altor rezultate pentru o posibilă calificare în optimi.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-27T10:07:49.058974+00:00",
+      "data_afisaj": "27 iunie 2026, 13:07"
+    },
+    {
+      "id": "fcdbcb9bd89c",
+      "titlu": "Bukayo Saka este apt de joc pentru Anglia, Reece James suferă o accidentare",
+      "rezumat": "Antrenorul Angliei, Thomas Tuchel, a confirmat că Bukayo Saka este complet refăcut și pregătit să înceapă ca titular în ultimul meci din grupă, împotriva Panamei. Pe de altă parte, echipa se confruntă cu o veste proastă, fundașul Reece James suferind o accidentare. Această situație influențează opțiunile de selecție ale lui Tuchel pentru meciul decisiv și pentru fazele eliminatorii ale Cupei Mondiale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-06-27T10:07:49.060770+00:00",
+      "data_afisaj": "27 iunie 2026, 13:07"
+    },
     {
       "id": "8288de319115",
       "titlu": "Capul Verde scrie istorie și se califică în fazele eliminatorii ale Cupei Mondiale",
