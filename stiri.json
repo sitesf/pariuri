@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-27T10:07:49.060788+00:00",
-  "updated_at_afisaj": "27 iunie 2026, 13:07",
+  "updated_at": "2026-06-27T17:14:37.999010+00:00",
+  "updated_at_afisaj": "27 iunie 2026, 20:14",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,31 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 134,
+  "numar_stiri": 127,
   "stiri": [
+    {
+      "id": "5948ddc5e933",
+      "titlu": "Spania, lovită de accidentări majore la Cupa Mondială 2026",
+      "rezumat": "Naționala Spaniei se confruntă cu probleme serioase de lot după ce Yeremy Pino este nevoit să rateze restul Cupei Mondiale din cauza unei fracturi de claviculă. De asemenea, există îngrijorări legate de starea fizică a lui Nico Williams, care este incert din cauza unei leziuni la inghinal. Aceste accidentări vin într-un moment dificil pentru Spania, chiar după calificarea în faza eliminatorie a competiției, punând presiune pe selecționer înaintea meciurilor decisive.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-27T17:14:37.997326+00:00",
+      "data_afisaj": "27 iunie 2026, 20:14"
+    },
+    {
+      "id": "658fb43b1146",
+      "titlu": "Manuel Ugarte de la Manchester United, accidentat la Cupa Mondială",
+      "rezumat": "Manuel Ugarte, mijlocașul lui Manchester United, a părăsit terenul pe targă în timpul înfrângerii Uruguayului la Cupa Mondială împotriva Spaniei. Clubul englez așteaptă acum rezultatele investigațiilor medicale pentru a determina gravitatea accidentării. Această situație reprezintă o preocupare majoră atât pentru echipa națională a Uruguayului, cât și pentru Manchester United, având în vedere importanța jucătorului în linia mediană și impactul potențial asupra performanțelor viitoare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-27T17:14:37.998988+00:00",
+      "data_afisaj": "27 iunie 2026, 20:14"
+    },
     {
       "id": "418a2af2bae2",
       "titlu": "Anglia se califică în optimile Cupei Mondiale înainte de ultimul meci din grupă",
@@ -1474,110 +1497,6 @@
       ],
       "data_publicare": "2026-06-20T17:38:14.643850+00:00",
       "data_afisaj": "20 iunie 2026, 20:38"
-    },
-    {
-      "id": "44046ca8d6ee",
-      "titlu": "Brazilia încă își caută forma la Cupa Mondială 2026",
-      "rezumat": "Deși a obținut o victorie cu 3-0 împotriva statului Haiti, echipa națională a Braziliei nu a reușit să impresioneze pe deplin la Cupa Mondială din Statele Unite. Spre deosebire de rivalele Argentina și Franța, care au arătat o formă excelentă, Brazilia se confruntă cu dificultăți în atingerea potențialului maxim. Fanii și analiștii așteaptă ca selecționata braziliană să-și îmbunătățească performanțele în meciurile următoare pentru a-și justifica statutul de favorită la titlu.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-20T10:32:02.075077+00:00",
-      "data_afisaj": "20 iunie 2026, 13:32"
-    },
-    {
-      "id": "1e3303ba67b3",
-      "titlu": "Manchester City, aproape de un acord financiar cu Chelsea pentru numirea lui Enzo Maresca",
-      "rezumat": "Manchester City este aproape de a ajunge la o înțelegere financiară cu Chelsea, ceea ce ar permite numirea lui Enzo Maresca în funcția de antrenor. Chelsea solicită compensații pentru fostul său antrenor, susținând că italianul a încălcat termenii contractului său de la Stamford Bridge prin discuții cu rivalii din Premier League în timp ce era încă sub contract. Această mutare ar marca o schimbare importantă la nivelul conducerii tehnice a lui Manchester City.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-20T10:32:02.077786+00:00",
-      "data_afisaj": "20 iunie 2026, 13:32"
-    },
-    {
-      "id": "f723c1f248a7",
-      "titlu": "Universitatea Craiova pregătește transferul lui Denis Drăguș, dorit și de FCSB",
-      "rezumat": "Universitatea Craiova este pe cale să realizeze un transfer important, vizându-l pe atacantul Denis Drăguș. Jucătorul, care a fost și în atenția lui Gigi Becali și a campioanei României, este considerat o țintă prioritară pentru echipa din Bănie. Această mutare ar putea reprezenta o lovitură semnificativă pe piața transferurilor din Liga 1, consolidând lotul Craiovei pentru viitoarele competiții și intensificând rivalitatea cu alte cluburi de top.",
-      "categorie": "Fotbal",
-      "surse": [
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-06-20T10:32:02.079520+00:00",
-      "data_afisaj": "20 iunie 2026, 13:32"
-    },
-    {
-      "id": "046b6cad6deb",
-      "titlu": "Juventus negociază un transfer care ar putea afecta situația lui Radu Drăgușin",
-      "rezumat": "Juventus Torino se află în negocieri avansate pentru un nou transfer, o mutare care ar putea avea consecințe directe asupra poziției fundașului român Radu Drăgușin în cadrul echipei. Această achiziție ar putea reduce șansele lui Drăgușin de a juca constant, punându-l într-o situație dificilă în lupta pentru un loc în primul unsprezece. Viitorul său la club ar putea depinde de rezultatul acestor negocieri și de adaptarea la noua concurență.",
-      "categorie": "Fotbal",
-      "surse": [
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-06-20T10:32:02.081244+00:00",
-      "data_afisaj": "20 iunie 2026, 13:32"
-    },
-    {
-      "id": "3c7bf05df1bd",
-      "titlu": "Miguel Almiron, primul jucător eliminat pentru că și-a acoperit gura la Cupa Mondială",
-      "rezumat": "Mijlocașul paraguayan Miguel Almiron a devenit primul fotbalist din istoria Cupei Mondiale care a primit un cartonaș roșu pentru că și-a acoperit gura în timp ce vorbea cu un adversar. Incidentul s-a petrecut în timpul meciului dintre Paraguay și Turcia. Această decizie inedită a stârnit discuții aprinse despre regulamentul fair-play-ului și interpretarea gesturilor pe teren. Eliminarea sa a influențat semnificativ dinamica partidei, contribuind la un deznodământ neașteptat pentru echipa sa.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-06-20T10:10:25.860310+00:00",
-      "data_afisaj": "20 iunie 2026, 13:10"
-    },
-    {
-      "id": "24ec05ccb93a",
-      "titlu": "Controversă majoră la Cupa Mondială: Scoția, privată de două posibile penalty-uri împotriva Marocului",
-      "rezumat": "Naționala Scoției a fost în centrul unei controverse majore la Cupa Mondială, după înfrângerea cu 1-0 în fața Marocului. Presa internațională și fanii dezbat intens dacă scoțienilor ar fi trebuit să li se acorde două lovituri de pedeapsă clare, care ar fi putut schimba soarta meciului. Deciziile arbitrului au stârnit indignare în tabăra scoțiană, care consideră că a fost dezavantajată, în timp ce Marocul a obținut o victorie importantă în grupa C.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-06-20T10:10:25.862266+00:00",
-      "data_afisaj": "20 iunie 2026, 13:10"
-    },
-    {
-      "id": "450c9c960e60",
-      "titlu": "Primele impresii de la Cupa Mondială 2026: stadioane futuriste și entuziasm global",
-      "rezumat": "După prima săptămână a Cupei Mondiale 2026, jurnaliștii de la The Guardian au împărtășit primele lor impresii despre turneu. Aceștia au remarcat contrastele puternice, de la provocările logistice la entuziasmul publicului și calitatea fotbalului. Stadioanele moderne, descrise ca fiind futuriste, și \"Ronaldo-mania\" au captivat atenția, în ciuda unor aspecte comerciale criticate, cum ar fi prețul ridicat al apei. Per ansamblu, atmosfera este una vibrantă, iar turneul promite să fie memorabil.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-20T10:10:25.863967+00:00",
-      "data_afisaj": "20 iunie 2026, 13:10"
-    },
-    {
-      "id": "8b2132a33474",
-      "titlu": "SUA se califică în optimile Cupei Mondiale, iar Zlatan Ibrahimovic le vede campioane",
-      "rezumat": "Echipa națională a Statelor Unite s-a calificat în faza eliminatorie a Cupei Mondiale 2026, după două victorii consecutive în grupă. Performanța americanilor a atras atenția, inclusiv pe cea a fostului atacant suedez Zlatan Ibrahimovic, care a declarat că SUA are potențialul de a câștiga trofeul. Jucătorii americani au confirmat că împărtășesc această mentalitate, subliniind încrederea lor în șansele de a ajunge departe în competiție, o performanță pe care nu au mai atins-o din 1930.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-20T10:10:25.865695+00:00",
-      "data_afisaj": "20 iunie 2026, 13:10"
-    },
-    {
-      "id": "c0347c8b4030",
-      "titlu": "Turcia, eliminată șocant de la Cupa Mondială de Paraguay, în ciuda superiorității numerice",
-      "rezumat": "Naționala Turciei a fost eliminată prematur de la Cupa Mondială 2026, după o înfrângere surprinzătoare cu 1-0 în fața Paraguayului, care a jucat în inferioritate numerică după eliminarea lui Miguel Almiron. Turcii, aflați la prima lor participare în 24 de ani, au părăsit competiția cu lacrimi în ochi, după ce nu au reușit să concretizeze cele 32 de ocazii de gol create. Atacantul Arda Guler și-a cerut scuze fanilor pentru performanța dezamăgitoare, care a pus capăt visului lor mondial.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-20T10:10:25.867485+00:00",
-      "data_afisaj": "20 iunie 2026, 13:10"
     }
   ]
 }
