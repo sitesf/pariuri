@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-27T17:14:37.999010+00:00",
-  "updated_at_afisaj": "27 iunie 2026, 20:14",
+  "updated_at": "2026-06-27T17:56:55.629106+00:00",
+  "updated_at_afisaj": "27 iunie 2026, 20:56",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,63 @@
   },
   "numar_stiri": 127,
   "stiri": [
+    {
+      "id": "fac376994995",
+      "titlu": "Analiză: Jucătorii cheie ai Panama pe care Anglia trebuie să-i urmărească la Cupa Mondială",
+      "rezumat": "Înaintea confruntării din Grupa L a Cupei Mondiale, BBC Sport a realizat o analiză detaliată a jucătorilor importanți din echipa Panama. Aceștia vor încerca să producă o surpriză împotriva Angliei în ultimul meci din faza grupelor. Articolul subliniază punctele forte și stilul de joc al fotbaliștilor panamezi, oferind o perspectivă asupra potențialelor amenințări la adresa naționalei engleze.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-06-27T17:56:55.622204+00:00",
+      "data_afisaj": "27 iunie 2026, 20:56"
+    },
+    {
+      "id": "b9b8fe9d6477",
+      "titlu": "Dinamo a pierdut amicalul din Polonia împotriva echipei Motor Lublin, scor 1-3",
+      "rezumat": "Echipa de fotbal Dinamo București a înregistrat o înfrângere în meciul amical disputat în Polonia, cedând cu scorul de 1-3 în fața formației Motor Lublin. Partida a făcut parte din programul de pregătire al 'câinilor' înaintea noului sezon competițional. Rezultatul oferă staff-ului tehnic ocazia de a evalua performanța jucătorilor și de a identifica aspectele care necesită îmbunătățiri.",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-06-27T17:56:55.623971+00:00",
+      "data_afisaj": "27 iunie 2026, 20:56"
+    },
+    {
+      "id": "f109c4e17ade",
+      "titlu": "Belgia se califică în optimile Cupei Mondiale după o victorie categorică împotriva Noii Zeelande",
+      "rezumat": "Naționala Belgiei a obținut o victorie convingătoare, scor 5-1, în fața Noii Zeelande, asigurându-și astfel calificarea în faza optimilor de finală a Cupei Mondiale. 'Diavolii Roșii' au terminat pe primul loc în Grupa G, datorită unui golaveraj superior. Performanța solidă demonstrează ambițiile echipei belgiene în turneul final, confirmând statutul de favorită la trecerea de grupe.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-27T17:56:55.625774+00:00",
+      "data_afisaj": "27 iunie 2026, 20:56"
+    },
+    {
+      "id": "460f4b38788f",
+      "titlu": "Chelsea este interesată de transferul mijlocașului Granit Xhaka",
+      "rezumat": "Clubul Chelsea Londra și-a manifestat interesul pentru achiziționarea mijlocașului Granit Xhaka, legitimat în prezent la Sunderland. Potrivit informațiilor, echipa londoneză explorează posibilitatea de a-l aduce pe jucător pentru a-și consolida lotul. Această mutare ar putea reprezenta o întărire semnificativă pentru mijlocul terenului al 'albaștrilor' în perspectiva viitoarelor competiții, aducând experiență și forță.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-06-27T17:56:55.627318+00:00",
+      "data_afisaj": "27 iunie 2026, 20:56"
+    },
+    {
+      "id": "97a83e289dee",
+      "titlu": "Thomas Tuchel caută soluții tactice pentru a depăși defensiva Panama la Cupa Mondială",
+      "rezumat": "Selecționerul Angliei, Thomas Tuchel, se confruntă cu dileme tactice înaintea meciului cu Panama, o echipă cunoscută pentru abordarea sa defensivă. Antrenorul englez caută strategii pentru a sparge 'blocul jos' al adversarilor, având în vedere și problemele de pregătire fizică ale unor jucători cheie precum Declan Rice și Reece James. Obiectivul este de a asigura o victorie convingătoare în faza grupelor și de a menține ritmul echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-27T17:56:55.629084+00:00",
+      "data_afisaj": "27 iunie 2026, 20:56"
+    },
     {
       "id": "5948ddc5e933",
       "titlu": "Spania, lovită de accidentări majore la Cupa Mondială 2026",
@@ -1438,65 +1495,6 @@
       ],
       "data_publicare": "2026-06-20T18:06:32.212195+00:00",
       "data_afisaj": "20 iunie 2026, 21:06"
-    },
-    {
-      "id": "aeccdec5e7c5",
-      "titlu": "Olanda și Suedia se duelează într-un meci cheie la Cupa Mondială 2026",
-      "rezumat": "Echipele naționale ale Olandei și Suediei se confruntă într-o partidă importantă din faza grupelor a Cupei Mondiale 2026. Meciul, transmis în direct de mai multe surse, prezintă o confruntare între doi giganți europeni. Olanda aliniază o formație puternică, incluzând jucători precum Verbruggen, van Dijk și Gakpo, în timp ce Suedia răspunde cu Nordfeldt, Lindelof și Isak. Rezultatul acestei întâlniri este crucial pentru ambele echipe în lupta pentru calificarea în fazele eliminatorii ale competiției, având un impact direct asupra clasamentului Grupei F.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football",
-        "World Soccer",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-06-20T17:38:14.636714+00:00",
-      "data_afisaj": "20 iunie 2026, 20:38"
-    },
-    {
-      "id": "e4d053f48136",
-      "titlu": "Cum funcționează sistemul de calificare în fazele eliminatorii la Cupa Mondială 2026",
-      "rezumat": "Pe măsură ce a doua rundă a meciurilor din faza grupelor la Cupa Mondială 2026 este în plină desfășurare, se analizează în detaliu mecanismele de calificare pentru etapele eliminatorii. Articolul explică modul în care echipele pot avansa, ținând cont de puncte, golaveraj și alte criterii de departajare. Înțelegerea acestor reguli este esențială pentru a anticipa posibilele confruntări din optimile de finală și pentru a urmări cu atenție evoluția clasamentelor, pe măsură ce competiția devine tot mai intensă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-20T17:38:14.638479+00:00",
-      "data_afisaj": "20 iunie 2026, 20:38"
-    },
-    {
-      "id": "b810b2864fdf",
-      "titlu": "Alan Shearer analizează evoluția lui Harry Kane la Cupa Mondială 2026",
-      "rezumat": "Fostul căpitan al naționalei Angliei, Alan Shearer, a oferit o perspectivă asupra schimbărilor în jocul lui Harry Kane la actuala ediție a Cupei Mondiale. Shearer explică ce anume s-a modificat în abordarea atacantului față de performanțele sale mai puțin convingătoare de la Cupa Mondială din Qatar din 2022. Această analiză subliniază adaptările tactice și mentale ale lui Kane, considerându-l un jucător diferit și mai influent în cadrul echipei Angliei. Observațiile lui Shearer oferă o înțelegere mai profundă a rolului și impactului căpitanului în competiția din 2026.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-20T17:38:14.640196+00:00",
-      "data_afisaj": "20 iunie 2026, 20:38"
-    },
-    {
-      "id": "d7ee5f5592f8",
-      "titlu": "Brazilia învinge Haiti, care devine prima echipă eliminată de la Cupa Mondială 2026",
-      "rezumat": "Echipa națională a Braziliei a obținut o victorie convingătoare împotriva selecționatei din Haiti, grație celor două goluri marcate de atacantul Matheus Cunha de la Manchester United. Succesul Braziliei a fost unul confortabil, consolidându-și poziția în grupă. În urma acestei înfrângeri, Haiti devine, din păcate, prima echipă eliminată oficial de la Cupa Mondială 2026. Rezultatul evidențiază diferența de valoare dintre cele două formații și subliniază provocările cu care se confruntă națiunile mai mici pe scena fotbalului mondial.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-20T17:38:14.642027+00:00",
-      "data_afisaj": "20 iunie 2026, 20:38"
-    },
-    {
-      "id": "a18770497fb9",
-      "titlu": "Germania se pregătește pentru un test dificil împotriva Coastei de Fildeș la Cupa Mondială",
-      "rezumat": "Echipa națională a Germaniei va întâlni selecționata Coastei de Fildeș într-un meci important din cadrul Cupei Mondiale 2026. Partida este considerată un pas înainte pentru nemți, care își propun să demonstreze că pot trece la un nivel superior de performanță în competiție. Coasta de Fildeș, având în componență jucători talentați precum Yan Diomande, este percepută ca un adversar redutabil, capabil să ofere o rezistență puternică. Această confruntare promite un spectacol fotbalistic intens și va fi crucială pentru ambițiile ambelor echipe la turneul final.",
-      "categorie": "Fotbal",
-      "surse": [
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-06-20T17:38:14.643850+00:00",
-      "data_afisaj": "20 iunie 2026, 20:38"
     }
   ]
 }
