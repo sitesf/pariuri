@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-26T18:25:31.535941+00:00",
-  "updated_at_afisaj": "26 iunie 2026, 21:25",
+  "updated_at": "2026-06-27T09:30:49.305445+00:00",
+  "updated_at_afisaj": "27 iunie 2026, 12:30",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,42 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 132,
+  "numar_stiri": 130,
   "stiri": [
+    {
+      "id": "8288de319115",
+      "titlu": "Capul Verde scrie istorie și se califică în fazele eliminatorii ale Cupei Mondiale",
+      "rezumat": "Naționala Capului Verde, o țară insulară cu doar 525.000 de locuitori, a reușit o performanță remarcabilă, calificându-se în fazele eliminatorii ale Cupei Mondiale 2026. Această realizare istorică vine după o serie de rezultate solide în faza grupelor, inclusiv o remiză cu Arabia Saudită, care le-a asigurat un loc în optimi. Echipa se pregătește acum pentru o confruntare dificilă cu Argentina, continuând o poveste de succes considerată un miracol de fani și jucători.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-06-27T09:30:49.301497+00:00",
+      "data_afisaj": "27 iunie 2026, 12:30"
+    },
+    {
+      "id": "7578d70e4b63",
+      "titlu": "Egiptul se califică, Iranul ratează dramatic un loc garantat în optimi după intervenția VAR",
+      "rezumat": "Egiptul a reușit să se califice în fazele eliminatorii ale Cupei Mondiale, în timp ce Iranul a trăit momente de dramă intensă. Un gol marcat de Shoja Khalilzadeh în prelungiri, care ar fi asigurat calificarea directă a Iranului, a fost anulat de sistemul VAR pentru ofsaid. În urma remizei 1-1 cu Egiptul, Iranul speră acum să avanseze în optimi ca una dintre cele mai bune opt echipe clasate pe locul trei, după ce a ratat o victorie istorică.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-27T09:30:49.303797+00:00",
+      "data_afisaj": "27 iunie 2026, 12:30"
+    },
+    {
+      "id": "ef77a732200e",
+      "titlu": "Marcelo Bielsa își încheie mandatul la naționala Uruguayului după eliminarea de la Cupa Mondială",
+      "rezumat": "Marcelo Bielsa și-a încheiat mandatul de selecționer al Uruguayului, după ce echipa a fost eliminată din faza grupelor a Cupei Mondiale 2026. Eliminarea a venit în urma unei înfrângeri cu 1-0 în fața Spaniei, marcată de o eroare a portarului Fernando Muslera. Bielsa a declarat că nu a lăsat nimic fotbalului uruguayan, asumându-și responsabilitatea pentru dezamăgirea fanilor. Această plecare marchează sfârșitul unei perioade controversate sub conducerea antrenorului supranumit \"El Loco\".",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-27T09:30:49.305428+00:00",
+      "data_afisaj": "27 iunie 2026, 12:30"
+    },
     {
       "id": "d3725ac12fe6",
       "titlu": "De ce a lipsit Donald Trump de la Cupa Mondială?",
@@ -1500,62 +1534,6 @@
       ],
       "data_publicare": "2026-06-20T10:10:25.867485+00:00",
       "data_afisaj": "20 iunie 2026, 13:10"
-    },
-    {
-      "id": "a454d8385c92",
-      "titlu": "EXCLUSIV Jucătorul adus de Mirel Rădoi a luat titlul, iar acum se desparte de Universitatea Craiova!",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-06-19T18:29:04.110510+00:00",
-      "data_afisaj": "19 iunie 2026, 21:29"
-    },
-    {
-      "id": "0faf927dea0b",
-      "titlu": "După cel mare vine unul și mai mare pentru Scoția",
-      "rezumat": "Scoția va avea nevoie de cea mai bună prestație a sa de când Steve Clarke a preluat conducerea pentru a obține rezultatul împotriva Marocului care le va asigura, pentru prima dată, calificarea în fazele eliminatorii ale turneului, scrie Tom English.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-19T18:29:04.112168+00:00",
-      "data_afisaj": "19 iunie 2026, 21:29"
-    },
-    {
-      "id": "35cc181160b3",
-      "titlu": "Barry de la Anglia va continua cu interviurile de la pauză",
-      "rezumat": "Antrenorul secund al Angliei, Anthony Barry, are permisiunea de a continua să acorde interviuri televizate la pauză în timpul Cupei Mondiale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-19T18:29:04.113673+00:00",
-      "data_afisaj": "19 iunie 2026, 21:29"
-    },
-    {
-      "id": "f65cf7c6f6e2",
-      "titlu": "Geniul matematicii devenit star adolescent care a ales Marocul în detrimentul Franței",
-      "rezumat": "Fă cunoștință cu Ayyoub Bouaddi - noua stea a Marocului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-19T18:29:04.115253+00:00",
-      "data_afisaj": "19 iunie 2026, 21:29"
-    },
-    {
-      "id": "339601bc63e7",
-      "titlu": "Rămâi sau riști? Rashford și Guehi sunt marile dileme ale lui Tuchel",
-      "rezumat": "Înainte de meciul Angliei de la Cupa Mondială împotriva Ghanei de marți, Phil McNulty de la BBC Sport analizează marile dileme de selecție ale lui Thomas Tuchel.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-19T18:29:04.116825+00:00",
-      "data_afisaj": "19 iunie 2026, 21:29"
     }
   ]
 }
