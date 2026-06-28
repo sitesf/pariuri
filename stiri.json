@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-28T10:28:29.312876+00:00",
-  "updated_at_afisaj": "28 iunie 2026, 13:28",
+  "updated_at": "2026-06-28T17:17:11.589215+00:00",
+  "updated_at_afisaj": "28 iunie 2026, 20:17",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,65 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 128,
+  "numar_stiri": 124,
   "stiri": [
+    {
+      "id": "58adcac6f96a",
+      "titlu": "Africa de Sud și Canada se duelează în optimile Cupei Mondiale 2026",
+      "rezumat": "Meciul dintre Africa de Sud și Canada, contând pentru optimile de finală ale Cupei Mondiale 2026, este programat să înceapă la ora 20:00 BST. Partida este intens anticipată, cu analize detaliate despre jucători cheie, parcursul echipelor în turneu și potențialii marcatori. Ambele națiuni își propun să avanseze în faza următoare, într-o competiție care a generat deja emoții puternice și surprize. Fanii fotbalului din întreaga lume urmăresc cu interes evoluția turneului, așteptând o confruntare decisivă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "The Guardian Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-28T17:17:11.582847+00:00",
+      "data_afisaj": "28 iunie 2026, 20:17"
+    },
+    {
+      "id": "9a86da2495a8",
+      "titlu": "Jude Bellingham, jucătorul cheie al Angliei sub comanda lui Thomas Tuchel",
+      "rezumat": "Jude Bellingham a devenit o piesă centrală în strategia tactică a selecționerului Thomas Tuchel pentru echipa Angliei la Cupa Mondială. Deși prezența sa în primul unsprezece a fost inițial subiect de dezbatere, performanțele sale constante și adaptabilitatea la stilul de joc al antrenorului l-au transformat într-un element indispensabil. Influența sa pe teren este considerată crucială pentru ambițiile Angliei de a progresa în fazele eliminatorii ale competiției, demonstrând o maturitate remarcabilă la o vârstă fragedă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-28T17:17:11.584564+00:00",
+      "data_afisaj": "28 iunie 2026, 20:17"
+    },
+    {
+      "id": "b025edfa4afd",
+      "titlu": "Analiză: Drumul Angliei către finala Cupei Mondiale 2026",
+      "rezumat": "După calificarea în fazele eliminatorii ale Cupei Mondiale 2026, BBC Sport analizează potențialul parcurs al echipei Angliei către finală. Cu optimile de finală deja stabilite, se examinează posibilii adversari și provocările tactice pe care echipa lui Thomas Tuchel le-ar putea întâmpina. Această analiză detaliază scenariile posibile și factorii care ar putea influența șansele Angliei de a ajunge în ultimul act al competiției, oferind o perspectivă asupra dificultăților și oportunităților.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-28T17:17:11.586119+00:00",
+      "data_afisaj": "28 iunie 2026, 20:17"
+    },
+    {
+      "id": "3b6c204f0d87",
+      "titlu": "Jesse Marsch, de la criticat la erou pentru naționala Canadei la Cupa Mondială",
+      "rezumat": "Jesse Marsch, antrenorul Canadei, a depășit momente dificile în cariera sa, fiind criticat de fanii lui Leeds și ignorat de echipa națională a SUA. Cu toate acestea, el pare să-și fi găsit locul la cârma Canadei, transformându-se într-un erou pe măsură ce echipa își propune să ajungă în optimile de finală ale Cupei Mondiale. Povestea sa subliniază reziliența și capacitatea de a reuși în ciuda obstacolelor, inspirând echipa canadiană să depășească așteptările.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-28T17:17:11.587769+00:00",
+      "data_afisaj": "28 iunie 2026, 20:17"
+    },
+    {
+      "id": "e6bf0e6df09b",
+      "titlu": "MERCATO: Rapid a transferat atacantul dorit de FCSB",
+      "rezumat": "Clubul Rapid București a finalizat transferul unui atacant care se afla și pe lista de achiziții a rivalei FCSB. Această mutare reprezintă o lovitură importantă pe piața internă de transferuri, consolidând lotul Rapidului și intensificând rivalitatea dintre cele două echipe bucureștene. Detaliile financiare și durata contractului nu au fost încă publicate, dar se anticipează că jucătorul va aduce un plus de valoare ofensivei Rapidului, contribuind la obiectivele clubului în noul sezon.",
+      "categorie": "Fotbal",
+      "surse": [
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-06-28T17:17:11.589193+00:00",
+      "data_afisaj": "28 iunie 2026, 20:17"
+    },
     {
       "id": "7bd33fc723a9",
       "titlu": "Harry Kane devine cel mai bun marcator al Angliei la Cupa Mondială",
@@ -1403,114 +1460,6 @@
       ],
       "data_publicare": "2026-06-21T17:43:12.080056+00:00",
       "data_afisaj": "21 iunie 2026, 20:43"
-    },
-    {
-      "id": "a33da6617d0f",
-      "titlu": "Japonia elimină Tunisia de la Cupa Mondială cu o victorie categorică",
-      "rezumat": "Naționala Japoniei a obținut o victorie convingătoare cu scorul de 4-0 împotriva Tunisiei, asigurându-și astfel calificarea în fazele eliminatorii ale Cupei Mondiale 2026. Pentru Tunisia, acest rezultat marchează eliminarea din competiție, chiar în primul meci sub comanda noului antrenor Hervé Renard. Ayase Ueda a fost unul dintre remarcații partidei, contribuind cu două goluri la succesul echipei sale. Meciul a fost cel de-al 1000-lea din istoria Cupei Mondiale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-21T11:15:39.238193+00:00",
-      "data_afisaj": "21 iunie 2026, 14:15"
-    },
-    {
-      "id": "191b71d54508",
-      "titlu": "Dubla lui Deniz Undav propulsează Germania în fazele eliminatorii ale Cupei Mondiale",
-      "rezumat": "Echipa națională a Germaniei s-a calificat în optimile de finală ale Cupei Mondiale 2026, după o victorie dramatică cu 2-1 împotriva Coastei de Fildeș. Deniz Undav a fost eroul partidei, marcând ambele goluri ale Germaniei în repriza secundă, inclusiv golul victoriei în minutul 94. Performanța sa a ajutat Germania să revină de la un scor defavorabil și să-și asigure locul în etapa următoare a competiției.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-06-21T11:15:39.239969+00:00",
-      "data_afisaj": "21 iunie 2026, 14:15"
-    },
-    {
-      "id": "f3459fd22a6e",
-      "titlu": "Olanda zdrobește Suedia și își asigură aproape matematic calificarea în optimi",
-      "rezumat": "Naționala Olandei a obținut o victorie impresionantă cu 5-1 împotriva Suediei, făcând un pas decisiv către calificarea în optimile de finală ale Cupei Mondiale 2026. Brian Brobbey și Cody Gakpo au fost principalii marcatori, fiecare reușind câte o dublă. Acest rezultat solid consolidează poziția Olandei în grupă și confirmă forma bună a echipei în debutul turneului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-21T11:15:39.241646+00:00",
-      "data_afisaj": "21 iunie 2026, 14:15"
-    },
-    {
-      "id": "d573182f5367",
-      "titlu": "Cupa Mondială 2026 atinge 100 de goluri în cel mai rapid ritm din ultimii 68 de ani",
-      "rezumat": "Ediția din 2026 a Cupei Mondiale a înregistrat un ritm de goluri remarcabil, ajungând la borna de 100 de reușite în doar al 33-lea meci al turneului. Aceasta reprezintă cea mai rapidă atingere a pragului de 100 de goluri de la Cupa Mondială din 1958. Specialiștii analizează factorii care contribuie la această prolificitate ofensivă, incluzând posibilele influențe ale mingilor de joc și ale pauzelor de hidratare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-21T11:15:39.243481+00:00",
-      "data_afisaj": "21 iunie 2026, 14:15"
-    },
-    {
-      "id": "32d035dc4f5b",
-      "titlu": "Test Cupa Mondială: Numiți fiecare câștigător al Ghetei de Aur",
-      "rezumat": "Câți cei mai buni marcatori ai Cupei Mondiale din ultimii ani poți numi?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-21T10:32:20.197881+00:00",
-      "data_afisaj": "21 iunie 2026, 13:32"
-    },
-    {
-      "id": "5cc7497fa595",
-      "titlu": "Newcastle respinge oferta Spurs de aproximativ 80 de milioane de lire sterline pentru Tonali",
-      "rezumat": "Newcastle United respinge oferta de la Tottenham Hotspur pentru mijlocașul Sandro Tonali de aproximativ 80 de milioane de lire sterline.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-06-21T10:32:20.199490+00:00",
-      "data_afisaj": "21 iunie 2026, 13:32"
-    },
-    {
-      "id": "e6a634311ba3",
-      "titlu": "Impenetrable Room inspiră Curacao la primul punct la Cupa Mondială",
-      "rezumat": "Portarul din Curacao, Eloy Room, egalează recordul pentru cele mai multe salvari într-un meci de la Cupa Mondială, deoarece echipa lui Dick Advocaat câștigă primul punct în turneu cu un egal 0-0 împotriva Ecuadorului pe stadionul Kansas City.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-21T10:32:20.200956+00:00",
-      "data_afisaj": "21 iunie 2026, 13:32"
-    },
-    {
-      "id": "6ead06c48973",
-      "titlu": "Gakpo a tras al 100-lea gol al acestei Cupe Mondiale",
-      "rezumat": "Cody Gakpo marchează cel de-al 100-lea gol al acestei Cupe Mondiale, fiind cel de-al doilea din meci pentru a pune Olanda cu 4-0 în avantajul Suediei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-21T10:32:20.202461+00:00",
-      "data_afisaj": "21 iunie 2026, 13:32"
-    },
-    {
-      "id": "036b54800bc6",
-      "titlu": "Cupa Mondială 2026: Infantino criticat pentru utilizarea avionului privat; Curaçao securizat punct istoric – live",
-      "rezumat": "⚽ Toate cele mai recente știri din ziua 10 a turneului ⚽ Ghidul jucătorului | Bracketologie | Cizma de Aur | Trimiteți-ne un e-mail echipei de la Cupa Mondială a turneului de până acum: John Brewin, Marcus Christenson și cu mine am compilat câțiva dintre cei mai buni performanți din primele 10 zile... cu o singură regulă – fără superstaruri. Treceți peste Messi, Mbappé și Haaland - este vorba despre Laryea, Just și Quiñones: Citiți în continuare...",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-21T10:32:20.204362+00:00",
-      "data_afisaj": "21 iunie 2026, 13:32"
     }
   ]
 }
