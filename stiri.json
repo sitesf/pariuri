@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-28T17:17:11.589215+00:00",
-  "updated_at_afisaj": "28 iunie 2026, 20:17",
+  "updated_at": "2026-06-28T18:00:47.598469+00:00",
+  "updated_at_afisaj": "28 iunie 2026, 21:00",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,39 @@
   },
   "numar_stiri": 124,
   "stiri": [
+    {
+      "id": "97288680752c",
+      "titlu": "Maroc și Țările de Jos se întâlnesc în optimile Cupei Mondiale, într-un meci cu o poveste specială",
+      "rezumat": "La 32 de ani de la prima lor confruntare oficială, Maroc și Țările de Jos se pregătesc pentru un meci spectaculos în optimile Cupei Mondiale. Articolul subliniază legăturile istorice și culturale dintre cele două națiuni, având în vedere migrația marocanilor către Țările de Jos începând cu anii 1960. Această întâlnire, programată la Monterrey, este descrisă ca având intensitatea unui \"derby\", adăugând o dimensiune emoțională și simbolică duelului din faza eliminatorie.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-28T18:00:47.594525+00:00",
+      "data_afisaj": "28 iunie 2026, 21:00"
+    },
+    {
+      "id": "cffb3345ac1c",
+      "titlu": "Germania, prinsă între trecut și viitor, cu o echipă într-o criză de identitate",
+      "rezumat": "După înfrângerea cu Ecuador în ultimul meci din grupă, deși calificată, naționala Germaniei se confruntă cu o criză de identitate, conform analizei lui Jonathan Liew. Antrenorul Julian Nagelsmann a respins ideea că echipa nu ar fi luptat suficient, dar dezbaterea internă este dominată de fantomele succesului din 2014 și de influența lui Jürgen Klopp. Articolul explorează modul în care echipa este blocată între două ere, căutând o direcție clară pentru viitorul său fotbalistic.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-28T18:00:47.596363+00:00",
+      "data_afisaj": "28 iunie 2026, 21:00"
+    },
+    {
+      "id": "e87390ecacd2",
+      "titlu": "Fereastra de transferuri de vară 2026: Toate mutările din cele cinci mari ligi europene",
+      "rezumat": "O prezentare cuprinzătoare a tuturor transferurilor efectuate în Premier League, La Liga, Bundesliga, Ligue 1 și Serie A în timpul ferestrei de transferuri de vară din 2026. Articolul oferă un ghid detaliat, club cu club, al achizițiilor și plecărilor de jucători, oferind o imagine de ansamblu asupra mișcărilor de pe piața fotbalistică europeană. Această resursă este esențială pentru a urmări evoluția loturilor echipelor de top și strategiile lor de consolidare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-28T18:00:47.598179+00:00",
+      "data_afisaj": "28 iunie 2026, 21:00"
+    },
     {
       "id": "58adcac6f96a",
       "titlu": "Africa de Sud și Canada se duelează în optimile Cupei Mondiale 2026",
@@ -1427,39 +1460,6 @@
       ],
       "data_publicare": "2026-06-21T18:15:26.468689+00:00",
       "data_afisaj": "21 iunie 2026, 21:15"
-    },
-    {
-      "id": "2cca58a606e6",
-      "titlu": "Declan Rice a jucat șase luni cu dureri la nervul ischiatic",
-      "rezumat": "Mijlocașul englez Declan Rice a dezvăluit că a evoluat cu dureri la nervul ischiatic, localizate în zona superioară a ischiogambierilor și radiind în partea inferioară a spatelui, încă de la Crăciun. Acesta a descris programul de meciuri pentru club și țară ca fiind \"obscen\" din cauza numărului mare de partide disputate. Deși a fost înlocuit în minutul 72 al victoriei Angliei cu 4-2 împotriva Croației, Rice a asigurat că este \"pregătit și în formă\" pentru următorul meci al Angliei la Cupa Mondială împotriva Ghanei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-21T17:43:12.076191+00:00",
-      "data_afisaj": "21 iunie 2026, 20:43"
-    },
-    {
-      "id": "cf2d9156c25a",
-      "titlu": "Thomas Partey, în atenția publicului înainte de meciul cu Anglia, pe fondul acuzațiilor de viol",
-      "rezumat": "Mijlocașul ghanez Thomas Partey se află în centrul atenției înaintea confruntării Ghanei cu Anglia la Cupa Mondială, unde se va întâlni cu foști coechipieri de la Arsenal. Partey, care a negat toate acuzațiile de viol aduse împotriva sa, urmează să-și înceapă campania la Cupa Mondială marți, la Boston. Asociația de Fotbal a Angliei a evitat să comenteze protocolul de dinaintea meciului, unde toți jucătorii sunt așteptați să dea mâna. Partey va fi eliberat de contractul său cu Villarreal la sfârșitul acestei luni.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-21T17:43:12.078160+00:00",
-      "data_afisaj": "21 iunie 2026, 20:43"
-    },
-    {
-      "id": "c2a8c66c6bb2",
-      "titlu": "Fereastra de transferuri de vară 2026: Toate mutările confirmate din top 5 ligi europene",
-      "rezumat": "Piața transferurilor de vară din 2026 este în plină desfășurare, cu numeroase mutări confirmate în cele cinci mari ligi europene: Premier League, La Liga, Bundesliga, Ligue 1 și Serie A. Cluburile își definitivează loturile pentru noul sezon, iar lista actualizată include toate acordurile încheiate până în prezent. Această perioadă este crucială pentru echipe în vederea consolidării sau reconstrucției, având un impact semnificativ asupra echilibrului de forțe din fotbalul european.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-21T17:43:12.080056+00:00",
-      "data_afisaj": "21 iunie 2026, 20:43"
     }
   ]
 }
