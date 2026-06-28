@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-27T17:56:55.629106+00:00",
-  "updated_at_afisaj": "27 iunie 2026, 20:56",
+  "updated_at": "2026-06-28T10:00:25.089236+00:00",
+  "updated_at_afisaj": "28 iunie 2026, 13:00",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,59 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 127,
+  "numar_stiri": 126,
   "stiri": [
+    {
+      "id": "d408dc49a2f5",
+      "titlu": "Antrenorul Scoției, Steve Clarke, demisionează după eliminarea de la Cupa Mondială",
+      "rezumat": "Steve Clarke a demisionat din funcția de selecționer al Scoției, încheindu-și mandatul după eliminarea echipei din faza grupelor a Cupei Mondiale. Decizia vine după șapte ani la cârma naționalei, perioadă în care a reușit să califice Scoția la turnee finale majore, dar nu a reușit să depășească faza grupelor. Demisia sa a fost confirmată de mai multe surse sportive internaționale, marcând sfârșitul unei ere pentru fotbalul scoțian.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-06-28T10:00:25.083903+00:00",
+      "data_afisaj": "28 iunie 2026, 13:00"
+    },
+    {
+      "id": "f4792419e816",
+      "titlu": "Lionel Messi stabilește un nou record la Cupa Mondială, marcând în șapte meciuri consecutive",
+      "rezumat": "Lionel Messi a intrat pe teren din postura de rezervă și a marcat un gol în victoria Argentinei cu 3-1 împotriva Iordaniei, în ultimul meci din Grupa J a Cupei Mondiale. Prin această reușită, Messi a devenit primul jucător din istoria Cupei Mondiale care înscrie în șapte meciuri consecutive, consolidându-și statutul de legendă a competiției. Performanța sa a fost larg mediatizată de presa sportivă internațională, subliniind impactul său continuu.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-28T10:00:25.085703+00:00",
+      "data_afisaj": "28 iunie 2026, 13:00"
+    },
+    {
+      "id": "d7c0e375345c",
+      "titlu": "Austria și Algeria se califică în optimi după un final dramatic în meciul direct",
+      "rezumat": "Austria și Algeria au obținut calificarea în optimile de finală ale Cupei Mondiale, după un meci direct extrem de dramatic, încheiat la egalitate, scor 3-3. Ambele echipe au marcat în prelungiri, asigurându-și punctele necesare pentru a avansa din Grupa J și eliminând astfel Iranul din competiție. Finalul tensionat al partidei a fost confirmat de multiple surse internaționale, care au evidențiat suspansul și răsturnările de scor din ultimele minute.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-28T10:00:25.087527+00:00",
+      "data_afisaj": "28 iunie 2026, 13:00"
+    },
+    {
+      "id": "2fedfc95a6c2",
+      "titlu": "Columbia câștigă Grupa K la Cupa Mondială, Portugalia se califică de pe locul doi",
+      "rezumat": "Columbia a terminat pe primul loc în Grupa K a Cupei Mondiale, după o remiză spectaculoasă, scor 0-0, împotriva Portugaliei în ultimul meci din grupă. Echipa lui Roberto Martinez, Portugalia, a încheiat pe poziția a doua, asigurându-și și ea calificarea în fazele eliminatorii ale competiției. Ambele naționale avansează în optimile de finală, conform rezultatelor confirmate de presa sportivă, într-o grupă în care s-a dat o luptă intensă pentru supremație.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-28T10:00:25.089215+00:00",
+      "data_afisaj": "28 iunie 2026, 13:00"
+    },
     {
       "id": "fac376994995",
       "titlu": "Analiză: Jucătorii cheie ai Panama pe care Anglia trebuie să-i urmărească la Cupa Mondială",
@@ -1437,64 +1488,6 @@
       ],
       "data_publicare": "2026-06-21T10:32:20.204362+00:00",
       "data_afisaj": "21 iunie 2026, 13:32"
-    },
-    {
-      "id": "2297b220a3fb",
-      "titlu": "Olanda v Suedia: Cupa Mondială 2026 – în direct",
-      "rezumat": "⚽️ Demararea Cupei Mondiale: 13:00 ET/18:00 BST/3:00 AEST ⚽️ Ghidul jucătorului | Bracketologie | Cizma de Aur | Email John Netherlands: Verbruggen, Dumfries, van Dijk, van Hecke, van de Ven, Gravenberch, de Jong, Reijnders, Malen, Brobbey, Gakpo. Înlocuitori: Flekken, Roefs, Ake, Geertruida, Hato, Kluivert, Koopmeiners, Lang, Depay, de Roon, Summerville, Til, Weghorst, Wieffer. Suedia: Nordfeldt, Lagerbielke, Hien, Lindelof, Karlstrom, Bernhardsson, Nygren, Ayari, Gudmundsson, Gyokeres, Isak. Înlocuitori: Zetterstrom, Viktor J",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-20T18:06:32.205859+00:00",
-      "data_afisaj": "20 iunie 2026, 21:06"
-    },
-    {
-      "id": "4c3d0bc3c8b9",
-      "titlu": "Cum funcționează calificarea pentru faza eliminatorie a Cupei Mondiale?",
-      "rezumat": "Cu cel de-al doilea tur al meciurilor din faza grupelor în desfășurare, evaluăm cine poate juca pe cine în rundele eliminatorii - și cum pot ajunge acolo.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-20T18:06:32.207510+00:00",
-      "data_afisaj": "20 iunie 2026, 21:06"
-    },
-    {
-      "id": "9689aaf2ca67",
-      "titlu": "Saka se antrenează singur în timp ce Anglia se pregătește pentru meciul din Ghana",
-      "rezumat": "Bukayo Saka a fost singurul jucător care nu a fost prezent la antrenamentele de grupă, deoarece Anglia și-a continuat pregătirile pentru al doilea meci de Cupa Mondială împotriva Ghanei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-20T18:06:32.209009+00:00",
-      "data_afisaj": "20 iunie 2026, 21:06"
-    },
-    {
-      "id": "cf6568512e4c",
-      "titlu": "De ce Kane este diferit la această Cupă Mondială - Shearer",
-      "rezumat": "Fostul căpitan al Angliei, Alan Shearer, explică ce s-a schimbat pentru Harry Kane de la luptele sale la Cupa Mondială din Qatar din 2022.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-20T18:06:32.210619+00:00",
-      "data_afisaj": "20 iunie 2026, 21:06"
-    },
-    {
-      "id": "baa457f22050",
-      "titlu": "Arbitrul i-a spus lui McGinn că penalty a fost refuzat, deoarece mingea iese din joc",
-      "rezumat": "Arbitrul Ilgiz Tantashev i-a spus lui John McGinn că i-a respins cererea de un penalty împotriva Marocului, deoarece mingea iese din joc, spune fratele mijlocașului Scoției, Stephen.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-20T18:06:32.212195+00:00",
-      "data_afisaj": "20 iunie 2026, 21:06"
     }
   ]
 }
