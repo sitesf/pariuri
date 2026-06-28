@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-28T10:00:25.089236+00:00",
-  "updated_at_afisaj": "28 iunie 2026, 13:00",
+  "updated_at": "2026-06-28T10:28:29.312876+00:00",
+  "updated_at_afisaj": "28 iunie 2026, 13:28",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,31 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 126,
+  "numar_stiri": 128,
   "stiri": [
+    {
+      "id": "7bd33fc723a9",
+      "titlu": "Harry Kane devine cel mai bun marcator al Angliei la Cupa Mondială",
+      "rezumat": "Atacantul Harry Kane a stabilit un nou record, devenind cel mai bun marcator al Angliei la Cupa Mondială, în timpul victoriei cu 2-0 împotriva Panama. Jude Bellingham a fost, de asemenea, o figură cheie în meci, contribuind cu un gol și o pasă decisivă. Această performanță a ajutat echipa lui Thomas Tuchel să termine pe primul loc în Grupa L, asigurându-și calificarea în fazele eliminatorii ale turneului. Victoria a consolidat poziția Angliei ca lider de grup și a subliniat contribuțiile individuale ale jucătorilor cheie.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-28T10:28:29.309697+00:00",
+      "data_afisaj": "28 iunie 2026, 13:28"
+    },
+    {
+      "id": "ebd3ca0bdc90",
+      "titlu": "Crystal Palace și Sunderland, în fruntea clasamentului marcatorilor din Premier League la Cupa Mondială",
+      "rezumat": "Cluburile Crystal Palace și Sunderland conduc clasamentul marcatorilor din Premier League la Cupa Mondială 2026, după încheierea fazei grupelor. Această statistică surprinzătoare le plasează înaintea unor echipe de top precum Arsenal, Liverpool și Manchester City. Performanța subliniază contribuția jucătorilor de la aceste cluburi la golurile înscrise în turneul final, evidențiind impactul lor individual în competiția internațională. Este o recunoaștere a talentului și formei jucătorilor lor pe scena mondială.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-28T10:28:29.312857+00:00",
+      "data_afisaj": "28 iunie 2026, 13:28"
+    },
     {
       "id": "d408dc49a2f5",
       "titlu": "Antrenorul Scoției, Steve Clarke, demisionează după eliminarea de la Cupa Mondială",
