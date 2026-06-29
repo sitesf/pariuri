@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-29T12:01:31.197319+00:00",
-  "updated_at_afisaj": "29 iunie 2026, 15:01",
+  "updated_at": "2026-06-29T12:31:57.054678+00:00",
+  "updated_at_afisaj": "29 iunie 2026, 15:31",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 124,
+  "numar_stiri": 129,
   "stiri": [
+    {
+      "id": "ad62d96450c5",
+      "titlu": "De ce Olanda - Maroc este mai mult decât un simplu meci",
+      "rezumat": "Întâlnirea Marocului cu Olanda la Cupa Mondială spune o poveste despre migrație, identitate și lupta pentru talentele născute în Olanda.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-29T12:31:51.239991+00:00",
+      "data_afisaj": "29 iunie 2026, 15:31"
+    },
+    {
+      "id": "2d3662b4f9a0",
+      "titlu": "Dați-vă la o parte Messi și Ronaldo - noua generație strălucește la Cupa Mondială",
+      "rezumat": "BBC Sport analizează cinci tineri jucători care fac o impresie puternică pe aceeași scenă a Cupei Mondiale ca și veteranii Lionel Messi și Cristiano Ronaldo.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-29T12:31:51.241596+00:00",
+      "data_afisaj": "29 iunie 2026, 15:31"
+    },
+    {
+      "id": "09ce80b204c9",
+      "titlu": "Ar putea un val de căldură să facă meciurile de la Cupa Mondială 'nesigure' săptămâna aceasta?",
+      "rezumat": "Temperaturile sunt așteptate să crească vertiginos în anumite părți ale SUA și Canadei săptămâna aceasta, ceea ce ar putea avea un impact semnificativ asupra sănătății la unele meciuri de la Cupa Mondială.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-29T12:31:51.243087+00:00",
+      "data_afisaj": "29 iunie 2026, 15:31"
+    },
+    {
+      "id": "10edb9367a8f",
+      "titlu": "'Fratele mai mare' Van Dijk, cheia visurilor olandeze la Cupa Mondială",
+      "rezumat": "Câștigătorul Cupei Mondiale cu Franța, Olivier Giroud, explică de ce fundașul olandez Virgil van Dijk este în continuare omul cheie pentru echipa sa națională.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-29T12:31:51.244543+00:00",
+      "data_afisaj": "29 iunie 2026, 15:31"
+    },
+    {
+      "id": "38413d8cc2f9",
+      "titlu": "Demiteri, amenințări cu moartea și furie – eliminarea de la Cupa Mondială lasă fotbalul sud-coreean în criză",
+      "rezumat": "După eliminarea de la Cupa Mondială, BBC Sport investighează ascensiunea și declinul fotbalului sud-coreean.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-29T12:31:51.246215+00:00",
+      "data_afisaj": "29 iunie 2026, 15:31"
+    },
     {
       "id": "74680cecc212",
       "titlu": "Cupa Mondială 2026: Clarke spune că este „momentul potrivit să se retragă” din funcția de la Scoția, plus pregătirea meciului Brazilia v Japonia – live",
