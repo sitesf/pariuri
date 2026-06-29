@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-28T18:00:47.598469+00:00",
-  "updated_at_afisaj": "28 iunie 2026, 21:00",
+  "updated_at": "2026-06-29T12:01:31.197319+00:00",
+  "updated_at_afisaj": "29 iunie 2026, 15:01",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,62 @@
   },
   "numar_stiri": 124,
   "stiri": [
+    {
+      "id": "74680cecc212",
+      "titlu": "Cupa Mondială 2026: Clarke spune că este „momentul potrivit să se retragă” din funcția de la Scoția, plus pregătirea meciului Brazilia v Japonia – live",
+      "rezumat": "Canada ajunge în optimi cu o victorie împotriva Africii de Sud. Duo-ul dinamic al Angliei are nevoie ca alții să intervină. Trimite-ne un e-mail | Bracketology | Cupa Mondială Zilnic Să ne îndreptăm atenția către Germania. Conținut de Jonathan Liew în curând. Brazilia v Japonia (ora 13:00 EST, 18:00 BST) Germania v Paraguay: (ora 16:30 EST, 21:30 BST) Olanda v Maroc (ora 21:00 EST, 2:00 marți BST) Continuă să citești...",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-29T12:01:22.223826+00:00",
+      "data_afisaj": "29 iunie 2026, 15:01"
+    },
+    {
+      "id": "185f8f0db88a",
+      "titlu": "Cum Tuchel încă mai caută soluții pe flancuri - Shearer",
+      "rezumat": "Fostul căpitan al Angliei, Alan Shearer, explică de ce există multe motive de optimism în privința Angliei până acum la această Cupă Mondială, dar a avea o echipă stabilă nu este unul dintre ele.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-29T12:01:22.225312+00:00",
+      "data_afisaj": "29 iunie 2026, 15:01"
+    },
+    {
+      "id": "d393a24ea53a",
+      "titlu": "Cum prinde contur noua Brazilie și de ce Cunha este esențial",
+      "rezumat": "Fostul mijlocaș brazilian Lucas Leiva explică de ce atacantul lui Manchester United, Matheus Cunha, este atât de important pentru sistemul adaptabil al Braziliei sub Carlo Ancelotti.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-29T12:01:22.226724+00:00",
+      "data_afisaj": "29 iunie 2026, 15:01"
+    },
+    {
+      "id": "a593530cf191",
+      "titlu": "De ce „fratele mai mare” Van Dijk este cheia visurilor Olandei la Cupa Mondială",
+      "rezumat": "Câștigătorul Cupei Mondiale cu Franța, Olivier Giroud, explică de ce fundașul olandez Virgil van Dijk este în continuare omul principal pentru echipa sa națională.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-29T12:01:22.228175+00:00",
+      "data_afisaj": "29 iunie 2026, 15:01"
+    },
+    {
+      "id": "6ac1264e3507",
+      "titlu": "Clarke spune că retragerea a fost o decizie „ușoară” după eliminarea de la Cupa Mondială",
+      "rezumat": "Steve Clarke spune că a fost o decizie ușoară să se retragă din funcția de antrenor principal al Scoției, deoarece a planificat întotdeauna să plece dacă nu se calificau în fazele eliminatorii.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-29T12:01:22.229610+00:00",
+      "data_afisaj": "29 iunie 2026, 15:01"
+    },
     {
       "id": "97288680752c",
       "titlu": "Maroc și Țările de Jos se întâlnesc în optimile Cupei Mondiale, într-un meci cu o poveste specială",
@@ -1400,66 +1456,6 @@
       ],
       "data_publicare": "2026-06-22T12:51:25.853917+00:00",
       "data_afisaj": "22 iunie 2026, 15:51"
-    },
-    {
-      "id": "4aa033f27473",
-      "titlu": "Belgia v Iran: Cupa Mondială 2026 – live",
-      "rezumat": "⚽️ Start: 12pm ora locală/8pm BST/5am (Luni) AEST ⚽️ Ghid jucători | Bracketologie | Gheata de Aur | Trimite e-mail lui Daniel În Atlanta, se administrează o corecție. Belgia (4-2-3-1): Courtois; Meunier, Ngoy, Mechele, De Cuyper; Raskin, Tielemans; Saelemaekers, De Bruyne, Trossard; Lukaku. Rezerve: Castagne, De Ketelaere, De Winter, Fernandez-Pardp, Witsel, Lammens, Lukébakio, Onana, Penders, Seys, Theate, Vanaken, Moreira. Citește în continuare...",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-21T18:15:26.461990+00:00",
-      "data_afisaj": "21 iunie 2026, 21:15"
-    },
-    {
-      "id": "02d6e5e84a73",
-      "titlu": "Frumusețea de a împărtăși prima Cupă Mondială a copilului tău",
-      "rezumat": "Nu există nimic asemănător cu prima Cupă Mondială de care te poți bucura alături de copilul tău - și uimirea cu ochii larg deschiși prin care o vede el.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-21T18:15:26.463554+00:00",
-      "data_afisaj": "21 iunie 2026, 21:15"
-    },
-    {
-      "id": "4230a88d24a0",
-      "titlu": "Spania trimite un mesaj la Cupa Mondială cu o victorie mare LIVE!",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-21T18:15:26.465054+00:00",
-      "data_afisaj": "21 iunie 2026, 21:15"
-    },
-    {
-      "id": "50aac1b1d55d",
-      "titlu": "CM 2026 Spania – Arabia Saudită 4-0. Efectul Lamine Yamal l-a trezit pe Oyarzabal: hai că au ajuns și ibericii la Mondial! Clasament grupa H acum",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-06-21T18:15:26.467235+00:00",
-      "data_afisaj": "21 iunie 2026, 21:15"
-    },
-    {
-      "id": "36980b7ca3ab",
-      "titlu": "Recordurile de la Cupa Mondială care par a fi doborâte",
-      "rezumat": "Cupa Mondială din 2026 ar putea avea doar 10 zile, dar turneul a rescris deja istoria fotbalului. BBC Sport aruncă o privire asupra recordurilor deja doborâte sau care urmează să fie doborâte.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-21T18:15:26.468689+00:00",
-      "data_afisaj": "21 iunie 2026, 21:15"
     }
   ]
 }
