@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-29T18:11:16.098658+00:00",
-  "updated_at_afisaj": "29 iunie 2026, 21:11",
+  "updated_at": "2026-06-29T18:59:45.826431+00:00",
+  "updated_at_afisaj": "29 iunie 2026, 21:59",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,66 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 123,
+  "numar_stiri": 128,
   "stiri": [
+    {
+      "id": "e26cacd4083c",
+      "titlu": "Brazilia vs Japonia: Cupa Mondială 2026 ultimele 32 – live",
+      "rezumat": "⚽ Ora de start: 12pm locală/1pm EDT/6pm BST/3am AET ⚽ Analiza grupelor | Ghidul jucătorilor | Gheata de Aur | Trimite e-mail lui Tim „Consens,” exclamă Richard Hirst, „du-te în spatele meu! Dacă nu s-ar fi numit Brazilia, am prezice atât de ușor victoria unei echipe al cărei playmaker a petrecut cea mai mare parte a sezonului trecut nereușind să împiedice retrogradarea lui West Ham, al cărei mijlocaș defensiv are mobilitatea unui con de trafic, al cărei... ei bine, înțelegi ce vreau să spun. „Da, probabil că vor câștiga, dar dacă Japonia se va descurca bine împotriva lor, atunci...",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "The Guardian Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-29T18:59:33.930424+00:00",
+      "data_afisaj": "29 iunie 2026, 21:59"
+    },
+    {
+      "id": "1a3bb0ad9d4d",
+      "titlu": "Kane, probabil, va semna un nou contract cu Bayern în ciuda interesului Barcelonei",
+      "rezumat": "Căpitanul Angliei, Harry Kane, este probabil să semneze un nou contract pentru a-și prelungi șederea la Bayern München, în ciuda interesului din partea Barcelonei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-06-29T18:59:33.931940+00:00",
+      "data_afisaj": "29 iunie 2026, 21:59"
+    },
+    {
+      "id": "e29c76420b2e",
+      "titlu": "De ce Maresca? Ce pot aștepta fanii lui Man City de la succesorul lui Guardiola",
+      "rezumat": "Pep Guardiola îi predă ștafeta lui Enzo Maresca, dar de ce l-a ales Manchester City pe italian ca înlocuitor al spaniolului?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-29T18:59:33.933490+00:00",
+      "data_afisaj": "29 iunie 2026, 21:59"
+    },
+    {
+      "id": "97f93c798abc",
+      "titlu": "Cum să câștigi o lovitură de departajare la Cupa Mondială",
+      "rezumat": "Aruncăm o privire la ce se poate învăța din fiecare penalty executat vreodată într-o sesiune de lovituri de departajare la Cupa Mondială.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-29T18:59:33.934869+00:00",
+      "data_afisaj": "29 iunie 2026, 21:59"
+    },
+    {
+      "id": "e7ce58e158d1",
+      "titlu": "Realitatea dură din spatele cererilor fanilor scoțieni pentru Moyes și Postecoglou",
+      "rezumat": "Unii fani scoțieni visează ca David Moyes sau Ange Postecoglou să-l înlocuiască pe Steve Clarke, dar ar putea fi oricare dintre ei o perspectivă realistă?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-29T18:59:33.936379+00:00",
+      "data_afisaj": "29 iunie 2026, 21:59"
+    },
     {
       "id": "d7d7cb09ece4",
       "titlu": "Sam Kerr se alătură echipei Gotham FC din NWSL",
