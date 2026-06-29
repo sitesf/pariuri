@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-29T12:31:57.054678+00:00",
-  "updated_at_afisaj": "29 iunie 2026, 15:31",
+  "updated_at": "2026-06-29T18:11:16.098658+00:00",
+  "updated_at_afisaj": "29 iunie 2026, 21:11",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,54 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 129,
+  "numar_stiri": 123,
   "stiri": [
+    {
+      "id": "d7d7cb09ece4",
+      "titlu": "Sam Kerr se alătură echipei Gotham FC din NWSL",
+      "rezumat": "Internaționala australiană Sam Kerr a semnat un contract pe patru ani cu Gotham FC, o echipă din Liga Națională de Fotbal Feminin (NWSL) din Statele Unite. Mutarea vine după plecarea sa de la Chelsea, unde a avut o carieră de succes. Acest transfer reprezintă o achiziție importantă pentru Gotham FC și marchează o nouă etapă în cariera atacantei, aducând o experiență valoroasă în campionatul american.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-29T18:11:16.093282+00:00",
+      "data_afisaj": "29 iunie 2026, 21:11"
+    },
+    {
+      "id": "89dc1da06904",
+      "titlu": "Harry Kane, aproape de un nou contract cu Bayern Munchen, în ciuda interesului Barcelonei",
+      "rezumat": "Căpitanul Angliei, Harry Kane, este pe cale să semneze o prelungire a contractului cu Bayern Munchen, consolidându-și astfel prezența la clubul german. Această decizie vine în ciuda speculațiilor privind un posibil interes din partea Barcelonei. Se pare că atacantul preferă să-și continue parcursul la Bayern, unde a devenit un jucător cheie de la sosirea sa, contribuind semnificativ la performanțele echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-06-29T18:11:16.094980+00:00",
+      "data_afisaj": "29 iunie 2026, 21:11"
+    },
+    {
+      "id": "0749475b13bc",
+      "titlu": "Enzo Maresca, noul antrenor al lui Manchester City: Ce pot aștepta fanii de la succesorul lui Guardiola",
+      "rezumat": "Manchester City l-a numit pe Enzo Maresca în funcția de antrenor principal, succedându-i lui Pep Guardiola. Fanii clubului sunt curioși să afle ce schimbări și ce stil de joc va aduce italianul, care a mai făcut parte din staff-ul tehnic al lui Guardiola. Alegerea lui Maresca indică o continuitate a filosofiei clubului, dar și o dorință de a aduce o perspectivă nouă la cârma echipei campioane, având în vedere experiența sa anterioară.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-29T18:11:16.096780+00:00",
+      "data_afisaj": "29 iunie 2026, 21:11"
+    },
+    {
+      "id": "00b98e7a087b",
+      "titlu": "Transfer rapid pentru Ștefan Târnovanu: Portarul a ajuns la un acord cu FCSB",
+      "rezumat": "Portarul Ștefan Târnovanu este aproape de un transfer la FCSB, conform ultimelor informații din piața de mercato. Se pare că jucătorul a ajuns la un acord cu clubul bucureștean, mutare ce ar putea fi oficializată în scurt timp. Această tranzacție reprezintă o mișcare importantă pentru FCSB, care își consolidează astfel lotul cu un portar considerat de perspectivă în fotbalul românesc, aducând stabilitate și concurență pe postul de portar.",
+      "categorie": "Fotbal",
+      "surse": [
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-06-29T18:11:16.098639+00:00",
+      "data_afisaj": "29 iunie 2026, 21:11"
+    },
     {
       "id": "ad62d96450c5",
       "titlu": "De ce Olanda - Maroc este mai mult decât un simplu meci",
@@ -1396,121 +1442,6 @@
       ],
       "data_publicare": "2026-06-22T19:33:38.740225+00:00",
       "data_afisaj": "22 iunie 2026, 22:33"
-    },
-    {
-      "id": "df88fe65eaf3",
-      "titlu": "Iranul a lăsat un bilet cerând pace după tragerea la sorți a Belgiei",
-      "rezumat": "Iranul a lăsat un mesaj în care spune: „Fie ca pacea, respectul și prietenia să prevaleze între toate națiunile” după meciul din grupa de la Cupa Mondială cu Belgia.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-22T13:34:11.306969+00:00",
-      "data_afisaj": "22 iunie 2026, 16:34"
-    },
-    {
-      "id": "13c5d6663658",
-      "titlu": "Cum s-a unit fotbalul în spatele lui Doku după criticile privind nașterea",
-      "rezumat": "Jeremy Doku vrea să zboare acasă pentru a asista la nașterea primului său copil - dar de ce s-a dovedit asta controversat în unele privințe?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-22T13:34:11.308609+00:00",
-      "data_afisaj": "22 iunie 2026, 16:34"
-    },
-    {
-      "id": "3a87c4ef533c",
-      "titlu": "O viziune a fundașului despre cum să-i oprești pe cei mai buni atacanți de la Cupa Mondială",
-      "rezumat": "Lionel Messi, Kylian Mbappe, Erling Haaland și Harry Kane par să fie în formă letală la această Cupă Mondială. Așadar, cum îi poți opri pe drumul lor?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-22T13:34:11.310271+00:00",
-      "data_afisaj": "22 iunie 2026, 16:34"
-    },
-    {
-      "id": "17fbfec3f318",
-      "titlu": "Contează dacă Scoția pierde și totuși face istorie?",
-      "rezumat": "Performanța, chiar și rezultatul, contează atâta timp cât Scoția se califică în faza grupelor de la Cupa Mondială după meciul de miercuri împotriva Braziliei? Tom English se gândește.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-22T13:34:11.311824+00:00",
-      "data_afisaj": "22 iunie 2026, 16:34"
-    },
-    {
-      "id": "0241413c307d",
-      "titlu": "Fundașul Germaniei Schlotterbeck a ieșit de la Cupa Mondială",
-      "rezumat": "Fundașul Germaniei Nico Schlotterbeck este exclus din restul Cupei Mondiale din cauza unei accidentări la gleznă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-22T13:34:11.313263+00:00",
-      "data_afisaj": "22 iunie 2026, 16:34"
-    },
-    {
-      "id": "d3ece05abe61",
-      "titlu": "Salah marchează pentru a ajuta Egiptul la prima victorie la Cupa Mondială",
-      "rezumat": "Mohamed Salah marchează un gol și creează altul, în timp ce Egiptul revine de la scor pentru a învinge Noua Zeelandă și a-și asigura prima victorie la Cupa Mondială.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-22T12:51:25.847010+00:00",
-      "data_afisaj": "22 iunie 2026, 15:51"
-    },
-    {
-      "id": "35773d5d1533",
-      "titlu": "'Este stocat pe un hard disk în capul meu' - urmărind Cupa Mondială ca antrenor",
-      "rezumat": "Fostul antrenor al echipelor Tottenham și Brentford, Thomas Frank, despre urmărirea noilor jucători la Cupa Mondială - pe cine ar semna și cine va fi vedeta turneului?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-22T12:51:25.848762+00:00",
-      "data_afisaj": "22 iunie 2026, 15:51"
-    },
-    {
-      "id": "09c8ee8efe8c",
-      "titlu": "Capul Verde continuă să surprindă cu o remiză spectaculoasă împotriva Uruguayului",
-      "rezumat": "Campania captivantă de debut a Capului Verde la Cupa Mondială a continuat, deoarece au ținut pe loc dubla campioană Uruguay la o remiză palpitantă în Miami.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-06-22T12:51:25.850274+00:00",
-      "data_afisaj": "22 iunie 2026, 15:51"
-    },
-    {
-      "id": "9519975c138e",
-      "titlu": "Cupa Mondială 2026: Povestea Capului Verde continuă; L’Équipe își cere scuze lui Doku pentru comentariile „dezgustătoare” – live",
-      "rezumat": "⚽ Toate cele mai recente știri din ziua 11 a turneului ⚽ Ghidul jucătorilor | Bracketology | Gheata de Aur | Trimite-ne un e-mail Apropo, Beiranvand deține recordul mondial pentru cea mai lungă aruncare într-un meci competitiv – 61.0026m – și pentru cel mai lung drop-kick, 78.014m. Nu e rău pentru cineva care a dormit odată pe străzi. Dar să ne întoarcem pentru o clipă la Iran. Portarul lor, Alireza Beiranvand – sau „Zidul Persiei” așa cum este cunoscut – a trebuit să fugă de acasă pentru a deveni fotbalist, tatăl său fiind mai puțin încântat d",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-22T12:51:25.852335+00:00",
-      "data_afisaj": "22 iunie 2026, 15:51"
-    },
-    {
-      "id": "60aeec789c9e",
-      "titlu": "Sezonul remarcabil al lui Madueke - de la petiție la titular la Cupa Mondială",
-      "rezumat": "Noni Madueke a trecut de la fani care protestau împotriva semnării sale la Arsenal la titular al Angliei la Cupa Mondială. BBC Sport analizează sezonul său plin de suișuri și coborâșuri.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-22T12:51:25.853917+00:00",
-      "data_afisaj": "22 iunie 2026, 15:51"
     }
   ]
 }
