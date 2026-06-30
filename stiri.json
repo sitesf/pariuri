@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-30T10:56:23.304098+00:00",
-  "updated_at_afisaj": "30 iunie 2026, 13:56",
+  "updated_at": "2026-06-30T17:59:41.056856+00:00",
+  "updated_at_afisaj": "30 iunie 2026, 20:59",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,63 @@
   },
   "numar_stiri": 124,
   "stiri": [
+    {
+      "id": "a19fdbad1887",
+      "titlu": "Tottenham a ajuns la un acord de 85 de milioane de lire sterline pentru Mateus Fernandes de la West Ham",
+      "rezumat": "Tottenham Hotspur a convenit un acord în valoare de 85 de milioane de lire sterline pentru transferul mijlocașului Mateus Fernandes de la West Ham United. Această mutare vine după ce Manchester United s-a retras din cursa pentru semnătura jucătorului. Fernandes este considerat o achiziție importantă pentru Spurs, consolidând lotul echipei în vederea viitoarelor competiții. Detaliile finale ale contractului jucătorului nu au fost încă publicate, dar se așteaptă ca transferul să fie oficializat în curând.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-06-30T17:59:41.050233+00:00",
+      "data_afisaj": "30 iunie 2026, 20:59"
+    },
+    {
+      "id": "95905abbe5e9",
+      "titlu": "Frank Lampard își prelungește contractul cu Coventry City până în 2029",
+      "rezumat": "Frank Lampard, managerul echipei Coventry City, a semnat un nou contract cu clubul, valabil până în anul 2029. Această prelungire subliniază încrederea conducerii în viziunea și capacitatea lui Lampard de a dezvolta echipa pe termen lung. Sub conducerea sa, Coventry City a arătat semne de progres, iar noul acord îi oferă stabilitate pentru a continua munca începută și a atinge obiectivele ambițioase stabilite.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-06-30T17:59:41.051865+00:00",
+      "data_afisaj": "30 iunie 2026, 20:59"
+    },
+    {
+      "id": "13d560497957",
+      "titlu": "AC Milan îl transferă pe atacantul portughez Goncalo Ramos de la PSG pentru 60 de milioane de lire sterline",
+      "rezumat": "AC Milan a finalizat transferul atacantului portughez Goncalo Ramos de la Paris Saint-Germain, într-o tranzacție evaluată la aproximativ 60 de milioane de lire sterline. Această sumă reprezintă un record pentru clubul italian. Ramos, un jucător cu un profil ofensiv puternic, este așteptat să aducă un plus de forță în atacul Milanului și să contribuie la ambițiile echipei în Serie A și în competițiile europene. Transferul marchează o investiție semnificativă pentru \"rossoneri\".",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-06-30T17:59:41.053678+00:00",
+      "data_afisaj": "30 iunie 2026, 20:59"
+    },
+    {
+      "id": "f00fa1287dfd",
+      "titlu": "Manuel Neuer se retrage din echipa națională a Germaniei",
+      "rezumat": "Portarul legendar Manuel Neuer a anunțat că se retrage din fotbalul internațional, după eliminarea Germaniei de la Cupa Mondială. Decizia vine în urma unei cariere impresionante la nivel de națională, în care a fost un pilon al echipei și a câștigat Cupa Mondială în 2014. Retragerea sa marchează sfârșitul unei ere pentru \"Die Mannschaft\", care va trebui să găsească un succesor pentru unul dintre cei mai buni portari din istoria sa.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-06-30T17:59:41.055175+00:00",
+      "data_afisaj": "30 iunie 2026, 20:59"
+    },
+    {
+      "id": "e16a83afeaeb",
+      "titlu": "Propunerea de extindere a Cupei Africii pe Națiuni la 28 de echipe a fost respinsă",
+      "rezumat": "Planul de a extinde Cupa Africii pe Națiuni de la 24 la 28 de echipe a fost respins de către Comitetul Executiv al Confederației Africane de Fotbal (CAF). Propunerea, inițiată de președintele CAF, Patrice Motsepe, ar fi urmat să fie implementată pentru turneul din 2028. Decizia de a menține formatul actual de 24 de echipe reflectă dorința de a asigura un standard înalt al competiției și de a evita posibilele provocări logistice și financiare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-30T17:59:41.056834+00:00",
+      "data_afisaj": "30 iunie 2026, 20:59"
+    },
     {
       "id": "80d4e0e50c98",
       "titlu": "Nagelsmann refuză să demisioneze după eliminarea Germaniei de la Cupa Mondială",
@@ -1400,62 +1457,6 @@
       ],
       "data_publicare": "2026-06-23T18:00:31.505810+00:00",
       "data_afisaj": "23 iunie 2026, 21:00"
-    },
-    {
-      "id": "11db266e014d",
-      "titlu": "Cupa Mondială 2026: Martínez spune că criticile la adresa lui Ronaldo și Portugalia sunt „nedrepte”; Anglia se confruntă cu Ghana – în direct",
-      "rezumat": "⚽ Toate cele mai recente știri din ziua 13 a turneului ⚽ Ghidul jucătorului | Bracketologie | Cizma de Aur | Trimiteți-ne un e-mail Omul nostru din tabără David Hytner trece sub capota (a dat în cuie) pregătirilor Angliei pentru Black Stars. Thomas Tuchel își împărtășește părerea despre ceea ce Ghana va aduce la Foxborough: \"Mă așteaptă la mai multă posesie de minge. Mă aștept ca Ghana să se bazeze pe contraatacuri, deoarece sunt foarte fizice, foarte rapide și periculoase\". Continuă să citești...",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-23T11:15:45.842405+00:00",
-      "data_afisaj": "23 iunie 2026, 14:15"
-    },
-    {
-      "id": "0b9db89f089d",
-      "titlu": "De la retragere la recorduri - un alt moment Messi nemuritor",
-      "rezumat": "La zece ani după ce a anunțat că renunță la fotbalul internațional, Lionel Messi încă bate recorduri pentru Argentina, campioană a Cupei Mondiale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-23T11:15:45.844052+00:00",
-      "data_afisaj": "23 iunie 2026, 14:15"
-    },
-    {
-      "id": "5b873cf7d79d",
-      "titlu": "Cum rezolvi o problemă ca Ronaldo?",
-      "rezumat": "Portugalia se confruntă cu Uzbekistanul cu Cristiano Ronaldo într-o formă proastă pentru țara sa și o reacție violentă pe rețelele de socializare împotriva coechipierilor săi.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-23T11:15:45.845605+00:00",
-      "data_afisaj": "23 iunie 2026, 14:15"
-    },
-    {
-      "id": "2b214b608800",
-      "titlu": "Călătoria lui Anderson în Anglia vedetă și potențial record britanic",
-      "rezumat": "Elliot Anderson a devenit o parte cheie a echipei Angliei a lui Thomas Tuchel și ar putea fi în pragul unui transfer record britanic.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-23T11:15:45.847231+00:00",
-      "data_afisaj": "23 iunie 2026, 14:15"
-    },
-    {
-      "id": "8fd90a747fb6",
-      "titlu": "Romantism din Miami, Billy Gilmour și un hot dog tocat și tatuaj",
-      "rezumat": "Alt oraș. Un alt stagiu. Încă un love-in al Armatei Tartanilor. Căldura față de fanii Scoției în timpul acestei Cupe Mondiale arde mai fierbinte decât soarele din Florida.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-23T11:15:45.848904+00:00",
-      "data_afisaj": "23 iunie 2026, 14:15"
     }
   ]
 }
