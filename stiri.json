@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-30T10:33:23.908277+00:00",
-  "updated_at_afisaj": "30 iunie 2026, 13:33",
+  "updated_at": "2026-06-30T10:56:23.304098+00:00",
+  "updated_at_afisaj": "30 iunie 2026, 13:56",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,64 @@
   },
   "numar_stiri": 124,
   "stiri": [
+    {
+      "id": "80d4e0e50c98",
+      "titlu": "Nagelsmann refuză să demisioneze după eliminarea Germaniei de la Cupa Mondială",
+      "rezumat": "Julian Nagelsmann, selecționerul Germaniei, a declarat ferm că nu va demisiona din funcție, în ciuda eliminării șocante a echipei sale de la Cupa Mondială 2026 în faza optimilor, înfrângerii la penalty-uri în fața Paraguayului. Antrenorul a subliniat că nu este genul de persoană care \"fuge\" de responsabilitate și că își dorește să continue la cârma naționalei, dacă Federația Germană de Fotbal îi va acorda încrederea. Această declarație vine pe fondul presiunii intense și a speculațiilor privind viitorul său.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-30T10:56:23.297278+00:00",
+      "data_afisaj": "30 iunie 2026, 13:56"
+    },
+    {
+      "id": "75e78e1461ce",
+      "titlu": "Ronald Koeman își va analiza viitorul ca selecționer al Olandei după eliminarea de la Cupa Mondială",
+      "rezumat": "Ronald Koeman, antrenorul naționalei Olandei, a declarat că își va analiza viitorul la cârma echipei după eliminarea dramatică de la Cupa Mondială 2026, în urma înfrângerii la penalty-uri în fața Marocului. Deși a fost defiant în fața înfrângerii, Koeman a recunoscut că rezultatul este o pilulă amară de înghițit, mai ales după ce echipa sa a condus în prelungiri. Această declarație deschide discuții despre posibile schimbări la nivelul conducerii tehnice a Olandei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-30T10:56:23.299038+00:00",
+      "data_afisaj": "30 iunie 2026, 13:56"
+    },
+    {
+      "id": "5ebadb395aaa",
+      "titlu": "Oficial american de securitate, bucuros după eliminarea Iranului de la Cupa Mondială",
+      "rezumat": "Secretarul american pentru Securitate Internă, Alejandro Mayorkas, a declarat că a \"dansat de bucurie\" după ce eliminarea Iranului de la Cupa Mondială 2026 a fost confirmată. Această reacție subliniază tensiunile geopolitice care au înconjurat participarea Iranului la turneu, în urma unor evenimente recente. Declarația oficialului american a stârnit discuții despre amestecul politicii în sport și despre impactul rezultatelor sportive asupra relațiilor internaționale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-30T10:56:23.300703+00:00",
+      "data_afisaj": "30 iunie 2026, 13:56"
+    },
+    {
+      "id": "184b489168e1",
+      "titlu": "Carlo Ancelotti, lăudat pentru revenirea Braziliei în meciul cu Japonia",
+      "rezumat": "Brazilia a fost la un pas de o eliminare șocantă de la Cupa Mondială 2026, fiind condusă la pauză în meciul din optimi împotriva Japoniei. Însă, sub conducerea tactică a lui Carlo Ancelotti, echipa a reușit o revenire spectaculoasă, evitând o umilință și calificându-se în faza următoare. Antrenorul italian a fost lăudat pentru calmul și ajustările strategice făcute la pauză, care au permis Braziliei să își demonstreze forța și să obțină victoria.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-30T10:56:23.302265+00:00",
+      "data_afisaj": "30 iunie 2026, 13:56"
+    },
+    {
+      "id": "b608da85d968",
+      "titlu": "Analiză: De ce Anglia ar trebui să fie precaută în fața strategiei RD Congo la Cupa Mondială",
+      "rezumat": "O analiză tactică sugerează că Anglia și antrenorul Thomas Tuchel ar trebui să fie îngrijorați de abordarea Republicii Democrate Congo în meciul din optimile Cupei Mondiale 2026. Echipa africană este descrisă ca fiind un \"leopard\" – răbdătoare, neobosită și pregătită să lovească atunci când contează cel mai mult. Această strategie \"anti-Anglia\" ar putea reprezenta o provocare semnificativă pentru echipa lui Tuchel, care trebuie să găsească soluții pentru a contracara stilul de joc al adversarilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-06-30T10:56:23.304074+00:00",
+      "data_afisaj": "30 iunie 2026, 13:56"
+    },
     {
       "id": "546a5f552562",
       "titlu": "Maroc elimină Olanda la penalty-uri și avansează în optimi la Cupa Mondială 2026",
@@ -1398,65 +1456,6 @@
       ],
       "data_publicare": "2026-06-23T11:15:45.848904+00:00",
       "data_afisaj": "23 iunie 2026, 14:15"
-    },
-    {
-      "id": "759c89e792d4",
-      "titlu": "Messi a intrat în istoria Cupei Mondiale, Argentina ajungând în ultimele 32",
-      "rezumat": "Lionel Messi devine cel mai mare marcator al Cupei Mondiale din toate timpurile, dubla lui împotriva Austriei, care o trimite pe deținătoarea Argentina în ultimele 32.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-23T10:37:41.847084+00:00",
-      "data_afisaj": "23 iunie 2026, 13:37"
-    },
-    {
-      "id": "428f8858dae7",
-      "titlu": "Toate unghiurile golului record al lui Messi",
-      "rezumat": "Urmărește toate unghiurile golului de deschidere al lui Lionel Messi, care a doborât recordul împotriva Austriei, în victoria Argentinei cu 2-0.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-06-23T10:37:41.848726+00:00",
-      "data_afisaj": "23 iunie 2026, 13:37"
-    },
-    {
-      "id": "28cfdb06465d",
-      "titlu": "Algeria a câștigat o victorie de întoarcere pentru a-i elimina pe debutanții la Cupa Mondială, Iordania",
-      "rezumat": "Debutanții Iordania au fost eliminati de la Cupa Mondială, după ce victoria Algeriei cu 2-1 în repriza a doua le-a menținut vii speranțele de a se califica în fazele eliminatorii.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-06-23T10:37:41.850339+00:00",
-      "data_afisaj": "23 iunie 2026, 13:37"
-    },
-    {
-      "id": "b55eeca6d189",
-      "titlu": "Cupa Mondială 2026: ghid pentru toți cei 1.248 de jucători",
-      "rezumat": "Tot ce trebuie să știi (și mai multe) despre fiecare membru al echipei. Faceți clic pe imaginile jucătorului pentru mai multe informații. Continuați să citiți...",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-23T10:37:41.851921+00:00",
-      "data_afisaj": "23 iunie 2026, 13:37"
-    },
-    {
-      "id": "626df7f1e07c",
-      "titlu": "O cursă Ghete de Aur pentru veacuri - dar cine va ieși în frunte?",
-      "rezumat": "Se transformă rapid într-o cursă de Ghete de Aur pentru secole, în calitate de cel mai bun atacant star din lume la Cupa Mondială. Dar cine va ieși în frunte?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-23T10:37:41.853650+00:00",
-      "data_afisaj": "23 iunie 2026, 13:37"
     }
   ]
 }
