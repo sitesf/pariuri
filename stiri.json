@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-29T18:59:45.826431+00:00",
-  "updated_at_afisaj": "29 iunie 2026, 21:59",
+  "updated_at": "2026-06-30T10:33:23.908277+00:00",
+  "updated_at_afisaj": "30 iunie 2026, 13:33",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,72 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 128,
+  "numar_stiri": 124,
   "stiri": [
+    {
+      "id": "546a5f552562",
+      "titlu": "Maroc elimină Olanda la penalty-uri și avansează în optimi la Cupa Mondială 2026",
+      "rezumat": "Naționala Marocului a reușit o performanță remarcabilă, învingând Olanda la loviturile de departajare în optimile de finală ale Cupei Mondiale 2026. După un meci echilibrat, scorul a rămas egal, iar soarta calificării s-a decis la penalty-uri. Olanda a ratat trei execuții de la punctul cu var, permițând Marocului să se impună și să obțină o calificare istorică în sferturile de finală ale competiției. Victoria a fost sărbătorită cu entuziasm de fanii marocani.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-06-30T10:33:23.901364+00:00",
+      "data_afisaj": "30 iunie 2026, 13:33"
+    },
+    {
+      "id": "ec1bc96d2ba4",
+      "titlu": "Germania, eliminată șocant de Paraguay la penalty-uri, părăsește Cupa Mondială",
+      "rezumat": "De patru ori campioană mondială, Germania a fost eliminată surprinzător de Paraguay în faza optimilor de finală ale Cupei Mondiale 2026. Meciul s-a încheiat la egalitate, 1-1, după prelungiri, iar Paraguay s-a impus cu 4-3 la loviturile de departajare. Aceasta este prima dată în istoria Cupei Mondiale când Germania pierde o serie de penalty-uri, un rezultat care a stârnit consternare în rândul fanilor și a presei germane.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football",
+        "BBC Sport Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-06-30T10:33:23.903092+00:00",
+      "data_afisaj": "30 iunie 2026, 13:33"
+    },
+    {
+      "id": "2a31a1156d63",
+      "titlu": "Presiune crescută pe Nagelsmann după eliminarea Germaniei; Klopp neagă preluarea naționalei",
+      "rezumat": "Eliminarea șocantă a Germaniei de la Cupa Mondială 2026, după înfrângerea la penalty-uri în fața Paraguayului, a intensificat presiunea asupra selecționerului Julian Nagelsmann. În timp ce viitorul său este incert, Nagelsmann a declarat că nu intenționează să demisioneze. Pe fondul speculațiilor, Jurgen Klopp a ținut să infirme zvonurile care îl legau de preluarea băncii tehnice a naționalei germane, subliniind că nu există discuții în acest sens.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-06-30T10:33:23.904810+00:00",
+      "data_afisaj": "30 iunie 2026, 13:33"
+    },
+    {
+      "id": "1fc7141292fa",
+      "titlu": "Cody Gakpo marchează emoționant pentru Olanda, la câteva zile după o tragedie personală",
+      "rezumat": "Atacantul lui Liverpool, Cody Gakpo, a marcat un gol pentru Olanda în meciul cu Maroc de la Cupa Mondială, la doar câteva zile după ce a suferit o pierdere personală tragică, pierzându-și copilul nenăscut. Gestul său emoționant a venit într-un moment dificil, iar celebrarea sa reținută a reflectat durerea prin care trece. În ciuda efortului său, Olanda a fost eliminată din competiție la loviturile de departajare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-06-30T10:33:23.906559+00:00",
+      "data_afisaj": "30 iunie 2026, 13:33"
+    },
+    {
+      "id": "0967d999518d",
+      "titlu": "RD Congo: Fotbalul, o sursă rară de unitate națională la Cupa Mondială 2026",
+      "rezumat": "Naționala Republicii Democrate Congo a reușit o calificare istorică în optimile de finală ale Cupei Mondiale 2026, o performanță care a transformat echipa într-un simbol al unității naționale. După 52 de ani de absență de la turneul final, succesul echipei a adus bucurie și mândrie în rândul fanilor, care au sărbătorit intens. Parcursul impresionant al \"Leoparzilor\" a depășit așteptările, demonstrând că fotbalul poate fi un catalizator puternic pentru coeziunea socială într-o țară marcată de provocări.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-06-30T10:33:23.908257+00:00",
+      "data_afisaj": "30 iunie 2026, 13:33"
+    },
     {
       "id": "e26cacd4083c",
       "titlu": "Brazilia vs Japonia: Cupa Mondială 2026 ultimele 32 – live",
@@ -1393,113 +1457,6 @@
       ],
       "data_publicare": "2026-06-23T10:37:41.853650+00:00",
       "data_afisaj": "23 iunie 2026, 13:37"
-    },
-    {
-      "id": "06ddc2f63574",
-      "titlu": "Messi bate recordul de goluri la Cupa Mondială cu goluri împotriva Austriei",
-      "rezumat": "Starul Argentinei Lionel Messi a doborât recordul de goluri al lui Miroslav Klose la Cupa Mondială după cele două goluri ale sale împotriva Austriei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-22T20:00:20.301130+00:00",
-      "data_afisaj": "22 iunie 2026, 23:00"
-    },
-    {
-      "id": "a21a45bc8c15",
-      "titlu": "Franța v Irak: Cupa Mondială 2026 – în direct",
-      "rezumat": "⚽️ Începutul Cupei Mondiale: 17:00 ET/22:00 BST/7:00 AEST ⚽️ Ghidul jucătorului | Bracketologie | Cizma de Aur | Trimiteți un e-mail lui Tim Evening tuturor și bun venit la show-ul Kylian Mbappé. Este căpitanul Franței, este cel mai mare nume dintr-o echipă plină de stele, de fapt cel mai mare nume din această Cupă Mondială dintre toți cei care nu au împlinit încă 38 de ani. Are nevoie de încă patru goluri pentru a împărtăși recordul de toate timpurile la Cupa Mondială pe care tocmai l-a stabilit Lionel Messi. Iar Mbappé este deja CAPRA la goluri pe meci, printre cei care au sc",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-22T20:00:20.302755+00:00",
-      "data_afisaj": "22 iunie 2026, 23:00"
-    },
-    {
-      "id": "290dac861eb9",
-      "titlu": "Saliba apt pentru a începe pentru Franța vs Irak LIVE!",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-06-22T20:00:20.304273+00:00",
-      "data_afisaj": "22 iunie 2026, 23:00"
-    },
-    {
-      "id": "51b178da906d",
-      "titlu": "Thomas Tuchel aduce The Surge pentru a face Anglia o adevărată amenințare la Cupa Mondială",
-      "rezumat": "Antrenorul principal dorește ca jucătorii să folosească energia în spațiile potrivite și, de asemenea, obține tot ce este mai bun dintr-un Harry Kane în formă. Nu a durat mult până când o singură mișcare în caravana călătoriei Angliei a găsit o poreclă profund nepotrivită pentru acel început plin de energie al spectacolului din a doua repriză de la Dallas miercurea trecută. Numele acela era: Packetball. Cuvântul pachet este, confirmă Dicționarul Urban, argou pentru un mic plic din același stimulent ilegal și complet nerecomandabil care a fost descoperit.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-22T20:00:20.305892+00:00",
-      "data_afisaj": "22 iunie 2026, 23:00"
-    },
-    {
-      "id": "8008c058a5b0",
-      "titlu": "CM 2026 La cât au crescut șansele lui Leo Messi să câștige Balonul de Aur după cele 5 goluri de la Cupa Mondială 2026!",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-06-22T20:00:20.307968+00:00",
-      "data_afisaj": "22 iunie 2026, 23:00"
-    },
-    {
-      "id": "8cc6f14c984d",
-      "titlu": "Meciul Franța – Irak de la Cupa Mondială, afectat de vremea nefavorabilă",
-      "rezumat": "Partida dintre Franța și Irak de la Cupa Mondială 2026, programată în Philadelphia, a fost afectată de condiții meteorologice nefavorabile. Fanii au fost inițial sfătuiți să nu se deplaseze la stadion din cauza vremii severe. FIFA a pregătit măsuri pentru gestionarea perturbărilor cauzate de furtunile prognozate, asigurând desfășurarea meciului în condiții de siguranță, după ce porțile stadionului au fost deschise, permițând accesul spectatorilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-06-22T19:33:38.734589+00:00",
-      "data_afisaj": "22 iunie 2026, 22:33"
-    },
-    {
-      "id": "9e8bfdeb5c8f",
-      "titlu": "Manchester United a achiziționat teren pentru un nou stadion de 100.000 de locuri",
-      "rezumat": "Planurile clubului Manchester United pentru construirea unui nou stadion, cu o capacitate de 100.000 de locuri, au avansat semnificativ. Clubul a confirmat achiziționarea unui teren de 25 de acri, situat în apropierea actualului Old Trafford. Această mișcare reprezintă un pas crucial în dezvoltarea infrastructurii clubului, indicând o viziune pe termen lung pentru modernizarea facilităților și creșterea capacității de spectatori, consolidând poziția clubului în fotbalul mondial.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-22T19:33:38.736562+00:00",
-      "data_afisaj": "22 iunie 2026, 22:33"
-    },
-    {
-      "id": "378b58b17913",
-      "titlu": "Fanii din WSL și WSL2 vor putea consuma alcool în tribune din sezonul viitor",
-      "rezumat": "Suporterii echipelor din Women’s Super League (WSL) și WSL2 vor avea permisiunea de a consuma băuturi alcoolice în tribune, în timpul meciurilor, începând cu sezonul viitor. Această modificare a regulamentului vine în urma unei perioade de testare de 18 luni, care a avut rezultate pozitive. Decizia a fost aprobată de acționarii WSL Football, deși cluburile nu sunt obligate să ofere această opțiune fanilor, având libertatea de a decide implementarea.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-22T19:33:38.738407+00:00",
-      "data_afisaj": "22 iunie 2026, 22:33"
-    },
-    {
-      "id": "79c918f0eabd",
-      "titlu": "Thomas Tuchel amână decizia privind echipa Angliei pentru meciul cu Ghana",
-      "rezumat": "Antrenorul Angliei, Thomas Tuchel, este cunoscut pentru obiceiul său de a lua deciziile finale privind selecția echipei în ziua meciului. La această Cupă Mondială, Tuchel amână anunțarea primului unsprezece mai mult ca oricând, înaintea confruntării cu Ghana. Această abordare strategică subliniază importanța meciului și dorința antrenorului de a evalua toate opțiunile până în ultimul moment, posibil pentru a surprinde adversarul sau pentru a gestiona starea fizică a jucătorilor cheie.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-06-22T19:33:38.740225+00:00",
-      "data_afisaj": "22 iunie 2026, 22:33"
     }
   ]
 }
