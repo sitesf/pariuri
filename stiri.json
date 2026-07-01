@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-30T18:52:56.963762+00:00",
-  "updated_at_afisaj": "30 iunie 2026, 21:52",
+  "updated_at": "2026-07-01T10:44:40.421557+00:00",
+  "updated_at_afisaj": "1 iulie 2026, 13:44",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,53 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 124,
+  "numar_stiri": 122,
   "stiri": [
+    {
+      "id": "32d65ed77e93",
+      "titlu": "Trei morți în timpul sărbătorilor Cupei Mondiale din Mexico City",
+      "rezumat": "Trei persoane și-au pierdut viața în Mexico City, marți, în timpul festivităților care au marcat victoria țării la Cupa Mondială împotriva Ecuadorului. Peste un milion de oameni au ieșit pe străzile capitalei pentru a celebra succesul echipei naționale. Incidentele tragice au umbrit bucuria generală, autoritățile investigând circumstanțele deceselor. Știrea a fost confirmată de mai multe surse internaționale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-01T10:44:40.415593+00:00",
+      "data_afisaj": "1 iulie 2026, 13:44"
+    },
+    {
+      "id": "eb7ccfc28e49",
+      "titlu": "Kylian Mbappe stabilește un nou record și propulsează Franța în optimi",
+      "rezumat": "Kylian Mbappe a marcat de două ori în victoria categorică a Franței cu 3-0 împotriva Suediei, asigurând calificarea \"Cocoșilor Galici\" în optimile de finală ale Cupei Mondiale 2026. Prin aceste goluri, Mbappe a devenit cel mai bun marcator din istoria fazelor eliminatorii ale Cupei Mondiale, depășind un record important. Franța se va confrunta cu Paraguay în runda următoare a competiției.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-01T10:44:40.418456+00:00",
+      "data_afisaj": "1 iulie 2026, 13:44"
+    },
+    {
+      "id": "ad611577f2a0",
+      "titlu": "Xabi Alonso a preluat oficial funcția de antrenor la Chelsea",
+      "rezumat": "Xabi Alonso a început oficial activitatea ca manager al clubului Chelsea, preluând una dintre cele mai importante poziții din fotbalul mondial. Noul antrenor se confruntă cu provocări majore, inclusiv gestionarea transferurilor și integrarea jucătorilor cheie precum Cole Palmer și Enzo Fernandez. Fanii așteaptă cu interes viziunea sa pentru a rezolva problemele echipei de pe Stamford Bridge și a o readuce în top.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-01T10:44:40.419911+00:00",
+      "data_afisaj": "1 iulie 2026, 13:44"
+    },
+    {
+      "id": "6460e854842f",
+      "titlu": "Dezvăluiri șocante la ancheta Maddy Cusack: Fosta manageră ar fi influențat-o negativ",
+      "rezumat": "La ancheta privind decesul jucătoarei Maddy Cusack de la Sheffield United, iubita acesteia, Grace Riglar, a declarat că obiceiurile alimentare ale lui Cusack s-au schimbat după un comentariu al fostei manageri, Jonathan Morgan, care ar fi numit-o \"psiho\" și ar fi făcut referire la greutatea ei. Riglar, care a jucat alături de Cusack, a depus mărturie emoționantă, afirmând că excluderea lui Cusack din echipa Sheffield United a fost percepută ca un \"atac personal\".",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-01T10:44:40.421541+00:00",
+      "data_afisaj": "1 iulie 2026, 13:44"
+    },
     {
       "id": "8d621a869634",
       "titlu": "Spurs au convenit un acord de 85 de milioane de lire sterline pentru Fernandes de la West Ham",
@@ -1389,73 +1434,6 @@
       ],
       "data_publicare": "2026-06-24T10:48:31.504648+00:00",
       "data_afisaj": "24 iunie 2026, 13:48"
-    },
-    {
-      "id": "e8d20b2b0b88",
-      "titlu": "Coreea de Sud se confruntă cu provocări extra-sportive la Cupa Mondială",
-      "rezumat": "Naționala Coreei de Sud, condusă de Hong Myung-bo, a avut parte de o serie de incidente în afara terenului la Cupa Mondială 2026. Echipa s-a confruntat cu probleme precum ironii la adresa serviciului militar al lui Son Heung-min și doborârea unei drone în apropierea cantonamentului. În ciuda acestor distrageri, un punct obținut împotriva Africii de Sud ar fi suficient pentru a asigura calificarea. Aceste evenimente adaugă o notă de haos la parcursul echipei asiatice în turneu, testând rezistența mentală a jucătorilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-24T10:24:39.691711+00:00",
-      "data_afisaj": "24 iunie 2026, 13:24"
-    },
-    {
-      "id": "f9e613cbf49e",
-      "titlu": "Având în vedere că Regatul Unit este în prezent mai fierbinte decât majoritatea locurilor de Cupă Mondială, iată tot echipamentul de care aveți nevoie pentru a învinge căldura și a vă bucura de fotbal în această Amazon Prime Day",
-      "rezumat": "Obțineți reduceri de reducere a căldurii la mini-frigidere, ventilatoare turn, grătare, televizoare și multe altele",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-23T19:05:48.338986+00:00",
-      "data_afisaj": "23 iunie 2026, 22:05"
-    },
-    {
-      "id": "852bc5d71622",
-      "titlu": "Vor urma fanii Angliei de la Boston exemplul Scoției?",
-      "rezumat": "După ce Scoția a câștigat inimile Bostonului, pot fanii Angliei să le calce pe urme?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-23T19:05:48.340652+00:00",
-      "data_afisaj": "23 iunie 2026, 22:05"
-    },
-    {
-      "id": "920f03304a0a",
-      "titlu": "Procesul care a salvat cariera lui Antoine Semenyo",
-      "rezumat": "BBC Sport urmărește povestea de origine a starului din Manchester City și Ghana, Antoine Semenyo, și aude de la fostul antrenor David Hockaday despre procesul care i-a salvat cariera.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-23T19:05:48.342221+00:00",
-      "data_afisaj": "23 iunie 2026, 22:05"
-    },
-    {
-      "id": "364076f96f95",
-      "titlu": "Modificările la Cupa Mondială au făcut ca meciurile finale ale grupelor să fie nedrepte?",
-      "rezumat": "Cu opt echipe care deja nu au pentru ce să joace, pericolul din faza grupelor de la Cupa Mondială a fost diminuat? Și sunt justificate preocupările cu privire la integritatea concurenței?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-23T19:05:48.343860+00:00",
-      "data_afisaj": "23 iunie 2026, 22:05"
-    },
-    {
-      "id": "2b9bf6ded9ce",
-      "titlu": "Condițiile de intrare ale Iranului pentru SUA s-au schimbat pentru meciul final din grupă",
-      "rezumat": "Echipa de fotbal a Iranului primește prelungiri în Statele Unite pentru a se pregăti pentru ultimul meci din grupa de la Cupa Mondială, a declarat Departamentul pentru Securitate Internă al SUA.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-23T19:05:48.345444+00:00",
-      "data_afisaj": "23 iunie 2026, 22:05"
     }
   ]
 }
