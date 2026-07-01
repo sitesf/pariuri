@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-01T11:22:18.526559+00:00",
-  "updated_at_afisaj": "1 iulie 2026, 14:22",
+  "updated_at": "2026-07-01T18:00:56.434125+00:00",
+  "updated_at_afisaj": "1 iulie 2026, 21:00",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,43 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 122,
+  "numar_stiri": 120,
   "stiri": [
+    {
+      "id": "c10c251b7e49",
+      "titlu": "Nottingham Forest îl va înlocui pe Pereira cu Glasner",
+      "rezumat": "Clubul Nottingham Forest este pe cale să-l demită pe actualul antrenor, Vitor Pereira, și să-l numească în funcția de succesor pe Oliver Glasner, fostul tehnician al echipei Crystal Palace. Această schimbare vine în contextul unei restructurări la nivelul băncii tehnice, Glasner fiind considerat o opțiune potrivită pentru a prelua conducerea echipei. Decizia este confirmată de mai multe surse sportive de top, indicând o mutare iminentă în Premier League.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-01T18:00:56.430611+00:00",
+      "data_afisaj": "1 iulie 2026, 21:00"
+    },
+    {
+      "id": "fcf1289473aa",
+      "titlu": "Poliția germană a percheziționat sediul Federației de Fotbal în legătură cu acuzații de corupție la Euro 2024",
+      "rezumat": "Poliția germană a efectuat percheziții la sediul Federației Naționale de Fotbal și în alte locații din țară, ca parte a unei investigații privind presupuse acte de corupție legate de Campionatul European din 2024. Cazul vizează acuzații conform cărora angajați ai orașelor gazdă ar fi primit „favoruri neautorizate”, inclusiv invitații necuvenite la meciuri sau tratament preferențial, conform rapoartelor inițiale. Această acțiune subliniază eforturile de combatere a neregulilor în sportul german.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-01T18:00:56.432612+00:00",
+      "data_afisaj": "1 iulie 2026, 21:00"
+    },
+    {
+      "id": "d476d5ba18ec",
+      "titlu": "Fundașul italian Alessandro Bastoni, investigat pentru prostituție cu minori",
+      "rezumat": "Fundașul echipei Inter Milano și al naționalei Italiei, Alessandro Bastoni, este investigat pentru presupuse fapte de prostituție cu minori. Ancheta face parte dintr-o investigație mai amplă vizând o companie de evenimente care ar fi organizat seri „all-inclusive” pentru clienți VIP. Procurorii italieni au declarat că Bastoni ar fi avut relații sexuale cu o fată de 17 ani recrutată de companie. Avocatul jucătorului a negat acuzațiile, afirmând că clientul său „nu a plătit niciodată pentru sex”.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-01T18:00:56.434107+00:00",
+      "data_afisaj": "1 iulie 2026, 21:00"
+    },
     {
       "id": "fc8a8fbee40f",
       "titlu": "Cine sunt? Ghicește vedeta Cupei Mondiale Nr. 24",
@@ -1376,65 +1411,6 @@
       ],
       "data_publicare": "2026-06-24T18:29:10.937369+00:00",
       "data_afisaj": "24 iunie 2026, 21:29"
-    },
-    {
-      "id": "e903bf41c36b",
-      "titlu": "Elveția v Canada: Cupa Mondială 2026 – în direct",
-      "rezumat": "⚽ Meciul începe la ora locală 12:00/16:00 ET/20:00 BST ⚽ Ghidul jucătorului | Bracketologie | Cizma de Aur Ne aflăm deja pe teritoriul ultimului grup de joc, ceea ce înseamnă meciuri simultane. Will Unwin acoperă Bosnia și Herțegovina v Qatar – așa că nu trebuie! Unele colțuri ale internetului au stabilit că victoria totemică și traumatizantă a Canadei, joi, cu 6-0 la Cupa Mondială, va fi amintită mai ales prin meme-urile lui Jesse Marsch. Continuă să citești...",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-24T17:58:51.363199+00:00",
-      "data_afisaj": "24 iunie 2026, 20:58"
-    },
-    {
-      "id": "f8c1b5516e90",
-      "titlu": "Șeful din Țara Galilor, Bellamy, în discuții despre job-ul lui Burnley",
-      "rezumat": "Burnley speră să finalizeze o înțelegere pentru a-l numi pe șeful Țării Galilor, Craig Bellamy, după plecarea lui Scott Parker.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-06-24T17:58:51.364691+00:00",
-      "data_afisaj": "24 iunie 2026, 20:58"
-    },
-    {
-      "id": "8aff40a7dcab",
-      "titlu": "Ce am învățat din dezvăluirea lui McInnes Rangers",
-      "rezumat": "BBC Sport Scotland prezintă ceea ce am învățat din prima conferință de presă a lui Derek McInnes în calitate de antrenor Rangers.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-06-24T17:58:51.366124+00:00",
-      "data_afisaj": "24 iunie 2026, 20:58"
-    },
-    {
-      "id": "53921399c870",
-      "titlu": "Scoția s-a pregătit pentru jocul vieții lor împotriva Braziliei greșite",
-      "rezumat": "Scoția nu știe de ce are nevoie împotriva Braziliei pentru a ajunge în faza eliminatorie a Cupei Mondiale, dar va ști că trebuie să se îmbunătățească față de precedentele două jocuri, scrie Tom English.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-24T17:58:51.367589+00:00",
-      "data_afisaj": "24 iunie 2026, 20:58"
-    },
-    {
-      "id": "c0a8946ce442",
-      "titlu": "James și Rice din Anglia vor fi evaluați",
-      "rezumat": "Anglia va evalua starea de fitness a lui Reece James și Declan Rice înainte de ultimul meci din grupa de la Cupa Mondială împotriva Panama.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-24T17:58:51.369026+00:00",
-      "data_afisaj": "24 iunie 2026, 20:58"
     }
   ]
 }
