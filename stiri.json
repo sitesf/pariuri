@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-02T17:52:17.706198+00:00",
-  "updated_at_afisaj": "2 iulie 2026, 20:52",
+  "updated_at": "2026-07-02T18:23:56.936580+00:00",
+  "updated_at_afisaj": "2 iulie 2026, 21:23",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,41 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 121,
+  "numar_stiri": 119,
   "stiri": [
+    {
+      "id": "51c092f794a8",
+      "titlu": "Memorial în onoarea lui Diogo Jota, dezvelit pe Anfield",
+      "rezumat": "Un memorial dedicat lui Diogo Jota, fostul jucător al lui Liverpool, a fost dezvelit pe stadionul Anfield. Evenimentul a avut loc la un an de la trecerea în neființă a fotbalistului portughez, care a lăsat o amintire puternică în rândul fanilor și al clubului. Acest gest simbolic subliniază impactul pe care Jota l-a avut asupra comunității Liverpool și servește ca un loc de reculegere pentru toți cei care l-au apreciat, consolidând legătura emoțională dintre club și suporteri.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-02T18:23:56.932290+00:00",
+      "data_afisaj": "2 iulie 2026, 21:23"
+    },
+    {
+      "id": "7a0e4f5f869a",
+      "titlu": "Layla Drury, cea mai tânără jucătoare, semnează primul contract profesionist cu Manchester United Women",
+      "rezumat": "Layla Drury, în vârstă de 17 ani, a semnat primul său contract profesionist cu echipa feminină a lui Manchester United, devenind cea mai tânără jucătoare din istoria clubului care realizează acest lucru. Tânăra sportivă a debutat deja în ianuarie într-un meci de Cupa Angliei împotriva lui Burnley, unde a și marcat, stabilind un record ca cea mai tânără marcatoare a clubului. Acest pas reprezintă o recunoaștere a talentului său excepțional și a potențialului său de a influența viitorul fotbalului feminin la cel mai înalt nivel.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-02T18:23:56.934687+00:00",
+      "data_afisaj": "2 iulie 2026, 21:23"
+    },
+    {
+      "id": "74cf5b92ff29",
+      "titlu": "Canada a cheltuit un miliard de dolari pentru găzduirea a 13 meciuri de Cupă Mondială, ridicând semne de întrebare privind rentabilitatea",
+      "rezumat": "Canada a investit un miliard de dolari pentru a găzdui 13 meciuri din cadrul Cupei Mondiale, o sumă care a generat dezbateri aprinse privind justificarea economică. Mulți consideră că aceste fonduri ar fi putut fi direcționate către alte nevoi publice. Un reportaj FourFourTwo a indicat că, în Toronto, percepția generală a fost că evenimentul a avut un impact modest, lăsând impresia unei 'petreceri private cu bani publici' și ridicând îndoieli asupra valorii reale a investiției pentru contribuabili.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-07-02T18:23:56.936562+00:00",
+      "data_afisaj": "2 iulie 2026, 21:23"
+    },
     {
       "id": "c64ca4729a76",
       "titlu": "Barurile din Anglia vor rămâne deschise până la ora 5 dimineața pentru meciul cu Mexic",
@@ -1368,64 +1401,6 @@
       ],
       "data_publicare": "2026-06-25T19:03:16.621593+00:00",
       "data_afisaj": "25 iunie 2026, 22:03"
-    },
-    {
-      "id": "1a326a67f203",
-      "titlu": "Alexia Putellas se alătură echipei London City Lionesses",
-      "rezumat": "Dubla câștigătoare a Balonului de Aur, Alexia Putellas, a decis să se transfere la London City Lionesses, după plecarea sa de la Barcelona. Această mutare reprezintă un pas important în cariera jucătoarei spaniole și o achiziție de marcă pentru clubul englez, consolidându-i ambițiile în fotbalul feminin. Putellas, recunoscută pentru viziunea și abilitățile sale tehnice, va aduce o experiență valoroasă și un plus de calitate echipei din Londra, marcând un nou capitol în parcursul său sportiv.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-06-25T18:14:04.988326+00:00",
-      "data_afisaj": "25 iunie 2026, 21:14"
-    },
-    {
-      "id": "d3d9a275129b",
-      "titlu": "Wouter Vrancken, noul antrenor principal al echipei Hearts",
-      "rezumat": "Clubul scoțian Hearts a anunțat numirea lui Wouter Vrancken în funcția de antrenor principal. Fostul tehnician al echipelor Genk și Sint-Truiden preia conducerea la o săptămână după plecarea lui Derek McInnes la Rangers. Vrancken are sarcina de a consolida performanțele echipei și de a o pregăti pentru provocările viitoare, inclusiv pentru a concura cu echipele de top din campionatul scoțian. Numirea sa marchează o nouă direcție strategică pentru Hearts.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-06-25T18:14:04.989910+00:00",
-      "data_afisaj": "25 iunie 2026, 21:14"
-    },
-    {
-      "id": "39e59ad0f78b",
-      "titlu": "Piero Hincapie finalizează transferul permanent la Arsenal pentru 34,5 milioane de lire sterline",
-      "rezumat": "Fundașul Piero Hincapie a finalizat transferul său permanent de la Bayer Leverkusen la Arsenal, într-o mutare evaluată la 34,5 milioane de lire sterline. După o perioadă de împrumut, internaționalul ecuadorian se alătură definitiv clubului londonez, consolidând astfel apărarea echipei. Această achiziție subliniază intențiile lui Arsenal de a-și întări lotul cu jucători tineri și talentați, Hincapie fiind considerat o piesă importantă pentru viitorul clubului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-25T18:14:04.991730+00:00",
-      "data_afisaj": "25 iunie 2026, 21:14"
-    },
-    {
-      "id": "d491edc9d4f1",
-      "titlu": "S-a anunțat programul meciurilor de deschidere din EFL",
-      "rezumat": "Liga de Fotbal Engleză (EFL) a publicat programul complet al meciurilor pentru sezonul 2026-27, incluzând Championship, League One și League Two. În Championship, West Ham va întâlni Burnley, în timp ce Wolves va juca acasă cu Blackburn în meciurile de deschidere. Leicester City va începe sezonul în League One împotriva lui Notts County, iar York City va reveni în League Two cu un meci împotriva lui Bristol Rovers.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-25T18:14:04.993332+00:00",
-      "data_afisaj": "25 iunie 2026, 21:14"
-    },
-    {
-      "id": "761db75b0df6",
-      "titlu": "Primarul New York-ului susține că veniturile Cupei Mondiale sunt suficiente",
-      "rezumat": "Zohran Mamdani, primarul orașului New York, a declarat că veniturile generate de Cupa Mondială sunt \"mai mult decât suficiente\". Acesta a subliniat că suporterii nu ar trebui să fie nevoiți să plătească prețuri mai mari pentru a participa la eveniment. Declarația vine în contextul discuțiilor despre costurile organizării și participării la turneul mondial, sugerând o abordare mai echitabilă în ceea ce privește accesibilitatea pentru fani.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-25T18:14:04.995089+00:00",
-      "data_afisaj": "25 iunie 2026, 21:14"
     }
   ]
 }
