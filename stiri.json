@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-01T18:56:37.287729+00:00",
-  "updated_at_afisaj": "1 iulie 2026, 21:56",
+  "updated_at": "2026-07-02T10:12:20.208892+00:00",
+  "updated_at_afisaj": "2 iulie 2026, 13:12",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,47 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 120,
+  "numar_stiri": 123,
   "stiri": [
+    {
+      "id": "9706e5dfce64",
+      "titlu": "SUA se califică în optimi la Cupa Mondială, Balogun fiind eliminat controversat",
+      "rezumat": "Echipa Statelor Unite ale Americii a avansat în optimile de finală ale Cupei Mondiale, după ce a învins Bosnia-Herțegovina în Santa Clara. Meciul a fost marcat de performanța atacantului Folarin Balogun, care a reușit să marcheze un gol, dar a fost ulterior eliminat printr-un cartonaș roșu controversat. Decizia arbitrului, survenită după o coliziune aparent inocentă cu un adversar, a stârnit reacții puternice din partea staff-ului tehnic și a jucătorilor americani, care au considerat eliminarea nejustificată.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-02T10:12:20.204306+00:00",
+      "data_afisaj": "2 iulie 2026, 13:12"
+    },
+    {
+      "id": "3db95d73be85",
+      "titlu": "Everton finalizează transferul mijlocașului Hayden Hackney de la Middlesbrough",
+      "rezumat": "Clubul Everton a confirmat achiziționarea mijlocașului Hayden Hackney de la Middlesbrough. Suma de transfer este estimată la cel puțin 16 milioane de lire sterline, cu posibilitatea de a ajunge până la 25 de milioane de lire sterline, în funcție de anumite clauze. Hackney, care a fost desemnat jucătorul anului în Championship în sezonul precedent, a semnat un contract pe o perioadă de cinci ani cu echipa din Merseyside, după negocieri intense care au durat mai multe săptămâni.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-02T10:12:20.206941+00:00",
+      "data_afisaj": "2 iulie 2026, 13:12"
+    },
+    {
+      "id": "2b2f7bed59e0",
+      "titlu": "Anglia se pregătește pentru provocarea altitudinii pe stadionul Azteca din Mexic",
+      "rezumat": "Echipa națională a Angliei se confruntă cu o provocare majoră înaintea meciului din optimile Cupei Mondiale împotriva Mexicului, care va avea loc pe legendarul stadion Azteca din Mexico City. Altitudinea ridicată a arenei, de peste 2.000 de metri, este considerată un factor semnificativ care poate influența negativ performanța fizică și mentală a jucătorilor. Antrenorul Thomas Tuchel a subliniat că acest aspect reprezintă un avantaj considerabil pentru echipa gazdă, iar pregătirea pentru aceste condiții va fi crucială.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-07-02T10:12:20.208548+00:00",
+      "data_afisaj": "2 iulie 2026, 13:12"
+    },
     {
       "id": "202b85569f38",
       "titlu": "Chelsea îl transferă pe fundașul italian Marco Palestra pentru 47 de milioane de lire sterline",
