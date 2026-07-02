@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-02T10:12:20.208892+00:00",
-  "updated_at_afisaj": "2 iulie 2026, 13:12",
+  "updated_at": "2026-07-02T10:38:45.629878+00:00",
+  "updated_at_afisaj": "2 iulie 2026, 13:38",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,61 @@
   },
   "numar_stiri": 123,
   "stiri": [
+    {
+      "id": "4e35a2225d0c",
+      "titlu": "Tottenham Hotspur ajunge la un acord de până la 100 de milioane de lire sterline pentru Sandro Tonali",
+      "rezumat": "Tottenham Hotspur a ajuns la un acord cu Newcastle United pentru transferul mijlocașului Sandro Tonali, într-o tranzacție evaluată la până la 100 de milioane de lire sterline. Această mutare reprezintă o investiție semnificativă pentru clubul londonez, care își propune să-și întărească linia mediană cu un jucător de calibru. Tonali, cunoscut pentru viziunea și abilitățile sale defensive, ar urma să devină una dintre cele mai costisitoare achiziții din istoria recentă a lui Spurs.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-02T10:38:45.622914+00:00",
+      "data_afisaj": "2 iulie 2026, 13:38"
+    },
+    {
+      "id": "ec6b3963167b",
+      "titlu": "Dramă la Cupa Mondială: Belgia revine și elimină Senegalul într-un meci controversat",
+      "rezumat": "Meciul din optimile Cupei Mondiale dintre Belgia și Senegal a fost marcat de dramatism, controverse și o revenire spectaculoasă. Belgia a reușit să revină de la un deficit de 0-2 și să câștige cu 3-2, eliminând Senegalul. Partida a culminat cu un penalty controversat marcat de Youri Tielemans în prelungiri, care a devenit cel mai târziu gol decisiv din istoria Cupei Mondiale. Această confruntare a oferit momente intense și a lăsat un gust amar echipei africane.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-02T10:38:45.624719+00:00",
+      "data_afisaj": "2 iulie 2026, 13:38"
+    },
+    {
+      "id": "57970b5582b8",
+      "titlu": "Mijlocașul Pape Gueye se retrage temporar din naționala Senegalului",
+      "rezumat": "Mijlocașul senegalez Pape Gueye a anunțat că va lua o pauză de la echipa națională a țării sale. Decizia vine ca urmare a nemulțumirilor sale față de actuala conducere tehnică. Gueye a declarat că nu va mai juca pentru Senegal atâta timp cât staff-ul actual va rămâne în funcție, o veste surprinzătoare care ar putea afecta performanța echipei în viitoarele competiții. Această situație subliniază tensiunile interne din cadrul lotului și posibilele repercusiuni asupra viitorului echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-02T10:38:45.626264+00:00",
+      "data_afisaj": "2 iulie 2026, 13:38"
+    },
+    {
+      "id": "bf4a6cfbdeab",
+      "titlu": "Modric și Ronaldo, reuniți la Cupa Mondială în duelul Croația – Portugalia",
+      "rezumat": "Două dintre cele mai mari legende ale fotbalului internațional, Luka Modric și Cristiano Ronaldo, se vor întâlni din nou la Cupa Mondială, pe măsură ce Croația se pregătește să înfrunte Portugalia. Această partidă ar putea marca ultima confruntare directă la un turneu major pentru cei doi jucători, ambii având cariere paralele impresionante la nivel de club și națională. Meciul promite a fi unul plin de emoție și miză, cu ambele echipe luptând pentru avansarea în competiție și un loc în fazele superioare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-02T10:38:45.627931+00:00",
+      "data_afisaj": "2 iulie 2026, 13:38"
+    },
+    {
+      "id": "2473cdff20e9",
+      "titlu": "Philipp Lahm: Germania trebuie să-și regăsească identitatea după a treia eliminare consecutivă de la Cupa Mondială",
+      "rezumat": "Fostul căpitan al Germaniei, Philipp Lahm, a declarat că a treia eliminare consecutivă a naționalei de la Cupa Mondială nu se datorează lipsei de talent sau antrenorului, ci faptului că echipa nu știe cum vrea să joace. Lahm subliniază lipsa de continuitate în fotbalul german de un deceniu, cu idei noi constante și schimbări frecvente de jucători. El consideră că Germania trebuie să-și redefinească identitatea și stilul de joc pentru a reveni la statutul de forță în competițiile majore.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-02T10:38:45.629856+00:00",
+      "data_afisaj": "2 iulie 2026, 13:38"
+    },
     {
       "id": "9706e5dfce64",
       "titlu": "SUA se califică în optimi la Cupa Mondială, Balogun fiind eliminat controversat",
@@ -1394,67 +1449,6 @@
       ],
       "data_publicare": "2026-06-25T10:41:12.744172+00:00",
       "data_afisaj": "25 iunie 2026, 13:41"
-    },
-    {
-      "id": "f400c9d0918c",
-      "titlu": "Programul meciurilor Cupei Mondiale 2026 - ghidul tău zi de zi",
-      "rezumat": "Iată defalcarea zi de zi a Cupei Mondiale cu 48 de echipe, pe durata a 37 de zile, care include 103 meciuri până la finala din 19 iulie.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-25T10:16:38.567390+00:00",
-      "data_afisaj": "25 iunie 2026, 13:16"
-    },
-    {
-      "id": "e396db3c0707",
-      "titlu": "Ce are nevoie Scoția pentru a ajunge în fazele eliminatorii ale Cupei Mondiale?",
-      "rezumat": "După înfrângerea cu 3-0 în fața Braziliei, BBC Sport analizează ce are nevoie Scoția pentru a ajunge în faza eliminatorie.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-06-25T10:16:38.568910+00:00",
-      "data_afisaj": "25 iunie 2026, 13:16"
-    },
-    {
-      "id": "ea20326db405",
-      "titlu": "'Cred că mergem acasă' - Clarke și McGinn regretă greșelile Scoției",
-      "rezumat": "Scoția va trebui să aștepte până, posibil, în primele ore ale zilei de duminică pentru a afla dacă își va continua campania la Cupa Mondială, dar mijlocașul John McGinn suspectează că acest lucru este \"improbabil\", iar antrenorul principal Steve Clarke suspectează că \"merg acasă\".",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-06-25T10:16:38.570461+00:00",
-      "data_afisaj": "25 iunie 2026, 13:16"
-    },
-    {
-      "id": "0d921162e68c",
-      "titlu": "Africa de Sud în șaisprezecimi după victoria împotriva Coreei de Sud",
-      "rezumat": "Golul lui Thapelo Maseko din a doua repriză oferă Africii de Sud o victorie cu 1-0 împotriva Coreei de Sud în Monterrey și o trimite în faza eliminatorie a Cupei Mondiale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-25T10:16:38.571938+00:00",
-      "data_afisaj": "25 iunie 2026, 13:16"
-    },
-    {
-      "id": "27963c776981",
-      "titlu": "CM 2026 Scandal imens la Campionatul Mondial! Căpitanul naționalei care a șocat Portugalia ar fi cu șase ani mai bătrân decât în acte",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-06-25T10:16:38.573969+00:00",
-      "data_afisaj": "25 iunie 2026, 13:16"
     }
   ]
 }
