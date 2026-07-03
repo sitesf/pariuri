@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-03T10:35:05.385833+00:00",
-  "updated_at_afisaj": "3 iulie 2026, 13:35",
+  "updated_at": "2026-07-03T17:36:11.811104+00:00",
+  "updated_at_afisaj": "3 iulie 2026, 20:36",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,53 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 117,
+  "numar_stiri": 118,
   "stiri": [
+    {
+      "id": "165eae960f0b",
+      "titlu": "Ange Postecoglou, noul antrenor al echipei Al-Nassr, îl va pregăti pe Cristiano Ronaldo",
+      "rezumat": "Fostul manager al lui Tottenham, Ange Postecoglou, a fost numit noul antrenor principal al campioanei Saudi Pro League, Al-Nassr. Tehnicianul australian a semnat un contract pe doi ani și va avea ocazia să-l antreneze pe superstarul portughez Cristiano Ronaldo. Această mutare marchează o nouă etapă în cariera lui Postecoglou, după două mandate dificile în Premier League. Clubul a confirmat oficial numirea, exprimându-și urările de bine pentru antrenor și staff-ul său în noul capitol.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-03T17:36:11.805648+00:00",
+      "data_afisaj": "3 iulie 2026, 20:36"
+    },
+    {
+      "id": "4f1d7d4abe27",
+      "titlu": "Andre Onana revine la Trabzonspor sub formă de împrumut de la Manchester United",
+      "rezumat": "Portarul Andre Onana de la Manchester United se va alătura echipei turce Trabzonspor sub formă de împrumut pentru sezonul 2026-2027. Această mutare temporară îi va oferi lui Onana oportunitatea de a juca regulat și de a-și menține forma, în timp ce Trabzonspor își consolidează lotul cu un portar experimentat. Detaliile financiare ale acordului nu au fost făcute publice, dar se așteaptă ca Onana să joace un rol cheie în campania echipei turce în sezonul viitor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-03T17:36:11.807578+00:00",
+      "data_afisaj": "3 iulie 2026, 20:36"
+    },
+    {
+      "id": "d7e74b6b8eeb",
+      "titlu": "Biletele pentru meciul Anglia - Mexic de la Cupa Mondială, revândute la prețuri de până la 26.000 de lire sterline",
+      "rezumat": "Fanii englezi care au achiziționat inițial bilete pentru meciul din optimile de finală ale Cupei Mondiale dintre Anglia și Mexic, programat luni, le-au revândut pe portalul oficial de revânzare al FIFA la prețuri exorbitante, ajungând până la 26.000 de lire sterline. Această situație subliniază cererea uriașă și speculațiile din jurul partidelor importante de la Cupa Mondială, generând discuții despre accesibilitatea evenimentelor sportive majore pentru fanii obișnuiți.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-03T17:36:11.809448+00:00",
+      "data_afisaj": "3 iulie 2026, 20:36"
+    },
+    {
+      "id": "88ab822cf8b3",
+      "titlu": "Lamine Yamal, tânărul talent al Spaniei, poartă speranțele naționalei la Cupa Mondială",
+      "rezumat": "La doar 18 ani, Lamine Yamal a devenit o figură centrală în echipa națională a Spaniei la Cupa Mondială, purtând pe umeri speranțele unei națiuni pentru câștigarea celui de-al doilea titlu mondial. Performanțele sale impresionante, inclusiv o celebrare virală a fratelui său mai mic după un gol împotriva Austriei, au captat atenția publicului. Yamal demonstrează o maturitate remarcabilă și o determinare de a conduce echipa spre succes, fiind considerat unul dintre cei mai promițători jucători ai turneului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-03T17:36:11.811087+00:00",
+      "data_afisaj": "3 iulie 2026, 20:36"
+    },
     {
       "id": "8a1d9b84d44b",
       "titlu": "Federația Germană de Fotbal îl vizează pe Jurgen Klopp după demisia lui Nagelsmann",
@@ -1341,41 +1386,6 @@
       ],
       "data_publicare": "2026-06-26T17:51:53.013650+00:00",
       "data_afisaj": "26 iunie 2026, 20:51"
-    },
-    {
-      "id": "ecc0b0f01950",
-      "titlu": "Turcia învinge SUA la Cupa Mondială într-un meci dramatic",
-      "rezumat": "Naționala masculină a Statelor Unite a înregistrat o înfrângere dramatică în ultimul meci din Grupa D a Cupei Mondiale, cedând cu 3-2 în fața Turciei. Deși SUA își asigurase deja primul loc în grupă și calificarea în fazele eliminatorii, golul marcat de Kaan Ayhan în ultimul minut al partidei a adus victoria Turciei. Meciul a fost unul intens, cu multe ocazii de ambele părți, oferind o confruntare spectaculoasă la SoFi Stadium din Los Angeles. Această partidă a servit ca o avertizare pentru SUA înaintea optimilor de finală.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-06-26T10:50:56.554103+00:00",
-      "data_afisaj": "26 iunie 2026, 13:50"
-    },
-    {
-      "id": "40ff5e7d9adb",
-      "titlu": "Antrenorul Ecuadorului, Sebastian Beccacece, de la demitere la calificarea istorică la Cupa Mondială",
-      "rezumat": "Sebastian Beccacece, selecționerul Ecuadorului, a trecut printr-o transformare remarcabilă, de la a fi aproape de demitere la a conduce echipa într-o calificare istorică în optimile de finală ale Cupei Mondiale. Înainte de meciul crucial împotriva Germaniei, postul său era în pericol, însă victoria cu 2-1, obținută după ce Ecuadorul a revenit de la un gol dezavantaj, a asigurat prezența echipei în faza eliminatorie. Această performanță reprezintă un moment de cotitură pentru Beccacece și pentru fotbalul ecuadorian, care acum se pregătește pentru un meci în optimile de finală.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-26T10:50:56.556382+00:00",
-      "data_afisaj": "26 iunie 2026, 13:50"
-    },
-    {
-      "id": "65ca4ad01f63",
-      "titlu": "Statele Unite iau în considerare o candidatură pentru găzduirea Cupei Mondiale din 2038",
-      "rezumat": "Statele Unite ale Americii ar putea depune o candidatură pentru a găzdui Cupa Mondială masculină din 2038. Această posibilitate vine în contextul în care FIFA analizează extinderea turneului la 64 de echipe, o decizie care ar crește complexitatea organizării, dar și potențialul de venituri. După ce vor co-găzdui ediția din 2026 alături de Canada și Mexic, o nouă candidatură ar sublinia interesul continuu al SUA pentru evenimente fotbalistice majore și capacitatea lor logistică de a organiza competiții de anvergură.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-26T10:50:56.558238+00:00",
-      "data_afisaj": "26 iunie 2026, 13:50"
     }
   ]
 }
