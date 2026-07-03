@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-03T17:36:11.811104+00:00",
-  "updated_at_afisaj": "3 iulie 2026, 20:36",
+  "updated_at": "2026-07-03T18:08:48.432410+00:00",
+  "updated_at_afisaj": "3 iulie 2026, 21:08",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,52 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 118,
+  "numar_stiri": 117,
   "stiri": [
+    {
+      "id": "ec1feb1b8b6f",
+      "titlu": "Granit Xhaka rămâne la Sunderland, în ciuda ofertei de la Chelsea",
+      "rezumat": "Căpitanul echipei Sunderland, Granit Xhaka, va rămâne la club, în ciuda unei oferte primite de la Chelsea. Sky Sports News a confirmat în exclusivitate că mijlocașul elvețian nu va părăsi Stadium of Light în această vară. Decizia subliniază angajamentul jucătorului față de Sunderland și respingerea ofertei de către club, consolidând astfel lotul pentru sezonul viitor. Această veste este importantă pentru fanii echipei, care își păstrează unul dintre cei mai influenți jucători și lideri din vestiar, în ciuda interesului unui club de top.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-03T18:08:48.427870+00:00",
+      "data_afisaj": "3 iulie 2026, 21:08"
+    },
+    {
+      "id": "01eaf5cfd231",
+      "titlu": "Kylian Mbappé, liderul colectivului francez sub conducerea lui Deschamps",
+      "rezumat": "Kylian Mbappé a devenit figura centrală și liderul echipei naționale a Franței la Cupa Mondială, sub regimul de încredere al antrenorului Didier Deschamps. Atacul impresionant al \"Les Bleus\" se bazează pe spiritul de echipă cultivat de selecționer, permițând jucătorilor să fie atât siguri, cât și aventuroși pe teren. Această abordare a contribuit la parcursul solid al Franței în competiție, demonstrând o combinație echilibrată de talent individual și coeziune colectivă, esențială pentru ambițiile de a câștiga trofeul mondial.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-03T18:08:48.429472+00:00",
+      "data_afisaj": "3 iulie 2026, 21:08"
+    },
+    {
+      "id": "14e8631fcc2c",
+      "titlu": "Succesul la Cupa Mondială transformă viața în Capul Verde",
+      "rezumat": "Naționala Capului Verde, supranumită \"Rechinii Albaștri\", a devenit cea mai mică națiune din istorie care joacă un meci eliminatoriu la Cupa Mondială, înfruntând Argentina. Acest succes istoric a avut un impact profund asupra vieții în arhipelag, unde steagul național este acum omniprezent. Festivalul da Gamboa, cel mai mare festival de muzică de pe Insula Santiago, a fost transformat, iar mii de oameni sărbătoresc performanța echipei, demonstrând cum fotbalul poate uni și inspira o națiune întreagă, aducând o recunoaștere globală fără precedent.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-03T18:08:48.430901+00:00",
+      "data_afisaj": "3 iulie 2026, 21:08"
+    },
+    {
+      "id": "2227b2cf2167",
+      "titlu": "Liverpool vizează un star francez de la Cupa Mondială pentru transfer",
+      "rezumat": "Clubul Liverpool FC a plasat un jucător francez, star la Cupa Mondială, în fruntea listei sale de transferuri. \"Cormoranii\" caută să adauge talent ofensiv lotului lor înaintea sezonului viitor, iar performanțele impresionante ale jucătorului la turneul final au atras atenția conducerii. Această mișcare ar putea reprezenta o achiziție strategică importantă pentru Liverpool, în încercarea de a-și consolida echipa și de a concura pentru trofee în sezoanele următoare. Numele jucătorului nu a fost încă dezvăluit public, dar speculațiile sunt intense.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-07-03T18:08:48.432392+00:00",
+      "data_afisaj": "3 iulie 2026, 21:08"
+    },
     {
       "id": "165eae960f0b",
       "titlu": "Ange Postecoglou, noul antrenor al echipei Al-Nassr, îl va pregăti pe Cristiano Ronaldo",
@@ -1331,61 +1375,6 @@
       ],
       "data_publicare": "2026-06-26T18:25:31.535922+00:00",
       "data_afisaj": "26 iunie 2026, 21:25"
-    },
-    {
-      "id": "a9e3cd93cc7c",
-      "titlu": "Arsenal explorează transferurile lui Bruno Guimaraes și Sandro Tonali de la Newcastle",
-      "rezumat": "Clubul Arsenal a inițiat discuții preliminare pentru posibile mutări ale mijlocașilor Bruno Guimaraes și Sandro Tonali de la Newcastle. Aceste explorări indică intenția \"Tunarilor\" de a-și consolida lotul cu jucători de calibru, în vederea viitoarelor competiții. Ambii fotbaliști sunt considerați piese importante la Newcastle, iar un eventual transfer ar reprezenta o achiziție semnificativă pentru echipa londoneză, reflectând ambițiile clubului de a concura la cel mai înalt nivel.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-26T17:51:53.006841+00:00",
-      "data_afisaj": "26 iunie 2026, 20:51"
-    },
-    {
-      "id": "08e9722f8628",
-      "titlu": "Japonia și Suedia se califică în optimi după o remiză la Cupa Mondială",
-      "rezumat": "Naționalele Japoniei și Suediei au obținut calificarea în fazele eliminatorii ale Cupei Mondiale 2026, după ce au încheiat la egalitate, scor 1-1, în ultimul meci din grupă. Golul inteligent marcat de Daizen Maeda pentru Japonia a fost anulat de o execuție de la distanță a lui Anthony Elanga pentru Suedia. Acest rezultat le permite ambelor echipe să avanseze în optimile de finală, demonstrând echilibrul din grupă și performanța solidă a ambelor formații pe parcursul turneului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-26T17:51:53.008530+00:00",
-      "data_afisaj": "26 iunie 2026, 20:51"
-    },
-    {
-      "id": "5507d171f807",
-      "titlu": "Declan Rice revine la antrenamentele Angliei, Reece James rămâne incert pentru meciul cu Panama",
-      "rezumat": "Mijlocașul Declan Rice s-a alăturat vineri antrenamentelor echipei naționale a Angliei, aducând vești bune pentru selecționerul Thomas Tuchel înaintea meciului cu Panama. Cu toate acestea, fundașul Reece James a lipsit din nou de la ședința de pregătire și rămâne sub semnul întrebării pentru partida crucială din faza grupelor a Cupei Mondiale 2026. Situația lui James reprezintă o preocupare pentru staff-ul tehnic, care speră la o recuperare rapidă și la disponibilitatea sa pentru meciurile viitoare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-26T17:51:53.010406+00:00",
-      "data_afisaj": "26 iunie 2026, 20:51"
-    },
-    {
-      "id": "63726c8dca43",
-      "titlu": "Didier Deschamps nu va fi pe banca tehnică a Franței în meciul cu Norvegia",
-      "rezumat": "Naționala Franței și-a asigurat deja calificarea în fazele eliminatorii ale Cupei Mondiale 2026, însă selecționerul Didier Deschamps nu va fi prezent pe banca tehnică în meciul din această seară împotriva Norvegiei. Absența sa, deși echipa este deja calificată, ridică întrebări privind motivele și impactul asupra strategiei de joc. Echipa va fi condusă de un alt membru al staff-ului tehnic, în timp ce Deschamps va lipsi de la marginea terenului pentru această partidă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-06-26T17:51:53.012034+00:00",
-      "data_afisaj": "26 iunie 2026, 20:51"
-    },
-    {
-      "id": "d80529e28fa3",
-      "titlu": "Victor Pițurcă dezvăluie temerile investitorilor în negocierile pentru Steaua",
-      "rezumat": "Fostul selecționer Victor Pițurcă a oferit detalii exclusive despre negocierile dintre potențialii investitori și Ministerul Apărării Naționale (MApN) pentru preluarea echipei Steaua. Pițurcă a explicat că milionarii ezită să se implice din cauza temerilor legate de posibilele consecințe legale, menționând că \"oamenii au fost condamnați\" în trecut în legătură cu clubul. Această situație complică eforturile de a găsi o soluție financiară stabilă și de a clarifica viitorul echipei, afectând perspectivele de dezvoltare ale clubului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-06-26T17:51:53.013650+00:00",
-      "data_afisaj": "26 iunie 2026, 20:51"
     }
   ]
 }
