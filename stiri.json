@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-02T18:23:56.936580+00:00",
-  "updated_at_afisaj": "2 iulie 2026, 21:23",
+  "updated_at": "2026-07-03T10:07:15.741703+00:00",
+  "updated_at_afisaj": "3 iulie 2026, 13:07",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,47 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 119,
+  "numar_stiri": 117,
   "stiri": [
+    {
+      "id": "b16a84547fcb",
+      "titlu": "Antrenorul Julian Nagelsmann demisionează de la naționala Germaniei",
+      "rezumat": "Julian Nagelsmann a părăsit postul de selecționer al Germaniei, conform rapoartelor din presă, după eliminarea șocantă a echipei de la Cupa Mondială. Se pare că antrenorul în vârstă de 38 de ani a ajuns la un acord pentru a pleca în urma discuțiilor cu oficialii Federației Germane de Fotbal (DFB). Jurgen Klopp este deja menționat printre favoriții pentru a prelua funcția, pe fondul speculațiilor intense privind viitorul băncii tehnice a Germaniei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "World Soccer",
+        "Sky Sports Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-07-03T10:07:15.737906+00:00",
+      "data_afisaj": "3 iulie 2026, 13:07"
+    },
+    {
+      "id": "9a7b84d7ad45",
+      "titlu": "Georgia Stanway se transferă la Arsenal cu ambiții de a câștiga trofee",
+      "rezumat": "Mijlocașul englez Georgia Stanway a semnat cu Arsenal, după plecarea sa de la Bayern Munchen. Jucătoarea, care a ajutat Bayern să câștige patru titluri consecutive în Frauen-Bundesliga, a declarat că se alătură clubului londonez pentru a \"câștiga trofee și a se dezvolta ca jucătoare\". Transferul, realizat la finalul contractului său cu echipa germană, marchează revenirea lui Stanway în Women's Super League (WSL).",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-03T10:07:15.740128+00:00",
+      "data_afisaj": "3 iulie 2026, 13:07"
+    },
+    {
+      "id": "1247ed25abfa",
+      "titlu": "Real Madrid neagă intenția de a-l transfera pe Enzo Fernandez de la Chelsea",
+      "rezumat": "Clubul Real Madrid a declarat că nu are \"nicio intenție\" de a încerca să-l transfere pe mijlocașul Enzo Fernandez de la Chelsea în această vară. Această declarație vine în contextul speculațiilor privind un posibil interes al gigantului spaniol pentru campionul mondial argentinian. Poziția fermă a Realului clarifică situația transferului jucătorului, punând capăt zvonurilor recente din piața transferurilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-03T10:07:15.741688+00:00",
+      "data_afisaj": "3 iulie 2026, 13:07"
+    },
     {
       "id": "51c092f794a8",
       "titlu": "Memorial în onoarea lui Diogo Jota, dezvelit pe Anfield",
@@ -1341,66 +1380,6 @@
       ],
       "data_publicare": "2026-06-26T10:24:52.603114+00:00",
       "data_afisaj": "26 iunie 2026, 13:24"
-    },
-    {
-      "id": "e442526b28fa",
-      "titlu": "Ecuador v Germania: Cupa Mondială 2026 – în direct",
-      "rezumat": "⚽️ Lansarea Cupei Mondiale: 16:00 EDT/21:00 BST/6:00 AEST ⚽️ Locul trei | Ghidul jucătorului | Și e-mail Scott Ecuador: Galindez, Franco, Ordonez, Pacho, Hincapie, Yeboah, Vite, Moises Caicedo, Angulo, Plata, Enner Valencia. Înlocuitori: Ramirez, Valle, Torres, Alcivar, Estupinan, Anthony Valencia, Paez, Rodriguez, Minda, Jordy Caicedo, Preciado, Castillo, Arevalo, Porozo, Medina. Germania: Neuer, Kimmich, Rudiger, Tah, Raum, Nmecha, Pavlovic, Sane, Musiala, Wirtz, Havertz. Înlocuitori: Baumann, Nubel, Anton, Goretzka,",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-25T19:03:16.614783+00:00",
-      "data_afisaj": "25 iunie 2026, 22:03"
-    },
-    {
-      "id": "669d1d5b9512",
-      "titlu": "Jocurile care arată defectele unei Cupe Mondiale cu 48 de echipe",
-      "rezumat": "Două meciuri din runda finală a grupelor oferă șansa ca două echipe să joace pur și simplu o remiză pentru a se califica.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-06-25T19:03:16.616344+00:00",
-      "data_afisaj": "25 iunie 2026, 22:03"
-    },
-    {
-      "id": "cf19ded3df03",
-      "titlu": "Noutățile echipei Ecuador vs Germania și Curacao vs Coasta de Fildeș LIVE!",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-06-25T19:03:16.617886+00:00",
-      "data_afisaj": "25 iunie 2026, 22:03"
-    },
-    {
-      "id": "08d7fc0384a3",
-      "titlu": "Gigi Becali a intrat în direct la TV și a făcut anunțul despre negocierile cu Florin Tănase: „E rezolvată! Poate aduc altul de cinci ori mai bun”",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-06-25T19:03:16.620098+00:00",
-      "data_afisaj": "25 iunie 2026, 22:03"
-    },
-    {
-      "id": "23e5fb177eab",
-      "titlu": "De ce este timpul pentru Saka și Rashford - Shearer",
-      "rezumat": "Fostul căpitan al Angliei, Alan Shearer, explică de ce Thomas Tuchel trebuie să schimbe o parte din personal, precum și mentalitatea echipei sale atunci când se confruntă cu Panama.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-25T19:03:16.621593+00:00",
-      "data_afisaj": "25 iunie 2026, 22:03"
     }
   ]
 }
