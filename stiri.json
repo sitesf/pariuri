@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-03T10:07:15.741703+00:00",
-  "updated_at_afisaj": "3 iulie 2026, 13:07",
+  "updated_at": "2026-07-03T10:35:05.385833+00:00",
+  "updated_at_afisaj": "3 iulie 2026, 13:35",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,53 @@
   },
   "numar_stiri": 117,
   "stiri": [
+    {
+      "id": "8a1d9b84d44b",
+      "titlu": "Federația Germană de Fotbal îl vizează pe Jurgen Klopp după demisia lui Nagelsmann",
+      "rezumat": "Federația Germană de Fotbal (DFB) a inițiat discuții cu Jurgen Klopp pentru a prelua postul de selecționer al echipei naționale masculine, în urma demisiei lui Julian Nagelsmann. Această mișcare vine după o performanță dezamăgitoare la Cupa Mondială, iar DFB caută un antrenor cu experiență și succes dovedit pentru a reconstrui echipa. Klopp, fostul antrenor al lui Liverpool, este considerat principalul candidat pentru a readuce stabilitatea și performanța la naționala Germaniei, având un profil care se potrivește viziunii federației pentru viitor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-03T10:35:05.379374+00:00",
+      "data_afisaj": "3 iulie 2026, 13:35"
+    },
+    {
+      "id": "b1962cbe7697",
+      "titlu": "Ghid complet al tuturor celor 1.248 de jucători de la Cupa Mondială 2026",
+      "rezumat": "Un ghid exhaustiv a fost publicat, oferind informații detaliate despre fiecare dintre cei 1.248 de jucători participanți la Cupa Mondială 2026. Acest instrument cuprinzător include profiluri complete ale membrilor fiecărui lot, permițând fanilor să exploreze date despre carieră, statistici și alte detalii relevante. Ghidul este o resursă valoroasă pentru pasionații de fotbal care doresc să aprofundeze cunoștințele despre vedetele și talentele emergente ale turneului, oferind o perspectivă unică asupra competiției.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-07-03T10:35:05.382563+00:00",
+      "data_afisaj": "3 iulie 2026, 13:35"
+    },
+    {
+      "id": "a4d5c90dddef",
+      "titlu": "Decizie VAR controversată prelungește parcursul lui Ronaldo la Cupa Mondială și elimină Croația",
+      "rezumat": "Cristiano Ronaldo își continuă prezența la Cupa Mondială, după ce Croația a fost privată de un gol egalizator în prelungiri, în urma unei decizii VAR extrem de controversate. Această hotărâre a prelungit \"ultimul dans\" al veteranului portughez pe scena mondială, în timp ce a marcat finalul parcursului lui Luka Modric și al naționalei Croației la turneu. Incidentul a generat dezbateri intense privind rolul tehnologiei video în fotbal și impactul său asupra rezultatelor decisive.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-07-03T10:35:05.384219+00:00",
+      "data_afisaj": "3 iulie 2026, 13:35"
+    },
+    {
+      "id": "d0d478644488",
+      "titlu": "Riyad Mahrez se retrage din naționala Algeriei după eliminarea de la Cupa Mondială",
+      "rezumat": "Căpitanul naționalei Algeriei, Riyad Mahrez, a anunțat că se retrage din fotbalul internațional, decizie luată imediat după înfrângerea cu 2-0 în fața Elveției, care a dus la eliminarea \"Vulpilor Deșertului\" din optimile de finală ale Cupei Mondiale. Mahrez, o figură emblematică pentru fotbalul algerian, a pus capăt carierei sale la echipa națională, marcând un moment important pentru selecționata africană. Retragerea sa lasă un gol în echipa Algeriei, care va trebui să găsească noi lideri pentru viitoarele competiții.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-03T10:35:05.385812+00:00",
+      "data_afisaj": "3 iulie 2026, 13:35"
+    },
     {
       "id": "b16a84547fcb",
       "titlu": "Antrenorul Julian Nagelsmann demisionează de la naționala Germaniei",
@@ -1329,57 +1376,6 @@
       ],
       "data_publicare": "2026-06-26T10:50:56.558238+00:00",
       "data_afisaj": "26 iunie 2026, 13:50"
-    },
-    {
-      "id": "9f7ff7af69d3",
-      "titlu": "Manchester City a ajuns la un acord record pentru transferul lui Elliot Anderson",
-      "rezumat": "Manchester City a convenit un acord record cu Nottingham Forest pentru transferul mijlocașului englez Elliot Anderson. Suma de transfer, care nu a fost dezvăluită oficial, reprezintă o sumă fără precedent plătită de City pentru un jucător de la Forest. Anderson, un talent promițător, este așteptat să efectueze vizita medicală în Statele Unite, conform rapoartelor. Acest transfer marchează o mișcare semnificativă pe piața transferurilor, consolidând lotul lui Manchester City pentru sezoanele viitoare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-06-26T10:24:52.596403+00:00",
-      "data_afisaj": "26 iunie 2026, 13:24"
-    },
-    {
-      "id": "a890de254905",
-      "titlu": "Cupa Mondială 2026: Duelul Haaland vs Mbappé și controversele legate de comentariile lui Schweinsteiger",
-      "rezumat": "Ziua a 15-a a Cupei Mondiale 2026 aduce în prim-plan confruntarea directă dintre Kylian Mbappé (Franța) și Erling Haaland (Norvegia), ambii având câte patru goluri marcate până acum în turneu. Această partidă este considerată un \"duel al titanilor\" între doi dintre cei mai importanți atacanți ai fotbalului mondial. Pe lângă acțiunea de pe teren, turneul este marcat și de controverse, după ce comentariile fostului mijlocaș german Bastian Schweinsteiger despre stilul de joc \"sălbatic\" al Coastei de Fildeș au fost criticate, fiind considerate de antrenorul Emerse Faé ca potențial rasiste.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "World Soccer",
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-06-26T10:24:52.598611+00:00",
-      "data_afisaj": "26 iunie 2026, 13:24"
-    },
-    {
-      "id": "ee8af4a264b1",
-      "titlu": "Olanda câștigă Grupa F la Cupa Mondială după victoria împotriva Tunisiei",
-      "rezumat": "Naționala Olandei a învins Tunisia cu scorul de 3-1, asigurându-și primul loc în Grupa F a Cupei Mondiale 2026. Brian Brobbey a marcat pentru a doua oară consecutiv, contribuind la succesul \"Portocalei Mecanice\". Această victorie le permite olandezilor să evite o confruntare cu Brazilia în optimile de finală, urmând să întâlnească Marocul în faza următoare a competiției. Performanța solidă a Olandei confirmă statutul de favorită la calificarea în etapele superioare ale turneului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-26T10:24:52.601451+00:00",
-      "data_afisaj": "26 iunie 2026, 13:24"
-    },
-    {
-      "id": "3689fd1872fc",
-      "titlu": "Controverse în jurul \"Meciului Pride\" de la Cupa Mondială 2026 din Seattle",
-      "rezumat": "Comitetul de organizare al Cupei Mondiale din Seattle continuă planurile pentru \"Meciul Pride\", o celebrare a drepturilor LGBTQ+, în ciuda obiecțiilor și solicitărilor de anulare venite din partea echipelor implicate, Egipt și Iran. Acestea au cerut anularea festivităților legate de drepturile LGBTQ+ în jurul meciului lor din 26 iunie. Comitetul local, independent de FIFA, a stabilit anul trecut ca această dată să fie dedicată tematicii Pride, coincizând cu evenimentul sportiv. Situația a generat discuții aprinse despre intersecția dintre sport, politică și drepturile omului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-26T10:24:52.603114+00:00",
-      "data_afisaj": "26 iunie 2026, 13:24"
     }
   ]
 }
