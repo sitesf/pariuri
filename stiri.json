@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-04T09:26:11.014595+00:00",
-  "updated_at_afisaj": "4 iulie 2026, 12:26",
+  "updated_at": "2026-07-04T10:08:54.059242+00:00",
+  "updated_at_afisaj": "4 iulie 2026, 13:08",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,44 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 117,
+  "numar_stiri": 113,
   "stiri": [
+    {
+      "id": "d56802275cc3",
+      "titlu": "Jürgen Klopp în negocieri avansate pentru postul de selecționer al Germaniei",
+      "rezumat": "Jürgen Klopp a confirmat că se află în negocieri intensive pentru a prelua funcția de selecționer al naționalei Germaniei, declarând că este „mai mult decât reîncărcat” și „pregătit” pentru această provocare. Fostul antrenor al lui Liverpool este considerat candidatul principal de către federația germană de fotbal, în urma demisiei lui Julian Nagelsmann. Discuțiile vizează stabilirea unei strategii clare și a modificărilor necesare pentru a revigora echipa, mai ales după eliminarea Germaniei de la Cupa Mondială 2026 în optimi.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-04T10:08:54.053860+00:00",
+      "data_afisaj": "4 iulie 2026, 13:08"
+    },
+    {
+      "id": "9bc1006b9aaa",
+      "titlu": "Egiptul avansează în optimile Cupei Mondiale 2026, învingând Australia la penalty-uri",
+      "rezumat": "Naționala Egiptului a obținut o calificare istorică în optimile de finală ale Cupei Mondiale 2026, după ce a învins Australia într-o sesiune dramatică de lovituri de departajare. Meciul a fost unul extrem de disputat, iar decizia Australiei de a schimba portarul înainte de penalty-uri s-a dovedit a fi una neinspirată. Aceasta marchează prima victorie a Egiptului în faza eliminatorie a Cupei Mondiale, un moment de referință pentru fotbalul egiptean, care își continuă parcursul la turneul final.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-04T10:08:54.056501+00:00",
+      "data_afisaj": "4 iulie 2026, 13:08"
+    },
+    {
+      "id": "757243d85394",
+      "titlu": "Istvan Kovacs, omis de la delegările pentru optimile Cupei Mondiale 2026",
+      "rezumat": "Arbitrul român Istvan Kovacs nu a fost inclus pe lista delegărilor pentru meciurile din optimile de finală ale Cupei Mondiale 2026, o decizie care a generat discuții în rândul presei sportive. Deși FIFA a emis un anunț general privind arbitrii selectați pentru această fază a competiției, motivele specifice pentru absența lui Kovacs nu au fost detaliate. Această situație ridică semne de întrebare cu privire la parcursul său ulterior la turneul final și la criteriile de selecție aplicate de forul mondial.",
+      "categorie": "Fotbal",
+      "surse": [
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-07-04T10:08:54.059225+00:00",
+      "data_afisaj": "4 iulie 2026, 13:08"
+    },
     {
       "id": "6fa381beed05",
       "titlu": "Lovitura Arias trimite Columbia în optimile de finală cu victoria asupra Ghanei",
@@ -1304,84 +1340,6 @@
       ],
       "data_publicare": "2026-06-27T17:14:37.998988+00:00",
       "data_afisaj": "27 iunie 2026, 20:14"
-    },
-    {
-      "id": "418a2af2bae2",
-      "titlu": "Anglia se califică în optimile Cupei Mondiale înainte de ultimul meci din grupă",
-      "rezumat": "Echipa națională a Angliei și-a asigurat un loc în fazele eliminatorii ale Cupei Mondiale, calificarea fiind confirmată în urma rezultatelor altor meciuri din grupă. Această performanță vine înainte ca Anglia să dispute ultimul său meci din faza grupelor, împotriva echipei Panama, programat sâmbătă. Calificarea timpurie permite selecționerului să gestioneze mai bine lotul pentru meciurile viitoare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-27T10:07:49.055477+00:00",
-      "data_afisaj": "27 iunie 2026, 13:07"
-    },
-    {
-      "id": "a141f51bfdef",
-      "titlu": "Lionel Messi va începe pe banca de rezerve ultimul meci al Argentinei din grupă",
-      "rezumat": "Selecționerul Argentinei, Lionel Scaloni, a confirmat că golgheterul Cupei Mondiale, Lionel Messi, va fi rezervă în ultimul meci al echipei din faza grupelor, împotriva Iordaniei. Decizia sugerează o strategie de odihnă pentru starul argentinian, având în vedere importanța fazelor eliminatorii. Această mișcare ar putea oferi oportunități altor jucători de a se afirma înaintea meciurilor decisive.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-27T10:07:49.057302+00:00",
-      "data_afisaj": "27 iunie 2026, 13:07"
-    },
-    {
-      "id": "2e9b23cc1bc4",
-      "titlu": "Antrenorul Iranului acuză SUA de tratament incorect la Cupa Mondială",
-      "rezumat": "Selecționerul Iranului, Amir Ghalenoei, a criticat vehement Statele Unite, co-gazda Cupei Mondiale, acuzând un tratament 'foarte incorect' la adresa echipei sale. Ghalenoei i-a cerut președintelui FIFA, Gianni Infantino, să intervină în această situație. Declarațiile vin după un egal dramatic cu Egiptul, în care Iranului i-a fost anulat un gol în prelungiri, lăsând echipa în așteptarea altor rezultate pentru o posibilă calificare în optimi.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-27T10:07:49.058974+00:00",
-      "data_afisaj": "27 iunie 2026, 13:07"
-    },
-    {
-      "id": "fcdbcb9bd89c",
-      "titlu": "Bukayo Saka este apt de joc pentru Anglia, Reece James suferă o accidentare",
-      "rezumat": "Antrenorul Angliei, Thomas Tuchel, a confirmat că Bukayo Saka este complet refăcut și pregătit să înceapă ca titular în ultimul meci din grupă, împotriva Panamei. Pe de altă parte, echipa se confruntă cu o veste proastă, fundașul Reece James suferind o accidentare. Această situație influențează opțiunile de selecție ale lui Tuchel pentru meciul decisiv și pentru fazele eliminatorii ale Cupei Mondiale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-06-27T10:07:49.060770+00:00",
-      "data_afisaj": "27 iunie 2026, 13:07"
-    },
-    {
-      "id": "8288de319115",
-      "titlu": "Capul Verde scrie istorie și se califică în fazele eliminatorii ale Cupei Mondiale",
-      "rezumat": "Naționala Capului Verde, o țară insulară cu doar 525.000 de locuitori, a reușit o performanță remarcabilă, calificându-se în fazele eliminatorii ale Cupei Mondiale 2026. Această realizare istorică vine după o serie de rezultate solide în faza grupelor, inclusiv o remiză cu Arabia Saudită, care le-a asigurat un loc în optimi. Echipa se pregătește acum pentru o confruntare dificilă cu Argentina, continuând o poveste de succes considerată un miracol de fani și jucători.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-06-27T09:30:49.301497+00:00",
-      "data_afisaj": "27 iunie 2026, 12:30"
-    },
-    {
-      "id": "7578d70e4b63",
-      "titlu": "Egiptul se califică, Iranul ratează dramatic un loc garantat în optimi după intervenția VAR",
-      "rezumat": "Egiptul a reușit să se califice în fazele eliminatorii ale Cupei Mondiale, în timp ce Iranul a trăit momente de dramă intensă. Un gol marcat de Shoja Khalilzadeh în prelungiri, care ar fi asigurat calificarea directă a Iranului, a fost anulat de sistemul VAR pentru ofsaid. În urma remizei 1-1 cu Egiptul, Iranul speră acum să avanseze în optimi ca una dintre cele mai bune opt echipe clasate pe locul trei, după ce a ratat o victorie istorică.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-27T09:30:49.303797+00:00",
-      "data_afisaj": "27 iunie 2026, 12:30"
-    },
-    {
-      "id": "ef77a732200e",
-      "titlu": "Marcelo Bielsa își încheie mandatul la naționala Uruguayului după eliminarea de la Cupa Mondială",
-      "rezumat": "Marcelo Bielsa și-a încheiat mandatul de selecționer al Uruguayului, după ce echipa a fost eliminată din faza grupelor a Cupei Mondiale 2026. Eliminarea a venit în urma unei înfrângeri cu 1-0 în fața Spaniei, marcată de o eroare a portarului Fernando Muslera. Bielsa a declarat că nu a lăsat nimic fotbalului uruguayan, asumându-și responsabilitatea pentru dezamăgirea fanilor. Această plecare marchează sfârșitul unei perioade controversate sub conducerea antrenorului supranumit \"El Loco\".",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-27T09:30:49.305428+00:00",
-      "data_afisaj": "27 iunie 2026, 12:30"
     }
   ]
 }
