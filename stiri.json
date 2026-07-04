@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-04T10:08:54.059242+00:00",
-  "updated_at_afisaj": "4 iulie 2026, 13:08",
+  "updated_at": "2026-07-04T17:09:53.954640+00:00",
+  "updated_at_afisaj": "4 iulie 2026, 20:09",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,53 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 113,
+  "numar_stiri": 117,
   "stiri": [
+    {
+      "id": "5c542723a389",
+      "titlu": "Franța, lider detașat în clasamentul puterii la Cupa Mondială 2026; co-gazdele urcă, giganții cad",
+      "rezumat": "Un nou clasament al puterii la Cupa Mondială 2026, realizat după faza grupelor, plasează Franța pe prima poziție, considerată de toți experții drept echipa de neoprit. Națiunile co-gazdă au înregistrat o ascensiune notabilă, în timp ce unele dintre echipele considerate favorite au dezamăgit, înregistrând o scădere semnificativă în ierarhie. Analiza subliniază performanțele echipelor rămase în competiție și anticipează posibilele surprize din fazele eliminatorii.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-07-04T17:09:53.949841+00:00",
+      "data_afisaj": "4 iulie 2026, 20:09"
+    },
+    {
+      "id": "68e2af77916c",
+      "titlu": "Fenerbahce finalizează transferul lui Nathan Aké de la Manchester City",
+      "rezumat": "Clubul turc Fenerbahce a anunțat finalizarea acordului pentru transferul fundașului olandez Nathan Aké de la Manchester City. Tranzacția este estimată la o valoare de până la 8,5 milioane de lire sterline. Aké, care a petrecut mai multe sezoane la campioana Angliei, se alătură echipei din Istanbul, marcând o mutare importantă pe piața transferurilor din această vară.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-04T17:09:53.951440+00:00",
+      "data_afisaj": "4 iulie 2026, 20:09"
+    },
+    {
+      "id": "370406e48815",
+      "titlu": "Carlo Ancelotti a transformat Brazilia într-o pretendentă la titlul mondial",
+      "rezumat": "Sub conducerea lui Carlo Ancelotti, naționala Braziliei a depășit o perioadă de incertitudine și crize interne, devenind o forță redutabilă la Cupa Mondială. Abilitățile sale de management și deciziile tactice ferme au protejat lotul talentat al Seleção, redând încrederea fanilor. Ancelotti este creditat cu stabilizarea echipei și cu insuflarea unei mentalități de învingători, transformând Brazilia într-un candidat serios la câștigarea trofeului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-04T17:09:53.953010+00:00",
+      "data_afisaj": "4 iulie 2026, 20:09"
+    },
+    {
+      "id": "9ec33a0f8a0b",
+      "titlu": "Probleme neașteptate pentru Anglia în Mexic, înaintea meciului din optimi",
+      "rezumat": "Naționala Angliei se confruntă cu o serie de provocări neprevăzute în Mexic, înaintea meciului din optimile Cupei Mondiale împotriva echipei gazdă. Pe lângă condițiile meteorologice dificile, inclusiv fulgere, echipa a întâmpinat probleme legate de securitatea hotelului și suspiciuni de spionaj. Jucătorii au fost întâmpinați cu huiduieli la sosirea la hotel, adăugând presiune suplimentară înaintea confruntării cruciale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-04T17:09:53.954620+00:00",
+      "data_afisaj": "4 iulie 2026, 20:09"
+    },
     {
       "id": "d56802275cc3",
       "titlu": "Jürgen Klopp în negocieri avansate pentru postul de selecționer al Germaniei",
