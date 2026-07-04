@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-03T18:08:48.432410+00:00",
-  "updated_at_afisaj": "3 iulie 2026, 21:08",
+  "updated_at": "2026-07-04T09:26:11.014595+00:00",
+  "updated_at_afisaj": "4 iulie 2026, 12:26",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,68 @@
   },
   "numar_stiri": 117,
   "stiri": [
+    {
+      "id": "6fa381beed05",
+      "titlu": "Lovitura Arias trimite Columbia în optimile de finală cu victoria asupra Ghanei",
+      "rezumat": "Jhon Arias marchează singurul gol al meciului, Columbia devenind ultima echipă care își rezervă locul în optimile de finală, după o victorie cu 1-0 în fața Ghanei la Kansas City.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-04T09:25:46.222318+00:00",
+      "data_afisaj": "4 iulie 2026, 12:25"
+    },
+    {
+      "id": "1e78f544d288",
+      "titlu": "Lovitura de la ora 1:00 Anglia-Mexic neschimbată după întoarcerea Fifa",
+      "rezumat": "Cupa Mondială a Angliei, optimile de finală, împotriva Mexicului, va începe luni, la ora 01:00 BST.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-04T09:25:46.223770+00:00",
+      "data_afisaj": "4 iulie 2026, 12:25"
+    },
+    {
+      "id": "94d95769b737",
+      "titlu": "Argentina a depășit Capul Verde în thriller de prelungiri",
+      "rezumat": "Argentina a depășit o sperietură uriașă în timp ce a învins Capul Verde cu 3-2 în prelungiri, datorită unei lovituri de cap deviate a lui Cristian Romero pentru a trece în optimile de finală.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-04T09:25:46.225090+00:00",
+      "data_afisaj": "4 iulie 2026, 12:25"
+    },
+    {
+      "id": "b5834b887b69",
+      "titlu": "Argentina a uluit când Duarte egalează pentru Capul Verde",
+      "rezumat": "Deroy Duarte uimește Argentina în timp ce egalează pentru Capul Verde în timpul meciului de optimi ale Cupei Mondiale de la Miami.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-07-04T09:25:46.226368+00:00",
+      "data_afisaj": "4 iulie 2026, 12:25"
+    },
+    {
+      "id": "40c8b803cb09",
+      "titlu": "Cupa Mondială 2026: Capul Verde dă o groază puternică Argentinei; finalul 16 începe pe fondul haosului meciurilor Mexic-Anglia – live",
+      "rezumat": "⚽ Toate cele mai recente știri și reacția de la Cupa Mondială ⚽ Ghidul jucătorului | Bracketologie | Remiză eliminatorie | Trimiteți-ne un e-mail Australia a pierdut în fața Egiptului la penalty-uri într-unul dintre cele mai dezastruoase reprize de penalty. Schimbarea portarilor este o mișcare îndrăzneață, mai ales când Mat Ryan a făcut un Shilton corect. Jonathan Wilson era acolo. Continuă să citești...",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-07-04T09:25:46.228133+00:00",
+      "data_afisaj": "4 iulie 2026, 12:25"
+    },
     {
       "id": "ec1feb1b8b6f",
       "titlu": "Granit Xhaka rămâne la Sunderland, în ciuda ofertei de la Chelsea",
@@ -1320,61 +1382,6 @@
       ],
       "data_publicare": "2026-06-27T09:30:49.305428+00:00",
       "data_afisaj": "27 iunie 2026, 12:30"
-    },
-    {
-      "id": "d3725ac12fe6",
-      "titlu": "De ce a lipsit Donald Trump de la Cupa Mondială?",
-      "rezumat": "O analiză explorează motivele pentru care fostul președinte american Donald Trump nu a participat până acum la evenimentele Cupei Mondiale și speculează dacă acesta va fi prezent înainte de finala competiției. Subiectul stârnește interes, având în vedere profilul său public și importanța evenimentului sportiv global, care se desfășoară în America de Nord.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-26T18:25:31.528821+00:00",
-      "data_afisaj": "26 iunie 2026, 21:25"
-    },
-    {
-      "id": "cfb2ce89ba2a",
-      "titlu": "Un fost atacant englez analizează problemele fotbalului scoțian",
-      "rezumat": "Ian Wright, fost atacant al naționalei Angliei, își exprimă regretul față de situația fotbalului scoțian și analizează cauzele problemelor, de la contracte de difuzare subevaluate până la potențial neîmplinit. Articolul investighează dacă perspectiva fostului internațional englez este pertinentă în descrierea dificultăților cu care se confruntă fotbalul din Scoția, oferind o privire critică asupra sistemului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-26T18:25:31.530435+00:00",
-      "data_afisaj": "26 iunie 2026, 21:25"
-    },
-    {
-      "id": "4fc4253f1a3c",
-      "titlu": "Tensiuni la Uruguay: Bielsa se confruntă cu fostul său elev, De la Fuente, într-un moment dificil",
-      "rezumat": "Naționala Uruguayului se confruntă cu o situație tensionată, având nevoie de o victorie pentru a avansa în faza eliminatorie a Cupei Mondiale. Meciul crucial împotriva Spaniei aduce o confruntare specială între selecționerul Marcelo Bielsa și fostul său elev, Luis de la Fuente. Articolul subliniază și starea de spirit \"rebelă\" din vestiarul uruguayan, adăugând presiune asupra echipei într-un moment decisiv al competiției.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-26T18:25:31.532356+00:00",
-      "data_afisaj": "26 iunie 2026, 21:25"
-    },
-    {
-      "id": "926fb5277fa3",
-      "titlu": "Ascensiunea lui Elliot Anderson: de la împrumut la Bristol Rovers la cel mai scump jucător britanic",
-      "rezumat": "Articolul detaliază parcursul remarcabil al mijlocașului englez Elliot Anderson, de la perioada sa de împrumut la Bristol Rovers în League Two, până la transferul său record de 116 milioane de lire sterline la Manchester City. Această mutare confirmă progresul său constant și transformarea sa în cel mai scump jucător britanic, evidențiind etapele cheie ale ascensiunii sale fulminante în fotbalul de top.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-26T18:25:31.534218+00:00",
-      "data_afisaj": "26 iunie 2026, 21:25"
-    },
-    {
-      "id": "791f2ab50a65",
-      "titlu": "Creatorii de conținut aduc o nouă dimensiune experienței Cupei Mondiale pentru fani",
-      "rezumat": "YouTuberii și alți creatori de conținut digital revoluționează modul în care fanii interacționează cu Cupa Mondială, provocând acoperirea tradițională a transmisiunilor. Aceștia oferă o perspectivă suplimentară și o interacțiune directă cu publicul, îmbogățind experiența turneului și adaptând consumul de fotbal la noile tendințe media. Fenomenul subliniază schimbarea peisajului mediatic sportiv.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-26T18:25:31.535922+00:00",
-      "data_afisaj": "26 iunie 2026, 21:25"
     }
   ]
 }
