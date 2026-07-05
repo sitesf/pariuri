@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-05T09:44:08.058424+00:00",
-  "updated_at_afisaj": "5 iulie 2026, 12:44",
+  "updated_at": "2026-07-05T10:12:18.269292+00:00",
+  "updated_at_afisaj": "5 iulie 2026, 13:12",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 120,
+  "numar_stiri": 121,
   "stiri": [
+    {
+      "id": "c44581803228",
+      "titlu": "Franța se califică în sferturile de finală ale Cupei Mondiale după victoria împotriva Paraguayului",
+      "rezumat": "Naționala Franței, considerată una dintre favoritele Cupei Mondiale, și-a asigurat locul în sferturile de finală. Calificarea a venit în urma unei victorii obținute grație unui penalty transformat de Kylian Mbappé în a doua repriză, într-un meci disputat la Philadelphia împotriva unei echipe a Paraguayului care a opus o rezistență puternică. Această performanță confirmă statutul Franței în competiție.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-07-05T10:12:18.262329+00:00",
+      "data_afisaj": "5 iulie 2026, 13:12"
+    },
+    {
+      "id": "153bd372bbb8",
+      "titlu": "Manchester United îl vizează pe Andrey Santos de la Chelsea, evaluat la 50 de milioane de lire sterline",
+      "rezumat": "Manchester United este interesată de transferul mijlocașului Andrey Santos de la Chelsea, club care îl evaluează pe jucător la aproximativ 50 de milioane de lire sterline. După ce a ratat achiziționarea lui Elliot Anderson și Mateus Fernandes, United își continuă eforturile de a-și consolida linia de mijloc sub conducerea lui Michael Carrick. Alex Scott de la Bournemouth se numără, de asemenea, printre jucătorii monitorizați de conducerea clubului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-05T10:12:18.264178+00:00",
+      "data_afisaj": "5 iulie 2026, 13:12"
+    },
+    {
+      "id": "260626559946",
+      "titlu": "Marocul, neînvins în 34 de meciuri, devine un pretendent serios la titlul mondial",
+      "rezumat": "După victoria împotriva Canadei, care le-a asigurat un loc în sferturile de finală ale Cupei Mondiale, campania Marocului nu mai poate fi considerată o simplă poveste de succes. Echipa a demonstrat o formă excepțională, fiind neînvinsă în ultimele 34 de partide. Această serie impresionantă de rezultate subliniază potențialul Marocului de a avansa semnificativ în competiție și de a fi un contracandidat puternic la titlul mondial.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-05T10:12:18.265862+00:00",
+      "data_afisaj": "5 iulie 2026, 13:12"
+    },
+    {
+      "id": "c2257eaa49f8",
+      "titlu": "Thomas Tuchel: Anglia nu este intimidată de meciul cu Mexic de pe Estadio Azteca",
+      "rezumat": "Selecționerul Angliei, Thomas Tuchel, a recunoscut că echipa sa se confruntă cu o adaptare dificilă la condițiile din Mexico City. Cu toate acestea, Tuchel s-a declarat convins că jucătorii săi sunt pregătiți să \"scrie propriile capitole\" atunci când vor înfrunta co-gazda Cupei Mondiale, Mexic, pe legendarul Estadio Azteca. Declarația subliniază încrederea antrenorului în capacitatea echipei de a gestiona presiunea și particularitățile acestei partide cruciale din optimi.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-05T10:12:18.267499+00:00",
+      "data_afisaj": "5 iulie 2026, 13:12"
+    },
+    {
+      "id": "6929bfe0bcdc",
+      "titlu": "Jucătorii Belgiei, pregătiți să înfrunte publicul numeros al SUA în optimile Cupei Mondiale",
+      "rezumat": "Un public zgomotos și pro-SUA este așteptat la Seattle pentru meciul din optimile de finală ale Cupei Mondiale dintre Statele Unite și Belgia, programat luni. Cu toate acestea, jucătorii echipei belgiene, supranumiți \"Diavolii Roșii\", au declarat că nu se tem de atmosfera ostilă care îi va aștepta. Ei sunt hotărâți să-și joace propriul joc și să demonstreze curaj pe teren, indiferent de presiunea exercitată de suporterii adversari.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-05T10:12:18.269269+00:00",
+      "data_afisaj": "5 iulie 2026, 13:12"
+    },
     {
       "id": "28299e21fe17",
       "titlu": "Kylian Mbappé egalează recordul lui Lionel Messi în cursa pentru Gheata de Aur la Cupa Mondială 2026",
@@ -1368,57 +1424,6 @@
       ],
       "data_publicare": "2026-06-28T10:28:29.312857+00:00",
       "data_afisaj": "28 iunie 2026, 13:28"
-    },
-    {
-      "id": "d408dc49a2f5",
-      "titlu": "Antrenorul Scoției, Steve Clarke, demisionează după eliminarea de la Cupa Mondială",
-      "rezumat": "Steve Clarke a demisionat din funcția de selecționer al Scoției, încheindu-și mandatul după eliminarea echipei din faza grupelor a Cupei Mondiale. Decizia vine după șapte ani la cârma naționalei, perioadă în care a reușit să califice Scoția la turnee finale majore, dar nu a reușit să depășească faza grupelor. Demisia sa a fost confirmată de mai multe surse sportive internaționale, marcând sfârșitul unei ere pentru fotbalul scoțian.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-06-28T10:00:25.083903+00:00",
-      "data_afisaj": "28 iunie 2026, 13:00"
-    },
-    {
-      "id": "f4792419e816",
-      "titlu": "Lionel Messi stabilește un nou record la Cupa Mondială, marcând în șapte meciuri consecutive",
-      "rezumat": "Lionel Messi a intrat pe teren din postura de rezervă și a marcat un gol în victoria Argentinei cu 3-1 împotriva Iordaniei, în ultimul meci din Grupa J a Cupei Mondiale. Prin această reușită, Messi a devenit primul jucător din istoria Cupei Mondiale care înscrie în șapte meciuri consecutive, consolidându-și statutul de legendă a competiției. Performanța sa a fost larg mediatizată de presa sportivă internațională, subliniind impactul său continuu.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-28T10:00:25.085703+00:00",
-      "data_afisaj": "28 iunie 2026, 13:00"
-    },
-    {
-      "id": "d7c0e375345c",
-      "titlu": "Austria și Algeria se califică în optimi după un final dramatic în meciul direct",
-      "rezumat": "Austria și Algeria au obținut calificarea în optimile de finală ale Cupei Mondiale, după un meci direct extrem de dramatic, încheiat la egalitate, scor 3-3. Ambele echipe au marcat în prelungiri, asigurându-și punctele necesare pentru a avansa din Grupa J și eliminând astfel Iranul din competiție. Finalul tensionat al partidei a fost confirmat de multiple surse internaționale, care au evidențiat suspansul și răsturnările de scor din ultimele minute.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-28T10:00:25.087527+00:00",
-      "data_afisaj": "28 iunie 2026, 13:00"
-    },
-    {
-      "id": "2fedfc95a6c2",
-      "titlu": "Columbia câștigă Grupa K la Cupa Mondială, Portugalia se califică de pe locul doi",
-      "rezumat": "Columbia a terminat pe primul loc în Grupa K a Cupei Mondiale, după o remiză spectaculoasă, scor 0-0, împotriva Portugaliei în ultimul meci din grupă. Echipa lui Roberto Martinez, Portugalia, a încheiat pe poziția a doua, asigurându-și și ea calificarea în fazele eliminatorii ale competiției. Ambele naționale avansează în optimile de finală, conform rezultatelor confirmate de presa sportivă, într-o grupă în care s-a dat o luptă intensă pentru supremație.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-28T10:00:25.089215+00:00",
-      "data_afisaj": "28 iunie 2026, 13:00"
     }
   ]
 }
