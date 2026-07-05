@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-04T17:58:26.124814+00:00",
-  "updated_at_afisaj": "4 iulie 2026, 20:58",
+  "updated_at": "2026-07-05T09:44:08.058424+00:00",
+  "updated_at_afisaj": "5 iulie 2026, 12:44",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 115,
+  "numar_stiri": 120,
   "stiri": [
+    {
+      "id": "28299e21fe17",
+      "titlu": "Kylian Mbappé egalează recordul lui Lionel Messi în cursa pentru Gheata de Aur la Cupa Mondială 2026",
+      "rezumat": "Atacantul francez Kylian Mbappé a ajuns la șapte goluri marcate la Cupa Mondială 2026, egalându-l pe Lionel Messi în fruntea clasamentului pentru Gheata de Aur. Competiția rămâne deschisă, cu jucători precum Erling Haaland (5 goluri), Harry Kane (5 goluri), Vinícius Júnior (4 goluri) și Mikel Oyarzabal (4 goluri) având șansa de a reduce diferența în următoarele 24 de ore. Această cursă strânsă adaugă un plus de spectacol turneului final, pe măsură ce echipele avansează în fazele eliminatorii.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-07-05T09:44:08.051736+00:00",
+      "data_afisaj": "5 iulie 2026, 12:44"
+    },
+    {
+      "id": "1910140a264a",
+      "titlu": "Bruno Fernandes, victimă a unei campanii de deepfake realizate de operatori de pariuri ilegali",
+      "rezumat": "Fotbalistul Bruno Fernandes a devenit victima unei campanii de dezinformare orchestrate de operatori de pariuri online fără licență. Aceștia au folosit știri false, atribuite BBC, și videoclipuri generate cu inteligență artificială (deepfake) pentru a înșela clienții. Incidentul subliniază riscurile tot mai mari ale utilizării tehnologiilor avansate pentru promovarea ilegală și necesitatea unei vigilențe sporite în mediul online, în special în contextul sportului, unde imaginea jucătorilor este adesea exploatată.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-05T09:44:08.053435+00:00",
+      "data_afisaj": "5 iulie 2026, 12:44"
+    },
+    {
+      "id": "10abbcedff3e",
+      "titlu": "Președintele Federației Franceze de Fotbal condamnă remarcile rasiste ale lui José Luis Chilavert",
+      "rezumat": "Philippe Diallo, președintele Federației Franceze de Fotbal, a condamnat ferm declarațiile rasiste ale fostului portar paraguayan José Luis Chilavert, care a afirmat că naționala Franței este \"o echipă din Africa\". Diallo a subliniat că astfel de comentarii subminează valorile de respect, fraternitate și diversitate în fotbal. Incidentul a stârnit controverse înaintea meciului Franța-Paraguay și a atras atenția asupra problemelor de rasism în sport, necesitând o reacție promptă din partea forurilor conducătoare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-05T09:44:08.055112+00:00",
+      "data_afisaj": "5 iulie 2026, 12:44"
+    },
+    {
+      "id": "c39a66c5628b",
+      "titlu": "Selecționerul Spaniei, Luis de la Fuente: \"Avem cel mai bun mijloc din lume\"",
+      "rezumat": "Luis de la Fuente, antrenorul naționalei Spaniei, a făcut o declarație îndrăzneață, afirmând că echipa sa posedă \"cel mai bun mijloc din lume\", exprimându-și respectul pentru adversari. Această afirmație vine în contextul pregătirilor pentru meciul din optimile de finală împotriva Portugaliei și subliniază încrederea selecționerului în calitatea și coeziunea liniei mediane a Spaniei, considerată un pilon esențial pentru performanța la Cupa Mondială. Declarația a generat discuții aprinse în rândul analiștilor sportivi.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-05T09:44:08.056799+00:00",
+      "data_afisaj": "5 iulie 2026, 12:44"
+    },
+    {
+      "id": "d7667952c75c",
+      "titlu": "Naționala Mexicului returnează ceasuri de lux primite cadou din cauza regulilor FIFA",
+      "rezumat": "Jucătorii naționalei Mexicului, co-gazdă a Cupei Mondiale 2026, au returnat ceasuri de lux pe care le-au primit cadou de la un creator de conținut. Decizia a fost luată în conformitate cu regulile FIFA, care interzic primirea de cadouri costisitoare. Acest incident subliniază strictețea reglementărilor federației internaționale de fotbal privind integritatea și etica în timpul turneelor majore, evitând orice percepție de influență externă sau avantaje necuvenite pentru sportivi.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-05T09:44:08.058404+00:00",
+      "data_afisaj": "5 iulie 2026, 12:44"
+    },
     {
       "id": "28427b42e013",
       "titlu": "Canada se confruntă cu Maroc în optimile de finală ale Cupei Mondiale LIVE!",
