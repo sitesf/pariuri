@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-05T17:15:39.327412+00:00",
-  "updated_at_afisaj": "5 iulie 2026, 20:15",
+  "updated_at": "2026-07-05T17:57:33.175691+00:00",
+  "updated_at_afisaj": "5 iulie 2026, 20:57",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,32 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 122,
+  "numar_stiri": 119,
   "stiri": [
+    {
+      "id": "28298d0b15ff",
+      "titlu": "FIFA suspendă interdicția lui Folarin Balogun, atacantul SUA, înainte de meciul cu Belgia",
+      "rezumat": "Atacantul american Folarin Balogun este disponibil pentru a juca pentru Statele Unite în meciul din optimile de finală ale Cupei Mondiale împotriva Belgiei, după ce suspendarea sa de un meci a fost anulată de FIFA. Decizia a fost confirmată de forul mondial, permițându-i jucătorului să participe la confruntarea crucială. Această veste reprezintă un impuls semnificativ pentru echipa SUA, care își propune să avanseze în fazele superioare ale competiției. Balogun este considerat un element cheie în ofensiva americană.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-07-05T17:57:33.173852+00:00",
+      "data_afisaj": "5 iulie 2026, 20:57"
+    },
+    {
+      "id": "b15a0572122b",
+      "titlu": "Newcastle United îl transferă pe Bazoumana Toure de la Hoffenheim pentru 43 de milioane de lire sterline",
+      "rezumat": "Clubul Newcastle United a finalizat transferul atacantului Bazoumana Toure de la Hoffenheim pentru suma de 43 de milioane de lire sterline. Reporterul Ciaran Kelly de la Newcastle United a analizat motivele din spatele acestei achiziții și ce va aduce jucătorul la echipă. Această mutare reprezintă o investiție semnificativă pentru Newcastle, care își propune să-și consolideze lotul în vederea viitoarelor competiții. Toure este așteptat să aducă un plus de forță ofensivă și creativitate în jocul echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-05T17:57:33.175669+00:00",
+      "data_afisaj": "5 iulie 2026, 20:57"
+    },
     {
       "id": "85022e5f9539",
       "titlu": "Real Madrid Îl Achiziționează pe Denzel Dumfries de la Inter Milano",
@@ -1377,63 +1401,6 @@
       ],
       "data_publicare": "2026-06-28T18:00:47.598179+00:00",
       "data_afisaj": "28 iunie 2026, 21:00"
-    },
-    {
-      "id": "58adcac6f96a",
-      "titlu": "Africa de Sud și Canada se duelează în optimile Cupei Mondiale 2026",
-      "rezumat": "Meciul dintre Africa de Sud și Canada, contând pentru optimile de finală ale Cupei Mondiale 2026, este programat să înceapă la ora 20:00 BST. Partida este intens anticipată, cu analize detaliate despre jucători cheie, parcursul echipelor în turneu și potențialii marcatori. Ambele națiuni își propun să avanseze în faza următoare, într-o competiție care a generat deja emoții puternice și surprize. Fanii fotbalului din întreaga lume urmăresc cu interes evoluția turneului, așteptând o confruntare decisivă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-28T17:17:11.582847+00:00",
-      "data_afisaj": "28 iunie 2026, 20:17"
-    },
-    {
-      "id": "9a86da2495a8",
-      "titlu": "Jude Bellingham, jucătorul cheie al Angliei sub comanda lui Thomas Tuchel",
-      "rezumat": "Jude Bellingham a devenit o piesă centrală în strategia tactică a selecționerului Thomas Tuchel pentru echipa Angliei la Cupa Mondială. Deși prezența sa în primul unsprezece a fost inițial subiect de dezbatere, performanțele sale constante și adaptabilitatea la stilul de joc al antrenorului l-au transformat într-un element indispensabil. Influența sa pe teren este considerată crucială pentru ambițiile Angliei de a progresa în fazele eliminatorii ale competiției, demonstrând o maturitate remarcabilă la o vârstă fragedă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-28T17:17:11.584564+00:00",
-      "data_afisaj": "28 iunie 2026, 20:17"
-    },
-    {
-      "id": "b025edfa4afd",
-      "titlu": "Analiză: Drumul Angliei către finala Cupei Mondiale 2026",
-      "rezumat": "După calificarea în fazele eliminatorii ale Cupei Mondiale 2026, BBC Sport analizează potențialul parcurs al echipei Angliei către finală. Cu optimile de finală deja stabilite, se examinează posibilii adversari și provocările tactice pe care echipa lui Thomas Tuchel le-ar putea întâmpina. Această analiză detaliază scenariile posibile și factorii care ar putea influența șansele Angliei de a ajunge în ultimul act al competiției, oferind o perspectivă asupra dificultăților și oportunităților.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-28T17:17:11.586119+00:00",
-      "data_afisaj": "28 iunie 2026, 20:17"
-    },
-    {
-      "id": "3b6c204f0d87",
-      "titlu": "Jesse Marsch, de la criticat la erou pentru naționala Canadei la Cupa Mondială",
-      "rezumat": "Jesse Marsch, antrenorul Canadei, a depășit momente dificile în cariera sa, fiind criticat de fanii lui Leeds și ignorat de echipa națională a SUA. Cu toate acestea, el pare să-și fi găsit locul la cârma Canadei, transformându-se într-un erou pe măsură ce echipa își propune să ajungă în optimile de finală ale Cupei Mondiale. Povestea sa subliniază reziliența și capacitatea de a reuși în ciuda obstacolelor, inspirând echipa canadiană să depășească așteptările.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-28T17:17:11.587769+00:00",
-      "data_afisaj": "28 iunie 2026, 20:17"
-    },
-    {
-      "id": "e6bf0e6df09b",
-      "titlu": "MERCATO: Rapid a transferat atacantul dorit de FCSB",
-      "rezumat": "Clubul Rapid București a finalizat transferul unui atacant care se afla și pe lista de achiziții a rivalei FCSB. Această mutare reprezintă o lovitură importantă pe piața internă de transferuri, consolidând lotul Rapidului și intensificând rivalitatea dintre cele două echipe bucureștene. Detaliile financiare și durata contractului nu au fost încă publicate, dar se anticipează că jucătorul va aduce un plus de valoare ofensivei Rapidului, contribuind la obiectivele clubului în noul sezon.",
-      "categorie": "Fotbal",
-      "surse": [
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-06-28T17:17:11.589193+00:00",
-      "data_afisaj": "28 iunie 2026, 20:17"
     }
   ]
 }
