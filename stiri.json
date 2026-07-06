@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-05T17:57:33.175691+00:00",
-  "updated_at_afisaj": "5 iulie 2026, 20:57",
+  "updated_at": "2026-07-06T11:39:05.897494+00:00",
+  "updated_at_afisaj": "6 iulie 2026, 14:39",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,57 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 119,
+  "numar_stiri": 120,
   "stiri": [
+    {
+      "id": "a52b14ff65b6",
+      "titlu": "Anglia avansează în sferturile Cupei Mondiale după o victorie dramatică împotriva Mexicului",
+      "rezumat": "Anglia s-a calificat în sferturile de finală ale Cupei Mondiale, învingând Mexicul cu 3-2 într-un meci palpitant, desfășurat pe Estadio Azteca. Jude Bellingham a marcat de două ori, iar Harry Kane a transformat un penalty, asigurând victoria echipei engleze, chiar și după ce au rămas în zece oameni. Această performanță curajoasă le-a asigurat englezilor un loc în faza următoare a competiției, unde vor întâlni Norvegia.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "The Guardian Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-06T11:39:05.892536+00:00",
+      "data_afisaj": "6 iulie 2026, 14:39"
+    },
+    {
+      "id": "bb987a3736cd",
+      "titlu": "Norvegia se califică în sferturile Cupei Mondiale, eliminând Brazilia prin dubla lui Haaland",
+      "rezumat": "Norvegia a avansat în sferturile de finală ale Cupei Mondiale pentru prima dată în istorie, învingând Brazilia cu scorul de 2-1. Erling Haaland a fost eroul meciului, marcând ambele goluri ale Norvegiei pe stadionul New York New Jersey. Această victorie surprinzătoare a dus la eliminarea Braziliei din competiție, marcând o dezamăgire majoră pentru naționala sud-americană și o performanță istorică pentru echipa scandinavă, care continuă parcursul la turneu.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-06T11:39:05.894291+00:00",
+      "data_afisaj": "6 iulie 2026, 14:39"
+    },
+    {
+      "id": "3b12864fe8f1",
+      "titlu": "Jordan Henderson se accidentează la încheietură în timpul sărbătorii victoriei Angliei",
+      "rezumat": "Mijlocașul englez Jordan Henderson a suferit o accidentare \"foarte gravă\" la încheietură în timp ce sărbătorea victoria echipei sale la Cupa Mondială împotriva Mexicului. Antrenorul principal Thomas Tuchel a confirmat incidentul. Această veste vine ca o lovitură pentru Anglia, care se pregătește pentru sferturile de finală, iar starea lui Henderson va fi monitorizată îndeaproape, punând sub semnul întrebării disponibilitatea sa pentru meciurile viitoare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-07-06T11:39:05.895903+00:00",
+      "data_afisaj": "6 iulie 2026, 14:39"
+    },
+    {
+      "id": "a504a2745e14",
+      "titlu": "Tottenham realizează transferul record al lui Sandro Tonali de la Newcastle",
+      "rezumat": "Tottenham Hotspur a finalizat transferul mijlocașului Sandro Tonali de la Newcastle United pentru o sumă record a clubului, care ar putea ajunge la 100 de milioane de lire sterline. Această mutare reprezintă o investiție semnificativă pentru Spurs, care își propune să-și întărească lotul în vederea sezonului viitor. Tonali, un jucător cheie pentru Newcastle, va aduce experiență și calitate la mijlocul terenului pentru echipa londoneză, marcând o achiziție importantă pe piața transferurilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-06T11:39:05.897472+00:00",
+      "data_afisaj": "6 iulie 2026, 14:39"
+    },
     {
       "id": "28298d0b15ff",
       "titlu": "FIFA suspendă interdicția lui Folarin Balogun, atacantul SUA, înainte de meciul cu Belgia",
@@ -1368,39 +1417,6 @@
       ],
       "data_publicare": "2026-06-29T12:01:22.229610+00:00",
       "data_afisaj": "29 iunie 2026, 15:01"
-    },
-    {
-      "id": "97288680752c",
-      "titlu": "Maroc și Țările de Jos se întâlnesc în optimile Cupei Mondiale, într-un meci cu o poveste specială",
-      "rezumat": "La 32 de ani de la prima lor confruntare oficială, Maroc și Țările de Jos se pregătesc pentru un meci spectaculos în optimile Cupei Mondiale. Articolul subliniază legăturile istorice și culturale dintre cele două națiuni, având în vedere migrația marocanilor către Țările de Jos începând cu anii 1960. Această întâlnire, programată la Monterrey, este descrisă ca având intensitatea unui \"derby\", adăugând o dimensiune emoțională și simbolică duelului din faza eliminatorie.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-28T18:00:47.594525+00:00",
-      "data_afisaj": "28 iunie 2026, 21:00"
-    },
-    {
-      "id": "cffb3345ac1c",
-      "titlu": "Germania, prinsă între trecut și viitor, cu o echipă într-o criză de identitate",
-      "rezumat": "După înfrângerea cu Ecuador în ultimul meci din grupă, deși calificată, naționala Germaniei se confruntă cu o criză de identitate, conform analizei lui Jonathan Liew. Antrenorul Julian Nagelsmann a respins ideea că echipa nu ar fi luptat suficient, dar dezbaterea internă este dominată de fantomele succesului din 2014 și de influența lui Jürgen Klopp. Articolul explorează modul în care echipa este blocată între două ere, căutând o direcție clară pentru viitorul său fotbalistic.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-28T18:00:47.596363+00:00",
-      "data_afisaj": "28 iunie 2026, 21:00"
-    },
-    {
-      "id": "e87390ecacd2",
-      "titlu": "Fereastra de transferuri de vară 2026: Toate mutările din cele cinci mari ligi europene",
-      "rezumat": "O prezentare cuprinzătoare a tuturor transferurilor efectuate în Premier League, La Liga, Bundesliga, Ligue 1 și Serie A în timpul ferestrei de transferuri de vară din 2026. Articolul oferă un ghid detaliat, club cu club, al achizițiilor și plecărilor de jucători, oferind o imagine de ansamblu asupra mișcărilor de pe piața fotbalistică europeană. Această resursă este esențială pentru a urmări evoluția loturilor echipelor de top și strategiile lor de consolidare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-28T18:00:47.598179+00:00",
-      "data_afisaj": "28 iunie 2026, 21:00"
     }
   ]
 }
