@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-06T11:39:05.897494+00:00",
-  "updated_at_afisaj": "6 iulie 2026, 14:39",
+  "updated_at": "2026-07-06T12:04:14.038486+00:00",
+  "updated_at_afisaj": "6 iulie 2026, 15:04",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,43 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 120,
+  "numar_stiri": 118,
   "stiri": [
+    {
+      "id": "44f67ab71af0",
+      "titlu": "Cristiano Ronaldo anunță că actuala Cupă Mondială va fi ultima din cariera sa",
+      "rezumat": "Starul portughez Cristiano Ronaldo a confirmat că ediția din 2026 a Cupei Mondiale va fi ultima la care va participa în calitate de jucător. La 41 de ani, Ronaldo a declarat că este împăcat cu această decizie, exprimându-și speranța ca meciul cu Spania din optimi să nu fie și ultimul său la nivel internațional. Această declarație marchează un moment important în cariera legendarului atacant, care a participat la șase ediții ale Cupei Mondiale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-06T12:04:14.034589+00:00",
+      "data_afisaj": "6 iulie 2026, 15:04"
+    },
+    {
+      "id": "5cfd2352e80d",
+      "titlu": "Spania, la un pas de un record defensiv la Cupa Mondială 2026",
+      "rezumat": "Naționala Spaniei nu a primit încă niciun gol la Cupa Mondială 2026, fiind aproape de a stabili un nou record în istoria turneului. BBC Sport analizează cifrele impresionante din spatele acestei performanțe defensive remarcabile. Echipa spaniolă demonstrează o soliditate extraordinară în faza defensivă, consolidându-și poziția de pretendentă serioasă la titlu prin jocul său compact și organizat. Această performanță subliniază disciplina tactică și calitatea individuală a apărătorilor spanioli.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-06T12:04:14.036787+00:00",
+      "data_afisaj": "6 iulie 2026, 15:04"
+    },
+    {
+      "id": "91fd3fb02d6e",
+      "titlu": "Newcastle United își ajustează strategia de transferuri după plecarea lui Sandro Tonali",
+      "rezumat": "Vânzarea lui Sandro Tonali către Tottenham pentru o sumă de 100 de milioane de lire sterline, deși nu era inițial în plan, a determinat Newcastle United să-și reevalueze strategia de transferuri. Clubul acceptă că această sumă este esențială pentru a finanța o vară de achiziții menite să transforme echipa. Conducerea speră să folosească fondurile pentru a aduce jucători cheie și a consolida lotul, vizând obiective ambițioase pentru sezonul următor în Premier League.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-06T12:04:14.038467+00:00",
+      "data_afisaj": "6 iulie 2026, 15:04"
+    },
     {
       "id": "a52b14ff65b6",
       "titlu": "Anglia avansează în sferturile Cupei Mondiale după o victorie dramatică împotriva Mexicului",
@@ -1361,62 +1396,6 @@
       ],
       "data_publicare": "2026-06-29T12:31:51.246215+00:00",
       "data_afisaj": "29 iunie 2026, 15:31"
-    },
-    {
-      "id": "74680cecc212",
-      "titlu": "Cupa Mondială 2026: Clarke spune că este „momentul potrivit să se retragă” din funcția de la Scoția, plus pregătirea meciului Brazilia v Japonia – live",
-      "rezumat": "Canada ajunge în optimi cu o victorie împotriva Africii de Sud. Duo-ul dinamic al Angliei are nevoie ca alții să intervină. Trimite-ne un e-mail | Bracketology | Cupa Mondială Zilnic Să ne îndreptăm atenția către Germania. Conținut de Jonathan Liew în curând. Brazilia v Japonia (ora 13:00 EST, 18:00 BST) Germania v Paraguay: (ora 16:30 EST, 21:30 BST) Olanda v Maroc (ora 21:00 EST, 2:00 marți BST) Continuă să citești...",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-29T12:01:22.223826+00:00",
-      "data_afisaj": "29 iunie 2026, 15:01"
-    },
-    {
-      "id": "185f8f0db88a",
-      "titlu": "Cum Tuchel încă mai caută soluții pe flancuri - Shearer",
-      "rezumat": "Fostul căpitan al Angliei, Alan Shearer, explică de ce există multe motive de optimism în privința Angliei până acum la această Cupă Mondială, dar a avea o echipă stabilă nu este unul dintre ele.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-29T12:01:22.225312+00:00",
-      "data_afisaj": "29 iunie 2026, 15:01"
-    },
-    {
-      "id": "d393a24ea53a",
-      "titlu": "Cum prinde contur noua Brazilie și de ce Cunha este esențial",
-      "rezumat": "Fostul mijlocaș brazilian Lucas Leiva explică de ce atacantul lui Manchester United, Matheus Cunha, este atât de important pentru sistemul adaptabil al Braziliei sub Carlo Ancelotti.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-29T12:01:22.226724+00:00",
-      "data_afisaj": "29 iunie 2026, 15:01"
-    },
-    {
-      "id": "a593530cf191",
-      "titlu": "De ce „fratele mai mare” Van Dijk este cheia visurilor Olandei la Cupa Mondială",
-      "rezumat": "Câștigătorul Cupei Mondiale cu Franța, Olivier Giroud, explică de ce fundașul olandez Virgil van Dijk este în continuare omul principal pentru echipa sa națională.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-29T12:01:22.228175+00:00",
-      "data_afisaj": "29 iunie 2026, 15:01"
-    },
-    {
-      "id": "6ac1264e3507",
-      "titlu": "Clarke spune că retragerea a fost o decizie „ușoară” după eliminarea de la Cupa Mondială",
-      "rezumat": "Steve Clarke spune că a fost o decizie ușoară să se retragă din funcția de antrenor principal al Scoției, deoarece a planificat întotdeauna să plece dacă nu se calificau în fazele eliminatorii.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-29T12:01:22.229610+00:00",
-      "data_afisaj": "29 iunie 2026, 15:01"
     }
   ]
 }
