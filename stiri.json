@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-06T12:04:14.038486+00:00",
-  "updated_at_afisaj": "6 iulie 2026, 15:04",
+  "updated_at": "2026-07-06T18:13:26.873167+00:00",
+  "updated_at_afisaj": "6 iulie 2026, 21:13",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,45 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 118,
+  "numar_stiri": 112,
   "stiri": [
+    {
+      "id": "e88ed0487cef",
+      "titlu": "Intervenție politică pentru ora de start a meciului Mexic-Anglia",
+      "rezumat": "O controversă a apărut în jurul orei de start a meciului dintre Mexic și Anglia la Cupa Mondială, determinând o intervenție politică. FIFA intenționa să devanseze partida cu șase ore din cauza prognozei de furtuni. Această decizie a stârnit discuții și a necesitat implicarea unor oficiali pentru a gestiona situația, subliniind complexitatea organizării evenimentelor sportive majore în condiții meteorologice imprevizibile și presiunile externe. Detaliile exacte ale intervenției nu au fost pe deplin clarificate.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-06T18:13:26.869330+00:00",
+      "data_afisaj": "6 iulie 2026, 21:13"
+    },
+    {
+      "id": "ca227089b2ce",
+      "titlu": "Fanii Angliei au sacrificat somnul pentru victoria dramatică împotriva Mexicului",
+      "rezumat": "Victoria dramatică a Angliei împotriva Mexicului la Cupa Mondială a ținut milioane de fani în priză, mulți dintre ei sacrificându-și orele de somn pentru a urmări partida. Un suporter prezent pe stadionul Azteca din Mexico City a descris experiența ca fiind o \"noapte extraordinară\", în care \"s-au născut legende\". Entuziasmul și dedicarea fanilor subliniază impactul emoțional al Cupei Mondiale și modul în care evenimentele sportive pot transcende fusurile orare și rutina zilnică, creând momente memorabile.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-06T18:13:26.871054+00:00",
+      "data_afisaj": "6 iulie 2026, 21:13"
+    },
+    {
+      "id": "913c28694ae1",
+      "titlu": "UEFA critică vehement decizia FIFA privind suspendarea interdicției lui Folarin Balogun",
+      "rezumat": "UEFA a emis o declarație puternică, acuzând FIFA că a \"depășit o linie roșie\" prin decizia \"incomprehensibilă și nejustificabilă\" de a suspenda interdicția atacantului american Folarin Balogun. Această mișcare dramatică a organismului european de conducere ar putea avea implicații majore pentru viitorul fotbalului, indicând o tensiune crescândă între cele două foruri. Președintele UEFA, Aleksander Ceferin, a criticat public decizia, subliniind dezacordul profund față de modul în care FIFA a gestionat cazul.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "FourFourTwo",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-06T18:13:26.872563+00:00",
+      "data_afisaj": "6 iulie 2026, 21:13"
+    },
     {
       "id": "44f67ab71af0",
       "titlu": "Cristiano Ronaldo anunță că actuala Cupă Mondială va fi ultima din cariera sa",
@@ -1295,107 +1332,6 @@
       ],
       "data_publicare": "2026-06-29T18:59:33.936379+00:00",
       "data_afisaj": "29 iunie 2026, 21:59"
-    },
-    {
-      "id": "d7d7cb09ece4",
-      "titlu": "Sam Kerr se alătură echipei Gotham FC din NWSL",
-      "rezumat": "Internaționala australiană Sam Kerr a semnat un contract pe patru ani cu Gotham FC, o echipă din Liga Națională de Fotbal Feminin (NWSL) din Statele Unite. Mutarea vine după plecarea sa de la Chelsea, unde a avut o carieră de succes. Acest transfer reprezintă o achiziție importantă pentru Gotham FC și marchează o nouă etapă în cariera atacantei, aducând o experiență valoroasă în campionatul american.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-29T18:11:16.093282+00:00",
-      "data_afisaj": "29 iunie 2026, 21:11"
-    },
-    {
-      "id": "89dc1da06904",
-      "titlu": "Harry Kane, aproape de un nou contract cu Bayern Munchen, în ciuda interesului Barcelonei",
-      "rezumat": "Căpitanul Angliei, Harry Kane, este pe cale să semneze o prelungire a contractului cu Bayern Munchen, consolidându-și astfel prezența la clubul german. Această decizie vine în ciuda speculațiilor privind un posibil interes din partea Barcelonei. Se pare că atacantul preferă să-și continue parcursul la Bayern, unde a devenit un jucător cheie de la sosirea sa, contribuind semnificativ la performanțele echipei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-06-29T18:11:16.094980+00:00",
-      "data_afisaj": "29 iunie 2026, 21:11"
-    },
-    {
-      "id": "0749475b13bc",
-      "titlu": "Enzo Maresca, noul antrenor al lui Manchester City: Ce pot aștepta fanii de la succesorul lui Guardiola",
-      "rezumat": "Manchester City l-a numit pe Enzo Maresca în funcția de antrenor principal, succedându-i lui Pep Guardiola. Fanii clubului sunt curioși să afle ce schimbări și ce stil de joc va aduce italianul, care a mai făcut parte din staff-ul tehnic al lui Guardiola. Alegerea lui Maresca indică o continuitate a filosofiei clubului, dar și o dorință de a aduce o perspectivă nouă la cârma echipei campioane, având în vedere experiența sa anterioară.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-29T18:11:16.096780+00:00",
-      "data_afisaj": "29 iunie 2026, 21:11"
-    },
-    {
-      "id": "00b98e7a087b",
-      "titlu": "Transfer rapid pentru Ștefan Târnovanu: Portarul a ajuns la un acord cu FCSB",
-      "rezumat": "Portarul Ștefan Târnovanu este aproape de un transfer la FCSB, conform ultimelor informații din piața de mercato. Se pare că jucătorul a ajuns la un acord cu clubul bucureștean, mutare ce ar putea fi oficializată în scurt timp. Această tranzacție reprezintă o mișcare importantă pentru FCSB, care își consolidează astfel lotul cu un portar considerat de perspectivă în fotbalul românesc, aducând stabilitate și concurență pe postul de portar.",
-      "categorie": "Fotbal",
-      "surse": [
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-06-29T18:11:16.098639+00:00",
-      "data_afisaj": "29 iunie 2026, 21:11"
-    },
-    {
-      "id": "ad62d96450c5",
-      "titlu": "De ce Olanda - Maroc este mai mult decât un simplu meci",
-      "rezumat": "Întâlnirea Marocului cu Olanda la Cupa Mondială spune o poveste despre migrație, identitate și lupta pentru talentele născute în Olanda.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-29T12:31:51.239991+00:00",
-      "data_afisaj": "29 iunie 2026, 15:31"
-    },
-    {
-      "id": "2d3662b4f9a0",
-      "titlu": "Dați-vă la o parte Messi și Ronaldo - noua generație strălucește la Cupa Mondială",
-      "rezumat": "BBC Sport analizează cinci tineri jucători care fac o impresie puternică pe aceeași scenă a Cupei Mondiale ca și veteranii Lionel Messi și Cristiano Ronaldo.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-29T12:31:51.241596+00:00",
-      "data_afisaj": "29 iunie 2026, 15:31"
-    },
-    {
-      "id": "09ce80b204c9",
-      "titlu": "Ar putea un val de căldură să facă meciurile de la Cupa Mondială 'nesigure' săptămâna aceasta?",
-      "rezumat": "Temperaturile sunt așteptate să crească vertiginos în anumite părți ale SUA și Canadei săptămâna aceasta, ceea ce ar putea avea un impact semnificativ asupra sănătății la unele meciuri de la Cupa Mondială.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-29T12:31:51.243087+00:00",
-      "data_afisaj": "29 iunie 2026, 15:31"
-    },
-    {
-      "id": "10edb9367a8f",
-      "titlu": "'Fratele mai mare' Van Dijk, cheia visurilor olandeze la Cupa Mondială",
-      "rezumat": "Câștigătorul Cupei Mondiale cu Franța, Olivier Giroud, explică de ce fundașul olandez Virgil van Dijk este în continuare omul cheie pentru echipa sa națională.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-29T12:31:51.244543+00:00",
-      "data_afisaj": "29 iunie 2026, 15:31"
-    },
-    {
-      "id": "38413d8cc2f9",
-      "titlu": "Demiteri, amenințări cu moartea și furie – eliminarea de la Cupa Mondială lasă fotbalul sud-coreean în criză",
-      "rezumat": "După eliminarea de la Cupa Mondială, BBC Sport investighează ascensiunea și declinul fotbalului sud-coreean.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-29T12:31:51.246215+00:00",
-      "data_afisaj": "29 iunie 2026, 15:31"
     }
   ]
 }
