@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-07T18:03:17.669066+00:00",
-  "updated_at_afisaj": "7 iulie 2026, 21:03",
+  "updated_at": "2026-07-07T18:57:00.205434+00:00",
+  "updated_at_afisaj": "7 iulie 2026, 21:57",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,52 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 110,
+  "numar_stiri": 109,
   "stiri": [
+    {
+      "id": "08519a12c2a3",
+      "titlu": "Argentina realizează o revenire spectaculoasă și învinge Egiptul la Cupa Mondială",
+      "rezumat": "Naționala Argentinei a reușit o revenire incredibilă în optimile de finală ale Cupei Mondiale 2026, învingând Egiptul cu scorul de 3-2. Echipa sud-americană s-a văzut condusă cu două goluri, dar a luptat până în ultimele minute, marcând golul victoriei în prelungiri. Această performanță dramatică menține vii speranțele Argentinei de a-și continua drumul în competiție, într-un meci considerat deja un clasic al turneului. Victoria a fost obținută după un efort colectiv remarcabil.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-07T18:57:00.201332+00:00",
+      "data_afisaj": "7 iulie 2026, 21:57"
+    },
+    {
+      "id": "17033be8a075",
+      "titlu": "Ruptură de ligament încrucișat pentru Onana de la Aston Villa",
+      "rezumat": "Aston Villa a confirmat că jucătorul său, Onana, a suferit o ruptură de ligament încrucișat anterior (ACL). Această veste reprezintă o lovitură semnificativă pentru club și pentru jucător, care va fi nevoit să stea departe de teren pentru o perioadă îndelungată. Accidentarea necesită, de obicei, o intervenție chirurgicală și o recuperare extinsă, punând sub semnul întrebării disponibilitatea sa pentru o mare parte din sezonul viitor. Clubul nu a oferit detalii suplimentare despre durata exactă a absenței.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-07T18:57:00.202697+00:00",
+      "data_afisaj": "7 iulie 2026, 21:57"
+    },
+    {
+      "id": "63cdf875b160",
+      "titlu": "Președintele La Liga critică „tăcerea complice” din jurul FIFA",
+      "rezumat": "Javier Tebas, președintele La Liga, a criticat vehement „tăcerea complice” care, în opinia sa, înconjoară FIFA. Declarațiile vin în contextul controverselor recente legate de cazul Folarin Balogun. Tebas a subliniat necesitatea unei transparențe sporite și a unei responsabilități mai mari din partea organismului de conducere al fotbalului mondial. Criticile sale aduc în discuție modul în care FIFA gestionează anumite situații delicate, sugerând că lipsa de reacție publică afectează integritatea sportului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-07T18:57:00.204085+00:00",
+      "data_afisaj": "7 iulie 2026, 21:57"
+    },
+    {
+      "id": "355d5e23fd49",
+      "titlu": "Cristiano Ronaldo, aproape de borna istorică de 1000 de goluri",
+      "rezumat": "Cristiano Ronaldo se apropie de o performanță istorică în cariera sa, fiind la un pas de a atinge pragul de 1000 de goluri marcate. Atacantul portughez continuă să își demonstreze abilitățile de marcator, iar fanii fotbalului din întreaga lume anticipează momentul în care va reuși această bornă impresionantă. Deși nu există o dată exactă, fiecare meci este o ocazie pentru Ronaldo de a se apropia de acest record, consolidându-și statutul de legendă a sportului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-07-07T18:57:00.205418+00:00",
+      "data_afisaj": "7 iulie 2026, 21:57"
+    },
     {
       "id": "ef287fd70105",
       "titlu": "Arsenal aproape să semneze cu Meslier, portarul lui Leeds, ca transfer gratuit",
@@ -1245,66 +1289,6 @@
       ],
       "data_publicare": "2026-07-01T10:44:40.421541+00:00",
       "data_afisaj": "1 iulie 2026, 13:44"
-    },
-    {
-      "id": "8d621a869634",
-      "titlu": "Spurs au convenit un acord de 85 de milioane de lire sterline pentru Fernandes de la West Ham",
-      "rezumat": "Tottenham a convenit să-l semneze pe Mateus Fernandes de la West Ham, în timp ce Manchester United se retrage din cursa pentru mijlocaș.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-30T18:52:33.524688+00:00",
-      "data_afisaj": "30 iunie 2026, 21:52"
-    },
-    {
-      "id": "fcd8ee3c6ff6",
-      "titlu": "Seful de la Coventry, Lampard, semneaza un nou contract pana in 2029",
-      "rezumat": "Antrenorul lui Coventry City, Frank Lampard, semnează un nou contract până în 2029, înainte de prima campanie a clubului în Premier League în 25 de ani.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-06-30T18:52:33.526091+00:00",
-      "data_afisaj": "30 iunie 2026, 21:52"
-    },
-    {
-      "id": "2e1a067aee6b",
-      "titlu": "CINE ALTUL? Haaland lovește târziu pentru Norvegia vs Coasta de Fildeș LIVE!",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-06-30T18:52:33.527553+00:00",
-      "data_afisaj": "30 iunie 2026, 21:52"
-    },
-    {
-      "id": "86ae074ad9a7",
-      "titlu": "Côte d’Ivoire v Norvegia: Cupa Mondială 2026, finalul 32 – în direct",
-      "rezumat": "⚽️ Ora începerii: 12:00 local/13:00 EDT/18:00 BST/3:00 AEST ⚽️ Ghidul jucătorului | Bracketologie | Cizma de Aur | Trimiteți-i lui Scott bagajele poștale înainte de meci. \"Acesta este un joc interesant. Coasta de Fildeș este o echipă care, când m-am uitat la echipa înainte de turneu, am fost surprins de numărul de jucători buni pe care îi au și s-au descurcat bine până acum învingând Ecuadorul și aproape ținând Germania (deși ieri ar putea pune acel rezultat în perspectivă). Norvegia este favorită, dar trebuie să mă gândesc la restul de atâtea p",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-30T18:52:33.529127+00:00",
-      "data_afisaj": "30 iunie 2026, 21:52"
-    },
-    {
-      "id": "2a0412638087",
-      "titlu": "Superstarele Franței prospere datorită schimbărilor îndrăznețe ale lui Deschamps",
-      "rezumat": "De ce schimbările lui Didier Deschamps la personal și formație ar putea propulsa Franța, vicecampiona din 2022, să meargă mai bine la această Cupă Mondială.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-30T18:52:33.530510+00:00",
-      "data_afisaj": "30 iunie 2026, 21:52"
     }
   ]
 }
