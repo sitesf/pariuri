@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-07T10:27:53.503339+00:00",
-  "updated_at_afisaj": "7 iulie 2026, 13:27",
+  "updated_at": "2026-07-07T10:54:21.839493+00:00",
+  "updated_at_afisaj": "7 iulie 2026, 13:54",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,52 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 116,
+  "numar_stiri": 115,
   "stiri": [
+    {
+      "id": "68339cdaaed1",
+      "titlu": "Kylian Mbappé o critică dur pe o senatoare paraguayană după un atac rasist",
+      "rezumat": "Kylian Mbappé, starul echipei Franței, a reacționat vehement la un atac rasist lansat de o senatoare paraguayană, descriind-o drept o \"femeie detestabilă\". Senatoarea Celeste Amarilla a publicat o tiradă pe X, numindu-l pe Mbappé un \"camerunez colonizat\", după ce acesta a marcat un penalty decisiv în victoria Franței împotriva Paraguayului. Federația Franceză de Fotbal va depune plângere penală.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-07T10:54:21.834965+00:00",
+      "data_afisaj": "7 iulie 2026, 13:54"
+    },
+    {
+      "id": "7a586463f315",
+      "titlu": "Sumele premiilor pentru fiecare echipă la Cupa Mondială 2026 au fost dezvăluite",
+      "rezumat": "FIFA a făcut publice sumele oficiale ale premiilor în bani pe care le va primi fiecare echipă participantă la Cupa Mondială 2026. Detaliile financiare oferă o perspectivă asupra mizelor economice ale competiției, pe lângă prestigiul sportiv. Aceste informații sunt relevante pentru federațiile naționale și cluburile care își trimit jucătorii la turneul final.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-07-07T10:54:21.836519+00:00",
+      "data_afisaj": "7 iulie 2026, 13:54"
+    },
+    {
+      "id": "3b35943e65bb",
+      "titlu": "Jucător de fotbal zimbabwean a supraviețuit unui atac armat în Africa de Sud",
+      "rezumat": "O vedetă a fotbalului din Zimbabwe a supraviețuit unui atac armat în Africa de Sud. Poliția sud-africană a confirmat că investighează un caz de tentativă de omor, însă până în prezent nu au fost efectuate arestări. Incidentul a avut loc recent, iar detaliile complete ale atacului nu au fost încă făcute publice.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-07T10:54:21.838063+00:00",
+      "data_afisaj": "7 iulie 2026, 13:54"
+    },
+    {
+      "id": "fe529478f1d7",
+      "titlu": "Liam Rosenior, fost antrenor la Chelsea, numit manager la Paris FC",
+      "rezumat": "Liam Rosenior a revenit în fotbalul de management, fiind numit antrenor al clubului Paris FC din Ligue 1. Această numire vine după ce Rosenior a fost demis de la Chelsea în luna aprilie. El preia conducerea echipei franceze, marcând o nouă etapă în cariera sa de antrenor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-07T10:54:21.839474+00:00",
+      "data_afisaj": "7 iulie 2026, 13:54"
+    },
     {
       "id": "a70dc92ac602",
       "titlu": "Newcastle United aproape de transferul lui Sean Steur de la Ajax",
@@ -1320,70 +1364,6 @@
       ],
       "data_publicare": "2026-06-30T10:56:23.304074+00:00",
       "data_afisaj": "30 iunie 2026, 13:56"
-    },
-    {
-      "id": "546a5f552562",
-      "titlu": "Maroc elimină Olanda la penalty-uri și avansează în optimi la Cupa Mondială 2026",
-      "rezumat": "Naționala Marocului a reușit o performanță remarcabilă, învingând Olanda la loviturile de departajare în optimile de finală ale Cupei Mondiale 2026. După un meci echilibrat, scorul a rămas egal, iar soarta calificării s-a decis la penalty-uri. Olanda a ratat trei execuții de la punctul cu var, permițând Marocului să se impună și să obțină o calificare istorică în sferturile de finală ale competiției. Victoria a fost sărbătorită cu entuziasm de fanii marocani.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-06-30T10:33:23.901364+00:00",
-      "data_afisaj": "30 iunie 2026, 13:33"
-    },
-    {
-      "id": "ec1bc96d2ba4",
-      "titlu": "Germania, eliminată șocant de Paraguay la penalty-uri, părăsește Cupa Mondială",
-      "rezumat": "De patru ori campioană mondială, Germania a fost eliminată surprinzător de Paraguay în faza optimilor de finală ale Cupei Mondiale 2026. Meciul s-a încheiat la egalitate, 1-1, după prelungiri, iar Paraguay s-a impus cu 4-3 la loviturile de departajare. Aceasta este prima dată în istoria Cupei Mondiale când Germania pierde o serie de penalty-uri, un rezultat care a stârnit consternare în rândul fanilor și a presei germane.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football",
-        "BBC Sport Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-06-30T10:33:23.903092+00:00",
-      "data_afisaj": "30 iunie 2026, 13:33"
-    },
-    {
-      "id": "2a31a1156d63",
-      "titlu": "Presiune crescută pe Nagelsmann după eliminarea Germaniei; Klopp neagă preluarea naționalei",
-      "rezumat": "Eliminarea șocantă a Germaniei de la Cupa Mondială 2026, după înfrângerea la penalty-uri în fața Paraguayului, a intensificat presiunea asupra selecționerului Julian Nagelsmann. În timp ce viitorul său este incert, Nagelsmann a declarat că nu intenționează să demisioneze. Pe fondul speculațiilor, Jurgen Klopp a ținut să infirme zvonurile care îl legau de preluarea băncii tehnice a naționalei germane, subliniind că nu există discuții în acest sens.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-30T10:33:23.904810+00:00",
-      "data_afisaj": "30 iunie 2026, 13:33"
-    },
-    {
-      "id": "1fc7141292fa",
-      "titlu": "Cody Gakpo marchează emoționant pentru Olanda, la câteva zile după o tragedie personală",
-      "rezumat": "Atacantul lui Liverpool, Cody Gakpo, a marcat un gol pentru Olanda în meciul cu Maroc de la Cupa Mondială, la doar câteva zile după ce a suferit o pierdere personală tragică, pierzându-și copilul nenăscut. Gestul său emoționant a venit într-un moment dificil, iar celebrarea sa reținută a reflectat durerea prin care trece. În ciuda efortului său, Olanda a fost eliminată din competiție la loviturile de departajare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-06-30T10:33:23.906559+00:00",
-      "data_afisaj": "30 iunie 2026, 13:33"
-    },
-    {
-      "id": "0967d999518d",
-      "titlu": "RD Congo: Fotbalul, o sursă rară de unitate națională la Cupa Mondială 2026",
-      "rezumat": "Naționala Republicii Democrate Congo a reușit o calificare istorică în optimile de finală ale Cupei Mondiale 2026, o performanță care a transformat echipa într-un simbol al unității naționale. După 52 de ani de absență de la turneul final, succesul echipei a adus bucurie și mândrie în rândul fanilor, care au sărbătorit intens. Parcursul impresionant al \"Leoparzilor\" a depășit așteptările, demonstrând că fotbalul poate fi un catalizator puternic pentru coeziunea socială într-o țară marcată de provocări.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-06-30T10:33:23.908257+00:00",
-      "data_afisaj": "30 iunie 2026, 13:33"
     }
   ]
 }
