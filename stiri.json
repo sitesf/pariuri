@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-06T18:54:02.481856+00:00",
-  "updated_at_afisaj": "6 iulie 2026, 21:54",
+  "updated_at": "2026-07-07T10:27:53.503339+00:00",
+  "updated_at_afisaj": "7 iulie 2026, 13:27",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,57 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 117,
+  "numar_stiri": 116,
   "stiri": [
+    {
+      "id": "a70dc92ac602",
+      "titlu": "Newcastle United aproape de transferul lui Sean Steur de la Ajax",
+      "rezumat": "Newcastle United este aproape de a finaliza transferul mijlocașului de 18 ani Sean Steur de la Ajax. Clubul englez a ajuns la un acord pentru o sumă de aproximativ 23 de milioane de lire sterline pentru tânărul talent olandez. Această mutare continuă strategia lui Eddie Howe de a adăuga jucători tineri și promițători în lotul echipei, consolidând viitorul clubului pe termen lung.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-07-07T10:27:53.498469+00:00",
+      "data_afisaj": "7 iulie 2026, 13:27"
+    },
+    {
+      "id": "b0148feda70d",
+      "titlu": "SUA eliminată de Belgia de la Cupa Mondială, pe fondul controversei Balogun",
+      "rezumat": "Naționala Statelor Unite ale Americii a fost eliminată de la Cupa Mondială 2026 după o înfrângere cu 4-1 în fața Belgiei în optimile de finală. Meciul a fost marcat de controversa legată de suspendarea întârziată a atacantului Folarin Balogun, decizie FIFA care a stârnit reacții puternice. Deși Balogun a putut juca, echipa SUA a avut o prestație defensivă slabă, punând capăt visului de Cupă Mondială al co-gazdelor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-07-07T10:27:53.500029+00:00",
+      "data_afisaj": "7 iulie 2026, 13:27"
+    },
+    {
+      "id": "702978d6a536",
+      "titlu": "Messi și Salah se întâlnesc în optimile Cupei Mondiale: Argentina vs Egipt",
+      "rezumat": "Lionel Messi și Mohamed Salah se vor confrunta marți în optimile de finală ale Cupei Mondiale 2026, într-un meci așteptat cu mare interes între Argentina și Egipt. Speranțele națiunilor lor se bazează în mare măsură pe umerii celor doi fotbaliști emblematici. Aceasta va fi prima întâlnire internațională între cele două legende moderne ale fotbalului, promițând un spectacol fotbalistic de excepție.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-07T10:27:53.501562+00:00",
+      "data_afisaj": "7 iulie 2026, 13:27"
+    },
+    {
+      "id": "5183b892b6f0",
+      "titlu": "Jucătorii Belgiei ironizează decizia FIFA și pe Donald Trump după eliminarea SUA",
+      "rezumat": "Jucătorii naționalei Belgiei au ironizat public decizia FIFA de a permite atacantului american Folarin Balogun să joace împotriva lor, precum și pe fostul președinte american Donald Trump. Aceștia au declarat că intervenția politică și controversa din jurul lui Balogun i-a motivat suplimentar în meciul din optimile de finală, pe care l-au câștigat cu 4-1 împotriva Statelor Unite.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-07T10:27:53.503188+00:00",
+      "data_afisaj": "7 iulie 2026, 13:27"
+    },
     {
       "id": "fa8a916548f6",
       "titlu": "Portugalia - Spania: optimile de finală ale Cupei Mondiale 2026 – în direct",
@@ -1335,64 +1384,6 @@
       ],
       "data_publicare": "2026-06-30T10:33:23.908257+00:00",
       "data_afisaj": "30 iunie 2026, 13:33"
-    },
-    {
-      "id": "e26cacd4083c",
-      "titlu": "Brazilia vs Japonia: Cupa Mondială 2026 ultimele 32 – live",
-      "rezumat": "⚽ Ora de start: 12pm locală/1pm EDT/6pm BST/3am AET ⚽ Analiza grupelor | Ghidul jucătorilor | Gheata de Aur | Trimite e-mail lui Tim „Consens,” exclamă Richard Hirst, „du-te în spatele meu! Dacă nu s-ar fi numit Brazilia, am prezice atât de ușor victoria unei echipe al cărei playmaker a petrecut cea mai mare parte a sezonului trecut nereușind să împiedice retrogradarea lui West Ham, al cărei mijlocaș defensiv are mobilitatea unui con de trafic, al cărei... ei bine, înțelegi ce vreau să spun. „Da, probabil că vor câștiga, dar dacă Japonia se va descurca bine împotriva lor, atunci...",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-06-29T18:59:33.930424+00:00",
-      "data_afisaj": "29 iunie 2026, 21:59"
-    },
-    {
-      "id": "1a3bb0ad9d4d",
-      "titlu": "Kane, probabil, va semna un nou contract cu Bayern în ciuda interesului Barcelonei",
-      "rezumat": "Căpitanul Angliei, Harry Kane, este probabil să semneze un nou contract pentru a-și prelungi șederea la Bayern München, în ciuda interesului din partea Barcelonei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-06-29T18:59:33.931940+00:00",
-      "data_afisaj": "29 iunie 2026, 21:59"
-    },
-    {
-      "id": "e29c76420b2e",
-      "titlu": "De ce Maresca? Ce pot aștepta fanii lui Man City de la succesorul lui Guardiola",
-      "rezumat": "Pep Guardiola îi predă ștafeta lui Enzo Maresca, dar de ce l-a ales Manchester City pe italian ca înlocuitor al spaniolului?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-29T18:59:33.933490+00:00",
-      "data_afisaj": "29 iunie 2026, 21:59"
-    },
-    {
-      "id": "97f93c798abc",
-      "titlu": "Cum să câștigi o lovitură de departajare la Cupa Mondială",
-      "rezumat": "Aruncăm o privire la ce se poate învăța din fiecare penalty executat vreodată într-o sesiune de lovituri de departajare la Cupa Mondială.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-29T18:59:33.934869+00:00",
-      "data_afisaj": "29 iunie 2026, 21:59"
-    },
-    {
-      "id": "e7ce58e158d1",
-      "titlu": "Realitatea dură din spatele cererilor fanilor scoțieni pentru Moyes și Postecoglou",
-      "rezumat": "Unii fani scoțieni visează ca David Moyes sau Ange Postecoglou să-l înlocuiască pe Steve Clarke, dar ar putea fi oricare dintre ei o perspectivă realistă?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-06-29T18:59:33.936379+00:00",
-      "data_afisaj": "29 iunie 2026, 21:59"
     }
   ]
 }
