@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-07T18:57:00.205434+00:00",
-  "updated_at_afisaj": "7 iulie 2026, 21:57",
+  "updated_at": "2026-07-08T09:26:48.175983+00:00",
+  "updated_at_afisaj": "8 iulie 2026, 12:26",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,52 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 109,
+  "numar_stiri": 113,
   "stiri": [
+    {
+      "id": "c81ccebea895",
+      "titlu": "Fulham îl numește pe Alvaro Arbeloa noul antrenor principal",
+      "rezumat": "Clubul englez Fulham a anunțat numirea lui Alvaro Arbeloa în funcția de antrenor principal, semnând un contract pe o perioadă de trei ani. Fostul fundaș al Real Madrid și Liverpool preia conducerea echipei după plecarea lui Marco Silva, care a semnat cu Benfica. Această mutare marchează un nou capitol pentru Fulham, care speră ca experiența și viziunea lui Arbeloa să aducă stabilitate și performanțe îmbunătățite în sezoanele următoare. Numirea a fost confirmată de BBC Sport Football, aducând un nume important din fotbalul spaniol în Premier League.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-08T09:26:48.171304+00:00",
+      "data_afisaj": "8 iulie 2026, 12:26"
+    },
+    {
+      "id": "8632128dbbea",
+      "titlu": "Viitorul lui Mauricio Pochettino la naționala SUA, incert după eliminarea de la Cupa Mondială",
+      "rezumat": "Viitorul lui Mauricio Pochettino în calitate de antrenor al echipei naționale de fotbal a Statelor Unite este incert, în urma eliminării premature a echipei de la Cupa Mondială 2026. Federația de Fotbal a SUA urmează să poarte discuții cu antrenorul argentinian pentru a evalua situația și a decide pașii următori. Deși federația l-a susținut inițial pe Pochettino, rezultatul dezamăgitor de la turneul final, găzduit chiar de SUA, a deschis discuțiile despre o posibilă schimbare la conducerea tehnică a naționalei în perspectiva viitoarelor competiții.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-08T09:26:48.172932+00:00",
+      "data_afisaj": "8 iulie 2026, 12:26"
+    },
+    {
+      "id": "aeb9508cfcdc",
+      "titlu": "Pierderile pre-fiscale ale cluburilor din Premier League au crescut cu 600%",
+      "rezumat": "Conform raportului anual Deloitte privind finanțele fotbalului, pierderile pre-fiscale cumulate ale cluburilor din Premier League au înregistrat o creștere dramatică de 600%, ajungând la 948 de milioane de lire sterline în sezonul 2024-2025, de la 135 de milioane de lire sterline în sezonul precedent. Această creștere semnificativă este atribuită în principal cheltuielilor mari pentru transferuri și lipsei unor profituri substanțiale din vânzări unice de jucători. Datoria netă a cluburilor din Premier League a crescut, de asemenea, la 3,6 miliarde de lire sterline, semnalând o presiune financiară crescută.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-08T09:26:48.174420+00:00",
+      "data_afisaj": "8 iulie 2026, 12:26"
+    },
+    {
+      "id": "646279171a65",
+      "titlu": "Patru jucători englezi riscă suspendarea la Cupa Mondială, cu excepția lui Kane",
+      "rezumat": "Patru jucători cheie ai echipei naționale a Angliei se confruntă cu riscul de a fi suspendați pentru meciurile viitoare de la Cupa Mondială 2026, din cauza acumulării de cartonașe galbene. Această situație creează o presiune suplimentară asupra selecționerului și a jucătorilor, care trebuie să gestioneze cu atenție disciplina pe teren pentru a evita pierderea unor elemente importante în fazele eliminatorii. Căpitanul Harry Kane nu se numără printre jucătorii aflați în pericol de suspendare, oferind o oarecare liniște echipei înaintea meciurilor decisive.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-08T09:26:48.175966+00:00",
+      "data_afisaj": "8 iulie 2026, 12:26"
+    },
     {
       "id": "08519a12c2a3",
       "titlu": "Argentina realizează o revenire spectaculoasă și învinge Egiptul la Cupa Mondială",
