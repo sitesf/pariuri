@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-08T10:16:34.492394+00:00",
-  "updated_at_afisaj": "8 iulie 2026, 13:16",
+  "updated_at": "2026-07-08T17:40:48.625635+00:00",
+  "updated_at_afisaj": "8 iulie 2026, 20:40",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,65 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 118,
+  "numar_stiri": 114,
   "stiri": [
+    {
+      "id": "19bb8b9e1943",
+      "titlu": "Manchester United ajunge la un acord pentru transferul lui Andrey Santos de la Chelsea",
+      "rezumat": "Manchester United a ajuns la un acord cu Chelsea pentru transferul mijlocașului brazilian Andrey Santos, într-o tranzacție evaluată la 50 de milioane de lire sterline. Această mutare marchează o achiziție importantă pentru \"Diavolii Roșii\", care își consolidează lotul cu un tânăr talent promițător. Santos, cunoscut pentru abilitățile sale tehnice și viziunea de joc, este așteptat să aducă un plus de energie și creativitate la mijlocul terenului pentru echipa de pe Old Trafford. Transferul subliniază strategia clubului de a investi în jucători cu potențial ridicat.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-08T17:40:48.619477+00:00",
+      "data_afisaj": "8 iulie 2026, 20:40"
+    },
+    {
+      "id": "18a208a30731",
+      "titlu": "London City Lionesses realizează o achiziție istorică, semnând cu Alexia Putellas",
+      "rezumat": "Clubul London City Lionesses a finalizat o achiziție de referință în fotbalul feminin, semnând-o pe Alexia Putellas, liberă de contract, după plecarea acesteia de la Barcelona. Putellas, dublă câștigătoare a Balonului de Aur, se alătură echipei pe un contract pe trei ani, mutare considerată una dintre cele mai mari surprize din istoria fotbalului feminin. Această mutare subliniază ambițiile clubului London City Lionesses de a se impune ca o forță majoră în Women's Super League și de a atrage talente de top la nivel mondial.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-08T17:40:48.621263+00:00",
+      "data_afisaj": "8 iulie 2026, 20:40"
+    },
+    {
+      "id": "eefc944badc2",
+      "titlu": "UEFA ar putea bloca revenirea Rusiei în fotbal, într-un potențial conflict cu FIFA",
+      "rezumat": "UEFA este pregătită să blocheze revenirea echipelor rusești în competițiile internaționale de fotbal, după ce Comitetul Olimpic Internațional (CIO) a ridicat provizoriu suspendarea țării din competițiile globale. FIFA a indicat că își va revizui poziția, după ce a impus o interdicție echipelor rusești în urma invaziei pe scară largă a Ucrainei în urmă cu patru ani. Această decizie a UEFA ar putea duce la un nou conflict între cele două organisme de conducere ale fotbalului mondial, pe fondul presiunilor politice și etice.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-08T17:40:48.622884+00:00",
+      "data_afisaj": "8 iulie 2026, 20:40"
+    },
+    {
+      "id": "f4165f3cc434",
+      "titlu": "Federația Portugheză de Fotbal confirmă plecarea selecționerului Roberto Martinez",
+      "rezumat": "Federația Portugheză de Fotbal (FPF) a confirmat plecarea selecționerului echipei naționale, Roberto Martinez. Decizia vine în urma eliminării Portugaliei în optimile de finală ale Cupei Mondiale, după înfrângerea în fața Spaniei. Martinez a preluat naționala Portugaliei cu așteptări mari, dar nu a reușit să ducă echipa mai departe de faza optimilor. FPF va începe acum procesul de căutare a unui nou antrenor care să preia conducerea tehnică și să pregătească echipa pentru viitoarele competiții internaționale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-08T17:40:48.624225+00:00",
+      "data_afisaj": "8 iulie 2026, 20:40"
+    },
+    {
+      "id": "be0d823ac046",
+      "titlu": "Marcus Rashford este așteptat să revină la Manchester United pentru noul sezon",
+      "rezumat": "Marcus Rashford este programat să fie reintegrat la Manchester United după încheierea Cupei Mondiale, fiind așteptat să facă parte din lotul lui Michael Carrick pentru sezonul viitor. Jucătorul, în vârstă de 28 de ani, mai are doi ani de contract și nu a mai jucat pentru United într-un meci oficial din decembrie 2024, din cauza unei rupturi în relația cu clubul. Reintegrarea sa reprezintă o șansă pentru Rashford de a-și relansa cariera la clubul de pe Old Trafford și de a contribui la obiectivele echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-08T17:40:48.625616+00:00",
+      "data_afisaj": "8 iulie 2026, 20:40"
+    },
     {
       "id": "5f858eb7bc69",
       "titlu": "Elveția învinge Columbia la penalty-uri și se califică în sferturile de finală",
@@ -1284,111 +1341,6 @@
       ],
       "data_publicare": "2026-07-01T18:00:56.434107+00:00",
       "data_afisaj": "1 iulie 2026, 21:00"
-    },
-    {
-      "id": "fc8a8fbee40f",
-      "titlu": "Cine sunt? Ghicește vedeta Cupei Mondiale Nr. 24",
-      "rezumat": "Vei ghici jucătorul de astăzi în cât mai puține încercări posibil?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-01T11:22:07.191407+00:00",
-      "data_afisaj": "1 iulie 2026, 14:22"
-    },
-    {
-      "id": "0ce550704c8e",
-      "titlu": "Trei morți la sărbătorile Cupei Mondiale din Mexico City",
-      "rezumat": "Peste un milion de oameni au ieșit marți pe străzile din Mexico City pentru a sărbători victoria țării împotriva Ecuadorului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-01T11:22:07.192831+00:00",
-      "data_afisaj": "1 iulie 2026, 14:22"
-    },
-    {
-      "id": "6e7bf4a7ea32",
-      "titlu": "Jacquet finalizează transferul de 60 de milioane de lire sterline la Liverpool",
-      "rezumat": "Liverpool a finalizat transferul lui Jeremy Jacquet de la Rennes pentru 60 de milioane de lire sterline.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-01T11:22:07.194174+00:00",
-      "data_afisaj": "1 iulie 2026, 14:22"
-    },
-    {
-      "id": "bc665102caa9",
-      "titlu": "Cupa Mondială 2026: Franța și Mexic strălucesc, Bielsa pleacă, pregătiri Anglia vs R.D. Congo și multe altele – live",
-      "rezumat": "„Nu începeți să vă îndoiți”: Tuchel vrea răbdare Trimiteți-ne un e-mail | Bracketology | Cupa Mondială Zilnic Perspectiva din Anglia acum și prefața lui Jacob Steinberg pentru meciul de astăzi: Partea în care Tuchel își câștigă pâinea începe acum. Obiectivul Angliei la Cupa Mondială este să pună o a doua stea pe tricou, dar ar fi exagerat să spunem că au trecut fără probleme de faza grupelor. Avântul împotriva Croației din Dallas nu s-a repetat încă. Jude Bellingham și Kane performează în atac, dar există probleme de rezolvat în aproape",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-07-01T11:22:07.195989+00:00",
-      "data_afisaj": "1 iulie 2026, 14:22"
-    },
-    {
-      "id": "4ad50244ea7c",
-      "titlu": "E timpul ca Tuchel să-și arate cărțile, Anglia intrând în zona de pericol a Cupei Mondiale",
-      "rezumat": "Antrenorul Angliei, Thomas Tuchel, trebuie acum să joace cea mai puternică carte a sa, pe măsură ce intră în zona de pericol într-o Cupă Mondială plină de surprize, spune principalul scriitor de fotbal Phil McNulty.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-01T11:22:07.197463+00:00",
-      "data_afisaj": "1 iulie 2026, 14:22"
-    },
-    {
-      "id": "32d65ed77e93",
-      "titlu": "Trei morți în timpul sărbătorilor Cupei Mondiale din Mexico City",
-      "rezumat": "Trei persoane și-au pierdut viața în Mexico City, marți, în timpul festivităților care au marcat victoria țării la Cupa Mondială împotriva Ecuadorului. Peste un milion de oameni au ieșit pe străzile capitalei pentru a celebra succesul echipei naționale. Incidentele tragice au umbrit bucuria generală, autoritățile investigând circumstanțele deceselor. Știrea a fost confirmată de mai multe surse internaționale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-01T10:44:40.415593+00:00",
-      "data_afisaj": "1 iulie 2026, 13:44"
-    },
-    {
-      "id": "eb7ccfc28e49",
-      "titlu": "Kylian Mbappe stabilește un nou record și propulsează Franța în optimi",
-      "rezumat": "Kylian Mbappe a marcat de două ori în victoria categorică a Franței cu 3-0 împotriva Suediei, asigurând calificarea \"Cocoșilor Galici\" în optimile de finală ale Cupei Mondiale 2026. Prin aceste goluri, Mbappe a devenit cel mai bun marcator din istoria fazelor eliminatorii ale Cupei Mondiale, depășind un record important. Franța se va confrunta cu Paraguay în runda următoare a competiției.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-01T10:44:40.418456+00:00",
-      "data_afisaj": "1 iulie 2026, 13:44"
-    },
-    {
-      "id": "ad611577f2a0",
-      "titlu": "Xabi Alonso a preluat oficial funcția de antrenor la Chelsea",
-      "rezumat": "Xabi Alonso a început oficial activitatea ca manager al clubului Chelsea, preluând una dintre cele mai importante poziții din fotbalul mondial. Noul antrenor se confruntă cu provocări majore, inclusiv gestionarea transferurilor și integrarea jucătorilor cheie precum Cole Palmer și Enzo Fernandez. Fanii așteaptă cu interes viziunea sa pentru a rezolva problemele echipei de pe Stamford Bridge și a o readuce în top.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-01T10:44:40.419911+00:00",
-      "data_afisaj": "1 iulie 2026, 13:44"
-    },
-    {
-      "id": "6460e854842f",
-      "titlu": "Dezvăluiri șocante la ancheta Maddy Cusack: Fosta manageră ar fi influențat-o negativ",
-      "rezumat": "La ancheta privind decesul jucătoarei Maddy Cusack de la Sheffield United, iubita acesteia, Grace Riglar, a declarat că obiceiurile alimentare ale lui Cusack s-au schimbat după un comentariu al fostei manageri, Jonathan Morgan, care ar fi numit-o \"psiho\" și ar fi făcut referire la greutatea ei. Riglar, care a jucat alături de Cusack, a depus mărturie emoționantă, afirmând că excluderea lui Cusack din echipa Sheffield United a fost percepută ca un \"atac personal\".",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-01T10:44:40.421541+00:00",
-      "data_afisaj": "1 iulie 2026, 13:44"
     }
   ]
 }
