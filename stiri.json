@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-08T09:26:48.175983+00:00",
-  "updated_at_afisaj": "8 iulie 2026, 12:26",
+  "updated_at": "2026-07-08T10:16:34.492394+00:00",
+  "updated_at_afisaj": "8 iulie 2026, 13:16",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 113,
+  "numar_stiri": 118,
   "stiri": [
+    {
+      "id": "5f858eb7bc69",
+      "titlu": "Elveția învinge Columbia la penalty-uri și se califică în sferturile de finală",
+      "rezumat": "Portarul Gregor Kobel a devenit eroul Elveției, reușind o paradă spectaculoasă la lovitura de departajare a lui Cucho Hernandez de la Columbia. Această intervenție crucială a asigurat victoria Elveției în faza optimilor de finală ale Cupei Mondiale, stabilind o confruntare în sferturile de finală împotriva Argentinei. Meciul a fost unul tensionat, decis la limită, demonstrând determinarea ambelor echipe de a avansa în competiție.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-08T10:16:34.485869+00:00",
+      "data_afisaj": "8 iulie 2026, 13:16"
+    },
+    {
+      "id": "e0c37e9b9451",
+      "titlu": "Dominanța Europei la Cupa Mondială: O tendință neobișnuită sau previzibilă?",
+      "rezumat": "Șase dintre cele opt echipe calificate în sferturile de finală ale Cupei Mondiale din America de Nord provin din Europa, o statistică ce ridică întrebări despre performanța continentului. Analiza explorează motivele din spatele acestui succes european, examinând factorii care contribuie la dominanța lor actuală și ce indică istoria despre șansele unei echipe europene de a câștiga trofeul. Această tendință subliniază o dinamică interesantă în competiția globală.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-08T10:16:34.487528+00:00",
+      "data_afisaj": "8 iulie 2026, 13:16"
+    },
+    {
+      "id": "ca8e84a1fe87",
+      "titlu": "Arsenal prioritizează transferul lui Morgan Rogers, profitând de situația financiară a lui Aston Villa",
+      "rezumat": "Arsenal, proaspăt campioană, își propune să-și consolideze lotul pentru sezonul viitor, având ca prioritate transferul lui Morgan Rogers. Se pare că Aston Villa se confruntă cu dificultăți financiare, ceea ce ar putea facilita mutarea jucătorului la echipa londoneză. Această mișcare strategică ar permite \"Tunarilor\" să-și întărească echipa, profitând de contextul economic al clubului din Birmingham pentru a aduce un jucător dorit.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-07-08T10:16:34.489215+00:00",
+      "data_afisaj": "8 iulie 2026, 13:16"
+    },
+    {
+      "id": "dbf1124731f2",
+      "titlu": "Manchester United continuă să-l urmărească pe Alex Scott, în ciuda poziției lui Bournemouth",
+      "rezumat": "Manchester United rămâne interesată de transferul mijlocașului Alex Scott, în ciuda reticenței clubului Bournemouth de a-l ceda. Antrenorul Michael Carrick îl consideră pe Scott o opțiune ideală pentru a întări echipa înaintea noului sezon. Clubul de pe Old Trafford își menține presiunea pentru a-l aduce pe tânărul talent, văzând în el o piesă importantă pentru planurile de viitor și pentru a îmbunătăți performanța echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-07-08T10:16:34.490836+00:00",
+      "data_afisaj": "8 iulie 2026, 13:16"
+    },
+    {
+      "id": "9b428375b29e",
+      "titlu": "Va fi anulată decizia de cartonaș roșu pentru Jarell Quansah de la Anglia?",
+      "rezumat": "După intervenția lui Donald Trump în cazul cartonașului roșu al lui Folarin Balogun, s-a deschis o discuție amplă privind posibilitatea anulării unor decizii similare. În acest context, se analizează dacă decizia de cartonaș roșu primită de Jarell Quansah, jucătorul Angliei, ar putea fi revizuită și anulată. Situația creează un precedent și adaugă incertitudine în privința aplicării regulamentului disciplinar la Cupa Mondială.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-07-08T10:16:34.492375+00:00",
+      "data_afisaj": "8 iulie 2026, 13:16"
+    },
     {
       "id": "c81ccebea895",
       "titlu": "Fulham îl numește pe Alvaro Arbeloa noul antrenor principal",
