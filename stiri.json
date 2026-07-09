@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-09T10:26:52.704467+00:00",
-  "updated_at_afisaj": "9 iulie 2026, 13:26",
+  "updated_at": "2026-07-09T10:53:46.313358+00:00",
+  "updated_at_afisaj": "9 iulie 2026, 13:53",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,54 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 111,
+  "numar_stiri": 110,
   "stiri": [
+    {
+      "id": "9a767290eff9",
+      "titlu": "Predicțiile lui Chris Sutton pentru sferturile de finală ale Cupei Mondiale",
+      "rezumat": "Expertul în fotbal al BBC Sport, Chris Sutton, a prezentat predicțiile sale pentru meciurile din sferturile de finală ale Cupei Mondiale din 2026. Printre confruntările analizate se numără și partida dintre Anglia și Norvegia. Sutton a oferit o perspectivă detaliată asupra șanselor fiecărei echipe de a avansa în semifinale, bazându-se pe forma actuală a jucătorilor și pe performanțele demonstrate pe parcursul turneului. Aceste predicții vin în contextul intensificării competiției, pe măsură ce turneul se apropie de fazele finale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-09T10:53:46.307719+00:00",
+      "data_afisaj": "9 iulie 2026, 13:53"
+    },
+    {
+      "id": "03d4e5c4ab03",
+      "titlu": "Anglia ar putea primi o zi liberă națională dacă va câștiga Cupa Mondială",
+      "rezumat": "Conform rapoartelor din presa de joi, Guvernul britanic ia în considerare declararea unei zile libere naționale în cazul în care echipa națională de fotbal a Angliei va reuși să câștige Cupa Mondială din 2026. Această inițiativă ar reprezenta o recunoaștere a performanței istorice și ar oferi suporterilor ocazia de a celebra succesul. Propunerea este discutată în contextul entuziasmului crescut din jurul parcursului echipei la turneul final, pe măsură ce Anglia avansează în fazele eliminatorii.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-09T10:53:46.309237+00:00",
+      "data_afisaj": "9 iulie 2026, 13:53"
+    },
+    {
+      "id": "99ca4ab10048",
+      "titlu": "Pierluigi Collina: Integritatea arbitrilor de la Cupa Mondială este incontestabilă",
+      "rezumat": "Pierluigi Collina, șeful departamentului de arbitraj al FIFA, a declarat că oficialii Cupei Mondiale nu sunt influențați de nimeni și că nimeni nu poate pune la îndoială integritatea deciziilor lor. Declarația vine în contextul unor discuții și controverse legate de arbitraj pe parcursul turneului. Collina a subliniat că procesul de luare a deciziilor este riguros și transparent, asigurând că fiecare hotărâre este bazată pe regulament și pe principii de echitate, pentru a menține credibilitatea competiției.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-09T10:53:46.311943+00:00",
+      "data_afisaj": "9 iulie 2026, 13:53"
+    },
+    {
+      "id": "0613c5da45a2",
+      "titlu": "Ancheta privind decesul lui Maddy Cusack, amânată din nou",
+      "rezumat": "Ancheta legată de decesul Maddy Cusack, mijlocașă la Sheffield United, a fost amânată din nou, la aproape trei ani de la moartea sa, survenită pe 20 septembrie 2023, la vârsta de 27 de ani. Aceasta este a doua amânare în 2026, după ce noi documente au fost depuse. Medicul legist a informat că audierile nu vor fi reluate mai devreme de 7 decembrie, prezentând scuze familiei. Procesul, care a început pe 29 iunie și a inclus opt zile complete de mărturii, continuă să fie un subiect sensibil.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-09T10:53:46.313343+00:00",
+      "data_afisaj": "9 iulie 2026, 13:53"
+    },
     {
       "id": "83c0cb1474a0",
       "titlu": "Cartonașul galben al lui Olise rămâne valabil; Saibari, indisponibil pentru Maroc",
@@ -1244,61 +1290,6 @@
       ],
       "data_publicare": "2026-07-02T17:52:17.706179+00:00",
       "data_afisaj": "2 iulie 2026, 20:52"
-    },
-    {
-      "id": "4e35a2225d0c",
-      "titlu": "Tottenham Hotspur ajunge la un acord de până la 100 de milioane de lire sterline pentru Sandro Tonali",
-      "rezumat": "Tottenham Hotspur a ajuns la un acord cu Newcastle United pentru transferul mijlocașului Sandro Tonali, într-o tranzacție evaluată la până la 100 de milioane de lire sterline. Această mutare reprezintă o investiție semnificativă pentru clubul londonez, care își propune să-și întărească linia mediană cu un jucător de calibru. Tonali, cunoscut pentru viziunea și abilitățile sale defensive, ar urma să devină una dintre cele mai costisitoare achiziții din istoria recentă a lui Spurs.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-02T10:38:45.622914+00:00",
-      "data_afisaj": "2 iulie 2026, 13:38"
-    },
-    {
-      "id": "ec6b3963167b",
-      "titlu": "Dramă la Cupa Mondială: Belgia revine și elimină Senegalul într-un meci controversat",
-      "rezumat": "Meciul din optimile Cupei Mondiale dintre Belgia și Senegal a fost marcat de dramatism, controverse și o revenire spectaculoasă. Belgia a reușit să revină de la un deficit de 0-2 și să câștige cu 3-2, eliminând Senegalul. Partida a culminat cu un penalty controversat marcat de Youri Tielemans în prelungiri, care a devenit cel mai târziu gol decisiv din istoria Cupei Mondiale. Această confruntare a oferit momente intense și a lăsat un gust amar echipei africane.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-02T10:38:45.624719+00:00",
-      "data_afisaj": "2 iulie 2026, 13:38"
-    },
-    {
-      "id": "57970b5582b8",
-      "titlu": "Mijlocașul Pape Gueye se retrage temporar din naționala Senegalului",
-      "rezumat": "Mijlocașul senegalez Pape Gueye a anunțat că va lua o pauză de la echipa națională a țării sale. Decizia vine ca urmare a nemulțumirilor sale față de actuala conducere tehnică. Gueye a declarat că nu va mai juca pentru Senegal atâta timp cât staff-ul actual va rămâne în funcție, o veste surprinzătoare care ar putea afecta performanța echipei în viitoarele competiții. Această situație subliniază tensiunile interne din cadrul lotului și posibilele repercusiuni asupra viitorului echipei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-02T10:38:45.626264+00:00",
-      "data_afisaj": "2 iulie 2026, 13:38"
-    },
-    {
-      "id": "bf4a6cfbdeab",
-      "titlu": "Modric și Ronaldo, reuniți la Cupa Mondială în duelul Croația – Portugalia",
-      "rezumat": "Două dintre cele mai mari legende ale fotbalului internațional, Luka Modric și Cristiano Ronaldo, se vor întâlni din nou la Cupa Mondială, pe măsură ce Croația se pregătește să înfrunte Portugalia. Această partidă ar putea marca ultima confruntare directă la un turneu major pentru cei doi jucători, ambii având cariere paralele impresionante la nivel de club și națională. Meciul promite a fi unul plin de emoție și miză, cu ambele echipe luptând pentru avansarea în competiție și un loc în fazele superioare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-02T10:38:45.627931+00:00",
-      "data_afisaj": "2 iulie 2026, 13:38"
-    },
-    {
-      "id": "2473cdff20e9",
-      "titlu": "Philipp Lahm: Germania trebuie să-și regăsească identitatea după a treia eliminare consecutivă de la Cupa Mondială",
-      "rezumat": "Fostul căpitan al Germaniei, Philipp Lahm, a declarat că a treia eliminare consecutivă a naționalei de la Cupa Mondială nu se datorează lipsei de talent sau antrenorului, ci faptului că echipa nu știe cum vrea să joace. Lahm subliniază lipsa de continuitate în fotbalul german de un deceniu, cu idei noi constante și schimbări frecvente de jucători. El consideră că Germania trebuie să-și redefinească identitatea și stilul de joc pentru a reveni la statutul de forță în competițiile majore.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-02T10:38:45.629856+00:00",
-      "data_afisaj": "2 iulie 2026, 13:38"
     }
   ]
 }
