@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-09T10:53:46.313358+00:00",
-  "updated_at_afisaj": "9 iulie 2026, 13:53",
+  "updated_at": "2026-07-09T17:59:22.895293+00:00",
+  "updated_at_afisaj": "9 iulie 2026, 20:59",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,34 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 110,
+  "numar_stiri": 109,
   "stiri": [
+    {
+      "id": "dbd098f7cdb8",
+      "titlu": "Jarell Quansah, suspendat două meciuri de FIFA după cartonașul roșu",
+      "rezumat": "Fundașul englez Jarell Quansah a primit o suspendare de două meciuri din partea FIFA, în urma cartonașului roșu încasat în partida Angliei împotriva Mexicului, din optimile de finală ale Cupei Mondiale. Decizia vine după o analiză VAR a unei intervenții considerate joc periculos grav, conform articolului 14 din codul de conduită al FIFA. Această suspendare îl va face pe Quansah să rateze sfertul de finală și o potențială semifinală, având un impact semnificativ asupra apărării Angliei în fazele eliminatorii.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-09T17:59:22.891930+00:00",
+      "data_afisaj": "9 iulie 2026, 20:59"
+    },
+    {
+      "id": "d64f25a7e24a",
+      "titlu": "Manchester United ia în considerare vânzarea drepturilor de denumire pentru noul stadion",
+      "rezumat": "Manchester United explorează posibilitatea unui acord de vânzare a drepturilor de denumire pentru noul stadion \"Old Trafford\", ca parte a unei abordări \"de bun simț, nu de vanitate\" pentru planurile de construcție estimate la 2 miliarde de lire sterline. Clubul a subliniat că, deși proiectul pentru arena de 100.000 de locuri ar putea genera datorii suplimentare, este esențial pentru viitorul clubului. Noul stadion va fi construit la aproximativ 350 de metri nord-vest de actualul Old Trafford, reprezentând o investiție majoră în infrastructură.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-09T17:59:22.893449+00:00",
+      "data_afisaj": "9 iulie 2026, 20:59"
+    },
     {
       "id": "9a767290eff9",
       "titlu": "Predicțiile lui Chris Sutton pentru sferturile de finală ale Cupei Mondiale",
@@ -1255,41 +1281,6 @@
       ],
       "data_publicare": "2026-07-02T18:23:56.936562+00:00",
       "data_afisaj": "2 iulie 2026, 21:23"
-    },
-    {
-      "id": "c64ca4729a76",
-      "titlu": "Barurile din Anglia vor rămâne deschise până la ora 5 dimineața pentru meciul cu Mexic",
-      "rezumat": "Guvernul britanic a anunțat o relaxare a legilor de licențiere, permițând pub-urilor să rămână deschise până la ora 5 dimineața pentru meciul Angliei împotriva Mexicului de la Cupa Mondială. Decizia vine după ce inițial se declarase că nu vor exista modificări suplimentare ale programului pentru turneu. Această măsură oferă fanilor posibilitatea de a urmări partida în afara orelor obișnuite de funcționare, având un impact semnificativ asupra experienței colective de vizionare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-02T17:52:17.701834+00:00",
-      "data_afisaj": "2 iulie 2026, 20:52"
-    },
-    {
-      "id": "4532edf58a56",
-      "titlu": "Peste 16 milioane de telespectatori au urmărit victoria Angliei împotriva R.D. Congo",
-      "rezumat": "Victoria dramatică a Angliei împotriva Republicii Democrate Congo în optimile de finală ale Cupei Mondiale a atras o audiență impresionantă de 16,3 milioane de telespectatori pe BBC. Cifrele subliniază interesul masiv al publicului britanic pentru performanțele echipei naționale la turneul final. Această audiență semnificativă reflectă emoția și suspansul partidei, care a asigurat calificarea Angliei în faza următoare a competiției.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-02T17:52:17.704619+00:00",
-      "data_afisaj": "2 iulie 2026, 20:52"
-    },
-    {
-      "id": "a6e36c738e31",
-      "titlu": "Tielemans și Trossard, de la ceartă la eroii Belgiei în meciul cu Senegal",
-      "rezumat": "Mijlocașii belgieni Youri Tielemans și Leandro Trossard au fost protagoniștii unui moment tensionat în timpul meciului cu Senegal, având o dispută aprinsă în pauza de hidratare. Cu toate acestea, cei doi au reușit să-și depășească divergențele și să colaboreze decisiv pentru a marca golul egalizator, contribuind la revenirea Belgiei în partida din optimile Cupei Mondiale. Incidentul subliniază intensitatea emoțiilor și presiunea la care sunt supuși jucătorii la un turneu de o asemenea anvergură.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-02T17:52:17.706179+00:00",
-      "data_afisaj": "2 iulie 2026, 20:52"
     }
   ]
 }
