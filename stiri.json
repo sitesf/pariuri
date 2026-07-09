@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-08T18:13:51.186758+00:00",
-  "updated_at_afisaj": "8 iulie 2026, 21:13",
+  "updated_at": "2026-07-09T10:26:52.704467+00:00",
+  "updated_at_afisaj": "9 iulie 2026, 13:26",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,30 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 116,
+  "numar_stiri": 111,
   "stiri": [
+    {
+      "id": "83c0cb1474a0",
+      "titlu": "Cartonașul galben al lui Olise rămâne valabil; Saibari, indisponibil pentru Maroc",
+      "rezumat": "Federația Franceză de Fotbal nu a reușit să obțină anularea cartonașului galben primit de atacantul Michael Olise. Decizia înseamnă că jucătorul va fi disponibil pentru sferturile de finală ale Cupei Mondiale. Pe de altă parte, naționala Marocului va fi lipsită de serviciile lui Ismael Saibari pentru meciul din sferturile de finală, care se va disputa pe stadionul din Boston. Aceste informații sunt cruciale pentru strategiile echipelor înaintea confruntărilor eliminatorii.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-09T10:26:52.702818+00:00",
+      "data_afisaj": "9 iulie 2026, 13:26"
+    },
+    {
+      "id": "b0b09793753b",
+      "titlu": "Manchester United a dezvăluit locația noului stadion de 100.000 de locuri",
+      "rezumat": "Clubul Manchester United a anunțat public locația propusă pentru construcția noului său stadion, care va avea o capacitate de 100.000 de locuri. Această inițiativă reprezintă un pas major în dezvoltarea infrastructurii clubului și ar putea deveni cel mai mare stadion din Regatul Unit. Planurile pentru acest proiect ambițios avansează, marcând o etapă importantă în istoria \"Diavolilor Roșii\" și în peisajul fotbalistic britanic.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-09T10:26:52.704436+00:00",
+      "data_afisaj": "9 iulie 2026, 13:26"
+    },
     {
       "id": "4d6ebad3c65f",
       "titlu": "Egiptul cere excluderea oficialilor FIFA și acuză arbitrajul pro-Argentina la Cupa Mondială",
@@ -1277,95 +1299,6 @@
       ],
       "data_publicare": "2026-07-02T10:38:45.629856+00:00",
       "data_afisaj": "2 iulie 2026, 13:38"
-    },
-    {
-      "id": "9706e5dfce64",
-      "titlu": "SUA se califică în optimi la Cupa Mondială, Balogun fiind eliminat controversat",
-      "rezumat": "Echipa Statelor Unite ale Americii a avansat în optimile de finală ale Cupei Mondiale, după ce a învins Bosnia-Herțegovina în Santa Clara. Meciul a fost marcat de performanța atacantului Folarin Balogun, care a reușit să marcheze un gol, dar a fost ulterior eliminat printr-un cartonaș roșu controversat. Decizia arbitrului, survenită după o coliziune aparent inocentă cu un adversar, a stârnit reacții puternice din partea staff-ului tehnic și a jucătorilor americani, care au considerat eliminarea nejustificată.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-02T10:12:20.204306+00:00",
-      "data_afisaj": "2 iulie 2026, 13:12"
-    },
-    {
-      "id": "3db95d73be85",
-      "titlu": "Everton finalizează transferul mijlocașului Hayden Hackney de la Middlesbrough",
-      "rezumat": "Clubul Everton a confirmat achiziționarea mijlocașului Hayden Hackney de la Middlesbrough. Suma de transfer este estimată la cel puțin 16 milioane de lire sterline, cu posibilitatea de a ajunge până la 25 de milioane de lire sterline, în funcție de anumite clauze. Hackney, care a fost desemnat jucătorul anului în Championship în sezonul precedent, a semnat un contract pe o perioadă de cinci ani cu echipa din Merseyside, după negocieri intense care au durat mai multe săptămâni.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-02T10:12:20.206941+00:00",
-      "data_afisaj": "2 iulie 2026, 13:12"
-    },
-    {
-      "id": "2b2f7bed59e0",
-      "titlu": "Anglia se pregătește pentru provocarea altitudinii pe stadionul Azteca din Mexic",
-      "rezumat": "Echipa națională a Angliei se confruntă cu o provocare majoră înaintea meciului din optimile Cupei Mondiale împotriva Mexicului, care va avea loc pe legendarul stadion Azteca din Mexico City. Altitudinea ridicată a arenei, de peste 2.000 de metri, este considerată un factor semnificativ care poate influența negativ performanța fizică și mentală a jucătorilor. Antrenorul Thomas Tuchel a subliniat că acest aspect reprezintă un avantaj considerabil pentru echipa gazdă, iar pregătirea pentru aceste condiții va fi crucială.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-07-02T10:12:20.208548+00:00",
-      "data_afisaj": "2 iulie 2026, 13:12"
-    },
-    {
-      "id": "202b85569f38",
-      "titlu": "Chelsea îl transferă pe fundașul italian Marco Palestra pentru 47 de milioane de lire sterline",
-      "rezumat": "Chelsea a finalizat achiziția fundașului dreapta italian Marco Palestra, în vârstă de 21 de ani, într-o tranzacție evaluată la 47 de milioane de lire sterline. Această mutare reprezintă prima semnare a lui Xabi Alonso în calitate de antrenor al echipei Chelsea. Transferul subliniază intenția clubului de a-și consolida apărarea cu jucători tineri și talentați, sub noua conducere tehnică.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-01T18:56:37.282716+00:00",
-      "data_afisaj": "1 iulie 2026, 21:56"
-    },
-    {
-      "id": "d8a80db50f96",
-      "titlu": "Belgia și Senegal se întâlnesc în optimile de finală ale Cupei Mondiale",
-      "rezumat": "Echipele naționale ale Belgiei și Senegalului se confruntă într-un meci crucial din faza optimilor de finală a Cupei Mondiale 2026. Partida este una dintre cele mai așteptate din această etapă a competiției, ambele formații luptând pentru un loc în sferturile de finală. Meciul va fi transmis în direct, oferind fanilor ocazia de a urmări evoluția celor două națiuni în drumul lor spre trofeul mondial.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-07-01T18:56:37.284302+00:00",
-      "data_afisaj": "1 iulie 2026, 21:56"
-    },
-    {
-      "id": "ead619b61384",
-      "titlu": "Harry Kane, eroul Angliei: Dublă decisivă pentru calificarea în optimile Cupei Mondiale",
-      "rezumat": "Atacantul Harry Kane a marcat de două ori, ajutând Anglia să revină și să învingă Republica Democrată Congo într-un meci tensionat de la Cupa Mondială, disputat în Atlanta. Victoria cu 2-1 asigură calificarea Angliei în optimile de finală, unde va întâlni Mexicul. Performanța lui Kane a fost crucială pentru echipa sa, care a reușit să depășească un adversar dificil și să-și continue parcursul în competiție.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-07-01T18:56:37.286076+00:00",
-      "data_afisaj": "1 iulie 2026, 21:56"
-    },
-    {
-      "id": "743ed60c285c",
-      "titlu": "Creștere semnificativă a abuzurilor rasiste online la Cupa Mondială, conform FIFA",
-      "rezumat": "Serviciul de protecție a rețelelor sociale (SMPS) al FIFA a raportat o creștere semnificativă a cazurilor grave de abuz rasist online în timpul Cupei Mondiale. Această constatare subliniază o problemă persistentă în fotbalul modern, unde platformele digitale devin un teren propice pentru manifestări discriminatorii. FIFA își exprimă îngrijorarea și reiterează angajamentul de a combate rasismul în toate formele sale, inclusiv în mediul online, pentru a asigura un mediu sigur și respectuos pentru toți participanții și fanii.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-01T18:56:37.287711+00:00",
-      "data_afisaj": "1 iulie 2026, 21:56"
     }
   ]
 }
