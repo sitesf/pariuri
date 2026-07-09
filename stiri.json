@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-09T17:59:22.895293+00:00",
-  "updated_at_afisaj": "9 iulie 2026, 20:59",
+  "updated_at": "2026-07-09T18:46:13.672960+00:00",
+  "updated_at_afisaj": "9 iulie 2026, 21:46",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,69 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 109,
+  "numar_stiri": 111,
   "stiri": [
+    {
+      "id": "f20f01a87ea3",
+      "titlu": "Quansah suspendat două meciuri după cartonașul roșu cu Mexic",
+      "rezumat": "Fundașul englez Jarell Quansah primește o suspendare de două meciuri pentru cartonașul său roșu împotriva Mexicului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-09T18:46:08.110122+00:00",
+      "data_afisaj": "9 iulie 2026, 21:46"
+    },
+    {
+      "id": "7800397bd06d",
+      "titlu": "Predicțiile lui Chris Sutton pentru sferturile de finală ale Cupei Mondiale",
+      "rezumat": "Expertul BBC Sport în fotbal, Chris Sutton, își prezintă predicțiile pentru meciurile din sferturile de finală ale Cupei Mondiale din 2026, inclusiv Anglia împotriva Norvegiei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-09T18:46:08.111486+00:00",
+      "data_afisaj": "9 iulie 2026, 21:46"
+    },
+    {
+      "id": "b55eeca6d189",
+      "titlu": "Cupa Mondială 2026: ghidul tuturor celor 1.248 de jucători",
+      "rezumat": "Tot ce trebuie să știi (și mai mult) despre fiecare membru al lotului. Apasă pe imaginile jucătorilor pentru mai multe informații Continuă să citești...",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-07-09T18:46:08.112784+00:00",
+      "data_afisaj": "9 iulie 2026, 21:46"
+    },
+    {
+      "id": "7fc8cfe3a54e",
+      "titlu": "🚨 Dinamo Kiev – Universitatea Cluj 0-0 Live Text Online în turul 1 preliminar din Europa League. Gazdele, aproape de deschiderea scorului. Au lovit bara",
+      "rezumat": "(rezumat indisponibil)",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-07-09T18:46:08.114683+00:00",
+      "data_afisaj": "9 iulie 2026, 21:46"
+    },
+    {
+      "id": "9173898346cc",
+      "titlu": "Mi-am schimbat părerea, am putea chiar să câștigăm asta - Shearer",
+      "rezumat": "Alan Shearer explică de ce are acum convingerea și încrederea că Anglia poate avansa mai mult în această Cupă Mondială decât credea.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-09T18:46:08.116133+00:00",
+      "data_afisaj": "9 iulie 2026, 21:46"
+    },
     {
       "id": "dbd098f7cdb8",
       "titlu": "Jarell Quansah, suspendat două meciuri de FIFA după cartonașul roșu",
@@ -1248,39 +1309,6 @@
       ],
       "data_publicare": "2026-07-03T10:07:15.741688+00:00",
       "data_afisaj": "3 iulie 2026, 13:07"
-    },
-    {
-      "id": "51c092f794a8",
-      "titlu": "Memorial în onoarea lui Diogo Jota, dezvelit pe Anfield",
-      "rezumat": "Un memorial dedicat lui Diogo Jota, fostul jucător al lui Liverpool, a fost dezvelit pe stadionul Anfield. Evenimentul a avut loc la un an de la trecerea în neființă a fotbalistului portughez, care a lăsat o amintire puternică în rândul fanilor și al clubului. Acest gest simbolic subliniază impactul pe care Jota l-a avut asupra comunității Liverpool și servește ca un loc de reculegere pentru toți cei care l-au apreciat, consolidând legătura emoțională dintre club și suporteri.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-02T18:23:56.932290+00:00",
-      "data_afisaj": "2 iulie 2026, 21:23"
-    },
-    {
-      "id": "7a0e4f5f869a",
-      "titlu": "Layla Drury, cea mai tânără jucătoare, semnează primul contract profesionist cu Manchester United Women",
-      "rezumat": "Layla Drury, în vârstă de 17 ani, a semnat primul său contract profesionist cu echipa feminină a lui Manchester United, devenind cea mai tânără jucătoare din istoria clubului care realizează acest lucru. Tânăra sportivă a debutat deja în ianuarie într-un meci de Cupa Angliei împotriva lui Burnley, unde a și marcat, stabilind un record ca cea mai tânără marcatoare a clubului. Acest pas reprezintă o recunoaștere a talentului său excepțional și a potențialului său de a influența viitorul fotbalului feminin la cel mai înalt nivel.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-02T18:23:56.934687+00:00",
-      "data_afisaj": "2 iulie 2026, 21:23"
-    },
-    {
-      "id": "74cf5b92ff29",
-      "titlu": "Canada a cheltuit un miliard de dolari pentru găzduirea a 13 meciuri de Cupă Mondială, ridicând semne de întrebare privind rentabilitatea",
-      "rezumat": "Canada a investit un miliard de dolari pentru a găzdui 13 meciuri din cadrul Cupei Mondiale, o sumă care a generat dezbateri aprinse privind justificarea economică. Mulți consideră că aceste fonduri ar fi putut fi direcționate către alte nevoi publice. Un reportaj FourFourTwo a indicat că, în Toronto, percepția generală a fost că evenimentul a avut un impact modest, lăsând impresia unei 'petreceri private cu bani publici' și ridicând îndoieli asupra valorii reale a investiției pentru contribuabili.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-07-02T18:23:56.936562+00:00",
-      "data_afisaj": "2 iulie 2026, 21:23"
     }
   ]
 }
