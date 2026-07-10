@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-10T10:52:49.650503+00:00",
-  "updated_at_afisaj": "10 iulie 2026, 13:52",
+  "updated_at": "2026-07-10T17:49:47.034616+00:00",
+  "updated_at_afisaj": "10 iulie 2026, 20:49",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,51 @@
   },
   "numar_stiri": 113,
   "stiri": [
+    {
+      "id": "5b0a8ee22f4d",
+      "titlu": "Fundașul englez Niamh Charles se alătură lui Manchester City de la Chelsea",
+      "rezumat": "Manchester City a anunțat transferul internaționalei engleze Niamh Charles de la rivala din Women's Super League, Chelsea. Transferul este evaluat la 500.000 de lire sterline. Charles, o jucătoare cheie pentru Chelsea, va aduce un plus de experiență și calitate defensivei lui City, consolidând echipa în lupta pentru titlu în campionatul feminin. Această mutare subliniază investițiile continue în fotbalul feminin de top din Anglia și ambițiile clubului de a domina pe plan intern și european.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-10T17:49:47.029746+00:00",
+      "data_afisaj": "10 iulie 2026, 20:49"
+    },
+    {
+      "id": "ccaa20c1d3ee",
+      "titlu": "Jorge Jesus, noul selecționer al Portugaliei, semnează un contract până în 2030",
+      "rezumat": "Jorge Jesus a fost numit noul selecționer al echipei naționale de fotbal a Portugaliei, semnând un contract pe patru ani, valabil până la Cupa Mondială din 2030. Această numire marchează o reuniune notabilă cu starul Cristiano Ronaldo, pe care Jesus l-a antrenat anterior la nivel de club. Fostul antrenor al lui Benfica și Flamengo preia o echipă cu așteptări mari, având sarcina de a construi o nouă generație de succes și de a menține Portugalia în elita fotbalului mondial.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-10T17:49:47.031327+00:00",
+      "data_afisaj": "10 iulie 2026, 20:49"
+    },
+    {
+      "id": "cba3e2505fdf",
+      "titlu": "Arsenal confirmă transferul fundașului Ona Batlle de la Barcelona",
+      "rezumat": "Arsenal a confirmat achiziția fundașului spaniol Ona Batlle, care sosește gratuit după plecarea sa de la Barcelona. Jucătoarea de 27 de ani este a patra semnare a clubului londonez în această fereastră de transferuri, după Georgia Stanway, Selina Cerci și Geraldine Reuteler. Transferul lui Batlle, considerată o \"câștigătoare\" și o jucătoare cu experiență la nivel înalt, subliniază ambițiile lui Arsenal de a-și întări lotul pentru a concura la cel mai înalt nivel în fotbalul feminin european.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-10T17:49:47.033218+00:00",
+      "data_afisaj": "10 iulie 2026, 20:49"
+    },
+    {
+      "id": "1ec667dde3d8",
+      "titlu": "FC Barcelona a ajuns la un acord pentru transferul lui Karim Adeyemi",
+      "rezumat": "FC Barcelona a finalizat un acord pentru transferul atacantului Karim Adeyemi. Jucătorul, care a fost la un moment dat în vizorul naționalei României, se alătură gigantului catalan într-o mutare importantă pe piața transferurilor. Detaliile financiare ale tranzacției nu au fost încă dezvăluite integral, dar se anticipează o sumă considerabilă. Această achiziție este menită să întărească ofensiva Barcelonei și să aducă un plus de viteză și talent echipei, în vederea obiectivelor din La Liga și Liga Campionilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-07-10T17:49:47.034597+00:00",
+      "data_afisaj": "10 iulie 2026, 20:49"
+    },
     {
       "id": "fc8a8fbee40f",
       "titlu": "cine sunt eu? Guess Steaua Cupei Mondiale nr. 33",
@@ -1283,51 +1328,6 @@
       ],
       "data_publicare": "2026-07-03T18:08:48.432392+00:00",
       "data_afisaj": "3 iulie 2026, 21:08"
-    },
-    {
-      "id": "165eae960f0b",
-      "titlu": "Ange Postecoglou, noul antrenor al echipei Al-Nassr, îl va pregăti pe Cristiano Ronaldo",
-      "rezumat": "Fostul manager al lui Tottenham, Ange Postecoglou, a fost numit noul antrenor principal al campioanei Saudi Pro League, Al-Nassr. Tehnicianul australian a semnat un contract pe doi ani și va avea ocazia să-l antreneze pe superstarul portughez Cristiano Ronaldo. Această mutare marchează o nouă etapă în cariera lui Postecoglou, după două mandate dificile în Premier League. Clubul a confirmat oficial numirea, exprimându-și urările de bine pentru antrenor și staff-ul său în noul capitol.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-03T17:36:11.805648+00:00",
-      "data_afisaj": "3 iulie 2026, 20:36"
-    },
-    {
-      "id": "4f1d7d4abe27",
-      "titlu": "Andre Onana revine la Trabzonspor sub formă de împrumut de la Manchester United",
-      "rezumat": "Portarul Andre Onana de la Manchester United se va alătura echipei turce Trabzonspor sub formă de împrumut pentru sezonul 2026-2027. Această mutare temporară îi va oferi lui Onana oportunitatea de a juca regulat și de a-și menține forma, în timp ce Trabzonspor își consolidează lotul cu un portar experimentat. Detaliile financiare ale acordului nu au fost făcute publice, dar se așteaptă ca Onana să joace un rol cheie în campania echipei turce în sezonul viitor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-03T17:36:11.807578+00:00",
-      "data_afisaj": "3 iulie 2026, 20:36"
-    },
-    {
-      "id": "d7e74b6b8eeb",
-      "titlu": "Biletele pentru meciul Anglia - Mexic de la Cupa Mondială, revândute la prețuri de până la 26.000 de lire sterline",
-      "rezumat": "Fanii englezi care au achiziționat inițial bilete pentru meciul din optimile de finală ale Cupei Mondiale dintre Anglia și Mexic, programat luni, le-au revândut pe portalul oficial de revânzare al FIFA la prețuri exorbitante, ajungând până la 26.000 de lire sterline. Această situație subliniază cererea uriașă și speculațiile din jurul partidelor importante de la Cupa Mondială, generând discuții despre accesibilitatea evenimentelor sportive majore pentru fanii obișnuiți.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-03T17:36:11.809448+00:00",
-      "data_afisaj": "3 iulie 2026, 20:36"
-    },
-    {
-      "id": "88ab822cf8b3",
-      "titlu": "Lamine Yamal, tânărul talent al Spaniei, poartă speranțele naționalei la Cupa Mondială",
-      "rezumat": "La doar 18 ani, Lamine Yamal a devenit o figură centrală în echipa națională a Spaniei la Cupa Mondială, purtând pe umeri speranțele unei națiuni pentru câștigarea celui de-al doilea titlu mondial. Performanțele sale impresionante, inclusiv o celebrare virală a fratelui său mai mic după un gol împotriva Austriei, au captat atenția publicului. Yamal demonstrează o maturitate remarcabilă și o determinare de a conduce echipa spre succes, fiind considerat unul dintre cei mai promițători jucători ai turneului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-03T17:36:11.811087+00:00",
-      "data_afisaj": "3 iulie 2026, 20:36"
     }
   ]
 }
