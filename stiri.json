@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-09T18:46:13.672960+00:00",
-  "updated_at_afisaj": "9 iulie 2026, 21:46",
+  "updated_at": "2026-07-10T10:25:22.312006+00:00",
+  "updated_at_afisaj": "10 iulie 2026, 13:25",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,53 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 111,
+  "numar_stiri": 112,
   "stiri": [
+    {
+      "id": "e5df9f50b434",
+      "titlu": "Marc Guehi, incert pentru sfertul de finală al Angliei la Cupa Mondială; Declan Rice, bolnav",
+      "rezumat": "Echipa națională a Angliei se confruntă cu probleme de lot înaintea sfertului de finală al Cupei Mondiale împotriva Norvegiei. Fundașul Marc Guehi este incert din cauza unei ușoare accidentări la ischiogambieri, suferite în meciul cu Mexic. De asemenea, mijlocașul Declan Rice este bolnav, fiind afectat de un virus. Aceste absențe potențiale ar putea influența strategia selecționerului Thomas Tuchel pentru partida decisivă de sâmbătă, punând presiune pe defensiva și mijlocul terenului englez.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-10T10:25:22.307586+00:00",
+      "data_afisaj": "10 iulie 2026, 13:25"
+    },
+    {
+      "id": "aaab1fd6acbe",
+      "titlu": "Manchester City a ajuns la un acord pentru transferul tânărului Jeremy Monga",
+      "rezumat": "Manchester City a reușit să obțină transferul tânărului talent Jeremy Monga de la Leicester City. Se pare că acest acord reprezintă o lovitură dată rivalei Arsenal, care era și ea interesată de serviciile jucătorului. Monga, un starlet adolescent, este considerat o achiziție strategică pentru viitorul clubului din Manchester, iar rolul său în echipă va fi analizat pe măsură ce se integrează. Această mutare subliniază strategia lui City de a investi în tinere talente.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-10T10:25:22.309108+00:00",
+      "data_afisaj": "10 iulie 2026, 13:25"
+    },
+    {
+      "id": "fda38fd235ff",
+      "titlu": "Celtic confirmă transferul atacantului columbian Camilo Duran",
+      "rezumat": "Clubul scoțian Celtic a anunțat oficial achiziționarea atacantului columbian Camilo Duran de la Qarabag. Jucătorul a semnat un contract pe o perioadă de cinci ani cu echipa din Glasgow. Acest transfer reprezintă o întărire importantă pentru linia ofensivă a lui Celtic, care își propune să își consolideze poziția în competițiile interne și să aibă o prezență puternică pe scena europeană. Duran este așteptat să aducă un plus de viteză și forță de atac.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-10T10:25:22.310486+00:00",
+      "data_afisaj": "10 iulie 2026, 13:25"
+    },
+    {
+      "id": "d3a3d49e8078",
+      "titlu": "Erling Haaland susține că presiunea este pe Anglia în sfertul de finală cu Norvegia",
+      "rezumat": "Atacantul norvegian Erling Haaland a intensificat \"războiul psihologic\" înaintea sfertului de finală al Cupei Mondiale împotriva Angliei, declarând că presiunea este în totalitate pe echipa engleză. Haaland, care a avut un turneu senzațional cu șapte goluri în patru meciuri, inclusiv o dublă împotriva Braziliei, a subliniat că Norvegia, aflată la prima sa apariție la Cupa Mondială din 1998, este într-o poziție favorabilă, fără presiunea așteptărilor. Declarația sa adaugă o miză suplimentară confruntării.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-10T10:25:22.311989+00:00",
+      "data_afisaj": "10 iulie 2026, 13:25"
+    },
     {
       "id": "f20f01a87ea3",
       "titlu": "Quansah suspendat două meciuri după cartonașul roșu cu Mexic",
@@ -1270,45 +1315,6 @@
       ],
       "data_publicare": "2026-07-03T10:35:05.385812+00:00",
       "data_afisaj": "3 iulie 2026, 13:35"
-    },
-    {
-      "id": "b16a84547fcb",
-      "titlu": "Antrenorul Julian Nagelsmann demisionează de la naționala Germaniei",
-      "rezumat": "Julian Nagelsmann a părăsit postul de selecționer al Germaniei, conform rapoartelor din presă, după eliminarea șocantă a echipei de la Cupa Mondială. Se pare că antrenorul în vârstă de 38 de ani a ajuns la un acord pentru a pleca în urma discuțiilor cu oficialii Federației Germane de Fotbal (DFB). Jurgen Klopp este deja menționat printre favoriții pentru a prelua funcția, pe fondul speculațiilor intense privind viitorul băncii tehnice a Germaniei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "World Soccer",
-        "Sky Sports Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-07-03T10:07:15.737906+00:00",
-      "data_afisaj": "3 iulie 2026, 13:07"
-    },
-    {
-      "id": "9a7b84d7ad45",
-      "titlu": "Georgia Stanway se transferă la Arsenal cu ambiții de a câștiga trofee",
-      "rezumat": "Mijlocașul englez Georgia Stanway a semnat cu Arsenal, după plecarea sa de la Bayern Munchen. Jucătoarea, care a ajutat Bayern să câștige patru titluri consecutive în Frauen-Bundesliga, a declarat că se alătură clubului londonez pentru a \"câștiga trofee și a se dezvolta ca jucătoare\". Transferul, realizat la finalul contractului său cu echipa germană, marchează revenirea lui Stanway în Women's Super League (WSL).",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-03T10:07:15.740128+00:00",
-      "data_afisaj": "3 iulie 2026, 13:07"
-    },
-    {
-      "id": "1247ed25abfa",
-      "titlu": "Real Madrid neagă intenția de a-l transfera pe Enzo Fernandez de la Chelsea",
-      "rezumat": "Clubul Real Madrid a declarat că nu are \"nicio intenție\" de a încerca să-l transfere pe mijlocașul Enzo Fernandez de la Chelsea în această vară. Această declarație vine în contextul speculațiilor privind un posibil interes al gigantului spaniol pentru campionul mondial argentinian. Poziția fermă a Realului clarifică situația transferului jucătorului, punând capăt zvonurilor recente din piața transferurilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-03T10:07:15.741688+00:00",
-      "data_afisaj": "3 iulie 2026, 13:07"
     }
   ]
 }
