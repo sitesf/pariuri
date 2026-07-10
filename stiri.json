@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-10T17:49:47.034616+00:00",
-  "updated_at_afisaj": "10 iulie 2026, 20:49",
+  "updated_at": "2026-07-10T18:18:12.948274+00:00",
+  "updated_at_afisaj": "10 iulie 2026, 21:18",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,42 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 113,
+  "numar_stiri": 112,
   "stiri": [
+    {
+      "id": "9363b4a4c40f",
+      "titlu": "Michael Edwards părăsește rolul de director executiv de fotbal la Fenway Sports Group",
+      "rezumat": "Michael Edwards, directorul executiv de fotbal al Fenway Sports Group (FSG), compania proprietară a clubului Liverpool, a anunțat plecarea sa din funcție. Această decizie vine înaintea noului sezon 2026/27 și reprezintă o schimbare semnificativă în structura administrativă a clubului. Edwards a avut un rol important în strategia sportivă a lui Liverpool în ultimii ani, iar plecarea sa va atrage atenția asupra viitoarelor direcții ale clubului sub conducerea FSG, care deține și alte entități sportive.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-10T18:18:12.944537+00:00",
+      "data_afisaj": "10 iulie 2026, 21:18"
+    },
+    {
+      "id": "f4f729e87e37",
+      "titlu": "Federația Argentiniană de Fotbal suspectează un atac cibernetic după scurgerea de e-mailuri",
+      "rezumat": "Federația Argentiniană de Fotbal (AFA) a semnalat posibilitatea unui atac cibernetic, după ce e-mailuri din conturile sale au fost publicate, conținând critici la adresa arbitrajului din meciul câștigat dramatic împotriva Egiptului la Cupa Mondială. Incidentul ridică îngrijorări privind securitatea datelor și integritatea comunicărilor interne ale AFA, mai ales în contextul controverselor legate de deciziile arbitrilor în timpul turneului. AFA investighează situația pentru a determina amploarea și sursa presupusului atac, care ar putea avea implicații serioase.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-10T18:18:12.946129+00:00",
+      "data_afisaj": "10 iulie 2026, 21:18"
+    },
+    {
+      "id": "5d51e5329ae9",
+      "titlu": "Liverpool și Arsenal, în cursa pentru transferul starului de la Cupa Mondială, Ayyoub Bouaddi",
+      "rezumat": "Cluburile Liverpool și Arsenal au ajuns la un acord preliminar cu Lille privind termenii cheie pentru transferul mijlocașului Ayyoub Bouaddi, un jucător care a impresionat la Cupa Mondială. Această evoluție semnalează începutul unei posibile licitații intense între cluburile din Premier League pentru serviciile tânărului star marocan. Interesul ambelor echipe de top subliniază valoarea și potențialul lui Bouaddi, care ar putea deveni o achiziție importantă pentru oricare dintre giganții englezi, consolidându-le loturile pentru viitoarele competiții.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-07-10T18:18:12.948254+00:00",
+      "data_afisaj": "10 iulie 2026, 21:18"
+    },
     {
       "id": "5b0a8ee22f4d",
       "titlu": "Fundașul englez Niamh Charles se alătură lui Manchester City de la Chelsea",
@@ -1284,50 +1318,6 @@
       ],
       "data_publicare": "2026-07-04T09:25:46.228133+00:00",
       "data_afisaj": "4 iulie 2026, 12:25"
-    },
-    {
-      "id": "ec1feb1b8b6f",
-      "titlu": "Granit Xhaka rămâne la Sunderland, în ciuda ofertei de la Chelsea",
-      "rezumat": "Căpitanul echipei Sunderland, Granit Xhaka, va rămâne la club, în ciuda unei oferte primite de la Chelsea. Sky Sports News a confirmat în exclusivitate că mijlocașul elvețian nu va părăsi Stadium of Light în această vară. Decizia subliniază angajamentul jucătorului față de Sunderland și respingerea ofertei de către club, consolidând astfel lotul pentru sezonul viitor. Această veste este importantă pentru fanii echipei, care își păstrează unul dintre cei mai influenți jucători și lideri din vestiar, în ciuda interesului unui club de top.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-03T18:08:48.427870+00:00",
-      "data_afisaj": "3 iulie 2026, 21:08"
-    },
-    {
-      "id": "01eaf5cfd231",
-      "titlu": "Kylian Mbappé, liderul colectivului francez sub conducerea lui Deschamps",
-      "rezumat": "Kylian Mbappé a devenit figura centrală și liderul echipei naționale a Franței la Cupa Mondială, sub regimul de încredere al antrenorului Didier Deschamps. Atacul impresionant al \"Les Bleus\" se bazează pe spiritul de echipă cultivat de selecționer, permițând jucătorilor să fie atât siguri, cât și aventuroși pe teren. Această abordare a contribuit la parcursul solid al Franței în competiție, demonstrând o combinație echilibrată de talent individual și coeziune colectivă, esențială pentru ambițiile de a câștiga trofeul mondial.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-03T18:08:48.429472+00:00",
-      "data_afisaj": "3 iulie 2026, 21:08"
-    },
-    {
-      "id": "14e8631fcc2c",
-      "titlu": "Succesul la Cupa Mondială transformă viața în Capul Verde",
-      "rezumat": "Naționala Capului Verde, supranumită \"Rechinii Albaștri\", a devenit cea mai mică națiune din istorie care joacă un meci eliminatoriu la Cupa Mondială, înfruntând Argentina. Acest succes istoric a avut un impact profund asupra vieții în arhipelag, unde steagul național este acum omniprezent. Festivalul da Gamboa, cel mai mare festival de muzică de pe Insula Santiago, a fost transformat, iar mii de oameni sărbătoresc performanța echipei, demonstrând cum fotbalul poate uni și inspira o națiune întreagă, aducând o recunoaștere globală fără precedent.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-03T18:08:48.430901+00:00",
-      "data_afisaj": "3 iulie 2026, 21:08"
-    },
-    {
-      "id": "2227b2cf2167",
-      "titlu": "Liverpool vizează un star francez de la Cupa Mondială pentru transfer",
-      "rezumat": "Clubul Liverpool FC a plasat un jucător francez, star la Cupa Mondială, în fruntea listei sale de transferuri. \"Cormoranii\" caută să adauge talent ofensiv lotului lor înaintea sezonului viitor, iar performanțele impresionante ale jucătorului la turneul final au atras atenția conducerii. Această mișcare ar putea reprezenta o achiziție strategică importantă pentru Liverpool, în încercarea de a-și consolida echipa și de a concura pentru trofee în sezoanele următoare. Numele jucătorului nu a fost încă dezvăluit public, dar speculațiile sunt intense.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-07-03T18:08:48.432392+00:00",
-      "data_afisaj": "3 iulie 2026, 21:08"
     }
   ]
 }
