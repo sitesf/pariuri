@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-10T10:25:22.312006+00:00",
-  "updated_at_afisaj": "10 iulie 2026, 13:25",
+  "updated_at": "2026-07-10T10:52:49.650503+00:00",
+  "updated_at_afisaj": "10 iulie 2026, 13:52",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,68 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 112,
+  "numar_stiri": 113,
   "stiri": [
+    {
+      "id": "fc8a8fbee40f",
+      "titlu": "cine sunt eu? Guess Steaua Cupei Mondiale nr. 33",
+      "rezumat": "Veți obține jucătorul de astăzi în cât mai puține încercări?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-10T10:52:25.596537+00:00",
+      "data_afisaj": "10 iulie 2026, 13:52"
+    },
+    {
+      "id": "b900b905a6b0",
+      "titlu": "Franța în semifinale după o victorie confortabilă în fața Marocului",
+      "rezumat": "Kylian Mbappe marchează al optulea gol din această Cupă Mondială pentru a compensa o ratare anterioară de penalty, Ousmane Dembele adăugând un al doilea, deoarece Franța se dovedește prea bună pentru Maroc și trece în semifinale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-10T10:52:25.597651+00:00",
+      "data_afisaj": "10 iulie 2026, 13:52"
+    },
+    {
+      "id": "e7d0b4e618ff",
+      "titlu": "Jarell Quansah a fost suspendat de la FIFA pentru două meciuri pentru eliminare împotriva Mexicului",
+      "rezumat": "Provocarea fundașului Angliei considerată un joc greșit grav. Quansah ratează sferturile de finală și potențiala semifinală. Jarell Quansah a primit o suspendare de două meciuri pentru cartonașul său roșu în victoria Angliei în optimile de finală la Cupa Mondială împotriva Mexicului, lăsându-l devastat pe fundaș. Fifa a anunțat sancțiunea joi, spunând că este pentru un joc greșit grav. Thomas Tuchel trebuie să decidă acum ce va face la fundaș drept pentru sferturile de finală împotriva Norvegiei, la Miami, sâmbătă. Reece James, care a ratat ultimele trei meciuri w",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-10T10:52:25.598805+00:00",
+      "data_afisaj": "10 iulie 2026, 13:52"
+    },
+    {
+      "id": "4d1f16d80e89",
+      "titlu": "Franța ajunge în semifinale - ar putea fi acesta cel mai bun Les Bleus vreodată?",
+      "rezumat": "Câștigătoarea Cupei Mondiale în 1998 și 2018, Franța a creat o altă echipă specială și învingând Marocul a arătat de ce sunt favorite la câștigarea competiției din 2026.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-10T10:52:25.599987+00:00",
+      "data_afisaj": "10 iulie 2026, 13:52"
+    },
+    {
+      "id": "9d67246b7ed4",
+      "titlu": "Guehi o îndoială pentru jocul Norvegiei și Rice bolnav de bug",
+      "rezumat": "Fundașul Angliei Marc Guehi se confruntă cu o ușoară accidentare la coapsă și ar putea rata sferturile de finală din Norvegia de sâmbătă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-10T10:52:25.601052+00:00",
+      "data_afisaj": "10 iulie 2026, 13:52"
+    },
     {
       "id": "e5df9f50b434",
       "titlu": "Marc Guehi, incert pentru sfertul de finală al Angliei la Cupa Mondială; Declan Rice, bolnav",
@@ -1268,53 +1328,6 @@
       ],
       "data_publicare": "2026-07-03T17:36:11.811087+00:00",
       "data_afisaj": "3 iulie 2026, 20:36"
-    },
-    {
-      "id": "8a1d9b84d44b",
-      "titlu": "Federația Germană de Fotbal îl vizează pe Jurgen Klopp după demisia lui Nagelsmann",
-      "rezumat": "Federația Germană de Fotbal (DFB) a inițiat discuții cu Jurgen Klopp pentru a prelua postul de selecționer al echipei naționale masculine, în urma demisiei lui Julian Nagelsmann. Această mișcare vine după o performanță dezamăgitoare la Cupa Mondială, iar DFB caută un antrenor cu experiență și succes dovedit pentru a reconstrui echipa. Klopp, fostul antrenor al lui Liverpool, este considerat principalul candidat pentru a readuce stabilitatea și performanța la naționala Germaniei, având un profil care se potrivește viziunii federației pentru viitor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-03T10:35:05.379374+00:00",
-      "data_afisaj": "3 iulie 2026, 13:35"
-    },
-    {
-      "id": "b1962cbe7697",
-      "titlu": "Ghid complet al tuturor celor 1.248 de jucători de la Cupa Mondială 2026",
-      "rezumat": "Un ghid exhaustiv a fost publicat, oferind informații detaliate despre fiecare dintre cei 1.248 de jucători participanți la Cupa Mondială 2026. Acest instrument cuprinzător include profiluri complete ale membrilor fiecărui lot, permițând fanilor să exploreze date despre carieră, statistici și alte detalii relevante. Ghidul este o resursă valoroasă pentru pasionații de fotbal care doresc să aprofundeze cunoștințele despre vedetele și talentele emergente ale turneului, oferind o perspectivă unică asupra competiției.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-07-03T10:35:05.382563+00:00",
-      "data_afisaj": "3 iulie 2026, 13:35"
-    },
-    {
-      "id": "a4d5c90dddef",
-      "titlu": "Decizie VAR controversată prelungește parcursul lui Ronaldo la Cupa Mondială și elimină Croația",
-      "rezumat": "Cristiano Ronaldo își continuă prezența la Cupa Mondială, după ce Croația a fost privată de un gol egalizator în prelungiri, în urma unei decizii VAR extrem de controversate. Această hotărâre a prelungit \"ultimul dans\" al veteranului portughez pe scena mondială, în timp ce a marcat finalul parcursului lui Luka Modric și al naționalei Croației la turneu. Incidentul a generat dezbateri intense privind rolul tehnologiei video în fotbal și impactul său asupra rezultatelor decisive.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-07-03T10:35:05.384219+00:00",
-      "data_afisaj": "3 iulie 2026, 13:35"
-    },
-    {
-      "id": "d0d478644488",
-      "titlu": "Riyad Mahrez se retrage din naționala Algeriei după eliminarea de la Cupa Mondială",
-      "rezumat": "Căpitanul naționalei Algeriei, Riyad Mahrez, a anunțat că se retrage din fotbalul internațional, decizie luată imediat după înfrângerea cu 2-0 în fața Elveției, care a dus la eliminarea \"Vulpilor Deșertului\" din optimile de finală ale Cupei Mondiale. Mahrez, o figură emblematică pentru fotbalul algerian, a pus capăt carierei sale la echipa națională, marcând un moment important pentru selecționata africană. Retragerea sa lasă un gol în echipa Algeriei, care va trebui să găsească noi lideri pentru viitoarele competiții.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-03T10:35:05.385812+00:00",
-      "data_afisaj": "3 iulie 2026, 13:35"
     }
   ]
 }
