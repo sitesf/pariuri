@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-11T09:28:36.441110+00:00",
-  "updated_at_afisaj": "11 iulie 2026, 12:28",
+  "updated_at": "2026-07-11T17:01:49.524937+00:00",
+  "updated_at_afisaj": "11 iulie 2026, 20:01",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,58 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 115,
+  "numar_stiri": 116,
   "stiri": [
+    {
+      "id": "23056311ce97",
+      "titlu": "Mijlocașul sud-african Jayden Adams a decedat la 25 de ani",
+      "rezumat": "Jayden Adams, mijlocașul naționalei Africii de Sud și al clubului Mamelodi Sundowns, a încetat din viață la vârsta de 25 de ani. Vestea tragică vine la doar câteva săptămâni după ce Adams a reprezentat țara sa la Cupa Mondială. Decesul său a fost confirmat de multiple surse sportive de top, stârnind un val de tristețe în comunitatea fotbalistică internațională și printre fanii săi. Adams era considerat un talent promițător în fotbalul sud-african.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-11T17:01:49.520265+00:00",
+      "data_afisaj": "11 iulie 2026, 20:01"
+    },
+    {
+      "id": "5ca430d0c906",
+      "titlu": "Ken Bates, fostul proprietar al cluburilor Chelsea și Leeds, a decedat la 94 de ani",
+      "rezumat": "Ken Bates, o figură emblematică și controversată a fotbalului englez, fost proprietar al cluburilor Chelsea și Leeds United, a încetat din viață la vârsta de 94 de ani. Bates a fost recunoscut pentru personalitatea sa colorată și pentru impactul semnificativ pe care l-a avut asupra fotbalului britanic de-a lungul deceniilor. Decesul său a fost confirmat de BBC Sport Football și The Guardian Football, marcând sfârșitul unei ere pentru un om care a lăsat o amprentă puternică în sport.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-11T17:01:49.521889+00:00",
+      "data_afisaj": "11 iulie 2026, 20:01"
+    },
+    {
+      "id": "4fb5952b3127",
+      "titlu": "Jürgen Klopp a ajuns la un acord de principiu pentru a deveni noul selecționer al Germaniei",
+      "rezumat": "Fostul antrenor al lui Liverpool, Jürgen Klopp, a acceptat un acord de principiu pentru a prelua funcția de selecționer al echipei naționale de fotbal a Germaniei. Această mutare vine după demisia lui Julian Nagelsmann. Federația Germană de Fotbal (DFB) a confirmat că s-a ajuns la un consens asupra punctelor cheie, iar Klopp este așteptat să semneze un contract valabil până în 2030. Vestea a fost confirmată de BBC Sport Football, Sky Sports Football și The Guardian Football.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-11T17:01:49.523493+00:00",
+      "data_afisaj": "11 iulie 2026, 20:01"
+    },
+    {
+      "id": "87b6f8286a28",
+      "titlu": "Coventry City îl transferă pe Loum Tchaouna de la Burnley",
+      "rezumat": "Clubul Coventry City, participant în Premier League, a anunțat achiziționarea mijlocașului Loum Tchaouna de la echipa retrogradată Burnley. Suma de transfer nu a fost dezvăluită public. Această mutare reprezintă o întărire importantă pentru Coventry City înaintea noului sezon, aducând un jucător cu experiență la nivel înalt. Transferul a fost confirmat de BBC Sport Football, subliniind o decizie strategică a clubului de a-și consolida lotul în vederea provocărilor din campionat.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-11T17:01:49.524918+00:00",
+      "data_afisaj": "11 iulie 2026, 20:01"
+    },
     {
       "id": "179ac0056d58",
       "titlu": "Tuchel își exprimă îngrijorarea față de Erling Haaland înaintea meciului Anglia - Norvegia",
@@ -1308,42 +1358,6 @@
       ],
       "data_publicare": "2026-07-04T17:09:53.954620+00:00",
       "data_afisaj": "4 iulie 2026, 20:09"
-    },
-    {
-      "id": "d56802275cc3",
-      "titlu": "Jürgen Klopp în negocieri avansate pentru postul de selecționer al Germaniei",
-      "rezumat": "Jürgen Klopp a confirmat că se află în negocieri intensive pentru a prelua funcția de selecționer al naționalei Germaniei, declarând că este „mai mult decât reîncărcat” și „pregătit” pentru această provocare. Fostul antrenor al lui Liverpool este considerat candidatul principal de către federația germană de fotbal, în urma demisiei lui Julian Nagelsmann. Discuțiile vizează stabilirea unei strategii clare și a modificărilor necesare pentru a revigora echipa, mai ales după eliminarea Germaniei de la Cupa Mondială 2026 în optimi.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-04T10:08:54.053860+00:00",
-      "data_afisaj": "4 iulie 2026, 13:08"
-    },
-    {
-      "id": "9bc1006b9aaa",
-      "titlu": "Egiptul avansează în optimile Cupei Mondiale 2026, învingând Australia la penalty-uri",
-      "rezumat": "Naționala Egiptului a obținut o calificare istorică în optimile de finală ale Cupei Mondiale 2026, după ce a învins Australia într-o sesiune dramatică de lovituri de departajare. Meciul a fost unul extrem de disputat, iar decizia Australiei de a schimba portarul înainte de penalty-uri s-a dovedit a fi una neinspirată. Aceasta marchează prima victorie a Egiptului în faza eliminatorie a Cupei Mondiale, un moment de referință pentru fotbalul egiptean, care își continuă parcursul la turneul final.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-04T10:08:54.056501+00:00",
-      "data_afisaj": "4 iulie 2026, 13:08"
-    },
-    {
-      "id": "757243d85394",
-      "titlu": "Istvan Kovacs, omis de la delegările pentru optimile Cupei Mondiale 2026",
-      "rezumat": "Arbitrul român Istvan Kovacs nu a fost inclus pe lista delegărilor pentru meciurile din optimile de finală ale Cupei Mondiale 2026, o decizie care a generat discuții în rândul presei sportive. Deși FIFA a emis un anunț general privind arbitrii selectați pentru această fază a competiției, motivele specifice pentru absența lui Kovacs nu au fost detaliate. Această situație ridică semne de întrebare cu privire la parcursul său ulterior la turneul final și la criteriile de selecție aplicate de forul mondial.",
-      "categorie": "Fotbal",
-      "surse": [
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-07-04T10:08:54.059225+00:00",
-      "data_afisaj": "4 iulie 2026, 13:08"
     }
   ]
 }
