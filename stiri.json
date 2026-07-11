@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-10T18:18:12.948274+00:00",
-  "updated_at_afisaj": "10 iulie 2026, 21:18",
+  "updated_at": "2026-07-11T08:49:57.300700+00:00",
+  "updated_at_afisaj": "11 iulie 2026, 11:49",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 112,
+  "numar_stiri": 117,
   "stiri": [
+    {
+      "id": "3046081a643e",
+      "titlu": "Spania se califică în semifinale la Cupa Mondială, după victoria împotriva Belgiei",
+      "rezumat": "Echipa națională a Spaniei a avansat în semifinalele Cupei Mondiale, învingând Belgia grație unui gol marcat de Mikel Merino în minutul 88. Intrat pe teren din postura de rezervă, Merino a devenit din nou eroul Spaniei, asigurând calificarea echipei sale într-o confruntare cu Franța în penultimul act al competiției. Victoria a fost obținută într-un meci tensionat, în care Belgia a fost eliminată din turneu, marcând un moment decisiv pentru parcursul spaniolilor în turneu.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-11T08:49:57.294151+00:00",
+      "data_afisaj": "11 iulie 2026, 11:49"
+    },
+    {
+      "id": "fea276e5dc32",
+      "titlu": "Thomas Tuchel susține că FIFA nu a oferit explicații pentru suspendarea lui Jarell Quansah",
+      "rezumat": "Selecționerul Angliei, Thomas Tuchel, a declarat că Federația Internațională de Fotbal (FIFA) nu a furnizat nicio explicație oficială privind suspendarea pe două meciuri a fundașului Jarell Quansah. Decizia a venit în urma cartonașului roșu primit de Quansah în partida împotriva Mexicului. Tuchel a subliniat lipsa de comunicare din partea FIFA, lăsând echipa engleză fără clarificări în legătură cu motivul exact al sancțiunii extinse, o situație care a generat frustrare în tabăra Angliei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-11T08:49:57.295836+00:00",
+      "data_afisaj": "11 iulie 2026, 11:49"
+    },
+    {
+      "id": "64b49c227ae9",
+      "titlu": "Guehi, Rice și James se antrenează cu Anglia înaintea meciului cu Norvegia",
+      "rezumat": "Mijlocașul Declan Rice și fundașii Marc Guehi și Reece James s-au antrenat alături de echipa Angliei înaintea sfertului de finală al Cupei Mondiale împotriva Norvegiei. Prezența lor la antrenament reprezintă o veste bună pentru selecționerul Thomas Tuchel, având în vedere incertitudinile legate de starea lor fizică. Această confirmare sugerează că jucătorii ar putea fi disponibili pentru partida crucială de sâmbătă, oferind opțiuni suplimentare pentru defensiva și mijlocul terenului englez, după ce anterior fuseseră raportați ca fiind incerți sau bolnavi.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-11T08:49:57.297366+00:00",
+      "data_afisaj": "11 iulie 2026, 11:49"
+    },
+    {
+      "id": "cacab233c329",
+      "titlu": "Noul selecționer al Portugaliei afirmă că viitorul internațional al lui Cristiano Ronaldo nu este încheiat",
+      "rezumat": "Noul selecționer al echipei naționale a Portugaliei a declarat că viitorul internațional al lui Cristiano Ronaldo nu este încă decis. Această afirmație vine în contextul speculațiilor privind retragerea atacantului din echipa națională, după numirea noului antrenor. Antrenorul a lăsat deschisă posibilitatea ca Ronaldo să continue să reprezinte Portugalia, sugerând că decizia finală îi aparține jucătorului și că nu există o excludere definitivă din planurile sale pentru viitorul selecționatei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-07-11T08:49:57.299017+00:00",
+      "data_afisaj": "11 iulie 2026, 11:49"
+    },
+    {
+      "id": "b8d88eceae5b",
+      "titlu": "Harry Kane a jucat golf cu Donald Trump, după laudele fostului președinte american",
+      "rezumat": "Atacantul Angliei, Harry Kane, a dezvăluit că a jucat golf cu fostul președinte american Donald Trump. Întâlnirea a avut loc la câteva zile după ce Trump l-a lăudat public pe Kane pentru performanța sa în meciul Angliei împotriva Mexicului. Această interacțiune neobișnuită între o figură sportivă de top și un fost lider politic a atras atenția presei, adăugând o notă inedită la evenimentele din jurul Cupei Mondiale și generând discuții în afara terenului de joc.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-07-11T08:49:57.300679+00:00",
+      "data_afisaj": "11 iulie 2026, 11:49"
+    },
     {
       "id": "9363b4a4c40f",
       "titlu": "Michael Edwards părăsește rolul de director executiv de fotbal la Fenway Sports Group",
