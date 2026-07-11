@@ -1,40 +1,26 @@
 {
-  "data_start": "2026-07-10",
-  "data_final": "2026-07-17",
-  "updated_at": "2026-07-10T08:28:18.552887+00:00",
+  "data_start": "2026-07-11",
+  "data_final": "2026-07-18",
+  "updated_at": "2026-07-11T07:15:47.031825+00:00",
   "surse": [
     "The Odds API"
   ],
-  "status_date": "3 meciuri gasite, 3 cu pronostic",
+  "status_date": "3 meciuri gasite, 2 cu pronostic",
   "numar_meciuri": 3,
   "meciuri": [
-    {
-      "data": "2026-07-10",
-      "ora": "22:00",
-      "home": "Spain",
-      "away": "Belgium",
-      "liga": "Cupa Mondială 2026",
-      "cota_1": 1.65,
-      "cota_x": 4.04,
-      "cota_2": 5.84,
-      "pronostic": "1",
-      "motiv": "Gazde favorite clare (cota 1.65)",
-      "cota_pronostic": 1.65,
-      "probabilitate": 0.606
-    },
     {
       "data": "2026-07-12",
       "ora": "00:00",
       "home": "Norway",
       "away": "England",
       "liga": "Cupa Mondială 2026",
-      "cota_1": 4.0,
+      "cota_1": 3.85,
       "cota_x": 3.7,
-      "cota_2": 1.82,
+      "cota_2": 1.9,
       "pronostic": "X2",
-      "motiv": "Oaspeți ușor favorizați (2:1.82 X:3.70)",
-      "cota_pronostic": 1.22,
-      "probabilitate": 0.82
+      "motiv": "Oaspeți ușor favorizați (2:1.90 X:3.70)",
+      "cota_pronostic": 1.26,
+      "probabilitate": 0.797
     },
     {
       "data": "2026-07-12",
@@ -42,13 +28,27 @@
       "home": "Argentina",
       "away": "Switzerland",
       "liga": "Cupa Mondială 2026",
-      "cota_1": 1.71,
-      "cota_x": 3.65,
-      "cota_2": 6.0,
+      "cota_1": 1.7,
+      "cota_x": 3.6,
+      "cota_2": 6.4,
       "pronostic": "1X",
-      "motiv": "Gazde ușor favorizate (1:1.71 X:3.65)",
-      "cota_pronostic": 1.16,
-      "probabilitate": 0.859
+      "motiv": "Gazde ușor favorizate (1:1.70 X:3.60)",
+      "cota_pronostic": 1.15,
+      "probabilitate": 0.866
+    },
+    {
+      "data": "2026-07-14",
+      "ora": "22:00",
+      "home": "France",
+      "away": "Spain",
+      "liga": "Cupa Mondială 2026",
+      "cota_1": 2.3,
+      "cota_x": 3.1,
+      "cota_2": 3.0,
+      "pronostic": null,
+      "motiv": null,
+      "cota_pronostic": null,
+      "probabilitate": null
     }
   ]
 }
