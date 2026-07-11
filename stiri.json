@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-11T08:49:57.300700+00:00",
-  "updated_at_afisaj": "11 iulie 2026, 11:49",
+  "updated_at": "2026-07-11T09:28:36.441110+00:00",
+  "updated_at_afisaj": "11 iulie 2026, 12:28",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,41 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 117,
+  "numar_stiri": 115,
   "stiri": [
+    {
+      "id": "179ac0056d58",
+      "titlu": "Tuchel își exprimă îngrijorarea față de Erling Haaland înaintea meciului Anglia - Norvegia",
+      "rezumat": "Selecționerul Angliei, Thomas Tuchel, a declarat că este inevitabil să se concentreze pe atacantul norvegian Erling Haaland, având în vedere performanțele anterioare ale acestuia împotriva echipelor sale. Înaintea sfertului de finală al Cupei Mondiale dintre Anglia și Norvegia, Tuchel a subliniat că Haaland, care a avut succes împotriva formațiilor antrenate de el în trecut, reprezintă o amenințare majoră. Antrenorul german a menționat că echipa sa trebuie să își găsească identitatea și să gestioneze presiunea impusă de prezența atacantului de clasă mondială.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-11T09:28:36.438580+00:00",
+      "data_afisaj": "11 iulie 2026, 12:28"
+    },
+    {
+      "id": "68bf80c41907",
+      "titlu": "Kylian Mbappé își asumă rolul de lider și îndeamnă la modestie în echipa Franței",
+      "rezumat": "Decizia selecționerului Didier Deschamps de a-i încredința banderola de căpitan lui Kylian Mbappé a dat roade, contribuind la menținerea unei atitudini lipsite de complacere în parcursul Franței către semifinalele Cupei Mondiale. Mbappé, considerat o forță motrice, a preluat un rol inspirațional, încurajând echipa să rămână modestă și concentrată. Această abordare a ajutat \"Les Bleus\" să avanseze într-o a treia semifinală consecutivă la Cupa Mondială, demonstrând că leadership-ul său este crucial pentru succesul colectiv.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-11T09:28:36.439811+00:00",
+      "data_afisaj": "11 iulie 2026, 12:28"
+    },
+    {
+      "id": "4b2b1fb3d1cd",
+      "titlu": "Gazonul artificial și revoluția antrenoratului, factori cheie în ascensiunea \"generației de aur\" a Norvegiei",
+      "rezumat": "Federația Norvegiană de Fotbal a implementat o strategie inovatoare, bazată pe utilizarea pe scară largă a terenurilor cu gazon artificial și pe o revoluție în metodele de antrenament, pentru a dezvolta o \"generație de aur\" de jucători. Investițiile semnificative, inclusiv din fonduri provenite din industria jocurilor de noroc, au susținut această transformare. Accentul a fost pus pe colaborare și pe eliminarea ego-urilor în rândul antrenorilor, creând un mediu propice pentru dezvoltarea talentelor și ascensiunea fotbalului norvegian pe scena internațională.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-11T09:28:36.441095+00:00",
+      "data_afisaj": "11 iulie 2026, 12:28"
+    },
     {
       "id": "3046081a643e",
       "titlu": "Spania se califică în semifinale la Cupa Mondială, după victoria împotriva Belgiei",
@@ -1311,68 +1344,6 @@
       ],
       "data_publicare": "2026-07-04T10:08:54.059225+00:00",
       "data_afisaj": "4 iulie 2026, 13:08"
-    },
-    {
-      "id": "6fa381beed05",
-      "titlu": "Lovitura Arias trimite Columbia în optimile de finală cu victoria asupra Ghanei",
-      "rezumat": "Jhon Arias marchează singurul gol al meciului, Columbia devenind ultima echipă care își rezervă locul în optimile de finală, după o victorie cu 1-0 în fața Ghanei la Kansas City.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-04T09:25:46.222318+00:00",
-      "data_afisaj": "4 iulie 2026, 12:25"
-    },
-    {
-      "id": "1e78f544d288",
-      "titlu": "Lovitura de la ora 1:00 Anglia-Mexic neschimbată după întoarcerea Fifa",
-      "rezumat": "Cupa Mondială a Angliei, optimile de finală, împotriva Mexicului, va începe luni, la ora 01:00 BST.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-04T09:25:46.223770+00:00",
-      "data_afisaj": "4 iulie 2026, 12:25"
-    },
-    {
-      "id": "94d95769b737",
-      "titlu": "Argentina a depășit Capul Verde în thriller de prelungiri",
-      "rezumat": "Argentina a depășit o sperietură uriașă în timp ce a învins Capul Verde cu 3-2 în prelungiri, datorită unei lovituri de cap deviate a lui Cristian Romero pentru a trece în optimile de finală.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-04T09:25:46.225090+00:00",
-      "data_afisaj": "4 iulie 2026, 12:25"
-    },
-    {
-      "id": "b5834b887b69",
-      "titlu": "Argentina a uluit când Duarte egalează pentru Capul Verde",
-      "rezumat": "Deroy Duarte uimește Argentina în timp ce egalează pentru Capul Verde în timpul meciului de optimi ale Cupei Mondiale de la Miami.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-07-04T09:25:46.226368+00:00",
-      "data_afisaj": "4 iulie 2026, 12:25"
-    },
-    {
-      "id": "40c8b803cb09",
-      "titlu": "Cupa Mondială 2026: Capul Verde dă o groază puternică Argentinei; finalul 16 începe pe fondul haosului meciurilor Mexic-Anglia – live",
-      "rezumat": "⚽ Toate cele mai recente știri și reacția de la Cupa Mondială ⚽ Ghidul jucătorului | Bracketologie | Remiză eliminatorie | Trimiteți-ne un e-mail Australia a pierdut în fața Egiptului la penalty-uri într-unul dintre cele mai dezastruoase reprize de penalty. Schimbarea portarilor este o mișcare îndrăzneață, mai ales când Mat Ryan a făcut un Shilton corect. Jonathan Wilson era acolo. Continuă să citești...",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-07-04T09:25:46.228133+00:00",
-      "data_afisaj": "4 iulie 2026, 12:25"
     }
   ]
 }
