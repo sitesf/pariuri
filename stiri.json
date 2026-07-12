@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-12T17:02:12.778134+00:00",
-  "updated_at_afisaj": "12 iulie 2026, 20:02",
+  "updated_at": "2026-07-12T17:53:48.058302+00:00",
+  "updated_at_afisaj": "12 iulie 2026, 20:53",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,68 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 110,
+  "numar_stiri": 112,
   "stiri": [
+    {
+      "id": "f1fd7c665ac2",
+      "titlu": "Lamine Yamal? Mbappe? Kane? Alege-ți primul unsprezece pentru semifinala Cupei Mondiale",
+      "rezumat": "Pe măsură ce ne pregătim pentru semifinala Cupei Mondiale, BBC Sport își alege primul unsprezece combinat din ultimele patru echipe. Ești de acord?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-07-12T17:53:37.227717+00:00",
+      "data_afisaj": "12 iulie 2026, 20:53"
+    },
+    {
+      "id": "e3719f59684e",
+      "titlu": "Bellingham marchează golul victoriei în prelungiri, iar Anglia ajunge în semifinale",
+      "rezumat": "Jude Bellingham marchează de două ori, inclusiv golul victoriei în prelungiri, în timp ce Anglia revine de la un scor defavorabil pentru a învinge Norvegia cu 2-1 la Miami și a ajunge în semifinalele Cupei Mondiale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-12T17:53:37.229128+00:00",
+      "data_afisaj": "12 iulie 2026, 20:53"
+    },
+    {
+      "id": "db4e0657544b",
+      "titlu": "Clasamentul puterii la Cupa Mondială 2026: cine conduce plutonul pe măsură ce se apropie semifinalele?",
+      "rezumat": "Evaluăm echipele care au jucat în sferturile de finală pe măsură ce se apropie faza decisivă a turneului. Didier Deschamps a mai văzut toate acestea și cu siguranță nu se teme nici măcar de cele mai joase blocuri defensive. Este clar că toată lumea se teme de Les Bleus, ceea ce este de înțeles, iar ei folosesc acest lucru în avantajul lor. Este admirabil cum echipele reușesc să țină Franța în frâu pentru perioade lungi, dar meciul este prea lung pentru a-i reduce complet la tăcere pe Kylian Mbappé și Ousmane Dembélé. Împotriva Marocului a fost nevoie de o oră de răbdare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-07-12T17:53:37.230590+00:00",
+      "data_afisaj": "12 iulie 2026, 20:53"
+    },
+    {
+      "id": "1b3171c84b8d",
+      "titlu": "Cablegate: ar fi trebuit anulat primul gol al lui Jude Bellingham împotriva Norvegiei?",
+      "rezumat": "Mijlocașul a readus Anglia la egalitate într-un stil excelent, dar imaginile sugerează o interferență ilegală în faza premergătoare. Portarul Norvegiei, Ørjan Håskjold Nyland, execută un degajare de la poartă pe teren la două minute de prelungiri la sfârșitul primei reprize. Mingea cade chiar în jumătatea Angliei, lângă linia de tușă, unde Elliot Anderson reușește să preia posesia și să avanseze. Citește mai departe...",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-12T17:53:37.232070+00:00",
+      "data_afisaj": "12 iulie 2026, 20:53"
+    },
+    {
+      "id": "5a014ae5ebe1",
+      "titlu": "Jude Bellingham, neimpresionat după ce Tuchel a criticat performanța „norocoasă” a Angliei",
+      "rezumat": "Antrenorul principal a spus că echipa a fost „neglijentă” și „nu suficient de rapidă”. Bellingham, autor a două goluri, răspunde: „Da, bine, oricum”. Jude Bellingham a replicat criticilor aduse performanței Angliei de Thomas Tuchel, după ce cele două goluri ale sale împotriva Norvegiei au asigurat un loc în semifinalele Cupei Mondiale pentru a patra oară. O prestație virtuoasă a starului de la Real Madrid a inspirat o victorie de revenire după ce Andreas Schjelderup a adus Norvegia în avantaj, Bellingham marcând un gol egalizator controversat chiar înainte de pauză. Reluările arată că...",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-12T17:53:37.233550+00:00",
+      "data_afisaj": "12 iulie 2026, 20:53"
+    },
     {
       "id": "1a829b068ebd",
       "titlu": "Controversă la Cupa Mondială: Ar fi trebuit anulat primul gol al lui Jude Bellingham împotriva Norvegiei?",
@@ -1259,39 +1319,6 @@
       ],
       "data_publicare": "2026-07-05T17:57:33.175669+00:00",
       "data_afisaj": "5 iulie 2026, 20:57"
-    },
-    {
-      "id": "85022e5f9539",
-      "titlu": "Real Madrid Îl Achiziționează pe Denzel Dumfries de la Inter Milano",
-      "rezumat": "Real Madrid a anunțat oficial transferul fundașului olandez Denzel Dumfries de la Inter Milano. Jucătorul a semnat un contract pe patru ani cu gigantul spaniol. Această mutare strategică vine în contextul în care Real Madrid își propune să-și întărească linia defensivă pentru sezoanele viitoare. Dumfries, cunoscut pentru viteza și contribuția sa ofensivă, este așteptat să aducă un plus de valoare echipei, consolidând poziția de fundaș lateral drept.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-05T17:15:39.323406+00:00",
-      "data_afisaj": "5 iulie 2026, 20:15"
-    },
-    {
-      "id": "e829a1816452",
-      "titlu": "Carlo Ancelotti Afirmă că Brazilia Nu Are un Plan Anti-Haaland Împotriva Norvegiei",
-      "rezumat": "Înaintea confruntării din optimile de finală ale Cupei Mondiale dintre Brazilia și Norvegia, selecționerul brazilian Carlo Ancelotti a declarat că echipa sa nu a pregătit un plan specific „anti-Haaland”. Această declarație sugerează că Brazilia se va concentra pe propriul joc și pe forța colectivă, în loc să se axeze exclusiv pe neutralizarea atacantului norvegian Erling Haaland. Meciul este anticipat cu mare interes, având în vedere prezența unor staruri precum Vinicius Jr. și Haaland.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-05T17:15:39.325786+00:00",
-      "data_afisaj": "5 iulie 2026, 20:15"
-    },
-    {
-      "id": "bc62d3be1a99",
-      "titlu": "Anglia Se Confruntă cu o Nouă Accidentare la Antrenament Înaintea Meciului cu Mexic",
-      "rezumat": "Naționala Angliei a primit vești proaste înaintea meciului din optimile de finală ale Cupei Mondiale împotriva Mexicului, după ce un jucător a suferit o nouă accidentare la antrenament. Antrenorul Thomas Tuchel se confruntă cu provocări suplimentare în alcătuirea echipei, pe lângă dificultățile de adaptare la condițiile din Mexico City. Această situație complică pregătirile „celor Trei Lei” pentru o partidă crucială pe Estadio Azteca, unde vor încerca să obțină calificarea în sferturile de finală.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-07-05T17:15:39.327393+00:00",
-      "data_afisaj": "5 iulie 2026, 20:15"
     }
   ]
 }
