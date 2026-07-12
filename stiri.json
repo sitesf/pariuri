@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-11T17:48:22.692726+00:00",
-  "updated_at_afisaj": "11 iulie 2026, 20:48",
+  "updated_at": "2026-07-12T09:04:22.724199+00:00",
+  "updated_at_afisaj": "12 iulie 2026, 12:04",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,64 @@
   },
   "numar_stiri": 114,
   "stiri": [
+    {
+      "id": "b015e0b66119",
+      "titlu": "Jude Bellingham marchează de două ori, Anglia se califică în semifinalele Cupei Mondiale",
+      "rezumat": "Jude Bellingham a fost eroul Angliei, marcând de două ori, inclusiv golul victoriei în prelungiri, într-un meci tensionat împotriva Norvegiei. Anglia a revenit de la un scor defavorabil pentru a câștiga cu 2-1 la Miami, asigurându-și un loc în semifinalele Cupei Mondiale. Performanța sa excepțională a fost crucială pentru calificarea echipei, care acum se pregătește pentru o confruntare dificilă în faza următoare a competiției.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-12T09:04:22.717898+00:00",
+      "data_afisaj": "12 iulie 2026, 12:04"
+    },
+    {
+      "id": "57742f5280cf",
+      "titlu": "Jude Bellingham, nemulțumit de criticile lui Thomas Tuchel la adresa performanței Angliei",
+      "rezumat": "Antrenorul Angliei, Thomas Tuchel, a criticat performanța echipei după victoria cu 2-1 împotriva Norvegiei, descriind-o ca fiind \"neglijentă\" și \"nu suficient de rapidă\". Jude Bellingham, autorul celor două goluri care au asigurat calificarea în semifinale la Cupa Mondială, a răspuns la aceste critici, exprimându-și nemulțumirea față de declarațiile antrenorului. Această divergență de opinii subliniază tensiunile interne, chiar și după o victorie importantă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-12T09:04:22.719509+00:00",
+      "data_afisaj": "12 iulie 2026, 12:04"
+    },
+    {
+      "id": "f7a48c630a26",
+      "titlu": "Argentina învinge Elveția în prelungiri și va întâlni Anglia în semifinalele Cupei Mondiale",
+      "rezumat": "Argentina s-a calificat în semifinalele Cupei Mondiale după o victorie dramatică cu 3-1 în prelungiri împotriva Elveției, care a jucat în inferioritate numerică. După ce scorul a fost egal la finalul timpului regulamentar, Argentina a marcat de două ori în prelungiri, asigurându-și un loc în penultimul act al competiției. Această victorie pregătește o confruntare foarte așteptată cu Anglia în semifinale, promițând un spectacol fotbalistic de înaltă tensiune.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-12T09:04:22.721047+00:00",
+      "data_afisaj": "12 iulie 2026, 12:04"
+    },
+    {
+      "id": "847e48fa03a3",
+      "titlu": "Senegalul îl demite pe selecționerul Pape Thiaw după eliminarea de la Cupa Mondială",
+      "rezumat": "Federația Senegaleză de Fotbal a anunțat demiterea selecționerului Pape Thiaw, în urma eliminării echipei naționale în faza optimilor de finală (ultimii 32) a Cupei Mondiale 2026. Decizia vine ca o consecință a performanței sub așteptări a echipei la turneul final. Thiaw a fost la conducerea naționalei senegaleze, dar rezultatul obținut la Cupa Mondială a determinat schimbarea la nivelul băncii tehnice.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-12T09:04:22.722550+00:00",
+      "data_afisaj": "12 iulie 2026, 12:04"
+    },
+    {
+      "id": "2a3184104dba",
+      "titlu": "Breel Embolo, primul jucător eliminat la Cupa Mondială conform noii reguli de identitate greșită",
+      "rezumat": "Atacantul elvețian Breel Embolo a devenit primul jucător din istoria Cupei Mondiale care a fost eliminat de pe teren în urma aplicării unei noi reguli privind identitatea greșită. Incidentul a avut loc în timpul meciului, iar decizia a fost luată după ce arbitrul a confundat un jucător cu altul în timpul unei faze de joc, aplicând noua reglementare menită să corecteze astfel de erori. Această eliminare marchează un precedent important în aplicarea regulamentului la turneul final.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-12T09:04:22.724179+00:00",
+      "data_afisaj": "12 iulie 2026, 12:04"
+    },
     {
       "id": "1b3d73e82dba",
       "titlu": "Alex Jimenez de la Bournemouth, aproape de un împrumut la Fiorentina pe fondul unei investigații",
@@ -1278,64 +1336,6 @@
       ],
       "data_publicare": "2026-07-05T09:44:08.058404+00:00",
       "data_afisaj": "5 iulie 2026, 12:44"
-    },
-    {
-      "id": "28427b42e013",
-      "titlu": "Canada se confruntă cu Maroc în optimile de finală ale Cupei Mondiale LIVE!",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-04T17:58:02.131365+00:00",
-      "data_afisaj": "4 iulie 2026, 20:58"
-    },
-    {
-      "id": "b3192a1a4be5",
-      "titlu": "Clasamentul puterii la Cupa Mondială 2026: numărul 1 incontestabil, co-gazdele cresc și giganții cad",
-      "rezumat": "Evaluăm poziția națiunilor care au jucat în ultimele 32 de turnee înainte de începerea următoarei runde de jocuri. Les Bleus par de neoprit – toți cei șase arbitri i-au clasat pe locul 1. Suedia a făcut tot posibilul pentru a face față primelor patru franceză, dar au fost uimiți de cea mai inteligentă operațiune din oraș. Chiar și atunci când un adversar se simte confortabil, Michael Olise sau Kylian Mbappé pot produce geniu fără preaviz, distrugând cele mai bine organizate apărări. „Am spus că vreau să mă bucur de această Cupă Mondială",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-07-04T17:58:02.132851+00:00",
-      "data_afisaj": "4 iulie 2026, 20:58"
-    },
-    {
-      "id": "d319a2dedbd1",
-      "titlu": "Fulgerul, securitatea hotelului și spionajul - probleme cu care se confruntă Anglia în Mexic",
-      "rezumat": "Anglia este huiduită când sosesc la hotelul din Mexico City pentru a se pregăti pentru meciul de optimi ale Cupei Mondiale împotriva Mexicului - și nu este singura problemă cu care se confruntă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-04T17:58:02.134242+00:00",
-      "data_afisaj": "4 iulie 2026, 20:58"
-    },
-    {
-      "id": "3fe7a83fe266",
-      "titlu": "În lumina reflectoarelor, dar evitând lumina reflectoarelor - ascensiunea unică a lui Olise la vârf",
-      "rezumat": "Un fotbalist căruia îi displace prea multă atenția presei, dar Michael Olise ar putea să nu aibă prea multe de ales dacă își va continua eroismul la Cupa Mondială.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-04T17:58:02.135601+00:00",
-      "data_afisaj": "4 iulie 2026, 20:58"
-    },
-    {
-      "id": "fb91eac813cc",
-      "titlu": "De ce cluburile de top din Europa se uită la senzația adolescentă din Maroc, Bouaddi",
-      "rezumat": "După ce a luminat Cupa Mondială din 2022, Marocul strălucește din nou pe scena globală - dar de data aceasta îl are în rândurile lor pe senzația adolescentă Ayyoub Bouaddi.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-04T17:58:02.137010+00:00",
-      "data_afisaj": "4 iulie 2026, 20:58"
     }
   ]
 }
