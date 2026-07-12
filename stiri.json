@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-12T09:50:11.718614+00:00",
-  "updated_at_afisaj": "12 iulie 2026, 12:50",
+  "updated_at": "2026-07-12T17:02:12.778134+00:00",
+  "updated_at_afisaj": "12 iulie 2026, 20:02",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,62 @@
   },
   "numar_stiri": 110,
   "stiri": [
+    {
+      "id": "1a829b068ebd",
+      "titlu": "Controversă la Cupa Mondială: Ar fi trebuit anulat primul gol al lui Jude Bellingham împotriva Norvegiei?",
+      "rezumat": "O dezbatere intensă a apărut în urma primului gol marcat de Jude Bellingham pentru Anglia în sferturile de finală ale Cupei Mondiale împotriva Norvegiei. Imaginile sugerează o posibilă interferență ilegală în faza premergătoare golului. Se speculează că o cameră suspendată (spidercam) ar fi putut influența traiectoria mingii după o degajare a portarului norvegian Ørjan Håskjold Nyland, înainte ca Elliot Anderson să preia posesia. Această situație ridică semne de întrebare serioase cu privire la validitatea golului și la rolul tehnologiei în arbitraj.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-12T17:02:12.772088+00:00",
+      "data_afisaj": "12 iulie 2026, 20:02"
+    },
+    {
+      "id": "efacc837b10c",
+      "titlu": "Declan Rice, bolnav timp de trei zile înainte de meciul Angliei cu Norvegia",
+      "rezumat": "Thomas Tuchel, selecționerul Angliei, a dezvăluit că mijlocașul cheie Declan Rice a petrecut aproape trei zile la pat, suferind de o răceală puternică, chiar înainte de partida din sferturile de finală ale Cupei Mondiale împotriva Norvegiei. În ciuda acestei probleme de sănătate semnificative, Rice a fost pe teren și a contribuit la victoria Angliei cu 2-1, care a asigurat calificarea echipei în semifinale. Declarația lui Tuchel evidențiază sacrificiul și determinarea jucătorului înaintea unui meci crucial.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-12T17:02:12.773568+00:00",
+      "data_afisaj": "12 iulie 2026, 20:02"
+    },
+    {
+      "id": "8eaa6936ee80",
+      "titlu": "Gianni Infantino sugerează extinderea Cupei Mondiale la 64 de echipe înainte de ediția din 2030",
+      "rezumat": "Președintele FIFA, Gianni Infantino, a indicat posibilitatea extinderii Cupei Mondiale la 64 de echipe, de la formatul actual de 48, înainte de turneul din 2030. Într-un interviu, Infantino a declarat că o astfel de creștere a numărului de participanți ar putea fi benefică și că subiectul va fi analizat și discutat în detaliu de comitetele relevante ale FIFA după încheierea Cupei Mondiale curente. El a subliniat succesul formatului cu 48 de echipe, deschizând ușa pentru o nouă evoluție a competiției.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-12T17:02:12.775086+00:00",
+      "data_afisaj": "12 iulie 2026, 20:02"
+    },
+    {
+      "id": "c6fbdca24ac2",
+      "titlu": "Decizie VAR controversată: Penalty-ul Angliei anulat împotriva Norvegiei",
+      "rezumat": "Un moment de tensiune și controversă a marcat meciul din sferturile de finală ale Cupei Mondiale dintre Anglia și Norvegia, când un penalty acordat inițial echipei engleze a fost anulat în urma unei intervenții VAR. Decizia a fost luată după ce s-a considerat că Djed Spence a inițiat contactul cu jucătorul norvegian Oscar Bobb, în timpul prelungirilor. Această hotărâre a stârnit dezbateri aprinse privind aplicarea regulilor VAR și a generat frustrare în rândul suporterilor și al echipei afectate.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-12T17:02:12.776556+00:00",
+      "data_afisaj": "12 iulie 2026, 20:02"
+    },
+    {
+      "id": "06e84a2890fc",
+      "titlu": "Denise O'Sullivan este așteptată să plece de la Liverpool la doar șase luni după transfer",
+      "rezumat": "Denise O'Sullivan, o achiziție record pentru clubul Liverpool în fotbalul feminin, este pe cale să părăsească echipa în această vară, la doar șase luni de la transferul său. Mijlocașa irlandeză a sosit cu mari așteptări, dar se pare că aventura sa la clubul englez se va încheia prematur. Detaliile exacte ale motivelor care stau la baza acestei decizii nu au fost încă oficializate, însă plecarea sa ar reprezenta o surpriză în peisajul transferurilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-12T17:02:12.778114+00:00",
+      "data_afisaj": "12 iulie 2026, 20:02"
+    },
     {
       "id": "00a6c8fae7bb",
       "titlu": "BBC va transmite semifinala Angliei la Cupa Mondială",
@@ -1236,62 +1292,6 @@
       ],
       "data_publicare": "2026-07-05T17:15:39.327393+00:00",
       "data_afisaj": "5 iulie 2026, 20:15"
-    },
-    {
-      "id": "c44581803228",
-      "titlu": "Franța se califică în sferturile de finală ale Cupei Mondiale după victoria împotriva Paraguayului",
-      "rezumat": "Naționala Franței, considerată una dintre favoritele Cupei Mondiale, și-a asigurat locul în sferturile de finală. Calificarea a venit în urma unei victorii obținute grație unui penalty transformat de Kylian Mbappé în a doua repriză, într-un meci disputat la Philadelphia împotriva unei echipe a Paraguayului care a opus o rezistență puternică. Această performanță confirmă statutul Franței în competiție.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-07-05T10:12:18.262329+00:00",
-      "data_afisaj": "5 iulie 2026, 13:12"
-    },
-    {
-      "id": "153bd372bbb8",
-      "titlu": "Manchester United îl vizează pe Andrey Santos de la Chelsea, evaluat la 50 de milioane de lire sterline",
-      "rezumat": "Manchester United este interesată de transferul mijlocașului Andrey Santos de la Chelsea, club care îl evaluează pe jucător la aproximativ 50 de milioane de lire sterline. După ce a ratat achiziționarea lui Elliot Anderson și Mateus Fernandes, United își continuă eforturile de a-și consolida linia de mijloc sub conducerea lui Michael Carrick. Alex Scott de la Bournemouth se numără, de asemenea, printre jucătorii monitorizați de conducerea clubului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-05T10:12:18.264178+00:00",
-      "data_afisaj": "5 iulie 2026, 13:12"
-    },
-    {
-      "id": "260626559946",
-      "titlu": "Marocul, neînvins în 34 de meciuri, devine un pretendent serios la titlul mondial",
-      "rezumat": "După victoria împotriva Canadei, care le-a asigurat un loc în sferturile de finală ale Cupei Mondiale, campania Marocului nu mai poate fi considerată o simplă poveste de succes. Echipa a demonstrat o formă excepțională, fiind neînvinsă în ultimele 34 de partide. Această serie impresionantă de rezultate subliniază potențialul Marocului de a avansa semnificativ în competiție și de a fi un contracandidat puternic la titlul mondial.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-05T10:12:18.265862+00:00",
-      "data_afisaj": "5 iulie 2026, 13:12"
-    },
-    {
-      "id": "c2257eaa49f8",
-      "titlu": "Thomas Tuchel: Anglia nu este intimidată de meciul cu Mexic de pe Estadio Azteca",
-      "rezumat": "Selecționerul Angliei, Thomas Tuchel, a recunoscut că echipa sa se confruntă cu o adaptare dificilă la condițiile din Mexico City. Cu toate acestea, Tuchel s-a declarat convins că jucătorii săi sunt pregătiți să \"scrie propriile capitole\" atunci când vor înfrunta co-gazda Cupei Mondiale, Mexic, pe legendarul Estadio Azteca. Declarația subliniază încrederea antrenorului în capacitatea echipei de a gestiona presiunea și particularitățile acestei partide cruciale din optimi.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-05T10:12:18.267499+00:00",
-      "data_afisaj": "5 iulie 2026, 13:12"
-    },
-    {
-      "id": "6929bfe0bcdc",
-      "titlu": "Jucătorii Belgiei, pregătiți să înfrunte publicul numeros al SUA în optimile Cupei Mondiale",
-      "rezumat": "Un public zgomotos și pro-SUA este așteptat la Seattle pentru meciul din optimile de finală ale Cupei Mondiale dintre Statele Unite și Belgia, programat luni. Cu toate acestea, jucătorii echipei belgiene, supranumiți \"Diavolii Roșii\", au declarat că nu se tem de atmosfera ostilă care îi va aștepta. Ei sunt hotărâți să-și joace propriul joc și să demonstreze curaj pe teren, indiferent de presiunea exercitată de suporterii adversari.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-05T10:12:18.269269+00:00",
-      "data_afisaj": "5 iulie 2026, 13:12"
     }
   ]
 }
