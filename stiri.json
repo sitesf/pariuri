@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-12T17:53:48.058302+00:00",
-  "updated_at_afisaj": "12 iulie 2026, 20:53",
+  "updated_at": "2026-07-13T10:30:01.265369+00:00",
+  "updated_at_afisaj": "13 iulie 2026, 13:30",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,53 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 112,
+  "numar_stiri": 114,
   "stiri": [
+    {
+      "id": "77e6ceb613f9",
+      "titlu": "Povestea lui Just Fontaine, cel mai bun marcator într-o singură ediție de Cupă Mondială",
+      "rezumat": "Recordul lui Just Fontaine de 13 goluri într-o singură ediție a Cupei Mondiale a rezistat decenii întregi. Atacantul francez a reușit această performanță remarcabilă, însă nu a mai jucat niciodată la turneul final după ce o accidentare gravă i-a încheiat cariera la vârsta de 28 de ani. Povestea sa este una a talentului excepțional, dar și a ghinionului, evidențiind fragilitatea carierelor sportive de top.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-13T10:30:01.260822+00:00",
+      "data_afisaj": "13 iulie 2026, 13:30"
+    },
+    {
+      "id": "dc77343f28df",
+      "titlu": "Anglia a parcurs cele mai multe mile aeriene dintre semifinalistele Cupei Mondiale 2026",
+      "rezumat": "Echipa națională a Angliei a călătorit semnificativ mai mult decât adversarele sale, Franța și Argentina, în cadrul Cupei Mondiale 2026, care se desfășoară în America de Nord. Această diferență în distanțele parcurse de echipe ridică întrebări despre impactul oboselii asupra performanței jucătorilor, pe măsură ce turneul avansează spre fazele finale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-13T10:30:01.262279+00:00",
+      "data_afisaj": "13 iulie 2026, 13:30"
+    },
+    {
+      "id": "acb4d41b3553",
+      "titlu": "Lionel Messi se pregătește pentru prima sa confruntare cu Anglia la Cupa Mondială",
+      "rezumat": "După victoria Argentinei împotriva Elveției în sferturile de finală ale Cupei Mondiale, Lionel Messi este pregătit să joace primul său meci împotriva Angliei. Această confruntare istorică în semifinale marchează o premieră pentru starul argentinian, adăugând un nou capitol rivalității de lungă durată dintre cele două națiuni în fotbalul mondial. Fanii anticipează cu nerăbdare duelul.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-13T10:30:01.263797+00:00",
+      "data_afisaj": "13 iulie 2026, 13:30"
+    },
+    {
+      "id": "7d92fd462cc0",
+      "titlu": "Aston Villa deturnează transferul lui Johan Manzambi de la Freiburg, vizat de Newcastle",
+      "rezumat": "Aston Villa este aproape de a finaliza o înțelegere de 49 de milioane de lire sterline cu Freiburg pentru mijlocașul elvețian Johan Manzambi, deturnând astfel planurile de transfer ale lui Newcastle United. Această mutare reprezintă o lovitură semnificativă pentru Newcastle și o achiziție importantă pentru Villa, care se pregătește pentru un sezon în Liga Campionilor. Manzambi a mai înfruntat Villa în finala Europa League din luna mai.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-13T10:30:01.265350+00:00",
+      "data_afisaj": "13 iulie 2026, 13:30"
+    },
     {
       "id": "f1fd7c665ac2",
       "titlu": "Lamine Yamal? Mbappe? Kane? Alege-ți primul unsprezece pentru semifinala Cupei Mondiale",
@@ -1295,30 +1340,6 @@
       ],
       "data_publicare": "2026-07-06T11:39:05.897472+00:00",
       "data_afisaj": "6 iulie 2026, 14:39"
-    },
-    {
-      "id": "28298d0b15ff",
-      "titlu": "FIFA suspendă interdicția lui Folarin Balogun, atacantul SUA, înainte de meciul cu Belgia",
-      "rezumat": "Atacantul american Folarin Balogun este disponibil pentru a juca pentru Statele Unite în meciul din optimile de finală ale Cupei Mondiale împotriva Belgiei, după ce suspendarea sa de un meci a fost anulată de FIFA. Decizia a fost confirmată de forul mondial, permițându-i jucătorului să participe la confruntarea crucială. Această veste reprezintă un impuls semnificativ pentru echipa SUA, care își propune să avanseze în fazele superioare ale competiției. Balogun este considerat un element cheie în ofensiva americană.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-07-05T17:57:33.173852+00:00",
-      "data_afisaj": "5 iulie 2026, 20:57"
-    },
-    {
-      "id": "b15a0572122b",
-      "titlu": "Newcastle United îl transferă pe Bazoumana Toure de la Hoffenheim pentru 43 de milioane de lire sterline",
-      "rezumat": "Clubul Newcastle United a finalizat transferul atacantului Bazoumana Toure de la Hoffenheim pentru suma de 43 de milioane de lire sterline. Reporterul Ciaran Kelly de la Newcastle United a analizat motivele din spatele acestei achiziții și ce va aduce jucătorul la echipă. Această mutare reprezintă o investiție semnificativă pentru Newcastle, care își propune să-și consolideze lotul în vederea viitoarelor competiții. Toure este așteptat să aducă un plus de forță ofensivă și creativitate în jocul echipei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-05T17:57:33.175669+00:00",
-      "data_afisaj": "5 iulie 2026, 20:57"
     }
   ]
 }
