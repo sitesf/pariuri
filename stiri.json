@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-13T11:09:48.217463+00:00",
-  "updated_at_afisaj": "13 iulie 2026, 14:09",
+  "updated_at": "2026-07-13T17:57:47.626597+00:00",
+  "updated_at_afisaj": "13 iulie 2026, 20:57",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,55 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 117,
+  "numar_stiri": 114,
   "stiri": [
+    {
+      "id": "82bda8daec60",
+      "titlu": "Manchester United în discuții avansate pentru Youri Tielemans și a semnat cu Andrey Santos",
+      "rezumat": "Manchester United este aproape de a-l transfera pe Youri Tielemans de la Aston Villa, după ce negocierile pentru Éderson de la Atalanta au eșuat. Directorul de fotbal al lui United, Jason Wilcox, poartă discuții avansate cu Villa pentru un pachet financiar. Se estimează că mijlocașul belgian, în vârstă de 29 de ani, are o clauză de reziliere de 35 de milioane de lire sterline. De asemenea, clubul a finalizat recent transferul mijlocașului brazilian Andrey Santos de la Chelsea pentru o sumă de 50 de milioane de lire sterline, consolidând astfel lotul pentru sezonul viitor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "The Guardian Football",
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-13T17:57:47.621227+00:00",
+      "data_afisaj": "13 iulie 2026, 20:57"
+    },
+    {
+      "id": "4a4d0b4142ed",
+      "titlu": "Arbitrul olandez Rob Dieperink a decedat la câteva săptămâni după excluderea de la Cupa Mondială",
+      "rezumat": "Arbitrul olandez de fotbal Rob Dieperink a decedat la vârsta de 38 de ani. Vestea tragică vine la doar câteva săptămâni după ce Dieperink fusese retras de la oficierea meciurilor Cupei Mondiale, în urma unei investigații a poliției din Marea Britanie. Detaliile complete ale investigației și cauzele decesului nu au fost încă făcute publice, lăsând comunitatea fotbalistică în doliu și cu multe întrebări. Dieperink era considerat un arbitru promițător în circuitul internațional.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-13T17:57:47.622836+00:00",
+      "data_afisaj": "13 iulie 2026, 20:57"
+    },
+    {
+      "id": "0b59438c943c",
+      "titlu": "Xabi Alonso, noul antrenor al lui Chelsea, dorește să-l păstreze pe Enzo Fernandez",
+      "rezumat": "Xabi Alonso a fost prezentat oficial ca noul manager al clubului Chelsea la Stamford Bridge. În cadrul primei sale conferințe de presă, tehnicianul spaniol a declarat că una dintre prioritățile sale este să-l păstreze pe mijlocașul argentinian Enzo Fernandez în lotul echipei. Această declarație subliniază importanța pe care Alonso o acordă jucătorului și intenția sa de a construi o echipă puternică în jurul talentelor existente, asigurând stabilitate la mijlocul terenului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-13T17:57:47.624443+00:00",
+      "data_afisaj": "13 iulie 2026, 20:57"
+    },
+    {
+      "id": "265573c52c14",
+      "titlu": "Retrăind dramele confruntărilor Anglia - Argentina de la Cupele Mondiale din 1998 și 2002",
+      "rezumat": "Pe fondul viitoarei semifinale a Cupei Mondiale dintre Anglia și Argentina, se reamintesc dramele și rivalitatea istorică dintre cele două națiuni. Articolul detaliază momentele cheie și amintirile jucătorilor precum Diego Simeone, Michael Owen și Glenn Hoddle din meciurile clasice de la Cupele Mondiale din 1998 și 2002. Aceste confruntări, marcate de evenimente controversate și momente memorabile, au cimentat o rivalitate transcontinentală profundă, influențată atât de fotbal, cât și de istorie și politică.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-13T17:57:47.626574+00:00",
+      "data_afisaj": "13 iulie 2026, 20:57"
+    },
     {
       "id": "3035c76fcbe1",
       "titlu": "Situație bizară în Superliga României: Două echipe au interdicție la transferuri înainte de startul campionatului",
@@ -1289,90 +1336,6 @@
       ],
       "data_publicare": "2026-07-06T18:13:26.872563+00:00",
       "data_afisaj": "6 iulie 2026, 21:13"
-    },
-    {
-      "id": "44f67ab71af0",
-      "titlu": "Cristiano Ronaldo anunță că actuala Cupă Mondială va fi ultima din cariera sa",
-      "rezumat": "Starul portughez Cristiano Ronaldo a confirmat că ediția din 2026 a Cupei Mondiale va fi ultima la care va participa în calitate de jucător. La 41 de ani, Ronaldo a declarat că este împăcat cu această decizie, exprimându-și speranța ca meciul cu Spania din optimi să nu fie și ultimul său la nivel internațional. Această declarație marchează un moment important în cariera legendarului atacant, care a participat la șase ediții ale Cupei Mondiale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-06T12:04:14.034589+00:00",
-      "data_afisaj": "6 iulie 2026, 15:04"
-    },
-    {
-      "id": "5cfd2352e80d",
-      "titlu": "Spania, la un pas de un record defensiv la Cupa Mondială 2026",
-      "rezumat": "Naționala Spaniei nu a primit încă niciun gol la Cupa Mondială 2026, fiind aproape de a stabili un nou record în istoria turneului. BBC Sport analizează cifrele impresionante din spatele acestei performanțe defensive remarcabile. Echipa spaniolă demonstrează o soliditate extraordinară în faza defensivă, consolidându-și poziția de pretendentă serioasă la titlu prin jocul său compact și organizat. Această performanță subliniază disciplina tactică și calitatea individuală a apărătorilor spanioli.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-06T12:04:14.036787+00:00",
-      "data_afisaj": "6 iulie 2026, 15:04"
-    },
-    {
-      "id": "91fd3fb02d6e",
-      "titlu": "Newcastle United își ajustează strategia de transferuri după plecarea lui Sandro Tonali",
-      "rezumat": "Vânzarea lui Sandro Tonali către Tottenham pentru o sumă de 100 de milioane de lire sterline, deși nu era inițial în plan, a determinat Newcastle United să-și reevalueze strategia de transferuri. Clubul acceptă că această sumă este esențială pentru a finanța o vară de achiziții menite să transforme echipa. Conducerea speră să folosească fondurile pentru a aduce jucători cheie și a consolida lotul, vizând obiective ambițioase pentru sezonul următor în Premier League.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-06T12:04:14.038467+00:00",
-      "data_afisaj": "6 iulie 2026, 15:04"
-    },
-    {
-      "id": "a52b14ff65b6",
-      "titlu": "Anglia avansează în sferturile Cupei Mondiale după o victorie dramatică împotriva Mexicului",
-      "rezumat": "Anglia s-a calificat în sferturile de finală ale Cupei Mondiale, învingând Mexicul cu 3-2 într-un meci palpitant, desfășurat pe Estadio Azteca. Jude Bellingham a marcat de două ori, iar Harry Kane a transformat un penalty, asigurând victoria echipei engleze, chiar și după ce au rămas în zece oameni. Această performanță curajoasă le-a asigurat englezilor un loc în faza următoare a competiției, unde vor întâlni Norvegia.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-06T11:39:05.892536+00:00",
-      "data_afisaj": "6 iulie 2026, 14:39"
-    },
-    {
-      "id": "bb987a3736cd",
-      "titlu": "Norvegia se califică în sferturile Cupei Mondiale, eliminând Brazilia prin dubla lui Haaland",
-      "rezumat": "Norvegia a avansat în sferturile de finală ale Cupei Mondiale pentru prima dată în istorie, învingând Brazilia cu scorul de 2-1. Erling Haaland a fost eroul meciului, marcând ambele goluri ale Norvegiei pe stadionul New York New Jersey. Această victorie surprinzătoare a dus la eliminarea Braziliei din competiție, marcând o dezamăgire majoră pentru naționala sud-americană și o performanță istorică pentru echipa scandinavă, care continuă parcursul la turneu.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-06T11:39:05.894291+00:00",
-      "data_afisaj": "6 iulie 2026, 14:39"
-    },
-    {
-      "id": "3b12864fe8f1",
-      "titlu": "Jordan Henderson se accidentează la încheietură în timpul sărbătorii victoriei Angliei",
-      "rezumat": "Mijlocașul englez Jordan Henderson a suferit o accidentare \"foarte gravă\" la încheietură în timp ce sărbătorea victoria echipei sale la Cupa Mondială împotriva Mexicului. Antrenorul principal Thomas Tuchel a confirmat incidentul. Această veste vine ca o lovitură pentru Anglia, care se pregătește pentru sferturile de finală, iar starea lui Henderson va fi monitorizată îndeaproape, punând sub semnul întrebării disponibilitatea sa pentru meciurile viitoare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-07-06T11:39:05.895903+00:00",
-      "data_afisaj": "6 iulie 2026, 14:39"
-    },
-    {
-      "id": "a504a2745e14",
-      "titlu": "Tottenham realizează transferul record al lui Sandro Tonali de la Newcastle",
-      "rezumat": "Tottenham Hotspur a finalizat transferul mijlocașului Sandro Tonali de la Newcastle United pentru o sumă record a clubului, care ar putea ajunge la 100 de milioane de lire sterline. Această mutare reprezintă o investiție semnificativă pentru Spurs, care își propune să-și întărească lotul în vederea sezonului viitor. Tonali, un jucător cheie pentru Newcastle, va aduce experiență și calitate la mijlocul terenului pentru echipa londoneză, marcând o achiziție importantă pe piața transferurilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-06T11:39:05.897472+00:00",
-      "data_afisaj": "6 iulie 2026, 14:39"
     }
   ]
 }
