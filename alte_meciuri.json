@@ -1,7 +1,7 @@
 {
-  "data_start": "2026-07-12",
-  "data_final": "2026-07-19",
-  "updated_at": "2026-07-12T07:32:17.383187+00:00",
+  "data_start": "2026-07-13",
+  "data_final": "2026-07-20",
+  "updated_at": "2026-07-13T08:22:10.296653+00:00",
   "surse": [
     "The Odds API"
   ],
@@ -16,7 +16,7 @@
       "liga": "Cupa Mondială 2026",
       "cota_1": 2.3,
       "cota_x": 3.3,
-      "cota_2": 3.2,
+      "cota_2": 3.0,
       "pronostic": null,
       "motiv": null,
       "cota_pronostic": null,
@@ -28,9 +28,9 @@
       "home": "England",
       "away": "Argentina",
       "liga": "Cupa Mondială 2026",
-      "cota_1": 2.57,
-      "cota_x": 3.06,
-      "cota_2": 3.16,
+      "cota_1": 2.67,
+      "cota_x": 3.01,
+      "cota_2": 3.07,
       "pronostic": null,
       "motiv": null,
       "cota_pronostic": null,
