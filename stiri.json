@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-13T10:30:01.265369+00:00",
-  "updated_at_afisaj": "13 iulie 2026, 13:30",
+  "updated_at": "2026-07-13T11:09:48.217463+00:00",
+  "updated_at_afisaj": "13 iulie 2026, 14:09",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,41 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 114,
+  "numar_stiri": 117,
   "stiri": [
+    {
+      "id": "3035c76fcbe1",
+      "titlu": "Situație bizară în Superliga României: Două echipe au interdicție la transferuri înainte de startul campionatului",
+      "rezumat": "Cu doar câteva zile înainte de începerea noului sezon al Superligii României, două dintre echipele participante se confruntă cu o situație neobișnuită: au interdicție la transferuri. Această restricție ar putea afecta semnificativ pregătirea și performanța cluburilor respective, limitându-le capacitatea de a-și întări loturile cu noi jucători. Detaliile exacte ale motivelor care au dus la aceste interdicții nu sunt pe deplin clare, dar situația creează incertitudine și tensiune înaintea debutului campionatului, punând presiune pe strategiile de lot ale echipelor vizate.",
+      "categorie": "Fotbal",
+      "surse": [
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-07-13T11:09:48.214202+00:00",
+      "data_afisaj": "13 iulie 2026, 14:09"
+    },
+    {
+      "id": "3ddf56999620",
+      "titlu": "Dinamo București intenționează să rezilieze contractul lui George Pușcaș din motive neașteptate",
+      "rezumat": "Clubul Dinamo București ar dori să pună capăt colaborării cu atacantul George Pușcaș, conform unor informații recente. Decizia vine pe fondul unor motive considerate \"neașteptate\", care nu au fost încă detaliate public de către conducerea clubului. Această mișcare ar reprezenta o schimbare majoră pentru echipa din capitală, având în vedere statutul internațional al jucătorului. Situația contractuală a lui Pușcaș la Dinamo devine astfel incertă, cu posibile implicații semnificative pentru ambele părți înaintea noului sezon competițional.",
+      "categorie": "Fotbal",
+      "surse": [
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-07-13T11:09:48.215914+00:00",
+      "data_afisaj": "13 iulie 2026, 14:09"
+    },
+    {
+      "id": "68c472c19e9d",
+      "titlu": "Fundașul spaniol Mapi León se alătură echipei London City Lionesses",
+      "rezumat": "Fundașul spaniol Mapi León a semnat un contract pe trei ani cu clubul London City Lionesses, după plecarea sa de la Barcelona. Această mutare reprezintă o achiziție importantă pentru echipa engleză, aducând experiență și calitate în defensivă. León este o jucătoare recunoscută la nivel internațional, cu o carieră solidă la cel mai înalt nivel al fotbalului feminin. Transferul său subliniază ambițiile clubului London City Lionesses de a-și consolida lotul și de a concura la un nivel superior în viitoarele competiții, atât pe plan intern, cât și european.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-13T11:09:48.217445+00:00",
+      "data_afisaj": "13 iulie 2026, 14:09"
+    },
     {
       "id": "77e6ceb613f9",
       "titlu": "Povestea lui Just Fontaine, cel mai bun marcator într-o singură ediție de Cupă Mondială",
