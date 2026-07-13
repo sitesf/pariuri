@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-13T17:57:47.626597+00:00",
-  "updated_at_afisaj": "13 iulie 2026, 20:57",
+  "updated_at": "2026-07-13T18:27:19.388789+00:00",
+  "updated_at_afisaj": "13 iulie 2026, 21:27",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 114,
+  "numar_stiri": 116,
   "stiri": [
+    {
+      "id": "789f6a8760b7",
+      "titlu": "FCSB a anunțat un nou transfer, un jucător român sub 21 de ani",
+      "rezumat": "Gigi Becali, patronul FCSB, a confirmat în direct la TV achiziția unui nou jucător pentru echipa sa. Este vorba despre un fotbalist român, cu vârsta sub 21 de ani, care a semnat deja contractul. Detaliile specifice despre numele jucătorului sau poziția sa nu au fost încă dezvăluite, dar transferul marchează o nouă mișcare pe piața internă pentru clubul bucureștean, în contextul pregătirilor pentru noul sezon. Această mutare subliniază strategia clubului de a investi în tineri talente românești.",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-07-13T18:27:19.382515+00:00",
+      "data_afisaj": "13 iulie 2026, 21:27"
+    },
+    {
+      "id": "9f991937be94",
+      "titlu": "Andoni Iraola promite fanilor Liverpool o echipă de care să fie mândri",
+      "rezumat": "Noul antrenor al echipei Liverpool, Andoni Iraola, a declarat că își dorește să construiască o formație de care suporterii să poată fi mândri. Tehnicianul spaniol a subliniat că este pregătit pentru responsabilitatea imensă pe care o implică conducerea unui club de o asemenea anvergură. Declarațiile sale vin în contextul preluării băncii tehnice de pe Anfield, unde presiunea performanței este constantă. Iraola își propune să implementeze o viziune care să aducă succes și să reconecteze echipa cu baza de fani.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-13T18:27:19.384054+00:00",
+      "data_afisaj": "13 iulie 2026, 21:27"
+    },
+    {
+      "id": "da32da683d93",
+      "titlu": "Argentina va purta echipamentul albastru de deplasare în semifinala Cupei Mondiale împotriva Angliei",
+      "rezumat": "Naționala Argentinei va juca în echipamentul său albastru închis de deplasare în semifinala Cupei Mondiale de miercuri, împotriva Angliei. Decizia vine în contextul în care echipa consideră acest echipament \"norocos\". Anglia, pe de altă parte, va evolua în tradiționalul său echipament complet alb de acasă. Această confruntare crucială din semifinalele turneului final va aduce față în față două dintre cele mai puternice echipe, iar alegerea echipamentului adaugă o notă de superstiție înaintea marelui meci.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-13T18:27:19.385673+00:00",
+      "data_afisaj": "13 iulie 2026, 21:27"
+    },
+    {
+      "id": "441c2d4acadd",
+      "titlu": "Lucas Digne de la Aston Villa ar fi acceptat un transfer la PSG, în timp ce Pervis Estupiñán este vizat",
+      "rezumat": "Conform rapoartelor recente, fundașul stânga Lucas Digne de la Aston Villa ar fi ajuns la un acord pentru a se alătura echipei Paris Saint-Germain. Această mutare ar marca o revenire a jucătorului francez în Ligue 1. Între timp, Aston Villa își caută deja înlocuitori, iar Pervis Estupiñán, fundașul stânga ecuadorian, ar fi pe lista de priorități a clubului englez. Aceste potențiale transferuri indică o perioadă activă pe piața de mercato pentru echipa din Birmingham, care încearcă să-și consolideze lotul.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-13T18:27:19.387386+00:00",
+      "data_afisaj": "13 iulie 2026, 21:27"
+    },
+    {
+      "id": "aa7cb67461a8",
+      "titlu": "Liverpool Women confirmă transferul lui Keating",
+      "rezumat": "Echipa feminină de fotbal Liverpool FC Women a confirmat oficial achiziția jucătoarei Keating. Detaliile specifice ale transferului, cum ar fi durata contractului sau poziția exactă a jucătoarei, nu au fost încă publicate în detaliu. Această mutare reprezintă o întărire a lotului pentru echipa din Women's Super League, în vederea obiectivelor stabilite pentru noul sezon. Clubul continuă să investească în dezvoltarea secției feminine, aducând noi talente pentru a concura la cel mai înalt nivel.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-13T18:27:19.388768+00:00",
+      "data_afisaj": "13 iulie 2026, 21:27"
+    },
     {
       "id": "82bda8daec60",
       "titlu": "Manchester United în discuții avansate pentru Youri Tielemans și a semnat cu Andrey Santos",
@@ -1299,43 +1355,6 @@
       ],
       "data_publicare": "2026-07-06T18:53:40.558789+00:00",
       "data_afisaj": "6 iulie 2026, 21:53"
-    },
-    {
-      "id": "e88ed0487cef",
-      "titlu": "Intervenție politică pentru ora de start a meciului Mexic-Anglia",
-      "rezumat": "O controversă a apărut în jurul orei de start a meciului dintre Mexic și Anglia la Cupa Mondială, determinând o intervenție politică. FIFA intenționa să devanseze partida cu șase ore din cauza prognozei de furtuni. Această decizie a stârnit discuții și a necesitat implicarea unor oficiali pentru a gestiona situația, subliniind complexitatea organizării evenimentelor sportive majore în condiții meteorologice imprevizibile și presiunile externe. Detaliile exacte ale intervenției nu au fost pe deplin clarificate.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-06T18:13:26.869330+00:00",
-      "data_afisaj": "6 iulie 2026, 21:13"
-    },
-    {
-      "id": "ca227089b2ce",
-      "titlu": "Fanii Angliei au sacrificat somnul pentru victoria dramatică împotriva Mexicului",
-      "rezumat": "Victoria dramatică a Angliei împotriva Mexicului la Cupa Mondială a ținut milioane de fani în priză, mulți dintre ei sacrificându-și orele de somn pentru a urmări partida. Un suporter prezent pe stadionul Azteca din Mexico City a descris experiența ca fiind o \"noapte extraordinară\", în care \"s-au născut legende\". Entuziasmul și dedicarea fanilor subliniază impactul emoțional al Cupei Mondiale și modul în care evenimentele sportive pot transcende fusurile orare și rutina zilnică, creând momente memorabile.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-06T18:13:26.871054+00:00",
-      "data_afisaj": "6 iulie 2026, 21:13"
-    },
-    {
-      "id": "913c28694ae1",
-      "titlu": "UEFA critică vehement decizia FIFA privind suspendarea interdicției lui Folarin Balogun",
-      "rezumat": "UEFA a emis o declarație puternică, acuzând FIFA că a \"depășit o linie roșie\" prin decizia \"incomprehensibilă și nejustificabilă\" de a suspenda interdicția atacantului american Folarin Balogun. Această mișcare dramatică a organismului european de conducere ar putea avea implicații majore pentru viitorul fotbalului, indicând o tensiune crescândă între cele două foruri. Președintele UEFA, Aleksander Ceferin, a criticat public decizia, subliniind dezacordul profund față de modul în care FIFA a gestionat cazul.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "FourFourTwo",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-06T18:13:26.872563+00:00",
-      "data_afisaj": "6 iulie 2026, 21:13"
     }
   ]
 }
