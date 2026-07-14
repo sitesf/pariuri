@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-13T18:27:19.388789+00:00",
-  "updated_at_afisaj": "13 iulie 2026, 21:27",
+  "updated_at": "2026-07-14T09:06:25.505252+00:00",
+  "updated_at_afisaj": "14 iulie 2026, 12:06",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,64 @@
   },
   "numar_stiri": 116,
   "stiri": [
+    {
+      "id": "6c6f73f2ec80",
+      "titlu": "Cine va câștiga Cupa Mondială? Opiniile din rândul semifinalistelor",
+      "rezumat": "BBC Sport a consultat jurnaliști și fani din cele patru țări semifinaliste ale Cupei Mondiale pentru a afla cine cred aceștia că va triumfa în turneu. Articolul explorează diverse perspective și argumente, oferind o imagine de ansamblu asupra așteptărilor și încrederii fiecărei națiuni înaintea fazelor decisive. Se analizează punctele forte și slăbiciunile echipelor rămase în competiție, precum și factorii care ar putea influența rezultatul final al prestigioasei competiții.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-07-14T09:06:25.499120+00:00",
+      "data_afisaj": "14 iulie 2026, 12:06"
+    },
+    {
+      "id": "7cadc175f81b",
+      "titlu": "Măsuri de securitate sporite pentru semifinala Anglia - Argentina",
+      "rezumat": "Autoritățile au anunțat implementarea unor măsuri de securitate sporite pentru semifinala Cupei Mondiale dintre Anglia și Argentina, programată miercuri la Atlanta. Decizia vine în contextul importanței istorice și al rivalității intense dintre cele două națiuni, anticipându-se o prezență masivă a fanilor și o atmosferă tensionată. Obiectivul este asigurarea unui eveniment sigur și ordonat pentru toți participanții, atât pe stadion, cât și în zonele adiacente.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-14T09:06:25.500612+00:00",
+      "data_afisaj": "14 iulie 2026, 12:06"
+    },
+    {
+      "id": "a471778a9bc8",
+      "titlu": "Didier Deschamps anticipează o semifinală spectaculoasă între Franța și Spania",
+      "rezumat": "Selecționerul Franței, Didier Deschamps, a declarat că anticipează o semifinală \"spectaculoasă\" a Cupei Mondiale, în care echipa sa, aflată într-o formă excelentă, va întâlni Spania. Confruntarea dintre cele două forțe ale fotbalului european va avea loc la Dallas și promite un duel intens, având în vedere calitatea loturilor și stilurile de joc ofensive. Deschamps subliniază încrederea în capacitatea echipei sale de a oferi un spectacol memorabil.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-14T09:06:25.502123+00:00",
+      "data_afisaj": "14 iulie 2026, 12:06"
+    },
+    {
+      "id": "f73cff0168f7",
+      "titlu": "Diego Forlán îl înlocuiește temporar pe Marcelo Bielsa la conducerea naționalei Uruguayului",
+      "rezumat": "Fostul atacant al lui Manchester United, Diego Forlán, va prelua temporar funcția de selecționer al Uruguayului, după plecarea lui Marcelo Bielsa. Bielsa a părăsit echipa în urma unei campanii dezamăgitoare la Cupa Mondială, unde La Celeste a fost eliminată în faza grupelor. Forlán va conduce echipa până în martie 2027, având sarcina de a reconstrui și de a aduce stabilitate naționalei uruguayene după rezultatele sub așteptări.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-14T09:06:25.503645+00:00",
+      "data_afisaj": "14 iulie 2026, 12:06"
+    },
+    {
+      "id": "c914bb6be8e2",
+      "titlu": "Ion Crăciunescu reacționează vehement după excluderea lui Istvan Kovacs de la Cupa Mondială",
+      "rezumat": "Fostul arbitru internațional Ion Crăciunescu a avut o reacție dură după ce Istvan Kovacs nu a mai fost delegat la Cupa Mondială. Crăciunescu a criticat situația arbitrajului românesc, întrebând retoric: „Aveți pretenții după ce 15 arbitri din Superliga nu au luat testele fizice?”. Declarațiile sale subliniază problemele de pregătire fizică și de performanță ale arbitrilor români, sugerând că excluderea lui Kovacs ar putea fi un simptom al unor deficiențe mai largi în sistemul de arbitraj național.",
+      "categorie": "Fotbal",
+      "surse": [
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-07-14T09:06:25.505233+00:00",
+      "data_afisaj": "14 iulie 2026, 12:06"
+    },
     {
       "id": "789f6a8760b7",
       "titlu": "FCSB a anunțat un nou transfer, un jucător român sub 21 de ani",
@@ -1294,67 +1352,6 @@
       ],
       "data_publicare": "2026-07-07T10:27:53.503188+00:00",
       "data_afisaj": "7 iulie 2026, 13:27"
-    },
-    {
-      "id": "fa8a916548f6",
-      "titlu": "Portugalia - Spania: optimile de finală ale Cupei Mondiale 2026 – în direct",
-      "rezumat": "⚽️ Ora începerii: 14:00 locală, 15:00 EDT, 20:00 BST, 5:00 AEST ⚽️ Ghidul jucătorului | Bracketologie | Cizma de Aur | Trimite un e-mail lui Scott Marea confruntare cu fanion. Spania a reușit să realizeze o performanță considerată până acum aproape imposibilă, producând un fanion cu un design și mai plictisitor decât cel al Angliei. Nu sunt sigur ce vom face dacă cele două echipe se întâlnesc în finală. Poate renunță la această funcție. Probabil pentru cei mai buni pe tot parcursul. Portugalia este destul de drăguță, totuși! Acesta nu este cel care va fi Ronaldo",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-07-06T18:53:40.552052+00:00",
-      "data_afisaj": "6 iulie 2026, 21:53"
-    },
-    {
-      "id": "1e5c70bf72ae",
-      "titlu": "Ronaldo și Lamine Yamal încep în Portugalia vs Spania LIVE!",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "ProSport.ro",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-06T18:53:40.553473+00:00",
-      "data_afisaj": "6 iulie 2026, 21:53"
-    },
-    {
-      "id": "828d6794866b",
-      "titlu": "Tuchel susține că arbitrajul la Cupa Mondială „nu este suficient de bun”, dar spune că Anglia crede că va merge până la capăt",
-      "rezumat": "Tuchel critică arbitrarea „nesigură” împotriva Mexicului Victoria de la Azteca „alimentează convingerea că suntem aici pentru a rămâne” Thomas Tuchel a calificat standardul de arbitraj la Cupa Mondială nesigur și neregulat, insistând că Anglia este capabilă să meargă până la capăt după victoria lor dramatică cu 3-2 împotriva Mexicului. Tuchel s-a înfuriat după ce echipa sa a rezistat cu 10 bărbați pe stadionul Azteca duminică seara, spunând că oficialii din toate părțile nu au fost la îndemână la turneul final. The",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-06T18:53:40.555150+00:00",
-      "data_afisaj": "6 iulie 2026, 21:53"
-    },
-    {
-      "id": "afc046bef039",
-      "titlu": "Rapid și-a prezentat noile echipamente pentru sezonul 2026/2027! Dan Șucu: „Visez la acea zi”",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-07-06T18:53:40.556901+00:00",
-      "data_afisaj": "6 iulie 2026, 21:53"
-    },
-    {
-      "id": "72ff073b997f",
-      "titlu": "MERCATO După Eddy Gnahore, FCSB mai face un transfer! Gigi Becali dezvăluie: „Unul bun-bun. Pe bani mulți”",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-07-06T18:53:40.558789+00:00",
-      "data_afisaj": "6 iulie 2026, 21:53"
     }
   ]
 }
