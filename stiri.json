@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-14T17:17:41.985391+00:00",
-  "updated_at_afisaj": "14 iulie 2026, 20:17",
+  "updated_at": "2026-07-14T17:57:40.752334+00:00",
+  "updated_at_afisaj": "14 iulie 2026, 20:57",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,69 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 117,
+  "numar_stiri": 122,
   "stiri": [
+    {
+      "id": "1accc564944a",
+      "titlu": "Arsenal a convenit o sumă pentru transferul lui Trossard la Beșiktaș",
+      "rezumat": "Arsenal a convenit o sumă de transfer de aproximativ 17 milioane de lire sterline (20 de milioane de euro) pentru a-l vinde pe atacantul belgian Leandro Trossard la Beșiktaș.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-14T17:57:32.890949+00:00",
+      "data_afisaj": "14 iulie 2026, 20:57"
+    },
+    {
+      "id": "eea6903f90a4",
+      "titlu": "Franța vs Spania: Semifinala Cupei Mondiale 2026 – live",
+      "rezumat": "⚽ Ora de start: 14:00 locală/15:00 EST/20:00 BST/5:00 AEST ⚽ Ghidul jucătorilor | Gheata de Aur | Football Daily | Mail Scott Spania rămâne neschimbată după victoria împotriva Belgiei. Mikel Merino, super-rezerva decisivă în ambele runde anterioare, trebuie din nou să se mulțumească cu un loc pe bancă, în timp ce Fabian Ruiz este preferat în fața lui Pedri la mijlocul terenului. Franța face două modificări în echipa care a început victoria împotriva Marocului. Aurélien Tchouaméni revine după accidentare pentru a-l înlocui pe Manu Koné la mijlocul terenului, î",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "The Guardian Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-07-14T17:57:32.892130+00:00",
+      "data_afisaj": "14 iulie 2026, 20:57"
+    },
+    {
+      "id": "514a124ff82c",
+      "titlu": "De ce Argentina cântă despre Anglia și Insulele Falkland?",
+      "rezumat": "În timp ce Anglia vede Argentina ca rivali fotbalistici, pentru Argentina rivalitatea este mult mai mult de atât.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-14T17:57:32.893207+00:00",
+      "data_afisaj": "14 iulie 2026, 20:57"
+    },
+    {
+      "id": "81f795c04d6c",
+      "titlu": "Anglia va decide în ultimul moment dacă Rice va juca în semifinala Cupei Mondiale",
+      "rezumat": "Anglia va lua o decizie în ultimul moment dacă Declan Rice este apt să înceapă semifinala Cupei Mondiale de miercuri împotriva Argentinei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-14T17:57:32.894328+00:00",
+      "data_afisaj": "14 iulie 2026, 20:57"
+    },
+    {
+      "id": "10637d32f116",
+      "titlu": "Man Utd îl transferă pe Tielemans pentru 35 de milioane de lire sterline de la Aston Villa",
+      "rezumat": "Manchester United finalizează transferul lui Youri Tielemans de la Aston Villa pe o perioadă de cinci ani.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-14T17:57:32.895444+00:00",
+      "data_afisaj": "14 iulie 2026, 20:57"
+    },
     {
       "id": "76839a64a4b6",
       "titlu": "Semifinala Cupei Mondiale 2026: Franța vs Spania - Transmisiune live",
