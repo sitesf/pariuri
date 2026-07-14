@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-14T09:57:20.405969+00:00",
-  "updated_at_afisaj": "14 iulie 2026, 12:57",
+  "updated_at": "2026-07-14T17:17:41.985391+00:00",
+  "updated_at_afisaj": "14 iulie 2026, 20:17",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,57 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 121,
+  "numar_stiri": 117,
   "stiri": [
+    {
+      "id": "76839a64a4b6",
+      "titlu": "Semifinala Cupei Mondiale 2026: Franța vs Spania - Transmisiune live",
+      "rezumat": "Franța și Spania se pregătesc să se dueleze în semifinala Cupei Mondiale 2026, într-o confruntare așteptată cu mare interes. Cele două echipe au demonstrat o formă excelentă pe parcursul turneului, fiind considerate printre cele mai bune. Meciul, care va avea loc la Dallas, este un eveniment major în calendarul competiției, decisiv pentru calificarea în marea finală, atrăgând atenția fanilor din întreaga lume.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "The Guardian Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-07-14T17:17:41.981779+00:00",
+      "data_afisaj": "14 iulie 2026, 20:17"
+    },
+    {
+      "id": "73ccae011520",
+      "titlu": "Rivalitatea Anglia-Argentina: De ce argentinienii cântă despre Insulele Falkland",
+      "rezumat": "Înaintea semifinalei Cupei Mondiale dintre Anglia și Argentina, se analizează profunzimea rivalității dintre cele două națiuni. Pentru Argentina, confruntarea fotbalistică depășește simpla competiție sportivă, fiind puternic influențată de istoria comună, inclusiv de conflictul din Insulele Falkland (Malvine). Cântecele și scandările fanilor argentinieni reflectă această legătură emoțională și istorică, adăugând o dimensiune suplimentară meciului și intensificând atmosfera din jurul partidei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-14T17:17:41.983014+00:00",
+      "data_afisaj": "14 iulie 2026, 20:17"
+    },
+    {
+      "id": "70c564b811cf",
+      "titlu": "Folarin Balogun a anticipat controversele legate de anularea suspendării sale la Cupa Mondială",
+      "rezumat": "Atacantul Statelor Unite, Folarin Balogun, a declarat că a anticipat că decizia FIFA de a-i suspenda interdicția de un meci la Cupa Mondială va genera \"o mulțime de controverse\". Balogun a menționat că situația a creat \"nervozitate\" în rândul coechipierilor săi. Suspendarea inițială a fost anulată după o intervenție, permițându-i jucătorului să continue participarea la turneu, o decizie care a stârnit discuții aprinse.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-14T17:17:41.984247+00:00",
+      "data_afisaj": "14 iulie 2026, 20:17"
+    },
+    {
+      "id": "f6d44edeb922",
+      "titlu": "Bournemouth a semnat cu atacantul Alvaro Rodriguez pentru 25,7 milioane de lire sterline",
+      "rezumat": "Clubul Bournemouth a anunțat achiziționarea atacantului Alvaro Rodriguez de la echipa spaniolă Elche. Transferul este evaluat la o sumă de până la 25,7 milioane de lire sterline. Această mutare reprezintă o investiție semnificativă pentru Bournemouth, care își propune să-și întărească ofensiva cu un jucător tânăr și promițător, în perspectiva noului sezon din Premier League. Rodriguez este așteptat să aducă un plus de valoare echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-14T17:17:41.985376+00:00",
+      "data_afisaj": "14 iulie 2026, 20:17"
+    },
     {
       "id": "7083d5cbe0ae",
       "titlu": "Brighton finalizează transferul record al lui Luka Vuskovic de la Tottenham",
@@ -1315,99 +1364,6 @@
       ],
       "data_publicare": "2026-07-07T18:03:17.669044+00:00",
       "data_afisaj": "7 iulie 2026, 21:03"
-    },
-    {
-      "id": "68339cdaaed1",
-      "titlu": "Kylian Mbappé o critică dur pe o senatoare paraguayană după un atac rasist",
-      "rezumat": "Kylian Mbappé, starul echipei Franței, a reacționat vehement la un atac rasist lansat de o senatoare paraguayană, descriind-o drept o \"femeie detestabilă\". Senatoarea Celeste Amarilla a publicat o tiradă pe X, numindu-l pe Mbappé un \"camerunez colonizat\", după ce acesta a marcat un penalty decisiv în victoria Franței împotriva Paraguayului. Federația Franceză de Fotbal va depune plângere penală.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-07T10:54:21.834965+00:00",
-      "data_afisaj": "7 iulie 2026, 13:54"
-    },
-    {
-      "id": "7a586463f315",
-      "titlu": "Sumele premiilor pentru fiecare echipă la Cupa Mondială 2026 au fost dezvăluite",
-      "rezumat": "FIFA a făcut publice sumele oficiale ale premiilor în bani pe care le va primi fiecare echipă participantă la Cupa Mondială 2026. Detaliile financiare oferă o perspectivă asupra mizelor economice ale competiției, pe lângă prestigiul sportiv. Aceste informații sunt relevante pentru federațiile naționale și cluburile care își trimit jucătorii la turneul final.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-07-07T10:54:21.836519+00:00",
-      "data_afisaj": "7 iulie 2026, 13:54"
-    },
-    {
-      "id": "3b35943e65bb",
-      "titlu": "Jucător de fotbal zimbabwean a supraviețuit unui atac armat în Africa de Sud",
-      "rezumat": "O vedetă a fotbalului din Zimbabwe a supraviețuit unui atac armat în Africa de Sud. Poliția sud-africană a confirmat că investighează un caz de tentativă de omor, însă până în prezent nu au fost efectuate arestări. Incidentul a avut loc recent, iar detaliile complete ale atacului nu au fost încă făcute publice.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-07T10:54:21.838063+00:00",
-      "data_afisaj": "7 iulie 2026, 13:54"
-    },
-    {
-      "id": "fe529478f1d7",
-      "titlu": "Liam Rosenior, fost antrenor la Chelsea, numit manager la Paris FC",
-      "rezumat": "Liam Rosenior a revenit în fotbalul de management, fiind numit antrenor al clubului Paris FC din Ligue 1. Această numire vine după ce Rosenior a fost demis de la Chelsea în luna aprilie. El preia conducerea echipei franceze, marcând o nouă etapă în cariera sa de antrenor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-07T10:54:21.839474+00:00",
-      "data_afisaj": "7 iulie 2026, 13:54"
-    },
-    {
-      "id": "a70dc92ac602",
-      "titlu": "Newcastle United aproape de transferul lui Sean Steur de la Ajax",
-      "rezumat": "Newcastle United este aproape de a finaliza transferul mijlocașului de 18 ani Sean Steur de la Ajax. Clubul englez a ajuns la un acord pentru o sumă de aproximativ 23 de milioane de lire sterline pentru tânărul talent olandez. Această mutare continuă strategia lui Eddie Howe de a adăuga jucători tineri și promițători în lotul echipei, consolidând viitorul clubului pe termen lung.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-07-07T10:27:53.498469+00:00",
-      "data_afisaj": "7 iulie 2026, 13:27"
-    },
-    {
-      "id": "b0148feda70d",
-      "titlu": "SUA eliminată de Belgia de la Cupa Mondială, pe fondul controversei Balogun",
-      "rezumat": "Naționala Statelor Unite ale Americii a fost eliminată de la Cupa Mondială 2026 după o înfrângere cu 4-1 în fața Belgiei în optimile de finală. Meciul a fost marcat de controversa legată de suspendarea întârziată a atacantului Folarin Balogun, decizie FIFA care a stârnit reacții puternice. Deși Balogun a putut juca, echipa SUA a avut o prestație defensivă slabă, punând capăt visului de Cupă Mondială al co-gazdelor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-07-07T10:27:53.500029+00:00",
-      "data_afisaj": "7 iulie 2026, 13:27"
-    },
-    {
-      "id": "702978d6a536",
-      "titlu": "Messi și Salah se întâlnesc în optimile Cupei Mondiale: Argentina vs Egipt",
-      "rezumat": "Lionel Messi și Mohamed Salah se vor confrunta marți în optimile de finală ale Cupei Mondiale 2026, într-un meci așteptat cu mare interes între Argentina și Egipt. Speranțele națiunilor lor se bazează în mare măsură pe umerii celor doi fotbaliști emblematici. Aceasta va fi prima întâlnire internațională între cele două legende moderne ale fotbalului, promițând un spectacol fotbalistic de excepție.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-07T10:27:53.501562+00:00",
-      "data_afisaj": "7 iulie 2026, 13:27"
-    },
-    {
-      "id": "5183b892b6f0",
-      "titlu": "Jucătorii Belgiei ironizează decizia FIFA și pe Donald Trump după eliminarea SUA",
-      "rezumat": "Jucătorii naționalei Belgiei au ironizat public decizia FIFA de a permite atacantului american Folarin Balogun să joace împotriva lor, precum și pe fostul președinte american Donald Trump. Aceștia au declarat că intervenția politică și controversa din jurul lui Balogun i-a motivat suplimentar în meciul din optimile de finală, pe care l-au câștigat cu 4-1 împotriva Statelor Unite.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-07T10:27:53.503188+00:00",
-      "data_afisaj": "7 iulie 2026, 13:27"
     }
   ]
 }
