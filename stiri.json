@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-15T09:10:56.191572+00:00",
-  "updated_at_afisaj": "15 iulie 2026, 12:10",
+  "updated_at": "2026-07-15T10:01:28.733727+00:00",
+  "updated_at_afisaj": "15 iulie 2026, 13:01",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,54 @@
   },
   "numar_stiri": 117,
   "stiri": [
+    {
+      "id": "6cbafbcb17cd",
+      "titlu": "Toate golurile Angliei de la Cupa Mondială 2026 până în prezent",
+      "rezumat": "Pe măsură ce Anglia se pregătește să înfrunte Norvegia în sferturile de finală ale Cupei Mondiale de la Miami Stadium, fanii pot revedea toate golurile care au adus echipa lui Thomas Tuchel în această fază a competiției. Această retrospectivă oferă o imagine completă a parcursului ofensiv al \"celor Trei Lei\" și a contribuțiilor individuale care au propulsat echipa mai departe în turneu.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-07-15T10:01:28.729426+00:00",
+      "data_afisaj": "15 iulie 2026, 13:01"
+    },
+    {
+      "id": "06483b33c8dc",
+      "titlu": "Cum a reușit Argentina să obțină cele mai bune performanțe de la Messi",
+      "rezumat": "Guillem Balague analizează modul în care echipa Argentinei este construită în jurul lui Lionel Messi, pe măsură ce se pregătesc să joace împotriva Angliei în semifinalele Cupei Mondiale. Strategia echipei, bazată pe libertatea de mișcare a căpitanului și pe sprijinul colegilor, a permis lui Messi să își maximizeze impactul, transformând Argentina într-o forță redutabilă în competiție.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-15T10:01:28.730828+00:00",
+      "data_afisaj": "15 iulie 2026, 13:01"
+    },
+    {
+      "id": "0d247d4b5faf",
+      "titlu": "Scaloni despre rivalitatea Anglia-Argentina: „Nu ar trebui să amestecăm politica și fotbalul”",
+      "rezumat": "Selecționerul Argentinei, Lionel Scaloni, a declarat că nu va amesteca fotbalul cu politica înaintea semifinalei Cupei Mondiale împotriva Angliei. Declarația vine în contextul unei rivalități istorice, adesea încărcate de tensiuni extra-sportive. Scaloni a subliniat importanța de a se concentra exclusiv pe aspectele sportive ale meciului, îndemnând la o abordare neutră și la respectarea spiritului jocului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-15T10:01:28.732351+00:00",
+      "data_afisaj": "15 iulie 2026, 13:01"
+    },
+    {
+      "id": "39cd9fb0839f",
+      "titlu": "Bournemouth în discuții pentru transferul fundașului Antonio Silva de la Benfica",
+      "rezumat": "Clubul Bournemouth a inițiat negocieri pentru a-l aduce pe fundașul portughez Antonio Silva de la Benfica. Silva este vizat ca un potențial înlocuitor pentru Marcos Senesi. Această mutare ar putea reprezenta o întărire semnificativă pentru apărarea echipei engleze, demonstrând ambițiile clubului de a-și consolida lotul cu jucători de perspectivă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-15T10:01:28.733710+00:00",
+      "data_afisaj": "15 iulie 2026, 13:01"
+    },
     {
       "id": "17cb548f9ee3",
       "titlu": "FIFA a trimis acasă doi jucători englezi de la Cupa Mondială",
@@ -1325,50 +1373,6 @@
       ],
       "data_publicare": "2026-07-08T10:16:34.492375+00:00",
       "data_afisaj": "8 iulie 2026, 13:16"
-    },
-    {
-      "id": "c81ccebea895",
-      "titlu": "Fulham îl numește pe Alvaro Arbeloa noul antrenor principal",
-      "rezumat": "Clubul englez Fulham a anunțat numirea lui Alvaro Arbeloa în funcția de antrenor principal, semnând un contract pe o perioadă de trei ani. Fostul fundaș al Real Madrid și Liverpool preia conducerea echipei după plecarea lui Marco Silva, care a semnat cu Benfica. Această mutare marchează un nou capitol pentru Fulham, care speră ca experiența și viziunea lui Arbeloa să aducă stabilitate și performanțe îmbunătățite în sezoanele următoare. Numirea a fost confirmată de BBC Sport Football, aducând un nume important din fotbalul spaniol în Premier League.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-08T09:26:48.171304+00:00",
-      "data_afisaj": "8 iulie 2026, 12:26"
-    },
-    {
-      "id": "8632128dbbea",
-      "titlu": "Viitorul lui Mauricio Pochettino la naționala SUA, incert după eliminarea de la Cupa Mondială",
-      "rezumat": "Viitorul lui Mauricio Pochettino în calitate de antrenor al echipei naționale de fotbal a Statelor Unite este incert, în urma eliminării premature a echipei de la Cupa Mondială 2026. Federația de Fotbal a SUA urmează să poarte discuții cu antrenorul argentinian pentru a evalua situația și a decide pașii următori. Deși federația l-a susținut inițial pe Pochettino, rezultatul dezamăgitor de la turneul final, găzduit chiar de SUA, a deschis discuțiile despre o posibilă schimbare la conducerea tehnică a naționalei în perspectiva viitoarelor competiții.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-08T09:26:48.172932+00:00",
-      "data_afisaj": "8 iulie 2026, 12:26"
-    },
-    {
-      "id": "aeb9508cfcdc",
-      "titlu": "Pierderile pre-fiscale ale cluburilor din Premier League au crescut cu 600%",
-      "rezumat": "Conform raportului anual Deloitte privind finanțele fotbalului, pierderile pre-fiscale cumulate ale cluburilor din Premier League au înregistrat o creștere dramatică de 600%, ajungând la 948 de milioane de lire sterline în sezonul 2024-2025, de la 135 de milioane de lire sterline în sezonul precedent. Această creștere semnificativă este atribuită în principal cheltuielilor mari pentru transferuri și lipsei unor profituri substanțiale din vânzări unice de jucători. Datoria netă a cluburilor din Premier League a crescut, de asemenea, la 3,6 miliarde de lire sterline, semnalând o presiune financiară crescută.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-08T09:26:48.174420+00:00",
-      "data_afisaj": "8 iulie 2026, 12:26"
-    },
-    {
-      "id": "646279171a65",
-      "titlu": "Patru jucători englezi riscă suspendarea la Cupa Mondială, cu excepția lui Kane",
-      "rezumat": "Patru jucători cheie ai echipei naționale a Angliei se confruntă cu riscul de a fi suspendați pentru meciurile viitoare de la Cupa Mondială 2026, din cauza acumulării de cartonașe galbene. Această situație creează o presiune suplimentară asupra selecționerului și a jucătorilor, care trebuie să gestioneze cu atenție disciplina pe teren pentru a evita pierderea unor elemente importante în fazele eliminatorii. Căpitanul Harry Kane nu se numără printre jucătorii aflați în pericol de suspendare, oferind o oarecare liniște echipei înaintea meciurilor decisive.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-08T09:26:48.175966+00:00",
-      "data_afisaj": "8 iulie 2026, 12:26"
     }
   ]
 }
