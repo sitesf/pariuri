@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-14T17:57:40.752334+00:00",
-  "updated_at_afisaj": "14 iulie 2026, 20:57",
+  "updated_at": "2026-07-15T09:10:56.191572+00:00",
+  "updated_at_afisaj": "15 iulie 2026, 12:10",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,52 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 122,
+  "numar_stiri": 117,
   "stiri": [
+    {
+      "id": "17cb548f9ee3",
+      "titlu": "FIFA a trimis acasă doi jucători englezi de la Cupa Mondială",
+      "rezumat": "Doi reprezentanți ai Premier League, care făceau parte din lotul Angliei la Cupa Mondială din 2026, au fost trimiși acasă de FIFA, conform informațiilor. Decizia, a cărei natură exactă nu a fost detaliată imediat, înseamnă că serviciile lor nu mai sunt necesare pentru restul competiției. Acest eveniment neașteptat ridică semne de întrebare cu privire la motivele din spatele acțiunii FIFA și la impactul potențial asupra moralului și strategiei echipei Angliei înaintea meciurilor decisive.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-07-15T09:10:56.186686+00:00",
+      "data_afisaj": "15 iulie 2026, 12:10"
+    },
+    {
+      "id": "a5e8660556ad",
+      "titlu": "Manchester United este aproape de a vinde-o pe Melvine Malard la Chelsea, într-un transfer record",
+      "rezumat": "Manchester United este pe punctul de a finaliza un acord pentru vânzarea atacantei franceze Melvine Malard către Chelsea, într-o tranzacție care ar putea stabili un nou record de vânzare pentru club. Suma de transfer este estimată la aproximativ 850.000 de lire sterline, deși unele surse sugerează o cifră mai apropiată de 750.000 de lire sterline. Discuțiile se află în stadiul final, iar mutarea este așteptată să se concretizeze în curând, marcând o mișcare importantă pe piața transferurilor din fotbalul feminin.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-15T09:10:56.188429+00:00",
+      "data_afisaj": "15 iulie 2026, 12:10"
+    },
+    {
+      "id": "470730b054cc",
+      "titlu": "Youri Tielemans vizează „cele mai mari trofee” după transferul la Manchester United",
+      "rezumat": "Mijlocașul Youri Tielemans a declarat că își dorește să ajute Manchester United să lupte pentru „cele mai mari trofee” după ce a finalizat transferul său de la Aston Villa pentru aproximativ 35 de milioane de lire sterline. Jucătorul în vârstă de 29 de ani a semnat un contract pe cinci ani și se alătură lui Andrey Santos, un alt mijlocaș recent achiziționat de United. Declarațiile sale subliniază ambițiile clubului și ale jucătorului pentru sezonul viitor, indicând o dorință clară de succes la noul său club.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-15T09:10:56.190051+00:00",
+      "data_afisaj": "15 iulie 2026, 12:10"
+    },
+    {
+      "id": "0c9ebacde240",
+      "titlu": "Didier Deschamps va disputa meciul de adio într-un context nedorit",
+      "rezumat": "Cariera lungă și ilustră a lui Didier Deschamps la cârma naționalei Franței se va încheia într-un mod pe care nu și l-ar fi dorit: în meciul pentru locul trei la Cupa Mondială. Deși a declarat că este „extrem de fericit”, contextul este unul amar, venind după eliminarea din semifinale. Această partidă va marca finalul unei ere pentru selecționerul francez, care a avut un impact semnificativ asupra echipei, dar nu cu finalul glorios dorit.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-15T09:10:56.191553+00:00",
+      "data_afisaj": "15 iulie 2026, 12:10"
+    },
     {
       "id": "1accc564944a",
       "titlu": "Arsenal a convenit o sumă pentru transferul lui Trossard la Beșiktaș",
@@ -1325,106 +1369,6 @@
       ],
       "data_publicare": "2026-07-08T09:26:48.175966+00:00",
       "data_afisaj": "8 iulie 2026, 12:26"
-    },
-    {
-      "id": "08519a12c2a3",
-      "titlu": "Argentina realizează o revenire spectaculoasă și învinge Egiptul la Cupa Mondială",
-      "rezumat": "Naționala Argentinei a reușit o revenire incredibilă în optimile de finală ale Cupei Mondiale 2026, învingând Egiptul cu scorul de 3-2. Echipa sud-americană s-a văzut condusă cu două goluri, dar a luptat până în ultimele minute, marcând golul victoriei în prelungiri. Această performanță dramatică menține vii speranțele Argentinei de a-și continua drumul în competiție, într-un meci considerat deja un clasic al turneului. Victoria a fost obținută după un efort colectiv remarcabil.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-07T18:57:00.201332+00:00",
-      "data_afisaj": "7 iulie 2026, 21:57"
-    },
-    {
-      "id": "17033be8a075",
-      "titlu": "Ruptură de ligament încrucișat pentru Onana de la Aston Villa",
-      "rezumat": "Aston Villa a confirmat că jucătorul său, Onana, a suferit o ruptură de ligament încrucișat anterior (ACL). Această veste reprezintă o lovitură semnificativă pentru club și pentru jucător, care va fi nevoit să stea departe de teren pentru o perioadă îndelungată. Accidentarea necesită, de obicei, o intervenție chirurgicală și o recuperare extinsă, punând sub semnul întrebării disponibilitatea sa pentru o mare parte din sezonul viitor. Clubul nu a oferit detalii suplimentare despre durata exactă a absenței.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-07T18:57:00.202697+00:00",
-      "data_afisaj": "7 iulie 2026, 21:57"
-    },
-    {
-      "id": "63cdf875b160",
-      "titlu": "Președintele La Liga critică „tăcerea complice” din jurul FIFA",
-      "rezumat": "Javier Tebas, președintele La Liga, a criticat vehement „tăcerea complice” care, în opinia sa, înconjoară FIFA. Declarațiile vin în contextul controverselor recente legate de cazul Folarin Balogun. Tebas a subliniat necesitatea unei transparențe sporite și a unei responsabilități mai mari din partea organismului de conducere al fotbalului mondial. Criticile sale aduc în discuție modul în care FIFA gestionează anumite situații delicate, sugerând că lipsa de reacție publică afectează integritatea sportului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-07T18:57:00.204085+00:00",
-      "data_afisaj": "7 iulie 2026, 21:57"
-    },
-    {
-      "id": "355d5e23fd49",
-      "titlu": "Cristiano Ronaldo, aproape de borna istorică de 1000 de goluri",
-      "rezumat": "Cristiano Ronaldo se apropie de o performanță istorică în cariera sa, fiind la un pas de a atinge pragul de 1000 de goluri marcate. Atacantul portughez continuă să își demonstreze abilitățile de marcator, iar fanii fotbalului din întreaga lume anticipează momentul în care va reuși această bornă impresionantă. Deși nu există o dată exactă, fiecare meci este o ocazie pentru Ronaldo de a se apropia de acest record, consolidându-și statutul de legendă a sportului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-07-07T18:57:00.205418+00:00",
-      "data_afisaj": "7 iulie 2026, 21:57"
-    },
-    {
-      "id": "ef287fd70105",
-      "titlu": "Arsenal aproape să semneze cu Meslier, portarul lui Leeds, ca transfer gratuit",
-      "rezumat": "Arsenal este pe cale să finalizeze transferul portarului Illan Meslier de la Leeds United, conform rapoartelor. Jucătorul ar urma să ajungă la clubul londonez ca transfer gratuit, după ce contractul său cu Leeds a expirat. Această mutare ar consolida opțiunile lui Arsenal în poartă, aducând un portar tânăr, dar cu experiență în Premier League. Transferul, confirmat de BBC Sport Football și Sky Sports Football, reprezintă o achiziție strategică pentru viitorul echipei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-07T18:03:17.663537+00:00",
-      "data_afisaj": "7 iulie 2026, 21:03"
-    },
-    {
-      "id": "b5122c5dc1af",
-      "titlu": "Noul antrenor Andoni Iraola își începe activitatea la Liverpool",
-      "rezumat": "Noul antrenor principal al lui Liverpool, Andoni Iraola, a sosit la centrul de antrenament al clubului și se pregătește să înceapă munca cu noua sa echipă înaintea sezonului din Premier League. Numirea lui Iraola marchează o nouă eră pentru club, iar fanii așteaptă cu nerăbdare să vadă cum va influența stilul său de joc și strategia de pregătire performanțele echipei. Primele sesiuni de antrenament și planurile de pre-sezon sunt cruciale pentru integrarea viziunii sale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-07T18:03:17.664937+00:00",
-      "data_afisaj": "7 iulie 2026, 21:03"
-    },
-    {
-      "id": "fcb468c9f760",
-      "titlu": "Camilo Duran de la Qarabag, aproape de un transfer la Celtic",
-      "rezumat": "Atacantul columbian Camilo Duran este pe punctul de a deveni prima achiziție a verii pentru Celtic, conform confirmării managerului Martin O'Neill. Jucătorul va efectua vizita medicală, urmând să se alăture clubului scoțian pentru o sumă nedezvăluită de la Qarabag. Acest transfer este așteptat să întărească ofensiva lui Celtic și să aducă un plus de viteză și creativitate în echipa lui O'Neill, în perspectiva noului sezon.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-07T18:03:17.666187+00:00",
-      "data_afisaj": "7 iulie 2026, 21:03"
-    },
-    {
-      "id": "a99aeae1f052",
-      "titlu": "Kane și Bellingham, duo-ul superstar care a propulsat Anglia la Cupa Mondială",
-      "rezumat": "Cu 10 din cele 11 goluri ale Angliei la Cupa Mondială marcate de Harry Kane sau Jude Bellingham, BBC Sport analizează dependența echipei de acest duo. Cei doi jucători au devenit pilonii ofensivei engleze, demonstrând o formă excepțională și o colaborare eficientă pe teren. Performanțele lor remarcabile au fost esențiale pentru parcursul Angliei în competiție, ridicând întrebări despre capacitatea echipei de a performa la fel de bine fără contribuția lor decisivă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-07T18:03:17.667640+00:00",
-      "data_afisaj": "7 iulie 2026, 21:03"
-    },
-    {
-      "id": "9f4b87bdb02f",
-      "titlu": "Lumea lui Jude Bellingham: un talent excepțional și ambiții mari",
-      "rezumat": "Jude Bellingham este considerat un fotbalist englez fără precedent, combinând încrederea și explozivitatea unui tânăr Wayne Rooney cu viziunea lui Paul Scholes. Articolul subliniază complexitatea talentului său, capabil să joace pe mai multe poziții ofensive și să demonstreze o inteligență tactică remarcabilă. Pe lângă performanțele sale pe teren, Bellingham are ambiții de a juca rolul lui James Bond, sugerând o personalitate mult mai amplă decât cea a unui simplu sportiv. El este văzut ca un lider în devenire pentru echipa Angliei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-07T18:03:17.669044+00:00",
-      "data_afisaj": "7 iulie 2026, 21:03"
     }
   ]
 }
