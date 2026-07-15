@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-15T10:01:28.733727+00:00",
-  "updated_at_afisaj": "15 iulie 2026, 13:01",
+  "updated_at": "2026-07-15T17:21:03.269775+00:00",
+  "updated_at_afisaj": "15 iulie 2026, 20:21",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,54 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 117,
+  "numar_stiri": 116,
   "stiri": [
+    {
+      "id": "5573e06defd0",
+      "titlu": "Decesul lui Nobby Stiles, legat de loviturile de cap repetate în fotbal",
+      "rezumat": "Un medic legist a concluzionat că Nobby Stiles, câștigător al Cupei Mondiale cu Anglia în 1966, a murit din cauza unei afecțiuni cerebrale cauzate de loviturile repetate de cap aplicate mingii de fotbal. Această constatare subliniază preocupările tot mai mari privind impactul pe termen lung al jocului aerian asupra sănătății cerebrale a fotbaliștilor, aducând în discuție necesitatea unor măsuri suplimentare de protecție în sport, pentru a preveni astfel de tragedii în viitor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-15T17:21:03.265312+00:00",
+      "data_afisaj": "15 iulie 2026, 20:21"
+    },
+    {
+      "id": "cc476ca48906",
+      "titlu": "FIFA, vizată de o ordonanță judecătorească în Germania privind prețurile de revânzare a biletelor la Cupa Mondială",
+      "rezumat": "FIFA a fost lovită de o ordonanță judecătorească preliminară emisă de un tribunal german, care îi solicită să înceteze „procesele manipulative” în vânzarea biletelor la Cupa Mondială. Decizia vine în urma unei cereri din partea Ticombo, un site de revânzare a biletelor, și impune FIFA să fie mai transparentă în privința vânzărilor secundare, inclusiv prin divulgarea identității vânzătorilor și a comisioanelor percepute, pentru a asigura o piață echitabilă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-15T17:21:03.267035+00:00",
+      "data_afisaj": "15 iulie 2026, 20:21"
+    },
+    {
+      "id": "ef8755acd2d3",
+      "titlu": "Sunderland îl transferă pe fundașul belgian Thomas Meunier",
+      "rezumat": "Clubul Sunderland a anunțat transferul experimentatului fundaș belgian Thomas Meunier. Jucătorul se alătură echipei după încheierea contractului său cu Lille. Meunier, care a reprezentat Belgia la Cupa Mondială, aduce o experiență valoroasă în defensiva lui Sunderland, fiind o achiziție importantă pentru sezonul viitor. Transferul său este văzut ca o mișcare strategică pentru a consolida echipa și a-i îmbunătăți performanțele.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-15T17:21:03.268310+00:00",
+      "data_afisaj": "15 iulie 2026, 20:21"
+    },
+    {
+      "id": "30d8de4b2e30",
+      "titlu": "London City Lionesses surprinde prin campania de transferuri ambițioasă în fotbalul feminin",
+      "rezumat": "Clubul London City Lionesses, care a terminat în jumătatea inferioară a ligii secunde în urmă cu doi ani, a atras atenția în fotbalul feminin prin achizițiile spectaculoase din această vară. Echipa a semnat nume mari, inclusiv vedete spaniole precum Alexia Putellas și Mapi León, precum și fosta portăriță a Angliei, Mary Earps. Această campanie de transferuri indică o investiție semnificativă și o ambiție crescută pentru club, sugerând o schimbare de forță în peisajul fotbalului feminin.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-15T17:21:03.269759+00:00",
+      "data_afisaj": "15 iulie 2026, 20:21"
+    },
     {
       "id": "6cbafbcb17cd",
       "titlu": "Toate golurile Angliei de la Cupa Mondială 2026 până în prezent",
@@ -1317,62 +1363,6 @@
       ],
       "data_publicare": "2026-07-08T17:40:48.625616+00:00",
       "data_afisaj": "8 iulie 2026, 20:40"
-    },
-    {
-      "id": "5f858eb7bc69",
-      "titlu": "Elveția învinge Columbia la penalty-uri și se califică în sferturile de finală",
-      "rezumat": "Portarul Gregor Kobel a devenit eroul Elveției, reușind o paradă spectaculoasă la lovitura de departajare a lui Cucho Hernandez de la Columbia. Această intervenție crucială a asigurat victoria Elveției în faza optimilor de finală ale Cupei Mondiale, stabilind o confruntare în sferturile de finală împotriva Argentinei. Meciul a fost unul tensionat, decis la limită, demonstrând determinarea ambelor echipe de a avansa în competiție.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-08T10:16:34.485869+00:00",
-      "data_afisaj": "8 iulie 2026, 13:16"
-    },
-    {
-      "id": "e0c37e9b9451",
-      "titlu": "Dominanța Europei la Cupa Mondială: O tendință neobișnuită sau previzibilă?",
-      "rezumat": "Șase dintre cele opt echipe calificate în sferturile de finală ale Cupei Mondiale din America de Nord provin din Europa, o statistică ce ridică întrebări despre performanța continentului. Analiza explorează motivele din spatele acestui succes european, examinând factorii care contribuie la dominanța lor actuală și ce indică istoria despre șansele unei echipe europene de a câștiga trofeul. Această tendință subliniază o dinamică interesantă în competiția globală.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-08T10:16:34.487528+00:00",
-      "data_afisaj": "8 iulie 2026, 13:16"
-    },
-    {
-      "id": "ca8e84a1fe87",
-      "titlu": "Arsenal prioritizează transferul lui Morgan Rogers, profitând de situația financiară a lui Aston Villa",
-      "rezumat": "Arsenal, proaspăt campioană, își propune să-și consolideze lotul pentru sezonul viitor, având ca prioritate transferul lui Morgan Rogers. Se pare că Aston Villa se confruntă cu dificultăți financiare, ceea ce ar putea facilita mutarea jucătorului la echipa londoneză. Această mișcare strategică ar permite \"Tunarilor\" să-și întărească echipa, profitând de contextul economic al clubului din Birmingham pentru a aduce un jucător dorit.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-07-08T10:16:34.489215+00:00",
-      "data_afisaj": "8 iulie 2026, 13:16"
-    },
-    {
-      "id": "dbf1124731f2",
-      "titlu": "Manchester United continuă să-l urmărească pe Alex Scott, în ciuda poziției lui Bournemouth",
-      "rezumat": "Manchester United rămâne interesată de transferul mijlocașului Alex Scott, în ciuda reticenței clubului Bournemouth de a-l ceda. Antrenorul Michael Carrick îl consideră pe Scott o opțiune ideală pentru a întări echipa înaintea noului sezon. Clubul de pe Old Trafford își menține presiunea pentru a-l aduce pe tânărul talent, văzând în el o piesă importantă pentru planurile de viitor și pentru a îmbunătăți performanța echipei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-07-08T10:16:34.490836+00:00",
-      "data_afisaj": "8 iulie 2026, 13:16"
-    },
-    {
-      "id": "9b428375b29e",
-      "titlu": "Va fi anulată decizia de cartonaș roșu pentru Jarell Quansah de la Anglia?",
-      "rezumat": "După intervenția lui Donald Trump în cazul cartonașului roșu al lui Folarin Balogun, s-a deschis o discuție amplă privind posibilitatea anulării unor decizii similare. În acest context, se analizează dacă decizia de cartonaș roșu primită de Jarell Quansah, jucătorul Angliei, ar putea fi revizuită și anulată. Situația creează un precedent și adaugă incertitudine în privința aplicării regulamentului disciplinar la Cupa Mondială.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-07-08T10:16:34.492375+00:00",
-      "data_afisaj": "8 iulie 2026, 13:16"
     }
   ]
 }
