@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-15T18:01:30.169144+00:00",
-  "updated_at_afisaj": "15 iulie 2026, 21:01",
+  "updated_at": "2026-07-16T09:18:35.140000+00:00",
+  "updated_at_afisaj": "16 iulie 2026, 12:18",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,55 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 116,
+  "numar_stiri": 115,
   "stiri": [
+    {
+      "id": "4460f9947ab6",
+      "titlu": "Jude Bellingham, Implicat într-un Incident După Eliminarea Angliei de la Cupa Mondială",
+      "rezumat": "Jude Bellingham a provocat o altercație minoră după înfrângerea Angliei cu 2-1 în semifinala Cupei Mondiale împotriva Argentinei. Mijlocașul englez l-a lovit pe Valentin Barco, un jucător de rezervă al Argentinei, pe ceafă, gest care a declanșat o busculadă pe teren. Incidentul a avut loc imediat după fluierul final, adăugând tensiune momentului eliminării Angliei din competiție și stârnind discuții despre comportamentul jucătorilor în momente de presiune.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-07-16T09:18:35.135319+00:00",
+      "data_afisaj": "16 iulie 2026, 12:18"
+    },
+    {
+      "id": "f983fe38faaf",
+      "titlu": "ITV și BBC Vor Transmite Integral Spectacolul de la Pauza Finalei Cupei Mondiale",
+      "rezumat": "Posturile de televiziune ITV și BBC intenționează să difuzeze integral spectacolul controversat de la pauza finalei Cupei Mondiale, care va avea loc pe stadionul New York New Jersey. Decizia vine în ciuda îngrijorărilor anterioare legate de durata evenimentului, curatoriat de Chris Martin de la Coldplay. Radiodifuzorii se așteaptă ca pauza să dureze între 25 și 30 de minute, dar rămân în incertitudine cu privire la durata exactă a spectacolului pregătit de FIFA, care a generat deja discuții aprinse.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-16T09:18:35.136905+00:00",
+      "data_afisaj": "16 iulie 2026, 12:18"
+    },
+    {
+      "id": "17ba6d0a5c16",
+      "titlu": "Thomas Tuchel Își Asumă Responsabilitatea După Eliminarea Angliei de la Cupa Mondială",
+      "rezumat": "Selecționerul Angliei, Thomas Tuchel, și-a asumat responsabilitatea pentru eliminarea echipei sale din semifinalele Cupei Mondiale 2026, în urma înfrângerii cu Argentina. Tuchel a declarat că echipa a devenit prea pasivă după ce a preluat conducerea, dar a subliniat că nu are regrete. Această declarație vine pe fondul speculațiilor privind viitorul său la cârma naționalei Angliei, după o nouă dezamăgire la un turneu major, iar analiștii dezbat impactul deciziilor sale tactice.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-07-16T09:18:35.138472+00:00",
+      "data_afisaj": "16 iulie 2026, 12:18"
+    },
+    {
+      "id": "b47f400e3dc5",
+      "titlu": "Argentina Riscă Sancțiuni FIFA din Cauza Bannerului cu Insulele Falkland",
+      "rezumat": "Echipa națională a Argentinei se confruntă cu posibile măsuri disciplinare din partea FIFA, după ce jucătorii au sărbătorit victoria din semifinala Cupei Mondiale împotriva Angliei cu un banner care susținea revendicările țării lor asupra Insulelor Falkland. Acest gest, considerat politic, ar putea atrage sancțiuni din partea forului mondial, care interzice manifestările politice în timpul competițiilor. Incidentul a adăugat o nouă dimensiune tensiunilor istorice dintre cele două națiuni și a stârnit reacții internaționale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-16T09:18:35.139980+00:00",
+      "data_afisaj": "16 iulie 2026, 12:18"
+    },
     {
       "id": "44bdbdf37820",
       "titlu": "Anglia v Argentina: semifinala Cupei Mondiale 2026 – în direct",
@@ -1306,66 +1353,6 @@
       ],
       "data_publicare": "2026-07-09T10:26:52.704436+00:00",
       "data_afisaj": "9 iulie 2026, 13:26"
-    },
-    {
-      "id": "4d6ebad3c65f",
-      "titlu": "Egiptul cere excluderea oficialilor FIFA și acuză arbitrajul pro-Argentina la Cupa Mondială",
-      "rezumat": "Federația Egipteană de Fotbal a depus o plângere oficială la FIFA, cerând o investigație și excluderea arbitrilor după înfrângerea controversată împotriva Argentinei la Cupa Mondială. Egiptul acuză \"dublu standard\" în arbitraj și favorizarea starului Lionel Messi, menționând în special anularea unui gol al lui Mostafa Zico prin VAR, decizie considerată incorectă. Superstarul egiptean Mostafa Ziko a pus sub semnul întrebării integritatea FIFA, vorbind despre acuzații de \"aranjament\" în favoarea Argentinei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-08T18:13:51.181134+00:00",
-      "data_afisaj": "8 iulie 2026, 21:13"
-    },
-    {
-      "id": "e3ddf8b165e5",
-      "titlu": "Jordan Henderson a suferit o intervenție chirurgicală după o fractură la braț",
-      "rezumat": "Mijlocașul englez Jordan Henderson a fost supus unei intervenții chirurgicale în SUA, după ce și-a fracturat brațul în timpul festivităților de după victoria Angliei împotriva Mexicului. Jucătorul a oferit o actualizare din spital, confirmând că a suferit o fractură la antebraț în urma unei căzături neobișnuite. Deși nu a jucat în meciul respectiv, accidentarea sa reprezintă o lovitură pentru echipa națională în contextul Cupei Mondiale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-08T18:13:51.182564+00:00",
-      "data_afisaj": "8 iulie 2026, 21:13"
-    },
-    {
-      "id": "930cd4287a4c",
-      "titlu": "Chelsea anunță transferul lui Geovany Quenda pentru 40 de milioane de lire sterline",
-      "rezumat": "Clubul Chelsea a confirmat achiziția atacantului Geovany Quenda de la Sporting Lisabona, într-o tranzacție evaluată la 40 de milioane de lire sterline. Jucătorul portughez, în vârstă de 19 ani, este considerat o promisiune pentru viitor și se alătură echipei londoneze în cadrul strategiei de întinerire a lotului. Transferul subliniază intenția Chelsea de a investi în talente emergente pentru a-și consolida ofensiva pe termen lung.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-08T18:13:51.183993+00:00",
-      "data_afisaj": "8 iulie 2026, 21:13"
-    },
-    {
-      "id": "7d2944875e9c",
-      "titlu": "Bruno Guimaraes cere să plece de la Newcastle, Arsenal își intensifică interesul",
-      "rezumat": "Mijlocașul Bruno Guimaraes a solicitat oficial plecarea de la Newcastle United, stârnind un interes accelerat din partea clubului Arsenal. Jucătorul brazilian în vârstă de 28 de ani este o țintă importantă pentru \"tunari\", care caută să-și întărească linia mediană. Această dezvoltare ar putea duce la o mutare semnificativă pe piața transferurilor, având în vedere valoarea și importanța lui Guimaraes pentru echipa sa actuală.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-08T18:13:51.185413+00:00",
-      "data_afisaj": "8 iulie 2026, 21:13"
-    },
-    {
-      "id": "a018069f6d4d",
-      "titlu": "Leeds United confirmă transferul gratuit al lui Harry Wilson",
-      "rezumat": "Leeds United a anunțat oficial achiziția mijlocașului ofensiv Harry Wilson, care sosește la club ca jucător liber de contract, după plecarea sa de la Fulham. Wilson a semnat un contract pe patru ani cu echipa de pe Elland Road. Transferul său reprezintă o mișcare strategică pentru Leeds, care își propune să-și consolideze lotul cu un jucător experimentat și talentat, fără a plăti o sumă de transfer.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-08T18:13:51.186739+00:00",
-      "data_afisaj": "8 iulie 2026, 21:13"
     }
   ]
 }
