@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-16T09:18:35.140000+00:00",
-  "updated_at_afisaj": "16 iulie 2026, 12:18",
+  "updated_at": "2026-07-16T10:07:57.015663+00:00",
+  "updated_at_afisaj": "16 iulie 2026, 13:07",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,66 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 115,
+  "numar_stiri": 120,
   "stiri": [
+    {
+      "id": "65154248cc09",
+      "titlu": "Argentina Elimină Anglia de la Cupa Mondială într-o Semifinală Dramatică",
+      "rezumat": "Naționala Argentinei a spulberat speranțele Angliei la Cupa Mondială, reușind să marcheze două goluri în minutele de final ale semifinalei disputate la Atlanta. După ce echipa lui Thomas Tuchel a condus, Argentina a revenit spectaculos, învingând cu 2-1 și calificându-se în finală. Această victorie dramatică pune capăt parcursului Angliei la turneul final și confirmă prezența Argentinei în lupta pentru trofeu, într-un meci plin de tensiune și răsturnări de scor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-16T10:07:57.009402+00:00",
+      "data_afisaj": "16 iulie 2026, 13:07"
+    },
+    {
+      "id": "5c2d301a3144",
+      "titlu": "Portarul Scoțian Craig Gordon Se Retrage din Fotbal la 43 de Ani",
+      "rezumat": "Experimentatul portar scoțian Craig Gordon și-a anunțat retragerea din activitatea de fotbalist profesionist, la vârsta de 43 de ani. Decizia vine după o carieră impresionantă, care s-a întins pe parcursul a 25 de ani. Gordon, cunoscut pentru longevitatea și performanțele sale constante, a evoluat pentru cluburi importante și a reprezentat naționala Scoției, lăsând în urmă o moștenire notabilă în fotbalul britanic și internațional. Retragerea sa marchează sfârșitul unei ere pentru unul dintre cei mai respectați goalkeeperi.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-16T10:07:57.010944+00:00",
+      "data_afisaj": "16 iulie 2026, 13:07"
+    },
+    {
+      "id": "fab0d26bbe88",
+      "titlu": "Thomas Tuchel Păstrează Sprijinul Federației Engleze, în Ciuda Eliminării de la Cupa Mondială",
+      "rezumat": "Thomas Tuchel, selecționerul Angliei, continuă să beneficieze de încrederea și sprijinul Federației Engleze de Fotbal (FA), chiar și după eliminarea echipei naționale în semifinalele Cupei Mondiale. În ciuda dezamăgirii provocate de ratarea calificării în finală, oficialii FA au reafirmat susținerea pentru antrenorul german. Această decizie indică o viziune pe termen lung și o stabilitate la nivelul conducerii tehnice, oferindu-i lui Tuchel posibilitatea de a continua proiectul început la cârma naționalei Angliei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-16T10:07:57.012602+00:00",
+      "data_afisaj": "16 iulie 2026, 13:07"
+    },
+    {
+      "id": "aafc0cbc9326",
+      "titlu": "Harry Kane Nu Este Sigur de Participarea la Următoarea Cupă Mondială",
+      "rezumat": "Căpitanul naționalei Angliei, Harry Kane, a declarat că este \"prea devreme\" pentru a evalua dacă va mai putea juca pentru echipa Angliei până la Cupa Mondială din 2030. Afirmația vine în urma înfrângerii dureroase suferite de Anglia în semifinala Cupei Mondiale împotriva Argentinei. Viitorul său la nivel internațional rămâne incert, iar decizia va depinde de evoluția sa fizică și de planurile personale în anii următori, pe măsură ce se apropie de finalul carierei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-16T10:07:57.014104+00:00",
+      "data_afisaj": "16 iulie 2026, 13:07"
+    },
+    {
+      "id": "345d9bcf02b0",
+      "titlu": "Interes din Anglia pentru Fundașul Român Andrei Coubiș de la U Cluj",
+      "rezumat": "Andrei Coubiș, tânărul fundaș al echipei Universitatea Cluj, a atras atenția cluburilor din Anglia, generând speculații privind un posibil transfer. Jucătorul român este comparat cu Radu Drăgușin, un alt fundaș român care a făcut pasul către Premier League. Această veste subliniază potențialul lui Coubiș și interesul crescut al echipelor britanice pentru talentele din fotbalul românesc. O eventuală mutare în Anglia ar reprezenta un pas important în cariera sa, oferindu-i șansa de a evolua la un nivel superior.",
+      "categorie": "Fotbal",
+      "surse": [
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-07-16T10:07:57.015639+00:00",
+      "data_afisaj": "16 iulie 2026, 13:07"
+    },
     {
       "id": "4460f9947ab6",
       "titlu": "Jude Bellingham, Implicat într-un Incident După Eliminarea Angliei de la Cupa Mondială",
