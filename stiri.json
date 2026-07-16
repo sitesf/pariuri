@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-16T10:07:57.015663+00:00",
-  "updated_at_afisaj": "16 iulie 2026, 13:07",
+  "updated_at": "2026-07-16T17:22:59.946764+00:00",
+  "updated_at_afisaj": "16 iulie 2026, 20:22",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,41 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 120,
+  "numar_stiri": 117,
   "stiri": [
+    {
+      "id": "96aea772c71e",
+      "titlu": "Aproape Un Sfert Dintre Meciurile Cupei Mondiale S-au Jucat în Condiții de Căldură Periculoase",
+      "rezumat": "O analiză realizată de The Guardian a relevat că aproape 19% dintre meciurile Cupei Mondiale din acest an s-au desfășurat în condiții de căldură și umiditate care, conform avertismentelor unui sindicat al jucătorilor, ar fi trebuit să ducă la amânări sau reprogramări. Această situație ridică semne de întrebare privind siguranța jucătorilor și măsurile de protecție implementate de FIFA, pe fondul crizei climatice globale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-16T17:22:59.943592+00:00",
+      "data_afisaj": "16 iulie 2026, 20:22"
+    },
+    {
+      "id": "d2d1100a34bf",
+      "titlu": "Manchester United Îl Transferă pe Andrey Santos de la Chelsea pentru 48 de Milioane de Lire Sterline",
+      "rezumat": "Manchester United a finalizat transferul mijlocașului brazilian Andrey Santos de la Chelsea pentru o sumă de 48 de milioane de lire sterline. Această achiziție reprezintă prima semnare a antrenorului Michael Carrick și vine ca o soluție pentru întărirea liniei de mijloc, în special după plecarea lui Casemiro și accidentarea pe termen lung a lui Manuel Ugarte. Transferul a fost o surpriză pentru mulți, dar este binevenit de fanii \"Diavolilor Roșii\".",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-16T17:22:59.945258+00:00",
+      "data_afisaj": "16 iulie 2026, 20:22"
+    },
+    {
+      "id": "2637fb45087e",
+      "titlu": "Arsenal A Ajuns la Un Acord Pentru Transferul Aripului Grec Christos Tzolis",
+      "rezumat": "Arsenal a convenit un acord cu Club Brugge pentru transferul aripului grec Christos Tzolis, conform informațiilor obținute de Sky Sports News. Suma tranzacției se ridică la 34 de milioane de lire sterline. Această mutare marchează o achiziție importantă pentru \"Tunari\" în perioada de transferuri de vară, aducând un nou talent ofensiv în echipa recent campioană a Premier League.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-16T17:22:59.946748+00:00",
+      "data_afisaj": "16 iulie 2026, 20:22"
+    },
     {
       "id": "65154248cc09",
       "titlu": "Argentina Elimină Anglia de la Cupa Mondială într-o Semifinală Dramatică",
@@ -1343,74 +1376,6 @@
       ],
       "data_publicare": "2026-07-09T17:59:22.893449+00:00",
       "data_afisaj": "9 iulie 2026, 20:59"
-    },
-    {
-      "id": "9a767290eff9",
-      "titlu": "Predicțiile lui Chris Sutton pentru sferturile de finală ale Cupei Mondiale",
-      "rezumat": "Expertul în fotbal al BBC Sport, Chris Sutton, a prezentat predicțiile sale pentru meciurile din sferturile de finală ale Cupei Mondiale din 2026. Printre confruntările analizate se numără și partida dintre Anglia și Norvegia. Sutton a oferit o perspectivă detaliată asupra șanselor fiecărei echipe de a avansa în semifinale, bazându-se pe forma actuală a jucătorilor și pe performanțele demonstrate pe parcursul turneului. Aceste predicții vin în contextul intensificării competiției, pe măsură ce turneul se apropie de fazele finale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-09T10:53:46.307719+00:00",
-      "data_afisaj": "9 iulie 2026, 13:53"
-    },
-    {
-      "id": "03d4e5c4ab03",
-      "titlu": "Anglia ar putea primi o zi liberă națională dacă va câștiga Cupa Mondială",
-      "rezumat": "Conform rapoartelor din presa de joi, Guvernul britanic ia în considerare declararea unei zile libere naționale în cazul în care echipa națională de fotbal a Angliei va reuși să câștige Cupa Mondială din 2026. Această inițiativă ar reprezenta o recunoaștere a performanței istorice și ar oferi suporterilor ocazia de a celebra succesul. Propunerea este discutată în contextul entuziasmului crescut din jurul parcursului echipei la turneul final, pe măsură ce Anglia avansează în fazele eliminatorii.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-09T10:53:46.309237+00:00",
-      "data_afisaj": "9 iulie 2026, 13:53"
-    },
-    {
-      "id": "99ca4ab10048",
-      "titlu": "Pierluigi Collina: Integritatea arbitrilor de la Cupa Mondială este incontestabilă",
-      "rezumat": "Pierluigi Collina, șeful departamentului de arbitraj al FIFA, a declarat că oficialii Cupei Mondiale nu sunt influențați de nimeni și că nimeni nu poate pune la îndoială integritatea deciziilor lor. Declarația vine în contextul unor discuții și controverse legate de arbitraj pe parcursul turneului. Collina a subliniat că procesul de luare a deciziilor este riguros și transparent, asigurând că fiecare hotărâre este bazată pe regulament și pe principii de echitate, pentru a menține credibilitatea competiției.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-09T10:53:46.311943+00:00",
-      "data_afisaj": "9 iulie 2026, 13:53"
-    },
-    {
-      "id": "0613c5da45a2",
-      "titlu": "Ancheta privind decesul lui Maddy Cusack, amânată din nou",
-      "rezumat": "Ancheta legată de decesul Maddy Cusack, mijlocașă la Sheffield United, a fost amânată din nou, la aproape trei ani de la moartea sa, survenită pe 20 septembrie 2023, la vârsta de 27 de ani. Aceasta este a doua amânare în 2026, după ce noi documente au fost depuse. Medicul legist a informat că audierile nu vor fi reluate mai devreme de 7 decembrie, prezentând scuze familiei. Procesul, care a început pe 29 iunie și a inclus opt zile complete de mărturii, continuă să fie un subiect sensibil.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-09T10:53:46.313343+00:00",
-      "data_afisaj": "9 iulie 2026, 13:53"
-    },
-    {
-      "id": "83c0cb1474a0",
-      "titlu": "Cartonașul galben al lui Olise rămâne valabil; Saibari, indisponibil pentru Maroc",
-      "rezumat": "Federația Franceză de Fotbal nu a reușit să obțină anularea cartonașului galben primit de atacantul Michael Olise. Decizia înseamnă că jucătorul va fi disponibil pentru sferturile de finală ale Cupei Mondiale. Pe de altă parte, naționala Marocului va fi lipsită de serviciile lui Ismael Saibari pentru meciul din sferturile de finală, care se va disputa pe stadionul din Boston. Aceste informații sunt cruciale pentru strategiile echipelor înaintea confruntărilor eliminatorii.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-09T10:26:52.702818+00:00",
-      "data_afisaj": "9 iulie 2026, 13:26"
-    },
-    {
-      "id": "b0b09793753b",
-      "titlu": "Manchester United a dezvăluit locația noului stadion de 100.000 de locuri",
-      "rezumat": "Clubul Manchester United a anunțat public locația propusă pentru construcția noului său stadion, care va avea o capacitate de 100.000 de locuri. Această inițiativă reprezintă un pas major în dezvoltarea infrastructurii clubului și ar putea deveni cel mai mare stadion din Regatul Unit. Planurile pentru acest proiect ambițios avansează, marcând o etapă importantă în istoria \"Diavolilor Roșii\" și în peisajul fotbalistic britanic.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-09T10:26:52.704436+00:00",
-      "data_afisaj": "9 iulie 2026, 13:26"
     }
   ]
 }
