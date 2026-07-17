@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-17T09:11:42.773276+00:00",
-  "updated_at_afisaj": "17 iulie 2026, 12:11",
+  "updated_at": "2026-07-17T09:56:13.659567+00:00",
+  "updated_at_afisaj": "17 iulie 2026, 12:56",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 119,
+  "numar_stiri": 124,
   "stiri": [
+    {
+      "id": "7ae803ed511f",
+      "titlu": "Jucători Englezi Nemulțumiți de Tactica lui Tuchel După Eliminarea de la Cupa Mondială",
+      "rezumat": "BBC Sport a raportat că tactica defensivă a managerului Thomas Tuchel în semifinala Cupei Mondiale împotriva Argentinei, pierdută cu 2-1, este intens dezbătută în cadrul lotului Angliei. Se pare că unii jucători sunt dezamăgiți de abordarea tactică, în timp ce Tuchel însuși a pus sub semnul întrebării \"ADN-ul\" echipei după înfrângere. Această situație indică tensiuni interne și o analiză critică a performanței și deciziilor strategice ale antrenorului, în urma eșecului de a ajunge în finală.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-17T09:56:13.654325+00:00",
+      "data_afisaj": "17 iulie 2026, 12:56"
+    },
+    {
+      "id": "2dc39708c394",
+      "titlu": "Mii de Bilete Încă Disponibile pentru Meciul Anglia - Franța pentru Medalia de Bronz la Cupa Mondială",
+      "rezumat": "Aproximativ 7.000 de bilete sunt încă listate pe site-urile de ticketing ale FIFA pentru meciul de sâmbătă dintre Anglia și Franța, care va decide medalia de bronz la Cupa Mondială. Această disponibilitate ridică întrebări despre interesul publicului pentru meciul de consolare, după ce ambele echipe au fost eliminate în semifinale. Fanii au încă oportunitatea de a achiziționa bilete pentru a urmări confruntarea dintre cele două națiuni europene, care se luptă pentru locul trei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-17T09:56:13.655742+00:00",
+      "data_afisaj": "17 iulie 2026, 12:56"
+    },
+    {
+      "id": "c157e05c7f9b",
+      "titlu": "Concertul Pitbull Forțează Mutarea unui Meci Istoric de Calificare în Liga Campionilor în Lituania",
+      "rezumat": "FK Kauno Zalgiris, campioana Lituaniei, va fi probabil forțată să joace un meci istoric de calificare în Liga Campionilor în deplasare, după ce și-a închiriat stadionul pentru un concert al rapperului american Pitbull. Echipa a avansat în a doua rundă preliminară, asigurându-și astfel prezența în faza grupelor unei competiții europene, însă indisponibilitatea stadionului din cauza evenimentului muzical creează o situație neobișnuită și complică planurile pentru meciul crucial de acasă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-17T09:56:13.657044+00:00",
+      "data_afisaj": "17 iulie 2026, 12:56"
+    },
+    {
+      "id": "bb43648ebefc",
+      "titlu": "Arbitrul Finalei Cupei Mondiale Confirmat: Cine Va Oficia Meciul Spania - Argentina?",
+      "rezumat": "Oficialii Cupei Mondiale au confirmat arbitrul care va conduce finala din 2026, programată să aibă loc duminică pe Stadionul New York New Jersey, între Spania și Argentina. Această decizie este crucială pentru desfășurarea corectă a celui mai important meci al turneului, iar numele arbitrului desemnat este acum public. Detaliile despre oficialul ales și experiența sa sunt așteptate să fie analizate de fani și experți înainte de marea confruntare care va decide campioana mondială.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-07-17T09:56:13.658232+00:00",
+      "data_afisaj": "17 iulie 2026, 12:56"
+    },
+    {
+      "id": "b52a5ba66145",
+      "titlu": "Starul din Capul Verde Continuă Vara de Vis cu Performanțe Eroice în Calificările Ligii Campionilor",
+      "rezumat": "Un fundaș din Capul Verde, care a impresionat la Cupa Mondială, își continuă parcursul de succes prin performanțe eroice în calificările Ligii Campionilor. Acesta a jucat un rol cheie în asigurarea calificării echipei sale în faza următoare a competiției europene, consolidându-și reputația de jucător valoros. Această evoluție remarcabilă subliniază ascensiunea sa în fotbalul internațional și contribuția sa esențială la succesele clubului, după o vară plină de realizări.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-07-17T09:56:13.659551+00:00",
+      "data_afisaj": "17 iulie 2026, 12:56"
+    },
     {
       "id": "7b0b926713b2",
       "titlu": "FCSB, CFR Cluj și U Cluj își Află Adversarii în Turul 3 Preliminar Conference League",
