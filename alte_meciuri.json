@@ -1,11 +1,11 @@
 {
-  "data_start": "2026-07-16",
-  "data_final": "2026-07-23",
-  "updated_at": "2026-07-16T07:27:05.490717+00:00",
+  "data_start": "2026-07-17",
+  "data_final": "2026-07-24",
+  "updated_at": "2026-07-17T07:23:27.916992+00:00",
   "surse": [
     "The Odds API"
   ],
-  "status_date": "2 meciuri gasite, 0 cu pronostic",
+  "status_date": "2 meciuri gasite, 1 cu pronostic",
   "numar_meciuri": 2,
   "meciuri": [
     {
@@ -14,13 +14,13 @@
       "home": "France",
       "away": "England",
       "liga": "Cupa Mondială 2026",
-      "cota_1": 2.0,
-      "cota_x": 3.7,
-      "cota_2": 3.45,
-      "pronostic": null,
-      "motiv": null,
-      "cota_pronostic": null,
-      "probabilitate": null
+      "cota_1": 1.85,
+      "cota_x": 3.9,
+      "cota_2": 3.65,
+      "pronostic": "1X",
+      "motiv": "Gazde ușor favorizate (1:1.85 X:3.90)",
+      "cota_pronostic": 1.25,
+      "probabilitate": 0.797
     },
     {
       "data": "2026-07-19",
@@ -28,9 +28,9 @@
       "home": "Spain",
       "away": "Argentina",
       "liga": "Cupa Mondială 2026",
-      "cota_1": 2.38,
-      "cota_x": 3.05,
-      "cota_2": 3.85,
+      "cota_1": 2.36,
+      "cota_x": 3.1,
+      "cota_2": 3.8,
       "pronostic": null,
       "motiv": null,
       "cota_pronostic": null,
