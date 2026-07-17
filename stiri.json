@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-17T09:56:13.659567+00:00",
-  "updated_at_afisaj": "17 iulie 2026, 12:56",
+  "updated_at": "2026-07-17T17:16:03.652063+00:00",
+  "updated_at_afisaj": "17 iulie 2026, 20:16",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,54 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 124,
+  "numar_stiri": 119,
   "stiri": [
+    {
+      "id": "a08efa9250f8",
+      "titlu": "Căpitanul West Ham, Jarrod Bowen, Rămâne la Club",
+      "rezumat": "Jarrod Bowen, căpitanul echipei West Ham United, a confirmat că va continua la club pentru sezonul viitor, chiar și după retrogradarea echipei în Championship. Decizia sa subliniază angajamentul față de \"Ciocănari\" și oferă stabilitate lotului în perspectiva încercării de a reveni în Premier League. Rămânerea unui jucător cheie precum Bowen este considerată o veste importantă pentru fani și pentru strategia clubului în campania de promovare, consolidând speranțele de revenire rapidă în elita fotbalului englez.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-17T17:16:03.647186+00:00",
+      "data_afisaj": "17 iulie 2026, 20:16"
+    },
+    {
+      "id": "2fb503602f4c",
+      "titlu": "FC Voluntari Învinsă Acasă de FC Botoșani în Prima Etapă din Superliga",
+      "rezumat": "FC Voluntari a debutat cu o înfrângere pe teren propriu în noul sezon de Superliga, fiind învinsă de FC Botoșani cu scorul de 1-2. Meciul, transmis în format live text, a fost marcat de ocazii importante, inclusiv o minge șutată de Șuteu care a lovit bara, fiind deviată de portarul Anestis. Rezultatul reprezintă un start dificil pentru Voluntari și o victorie importantă în deplasare pentru Botoșani în prima etapă a campionatului, oferind un impuls moral pentru echipa moldoveană.",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-07-17T17:16:03.648746+00:00",
+      "data_afisaj": "17 iulie 2026, 20:16"
+    },
+    {
+      "id": "815fab4c6573",
+      "titlu": "Câștigătorii Finalei Cupei Mondiale Vor Primi Inele în Stil Super Bowl",
+      "rezumat": "FIFA a confirmat că echipa câștigătoare a Cupei Mondiale, fie Spania, fie Argentina, va fi recompensată cu inele personalizate, similare celor oferite campionilor Super Bowl din fotbalul american. Această inițiativă marchează o premieră în istoria Cupei Mondiale, adăugând o nouă formă de recunoaștere pentru performanța supremă în fotbalul internațional. Inelele vor simboliza victoria și succesul obținut pe terenul de joc din Statele Unite, oferind o amintire unică jucătorilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-07-17T17:16:03.650505+00:00",
+      "data_afisaj": "17 iulie 2026, 20:16"
+    },
+    {
+      "id": "5db69a4fe947",
+      "titlu": "Lamine Yamal Lipsește de la Antrenamentul Spaniei Înainte de Finala Cupei Mondiale",
+      "rezumat": "Tânărul star spaniol Lamine Yamal a absentat de la sesiunea de antrenament a echipei naționale din New Jersey, cu doar câteva zile înainte de marea finală a Cupei Mondiale împotriva Argentinei. Yamal este unul dintre cei doi jucători care nu s-au antrenat, stârnind îngrijorări cu privire la disponibilitatea sa pentru meciul decisiv. Absența sa ar putea reprezenta o lovitură pentru planurile tactice ale Spaniei în lupta pentru trofeu, având în vedere importanța sa în echipa.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-07-17T17:16:03.652046+00:00",
+      "data_afisaj": "17 iulie 2026, 20:16"
+    },
     {
       "id": "7ae803ed511f",
       "titlu": "Jucători Englezi Nemulțumiți de Tactica lui Tuchel După Eliminarea de la Cupa Mondială",
@@ -1342,111 +1388,6 @@
       ],
       "data_publicare": "2026-07-10T17:49:47.034597+00:00",
       "data_afisaj": "10 iulie 2026, 20:49"
-    },
-    {
-      "id": "fc8a8fbee40f",
-      "titlu": "cine sunt eu? Guess Steaua Cupei Mondiale nr. 33",
-      "rezumat": "Veți obține jucătorul de astăzi în cât mai puține încercări?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-10T10:52:25.596537+00:00",
-      "data_afisaj": "10 iulie 2026, 13:52"
-    },
-    {
-      "id": "b900b905a6b0",
-      "titlu": "Franța în semifinale după o victorie confortabilă în fața Marocului",
-      "rezumat": "Kylian Mbappe marchează al optulea gol din această Cupă Mondială pentru a compensa o ratare anterioară de penalty, Ousmane Dembele adăugând un al doilea, deoarece Franța se dovedește prea bună pentru Maroc și trece în semifinale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-10T10:52:25.597651+00:00",
-      "data_afisaj": "10 iulie 2026, 13:52"
-    },
-    {
-      "id": "e7d0b4e618ff",
-      "titlu": "Jarell Quansah a fost suspendat de la FIFA pentru două meciuri pentru eliminare împotriva Mexicului",
-      "rezumat": "Provocarea fundașului Angliei considerată un joc greșit grav. Quansah ratează sferturile de finală și potențiala semifinală. Jarell Quansah a primit o suspendare de două meciuri pentru cartonașul său roșu în victoria Angliei în optimile de finală la Cupa Mondială împotriva Mexicului, lăsându-l devastat pe fundaș. Fifa a anunțat sancțiunea joi, spunând că este pentru un joc greșit grav. Thomas Tuchel trebuie să decidă acum ce va face la fundaș drept pentru sferturile de finală împotriva Norvegiei, la Miami, sâmbătă. Reece James, care a ratat ultimele trei meciuri w",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-10T10:52:25.598805+00:00",
-      "data_afisaj": "10 iulie 2026, 13:52"
-    },
-    {
-      "id": "4d1f16d80e89",
-      "titlu": "Franța ajunge în semifinale - ar putea fi acesta cel mai bun Les Bleus vreodată?",
-      "rezumat": "Câștigătoarea Cupei Mondiale în 1998 și 2018, Franța a creat o altă echipă specială și învingând Marocul a arătat de ce sunt favorite la câștigarea competiției din 2026.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-10T10:52:25.599987+00:00",
-      "data_afisaj": "10 iulie 2026, 13:52"
-    },
-    {
-      "id": "9d67246b7ed4",
-      "titlu": "Guehi o îndoială pentru jocul Norvegiei și Rice bolnav de bug",
-      "rezumat": "Fundașul Angliei Marc Guehi se confruntă cu o ușoară accidentare la coapsă și ar putea rata sferturile de finală din Norvegia de sâmbătă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-10T10:52:25.601052+00:00",
-      "data_afisaj": "10 iulie 2026, 13:52"
-    },
-    {
-      "id": "e5df9f50b434",
-      "titlu": "Marc Guehi, incert pentru sfertul de finală al Angliei la Cupa Mondială; Declan Rice, bolnav",
-      "rezumat": "Echipa națională a Angliei se confruntă cu probleme de lot înaintea sfertului de finală al Cupei Mondiale împotriva Norvegiei. Fundașul Marc Guehi este incert din cauza unei ușoare accidentări la ischiogambieri, suferite în meciul cu Mexic. De asemenea, mijlocașul Declan Rice este bolnav, fiind afectat de un virus. Aceste absențe potențiale ar putea influența strategia selecționerului Thomas Tuchel pentru partida decisivă de sâmbătă, punând presiune pe defensiva și mijlocul terenului englez.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-10T10:25:22.307586+00:00",
-      "data_afisaj": "10 iulie 2026, 13:25"
-    },
-    {
-      "id": "aaab1fd6acbe",
-      "titlu": "Manchester City a ajuns la un acord pentru transferul tânărului Jeremy Monga",
-      "rezumat": "Manchester City a reușit să obțină transferul tânărului talent Jeremy Monga de la Leicester City. Se pare că acest acord reprezintă o lovitură dată rivalei Arsenal, care era și ea interesată de serviciile jucătorului. Monga, un starlet adolescent, este considerat o achiziție strategică pentru viitorul clubului din Manchester, iar rolul său în echipă va fi analizat pe măsură ce se integrează. Această mutare subliniază strategia lui City de a investi în tinere talente.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-10T10:25:22.309108+00:00",
-      "data_afisaj": "10 iulie 2026, 13:25"
-    },
-    {
-      "id": "fda38fd235ff",
-      "titlu": "Celtic confirmă transferul atacantului columbian Camilo Duran",
-      "rezumat": "Clubul scoțian Celtic a anunțat oficial achiziționarea atacantului columbian Camilo Duran de la Qarabag. Jucătorul a semnat un contract pe o perioadă de cinci ani cu echipa din Glasgow. Acest transfer reprezintă o întărire importantă pentru linia ofensivă a lui Celtic, care își propune să își consolideze poziția în competițiile interne și să aibă o prezență puternică pe scena europeană. Duran este așteptat să aducă un plus de viteză și forță de atac.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-10T10:25:22.310486+00:00",
-      "data_afisaj": "10 iulie 2026, 13:25"
-    },
-    {
-      "id": "d3a3d49e8078",
-      "titlu": "Erling Haaland susține că presiunea este pe Anglia în sfertul de finală cu Norvegia",
-      "rezumat": "Atacantul norvegian Erling Haaland a intensificat \"războiul psihologic\" înaintea sfertului de finală al Cupei Mondiale împotriva Angliei, declarând că presiunea este în totalitate pe echipa engleză. Haaland, care a avut un turneu senzațional cu șapte goluri în patru meciuri, inclusiv o dublă împotriva Braziliei, a subliniat că Norvegia, aflată la prima sa apariție la Cupa Mondială din 1998, este într-o poziție favorabilă, fără presiunea așteptărilor. Declarația sa adaugă o miză suplimentară confruntării.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-10T10:25:22.311989+00:00",
-      "data_afisaj": "10 iulie 2026, 13:25"
     }
   ]
 }
