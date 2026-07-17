@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-16T17:59:44.134772+00:00",
-  "updated_at_afisaj": "16 iulie 2026, 20:59",
+  "updated_at": "2026-07-17T09:11:42.773276+00:00",
+  "updated_at_afisaj": "17 iulie 2026, 12:11",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,65 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 121,
+  "numar_stiri": 119,
   "stiri": [
+    {
+      "id": "7b0b926713b2",
+      "titlu": "FCSB, CFR Cluj și U Cluj își Află Adversarii în Turul 3 Preliminar Conference League",
+      "rezumat": "Echipele românești FCSB, CFR Cluj și Universitatea Cluj se pregătesc pentru tragerea la sorți a turului 3 preliminar din UEFA Conference League. După ce au depășit primele obstacole, cele trei formații așteaptă să afle cu cine se vor duela pentru a avansa în competiție. Tragerea la sorți va stabili parcursul lor european, un pas important în încercarea de a ajunge în faza grupelor. Fanii sunt în așteptarea unor meciuri spectaculoase, iar cluburile își doresc să obțină rezultate cât mai bune pe plan continental.",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-07-17T09:11:42.766800+00:00",
+      "data_afisaj": "17 iulie 2026, 12:11"
+    },
+    {
+      "id": "ea73c0116e66",
+      "titlu": "FCSB Realizează Primul Transfer Major al Verii, Plătind 1 Milion de Euro",
+      "rezumat": "FCSB a finalizat primul transfer important al perioadei de mercato din această vară, aducând la București un jucător pentru suma de 1.000.000 de euro. Această mutare strategică, confirmată de surse apropiate clubului, marchează o intenție clară a patronului Gigi Becali de a întări lotul în vederea obiectivelor din noul sezon. Noul fotbalist este așteptat să se alăture echipei în cel mai scurt timp și să contribuie la performanțele viitoare ale clubului. Detaliile complete ale transferului urmează să fie anunțate oficial.",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-07-17T09:11:42.768420+00:00",
+      "data_afisaj": "17 iulie 2026, 12:11"
+    },
+    {
+      "id": "ed37d828f8a4",
+      "titlu": "Alertă de Calitate a Aerului în New York cu Zile Înainte de Finala Cupei Mondiale",
+      "rezumat": "Autoritățile din New York și New Jersey au emis o alertă de sănătate privind calitatea aerului, din cauza fumului provenit de la incendiile de vegetație. Această situație survine cu doar câteva zile înainte de găzduirea finalei Cupei Mondiale, stârnind îngrijorări legate de condițiile în care se va disputa evenimentul sportiv major. Măsurile de precauție sunt în vigoare, iar organizatorii monitorizează îndeaproape situația pentru a asigura siguranța și bunăstarea participanților și a spectatorilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-17T09:11:42.770095+00:00",
+      "data_afisaj": "17 iulie 2026, 12:11"
+    },
+    {
+      "id": "0ccdade97975",
+      "titlu": "Donald Trump va Înmâna Trofeul Câștigătorilor Finalei Cupei Mondiale",
+      "rezumat": "Fostul președinte al Statelor Unite, Donald Trump, va fi prezent la finala Cupei Mondiale de duminică și va avea onoarea de a înmâna trofeul echipei câștigătoare. Pe lângă ceremonia de decernare a trofeului, jucătorii echipei victorioase vor primi și inele speciale, marcând astfel performanța lor excepțională. Această prezență adaugă o notă distinctă evenimentului, atrăgând atenția publicului și a presei internaționale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-17T09:11:42.771610+00:00",
+      "data_afisaj": "17 iulie 2026, 12:11"
+    },
+    {
+      "id": "acf6ea72b476",
+      "titlu": "Gianni Infantino Primește Sprijin Masiv pentru un Al Patrulea Mandat la Conducerea FIFA",
+      "rezumat": "Gianni Infantino, președintele actual al FIFA, a obținut sprijinul formal a peste 200 de federații naționale pentru realegerea sa într-un al patrulea mandat. Această susținere largă vine în ciuda recentului scandal legat de cazul Balogun, care a generat un climat de neliniște în cadrul organizației. Cu doar o mână de asociații membre care nu și-au declarat încă sprijinul, Infantino este pe cale să fie reconfirmat în funcție, consolidându-și poziția la vârful fotbalului mondial.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-17T09:11:42.773256+00:00",
+      "data_afisaj": "17 iulie 2026, 12:11"
+    },
     {
       "id": "442f672b5fe9",
       "titlu": "Lupta pentru Gheata de Aur la Cupa Mondială 2026: Cine sunt principalii marcatori?",
@@ -1335,93 +1392,6 @@
       ],
       "data_publicare": "2026-07-10T10:25:22.311989+00:00",
       "data_afisaj": "10 iulie 2026, 13:25"
-    },
-    {
-      "id": "f20f01a87ea3",
-      "titlu": "Quansah suspendat două meciuri după cartonașul roșu cu Mexic",
-      "rezumat": "Fundașul englez Jarell Quansah primește o suspendare de două meciuri pentru cartonașul său roșu împotriva Mexicului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-09T18:46:08.110122+00:00",
-      "data_afisaj": "9 iulie 2026, 21:46"
-    },
-    {
-      "id": "7800397bd06d",
-      "titlu": "Predicțiile lui Chris Sutton pentru sferturile de finală ale Cupei Mondiale",
-      "rezumat": "Expertul BBC Sport în fotbal, Chris Sutton, își prezintă predicțiile pentru meciurile din sferturile de finală ale Cupei Mondiale din 2026, inclusiv Anglia împotriva Norvegiei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-09T18:46:08.111486+00:00",
-      "data_afisaj": "9 iulie 2026, 21:46"
-    },
-    {
-      "id": "b55eeca6d189",
-      "titlu": "Cupa Mondială 2026: ghidul tuturor celor 1.248 de jucători",
-      "rezumat": "Tot ce trebuie să știi (și mai mult) despre fiecare membru al lotului. Apasă pe imaginile jucătorilor pentru mai multe informații Continuă să citești...",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-07-09T18:46:08.112784+00:00",
-      "data_afisaj": "9 iulie 2026, 21:46"
-    },
-    {
-      "id": "7fc8cfe3a54e",
-      "titlu": "🚨 Dinamo Kiev – Universitatea Cluj 0-0 Live Text Online în turul 1 preliminar din Europa League. Gazdele, aproape de deschiderea scorului. Au lovit bara",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-07-09T18:46:08.114683+00:00",
-      "data_afisaj": "9 iulie 2026, 21:46"
-    },
-    {
-      "id": "9173898346cc",
-      "titlu": "Mi-am schimbat părerea, am putea chiar să câștigăm asta - Shearer",
-      "rezumat": "Alan Shearer explică de ce are acum convingerea și încrederea că Anglia poate avansa mai mult în această Cupă Mondială decât credea.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-09T18:46:08.116133+00:00",
-      "data_afisaj": "9 iulie 2026, 21:46"
-    },
-    {
-      "id": "dbd098f7cdb8",
-      "titlu": "Jarell Quansah, suspendat două meciuri de FIFA după cartonașul roșu",
-      "rezumat": "Fundașul englez Jarell Quansah a primit o suspendare de două meciuri din partea FIFA, în urma cartonașului roșu încasat în partida Angliei împotriva Mexicului, din optimile de finală ale Cupei Mondiale. Decizia vine după o analiză VAR a unei intervenții considerate joc periculos grav, conform articolului 14 din codul de conduită al FIFA. Această suspendare îl va face pe Quansah să rateze sfertul de finală și o potențială semifinală, având un impact semnificativ asupra apărării Angliei în fazele eliminatorii.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-09T17:59:22.891930+00:00",
-      "data_afisaj": "9 iulie 2026, 20:59"
-    },
-    {
-      "id": "d64f25a7e24a",
-      "titlu": "Manchester United ia în considerare vânzarea drepturilor de denumire pentru noul stadion",
-      "rezumat": "Manchester United explorează posibilitatea unui acord de vânzare a drepturilor de denumire pentru noul stadion \"Old Trafford\", ca parte a unei abordări \"de bun simț, nu de vanitate\" pentru planurile de construcție estimate la 2 miliarde de lire sterline. Clubul a subliniat că, deși proiectul pentru arena de 100.000 de locuri ar putea genera datorii suplimentare, este esențial pentru viitorul clubului. Noul stadion va fi construit la aproximativ 350 de metri nord-vest de actualul Old Trafford, reprezentând o investiție majoră în infrastructură.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-09T17:59:22.893449+00:00",
-      "data_afisaj": "9 iulie 2026, 20:59"
     }
   ]
 }
