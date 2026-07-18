@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-18T09:24:47.853418+00:00",
-  "updated_at_afisaj": "18 iulie 2026, 12:24",
+  "updated_at": "2026-07-18T17:00:52.035100+00:00",
+  "updated_at_afisaj": "18 iulie 2026, 20:00",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 119,
+  "numar_stiri": 121,
   "stiri": [
+    {
+      "id": "e71ae0527b6f",
+      "titlu": "Prima Săptămână a Noului Antrenor Andoni Iraola la Liverpool și Deciziile Importante",
+      "rezumat": "Noul antrenor al lui Liverpool, Andoni Iraola, se confruntă cu numeroase decizii cruciale înaintea noului sezon. BBC Sport oferă o perspectivă asupra primei sale săptămâni la cârma clubului, evidențiind provocările și alegerile strategice pe care trebuie să le facă pentru a pregăti echipa. Această perioadă inițială este esențială pentru stabilirea direcției și a filosofiei de joc, având un impact semnificativ asupra performanței viitoare a echipei în competițiile interne și europene.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-18T17:00:52.028257+00:00",
+      "data_afisaj": "18 iulie 2026, 20:00"
+    },
+    {
+      "id": "1bfe0524f9a7",
+      "titlu": "Creștere Semnificativă a Postărilor Dăunătoare pe Rețelele Sociale în Timpul Cupei Mondiale",
+      "rezumat": "FIFA a constatat o creștere alarmantă a postărilor și comentariilor dăunătoare pe rețelele sociale în timpul actualei Cupe Mondiale, înregistrând o creștere de 14 ori față de ediția din 2022. Această statistică subliniază provocările tot mai mari legate de comportamentul online și necesitatea unor măsuri mai stricte pentru a combate abuzurile. Organizația mondială a fotbalului continuă să monitorizeze situația, căutând soluții pentru a proteja jucătorii și fanii de hărțuirea online și discursul de ură.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-18T17:00:52.029866+00:00",
+      "data_afisaj": "18 iulie 2026, 20:00"
+    },
+    {
+      "id": "998d5197aa53",
+      "titlu": "Fostul Câștigător al Cupei Mondiale, Joan Capdevila, Face Apel la Donald Trump După Refuzul Permisului de Călătorie în SUA",
+      "rezumat": "Fostul internațional spaniol Joan Capdevila a lansat un apel public către președintele american Donald Trump, după ce i-a fost refuzat permisul de călătorie pentru a intra în Statele Unite, înaintea finalei Cupei Mondiale de duminică. Incidentul a stârnit controverse, mai ales având în vedere statutul său de fost campion mondial. Capdevila speră ca intervenția lui Trump să rezolve situația, permițându-i să participe la evenimentele finale ale turneului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-18T17:00:52.031739+00:00",
+      "data_afisaj": "18 iulie 2026, 20:00"
+    },
+    {
+      "id": "f88962640c69",
+      "titlu": "Momentul din Trecut care Îi Leagă pe Antrenorii Finaliști De la Fuente și Scaloni",
+      "rezumat": "Antrenorul Spaniei, Luis de la Fuente, și selecționerul Argentinei, Lionel Scaloni, se vor confrunta în finala Cupei Mondiale de duminică, însă cei doi tehnicieni se cunosc foarte bine dintr-un moment petrecut în trecut. O experiență comună, descrisă ca un 'moment de clasă', a creat o legătură specială între ei. Această poveste adaugă o dimensiune personală și interesantă duelului tactic de pe teren, evidențiind respectul reciproc dintre cei doi lideri.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-18T17:00:52.033294+00:00",
+      "data_afisaj": "18 iulie 2026, 20:00"
+    },
+    {
+      "id": "378c69f8e6af",
+      "titlu": "Gianni Infantino, Puțin Probabil Să Primească Sancțiuni din Partea CIO în Scandalul Cartonașului Roșu al lui Balogun",
+      "rezumat": "Președintele FIFA, Gianni Infantino, este puțin probabil să fie sancționat de Comitetul Olimpic Internațional (CIO) în urma plângerilor legate de scandalul cartonașului roșu al lui Folarin Balogun. O organizație pentru drepturile omului a depus o plângere formală la CIO, acuzându-l pe Infantino de încălcarea regulilor de neutralitate politică în interacțiunile sale cu Donald Trump pe marginea acestui caz. Cu toate acestea, se anticipează că Infantino va scăpa fără repercusiuni din partea CIO.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-18T17:00:52.035080+00:00",
+      "data_afisaj": "18 iulie 2026, 20:00"
+    },
     {
       "id": "fc8a8fbee40f",
       "titlu": "Cine sunt? Ghicește vedeta Cupei Mondiale Nr. 41",
@@ -1359,39 +1414,6 @@
       ],
       "data_publicare": "2026-07-11T17:01:49.524918+00:00",
       "data_afisaj": "11 iulie 2026, 20:01"
-    },
-    {
-      "id": "179ac0056d58",
-      "titlu": "Tuchel își exprimă îngrijorarea față de Erling Haaland înaintea meciului Anglia - Norvegia",
-      "rezumat": "Selecționerul Angliei, Thomas Tuchel, a declarat că este inevitabil să se concentreze pe atacantul norvegian Erling Haaland, având în vedere performanțele anterioare ale acestuia împotriva echipelor sale. Înaintea sfertului de finală al Cupei Mondiale dintre Anglia și Norvegia, Tuchel a subliniat că Haaland, care a avut succes împotriva formațiilor antrenate de el în trecut, reprezintă o amenințare majoră. Antrenorul german a menționat că echipa sa trebuie să își găsească identitatea și să gestioneze presiunea impusă de prezența atacantului de clasă mondială.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-11T09:28:36.438580+00:00",
-      "data_afisaj": "11 iulie 2026, 12:28"
-    },
-    {
-      "id": "68bf80c41907",
-      "titlu": "Kylian Mbappé își asumă rolul de lider și îndeamnă la modestie în echipa Franței",
-      "rezumat": "Decizia selecționerului Didier Deschamps de a-i încredința banderola de căpitan lui Kylian Mbappé a dat roade, contribuind la menținerea unei atitudini lipsite de complacere în parcursul Franței către semifinalele Cupei Mondiale. Mbappé, considerat o forță motrice, a preluat un rol inspirațional, încurajând echipa să rămână modestă și concentrată. Această abordare a ajutat \"Les Bleus\" să avanseze într-o a treia semifinală consecutivă la Cupa Mondială, demonstrând că leadership-ul său este crucial pentru succesul colectiv.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-11T09:28:36.439811+00:00",
-      "data_afisaj": "11 iulie 2026, 12:28"
-    },
-    {
-      "id": "4b2b1fb3d1cd",
-      "titlu": "Gazonul artificial și revoluția antrenoratului, factori cheie în ascensiunea \"generației de aur\" a Norvegiei",
-      "rezumat": "Federația Norvegiană de Fotbal a implementat o strategie inovatoare, bazată pe utilizarea pe scară largă a terenurilor cu gazon artificial și pe o revoluție în metodele de antrenament, pentru a dezvolta o \"generație de aur\" de jucători. Investițiile semnificative, inclusiv din fonduri provenite din industria jocurilor de noroc, au susținut această transformare. Accentul a fost pus pe colaborare și pe eliminarea ego-urilor în rândul antrenorilor, creând un mediu propice pentru dezvoltarea talentelor și ascensiunea fotbalului norvegian pe scena internațională.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-11T09:28:36.441095+00:00",
-      "data_afisaj": "11 iulie 2026, 12:28"
     }
   ]
 }
