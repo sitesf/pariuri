@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-18T17:00:52.035100+00:00",
-  "updated_at_afisaj": "18 iulie 2026, 20:00",
+  "updated_at": "2026-07-18T17:51:16.766287+00:00",
+  "updated_at_afisaj": "18 iulie 2026, 20:51",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,41 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 121,
+  "numar_stiri": 118,
   "stiri": [
+    {
+      "id": "15833ccfe128",
+      "titlu": "Aspectul Întunecat al Eliminării Angliei de la Cupa Mondială: Creșterea Abuzurilor Domestice",
+      "rezumat": "Pe lângă dezamăgirea sportivă, eliminarea Angliei de la Cupa Mondială a scos la iveală o problemă socială gravă. Cercetările arată că, în timpul marilor turnee de fotbal, precum Cupa Mondială, numărul cazurilor de abuz domestic crește semnificativ atunci când echipa Angliei joacă. Această realitate sumbră subliniază o latură îngrijorătoare a impactului evenimentelor sportive majore asupra societății, evidențiind necesitatea unor măsuri preventive.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-18T17:51:16.762920+00:00",
+      "data_afisaj": "18 iulie 2026, 20:51"
+    },
+    {
+      "id": "9cf521281859",
+      "titlu": "Persoanele Fără Adăpost din Atlanta, Afectate de Măsurile de „Curățare” pentru Cupa Mondială",
+      "rezumat": "În contextul organizării Cupei Mondiale, persoanele fără adăpost din Atlanta se simt vizate și excluse de măsurile de „curățare” implementate de autorități. Locuitorii afectați raportează că au fost îndepărtați din zonele centrale, percepute ca fiind o brutalitate din partea Americii. Această situație ridică semne de întrebare privind promisiunea FIFA că fotbalul unește lumea, evidențiind o realitate dură pentru comunitățile vulnerabile în timpul evenimentelor de anvergură.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-18T17:51:16.764663+00:00",
+      "data_afisaj": "18 iulie 2026, 20:51"
+    },
+    {
+      "id": "7a140eeee962",
+      "titlu": "Fereastra de Transferuri de Vară 2026: Toate Tranzacțiile din Top 5 Ligi Europene",
+      "rezumat": "O privire de ansamblu asupra tuturor transferurilor realizate în timpul ferestrei de vară din 2026, acoperind cele mai importante cinci ligi europene: Premier League, La Liga, Bundesliga, Ligue 1 și Serie A. Articolul oferă un ghid detaliat, club cu club, al achizițiilor și plecărilor, permițând fanilor să urmărească modul în care echipele se pregătesc pentru noua campanie competițională și cum se conturează forțele în fotbalul european.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-18T17:51:16.766270+00:00",
+      "data_afisaj": "18 iulie 2026, 20:51"
+    },
     {
       "id": "e71ae0527b6f",
       "titlu": "Prima Săptămână a Noului Antrenor Andoni Iraola la Liverpool și Deciziile Importante",
@@ -1341,79 +1374,6 @@
       ],
       "data_publicare": "2026-07-12T09:04:22.724179+00:00",
       "data_afisaj": "12 iulie 2026, 12:04"
-    },
-    {
-      "id": "1b3d73e82dba",
-      "titlu": "Alex Jimenez de la Bournemouth, aproape de un împrumut la Fiorentina pe fondul unei investigații",
-      "rezumat": "Fundașul lui Bournemouth, Alex Jimenez, este pe cale să se alăture Fiorentinei sub formă de împrumut. Această mutare vine în contextul în care clubul englez l-a suspendat pe jucător, investigând acuzații legate de activitatea sa pe rețelele sociale. Detaliile investigației nu au fost făcute publice, dar situația a determinat clubul să ia măsuri, iar un împrumut pare a fi soluția pentru viitorul său imediat.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-11T17:48:22.691079+00:00",
-      "data_afisaj": "11 iulie 2026, 20:48"
-    },
-    {
-      "id": "a482c60a40fa",
-      "titlu": "Alejandro Garnacho lipsește de la antrenamentele de pre-sezon ale lui Chelsea",
-      "rezumat": "Atacantul Alejandro Garnacho nu s-a alăturat încă echipei Chelsea pentru pregătirea de pre-sezon. Clubul londonez caută activ să-l vândă pe jucător, indicând o posibilă plecare iminentă. Absența sa de la antrenamente subliniază intenția clubului de a-i găsi o nouă destinație, în timp ce echipa își începe pregătirile pentru noul sezon competițional.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-11T17:48:22.692703+00:00",
-      "data_afisaj": "11 iulie 2026, 20:48"
-    },
-    {
-      "id": "23056311ce97",
-      "titlu": "Mijlocașul sud-african Jayden Adams a decedat la 25 de ani",
-      "rezumat": "Jayden Adams, mijlocașul naționalei Africii de Sud și al clubului Mamelodi Sundowns, a încetat din viață la vârsta de 25 de ani. Vestea tragică vine la doar câteva săptămâni după ce Adams a reprezentat țara sa la Cupa Mondială. Decesul său a fost confirmat de multiple surse sportive de top, stârnind un val de tristețe în comunitatea fotbalistică internațională și printre fanii săi. Adams era considerat un talent promițător în fotbalul sud-african.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-11T17:01:49.520265+00:00",
-      "data_afisaj": "11 iulie 2026, 20:01"
-    },
-    {
-      "id": "5ca430d0c906",
-      "titlu": "Ken Bates, fostul proprietar al cluburilor Chelsea și Leeds, a decedat la 94 de ani",
-      "rezumat": "Ken Bates, o figură emblematică și controversată a fotbalului englez, fost proprietar al cluburilor Chelsea și Leeds United, a încetat din viață la vârsta de 94 de ani. Bates a fost recunoscut pentru personalitatea sa colorată și pentru impactul semnificativ pe care l-a avut asupra fotbalului britanic de-a lungul deceniilor. Decesul său a fost confirmat de BBC Sport Football și The Guardian Football, marcând sfârșitul unei ere pentru un om care a lăsat o amprentă puternică în sport.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-11T17:01:49.521889+00:00",
-      "data_afisaj": "11 iulie 2026, 20:01"
-    },
-    {
-      "id": "4fb5952b3127",
-      "titlu": "Jürgen Klopp a ajuns la un acord de principiu pentru a deveni noul selecționer al Germaniei",
-      "rezumat": "Fostul antrenor al lui Liverpool, Jürgen Klopp, a acceptat un acord de principiu pentru a prelua funcția de selecționer al echipei naționale de fotbal a Germaniei. Această mutare vine după demisia lui Julian Nagelsmann. Federația Germană de Fotbal (DFB) a confirmat că s-a ajuns la un consens asupra punctelor cheie, iar Klopp este așteptat să semneze un contract valabil până în 2030. Vestea a fost confirmată de BBC Sport Football, Sky Sports Football și The Guardian Football.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-11T17:01:49.523493+00:00",
-      "data_afisaj": "11 iulie 2026, 20:01"
-    },
-    {
-      "id": "87b6f8286a28",
-      "titlu": "Coventry City îl transferă pe Loum Tchaouna de la Burnley",
-      "rezumat": "Clubul Coventry City, participant în Premier League, a anunțat achiziționarea mijlocașului Loum Tchaouna de la echipa retrogradată Burnley. Suma de transfer nu a fost dezvăluită public. Această mutare reprezintă o întărire importantă pentru Coventry City înaintea noului sezon, aducând un jucător cu experiență la nivel înalt. Transferul a fost confirmat de BBC Sport Football, subliniind o decizie strategică a clubului de a-și consolida lotul în vederea provocărilor din campionat.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-11T17:01:49.524918+00:00",
-      "data_afisaj": "11 iulie 2026, 20:01"
     }
   ]
 }
