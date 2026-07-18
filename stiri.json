@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-17T17:58:51.135565+00:00",
-  "updated_at_afisaj": "17 iulie 2026, 20:58",
+  "updated_at": "2026-07-18T08:50:14.700371+00:00",
+  "updated_at_afisaj": "18 iulie 2026, 11:50",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,39 @@
   },
   "numar_stiri": 119,
   "stiri": [
+    {
+      "id": "1c15ff4fa00d",
+      "titlu": "Argentina Îl Recunoaște pe Lionel Messi ca Depășindu-l pe Diego Maradona",
+      "rezumat": "După două decenii, Argentina pare să-l fi acceptat pe Lionel Messi ca fiind o figură mai mare decât Diego Maradona, o schimbare semnificativă în percepția fotbalistică a națiunii. Articolul sugerează că momentul \"Mâna lui Dumnezeu\" al lui Maradona ar trebui să devină o piesă de muzeu, pe măsură ce Messi își consolidează propria moștenire. Prin performanțele sale constante și succesul la nivel internațional, Messi a reușit să iasă din umbra lui Maradona, redefinind pasiunea și sufletul fotbalului argentinian. Această recunoaștere marchează o nouă eră în istoria fotbalului argentinian, cu Messi în prim-plan.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-18T08:50:14.697596+00:00",
+      "data_afisaj": "18 iulie 2026, 11:50"
+    },
+    {
+      "id": "669797331b06",
+      "titlu": "Casa Albă Apără Echipa Argentinei în Scandalul Steagului Insulelor Falkland",
+      "rezumat": "Casa Albă a intervenit în controversa legată de un steag al Insulelor Falkland afișat de echipa Argentinei, apărând acțiunile jucătorilor. Incidentul a stârnit o dispută diplomatică, Downing Street cerând FIFA să investigheze cazul. Comentariile Casei Albe riscă să amplifice și mai mult tensiunile politice în jurul acestui subiect sensibil. Acest eveniment adaugă o dimensiune geopolitică Cupei Mondiale, transformând un gest sportiv într-un punct de fricțiune internațional, cu implicații dincolo de terenul de fotbal.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-18T08:50:14.699016+00:00",
+      "data_afisaj": "18 iulie 2026, 11:50"
+    },
+    {
+      "id": "eabaf280f892",
+      "titlu": "Mikel Merino de la Spania Subliniază Importanța Umanității în Fotbal",
+      "rezumat": "Mijlocașul spaniol Mikel Merino a declarat că filosofia echipei naționale, sub conducerea lui Luis de la Fuente, se bazează pe principiul de a fi \"mai întâi un om bun, apoi un fotbalist bun\". Într-un interviu acordat înainte de finala Cupei Mondiale împotriva Argentinei, Merino a vorbit despre modul în care selecționerul a cultivat o echipă unită, construită pe respect reciproc. Această abordare morală și etică este considerată esențială pentru succesul Spaniei, care își propune să emuleze performanța din 2010 și să câștige trofeul mondial.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-18T08:50:14.700353+00:00",
+      "data_afisaj": "18 iulie 2026, 11:50"
+    },
     {
       "id": "c2cd77853147",
       "titlu": "Aston Villa Realizează Transferul Record al Clubului, Semnându-l pe Manzambi",
@@ -1354,40 +1387,6 @@
       ],
       "data_publicare": "2026-07-11T08:49:57.300679+00:00",
       "data_afisaj": "11 iulie 2026, 11:49"
-    },
-    {
-      "id": "9363b4a4c40f",
-      "titlu": "Michael Edwards părăsește rolul de director executiv de fotbal la Fenway Sports Group",
-      "rezumat": "Michael Edwards, directorul executiv de fotbal al Fenway Sports Group (FSG), compania proprietară a clubului Liverpool, a anunțat plecarea sa din funcție. Această decizie vine înaintea noului sezon 2026/27 și reprezintă o schimbare semnificativă în structura administrativă a clubului. Edwards a avut un rol important în strategia sportivă a lui Liverpool în ultimii ani, iar plecarea sa va atrage atenția asupra viitoarelor direcții ale clubului sub conducerea FSG, care deține și alte entități sportive.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-10T18:18:12.944537+00:00",
-      "data_afisaj": "10 iulie 2026, 21:18"
-    },
-    {
-      "id": "f4f729e87e37",
-      "titlu": "Federația Argentiniană de Fotbal suspectează un atac cibernetic după scurgerea de e-mailuri",
-      "rezumat": "Federația Argentiniană de Fotbal (AFA) a semnalat posibilitatea unui atac cibernetic, după ce e-mailuri din conturile sale au fost publicate, conținând critici la adresa arbitrajului din meciul câștigat dramatic împotriva Egiptului la Cupa Mondială. Incidentul ridică îngrijorări privind securitatea datelor și integritatea comunicărilor interne ale AFA, mai ales în contextul controverselor legate de deciziile arbitrilor în timpul turneului. AFA investighează situația pentru a determina amploarea și sursa presupusului atac, care ar putea avea implicații serioase.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-10T18:18:12.946129+00:00",
-      "data_afisaj": "10 iulie 2026, 21:18"
-    },
-    {
-      "id": "5d51e5329ae9",
-      "titlu": "Liverpool și Arsenal, în cursa pentru transferul starului de la Cupa Mondială, Ayyoub Bouaddi",
-      "rezumat": "Cluburile Liverpool și Arsenal au ajuns la un acord preliminar cu Lille privind termenii cheie pentru transferul mijlocașului Ayyoub Bouaddi, un jucător care a impresionat la Cupa Mondială. Această evoluție semnalează începutul unei posibile licitații intense între cluburile din Premier League pentru serviciile tânărului star marocan. Interesul ambelor echipe de top subliniază valoarea și potențialul lui Bouaddi, care ar putea deveni o achiziție importantă pentru oricare dintre giganții englezi, consolidându-le loturile pentru viitoarele competiții.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-07-10T18:18:12.948254+00:00",
-      "data_afisaj": "10 iulie 2026, 21:18"
     }
   ]
 }
