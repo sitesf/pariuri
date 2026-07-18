@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-18T08:50:14.700371+00:00",
-  "updated_at_afisaj": "18 iulie 2026, 11:50",
+  "updated_at": "2026-07-18T09:24:47.853418+00:00",
+  "updated_at_afisaj": "18 iulie 2026, 12:24",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,66 @@
   },
   "numar_stiri": 119,
   "stiri": [
+    {
+      "id": "fc8a8fbee40f",
+      "titlu": "Cine sunt? Ghicește vedeta Cupei Mondiale Nr. 41",
+      "rezumat": "Vei ghici jucătorul de astăzi în cât mai puține încercări?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-18T09:24:39.605250+00:00",
+      "data_afisaj": "18 iulie 2026, 12:24"
+    },
+    {
+      "id": "9cc3c292e765",
+      "titlu": "Messi și Brady despre fotografiile 'profetice' cu Lamine Yamal",
+      "rezumat": "Lionel Messi din Argentina spune că este \"nebunie\" să-l înfrunte pe Lamine Yamal din Spania într-o finală de Cupă Mondială, după ce a fost fotografiat cu el când era bebeluș.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-18T09:24:39.606637+00:00",
+      "data_afisaj": "18 iulie 2026, 12:24"
+    },
+    {
+      "id": "0d6f85e28032",
+      "titlu": "Argentina spulberă visurile Angliei la Cupa Mondială în semifinale",
+      "rezumat": "Argentina spulberă visurile Angliei la Cupa Mondială, marcând două goluri târzii pentru a reveni de la scor și a elimina echipa lui Thomas Tuchel, într-o semifinală dramatică la Atlanta.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-18T09:24:39.608015+00:00",
+      "data_afisaj": "18 iulie 2026, 12:24"
+    },
+    {
+      "id": "7aea91f4e5d1",
+      "titlu": "Gheata de Aur: Cei mai buni marcatori la Cupa Mondială 2026",
+      "rezumat": "Cine câștigă lupta pentru a fi cel mai bun marcator la Cupa Mondială? Live și actualizat pe tot parcursul turneului. Cei mai buni marcatori din toate timpurile la Cupa Mondială. Gheata de Aur este acordată celui mai bun marcator al Cupei Mondiale, cu pasele decisive folosite ca criteriu de departajare dacă doi sau mai mulți jucători termină la egalitate. Turneul din 2026 are trei foști câștigători ai Ghetei de Aur: Kylian Mbappé din Franța (opt goluri în 2022), Harry Kane din Anglia (șase goluri în 2018) și James Rodríguez din Columbia (șase goluri în 2014). Mbappé și Kane sunt",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-07-18T09:24:39.609281+00:00",
+      "data_afisaj": "18 iulie 2026, 12:24"
+    },
+    {
+      "id": "2706780fcdf3",
+      "titlu": "Mai multe meciuri și mai multă controversă - a fost Cupa Mondială un succes?",
+      "rezumat": "De la prețuri mari la bilete la pauze de hidratare, noi legi și intervenții politice, rareori a existat un moment plictisitor la Cupa Mondială 2026.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-18T09:24:39.610635+00:00",
+      "data_afisaj": "18 iulie 2026, 12:24"
+    },
     {
       "id": "1c15ff4fa00d",
       "titlu": "Argentina Îl Recunoaște pe Lionel Messi ca Depășindu-l pe Diego Maradona",
@@ -1332,61 +1392,6 @@
       ],
       "data_publicare": "2026-07-11T09:28:36.441095+00:00",
       "data_afisaj": "11 iulie 2026, 12:28"
-    },
-    {
-      "id": "3046081a643e",
-      "titlu": "Spania se califică în semifinale la Cupa Mondială, după victoria împotriva Belgiei",
-      "rezumat": "Echipa națională a Spaniei a avansat în semifinalele Cupei Mondiale, învingând Belgia grație unui gol marcat de Mikel Merino în minutul 88. Intrat pe teren din postura de rezervă, Merino a devenit din nou eroul Spaniei, asigurând calificarea echipei sale într-o confruntare cu Franța în penultimul act al competiției. Victoria a fost obținută într-un meci tensionat, în care Belgia a fost eliminată din turneu, marcând un moment decisiv pentru parcursul spaniolilor în turneu.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-11T08:49:57.294151+00:00",
-      "data_afisaj": "11 iulie 2026, 11:49"
-    },
-    {
-      "id": "fea276e5dc32",
-      "titlu": "Thomas Tuchel susține că FIFA nu a oferit explicații pentru suspendarea lui Jarell Quansah",
-      "rezumat": "Selecționerul Angliei, Thomas Tuchel, a declarat că Federația Internațională de Fotbal (FIFA) nu a furnizat nicio explicație oficială privind suspendarea pe două meciuri a fundașului Jarell Quansah. Decizia a venit în urma cartonașului roșu primit de Quansah în partida împotriva Mexicului. Tuchel a subliniat lipsa de comunicare din partea FIFA, lăsând echipa engleză fără clarificări în legătură cu motivul exact al sancțiunii extinse, o situație care a generat frustrare în tabăra Angliei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-11T08:49:57.295836+00:00",
-      "data_afisaj": "11 iulie 2026, 11:49"
-    },
-    {
-      "id": "64b49c227ae9",
-      "titlu": "Guehi, Rice și James se antrenează cu Anglia înaintea meciului cu Norvegia",
-      "rezumat": "Mijlocașul Declan Rice și fundașii Marc Guehi și Reece James s-au antrenat alături de echipa Angliei înaintea sfertului de finală al Cupei Mondiale împotriva Norvegiei. Prezența lor la antrenament reprezintă o veste bună pentru selecționerul Thomas Tuchel, având în vedere incertitudinile legate de starea lor fizică. Această confirmare sugerează că jucătorii ar putea fi disponibili pentru partida crucială de sâmbătă, oferind opțiuni suplimentare pentru defensiva și mijlocul terenului englez, după ce anterior fuseseră raportați ca fiind incerți sau bolnavi.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-11T08:49:57.297366+00:00",
-      "data_afisaj": "11 iulie 2026, 11:49"
-    },
-    {
-      "id": "cacab233c329",
-      "titlu": "Noul selecționer al Portugaliei afirmă că viitorul internațional al lui Cristiano Ronaldo nu este încheiat",
-      "rezumat": "Noul selecționer al echipei naționale a Portugaliei a declarat că viitorul internațional al lui Cristiano Ronaldo nu este încă decis. Această afirmație vine în contextul speculațiilor privind retragerea atacantului din echipa națională, după numirea noului antrenor. Antrenorul a lăsat deschisă posibilitatea ca Ronaldo să continue să reprezinte Portugalia, sugerând că decizia finală îi aparține jucătorului și că nu există o excludere definitivă din planurile sale pentru viitorul selecționatei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-07-11T08:49:57.299017+00:00",
-      "data_afisaj": "11 iulie 2026, 11:49"
-    },
-    {
-      "id": "b8d88eceae5b",
-      "titlu": "Harry Kane a jucat golf cu Donald Trump, după laudele fostului președinte american",
-      "rezumat": "Atacantul Angliei, Harry Kane, a dezvăluit că a jucat golf cu fostul președinte american Donald Trump. Întâlnirea a avut loc la câteva zile după ce Trump l-a lăudat public pe Kane pentru performanța sa în meciul Angliei împotriva Mexicului. Această interacțiune neobișnuită între o figură sportivă de top și un fost lider politic a atras atenția presei, adăugând o notă inedită la evenimentele din jurul Cupei Mondiale și generând discuții în afara terenului de joc.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-07-11T08:49:57.300679+00:00",
-      "data_afisaj": "11 iulie 2026, 11:49"
     }
   ]
 }
