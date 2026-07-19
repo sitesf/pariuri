@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-18T17:51:16.766287+00:00",
-  "updated_at_afisaj": "18 iulie 2026, 20:51",
+  "updated_at": "2026-07-19T09:05:49.052533+00:00",
+  "updated_at_afisaj": "19 iulie 2026, 12:05",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,54 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 118,
+  "numar_stiri": 117,
   "stiri": [
+    {
+      "id": "e5000c1cd616",
+      "titlu": "Anglia învinge Franța într-un meci spectaculos cu 10 goluri și obține locul trei la Cupa Mondială",
+      "rezumat": "Naționala Angliei a învins Franța cu scorul de 6-4 în finala mică a Cupei Mondiale, asigurându-și astfel cea mai bună clasare la un Campionat Mondial masculin din 1966 încoace. Bukayo Saka a fost eroul meciului, reușind un hat-trick într-o partidă plină de dramatism și goluri. Victoria aduce Angliei medalia de bronz și încheie turneul cu o performanță notabilă, chiar dacă nu a fost cea dorită inițial. Meciul a fost considerat un thriller, oferind un spectacol ofensiv fanilor prezenți.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-19T09:05:49.046526+00:00",
+      "data_afisaj": "19 iulie 2026, 12:05"
+    },
+    {
+      "id": "4f7d529f7050",
+      "titlu": "FIFA va anunța venituri record de 15 miliarde de dolari de la Cupa Mondială, depășind așteptările",
+      "rezumat": "Federația Internațională de Fotbal (FIFA) se pregătește să anunțe venituri record de 15 miliarde de dolari (aproximativ 11,2 miliarde de lire sterline) generate de Cupa Mondială din această vară. Această sumă depășește semnificativ estimările inițiale de 11 miliarde de dolari. Membrii asociațiilor FIFA au fost informați despre această creștere substanțială a veniturilor de către Gianni Infantino. Sursele indică faptul că ospitalitatea și vânzările de bilete, în special pe piața secundară, au contribuit major la acest succes financiar excepțional al turneului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-19T09:05:49.049183+00:00",
+      "data_afisaj": "19 iulie 2026, 12:05"
+    },
+    {
+      "id": "2e7a44eb1398",
+      "titlu": "Noul transfer al lui Manchester United, Andrey Santos, a debutat într-un meci amical pierdut cu Wrexham",
+      "rezumat": "Mijlocașul brazilian Andrey Santos a înregistrat prima sa apariție pentru Manchester United într-un meci amical de pre-sezon împotriva echipei Wrexham, disputat la Helsinki. Deși Santos a avut o evoluție promițătoare după transferul său de la Chelsea, Manchester United a pierdut partida cu scorul de 1-0, singurul gol fiind marcat de Sam Smith. Echipa a jucat fără jucătorii care au participat la Cupa Mondială, oferind ocazia noilor achiziții și tinerilor de a se integra în lot și de a-și demonstra abilitățile.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-19T09:05:49.050874+00:00",
+      "data_afisaj": "19 iulie 2026, 12:05"
+    },
+    {
+      "id": "83a0bdf95cd8",
+      "titlu": "Ultima sesiune de antrenament a Spaniei înaintea finalei Cupei Mondiale, anulată din cauza furtunilor",
+      "rezumat": "Ultima sesiune de antrenament a naționalei Spaniei, programată înaintea finalei Cupei Mondiale de duminică, a fost anulată. Decizia a fost luată din cauza condițiilor meteorologice nefavorabile, respectiv a furtunilor puternice din New Jersey. Această anulare ar putea influența pregătirea finală a echipei spaniole pentru confruntarea decisivă, forțând staff-ul tehnic să ajusteze planurile în ultimul moment. Echipa se pregătea intens pentru marele meci, iar întreruperea antrenamentului reprezintă o provocare neașteptată pentru staff-ul tehnic.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-19T09:05:49.052517+00:00",
+      "data_afisaj": "19 iulie 2026, 12:05"
+    },
     {
       "id": "15833ccfe128",
       "titlu": "Aspectul Întunecat al Eliminării Angliei de la Cupa Mondială: Creșterea Abuzurilor Domestice",
@@ -1316,64 +1362,6 @@
       ],
       "data_publicare": "2026-07-12T09:50:11.718179+00:00",
       "data_afisaj": "12 iulie 2026, 12:50"
-    },
-    {
-      "id": "b015e0b66119",
-      "titlu": "Jude Bellingham marchează de două ori, Anglia se califică în semifinalele Cupei Mondiale",
-      "rezumat": "Jude Bellingham a fost eroul Angliei, marcând de două ori, inclusiv golul victoriei în prelungiri, într-un meci tensionat împotriva Norvegiei. Anglia a revenit de la un scor defavorabil pentru a câștiga cu 2-1 la Miami, asigurându-și un loc în semifinalele Cupei Mondiale. Performanța sa excepțională a fost crucială pentru calificarea echipei, care acum se pregătește pentru o confruntare dificilă în faza următoare a competiției.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-12T09:04:22.717898+00:00",
-      "data_afisaj": "12 iulie 2026, 12:04"
-    },
-    {
-      "id": "57742f5280cf",
-      "titlu": "Jude Bellingham, nemulțumit de criticile lui Thomas Tuchel la adresa performanței Angliei",
-      "rezumat": "Antrenorul Angliei, Thomas Tuchel, a criticat performanța echipei după victoria cu 2-1 împotriva Norvegiei, descriind-o ca fiind \"neglijentă\" și \"nu suficient de rapidă\". Jude Bellingham, autorul celor două goluri care au asigurat calificarea în semifinale la Cupa Mondială, a răspuns la aceste critici, exprimându-și nemulțumirea față de declarațiile antrenorului. Această divergență de opinii subliniază tensiunile interne, chiar și după o victorie importantă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-12T09:04:22.719509+00:00",
-      "data_afisaj": "12 iulie 2026, 12:04"
-    },
-    {
-      "id": "f7a48c630a26",
-      "titlu": "Argentina învinge Elveția în prelungiri și va întâlni Anglia în semifinalele Cupei Mondiale",
-      "rezumat": "Argentina s-a calificat în semifinalele Cupei Mondiale după o victorie dramatică cu 3-1 în prelungiri împotriva Elveției, care a jucat în inferioritate numerică. După ce scorul a fost egal la finalul timpului regulamentar, Argentina a marcat de două ori în prelungiri, asigurându-și un loc în penultimul act al competiției. Această victorie pregătește o confruntare foarte așteptată cu Anglia în semifinale, promițând un spectacol fotbalistic de înaltă tensiune.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-12T09:04:22.721047+00:00",
-      "data_afisaj": "12 iulie 2026, 12:04"
-    },
-    {
-      "id": "847e48fa03a3",
-      "titlu": "Senegalul îl demite pe selecționerul Pape Thiaw după eliminarea de la Cupa Mondială",
-      "rezumat": "Federația Senegaleză de Fotbal a anunțat demiterea selecționerului Pape Thiaw, în urma eliminării echipei naționale în faza optimilor de finală (ultimii 32) a Cupei Mondiale 2026. Decizia vine ca o consecință a performanței sub așteptări a echipei la turneul final. Thiaw a fost la conducerea naționalei senegaleze, dar rezultatul obținut la Cupa Mondială a determinat schimbarea la nivelul băncii tehnice.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-12T09:04:22.722550+00:00",
-      "data_afisaj": "12 iulie 2026, 12:04"
-    },
-    {
-      "id": "2a3184104dba",
-      "titlu": "Breel Embolo, primul jucător eliminat la Cupa Mondială conform noii reguli de identitate greșită",
-      "rezumat": "Atacantul elvețian Breel Embolo a devenit primul jucător din istoria Cupei Mondiale care a fost eliminat de pe teren în urma aplicării unei noi reguli privind identitatea greșită. Incidentul a avut loc în timpul meciului, iar decizia a fost luată după ce arbitrul a confundat un jucător cu altul în timpul unei faze de joc, aplicând noua reglementare menită să corecteze astfel de erori. Această eliminare marchează un precedent important în aplicarea regulamentului la turneul final.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-12T09:04:22.724179+00:00",
-      "data_afisaj": "12 iulie 2026, 12:04"
     }
   ]
 }
