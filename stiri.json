@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-19T09:05:49.052533+00:00",
-  "updated_at_afisaj": "19 iulie 2026, 12:05",
+  "updated_at": "2026-07-19T09:51:14.529665+00:00",
+  "updated_at_afisaj": "19 iulie 2026, 12:51",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,66 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 117,
+  "numar_stiri": 121,
   "stiri": [
+    {
+      "id": "6e617b3fec82",
+      "titlu": "Chelsea Stabilește un Record de Club cu Transferul lui Morgan Rogers de la Aston Villa",
+      "rezumat": "Clubul Chelsea a ajuns la un acord pentru transferul mijlocașului internațional englez Morgan Rogers de la Aston Villa, într-o tranzacție evaluată la 117 milioane de lire sterline. Această sumă reprezintă un nou record de transfer pentru Chelsea, subliniind importanța aducerii lui Rogers în echipa londoneză. Jucătorul, cunoscut pentru abilitățile sale la mijlocul terenului, este așteptat să aducă un plus de valoare și creativitate lotului, în perspectiva viitoarelor competiții. Transferul a fost confirmat de mai multe surse de top din presa sportivă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-19T09:51:14.523006+00:00",
+      "data_afisaj": "19 iulie 2026, 12:51"
+    },
+    {
+      "id": "682f4f28443a",
+      "titlu": "FIFA, Acuzată de „Ușă Deschisă Fraudelor” în Pariuri de Către Consiliul Europei",
+      "rezumat": "Secretarul general al Consiliului Europei, Alain Berset, a criticat dur FIFA, acuzând forul fotbalistic mondial că oferă o „ușă deschisă fraudelor” prin acordurile sale cu companiile de pariuri și că permite influența politică să submineze integritatea Cupei Mondiale. Într-o scrisoare deschisă publicată înaintea finalei, Berset a cerut implementarea unui nou cadru de integritate înainte de turneul din 2030. Acuzațiile vin în contextul unor controverse legate de decizii și practici ale FIFA, punând sub semnul întrebării imparțialitatea competiției.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-19T09:51:14.524726+00:00",
+      "data_afisaj": "19 iulie 2026, 12:51"
+    },
+    {
+      "id": "eb0c55b556ce",
+      "titlu": "Ronaldo Oferă un Verdict Surprinzător Înaintea Finalei Cupei Mondiale 2026",
+      "rezumat": "Legendarul fotbalist Ronaldo Nazário a făcut o declarație îndrăzneață înaintea marii finale a Campionatului Mondial din 2026, afirmând că meciul va fi „ușor” pentru una dintre echipe. Deși nu a specificat echipa favorită, comentariul său a stârnit curiozitatea și a generat discuții aprinse în rândul fanilor și analiștilor. Această predicție neașteptată de la o personalitate atât de respectată în lumea fotbalului adaugă un plus de tensiune și anticipare înaintea confruntării decisive pentru trofeul mondial.",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-07-19T09:51:14.526293+00:00",
+      "data_afisaj": "19 iulie 2026, 12:51"
+    },
+    {
+      "id": "caab45014b13",
+      "titlu": "Alertă de „Amenințare Iminentă” Emisă în New York Înaintea Finalei Cupei Mondiale",
+      "rezumat": "Locuitorii orașului New York au primit o alertă de „amenințare iminentă” direct pe telefoanele mobile sâmbătă, 18 iulie, cu puțin timp înainte de desfășurarea finalei Cupei Mondiale dintre Spania și Argentina. Alerta a fost emisă ca măsură de precauție, fără a oferi detalii specifice despre natura amenințării. Această situație a generat îngrijorare în rândul publicului și a forțelor de ordine, intensificând măsurile de securitate în jurul evenimentului sportiv major, care atrage mii de fani și turiști în oraș.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-07-19T09:51:14.527958+00:00",
+      "data_afisaj": "19 iulie 2026, 12:51"
+    },
+    {
+      "id": "ebf6cf812029",
+      "titlu": "Dominanța Spaniei la Cupa Mondială, Rezultatul Principiilor Profunde și al Culturii Colective",
+      "rezumat": "Emma Hayes, o voce respectată în fotbal, analizează succesul Spaniei la Cupa Mondială, argumentând că strălucirea echipei nu provine doar de la individualități precum Rodri sau Lamine Yamal, ci dintr-o cultură colectivă bine înrădăcinată, dezvoltată de-a lungul anilor. Hayes subliniază că dominanța Spaniei în semifinala împotriva Franței a fost construită pe o înțelegere comună a spațiului, a sincronizării și a principiilor fundamentale ale jocului. Această abordare colectivă este considerată cheia performanței excepționale a Spaniei și motivul pentru care este văzută ca cea mai bună echipă din lume.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-19T09:51:14.529643+00:00",
+      "data_afisaj": "19 iulie 2026, 12:51"
+    },
     {
       "id": "e5000c1cd616",
       "titlu": "Anglia învinge Franța într-un meci spectaculos cu 10 goluri și obține locul trei la Cupa Mondială",
@@ -1350,18 +1408,6 @@
       ],
       "data_publicare": "2026-07-12T17:02:12.778114+00:00",
       "data_afisaj": "12 iulie 2026, 20:02"
-    },
-    {
-      "id": "00a6c8fae7bb",
-      "titlu": "BBC va transmite semifinala Angliei la Cupa Mondială",
-      "rezumat": "Televiziunea publică britanică BBC a anunțat că va difuza în direct semifinala Cupei Mondiale dintre Anglia și Argentina. Meciul va fi disponibil pe canalul BBC One și prin intermediul platformei BBC iPlayer, oferind acces publicului larg la confruntarea decisivă pentru un loc în finala competiției. Această decizie subliniază importanța evenimentului sportiv pentru audiența din Regatul Unit.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-12T09:50:11.718179+00:00",
-      "data_afisaj": "12 iulie 2026, 12:50"
     }
   ]
 }
