@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-19T09:51:14.529665+00:00",
-  "updated_at_afisaj": "19 iulie 2026, 12:51",
+  "updated_at": "2026-07-19T17:01:10.834912+00:00",
+  "updated_at_afisaj": "19 iulie 2026, 20:01",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 121,
+  "numar_stiri": 126,
   "stiri": [
+    {
+      "id": "b4cc749d2558",
+      "titlu": "Evaluarea Jucătorilor Angliei După Locul Trei la Cupa Mondială 2026",
+      "rezumat": "După încheierea Cupei Mondiale 2026, unde Anglia a obținut locul al treilea, sursele internaționale FourFourTwo și The Guardian Football au publicat evaluări detaliate ale performanțelor individuale ale celor 24 de membri ai lotului. Analiza include aprecieri pentru jucători cheie precum Jordan Pickford, a cărui intervenție crucială în semifinală a fost evidențiată, și Jude Bellingham, a cărui contribuție a fost, de asemenea, examinată. Aceste evaluări oferă o perspectivă aprofundată asupra prestației fiecărui fotbalist englez pe parcursul turneului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-19T17:01:10.828176+00:00",
+      "data_afisaj": "19 iulie 2026, 20:01"
+    },
+    {
+      "id": "8428f82eb850",
+      "titlu": "Jude Bellingham Stabilește un Nou Record de Goluri pentru Anglia la Cupa Mondială",
+      "rezumat": "Mijlocașul englez Jude Bellingham a intrat în istoria fotbalului britanic, devenind primul jucător englez care marchează șapte goluri la o singură ediție a Cupei Mondiale. Performanța remarcabilă a fost realizată printr-un gol târziu împotriva Franței, în meciul pentru locul trei. Acest record subliniază impactul semnificativ al lui Bellingham asupra echipei Angliei pe parcursul turneului din 2026, consolidându-i statutul de figură centrală în viitorul selecționatei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-19T17:01:10.829885+00:00",
+      "data_afisaj": "19 iulie 2026, 20:01"
+    },
+    {
+      "id": "2bdcb73ca034",
+      "titlu": "Finala Cupei Mondiale 2026 Va Avea Cea Mai Lungă Pauză din Istoria Turneului",
+      "rezumat": "Finala Cupei Mondiale 2026, disputată între Spania și Argentina, va include o pauză la jumătatea meciului care se anunță a fi cea mai lungă din istoria competiției. Această decizie, confirmată de BBC Sport Football, ar putea fi influențată de evenimente speciale sau ceremonii planificate pentru marele eveniment. Detaliile exacte privind durata extinsă a pauzei nu au fost specificate, dar se anticipează că va depăși normele obișnuite ale turneului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-19T17:01:10.831593+00:00",
+      "data_afisaj": "19 iulie 2026, 20:01"
+    },
+    {
+      "id": "48e03911e750",
+      "titlu": "Youri Djorkaeff, Consilierul Principal al Președintelui FIFA, Gianni Infantino",
+      "rezumat": "Fostul câștigător al Cupei Mondiale cu Franța, Youri Djorkaeff, a dezvăluit că a fost numit consilier al președintelui FIFA, Gianni Infantino. Djorkaeff a declarat pentru FourFourTwo că a acceptat rolul într-o perioadă în care FIFA se confrunta cu numeroase critici, iar acum își dedică 99% din timp lucrului alături de Infantino. Această colaborare subliniază eforturile FIFA de a integra foști fotbaliști de renume în structurile sale de conducere și de a aborda provocările organizaționale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-07-19T17:01:10.833226+00:00",
+      "data_afisaj": "19 iulie 2026, 20:01"
+    },
+    {
+      "id": "23e9dbb104d2",
+      "titlu": "Fost Internațional Englez Cere Demiterea lui Thomas Tuchel de la Conducerea Naționalei",
+      "rezumat": "În urma eliminării Angliei de la Cupa Mondială 2026, un fost internațional englez a solicitat demiterea antrenorului Thomas Tuchel. Criticile vizează modul în care Tuchel a gestionat echipa, afirmând că a „eșuat în același mod ca înainte”. Această declarație, publicată de FourFourTwo, adaugă presiune asupra federației engleze de fotbal și alimentează dezbaterea privind viitorul selecționerului, sugerând chiar o posibilă revenire a lui Gareth Southgate.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-07-19T17:01:10.834887+00:00",
+      "data_afisaj": "19 iulie 2026, 20:01"
+    },
     {
       "id": "6e617b3fec82",
       "titlu": "Chelsea Stabilește un Record de Club cu Transferul lui Morgan Rogers de la Aston Villa",
