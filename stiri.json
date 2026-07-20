@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-20T10:16:07.772717+00:00",
-  "updated_at_afisaj": "20 iulie 2026, 13:16",
+  "updated_at": "2026-07-20T10:51:00.347668+00:00",
+  "updated_at_afisaj": "20 iulie 2026, 13:51",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,69 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 122,
+  "numar_stiri": 123,
   "stiri": [
+    {
+      "id": "8284ebda35e9",
+      "titlu": "Victorie pentru fotbal? Spania a învins Argentina și a câștigat Cupa Mondială",
+      "rezumat": "Ar putea părea un clișeu banal, dar nu veți găsi mulți neutri care să nu fie de acord cu acel verdict privind finala Cupei Mondiale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-20T10:50:36.672283+00:00",
+      "data_afisaj": "20 iulie 2026, 13:50"
+    },
+    {
+      "id": "2a2094a0befa",
+      "titlu": "Villa îl semnează pe mijlocașul Wolves, Gomes, cu o afacere de 38 de milioane de lire sterline",
+      "rezumat": "Aston Villa se mută pentru mijlocașul brazilian Joao Gomes, după ce Amadou Onana a suferit o accidentare gravă la genunchi la Cupa Mondială.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-20T10:50:36.673739+00:00",
+      "data_afisaj": "20 iulie 2026, 13:50"
+    },
+    {
+      "id": "00bcc96336b8",
+      "titlu": "Cine a făcut diferența pentru Spania? Evaluările finale ale jucătorilor Cupei Mondiale",
+      "rezumat": "Jurnalistul BBC Sport Neil Johnston îi evaluează pe jucători după finala Cupei Mondiale dintre Spania și Argentina.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-20T10:50:36.675196+00:00",
+      "data_afisaj": "20 iulie 2026, 13:50"
+    },
+    {
+      "id": "e8ce97de5e49",
+      "titlu": "Spania Torres marchează singurul gol în finala Cupei Mondiale",
+      "rezumat": "Ferran Torres iese din impas, marcând în prelungiri pentru Spania în finala Cupei Mondiale împotriva Argentinei pe stadionul New York New Jersey.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-07-20T10:50:36.676557+00:00",
+      "data_afisaj": "20 iulie 2026, 13:50"
+    },
+    {
+      "id": "c07dcb37266a",
+      "titlu": "🚨 BREAKING NEWS Universitatea Craiova și-a aflat adversarul din turul 3 preliminar al Ligii Campionilor!",
+      "rezumat": "(rezumat indisponibil)",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-07-20T10:50:36.678225+00:00",
+      "data_afisaj": "20 iulie 2026, 13:50"
+    },
     {
       "id": "376f01d85275",
       "titlu": "Spania Învinge Argentina și Câștigă Cupa Mondială 2026",
@@ -1373,51 +1434,6 @@
       ],
       "data_publicare": "2026-07-13T11:09:48.217445+00:00",
       "data_afisaj": "13 iulie 2026, 14:09"
-    },
-    {
-      "id": "77e6ceb613f9",
-      "titlu": "Povestea lui Just Fontaine, cel mai bun marcator într-o singură ediție de Cupă Mondială",
-      "rezumat": "Recordul lui Just Fontaine de 13 goluri într-o singură ediție a Cupei Mondiale a rezistat decenii întregi. Atacantul francez a reușit această performanță remarcabilă, însă nu a mai jucat niciodată la turneul final după ce o accidentare gravă i-a încheiat cariera la vârsta de 28 de ani. Povestea sa este una a talentului excepțional, dar și a ghinionului, evidențiind fragilitatea carierelor sportive de top.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-13T10:30:01.260822+00:00",
-      "data_afisaj": "13 iulie 2026, 13:30"
-    },
-    {
-      "id": "dc77343f28df",
-      "titlu": "Anglia a parcurs cele mai multe mile aeriene dintre semifinalistele Cupei Mondiale 2026",
-      "rezumat": "Echipa națională a Angliei a călătorit semnificativ mai mult decât adversarele sale, Franța și Argentina, în cadrul Cupei Mondiale 2026, care se desfășoară în America de Nord. Această diferență în distanțele parcurse de echipe ridică întrebări despre impactul oboselii asupra performanței jucătorilor, pe măsură ce turneul avansează spre fazele finale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-13T10:30:01.262279+00:00",
-      "data_afisaj": "13 iulie 2026, 13:30"
-    },
-    {
-      "id": "acb4d41b3553",
-      "titlu": "Lionel Messi se pregătește pentru prima sa confruntare cu Anglia la Cupa Mondială",
-      "rezumat": "După victoria Argentinei împotriva Elveției în sferturile de finală ale Cupei Mondiale, Lionel Messi este pregătit să joace primul său meci împotriva Angliei. Această confruntare istorică în semifinale marchează o premieră pentru starul argentinian, adăugând un nou capitol rivalității de lungă durată dintre cele două națiuni în fotbalul mondial. Fanii anticipează cu nerăbdare duelul.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-13T10:30:01.263797+00:00",
-      "data_afisaj": "13 iulie 2026, 13:30"
-    },
-    {
-      "id": "7d92fd462cc0",
-      "titlu": "Aston Villa deturnează transferul lui Johan Manzambi de la Freiburg, vizat de Newcastle",
-      "rezumat": "Aston Villa este aproape de a finaliza o înțelegere de 49 de milioane de lire sterline cu Freiburg pentru mijlocașul elvețian Johan Manzambi, deturnând astfel planurile de transfer ale lui Newcastle United. Această mutare reprezintă o lovitură semnificativă pentru Newcastle și o achiziție importantă pentru Villa, care se pregătește pentru un sezon în Liga Campionilor. Manzambi a mai înfruntat Villa în finala Europa League din luna mai.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-13T10:30:01.265350+00:00",
-      "data_afisaj": "13 iulie 2026, 13:30"
     }
   ]
 }
