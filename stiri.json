@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-20T10:51:00.347668+00:00",
-  "updated_at_afisaj": "20 iulie 2026, 13:51",
+  "updated_at": "2026-07-20T18:07:41.606160+00:00",
+  "updated_at_afisaj": "20 iulie 2026, 21:07",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,55 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 123,
+  "numar_stiri": 120,
   "stiri": [
+    {
+      "id": "43268596f110",
+      "titlu": "Legendarul fotbalist și antrenor Kevin Keegan a decedat la vârsta de 75 de ani",
+      "rezumat": "Fostul căpitan și antrenor al naționalei Angliei, Kevin Keegan, a murit la vârsta de 75 de ani, la șapte săptămâni după ce a fost diagnosticat cu cancer în stadiul patru. Keegan, o figură emblematică pentru cluburi precum Newcastle și Liverpool, a fost un jucător și manager iubit, cunoscut pentru energia și carisma sa. Lumea fotbalului îi aduce numeroase omagii, amintind de o carieră incredibilă, marcată de două titluri de Jucător European al Anului și momente memorabile, inclusiv dubla sa din finala Cupei Angliei din 1974.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-07-20T18:07:41.600673+00:00",
+      "data_afisaj": "20 iulie 2026, 21:07"
+    },
+    {
+      "id": "ab2417981fbd",
+      "titlu": "Președintele UEFA a boicotat finala Cupei Mondiale în semn de protest față de FIFA",
+      "rezumat": "Aleksander Ceferin, președintele UEFA, nu a participat la finala Cupei Mondiale dintre Argentina și Spania. Decizia sa vine ca un gest de protest împotriva FIFA, subliniind tensiunile existente între cele două organisme de conducere ale fotbalului mondial. Absența sa de la cel mai important eveniment al turneului marchează o poziție fermă față de anumite politici sau decizii ale forului internațional, atrăgând atenția asupra disensiunilor din spatele scenei fotbalului global.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-20T18:07:41.602338+00:00",
+      "data_afisaj": "20 iulie 2026, 21:07"
+    },
+    {
+      "id": "bbd9321d0481",
+      "titlu": "Argentina, sub investigația FIFA după incidente la finala Cupei Mondiale",
+      "rezumat": "Naționala Argentinei este probabil să se confrunte cu o investigație din partea FIFA, în urma incidentelor neplăcute care au avut loc la finalul Cupei Mondiale. Detaliile exacte ale problemelor nu au fost specificate, dar se pare că au existat scene controversate după încheierea meciului cu Spania. Această acțiune disciplinară ar putea aduce sancțiuni pentru echipa sud-americană, adăugând o notă negativă la încheierea parcursului lor la turneul final.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-20T18:07:41.603884+00:00",
+      "data_afisaj": "20 iulie 2026, 21:07"
+    },
+    {
+      "id": "85c2cace9ee3",
+      "titlu": "Pep Guardiola, în discuții pentru postul de selecționer al Italiei",
+      "rezumat": "Fostul antrenor al lui Manchester City, Pep Guardiola, este considerat un candidat serios pentru postul vacant de selecționer al naționalei Italiei. Vorbitor fluent de italiană, Guardiola ar putea prelua conducerea \"Squadra Azzurra\", o mutare care ar reprezenta o schimbare majoră în peisajul fotbalului internațional. Speculațiile privind viitorul său pe banca tehnică a unei naționale sunt în creștere, iar o eventuală numire la cârma Italiei ar stârni un interes enorm.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-20T18:07:41.605368+00:00",
+      "data_afisaj": "20 iulie 2026, 21:07"
+    },
     {
       "id": "8284ebda35e9",
       "titlu": "Victorie pentru fotbal? Spania a învins Argentina și a câștigat Cupa Mondială",
@@ -1354,86 +1401,6 @@
       ],
       "data_publicare": "2026-07-13T18:27:19.388768+00:00",
       "data_afisaj": "13 iulie 2026, 21:27"
-    },
-    {
-      "id": "82bda8daec60",
-      "titlu": "Manchester United în discuții avansate pentru Youri Tielemans și a semnat cu Andrey Santos",
-      "rezumat": "Manchester United este aproape de a-l transfera pe Youri Tielemans de la Aston Villa, după ce negocierile pentru Éderson de la Atalanta au eșuat. Directorul de fotbal al lui United, Jason Wilcox, poartă discuții avansate cu Villa pentru un pachet financiar. Se estimează că mijlocașul belgian, în vârstă de 29 de ani, are o clauză de reziliere de 35 de milioane de lire sterline. De asemenea, clubul a finalizat recent transferul mijlocașului brazilian Andrey Santos de la Chelsea pentru o sumă de 50 de milioane de lire sterline, consolidând astfel lotul pentru sezonul viitor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football",
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-13T17:57:47.621227+00:00",
-      "data_afisaj": "13 iulie 2026, 20:57"
-    },
-    {
-      "id": "4a4d0b4142ed",
-      "titlu": "Arbitrul olandez Rob Dieperink a decedat la câteva săptămâni după excluderea de la Cupa Mondială",
-      "rezumat": "Arbitrul olandez de fotbal Rob Dieperink a decedat la vârsta de 38 de ani. Vestea tragică vine la doar câteva săptămâni după ce Dieperink fusese retras de la oficierea meciurilor Cupei Mondiale, în urma unei investigații a poliției din Marea Britanie. Detaliile complete ale investigației și cauzele decesului nu au fost încă făcute publice, lăsând comunitatea fotbalistică în doliu și cu multe întrebări. Dieperink era considerat un arbitru promițător în circuitul internațional.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-13T17:57:47.622836+00:00",
-      "data_afisaj": "13 iulie 2026, 20:57"
-    },
-    {
-      "id": "0b59438c943c",
-      "titlu": "Xabi Alonso, noul antrenor al lui Chelsea, dorește să-l păstreze pe Enzo Fernandez",
-      "rezumat": "Xabi Alonso a fost prezentat oficial ca noul manager al clubului Chelsea la Stamford Bridge. În cadrul primei sale conferințe de presă, tehnicianul spaniol a declarat că una dintre prioritățile sale este să-l păstreze pe mijlocașul argentinian Enzo Fernandez în lotul echipei. Această declarație subliniază importanța pe care Alonso o acordă jucătorului și intenția sa de a construi o echipă puternică în jurul talentelor existente, asigurând stabilitate la mijlocul terenului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-13T17:57:47.624443+00:00",
-      "data_afisaj": "13 iulie 2026, 20:57"
-    },
-    {
-      "id": "265573c52c14",
-      "titlu": "Retrăind dramele confruntărilor Anglia - Argentina de la Cupele Mondiale din 1998 și 2002",
-      "rezumat": "Pe fondul viitoarei semifinale a Cupei Mondiale dintre Anglia și Argentina, se reamintesc dramele și rivalitatea istorică dintre cele două națiuni. Articolul detaliază momentele cheie și amintirile jucătorilor precum Diego Simeone, Michael Owen și Glenn Hoddle din meciurile clasice de la Cupele Mondiale din 1998 și 2002. Aceste confruntări, marcate de evenimente controversate și momente memorabile, au cimentat o rivalitate transcontinentală profundă, influențată atât de fotbal, cât și de istorie și politică.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-13T17:57:47.626574+00:00",
-      "data_afisaj": "13 iulie 2026, 20:57"
-    },
-    {
-      "id": "3035c76fcbe1",
-      "titlu": "Situație bizară în Superliga României: Două echipe au interdicție la transferuri înainte de startul campionatului",
-      "rezumat": "Cu doar câteva zile înainte de începerea noului sezon al Superligii României, două dintre echipele participante se confruntă cu o situație neobișnuită: au interdicție la transferuri. Această restricție ar putea afecta semnificativ pregătirea și performanța cluburilor respective, limitându-le capacitatea de a-și întări loturile cu noi jucători. Detaliile exacte ale motivelor care au dus la aceste interdicții nu sunt pe deplin clare, dar situația creează incertitudine și tensiune înaintea debutului campionatului, punând presiune pe strategiile de lot ale echipelor vizate.",
-      "categorie": "Fotbal",
-      "surse": [
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-07-13T11:09:48.214202+00:00",
-      "data_afisaj": "13 iulie 2026, 14:09"
-    },
-    {
-      "id": "3ddf56999620",
-      "titlu": "Dinamo București intenționează să rezilieze contractul lui George Pușcaș din motive neașteptate",
-      "rezumat": "Clubul Dinamo București ar dori să pună capăt colaborării cu atacantul George Pușcaș, conform unor informații recente. Decizia vine pe fondul unor motive considerate \"neașteptate\", care nu au fost încă detaliate public de către conducerea clubului. Această mișcare ar reprezenta o schimbare majoră pentru echipa din capitală, având în vedere statutul internațional al jucătorului. Situația contractuală a lui Pușcaș la Dinamo devine astfel incertă, cu posibile implicații semnificative pentru ambele părți înaintea noului sezon competițional.",
-      "categorie": "Fotbal",
-      "surse": [
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-07-13T11:09:48.215914+00:00",
-      "data_afisaj": "13 iulie 2026, 14:09"
-    },
-    {
-      "id": "68c472c19e9d",
-      "titlu": "Fundașul spaniol Mapi León se alătură echipei London City Lionesses",
-      "rezumat": "Fundașul spaniol Mapi León a semnat un contract pe trei ani cu clubul London City Lionesses, după plecarea sa de la Barcelona. Această mutare reprezintă o achiziție importantă pentru echipa engleză, aducând experiență și calitate în defensivă. León este o jucătoare recunoscută la nivel internațional, cu o carieră solidă la cel mai înalt nivel al fotbalului feminin. Transferul său subliniază ambițiile clubului London City Lionesses de a-și consolida lotul și de a concura la un nivel superior în viitoarele competiții, atât pe plan intern, cât și european.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-13T11:09:48.217445+00:00",
-      "data_afisaj": "13 iulie 2026, 14:09"
     }
   ]
 }
