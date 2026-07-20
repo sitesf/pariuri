@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-20T18:07:41.606160+00:00",
-  "updated_at_afisaj": "20 iulie 2026, 21:07",
+  "updated_at": "2026-07-20T18:49:40.142577+00:00",
+  "updated_at_afisaj": "20 iulie 2026, 21:49",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,41 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 120,
+  "numar_stiri": 118,
   "stiri": [
+    {
+      "id": "c83536eb3584",
+      "titlu": "Chelsea își intensifică interesul pentru fundașul Lacroix de la Crystal Palace",
+      "rezumat": "Clubul Chelsea își accelerează demersurile pentru transferul fundașului Maxence Lacroix, după o nouă rundă de discuții cu Crystal Palace. Jucătorul, în vârstă de 26 de ani, este considerat o țintă importantă pentru întărirea defensivei echipei londoneze. Această mișcare vine în contextul în care Chelsea caută să-și consolideze lotul pentru sezonul viitor, iar negocierile par să avanseze spre o posibilă înțelegere, conform surselor BBC Sport Football.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-20T18:49:40.137850+00:00",
+      "data_afisaj": "20 iulie 2026, 21:49"
+    },
+    {
+      "id": "138166f61bfb",
+      "titlu": "Mii de fani spanioli au sărbătorit victoria la Cupa Mondială în Madrid, în ciuda căldurii intense",
+      "rezumat": "Zeci de mii de spanioli s-au adunat în centrul Madridului, în ciuda unei temperaturi de 34 de grade Celsius, pentru a întâmpina echipa națională de fotbal după victoria istorică la Cupa Mondială împotriva Argentinei. Festivitățile de bun venit au avut loc în jurul Pieței Cibeles, unde fanii au celebrat triumful echipei La Roja, care a învins Argentina cu 1-0 în finala disputată duminică seara în New Jersey. Entuziasmul a fost palpabil, marcând o celebrare memorabilă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-20T18:49:40.139562+00:00",
+      "data_afisaj": "20 iulie 2026, 21:49"
+    },
+    {
+      "id": "118f3f60e4ce",
+      "titlu": "Arabia Saudită va găzdui Cupa Mondială din 2034, prima ediție extinsă într-o singură țară",
+      "rezumat": "Regatul Arabiei Saudite va fi gazda Cupei Mondiale de fotbal din 2034, marcând o premieră prin organizarea unei ediții extinse a turneului într-o singură țară. Această decizie subliniază ambițiile Arabiei Saudite de a juca un rol major pe scena sportivă globală și de a investi masiv în infrastructura necesară pentru un eveniment de o asemenea anvergură. Turneul va aduce provocări logistice și oportunități semnificative pentru țara gazdă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-07-20T18:49:40.142559+00:00",
+      "data_afisaj": "20 iulie 2026, 21:49"
+    },
     {
       "id": "43268596f110",
       "titlu": "Legendarul fotbalist și antrenor Kevin Keegan a decedat la vârsta de 75 de ani",
@@ -1345,62 +1378,6 @@
       ],
       "data_publicare": "2026-07-14T09:06:25.505233+00:00",
       "data_afisaj": "14 iulie 2026, 12:06"
-    },
-    {
-      "id": "789f6a8760b7",
-      "titlu": "FCSB a anunțat un nou transfer, un jucător român sub 21 de ani",
-      "rezumat": "Gigi Becali, patronul FCSB, a confirmat în direct la TV achiziția unui nou jucător pentru echipa sa. Este vorba despre un fotbalist român, cu vârsta sub 21 de ani, care a semnat deja contractul. Detaliile specifice despre numele jucătorului sau poziția sa nu au fost încă dezvăluite, dar transferul marchează o nouă mișcare pe piața internă pentru clubul bucureștean, în contextul pregătirilor pentru noul sezon. Această mutare subliniază strategia clubului de a investi în tineri talente românești.",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-07-13T18:27:19.382515+00:00",
-      "data_afisaj": "13 iulie 2026, 21:27"
-    },
-    {
-      "id": "9f991937be94",
-      "titlu": "Andoni Iraola promite fanilor Liverpool o echipă de care să fie mândri",
-      "rezumat": "Noul antrenor al echipei Liverpool, Andoni Iraola, a declarat că își dorește să construiască o formație de care suporterii să poată fi mândri. Tehnicianul spaniol a subliniat că este pregătit pentru responsabilitatea imensă pe care o implică conducerea unui club de o asemenea anvergură. Declarațiile sale vin în contextul preluării băncii tehnice de pe Anfield, unde presiunea performanței este constantă. Iraola își propune să implementeze o viziune care să aducă succes și să reconecteze echipa cu baza de fani.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-13T18:27:19.384054+00:00",
-      "data_afisaj": "13 iulie 2026, 21:27"
-    },
-    {
-      "id": "da32da683d93",
-      "titlu": "Argentina va purta echipamentul albastru de deplasare în semifinala Cupei Mondiale împotriva Angliei",
-      "rezumat": "Naționala Argentinei va juca în echipamentul său albastru închis de deplasare în semifinala Cupei Mondiale de miercuri, împotriva Angliei. Decizia vine în contextul în care echipa consideră acest echipament \"norocos\". Anglia, pe de altă parte, va evolua în tradiționalul său echipament complet alb de acasă. Această confruntare crucială din semifinalele turneului final va aduce față în față două dintre cele mai puternice echipe, iar alegerea echipamentului adaugă o notă de superstiție înaintea marelui meci.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-13T18:27:19.385673+00:00",
-      "data_afisaj": "13 iulie 2026, 21:27"
-    },
-    {
-      "id": "441c2d4acadd",
-      "titlu": "Lucas Digne de la Aston Villa ar fi acceptat un transfer la PSG, în timp ce Pervis Estupiñán este vizat",
-      "rezumat": "Conform rapoartelor recente, fundașul stânga Lucas Digne de la Aston Villa ar fi ajuns la un acord pentru a se alătura echipei Paris Saint-Germain. Această mutare ar marca o revenire a jucătorului francez în Ligue 1. Între timp, Aston Villa își caută deja înlocuitori, iar Pervis Estupiñán, fundașul stânga ecuadorian, ar fi pe lista de priorități a clubului englez. Aceste potențiale transferuri indică o perioadă activă pe piața de mercato pentru echipa din Birmingham, care încearcă să-și consolideze lotul.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-13T18:27:19.387386+00:00",
-      "data_afisaj": "13 iulie 2026, 21:27"
-    },
-    {
-      "id": "aa7cb67461a8",
-      "titlu": "Liverpool Women confirmă transferul lui Keating",
-      "rezumat": "Echipa feminină de fotbal Liverpool FC Women a confirmat oficial achiziția jucătoarei Keating. Detaliile specifice ale transferului, cum ar fi durata contractului sau poziția exactă a jucătoarei, nu au fost încă publicate în detaliu. Această mutare reprezintă o întărire a lotului pentru echipa din Women's Super League, în vederea obiectivelor stabilite pentru noul sezon. Clubul continuă să investească în dezvoltarea secției feminine, aducând noi talente pentru a concura la cel mai înalt nivel.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-13T18:27:19.388768+00:00",
-      "data_afisaj": "13 iulie 2026, 21:27"
     }
   ]
 }
