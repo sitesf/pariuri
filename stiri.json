@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-19T17:52:08.926405+00:00",
-  "updated_at_afisaj": "19 iulie 2026, 20:52",
+  "updated_at": "2026-07-20T10:16:07.772717+00:00",
+  "updated_at_afisaj": "20 iulie 2026, 13:16",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,65 @@
   },
   "numar_stiri": 122,
   "stiri": [
+    {
+      "id": "376f01d85275",
+      "titlu": "Spania Învinge Argentina și Câștigă Cupa Mondială 2026",
+      "rezumat": "Spania a cucerit titlul de campioană mondială la fotbal, învingând Argentina în finala Cupei Mondiale 2026. Victoria a fost considerată de mulți observatori neutri drept un triumf pentru fotbal. Meciul a marcat un moment istoric, Spania demonstrând o performanță solidă pe parcursul întregului turneu. Această victorie subliniază ascensiunea fotbalului spaniol la nivel global, consolidându-i poziția de forță în sportul rege.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-20T10:16:07.766130+00:00",
+      "data_afisaj": "20 iulie 2026, 13:16"
+    },
+    {
+      "id": "da7b17ed7fb5",
+      "titlu": "Ferran Torres Marchează Unicul Gol al Finalei Cupei Mondiale",
+      "rezumat": "Ferran Torres a fost eroul Spaniei în finala Cupei Mondiale împotriva Argentinei, marcând singurul gol al partidei în prelungiri. Atacantul spaniol a spart echilibrul pe stadionul New York New Jersey, aducând avantajul decisiv echipei sale. Golul său a asigurat victoria Spaniei și a consfințit succesul într-un meci tensionat și disputat până la capăt, demonstrând importanța momentelor decisive în fotbal.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-07-20T10:16:07.767669+00:00",
+      "data_afisaj": "20 iulie 2026, 13:16"
+    },
+    {
+      "id": "aebe303e53c2",
+      "titlu": "Evaluarea Jucătorilor Spaniei După Victoria în Finala Cupei Mondiale",
+      "rezumat": "Jurnaliștii BBC Sport au publicat evaluările individuale ale jucătorilor după finala Cupei Mondiale dintre Spania și Argentina. Analiza detaliază performanțele fiecărui fotbalist spaniol, evidențiind contribuțiile cheie care au dus la câștigarea trofeului. Aceste ratinguri oferă o perspectivă asupra modului în care fiecare jucător a influențat rezultatul istoric al Spaniei, oferind o imagine completă a prestației colective și individuale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-20T10:16:07.769165+00:00",
+      "data_afisaj": "20 iulie 2026, 13:16"
+    },
+    {
+      "id": "6f317c878ef4",
+      "titlu": "Kylian Mbappe Câștigă Gheata de Aur pentru a Doua Oară, Rodri Desemnat Cel Mai Bun Jucător",
+      "rezumat": "Kylian Mbappe a intrat în istorie devenind primul jucător care câștigă Gheata de Aur la Cupa Mondială de două ori, fiind golgheterul ediției din 2026. De asemenea, mijlocașul spaniol Rodri a fost recompensat cu Balonul de Aur, trofeul acordat celui mai bun jucător al turneului. Aceste distincții individuale subliniază performanțele excepționale ale celor doi fotbaliști pe parcursul competiției, recunoscând impactul lor major.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-20T10:16:07.770931+00:00",
+      "data_afisaj": "20 iulie 2026, 13:16"
+    },
+    {
+      "id": "d25adbcf69a9",
+      "titlu": "Antrenorul Argentinei, Lionel Scaloni, În Lacrimi la Conferința de Presă După Finala Cupei Mondiale",
+      "rezumat": "Selecționerul Argentinei, Lionel Scaloni, a părăsit vizibil emoționat și în lacrimi conferința de presă de după înfrângerea echipei sale în finala Cupei Mondiale împotriva Spaniei. Scaloni a vorbit despre viitorul său la cârma naționalei, exprimându-și incertitudinea și profundul regret după rezultatul meciului. Momentul a reflectat presiunea și dezamăgirea resimțite de antrenor, marcând un final dramatic pentru campania Argentinei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-20T10:16:07.772699+00:00",
+      "data_afisaj": "20 iulie 2026, 13:16"
+    },
     {
       "id": "334c2488e0a9",
       "titlu": "Cozi de Două Ore la Finala Cupei Mondiale din Cauza Prezenței lui Trump",
@@ -1359,66 +1418,6 @@
       ],
       "data_publicare": "2026-07-13T10:30:01.265350+00:00",
       "data_afisaj": "13 iulie 2026, 13:30"
-    },
-    {
-      "id": "f1fd7c665ac2",
-      "titlu": "Lamine Yamal? Mbappe? Kane? Alege-ți primul unsprezece pentru semifinala Cupei Mondiale",
-      "rezumat": "Pe măsură ce ne pregătim pentru semifinala Cupei Mondiale, BBC Sport își alege primul unsprezece combinat din ultimele patru echipe. Ești de acord?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-07-12T17:53:37.227717+00:00",
-      "data_afisaj": "12 iulie 2026, 20:53"
-    },
-    {
-      "id": "e3719f59684e",
-      "titlu": "Bellingham marchează golul victoriei în prelungiri, iar Anglia ajunge în semifinale",
-      "rezumat": "Jude Bellingham marchează de două ori, inclusiv golul victoriei în prelungiri, în timp ce Anglia revine de la un scor defavorabil pentru a învinge Norvegia cu 2-1 la Miami și a ajunge în semifinalele Cupei Mondiale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-12T17:53:37.229128+00:00",
-      "data_afisaj": "12 iulie 2026, 20:53"
-    },
-    {
-      "id": "db4e0657544b",
-      "titlu": "Clasamentul puterii la Cupa Mondială 2026: cine conduce plutonul pe măsură ce se apropie semifinalele?",
-      "rezumat": "Evaluăm echipele care au jucat în sferturile de finală pe măsură ce se apropie faza decisivă a turneului. Didier Deschamps a mai văzut toate acestea și cu siguranță nu se teme nici măcar de cele mai joase blocuri defensive. Este clar că toată lumea se teme de Les Bleus, ceea ce este de înțeles, iar ei folosesc acest lucru în avantajul lor. Este admirabil cum echipele reușesc să țină Franța în frâu pentru perioade lungi, dar meciul este prea lung pentru a-i reduce complet la tăcere pe Kylian Mbappé și Ousmane Dembélé. Împotriva Marocului a fost nevoie de o oră de răbdare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-07-12T17:53:37.230590+00:00",
-      "data_afisaj": "12 iulie 2026, 20:53"
-    },
-    {
-      "id": "1b3171c84b8d",
-      "titlu": "Cablegate: ar fi trebuit anulat primul gol al lui Jude Bellingham împotriva Norvegiei?",
-      "rezumat": "Mijlocașul a readus Anglia la egalitate într-un stil excelent, dar imaginile sugerează o interferență ilegală în faza premergătoare. Portarul Norvegiei, Ørjan Håskjold Nyland, execută un degajare de la poartă pe teren la două minute de prelungiri la sfârșitul primei reprize. Mingea cade chiar în jumătatea Angliei, lângă linia de tușă, unde Elliot Anderson reușește să preia posesia și să avanseze. Citește mai departe...",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-12T17:53:37.232070+00:00",
-      "data_afisaj": "12 iulie 2026, 20:53"
-    },
-    {
-      "id": "5a014ae5ebe1",
-      "titlu": "Jude Bellingham, neimpresionat după ce Tuchel a criticat performanța „norocoasă” a Angliei",
-      "rezumat": "Antrenorul principal a spus că echipa a fost „neglijentă” și „nu suficient de rapidă”. Bellingham, autor a două goluri, răspunde: „Da, bine, oricum”. Jude Bellingham a replicat criticilor aduse performanței Angliei de Thomas Tuchel, după ce cele două goluri ale sale împotriva Norvegiei au asigurat un loc în semifinalele Cupei Mondiale pentru a patra oară. O prestație virtuoasă a starului de la Real Madrid a inspirat o victorie de revenire după ce Andreas Schjelderup a adus Norvegia în avantaj, Bellingham marcând un gol egalizator controversat chiar înainte de pauză. Reluările arată că...",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-12T17:53:37.233550+00:00",
-      "data_afisaj": "12 iulie 2026, 20:53"
     }
   ]
 }
