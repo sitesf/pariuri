@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-20T18:49:40.142577+00:00",
-  "updated_at_afisaj": "20 iulie 2026, 21:49",
+  "updated_at": "2026-07-21T09:29:16.519000+00:00",
+  "updated_at_afisaj": "21 iulie 2026, 12:29",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,62 @@
   },
   "numar_stiri": 118,
   "stiri": [
+    {
+      "id": "6aeac53063a2",
+      "titlu": "Mijlocașul Alex Scott refuză prelungirea contractului cu Bournemouth",
+      "rezumat": "Alex Scott, mijlocașul echipei Bournemouth și internațional englez, a refuzat o nouă ofertă de contract din partea clubului. Decizia sa vine pe fondul unui interes crescut din partea mai multor cluburi din Premier League, care urmăresc cu atenție situația tânărului jucător. Această respingere ar putea deschide calea pentru o posibilă plecare a lui Scott în această perioadă de transferuri, pe măsură ce cluburile rivale își intensifică eforturile pentru a-l aduce în rândurile lor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-21T09:29:16.511995+00:00",
+      "data_afisaj": "21 iulie 2026, 12:29"
+    },
+    {
+      "id": "bb627931fddf",
+      "titlu": "Lionel Messi: „Durerea este imensă” după înfrângerea în finala Cupei Mondiale",
+      "rezumat": "Starul argentinian Lionel Messi a declarat că „durerea este imensă” și că „va dura timp să se vindece” după ce Argentina a pierdut finala Cupei Mondiale cu 1-0 în fața Spaniei. Declarația vine la scurt timp după meciul decisiv, reflectând dezamăgirea profundă a căpitanului și a echipei sale, care sperau să cucerească trofeul suprem. Messi a subliniat impactul emoțional al înfrângerii, recunoscând dificultatea de a depăși un astfel de moment.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-21T09:29:16.513696+00:00",
+      "data_afisaj": "21 iulie 2026, 12:29"
+    },
+    {
+      "id": "811958aad591",
+      "titlu": "Tottenham Hotspur stabilește un nou record de transfer pentru echipa feminină, semnând-o pe Alice Sombath",
+      "rezumat": "Tottenham Hotspur a anunțat achiziționarea fundașului francez Alice Sombath de la Lyonnes, stabilind un nou record de transfer pentru echipa feminină a clubului. Suma exactă a tranzacției nu a fost dezvăluită, dar depășește precedentul record de peste 375.000 de lire sterline. Sombath, în vârstă de 22 de ani, este a șasea achiziție a verii pentru Spurs și a declarat că este entuziasmată de competitivitatea ligii engleze și de obiectivele ambițioase ale clubului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-21T09:29:16.515472+00:00",
+      "data_afisaj": "21 iulie 2026, 12:29"
+    },
+    {
+      "id": "d0b421b370b4",
+      "titlu": "De la Neuer la Neymar: 11 jucători importanți se retrag din fotbalul internațional după Cupa Mondială",
+      "rezumat": "Un număr semnificativ de 11 jucători de top, inclusiv portarul german Manuel Neuer și starul brazilian Neymar, au anunțat retragerea din fotbalul internațional după încheierea Cupei Mondiale din 2026. Printre aceștia se numără și alți fotbaliști care au marcat edițiile anterioare ale turneului. Deciziile lor marchează o schimbare de generație în echipele naționale și deschid calea pentru noi talente pe scena internațională, influențând viitoarele strategii ale selecționerilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-21T09:29:16.517243+00:00",
+      "data_afisaj": "21 iulie 2026, 12:29"
+    },
+    {
+      "id": "d56fc919b176",
+      "titlu": "Fâșia Gaza sărbătorește victoria Spaniei la Cupa Mondială, pe fondul sprijinului pentru drepturile palestiniene",
+      "rezumat": "Victoria Spaniei la Cupa Mondială a fost sărbătorită intens pe străzile din Fâșia Gaza, unde sprijinul Spaniei pentru drepturile palestiniene și susținerea Israelului pentru echipa Argentinei au transformat competiția într-un eveniment cu o semnificație mai profundă. Locuitorii s-au adunat în cafenele și la proiecții în aer liber pentru a susține echipa Spaniei, pe care au adoptat-o, în ciuda riscului atacurilor israeliene, demonstrând solidaritate și bucurie colectivă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-21T09:29:16.518979+00:00",
+      "data_afisaj": "21 iulie 2026, 12:29"
+    },
     {
       "id": "c83536eb3584",
       "titlu": "Chelsea își intensifică interesul pentru fundașul Lacroix de la Crystal Palace",
@@ -1320,64 +1376,6 @@
       ],
       "data_publicare": "2026-07-14T09:57:20.405948+00:00",
       "data_afisaj": "14 iulie 2026, 12:57"
-    },
-    {
-      "id": "6c6f73f2ec80",
-      "titlu": "Cine va câștiga Cupa Mondială? Opiniile din rândul semifinalistelor",
-      "rezumat": "BBC Sport a consultat jurnaliști și fani din cele patru țări semifinaliste ale Cupei Mondiale pentru a afla cine cred aceștia că va triumfa în turneu. Articolul explorează diverse perspective și argumente, oferind o imagine de ansamblu asupra așteptărilor și încrederii fiecărei națiuni înaintea fazelor decisive. Se analizează punctele forte și slăbiciunile echipelor rămase în competiție, precum și factorii care ar putea influența rezultatul final al prestigioasei competiții.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-07-14T09:06:25.499120+00:00",
-      "data_afisaj": "14 iulie 2026, 12:06"
-    },
-    {
-      "id": "7cadc175f81b",
-      "titlu": "Măsuri de securitate sporite pentru semifinala Anglia - Argentina",
-      "rezumat": "Autoritățile au anunțat implementarea unor măsuri de securitate sporite pentru semifinala Cupei Mondiale dintre Anglia și Argentina, programată miercuri la Atlanta. Decizia vine în contextul importanței istorice și al rivalității intense dintre cele două națiuni, anticipându-se o prezență masivă a fanilor și o atmosferă tensionată. Obiectivul este asigurarea unui eveniment sigur și ordonat pentru toți participanții, atât pe stadion, cât și în zonele adiacente.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-14T09:06:25.500612+00:00",
-      "data_afisaj": "14 iulie 2026, 12:06"
-    },
-    {
-      "id": "a471778a9bc8",
-      "titlu": "Didier Deschamps anticipează o semifinală spectaculoasă între Franța și Spania",
-      "rezumat": "Selecționerul Franței, Didier Deschamps, a declarat că anticipează o semifinală \"spectaculoasă\" a Cupei Mondiale, în care echipa sa, aflată într-o formă excelentă, va întâlni Spania. Confruntarea dintre cele două forțe ale fotbalului european va avea loc la Dallas și promite un duel intens, având în vedere calitatea loturilor și stilurile de joc ofensive. Deschamps subliniază încrederea în capacitatea echipei sale de a oferi un spectacol memorabil.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-14T09:06:25.502123+00:00",
-      "data_afisaj": "14 iulie 2026, 12:06"
-    },
-    {
-      "id": "f73cff0168f7",
-      "titlu": "Diego Forlán îl înlocuiește temporar pe Marcelo Bielsa la conducerea naționalei Uruguayului",
-      "rezumat": "Fostul atacant al lui Manchester United, Diego Forlán, va prelua temporar funcția de selecționer al Uruguayului, după plecarea lui Marcelo Bielsa. Bielsa a părăsit echipa în urma unei campanii dezamăgitoare la Cupa Mondială, unde La Celeste a fost eliminată în faza grupelor. Forlán va conduce echipa până în martie 2027, având sarcina de a reconstrui și de a aduce stabilitate naționalei uruguayene după rezultatele sub așteptări.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-14T09:06:25.503645+00:00",
-      "data_afisaj": "14 iulie 2026, 12:06"
-    },
-    {
-      "id": "c914bb6be8e2",
-      "titlu": "Ion Crăciunescu reacționează vehement după excluderea lui Istvan Kovacs de la Cupa Mondială",
-      "rezumat": "Fostul arbitru internațional Ion Crăciunescu a avut o reacție dură după ce Istvan Kovacs nu a mai fost delegat la Cupa Mondială. Crăciunescu a criticat situația arbitrajului românesc, întrebând retoric: „Aveți pretenții după ce 15 arbitri din Superliga nu au luat testele fizice?”. Declarațiile sale subliniază problemele de pregătire fizică și de performanță ale arbitrilor români, sugerând că excluderea lui Kovacs ar putea fi un simptom al unor deficiențe mai largi în sistemul de arbitraj național.",
-      "categorie": "Fotbal",
-      "surse": [
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-07-14T09:06:25.505233+00:00",
-      "data_afisaj": "14 iulie 2026, 12:06"
     }
   ]
 }
