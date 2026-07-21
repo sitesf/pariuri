@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-21T10:24:57.027708+00:00",
-  "updated_at_afisaj": "21 iulie 2026, 13:24",
+  "updated_at": "2026-07-21T17:24:18.921345+00:00",
+  "updated_at_afisaj": "21 iulie 2026, 20:24",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,68 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 118,
+  "numar_stiri": 119,
   "stiri": [
+    {
+      "id": "8fc88dd54aac",
+      "titlu": "'Presiunea este intensă și controlul constant' - arbitrul Taylor se retrage",
+      "rezumat": "Anthony Taylor își anunță retragerea din arbitraj cu efect imediat - punând capăt unei cariere de 20 de ani.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-21T17:24:09.100996+00:00",
+      "data_afisaj": "21 iulie 2026, 20:24"
+    },
+    {
+      "id": "2b9d0617ad79",
+      "titlu": "Villa în discuții pentru a-l semna pe Garnacho de la Chelsea",
+      "rezumat": "Aston Villa intră în discuții pentru a-l semna pe aripa lui Chelsea, Alejandro Garnacho, sub formă de împrumut, cu o potențială obligație de cumpărare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-21T17:24:09.102098+00:00",
+      "data_afisaj": "21 iulie 2026, 20:24"
+    },
+    {
+      "id": "d852d250e012",
+      "titlu": "Momentele definitorii ale Cupei Mondiale 2026",
+      "rezumat": "De la debuturi istorice la Cupa Mondială și prime victorii emoționante, la noi vedete și strălucirea legendelor - retrăiește momentele definitorii ale Cupei Mondiale FIFA 2026.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-21T17:24:09.103123+00:00",
+      "data_afisaj": "21 iulie 2026, 20:24"
+    },
+    {
+      "id": "8629480ac971",
+      "titlu": "Ținta Arsenal, Chelsea și Man Utd, Scott, refuză noul contract cu Bournemouth",
+      "rezumat": "Alex Scott a refuzat un nou contract cu Bournemouth pe fondul interesului puternic din partea lui Arsenal, Chelsea și Manchester United, înțelege Sky Sports News.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-21T17:24:09.104240+00:00",
+      "data_afisaj": "21 iulie 2026, 20:24"
+    },
+    {
+      "id": "50394be66906",
+      "titlu": "Consorțiu în discuții pentru a cumpăra o participație minoritară la Liverpool",
+      "rezumat": "Un consorțiu condus de omul de afaceri milionar britanic-indian Amit Bhatia își exprimă interesul de a cumpăra o participație minoritară la Liverpool.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-21T17:24:09.105223+00:00",
+      "data_afisaj": "21 iulie 2026, 20:24"
+    },
     {
       "id": "298c6e30891d",
       "titlu": "Atacantul Jhon Duran se alătură echipei Benfica sub formă de împrumut",
@@ -1326,55 +1386,6 @@
       ],
       "data_publicare": "2026-07-14T17:57:32.895444+00:00",
       "data_afisaj": "14 iulie 2026, 20:57"
-    },
-    {
-      "id": "76839a64a4b6",
-      "titlu": "Semifinala Cupei Mondiale 2026: Franța vs Spania - Transmisiune live",
-      "rezumat": "Franța și Spania se pregătesc să se dueleze în semifinala Cupei Mondiale 2026, într-o confruntare așteptată cu mare interes. Cele două echipe au demonstrat o formă excelentă pe parcursul turneului, fiind considerate printre cele mai bune. Meciul, care va avea loc la Dallas, este un eveniment major în calendarul competiției, decisiv pentru calificarea în marea finală, atrăgând atenția fanilor din întreaga lume.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-07-14T17:17:41.981779+00:00",
-      "data_afisaj": "14 iulie 2026, 20:17"
-    },
-    {
-      "id": "73ccae011520",
-      "titlu": "Rivalitatea Anglia-Argentina: De ce argentinienii cântă despre Insulele Falkland",
-      "rezumat": "Înaintea semifinalei Cupei Mondiale dintre Anglia și Argentina, se analizează profunzimea rivalității dintre cele două națiuni. Pentru Argentina, confruntarea fotbalistică depășește simpla competiție sportivă, fiind puternic influențată de istoria comună, inclusiv de conflictul din Insulele Falkland (Malvine). Cântecele și scandările fanilor argentinieni reflectă această legătură emoțională și istorică, adăugând o dimensiune suplimentară meciului și intensificând atmosfera din jurul partidei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-14T17:17:41.983014+00:00",
-      "data_afisaj": "14 iulie 2026, 20:17"
-    },
-    {
-      "id": "70c564b811cf",
-      "titlu": "Folarin Balogun a anticipat controversele legate de anularea suspendării sale la Cupa Mondială",
-      "rezumat": "Atacantul Statelor Unite, Folarin Balogun, a declarat că a anticipat că decizia FIFA de a-i suspenda interdicția de un meci la Cupa Mondială va genera \"o mulțime de controverse\". Balogun a menționat că situația a creat \"nervozitate\" în rândul coechipierilor săi. Suspendarea inițială a fost anulată după o intervenție, permițându-i jucătorului să continue participarea la turneu, o decizie care a stârnit discuții aprinse.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-14T17:17:41.984247+00:00",
-      "data_afisaj": "14 iulie 2026, 20:17"
-    },
-    {
-      "id": "f6d44edeb922",
-      "titlu": "Bournemouth a semnat cu atacantul Alvaro Rodriguez pentru 25,7 milioane de lire sterline",
-      "rezumat": "Clubul Bournemouth a anunțat achiziționarea atacantului Alvaro Rodriguez de la echipa spaniolă Elche. Transferul este evaluat la o sumă de până la 25,7 milioane de lire sterline. Această mutare reprezintă o investiție semnificativă pentru Bournemouth, care își propune să-și întărească ofensiva cu un jucător tânăr și promițător, în perspectiva noului sezon din Premier League. Rodriguez este așteptat să aducă un plus de valoare echipei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-14T17:17:41.985376+00:00",
-      "data_afisaj": "14 iulie 2026, 20:17"
     }
   ]
 }
