@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-21T09:29:16.519000+00:00",
-  "updated_at_afisaj": "21 iulie 2026, 12:29",
+  "updated_at": "2026-07-21T10:24:57.027708+00:00",
+  "updated_at_afisaj": "21 iulie 2026, 13:24",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,61 @@
   },
   "numar_stiri": 118,
   "stiri": [
+    {
+      "id": "298c6e30891d",
+      "titlu": "Atacantul Jhon Duran se alătură echipei Benfica sub formă de împrumut",
+      "rezumat": "Fostul atacant al echipei Aston Villa, Jhon Duran, a semnat un contract de împrumut pe un sezon cu Benfica Lisabona. Jucătorul columbian, în vârstă de 22 de ani, vine de la clubul saudit Al-Nassr. Această mutare marchează al șaptelea club din cariera tânărului fotbalist, oferindu-i o nouă oportunitate de a-și demonstra calitățile într-un campionat european de top.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-21T10:24:57.021350+00:00",
+      "data_afisaj": "21 iulie 2026, 13:24"
+    },
+    {
+      "id": "dd9272466da5",
+      "titlu": "Echipamente de fotbal contrafăcute în valoare de 18 milioane de lire sterline, confiscate în timpul Cupei Mondiale",
+      "rezumat": "Poliția din Marea Britanie a confiscat tricouri de fotbal contrafăcute în valoare de peste 18 milioane de lire sterline pe durata Cupei Mondiale. Aceste confiscări au fost efectuate din motive de siguranță, Serviciul de Pompieri avertizând că materialele din care sunt fabricate aceste articole pot reprezenta un pericol pentru purtători. Acțiunea subliniază eforturile autorităților de a combate comerțul ilegal cu produse sportive și de a proteja consumatorii.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-21T10:24:57.023094+00:00",
+      "data_afisaj": "21 iulie 2026, 13:24"
+    },
+    {
+      "id": "bcfbbf4ad7dd",
+      "titlu": "Everton ajunge la un acord pentru transferul jucătoarei Jutta Rantala de la Leicester",
+      "rezumat": "Clubul Everton a confirmat că a ajuns la un acord pentru transferul jucătoarei internaționale finlandeze Jutta Rantala de la Leicester City. Această mutare reprezintă o achiziție importantă pentru echipa feminină a lui Everton, aducând experiență și talent din campionatul englez. Rantala este recunoscută pentru contribuțiile sale la Leicester și la echipa națională a Finlandei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-21T10:24:57.024704+00:00",
+      "data_afisaj": "21 iulie 2026, 13:24"
+    },
+    {
+      "id": "9f619b7eecf7",
+      "titlu": "Enzo Maresca preia conducerea tehnică a echipei Manchester City",
+      "rezumat": "Manchester City începe o nouă eră managerială, numindu-l pe Enzo Maresca în funcția de antrenor principal. Această decizie vine în urma plecării lui Pep Guardiola de la club. Maresca se confruntă cu provocarea de a menține standardele înalte stabilite de predecesorul său și de a continua succesul echipei în competițiile interne și europene.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-21T10:24:57.026174+00:00",
+      "data_afisaj": "21 iulie 2026, 13:24"
+    },
+    {
+      "id": "138f93aeabd7",
+      "titlu": "Discuții confirmate pentru o Cupă Mondială cu 64 de echipe în 2030",
+      "rezumat": "Au fost confirmate discuții privind extinderea formatului Cupei Mondiale din 2030 la 64 de echipe. Această propunere ar modifica semnificativ structura turneului, crescând numărul de participanți și, implicit, de meciuri. Decizia finală va avea un impact major asupra organizării și logisticii viitoarelor ediții ale competiției, precum și asupra oportunităților pentru mai multe națiuni de a participa la cel mai prestigios eveniment fotbalistic.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-21T10:24:57.027686+00:00",
+      "data_afisaj": "21 iulie 2026, 13:24"
+    },
     {
       "id": "6aeac53063a2",
       "titlu": "Mijlocașul Alex Scott refuză prelungirea contractului cu Bournemouth",
@@ -1320,62 +1375,6 @@
       ],
       "data_publicare": "2026-07-14T17:17:41.985376+00:00",
       "data_afisaj": "14 iulie 2026, 20:17"
-    },
-    {
-      "id": "7083d5cbe0ae",
-      "titlu": "Brighton finalizează transferul record al lui Luka Vuskovic de la Tottenham",
-      "rezumat": "Clubul Brighton a anunțat finalizarea transferului fundașului Luka Vuskovic de la Tottenham Hotspur. Această mutare reprezintă o achiziție record pentru Brighton, consolidând apărarea echipei. Vuskovic, un tânăr talent, se alătură echipei într-o tranzacție importantă, marcând o investiție semnificativă în viitorul clubului. Detaliile financiare exacte nu au fost publicate, dar se confirmă că suma depășește recordurile anterioare ale clubului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-14T09:57:20.399477+00:00",
-      "data_afisaj": "14 iulie 2026, 12:57"
-    },
-    {
-      "id": "acdab74e8bec",
-      "titlu": "Harry Kane subliniază unitatea echipei Angliei înaintea semifinalei Cupei Mondiale",
-      "rezumat": "Căpitanul naționalei Angliei, Harry Kane, a declarat că lotul este \"complet unit\" înaintea confruntării din semifinalele Cupei Mondiale împotriva Argentinei. Kane a recunoscut că este \"ușor să creezi diviziuni\" în jurul echipei, dar a insistat că jucătorii sunt concentrați și solidari. Declarația vine într-un moment crucial, pe măsură ce Anglia se pregătește pentru unul dintre cele mai importante meciuri din istoria recentă a naționalei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-14T09:57:20.401103+00:00",
-      "data_afisaj": "14 iulie 2026, 12:57"
-    },
-    {
-      "id": "89756f7f9e13",
-      "titlu": "Kosovare Asllani își prelungește contractul cu London City Lionesses",
-      "rezumat": "Kosovare Asllani, căpitanul echipei feminine London City Lionesses, a semnat o prelungire de contract pe un an. Anunțul vine în ciuda faptului că jucătoarea a suferit o accidentare gravă, demonstrând încrederea clubului în recuperarea și contribuția sa viitoare. Această decizie subliniază angajamentul reciproc și importanța lui Asllani pentru echipa din campionatul feminin.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-14T09:57:20.402659+00:00",
-      "data_afisaj": "14 iulie 2026, 12:57"
-    },
-    {
-      "id": "3c03b38d37fd",
-      "titlu": "Norvegia transformă eliminarea de la Cupa Mondială într-o celebrare națională la Oslo",
-      "rezumat": "Peste 100.000 de fani au umplut străzile din Oslo, capitala Norvegiei, pentru a-și întâmpina călduros echipa națională, transformând dezamăgirea eliminării de la Cupa Mondială într-o sărbătoare națională masivă. Echipa a fost învinsă de Anglia cu 2-1 în prelungiri, în sferturile de finală, punând capăt parcursului lor istoric. Cu toate acestea, suporterii au ales să celebreze performanța remarcabilă a jucătorilor, demonstrând un sprijin impresionant.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-14T09:57:20.404299+00:00",
-      "data_afisaj": "14 iulie 2026, 12:57"
-    },
-    {
-      "id": "bd03ba843225",
-      "titlu": "Anglia se pregătește pentru a patra semifinală de Cupă Mondială împotriva Argentinei",
-      "rezumat": "Naționala Angliei se va confrunta cu vechea sa rivală, Argentina, în semifinalele Cupei Mondiale 2026, într-un meci ce promite a fi un eveniment de anvergură. Aceasta va fi a patra semifinală de Cupă Mondială pentru \"Cei Trei Lei\", o ocazie istorică de a avansa în finală. Confruntarea este programată pentru miercuri și este așteptată cu mare interes, având în vedere istoria bogată a rivalității dintre cele două națiuni.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-07-14T09:57:20.405948+00:00",
-      "data_afisaj": "14 iulie 2026, 12:57"
     }
   ]
 }
