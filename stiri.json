@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-21T17:24:18.921345+00:00",
-  "updated_at_afisaj": "21 iulie 2026, 20:24",
+  "updated_at": "2026-07-21T18:12:12.521797+00:00",
+  "updated_at_afisaj": "21 iulie 2026, 21:12",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,65 @@
   },
   "numar_stiri": 119,
   "stiri": [
+    {
+      "id": "c545beabd5fc",
+      "titlu": "Președintele La Liga și Sepp Blatter cer demisia lui Gianni Infantino de la FIFA",
+      "rezumat": "Președintele La Liga, Javier Tebas, a cerut demisia președintelui FIFA, Gianni Infantino, acuzând organismul de conducere că \"distruge industria fotbalului\". Tebas a declarat că \"timpul său a expirat\", o poziție susținută și de fostul președinte FIFA, Sepp Blatter. Criticile vin pe fondul prioritizării Cupei Mondiale în detrimentul competițiilor naționale, considerată o problemă fundamentală care afectează structura fotbalului global.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-21T18:12:12.515462+00:00",
+      "data_afisaj": "21 iulie 2026, 21:12"
+    },
+    {
+      "id": "18ac7e6278dd",
+      "titlu": "Sir Alex Ferguson aduce un omagiu lui Kevin Keegan, numind echipa Newcastle a acestuia \"cea mai mare\"",
+      "rezumat": "Sir Alex Ferguson, fostul manager al lui Manchester United, a adus un tribut emoționant lui Kevin Keegan, care a decedat recent la vârsta de 75 de ani. Ferguson a declarat că Keegan a construit \"cea mai mare echipă\" a lui Newcastle United și a subliniat că acesta \"a purtat dragostea pentru joc pe mânecă\". Ferguson a exprimat \"cel mai mare respect\" pentru fostul său rival, cu care a avut o luptă intensă pentru titlul Premier League în 1996.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-21T18:12:12.517136+00:00",
+      "data_afisaj": "21 iulie 2026, 21:12"
+    },
+    {
+      "id": "b42cff8f46e2",
+      "titlu": "Fanii Manchester United protestează împotriva suspendării abonamentelor de sezon",
+      "rezumat": "Grupurile de suporteri ale clubului Manchester United și-au exprimat furia față de decizia clubului de a suspenda abonamentele de sezon pentru unii fani, ca parte a unei măsuri de combatere a revânzării ilegale a biletelor. Fanii susțin că sunt \"tratați ca suspecți\" și că această acțiune afectează unii dintre cei mai loiali suporteri ai clubului. Forumul Oficial al Fanilor și alte grupuri au depus plângeri oficiale, cerând reinstalarea abonamentelor înainte de începerea sezonului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-21T18:12:12.518669+00:00",
+      "data_afisaj": "21 iulie 2026, 21:12"
+    },
+    {
+      "id": "39b16f45b9d8",
+      "titlu": "Portarul Argentinei, Emi Martinez, ia în considerare retragerea din fotbalul internațional",
+      "rezumat": "Portarul naționalei Argentinei, Emiliano \"Emi\" Martinez, a declarat că analizează posibilitatea de a se retrage din fotbalul internațional. Decizia vine după înfrângerea Argentinei cu 1-0 în fața Spaniei în finala Cupei Mondiale. Martinez, o figură cheie în echipa Argentinei, a menționat că se gândește dacă este \"timpul să se dea la o parte\" pentru a permite noilor generații să preia ștafeta.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-21T18:12:12.520293+00:00",
+      "data_afisaj": "21 iulie 2026, 21:12"
+    },
+    {
+      "id": "3a4e3491fb2a",
+      "titlu": "West Ham a ajuns la un acord cu Al Hilal pentru transferul lui Crysencio Summerville",
+      "rezumat": "Clubul West Ham United a ajuns la un acord cu echipa Al Hilal din Arabia Saudită pentru vânzarea jucătorului Crysencio Summerville. Detaliile financiare ale tranzacției nu au fost dezvăluite, dar se anticipează că este o afacere importantă. Atacantul olandez, care a avut evoluții solide, se pregătește să facă pasul către campionatul saudit, marcând o nouă plecare semnificativă din Premier League către Orientul Mijlociu.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-21T18:12:12.521773+00:00",
+      "data_afisaj": "21 iulie 2026, 21:12"
+    },
     {
       "id": "8fc88dd54aac",
       "titlu": "'Presiunea este intensă și controlul constant' - arbitrul Taylor se retrage",
@@ -1325,67 +1384,6 @@
       ],
       "data_publicare": "2026-07-15T09:10:56.191553+00:00",
       "data_afisaj": "15 iulie 2026, 12:10"
-    },
-    {
-      "id": "1accc564944a",
-      "titlu": "Arsenal a convenit o sumă pentru transferul lui Trossard la Beșiktaș",
-      "rezumat": "Arsenal a convenit o sumă de transfer de aproximativ 17 milioane de lire sterline (20 de milioane de euro) pentru a-l vinde pe atacantul belgian Leandro Trossard la Beșiktaș.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-14T17:57:32.890949+00:00",
-      "data_afisaj": "14 iulie 2026, 20:57"
-    },
-    {
-      "id": "eea6903f90a4",
-      "titlu": "Franța vs Spania: Semifinala Cupei Mondiale 2026 – live",
-      "rezumat": "⚽ Ora de start: 14:00 locală/15:00 EST/20:00 BST/5:00 AEST ⚽ Ghidul jucătorilor | Gheata de Aur | Football Daily | Mail Scott Spania rămâne neschimbată după victoria împotriva Belgiei. Mikel Merino, super-rezerva decisivă în ambele runde anterioare, trebuie din nou să se mulțumească cu un loc pe bancă, în timp ce Fabian Ruiz este preferat în fața lui Pedri la mijlocul terenului. Franța face două modificări în echipa care a început victoria împotriva Marocului. Aurélien Tchouaméni revine după accidentare pentru a-l înlocui pe Manu Koné la mijlocul terenului, î",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-07-14T17:57:32.892130+00:00",
-      "data_afisaj": "14 iulie 2026, 20:57"
-    },
-    {
-      "id": "514a124ff82c",
-      "titlu": "De ce Argentina cântă despre Anglia și Insulele Falkland?",
-      "rezumat": "În timp ce Anglia vede Argentina ca rivali fotbalistici, pentru Argentina rivalitatea este mult mai mult de atât.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-14T17:57:32.893207+00:00",
-      "data_afisaj": "14 iulie 2026, 20:57"
-    },
-    {
-      "id": "81f795c04d6c",
-      "titlu": "Anglia va decide în ultimul moment dacă Rice va juca în semifinala Cupei Mondiale",
-      "rezumat": "Anglia va lua o decizie în ultimul moment dacă Declan Rice este apt să înceapă semifinala Cupei Mondiale de miercuri împotriva Argentinei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-14T17:57:32.894328+00:00",
-      "data_afisaj": "14 iulie 2026, 20:57"
-    },
-    {
-      "id": "10637d32f116",
-      "titlu": "Man Utd îl transferă pe Tielemans pentru 35 de milioane de lire sterline de la Aston Villa",
-      "rezumat": "Manchester United finalizează transferul lui Youri Tielemans de la Aston Villa pe o perioadă de cinci ani.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-14T17:57:32.895444+00:00",
-      "data_afisaj": "14 iulie 2026, 20:57"
     }
   ]
 }
