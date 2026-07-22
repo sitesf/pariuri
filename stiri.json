@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-21T18:12:12.521797+00:00",
-  "updated_at_afisaj": "21 iulie 2026, 21:12",
+  "updated_at": "2026-07-22T09:29:02.886215+00:00",
+  "updated_at_afisaj": "22 iulie 2026, 12:29",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,65 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 119,
+  "numar_stiri": 120,
   "stiri": [
+    {
+      "id": "da13e91154fe",
+      "titlu": "Antrenorul Liverpool, Iraola, dorește ca Mac Allister și Alisson să rămână la club",
+      "rezumat": "Antrenorul principal al echipei Liverpool, Andoni Iraola, a declarat că își dorește ca mijlocașul Alexis Mac Allister și portarul Alisson Becker să continue la club. Declarația vine în contextul speculațiilor privind viitorul jucătorilor cheie și subliniază importanța pe care tehnicianul o acordă stabilității lotului pentru sezoanele viitoare. Ambii jucători sunt considerați piloni ai echipei, iar menținerea lor este crucială pentru obiectivele sportive ale clubului, consolidând strategia pe termen lung a formației. Această poziție fermă a antrenorului vizează evitarea oricăror plecări neașteptate.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-22T09:29:02.880903+00:00",
+      "data_afisaj": "22 iulie 2026, 12:29"
+    },
+    {
+      "id": "8041ccdd7b15",
+      "titlu": "Arsenal o transferă pe portarul spaniol Misa Rodriguez, liberă de contract",
+      "rezumat": "Clubul Arsenal a anunțat achiziționarea portarului spaniol Misa Rodriguez, care sosește liberă de contract. Aceasta reprezintă a șasea semnare a verii pentru echipa feminină din Women's Super League. Transferul subliniază intenția clubului de a-și consolida lotul înaintea noului sezon, aducând o jucătoare cu experiență internațională, care a reprezentat Spania. Misa Rodriguez va aduce un plus de valoare și concurență în poarta echipei londoneze, contribuind la ambițiile de performanță ale clubului în competițiile interne și europene.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-22T09:29:02.882145+00:00",
+      "data_afisaj": "22 iulie 2026, 12:29"
+    },
+    {
+      "id": "0995db7eec39",
+      "titlu": "Bournemouth a respins o ofertă de 64 de milioane de lire sterline de la Chelsea pentru Alex Scott",
+      "rezumat": "Clubul Bournemouth a refuzat o ofertă de 64 de milioane de lire sterline din partea Chelsea pentru mijlocașul Alex Scott. Decizia vine după ce jucătorul a respins o propunere de prelungire a contractului cu Bournemouth, atrăgând un interes crescut din partea mai multor cluburi din Premier League. Suma considerabilă arată valoarea atribuită jucătorului pe piața transferurilor, iar refuzul Bournemouth indică dorința clubului de a-l păstra sau de a obține o sumă și mai mare în viitor, în ciuda interesului puternic.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-22T09:29:02.883428+00:00",
+      "data_afisaj": "22 iulie 2026, 12:29"
+    },
+    {
+      "id": "557948924312",
+      "titlu": "Newcastle cere 80 de milioane de lire sterline pentru Bruno Guimaraes, ținta lui Arsenal",
+      "rezumat": "Clubul Newcastle United este nemulțumit de insistența celor de la Arsenal pentru transferul mijlocașului Bruno Guimaraes și va lua în considerare vânzarea acestuia doar pentru o sumă de peste 80 de milioane de lire sterline. Potrivit reporterului Sky Sports News, Keith Downie, Newcastle dorește să-și păstreze jucătorul cheie, dar este pregătit să negocieze la o evaluare financiară semnificativă. Această cerere ridicată reflectă importanța lui Guimaraes pentru planurile echipei și determinarea clubului de a nu-l ceda ușor, consolidându-și poziția în negocieri.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-22T09:29:02.884844+00:00",
+      "data_afisaj": "22 iulie 2026, 12:29"
+    },
+    {
+      "id": "f3ad8c685195",
+      "titlu": "Morgan Rogers se alătură echipei Chelsea într-un transfer record de 117 milioane de lire sterline",
+      "rezumat": "Internaționalul englez Morgan Rogers a semnat cu Chelsea un contract pe șapte ani, devenind cel mai scump transfer din istoria clubului, pentru o sumă de 117 milioane de lire sterline de la Aston Villa. Acordul a fost finalizat sâmbătă, Chelsea reușind să-l achiziționeze pe jucătorul de 23 de ani înaintea lui Arsenal, care fusese anterior în discuții avansate. Rogers a declarat că este entuziasmat să se alăture \"celui mai mare club din Londra\", subliniind ambițiile sale și ale noii sale echipe pentru viitorul fotbalistic.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-22T09:29:02.886200+00:00",
+      "data_afisaj": "22 iulie 2026, 12:29"
+    },
     {
       "id": "c545beabd5fc",
       "titlu": "Președintele La Liga și Sepp Blatter cer demisia lui Gianni Infantino de la FIFA",
@@ -1340,50 +1397,6 @@
       ],
       "data_publicare": "2026-07-15T10:01:28.733710+00:00",
       "data_afisaj": "15 iulie 2026, 13:01"
-    },
-    {
-      "id": "17cb548f9ee3",
-      "titlu": "FIFA a trimis acasă doi jucători englezi de la Cupa Mondială",
-      "rezumat": "Doi reprezentanți ai Premier League, care făceau parte din lotul Angliei la Cupa Mondială din 2026, au fost trimiși acasă de FIFA, conform informațiilor. Decizia, a cărei natură exactă nu a fost detaliată imediat, înseamnă că serviciile lor nu mai sunt necesare pentru restul competiției. Acest eveniment neașteptat ridică semne de întrebare cu privire la motivele din spatele acțiunii FIFA și la impactul potențial asupra moralului și strategiei echipei Angliei înaintea meciurilor decisive.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-07-15T09:10:56.186686+00:00",
-      "data_afisaj": "15 iulie 2026, 12:10"
-    },
-    {
-      "id": "a5e8660556ad",
-      "titlu": "Manchester United este aproape de a vinde-o pe Melvine Malard la Chelsea, într-un transfer record",
-      "rezumat": "Manchester United este pe punctul de a finaliza un acord pentru vânzarea atacantei franceze Melvine Malard către Chelsea, într-o tranzacție care ar putea stabili un nou record de vânzare pentru club. Suma de transfer este estimată la aproximativ 850.000 de lire sterline, deși unele surse sugerează o cifră mai apropiată de 750.000 de lire sterline. Discuțiile se află în stadiul final, iar mutarea este așteptată să se concretizeze în curând, marcând o mișcare importantă pe piața transferurilor din fotbalul feminin.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-15T09:10:56.188429+00:00",
-      "data_afisaj": "15 iulie 2026, 12:10"
-    },
-    {
-      "id": "470730b054cc",
-      "titlu": "Youri Tielemans vizează „cele mai mari trofee” după transferul la Manchester United",
-      "rezumat": "Mijlocașul Youri Tielemans a declarat că își dorește să ajute Manchester United să lupte pentru „cele mai mari trofee” după ce a finalizat transferul său de la Aston Villa pentru aproximativ 35 de milioane de lire sterline. Jucătorul în vârstă de 29 de ani a semnat un contract pe cinci ani și se alătură lui Andrey Santos, un alt mijlocaș recent achiziționat de United. Declarațiile sale subliniază ambițiile clubului și ale jucătorului pentru sezonul viitor, indicând o dorință clară de succes la noul său club.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-15T09:10:56.190051+00:00",
-      "data_afisaj": "15 iulie 2026, 12:10"
-    },
-    {
-      "id": "0c9ebacde240",
-      "titlu": "Didier Deschamps va disputa meciul de adio într-un context nedorit",
-      "rezumat": "Cariera lungă și ilustră a lui Didier Deschamps la cârma naționalei Franței se va încheia într-un mod pe care nu și l-ar fi dorit: în meciul pentru locul trei la Cupa Mondială. Deși a declarat că este „extrem de fericit”, contextul este unul amar, venind după eliminarea din semifinale. Această partidă va marca finalul unei ere pentru selecționerul francez, care a avut un impact semnificativ asupra echipei, dar nu cu finalul glorios dorit.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-15T09:10:56.191553+00:00",
-      "data_afisaj": "15 iulie 2026, 12:10"
     }
   ]
 }
