@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-22T17:24:12.520100+00:00",
-  "updated_at_afisaj": "22 iulie 2026, 20:24",
+  "updated_at": "2026-07-22T18:05:20.780601+00:00",
+  "updated_at_afisaj": "22 iulie 2026, 21:05",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,43 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 118,
+  "numar_stiri": 116,
   "stiri": [
+    {
+      "id": "16d8ba0bd7d7",
+      "titlu": "Fostul mijlocaș al lui Manchester United, Casemiro, se alătură echipei Inter Miami, pe fondul unei investigații MLS",
+      "rezumat": "Mijlocașul brazilian Casemiro, fost jucător emblematic al lui Manchester United și Real Madrid, a semnat un contract cu clubul Inter Miami din Major League Soccer. Transferul marchează o nouă etapă în cariera experimentatului fotbalist, însă Major League Soccer a anunțat o investigație privind posibile nereguli în procesul de achiziție a jucătorului. Casemiro a semnat un contract pe un an, cu opțiune de prelungire, valabil până la finalul sezonului de primăvară din 2027, aducând o experiență valoroasă în campionatul nord-american.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-22T18:05:20.776857+00:00",
+      "data_afisaj": "22 iulie 2026, 21:05"
+    },
+    {
+      "id": "7220ec0e8b64",
+      "titlu": "Exod masiv la echipa feminină a Barcelonei, campioana Europei",
+      "rezumat": "Echipa feminină a Barcelonei, deținătoarea titlului de campioană a Europei, se confruntă cu un exod semnificativ de jucătoare în această vară. Șapte fotbaliste cheie, inclusiv nume importante precum Putellas, Batlle și León, au părăsit clubul, în timp ce singura sosire este Renee van Asten, în vârstă de 19 ani, de la Ajax. Această situație este atribuită dificultăților financiare ale clubului, influențate de problemele de fair-play financiar ale echipei masculine, punând sub semnul întrebării viitorul imediat al dominatoarelor Europei în competițiile continentale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-22T18:05:20.778925+00:00",
+      "data_afisaj": "22 iulie 2026, 21:05"
+    },
+    {
+      "id": "856e3784250d",
+      "titlu": "Echipa națională de fotbal a Angliei pentru amputați nu își permite deplasarea la Cupa Mondială",
+      "rezumat": "Echipa masculină de fotbal a Angliei pentru amputați, deținătoare a trofeului Nations League în 2023, se confruntă cu dificultăți financiare majore, neputând strânge cele 50.000 de lire sterline necesare pentru a participa la Cupa Mondială din Mexic, programată în noiembrie. În ciuda succeselor recente, echipa nu beneficiază de finanțare națională, iar Federația Engleză de Fotbal (FA) nu oferă sprijin, ridicând semne de întrebare cu privire la angajamentul față de toate echipele naționale și la egalitatea de șanse în sport.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-22T18:05:20.780583+00:00",
+      "data_afisaj": "22 iulie 2026, 21:05"
+    },
     {
       "id": "ca658ed8c34e",
       "titlu": "Antrenorul lui Southampton, Eckert, acuzat de FA în scandalul Spygate",
@@ -1316,66 +1351,6 @@
       ],
       "data_publicare": "2026-07-16T09:18:35.139980+00:00",
       "data_afisaj": "16 iulie 2026, 12:18"
-    },
-    {
-      "id": "44bdbdf37820",
-      "titlu": "Anglia v Argentina: semifinala Cupei Mondiale 2026 – în direct",
-      "rezumat": "⚽ Start in Atlanta is 3pm EST/8pm BST/5am AEST ⚽ Golden Boot | Ghidul jucătorului | And get Football Daily England’s defenders will face an extreme challenge when they come up against Lionel Messi in their World Cup semi-final. It is not just that he is the greatest player of all time but the almost unique way in which he plays. The 39-year-old is renowned for ambling around for much of a game, saving his energy for when truly required. It makes him incredibly difficult to defend against. Messi fin",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-07-15T18:00:59.389026+00:00",
-      "data_afisaj": "15 iulie 2026, 21:00"
-    },
-    {
-      "id": "af501304755a",
-      "titlu": "Headers caused Stiles' brain disease, coroner finds",
-      "rezumat": "Câștigătorul Cupei Mondiale din Anglia 1966, Nobby Stiles, a murit cu o afecțiune cauzată de lovirea mingii de minge, concluzionează ancheta sa.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-15T18:00:59.390152+00:00",
-      "data_afisaj": "15 iulie 2026, 21:00"
-    },
-    {
-      "id": "4e68fb24e25a",
-      "titlu": "Spain into World Cup final with victory over France",
-      "rezumat": "Spain are into the 2026 World Cup final after goals from Mikel Oyarzabal and Pedro Porro see them convincingly beat France 2-0 in their semi-final in Dallas.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-15T18:00:59.391221+00:00",
-      "data_afisaj": "15 iulie 2026, 21:00"
-    },
-    {
-      "id": "2708c2f329ac",
-      "titlu": "🚨 LIVE Universitatea Craiova – ML Vitebsk 0-0, Live Text Online, în manșa secundă a turului 1 preliminar din Liga Campionilor. Mingea șutată de Mora atinge bara",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-07-15T18:00:59.392908+00:00",
-      "data_afisaj": "15 iulie 2026, 21:00"
-    },
-    {
-      "id": "a85c54059b34",
-      "titlu": "England's biggest match since 1966 as Three Lions close in on immortality",
-      "rezumat": "England face Argentina in the World Cup semi-finals on Wednesday - and BBC Sport's Phil McNulty explains why it is the Three Lions' biggest match since 1966.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-15T18:00:59.394023+00:00",
-      "data_afisaj": "15 iulie 2026, 21:00"
     }
   ]
 }
