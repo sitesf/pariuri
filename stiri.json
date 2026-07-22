@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-22T10:24:23.431797+00:00",
-  "updated_at_afisaj": "22 iulie 2026, 13:24",
+  "updated_at": "2026-07-22T17:24:12.520100+00:00",
+  "updated_at_afisaj": "22 iulie 2026, 20:24",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,56 @@
   },
   "numar_stiri": 118,
   "stiri": [
+    {
+      "id": "ca658ed8c34e",
+      "titlu": "Antrenorul lui Southampton, Eckert, acuzat de FA în scandalul Spygate",
+      "rezumat": "Antrenorul principal al echipei Southampton, Tonda Eckert, a fost acuzat oficial de Asociația de Fotbal (FA) pentru implicarea sa în scandalul cunoscut sub numele de \"Spygate\". Acuzația se referă la rolul său în incidentele care au generat controverse în lumea fotbalului englez. Detaliile exacte ale implicării sale și consecințele potențiale ale acestei acuzații urmează să fie clarificate pe parcursul investigației. Acest caz aduce în prim plan etica și regulamentele în sportul profesionist.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-22T17:24:12.516022+00:00",
+      "data_afisaj": "22 iulie 2026, 20:24"
+    },
+    {
+      "id": "37726719b15c",
+      "titlu": "Liverpool impune interdicții pe viață după confiscarea a 1,2 milioane de lire sterline de la vânzătorii ilegali de bilete",
+      "rezumat": "Clubul Liverpool a emis sute de interdicții pe viață pentru fanii implicați în vânzarea ilegală de bilete, după ce poliția a confiscat bunuri în valoare de peste 1,2 milioane de lire sterline legate de această activitate. Măsurile drastice vin ca răspuns la eforturile continue de a combate piața neagră a biletelor, care afectează atât clubul, cât și suporterii onești. Această acțiune subliniază angajamentul clubului de a proteja integritatea experienței meciurilor și de a asigura un acces echitabil la evenimente.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-22T17:24:12.517405+00:00",
+      "data_afisaj": "22 iulie 2026, 20:24"
+    },
+    {
+      "id": "13f121effd5b",
+      "titlu": "Derek McInnes, suspendat patru meciuri pentru comentarii despre un penalty acordat lui Celtic",
+      "rezumat": "Antrenorul echipei Rangers, Derek McInnes, a primit o suspendare de patru meciuri de pe margine, dintre care unul este cu suspendare, în urma declarațiilor sale controversate. Sancțiunea vine după ce McInnes a calificat drept \"dezgustătoare\" decizia de a acorda un penalty târziu echipei Celtic într-un meci împotriva lui Motherwell, pe când era antrenor la Hearts. Această decizie subliniază rigorile regulamentelor privind comportamentul antrenorilor față de arbitraj în fotbalul scoțian.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-22T17:24:12.518581+00:00",
+      "data_afisaj": "22 iulie 2026, 20:24"
+    },
+    {
+      "id": "c08fce4deb1f",
+      "titlu": "Phil Foden semnează un nou contract pe patru ani cu Manchester City",
+      "rezumat": "Mijlocașul englez Phil Foden a semnat un nou contract pe o perioadă de patru ani cu Manchester City, prelungindu-și astfel șederea la club până în anul 2030. Această înțelegere confirmă angajamentul pe termen lung al jucătorului față de echipa la care s-a format și a devenit un element cheie. Noul contract reflectă importanța lui Foden în planurile viitoare ale clubului și recunoaște contribuțiile sale semnificative la succesele recente ale \"Cetățenilor\".",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-22T17:24:12.519728+00:00",
+      "data_afisaj": "22 iulie 2026, 20:24"
+    },
     {
       "id": "6fbe5d60cbad",
       "titlu": "Enzo Fernandez apără prestația Argentinei la Cupa Mondială, în ciuda investigației FIFA",
@@ -1326,52 +1376,6 @@
       ],
       "data_publicare": "2026-07-15T18:00:59.394023+00:00",
       "data_afisaj": "15 iulie 2026, 21:00"
-    },
-    {
-      "id": "5573e06defd0",
-      "titlu": "Decesul lui Nobby Stiles, legat de loviturile de cap repetate în fotbal",
-      "rezumat": "Un medic legist a concluzionat că Nobby Stiles, câștigător al Cupei Mondiale cu Anglia în 1966, a murit din cauza unei afecțiuni cerebrale cauzate de loviturile repetate de cap aplicate mingii de fotbal. Această constatare subliniază preocupările tot mai mari privind impactul pe termen lung al jocului aerian asupra sănătății cerebrale a fotbaliștilor, aducând în discuție necesitatea unor măsuri suplimentare de protecție în sport, pentru a preveni astfel de tragedii în viitor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-15T17:21:03.265312+00:00",
-      "data_afisaj": "15 iulie 2026, 20:21"
-    },
-    {
-      "id": "cc476ca48906",
-      "titlu": "FIFA, vizată de o ordonanță judecătorească în Germania privind prețurile de revânzare a biletelor la Cupa Mondială",
-      "rezumat": "FIFA a fost lovită de o ordonanță judecătorească preliminară emisă de un tribunal german, care îi solicită să înceteze „procesele manipulative” în vânzarea biletelor la Cupa Mondială. Decizia vine în urma unei cereri din partea Ticombo, un site de revânzare a biletelor, și impune FIFA să fie mai transparentă în privința vânzărilor secundare, inclusiv prin divulgarea identității vânzătorilor și a comisioanelor percepute, pentru a asigura o piață echitabilă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-15T17:21:03.267035+00:00",
-      "data_afisaj": "15 iulie 2026, 20:21"
-    },
-    {
-      "id": "ef8755acd2d3",
-      "titlu": "Sunderland îl transferă pe fundașul belgian Thomas Meunier",
-      "rezumat": "Clubul Sunderland a anunțat transferul experimentatului fundaș belgian Thomas Meunier. Jucătorul se alătură echipei după încheierea contractului său cu Lille. Meunier, care a reprezentat Belgia la Cupa Mondială, aduce o experiență valoroasă în defensiva lui Sunderland, fiind o achiziție importantă pentru sezonul viitor. Transferul său este văzut ca o mișcare strategică pentru a consolida echipa și a-i îmbunătăți performanțele.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-15T17:21:03.268310+00:00",
-      "data_afisaj": "15 iulie 2026, 20:21"
-    },
-    {
-      "id": "30d8de4b2e30",
-      "titlu": "London City Lionesses surprinde prin campania de transferuri ambițioasă în fotbalul feminin",
-      "rezumat": "Clubul London City Lionesses, care a terminat în jumătatea inferioară a ligii secunde în urmă cu doi ani, a atras atenția în fotbalul feminin prin achizițiile spectaculoase din această vară. Echipa a semnat nume mari, inclusiv vedete spaniole precum Alexia Putellas și Mapi León, precum și fosta portăriță a Angliei, Mary Earps. Această campanie de transferuri indică o investiție semnificativă și o ambiție crescută pentru club, sugerând o schimbare de forță în peisajul fotbalului feminin.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-15T17:21:03.269759+00:00",
-      "data_afisaj": "15 iulie 2026, 20:21"
     }
   ]
 }
