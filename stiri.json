@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-22T09:29:02.886215+00:00",
-  "updated_at_afisaj": "22 iulie 2026, 12:29",
+  "updated_at": "2026-07-22T10:24:23.431797+00:00",
+  "updated_at_afisaj": "22 iulie 2026, 13:24",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,31 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 120,
+  "numar_stiri": 118,
   "stiri": [
+    {
+      "id": "6fbe5d60cbad",
+      "titlu": "Enzo Fernandez apără prestația Argentinei la Cupa Mondială, în ciuda investigației FIFA",
+      "rezumat": "Mijlocașul argentinian Enzo Fernandez a declarat că echipa națională a reprezentat Argentina \"în cel mai bun mod posibil\" la recenta Cupă Mondială. Comentariile sale vin în contextul în care FIFA a confirmat că va investiga comportamentul echipei Argentinei după finala competiției. Fernandez a subliniat mândria și umilința cu care jucătorii au abordat turneul, respingând criticile legate de atitudinea lor post-finală și apărând integritatea reprezentării naționale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-22T10:24:23.430544+00:00",
+      "data_afisaj": "22 iulie 2026, 13:24"
+    },
+    {
+      "id": "11d1f39f6156",
+      "titlu": "Haos la antrenamentele Wolves, după ce Tolu Arokodare a sfidat interdicția clubului",
+      "rezumat": "Antrenamentele echipei Wolverhampton Wanderers au fost anulate pe fondul haosului generat de atacantul Tolu Arokodare, care a sfidat o interdicție impusă de club. Incidentul a dus la măsuri suplimentare de securitate la centrul de antrenament Compton Park și plasează clubul într-o situație delicată, riscând să devină un caz de test pentru noile reglementări de transfer ale FIFA. Situația subliniază tensiunile interne și posibilele consecințe disciplinare pentru club și jucător.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-07-22T10:24:23.431777+00:00",
+      "data_afisaj": "22 iulie 2026, 13:24"
+    },
     {
       "id": "da13e91154fe",
       "titlu": "Antrenorul Liverpool, Iraola, dorește ca Mac Allister și Alisson să rămână la club",
@@ -1349,54 +1372,6 @@
       ],
       "data_publicare": "2026-07-15T17:21:03.269759+00:00",
       "data_afisaj": "15 iulie 2026, 20:21"
-    },
-    {
-      "id": "6cbafbcb17cd",
-      "titlu": "Toate golurile Angliei de la Cupa Mondială 2026 până în prezent",
-      "rezumat": "Pe măsură ce Anglia se pregătește să înfrunte Norvegia în sferturile de finală ale Cupei Mondiale de la Miami Stadium, fanii pot revedea toate golurile care au adus echipa lui Thomas Tuchel în această fază a competiției. Această retrospectivă oferă o imagine completă a parcursului ofensiv al \"celor Trei Lei\" și a contribuțiilor individuale care au propulsat echipa mai departe în turneu.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-07-15T10:01:28.729426+00:00",
-      "data_afisaj": "15 iulie 2026, 13:01"
-    },
-    {
-      "id": "06483b33c8dc",
-      "titlu": "Cum a reușit Argentina să obțină cele mai bune performanțe de la Messi",
-      "rezumat": "Guillem Balague analizează modul în care echipa Argentinei este construită în jurul lui Lionel Messi, pe măsură ce se pregătesc să joace împotriva Angliei în semifinalele Cupei Mondiale. Strategia echipei, bazată pe libertatea de mișcare a căpitanului și pe sprijinul colegilor, a permis lui Messi să își maximizeze impactul, transformând Argentina într-o forță redutabilă în competiție.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-15T10:01:28.730828+00:00",
-      "data_afisaj": "15 iulie 2026, 13:01"
-    },
-    {
-      "id": "0d247d4b5faf",
-      "titlu": "Scaloni despre rivalitatea Anglia-Argentina: „Nu ar trebui să amestecăm politica și fotbalul”",
-      "rezumat": "Selecționerul Argentinei, Lionel Scaloni, a declarat că nu va amesteca fotbalul cu politica înaintea semifinalei Cupei Mondiale împotriva Angliei. Declarația vine în contextul unei rivalități istorice, adesea încărcate de tensiuni extra-sportive. Scaloni a subliniat importanța de a se concentra exclusiv pe aspectele sportive ale meciului, îndemnând la o abordare neutră și la respectarea spiritului jocului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-15T10:01:28.732351+00:00",
-      "data_afisaj": "15 iulie 2026, 13:01"
-    },
-    {
-      "id": "39cd9fb0839f",
-      "titlu": "Bournemouth în discuții pentru transferul fundașului Antonio Silva de la Benfica",
-      "rezumat": "Clubul Bournemouth a inițiat negocieri pentru a-l aduce pe fundașul portughez Antonio Silva de la Benfica. Silva este vizat ca un potențial înlocuitor pentru Marcos Senesi. Această mutare ar putea reprezenta o întărire semnificativă pentru apărarea echipei engleze, demonstrând ambițiile clubului de a-și consolida lotul cu jucători de perspectivă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-15T10:01:28.733710+00:00",
-      "data_afisaj": "15 iulie 2026, 13:01"
     }
   ]
 }
