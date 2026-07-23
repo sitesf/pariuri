@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-23T10:21:46.737993+00:00",
-  "updated_at_afisaj": "23 iulie 2026, 13:21",
+  "updated_at": "2026-07-23T17:25:23.412634+00:00",
+  "updated_at_afisaj": "23 iulie 2026, 20:25",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,58 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 116,
+  "numar_stiri": 117,
   "stiri": [
+    {
+      "id": "ae2d2c1a2496",
+      "titlu": "Arsenal îl transferă pe atacantul grec Christos Tzolis pentru 34 de milioane de lire sterline",
+      "rezumat": "Clubul Arsenal a anunțat achiziționarea atacantului Christos Tzolis de la Club Brugge, într-o tranzacție evaluată la 34 de milioane de lire sterline. Jucătorul grec, descris ca fiind un fotbalist ofensiv extrem de versatil, a semnat un contract pe cinci ani cu echipa londoneză. Acest transfer marchează o nouă investiție semnificativă a clubului Arsenal în consolidarea lotului, aducând un talent promițător care ar putea contribui la obiectivele echipei în sezoanele următoare. Știrea a fost confirmată de multiple surse de presă sportivă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-23T17:25:23.409542+00:00",
+      "data_afisaj": "23 iulie 2026, 20:25"
+    },
+    {
+      "id": "636b6e926658",
+      "titlu": "Norvegia ia în considerare o plângere la FIFA privind suspendarea lui Balogun de la Cupa Mondială",
+      "rezumat": "Federația Norvegiană de Fotbal analizează posibilitatea de a depune o plângere oficială la comisia de etică a FIFA. Decizia vine în urma unei controverse legate de suspendarea jucătorului Balogun de la Cupa Mondială, o măsură care a stârnit nemulțumire în rândul oficialilor norvegieni. Această acțiune subliniază preocupările Norvegiei cu privire la corectitudinea și transparența deciziilor disciplinare la nivel internațional, în contextul unui eveniment fotbalistic major. Detaliile exacte ale motivelor plângerii nu au fost încă făcute publice.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-23T17:25:23.410644+00:00",
+      "data_afisaj": "23 iulie 2026, 20:25"
+    },
+    {
+      "id": "7aac909e4bcd",
+      "titlu": "Cluburile de fotbal, îndemnate să contribuie mai mult la costurile de securitate",
+      "rezumat": "Cluburile de fotbal sunt solicitate să contribuie într-o măsură mai mare la acoperirea costurilor serviciilor de poliție necesare pentru asigurarea ordinii la meciuri. Această cerere vine în contextul publicării cifrelor privind incidentele din sezonul 2025-2026, care indică o povară financiară semnificativă asupra contribuabililor. Autoritățile doresc ca echipele să preia o parte mai mare din aceste cheltuieli, argumentând că evenimentele sportive generează profituri considerabile și ar trebui să suporte o responsabilitate sporită pentru siguranța publică. Inițiativa vizează o distribuție mai echitabilă a costurilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-23T17:25:23.411638+00:00",
+      "data_afisaj": "23 iulie 2026, 20:25"
+    },
+    {
+      "id": "5c9176eaec9f",
+      "titlu": "Elliot Anderson devine cel mai scump transfer din istoria lui Manchester City",
+      "rezumat": "Mijlocașul englez Elliot Anderson, o figură cheie în echipa Angliei la Cupa Mondială, a fost transferat la Manchester City într-o tranzacție record de 116 milioane de lire sterline de la Nottingham Forest. Jucătorul în vârstă de 23 de ani a semnat un contract pe cinci ani, fiind considerat un viitor mijlocaș complet. Anderson a declarat că Manchester City este „regele Manchesterului” și că dorește să facă parte dintr-o echipă „neînduplecată și câștigătoare”. Acest transfer subliniază ambițiile clubului de a-și consolida poziția dominantă în fotbalul englez.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-23T17:25:23.412620+00:00",
+      "data_afisaj": "23 iulie 2026, 20:25"
+    },
     {
       "id": "add1b6c6c323",
       "titlu": "De ce sunt mijlocașii englezi la mare căutare pe piața transferurilor?",
@@ -1316,39 +1366,6 @@
       ],
       "data_publicare": "2026-07-16T17:59:44.134756+00:00",
       "data_afisaj": "16 iulie 2026, 20:59"
-    },
-    {
-      "id": "96aea772c71e",
-      "titlu": "Aproape Un Sfert Dintre Meciurile Cupei Mondiale S-au Jucat în Condiții de Căldură Periculoase",
-      "rezumat": "O analiză realizată de The Guardian a relevat că aproape 19% dintre meciurile Cupei Mondiale din acest an s-au desfășurat în condiții de căldură și umiditate care, conform avertismentelor unui sindicat al jucătorilor, ar fi trebuit să ducă la amânări sau reprogramări. Această situație ridică semne de întrebare privind siguranța jucătorilor și măsurile de protecție implementate de FIFA, pe fondul crizei climatice globale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-16T17:22:59.943592+00:00",
-      "data_afisaj": "16 iulie 2026, 20:22"
-    },
-    {
-      "id": "d2d1100a34bf",
-      "titlu": "Manchester United Îl Transferă pe Andrey Santos de la Chelsea pentru 48 de Milioane de Lire Sterline",
-      "rezumat": "Manchester United a finalizat transferul mijlocașului brazilian Andrey Santos de la Chelsea pentru o sumă de 48 de milioane de lire sterline. Această achiziție reprezintă prima semnare a antrenorului Michael Carrick și vine ca o soluție pentru întărirea liniei de mijloc, în special după plecarea lui Casemiro și accidentarea pe termen lung a lui Manuel Ugarte. Transferul a fost o surpriză pentru mulți, dar este binevenit de fanii \"Diavolilor Roșii\".",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-16T17:22:59.945258+00:00",
-      "data_afisaj": "16 iulie 2026, 20:22"
-    },
-    {
-      "id": "2637fb45087e",
-      "titlu": "Arsenal A Ajuns la Un Acord Pentru Transferul Aripului Grec Christos Tzolis",
-      "rezumat": "Arsenal a convenit un acord cu Club Brugge pentru transferul aripului grec Christos Tzolis, conform informațiilor obținute de Sky Sports News. Suma tranzacției se ridică la 34 de milioane de lire sterline. Această mutare marchează o achiziție importantă pentru \"Tunari\" în perioada de transferuri de vară, aducând un nou talent ofensiv în echipa recent campioană a Premier League.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-16T17:22:59.946748+00:00",
-      "data_afisaj": "16 iulie 2026, 20:22"
     }
   ]
 }
