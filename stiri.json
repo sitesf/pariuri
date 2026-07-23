@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-23T17:25:23.412634+00:00",
-  "updated_at_afisaj": "23 iulie 2026, 20:25",
+  "updated_at": "2026-07-23T18:08:43.090021+00:00",
+  "updated_at_afisaj": "23 iulie 2026, 21:08",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,30 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 117,
+  "numar_stiri": 115,
   "stiri": [
+    {
+      "id": "83a506af136d",
+      "titlu": "Rodri va suferi o intervenție chirurgicală la spate și ar putea rata începutul sezonului Premier League",
+      "rezumat": "Mijlocașul lui Manchester City, Rodri, câștigător al Cupei Mondiale, va fi supus unei intervenții chirurgicale minore la spate, ceea ce ar putea însemna că va rata începutul sezonului Premier League. Această veste reprezintă o lovitură pentru campioana en-titre, având în vedere importanța jucătorului spaniol în strategia echipei. Perioada de recuperare va determina exact cât timp va lipsi de pe teren, dar absența sa inițială va necesita ajustări tactice din partea antrenorului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-23T18:08:43.087406+00:00",
+      "data_afisaj": "23 iulie 2026, 21:08"
+    },
+    {
+      "id": "d2a2b0fb3b19",
+      "titlu": "Adolescentul Gabriel, în vârstă de 15 ani, convocat pentru prima dată la echipa de seniori a lui Man Utd",
+      "rezumat": "Tânărul jucător al lui Manchester United, JJ Gabriel, în vârstă de doar 15 ani, ar putea debuta la echipa de seniori vineri, după ce a fost convocat pentru meciul amical împotriva echipei Rosenborg. Această convocare reprezintă o recunoaștere timpurie a talentului și potențialului său, oferindu-i o șansă rară de a se antrena și, posibil, de a juca alături de fotbaliști experimentați. Este un moment important în cariera sa incipientă și un semn al încrederii clubului în dezvoltarea tinerilor săi jucători.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-23T18:08:43.090002+00:00",
+      "data_afisaj": "23 iulie 2026, 21:08"
+    },
     {
       "id": "ae2d2c1a2496",
       "titlu": "Arsenal îl transferă pe atacantul grec Christos Tzolis pentru 34 de milioane de lire sterline",
@@ -1320,52 +1342,6 @@
       ],
       "data_publicare": "2026-07-17T09:11:42.773256+00:00",
       "data_afisaj": "17 iulie 2026, 12:11"
-    },
-    {
-      "id": "442f672b5fe9",
-      "titlu": "Lupta pentru Gheata de Aur la Cupa Mondială 2026: Cine sunt principalii marcatori?",
-      "rezumat": "Competiția pentru titlul de golgheter al Cupei Mondiale 2026 se intensifică, cu mai mulți jucători de top luptând pentru Gheata de Aur. Clasamentul este actualizat constant pe parcursul turneului, iar asistențele sunt folosite ca criteriu de departajare în caz de egalitate la numărul de goluri. Printre participanții la ediția din 2026 se numără trei foști câștigători ai trofeului: Kylian Mbappé (Franța, opt goluri în 2022), Harry Kane (Anglia, șase goluri în 2018) și James Rodríguez (Columbia, șase goluri în 2014), aceștia fiind printre favoriți.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-07-16T17:59:44.130845+00:00",
-      "data_afisaj": "16 iulie 2026, 20:59"
-    },
-    {
-      "id": "ef3c009f2f77",
-      "titlu": "Oliver Glasner, Noul Antrenor al Echipei Nottingham Forest",
-      "rezumat": "Oliver Glasner a fost numit noul antrenor al echipei Nottingham Forest, devenind al cincilea manager al clubului în mai puțin de un an. Austriacul a semnat un contract pe trei ani, având ca obiectiv principal aducerea stabilității și readucerea echipei în competițiile europene. Glasner a declarat că discuțiile cu proprietarul Evangelos Marinakis, care s-au desfășurat la Atena, l-au convins să preia postul, impresionându-l ambiția acestuia de a readuce \"dulcea miere\" a fotbalului european pe City Ground.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-16T17:59:44.132023+00:00",
-      "data_afisaj": "16 iulie 2026, 20:59"
-    },
-    {
-      "id": "378f1490fa6f",
-      "titlu": "Dominik Szoboszlai Semnează un Nou Contract cu Liverpool",
-      "rezumat": "Dominik Szoboszlai este pe punctul de a semna un nou contract pe termen lung cu Liverpool, o veste importantă pentru club și pentru noul antrenor principal, Andoni Iraola. Mijlocașul maghiar, considerat cel mai bun jucător al echipei în ultimul sezon, avea încă doi ani de contract, iar negocierile pentru prelungire au durat mai multe luni. Această înțelegere consolidează angajamentul lui Szoboszlai față de club și oferă stabilitate lotului înaintea noului sezon, fiind un impuls semnificativ pentru planurile lui Iraola.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-16T17:59:44.133545+00:00",
-      "data_afisaj": "16 iulie 2026, 20:59"
-    },
-    {
-      "id": "580f606bd5e2",
-      "titlu": "Tom Cruise Va Participa la Ceremonia de Închidere a Cupei Mondiale FIFA 2026",
-      "rezumat": "Actorul Tom Cruise va fi prezent la ceremonia de închidere a Cupei Mondiale FIFA 2026, un eveniment care promite să fie spectaculos. FIFA a confirmat includerea starului de la Hollywood în programul ceremoniei, stârnind curiozitatea publicului cu privire la rolul său. Această apariție marchează o premieră pentru o personalitate de calibrul lui Cruise la un astfel de eveniment sportiv major, subliniind eforturile organizatorilor de a oferi un spectacol memorabil la finalul turneului și de a atrage o audiență globală extinsă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-07-16T17:59:44.134756+00:00",
-      "data_afisaj": "16 iulie 2026, 20:59"
     }
   ]
 }
