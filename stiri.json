@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-22T18:05:20.780601+00:00",
-  "updated_at_afisaj": "22 iulie 2026, 21:05",
+  "updated_at": "2026-07-23T09:25:42.671665+00:00",
+  "updated_at_afisaj": "23 iulie 2026, 12:25",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,67 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 116,
+  "numar_stiri": 117,
   "stiri": [
+    {
+      "id": "d88ba60692cf",
+      "titlu": "William Saliba de la Arsenal va lipsi o perioadă extinsă din cauza unei accidentări la spate",
+      "rezumat": "Fundașul central al lui Arsenal, William Saliba, va fi indisponibil pentru o perioadă prelungită, după ce a suferit o accidentare la spate în timpul participării sale cu echipa națională a Franței la Cupa Mondială. Clubul londonez a confirmat diagnosticul, care reprezintă o lovitură semnificativă pentru planurile echipei în debutul noului sezon. Saliba este un jucător cheie în defensiva \"tunarilor\", iar absența sa va necesita ajustări tactice din partea antrenorului Mikel Arteta.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-23T09:25:42.665169+00:00",
+      "data_afisaj": "23 iulie 2026, 12:25"
+    },
+    {
+      "id": "60913cbb5a76",
+      "titlu": "Fanii consideră Cupa Mondială găzduită de SUA, Mexic și Canada un \"succes surprinzător\"",
+      "rezumat": "Ediția recentă a Cupei Mondiale, găzduită de Statele Unite, Mexic și Canada, a fost percepută de fani ca un \"succes surprinzător\", depășind aspectele comerciale și prețurile ridicate. Entuziasmul și bucuria generate de suporteri au contribuit la o atmosferă vibrantă și plină de viață pe parcursul turneului. În ciuda unor îndoieli inițiale, fanii au simțit o energie pozitivă, în special odată cu sosirea numărului mare de suporteri scoțieni pentru meciul lor împotriva Haitiului, transformând evenimentul într-o experiență memorabilă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-23T09:25:42.666824+00:00",
+      "data_afisaj": "23 iulie 2026, 12:25"
+    },
+    {
+      "id": "cdfea6f7cd34",
+      "titlu": "Sumele plătite lui Shakira și Justin Bieber pentru a cânta la Cupa Mondială 2026 au fost dezvăluite",
+      "rezumat": "Detalii privind onorariile primite de artiștii Shakira și Justin Bieber pentru prestațiile lor muzicale la Campionatul Mondial de Fotbal din 2026 au ieșit la iveală. Această informație, confirmată de mai multe surse din presa românească, arată sumele considerabile alocate pentru divertismentul din cadrul evenimentului sportiv major. Publicul este acum conștient de costurile implicate în aducerea unor nume mari din industria muzicală la un eveniment de o asemenea anvergură globală, stârnind discuții despre prioritățile organizatorilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-07-23T09:25:42.668506+00:00",
+      "data_afisaj": "23 iulie 2026, 12:25"
+    },
+    {
+      "id": "c26953d8661f",
+      "titlu": "LNZ Cherkasy, o poveste de succes în fotbalul ucrainean pe timp de război",
+      "rezumat": "Clubul ucrainean LNZ Cherkasy a înregistrat o ascensiune remarcabilă, transformându-se dintr-o echipă de liga a patra în 2021 într-o participantă la calificările europene pentru prima dată în istoria sa. Această performanță este cu atât mai notabilă cu cât a fost realizată în contextul războiului cu Rusia. Succesul clubului din ceea ce era considerat anterior o zonă periferică a fotbalului ucrainean demonstrează reziliența și determinarea în fața adversităților, oferind o sursă de inspirație și speranță.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-23T09:25:42.670015+00:00",
+      "data_afisaj": "23 iulie 2026, 12:25"
+    },
+    {
+      "id": "2c15fffced66",
+      "titlu": "Marocul se confruntă cu provocări legate de costuri și moștenire în organizarea Cupei Mondiale 2030",
+      "rezumat": "Cu peste 1.400 de zile rămase până la startul Cupei Mondiale din 2030, Marocul, una dintre țările co-gazdă, se confruntă cu o serie de provocări semnificative. Acestea includ gestionarea costurilor masive de infrastructură și asigurarea unei moșteniri durabile post-eveniment, probleme similare cu cele întâmpinate de gazdele anterioare, precum Africa de Sud. Federația Regală Marocană de Fotbal (FRMF) are o agendă încărcată, având în vedere și organizarea Cupei Africii pe Națiuni la feminin, ceea ce adaugă presiune asupra resurselor și planificării.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-23T09:25:42.671646+00:00",
+      "data_afisaj": "23 iulie 2026, 12:25"
+    },
     {
       "id": "16d8ba0bd7d7",
       "titlu": "Fostul mijlocaș al lui Manchester United, Casemiro, se alătură echipei Inter Miami, pe fondul unei investigații MLS",
@@ -1304,53 +1363,6 @@
       ],
       "data_publicare": "2026-07-16T10:07:57.015639+00:00",
       "data_afisaj": "16 iulie 2026, 13:07"
-    },
-    {
-      "id": "4460f9947ab6",
-      "titlu": "Jude Bellingham, Implicat într-un Incident După Eliminarea Angliei de la Cupa Mondială",
-      "rezumat": "Jude Bellingham a provocat o altercație minoră după înfrângerea Angliei cu 2-1 în semifinala Cupei Mondiale împotriva Argentinei. Mijlocașul englez l-a lovit pe Valentin Barco, un jucător de rezervă al Argentinei, pe ceafă, gest care a declanșat o busculadă pe teren. Incidentul a avut loc imediat după fluierul final, adăugând tensiune momentului eliminării Angliei din competiție și stârnind discuții despre comportamentul jucătorilor în momente de presiune.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-07-16T09:18:35.135319+00:00",
-      "data_afisaj": "16 iulie 2026, 12:18"
-    },
-    {
-      "id": "f983fe38faaf",
-      "titlu": "ITV și BBC Vor Transmite Integral Spectacolul de la Pauza Finalei Cupei Mondiale",
-      "rezumat": "Posturile de televiziune ITV și BBC intenționează să difuzeze integral spectacolul controversat de la pauza finalei Cupei Mondiale, care va avea loc pe stadionul New York New Jersey. Decizia vine în ciuda îngrijorărilor anterioare legate de durata evenimentului, curatoriat de Chris Martin de la Coldplay. Radiodifuzorii se așteaptă ca pauza să dureze între 25 și 30 de minute, dar rămân în incertitudine cu privire la durata exactă a spectacolului pregătit de FIFA, care a generat deja discuții aprinse.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-16T09:18:35.136905+00:00",
-      "data_afisaj": "16 iulie 2026, 12:18"
-    },
-    {
-      "id": "17ba6d0a5c16",
-      "titlu": "Thomas Tuchel Își Asumă Responsabilitatea După Eliminarea Angliei de la Cupa Mondială",
-      "rezumat": "Selecționerul Angliei, Thomas Tuchel, și-a asumat responsabilitatea pentru eliminarea echipei sale din semifinalele Cupei Mondiale 2026, în urma înfrângerii cu Argentina. Tuchel a declarat că echipa a devenit prea pasivă după ce a preluat conducerea, dar a subliniat că nu are regrete. Această declarație vine pe fondul speculațiilor privind viitorul său la cârma naționalei Angliei, după o nouă dezamăgire la un turneu major, iar analiștii dezbat impactul deciziilor sale tactice.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-07-16T09:18:35.138472+00:00",
-      "data_afisaj": "16 iulie 2026, 12:18"
-    },
-    {
-      "id": "b47f400e3dc5",
-      "titlu": "Argentina Riscă Sancțiuni FIFA din Cauza Bannerului cu Insulele Falkland",
-      "rezumat": "Echipa națională a Argentinei se confruntă cu posibile măsuri disciplinare din partea FIFA, după ce jucătorii au sărbătorit victoria din semifinala Cupei Mondiale împotriva Angliei cu un banner care susținea revendicările țării lor asupra Insulelor Falkland. Acest gest, considerat politic, ar putea atrage sancțiuni din partea forului mondial, care interzice manifestările politice în timpul competițiilor. Incidentul a adăugat o nouă dimensiune tensiunilor istorice dintre cele două națiuni și a stârnit reacții internaționale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-16T09:18:35.139980+00:00",
-      "data_afisaj": "16 iulie 2026, 12:18"
     }
   ]
 }
