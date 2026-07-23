@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-23T09:25:42.671665+00:00",
-  "updated_at_afisaj": "23 iulie 2026, 12:25",
+  "updated_at": "2026-07-23T10:21:46.737993+00:00",
+  "updated_at_afisaj": "23 iulie 2026, 13:21",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,52 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 117,
+  "numar_stiri": 116,
   "stiri": [
+    {
+      "id": "add1b6c6c323",
+      "titlu": "De ce sunt mijlocașii englezi la mare căutare pe piața transferurilor?",
+      "rezumat": "Piața transferurilor a înregistrat două mutări record în ultima lună, implicând mijlocași englezi: Elliot Anderson și Morgan Rogers. Această tendință ridică întrebări despre motivele pentru care jucătorii englezi de la mijlocul terenului sunt atât de solicitați. Analiza sugerează că factori precum dezvoltarea talentelor locale, cerințele regulilor privind jucătorii formați la club și calitatea demonstrată în Premier League contribuie la creșterea valorii lor. Cluburile sunt dispuse să plătească sume considerabile pentru a-și asigura serviciile acestor talente promițătoare, reflectând o strategie de investiție pe termen lung.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-23T10:21:46.732365+00:00",
+      "data_afisaj": "23 iulie 2026, 13:21"
+    },
+    {
+      "id": "d7e326980463",
+      "titlu": "Arsenal, interesată de John Stones și Ezri Konsa după accidentarea lui Saliba",
+      "rezumat": "Clubul Arsenal și-a manifestat interesul pentru fundașii John Stones de la Manchester City și Ezri Konsa de la Aston Villa. Această mișcare vine în contextul accidentării lui William Saliba, care va lipsi o perioadă extinsă. Antrenorul Mikel Arteta caută soluții pentru a consolida apărarea echipei, iar Stones și Konsa sunt considerați opțiuni viabile pentru a acoperi golul lăsat de absența lui Saliba. Speculațiile privind aceste transferuri subliniază urgența cu care Arsenal dorește să-și întărească lotul.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-23T10:21:46.733986+00:00",
+      "data_afisaj": "23 iulie 2026, 13:21"
+    },
+    {
+      "id": "cbdb9bf55eae",
+      "titlu": "Liverpool a făcut o ofertă de 34 de milioane de lire sterline pentru un jucător de la PSG, respinsă",
+      "rezumat": "Liverpool a inițiat discuțiile pentru un transfer de la Paris Saint-Germain, făcând o ofertă de 34 de milioane de lire sterline pentru un jucător al clubului francez. Cu toate acestea, propunerea a fost respinsă de PSG. Această mișcare indică intenția lui Liverpool de a-și întări lotul, posibil în contextul plecării lui Mohamed Salah, și de a concura pentru talente pe piața europeană. Negocierile ar putea continua, Liverpool căutând să ajungă la un acord pentru a-și asigura serviciile jucătorului dorit.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-07-23T10:21:46.736272+00:00",
+      "data_afisaj": "23 iulie 2026, 13:21"
+    },
+    {
+      "id": "9213999ab7aa",
+      "titlu": "Un club din EFL va obține un profit de 35 de milioane de lire sterline dintr-un transfer Chelsea",
+      "rezumat": "Un club din English Football League (EFL) este pe cale să realizeze un profit substanțial de 35 de milioane de lire sterline, grație unei clauze de revânzare incluse într-un transfer anterior către Chelsea. Această sumă semnificativă va reprezenta o infuzie financiară importantă pentru clubul din Championship, demonstrând importanța clauzelor de sell-on în strategiile de transfer. Profitul subliniază previziunea clubului în gestionarea activelor sale și impactul financiar pe care îl pot avea astfel de acorduri pe termen lung.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-07-23T10:21:46.737975+00:00",
+      "data_afisaj": "23 iulie 2026, 13:21"
+    },
     {
       "id": "d88ba60692cf",
       "titlu": "William Saliba de la Arsenal va lipsi o perioadă extinsă din cauza unei accidentări la spate",
@@ -1305,64 +1349,6 @@
       ],
       "data_publicare": "2026-07-16T17:22:59.946748+00:00",
       "data_afisaj": "16 iulie 2026, 20:22"
-    },
-    {
-      "id": "65154248cc09",
-      "titlu": "Argentina Elimină Anglia de la Cupa Mondială într-o Semifinală Dramatică",
-      "rezumat": "Naționala Argentinei a spulberat speranțele Angliei la Cupa Mondială, reușind să marcheze două goluri în minutele de final ale semifinalei disputate la Atlanta. După ce echipa lui Thomas Tuchel a condus, Argentina a revenit spectaculos, învingând cu 2-1 și calificându-se în finală. Această victorie dramatică pune capăt parcursului Angliei la turneul final și confirmă prezența Argentinei în lupta pentru trofeu, într-un meci plin de tensiune și răsturnări de scor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-16T10:07:57.009402+00:00",
-      "data_afisaj": "16 iulie 2026, 13:07"
-    },
-    {
-      "id": "5c2d301a3144",
-      "titlu": "Portarul Scoțian Craig Gordon Se Retrage din Fotbal la 43 de Ani",
-      "rezumat": "Experimentatul portar scoțian Craig Gordon și-a anunțat retragerea din activitatea de fotbalist profesionist, la vârsta de 43 de ani. Decizia vine după o carieră impresionantă, care s-a întins pe parcursul a 25 de ani. Gordon, cunoscut pentru longevitatea și performanțele sale constante, a evoluat pentru cluburi importante și a reprezentat naționala Scoției, lăsând în urmă o moștenire notabilă în fotbalul britanic și internațional. Retragerea sa marchează sfârșitul unei ere pentru unul dintre cei mai respectați goalkeeperi.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-16T10:07:57.010944+00:00",
-      "data_afisaj": "16 iulie 2026, 13:07"
-    },
-    {
-      "id": "fab0d26bbe88",
-      "titlu": "Thomas Tuchel Păstrează Sprijinul Federației Engleze, în Ciuda Eliminării de la Cupa Mondială",
-      "rezumat": "Thomas Tuchel, selecționerul Angliei, continuă să beneficieze de încrederea și sprijinul Federației Engleze de Fotbal (FA), chiar și după eliminarea echipei naționale în semifinalele Cupei Mondiale. În ciuda dezamăgirii provocate de ratarea calificării în finală, oficialii FA au reafirmat susținerea pentru antrenorul german. Această decizie indică o viziune pe termen lung și o stabilitate la nivelul conducerii tehnice, oferindu-i lui Tuchel posibilitatea de a continua proiectul început la cârma naționalei Angliei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-16T10:07:57.012602+00:00",
-      "data_afisaj": "16 iulie 2026, 13:07"
-    },
-    {
-      "id": "aafc0cbc9326",
-      "titlu": "Harry Kane Nu Este Sigur de Participarea la Următoarea Cupă Mondială",
-      "rezumat": "Căpitanul naționalei Angliei, Harry Kane, a declarat că este \"prea devreme\" pentru a evalua dacă va mai putea juca pentru echipa Angliei până la Cupa Mondială din 2030. Afirmația vine în urma înfrângerii dureroase suferite de Anglia în semifinala Cupei Mondiale împotriva Argentinei. Viitorul său la nivel internațional rămâne incert, iar decizia va depinde de evoluția sa fizică și de planurile personale în anii următori, pe măsură ce se apropie de finalul carierei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-16T10:07:57.014104+00:00",
-      "data_afisaj": "16 iulie 2026, 13:07"
-    },
-    {
-      "id": "345d9bcf02b0",
-      "titlu": "Interes din Anglia pentru Fundașul Român Andrei Coubiș de la U Cluj",
-      "rezumat": "Andrei Coubiș, tânărul fundaș al echipei Universitatea Cluj, a atras atenția cluburilor din Anglia, generând speculații privind un posibil transfer. Jucătorul român este comparat cu Radu Drăgușin, un alt fundaș român care a făcut pasul către Premier League. Această veste subliniază potențialul lui Coubiș și interesul crescut al echipelor britanice pentru talentele din fotbalul românesc. O eventuală mutare în Anglia ar reprezenta un pas important în cariera sa, oferindu-i șansa de a evolua la un nivel superior.",
-      "categorie": "Fotbal",
-      "surse": [
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-07-16T10:07:57.015639+00:00",
-      "data_afisaj": "16 iulie 2026, 13:07"
     }
   ]
 }
