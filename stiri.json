@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-24T10:16:17.992048+00:00",
-  "updated_at_afisaj": "24 iulie 2026, 13:16",
+  "updated_at": "2026-07-24T17:40:43.474586+00:00",
+  "updated_at_afisaj": "24 iulie 2026, 20:40",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,56 @@
   },
   "numar_stiri": 115,
   "stiri": [
+    {
+      "id": "1377566a1326",
+      "titlu": "FC Argeș și Petrolul Ploiești se întâlnesc în Superligă",
+      "rezumat": "FC Argeș și Petrolul Ploiești se pregătesc pentru confruntarea din etapa a doua a Superligii României. Meciul va începe la ora 21:30, iar Petrolul speră să își confirme forma bună după victoria obținută în runda precedentă împotriva lui Dinamo. Echipele de start sunt așteptate să fie anunțate în scurt timp, partida fiind una importantă pentru ambele formații în debutul noului sezon. Această partidă reprezintă un test crucial pentru ambițiile fiecărei echipe în campionatul intern.",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-07-24T17:40:43.468667+00:00",
+      "data_afisaj": "24 iulie 2026, 20:40"
+    },
+    {
+      "id": "82d709006bbe",
+      "titlu": "Jürgen Klopp amenință cu demisia de la naționala Germaniei din cauza presei",
+      "rezumat": "Noul selecționer al Germaniei, Jürgen Klopp, și-a început mandatul avertizând că va demisiona dacă mass-media va invada viața privată a familiei sale. Într-o conferință de presă fermă, Klopp a subliniat că dorește să schimbe mentalitatea țării prin intermediul echipei naționale, dar a insistat asupra respectării intimității personale, făcând referire la modul în care au fost tratați predecesorii săi, Julian Nagelsmann și Thomas Tuchel. Această declarație marchează un început tensionat al erei sale la cârma naționalei, stabilind limite clare cu presa.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-07-24T17:40:43.470215+00:00",
+      "data_afisaj": "24 iulie 2026, 20:40"
+    },
+    {
+      "id": "71fbfbaa092d",
+      "titlu": "Discuții pentru vânzarea unei participații minoritare la Liverpool, cu Jeff Bezos printre posibilii investitori",
+      "rezumat": "Fenway Sports Group, proprietarii clubului Liverpool, poartă discuții cu un consorțiu condus de Amit Bhatia pentru vânzarea unei participații minoritare la club. Printre numele vehiculate ca potențiali investitori se numără și Jeff Bezos, fondatorul Amazon. Această mișcare ar putea aduce o infuzie semnificativă de capital și ar putea influența viitorul financiar și sportiv al clubului de pe Anfield, deschizând noi oportunități de dezvoltare și consolidând poziția clubului pe piața globală. Discuțiile sunt în stadii avansate, conform rapoartelor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-07-24T17:40:43.471917+00:00",
+      "data_afisaj": "24 iulie 2026, 20:40"
+    },
+    {
+      "id": "af5f732a797a",
+      "titlu": "Enzo Maresca consideră o provocare și un privilegiu să-l urmeze pe Pep Guardiola la Manchester City",
+      "rezumat": "Enzo Maresca, noul antrenor al echipei Manchester City, a declarat în prima sa conferință de presă că este un \"privilegiu\" să preia conducerea clubului după Pep Guardiola. El a recunoscut, de asemenea, provocarea imensă de a-l înlocui pe un antrenor care a câștigat 17 trofee majore, fiind conștient de dificultățile întâmpinate de succesorii lui Sir Alex Ferguson și Arsène Wenger la Manchester United și Arsenal. Maresca a subliniat importanța de a face \"lucrurile corecte imediat\" pentru a menține standardele înalte ale clubului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-24T17:40:43.473548+00:00",
+      "data_afisaj": "24 iulie 2026, 20:40"
+    },
     {
       "id": "b32c4ea38f76",
       "titlu": "Chelsea a convenit să-l semneze pe fundașul Palatului Lacroix",
@@ -1296,52 +1346,6 @@
       ],
       "data_publicare": "2026-07-17T17:58:51.135514+00:00",
       "data_afisaj": "17 iulie 2026, 20:58"
-    },
-    {
-      "id": "a08efa9250f8",
-      "titlu": "Căpitanul West Ham, Jarrod Bowen, Rămâne la Club",
-      "rezumat": "Jarrod Bowen, căpitanul echipei West Ham United, a confirmat că va continua la club pentru sezonul viitor, chiar și după retrogradarea echipei în Championship. Decizia sa subliniază angajamentul față de \"Ciocănari\" și oferă stabilitate lotului în perspectiva încercării de a reveni în Premier League. Rămânerea unui jucător cheie precum Bowen este considerată o veste importantă pentru fani și pentru strategia clubului în campania de promovare, consolidând speranțele de revenire rapidă în elita fotbalului englez.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-17T17:16:03.647186+00:00",
-      "data_afisaj": "17 iulie 2026, 20:16"
-    },
-    {
-      "id": "2fb503602f4c",
-      "titlu": "FC Voluntari Învinsă Acasă de FC Botoșani în Prima Etapă din Superliga",
-      "rezumat": "FC Voluntari a debutat cu o înfrângere pe teren propriu în noul sezon de Superliga, fiind învinsă de FC Botoșani cu scorul de 1-2. Meciul, transmis în format live text, a fost marcat de ocazii importante, inclusiv o minge șutată de Șuteu care a lovit bara, fiind deviată de portarul Anestis. Rezultatul reprezintă un start dificil pentru Voluntari și o victorie importantă în deplasare pentru Botoșani în prima etapă a campionatului, oferind un impuls moral pentru echipa moldoveană.",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-07-17T17:16:03.648746+00:00",
-      "data_afisaj": "17 iulie 2026, 20:16"
-    },
-    {
-      "id": "815fab4c6573",
-      "titlu": "Câștigătorii Finalei Cupei Mondiale Vor Primi Inele în Stil Super Bowl",
-      "rezumat": "FIFA a confirmat că echipa câștigătoare a Cupei Mondiale, fie Spania, fie Argentina, va fi recompensată cu inele personalizate, similare celor oferite campionilor Super Bowl din fotbalul american. Această inițiativă marchează o premieră în istoria Cupei Mondiale, adăugând o nouă formă de recunoaștere pentru performanța supremă în fotbalul internațional. Inelele vor simboliza victoria și succesul obținut pe terenul de joc din Statele Unite, oferind o amintire unică jucătorilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-07-17T17:16:03.650505+00:00",
-      "data_afisaj": "17 iulie 2026, 20:16"
-    },
-    {
-      "id": "5db69a4fe947",
-      "titlu": "Lamine Yamal Lipsește de la Antrenamentul Spaniei Înainte de Finala Cupei Mondiale",
-      "rezumat": "Tânărul star spaniol Lamine Yamal a absentat de la sesiunea de antrenament a echipei naționale din New Jersey, cu doar câteva zile înainte de marea finală a Cupei Mondiale împotriva Argentinei. Yamal este unul dintre cei doi jucători care nu s-au antrenat, stârnind îngrijorări cu privire la disponibilitatea sa pentru meciul decisiv. Absența sa ar putea reprezenta o lovitură pentru planurile tactice ale Spaniei în lupta pentru trofeu, având în vedere importanța sa în echipa.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-07-17T17:16:03.652046+00:00",
-      "data_afisaj": "17 iulie 2026, 20:16"
     }
   ]
 }
