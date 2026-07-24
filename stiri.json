@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-24T09:24:46.594117+00:00",
-  "updated_at_afisaj": "24 iulie 2026, 12:24",
+  "updated_at": "2026-07-24T10:16:17.992048+00:00",
+  "updated_at_afisaj": "24 iulie 2026, 13:16",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,62 @@
   },
   "numar_stiri": 115,
   "stiri": [
+    {
+      "id": "b32c4ea38f76",
+      "titlu": "Chelsea a convenit să-l semneze pe fundașul Palatului Lacroix",
+      "rezumat": "Chelsea a convenit să-l semneze pe fundașul Franței Maxence Lacroix de la Crystal Palace, după două sezoane impresionante.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-24T10:15:53.048579+00:00",
+      "data_afisaj": "24 iulie 2026, 13:15"
+    },
+    {
+      "id": "7e5a5960a9e7",
+      "titlu": "Mesia sau tapetarea crăpăturilor? Klopp trebuie să-i influențeze pe cei care se îndoiesc din reconstrucția Germaniei",
+      "rezumat": "Jurgen Klopp este o legendă la fostele sale cluburi, dar va trebui să-și convingă criticii dacă vrea să reușească cea mai grea provocare antrenorială de până acum.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-24T10:15:53.050013+00:00",
+      "data_afisaj": "24 iulie 2026, 13:15"
+    },
+    {
+      "id": "301689c286d4",
+      "titlu": "Guardiola refuză postul de antrenor al Italiei",
+      "rezumat": "Fostul antrenor de la Manchester City, Pep Guardiola, refuză șansa de a antrena Italia.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-24T10:15:53.051247+00:00",
+      "data_afisaj": "24 iulie 2026, 13:15"
+    },
+    {
+      "id": "117bdc835dab",
+      "titlu": "Newcastle sigilează mutarea de 34 de milioane de lire sterline pentru Bamba din Monaco",
+      "rezumat": "Newcastle United l-a semnat pe mijlocașul Monaco Aladji Bamba pentru o taxă care ar putea ajunge la 34 de milioane de lire sterline.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-24T10:15:53.052612+00:00",
+      "data_afisaj": "24 iulie 2026, 13:15"
+    },
+    {
+      "id": "d7c6786f06a4",
+      "titlu": "Kane a început să discute cu Bayern Munchen pentru o nouă înțelegere",
+      "rezumat": "Harry Kane urmează să înceapă discuțiile pentru un nou contract cu Bayern Munchen, iar Barcelona și diferite cluburi din Arabia Saudită ar fi interesate de căpitanul Angliei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-24T10:15:53.053934+00:00",
+      "data_afisaj": "24 iulie 2026, 13:15"
+    },
     {
       "id": "e6074bbcc5dc",
       "titlu": "Starul Socceroos ar fi testat pozitiv pentru cocaină după ce a depășit viteza",
@@ -1286,61 +1342,6 @@
       ],
       "data_publicare": "2026-07-17T17:16:03.652046+00:00",
       "data_afisaj": "17 iulie 2026, 20:16"
-    },
-    {
-      "id": "7ae803ed511f",
-      "titlu": "Jucători Englezi Nemulțumiți de Tactica lui Tuchel După Eliminarea de la Cupa Mondială",
-      "rezumat": "BBC Sport a raportat că tactica defensivă a managerului Thomas Tuchel în semifinala Cupei Mondiale împotriva Argentinei, pierdută cu 2-1, este intens dezbătută în cadrul lotului Angliei. Se pare că unii jucători sunt dezamăgiți de abordarea tactică, în timp ce Tuchel însuși a pus sub semnul întrebării \"ADN-ul\" echipei după înfrângere. Această situație indică tensiuni interne și o analiză critică a performanței și deciziilor strategice ale antrenorului, în urma eșecului de a ajunge în finală.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-17T09:56:13.654325+00:00",
-      "data_afisaj": "17 iulie 2026, 12:56"
-    },
-    {
-      "id": "2dc39708c394",
-      "titlu": "Mii de Bilete Încă Disponibile pentru Meciul Anglia - Franța pentru Medalia de Bronz la Cupa Mondială",
-      "rezumat": "Aproximativ 7.000 de bilete sunt încă listate pe site-urile de ticketing ale FIFA pentru meciul de sâmbătă dintre Anglia și Franța, care va decide medalia de bronz la Cupa Mondială. Această disponibilitate ridică întrebări despre interesul publicului pentru meciul de consolare, după ce ambele echipe au fost eliminate în semifinale. Fanii au încă oportunitatea de a achiziționa bilete pentru a urmări confruntarea dintre cele două națiuni europene, care se luptă pentru locul trei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-17T09:56:13.655742+00:00",
-      "data_afisaj": "17 iulie 2026, 12:56"
-    },
-    {
-      "id": "c157e05c7f9b",
-      "titlu": "Concertul Pitbull Forțează Mutarea unui Meci Istoric de Calificare în Liga Campionilor în Lituania",
-      "rezumat": "FK Kauno Zalgiris, campioana Lituaniei, va fi probabil forțată să joace un meci istoric de calificare în Liga Campionilor în deplasare, după ce și-a închiriat stadionul pentru un concert al rapperului american Pitbull. Echipa a avansat în a doua rundă preliminară, asigurându-și astfel prezența în faza grupelor unei competiții europene, însă indisponibilitatea stadionului din cauza evenimentului muzical creează o situație neobișnuită și complică planurile pentru meciul crucial de acasă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-17T09:56:13.657044+00:00",
-      "data_afisaj": "17 iulie 2026, 12:56"
-    },
-    {
-      "id": "bb43648ebefc",
-      "titlu": "Arbitrul Finalei Cupei Mondiale Confirmat: Cine Va Oficia Meciul Spania - Argentina?",
-      "rezumat": "Oficialii Cupei Mondiale au confirmat arbitrul care va conduce finala din 2026, programată să aibă loc duminică pe Stadionul New York New Jersey, între Spania și Argentina. Această decizie este crucială pentru desfășurarea corectă a celui mai important meci al turneului, iar numele arbitrului desemnat este acum public. Detaliile despre oficialul ales și experiența sa sunt așteptate să fie analizate de fani și experți înainte de marea confruntare care va decide campioana mondială.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-07-17T09:56:13.658232+00:00",
-      "data_afisaj": "17 iulie 2026, 12:56"
-    },
-    {
-      "id": "b52a5ba66145",
-      "titlu": "Starul din Capul Verde Continuă Vara de Vis cu Performanțe Eroice în Calificările Ligii Campionilor",
-      "rezumat": "Un fundaș din Capul Verde, care a impresionat la Cupa Mondială, își continuă parcursul de succes prin performanțe eroice în calificările Ligii Campionilor. Acesta a jucat un rol cheie în asigurarea calificării echipei sale în faza următoare a competiției europene, consolidându-și reputația de jucător valoros. Această evoluție remarcabilă subliniază ascensiunea sa în fotbalul internațional și contribuția sa esențială la succesele clubului, după o vară plină de realizări.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-07-17T09:56:13.659551+00:00",
-      "data_afisaj": "17 iulie 2026, 12:56"
     }
   ]
 }
