@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-24T17:40:43.474586+00:00",
-  "updated_at_afisaj": "24 iulie 2026, 20:40",
+  "updated_at": "2026-07-24T18:13:18.948798+00:00",
+  "updated_at_afisaj": "24 iulie 2026, 21:13",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 115,
+  "numar_stiri": 116,
   "stiri": [
+    {
+      "id": "e9c416db9d0d",
+      "titlu": "CIO declară că plângerea împotriva președintelui FIFA, Gianni Infantino, este în afara competenței sale",
+      "rezumat": "Comitetul Olimpic Internațional (CIO) a anunțat că nu va investiga o plângere depusă împotriva președintelui FIFA, Gianni Infantino, deoarece aceasta se află în afara sferei sale de competență. Detaliile plângerii nu au fost specificate, însă decizia CIO subliniază limitele jurisdicționale dintre cele două organisme sportive internaționale. Această declarație vine în contextul unor posibile controverse legate de conducerea fotbalului mondial, dar CIO a clarificat că nu are autoritatea de a interveni în astfel de chestiuni.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-24T18:13:18.942240+00:00",
+      "data_afisaj": "24 iulie 2026, 21:13"
+    },
+    {
+      "id": "54ca6a53db32",
+      "titlu": "Senegal primește o dată pentru apel după anularea victoriei la Cupa Africii pe Națiuni",
+      "rezumat": "Tribunalul de Arbitraj Sportiv (TAS) a stabilit o dată pentru audierea apelului depus de Senegal, în urma deciziei de a-i fi retras titlul de campioană la Cupa Africii pe Națiuni din 2025. Această hotărâre inițială a stârnit controverse semnificative în lumea fotbalului african. Senegalul speră să-și recâștige titlul prin intermediul acestui apel, iar rezultatul audierii va avea implicații majore pentru viitorul competiției și pentru echipa națională.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-24T18:13:18.943897+00:00",
+      "data_afisaj": "24 iulie 2026, 21:13"
+    },
+    {
+      "id": "0793afad85c9",
+      "titlu": "Echipele scoțiene participante în competițiile europene își amână meciurile de campionat",
+      "rezumat": "Toate cele cinci echipe scoțiene calificate în competițiile europene au decis să-și amâne meciurile din Premiership programate pentru sâmbătă, 22 august. Această decizie a fost luată pentru a permite cluburilor să se pregătească mai bine și să gestioneze programul încărcat impus de participarea pe două fronturi. Măsura vizează optimizarea performanțelor echipelor scoțiene atât pe plan intern, cât și în cupele europene, oferindu-le mai mult timp de recuperare și antrenament.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-24T18:13:18.945490+00:00",
+      "data_afisaj": "24 iulie 2026, 21:13"
+    },
+    {
+      "id": "f40f60a42a47",
+      "titlu": "Cammy Devlin descrie așteptarea transferului la Rangers drept 'prea stresantă'",
+      "rezumat": "Mijlocașul australian Cammy Devlin a mărturisit că perioada de așteptare pentru finalizarea transferului său la Rangers, în timpul Cupei Mondiale din 2026, a fost extrem de stresantă. Jucătorul a declarat că incertitudinea legată de viitorul său la club a afectat experiența sa la turneul final. Devlin a subliniat presiunea mentală resimțită în timp ce încerca să se concentreze pe performanțele de la Cupa Mondială, având în același timp negocierile de transfer în desfășurare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-24T18:13:18.947148+00:00",
+      "data_afisaj": "24 iulie 2026, 21:13"
+    },
+    {
+      "id": "b730630e7997",
+      "titlu": "Alex Scott, mijlocașul dorit de cluburile de elită, analizat de Sky Sports",
+      "rezumat": "Alex Scott, mijlocașul lui Bournemouth, a devenit o țintă pentru cluburile de top din Premier League, inclusiv Arsenal, Chelsea și Manchester United. Articolul de la Sky Sports analizează evoluția sa remarcabilă sub Andoni Iraola, evidențiind prezența sa constantă în meciurile cheie ale sezonului trecut. Scott a jucat aproape integral în partidele în care Bournemouth a obținut puncte împotriva echipelor de top, demonstrând calități de mijlocaș complet și o adaptabilitate impresionantă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-24T18:13:18.948778+00:00",
+      "data_afisaj": "24 iulie 2026, 21:13"
+    },
     {
       "id": "1377566a1326",
       "titlu": "FC Argeș și Petrolul Ploiești se întâlnesc în Superligă",
@@ -1301,51 +1356,6 @@
       ],
       "data_publicare": "2026-07-18T08:50:14.700353+00:00",
       "data_afisaj": "18 iulie 2026, 11:50"
-    },
-    {
-      "id": "c2cd77853147",
-      "titlu": "Aston Villa Realizează Transferul Record al Clubului, Semnându-l pe Manzambi",
-      "rezumat": "Aston Villa a finalizat achiziția lui Johan Manzambi de la Freiburg pentru o sumă record de peste 50 de milioane de lire sterline. Atacantul elvețian, care a impresionat la Cupa Mondială, devine prima achiziție a verii pentru antrenorul Unai Emery. Manzambi este considerat un talent emergent, având un sezon remarcabil la Freiburg, unde a marcat mai multe goluri decât meciuri începute. Transferul subliniază ambițiile clubului din Birmingham de a-și consolida lotul pentru viitoarele competiții.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-17T17:58:51.131526+00:00",
-      "data_afisaj": "17 iulie 2026, 20:58"
-    },
-    {
-      "id": "88fe5654b997",
-      "titlu": "Leeds United Îl Achiziționează pe Fundașul Tarik Muharemovic pentru 34.1 Milioane de Lire Sterline",
-      "rezumat": "Leeds United a anunțat transferul fundașului Tarik Muharemovic de la clubul de Serie A Sassuolo, într-o tranzacție evaluată la 34.1 milioane de lire sterline. Această mutare reprezintă o investiție semnificativă pentru Leeds, care își propune să își întărească linia defensivă. Muharemovic este așteptat să aducă stabilitate și experiență în apărarea echipei, fiind considerat un jucător cu potențial mare. Detaliile contractului nu au fost încă publicate integral, dar se anticipează o înțelegere pe termen lung cu clubul englez.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-17T17:58:51.132902+00:00",
-      "data_afisaj": "17 iulie 2026, 20:58"
-    },
-    {
-      "id": "126b7452bd9b",
-      "titlu": "Egiptul Acuză FIFA de Favoritism Față de Argentina și Lionel Messi la Cupa Mondială",
-      "rezumat": "Federația Egipteană de Fotbal a formulat acuzații de părtinire din partea FIFA în favoarea Argentinei și a starului său, Lionel Messi, pe parcursul Cupei Mondiale. Aceste afirmații sugerează un tratament preferențial, care ar fi influențat anumite decizii pe teren. Deși nu au fost oferite detalii specifice despre incidentele care au generat aceste acuzații, ele ridică semne de întrebare cu privire la imparțialitatea arbitrajului și la corectitudinea competiției. FIFA nu a emis încă un răspuns oficial la aceste acuzații.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-17T17:58:51.134179+00:00",
-      "data_afisaj": "17 iulie 2026, 20:58"
-    },
-    {
-      "id": "9b447868c01d",
-      "titlu": "Surprize în Primul 11 al FCSB-ului pentru Meciul cu FC Argeș, cu un Fundaș la Mijloc",
-      "rezumat": "Echipa FCSB se pregătește pentru partida împotriva FC Argeș cu o formulă de start neașteptată. Conform informațiilor, antrenorul ar urma să utilizeze un fundaș pe postul de mijlocaș, o decizie care a generat discuții. Această schimbare tactică, despre care se speculează că ar fi influențată de patronul Gigi Becali, ar putea aduce o abordare diferită în jocul echipei. Fanii și analiștii așteaptă să vadă cum se va descurca formația în această configurație inedită în meciul din campionat.",
-      "categorie": "Fotbal",
-      "surse": [
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-07-17T17:58:51.135514+00:00",
-      "data_afisaj": "17 iulie 2026, 20:58"
     }
   ]
 }
