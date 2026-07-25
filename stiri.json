@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-24T18:13:18.948798+00:00",
-  "updated_at_afisaj": "24 iulie 2026, 21:13",
+  "updated_at": "2026-07-25T09:02:53.038801+00:00",
+  "updated_at_afisaj": "25 iulie 2026, 12:02",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,53 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 116,
+  "numar_stiri": 117,
   "stiri": [
+    {
+      "id": "6b19b74be326",
+      "titlu": "Fotbalist dat afară de FCSB semnează cu o nou-promovată",
+      "rezumat": "Un fotbalist care a fost îndepărtat de la FCSB de către Gigi Becali și-a găsit o nouă echipă, semnând cu o formație proaspăt promovată în prima ligă. Această mutare marchează un nou capitol în cariera jucătorului, după plecarea sa de la clubul bucureștean. Detaliile contractului și identitatea exactă a jucătorului și a clubului nu au fost încă dezvăluite public, dar se anticipează că anunțul oficial va fi făcut în curând. Transferul vine în contextul pregătirilor pentru noul sezon competițional, în care echipa nou-promovată își propune să-și consolideze lotul.",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-07-25T09:02:53.032811+00:00",
+      "data_afisaj": "25 iulie 2026, 12:02"
+    },
+    {
+      "id": "ed81eae4984b",
+      "titlu": "Manchester City analizează viitorul mijlocașului Rodri",
+      "rezumat": "Clubul Manchester City se confruntă cu o dilemă legată de viitorul mijlocașului Rodri, conform unei analize BBC Sport. Articolul explorează posibilele configurații ale noului mijloc al echipei și dacă este momentul potrivit pentru a valorifica transferul jucătorului spaniol. Această discuție vine în contextul în care Rodri a fost un pilon central al echipei în sezoanele recente, iar o eventuală plecare sau o schimbare de rol ar influența semnificativ strategia tactică a campioanei Premier League. Se analizează opțiunile de înlocuire și impactul asupra performanței echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-25T09:02:53.034264+00:00",
+      "data_afisaj": "25 iulie 2026, 12:02"
+    },
+    {
+      "id": "dda0e43d55db",
+      "titlu": "Avocatul demis de jucătorii de rugby continuă să reprezinte fotbaliști în procese legate de leziuni cerebrale",
+      "rezumat": "Un avocat care a fost demis de un grup de peste 1.000 de jucători de rugby cu leziuni cerebrale, care dau în judecată organismele de conducere ale sportului, continuă să gestioneze o cerere similară în numele a zeci de foști fotbaliști. Richard Boardman a declarat recent în fața Curții Regale de Justiție că intenționează să se retragă din dosarul jucătorilor de rugby, aceștia convenind în unanimitate să-i rezilieze contractul. Cu toate acestea, el rămâne implicat în cazurile fotbaliștilor, inclusiv în cel al familiei lui Nobby Stiles.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-25T09:02:53.037149+00:00",
+      "data_afisaj": "25 iulie 2026, 12:02"
+    },
+    {
+      "id": "f41b560a1042",
+      "titlu": "Andoni Iraola își susține echipa tehnică pentru a îmbunătăți fazele fixe la Liverpool",
+      "rezumat": "Noul antrenor al lui Liverpool, Andoni Iraola, a detaliat rolurile pe care le va juca staff-ul său tehnic în încercarea de a îmbunătăți performanța echipei la fazele fixe în sezonul viitor. Iraola a declarat că se consideră „foarte norocos” să fi moștenit o echipă de antrenori talentați la Bournemouth, pe care i-a adus cu el la Liverpool după ce l-a succedat pe Arne Slot luna trecută. Tommy Elphick și Shaun Cooper, ambii foști membri ai staff-ului său de la Bournemouth, vor fi responsabili de aspectele legate de fazele fixe, o zonă cheie pentru succesul echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-25T09:02:53.038782+00:00",
+      "data_afisaj": "25 iulie 2026, 12:02"
+    },
     {
       "id": "e9c416db9d0d",
       "titlu": "CIO declară că plângerea împotriva președintelui FIFA, Gianni Infantino, este în afara competenței sale",
@@ -1323,39 +1368,6 @@
       ],
       "data_publicare": "2026-07-18T09:24:39.610635+00:00",
       "data_afisaj": "18 iulie 2026, 12:24"
-    },
-    {
-      "id": "1c15ff4fa00d",
-      "titlu": "Argentina Îl Recunoaște pe Lionel Messi ca Depășindu-l pe Diego Maradona",
-      "rezumat": "După două decenii, Argentina pare să-l fi acceptat pe Lionel Messi ca fiind o figură mai mare decât Diego Maradona, o schimbare semnificativă în percepția fotbalistică a națiunii. Articolul sugerează că momentul \"Mâna lui Dumnezeu\" al lui Maradona ar trebui să devină o piesă de muzeu, pe măsură ce Messi își consolidează propria moștenire. Prin performanțele sale constante și succesul la nivel internațional, Messi a reușit să iasă din umbra lui Maradona, redefinind pasiunea și sufletul fotbalului argentinian. Această recunoaștere marchează o nouă eră în istoria fotbalului argentinian, cu Messi în prim-plan.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-18T08:50:14.697596+00:00",
-      "data_afisaj": "18 iulie 2026, 11:50"
-    },
-    {
-      "id": "669797331b06",
-      "titlu": "Casa Albă Apără Echipa Argentinei în Scandalul Steagului Insulelor Falkland",
-      "rezumat": "Casa Albă a intervenit în controversa legată de un steag al Insulelor Falkland afișat de echipa Argentinei, apărând acțiunile jucătorilor. Incidentul a stârnit o dispută diplomatică, Downing Street cerând FIFA să investigheze cazul. Comentariile Casei Albe riscă să amplifice și mai mult tensiunile politice în jurul acestui subiect sensibil. Acest eveniment adaugă o dimensiune geopolitică Cupei Mondiale, transformând un gest sportiv într-un punct de fricțiune internațional, cu implicații dincolo de terenul de fotbal.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-18T08:50:14.699016+00:00",
-      "data_afisaj": "18 iulie 2026, 11:50"
-    },
-    {
-      "id": "eabaf280f892",
-      "titlu": "Mikel Merino de la Spania Subliniază Importanța Umanității în Fotbal",
-      "rezumat": "Mijlocașul spaniol Mikel Merino a declarat că filosofia echipei naționale, sub conducerea lui Luis de la Fuente, se bazează pe principiul de a fi \"mai întâi un om bun, apoi un fotbalist bun\". Într-un interviu acordat înainte de finala Cupei Mondiale împotriva Argentinei, Merino a vorbit despre modul în care selecționerul a cultivat o echipă unită, construită pe respect reciproc. Această abordare morală și etică este considerată esențială pentru succesul Spaniei, care își propune să emuleze performanța din 2010 și să câștige trofeul mondial.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-18T08:50:14.700353+00:00",
-      "data_afisaj": "18 iulie 2026, 11:50"
     }
   ]
 }
