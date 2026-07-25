@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-25T09:02:53.038801+00:00",
-  "updated_at_afisaj": "25 iulie 2026, 12:02",
+  "updated_at": "2026-07-25T09:46:07.332013+00:00",
+  "updated_at_afisaj": "25 iulie 2026, 12:46",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,41 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 117,
+  "numar_stiri": 115,
   "stiri": [
+    {
+      "id": "6a0dd41cc33b",
+      "titlu": "Jucători ai academiei Austin FC, investigați de poliție și FBI pentru abuz sexual",
+      "rezumat": "Mai mulți jucători din academia clubului de Major League Soccer, Austin FC, sunt sub investigația poliției din Austin și a FBI-ului, în urma unor acuzații de abuz sexual în cadrul sistemului de tineret al clubului. Austin FC a raportat aceste acuzații autorităților locale. Surse multiple au confirmat că investigațiile sunt în curs de desfășurare și se concentrează pe presupuse interacțiuni între jucătorii academiei. Cazul subliniază o problemă gravă în mediul sportiv juvenil și necesitatea unor măsuri de protecție sporite.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-25T09:46:07.327542+00:00",
+      "data_afisaj": "25 iulie 2026, 12:46"
+    },
+    {
+      "id": "8f31e62b058c",
+      "titlu": "Loris Karius vorbește despre perioada dificilă de după finala Ligii Campionilor din 2018",
+      "rezumat": "Portarul Loris Karius a dezvăluit că a considerat să-și încheie cariera la doar 25 de ani, după „iadul” prin care a trecut în cei doi ani de după finala Ligii Campionilor din 2018, dintre Liverpool și Real Madrid. Karius a declarat că a atins „fundul prăpastiei” după ce a comis două erori majore în cel mai important meci al carierei sale. Mărturisirile sale oferă o perspectivă asupra impactului psihologic profund pe care presiunea și greșelile din fotbalul de elită îl pot avea asupra unui jucător.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-07-25T09:46:07.330448+00:00",
+      "data_afisaj": "25 iulie 2026, 12:46"
+    },
+    {
+      "id": "2496353826da",
+      "titlu": "Ousmane Dembele, în discuții pentru un transfer de la Paris Saint-Germain",
+      "rezumat": "Atacantul Ousmane Dembele, deținător al Balonului de Aur, ar putea părăsi curând clubul Paris Saint-Germain. Potrivit rapoartelor, au început discuțiile pentru un posibil transfer al jucătorului francez către o echipă din Arabia Saudită. Această mutare ar reprezenta o schimbare semnificativă în cariera lui Dembele și ar adăuga un alt nume sonor listei de fotbaliști de top care se îndreaptă spre campionatul saudit. Detaliile negocierilor rămân deocamdată confidențiale, însă interesul este major.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-07-25T09:46:07.331996+00:00",
+      "data_afisaj": "25 iulie 2026, 12:46"
+    },
     {
       "id": "6b19b74be326",
       "titlu": "Fotbalist dat afară de FCSB semnează cu o nou-promovată",
@@ -1308,66 +1341,6 @@
       ],
       "data_publicare": "2026-07-18T17:00:52.035080+00:00",
       "data_afisaj": "18 iulie 2026, 20:00"
-    },
-    {
-      "id": "fc8a8fbee40f",
-      "titlu": "Cine sunt? Ghicește vedeta Cupei Mondiale Nr. 41",
-      "rezumat": "Vei ghici jucătorul de astăzi în cât mai puține încercări?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-18T09:24:39.605250+00:00",
-      "data_afisaj": "18 iulie 2026, 12:24"
-    },
-    {
-      "id": "9cc3c292e765",
-      "titlu": "Messi și Brady despre fotografiile 'profetice' cu Lamine Yamal",
-      "rezumat": "Lionel Messi din Argentina spune că este \"nebunie\" să-l înfrunte pe Lamine Yamal din Spania într-o finală de Cupă Mondială, după ce a fost fotografiat cu el când era bebeluș.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-18T09:24:39.606637+00:00",
-      "data_afisaj": "18 iulie 2026, 12:24"
-    },
-    {
-      "id": "0d6f85e28032",
-      "titlu": "Argentina spulberă visurile Angliei la Cupa Mondială în semifinale",
-      "rezumat": "Argentina spulberă visurile Angliei la Cupa Mondială, marcând două goluri târzii pentru a reveni de la scor și a elimina echipa lui Thomas Tuchel, într-o semifinală dramatică la Atlanta.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-18T09:24:39.608015+00:00",
-      "data_afisaj": "18 iulie 2026, 12:24"
-    },
-    {
-      "id": "7aea91f4e5d1",
-      "titlu": "Gheata de Aur: Cei mai buni marcatori la Cupa Mondială 2026",
-      "rezumat": "Cine câștigă lupta pentru a fi cel mai bun marcator la Cupa Mondială? Live și actualizat pe tot parcursul turneului. Cei mai buni marcatori din toate timpurile la Cupa Mondială. Gheata de Aur este acordată celui mai bun marcator al Cupei Mondiale, cu pasele decisive folosite ca criteriu de departajare dacă doi sau mai mulți jucători termină la egalitate. Turneul din 2026 are trei foști câștigători ai Ghetei de Aur: Kylian Mbappé din Franța (opt goluri în 2022), Harry Kane din Anglia (șase goluri în 2018) și James Rodríguez din Columbia (șase goluri în 2014). Mbappé și Kane sunt",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-07-18T09:24:39.609281+00:00",
-      "data_afisaj": "18 iulie 2026, 12:24"
-    },
-    {
-      "id": "2706780fcdf3",
-      "titlu": "Mai multe meciuri și mai multă controversă - a fost Cupa Mondială un succes?",
-      "rezumat": "De la prețuri mari la bilete la pauze de hidratare, noi legi și intervenții politice, rareori a existat un moment plictisitor la Cupa Mondială 2026.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-18T09:24:39.610635+00:00",
-      "data_afisaj": "18 iulie 2026, 12:24"
     }
   ]
 }
