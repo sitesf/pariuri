@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-25T09:46:07.332013+00:00",
-  "updated_at_afisaj": "25 iulie 2026, 12:46",
+  "updated_at": "2026-07-25T17:02:12.776370+00:00",
+  "updated_at_afisaj": "25 iulie 2026, 20:02",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,62 @@
   },
   "numar_stiri": 115,
   "stiri": [
+    {
+      "id": "859a5b2403fd",
+      "titlu": "Directorul lui Woking dezvăluie \"îngrijorări crescânde\" înainte de plecarea lui Defoe",
+      "rezumat": "Directorul de fotbal al clubului Woking, Jody Brown, a declarat că existau \"îngrijorări crescânde\" în cadrul clubului înainte ca formația din National League să se despartă de fostul atacant al Angliei, Jermain Defoe, din funcția de antrenor. Brown a adăugat că Defoe nu s-a prezentat la o ședință și la antrenament, ceea ce a contribuit la decizia de a-l elibera din funcție după doar patru luni. Această declarație oferă noi detalii despre circumstanțele care au dus la plecarea antrenorului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-25T17:02:12.770219+00:00",
+      "data_afisaj": "25 iulie 2026, 20:02"
+    },
+    {
+      "id": "c74c9265f2fa",
+      "titlu": "De Zerbi: Jucătorii nemulțumiți de la Tottenham ar trebui să plece",
+      "rezumat": "Antrenorul echipei Tottenham Hotspur, Roberto de Zerbi, a declarat că jucătorii care nu sunt \"mândri și fericiți să rămână\" la club ar trebui să plece. Această afirmație vine în contextul pregătirilor pentru noul sezon și subliniază importanța angajamentului total față de echipă. Declarația lui De Zerbi sugerează o abordare fermă în gestionarea lotului și în menținerea unei atmosfere pozitive în vestiar, indicând o toleranță scăzută pentru lipsa de motivație.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-25T17:02:12.771739+00:00",
+      "data_afisaj": "25 iulie 2026, 20:02"
+    },
+    {
+      "id": "483b52c1354b",
+      "titlu": "Mason Mount, piesa finală în puzzle-ul de la mijlocul terenului pentru Man Utd?",
+      "rezumat": "Mason Mount a avut evoluții remarcabile alături de noul venit Andrey Santos în primele două meciuri de pre-sezon ale lui Manchester United. Performanțele sale au stârnit discuții despre potențialul său de a deveni un element cheie în linia mediană a \"Diavolilor Roșii\". Analiza BBC Sport sugerează că Mount ar putea fi jucătorul care completează echilibrul și creativitatea necesare în compartimentul de mijloc al echipei, oferind o nouă dinamică jocului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-25T17:02:12.773426+00:00",
+      "data_afisaj": "25 iulie 2026, 20:02"
+    },
+    {
+      "id": "4c2c573842d7",
+      "titlu": "Ipswich Town îl transferă pe atacantul japonez Maeda de la Celtic",
+      "rezumat": "Clubul Ipswich Town a anunțat transferul atacantului japonez Daizen Maeda de la Celtic. Jucătorul a semnat un contract valabil până în vara anului 2029. Această mutare reprezintă o întărire importantă pentru Ipswich, care își propune să-și consolideze lotul pentru viitoarele provocări. Maeda este cunoscut pentru viteza și capacitatea sa de a marca, fiind un element ofensiv valoros care va aduce un plus de forță echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-25T17:02:12.774868+00:00",
+      "data_afisaj": "25 iulie 2026, 20:02"
+    },
+    {
+      "id": "858109eb0955",
+      "titlu": "Eddie Howe, incert cu privire la viitorul lui Guimaraes pe fondul interesului Arsenal",
+      "rezumat": "Antrenorul principal al echipei Newcastle United, Eddie Howe, a declarat că a avut discuții pozitive cu căpitanul Bruno Guimaraes, însă rămâne incert cu privire la viitorul jucătorului pe fondul interesului manifestat de Arsenal. Această declarație vine după ce s-a vehiculat o posibilă ofertă de transfer din partea clubului londonez. Howe subliniază importanța jucătorului pentru echipă, dar recunoaște complexitatea situației sale contractuale și a speculațiilor din piața transferurilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-25T17:02:12.776345+00:00",
+      "data_afisaj": "25 iulie 2026, 20:02"
+    },
     {
       "id": "6a0dd41cc33b",
       "titlu": "Jucători ai academiei Austin FC, investigați de poliție și FBI pentru abuz sexual",
@@ -1286,61 +1342,6 @@
       ],
       "data_publicare": "2026-07-18T17:51:16.766270+00:00",
       "data_afisaj": "18 iulie 2026, 20:51"
-    },
-    {
-      "id": "e71ae0527b6f",
-      "titlu": "Prima Săptămână a Noului Antrenor Andoni Iraola la Liverpool și Deciziile Importante",
-      "rezumat": "Noul antrenor al lui Liverpool, Andoni Iraola, se confruntă cu numeroase decizii cruciale înaintea noului sezon. BBC Sport oferă o perspectivă asupra primei sale săptămâni la cârma clubului, evidențiind provocările și alegerile strategice pe care trebuie să le facă pentru a pregăti echipa. Această perioadă inițială este esențială pentru stabilirea direcției și a filosofiei de joc, având un impact semnificativ asupra performanței viitoare a echipei în competițiile interne și europene.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-18T17:00:52.028257+00:00",
-      "data_afisaj": "18 iulie 2026, 20:00"
-    },
-    {
-      "id": "1bfe0524f9a7",
-      "titlu": "Creștere Semnificativă a Postărilor Dăunătoare pe Rețelele Sociale în Timpul Cupei Mondiale",
-      "rezumat": "FIFA a constatat o creștere alarmantă a postărilor și comentariilor dăunătoare pe rețelele sociale în timpul actualei Cupe Mondiale, înregistrând o creștere de 14 ori față de ediția din 2022. Această statistică subliniază provocările tot mai mari legate de comportamentul online și necesitatea unor măsuri mai stricte pentru a combate abuzurile. Organizația mondială a fotbalului continuă să monitorizeze situația, căutând soluții pentru a proteja jucătorii și fanii de hărțuirea online și discursul de ură.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-18T17:00:52.029866+00:00",
-      "data_afisaj": "18 iulie 2026, 20:00"
-    },
-    {
-      "id": "998d5197aa53",
-      "titlu": "Fostul Câștigător al Cupei Mondiale, Joan Capdevila, Face Apel la Donald Trump După Refuzul Permisului de Călătorie în SUA",
-      "rezumat": "Fostul internațional spaniol Joan Capdevila a lansat un apel public către președintele american Donald Trump, după ce i-a fost refuzat permisul de călătorie pentru a intra în Statele Unite, înaintea finalei Cupei Mondiale de duminică. Incidentul a stârnit controverse, mai ales având în vedere statutul său de fost campion mondial. Capdevila speră ca intervenția lui Trump să rezolve situația, permițându-i să participe la evenimentele finale ale turneului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-18T17:00:52.031739+00:00",
-      "data_afisaj": "18 iulie 2026, 20:00"
-    },
-    {
-      "id": "f88962640c69",
-      "titlu": "Momentul din Trecut care Îi Leagă pe Antrenorii Finaliști De la Fuente și Scaloni",
-      "rezumat": "Antrenorul Spaniei, Luis de la Fuente, și selecționerul Argentinei, Lionel Scaloni, se vor confrunta în finala Cupei Mondiale de duminică, însă cei doi tehnicieni se cunosc foarte bine dintr-un moment petrecut în trecut. O experiență comună, descrisă ca un 'moment de clasă', a creat o legătură specială între ei. Această poveste adaugă o dimensiune personală și interesantă duelului tactic de pe teren, evidențiind respectul reciproc dintre cei doi lideri.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-18T17:00:52.033294+00:00",
-      "data_afisaj": "18 iulie 2026, 20:00"
-    },
-    {
-      "id": "378c69f8e6af",
-      "titlu": "Gianni Infantino, Puțin Probabil Să Primească Sancțiuni din Partea CIO în Scandalul Cartonașului Roșu al lui Balogun",
-      "rezumat": "Președintele FIFA, Gianni Infantino, este puțin probabil să fie sancționat de Comitetul Olimpic Internațional (CIO) în urma plângerilor legate de scandalul cartonașului roșu al lui Folarin Balogun. O organizație pentru drepturile omului a depus o plângere formală la CIO, acuzându-l pe Infantino de încălcarea regulilor de neutralitate politică în interacțiunile sale cu Donald Trump pe marginea acestui caz. Cu toate acestea, se anticipează că Infantino va scăpa fără repercusiuni din partea CIO.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-18T17:00:52.035080+00:00",
-      "data_afisaj": "18 iulie 2026, 20:00"
     }
   ]
 }
