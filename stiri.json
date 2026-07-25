@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-25T17:02:12.776370+00:00",
-  "updated_at_afisaj": "25 iulie 2026, 20:02",
+  "updated_at": "2026-07-25T17:53:15.845258+00:00",
+  "updated_at_afisaj": "25 iulie 2026, 20:53",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,40 @@
   },
   "numar_stiri": 115,
   "stiri": [
+    {
+      "id": "eb6b74131b07",
+      "titlu": "Arsenal explorează o mutare pentru Vinicius Jr. de la Real Madrid",
+      "rezumat": "Clubul Arsenal investighează posibilitatea de a-l transfera pe aripa braziliană Vinicius Júnior de la Real Madrid. Se înțelege că Arsenal a făcut o solicitare pentru internaționalul brazilian, al cărui contract la Bernabéu mai are un an. Orice mutare pentru Vinicius, care a marcat 22 de goluri pentru Real sezonul trecut și patru pentru Brazilia la Cupa Mondială, se află într-un stadiu incipient. Această inițiativă ar putea reprezenta o achiziție majoră pentru echipa londoneză, având în vedere calitatea și impactul jucătorului pe teren.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-25T17:53:15.841577+00:00",
+      "data_afisaj": "25 iulie 2026, 20:53"
+    },
+    {
+      "id": "73eef8fefd6e",
+      "titlu": "Cupa Africii pe Națiuni la Fotbal Feminin 2026 începe duminică în Maroc",
+      "rezumat": "Cupa Africii pe Națiuni la Fotbal Feminin (Wafcon) 2026 va debuta duminică în Maroc, marcând un eveniment important în calendarul fotbalului feminin. Turneul, care include 34 de meciuri, se va desfășura între 26 iulie și 16 august. Echipe precum Capul Verde și Egipt speră să continue entuziasmul generat de recenta Cupă Mondială masculină, în timp ce Nigeria, o forță dominantă, vizează al 11-lea titlu. Competiția oferă o platformă esențială pentru dezvoltarea și promovarea fotbalului feminin pe continentul african.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-25T17:53:15.843161+00:00",
+      "data_afisaj": "25 iulie 2026, 20:53"
+    },
+    {
+      "id": "19740b1c1257",
+      "titlu": "Celtic încheie pre-sezonul cu o remiză spectaculoasă 2-2 împotriva lui AC Milan",
+      "rezumat": "Celtic a încheiat perioada de pre-sezon cu o remiză antrenantă, scor 2-2, împotriva echipei italiene AC Milan. Jucătorul Camilo Duran a impresionat din nou, contribuind cu un gol și o pasă decisivă în partida disputată. Rezultatul sugerează o formă bună pentru echipa scoțiană înaintea startului noului sezon, demonstrând capacitatea de a ține piept unei formații de calibru european. Meciul a oferit ocazia antrenorilor de a testa diverse strategii și jucători, evaluând performanța individuală și coeziunea echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-25T17:53:15.845238+00:00",
+      "data_afisaj": "25 iulie 2026, 20:53"
+    },
     {
       "id": "859a5b2403fd",
       "titlu": "Directorul lui Woking dezvăluie \"îngrijorări crescânde\" înainte de plecarea lui Defoe",
@@ -1309,39 +1343,6 @@
       ],
       "data_publicare": "2026-07-19T09:05:49.052517+00:00",
       "data_afisaj": "19 iulie 2026, 12:05"
-    },
-    {
-      "id": "15833ccfe128",
-      "titlu": "Aspectul Întunecat al Eliminării Angliei de la Cupa Mondială: Creșterea Abuzurilor Domestice",
-      "rezumat": "Pe lângă dezamăgirea sportivă, eliminarea Angliei de la Cupa Mondială a scos la iveală o problemă socială gravă. Cercetările arată că, în timpul marilor turnee de fotbal, precum Cupa Mondială, numărul cazurilor de abuz domestic crește semnificativ atunci când echipa Angliei joacă. Această realitate sumbră subliniază o latură îngrijorătoare a impactului evenimentelor sportive majore asupra societății, evidențiind necesitatea unor măsuri preventive.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-18T17:51:16.762920+00:00",
-      "data_afisaj": "18 iulie 2026, 20:51"
-    },
-    {
-      "id": "9cf521281859",
-      "titlu": "Persoanele Fără Adăpost din Atlanta, Afectate de Măsurile de „Curățare” pentru Cupa Mondială",
-      "rezumat": "În contextul organizării Cupei Mondiale, persoanele fără adăpost din Atlanta se simt vizate și excluse de măsurile de „curățare” implementate de autorități. Locuitorii afectați raportează că au fost îndepărtați din zonele centrale, percepute ca fiind o brutalitate din partea Americii. Această situație ridică semne de întrebare privind promisiunea FIFA că fotbalul unește lumea, evidențiind o realitate dură pentru comunitățile vulnerabile în timpul evenimentelor de anvergură.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-18T17:51:16.764663+00:00",
-      "data_afisaj": "18 iulie 2026, 20:51"
-    },
-    {
-      "id": "7a140eeee962",
-      "titlu": "Fereastra de Transferuri de Vară 2026: Toate Tranzacțiile din Top 5 Ligi Europene",
-      "rezumat": "O privire de ansamblu asupra tuturor transferurilor realizate în timpul ferestrei de vară din 2026, acoperind cele mai importante cinci ligi europene: Premier League, La Liga, Bundesliga, Ligue 1 și Serie A. Articolul oferă un ghid detaliat, club cu club, al achizițiilor și plecărilor, permițând fanilor să urmărească modul în care echipele se pregătesc pentru noua campanie competițională și cum se conturează forțele în fotbalul european.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-18T17:51:16.766270+00:00",
-      "data_afisaj": "18 iulie 2026, 20:51"
     }
   ]
 }
