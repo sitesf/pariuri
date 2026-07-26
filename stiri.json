@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-26T09:58:27.864961+00:00",
-  "updated_at_afisaj": "26 iulie 2026, 12:58",
+  "updated_at": "2026-07-26T17:05:54.511731+00:00",
+  "updated_at_afisaj": "26 iulie 2026, 20:05",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,62 @@
   },
   "numar_stiri": 114,
   "stiri": [
+    {
+      "id": "6319e5261660",
+      "titlu": "Federico Chiesa, fericit la Liverpool, dar își dorește un nou capitol",
+      "rezumat": "Atacantul lui Liverpool, Federico Chiesa, a declarat că este \"fericit\" la club, în ciuda speculațiilor privind viitorul său. Jucătorul italian, care a fost legat de o posibilă plecare, a subliniat că se simte bine pe Anfield, dar a sugerat că ar putea fi deschis la noi provocări în cariera sa. Declarația vine pe fondul interesului manifestat de alte cluburi europene pentru serviciile sale, alimentând discuțiile despre o potențială mutare în această vară.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-26T17:05:54.505630+00:00",
+      "data_afisaj": "26 iulie 2026, 20:05"
+    },
+    {
+      "id": "077a4f44d4bb",
+      "titlu": "Inter Milano, în discuții cu Tottenham pentru transferul căpitanului Cristian Romero",
+      "rezumat": "Clubul italian Inter Milano a inițiat negocieri cu Tottenham Hotspur pentru achiziționarea fundașului central Cristian Romero. Căpitanul lui Spurs, care a contribuit la calificarea Argentinei în a doua finală consecutivă de Cupă Mondială luna aceasta, ar putea părăsi clubul londonez în această vară pentru o sumă considerabilă. Romero a avut o perioadă intensă de cinci ani la Tottenham, iar o eventuală plecare ar reprezenta o schimbare majoră pentru ambele echipe.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-26T17:05:54.507223+00:00",
+      "data_afisaj": "26 iulie 2026, 20:05"
+    },
+    {
+      "id": "a51716454c07",
+      "titlu": "Chelsea renunță la transferul lui Granit Xhaka de la Sunderland",
+      "rezumat": "Antrenorul lui Sunderland, Régis Le Bris, a anunțat că negocierile cu Chelsea pentru transferul căpitanului Granit Xhaka sunt \"închise\". Le Bris a insistat că Sunderland nu are intenția de a-l vinde pe influentul mijlocaș elvețian în această vară. Xhaka a avut un rol crucial în calificarea lui Sunderland în Europa League sezonul trecut, după revenirea în Premier League, ceea ce a determinat Chelsea să facă o ofertă de 8 milioane de lire sterline pentru jucătorul de 33 de ani.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-26T17:05:54.508647+00:00",
+      "data_afisaj": "26 iulie 2026, 20:05"
+    },
+    {
+      "id": "b82b1a0f814b",
+      "titlu": "Arbitră rănită în timpul unui meci amical de fotbal",
+      "rezumat": "O arbitră a fost rănită și a fost nevoită să părăsească terenul după ce a fost doborâtă la pământ în timpul unui meci amical de fotbal. Incidentul a avut loc în timpul partidei, iar circumstanțele exacte ale altercației nu au fost detaliate. Arbitra a primit îngrijiri medicale și nu a putut continua meciul, ceea ce a dus la întreruperea temporară a jocului. Acest eveniment subliniază riscurile la care sunt expuși oficialii meciurilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-26T17:05:54.510028+00:00",
+      "data_afisaj": "26 iulie 2026, 20:05"
+    },
+    {
+      "id": "e72141125bbf",
+      "titlu": "Tottenham începe turneul de pre-sezon cu o victorie în fața unui public record în Noua Zeelandă",
+      "rezumat": "Tottenham Hotspur a debutat în turneul său de pre-sezon cu o victorie convingătoare, scor 2-0, împotriva campioanei A-League, Auckland FC. Golurile au fost marcate de Dane Scarlett și Richarlison. Meciul, disputat pe celebrul teren de rugby al echipei All Blacks, a atras un public de 40.112 spectatori, stabilind un nou record pentru cel mai mare număr de participanți la un meci de fotbal masculin în Noua Zeelandă. Echipa lui Tottenham a jucat cu o formulă mai puțin obișnuită.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-26T17:05:54.511712+00:00",
+      "data_afisaj": "26 iulie 2026, 20:05"
+    },
     {
       "id": "2b42514c1b3a",
       "titlu": "Atacantul Kasper Hogh de la Bodo/Glimt va efectua vizita medicală la Celtic",
@@ -1272,62 +1328,6 @@
       ],
       "data_publicare": "2026-07-19T17:52:08.926354+00:00",
       "data_afisaj": "19 iulie 2026, 20:52"
-    },
-    {
-      "id": "b4cc749d2558",
-      "titlu": "Evaluarea Jucătorilor Angliei După Locul Trei la Cupa Mondială 2026",
-      "rezumat": "După încheierea Cupei Mondiale 2026, unde Anglia a obținut locul al treilea, sursele internaționale FourFourTwo și The Guardian Football au publicat evaluări detaliate ale performanțelor individuale ale celor 24 de membri ai lotului. Analiza include aprecieri pentru jucători cheie precum Jordan Pickford, a cărui intervenție crucială în semifinală a fost evidențiată, și Jude Bellingham, a cărui contribuție a fost, de asemenea, examinată. Aceste evaluări oferă o perspectivă aprofundată asupra prestației fiecărui fotbalist englez pe parcursul turneului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-19T17:01:10.828176+00:00",
-      "data_afisaj": "19 iulie 2026, 20:01"
-    },
-    {
-      "id": "8428f82eb850",
-      "titlu": "Jude Bellingham Stabilește un Nou Record de Goluri pentru Anglia la Cupa Mondială",
-      "rezumat": "Mijlocașul englez Jude Bellingham a intrat în istoria fotbalului britanic, devenind primul jucător englez care marchează șapte goluri la o singură ediție a Cupei Mondiale. Performanța remarcabilă a fost realizată printr-un gol târziu împotriva Franței, în meciul pentru locul trei. Acest record subliniază impactul semnificativ al lui Bellingham asupra echipei Angliei pe parcursul turneului din 2026, consolidându-i statutul de figură centrală în viitorul selecționatei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-19T17:01:10.829885+00:00",
-      "data_afisaj": "19 iulie 2026, 20:01"
-    },
-    {
-      "id": "2bdcb73ca034",
-      "titlu": "Finala Cupei Mondiale 2026 Va Avea Cea Mai Lungă Pauză din Istoria Turneului",
-      "rezumat": "Finala Cupei Mondiale 2026, disputată între Spania și Argentina, va include o pauză la jumătatea meciului care se anunță a fi cea mai lungă din istoria competiției. Această decizie, confirmată de BBC Sport Football, ar putea fi influențată de evenimente speciale sau ceremonii planificate pentru marele eveniment. Detaliile exacte privind durata extinsă a pauzei nu au fost specificate, dar se anticipează că va depăși normele obișnuite ale turneului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-19T17:01:10.831593+00:00",
-      "data_afisaj": "19 iulie 2026, 20:01"
-    },
-    {
-      "id": "48e03911e750",
-      "titlu": "Youri Djorkaeff, Consilierul Principal al Președintelui FIFA, Gianni Infantino",
-      "rezumat": "Fostul câștigător al Cupei Mondiale cu Franța, Youri Djorkaeff, a dezvăluit că a fost numit consilier al președintelui FIFA, Gianni Infantino. Djorkaeff a declarat pentru FourFourTwo că a acceptat rolul într-o perioadă în care FIFA se confrunta cu numeroase critici, iar acum își dedică 99% din timp lucrului alături de Infantino. Această colaborare subliniază eforturile FIFA de a integra foști fotbaliști de renume în structurile sale de conducere și de a aborda provocările organizaționale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-07-19T17:01:10.833226+00:00",
-      "data_afisaj": "19 iulie 2026, 20:01"
-    },
-    {
-      "id": "23e9dbb104d2",
-      "titlu": "Fost Internațional Englez Cere Demiterea lui Thomas Tuchel de la Conducerea Naționalei",
-      "rezumat": "În urma eliminării Angliei de la Cupa Mondială 2026, un fost internațional englez a solicitat demiterea antrenorului Thomas Tuchel. Criticile vizează modul în care Tuchel a gestionat echipa, afirmând că a „eșuat în același mod ca înainte”. Această declarație, publicată de FourFourTwo, adaugă presiune asupra federației engleze de fotbal și alimentează dezbaterea privind viitorul selecționerului, sugerând chiar o posibilă revenire a lui Gareth Southgate.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-07-19T17:01:10.834887+00:00",
-      "data_afisaj": "19 iulie 2026, 20:01"
     }
   ]
 }
