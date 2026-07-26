@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-26T17:05:54.511731+00:00",
-  "updated_at_afisaj": "26 iulie 2026, 20:05",
+  "updated_at": "2026-07-26T17:56:32.932470+00:00",
+  "updated_at_afisaj": "26 iulie 2026, 20:56",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 114,
+  "numar_stiri": 118,
   "stiri": [
+    {
+      "id": "edca98551ae1",
+      "titlu": "St Mirren va întâlni Rangers în optimile de finală ale Cupei Ligii Scoției",
+      "rezumat": "St Mirren, deținătoarea trofeului, a fost extrasă pentru a juca în deplasare împotriva echipei Rangers în optimile de finală ale Cupei Ligii Scoției (Premier Sports Cup). De asemenea, în urma tragerii la sorți, Celtic va juca pe terenul lui Dundee United. Această etapă a competiției promite confruntări interesante între echipe de top din fotbalul scoțian, marcând un moment important în calendarul competițional.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-26T17:56:32.926928+00:00",
+      "data_afisaj": "26 iulie 2026, 20:56"
+    },
+    {
+      "id": "5decab779fcc",
+      "titlu": "Jamie Gittens, dornic să impresioneze sub comanda lui Xabi Alonso la Chelsea",
+      "rezumat": "Mijlocașul de bandă al lui Chelsea, Jamie Gittens, a declarat că va face parte din lotul lui Xabi Alonso pentru sezonul viitor și l-a descris pe noul său antrenor ca fiind \"unul dintre cei mai buni\". Gittens își exprimă entuziasmul de a lucra cu Alonso și speră să joace un rol important în planurile echipei pentru campania care urmează, subliniind încrederea sa în viziunea tehnicianului spaniol.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-26T17:56:32.928319+00:00",
+      "data_afisaj": "26 iulie 2026, 20:56"
+    },
+    {
+      "id": "b6a6d642c31e",
+      "titlu": "Stuart Maynard, demis din funcția de antrenor la York City",
+      "rezumat": "Clubul York City a confirmat plecarea antrenorului Stuart Maynard, la doar trei luni după ce acesta a reușit să readucă echipa în English Football League. Decizia vine ca o surpriză, având în vedere succesul recent al lui Maynard. Clubul va căuta acum un nou antrenor pentru a continua parcursul în liga inferioară engleză, într-o perioadă crucială pentru performanța echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-26T17:56:32.929615+00:00",
+      "data_afisaj": "26 iulie 2026, 20:56"
+    },
+    {
+      "id": "023712143e81",
+      "titlu": "Echipa feminină Arsenal își propune câștigarea campionatului după o campanie activă de transferuri",
+      "rezumat": "Echipa feminină Arsenal și-a exprimat clar ambiția de a câștiga campionatul, în ciuda unei ferestre de transferuri aglomerate, care a inclus plecarea lui Beth Mead și aducerea a șapte noi jucătoare. Absolventele academiei, precum Lotte Wubben-Moy, rămân esențiale pentru succesul echipei. Noile achiziții sunt menite să consolideze lotul și să susțină obiectivul de a cuceri trofee în sezonul următor, demonstrând o strategie clară de dezvoltare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-26T17:56:32.931060+00:00",
+      "data_afisaj": "26 iulie 2026, 20:56"
+    },
+    {
+      "id": "c732e2ad15b2",
+      "titlu": "Fereastra de transferuri de vară 2026: Toate mutările din cele mai mari cinci ligi europene",
+      "rezumat": "Un ghid detaliat prezintă toate cele mai recente transferuri din Premier League, La Liga, Bundesliga, Ligue 1 și Serie A. Acesta oferă o privire de ansamblu asupra mișcărilor de jucători din cele mai importante campionate europene, incluzând atât transferurile confirmate, cât și un ghid club cu club. De asemenea, este disponibil și un ghid interactiv pentru fereastra de transferuri din fotbalul feminin, oferind o resursă completă pentru fanii fotbalului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-26T17:56:32.932453+00:00",
+      "data_afisaj": "26 iulie 2026, 20:56"
+    },
     {
       "id": "6319e5261660",
       "titlu": "Federico Chiesa, fericit la Liverpool, dar își dorește un nou capitol",
@@ -1317,17 +1372,6 @@
       ],
       "data_publicare": "2026-07-20T10:16:07.772699+00:00",
       "data_afisaj": "20 iulie 2026, 13:16"
-    },
-    {
-      "id": "334c2488e0a9",
-      "titlu": "Cozi de Două Ore la Finala Cupei Mondiale din Cauza Prezenței lui Trump",
-      "rezumat": "Suporterii care au dorit să participe la finala Cupei Mondiale 2026 de pe stadionul New York New Jersey s-au confruntat cu cozi lungi de așteptare, care au durat până la două ore. Măsurile de securitate au fost intensificate considerabil din cauza prezenței președintelui Donald Trump la eveniment. Această situație a generat întârzieri semnificative la intrarea pe stadion, afectând experiența fanilor înaintea marelui meci.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-19T17:52:08.926354+00:00",
-      "data_afisaj": "19 iulie 2026, 20:52"
     }
   ]
 }
