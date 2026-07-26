@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-26T09:14:50.343099+00:00",
-  "updated_at_afisaj": "26 iulie 2026, 12:14",
+  "updated_at": "2026-07-26T09:58:27.864961+00:00",
+  "updated_at_afisaj": "26 iulie 2026, 12:58",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,61 @@
   },
   "numar_stiri": 114,
   "stiri": [
+    {
+      "id": "2b42514c1b3a",
+      "titlu": "Atacantul Kasper Hogh de la Bodo/Glimt va efectua vizita medicală la Celtic",
+      "rezumat": "Atacantul norvegian Kasper Hogh, legitimat la Bodo/Glimt, este așteptat să efectueze vizita medicală la Celtic în următoarele 24 de ore. Anunțul a fost făcut de managerul campioanei Scoției, Martin O'Neill. Această mutare ar reprezenta un pas important în cariera jucătorului și o întărire a lotului pentru echipa scoțiană, în perspectiva noului sezon. Transferul, dacă se va concretiza, ar aduce un plus de forță ofensivă pentru Celtic, care își propune obiective ambițioase în competițiile interne și europene.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-26T09:58:27.858615+00:00",
+      "data_afisaj": "26 iulie 2026, 12:58"
+    },
+    {
+      "id": "7f5950f3e3c7",
+      "titlu": "Real Madrid, în pole position pentru transferul lui Yan Diomande de la RB Leipzig",
+      "rezumat": "Real Madrid se află în poziția favorită pentru a-l semna pe aripa Yan Diomande de la RB Leipzig, conform informațiilor Sky din Germania. Clubul spaniol a avut deja o ofertă de 85 de milioane de lire sterline respinsă pentru tânărul jucător, însă continuă negocierile. Diomande este considerat un talent promițător și ar putea reprezenta o achiziție importantă pentru viitorul echipei din capitala Spaniei. Interesul puternic al Realului subliniază strategia clubului de a atrage jucători tineri cu potențial enorm.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-26T09:58:27.860196+00:00",
+      "data_afisaj": "26 iulie 2026, 12:58"
+    },
+    {
+      "id": "aa4ac514a63a",
+      "titlu": "Pedro Neto de la Chelsea, o țintă pentru Manchester City și noul antrenor Maresca",
+      "rezumat": "Pedro Neto, aripa lui Chelsea, a apărut pe lista de ținte a lui Manchester City și a noului manager Enzo Maresca, conform presei de duminică. Campioana Angliei își formulează o listă de jucători ofensivi vizați pentru a-și întări lotul în perspectiva sezonului viitor. Interesul pentru Neto subliniază dorința lui Maresca de a aduce noi talente la club și de a-și pune amprenta asupra echipei. Această mutare ar putea adăuga viteză și creativitate atacului lui City.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-26T09:58:27.861762+00:00",
+      "data_afisaj": "26 iulie 2026, 12:58"
+    },
+    {
+      "id": "6e465c6db516",
+      "titlu": "Legendarul fotbalist japonez „King Kazu” Miura, la 59 de ani, marchează primul gol în patru ani",
+      "rezumat": "Iconicul fotbalist japonez Kazuyoshi Miura, cunoscut sub numele de „King Kazu”, a marcat primul său gol într-un meci oficial în aproape patru ani. La vârsta de 59 de ani, Miura a înscris pentru Fukushima United în victoria categorică cu 7-0 împotriva lui Iwaki Furukawa în Cupa Împăratului. Golul a venit în minutul 52, consolidând avantajul echipei sale și demonstrând longevitatea remarcabilă a atacantului. Această performanță subliniază dedicarea și pasiunea sa continuă pentru fotbal, la o vârstă impresionantă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-26T09:58:27.863419+00:00",
+      "data_afisaj": "26 iulie 2026, 12:58"
+    },
+    {
+      "id": "51e0583a43b8",
+      "titlu": "Ghid Premier League: Transferurile realizate până acum și nevoile fiecărui club",
+      "rezumat": "Recordul de transferuri din Anglia a fost depășit în această vară, cu mutări notabile precum cele ale lui Elliot Anderson și Morgan Rogers. Un ghid detaliat, club cu club, analizează afacerile de transferuri realizate până în prezent de echipele din Premier League și identifică pozițiile pe care acestea mai trebuie să le întărească. Articolul oferă o perspectivă amplă asupra pieței de transferuri din cel mai puternic campionat european, evidențiind strategiile și prioritățile fiecărei formații înaintea noului sezon.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-26T09:58:27.864944+00:00",
+      "data_afisaj": "26 iulie 2026, 12:58"
+    },
     {
       "id": "18ef17f1bd26",
       "titlu": "Accidentarea lui Gomez umbrește debutul victorios al lui Iraola la Liverpool",
@@ -1273,64 +1328,6 @@
       ],
       "data_publicare": "2026-07-19T17:01:10.834887+00:00",
       "data_afisaj": "19 iulie 2026, 20:01"
-    },
-    {
-      "id": "6e617b3fec82",
-      "titlu": "Chelsea Stabilește un Record de Club cu Transferul lui Morgan Rogers de la Aston Villa",
-      "rezumat": "Clubul Chelsea a ajuns la un acord pentru transferul mijlocașului internațional englez Morgan Rogers de la Aston Villa, într-o tranzacție evaluată la 117 milioane de lire sterline. Această sumă reprezintă un nou record de transfer pentru Chelsea, subliniind importanța aducerii lui Rogers în echipa londoneză. Jucătorul, cunoscut pentru abilitățile sale la mijlocul terenului, este așteptat să aducă un plus de valoare și creativitate lotului, în perspectiva viitoarelor competiții. Transferul a fost confirmat de mai multe surse de top din presa sportivă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-19T09:51:14.523006+00:00",
-      "data_afisaj": "19 iulie 2026, 12:51"
-    },
-    {
-      "id": "682f4f28443a",
-      "titlu": "FIFA, Acuzată de „Ușă Deschisă Fraudelor” în Pariuri de Către Consiliul Europei",
-      "rezumat": "Secretarul general al Consiliului Europei, Alain Berset, a criticat dur FIFA, acuzând forul fotbalistic mondial că oferă o „ușă deschisă fraudelor” prin acordurile sale cu companiile de pariuri și că permite influența politică să submineze integritatea Cupei Mondiale. Într-o scrisoare deschisă publicată înaintea finalei, Berset a cerut implementarea unui nou cadru de integritate înainte de turneul din 2030. Acuzațiile vin în contextul unor controverse legate de decizii și practici ale FIFA, punând sub semnul întrebării imparțialitatea competiției.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-19T09:51:14.524726+00:00",
-      "data_afisaj": "19 iulie 2026, 12:51"
-    },
-    {
-      "id": "eb0c55b556ce",
-      "titlu": "Ronaldo Oferă un Verdict Surprinzător Înaintea Finalei Cupei Mondiale 2026",
-      "rezumat": "Legendarul fotbalist Ronaldo Nazário a făcut o declarație îndrăzneață înaintea marii finale a Campionatului Mondial din 2026, afirmând că meciul va fi „ușor” pentru una dintre echipe. Deși nu a specificat echipa favorită, comentariul său a stârnit curiozitatea și a generat discuții aprinse în rândul fanilor și analiștilor. Această predicție neașteptată de la o personalitate atât de respectată în lumea fotbalului adaugă un plus de tensiune și anticipare înaintea confruntării decisive pentru trofeul mondial.",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-07-19T09:51:14.526293+00:00",
-      "data_afisaj": "19 iulie 2026, 12:51"
-    },
-    {
-      "id": "caab45014b13",
-      "titlu": "Alertă de „Amenințare Iminentă” Emisă în New York Înaintea Finalei Cupei Mondiale",
-      "rezumat": "Locuitorii orașului New York au primit o alertă de „amenințare iminentă” direct pe telefoanele mobile sâmbătă, 18 iulie, cu puțin timp înainte de desfășurarea finalei Cupei Mondiale dintre Spania și Argentina. Alerta a fost emisă ca măsură de precauție, fără a oferi detalii specifice despre natura amenințării. Această situație a generat îngrijorare în rândul publicului și a forțelor de ordine, intensificând măsurile de securitate în jurul evenimentului sportiv major, care atrage mii de fani și turiști în oraș.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-07-19T09:51:14.527958+00:00",
-      "data_afisaj": "19 iulie 2026, 12:51"
-    },
-    {
-      "id": "ebf6cf812029",
-      "titlu": "Dominanța Spaniei la Cupa Mondială, Rezultatul Principiilor Profunde și al Culturii Colective",
-      "rezumat": "Emma Hayes, o voce respectată în fotbal, analizează succesul Spaniei la Cupa Mondială, argumentând că strălucirea echipei nu provine doar de la individualități precum Rodri sau Lamine Yamal, ci dintr-o cultură colectivă bine înrădăcinată, dezvoltată de-a lungul anilor. Hayes subliniază că dominanța Spaniei în semifinala împotriva Franței a fost construită pe o înțelegere comună a spațiului, a sincronizării și a principiilor fundamentale ale jocului. Această abordare colectivă este considerată cheia performanței excepționale a Spaniei și motivul pentru care este văzută ca cea mai bună echipă din lume.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-19T09:51:14.529643+00:00",
-      "data_afisaj": "19 iulie 2026, 12:51"
     }
   ]
 }
