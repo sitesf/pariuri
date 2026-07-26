@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-25T17:53:15.845258+00:00",
-  "updated_at_afisaj": "25 iulie 2026, 20:53",
+  "updated_at": "2026-07-26T09:14:50.343099+00:00",
+  "updated_at_afisaj": "26 iulie 2026, 12:14",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,42 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 115,
+  "numar_stiri": 114,
   "stiri": [
+    {
+      "id": "18ef17f1bd26",
+      "titlu": "Accidentarea lui Gomez umbrește debutul victorios al lui Iraola la Liverpool",
+      "rezumat": "Liverpool a început era Andoni Iraola cu o victorie de 4-2 împotriva lui Sunderland, grație golurilor marcate de Kieran Morrison, Dominik Szoboszlai, Federico Chiesa și Lewis Koumas. Meciul de debut al lui Iraola a fost însă marcat de o accidentare suferită de Joe Gomez. Această victorie reprezintă un start pozitiv pentru noul antrenor în turneul de vară al echipei în SUA, dar starea de sănătate a fundașului central rămâne o preocupare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-26T09:14:50.339809+00:00",
+      "data_afisaj": "26 iulie 2026, 12:14"
+    },
+    {
+      "id": "5cc4ccc88450",
+      "titlu": "Decesul lui Jayden Adams, mijlocașul sud-african, a șocat comunitatea fotbalistică",
+      "rezumat": "Jayden Adams, mijlocașul sud-african în vârstă de 25 de ani, a decedat la scurt timp după ce a participat la Cupa Mondială. Cei care l-au cunoscut îl descriu ca pe un om modest și muncitor, dedicat prietenilor și familiei. Antrenorul său de juniori, Steve Barker, a declarat la serviciul memorial că fotbalul era \"un spațiu sigur\" pentru Adams, subliniind luptele personale cu care s-a confruntat încă de la naștere.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-26T09:14:50.341470+00:00",
+      "data_afisaj": "26 iulie 2026, 12:14"
+    },
+    {
+      "id": "ffa60146e6be",
+      "titlu": "Când va depăși Harry Kane recordul de apariții al lui Peter Shilton pentru Anglia?",
+      "rezumat": "Căpitanul naționalei Angliei, Harry Kane, este la doar câteva apariții distanță de a deveni jucătorul cu cele mai multe selecții din istoria echipei masculine a Angliei. Acest record, deținut în prezent de legendarul portar Peter Shilton, reprezintă o bornă importantă în cariera lui Kane și un subiect de interes pentru fanii fotbalului englez. Se anticipează că atacantul va atinge această performanță în viitorul apropiat.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-07-26T09:14:50.343077+00:00",
+      "data_afisaj": "26 iulie 2026, 12:14"
+    },
     {
       "id": "eb6b74131b07",
       "titlu": "Arsenal explorează o mutare pentru Vinicius Jr. de la Real Madrid",
@@ -1297,52 +1331,6 @@
       ],
       "data_publicare": "2026-07-19T09:51:14.529643+00:00",
       "data_afisaj": "19 iulie 2026, 12:51"
-    },
-    {
-      "id": "e5000c1cd616",
-      "titlu": "Anglia învinge Franța într-un meci spectaculos cu 10 goluri și obține locul trei la Cupa Mondială",
-      "rezumat": "Naționala Angliei a învins Franța cu scorul de 6-4 în finala mică a Cupei Mondiale, asigurându-și astfel cea mai bună clasare la un Campionat Mondial masculin din 1966 încoace. Bukayo Saka a fost eroul meciului, reușind un hat-trick într-o partidă plină de dramatism și goluri. Victoria aduce Angliei medalia de bronz și încheie turneul cu o performanță notabilă, chiar dacă nu a fost cea dorită inițial. Meciul a fost considerat un thriller, oferind un spectacol ofensiv fanilor prezenți.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-19T09:05:49.046526+00:00",
-      "data_afisaj": "19 iulie 2026, 12:05"
-    },
-    {
-      "id": "4f7d529f7050",
-      "titlu": "FIFA va anunța venituri record de 15 miliarde de dolari de la Cupa Mondială, depășind așteptările",
-      "rezumat": "Federația Internațională de Fotbal (FIFA) se pregătește să anunțe venituri record de 15 miliarde de dolari (aproximativ 11,2 miliarde de lire sterline) generate de Cupa Mondială din această vară. Această sumă depășește semnificativ estimările inițiale de 11 miliarde de dolari. Membrii asociațiilor FIFA au fost informați despre această creștere substanțială a veniturilor de către Gianni Infantino. Sursele indică faptul că ospitalitatea și vânzările de bilete, în special pe piața secundară, au contribuit major la acest succes financiar excepțional al turneului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-19T09:05:49.049183+00:00",
-      "data_afisaj": "19 iulie 2026, 12:05"
-    },
-    {
-      "id": "2e7a44eb1398",
-      "titlu": "Noul transfer al lui Manchester United, Andrey Santos, a debutat într-un meci amical pierdut cu Wrexham",
-      "rezumat": "Mijlocașul brazilian Andrey Santos a înregistrat prima sa apariție pentru Manchester United într-un meci amical de pre-sezon împotriva echipei Wrexham, disputat la Helsinki. Deși Santos a avut o evoluție promițătoare după transferul său de la Chelsea, Manchester United a pierdut partida cu scorul de 1-0, singurul gol fiind marcat de Sam Smith. Echipa a jucat fără jucătorii care au participat la Cupa Mondială, oferind ocazia noilor achiziții și tinerilor de a se integra în lot și de a-și demonstra abilitățile.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-19T09:05:49.050874+00:00",
-      "data_afisaj": "19 iulie 2026, 12:05"
-    },
-    {
-      "id": "83a0bdf95cd8",
-      "titlu": "Ultima sesiune de antrenament a Spaniei înaintea finalei Cupei Mondiale, anulată din cauza furtunilor",
-      "rezumat": "Ultima sesiune de antrenament a naționalei Spaniei, programată înaintea finalei Cupei Mondiale de duminică, a fost anulată. Decizia a fost luată din cauza condițiilor meteorologice nefavorabile, respectiv a furtunilor puternice din New Jersey. Această anulare ar putea influența pregătirea finală a echipei spaniole pentru confruntarea decisivă, forțând staff-ul tehnic să ajusteze planurile în ultimul moment. Echipa se pregătea intens pentru marele meci, iar întreruperea antrenamentului reprezintă o provocare neașteptată pentru staff-ul tehnic.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-19T09:05:49.052517+00:00",
-      "data_afisaj": "19 iulie 2026, 12:05"
     }
   ]
 }
