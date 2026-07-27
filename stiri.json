@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-27T17:45:35.201797+00:00",
-  "updated_at_afisaj": "27 iulie 2026, 20:45",
+  "updated_at": "2026-07-27T18:19:49.826296+00:00",
+  "updated_at_afisaj": "27 iulie 2026, 21:19",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 120,
+  "numar_stiri": 121,
   "stiri": [
+    {
+      "id": "1ded202ee615",
+      "titlu": "Andrea Pirlo nu mai este candidat pentru postul de selecționer al Italiei",
+      "rezumat": "Andrea Pirlo a declarat că nu mai este un candidat pentru a antrena echipa națională a Italiei, în urma controverselor legate de asocierea sa cu o companie de pariuri din Rusia. Această decizie vine după mai multe zile de discuții aprinse în spațiul public, care au pus sub semnul întrebării integritatea procesului de selecție pentru postul de selecționer al \"Squadra Azzurra\". Federația Italiană de Fotbal nu a comentat oficial situația, dar se pare că presiunea publică a fost un factor decisiv.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-27T18:19:49.819451+00:00",
+      "data_afisaj": "27 iulie 2026, 21:19"
+    },
+    {
+      "id": "f6bfe4467b1c",
+      "titlu": "Real Madrid va purta discuții suplimentare privind viitorul lui Vinicius Jr.",
+      "rezumat": "Real Madrid va purta discuții suplimentare cu reprezentanții lui Vinicius Junior în această săptămână, pentru a clarifica situația viitorului său la club. Speculațiile privind o posibilă plecare a atacantului brazilian au apărut recent, cu Arsenal explorând o eventuală mutare. Clubul spaniol dorește să rezolve incertitudinea contractuală și să asigure stabilitatea lotului înainte de începerea noului sezon, având în vedere importanța jucătorului în planurile echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-27T18:19:49.821117+00:00",
+      "data_afisaj": "27 iulie 2026, 21:19"
+    },
+    {
+      "id": "a78edde82188",
+      "titlu": "Planurile lui Tottenham pentru o nouă facilitate de antrenament au fost blocate de Înalta Curte",
+      "rezumat": "Decizia consiliului local de a permite clubului Tottenham Hotspur să construiască o nouă facilitate de antrenament într-un parc din nordul Londrei a fost anulată de un judecător al Înaltei Curți. Grupul de campanie \"Guardians of Whitewebbs\" a contestat în instanță acordarea permisului de construire pentru o nouă academie de fotbal feminin și fete pe o suprafață de 6,5 hectare în Whitewebbs, argumentând împotriva impactului asupra spațiului verde public.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-27T18:19:49.822839+00:00",
+      "data_afisaj": "27 iulie 2026, 21:19"
+    },
+    {
+      "id": "ee4e615f7fe7",
+      "titlu": "Un club non-englez va juca meciurile de acasă din Liga Campionilor la Londra",
+      "rezumat": "Un club de fotbal non-englez va disputa meciurile de acasă din Liga Campionilor pe un stadion din Londra în acest sezon. Această decizie neobișnuită implică faptul că Emirates nu va fi singurul loc din capitala Angliei unde se va putea urmări fotbal de Liga Campionilor. Detaliile specifice despre clubul implicat și motivele din spatele acestei alegeri nu au fost încă pe deplin clarificate, dar se anticipează că este legată de restricții sau indisponibilitatea propriului stadion.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-07-27T18:19:49.824583+00:00",
+      "data_afisaj": "27 iulie 2026, 21:19"
+    },
+    {
+      "id": "f7a0df2626a5",
+      "titlu": "Howard Webb promite să crească numărul oficialilor de meci din grupurile minoritare",
+      "rezumat": "Howard Webb, șeful arbitrilor din Anglia, a promis că va continua să mărească numărul oficialilor de meci proveniți din comunitățile subreprezentate în fotbalul englez. El a respins criticile generale împotriva inițiativelor de diversitate, susținând că un bazin de talente mai diversificat va contribui la creșterea standardelor. Această inițiativă vizează abordarea subreprezentării istorice și crearea unui mediu mai incluziv în arbitrajul fotbalistic.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-27T18:19:49.826274+00:00",
+      "data_afisaj": "27 iulie 2026, 21:19"
+    },
     {
       "id": "2c6fd81850da",
       "titlu": "Chelsea inițiază discuții pentru transferul atacantului Danny Welbeck de la Brighton",
@@ -1343,53 +1399,6 @@
       ],
       "data_publicare": "2026-07-20T18:49:40.142559+00:00",
       "data_afisaj": "20 iulie 2026, 21:49"
-    },
-    {
-      "id": "43268596f110",
-      "titlu": "Legendarul fotbalist și antrenor Kevin Keegan a decedat la vârsta de 75 de ani",
-      "rezumat": "Fostul căpitan și antrenor al naționalei Angliei, Kevin Keegan, a murit la vârsta de 75 de ani, la șapte săptămâni după ce a fost diagnosticat cu cancer în stadiul patru. Keegan, o figură emblematică pentru cluburi precum Newcastle și Liverpool, a fost un jucător și manager iubit, cunoscut pentru energia și carisma sa. Lumea fotbalului îi aduce numeroase omagii, amintind de o carieră incredibilă, marcată de două titluri de Jucător European al Anului și momente memorabile, inclusiv dubla sa din finala Cupei Angliei din 1974.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-07-20T18:07:41.600673+00:00",
-      "data_afisaj": "20 iulie 2026, 21:07"
-    },
-    {
-      "id": "ab2417981fbd",
-      "titlu": "Președintele UEFA a boicotat finala Cupei Mondiale în semn de protest față de FIFA",
-      "rezumat": "Aleksander Ceferin, președintele UEFA, nu a participat la finala Cupei Mondiale dintre Argentina și Spania. Decizia sa vine ca un gest de protest împotriva FIFA, subliniind tensiunile existente între cele două organisme de conducere ale fotbalului mondial. Absența sa de la cel mai important eveniment al turneului marchează o poziție fermă față de anumite politici sau decizii ale forului internațional, atrăgând atenția asupra disensiunilor din spatele scenei fotbalului global.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-20T18:07:41.602338+00:00",
-      "data_afisaj": "20 iulie 2026, 21:07"
-    },
-    {
-      "id": "bbd9321d0481",
-      "titlu": "Argentina, sub investigația FIFA după incidente la finala Cupei Mondiale",
-      "rezumat": "Naționala Argentinei este probabil să se confrunte cu o investigație din partea FIFA, în urma incidentelor neplăcute care au avut loc la finalul Cupei Mondiale. Detaliile exacte ale problemelor nu au fost specificate, dar se pare că au existat scene controversate după încheierea meciului cu Spania. Această acțiune disciplinară ar putea aduce sancțiuni pentru echipa sud-americană, adăugând o notă negativă la încheierea parcursului lor la turneul final.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-20T18:07:41.603884+00:00",
-      "data_afisaj": "20 iulie 2026, 21:07"
-    },
-    {
-      "id": "85c2cace9ee3",
-      "titlu": "Pep Guardiola, în discuții pentru postul de selecționer al Italiei",
-      "rezumat": "Fostul antrenor al lui Manchester City, Pep Guardiola, este considerat un candidat serios pentru postul vacant de selecționer al naționalei Italiei. Vorbitor fluent de italiană, Guardiola ar putea prelua conducerea \"Squadra Azzurra\", o mutare care ar reprezenta o schimbare majoră în peisajul fotbalului internațional. Speculațiile privind viitorul său pe banca tehnică a unei naționale sunt în creștere, iar o eventuală numire la cârma Italiei ar stârni un interes enorm.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-20T18:07:41.605368+00:00",
-      "data_afisaj": "20 iulie 2026, 21:07"
     }
   ]
 }
