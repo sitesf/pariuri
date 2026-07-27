@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-27T10:45:09.070497+00:00",
-  "updated_at_afisaj": "27 iulie 2026, 13:45",
+  "updated_at": "2026-07-27T11:19:29.347472+00:00",
+  "updated_at_afisaj": "27 iulie 2026, 14:19",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,53 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 117,
+  "numar_stiri": 116,
   "stiri": [
+    {
+      "id": "64c4847f8ae0",
+      "titlu": "Președintele FIFA, Gianni Infantino, acuză criticii de răspândirea urii la Cupa Mondială",
+      "rezumat": "Președintele FIFA, Gianni Infantino, a reacționat la criticile aduse Cupei Mondiale, acuzându-i pe detractori de răspândirea urii și a narațiunilor false. Într-o scrisoare deschisă, Infantino a susținut că aceștia au ignorat bucuria și unitatea experimentate de milioane de fani din întreaga lume, care au fost martorii unui turneu de succes, ce a celebrat unitatea, siguranța și incluziunea. El a sugerat criticilor să mediteze, să se roage sau să urmărească un meci de fotbal în loc să răspândească ură și zvonuri false despre el și competiție.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-27T11:19:29.342743+00:00",
+      "data_afisaj": "27 iulie 2026, 14:19"
+    },
+    {
+      "id": "52e4957bf561",
+      "titlu": "Antrenorul Leicester City, Russell Martin, subliniază necesitatea de a-și găsi propria cale",
+      "rezumat": "Managerul lui Leicester City, Russell Martin, a declarat că istoria recentă a clubului nu ar trebui folosită pentru a judeca ceea ce poate realiza el cu foștii campioni din Premier League. Martin subliniază importanța de a-și găsi propria identitate și de a nu se lăsa influențat de așteptările bazate pe performanțele anterioare ale echipei. Declarațiile vin în contextul în care Leicester se pregătește pentru un nou sezon, încercând să depășească dificultățile recente și să construiască o echipă competitivă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-27T11:19:29.344417+00:00",
+      "data_afisaj": "27 iulie 2026, 14:19"
+    },
+    {
+      "id": "7cef1ea56f21",
+      "titlu": "York City îl numește pe Scott Lindsey noul antrenor principal",
+      "rezumat": "York City l-a numit pe fostul antrenor al echipei Crawley Town, Scott Lindsey, în funcția de nou antrenor principal. Numirea vine la doar o zi după demiterea surprinzătoare a lui Stuart Maynard, antrenorul care a câștigat titlul cu echipa. Lindsey preia conducerea cu obiectivul de a stabiliza performanțele clubului și de a construi o echipă capabilă să concureze la un nivel înalt în campionat. Această schimbare rapidă la nivel de conducere tehnică marchează un nou început pentru York City.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-27T11:19:29.345844+00:00",
+      "data_afisaj": "27 iulie 2026, 14:19"
+    },
+    {
+      "id": "64a16da48b8f",
+      "titlu": "Căpitanul echipei feminine Brighton, Maisie Symonds, semnează un nou contract pe termen lung",
+      "rezumat": "Căpitanul echipei feminine Brighton, Maisie Symonds, a semnat un nou contract cu clubul, descris ca fiind pe termen lung. Această prelungire subliniază angajamentul jucătoarei față de echipă și încrederea clubului în contribuția sa viitoare. Symonds este o figură cheie pentru Brighton, iar noul acord îi asigură continuitatea la club, consolidând stabilitatea echipei pentru sezoanele următoare. Semnarea contractului este o veste pozitivă pentru fanii echipei feminine Brighton.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-27T11:19:29.347455+00:00",
+      "data_afisaj": "27 iulie 2026, 14:19"
+    },
     {
       "id": "2ab18d54d955",
       "titlu": "Xabi Alonso are un plan pentru a-i integra pe Morgan Rogers și Cole Palmer la Chelsea",
@@ -1297,67 +1342,6 @@
       ],
       "data_publicare": "2026-07-20T18:07:41.605368+00:00",
       "data_afisaj": "20 iulie 2026, 21:07"
-    },
-    {
-      "id": "8284ebda35e9",
-      "titlu": "Victorie pentru fotbal? Spania a învins Argentina și a câștigat Cupa Mondială",
-      "rezumat": "Ar putea părea un clișeu banal, dar nu veți găsi mulți neutri care să nu fie de acord cu acel verdict privind finala Cupei Mondiale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-20T10:50:36.672283+00:00",
-      "data_afisaj": "20 iulie 2026, 13:50"
-    },
-    {
-      "id": "2a2094a0befa",
-      "titlu": "Villa îl semnează pe mijlocașul Wolves, Gomes, cu o afacere de 38 de milioane de lire sterline",
-      "rezumat": "Aston Villa se mută pentru mijlocașul brazilian Joao Gomes, după ce Amadou Onana a suferit o accidentare gravă la genunchi la Cupa Mondială.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-20T10:50:36.673739+00:00",
-      "data_afisaj": "20 iulie 2026, 13:50"
-    },
-    {
-      "id": "00bcc96336b8",
-      "titlu": "Cine a făcut diferența pentru Spania? Evaluările finale ale jucătorilor Cupei Mondiale",
-      "rezumat": "Jurnalistul BBC Sport Neil Johnston îi evaluează pe jucători după finala Cupei Mondiale dintre Spania și Argentina.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-20T10:50:36.675196+00:00",
-      "data_afisaj": "20 iulie 2026, 13:50"
-    },
-    {
-      "id": "e8ce97de5e49",
-      "titlu": "Spania Torres marchează singurul gol în finala Cupei Mondiale",
-      "rezumat": "Ferran Torres iese din impas, marcând în prelungiri pentru Spania în finala Cupei Mondiale împotriva Argentinei pe stadionul New York New Jersey.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-07-20T10:50:36.676557+00:00",
-      "data_afisaj": "20 iulie 2026, 13:50"
-    },
-    {
-      "id": "c07dcb37266a",
-      "titlu": "🚨 BREAKING NEWS Universitatea Craiova și-a aflat adversarul din turul 3 preliminar al Ligii Campionilor!",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-07-20T10:50:36.678225+00:00",
-      "data_afisaj": "20 iulie 2026, 13:50"
     }
   ]
 }
