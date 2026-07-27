@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-26T17:56:32.932470+00:00",
-  "updated_at_afisaj": "26 iulie 2026, 20:56",
+  "updated_at": "2026-07-27T10:45:09.070497+00:00",
+  "updated_at_afisaj": "27 iulie 2026, 13:45",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,53 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 118,
+  "numar_stiri": 117,
   "stiri": [
+    {
+      "id": "2ab18d54d955",
+      "titlu": "Xabi Alonso are un plan pentru a-i integra pe Morgan Rogers și Cole Palmer la Chelsea",
+      "rezumat": "Antrenorul lui Chelsea, Xabi Alonso, a declarat că are un „plan” pentru a-l integra pe Morgan Rogers, cel mai scump transfer al clubului, în valoare de 117 milioane de lire sterline, alături de Cole Palmer. Această declarație vine în contextul în care fanii și analiștii se întreabă cum va reuși tehnicianul spaniol să gestioneze prezența ambilor jucători talentați în primul unsprezece, având în vedere pozițiile similare pe care le pot ocupa pe teren. Alonso a subliniat importanța flexibilității tactice și a adaptării la calitățile individuale ale fiecărui fotbalist pentru a maximiza potențialul ofensiv al echipei în noul sezon.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-27T10:45:09.063803+00:00",
+      "data_afisaj": "27 iulie 2026, 13:45"
+    },
+    {
+      "id": "d5ef50f85a4e",
+      "titlu": "Cheltuielile record ale lui Tottenham indică o nouă ambiție, conform lui Micky van de Ven",
+      "rezumat": "Fundașul lui Tottenham, Micky van de Ven, a afirmat că investițiile record ale clubului în transferuri subliniază o „nouă ambiție” după un sezon considerat „inacceptabil”. Declarația sa vine în contextul în care echipa londoneză încearcă să se întărească semnificativ pentru a concura la cel mai înalt nivel. Van de Ven a subliniat că sumele cheltuite demonstrează angajamentul conducerii de a readuce clubul în top și de a lupta pentru trofee, oferind un mesaj clar atât jucătorilor, cât și fanilor cu privire la obiectivele stabilite pentru viitorul apropiat.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-27T10:45:09.065542+00:00",
+      "data_afisaj": "27 iulie 2026, 13:45"
+    },
+    {
+      "id": "e5f29a21815b",
+      "titlu": "Derek McInnes provoacă Rangers să aibă ambiția de a câștiga titlul",
+      "rezumat": "Antrenorul Derek McInnes a lansat o provocare echipei Rangers, îndemnându-i pe jucători să aibă „ambiția” de a câștiga titlul în acest sezon. Declarația sa vine înaintea startului campionatului, subliniind importanța mentalității de învingător și a setării unor obiective înalte. McInnes a accentuat că, deși competiția va fi acerbă, Rangers trebuie să creadă în propriile forțe și să lupte cu determinare pentru a-și îndeplini potențialul și a aduce trofeul acasă, inspirând astfel un spirit de luptă în rândul lotului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-27T10:45:09.067046+00:00",
+      "data_afisaj": "27 iulie 2026, 13:45"
+    },
+    {
+      "id": "6d6bd656f806",
+      "titlu": "Gestionarea așteptărilor și cerințelor, cheia succesului pentru Hibernian, spune David Gray",
+      "rezumat": "Antrenorul principal al echipei Hibernian, David Gray, este ferm convins că adaptarea la „așteptări și cerințe” va fi crucială pentru un sezon de succes al clubului de pe Easter Road. Gray a subliniat că, pe lângă pregătirea fizică și tactică, aspectul mental și capacitatea jucătorilor de a gestiona presiunea publicului și a obiectivelor stabilite vor juca un rol esențial. El a încurajat echipa să abordeze fiecare meci cu încredere și să transforme presiunea într-o motivație suplimentară pentru a obține performanțe notabile în campionatul scoțian.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-27T10:45:09.068714+00:00",
+      "data_afisaj": "27 iulie 2026, 13:45"
+    },
     {
       "id": "edca98551ae1",
       "titlu": "St Mirren va întâlni Rangers în optimile de finală ale Cupei Ligii Scoției",
@@ -1313,65 +1358,6 @@
       ],
       "data_publicare": "2026-07-20T10:50:36.678225+00:00",
       "data_afisaj": "20 iulie 2026, 13:50"
-    },
-    {
-      "id": "376f01d85275",
-      "titlu": "Spania Învinge Argentina și Câștigă Cupa Mondială 2026",
-      "rezumat": "Spania a cucerit titlul de campioană mondială la fotbal, învingând Argentina în finala Cupei Mondiale 2026. Victoria a fost considerată de mulți observatori neutri drept un triumf pentru fotbal. Meciul a marcat un moment istoric, Spania demonstrând o performanță solidă pe parcursul întregului turneu. Această victorie subliniază ascensiunea fotbalului spaniol la nivel global, consolidându-i poziția de forță în sportul rege.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-20T10:16:07.766130+00:00",
-      "data_afisaj": "20 iulie 2026, 13:16"
-    },
-    {
-      "id": "da7b17ed7fb5",
-      "titlu": "Ferran Torres Marchează Unicul Gol al Finalei Cupei Mondiale",
-      "rezumat": "Ferran Torres a fost eroul Spaniei în finala Cupei Mondiale împotriva Argentinei, marcând singurul gol al partidei în prelungiri. Atacantul spaniol a spart echilibrul pe stadionul New York New Jersey, aducând avantajul decisiv echipei sale. Golul său a asigurat victoria Spaniei și a consfințit succesul într-un meci tensionat și disputat până la capăt, demonstrând importanța momentelor decisive în fotbal.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-07-20T10:16:07.767669+00:00",
-      "data_afisaj": "20 iulie 2026, 13:16"
-    },
-    {
-      "id": "aebe303e53c2",
-      "titlu": "Evaluarea Jucătorilor Spaniei După Victoria în Finala Cupei Mondiale",
-      "rezumat": "Jurnaliștii BBC Sport au publicat evaluările individuale ale jucătorilor după finala Cupei Mondiale dintre Spania și Argentina. Analiza detaliază performanțele fiecărui fotbalist spaniol, evidențiind contribuțiile cheie care au dus la câștigarea trofeului. Aceste ratinguri oferă o perspectivă asupra modului în care fiecare jucător a influențat rezultatul istoric al Spaniei, oferind o imagine completă a prestației colective și individuale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-20T10:16:07.769165+00:00",
-      "data_afisaj": "20 iulie 2026, 13:16"
-    },
-    {
-      "id": "6f317c878ef4",
-      "titlu": "Kylian Mbappe Câștigă Gheata de Aur pentru a Doua Oară, Rodri Desemnat Cel Mai Bun Jucător",
-      "rezumat": "Kylian Mbappe a intrat în istorie devenind primul jucător care câștigă Gheata de Aur la Cupa Mondială de două ori, fiind golgheterul ediției din 2026. De asemenea, mijlocașul spaniol Rodri a fost recompensat cu Balonul de Aur, trofeul acordat celui mai bun jucător al turneului. Aceste distincții individuale subliniază performanțele excepționale ale celor doi fotbaliști pe parcursul competiției, recunoscând impactul lor major.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-20T10:16:07.770931+00:00",
-      "data_afisaj": "20 iulie 2026, 13:16"
-    },
-    {
-      "id": "d25adbcf69a9",
-      "titlu": "Antrenorul Argentinei, Lionel Scaloni, În Lacrimi la Conferința de Presă După Finala Cupei Mondiale",
-      "rezumat": "Selecționerul Argentinei, Lionel Scaloni, a părăsit vizibil emoționat și în lacrimi conferința de presă de după înfrângerea echipei sale în finala Cupei Mondiale împotriva Spaniei. Scaloni a vorbit despre viitorul său la cârma naționalei, exprimându-și incertitudinea și profundul regret după rezultatul meciului. Momentul a reflectat presiunea și dezamăgirea resimțite de antrenor, marcând un final dramatic pentru campania Argentinei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-20T10:16:07.772699+00:00",
-      "data_afisaj": "20 iulie 2026, 13:16"
     }
   ]
 }
