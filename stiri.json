@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-28T09:38:08.851412+00:00",
-  "updated_at_afisaj": "28 iulie 2026, 12:38",
+  "updated_at": "2026-07-28T10:33:32.930516+00:00",
+  "updated_at_afisaj": "28 iulie 2026, 13:33",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,62 @@
   },
   "numar_stiri": 118,
   "stiri": [
+    {
+      "id": "d25adbcf69a9",
+      "titlu": "Antrenorul Argentinei, Lionel Scaloni, în lacrimi la conferința de presă după finala Cupei Mondiale",
+      "rezumat": "Selecționerul Argentinei, Lionel Scaloni, a părăsit vizibil emoționat și în lacrimi conferința de presă de după înfrângerea echipei sale în finala Cupei Mondiale împotriva Spaniei. Momentul a avut loc duminică, iar Scaloni a vorbit despre viitorul său la cârma naționalei, lăsând să se înțeleagă o posibilă incertitudine. Reacția sa emoțională a stârnit discuții intense în presa sportivă internațională, având în vedere importanța evenimentului și presiunea resimțită de antrenor după o performanță de anvergură la cel mai înalt nivel al fotbalului mondial.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-28T10:33:32.924560+00:00",
+      "data_afisaj": "28 iulie 2026, 13:33"
+    },
+    {
+      "id": "b860adb86de5",
+      "titlu": "James Trafford devine cel mai scump portar britanic din istorie, transferat la Leeds",
+      "rezumat": "Portarul James Trafford este pe cale să devină cel mai scump goalkeeper britanic din istorie, odată cu transferul său de la Manchester City la Leeds United, pentru o sumă de 40 de milioane de lire sterline. Această mutare subliniază încrederea clubului Leeds în potențialul tânărului portar, care este considerat o investiție strategică pe termen lung. Suma record reflectă valoarea atribuită de club abilităților sale, plasându-l într-o categorie selectă alături de portari de top la nivel mondial.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-28T10:33:32.926043+00:00",
+      "data_afisaj": "28 iulie 2026, 13:33"
+    },
+    {
+      "id": "ca22a4cd3a5f",
+      "titlu": "Chelsea manifestă interes pentru transferul lui Jordan Henderson de la Brentford",
+      "rezumat": "Clubul Chelsea este interesat de achiziționarea mijlocașului Jordan Henderson de la Brentford. Această potențială mutare vine după ce clubul londonez a purtat discuții pozitive și cu Danny Welbeck, indicând o strategie de a aduce jucători experimentați în lot. Henderson, în vârstă de 36 de ani, ar putea aduce un plus de experiență și leadership la mijlocul terenului pentru echipa antrenată de Xabi Alonso, în contextul ambițiilor clubului pentru sezonul viitor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-28T10:33:32.927442+00:00",
+      "data_afisaj": "28 iulie 2026, 13:33"
+    },
+    {
+      "id": "b7bb54c55438",
+      "titlu": "Legenda fotbalului japonez, la 59 de ani, marchează înainte de al 42-lea său sezon profesionist",
+      "rezumat": "Kazuyoshi Miura, o adevărată legendă a fotbalului japonez, a reușit să marcheze un gol la vârsta de 59 de ani, pregătindu-se astfel pentru cel de-al 42-lea său sezon profesionist. Cariera sa impresionantă a început în 1986, iar longevitatea și dedicarea sa continuă să inspire. Performanța sa recentă subliniază pasiunea neclintită pentru sport și capacitatea de a rămâne competitiv la o vârstă la care majoritatea fotbaliștilor s-au retras de mult timp.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-07-28T10:33:32.928996+00:00",
+      "data_afisaj": "28 iulie 2026, 13:33"
+    },
+    {
+      "id": "a41da609f087",
+      "titlu": "Manchester United amenință să blocheze abonamentele fanilor pe fondul disputelor privind revânzarea biletelor",
+      "rezumat": "Manchester United a stârnit nemulțumirea suporterilor săi după ce a amenințat cu blocarea abonamentelor, în contextul eforturilor clubului de a identifica și combate revânzarea ilegală a biletelor. Fanii s-au declarat furioși de măsurile luate de club, care vizează depistarea potențialilor \"bișnițari\" de bilete. Această decizie a generat tensiuni semnificative între conducerea clubului și baza sa de suporteri, ridicând întrebări despre modul în care sunt gestionate relațiile cu fanii fideli.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-07-28T10:33:32.930496+00:00",
+      "data_afisaj": "28 iulie 2026, 13:33"
+    },
     {
       "id": "3e1a4282af6a",
       "titlu": "Zinedine Zidane confirmat ca antrenor principal al Franței",
@@ -1312,61 +1368,6 @@
       ],
       "data_publicare": "2026-07-21T17:24:09.105223+00:00",
       "data_afisaj": "21 iulie 2026, 20:24"
-    },
-    {
-      "id": "298c6e30891d",
-      "titlu": "Atacantul Jhon Duran se alătură echipei Benfica sub formă de împrumut",
-      "rezumat": "Fostul atacant al echipei Aston Villa, Jhon Duran, a semnat un contract de împrumut pe un sezon cu Benfica Lisabona. Jucătorul columbian, în vârstă de 22 de ani, vine de la clubul saudit Al-Nassr. Această mutare marchează al șaptelea club din cariera tânărului fotbalist, oferindu-i o nouă oportunitate de a-și demonstra calitățile într-un campionat european de top.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-21T10:24:57.021350+00:00",
-      "data_afisaj": "21 iulie 2026, 13:24"
-    },
-    {
-      "id": "dd9272466da5",
-      "titlu": "Echipamente de fotbal contrafăcute în valoare de 18 milioane de lire sterline, confiscate în timpul Cupei Mondiale",
-      "rezumat": "Poliția din Marea Britanie a confiscat tricouri de fotbal contrafăcute în valoare de peste 18 milioane de lire sterline pe durata Cupei Mondiale. Aceste confiscări au fost efectuate din motive de siguranță, Serviciul de Pompieri avertizând că materialele din care sunt fabricate aceste articole pot reprezenta un pericol pentru purtători. Acțiunea subliniază eforturile autorităților de a combate comerțul ilegal cu produse sportive și de a proteja consumatorii.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-21T10:24:57.023094+00:00",
-      "data_afisaj": "21 iulie 2026, 13:24"
-    },
-    {
-      "id": "bcfbbf4ad7dd",
-      "titlu": "Everton ajunge la un acord pentru transferul jucătoarei Jutta Rantala de la Leicester",
-      "rezumat": "Clubul Everton a confirmat că a ajuns la un acord pentru transferul jucătoarei internaționale finlandeze Jutta Rantala de la Leicester City. Această mutare reprezintă o achiziție importantă pentru echipa feminină a lui Everton, aducând experiență și talent din campionatul englez. Rantala este recunoscută pentru contribuțiile sale la Leicester și la echipa națională a Finlandei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-21T10:24:57.024704+00:00",
-      "data_afisaj": "21 iulie 2026, 13:24"
-    },
-    {
-      "id": "9f619b7eecf7",
-      "titlu": "Enzo Maresca preia conducerea tehnică a echipei Manchester City",
-      "rezumat": "Manchester City începe o nouă eră managerială, numindu-l pe Enzo Maresca în funcția de antrenor principal. Această decizie vine în urma plecării lui Pep Guardiola de la club. Maresca se confruntă cu provocarea de a menține standardele înalte stabilite de predecesorul său și de a continua succesul echipei în competițiile interne și europene.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-21T10:24:57.026174+00:00",
-      "data_afisaj": "21 iulie 2026, 13:24"
-    },
-    {
-      "id": "138f93aeabd7",
-      "titlu": "Discuții confirmate pentru o Cupă Mondială cu 64 de echipe în 2030",
-      "rezumat": "Au fost confirmate discuții privind extinderea formatului Cupei Mondiale din 2030 la 64 de echipe. Această propunere ar modifica semnificativ structura turneului, crescând numărul de participanți și, implicit, de meciuri. Decizia finală va avea un impact major asupra organizării și logisticii viitoarelor ediții ale competiției, precum și asupra oportunităților pentru mai multe națiuni de a participa la cel mai prestigios eveniment fotbalistic.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-21T10:24:57.027686+00:00",
-      "data_afisaj": "21 iulie 2026, 13:24"
     }
   ]
 }
