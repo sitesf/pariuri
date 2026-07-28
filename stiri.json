@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-28T10:33:32.930516+00:00",
-  "updated_at_afisaj": "28 iulie 2026, 13:33",
+  "updated_at": "2026-07-28T17:37:41.348834+00:00",
+  "updated_at_afisaj": "28 iulie 2026, 20:37",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,67 @@
   },
   "numar_stiri": 118,
   "stiri": [
+    {
+      "id": "06b32442d9ae",
+      "titlu": "UEFA critică planurile FIFA de a atrage investiții private pentru Cupa Mondială",
+      "rezumat": "Forul european de fotbal, UEFA, a reacționat vehement la propunerile FIFA de a căuta investiții private pentru competițiile sale, inclusiv Cupa Mondială. UEFA a acuzat FIFA că \"încearcă să vândă sufletul fotbalului\" prin planurile de a ceda drepturi comerciale în valoare de 20 de miliarde de dolari către investitori privați. Această mișcare controversată a stârnit un val de critici și ar putea duce la acțiuni legale din partea UEFA, care consideră că FIFA depășește o limită prin aceste demersuri financiare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-28T17:37:41.342833+00:00",
+      "data_afisaj": "28 iulie 2026, 20:37"
+    },
+    {
+      "id": "8f0fce50d776",
+      "titlu": "Xabi Alonso debutează cu o victorie spectaculoasă la Chelsea",
+      "rezumat": "Xabi Alonso a început mandatul de antrenor la Chelsea cu o victorie dramatică, scor 6-4, împotriva echipei Western Sydney Wanderers într-un meci amical de pre-sezon. Atacantul Joao Pedro a fost eroul partidei, marcând un hat-trick în doar nouă minute. Meciul a fost marcat de o ofensivă prolifică a ambelor echipe, oferind un spectacol cu zece goluri. Alonso a subliniat importanța construirii unui echilibru adecvat în lot, în ciuda speculațiilor privind transferurile.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "FourFourTwo",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-28T17:37:41.344298+00:00",
+      "data_afisaj": "28 iulie 2026, 20:37"
+    },
+    {
+      "id": "b7b9166a306a",
+      "titlu": "Roberto Mancini redevine selecționerul Italiei, Claudio Ranieri director tehnic",
+      "rezumat": "Roberto Mancini a fost numit pentru a doua oară selecționer al echipei naționale de fotbal a Italiei, la doar o zi după ce Andrea Pirlo s-a retras din cursa pentru acest post. Președintele Federației Italiene de Fotbal (FIGC), Giovanni Malagò, a confirmat, de asemenea, numirea lui Claudio Ranieri în funcția de director tehnic, înlocuindu-l pe Paolo Maldini. Mancini revine la conducerea \"Azzurrilor\" după ce a mai ocupat această poziție, preluând echipa de la Gennaro Gattuso.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-28T17:37:41.345878+00:00",
+      "data_afisaj": "28 iulie 2026, 20:37"
+    },
+    {
+      "id": "44a4012219b7",
+      "titlu": "Celtic realizează un transfer record, aducându-l pe Kasper Hogh",
+      "rezumat": "Clubul scoțian Celtic a stabilit un nou record de transfer, achiziționându-l pe atacantul danez Kasper Hogh de la Bodo/Glimt. Jucătorul a semnat un contract pe o perioadă de patru ani. Această mutare subliniază ambițiile clubului de a-și consolida lotul și de a-și îmbunătăți performanțele în competițiile interne și europene. Hogh este considerat o piesă importantă în strategia de dezvoltare a echipei pentru sezoanele următoare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-28T17:37:41.347398+00:00",
+      "data_afisaj": "28 iulie 2026, 20:37"
+    },
+    {
+      "id": "c298a42789cb",
+      "titlu": "Oficialii europeni ai arbitrajului cer utilizarea VAR doar pentru erori flagrante",
+      "rezumat": "Oficialii europeni responsabili cu arbitrajul au declarat că sistemul de arbitraj video (VAR) ar trebui folosit doar pentru a corecta deciziile \"evident incorecte\" și incidentele clare ratate de arbitrii de pe teren. Această directivă vine în contextul dezbaterilor continue privind modul de implementare și impactul VAR asupra jocului. Scopul este de a reduce intervențiile minore și de a asigura că tehnologia este utilizată pentru a menține integritatea deciziilor cheie, fără a fragmenta excesiv ritmul meciurilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-28T17:37:41.348815+00:00",
+      "data_afisaj": "28 iulie 2026, 20:37"
+    },
     {
       "id": "d25adbcf69a9",
       "titlu": "Antrenorul Argentinei, Lionel Scaloni, în lacrimi la conferința de presă după finala Cupei Mondiale",
@@ -1308,66 +1369,6 @@
       ],
       "data_publicare": "2026-07-21T18:12:12.521773+00:00",
       "data_afisaj": "21 iulie 2026, 21:12"
-    },
-    {
-      "id": "8fc88dd54aac",
-      "titlu": "'Presiunea este intensă și controlul constant' - arbitrul Taylor se retrage",
-      "rezumat": "Anthony Taylor își anunță retragerea din arbitraj cu efect imediat - punând capăt unei cariere de 20 de ani.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-21T17:24:09.100996+00:00",
-      "data_afisaj": "21 iulie 2026, 20:24"
-    },
-    {
-      "id": "2b9d0617ad79",
-      "titlu": "Villa în discuții pentru a-l semna pe Garnacho de la Chelsea",
-      "rezumat": "Aston Villa intră în discuții pentru a-l semna pe aripa lui Chelsea, Alejandro Garnacho, sub formă de împrumut, cu o potențială obligație de cumpărare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-21T17:24:09.102098+00:00",
-      "data_afisaj": "21 iulie 2026, 20:24"
-    },
-    {
-      "id": "d852d250e012",
-      "titlu": "Momentele definitorii ale Cupei Mondiale 2026",
-      "rezumat": "De la debuturi istorice la Cupa Mondială și prime victorii emoționante, la noi vedete și strălucirea legendelor - retrăiește momentele definitorii ale Cupei Mondiale FIFA 2026.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-21T17:24:09.103123+00:00",
-      "data_afisaj": "21 iulie 2026, 20:24"
-    },
-    {
-      "id": "8629480ac971",
-      "titlu": "Ținta Arsenal, Chelsea și Man Utd, Scott, refuză noul contract cu Bournemouth",
-      "rezumat": "Alex Scott a refuzat un nou contract cu Bournemouth pe fondul interesului puternic din partea lui Arsenal, Chelsea și Manchester United, înțelege Sky Sports News.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-21T17:24:09.104240+00:00",
-      "data_afisaj": "21 iulie 2026, 20:24"
-    },
-    {
-      "id": "50394be66906",
-      "titlu": "Consorțiu în discuții pentru a cumpăra o participație minoritară la Liverpool",
-      "rezumat": "Un consorțiu condus de omul de afaceri milionar britanic-indian Amit Bhatia își exprimă interesul de a cumpăra o participație minoritară la Liverpool.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-21T17:24:09.105223+00:00",
-      "data_afisaj": "21 iulie 2026, 20:24"
     }
   ]
 }
