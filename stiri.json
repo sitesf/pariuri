@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-28T18:07:48.716093+00:00",
-  "updated_at_afisaj": "28 iulie 2026, 21:07",
+  "updated_at": "2026-07-29T09:39:30.013203+00:00",
+  "updated_at_afisaj": "29 iulie 2026, 12:39",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,52 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 123,
+  "numar_stiri": 117,
   "stiri": [
+    {
+      "id": "d757647c21a8",
+      "titlu": "Jack Grealish ratează turneul lui Manchester City în Asia",
+      "rezumat": "Atacantul Jack Grealish nu va face parte din lotul lui Manchester City pentru turneul de pre-sezon din Asia, în ciuda faptului că a revenit la antrenamente. Decizia clubului vine pe fondul recuperării sale continue după o accidentare la picior. Această absență este considerată o măsură de precauție, menită să-i asigure o refacere completă și să-l pregătească optim pentru debutul noului sezon competițional, evitând riscurile unei recidive.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-29T09:39:30.007772+00:00",
+      "data_afisaj": "29 iulie 2026, 12:39"
+    },
+    {
+      "id": "5aa07aaacad6",
+      "titlu": "Crystal Palace poartă discuții cu fostul fundaș al lui Arsenal, Takehiro Tomiyasu",
+      "rezumat": "Fundașul japonez Takehiro Tomiyasu, fost jucător la Arsenal, se află în negocieri cu Crystal Palace. Jucătorul se antrenează deja alături de echipa londoneză și a fost inclus pe banca de rezerve într-un meci amical de pre-sezon împotriva formației Lens. Această potențială mutare ar aduce experiență în Premier League apărării lui Palace și ar reprezenta o achiziție importantă pentru club înaintea noului sezon.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-29T09:39:30.010067+00:00",
+      "data_afisaj": "29 iulie 2026, 12:39"
+    },
+    {
+      "id": "bf28e05d81a7",
+      "titlu": "Creștere a scandărilor abuzive anti-imigranți în fotbalul englez",
+      "rezumat": "Un nou raport al organizației anti-discriminare Kick It Out a evidențiat o creștere îngrijorătoare a scandărilor abuzive împotriva imigranților în meciurile de fotbal din Anglia. Sezonul trecut au fost înregistrate 39 de rapoarte de scandări anti-imigranți, un număr mai mare decât în ultimele două sezoane combinate. Expresii precum „opriți bărcile” și „trimiteți-i înapoi” au fost semnalate la toate nivelurile jocului, indicând o problemă persistentă și în creștere în sportul britanic.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-29T09:39:30.011600+00:00",
+      "data_afisaj": "29 iulie 2026, 12:39"
+    },
+    {
+      "id": "6ec8fb99b00e",
+      "titlu": "Community Shield se va disputa în afara Angliei pentru prima dată în 20 de ani",
+      "rezumat": "Tradiționala partidă Community Shield, care marchează deschiderea sezonului intern englez, va avea loc în acest an în afara Angliei, o premieră în ultimele două decenii. Această decizie reprezintă o schimbare semnificativă în organizarea evenimentului. Meciul, care opune campioana Premier League și câștigătoarea Cupei Angliei, va fi găzduit de o locație internațională, atrăgând atenția asupra globalizării fotbalului englez și a strategiilor de promovare a acestuia.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-07-29T09:39:30.013183+00:00",
+      "data_afisaj": "29 iulie 2026, 12:39"
+    },
     {
       "id": "80b7a5ce83a7",
       "titlu": "Derek McInnes este pe cale să înceapă era la Rangers, în ciuda unei suspendări SFA",
@@ -1309,122 +1353,6 @@
       ],
       "data_publicare": "2026-07-22T10:24:23.431777+00:00",
       "data_afisaj": "22 iulie 2026, 13:24"
-    },
-    {
-      "id": "da13e91154fe",
-      "titlu": "Antrenorul Liverpool, Iraola, dorește ca Mac Allister și Alisson să rămână la club",
-      "rezumat": "Antrenorul principal al echipei Liverpool, Andoni Iraola, a declarat că își dorește ca mijlocașul Alexis Mac Allister și portarul Alisson Becker să continue la club. Declarația vine în contextul speculațiilor privind viitorul jucătorilor cheie și subliniază importanța pe care tehnicianul o acordă stabilității lotului pentru sezoanele viitoare. Ambii jucători sunt considerați piloni ai echipei, iar menținerea lor este crucială pentru obiectivele sportive ale clubului, consolidând strategia pe termen lung a formației. Această poziție fermă a antrenorului vizează evitarea oricăror plecări neașteptate.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-22T09:29:02.880903+00:00",
-      "data_afisaj": "22 iulie 2026, 12:29"
-    },
-    {
-      "id": "8041ccdd7b15",
-      "titlu": "Arsenal o transferă pe portarul spaniol Misa Rodriguez, liberă de contract",
-      "rezumat": "Clubul Arsenal a anunțat achiziționarea portarului spaniol Misa Rodriguez, care sosește liberă de contract. Aceasta reprezintă a șasea semnare a verii pentru echipa feminină din Women's Super League. Transferul subliniază intenția clubului de a-și consolida lotul înaintea noului sezon, aducând o jucătoare cu experiență internațională, care a reprezentat Spania. Misa Rodriguez va aduce un plus de valoare și concurență în poarta echipei londoneze, contribuind la ambițiile de performanță ale clubului în competițiile interne și europene.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-22T09:29:02.882145+00:00",
-      "data_afisaj": "22 iulie 2026, 12:29"
-    },
-    {
-      "id": "0995db7eec39",
-      "titlu": "Bournemouth a respins o ofertă de 64 de milioane de lire sterline de la Chelsea pentru Alex Scott",
-      "rezumat": "Clubul Bournemouth a refuzat o ofertă de 64 de milioane de lire sterline din partea Chelsea pentru mijlocașul Alex Scott. Decizia vine după ce jucătorul a respins o propunere de prelungire a contractului cu Bournemouth, atrăgând un interes crescut din partea mai multor cluburi din Premier League. Suma considerabilă arată valoarea atribuită jucătorului pe piața transferurilor, iar refuzul Bournemouth indică dorința clubului de a-l păstra sau de a obține o sumă și mai mare în viitor, în ciuda interesului puternic.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-22T09:29:02.883428+00:00",
-      "data_afisaj": "22 iulie 2026, 12:29"
-    },
-    {
-      "id": "557948924312",
-      "titlu": "Newcastle cere 80 de milioane de lire sterline pentru Bruno Guimaraes, ținta lui Arsenal",
-      "rezumat": "Clubul Newcastle United este nemulțumit de insistența celor de la Arsenal pentru transferul mijlocașului Bruno Guimaraes și va lua în considerare vânzarea acestuia doar pentru o sumă de peste 80 de milioane de lire sterline. Potrivit reporterului Sky Sports News, Keith Downie, Newcastle dorește să-și păstreze jucătorul cheie, dar este pregătit să negocieze la o evaluare financiară semnificativă. Această cerere ridicată reflectă importanța lui Guimaraes pentru planurile echipei și determinarea clubului de a nu-l ceda ușor, consolidându-și poziția în negocieri.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-22T09:29:02.884844+00:00",
-      "data_afisaj": "22 iulie 2026, 12:29"
-    },
-    {
-      "id": "f3ad8c685195",
-      "titlu": "Morgan Rogers se alătură echipei Chelsea într-un transfer record de 117 milioane de lire sterline",
-      "rezumat": "Internaționalul englez Morgan Rogers a semnat cu Chelsea un contract pe șapte ani, devenind cel mai scump transfer din istoria clubului, pentru o sumă de 117 milioane de lire sterline de la Aston Villa. Acordul a fost finalizat sâmbătă, Chelsea reușind să-l achiziționeze pe jucătorul de 23 de ani înaintea lui Arsenal, care fusese anterior în discuții avansate. Rogers a declarat că este entuziasmat să se alăture \"celui mai mare club din Londra\", subliniind ambițiile sale și ale noii sale echipe pentru viitorul fotbalistic.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-22T09:29:02.886200+00:00",
-      "data_afisaj": "22 iulie 2026, 12:29"
-    },
-    {
-      "id": "c545beabd5fc",
-      "titlu": "Președintele La Liga și Sepp Blatter cer demisia lui Gianni Infantino de la FIFA",
-      "rezumat": "Președintele La Liga, Javier Tebas, a cerut demisia președintelui FIFA, Gianni Infantino, acuzând organismul de conducere că \"distruge industria fotbalului\". Tebas a declarat că \"timpul său a expirat\", o poziție susținută și de fostul președinte FIFA, Sepp Blatter. Criticile vin pe fondul prioritizării Cupei Mondiale în detrimentul competițiilor naționale, considerată o problemă fundamentală care afectează structura fotbalului global.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-21T18:12:12.515462+00:00",
-      "data_afisaj": "21 iulie 2026, 21:12"
-    },
-    {
-      "id": "18ac7e6278dd",
-      "titlu": "Sir Alex Ferguson aduce un omagiu lui Kevin Keegan, numind echipa Newcastle a acestuia \"cea mai mare\"",
-      "rezumat": "Sir Alex Ferguson, fostul manager al lui Manchester United, a adus un tribut emoționant lui Kevin Keegan, care a decedat recent la vârsta de 75 de ani. Ferguson a declarat că Keegan a construit \"cea mai mare echipă\" a lui Newcastle United și a subliniat că acesta \"a purtat dragostea pentru joc pe mânecă\". Ferguson a exprimat \"cel mai mare respect\" pentru fostul său rival, cu care a avut o luptă intensă pentru titlul Premier League în 1996.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-21T18:12:12.517136+00:00",
-      "data_afisaj": "21 iulie 2026, 21:12"
-    },
-    {
-      "id": "b42cff8f46e2",
-      "titlu": "Fanii Manchester United protestează împotriva suspendării abonamentelor de sezon",
-      "rezumat": "Grupurile de suporteri ale clubului Manchester United și-au exprimat furia față de decizia clubului de a suspenda abonamentele de sezon pentru unii fani, ca parte a unei măsuri de combatere a revânzării ilegale a biletelor. Fanii susțin că sunt \"tratați ca suspecți\" și că această acțiune afectează unii dintre cei mai loiali suporteri ai clubului. Forumul Oficial al Fanilor și alte grupuri au depus plângeri oficiale, cerând reinstalarea abonamentelor înainte de începerea sezonului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-21T18:12:12.518669+00:00",
-      "data_afisaj": "21 iulie 2026, 21:12"
-    },
-    {
-      "id": "39b16f45b9d8",
-      "titlu": "Portarul Argentinei, Emi Martinez, ia în considerare retragerea din fotbalul internațional",
-      "rezumat": "Portarul naționalei Argentinei, Emiliano \"Emi\" Martinez, a declarat că analizează posibilitatea de a se retrage din fotbalul internațional. Decizia vine după înfrângerea Argentinei cu 1-0 în fața Spaniei în finala Cupei Mondiale. Martinez, o figură cheie în echipa Argentinei, a menționat că se gândește dacă este \"timpul să se dea la o parte\" pentru a permite noilor generații să preia ștafeta.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-21T18:12:12.520293+00:00",
-      "data_afisaj": "21 iulie 2026, 21:12"
-    },
-    {
-      "id": "3a4e3491fb2a",
-      "titlu": "West Ham a ajuns la un acord cu Al Hilal pentru transferul lui Crysencio Summerville",
-      "rezumat": "Clubul West Ham United a ajuns la un acord cu echipa Al Hilal din Arabia Saudită pentru vânzarea jucătorului Crysencio Summerville. Detaliile financiare ale tranzacției nu au fost dezvăluite, dar se anticipează că este o afacere importantă. Atacantul olandez, care a avut evoluții solide, se pregătește să facă pasul către campionatul saudit, marcând o nouă plecare semnificativă din Premier League către Orientul Mijlociu.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-21T18:12:12.521773+00:00",
-      "data_afisaj": "21 iulie 2026, 21:12"
     }
   ]
 }
