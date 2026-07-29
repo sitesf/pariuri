@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-29T09:39:30.013203+00:00",
-  "updated_at_afisaj": "29 iulie 2026, 12:39",
+  "updated_at": "2026-07-29T10:37:42.442550+00:00",
+  "updated_at_afisaj": "29 iulie 2026, 13:37",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,41 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 117,
+  "numar_stiri": 118,
   "stiri": [
+    {
+      "id": "deb9d4532120",
+      "titlu": "Marc Cucurella își face un tatuaj cu antrenorul Spaniei, Luis de la Fuente",
+      "rezumat": "Fundașul spaniol Marc Cucurella și-a respectat promisiunea de a-și face un tatuaj cu chipul selecționerului Luis de la Fuente, după ce Spania a câștigat Cupa Mondială. Gestul vine ca o celebrare a succesului obținut sub conducerea tehnicianului, subliniind legătura specială dintre jucători și antrenor în urma performanței istorice. Tatuajul este o dovadă a aprecierii și recunoștinței lui Cucurella pentru rolul lui De la Fuente în triumful echipei naționale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-29T10:37:42.438509+00:00",
+      "data_afisaj": "29 iulie 2026, 13:37"
+    },
+    {
+      "id": "b9eb17a78077",
+      "titlu": "Yan Diomande, aproape de a deveni cel mai scump transfer din istoria Real Madrid",
+      "rezumat": "Yan Diomande a avut o ascensiune rapidă, transformându-se dintr-un aripă relativ necunoscut într-un jucător aflat în pragul de a deveni cel mai scump transfer din istoria clubului Real Madrid. Această evoluție remarcabilă subliniază talentul său excepțional și interesul major al gigantului spaniol pentru serviciile sale. Potențialul transfer ar reprezenta o investiție semnificativă pentru Real Madrid, consolidându-i poziția ca unul dintre cele mai active cluburi pe piața transferurilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-29T10:37:42.440081+00:00",
+      "data_afisaj": "29 iulie 2026, 13:37"
+    },
+    {
+      "id": "a3f80d65ea93",
+      "titlu": "FC Barcelona se antrenează în Marea Britanie și va juca amicale cu echipe din Championship",
+      "rezumat": "Clubul spaniol FC Barcelona va efectua un cantonament la St George's Park în această săptămână, o locație neașteptată pentru pregătirea de pre-sezon. În cadrul acestui stagiu, echipa catalană va disputa meciuri amicale împotriva unor formații din Championship, ligă secundă engleză, respectiv Birmingham City și Preston. Această decizie oferă o oportunitate inedită pentru fanii britanici de a urmări de aproape una dintre cele mai prestigioase echipe din lume.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-29T10:37:42.441724+00:00",
+      "data_afisaj": "29 iulie 2026, 13:37"
+    },
     {
       "id": "d757647c21a8",
       "titlu": "Jack Grealish ratează turneul lui Manchester City în Asia",
@@ -1330,29 +1363,6 @@
       ],
       "data_publicare": "2026-07-22T17:24:12.519728+00:00",
       "data_afisaj": "22 iulie 2026, 20:24"
-    },
-    {
-      "id": "6fbe5d60cbad",
-      "titlu": "Enzo Fernandez apără prestația Argentinei la Cupa Mondială, în ciuda investigației FIFA",
-      "rezumat": "Mijlocașul argentinian Enzo Fernandez a declarat că echipa națională a reprezentat Argentina \"în cel mai bun mod posibil\" la recenta Cupă Mondială. Comentariile sale vin în contextul în care FIFA a confirmat că va investiga comportamentul echipei Argentinei după finala competiției. Fernandez a subliniat mândria și umilința cu care jucătorii au abordat turneul, respingând criticile legate de atitudinea lor post-finală și apărând integritatea reprezentării naționale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-22T10:24:23.430544+00:00",
-      "data_afisaj": "22 iulie 2026, 13:24"
-    },
-    {
-      "id": "11d1f39f6156",
-      "titlu": "Haos la antrenamentele Wolves, după ce Tolu Arokodare a sfidat interdicția clubului",
-      "rezumat": "Antrenamentele echipei Wolverhampton Wanderers au fost anulate pe fondul haosului generat de atacantul Tolu Arokodare, care a sfidat o interdicție impusă de club. Incidentul a dus la măsuri suplimentare de securitate la centrul de antrenament Compton Park și plasează clubul într-o situație delicată, riscând să devină un caz de test pentru noile reglementări de transfer ale FIFA. Situația subliniază tensiunile interne și posibilele consecințe disciplinare pentru club și jucător.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-07-22T10:24:23.431777+00:00",
-      "data_afisaj": "22 iulie 2026, 13:24"
     }
   ]
 }
