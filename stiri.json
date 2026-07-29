@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-29T17:18:14.559009+00:00",
-  "updated_at_afisaj": "29 iulie 2026, 20:18",
+  "updated_at": "2026-07-29T18:02:43.896717+00:00",
+  "updated_at_afisaj": "29 iulie 2026, 21:02",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,67 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 123,
+  "numar_stiri": 124,
   "stiri": [
+    {
+      "id": "8a33e5fc55f4",
+      "titlu": "Este planul de vânzare a Cupei Mondiale un pas prea departe de Infantino?",
+      "rezumat": "BBC Sport explorează de ce președintele FIFA, Gianni Infantino, se simte suficient de puternic pentru a vinde mize la Cupa Mondială - și care ar putea fi consecințele.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-07-29T18:02:18.915067+00:00",
+      "data_afisaj": "29 iulie 2026, 21:02"
+    },
+    {
+      "id": "0b9edebde699",
+      "titlu": "FIFA deschide proceduri disciplinare împotriva Argentinei",
+      "rezumat": "FIFA deschide proceduri disciplinare împotriva Argentinei pentru comportamentul lor după înfrângerea în finala Cupei Mondiale în fața Spaniei și pe tot parcursul turneului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-29T18:02:18.916454+00:00",
+      "data_afisaj": "29 iulie 2026, 21:02"
+    },
+    {
+      "id": "a417b51c56f9",
+      "titlu": "Liverpool pregătește oferta de deschidere pentru Barcola de la PSG",
+      "rezumat": "Liverpool își intensifică interesul pentru Bradley Barcola de la Paris St-Germain și pregătește o ofertă de deschidere.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-29T18:02:18.917834+00:00",
+      "data_afisaj": "29 iulie 2026, 21:02"
+    },
+    {
+      "id": "2f658782b766",
+      "titlu": "FIFA oferă 40 de milioane de dolari dacă națiunile susțin planul controversat",
+      "rezumat": "FIFA a stabilit un termen limită de 19 septembrie pentru ca asociațiile membre să aibă acces la numerar, deoarece FA își exprimă dezaprobarea față de planul de finanțare al organismului mondial de guvernare înainte de reuniunea de urgență a UEFA.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-29T18:02:18.919188+00:00",
+      "data_afisaj": "29 iulie 2026, 21:02"
+    },
+    {
+      "id": "b24bb1990be6",
+      "titlu": "Henderson se apropie de mutarea lui Chelsea, deoarece Welbeck are medical",
+      "rezumat": "Atacantul de la Brighton, Danny Welbeck, primește permisiunea de a avea o examinare medicală la Stamford Bridge, pe măsură ce trecerea lui la Chelsea se apropie.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-29T18:02:18.920493+00:00",
+      "data_afisaj": "29 iulie 2026, 21:02"
+    },
     {
       "id": "0b6af3555571",
       "titlu": "Liverpool pregătește o ofertă inițială pentru Bradley Barcola de la PSG",
@@ -1369,56 +1428,6 @@
       ],
       "data_publicare": "2026-07-22T18:05:20.780583+00:00",
       "data_afisaj": "22 iulie 2026, 21:05"
-    },
-    {
-      "id": "ca658ed8c34e",
-      "titlu": "Antrenorul lui Southampton, Eckert, acuzat de FA în scandalul Spygate",
-      "rezumat": "Antrenorul principal al echipei Southampton, Tonda Eckert, a fost acuzat oficial de Asociația de Fotbal (FA) pentru implicarea sa în scandalul cunoscut sub numele de \"Spygate\". Acuzația se referă la rolul său în incidentele care au generat controverse în lumea fotbalului englez. Detaliile exacte ale implicării sale și consecințele potențiale ale acestei acuzații urmează să fie clarificate pe parcursul investigației. Acest caz aduce în prim plan etica și regulamentele în sportul profesionist.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-22T17:24:12.516022+00:00",
-      "data_afisaj": "22 iulie 2026, 20:24"
-    },
-    {
-      "id": "37726719b15c",
-      "titlu": "Liverpool impune interdicții pe viață după confiscarea a 1,2 milioane de lire sterline de la vânzătorii ilegali de bilete",
-      "rezumat": "Clubul Liverpool a emis sute de interdicții pe viață pentru fanii implicați în vânzarea ilegală de bilete, după ce poliția a confiscat bunuri în valoare de peste 1,2 milioane de lire sterline legate de această activitate. Măsurile drastice vin ca răspuns la eforturile continue de a combate piața neagră a biletelor, care afectează atât clubul, cât și suporterii onești. Această acțiune subliniază angajamentul clubului de a proteja integritatea experienței meciurilor și de a asigura un acces echitabil la evenimente.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-22T17:24:12.517405+00:00",
-      "data_afisaj": "22 iulie 2026, 20:24"
-    },
-    {
-      "id": "13f121effd5b",
-      "titlu": "Derek McInnes, suspendat patru meciuri pentru comentarii despre un penalty acordat lui Celtic",
-      "rezumat": "Antrenorul echipei Rangers, Derek McInnes, a primit o suspendare de patru meciuri de pe margine, dintre care unul este cu suspendare, în urma declarațiilor sale controversate. Sancțiunea vine după ce McInnes a calificat drept \"dezgustătoare\" decizia de a acorda un penalty târziu echipei Celtic într-un meci împotriva lui Motherwell, pe când era antrenor la Hearts. Această decizie subliniază rigorile regulamentelor privind comportamentul antrenorilor față de arbitraj în fotbalul scoțian.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-22T17:24:12.518581+00:00",
-      "data_afisaj": "22 iulie 2026, 20:24"
-    },
-    {
-      "id": "c08fce4deb1f",
-      "titlu": "Phil Foden semnează un nou contract pe patru ani cu Manchester City",
-      "rezumat": "Mijlocașul englez Phil Foden a semnat un nou contract pe o perioadă de patru ani cu Manchester City, prelungindu-și astfel șederea la club până în anul 2030. Această înțelegere confirmă angajamentul pe termen lung al jucătorului față de echipa la care s-a format și a devenit un element cheie. Noul contract reflectă importanța lui Foden în planurile viitoare ale clubului și recunoaște contribuțiile sale semnificative la succesele recente ale \"Cetățenilor\".",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-22T17:24:12.519728+00:00",
-      "data_afisaj": "22 iulie 2026, 20:24"
     }
   ]
 }
