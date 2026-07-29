@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-29T10:37:42.442550+00:00",
-  "updated_at_afisaj": "29 iulie 2026, 13:37",
+  "updated_at": "2026-07-29T17:18:14.559009+00:00",
+  "updated_at_afisaj": "29 iulie 2026, 20:18",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 118,
+  "numar_stiri": 123,
   "stiri": [
+    {
+      "id": "0b6af3555571",
+      "titlu": "Liverpool pregătește o ofertă inițială pentru Bradley Barcola de la PSG",
+      "rezumat": "Clubul englez Liverpool își intensifică interesul pentru atacantul Bradley Barcola de la Paris Saint-Germain și se pregătește să înainteze o primă ofertă oficială. Barcola, un tânăr talent francez, este considerat o țintă importantă pentru \"Cormorani\" în această fereastră de transferuri, în contextul consolidării lotului pentru noul sezon. Această mișcare ar putea marca o achiziție semnificativă pentru echipa lui Liverpool, adăugând profunzime și opțiuni ofensive.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-29T17:18:14.551455+00:00",
+      "data_afisaj": "29 iulie 2026, 20:18"
+    },
+    {
+      "id": "e71f388ec31b",
+      "titlu": "Manchester City conduce opoziția față de propunerea Premier League de 1,5 miliarde de lire sterline pentru EFL",
+      "rezumat": "Manchester City se află în fruntea cluburilor care se opun planurilor Premier League de a oferi 1,5 miliarde de lire sterline către English Football League (EFL), ca parte a unei înțelegeri financiare istorice. Propunerea, care ar urma să fie distribuită pe o perioadă de 10 ani, va fi discutată și supusă la vot într-o ședință a celor 20 de cluburi din Premier League. Opoziția lui Manchester City ridică semne de întrebare cu privire la modul de finanțare și la impactul acestei decizii asupra structurii fotbalului englez.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-29T17:18:14.553338+00:00",
+      "data_afisaj": "29 iulie 2026, 20:18"
+    },
+    {
+      "id": "10b3614d02a1",
+      "titlu": "Argentina, vizată de proceduri disciplinare FIFA pentru bannerul cu Insulele Falkland și acțiunile din finala Cupei Mondiale",
+      "rezumat": "Federația Internațională de Fotbal (FIFA) a inițiat proceduri disciplinare împotriva Argentinei, campioana mondială en-titre, în urma unor posibile încălcări ale regulamentelor în timpul Cupei Mondiale. Acuzațiile vizează afișarea unui banner cu referire la Insulele Falkland și alte acțiuni controversate ale echipei și staff-ului în timpul festivităților de după finala competiției. Această decizie subliniază angajamentul FIFA de a menține integritatea și fair-play-ul în fotbalul internațional, chiar și după încheierea evenimentelor majore.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-29T17:18:14.555231+00:00",
+      "data_afisaj": "29 iulie 2026, 20:18"
+    },
+    {
+      "id": "a02bdec3529d",
+      "titlu": "Mauricio Pochettino, aproape de un nou contract cu naționala SUA până la Cupa Mondială 2030",
+      "rezumat": "Selecționerul naționalei masculine de fotbal a Statelor Unite, Mauricio Pochettino, se află în etapele finale ale negocierilor pentru un nou contract cu Federația Americană de Fotbal. Acordul ar urma să-l mențină pe antrenorul argentinian la cârma echipei până la Cupa Mondială din 2030, cu o creștere semnificativă a remunerației. Deși mandatul său a avut rezultate mixte până acum, prelungirea contractului indică încrederea în viziunea sa pe termen lung pentru dezvoltarea fotbalului american.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-29T17:18:14.556979+00:00",
+      "data_afisaj": "29 iulie 2026, 20:18"
+    },
+    {
+      "id": "5a02b0d3afa3",
+      "titlu": "Danny Welbeck, la vizita medicală la Chelsea, care ar plăti o sumă de transfer pentru un jucător de peste 26 de ani",
+      "rezumat": "Atacantul Danny Welbeck este programat să efectueze vizita medicală la Chelsea, după ce clubul londonez a ajuns la un acord cu Brighton pentru o sumă de transfer nedezvăluită. Această mutare este notabilă, deoarece ar reprezenta prima dată din 2022 când Chelsea plătește o sumă de transfer pentru un jucător cu vârsta de peste 26 de ani. Transferul lui Welbeck ar aduce experiență în atacul echipei, oferind o opțiune suplimentară în ofensivă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-29T17:18:14.558986+00:00",
+      "data_afisaj": "29 iulie 2026, 20:18"
+    },
     {
       "id": "deb9d4532120",
       "titlu": "Marc Cucurella își face un tatuaj cu antrenorul Spaniei, Luis de la Fuente",
