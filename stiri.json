@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-29T18:02:43.896717+00:00",
-  "updated_at_afisaj": "29 iulie 2026, 21:02",
+  "updated_at": "2026-07-30T09:32:53.370338+00:00",
+  "updated_at_afisaj": "30 iulie 2026, 12:32",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,65 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 124,
+  "numar_stiri": 121,
   "stiri": [
+    {
+      "id": "c437f3ccd085",
+      "titlu": "Cine este Matthias Jaissle?",
+      "rezumat": "Matthias Jaissle, bărbatul care îl va înlocui pe Eddie Howe la Newcastle United, s-ar putea să nu fie prea cunoscut, având în vedere că singurele sale roluri de antrenor principal până în prezent au fost în Austria și Arabia Saudită. Deci, cine este bărbatul legat de o mutare la St James' Park?",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-30T09:32:29.428207+00:00",
+      "data_afisaj": "30 iulie 2026, 12:32"
+    },
+    {
+      "id": "0e99d832c3b1",
+      "titlu": "Antrenorul Howe va părăsi Newcastle cu efect imediat",
+      "rezumat": "Antrenorul lui Newcastle, Eddie Howe, urmează să părăsească clubul cu efect imediat, spun surse pentru BBC Sport.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-30T09:32:29.429604+00:00",
+      "data_afisaj": "30 iulie 2026, 12:32"
+    },
+    {
+      "id": "746b007b54e7",
+      "titlu": "Unde dorește Newcastle să fie cel mai bun până în 2030?",
+      "rezumat": "Pe măsură ce se apropie cea de-a cincea aniversare de la preluarea lui Newcastle, BBC Sport evaluează dacă proiectul pentru a fi „cel mai bun” este încă pe drumul cel bun.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-30T09:32:29.430990+00:00",
+      "data_afisaj": "30 iulie 2026, 12:32"
+    },
+    {
+      "id": "2f0a152467ef",
+      "titlu": "Patru indicații către cea mai deschisă cursă pentru titlul în Premier League din ultimii ani",
+      "rezumat": "Trei dintre cei „șase mari” din Premier League au noi antrenori, campionii au o problemă cheie de accidentare, iar Tottenham și Chelsea bat recorduri de transferuri - și asta ar putea însemna o cursă la titlu foarte deschisă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-30T09:32:29.432346+00:00",
+      "data_afisaj": "30 iulie 2026, 12:32"
+    },
+    {
+      "id": "d0b822eb1f2a",
+      "titlu": "De Zerbi vrea să-l convingă pe Spence să rămână la Spurs",
+      "rezumat": "Antrenorul lui Tottenham, Roberto de Zerbi, spune că vrea să-l convingă pe fundașul Angliei Djed Spence să rămână la club.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-30T09:32:29.433630+00:00",
+      "data_afisaj": "30 iulie 2026, 12:32"
+    },
     {
       "id": "8a33e5fc55f4",
       "titlu": "Este planul de vânzare a Cupei Mondiale un pas prea departe de Infantino?",
@@ -1334,100 +1391,6 @@
       ],
       "data_publicare": "2026-07-23T10:21:46.737975+00:00",
       "data_afisaj": "23 iulie 2026, 13:21"
-    },
-    {
-      "id": "d88ba60692cf",
-      "titlu": "William Saliba de la Arsenal va lipsi o perioadă extinsă din cauza unei accidentări la spate",
-      "rezumat": "Fundașul central al lui Arsenal, William Saliba, va fi indisponibil pentru o perioadă prelungită, după ce a suferit o accidentare la spate în timpul participării sale cu echipa națională a Franței la Cupa Mondială. Clubul londonez a confirmat diagnosticul, care reprezintă o lovitură semnificativă pentru planurile echipei în debutul noului sezon. Saliba este un jucător cheie în defensiva \"tunarilor\", iar absența sa va necesita ajustări tactice din partea antrenorului Mikel Arteta.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-23T09:25:42.665169+00:00",
-      "data_afisaj": "23 iulie 2026, 12:25"
-    },
-    {
-      "id": "60913cbb5a76",
-      "titlu": "Fanii consideră Cupa Mondială găzduită de SUA, Mexic și Canada un \"succes surprinzător\"",
-      "rezumat": "Ediția recentă a Cupei Mondiale, găzduită de Statele Unite, Mexic și Canada, a fost percepută de fani ca un \"succes surprinzător\", depășind aspectele comerciale și prețurile ridicate. Entuziasmul și bucuria generate de suporteri au contribuit la o atmosferă vibrantă și plină de viață pe parcursul turneului. În ciuda unor îndoieli inițiale, fanii au simțit o energie pozitivă, în special odată cu sosirea numărului mare de suporteri scoțieni pentru meciul lor împotriva Haitiului, transformând evenimentul într-o experiență memorabilă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-23T09:25:42.666824+00:00",
-      "data_afisaj": "23 iulie 2026, 12:25"
-    },
-    {
-      "id": "cdfea6f7cd34",
-      "titlu": "Sumele plătite lui Shakira și Justin Bieber pentru a cânta la Cupa Mondială 2026 au fost dezvăluite",
-      "rezumat": "Detalii privind onorariile primite de artiștii Shakira și Justin Bieber pentru prestațiile lor muzicale la Campionatul Mondial de Fotbal din 2026 au ieșit la iveală. Această informație, confirmată de mai multe surse din presa românească, arată sumele considerabile alocate pentru divertismentul din cadrul evenimentului sportiv major. Publicul este acum conștient de costurile implicate în aducerea unor nume mari din industria muzicală la un eveniment de o asemenea anvergură globală, stârnind discuții despre prioritățile organizatorilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-07-23T09:25:42.668506+00:00",
-      "data_afisaj": "23 iulie 2026, 12:25"
-    },
-    {
-      "id": "c26953d8661f",
-      "titlu": "LNZ Cherkasy, o poveste de succes în fotbalul ucrainean pe timp de război",
-      "rezumat": "Clubul ucrainean LNZ Cherkasy a înregistrat o ascensiune remarcabilă, transformându-se dintr-o echipă de liga a patra în 2021 într-o participantă la calificările europene pentru prima dată în istoria sa. Această performanță este cu atât mai notabilă cu cât a fost realizată în contextul războiului cu Rusia. Succesul clubului din ceea ce era considerat anterior o zonă periferică a fotbalului ucrainean demonstrează reziliența și determinarea în fața adversităților, oferind o sursă de inspirație și speranță.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-23T09:25:42.670015+00:00",
-      "data_afisaj": "23 iulie 2026, 12:25"
-    },
-    {
-      "id": "2c15fffced66",
-      "titlu": "Marocul se confruntă cu provocări legate de costuri și moștenire în organizarea Cupei Mondiale 2030",
-      "rezumat": "Cu peste 1.400 de zile rămase până la startul Cupei Mondiale din 2030, Marocul, una dintre țările co-gazdă, se confruntă cu o serie de provocări semnificative. Acestea includ gestionarea costurilor masive de infrastructură și asigurarea unei moșteniri durabile post-eveniment, probleme similare cu cele întâmpinate de gazdele anterioare, precum Africa de Sud. Federația Regală Marocană de Fotbal (FRMF) are o agendă încărcată, având în vedere și organizarea Cupei Africii pe Națiuni la feminin, ceea ce adaugă presiune asupra resurselor și planificării.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-23T09:25:42.671646+00:00",
-      "data_afisaj": "23 iulie 2026, 12:25"
-    },
-    {
-      "id": "16d8ba0bd7d7",
-      "titlu": "Fostul mijlocaș al lui Manchester United, Casemiro, se alătură echipei Inter Miami, pe fondul unei investigații MLS",
-      "rezumat": "Mijlocașul brazilian Casemiro, fost jucător emblematic al lui Manchester United și Real Madrid, a semnat un contract cu clubul Inter Miami din Major League Soccer. Transferul marchează o nouă etapă în cariera experimentatului fotbalist, însă Major League Soccer a anunțat o investigație privind posibile nereguli în procesul de achiziție a jucătorului. Casemiro a semnat un contract pe un an, cu opțiune de prelungire, valabil până la finalul sezonului de primăvară din 2027, aducând o experiență valoroasă în campionatul nord-american.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-22T18:05:20.776857+00:00",
-      "data_afisaj": "22 iulie 2026, 21:05"
-    },
-    {
-      "id": "7220ec0e8b64",
-      "titlu": "Exod masiv la echipa feminină a Barcelonei, campioana Europei",
-      "rezumat": "Echipa feminină a Barcelonei, deținătoarea titlului de campioană a Europei, se confruntă cu un exod semnificativ de jucătoare în această vară. Șapte fotbaliste cheie, inclusiv nume importante precum Putellas, Batlle și León, au părăsit clubul, în timp ce singura sosire este Renee van Asten, în vârstă de 19 ani, de la Ajax. Această situație este atribuită dificultăților financiare ale clubului, influențate de problemele de fair-play financiar ale echipei masculine, punând sub semnul întrebării viitorul imediat al dominatoarelor Europei în competițiile continentale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-22T18:05:20.778925+00:00",
-      "data_afisaj": "22 iulie 2026, 21:05"
-    },
-    {
-      "id": "856e3784250d",
-      "titlu": "Echipa națională de fotbal a Angliei pentru amputați nu își permite deplasarea la Cupa Mondială",
-      "rezumat": "Echipa masculină de fotbal a Angliei pentru amputați, deținătoare a trofeului Nations League în 2023, se confruntă cu dificultăți financiare majore, neputând strânge cele 50.000 de lire sterline necesare pentru a participa la Cupa Mondială din Mexic, programată în noiembrie. În ciuda succeselor recente, echipa nu beneficiază de finanțare națională, iar Federația Engleză de Fotbal (FA) nu oferă sprijin, ridicând semne de întrebare cu privire la angajamentul față de toate echipele naționale și la egalitatea de șanse în sport.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-22T18:05:20.780583+00:00",
-      "data_afisaj": "22 iulie 2026, 21:05"
     }
   ]
 }
