@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-30T10:23:28.171086+00:00",
-  "updated_at_afisaj": "30 iulie 2026, 13:23",
+  "updated_at": "2026-07-30T17:38:25.789925+00:00",
+  "updated_at_afisaj": "30 iulie 2026, 20:38",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,68 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 122,
+  "numar_stiri": 123,
   "stiri": [
+    {
+      "id": "6a23784d55ce",
+      "titlu": "UEFA amenință cu boicotarea Cupei Mondiale dacă planurile FIFA sunt aprobate",
+      "rezumat": "Cele 55 de asociații membre UEFA au votat în favoarea boicotării Cupei Mondiale, în cazul în care FIFA va continua cu planul său de a vinde acțiuni din competițiile sale. Decizia vine ca un răspuns ferm la propunerile președintelui FIFA, Gianni Infantino, de a restructura și comercializa drepturile turneelor majore. Această mișcare subliniază tensiunile crescânde dintre cele două organisme de conducere ale fotbalului mondial, cu implicații semnificative pentru viitorul competițiilor internaționale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-30T17:38:25.783468+00:00",
+      "data_afisaj": "30 iulie 2026, 20:38"
+    },
+    {
+      "id": "c0fe5794952d",
+      "titlu": "Federația Engleză de Fotbal introduce interdicții de minim 10 meciuri pentru discriminare",
+      "rezumat": "Jucătorii găsiți vinovați de acte de discriminare vor primi o suspendare de cel puțin 10 meciuri, conform noilor reguli înăsprite ale Federației Engleze de Fotbal (FA). Această măsură drastică vizează combaterea rasismului și a altor forme de discriminare în sport, trimițând un mesaj clar că astfel de comportamente nu vor fi tolerate. Noile reglementări reflectă angajamentul FA de a crea un mediu mai incluziv și respectuos în fotbalul englez.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-30T17:38:25.785162+00:00",
+      "data_afisaj": "30 iulie 2026, 20:38"
+    },
+    {
+      "id": "bbc010fae561",
+      "titlu": "Cluburile din Premier League au ajuns la un acord privind propunerea de finanțare a EFL",
+      "rezumat": "Cluburile din Premier League au convenit asupra unei propuneri de finanțare pe care o vor prezenta Ligii de Fotbal Engleze (EFL) în următoarele zile. Această înțelegere marchează un pas important în rezolvarea disputelor legate de distribuția veniturilor între eșaloanele superioare și inferioare ale fotbalului englez. Propunerea urmărește să asigure o stabilitate financiară mai mare pentru cluburile din EFL și să reducă decalajul economic dintre ligi.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-30T17:38:25.786813+00:00",
+      "data_afisaj": "30 iulie 2026, 20:38"
+    },
+    {
+      "id": "e6e87c3f4487",
+      "titlu": "Harvey Elliott, pregătit să profite de \"a doua șansă\" la Liverpool",
+      "rezumat": "Mijlocașul lui Liverpool, Harvey Elliott, a vorbit despre perioada sa dificilă de împrumut la Aston Villa și despre determinarea sa de a se bucura din nou de fotbal la clubul de pe Anfield. Jucătorul, considerat un talent promițător, își propune să demonstreze că merită un loc în echipa principală și să contribuie la performanțele \"Cormoranilor\". Declarațiile sale subliniază ambiția de a-și relansa cariera și de a-și îndeplini potențialul la Liverpool.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-30T17:38:25.788408+00:00",
+      "data_afisaj": "30 iulie 2026, 20:38"
+    },
+    {
+      "id": "5df69793fc35",
+      "titlu": "Zinedine Zidane, numit noul selecționer al Franței",
+      "rezumat": "Zinedine Zidane a fost numit noul antrenor principal al echipei naționale de fotbal a Franței. Fostul mare mijlocaș, cunoscut pentru cariera sa legendară de jucător și succesul ca antrenor la Real Madrid, preia frâiele selecționatei franceze. Numirea sa vine cu așteptări mari, fanii și experții sperând ca Zidane să aducă o nouă eră de succes pentru \"Les Bleus\", bazându-se pe experiența sa vastă și viziunea tactică.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-30T17:38:25.789904+00:00",
+      "data_afisaj": "30 iulie 2026, 20:38"
+    },
     {
       "id": "1dfaaa323726",
       "titlu": "Howe va părăsi Newcastle, Jaissle fiind așteptat să-l înlocuiască",
@@ -1354,56 +1414,6 @@
       ],
       "data_publicare": "2026-07-23T18:08:43.090002+00:00",
       "data_afisaj": "23 iulie 2026, 21:08"
-    },
-    {
-      "id": "ae2d2c1a2496",
-      "titlu": "Arsenal îl transferă pe atacantul grec Christos Tzolis pentru 34 de milioane de lire sterline",
-      "rezumat": "Clubul Arsenal a anunțat achiziționarea atacantului Christos Tzolis de la Club Brugge, într-o tranzacție evaluată la 34 de milioane de lire sterline. Jucătorul grec, descris ca fiind un fotbalist ofensiv extrem de versatil, a semnat un contract pe cinci ani cu echipa londoneză. Acest transfer marchează o nouă investiție semnificativă a clubului Arsenal în consolidarea lotului, aducând un talent promițător care ar putea contribui la obiectivele echipei în sezoanele următoare. Știrea a fost confirmată de multiple surse de presă sportivă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-23T17:25:23.409542+00:00",
-      "data_afisaj": "23 iulie 2026, 20:25"
-    },
-    {
-      "id": "636b6e926658",
-      "titlu": "Norvegia ia în considerare o plângere la FIFA privind suspendarea lui Balogun de la Cupa Mondială",
-      "rezumat": "Federația Norvegiană de Fotbal analizează posibilitatea de a depune o plângere oficială la comisia de etică a FIFA. Decizia vine în urma unei controverse legate de suspendarea jucătorului Balogun de la Cupa Mondială, o măsură care a stârnit nemulțumire în rândul oficialilor norvegieni. Această acțiune subliniază preocupările Norvegiei cu privire la corectitudinea și transparența deciziilor disciplinare la nivel internațional, în contextul unui eveniment fotbalistic major. Detaliile exacte ale motivelor plângerii nu au fost încă făcute publice.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-23T17:25:23.410644+00:00",
-      "data_afisaj": "23 iulie 2026, 20:25"
-    },
-    {
-      "id": "7aac909e4bcd",
-      "titlu": "Cluburile de fotbal, îndemnate să contribuie mai mult la costurile de securitate",
-      "rezumat": "Cluburile de fotbal sunt solicitate să contribuie într-o măsură mai mare la acoperirea costurilor serviciilor de poliție necesare pentru asigurarea ordinii la meciuri. Această cerere vine în contextul publicării cifrelor privind incidentele din sezonul 2025-2026, care indică o povară financiară semnificativă asupra contribuabililor. Autoritățile doresc ca echipele să preia o parte mai mare din aceste cheltuieli, argumentând că evenimentele sportive generează profituri considerabile și ar trebui să suporte o responsabilitate sporită pentru siguranța publică. Inițiativa vizează o distribuție mai echitabilă a costurilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-23T17:25:23.411638+00:00",
-      "data_afisaj": "23 iulie 2026, 20:25"
-    },
-    {
-      "id": "5c9176eaec9f",
-      "titlu": "Elliot Anderson devine cel mai scump transfer din istoria lui Manchester City",
-      "rezumat": "Mijlocașul englez Elliot Anderson, o figură cheie în echipa Angliei la Cupa Mondială, a fost transferat la Manchester City într-o tranzacție record de 116 milioane de lire sterline de la Nottingham Forest. Jucătorul în vârstă de 23 de ani a semnat un contract pe cinci ani, fiind considerat un viitor mijlocaș complet. Anderson a declarat că Manchester City este „regele Manchesterului” și că dorește să facă parte dintr-o echipă „neînduplecată și câștigătoare”. Acest transfer subliniază ambițiile clubului de a-și consolida poziția dominantă în fotbalul englez.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-23T17:25:23.412620+00:00",
-      "data_afisaj": "23 iulie 2026, 20:25"
     }
   ]
 }
