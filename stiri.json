@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-31T09:46:39.595128+00:00",
-  "updated_at_afisaj": "31 iulie 2026, 12:46",
+  "updated_at": "2026-07-31T10:38:02.401690+00:00",
+  "updated_at_afisaj": "31 iulie 2026, 13:38",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,64 @@
   },
   "numar_stiri": 124,
   "stiri": [
+    {
+      "id": "86544bd25921",
+      "titlu": "Consilierul Senior al lui Infantino Demisionează pe Fondul Opoziției Federației Asiatice",
+      "rezumat": "Un consilier senior al președintelui FIFA, Gianni Infantino, a demisionat în semn de protest față de planurile controversate ale organizației de a lansa o consultare privind vânzarea de acțiuni într-o entitate comercială a Cupei Mondiale către investitori privați. Demisia vine în contextul în care Confederația Asiatică de Fotbal (AFC) și-a exprimat solidaritatea cu UEFA și Concacaf, opunându-se propunerilor FIFA. Această evoluție adaugă presiune asupra conducerii FIFA, care insistă că nu \"vinde fotbalul\", ci doar explorează noi modele de finanțare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football",
+        "Sky Sports Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-07-31T10:38:02.396612+00:00",
+      "data_afisaj": "31 iulie 2026, 13:38"
+    },
+    {
+      "id": "bb3c77ef2a33",
+      "titlu": "Manchester City A Ajuns la un Acord pentru Re-semnarea unui Câștigător de Cupă Mondială",
+      "rezumat": "Manchester City a ajuns la un acord pentru a re-semna un jucător câștigător al Cupei Mondiale, conform rapoartelor recente. Antrenorul Enzo Maresca își construiește lotul pentru noul sezon, iar această mutare strategică indică intenția clubului de a-și consolida echipa cu experiență și calitate la cel mai înalt nivel. Detaliile despre identitatea jucătorului și termenii acordului nu au fost încă dezvăluite oficial, stârnind speculații în rândul fanilor și al presei sportive.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-07-31T10:38:02.397990+00:00",
+      "data_afisaj": "31 iulie 2026, 13:38"
+    },
+    {
+      "id": "cbba5c9ed562",
+      "titlu": "Fulham Realizează o Dublă Afacere Surprinzătoare cu Real Madrid",
+      "rezumat": "Fulham a reușit să încheie o dublă afacere surprinzătoare cu Real Madrid, conform rapoartelor. Antrenorul lui Fulham, Alvaro Arbeloa, se va reuni cu doi foști jucători de la Real Madrid în Premier League, consolidând astfel lotul echipei pentru viitorul sezon. Această mișcare strategică subliniază ambițiile clubului de a se impune în campionatul englez, aducând jucători cu experiență de la un club de top european. Detaliile financiare ale tranzacțiilor nu au fost încă publicate.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-07-31T10:38:02.399208+00:00",
+      "data_afisaj": "31 iulie 2026, 13:38"
+    },
+    {
+      "id": "9813091e9e58",
+      "titlu": "WSL Reintroduce Meciurile de Duminică Seara după Cifrele de Audiență Fluctuante",
+      "rezumat": "Women's Super League (WSL) va reintroduce meciurile de duminică seara în noul sezon, ca parte a unei revizuiri a strategiei sale de difuzare, după ce cifrele de audiență din sezonul precedent au fost considerate fluctuante. Această modificare semnificativă față de sezonul trecut, când majoritatea meciurilor televizate aveau alte intervale orare, are ca scop optimizarea vizibilității și atragerea unui public mai larg pentru fotbalul feminin. Decizia face parte dintr-un efort mai amplu de a crește popularitatea ligii.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-31T10:38:02.400442+00:00",
+      "data_afisaj": "31 iulie 2026, 13:38"
+    },
+    {
+      "id": "685c49e420ad",
+      "titlu": "West Ham în Negocieri pentru Mijlocașul lui Celtic, Arne Engels",
+      "rezumat": "Clubul West Ham United se află în discuții cu Celtic pentru transferul mijlocașului Arne Engels. Negocierile sunt în desfășurare, iar interesul pentru jucătorul belgian de 22 de ani vine pe fondul dorinței lui West Ham de a-și întări lotul pentru noul sezon din Premier League. Detaliile financiare ale potențialului transfer nu au fost încă făcute publice, dar se anticipează o mutare importantă pentru tânărul mijlocaș, care ar putea aduce un plus de creativitate la mijlocul terenului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-31T10:38:02.401676+00:00",
+      "data_afisaj": "31 iulie 2026, 13:38"
+    },
     {
       "id": "098442e3211a",
       "titlu": "Franco Baresi, legenda lui AC Milan și a Italiei, a decedat la vârsta de 66 de ani",
@@ -1371,62 +1429,6 @@
       ],
       "data_publicare": "2026-07-24T17:40:43.473548+00:00",
       "data_afisaj": "24 iulie 2026, 20:40"
-    },
-    {
-      "id": "b32c4ea38f76",
-      "titlu": "Chelsea a convenit să-l semneze pe fundașul Palatului Lacroix",
-      "rezumat": "Chelsea a convenit să-l semneze pe fundașul Franței Maxence Lacroix de la Crystal Palace, după două sezoane impresionante.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-24T10:15:53.048579+00:00",
-      "data_afisaj": "24 iulie 2026, 13:15"
-    },
-    {
-      "id": "7e5a5960a9e7",
-      "titlu": "Mesia sau tapetarea crăpăturilor? Klopp trebuie să-i influențeze pe cei care se îndoiesc din reconstrucția Germaniei",
-      "rezumat": "Jurgen Klopp este o legendă la fostele sale cluburi, dar va trebui să-și convingă criticii dacă vrea să reușească cea mai grea provocare antrenorială de până acum.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-24T10:15:53.050013+00:00",
-      "data_afisaj": "24 iulie 2026, 13:15"
-    },
-    {
-      "id": "301689c286d4",
-      "titlu": "Guardiola refuză postul de antrenor al Italiei",
-      "rezumat": "Fostul antrenor de la Manchester City, Pep Guardiola, refuză șansa de a antrena Italia.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-24T10:15:53.051247+00:00",
-      "data_afisaj": "24 iulie 2026, 13:15"
-    },
-    {
-      "id": "117bdc835dab",
-      "titlu": "Newcastle sigilează mutarea de 34 de milioane de lire sterline pentru Bamba din Monaco",
-      "rezumat": "Newcastle United l-a semnat pe mijlocașul Monaco Aladji Bamba pentru o taxă care ar putea ajunge la 34 de milioane de lire sterline.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-24T10:15:53.052612+00:00",
-      "data_afisaj": "24 iulie 2026, 13:15"
-    },
-    {
-      "id": "d7c6786f06a4",
-      "titlu": "Kane a început să discute cu Bayern Munchen pentru o nouă înțelegere",
-      "rezumat": "Harry Kane urmează să înceapă discuțiile pentru un nou contract cu Bayern Munchen, iar Barcelona și diferite cluburi din Arabia Saudită ar fi interesate de căpitanul Angliei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-24T10:15:53.053934+00:00",
-      "data_afisaj": "24 iulie 2026, 13:15"
     }
   ]
 }
