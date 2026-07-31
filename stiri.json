@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-30T18:10:47.737478+00:00",
-  "updated_at_afisaj": "30 iulie 2026, 21:10",
+  "updated_at": "2026-07-31T09:46:39.595128+00:00",
+  "updated_at_afisaj": "31 iulie 2026, 12:46",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,55 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 125,
+  "numar_stiri": 124,
   "stiri": [
+    {
+      "id": "098442e3211a",
+      "titlu": "Franco Baresi, legenda lui AC Milan și a Italiei, a decedat la vârsta de 66 de ani",
+      "rezumat": "Franco Baresi, considerat unul dintre cei mai mari fundași din istoria fotbalului, a încetat din viață la vârsta de 66 de ani. Anunțul a fost făcut de clubul AC Milan, unde Baresi și-a petrecut întreaga carieră, devenind un simbol. Fostul căpitan al naționalei Italiei și al rossonerilor a câștigat numeroase trofee, inclusiv trei Ligi ale Campionilor și șase titluri în Serie A, fiind o figură emblematică pentru fotbalul italian și mondial.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-31T09:46:39.589428+00:00",
+      "data_afisaj": "31 iulie 2026, 12:46"
+    },
+    {
+      "id": "8e9ce078ea38",
+      "titlu": "Bournemouth a ajuns la un acord pentru transferul fundașului Antonio Silva de la Benfica",
+      "rezumat": "Clubul englez Bournemouth a convenit o înțelegere cu Benfica Lisabona pentru transferul fundașului central Antonio Silva. Suma de transfer se ridică la aproape 26 de milioane de lire sterline. Silva, un tânăr talent portughez, este așteptat să se alăture echipei din Premier League, reprezentând o achiziție importantă pentru linia defensivă a lui Bournemouth în noul sezon. Detaliile finale ale contractului și vizita medicală urmează să fie finalizate în curând.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-31T09:46:39.591173+00:00",
+      "data_afisaj": "31 iulie 2026, 12:46"
+    },
+    {
+      "id": "fe8eef440f65",
+      "titlu": "Tensiuni la Liverpool: Curtis Jones și Dominik Szoboszlai, discuții aprinse după meci",
+      "rezumat": "Mijlocașii lui Liverpool, Curtis Jones și Dominik Szoboszlai, au fost surprinși având o discuție aprinsă pe teren, imediat după victoria echipei lor împotriva lui Wrexham. Incidentul a avut loc la finalul partidei, stârnind speculații despre posibile tensiuni în vestiarul „cormoranilor”. Deși natura exactă a disputei nu a fost clarificată, imaginile sugerează un schimb de replici intens între cei doi coechipieri, necesitând intervenția altor jucători pentru a calma spiritele.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-07-31T09:46:39.592854+00:00",
+      "data_afisaj": "31 iulie 2026, 12:46"
+    },
+    {
+      "id": "f663ea5b8223",
+      "titlu": "Joe Gomez va rata startul sezonului pentru Liverpool din cauza unei accidentări",
+      "rezumat": "Fundașul lui Liverpool, Joe Gomez, este așteptat să rateze începutul campaniei din Premier League din cauza unei accidentări. Deși absența sa reprezintă o lovitură pentru echipa antrenată de Jürgen Klopp, se pare că aceasta nu va influența planurile de transfer ale clubului pentru perioada de vară. Staff-ul medical al „cormoranilor” va monitoriza îndeaproape recuperarea jucătorului, în speranța unei reveniri rapide pe teren.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-31T09:46:39.594490+00:00",
+      "data_afisaj": "31 iulie 2026, 12:46"
+    },
     {
       "id": "d13029cb7827",
       "titlu": "Sandro Tonali a decis rapid să se alăture lui Tottenham pentru 100 de milioane de lire sterline",
@@ -1380,62 +1427,6 @@
       ],
       "data_publicare": "2026-07-24T10:15:53.053934+00:00",
       "data_afisaj": "24 iulie 2026, 13:15"
-    },
-    {
-      "id": "e6074bbcc5dc",
-      "titlu": "Starul Socceroos ar fi testat pozitiv pentru cocaină după ce a depășit viteza",
-      "rezumat": "Starul Socceroos de la Cupa Mondială, Cristian Volpato, ar fi testat pozitiv pentru cocaină după ce a fost prins de două ori depășind viteza în Sydney.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-24T09:24:41.154227+00:00",
-      "data_afisaj": "24 iulie 2026, 12:24"
-    },
-    {
-      "id": "98e03afaf08f",
-      "titlu": "De ce Rogers și Palmer vor prospera împreună la Chelsea lui Alonso",
-      "rezumat": "De ce setul de abilități al lui Morgan Rogers înseamnă că el și colegul său mijlocaș ofensiv Cole Palmer vor prospera la Chelsea lui Xabi Alonso.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-24T09:24:41.155622+00:00",
-      "data_afisaj": "24 iulie 2026, 12:24"
-    },
-    {
-      "id": "9a1c4faae4cc",
-      "titlu": "Arsenal pregătește o ofertă de 70 de milioane de lire sterline pentru Guimaraes de la Newcastle",
-      "rezumat": "Arsenal este gata să facă o ofertă de 70 de milioane de lire sterline pentru căpitanul lui Newcastle, Bruno Guimaraes.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-24T09:24:41.157028+00:00",
-      "data_afisaj": "24 iulie 2026, 12:24"
-    },
-    {
-      "id": "33804344feba",
-      "titlu": "Defoe pleacă de la Woking după un prim rol de antrenor 'revelator'",
-      "rezumat": "Fostul atacant al Angliei și al lui Tottenham, Jermain Defoe, a descris primul său post de antrenor ca fiind o \"experiență revelatoare\" după plecarea sa de la echipa Woking din National League, după doar patru luni și nouă meciuri la conducere.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-24T09:24:41.158409+00:00",
-      "data_afisaj": "24 iulie 2026, 12:24"
-    },
-    {
-      "id": "e293e1eacc5b",
-      "titlu": "Italia confirmă abordarea lui Ancelotti înainte de Guardiola",
-      "rezumat": "Italia a purtat discuții cu Carlo Ancelotti pentru a deveni antrenorul echipei naționale înainte de a deschide negocierile cu Pep Guardiola.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-24T09:24:41.159634+00:00",
-      "data_afisaj": "24 iulie 2026, 12:24"
     }
   ]
 }
