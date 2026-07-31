@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-31T17:41:59.629493+00:00",
-  "updated_at_afisaj": "31 iulie 2026, 20:41",
+  "updated_at": "2026-07-31T18:15:48.630068+00:00",
+  "updated_at_afisaj": "31 iulie 2026, 21:15",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,30 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 124,
+  "numar_stiri": 121,
   "stiri": [
+    {
+      "id": "a4a3b84e72fe",
+      "titlu": "Fiul lui Rio Ferdinand Semnează Primul Contract Profesionist",
+      "rezumat": "Tate Ferdinand, fiul legendarului fundaș al Angliei și al lui Manchester United, Rio Ferdinand, a semnat primul său contract de fotbalist profesionist. Tânărul jucător a progresat prin sistemul de academii și își începe acum cariera la nivel de seniori. Această veste continuă o tradiție familială în fotbalul de top, Tate Ferdinand urmând pașii tatălui său. Detaliile clubului nu sunt specificate în rezumatul original, dar evenimentul marchează un moment important în dezvoltarea sa.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-07-31T18:15:48.628451+00:00",
+      "data_afisaj": "31 iulie 2026, 21:15"
+    },
+    {
+      "id": "228d6a2a6c0e",
+      "titlu": "FIFA Răspunde Criticilor Privind Planurile Controverse ale Cupei Mondiale",
+      "rezumat": "FIFA a reacționat la valul de critici și amenințări cu boicotul legate de planurile sale controversate de privatizare parțială a Cupei Mondiale. Organizația insistă că va continua procesul de consultare și că \"nimeni nu vinde fotbalul\". Această declarație vine în contextul opoziției puternice din partea federațiilor europene și a altor oficiali, care se tem de impactul negativ al implicării investitorilor privați asupra integrității și viitorului sportului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-07-31T18:15:48.630048+00:00",
+      "data_afisaj": "31 iulie 2026, 21:15"
+    },
     {
       "id": "6b62c5d292e4",
       "titlu": "Mykhailo Mudryk de la Chelsea, liber să joace după apelul împotriva suspendării pentru dopaj",
@@ -1370,61 +1392,6 @@
       ],
       "data_publicare": "2026-07-25T09:02:53.038782+00:00",
       "data_afisaj": "25 iulie 2026, 12:02"
-    },
-    {
-      "id": "e9c416db9d0d",
-      "titlu": "CIO declară că plângerea împotriva președintelui FIFA, Gianni Infantino, este în afara competenței sale",
-      "rezumat": "Comitetul Olimpic Internațional (CIO) a anunțat că nu va investiga o plângere depusă împotriva președintelui FIFA, Gianni Infantino, deoarece aceasta se află în afara sferei sale de competență. Detaliile plângerii nu au fost specificate, însă decizia CIO subliniază limitele jurisdicționale dintre cele două organisme sportive internaționale. Această declarație vine în contextul unor posibile controverse legate de conducerea fotbalului mondial, dar CIO a clarificat că nu are autoritatea de a interveni în astfel de chestiuni.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-24T18:13:18.942240+00:00",
-      "data_afisaj": "24 iulie 2026, 21:13"
-    },
-    {
-      "id": "54ca6a53db32",
-      "titlu": "Senegal primește o dată pentru apel după anularea victoriei la Cupa Africii pe Națiuni",
-      "rezumat": "Tribunalul de Arbitraj Sportiv (TAS) a stabilit o dată pentru audierea apelului depus de Senegal, în urma deciziei de a-i fi retras titlul de campioană la Cupa Africii pe Națiuni din 2025. Această hotărâre inițială a stârnit controverse semnificative în lumea fotbalului african. Senegalul speră să-și recâștige titlul prin intermediul acestui apel, iar rezultatul audierii va avea implicații majore pentru viitorul competiției și pentru echipa națională.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-24T18:13:18.943897+00:00",
-      "data_afisaj": "24 iulie 2026, 21:13"
-    },
-    {
-      "id": "0793afad85c9",
-      "titlu": "Echipele scoțiene participante în competițiile europene își amână meciurile de campionat",
-      "rezumat": "Toate cele cinci echipe scoțiene calificate în competițiile europene au decis să-și amâne meciurile din Premiership programate pentru sâmbătă, 22 august. Această decizie a fost luată pentru a permite cluburilor să se pregătească mai bine și să gestioneze programul încărcat impus de participarea pe două fronturi. Măsura vizează optimizarea performanțelor echipelor scoțiene atât pe plan intern, cât și în cupele europene, oferindu-le mai mult timp de recuperare și antrenament.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-24T18:13:18.945490+00:00",
-      "data_afisaj": "24 iulie 2026, 21:13"
-    },
-    {
-      "id": "f40f60a42a47",
-      "titlu": "Cammy Devlin descrie așteptarea transferului la Rangers drept 'prea stresantă'",
-      "rezumat": "Mijlocașul australian Cammy Devlin a mărturisit că perioada de așteptare pentru finalizarea transferului său la Rangers, în timpul Cupei Mondiale din 2026, a fost extrem de stresantă. Jucătorul a declarat că incertitudinea legată de viitorul său la club a afectat experiența sa la turneul final. Devlin a subliniat presiunea mentală resimțită în timp ce încerca să se concentreze pe performanțele de la Cupa Mondială, având în același timp negocierile de transfer în desfășurare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-24T18:13:18.947148+00:00",
-      "data_afisaj": "24 iulie 2026, 21:13"
-    },
-    {
-      "id": "b730630e7997",
-      "titlu": "Alex Scott, mijlocașul dorit de cluburile de elită, analizat de Sky Sports",
-      "rezumat": "Alex Scott, mijlocașul lui Bournemouth, a devenit o țintă pentru cluburile de top din Premier League, inclusiv Arsenal, Chelsea și Manchester United. Articolul de la Sky Sports analizează evoluția sa remarcabilă sub Andoni Iraola, evidențiind prezența sa constantă în meciurile cheie ale sezonului trecut. Scott a jucat aproape integral în partidele în care Bournemouth a obținut puncte împotriva echipelor de top, demonstrând calități de mijlocaș complet și o adaptabilitate impresionantă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-24T18:13:18.948778+00:00",
-      "data_afisaj": "24 iulie 2026, 21:13"
     }
   ]
 }
