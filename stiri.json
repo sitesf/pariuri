@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-31T10:38:02.401690+00:00",
-  "updated_at_afisaj": "31 iulie 2026, 13:38",
+  "updated_at": "2026-07-31T17:41:59.629493+00:00",
+  "updated_at_afisaj": "31 iulie 2026, 20:41",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,52 @@
   },
   "numar_stiri": 124,
   "stiri": [
+    {
+      "id": "6b62c5d292e4",
+      "titlu": "Mykhailo Mudryk de la Chelsea, liber să joace după apelul împotriva suspendării pentru dopaj",
+      "rezumat": "Mijlocașul ucrainean Mykhailo Mudryk, legitimat la Chelsea, a primit permisiunea de a reveni pe teren după ce apelul său împotriva unei suspendări pentru dopaj a fost acceptat. Jucătorul nu a mai evoluat din noiembrie 2024 și i-a fost interzis accesul la terenul de antrenament al clubului pe durata investigației. Decizia îi permite acum să se alăture echipei și să reia pregătirile pentru viitoarele meciuri.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-31T17:41:59.623776+00:00",
+      "data_afisaj": "31 iulie 2026, 20:41"
+    },
+    {
+      "id": "9d82258ccc69",
+      "titlu": "Chelsea, amendată cu 10 milioane de lire sterline și suspendare de transferuri condiționată",
+      "rezumat": "Clubul Chelsea a fost amendat cu 10 milioane de lire sterline și a primit o interdicție de transferuri suspendată pentru două perioade de mercato, conform deciziei unei comisii independente de apel. Sancțiunile vin după ce clubul a recunoscut încălcări ale regulilor Federației Engleze de Fotbal privind agenții, fapte ce datează din perioada anterioară. Această decizie subliniază angajamentul FA de a menține integritatea regulamentelor sale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-31T17:41:59.625500+00:00",
+      "data_afisaj": "31 iulie 2026, 20:41"
+    },
+    {
+      "id": "9bbd3123a39d",
+      "titlu": "Compania PCP Capital Partners a făcut o ofertă pentru o cotă din West Ham",
+      "rezumat": "PCP Capital Partners, compania deținută de Amanda Staveley și soțul ei Mehrdad Ghodoussi, a înaintat o ofertă pentru achiziționarea unei cote de 25.1% din clubul West Ham United. Această propunere ar putea marca o schimbare semnificativă în structura de proprietate a clubului londonez, aducând noi investitori și o potențială infuzie de capital, în contextul ambițiilor de dezvoltare ale echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-07-31T17:41:59.627707+00:00",
+      "data_afisaj": "31 iulie 2026, 20:41"
+    },
+    {
+      "id": "0801d6189cd9",
+      "titlu": "FIFA accelerează planul de extindere a Cupei Mondiale la 64 de echipe începând cu ediția din 2030",
+      "rezumat": "FIFA avansează rapid cu planurile de a extinde Cupa Mondială la 64 de echipe, începând cu turneul din 2030. Organizația a lansat o licitație pentru companii de cercetare, cu scopul de a evalua beneficiile economice ale acestei extinderi într-un interval de timp extrem de scurt. Această decizie subliniază intenția FIFA de a implementa modificările într-un ritm accelerat, în ciuda controverselor anterioare legate de formatul competiției.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-07-31T17:41:59.629473+00:00",
+      "data_afisaj": "31 iulie 2026, 20:41"
+    },
     {
       "id": "86544bd25921",
       "titlu": "Consilierul Senior al lui Infantino Demisionează pe Fondul Opoziției Federației Asiatice",
@@ -1379,56 +1425,6 @@
       ],
       "data_publicare": "2026-07-24T18:13:18.948778+00:00",
       "data_afisaj": "24 iulie 2026, 21:13"
-    },
-    {
-      "id": "1377566a1326",
-      "titlu": "FC Argeș și Petrolul Ploiești se întâlnesc în Superligă",
-      "rezumat": "FC Argeș și Petrolul Ploiești se pregătesc pentru confruntarea din etapa a doua a Superligii României. Meciul va începe la ora 21:30, iar Petrolul speră să își confirme forma bună după victoria obținută în runda precedentă împotriva lui Dinamo. Echipele de start sunt așteptate să fie anunțate în scurt timp, partida fiind una importantă pentru ambele formații în debutul noului sezon. Această partidă reprezintă un test crucial pentru ambițiile fiecărei echipe în campionatul intern.",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-07-24T17:40:43.468667+00:00",
-      "data_afisaj": "24 iulie 2026, 20:40"
-    },
-    {
-      "id": "82d709006bbe",
-      "titlu": "Jürgen Klopp amenință cu demisia de la naționala Germaniei din cauza presei",
-      "rezumat": "Noul selecționer al Germaniei, Jürgen Klopp, și-a început mandatul avertizând că va demisiona dacă mass-media va invada viața privată a familiei sale. Într-o conferință de presă fermă, Klopp a subliniat că dorește să schimbe mentalitatea țării prin intermediul echipei naționale, dar a insistat asupra respectării intimității personale, făcând referire la modul în care au fost tratați predecesorii săi, Julian Nagelsmann și Thomas Tuchel. Această declarație marchează un început tensionat al erei sale la cârma naționalei, stabilind limite clare cu presa.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-07-24T17:40:43.470215+00:00",
-      "data_afisaj": "24 iulie 2026, 20:40"
-    },
-    {
-      "id": "71fbfbaa092d",
-      "titlu": "Discuții pentru vânzarea unei participații minoritare la Liverpool, cu Jeff Bezos printre posibilii investitori",
-      "rezumat": "Fenway Sports Group, proprietarii clubului Liverpool, poartă discuții cu un consorțiu condus de Amit Bhatia pentru vânzarea unei participații minoritare la club. Printre numele vehiculate ca potențiali investitori se numără și Jeff Bezos, fondatorul Amazon. Această mișcare ar putea aduce o infuzie semnificativă de capital și ar putea influența viitorul financiar și sportiv al clubului de pe Anfield, deschizând noi oportunități de dezvoltare și consolidând poziția clubului pe piața globală. Discuțiile sunt în stadii avansate, conform rapoartelor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-07-24T17:40:43.471917+00:00",
-      "data_afisaj": "24 iulie 2026, 20:40"
-    },
-    {
-      "id": "af5f732a797a",
-      "titlu": "Enzo Maresca consideră o provocare și un privilegiu să-l urmeze pe Pep Guardiola la Manchester City",
-      "rezumat": "Enzo Maresca, noul antrenor al echipei Manchester City, a declarat în prima sa conferință de presă că este un \"privilegiu\" să preia conducerea clubului după Pep Guardiola. El a recunoscut, de asemenea, provocarea imensă de a-l înlocui pe un antrenor care a câștigat 17 trofee majore, fiind conștient de dificultățile întâmpinate de succesorii lui Sir Alex Ferguson și Arsène Wenger la Manchester United și Arsenal. Maresca a subliniat importanța de a face \"lucrurile corecte imediat\" pentru a menține standardele înalte ale clubului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-24T17:40:43.473548+00:00",
-      "data_afisaj": "24 iulie 2026, 20:40"
     }
   ]
 }
