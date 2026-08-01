@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-01T09:07:49.241538+00:00",
-  "updated_at_afisaj": "1 august 2026, 12:07",
+  "updated_at": "2026-08-01T09:57:56.752310+00:00",
+  "updated_at_afisaj": "1 august 2026, 12:57",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,39 @@
   },
   "numar_stiri": 121,
   "stiri": [
+    {
+      "id": "c00d4904f051",
+      "titlu": "UEFA și-a pierdut încrederea în conducerea FIFA",
+      "rezumat": "Uniunea Asociațiilor Europene de Fotbal (UEFA) a declarat că și-a pierdut încrederea în actuala conducere a FIFA, condusă de Gianni Infantino. Această declarație vine pe fondul intensificării tensiunilor și a consecințelor generate de abandonarea planului controversat al FIFA de a vinde participații la competițiile sale. Poziția UEFA subliniază o ruptură semnificativă între cele două organisme majore ale fotbalului mondial, indicând o criză de leadership la nivel global.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-01T09:57:56.749116+00:00",
+      "data_afisaj": "1 august 2026, 12:57"
+    },
+    {
+      "id": "465680b41f2b",
+      "titlu": "Matthias Jaissle demisionează de la Al-Ahli pe fondul unei dispute contractuale",
+      "rezumat": "Antrenorul principal al echipei Al-Ahli, Matthias Jaissle, a demisionat din funcție din cauza unei dispute contractuale. Această mișcare vine în contextul în care Jaissle este considerat principalul candidat pentru postul de antrenor al echipei Newcastle United, după plecarea lui Eddie Howe. Demisia sa de la clubul saudit confirmă disponibilitatea tehnicianului german de a prelua o nouă provocare în Premier League, deschizând calea pentru negocierile finale cu Newcastle.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-08-01T09:57:56.750743+00:00",
+      "data_afisaj": "1 august 2026, 12:57"
+    },
+    {
+      "id": "03cd4ef5f86a",
+      "titlu": "Viitorul Cupei Mondiale Feminine 2027, incert pe fondul conflictelor interne din FIFA",
+      "rezumat": "Planurile de a atrage investitori privați în Cupa Mondială au stârnit furie și amenințări cu boicotul, punând sub semnul întrebării viitorul Cupei Mondiale Feminine din 2027. Pe fondul unei \"război civil\" intern în FIFA, incertitudinea planează asupra organizării și finanțării viitoarelor competiții majore. Această situație ar putea avea repercusiuni semnificative asupra dezvoltării fotbalului feminin și a evenimentelor internaționale planificate de FIFA.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-08-01T09:57:56.752294+00:00",
+      "data_afisaj": "1 august 2026, 12:57"
+    },
     {
       "id": "22b1a479decb",
       "titlu": "Ronaldinho, legenda braziliană, va juca în Serie C la vârsta de 46 de ani",
@@ -1359,39 +1392,6 @@
       ],
       "data_publicare": "2026-07-25T17:02:12.776345+00:00",
       "data_afisaj": "25 iulie 2026, 20:02"
-    },
-    {
-      "id": "6a0dd41cc33b",
-      "titlu": "Jucători ai academiei Austin FC, investigați de poliție și FBI pentru abuz sexual",
-      "rezumat": "Mai mulți jucători din academia clubului de Major League Soccer, Austin FC, sunt sub investigația poliției din Austin și a FBI-ului, în urma unor acuzații de abuz sexual în cadrul sistemului de tineret al clubului. Austin FC a raportat aceste acuzații autorităților locale. Surse multiple au confirmat că investigațiile sunt în curs de desfășurare și se concentrează pe presupuse interacțiuni între jucătorii academiei. Cazul subliniază o problemă gravă în mediul sportiv juvenil și necesitatea unor măsuri de protecție sporite.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-25T09:46:07.327542+00:00",
-      "data_afisaj": "25 iulie 2026, 12:46"
-    },
-    {
-      "id": "8f31e62b058c",
-      "titlu": "Loris Karius vorbește despre perioada dificilă de după finala Ligii Campionilor din 2018",
-      "rezumat": "Portarul Loris Karius a dezvăluit că a considerat să-și încheie cariera la doar 25 de ani, după „iadul” prin care a trecut în cei doi ani de după finala Ligii Campionilor din 2018, dintre Liverpool și Real Madrid. Karius a declarat că a atins „fundul prăpastiei” după ce a comis două erori majore în cel mai important meci al carierei sale. Mărturisirile sale oferă o perspectivă asupra impactului psihologic profund pe care presiunea și greșelile din fotbalul de elită îl pot avea asupra unui jucător.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-07-25T09:46:07.330448+00:00",
-      "data_afisaj": "25 iulie 2026, 12:46"
-    },
-    {
-      "id": "2496353826da",
-      "titlu": "Ousmane Dembele, în discuții pentru un transfer de la Paris Saint-Germain",
-      "rezumat": "Atacantul Ousmane Dembele, deținător al Balonului de Aur, ar putea părăsi curând clubul Paris Saint-Germain. Potrivit rapoartelor, au început discuțiile pentru un posibil transfer al jucătorului francez către o echipă din Arabia Saudită. Această mutare ar reprezenta o schimbare semnificativă în cariera lui Dembele și ar adăuga un alt nume sonor listei de fotbaliști de top care se îndreaptă spre campionatul saudit. Detaliile negocierilor rămân deocamdată confidențiale, însă interesul este major.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-07-25T09:46:07.331996+00:00",
-      "data_afisaj": "25 iulie 2026, 12:46"
     }
   ]
 }
