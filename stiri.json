@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-01T09:57:56.752310+00:00",
-  "updated_at_afisaj": "1 august 2026, 12:57",
+  "updated_at": "2026-08-01T17:03:41.965559+00:00",
+  "updated_at_afisaj": "1 august 2026, 20:03",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,46 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 121,
+  "numar_stiri": 119,
   "stiri": [
+    {
+      "id": "510e3911a5f0",
+      "titlu": "Familia Gold este de acord să vândă pachetul de acțiuni de la West Ham către consorțiul Staveley",
+      "rezumat": "Vanessa Gold, fiica fostului co-proprietar al clubului West Ham, David Gold, a confirmat planurile de a-și vinde acțiunile către un consorțiu condus de Amanda Staveley, fost co-proprietar al clubului Newcastle. Această tranzacție marchează o schimbare semnificativă în structura de proprietate a clubului londonez, aducând noi investitori și potențial noi direcții strategice. Acordul a fost confirmat de mai multe surse de presă sportivă de top, subliniind importanța sa pentru viitorul clubului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-01T17:03:41.960668+00:00",
+      "data_afisaj": "1 august 2026, 20:03"
+    },
+    {
+      "id": "71acba08c475",
+      "titlu": "Manchester United învinge Atletico Madrid într-un amical de pre-sezon",
+      "rezumat": "Manchester United a obținut o victorie cu scorul de 2-1 împotriva lui Atletico Madrid într-un meci amical de pre-sezon disputat la Stockholm. Bryan Mbeumo a fost protagonistul partidei, marcând ambele goluri pentru echipa engleză, care a reușit să revină de la un scor defavorabil. Această victorie oferă un impuls de încredere pentru echipa lui Erik ten Hag înaintea începerii noului sezon competițional.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-01T17:03:41.963414+00:00",
+      "data_afisaj": "1 august 2026, 20:03"
+    },
+    {
+      "id": "71bb87e0f2d2",
+      "titlu": "De Zerbi dorește ca Richarlison să rămână la Tottenham după victoria împotriva lui Chelsea",
+      "rezumat": "Roberto De Zerbi, antrenorul lui Tottenham, a declarat că își dorește ca Richarlison să rămână la club, în ciuda incertitudinilor legate de viitorul atacantului brazilian. Declarația a venit după ce Richarlison a marcat golul victoriei în minutul 92, asigurând succesul lui Tottenham cu 2-1 împotriva lui Chelsea într-un meci amical de pre-sezon disputat la Sydney, chiar și cu un jucător eliminat. De Zerbi a subliniat importanța jucătorului pentru echipă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-01T17:03:41.965093+00:00",
+      "data_afisaj": "1 august 2026, 20:03"
+    },
     {
       "id": "c00d4904f051",
       "titlu": "UEFA și-a pierdut încrederea în conducerea FIFA",
@@ -1336,62 +1374,6 @@
       ],
       "data_publicare": "2026-07-25T17:53:15.845238+00:00",
       "data_afisaj": "25 iulie 2026, 20:53"
-    },
-    {
-      "id": "859a5b2403fd",
-      "titlu": "Directorul lui Woking dezvăluie \"îngrijorări crescânde\" înainte de plecarea lui Defoe",
-      "rezumat": "Directorul de fotbal al clubului Woking, Jody Brown, a declarat că existau \"îngrijorări crescânde\" în cadrul clubului înainte ca formația din National League să se despartă de fostul atacant al Angliei, Jermain Defoe, din funcția de antrenor. Brown a adăugat că Defoe nu s-a prezentat la o ședință și la antrenament, ceea ce a contribuit la decizia de a-l elibera din funcție după doar patru luni. Această declarație oferă noi detalii despre circumstanțele care au dus la plecarea antrenorului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-25T17:02:12.770219+00:00",
-      "data_afisaj": "25 iulie 2026, 20:02"
-    },
-    {
-      "id": "c74c9265f2fa",
-      "titlu": "De Zerbi: Jucătorii nemulțumiți de la Tottenham ar trebui să plece",
-      "rezumat": "Antrenorul echipei Tottenham Hotspur, Roberto de Zerbi, a declarat că jucătorii care nu sunt \"mândri și fericiți să rămână\" la club ar trebui să plece. Această afirmație vine în contextul pregătirilor pentru noul sezon și subliniază importanța angajamentului total față de echipă. Declarația lui De Zerbi sugerează o abordare fermă în gestionarea lotului și în menținerea unei atmosfere pozitive în vestiar, indicând o toleranță scăzută pentru lipsa de motivație.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-25T17:02:12.771739+00:00",
-      "data_afisaj": "25 iulie 2026, 20:02"
-    },
-    {
-      "id": "483b52c1354b",
-      "titlu": "Mason Mount, piesa finală în puzzle-ul de la mijlocul terenului pentru Man Utd?",
-      "rezumat": "Mason Mount a avut evoluții remarcabile alături de noul venit Andrey Santos în primele două meciuri de pre-sezon ale lui Manchester United. Performanțele sale au stârnit discuții despre potențialul său de a deveni un element cheie în linia mediană a \"Diavolilor Roșii\". Analiza BBC Sport sugerează că Mount ar putea fi jucătorul care completează echilibrul și creativitatea necesare în compartimentul de mijloc al echipei, oferind o nouă dinamică jocului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-25T17:02:12.773426+00:00",
-      "data_afisaj": "25 iulie 2026, 20:02"
-    },
-    {
-      "id": "4c2c573842d7",
-      "titlu": "Ipswich Town îl transferă pe atacantul japonez Maeda de la Celtic",
-      "rezumat": "Clubul Ipswich Town a anunțat transferul atacantului japonez Daizen Maeda de la Celtic. Jucătorul a semnat un contract valabil până în vara anului 2029. Această mutare reprezintă o întărire importantă pentru Ipswich, care își propune să-și consolideze lotul pentru viitoarele provocări. Maeda este cunoscut pentru viteza și capacitatea sa de a marca, fiind un element ofensiv valoros care va aduce un plus de forță echipei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-25T17:02:12.774868+00:00",
-      "data_afisaj": "25 iulie 2026, 20:02"
-    },
-    {
-      "id": "858109eb0955",
-      "titlu": "Eddie Howe, incert cu privire la viitorul lui Guimaraes pe fondul interesului Arsenal",
-      "rezumat": "Antrenorul principal al echipei Newcastle United, Eddie Howe, a declarat că a avut discuții pozitive cu căpitanul Bruno Guimaraes, însă rămâne incert cu privire la viitorul jucătorului pe fondul interesului manifestat de Arsenal. Această declarație vine după ce s-a vehiculat o posibilă ofertă de transfer din partea clubului londonez. Howe subliniază importanța jucătorului pentru echipă, dar recunoaște complexitatea situației sale contractuale și a speculațiilor din piața transferurilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-25T17:02:12.776345+00:00",
-      "data_afisaj": "25 iulie 2026, 20:02"
     }
   ]
 }
