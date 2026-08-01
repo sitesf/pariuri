@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-01T17:03:41.965559+00:00",
-  "updated_at_afisaj": "1 august 2026, 20:03",
+  "updated_at": "2026-08-01T17:55:24.004475+00:00",
+  "updated_at_afisaj": "1 august 2026, 20:55",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,32 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 119,
+  "numar_stiri": 118,
   "stiri": [
+    {
+      "id": "abe033a2ff20",
+      "titlu": "Manchester City, învinsă la penalty-uri de Inter Milano în primul meci al lui Maresca",
+      "rezumat": "Enzo Maresca a înregistrat prima înfrângere ca antrenor al lui Manchester City, echipa sa fiind învinsă la penalty-uri de Inter Milano, după o remiză 1-1 într-un meci amical disputat la Hong Kong. Partida a marcat debutul oficial al lui Maresca pe banca tehnică a \"cetățenilor\" și a oferit o primă ocazie de evaluare a strategiei sale în fața unei echipe puternice din Serie A. Rezultatul, deși într-un meci de pregătire, subliniază necesitatea adaptării la noul stil de joc.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-01T17:55:24.001330+00:00",
+      "data_afisaj": "1 august 2026, 20:55"
+    },
+    {
+      "id": "c16d8e2ec6b7",
+      "titlu": "Universitatea Craiova înfruntă Petrolul în Superligă, după trei meciuri fără victorie",
+      "rezumat": "Universitatea Craiova se pregătește să joace împotriva Petrolului Ploiești în etapa a 3-a a Superligii României, meci programat să înceapă la ora 21:30. Echipa din Craiova, deținătoarea titlului de campioană, se află sub presiune, venind după o serie de trei partide consecutive fără victorie în campionat. Această confruntare este crucială pentru moralul și poziția în clasament a \"alb-albaștrilor\", care speră să își revină și să obțină un rezultat pozitiv pe teren propriu.",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-08-01T17:55:24.002632+00:00",
+      "data_afisaj": "1 august 2026, 20:55"
+    },
     {
       "id": "510e3911a5f0",
       "titlu": "Familia Gold este de acord să vândă pachetul de acțiuni de la West Ham către consorțiul Staveley",
@@ -1340,40 +1364,6 @@
       ],
       "data_publicare": "2026-07-26T09:14:50.343077+00:00",
       "data_afisaj": "26 iulie 2026, 12:14"
-    },
-    {
-      "id": "eb6b74131b07",
-      "titlu": "Arsenal explorează o mutare pentru Vinicius Jr. de la Real Madrid",
-      "rezumat": "Clubul Arsenal investighează posibilitatea de a-l transfera pe aripa braziliană Vinicius Júnior de la Real Madrid. Se înțelege că Arsenal a făcut o solicitare pentru internaționalul brazilian, al cărui contract la Bernabéu mai are un an. Orice mutare pentru Vinicius, care a marcat 22 de goluri pentru Real sezonul trecut și patru pentru Brazilia la Cupa Mondială, se află într-un stadiu incipient. Această inițiativă ar putea reprezenta o achiziție majoră pentru echipa londoneză, având în vedere calitatea și impactul jucătorului pe teren.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-25T17:53:15.841577+00:00",
-      "data_afisaj": "25 iulie 2026, 20:53"
-    },
-    {
-      "id": "73eef8fefd6e",
-      "titlu": "Cupa Africii pe Națiuni la Fotbal Feminin 2026 începe duminică în Maroc",
-      "rezumat": "Cupa Africii pe Națiuni la Fotbal Feminin (Wafcon) 2026 va debuta duminică în Maroc, marcând un eveniment important în calendarul fotbalului feminin. Turneul, care include 34 de meciuri, se va desfășura între 26 iulie și 16 august. Echipe precum Capul Verde și Egipt speră să continue entuziasmul generat de recenta Cupă Mondială masculină, în timp ce Nigeria, o forță dominantă, vizează al 11-lea titlu. Competiția oferă o platformă esențială pentru dezvoltarea și promovarea fotbalului feminin pe continentul african.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-25T17:53:15.843161+00:00",
-      "data_afisaj": "25 iulie 2026, 20:53"
-    },
-    {
-      "id": "19740b1c1257",
-      "titlu": "Celtic încheie pre-sezonul cu o remiză spectaculoasă 2-2 împotriva lui AC Milan",
-      "rezumat": "Celtic a încheiat perioada de pre-sezon cu o remiză antrenantă, scor 2-2, împotriva echipei italiene AC Milan. Jucătorul Camilo Duran a impresionat din nou, contribuind cu un gol și o pasă decisivă în partida disputată. Rezultatul sugerează o formă bună pentru echipa scoțiană înaintea startului noului sezon, demonstrând capacitatea de a ține piept unei formații de calibru european. Meciul a oferit ocazia antrenorilor de a testa diverse strategii și jucători, evaluând performanța individuală și coeziunea echipei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-25T17:53:15.845238+00:00",
-      "data_afisaj": "25 iulie 2026, 20:53"
     }
   ]
 }
