@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-02T17:03:24.532595+00:00",
-  "updated_at_afisaj": "2 august 2026, 20:03",
+  "updated_at": "2026-08-02T17:55:42.262777+00:00",
+  "updated_at_afisaj": "2 august 2026, 20:55",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,42 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 118,
+  "numar_stiri": 116,
   "stiri": [
+    {
+      "id": "f731777bc87c",
+      "titlu": "Rapid și CFR Cluj se duelează în etapa a 3-a din Superligă",
+      "rezumat": "Rapid București și CFR Cluj se pregătesc pentru confruntarea directă din etapa a treia a Superligii României, programată să înceapă la ora 21:30. Meciul este de interes, având în vedere că antrenorul Rapidului, Daniel Pancu, se va întâlni cu fosta sa echipă, pe care a condus-o pe locul trei în sezonul precedent. Se așteaptă un duel tactic intens, cu ambele formații căutând să obțină puncte importante în debutul campionatului. Echipele de start vor fi anunțate înaintea partidei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-08-02T17:55:42.257995+00:00",
+      "data_afisaj": "2 august 2026, 20:55"
+    },
+    {
+      "id": "716470db1eaa",
+      "titlu": "Antrenorul Liverpool, Iraola, se grăbește să acopere lacunele din lot înainte de startul Premier League",
+      "rezumat": "Noul antrenor al lui Liverpool, Andoni Iraola, se confruntă cu presiunea de a consolida lotul prin transferuri, în special în zona defensivă, înainte de începerea noului sezon din Premier League. Echipa a fost afectată de accidentări în timpul turneului de pre-sezon din SUA, evidențiind necesitatea urgentă de noi achiziții. Iraola subliniază importanța vitezei în piața transferurilor pentru a asigura o pregătire optimă și a remedia deficiențele existente, vizând un start puternic în campionat.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-02T17:55:42.261216+00:00",
+      "data_afisaj": "2 august 2026, 20:55"
+    },
+    {
+      "id": "3e82c8b7c7df",
+      "titlu": "Robert Lewandowski marchează o dublă la debutul acasă pentru Chicago Fire în MLS",
+      "rezumat": "Atacantul polonez Robert Lewandowski a avut un debut spectaculos pe teren propriu pentru Chicago Fire, marcând două goluri în victoria cu 2-1 împotriva echipei Charlotte FC în Major League Soccer. Această performanță a marcat prima victorie a clubului din Chicago de la pauza internațională și a demonstrat impactul imediat al lui Lewandowski, semnat ca jucător liber de contract la sfârșitul lunii iunie. Golurile sale au ajutat echipa să reducă diferența față de liderii Conferinței de Est, consolidându-și poziția.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-02T17:55:42.262758+00:00",
+      "data_afisaj": "2 august 2026, 20:55"
+    },
     {
       "id": "dc574f16fb73",
       "titlu": "Alonso vindecă rănile de la Real Madrid pentru a conduce revoluția seniorilor de la Chelsea",
@@ -1311,62 +1345,6 @@
       ],
       "data_publicare": "2026-07-26T17:56:32.932453+00:00",
       "data_afisaj": "26 iulie 2026, 20:56"
-    },
-    {
-      "id": "6319e5261660",
-      "titlu": "Federico Chiesa, fericit la Liverpool, dar își dorește un nou capitol",
-      "rezumat": "Atacantul lui Liverpool, Federico Chiesa, a declarat că este \"fericit\" la club, în ciuda speculațiilor privind viitorul său. Jucătorul italian, care a fost legat de o posibilă plecare, a subliniat că se simte bine pe Anfield, dar a sugerat că ar putea fi deschis la noi provocări în cariera sa. Declarația vine pe fondul interesului manifestat de alte cluburi europene pentru serviciile sale, alimentând discuțiile despre o potențială mutare în această vară.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-26T17:05:54.505630+00:00",
-      "data_afisaj": "26 iulie 2026, 20:05"
-    },
-    {
-      "id": "077a4f44d4bb",
-      "titlu": "Inter Milano, în discuții cu Tottenham pentru transferul căpitanului Cristian Romero",
-      "rezumat": "Clubul italian Inter Milano a inițiat negocieri cu Tottenham Hotspur pentru achiziționarea fundașului central Cristian Romero. Căpitanul lui Spurs, care a contribuit la calificarea Argentinei în a doua finală consecutivă de Cupă Mondială luna aceasta, ar putea părăsi clubul londonez în această vară pentru o sumă considerabilă. Romero a avut o perioadă intensă de cinci ani la Tottenham, iar o eventuală plecare ar reprezenta o schimbare majoră pentru ambele echipe.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-26T17:05:54.507223+00:00",
-      "data_afisaj": "26 iulie 2026, 20:05"
-    },
-    {
-      "id": "a51716454c07",
-      "titlu": "Chelsea renunță la transferul lui Granit Xhaka de la Sunderland",
-      "rezumat": "Antrenorul lui Sunderland, Régis Le Bris, a anunțat că negocierile cu Chelsea pentru transferul căpitanului Granit Xhaka sunt \"închise\". Le Bris a insistat că Sunderland nu are intenția de a-l vinde pe influentul mijlocaș elvețian în această vară. Xhaka a avut un rol crucial în calificarea lui Sunderland în Europa League sezonul trecut, după revenirea în Premier League, ceea ce a determinat Chelsea să facă o ofertă de 8 milioane de lire sterline pentru jucătorul de 33 de ani.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-26T17:05:54.508647+00:00",
-      "data_afisaj": "26 iulie 2026, 20:05"
-    },
-    {
-      "id": "b82b1a0f814b",
-      "titlu": "Arbitră rănită în timpul unui meci amical de fotbal",
-      "rezumat": "O arbitră a fost rănită și a fost nevoită să părăsească terenul după ce a fost doborâtă la pământ în timpul unui meci amical de fotbal. Incidentul a avut loc în timpul partidei, iar circumstanțele exacte ale altercației nu au fost detaliate. Arbitra a primit îngrijiri medicale și nu a putut continua meciul, ceea ce a dus la întreruperea temporară a jocului. Acest eveniment subliniază riscurile la care sunt expuși oficialii meciurilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-26T17:05:54.510028+00:00",
-      "data_afisaj": "26 iulie 2026, 20:05"
-    },
-    {
-      "id": "e72141125bbf",
-      "titlu": "Tottenham începe turneul de pre-sezon cu o victorie în fața unui public record în Noua Zeelandă",
-      "rezumat": "Tottenham Hotspur a debutat în turneul său de pre-sezon cu o victorie convingătoare, scor 2-0, împotriva campioanei A-League, Auckland FC. Golurile au fost marcate de Dane Scarlett și Richarlison. Meciul, disputat pe celebrul teren de rugby al echipei All Blacks, a atras un public de 40.112 spectatori, stabilind un nou record pentru cel mai mare număr de participanți la un meci de fotbal masculin în Noua Zeelandă. Echipa lui Tottenham a jucat cu o formulă mai puțin obișnuită.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-26T17:05:54.511712+00:00",
-      "data_afisaj": "26 iulie 2026, 20:05"
     }
   ]
 }
