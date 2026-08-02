@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-02T09:55:36.417088+00:00",
-  "updated_at_afisaj": "2 august 2026, 12:55",
+  "updated_at": "2026-08-02T17:03:24.532595+00:00",
+  "updated_at_afisaj": "2 august 2026, 20:03",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,41 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 120,
+  "numar_stiri": 118,
   "stiri": [
+    {
+      "id": "dc574f16fb73",
+      "titlu": "Alonso vindecă rănile de la Real Madrid pentru a conduce revoluția seniorilor de la Chelsea",
+      "rezumat": "Xabi Alonso vorbește despre depășirea plecării sale de la Real Madrid, despre intuiția sa de a se alătura lui Chelsea și despre motivul pentru care vede noul său club ca pe o oportunitate incitantă. Antrenorul spaniol își propune să aducă o nouă viziune și să consolideze echipa londoneză, concentrându-se pe experiența jucătorilor seniori pentru a construi un proiect de succes pe termen lung. Această mișcare marchează o nouă etapă în cariera sa managerială, cu ambiții clare de a readuce Chelsea în topul fotbalului european.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-02T17:03:24.528110+00:00",
+      "data_afisaj": "2 august 2026, 20:03"
+    },
+    {
+      "id": "f5a8742abf79",
+      "titlu": "Gvardiol: Noul antrenor Maresca este perfect pentru Manchester City",
+      "rezumat": "Fundașul Josko Gvardiol a declarat că noul antrenor al echipei Manchester City, Enzo Maresca, este \"perfect\" pentru club. Declarația vine după ce Maresca a preluat recent conducerea tehnică. Gvardiol a subliniat că viziunea și metodele de antrenament ale lui Maresca se potrivesc ideal cu stilul de joc al echipei, inspirând încredere și optimism în rândul jucătorilor pentru sezonul care urmează. Această susținere publică din partea unui jucător cheie indică o integrare rapidă a noului staff tehnic.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-02T17:03:24.529799+00:00",
+      "data_afisaj": "2 august 2026, 20:03"
+    },
+    {
+      "id": "b65b3cc512f1",
+      "titlu": "St Johnstone învinge Kilmarnock într-un meci spectaculos cu șapte goluri",
+      "rezumat": "St Johnstone a reușit o victorie dramatică împotriva lui Kilmarnock, într-un meci cu șapte goluri, la revenirea în Premiership-ul Scoției. Echipa gazdă a condus de două ori, a fost egalată, dar a revenit spectaculos pentru a câștiga partida cu 4-3. Această victorie la limită, obținută pe teren propriu, marchează un început promițător de sezon pentru St Johnstone, demonstrând rezistență și capacitate ofensivă într-un duel plin de răsturnări de situație, oferind fanilor un spectacol memorabil.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-02T17:03:24.532574+00:00",
+      "data_afisaj": "2 august 2026, 20:03"
+    },
     {
       "id": "101194071b89",
       "titlu": "Brentford realizează un transfer record prin aducerea lui Mamadou Sangare",
@@ -1334,61 +1367,6 @@
       ],
       "data_publicare": "2026-07-26T17:05:54.511712+00:00",
       "data_afisaj": "26 iulie 2026, 20:05"
-    },
-    {
-      "id": "2b42514c1b3a",
-      "titlu": "Atacantul Kasper Hogh de la Bodo/Glimt va efectua vizita medicală la Celtic",
-      "rezumat": "Atacantul norvegian Kasper Hogh, legitimat la Bodo/Glimt, este așteptat să efectueze vizita medicală la Celtic în următoarele 24 de ore. Anunțul a fost făcut de managerul campioanei Scoției, Martin O'Neill. Această mutare ar reprezenta un pas important în cariera jucătorului și o întărire a lotului pentru echipa scoțiană, în perspectiva noului sezon. Transferul, dacă se va concretiza, ar aduce un plus de forță ofensivă pentru Celtic, care își propune obiective ambițioase în competițiile interne și europene.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-26T09:58:27.858615+00:00",
-      "data_afisaj": "26 iulie 2026, 12:58"
-    },
-    {
-      "id": "7f5950f3e3c7",
-      "titlu": "Real Madrid, în pole position pentru transferul lui Yan Diomande de la RB Leipzig",
-      "rezumat": "Real Madrid se află în poziția favorită pentru a-l semna pe aripa Yan Diomande de la RB Leipzig, conform informațiilor Sky din Germania. Clubul spaniol a avut deja o ofertă de 85 de milioane de lire sterline respinsă pentru tânărul jucător, însă continuă negocierile. Diomande este considerat un talent promițător și ar putea reprezenta o achiziție importantă pentru viitorul echipei din capitala Spaniei. Interesul puternic al Realului subliniază strategia clubului de a atrage jucători tineri cu potențial enorm.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-26T09:58:27.860196+00:00",
-      "data_afisaj": "26 iulie 2026, 12:58"
-    },
-    {
-      "id": "aa4ac514a63a",
-      "titlu": "Pedro Neto de la Chelsea, o țintă pentru Manchester City și noul antrenor Maresca",
-      "rezumat": "Pedro Neto, aripa lui Chelsea, a apărut pe lista de ținte a lui Manchester City și a noului manager Enzo Maresca, conform presei de duminică. Campioana Angliei își formulează o listă de jucători ofensivi vizați pentru a-și întări lotul în perspectiva sezonului viitor. Interesul pentru Neto subliniază dorința lui Maresca de a aduce noi talente la club și de a-și pune amprenta asupra echipei. Această mutare ar putea adăuga viteză și creativitate atacului lui City.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-26T09:58:27.861762+00:00",
-      "data_afisaj": "26 iulie 2026, 12:58"
-    },
-    {
-      "id": "6e465c6db516",
-      "titlu": "Legendarul fotbalist japonez „King Kazu” Miura, la 59 de ani, marchează primul gol în patru ani",
-      "rezumat": "Iconicul fotbalist japonez Kazuyoshi Miura, cunoscut sub numele de „King Kazu”, a marcat primul său gol într-un meci oficial în aproape patru ani. La vârsta de 59 de ani, Miura a înscris pentru Fukushima United în victoria categorică cu 7-0 împotriva lui Iwaki Furukawa în Cupa Împăratului. Golul a venit în minutul 52, consolidând avantajul echipei sale și demonstrând longevitatea remarcabilă a atacantului. Această performanță subliniază dedicarea și pasiunea sa continuă pentru fotbal, la o vârstă impresionantă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-26T09:58:27.863419+00:00",
-      "data_afisaj": "26 iulie 2026, 12:58"
-    },
-    {
-      "id": "51e0583a43b8",
-      "titlu": "Ghid Premier League: Transferurile realizate până acum și nevoile fiecărui club",
-      "rezumat": "Recordul de transferuri din Anglia a fost depășit în această vară, cu mutări notabile precum cele ale lui Elliot Anderson și Morgan Rogers. Un ghid detaliat, club cu club, analizează afacerile de transferuri realizate până în prezent de echipele din Premier League și identifică pozițiile pe care acestea mai trebuie să le întărească. Articolul oferă o perspectivă amplă asupra pieței de transferuri din cel mai puternic campionat european, evidențiind strategiile și prioritățile fiecărei formații înaintea noului sezon.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-26T09:58:27.864944+00:00",
-      "data_afisaj": "26 iulie 2026, 12:58"
     }
   ]
 }
