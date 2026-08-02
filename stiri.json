@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-02T09:10:43.106938+00:00",
-  "updated_at_afisaj": "2 august 2026, 12:10",
+  "updated_at": "2026-08-02T09:55:36.417088+00:00",
+  "updated_at_afisaj": "2 august 2026, 12:55",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,40 @@
   },
   "numar_stiri": 120,
   "stiri": [
+    {
+      "id": "101194071b89",
+      "titlu": "Brentford realizează un transfer record prin aducerea lui Mamadou Sangare",
+      "rezumat": "Clubul Brentford a confirmat achiziționarea mijlocașului malian Mamadou Sangare de la Lens, pentru o sumă record în istoria clubului. Transferul, evaluat la aproximativ 39 de milioane de lire sterline, reprezintă o investiție semnificativă pentru \"albine\" în vederea consolidării lotului. Sangare, cunoscut pentru abilitățile sale defensive și capacitatea de a dicta ritmul jocului la mijlocul terenului, este așteptat să devină o piesă cheie în strategia echipei pentru sezonul viitor, contribuind la ambițiile clubului în Premier League.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-02T09:55:36.413256+00:00",
+      "data_afisaj": "2 august 2026, 12:55"
+    },
+    {
+      "id": "fc5d87cef921",
+      "titlu": "Gianni Infantino ar putea fi contestat la conducerea FIFA de membrii consiliului",
+      "rezumat": "Președintele FIFA, Gianni Infantino, se confruntă cu o revoltă din partea membrilor consiliului, care încearcă să forțeze o reuniune generală extraordinară (RGE). Această inițiativă ar putea escalada într-o contestare directă a conducerii sale. Demersurile pentru convocarea unei RGE erau deja în curs înainte de apariția planului eșuat al lui Infantino de a vinde acțiuni la Cupa Mondială. Membrii consiliului cer o revizuire independentă a deciziilor recente și o evaluare a modului în care este condusă organizația, pe fondul unei crize de încredere.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-02T09:55:36.415270+00:00",
+      "data_afisaj": "2 august 2026, 12:55"
+    },
+    {
+      "id": "aa80fc0604b3",
+      "titlu": "Prim-ministrul Marii Britanii, Andy Burnham, critică vehement planurile FIFA și pe Gianni Infantino",
+      "rezumat": "Andy Burnham, Prim-ministrul Marii Britanii, a intervenit public în disputa legată de conducerea FIFA, exprimându-și vehement dezaprobarea față de planurile controversate ale organizației și față de președintele Gianni Infantino. Burnham a calificat inițiativele FIFA drept \"scandaloase\" și a declarat că Infantino este \"omul nepotrivit pentru a conduce organizația\". Această declarație subliniază tensiunile crescânde și opoziția la nivel înalt față de direcția actuală a fotbalului mondial, adăugând o nouă dimensiune politică conflictului intern din cadrul FIFA și intensificând presiunea asupra liderului său.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-08-02T09:55:36.417069+00:00",
+      "data_afisaj": "2 august 2026, 12:55"
+    },
     {
       "id": "3903c6cf5802",
       "titlu": "Aberdeen învinge Hearts cu două goluri în prelungiri în Premiership-ul Scoției",
@@ -1355,40 +1389,6 @@
       ],
       "data_publicare": "2026-07-26T09:58:27.864944+00:00",
       "data_afisaj": "26 iulie 2026, 12:58"
-    },
-    {
-      "id": "18ef17f1bd26",
-      "titlu": "Accidentarea lui Gomez umbrește debutul victorios al lui Iraola la Liverpool",
-      "rezumat": "Liverpool a început era Andoni Iraola cu o victorie de 4-2 împotriva lui Sunderland, grație golurilor marcate de Kieran Morrison, Dominik Szoboszlai, Federico Chiesa și Lewis Koumas. Meciul de debut al lui Iraola a fost însă marcat de o accidentare suferită de Joe Gomez. Această victorie reprezintă un start pozitiv pentru noul antrenor în turneul de vară al echipei în SUA, dar starea de sănătate a fundașului central rămâne o preocupare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-26T09:14:50.339809+00:00",
-      "data_afisaj": "26 iulie 2026, 12:14"
-    },
-    {
-      "id": "5cc4ccc88450",
-      "titlu": "Decesul lui Jayden Adams, mijlocașul sud-african, a șocat comunitatea fotbalistică",
-      "rezumat": "Jayden Adams, mijlocașul sud-african în vârstă de 25 de ani, a decedat la scurt timp după ce a participat la Cupa Mondială. Cei care l-au cunoscut îl descriu ca pe un om modest și muncitor, dedicat prietenilor și familiei. Antrenorul său de juniori, Steve Barker, a declarat la serviciul memorial că fotbalul era \"un spațiu sigur\" pentru Adams, subliniind luptele personale cu care s-a confruntat încă de la naștere.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-26T09:14:50.341470+00:00",
-      "data_afisaj": "26 iulie 2026, 12:14"
-    },
-    {
-      "id": "ffa60146e6be",
-      "titlu": "Când va depăși Harry Kane recordul de apariții al lui Peter Shilton pentru Anglia?",
-      "rezumat": "Căpitanul naționalei Angliei, Harry Kane, este la doar câteva apariții distanță de a deveni jucătorul cu cele mai multe selecții din istoria echipei masculine a Angliei. Acest record, deținut în prezent de legendarul portar Peter Shilton, reprezintă o bornă importantă în cariera lui Kane și un subiect de interes pentru fanii fotbalului englez. Se anticipează că atacantul va atinge această performanță în viitorul apropiat.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-07-26T09:14:50.343077+00:00",
-      "data_afisaj": "26 iulie 2026, 12:14"
     }
   ]
 }
