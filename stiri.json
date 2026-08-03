@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-02T17:55:42.262777+00:00",
-  "updated_at_afisaj": "2 august 2026, 20:55",
+  "updated_at": "2026-08-03T10:44:45.674134+00:00",
+  "updated_at_afisaj": "3 august 2026, 13:44",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,66 @@
   },
   "numar_stiri": 116,
   "stiri": [
+    {
+      "id": "177b735f84a1",
+      "titlu": "Federația Engleză de Fotbal își va retrage sprijinul pentru președintele FIFA, Gianni Infantino",
+      "rezumat": "Asociația de Fotbal din Anglia (FA) se pregătește să-i transmită președintelui FIFA, Gianni Infantino, retragerea sprijinului său. Această decizie vine în urma controverselor legate de planurile anulate ale lui Infantino de a vinde pachete de acțiuni din competițiile FIFA către investitori privați. Retragerea sprijinului din partea unei federații majore precum FA marchează o escaladare a tensiunilor și a opoziției față de conducerea actuală a FIFA, adăugându-se criticilor deja exprimate de alte organisme și membri ai consiliului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-03T10:44:45.667883+00:00",
+      "data_afisaj": "3 august 2026, 13:44"
+    },
+    {
+      "id": "ddf001938b80",
+      "titlu": "Newcastle United îl transferă pe portarul Hornicek de la Braga pentru 25,7 milioane de lire sterline",
+      "rezumat": "Clubul englez Newcastle United a finalizat transferul portarului Lukas Hornicek de la echipa portugheză Braga. Suma de transfer se ridică la 25,7 milioane de lire sterline, marcând o investiție semnificativă pentru întărirea lotului. Această mutare subliniază intenția lui Newcastle de a-și consolida poziția în Premier League și de a concura la un nivel înalt, aducând un jucător considerat de perspectivă pentru postul de portar. Transferul a fost confirmat de mai multe surse de presă sportive.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-03T10:44:45.669567+00:00",
+      "data_afisaj": "3 august 2026, 13:44"
+    },
+    {
+      "id": "b05a120ab760",
+      "titlu": "Antrenorul Marc Skinner demisionează de la Manchester United Femei înainte de startul sezonului WSL",
+      "rezumat": "Marc Skinner a demisionat din funcția de antrenor al echipei feminine Manchester United, chiar înainte de începerea noului sezon al Women's Super League (WSL). Plecarea sa neașteptată lasă clubul într-o poziție delicată, necesitând găsirea rapidă a unui înlocuitor pentru a pregăti echipa pentru provocările campionatului. Sub conducerea lui Skinner, Manchester United Femei a înregistrat progrese, iar această schimbare de la cârma tehnică va influența strategia și performanța echipei în sezonul viitor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-03T10:44:45.671181+00:00",
+      "data_afisaj": "3 august 2026, 13:44"
+    },
+    {
+      "id": "cb9a37dd17cc",
+      "titlu": "Chelsea îl achiziționează pe mijlocașul Valentin Barco de la Strasbourg",
+      "rezumat": "Clubul londonez Chelsea a finalizat transferul mijlocașului argentinian Valentin Barco de la echipa franceză Strasbourg. Jucătorul a semnat un contract pe o perioadă de șapte ani, indicând o investiție pe termen lung din partea clubului englez. Barco este considerat un talent promițător, iar aducerea sa la Chelsea face parte din strategia de întinerire și consolidare a lotului, oferind noi opțiuni la mijlocul terenului pentru viitoarele sezoane.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-03T10:44:45.672630+00:00",
+      "data_afisaj": "3 august 2026, 13:44"
+    },
+    {
+      "id": "10bda223cc10",
+      "titlu": "Celtic va înfrunta LASK în play-off-ul Ligii Campionilor",
+      "rezumat": "Echipa scoțiană Celtic a fost extrasă să joace împotriva campioanei Austriei, LASK, în runda play-off-ului Ligii Campionilor. Meciurile din această fază sunt cruciale pentru calificarea în grupele celei mai prestigioase competiții europene intercluburi. Celtic speră să depășească acest obstacol pentru a-și asigura prezența în faza grupelor, în timp ce alte patru echipe scoțiene așteaptă tragerile la sorți pentru Europa League și Conference League.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-03T10:44:45.674114+00:00",
+      "data_afisaj": "3 august 2026, 13:44"
+    },
     {
       "id": "f731777bc87c",
       "titlu": "Rapid și CFR Cluj se duelează în etapa a 3-a din Superligă",
@@ -1290,61 +1350,6 @@
       ],
       "data_publicare": "2026-07-27T10:45:09.068714+00:00",
       "data_afisaj": "27 iulie 2026, 13:45"
-    },
-    {
-      "id": "edca98551ae1",
-      "titlu": "St Mirren va întâlni Rangers în optimile de finală ale Cupei Ligii Scoției",
-      "rezumat": "St Mirren, deținătoarea trofeului, a fost extrasă pentru a juca în deplasare împotriva echipei Rangers în optimile de finală ale Cupei Ligii Scoției (Premier Sports Cup). De asemenea, în urma tragerii la sorți, Celtic va juca pe terenul lui Dundee United. Această etapă a competiției promite confruntări interesante între echipe de top din fotbalul scoțian, marcând un moment important în calendarul competițional.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-26T17:56:32.926928+00:00",
-      "data_afisaj": "26 iulie 2026, 20:56"
-    },
-    {
-      "id": "5decab779fcc",
-      "titlu": "Jamie Gittens, dornic să impresioneze sub comanda lui Xabi Alonso la Chelsea",
-      "rezumat": "Mijlocașul de bandă al lui Chelsea, Jamie Gittens, a declarat că va face parte din lotul lui Xabi Alonso pentru sezonul viitor și l-a descris pe noul său antrenor ca fiind \"unul dintre cei mai buni\". Gittens își exprimă entuziasmul de a lucra cu Alonso și speră să joace un rol important în planurile echipei pentru campania care urmează, subliniind încrederea sa în viziunea tehnicianului spaniol.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-26T17:56:32.928319+00:00",
-      "data_afisaj": "26 iulie 2026, 20:56"
-    },
-    {
-      "id": "b6a6d642c31e",
-      "titlu": "Stuart Maynard, demis din funcția de antrenor la York City",
-      "rezumat": "Clubul York City a confirmat plecarea antrenorului Stuart Maynard, la doar trei luni după ce acesta a reușit să readucă echipa în English Football League. Decizia vine ca o surpriză, având în vedere succesul recent al lui Maynard. Clubul va căuta acum un nou antrenor pentru a continua parcursul în liga inferioară engleză, într-o perioadă crucială pentru performanța echipei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-26T17:56:32.929615+00:00",
-      "data_afisaj": "26 iulie 2026, 20:56"
-    },
-    {
-      "id": "023712143e81",
-      "titlu": "Echipa feminină Arsenal își propune câștigarea campionatului după o campanie activă de transferuri",
-      "rezumat": "Echipa feminină Arsenal și-a exprimat clar ambiția de a câștiga campionatul, în ciuda unei ferestre de transferuri aglomerate, care a inclus plecarea lui Beth Mead și aducerea a șapte noi jucătoare. Absolventele academiei, precum Lotte Wubben-Moy, rămân esențiale pentru succesul echipei. Noile achiziții sunt menite să consolideze lotul și să susțină obiectivul de a cuceri trofee în sezonul următor, demonstrând o strategie clară de dezvoltare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-26T17:56:32.931060+00:00",
-      "data_afisaj": "26 iulie 2026, 20:56"
-    },
-    {
-      "id": "c732e2ad15b2",
-      "titlu": "Fereastra de transferuri de vară 2026: Toate mutările din cele mai mari cinci ligi europene",
-      "rezumat": "Un ghid detaliat prezintă toate cele mai recente transferuri din Premier League, La Liga, Bundesliga, Ligue 1 și Serie A. Acesta oferă o privire de ansamblu asupra mișcărilor de jucători din cele mai importante campionate europene, incluzând atât transferurile confirmate, cât și un ghid club cu club. De asemenea, este disponibil și un ghid interactiv pentru fereastra de transferuri din fotbalul feminin, oferind o resursă completă pentru fanii fotbalului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-26T17:56:32.932453+00:00",
-      "data_afisaj": "26 iulie 2026, 20:56"
     }
   ]
 }
