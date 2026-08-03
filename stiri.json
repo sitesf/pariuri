@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-03T11:21:19.997247+00:00",
-  "updated_at_afisaj": "3 august 2026, 14:21",
+  "updated_at": "2026-08-03T17:53:45.752995+00:00",
+  "updated_at_afisaj": "3 august 2026, 20:53",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,44 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 111,
+  "numar_stiri": 110,
   "stiri": [
+    {
+      "id": "f6a9be07683a",
+      "titlu": "Celtic își începe apărarea titlului în Premiership-ul Scoției împotriva lui Dundee",
+      "rezumat": "Campioana en-titre a Scoției, Celtic, își începe campania de apărare a titlului în Premiership-ul scoțian cu un meci împotriva echipei Dundee. Partida marchează debutul noului sezon pentru Celtic, care vizează un nou succes intern. Echipa va încerca să își demonstreze forța încă de la început, într-un meci considerat important pentru moralul și parcursul viitor al sezonului. Fanii așteaptă cu nerăbdare să vadă cum se prezintă echipa sub presiunea așteptărilor de a-și menține dominația în fotbalul scoțian.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-03T17:53:45.747999+00:00",
+      "data_afisaj": "3 august 2026, 20:53"
+    },
+    {
+      "id": "1e8a69428c69",
+      "titlu": "Real Madrid reia discuțiile contractuale cu Vinicius Jr, pe fondul interesului lui Arsenal",
+      "rezumat": "Real Madrid și Vinicius Jr vor relua discuțiile privind prelungirea contractului în această săptămână, în timp ce Arsenal urmărește cu atenție situația jucătorului. Atacantul brazilian este o țintă importantă pentru clubul londonez, iar speculațiile privind un posibil transfer la Arsenal au crescut în ultima perioadă. Negocierile dintre Real Madrid și Vinicius Jr sunt cruciale pentru a clarifica viitorul său, având în vedere că Arsenal este pregătită să intervină dacă nu se ajunge la un acord.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-08-03T17:53:45.751471+00:00",
+      "data_afisaj": "3 august 2026, 20:53"
+    },
+    {
+      "id": "e6cbd350ac05",
+      "titlu": "Mauricio Pochettino își prelungește contractul de selecționer al Statelor Unite până în 2030",
+      "rezumat": "Mauricio Pochettino a ajuns la un acord pentru a continua ca selecționer al echipei naționale masculine a Statelor Unite până în anul 2030. Această prelungire a contractului subliniază încrederea federației americane în viziunea și capacitatea antrenorului argentinian de a dezvolta fotbalul în SUA pe termen lung. Decizia vine în contextul pregătirilor pentru viitoarele competiții internaționale și al obiectivului de a consolida prezența Statelor Unite pe scena fotbalului mondial.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-03T17:53:45.752977+00:00",
+      "data_afisaj": "3 august 2026, 20:53"
+    },
     {
       "id": "88b7758bbbd8",
       "titlu": "Christos Tzolis, gata de luptă la Arsenal după revenirea în Anglia",
@@ -1245,54 +1281,6 @@
       ],
       "data_publicare": "2026-07-27T18:19:49.826274+00:00",
       "data_afisaj": "27 iulie 2026, 21:19"
-    },
-    {
-      "id": "2c6fd81850da",
-      "titlu": "Chelsea inițiază discuții pentru transferul atacantului Danny Welbeck de la Brighton",
-      "rezumat": "Clubul Chelsea a început negocierile pentru a-l aduce pe atacantul Danny Welbeck, în vârstă de 35 de ani, de la Brighton & Hove Albion. Jucătorul este interesat să se alăture noului antrenor Xabi Alonso pe Stamford Bridge. Această mutare ar aduce experiență în ofensiva londonezilor, Welbeck fiind un fotbalist cu o carieră solidă în Premier League și la nivel internațional. Discuțiile sunt în curs, iar finalizarea transferului ar depinde de acordul dintre cluburi și de termenii personali.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-27T17:45:35.194880+00:00",
-      "data_afisaj": "27 iulie 2026, 20:45"
-    },
-    {
-      "id": "f3c2267ffb08",
-      "titlu": "Fotbalul englez va testa o nouă regulă pentru a elimina pauzele tactice ale portarilor",
-      "rezumat": "Federația Engleză de Fotbal va implementa un program pilot în acest sezon pentru a încerca să elimine pauzele tactice luate de portari în timpul meciurilor. Această inițiativă vizează fluidizarea jocului și reducerea întreruperilor deliberate, care sunt adesea folosite pentru a încetini ritmul sau pentru a permite antrenorilor să transmită instrucțiuni. Detaliile exacte ale implementării vor fi monitorizate îndeaproape pentru a evalua impactul asupra dinamicii partidelor și a fair-play-ului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-27T17:45:35.196581+00:00",
-      "data_afisaj": "27 iulie 2026, 20:45"
-    },
-    {
-      "id": "ed675e0e4b54",
-      "titlu": "CFR Cluj a învins FC Voluntari cu 5-0 în etapa a doua a Superligii",
-      "rezumat": "Echipa CFR Cluj a obținut o victorie categorică pe teren propriu împotriva formației FC Voluntari, scor 5-0, în cadrul etapei a doua a Superligii României. Ardelenii au dominat partida de la un capăt la altul, marcând cinci goluri și demonstrând o formă excelentă la începutul campionatului. Acest rezultat plasează CFR Cluj într-o poziție favorabilă în clasament și confirmă ambițiile clubului pentru acest sezon.",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-07-27T17:45:35.199992+00:00",
-      "data_afisaj": "27 iulie 2026, 20:45"
-    },
-    {
-      "id": "ba5183a16d1a",
-      "titlu": "Manchester City speră ca Rodri să semneze un nou contract, în timp ce Real Madrid evaluează o ofertă",
-      "rezumat": "Manchester City este optimistă că mijlocașul Rodri va semna un nou contract, deși clubul se pregătește pentru o posibilă ofertă din partea lui Real Madrid. Contractul actual al lui Rodri expiră în iunie 2027, iar discuțiile pentru prelungire sunt în desfășurare de ceva timp. Performanțele sale excelente, inclusiv la Cupa Mondială, au atras interesul mai multor cluburi de top, Real Madrid fiind printre cele mai insistente. City dorește să-și asigure serviciile pe termen lung.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-27T17:45:35.201778+00:00",
-      "data_afisaj": "27 iulie 2026, 20:45"
     }
   ]
 }
