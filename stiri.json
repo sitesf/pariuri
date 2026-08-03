@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-03T10:44:45.674134+00:00",
-  "updated_at_afisaj": "3 august 2026, 13:44",
+  "updated_at": "2026-08-03T11:21:19.997247+00:00",
+  "updated_at_afisaj": "3 august 2026, 14:21",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,41 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 116,
+  "numar_stiri": 111,
   "stiri": [
+    {
+      "id": "88b7758bbbd8",
+      "titlu": "Christos Tzolis, gata de luptă la Arsenal după revenirea în Anglia",
+      "rezumat": "Achiziția de 34 de milioane de lire sterline de la Club Brugge, Christos Tzolis, a declarat că este un jucător mai complet acum, după o perioadă mai puțin reușită la Norwich. Aflat la Arsenal, Tzolis este pregătit să demonstreze calitățile care i-au adus porecla \"Leonidas\" în testele de fitness din pre-sezon, în ciuda zvonurilor privind o posibilă venire a lui Vinicius Jr. la club. El își propune să joace un rol important în echipa campioană a Premier League.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-03T11:21:19.994224+00:00",
+      "data_afisaj": "3 august 2026, 14:21"
+    },
+    {
+      "id": "2c046224ea2c",
+      "titlu": "Lucas Herrington, aproape de un transfer la Hull City în Premier League",
+      "rezumat": "Lucas Herrington, cel mai tânăr australian care a început un meci la Cupa Mondială masculină, este pe cale să devină al doilea cel mai scump fotbalist australian din istorie. Se preconizează un transfer la nou-promovata Hull City, echipă din Premier League, pentru o sumă de aproximativ 12,6 milioane de lire sterline, cu posibilitatea de a ajunge la 4,4 milioane de lire sterline în bonusuri. Această mutare marchează un pas important în cariera fundașului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-03T11:21:19.995749+00:00",
+      "data_afisaj": "3 august 2026, 14:21"
+    },
+    {
+      "id": "ff9282673581",
+      "titlu": "Marco Rose preia conducerea la Bournemouth după plecarea lui Andoni Iraola",
+      "rezumat": "Echipa Bournemouth, care a impresionat sub îndrumarea lui Andoni Iraola, intră într-o nouă eră odată cu preluarea conducerii de către Marco Rose. Iraola a părăsit clubul, iar acum se pune întrebarea dacă Bournemouth va reuși să continue munca excelentă depusă de fostul antrenor și să construiască pe baza fundației solide lăsate de acesta. Marco Rose are sarcina de a menține echipa pe o traiectorie ascendentă în sezonul 2026-27.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-08-03T11:21:19.997228+00:00",
+      "data_afisaj": "3 august 2026, 14:21"
+    },
     {
       "id": "177b735f84a1",
       "titlu": "Federația Engleză de Fotbal își va retrage sprijinul pentru președintele FIFA, Gianni Infantino",
@@ -1260,96 +1293,6 @@
       ],
       "data_publicare": "2026-07-27T17:45:35.201778+00:00",
       "data_afisaj": "27 iulie 2026, 20:45"
-    },
-    {
-      "id": "64c4847f8ae0",
-      "titlu": "Președintele FIFA, Gianni Infantino, acuză criticii de răspândirea urii la Cupa Mondială",
-      "rezumat": "Președintele FIFA, Gianni Infantino, a reacționat la criticile aduse Cupei Mondiale, acuzându-i pe detractori de răspândirea urii și a narațiunilor false. Într-o scrisoare deschisă, Infantino a susținut că aceștia au ignorat bucuria și unitatea experimentate de milioane de fani din întreaga lume, care au fost martorii unui turneu de succes, ce a celebrat unitatea, siguranța și incluziunea. El a sugerat criticilor să mediteze, să se roage sau să urmărească un meci de fotbal în loc să răspândească ură și zvonuri false despre el și competiție.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-27T11:19:29.342743+00:00",
-      "data_afisaj": "27 iulie 2026, 14:19"
-    },
-    {
-      "id": "52e4957bf561",
-      "titlu": "Antrenorul Leicester City, Russell Martin, subliniază necesitatea de a-și găsi propria cale",
-      "rezumat": "Managerul lui Leicester City, Russell Martin, a declarat că istoria recentă a clubului nu ar trebui folosită pentru a judeca ceea ce poate realiza el cu foștii campioni din Premier League. Martin subliniază importanța de a-și găsi propria identitate și de a nu se lăsa influențat de așteptările bazate pe performanțele anterioare ale echipei. Declarațiile vin în contextul în care Leicester se pregătește pentru un nou sezon, încercând să depășească dificultățile recente și să construiască o echipă competitivă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-27T11:19:29.344417+00:00",
-      "data_afisaj": "27 iulie 2026, 14:19"
-    },
-    {
-      "id": "7cef1ea56f21",
-      "titlu": "York City îl numește pe Scott Lindsey noul antrenor principal",
-      "rezumat": "York City l-a numit pe fostul antrenor al echipei Crawley Town, Scott Lindsey, în funcția de nou antrenor principal. Numirea vine la doar o zi după demiterea surprinzătoare a lui Stuart Maynard, antrenorul care a câștigat titlul cu echipa. Lindsey preia conducerea cu obiectivul de a stabiliza performanțele clubului și de a construi o echipă capabilă să concureze la un nivel înalt în campionat. Această schimbare rapidă la nivel de conducere tehnică marchează un nou început pentru York City.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-27T11:19:29.345844+00:00",
-      "data_afisaj": "27 iulie 2026, 14:19"
-    },
-    {
-      "id": "64a16da48b8f",
-      "titlu": "Căpitanul echipei feminine Brighton, Maisie Symonds, semnează un nou contract pe termen lung",
-      "rezumat": "Căpitanul echipei feminine Brighton, Maisie Symonds, a semnat un nou contract cu clubul, descris ca fiind pe termen lung. Această prelungire subliniază angajamentul jucătoarei față de echipă și încrederea clubului în contribuția sa viitoare. Symonds este o figură cheie pentru Brighton, iar noul acord îi asigură continuitatea la club, consolidând stabilitatea echipei pentru sezoanele următoare. Semnarea contractului este o veste pozitivă pentru fanii echipei feminine Brighton.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-27T11:19:29.347455+00:00",
-      "data_afisaj": "27 iulie 2026, 14:19"
-    },
-    {
-      "id": "2ab18d54d955",
-      "titlu": "Xabi Alonso are un plan pentru a-i integra pe Morgan Rogers și Cole Palmer la Chelsea",
-      "rezumat": "Antrenorul lui Chelsea, Xabi Alonso, a declarat că are un „plan” pentru a-l integra pe Morgan Rogers, cel mai scump transfer al clubului, în valoare de 117 milioane de lire sterline, alături de Cole Palmer. Această declarație vine în contextul în care fanii și analiștii se întreabă cum va reuși tehnicianul spaniol să gestioneze prezența ambilor jucători talentați în primul unsprezece, având în vedere pozițiile similare pe care le pot ocupa pe teren. Alonso a subliniat importanța flexibilității tactice și a adaptării la calitățile individuale ale fiecărui fotbalist pentru a maximiza potențialul ofensiv al echipei în noul sezon.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-27T10:45:09.063803+00:00",
-      "data_afisaj": "27 iulie 2026, 13:45"
-    },
-    {
-      "id": "d5ef50f85a4e",
-      "titlu": "Cheltuielile record ale lui Tottenham indică o nouă ambiție, conform lui Micky van de Ven",
-      "rezumat": "Fundașul lui Tottenham, Micky van de Ven, a afirmat că investițiile record ale clubului în transferuri subliniază o „nouă ambiție” după un sezon considerat „inacceptabil”. Declarația sa vine în contextul în care echipa londoneză încearcă să se întărească semnificativ pentru a concura la cel mai înalt nivel. Van de Ven a subliniat că sumele cheltuite demonstrează angajamentul conducerii de a readuce clubul în top și de a lupta pentru trofee, oferind un mesaj clar atât jucătorilor, cât și fanilor cu privire la obiectivele stabilite pentru viitorul apropiat.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-27T10:45:09.065542+00:00",
-      "data_afisaj": "27 iulie 2026, 13:45"
-    },
-    {
-      "id": "e5f29a21815b",
-      "titlu": "Derek McInnes provoacă Rangers să aibă ambiția de a câștiga titlul",
-      "rezumat": "Antrenorul Derek McInnes a lansat o provocare echipei Rangers, îndemnându-i pe jucători să aibă „ambiția” de a câștiga titlul în acest sezon. Declarația sa vine înaintea startului campionatului, subliniind importanța mentalității de învingător și a setării unor obiective înalte. McInnes a accentuat că, deși competiția va fi acerbă, Rangers trebuie să creadă în propriile forțe și să lupte cu determinare pentru a-și îndeplini potențialul și a aduce trofeul acasă, inspirând astfel un spirit de luptă în rândul lotului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-27T10:45:09.067046+00:00",
-      "data_afisaj": "27 iulie 2026, 13:45"
-    },
-    {
-      "id": "6d6bd656f806",
-      "titlu": "Gestionarea așteptărilor și cerințelor, cheia succesului pentru Hibernian, spune David Gray",
-      "rezumat": "Antrenorul principal al echipei Hibernian, David Gray, este ferm convins că adaptarea la „așteptări și cerințe” va fi crucială pentru un sezon de succes al clubului de pe Easter Road. Gray a subliniat că, pe lângă pregătirea fizică și tactică, aspectul mental și capacitatea jucătorilor de a gestiona presiunea publicului și a obiectivelor stabilite vor juca un rol esențial. El a încurajat echipa să abordeze fiecare meci cu încredere și să transforme presiunea într-o motivație suplimentară pentru a obține performanțe notabile în campionatul scoțian.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-27T10:45:09.068714+00:00",
-      "data_afisaj": "27 iulie 2026, 13:45"
     }
   ]
 }
