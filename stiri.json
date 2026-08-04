@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-03T18:44:45.103231+00:00",
-  "updated_at_afisaj": "3 august 2026, 21:44",
+  "updated_at": "2026-08-04T09:40:08.119008+00:00",
+  "updated_at_afisaj": "4 august 2026, 12:40",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,41 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 108,
+  "numar_stiri": 106,
   "stiri": [
+    {
+      "id": "e81885136e4b",
+      "titlu": "Patru noi națiuni își exprimă sprijinul pentru Gianni Infantino, pe fondul opoziției crescânde",
+      "rezumat": "În contextul unei opoziții tot mai puternice din partea unor federații europene, președintele FIFA, Gianni Infantino, a primit sprijin din partea a patru noi națiuni, pe lângă Qatar și Maroc. Această evoluție subliniază diviziunile din cadrul fotbalului mondial, unde unele țări contestă poziția confederațiilor lor și își reafirmă susținerea pentru liderul FIFA. Situația indică o complexitate crescândă în peisajul politic al fotbalului internațional, cu alianțe și contra-alianțe în jurul conducerii actuale a forului internațional.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-08-04T09:40:08.115953+00:00",
+      "data_afisaj": "4 august 2026, 12:40"
+    },
+    {
+      "id": "304c2d19ef5d",
+      "titlu": "Mijlocașul englez Jordan Henderson semnează cu Chelsea",
+      "rezumat": "Mijlocașul internațional englez Jordan Henderson a semnat un contract pe doi ani cu Chelsea, după ce înțelegerea sa cu rivala din Premier League, Brentford, a fost reziliată de comun acord. Henderson, care a devenit agent liber, aduce experiență semnificativă la mijlocul terenului pentru echipa londoneză. Transferul său reprezintă o mutare importantă pentru Chelsea în eforturile de a-și consolida lotul înainte de startul noului sezon, adăugând profunzime și leadership echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-04T09:40:08.117717+00:00",
+      "data_afisaj": "4 august 2026, 12:40"
+    },
+    {
+      "id": "7f6a69eb199a",
+      "titlu": "Fulham îi transferă pe Garcia și Palacios de la Real Madrid",
+      "rezumat": "Clubul Fulham a anunțat achiziționarea a doi jucători de la Real Madrid, Gonzalo Garcia și Cesar Palacios. Ambii fotbaliști au semnat contracte pe cinci ani cu echipa din Premier League. Această dublă mutare reprezintă o investiție a lui Fulham în tineri talente de la un club de top, Real Madrid, în încercarea de a-și întări lotul pentru viitoarele sezoane. Transferurile subliniază strategia clubului de a aduce jucători cu potențial de dezvoltare de la academii prestigioase.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-04T09:40:08.118989+00:00",
+      "data_afisaj": "4 august 2026, 12:40"
+    },
     {
       "id": "76cdf967806a",
       "titlu": "A început meciul FCSB – Farul în etapa a 3-a din Superligă",
@@ -1202,63 +1235,6 @@
       ],
       "data_publicare": "2026-07-28T10:33:32.930496+00:00",
       "data_afisaj": "28 iulie 2026, 13:33"
-    },
-    {
-      "id": "3e1a4282af6a",
-      "titlu": "Zinedine Zidane confirmat ca antrenor principal al Franței",
-      "rezumat": "Fostul antrenor al echipei Real Madrid, Zinedine Zidane, a fost confirmat în funcția de antrenor principal al echipei naționale de fotbal a Franței. Numirea sa vine după o perioadă de speculații intense privind viitorul băncii tehnice a naționalei. Zidane, o legendă a fotbalului francez și mondial, preia conducerea cu obiectivul de a continua performanțele echipei la nivel internațional. Această decizie marchează revenirea sa în antrenorat la nivel înalt, după plecarea de la Real Madrid.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-28T09:38:08.845041+00:00",
-      "data_afisaj": "28 iulie 2026, 12:38"
-    },
-    {
-      "id": "1291757e077e",
-      "titlu": "John Stones, în discuții avansate pentru un transfer la Inter Milano",
-      "rezumat": "Fundașul englez John Stones se află în discuții avansate cu Inter Milano pentru un posibil transfer gratuit la clubul italian. Stones, în vârstă de 32 de ani, a părăsit Manchester City în luna iunie și a atras interesul mai multor cluburi, inclusiv Juventus. Performanțele sale impresionante la Cupa Mondială, unde Anglia a ajuns în semifinale, au consolidat poziția Interului în cursa pentru semnătura sa. Se așteaptă ca detaliile finale ale mutării să fie stabilite în curând.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-28T09:38:08.846584+00:00",
-      "data_afisaj": "28 iulie 2026, 12:38"
-    },
-    {
-      "id": "8bac3c235519",
-      "titlu": "Maldini și Leonardo demisionează de la Federația Italiană de Fotbal după eșecul numirii lui Pirlo",
-      "rezumat": "Paolo Maldini și Leonardo au demisionat din funcțiile lor la Federația Italiană de Fotbal (FIGC), în urma eșecului numirii lui Andrea Pirlo ca antrenor principal al naționalei Italiei. Maldini fusese numit director tehnic pe 11 iulie, ca parte a unei restructurări a managementului echipei naționale. Demisiile celor doi oficiali de rang înalt subliniază tensiunile și problemele interne din cadrul federației, declanșate de controversele legate de numirea lui Pirlo.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-28T09:38:08.848191+00:00",
-      "data_afisaj": "28 iulie 2026, 12:38"
-    },
-    {
-      "id": "e80c5cff1d6c",
-      "titlu": "Diferența financiară în creștere: Premier League continuă să cheltuiască masiv",
-      "rezumat": "Cluburile engleze au investit peste 1,4 miliarde de lire sterline în noi jucători în această vară, depășind cheltuielile combinate ale celorlalte patru mari ligi europene (Bundesliga, La Liga, Ligue 1 și Serie A) cu aproximativ 303 milioane de lire sterline. Această analiză subliniază puterea financiară inegalabilă a Premier League, care continuă să domine piața transferurilor. Discrepanța tot mai mare între cheltuielile cluburilor engleze și cele din restul Europei evidențiază o tendință de consolidare a hegemoniei financiare a ligii.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-28T09:38:08.849703+00:00",
-      "data_afisaj": "28 iulie 2026, 12:38"
-    },
-    {
-      "id": "cdf5c6aefd98",
-      "titlu": "Președintele FIFA, Gianni Infantino, chemat să depună mărturie în Congresul SUA privind legăturile cu Trump",
-      "rezumat": "Jamie Raskin, principalul democrat din Comisia Judiciară a Camerei Reprezentanților din SUA, a inițiat o investigație asupra președintelui FIFA, Gianni Infantino. Raskin a solicitat documente care să detalieze legăturile dintre organismul de conducere al fotbalului mondial și Donald Trump, administrația sa și afacerile familiei acestuia. Această acțiune vine în urma unei scrisori trimise de Raskin către Infantino, cerând informații despre cadouri, plăți sau alte interacțiuni.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-28T09:38:08.851389+00:00",
-      "data_afisaj": "28 iulie 2026, 12:38"
     }
   ]
 }
