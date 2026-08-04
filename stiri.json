@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-04T10:37:40.444708+00:00",
-  "updated_at_afisaj": "4 august 2026, 13:37",
+  "updated_at": "2026-08-04T17:51:42.081911+00:00",
+  "updated_at_afisaj": "4 august 2026, 20:51",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,62 @@
   },
   "numar_stiri": 105,
   "stiri": [
+    {
+      "id": "402803f63262",
+      "titlu": "Barcelona o transferă pe atacanta Kerolin de la Manchester City",
+      "rezumat": "Clubul spaniol Barcelona a anunțat achiziționarea atacantei braziliene Kerolin de la campioana Women's Super League, Manchester City. Transferul marchează o mutare importantă în fotbalul feminin european, Kerolin fiind considerată una dintre cele mai talentate jucătoare din campionatul englez. Această tranzacție subliniază ambițiile Barcelonei de a-și consolida și mai mult lotul, continuând să atragă nume mari pentru a-și menține dominația în competițiile interne și europene.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-04T17:51:42.076296+00:00",
+      "data_afisaj": "4 august 2026, 20:51"
+    },
+    {
+      "id": "0c6b057793c1",
+      "titlu": "Arsène Wenger și secretarul general FIFA critică planul eșuat al Cupei Mondiale",
+      "rezumat": "Arsène Wenger, șeful departamentului de dezvoltare globală a fotbalului la FIFA, și Mattias Grafström, secretarul general al organizației, au criticat vehement planul eșuat de investiții private pentru Cupa Mondială. Grafström a descris evenimentele ca fiind \"triste și reproșabile\", în timp ce Wenger a declarat că nu a avut cunoștință despre acest plan. Declarațiile subliniază o presiune crescândă asupra președintelui FIFA, Gianni Infantino, și indică o distanțare a unor oficiali de rang înalt de deciziile sale controversate.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-04T17:51:42.077721+00:00",
+      "data_afisaj": "4 august 2026, 20:51"
+    },
+    {
+      "id": "57d4ead42959",
+      "titlu": "Coventry realizează un transfer record, achiziționându-l pe portarul Carl Rushworth",
+      "rezumat": "Coventry City a finalizat transferul definitiv al portarului Carl Rushworth de la Brighton pentru o sumă record de 22,5 milioane de lire sterline. Antrenorul Frank Lampard a salutat achiziția ca fiind \"uriașă\" pentru club, în contextul pregătirilor pentru revenirea în Premier League după 25 de ani. Rushworth, în vârstă de 25 de ani, a avut un rol esențial în campania de promovare a lui Coventry din sezonul trecut, fiind titular în toate cele 46 de meciuri de campionat și câștigând Mănușa de Aur.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-04T17:51:42.079152+00:00",
+      "data_afisaj": "4 august 2026, 20:51"
+    },
+    {
+      "id": "e66f05feff4d",
+      "titlu": "Manchester United Femei o numește pe Eva Olid noul antrenor principal",
+      "rezumat": "Manchester United Femei este pe cale să o numească pe Eva Olid, fostul manager al echipei Hearts, în funcția de antrenor principal. Aceasta o va înlocui pe Marc Skinner, care a demisionat luni. Discuțiile cu antrenoarea în vârstă de 40 de ani sunt considerate a fi într-un stadiu foarte avansat, iar Olid este așteptată să se întâlnească cu echipa miercuri. Numirea sa reprezintă un pas important pentru club înaintea noului sezon din Women's Super League.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-04T17:51:42.080478+00:00",
+      "data_afisaj": "4 august 2026, 20:51"
+    },
+    {
+      "id": "01fc950d5c63",
+      "titlu": "Aston Villa câștigă un proces important împotriva FIFA la Tribunalul de Arbitraj Sportiv",
+      "rezumat": "Aston Villa a obținut o victorie semnificativă la Tribunalul de Arbitraj Sportiv (TAS) într-un litigiu împotriva FIFA, o decizie care a adus o mare ușurare clubului. Această hotărâre legală va salva milioane de lire sterline pentru Aston Villa, permițând unui jucător englez să evolueze în Anglia, conform declarațiilor jucătorilor clubului. Victoria subliniază complexitatea reglementărilor internaționale din fotbal și impactul lor financiar asupra cluburilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-08-04T17:51:42.081891+00:00",
+      "data_afisaj": "4 august 2026, 20:51"
+    },
     {
       "id": "51f113d17333",
       "titlu": "Țările din Concacaf iau în considerare retragerea sprijinului pentru președintele FIFA, Gianni Infantino",
@@ -1162,67 +1218,6 @@
       ],
       "data_publicare": "2026-07-28T18:07:48.716074+00:00",
       "data_afisaj": "28 iulie 2026, 21:07"
-    },
-    {
-      "id": "06b32442d9ae",
-      "titlu": "UEFA critică planurile FIFA de a atrage investiții private pentru Cupa Mondială",
-      "rezumat": "Forul european de fotbal, UEFA, a reacționat vehement la propunerile FIFA de a căuta investiții private pentru competițiile sale, inclusiv Cupa Mondială. UEFA a acuzat FIFA că \"încearcă să vândă sufletul fotbalului\" prin planurile de a ceda drepturi comerciale în valoare de 20 de miliarde de dolari către investitori privați. Această mișcare controversată a stârnit un val de critici și ar putea duce la acțiuni legale din partea UEFA, care consideră că FIFA depășește o limită prin aceste demersuri financiare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-28T17:37:41.342833+00:00",
-      "data_afisaj": "28 iulie 2026, 20:37"
-    },
-    {
-      "id": "8f0fce50d776",
-      "titlu": "Xabi Alonso debutează cu o victorie spectaculoasă la Chelsea",
-      "rezumat": "Xabi Alonso a început mandatul de antrenor la Chelsea cu o victorie dramatică, scor 6-4, împotriva echipei Western Sydney Wanderers într-un meci amical de pre-sezon. Atacantul Joao Pedro a fost eroul partidei, marcând un hat-trick în doar nouă minute. Meciul a fost marcat de o ofensivă prolifică a ambelor echipe, oferind un spectacol cu zece goluri. Alonso a subliniat importanța construirii unui echilibru adecvat în lot, în ciuda speculațiilor privind transferurile.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "FourFourTwo",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-28T17:37:41.344298+00:00",
-      "data_afisaj": "28 iulie 2026, 20:37"
-    },
-    {
-      "id": "b7b9166a306a",
-      "titlu": "Roberto Mancini redevine selecționerul Italiei, Claudio Ranieri director tehnic",
-      "rezumat": "Roberto Mancini a fost numit pentru a doua oară selecționer al echipei naționale de fotbal a Italiei, la doar o zi după ce Andrea Pirlo s-a retras din cursa pentru acest post. Președintele Federației Italiene de Fotbal (FIGC), Giovanni Malagò, a confirmat, de asemenea, numirea lui Claudio Ranieri în funcția de director tehnic, înlocuindu-l pe Paolo Maldini. Mancini revine la conducerea \"Azzurrilor\" după ce a mai ocupat această poziție, preluând echipa de la Gennaro Gattuso.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-28T17:37:41.345878+00:00",
-      "data_afisaj": "28 iulie 2026, 20:37"
-    },
-    {
-      "id": "44a4012219b7",
-      "titlu": "Celtic realizează un transfer record, aducându-l pe Kasper Hogh",
-      "rezumat": "Clubul scoțian Celtic a stabilit un nou record de transfer, achiziționându-l pe atacantul danez Kasper Hogh de la Bodo/Glimt. Jucătorul a semnat un contract pe o perioadă de patru ani. Această mutare subliniază ambițiile clubului de a-și consolida lotul și de a-și îmbunătăți performanțele în competițiile interne și europene. Hogh este considerat o piesă importantă în strategia de dezvoltare a echipei pentru sezoanele următoare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-28T17:37:41.347398+00:00",
-      "data_afisaj": "28 iulie 2026, 20:37"
-    },
-    {
-      "id": "c298a42789cb",
-      "titlu": "Oficialii europeni ai arbitrajului cer utilizarea VAR doar pentru erori flagrante",
-      "rezumat": "Oficialii europeni responsabili cu arbitrajul au declarat că sistemul de arbitraj video (VAR) ar trebui folosit doar pentru a corecta deciziile \"evident incorecte\" și incidentele clare ratate de arbitrii de pe teren. Această directivă vine în contextul dezbaterilor continue privind modul de implementare și impactul VAR asupra jocului. Scopul este de a reduce intervențiile minore și de a asigura că tehnologia este utilizată pentru a menține integritatea deciziilor cheie, fără a fragmenta excesiv ritmul meciurilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-28T17:37:41.348815+00:00",
-      "data_afisaj": "28 iulie 2026, 20:37"
     }
   ]
 }
