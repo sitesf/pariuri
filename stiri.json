@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-04T17:51:42.081911+00:00",
-  "updated_at_afisaj": "4 august 2026, 20:51",
+  "updated_at": "2026-08-04T18:23:40.865648+00:00",
+  "updated_at_afisaj": "4 august 2026, 21:23",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,52 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 105,
+  "numar_stiri": 104,
   "stiri": [
+    {
+      "id": "c62d201cb6ef",
+      "titlu": "Mykhailo Mudryk ar putea reveni pe teren miercuri după o suspendare de 20 de luni",
+      "rezumat": "Mijlocașul lui Chelsea, Mykhailo Mudryk, ar putea reveni în acțiune miercuri, după o absență de 20 de luni cauzată de o suspendare legată de dopaj. Jucătorul a fost inclus în lotul lui Chelsea pentru un meci amical împotriva lui Juventus, programat să aibă loc în Hong Kong. Această revenire este așteptată cu interes de fanii clubului, având în vedere perioada lungă de inactivitate a fotbalistului ucrainean și potențialul său de a contribui la performanțele echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-04T18:23:40.861500+00:00",
+      "data_afisaj": "4 august 2026, 21:23"
+    },
+    {
+      "id": "b934adfc7d5e",
+      "titlu": "Manchester United recunoaște erori în investigația privind revânzarea ilegală de bilete",
+      "rezumat": "Clubul Manchester United a recunoscut că a făcut greșeli în modul de desfășurare a investigației sale privind revânzarea ilegală de bilete. Cu toate acestea, oficialii clubului insistă că motivele care au stat la baza acestei investigații sunt valide și necesare pentru a combate fenomenul \"ticket touting\". Declarația vine pe fondul unor critici legate de modul în care clubul a gestionat situația, afectând unii suporteri.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-04T18:23:40.863005+00:00",
+      "data_afisaj": "4 august 2026, 21:23"
+    },
+    {
+      "id": "8bd3bf513498",
+      "titlu": "Ipswich Town îl transferă pe mijlocașul Florentino de la Burnley",
+      "rezumat": "Echipa nou-promovată în Premier League, Ipswich Town, a finalizat transferul mijlocașului portughez Florentino Luis de la Burnley. Suma de transfer nu a fost dezvăluită public. Florentino Luis se alătură echipei lui Ipswich pentru a consolida linia de mijloc în vederea provocărilor din prima ligă engleză. Această achiziție reprezintă un pas important pentru club în eforturile sale de a se menține în Premier League.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-04T18:23:40.864272+00:00",
+      "data_afisaj": "4 august 2026, 21:23"
+    },
+    {
+      "id": "23c32ed715ed",
+      "titlu": "Dominik Szoboszlai minimizează disputa cu colegii de la Liverpool privind banderola de căpitan",
+      "rezumat": "Mijlocașul lui Liverpool, Dominik Szoboszlai, a declarat că a \"clarificat\" situația cu coechipierii Curtis Jones și Kostas Tsimikas, după ce aceștia au avut o discuție aprinsă pe tema banderolei de căpitan. Incidentul a avut loc recent, stârnind speculații despre tensiuni în vestiar. Declarația lui Szoboszlai sugerează că problema a fost rezolvată intern și că relațiile dintre jucători sunt acum normale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-04T18:23:40.865631+00:00",
+      "data_afisaj": "4 august 2026, 21:23"
+    },
     {
       "id": "402803f63262",
       "titlu": "Barcelona o transferă pe atacanta Kerolin de la Manchester City",
@@ -1162,62 +1206,6 @@
       ],
       "data_publicare": "2026-07-29T09:39:30.013183+00:00",
       "data_afisaj": "29 iulie 2026, 12:39"
-    },
-    {
-      "id": "80b7a5ce83a7",
-      "titlu": "Derek McInnes este pe cale să înceapă era la Rangers, în ciuda unei suspendări SFA",
-      "rezumat": "Derek McInnes este gata să preia conducerea echipei Rangers, având la dispoziție un lot experimentat, cu Lawrence Shankland în atac, și sprijin financiar suplimentar. Se anticipează că noul sezon va aduce puține scuze pentru echipa scoțiană, având în vedere resursele disponibile. McInnes va fi în dugout pentru primul său meci ca antrenor al lui Rangers vineri seară, împotriva echipei Dundee United, în ciuda unei suspendări din partea SFA, pe care clubul intenționează să o conteste.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-28T18:07:48.709536+00:00",
-      "data_afisaj": "28 iulie 2026, 21:07"
-    },
-    {
-      "id": "f0ef19b095eb",
-      "titlu": "Rodri de la Manchester City va lipsi o scurtă perioadă după o intervenție chirurgicală la spate",
-      "rezumat": "Mijlocașul echipei Manchester City, Rodri, va fi indisponibil pentru o „scurtă perioadă de recuperare” în urma unei intervenții chirurgicale la spate efectuate luni. Absența sa reprezintă o lovitură pentru campioana Angliei, care se pregătește pentru noul sezon. Detaliile exacte ale perioadei de recuperare nu au fost specificate, dar se estimează că va reveni pe teren în curând, fiind o pierdere temporară pentru echipa lui Pep Guardiola.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-28T18:07:48.711303+00:00",
-      "data_afisaj": "28 iulie 2026, 21:07"
-    },
-    {
-      "id": "4b6ce5ec8eaa",
-      "titlu": "Chelsea este aproape să o transfere pe Giulia Dragoni de la Barcelona",
-      "rezumat": "Clubul Chelsea este pe cale să o semneze pe mijlocașul ofensiv italian Giulia Dragoni de la Barcelona. Această mutare ar reprezenta o achiziție importantă pentru echipa feminină a lui Chelsea, aducând un talent tânăr și promițător din fotbalul european. Dragoni este cunoscută pentru abilitățile sale tehnice și viziunea de joc, iar transferul său subliniază ambițiile clubului londonez în fotbalul feminin de a-și consolida lotul cu jucătoare de top.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-28T18:07:48.712785+00:00",
-      "data_afisaj": "28 iulie 2026, 21:07"
-    },
-    {
-      "id": "72c2d3b25d8a",
-      "titlu": "Wrexham își menține ambițiile pentru Premier League, în ciuda unui eșec recent",
-      "rezumat": "Clubul Wrexham, deținut de Ryan Reynolds și Rob McElhenney, se pregătește să înfrunte Liverpool într-un meci amical de pre-sezon la Yankee Stadium, la doar cinci ani după preluarea echipei. Deși au ratat playoff-urile în 2026, echipa a fost promovată de trei ori în patru ani și își propune să ajungă în Premier League până în sezonul 2027-28. Managerul Phil Parkinson este hotărât să continue progresul clubului, vizând ascensiunea în eșaloanele superioare ale fotbalului englez.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-28T18:07:48.714435+00:00",
-      "data_afisaj": "28 iulie 2026, 21:07"
-    },
-    {
-      "id": "7364efcb0b70",
-      "titlu": "Tottenham a acceptat vânzarea lui Cristian Romero, cu o diferență financiară neobișnuită",
-      "rezumat": "Tottenham Hotspur a ajuns la un acord pentru vânzarea fundașului Cristian Romero pentru aproximativ 35 de milioane de lire sterline. Această mutare ridică semne de întrebare din cauza unei diferențe financiare de 7,5 milioane de lire sterline, considerată neobișnuită în logica recentelor transferuri ale clubului. Detaliile complete ale tranzacției și implicațiile financiare sunt analizate, având în vedere impactul asupra strategiei de transferuri a lui Spurs și a echilibrului financiar al echipei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-07-28T18:07:48.716074+00:00",
-      "data_afisaj": "28 iulie 2026, 21:07"
     }
   ]
 }
