@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-05T17:42:33.780439+00:00",
-  "updated_at_afisaj": "5 august 2026, 20:42",
+  "updated_at": "2026-08-05T18:16:06.396892+00:00",
+  "updated_at_afisaj": "5 august 2026, 21:16",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,42 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 103,
+  "numar_stiri": 101,
   "stiri": [
+    {
+      "id": "79256b0b4571",
+      "titlu": "Liverpool vizează transferul lui Bradley Barcola de la PSG",
+      "rezumat": "Clubul Liverpool este pregătit să facă din Bradley Barcola, aripa franceză de la Paris Saint-Germain, a treia sa achiziție de 100 de milioane de lire sterline. Jucătorul este considerat o țintă importantă pentru \"Cormorani\", care caută să-și întărească ofensiva. Analizele sugerează că Barcola ar aduce un plus semnificativ echipei de pe Anfield, fiind un talent promițător. Această mutare ar sublinia strategia de investiții a clubului în jucători de mare valoare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-08-05T18:16:06.394929+00:00",
+      "data_afisaj": "5 august 2026, 21:16"
+    },
+    {
+      "id": "0af60f5f2fcd",
+      "titlu": "Mykhailo Mudryk a revenit pe teren pentru Chelsea într-un amical cu Juventus",
+      "rezumat": "Mykhailo Mudryk a revenit pe teren pentru Chelsea, jucând pentru prima dată în aproape doi ani, într-un meci amical pierdut cu 1-0 împotriva lui Juventus la Hong Kong. Aripa ucraineană a intrat ca rezervă în minutul 82, fiind aplaudat de coechipieri și de fanii Chelsea. Antrenorul Xabi Alonso a salutat revenirea \"emoțională\" a lui Mudryk după o suspendare de 20 de luni pentru dopaj, marcând un moment important pentru cariera sa.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-05T18:16:06.395871+00:00",
+      "data_afisaj": "5 august 2026, 21:16"
+    },
+    {
+      "id": "08c811aa01d2",
+      "titlu": "Președintele FIFA, Gianni Infantino, se confruntă cu liderii executivi ai forului mondial",
+      "rezumat": "Președintele FIFA, Gianni Infantino, urmează să se întâlnească cu liderii seniori ai organismului mondial de conducere al fotbalului. Această întâlnire vine pe fondul unor tensiuni și critici la adresa conducerii sale, inclusiv acuzații de comportament \"înșelător\" și retragerea sprijinului din partea unor federații. Se așteaptă ca discuțiile să abordeze aspecte cheie legate de viitorul și integritatea organizației.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-05T18:16:06.396882+00:00",
+      "data_afisaj": "5 august 2026, 21:16"
+    },
     {
       "id": "4eda33f0d5c4",
       "titlu": "Martin O'Neill, antrenorul lui Celtic, internat în spital după o procedură medicală",
@@ -1142,65 +1176,6 @@
       ],
       "data_publicare": "2026-07-30T09:32:29.433630+00:00",
       "data_afisaj": "30 iulie 2026, 12:32"
-    },
-    {
-      "id": "8a33e5fc55f4",
-      "titlu": "Este planul de vânzare a Cupei Mondiale un pas prea departe de Infantino?",
-      "rezumat": "BBC Sport explorează de ce președintele FIFA, Gianni Infantino, se simte suficient de puternic pentru a vinde mize la Cupa Mondială - și care ar putea fi consecințele.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-07-29T18:02:18.915067+00:00",
-      "data_afisaj": "29 iulie 2026, 21:02"
-    },
-    {
-      "id": "0b9edebde699",
-      "titlu": "FIFA deschide proceduri disciplinare împotriva Argentinei",
-      "rezumat": "FIFA deschide proceduri disciplinare împotriva Argentinei pentru comportamentul lor după înfrângerea în finala Cupei Mondiale în fața Spaniei și pe tot parcursul turneului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-29T18:02:18.916454+00:00",
-      "data_afisaj": "29 iulie 2026, 21:02"
-    },
-    {
-      "id": "a417b51c56f9",
-      "titlu": "Liverpool pregătește oferta de deschidere pentru Barcola de la PSG",
-      "rezumat": "Liverpool își intensifică interesul pentru Bradley Barcola de la Paris St-Germain și pregătește o ofertă de deschidere.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-29T18:02:18.917834+00:00",
-      "data_afisaj": "29 iulie 2026, 21:02"
-    },
-    {
-      "id": "2f658782b766",
-      "titlu": "FIFA oferă 40 de milioane de dolari dacă națiunile susțin planul controversat",
-      "rezumat": "FIFA a stabilit un termen limită de 19 septembrie pentru ca asociațiile membre să aibă acces la numerar, deoarece FA își exprimă dezaprobarea față de planul de finanțare al organismului mondial de guvernare înainte de reuniunea de urgență a UEFA.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-29T18:02:18.919188+00:00",
-      "data_afisaj": "29 iulie 2026, 21:02"
-    },
-    {
-      "id": "b24bb1990be6",
-      "titlu": "Henderson se apropie de mutarea lui Chelsea, deoarece Welbeck are medical",
-      "rezumat": "Atacantul de la Brighton, Danny Welbeck, primește permisiunea de a avea o examinare medicală la Stamford Bridge, pe măsură ce trecerea lui la Chelsea se apropie.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-29T18:02:18.920493+00:00",
-      "data_afisaj": "29 iulie 2026, 21:02"
     }
   ]
 }
