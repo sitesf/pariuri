@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-05T10:33:12.519807+00:00",
-  "updated_at_afisaj": "5 august 2026, 13:33",
+  "updated_at": "2026-08-05T17:42:33.780439+00:00",
+  "updated_at_afisaj": "5 august 2026, 20:42",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,56 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 107,
+  "numar_stiri": 103,
   "stiri": [
+    {
+      "id": "4eda33f0d5c4",
+      "titlu": "Martin O'Neill, antrenorul lui Celtic, internat în spital după o procedură medicală",
+      "rezumat": "Antrenorul echipei Celtic, Martin O'Neill, rămâne internat în spital după ce a suferit o \"mică procedură\" medicală, a anunțat clubul. Detaliile complete despre natura intervenției sau starea sa de sănătate nu au fost făcute publice, însă clubul a confirmat că O'Neill se află sub supraveghere medicală. Această veste vine într-un moment important pentru Celtic, la începutul sezonului, iar absența antrenorului principal ar putea influența pregătirea echipei. Fanii și comunitatea fotbalistică așteaptă cu interes noi informații despre recuperarea sa.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-05T17:42:33.776001+00:00",
+      "data_afisaj": "5 august 2026, 20:42"
+    },
+    {
+      "id": "4ee6a2446f36",
+      "titlu": "Luis Figo cere demisia președintelui FIFA, Gianni Infantino, acuzând un comportament \"înșelător\"",
+      "rezumat": "Legendarul fotbalist portughez Luís Figo a lansat un atac dur la adresa președintelui FIFA, Gianni Infantino, cerându-i demisia. Figo a descris planul eșuat al lui Infantino de a vinde acțiuni la Cupa Mondială către investitori privați drept \"cel mai josnic, înșelător și laș comportament interesat pe care l-am văzut vreodată\". Criticile lui Figo se adaugă unei opoziții tot mai mari față de conducerea lui Infantino, pe fondul controverselor legate de integritatea și transparența organizației.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-08-05T17:42:33.777483+00:00",
+      "data_afisaj": "5 august 2026, 20:42"
+    },
+    {
+      "id": "f8abfac1ead3",
+      "titlu": "Jeremy Monga debutează pentru Manchester City după ce a refuzat oferta lui Arsenal",
+      "rezumat": "Transferul de 10 milioane de lire sterline al lui Jeremy Monga de la Leicester la Manchester City ar fi putut trece neobservat în această vară, însă tânărul jucător a debutat deja pentru \"Cetățeni\", marcând o nouă etapă în cariera sa. Adolescentul, care a refuzat o ofertă de la Arsenal, își propune să-l emuleze pe idolul său, Eden Hazard. Debutul său în victoria lui Manchester City sugerează că Monga este pregătit să își lase amprenta în Premier League și să devină un nume important în fotbalul englez.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-05T17:42:33.779010+00:00",
+      "data_afisaj": "5 august 2026, 20:42"
+    },
+    {
+      "id": "26e0d9b95da9",
+      "titlu": "Liverpool explorează posibilitatea transferului atacantului Ibrahim Mbaye de la Paris Saint-Germain",
+      "rezumat": "Clubul Liverpool a inițiat discuții pentru a explora condițiile unui potențial transfer al tânărului atacant Ibrahim Mbaye de la Paris Saint-Germain. Wingerul adolescent este considerat o țintă importantă pentru \"Cormorani\", care caută să își întărească ofensiva. Această mișcare ar putea reprezenta o investiție pe termen lung pentru Liverpool, aducând un talent promițător de la o academie renumită. Detaliile negocierilor și șansele de concretizare a transferului rămân de văzut în perioada următoare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-08-05T17:42:33.780420+00:00",
+      "data_afisaj": "5 august 2026, 20:42"
+    },
     {
       "id": "01ba411a468e",
       "titlu": "FIFA acuzată de șantaj pentru a forța susținerea realegerii lui Infantino",
@@ -1153,95 +1201,6 @@
       ],
       "data_publicare": "2026-07-29T18:02:18.920493+00:00",
       "data_afisaj": "29 iulie 2026, 21:02"
-    },
-    {
-      "id": "0b6af3555571",
-      "titlu": "Liverpool pregătește o ofertă inițială pentru Bradley Barcola de la PSG",
-      "rezumat": "Clubul englez Liverpool își intensifică interesul pentru atacantul Bradley Barcola de la Paris Saint-Germain și se pregătește să înainteze o primă ofertă oficială. Barcola, un tânăr talent francez, este considerat o țintă importantă pentru \"Cormorani\" în această fereastră de transferuri, în contextul consolidării lotului pentru noul sezon. Această mișcare ar putea marca o achiziție semnificativă pentru echipa lui Liverpool, adăugând profunzime și opțiuni ofensive.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-29T17:18:14.551455+00:00",
-      "data_afisaj": "29 iulie 2026, 20:18"
-    },
-    {
-      "id": "e71f388ec31b",
-      "titlu": "Manchester City conduce opoziția față de propunerea Premier League de 1,5 miliarde de lire sterline pentru EFL",
-      "rezumat": "Manchester City se află în fruntea cluburilor care se opun planurilor Premier League de a oferi 1,5 miliarde de lire sterline către English Football League (EFL), ca parte a unei înțelegeri financiare istorice. Propunerea, care ar urma să fie distribuită pe o perioadă de 10 ani, va fi discutată și supusă la vot într-o ședință a celor 20 de cluburi din Premier League. Opoziția lui Manchester City ridică semne de întrebare cu privire la modul de finanțare și la impactul acestei decizii asupra structurii fotbalului englez.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-29T17:18:14.553338+00:00",
-      "data_afisaj": "29 iulie 2026, 20:18"
-    },
-    {
-      "id": "10b3614d02a1",
-      "titlu": "Argentina, vizată de proceduri disciplinare FIFA pentru bannerul cu Insulele Falkland și acțiunile din finala Cupei Mondiale",
-      "rezumat": "Federația Internațională de Fotbal (FIFA) a inițiat proceduri disciplinare împotriva Argentinei, campioana mondială en-titre, în urma unor posibile încălcări ale regulamentelor în timpul Cupei Mondiale. Acuzațiile vizează afișarea unui banner cu referire la Insulele Falkland și alte acțiuni controversate ale echipei și staff-ului în timpul festivităților de după finala competiției. Această decizie subliniază angajamentul FIFA de a menține integritatea și fair-play-ul în fotbalul internațional, chiar și după încheierea evenimentelor majore.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-29T17:18:14.555231+00:00",
-      "data_afisaj": "29 iulie 2026, 20:18"
-    },
-    {
-      "id": "a02bdec3529d",
-      "titlu": "Mauricio Pochettino, aproape de un nou contract cu naționala SUA până la Cupa Mondială 2030",
-      "rezumat": "Selecționerul naționalei masculine de fotbal a Statelor Unite, Mauricio Pochettino, se află în etapele finale ale negocierilor pentru un nou contract cu Federația Americană de Fotbal. Acordul ar urma să-l mențină pe antrenorul argentinian la cârma echipei până la Cupa Mondială din 2030, cu o creștere semnificativă a remunerației. Deși mandatul său a avut rezultate mixte până acum, prelungirea contractului indică încrederea în viziunea sa pe termen lung pentru dezvoltarea fotbalului american.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-29T17:18:14.556979+00:00",
-      "data_afisaj": "29 iulie 2026, 20:18"
-    },
-    {
-      "id": "5a02b0d3afa3",
-      "titlu": "Danny Welbeck, la vizita medicală la Chelsea, care ar plăti o sumă de transfer pentru un jucător de peste 26 de ani",
-      "rezumat": "Atacantul Danny Welbeck este programat să efectueze vizita medicală la Chelsea, după ce clubul londonez a ajuns la un acord cu Brighton pentru o sumă de transfer nedezvăluită. Această mutare este notabilă, deoarece ar reprezenta prima dată din 2022 când Chelsea plătește o sumă de transfer pentru un jucător cu vârsta de peste 26 de ani. Transferul lui Welbeck ar aduce experiență în atacul echipei, oferind o opțiune suplimentară în ofensivă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-29T17:18:14.558986+00:00",
-      "data_afisaj": "29 iulie 2026, 20:18"
-    },
-    {
-      "id": "deb9d4532120",
-      "titlu": "Marc Cucurella își face un tatuaj cu antrenorul Spaniei, Luis de la Fuente",
-      "rezumat": "Fundașul spaniol Marc Cucurella și-a respectat promisiunea de a-și face un tatuaj cu chipul selecționerului Luis de la Fuente, după ce Spania a câștigat Cupa Mondială. Gestul vine ca o celebrare a succesului obținut sub conducerea tehnicianului, subliniind legătura specială dintre jucători și antrenor în urma performanței istorice. Tatuajul este o dovadă a aprecierii și recunoștinței lui Cucurella pentru rolul lui De la Fuente în triumful echipei naționale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-29T10:37:42.438509+00:00",
-      "data_afisaj": "29 iulie 2026, 13:37"
-    },
-    {
-      "id": "b9eb17a78077",
-      "titlu": "Yan Diomande, aproape de a deveni cel mai scump transfer din istoria Real Madrid",
-      "rezumat": "Yan Diomande a avut o ascensiune rapidă, transformându-se dintr-un aripă relativ necunoscut într-un jucător aflat în pragul de a deveni cel mai scump transfer din istoria clubului Real Madrid. Această evoluție remarcabilă subliniază talentul său excepțional și interesul major al gigantului spaniol pentru serviciile sale. Potențialul transfer ar reprezenta o investiție semnificativă pentru Real Madrid, consolidându-i poziția ca unul dintre cele mai active cluburi pe piața transferurilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-29T10:37:42.440081+00:00",
-      "data_afisaj": "29 iulie 2026, 13:37"
-    },
-    {
-      "id": "a3f80d65ea93",
-      "titlu": "FC Barcelona se antrenează în Marea Britanie și va juca amicale cu echipe din Championship",
-      "rezumat": "Clubul spaniol FC Barcelona va efectua un cantonament la St George's Park în această săptămână, o locație neașteptată pentru pregătirea de pre-sezon. În cadrul acestui stagiu, echipa catalană va disputa meciuri amicale împotriva unor formații din Championship, ligă secundă engleză, respectiv Birmingham City și Preston. Această decizie oferă o oportunitate inedită pentru fanii britanici de a urmări de aproape una dintre cele mai prestigioase echipe din lume.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-29T10:37:42.441724+00:00",
-      "data_afisaj": "29 iulie 2026, 13:37"
     }
   ]
 }
