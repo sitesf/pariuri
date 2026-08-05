@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-05T09:38:24.746667+00:00",
-  "updated_at_afisaj": "5 august 2026, 12:38",
+  "updated_at": "2026-08-05T10:33:12.519807+00:00",
+  "updated_at_afisaj": "5 august 2026, 13:33",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,30 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 109,
+  "numar_stiri": 107,
   "stiri": [
+    {
+      "id": "01ba411a468e",
+      "titlu": "FIFA acuzată de șantaj pentru a forța susținerea realegerii lui Infantino",
+      "rezumat": "Președintele Federației Iordaniene de Fotbal, Prințul Ali bin al-Hussein, a acuzat administrația lui Gianni Infantino de \"șantaj\", susținând că FIFA a amenințat cu reținerea asistenței financiare pentru federația sa dacă refuza să sprijine candidatura președintelui pentru realegere. Această intervenție majoră vine în contextul criticilor crescânde la adresa lui Infantino și a planului său eșuat de a vinde operațiunile comerciale ale FIFA. Acuzațiile aduc noi tensiuni în cadrul organismului de conducere al fotbalului mondial.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-05T10:33:12.517101+00:00",
+      "data_afisaj": "5 august 2026, 13:33"
+    },
+    {
+      "id": "f7947fd2aaf7",
+      "titlu": "Viitorul lui Marcus Rashford la Manchester United, sub semnul întrebării",
+      "rezumat": "Marcus Rashford este așteptat să revină la antrenamentele lui Manchester United în zilele următoare, însă continuă dezbaterea privind oportunitatea acestei reveniri. Situația atacantului englez a generat discuții intense în rândul fanilor și al presei, cu privire la forma sa sportivă și la rolul său în planurile echipei. Clubul și jucătorul se confruntă cu o perioadă de incertitudine, în care deciziile viitoare vor fi cruciale pentru ambele părți.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-05T10:33:12.519785+00:00",
+      "data_afisaj": "5 august 2026, 13:33"
+    },
     {
       "id": "46597938bd30",
       "titlu": "Trabzonspor inițiază discuții pentru transferul lui Mohamed Salah",
@@ -1220,50 +1242,6 @@
       ],
       "data_publicare": "2026-07-29T10:37:42.441724+00:00",
       "data_afisaj": "29 iulie 2026, 13:37"
-    },
-    {
-      "id": "d757647c21a8",
-      "titlu": "Jack Grealish ratează turneul lui Manchester City în Asia",
-      "rezumat": "Atacantul Jack Grealish nu va face parte din lotul lui Manchester City pentru turneul de pre-sezon din Asia, în ciuda faptului că a revenit la antrenamente. Decizia clubului vine pe fondul recuperării sale continue după o accidentare la picior. Această absență este considerată o măsură de precauție, menită să-i asigure o refacere completă și să-l pregătească optim pentru debutul noului sezon competițional, evitând riscurile unei recidive.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-29T09:39:30.007772+00:00",
-      "data_afisaj": "29 iulie 2026, 12:39"
-    },
-    {
-      "id": "5aa07aaacad6",
-      "titlu": "Crystal Palace poartă discuții cu fostul fundaș al lui Arsenal, Takehiro Tomiyasu",
-      "rezumat": "Fundașul japonez Takehiro Tomiyasu, fost jucător la Arsenal, se află în negocieri cu Crystal Palace. Jucătorul se antrenează deja alături de echipa londoneză și a fost inclus pe banca de rezerve într-un meci amical de pre-sezon împotriva formației Lens. Această potențială mutare ar aduce experiență în Premier League apărării lui Palace și ar reprezenta o achiziție importantă pentru club înaintea noului sezon.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-29T09:39:30.010067+00:00",
-      "data_afisaj": "29 iulie 2026, 12:39"
-    },
-    {
-      "id": "bf28e05d81a7",
-      "titlu": "Creștere a scandărilor abuzive anti-imigranți în fotbalul englez",
-      "rezumat": "Un nou raport al organizației anti-discriminare Kick It Out a evidențiat o creștere îngrijorătoare a scandărilor abuzive împotriva imigranților în meciurile de fotbal din Anglia. Sezonul trecut au fost înregistrate 39 de rapoarte de scandări anti-imigranți, un număr mai mare decât în ultimele două sezoane combinate. Expresii precum „opriți bărcile” și „trimiteți-i înapoi” au fost semnalate la toate nivelurile jocului, indicând o problemă persistentă și în creștere în sportul britanic.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-29T09:39:30.011600+00:00",
-      "data_afisaj": "29 iulie 2026, 12:39"
-    },
-    {
-      "id": "6ec8fb99b00e",
-      "titlu": "Community Shield se va disputa în afara Angliei pentru prima dată în 20 de ani",
-      "rezumat": "Tradiționala partidă Community Shield, care marchează deschiderea sezonului intern englez, va avea loc în acest an în afara Angliei, o premieră în ultimele două decenii. Această decizie reprezintă o schimbare semnificativă în organizarea evenimentului. Meciul, care opune campioana Premier League și câștigătoarea Cupei Angliei, va fi găzduit de o locație internațională, atrăgând atenția asupra globalizării fotbalului englez și a strategiilor de promovare a acestuia.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-07-29T09:39:30.013183+00:00",
-      "data_afisaj": "29 iulie 2026, 12:39"
     }
   ]
 }
