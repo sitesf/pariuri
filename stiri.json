@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-04T18:23:40.865648+00:00",
-  "updated_at_afisaj": "4 august 2026, 21:23",
+  "updated_at": "2026-08-05T09:38:24.746667+00:00",
+  "updated_at_afisaj": "5 august 2026, 12:38",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,66 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 104,
+  "numar_stiri": 109,
   "stiri": [
+    {
+      "id": "46597938bd30",
+      "titlu": "Trabzonspor inițiază discuții pentru transferul lui Mohamed Salah",
+      "rezumat": "Clubul turc Trabzonspor a confirmat că a început negocierile pentru a-l aduce pe atacantul egiptean Mohamed Salah. Jucătorul, în prezent la Liverpool, este o țintă importantă pentru echipa din Super Lig, care își propune să-și întărească lotul. Această mișcare ar reprezenta un transfer major pentru fotbalul turc și ar putea marca o schimbare semnificativă în cariera lui Salah, după o perioadă lungă petrecută în Premier League. Discuțiile sunt în stadiu incipient, dar interesul este concret și urmărește consolidarea echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-05T09:38:24.741495+00:00",
+      "data_afisaj": "5 august 2026, 12:38"
+    },
+    {
+      "id": "429b29b4adbc",
+      "titlu": "Arsenal a ajuns la un acord pentru transferul lui Bruno Guimaraes",
+      "rezumat": "Arsenal a convenit o sumă de 75 de milioane de lire sterline cu Newcastle United pentru transferul căpitanului lor, Bruno Guimaraes. Mijlocașul brazilian este considerat o țintă cheie pentru \"Tunari\", care își propun să-și consolideze lotul pentru sezonul viitor și să-și sporească șansele în competițiile majore. Această achiziție ar reprezenta o investiție semnificativă și ar sublinia ambițiile clubului londonez de a concura la cel mai înalt nivel. Detaliile finale ale contractului jucătorului urmează să fie stabilite în perioada următoare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-05T09:38:24.742771+00:00",
+      "data_afisaj": "5 august 2026, 12:38"
+    },
+    {
+      "id": "74bbc932f9c4",
+      "titlu": "Aripa japoneză Daisuke Yokota se alătură echipei Rangers",
+      "rezumat": "Clubul scoțian Rangers a finalizat transferul aripii japoneze Daisuke Yokota de la Hannover 96. Jucătorul a declarat că speră să creeze \"amintiri speciale\" la noul său club. Această mutare marchează o nouă etapă în cariera lui Yokota și aduce un plus de viteză și creativitate în ofensiva lui Rangers. Echipa scoțiană își propune să aibă o performanță puternică în competițiile interne și europene, iar achiziția lui Yokota este parte a strategiei de întărire a lotului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-05T09:38:24.744019+00:00",
+      "data_afisaj": "5 august 2026, 12:38"
+    },
+    {
+      "id": "bf484675e6e2",
+      "titlu": "Milan îl plânge pe Franco Baresi la funeraliile legendarului fotbalist",
+      "rezumat": "Orașul Milano și întreaga lume a fotbalului au adus un ultim omagiu legendarului fundaș Franco Baresi, la funeraliile sale desfășurate la Basilica di Sant’Ambrogio. Unul dintre cei mai mari apărători din istorie, fostul jucător al Italiei și al lui AC Milan a încetat din viață săptămâna trecută, la vârsta de 66 de ani. Foști coechipieri, oficiali ai clubului și mii de fani au participat la ceremonie, exprimându-și respectul și durerea profundă pentru pierderea \"Căpitanului\".",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-05T09:38:24.745294+00:00",
+      "data_afisaj": "5 august 2026, 12:38"
+    },
+    {
+      "id": "4025b4544a28",
+      "titlu": "TNT Sports lansează o nouă campanie pentru sezonul de fotbal 2026/27",
+      "rezumat": "TNT Sports a dezvăluit campania sa de marketing emblematică înaintea sezonului de fotbal 2026/27, anunțând difuzarea a 700 de meciuri. Această inițiativă subliniază angajamentul postului de televiziune de a oferi o acoperire extinsă a fotbalului, consolidându-și poziția pe piața drepturilor de televizare. Fanii se pot aștepta la o varietate largă de competiții și evenimente, transmise pe parcursul întregului sezon, demonstrând investiția semnificativă a companiei în conținut sportiv de calitate.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-08-05T09:38:24.746650+00:00",
+      "data_afisaj": "5 august 2026, 12:38"
+    },
     {
       "id": "c62d201cb6ef",
       "titlu": "Mykhailo Mudryk ar putea reveni pe teren miercuri după o suspendare de 20 de luni",
