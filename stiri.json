@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-05T18:16:06.396892+00:00",
-  "updated_at_afisaj": "5 august 2026, 21:16",
+  "updated_at": "2026-08-06T09:41:38.371993+00:00",
+  "updated_at_afisaj": "6 august 2026, 12:41",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,53 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 101,
+  "numar_stiri": 100,
   "stiri": [
+    {
+      "id": "7d1fcc045eb3",
+      "titlu": "Everton îl transferă pe mijlocașul Christian Norgaard de la Arsenal",
+      "rezumat": "Clubul Everton a anunțat achiziția mijlocașului danez Christian Norgaard de la Arsenal. Jucătorul a semnat un contract pe doi ani, iar suma de transfer raportată este de 7 milioane de lire sterline. Norgaard se alătură echipei Everton pentru a consolida linia de mijloc înaintea noului sezon. Transferul a fost confirmat de surse de încredere din presa sportivă, marcând o mutare importantă pentru ambele cluburi.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-06T09:41:38.368033+00:00",
+      "data_afisaj": "6 august 2026, 12:41"
+    },
+    {
+      "id": "760d7d309062",
+      "titlu": "Real Madrid ajunge la un acord record de 115 milioane de lire sterline pentru Yan Diomande",
+      "rezumat": "Real Madrid a convenit o sumă record de 135 de milioane de euro (aproximativ 115,7 milioane de lire sterline) cu RB Leipzig pentru transferul lui Yan Diomande. Atacantul în vârstă de 19 ani, care s-a alăturat echipei germane de la Leganés vara trecută, devine astfel cel mai scump jucător african din istorie. După săptămâni de negocieri intense, în care Paris Saint-Germain s-a retras din cursă, Real Madrid a finalizat această achiziție majoră. Clubul spaniol este, de asemenea, în discuții avansate pentru a-l păstra pe Vinícius Júnior.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-06T09:41:38.369363+00:00",
+      "data_afisaj": "6 august 2026, 12:41"
+    },
+    {
+      "id": "b24f005b13d3",
+      "titlu": "Fotbalistul internațional ugandez Owori a fost ucis într-un atac de stradă",
+      "rezumat": "Sadat Owori, un fotbalist internațional ugandez în vârstă de 27 de ani, a fost ucis într-un atac de stradă. Potrivit declarațiilor poliției, Owori a fost victima unor presupuși tâlhari și a fost omorât după ce a opus rezistență unei tentative de jaf. Tragedia a șocat comunitatea fotbalistică din Uganda și nu numai. Detaliile complete ale incidentului sunt încă investigate de autorități.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-06T09:41:38.370718+00:00",
+      "data_afisaj": "6 august 2026, 12:41"
+    },
+    {
+      "id": "923bbbeff7e2",
+      "titlu": "Fundașul Gabby George se transferă la Brighton de la Manchester United",
+      "rezumat": "Fundașul Gabby George a finalizat mutarea sa la Brighton de la Manchester United, înainte de începerea sezonului Women's Super League. Transferul marchează o schimbare importantă pentru jucătoare și pentru ambele cluburi din fotbalul feminin. George se va alătura noii sale echipe pentru a se pregăti de provocările viitorului sezon, aducând experiență și forță defensivei clubului Brighton.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-06T09:41:38.371976+00:00",
+      "data_afisaj": "6 august 2026, 12:41"
+    },
     {
       "id": "79256b0b4571",
       "titlu": "Liverpool vizează transferul lui Bradley Barcola de la PSG",
@@ -1119,63 +1164,6 @@
       ],
       "data_publicare": "2026-07-30T10:23:22.389171+00:00",
       "data_afisaj": "30 iulie 2026, 13:23"
-    },
-    {
-      "id": "c437f3ccd085",
-      "titlu": "Cine este Matthias Jaissle?",
-      "rezumat": "Matthias Jaissle, bărbatul care îl va înlocui pe Eddie Howe la Newcastle United, s-ar putea să nu fie prea cunoscut, având în vedere că singurele sale roluri de antrenor principal până în prezent au fost în Austria și Arabia Saudită. Deci, cine este bărbatul legat de o mutare la St James' Park?",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-30T09:32:29.428207+00:00",
-      "data_afisaj": "30 iulie 2026, 12:32"
-    },
-    {
-      "id": "0e99d832c3b1",
-      "titlu": "Antrenorul Howe va părăsi Newcastle cu efect imediat",
-      "rezumat": "Antrenorul lui Newcastle, Eddie Howe, urmează să părăsească clubul cu efect imediat, spun surse pentru BBC Sport.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-30T09:32:29.429604+00:00",
-      "data_afisaj": "30 iulie 2026, 12:32"
-    },
-    {
-      "id": "746b007b54e7",
-      "titlu": "Unde dorește Newcastle să fie cel mai bun până în 2030?",
-      "rezumat": "Pe măsură ce se apropie cea de-a cincea aniversare de la preluarea lui Newcastle, BBC Sport evaluează dacă proiectul pentru a fi „cel mai bun” este încă pe drumul cel bun.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-30T09:32:29.430990+00:00",
-      "data_afisaj": "30 iulie 2026, 12:32"
-    },
-    {
-      "id": "2f0a152467ef",
-      "titlu": "Patru indicații către cea mai deschisă cursă pentru titlul în Premier League din ultimii ani",
-      "rezumat": "Trei dintre cei „șase mari” din Premier League au noi antrenori, campionii au o problemă cheie de accidentare, iar Tottenham și Chelsea bat recorduri de transferuri - și asta ar putea însemna o cursă la titlu foarte deschisă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-30T09:32:29.432346+00:00",
-      "data_afisaj": "30 iulie 2026, 12:32"
-    },
-    {
-      "id": "d0b822eb1f2a",
-      "titlu": "De Zerbi vrea să-l convingă pe Spence să rămână la Spurs",
-      "rezumat": "Antrenorul lui Tottenham, Roberto de Zerbi, spune că vrea să-l convingă pe fundașul Angliei Djed Spence să rămână la club.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-30T09:32:29.433630+00:00",
-      "data_afisaj": "30 iulie 2026, 12:32"
     }
   ]
 }
