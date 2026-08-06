@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-06T09:41:38.371993+00:00",
-  "updated_at_afisaj": "6 august 2026, 12:41",
+  "updated_at": "2026-08-06T10:36:54.994523+00:00",
+  "updated_at_afisaj": "6 august 2026, 13:36",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,41 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 100,
+  "numar_stiri": 98,
   "stiri": [
+    {
+      "id": "c5fad79e5db0",
+      "titlu": "Argentina instituie \"Ziua Echipelor Naționale de Fotbal\" după victoria la Cupa Mondială",
+      "rezumat": "Asociația Argentiniană de Fotbal a anunțat instituirea zilei de 15 iulie ca \"Ziua Echipelor Naționale de Fotbal\". Această decizie marchează victoria Argentinei în semifinala Cupei Mondiale din 2026 împotriva Angliei, un moment considerat istoric pentru fotbalul argentinian. Inițiativa are scopul de a celebra performanțele și contribuțiile tuturor echipelor naționale ale țării, consolidând mândria națională legată de sportul rege.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-06T10:36:54.991908+00:00",
+      "data_afisaj": "6 august 2026, 13:36"
+    },
+    {
+      "id": "c4691984ed62",
+      "titlu": "Revenirea lui Raul Jimenez la Wolves stârnește emoție printre fani",
+      "rezumat": "Atacantul Raul Jimenez a revenit la Wolverhampton Wanderers, o mutare descrisă ca fiind una dintre cele mai emoționante ale verii. Pentru suporterii lui Wolves, reîntoarcerea lui Jimenez, care a purtat numărul 9 și a fost un idol pentru o generație, reprezintă mai mult decât aducerea unui fost favorit. Este o reîntâlnire cu o parte importantă din istoria recentă a clubului și o sursă de speranță pentru viitorul echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-06T10:36:54.993204+00:00",
+      "data_afisaj": "6 august 2026, 13:36"
+    },
+    {
+      "id": "3a24f3eb1ecd",
+      "titlu": "Coventry City îl transferă pe Caleb Yirenkyi, un jucător cu potențial de surpriză",
+      "rezumat": "Coventry City, revenită în Premier League după 25 de ani, a realizat un transfer interesant, aducându-l pe Caleb Yirenkyi. Jucătorul, descris ca având un potențial de \"underdog\", este considerat una dintre cele mai inteligente achiziții ale ferestrei de transferuri de vară. Această mutare subliniază strategia clubului de a construi o echipă competitivă pentru noul sezon din prima ligă, mizând pe talente cu perspective de creștere.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-08-06T10:36:54.994505+00:00",
+      "data_afisaj": "6 august 2026, 13:36"
+    },
     {
       "id": "7d1fcc045eb3",
       "titlu": "Everton îl transferă pe mijlocașul Christian Norgaard de la Arsenal",
@@ -1107,63 +1140,6 @@
       ],
       "data_publicare": "2026-07-30T17:38:25.789904+00:00",
       "data_afisaj": "30 iulie 2026, 20:38"
-    },
-    {
-      "id": "1dfaaa323726",
-      "titlu": "Howe va părăsi Newcastle, Jaissle fiind așteptat să-l înlocuiască",
-      "rezumat": "Antrenorul lui Newcastle, Eddie Howe, este gata să părăsească clubul cu efect imediat, potrivit surselor BBC Sport.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-30T10:23:22.383537+00:00",
-      "data_afisaj": "30 iulie 2026, 13:23"
-    },
-    {
-      "id": "e172a7436888",
-      "titlu": "Chelsea îl transferă pe fundașul lui Palace, Lacroix, pentru 52 de milioane de lire sterline",
-      "rezumat": "Chelsea îl transferă pe fundașul francez de Cupă Mondială, Maxence Lacroix, de la Crystal Palace pentru 52 de milioane de lire sterline.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-30T10:23:22.384980+00:00",
-      "data_afisaj": "30 iulie 2026, 13:23"
-    },
-    {
-      "id": "57283fafd96d",
-      "titlu": "FIFA ar putea primi primii bani din planul Infantino în octombrie",
-      "rezumat": "FIFA ar putea încasa prima tranșă de bani privați pentru Cupa Mondială până la sfârșitul lunii octombrie, în timp ce forul de conducere al fotbalului european, UEFA, va organiza o întâlnire a tuturor celor 55 de asociații membre joi după-amiază pentru a discuta răspunsul său la planurile controversate ale Cupei Mondiale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-30T10:23:22.386351+00:00",
-      "data_afisaj": "30 iulie 2026, 13:23"
-    },
-    {
-      "id": "91a12b5bfbe0",
-      "titlu": "Dificultățile lui Phillips sunt o poveste de avertizare pentru Anderson",
-      "rezumat": "Pe măsură ce Kalvin Phillips se apropie de a patra mutare sub formă de împrumut de la Manchester City, ce poate învăța Elliot Anderson, transferul record, din dificultățile sale de la Etihad?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-30T10:23:22.387701+00:00",
-      "data_afisaj": "30 iulie 2026, 13:23"
-    },
-    {
-      "id": "5b535af25cd6",
-      "titlu": "'Schimbarea este inevitabilă' - CEO-ul Liverpool despre FSG, Iraola și discuțiile cu consorțiul",
-      "rezumat": "Billy Hogan, CEO-ul Liverpool, vorbește cu BBC Sport la New York despre investiții, tranziție și de ce FSG nu a terminat încă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-30T10:23:22.389171+00:00",
-      "data_afisaj": "30 iulie 2026, 13:23"
     }
   ]
 }
