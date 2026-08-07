@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-07T16:56:59.219746+00:00",
-  "updated_at_afisaj": "7 august 2026, 19:56",
+  "updated_at": "2026-08-07T17:42:06.087344+00:00",
+  "updated_at_afisaj": "7 august 2026, 20:42",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,54 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 90,
+  "numar_stiri": 94,
   "stiri": [
+    {
+      "id": "2140d9ea0587",
+      "titlu": "Manchester City refuză oferta de 38,5 milioane de lire sterline a Barcelonei pentru Rodri",
+      "rezumat": "Manchester City a respins o ofertă de 38,5 milioane de lire sterline din partea Barcelonei pentru mijlocașul Rodri. Deși campioana Angliei este deschisă la vânzarea căpitanului Spaniei, clubul solicită o sumă de peste 60 de milioane de lire sterline pentru serviciile sale. Această decizie subliniază valoarea pe care City o atribuie jucătorului și complexitatea negocierilor în piața transferurilor, indicând că Barcelona va trebui să-și revizuiască strategia financiară pentru a-l aduce pe mijlocașul dorit.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-07T17:42:06.082990+00:00",
+      "data_afisaj": "7 august 2026, 20:42"
+    },
+    {
+      "id": "edd8f14470c5",
+      "titlu": "Franța intenționează să participe la Cupa Mondială U20 Feminin, în ciuda amenințării de boicot a UEFA",
+      "rezumat": "Federația Franceză de Fotbal a anunțat că echipa sa națională U20 feminină intenționează să concureze la Cupa Mondială de luna viitoare, în ciuda amenințării UEFA de a boicota competițiile FIFA. Această decizie subliniază o potențială tensiune între federațiile naționale și organismul european de fotbal, pe fondul unor dispute mai ample privind organizarea competițiilor internaționale și suveranitatea deciziilor federale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-07T17:42:06.084798+00:00",
+      "data_afisaj": "7 august 2026, 20:42"
+    },
+    {
+      "id": "f4846c1dc618",
+      "titlu": "Newcastle refuză oferta lui Manchester United pentru fundașul Lewis Hall",
+      "rezumat": "Newcastle United a informat clubul Manchester United că fundașul Lewis Hall nu este de vânzare în această vară, după ce o primă solicitare a fost respinsă. Această poziție fermă a lui Newcastle indică dorința clubului de a-l păstra pe jucător și de a nu-l ceda, consolidându-și lotul pentru sezonul viitor, în ciuda interesului unui club de top din Premier League care căuta să-și întărească defensiva.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-07T17:42:06.086069+00:00",
+      "data_afisaj": "7 august 2026, 20:42"
+    },
+    {
+      "id": "7015dd5d1635",
+      "titlu": "Crystal Palace îl transferă pe fundașul Takehiro Tomiyasu după o perioadă de probă",
+      "rezumat": "Crystal Palace a finalizat transferul fundașului japonez Takehiro Tomiyasu, după o perioadă de probă reușită în pre-sezon. Jucătorul, cunoscut pentru versatilitatea sa defensivă, se alătură echipei din Premier League, aducând un plus de experiență și opțiuni pentru linia defensivă a clubului. Această mutare marchează o nouă etapă în cariera internaționalului japonez, care va căuta să se impună rapid în fotbalul englez de elită.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-07T17:42:06.087327+00:00",
+      "data_afisaj": "7 august 2026, 20:42"
+    },
     {
       "id": "e580924b68ef",
       "titlu": "Atacantul englez Toney, acuzat de agresiune",
