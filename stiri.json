@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-06T10:36:54.994523+00:00",
-  "updated_at_afisaj": "6 august 2026, 13:36",
+  "updated_at": "2026-08-07T08:15:50.293281+00:00",
+  "updated_at_afisaj": "7 august 2026, 11:15",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,44 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 98,
+  "numar_stiri": 92,
   "stiri": [
+    {
+      "id": "5bbd7d97e802",
+      "titlu": "Vinicius Jr. semnează un nou contract pe șase ani cu Real Madrid",
+      "rezumat": "Atacantul brazilian Vinicius Jr. și-a prelungit contractul cu Real Madrid pentru încă șase ani, punând capăt speculațiilor privind viitorul său și interesului manifestat de Arsenal. Noul acord îl va menține pe jucător la clubul spaniol până în 2032. Această decizie vine după o perioadă de incertitudine, în care Vinicius intrase în ultimele 12 luni ale vechiului său contract. Președintele clubului, Florentino Perez, a confirmat importanța jucătorului în planurile pe termen lung ale echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-08-07T08:15:50.288935+00:00",
+      "data_afisaj": "7 august 2026, 11:15"
+    },
+    {
+      "id": "cfa7037457af",
+      "titlu": "Mohamed Salah semnează un contract pe doi ani cu Trabzonspor, cu un salariu de 17 milioane de euro pe sezon",
+      "rezumat": "Atacantul egiptean Mohamed Salah a finalizat transferul la Trabzonspor, semnând un contract pe doi ani cu clubul turc. Anunțul oficial, făcut către bursa de valori din Turcia, confirmă că Salah va primi un salariu anual de 17 milioane de euro (aproximativ 14,5 milioane de lire sterline). De asemenea, jucătorul în vârstă de 34 de ani va beneficia de un procent de 20% din vânzările de produse personalizate cu numele său. Această mutare marchează o nouă etapă în cariera fostului jucător al lui Liverpool.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-07T08:15:50.290268+00:00",
+      "data_afisaj": "7 august 2026, 11:15"
+    },
+    {
+      "id": "1cd52ad68a7c",
+      "titlu": "Micky van de Ven este aproape de un nou contract pe cinci ani cu Tottenham Hotspur",
+      "rezumat": "Fundașul Micky van de Ven se află în stadii avansate de negociere pentru a semna un nou contract pe cinci ani cu Tottenham Hotspur. Extinderea acordului ar consolida poziția jucătorului olandez în planurile pe termen lung ale clubului londonez. Van de Ven a devenit un element cheie în defensiva lui Spurs de la sosirea sa, iar noul contract reflectă încrederea conducerii în performanțele și contribuția sa la echipă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-07T08:15:50.293263+00:00",
+      "data_afisaj": "7 august 2026, 11:15"
+    },
     {
       "id": "c5fad79e5db0",
       "titlu": "Argentina instituie \"Ziua Echipelor Naționale de Fotbal\" după victoria la Cupa Mondială",
@@ -1036,110 +1072,6 @@
       ],
       "data_publicare": "2026-07-31T09:46:39.594490+00:00",
       "data_afisaj": "31 iulie 2026, 12:46"
-    },
-    {
-      "id": "d13029cb7827",
-      "titlu": "Sandro Tonali a decis rapid să se alăture lui Tottenham pentru 100 de milioane de lire sterline",
-      "rezumat": "Mijlocașul Sandro Tonali, achiziționat de Tottenham pentru o sumă record de 100 de milioane de lire sterline, a declarat că a avut nevoie de doar zece minute pentru a lua decizia de a se alătura clubului. Această hotărâre rapidă a venit după o întâlnire cu antrenorul Roberto de Zerbi. Transferul lui Tonali reprezintă o mutare majoră pe piața transferurilor și este așteptat să aducă un plus de valoare echipei londoneze în noul sezon, consolidând mijlocul terenului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-30T18:10:47.732503+00:00",
-      "data_afisaj": "30 iulie 2026, 21:10"
-    },
-    {
-      "id": "2ee7cba083d8",
-      "titlu": "Newcastle United activează o clauză de reziliere pentru primul transfer după plecarea lui Eddie Howe",
-      "rezumat": "Newcastle United este pe cale să finalizeze primul său transfer după demisia antrenorului Eddie Howe. Clubul a activat o clauză de reziliere pentru un nou portar, punând capăt urmăririi lui Zion Suzuki. Această mișcare indică o nouă direcție pentru echipă, care caută să-și consolideze lotul înaintea noului sezon, în contextul schimbărilor recente la nivel de conducere tehnică. Se așteaptă ca noul portar să aducă stabilitate defensivă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-07-30T18:10:47.734554+00:00",
-      "data_afisaj": "30 iulie 2026, 21:10"
-    },
-    {
-      "id": "79550c0e1d60",
-      "titlu": "London City Lionesses debutează în noul sezon WSL împotriva lui Manchester United",
-      "rezumat": "London City Lionesses, un club cu investiții semnificative, va începe sezonul 2026-27 din Women's Super League pe 4 septembrie, într-un meci împotriva lui Manchester United. Fanii sunt nerăbdători să vadă cum se va integra de două ori câștigătoarea Balonului de Aur, Alexia Putellas, în echipa Lionesses. Campioana en-titre, Manchester City, își va începe campania împotriva lui Birmingham, promițând un start de sezon captivant și plin de evenimente pentru fotbalul feminin.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-30T18:10:47.736193+00:00",
-      "data_afisaj": "30 iulie 2026, 21:10"
-    },
-    {
-      "id": "c7208e3a033c",
-      "titlu": "Scottish Premiership revine cu o nouă rivalitate la Old Firm, adusă de Derek McInnes",
-      "rezumat": "Noul sezon din Scottish Premiership debutează, aducând o nouă dinamică în rivalitatea Old Firm. Derek McInnes, care a făcut trecerea de la Hearts la Rangers, este acum în centrul atenției, având o miză personală împotriva celor de la Celtic. Pe lângă această rivalitate intensificată, se anticipează că echipe precum Motherwell ar putea surprinde în acest campionat. Sezonul se anunță a fi unul plin de provocări și incertitudini pentru fotbalul scoțian, cu multe meciuri disputate.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-30T18:10:47.737463+00:00",
-      "data_afisaj": "30 iulie 2026, 21:10"
-    },
-    {
-      "id": "6a23784d55ce",
-      "titlu": "UEFA amenință cu boicotarea Cupei Mondiale dacă planurile FIFA sunt aprobate",
-      "rezumat": "Cele 55 de asociații membre UEFA au votat în favoarea boicotării Cupei Mondiale, în cazul în care FIFA va continua cu planul său de a vinde acțiuni din competițiile sale. Decizia vine ca un răspuns ferm la propunerile președintelui FIFA, Gianni Infantino, de a restructura și comercializa drepturile turneelor majore. Această mișcare subliniază tensiunile crescânde dintre cele două organisme de conducere ale fotbalului mondial, cu implicații semnificative pentru viitorul competițiilor internaționale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-30T17:38:25.783468+00:00",
-      "data_afisaj": "30 iulie 2026, 20:38"
-    },
-    {
-      "id": "c0fe5794952d",
-      "titlu": "Federația Engleză de Fotbal introduce interdicții de minim 10 meciuri pentru discriminare",
-      "rezumat": "Jucătorii găsiți vinovați de acte de discriminare vor primi o suspendare de cel puțin 10 meciuri, conform noilor reguli înăsprite ale Federației Engleze de Fotbal (FA). Această măsură drastică vizează combaterea rasismului și a altor forme de discriminare în sport, trimițând un mesaj clar că astfel de comportamente nu vor fi tolerate. Noile reglementări reflectă angajamentul FA de a crea un mediu mai incluziv și respectuos în fotbalul englez.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-30T17:38:25.785162+00:00",
-      "data_afisaj": "30 iulie 2026, 20:38"
-    },
-    {
-      "id": "bbc010fae561",
-      "titlu": "Cluburile din Premier League au ajuns la un acord privind propunerea de finanțare a EFL",
-      "rezumat": "Cluburile din Premier League au convenit asupra unei propuneri de finanțare pe care o vor prezenta Ligii de Fotbal Engleze (EFL) în următoarele zile. Această înțelegere marchează un pas important în rezolvarea disputelor legate de distribuția veniturilor între eșaloanele superioare și inferioare ale fotbalului englez. Propunerea urmărește să asigure o stabilitate financiară mai mare pentru cluburile din EFL și să reducă decalajul economic dintre ligi.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-30T17:38:25.786813+00:00",
-      "data_afisaj": "30 iulie 2026, 20:38"
-    },
-    {
-      "id": "e6e87c3f4487",
-      "titlu": "Harvey Elliott, pregătit să profite de \"a doua șansă\" la Liverpool",
-      "rezumat": "Mijlocașul lui Liverpool, Harvey Elliott, a vorbit despre perioada sa dificilă de împrumut la Aston Villa și despre determinarea sa de a se bucura din nou de fotbal la clubul de pe Anfield. Jucătorul, considerat un talent promițător, își propune să demonstreze că merită un loc în echipa principală și să contribuie la performanțele \"Cormoranilor\". Declarațiile sale subliniază ambiția de a-și relansa cariera și de a-și îndeplini potențialul la Liverpool.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-30T17:38:25.788408+00:00",
-      "data_afisaj": "30 iulie 2026, 20:38"
-    },
-    {
-      "id": "5df69793fc35",
-      "titlu": "Zinedine Zidane, numit noul selecționer al Franței",
-      "rezumat": "Zinedine Zidane a fost numit noul antrenor principal al echipei naționale de fotbal a Franței. Fostul mare mijlocaș, cunoscut pentru cariera sa legendară de jucător și succesul ca antrenor la Real Madrid, preia frâiele selecționatei franceze. Numirea sa vine cu așteptări mari, fanii și experții sperând ca Zidane să aducă o nouă eră de succes pentru \"Les Bleus\", bazându-se pe experiența sa vastă și viziunea tactică.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-30T17:38:25.789904+00:00",
-      "data_afisaj": "30 iulie 2026, 20:38"
     }
   ]
 }
