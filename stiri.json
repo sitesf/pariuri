@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-07T08:57:39.170971+00:00",
-  "updated_at_afisaj": "7 august 2026, 11:57",
+  "updated_at": "2026-08-07T16:56:59.219746+00:00",
+  "updated_at_afisaj": "7 august 2026, 19:56",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,55 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 95,
+  "numar_stiri": 90,
   "stiri": [
+    {
+      "id": "e580924b68ef",
+      "titlu": "Atacantul englez Toney, acuzat de agresiune",
+      "rezumat": "Atacantul englez Toney a fost acuzat de agresiune în zona Soho din Londra. Fostul jucător al lui Brentford, în vârstă de 30 de ani, urmează să compară în instanță luna viitoare pentru a răspunde acuzațiilor. Incidentul aduce în atenție comportamentul jucătorilor de fotbal în afara terenului și consecințele legale ale acestuia, stârnind discuții în comunitatea sportivă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-07T16:56:59.216014+00:00",
+      "data_afisaj": "7 august 2026, 19:56"
+    },
+    {
+      "id": "a88613f7f558",
+      "titlu": "Tensiuni la FIFA: Norvegia cere demisia lui Infantino, Mexic și Argentina îl susțin",
+      "rezumat": "Federația Norvegiană de Fotbal a cerut demisia președintelui FIFA, Gianni Infantino, în urma tentativei sale de a vinde acțiuni la Cupa Mondială. În contrast, federațiile din Mexic și Argentina și-au declarat public sprijinul pentru Infantino, adâncind astfel diviziunile în cadrul fotbalului mondial. Președinta Federației Norvegiene a subliniat că \"nu mai există cale de întoarcere\" pentru liderul FIFA, pe fondul unei serii de controverse legate de conducerea forului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-07T16:56:59.217455+00:00",
+      "data_afisaj": "7 august 2026, 19:56"
+    },
+    {
+      "id": "d88114ba97f6",
+      "titlu": "Tottenham negociază transferul lui Cristian Romero cu Atlético Madrid",
+      "rezumat": "Tottenham Hotspur se află în discuții cu Atlético Madrid privind o posibilă vânzare a fundașului argentinian Cristian Romero. Clubul londonez a respins anterior o abordare din partea lui Arsenal pentru jucător, care și-a exprimat dorința de a părăsi Spurs în această vară. Negocierile indică o posibilă schimbare majoră în defensiva echipei engleze, Romero fiind un jucător cheie în ultimii ani.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-07T16:56:59.218723+00:00",
+      "data_afisaj": "7 august 2026, 19:56"
+    },
+    {
+      "id": "b5040430ddd8",
+      "titlu": "FA interzice zidurile perimetrale solide în jurul terenurilor de fotbal",
+      "rezumat": "Asociația de Fotbal (FA) din Anglia a interzis construirea zidurilor perimetrale solide în jurul terenurilor de joc, în urma unei revizuiri a normelor de siguranță. Decizia vine după decesul fostului jucător de tineret al lui Arsenal, Billy Vigar, subliniind importanța măsurilor de precauție pentru siguranța jucătorilor. Această modificare regulamentară vizează reducerea riscurilor de accidentare pe terenurile de fotbal din Anglia.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-07T16:56:59.219730+00:00",
+      "data_afisaj": "7 august 2026, 19:56"
+    },
     {
       "id": "549bd484b046",
       "titlu": "Liverpool investește 60 de milioane de lire sterline pentru transferul fundașului central Jeremy Jacquet",
@@ -1001,111 +1048,6 @@
       ],
       "data_publicare": "2026-07-31T17:41:59.629473+00:00",
       "data_afisaj": "31 iulie 2026, 20:41"
-    },
-    {
-      "id": "86544bd25921",
-      "titlu": "Consilierul Senior al lui Infantino Demisionează pe Fondul Opoziției Federației Asiatice",
-      "rezumat": "Un consilier senior al președintelui FIFA, Gianni Infantino, a demisionat în semn de protest față de planurile controversate ale organizației de a lansa o consultare privind vânzarea de acțiuni într-o entitate comercială a Cupei Mondiale către investitori privați. Demisia vine în contextul în care Confederația Asiatică de Fotbal (AFC) și-a exprimat solidaritatea cu UEFA și Concacaf, opunându-se propunerilor FIFA. Această evoluție adaugă presiune asupra conducerii FIFA, care insistă că nu \"vinde fotbalul\", ci doar explorează noi modele de finanțare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football",
-        "Sky Sports Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-07-31T10:38:02.396612+00:00",
-      "data_afisaj": "31 iulie 2026, 13:38"
-    },
-    {
-      "id": "bb3c77ef2a33",
-      "titlu": "Manchester City A Ajuns la un Acord pentru Re-semnarea unui Câștigător de Cupă Mondială",
-      "rezumat": "Manchester City a ajuns la un acord pentru a re-semna un jucător câștigător al Cupei Mondiale, conform rapoartelor recente. Antrenorul Enzo Maresca își construiește lotul pentru noul sezon, iar această mutare strategică indică intenția clubului de a-și consolida echipa cu experiență și calitate la cel mai înalt nivel. Detaliile despre identitatea jucătorului și termenii acordului nu au fost încă dezvăluite oficial, stârnind speculații în rândul fanilor și al presei sportive.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-07-31T10:38:02.397990+00:00",
-      "data_afisaj": "31 iulie 2026, 13:38"
-    },
-    {
-      "id": "cbba5c9ed562",
-      "titlu": "Fulham Realizează o Dublă Afacere Surprinzătoare cu Real Madrid",
-      "rezumat": "Fulham a reușit să încheie o dublă afacere surprinzătoare cu Real Madrid, conform rapoartelor. Antrenorul lui Fulham, Alvaro Arbeloa, se va reuni cu doi foști jucători de la Real Madrid în Premier League, consolidând astfel lotul echipei pentru viitorul sezon. Această mișcare strategică subliniază ambițiile clubului de a se impune în campionatul englez, aducând jucători cu experiență de la un club de top european. Detaliile financiare ale tranzacțiilor nu au fost încă publicate.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-07-31T10:38:02.399208+00:00",
-      "data_afisaj": "31 iulie 2026, 13:38"
-    },
-    {
-      "id": "9813091e9e58",
-      "titlu": "WSL Reintroduce Meciurile de Duminică Seara după Cifrele de Audiență Fluctuante",
-      "rezumat": "Women's Super League (WSL) va reintroduce meciurile de duminică seara în noul sezon, ca parte a unei revizuiri a strategiei sale de difuzare, după ce cifrele de audiență din sezonul precedent au fost considerate fluctuante. Această modificare semnificativă față de sezonul trecut, când majoritatea meciurilor televizate aveau alte intervale orare, are ca scop optimizarea vizibilității și atragerea unui public mai larg pentru fotbalul feminin. Decizia face parte dintr-un efort mai amplu de a crește popularitatea ligii.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-31T10:38:02.400442+00:00",
-      "data_afisaj": "31 iulie 2026, 13:38"
-    },
-    {
-      "id": "685c49e420ad",
-      "titlu": "West Ham în Negocieri pentru Mijlocașul lui Celtic, Arne Engels",
-      "rezumat": "Clubul West Ham United se află în discuții cu Celtic pentru transferul mijlocașului Arne Engels. Negocierile sunt în desfășurare, iar interesul pentru jucătorul belgian de 22 de ani vine pe fondul dorinței lui West Ham de a-și întări lotul pentru noul sezon din Premier League. Detaliile financiare ale potențialului transfer nu au fost încă făcute publice, dar se anticipează o mutare importantă pentru tânărul mijlocaș, care ar putea aduce un plus de creativitate la mijlocul terenului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-31T10:38:02.401676+00:00",
-      "data_afisaj": "31 iulie 2026, 13:38"
-    },
-    {
-      "id": "098442e3211a",
-      "titlu": "Franco Baresi, legenda lui AC Milan și a Italiei, a decedat la vârsta de 66 de ani",
-      "rezumat": "Franco Baresi, considerat unul dintre cei mai mari fundași din istoria fotbalului, a încetat din viață la vârsta de 66 de ani. Anunțul a fost făcut de clubul AC Milan, unde Baresi și-a petrecut întreaga carieră, devenind un simbol. Fostul căpitan al naționalei Italiei și al rossonerilor a câștigat numeroase trofee, inclusiv trei Ligi ale Campionilor și șase titluri în Serie A, fiind o figură emblematică pentru fotbalul italian și mondial.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-31T09:46:39.589428+00:00",
-      "data_afisaj": "31 iulie 2026, 12:46"
-    },
-    {
-      "id": "8e9ce078ea38",
-      "titlu": "Bournemouth a ajuns la un acord pentru transferul fundașului Antonio Silva de la Benfica",
-      "rezumat": "Clubul englez Bournemouth a convenit o înțelegere cu Benfica Lisabona pentru transferul fundașului central Antonio Silva. Suma de transfer se ridică la aproape 26 de milioane de lire sterline. Silva, un tânăr talent portughez, este așteptat să se alăture echipei din Premier League, reprezentând o achiziție importantă pentru linia defensivă a lui Bournemouth în noul sezon. Detaliile finale ale contractului și vizita medicală urmează să fie finalizate în curând.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-31T09:46:39.591173+00:00",
-      "data_afisaj": "31 iulie 2026, 12:46"
-    },
-    {
-      "id": "fe8eef440f65",
-      "titlu": "Tensiuni la Liverpool: Curtis Jones și Dominik Szoboszlai, discuții aprinse după meci",
-      "rezumat": "Mijlocașii lui Liverpool, Curtis Jones și Dominik Szoboszlai, au fost surprinși având o discuție aprinsă pe teren, imediat după victoria echipei lor împotriva lui Wrexham. Incidentul a avut loc la finalul partidei, stârnind speculații despre posibile tensiuni în vestiarul „cormoranilor”. Deși natura exactă a disputei nu a fost clarificată, imaginile sugerează un schimb de replici intens între cei doi coechipieri, necesitând intervenția altor jucători pentru a calma spiritele.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-07-31T09:46:39.592854+00:00",
-      "data_afisaj": "31 iulie 2026, 12:46"
-    },
-    {
-      "id": "f663ea5b8223",
-      "titlu": "Joe Gomez va rata startul sezonului pentru Liverpool din cauza unei accidentări",
-      "rezumat": "Fundașul lui Liverpool, Joe Gomez, este așteptat să rateze începutul campaniei din Premier League din cauza unei accidentări. Deși absența sa reprezintă o lovitură pentru echipa antrenată de Jürgen Klopp, se pare că aceasta nu va influența planurile de transfer ale clubului pentru perioada de vară. Staff-ul medical al „cormoranilor” va monitoriza îndeaproape recuperarea jucătorului, în speranța unei reveniri rapide pe teren.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-31T09:46:39.594490+00:00",
-      "data_afisaj": "31 iulie 2026, 12:46"
     }
   ]
 }
