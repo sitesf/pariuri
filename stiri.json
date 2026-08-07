@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-07T08:15:50.293281+00:00",
-  "updated_at_afisaj": "7 august 2026, 11:15",
+  "updated_at": "2026-08-07T08:57:39.170971+00:00",
+  "updated_at_afisaj": "7 august 2026, 11:57",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,42 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 92,
+  "numar_stiri": 95,
   "stiri": [
+    {
+      "id": "549bd484b046",
+      "titlu": "Liverpool investește 60 de milioane de lire sterline pentru transferul fundașului central Jeremy Jacquet",
+      "rezumat": "Liverpool a făcut o investiție majoră în apărare, aducându-l pe tânărul fundaș central francez Jeremy Jacquet într-un transfer evaluat la 60 de milioane de lire sterline. Clubul are așteptări mari de la Jacquet, considerându-l o achiziție strategică pentru viitor. Deși o accidentare i-a perturbat pregătirea de pre-sezon, oficialii de la Anfield sunt încrezători în calitățile jucătorului și cred că acesta va justifica suma plătită. Transferul subliniază intenția lui Liverpool de a-și întări defensiva cu talente de top.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-07T08:57:39.168099+00:00",
+      "data_afisaj": "7 august 2026, 11:57"
+    },
+    {
+      "id": "dee9d751d8a6",
+      "titlu": "Barcelona intensifică interesul pentru Rodri, după ce discuțiile Real Madrid cu starul lui Manchester City au stagnat",
+      "rezumat": "Barcelona și-a intensificat eforturile de a-l aduce pe mijlocașul Rodri de la Manchester City, încercând să deturneze planurile rivalei Real Madrid. Deși City speră ca internaționalul spaniol să semneze un nou contract, având în vedere că a intrat în ultimul an al înțelegerii sale, clubul ar fi dispus să-l lase să plece pentru aproximativ 60 de milioane de lire sterline. Discuțiile dintre Real Madrid și reprezentanții lui Rodri au stagnat de săptămâni întregi, deschizând calea pentru intervenția Barcelonei în această cursă pentru semnătura căpitanului campioanei mondiale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-08-07T08:57:39.169568+00:00",
+      "data_afisaj": "7 august 2026, 11:57"
+    },
+    {
+      "id": "f28f72dd7e89",
+      "titlu": "CAF a pierdut un acord de peste 1 miliard de dolari din cauza schimbării formatului Cupei Africii pe Națiuni",
+      "rezumat": "Confederația Africană de Fotbal (CAF) a abandonat un acord financiar de cel puțin 1 miliard de dolari, garantat pe o perioadă de opt ani, din cauza deciziei de a schimba Cupa Africii pe Națiuni dintr-un eveniment bienal într-unul care are loc la fiecare patru ani. Această modificare a ciclului competițional a dus la anularea ofertei pentru ediția din 2025 și a lăsat CAF fără un acord financiar pe termen lung din 2019. Președintele CAF, Patrice Motsepe, a confirmat impactul acestei decizii.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-07T08:57:39.170954+00:00",
+      "data_afisaj": "7 august 2026, 11:57"
+    },
     {
       "id": "5bbd7d97e802",
       "titlu": "Vinicius Jr. semnează un nou contract pe șase ani cu Real Madrid",
