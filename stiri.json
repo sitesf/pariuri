@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-08T16:37:20.865844+00:00",
-  "updated_at_afisaj": "8 august 2026, 19:37",
+  "updated_at": "2026-08-08T17:22:38.042750+00:00",
+  "updated_at_afisaj": "8 august 2026, 20:22",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,39 @@
   },
   "numar_stiri": 94,
   "stiri": [
+    {
+      "id": "b6cf3e4ab954",
+      "titlu": "A murit Phil Parkes, legendarul portar al lui Wolverhampton Wanderers",
+      "rezumat": "Phil Parkes, fostul portar al echipei Wolverhampton Wanderers, a încetat din viață la vârsta de 79 de ani. Parkes a fost o figură emblematică pentru club, fiind considerat o legendă de către fani. Cariera sa la Wolves a fost marcată de performanțe notabile, contribuind la istoria bogată a echipei. Vestea decesului său a fost primită cu tristețe în lumea fotbalului englez.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-08T17:22:38.039965+00:00",
+      "data_afisaj": "8 august 2026, 20:22"
+    },
+    {
+      "id": "d6e9f8dde14e",
+      "titlu": "Manchester United egalează cu PSG într-un amical, dar Mason Mount se accidentează",
+      "rezumat": "Manchester United a încheiat la egalitate, scor 1-1, meciul amical disputat împotriva echipei Paris Saint-Germain la Gothenburg. Bryan Mbeumo a marcat golul pentru Manchester United, asigurând remiza. Cu toate acestea, rezultatul a fost umbrit de accidentarea mijlocașului Mason Mount, care a stârnit îngrijorare în rândul staff-ului tehnic și al fanilor. Starea exactă a accidentării lui Mount urmează să fie evaluată.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-08T17:22:38.041271+00:00",
+      "data_afisaj": "8 august 2026, 20:22"
+    },
+    {
+      "id": "28c15ab374ac",
+      "titlu": "Portarul lui Millwall, Lukas Jensen, a apărat patru penalty-uri în Cupa Ligii",
+      "rezumat": "Lukas Jensen, portarul echipei Millwall, a devenit eroul meciului din Cupa Ligii împotriva QPR, apărând un număr impresionant de patru penalty-uri în timpul loviturilor de departajare. Performanța sa excepțională a asigurat calificarea echipei sale în faza următoare a competiției. Meciul s-a încheiat la egalitate în timpul regulamentar, iar intervențiile decisive ale lui Jensen au fost cruciale pentru succesul lui Millwall.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-08T17:22:38.042735+00:00",
+      "data_afisaj": "8 august 2026, 20:22"
+    },
     {
       "id": "f55fdfcebed7",
       "titlu": "Jorge Messi, tatăl și agentul lui Lionel Messi, a decedat la 68 de ani",
@@ -1057,44 +1090,6 @@
       ],
       "data_publicare": "2026-08-01T17:55:24.002632+00:00",
       "data_afisaj": "1 august 2026, 20:55"
-    },
-    {
-      "id": "510e3911a5f0",
-      "titlu": "Familia Gold este de acord să vândă pachetul de acțiuni de la West Ham către consorțiul Staveley",
-      "rezumat": "Vanessa Gold, fiica fostului co-proprietar al clubului West Ham, David Gold, a confirmat planurile de a-și vinde acțiunile către un consorțiu condus de Amanda Staveley, fost co-proprietar al clubului Newcastle. Această tranzacție marchează o schimbare semnificativă în structura de proprietate a clubului londonez, aducând noi investitori și potențial noi direcții strategice. Acordul a fost confirmat de mai multe surse de presă sportivă de top, subliniind importanța sa pentru viitorul clubului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-01T17:03:41.960668+00:00",
-      "data_afisaj": "1 august 2026, 20:03"
-    },
-    {
-      "id": "71acba08c475",
-      "titlu": "Manchester United învinge Atletico Madrid într-un amical de pre-sezon",
-      "rezumat": "Manchester United a obținut o victorie cu scorul de 2-1 împotriva lui Atletico Madrid într-un meci amical de pre-sezon disputat la Stockholm. Bryan Mbeumo a fost protagonistul partidei, marcând ambele goluri pentru echipa engleză, care a reușit să revină de la un scor defavorabil. Această victorie oferă un impuls de încredere pentru echipa lui Erik ten Hag înaintea începerii noului sezon competițional.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-01T17:03:41.963414+00:00",
-      "data_afisaj": "1 august 2026, 20:03"
-    },
-    {
-      "id": "71bb87e0f2d2",
-      "titlu": "De Zerbi dorește ca Richarlison să rămână la Tottenham după victoria împotriva lui Chelsea",
-      "rezumat": "Roberto De Zerbi, antrenorul lui Tottenham, a declarat că își dorește ca Richarlison să rămână la club, în ciuda incertitudinilor legate de viitorul atacantului brazilian. Declarația a venit după ce Richarlison a marcat golul victoriei în minutul 92, asigurând succesul lui Tottenham cu 2-1 împotriva lui Chelsea într-un meci amical de pre-sezon disputat la Sydney, chiar și cu un jucător eliminat. De Zerbi a subliniat importanța jucătorului pentru echipă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-01T17:03:41.965093+00:00",
-      "data_afisaj": "1 august 2026, 20:03"
     }
   ]
 }
