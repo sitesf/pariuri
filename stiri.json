@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-07T17:42:06.087344+00:00",
-  "updated_at_afisaj": "7 august 2026, 20:42",
+  "updated_at": "2026-08-08T07:51:50.018059+00:00",
+  "updated_at_afisaj": "8 august 2026, 10:51",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,66 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 94,
+  "numar_stiri": 93,
   "stiri": [
+    {
+      "id": "1393242d5b1a",
+      "titlu": "Gianni Infantino neagă acuzațiile că UEFA ar fi plătit o presupusă amantă",
+      "rezumat": "Președintele FIFA, Gianni Infantino, a negat acuzațiile conform cărora UEFA ar fi efectuat o plată compensatorie către o presupusă amantă a sa, în perioada în care ocupa funcția de secretar general al forului european. O investigație a Daily Telegraph a sugerat că această plată ar fi avut loc. UEFA a confirmat că este la curent cu aceste acuzații, care aduc noi tensiuni în jurul conducerii fotbalului mondial, deja confruntată cu diverse controverse.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-08T07:51:50.012811+00:00",
+      "data_afisaj": "8 august 2026, 10:51"
+    },
+    {
+      "id": "df030fe750fa",
+      "titlu": "Manchester City ajunge la un acord pentru transferul portarului Geronimo Rulli de la Marseille",
+      "rezumat": "Manchester City a ajuns la un acord pentru a-l transfera pe portarul argentinian Geronimo Rulli de la clubul francez Olympique Marseille. Detaliile financiare ale tranzacției nu au fost încă publicate, dar se anticipează că Rulli se va alătura echipei lui Pep Guardiola pentru a consolida opțiunile din poartă. Această mutare marchează o nouă achiziție importantă pentru campioana Angliei în fereastra de transferuri, aducând experiență internațională în lot.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-08T07:51:50.014080+00:00",
+      "data_afisaj": "8 august 2026, 10:51"
+    },
+    {
+      "id": "6c23f86bb101",
+      "titlu": "Liverpool este aproape de a-l împrumuta pe fundașul Ronald Araujo de la Barcelona",
+      "rezumat": "Liverpool este pe punctul de a finaliza un acord pentru împrumutul fundașului uruguayan Ronald Araujo de la FC Barcelona, pentru un sezon întreg. Înțelegerea include și o opțiune de cumpărare definitivă a jucătorului. Această mutare ar adăuga profunzime și calitate defensivei lui Liverpool, care caută să-și întărească lotul pentru noul sezon. Araujo este considerat un fundaș central talentat și versatil, capabil să joace și pe flancul drept.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-08T07:51:50.015339+00:00",
+      "data_afisaj": "8 august 2026, 10:51"
+    },
+    {
+      "id": "694c2bb5341c",
+      "titlu": "Asociația Scoțiană de Fotbal convoacă un summit crucial pentru viitorul fotbalului național",
+      "rezumat": "Asociația Scoțiană de Fotbal (SFA) a anunțat convocarea unui summit considerat „critic de important” pentru a discuta și a stabili direcțiile viitoare ale fotbalului național. Întâlnirea va reuni factori de decizie și părți interesate pentru a aborda provocările și oportunitățile din sportul scoțian. Scopul este de a elabora strategii pe termen lung pentru dezvoltarea și îmbunătățirea fotbalului la toate nivelurile, de la bază la echipele naționale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-08T07:51:50.016594+00:00",
+      "data_afisaj": "8 august 2026, 10:51"
+    },
+    {
+      "id": "d6c839915b0c",
+      "titlu": "Middlesbrough învinge Wrexham în Cupa Ligii, cu un gol la debut al lui Will Lankshear",
+      "rezumat": "Middlesbrough a început noul sezon cu o victorie, învingând Wrexham cu scorul de 1-0 în prima rundă a Cupei Ligii Angliei (Carabao Cup). Unicul gol al partidei a fost marcat de Will Lankshear, aflat la debutul său pentru Middlesbrough, în minutul 61. Atacantul, transferat în vară de la Tottenham, a reușit o execuție spectaculoasă, asigurând calificarea echipei sale în faza următoare a competiției. De asemenea, Wolves și Stevenage au avansat în turul următor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-08T07:51:50.018037+00:00",
+      "data_afisaj": "8 august 2026, 10:51"
+    },
     {
       "id": "2140d9ea0587",
       "titlu": "Manchester City refuză oferta de 38,5 milioane de lire sterline a Barcelonei pentru Rodri",
@@ -1026,74 +1084,6 @@
       ],
       "data_publicare": "2026-08-01T09:07:49.241525+00:00",
       "data_afisaj": "1 august 2026, 12:07"
-    },
-    {
-      "id": "a4a3b84e72fe",
-      "titlu": "Fiul lui Rio Ferdinand Semnează Primul Contract Profesionist",
-      "rezumat": "Tate Ferdinand, fiul legendarului fundaș al Angliei și al lui Manchester United, Rio Ferdinand, a semnat primul său contract de fotbalist profesionist. Tânărul jucător a progresat prin sistemul de academii și își începe acum cariera la nivel de seniori. Această veste continuă o tradiție familială în fotbalul de top, Tate Ferdinand urmând pașii tatălui său. Detaliile clubului nu sunt specificate în rezumatul original, dar evenimentul marchează un moment important în dezvoltarea sa.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-07-31T18:15:48.628451+00:00",
-      "data_afisaj": "31 iulie 2026, 21:15"
-    },
-    {
-      "id": "228d6a2a6c0e",
-      "titlu": "FIFA Răspunde Criticilor Privind Planurile Controverse ale Cupei Mondiale",
-      "rezumat": "FIFA a reacționat la valul de critici și amenințări cu boicotul legate de planurile sale controversate de privatizare parțială a Cupei Mondiale. Organizația insistă că va continua procesul de consultare și că \"nimeni nu vinde fotbalul\". Această declarație vine în contextul opoziției puternice din partea federațiilor europene și a altor oficiali, care se tem de impactul negativ al implicării investitorilor privați asupra integrității și viitorului sportului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-07-31T18:15:48.630048+00:00",
-      "data_afisaj": "31 iulie 2026, 21:15"
-    },
-    {
-      "id": "6b62c5d292e4",
-      "titlu": "Mykhailo Mudryk de la Chelsea, liber să joace după apelul împotriva suspendării pentru dopaj",
-      "rezumat": "Mijlocașul ucrainean Mykhailo Mudryk, legitimat la Chelsea, a primit permisiunea de a reveni pe teren după ce apelul său împotriva unei suspendări pentru dopaj a fost acceptat. Jucătorul nu a mai evoluat din noiembrie 2024 și i-a fost interzis accesul la terenul de antrenament al clubului pe durata investigației. Decizia îi permite acum să se alăture echipei și să reia pregătirile pentru viitoarele meciuri.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-31T17:41:59.623776+00:00",
-      "data_afisaj": "31 iulie 2026, 20:41"
-    },
-    {
-      "id": "9d82258ccc69",
-      "titlu": "Chelsea, amendată cu 10 milioane de lire sterline și suspendare de transferuri condiționată",
-      "rezumat": "Clubul Chelsea a fost amendat cu 10 milioane de lire sterline și a primit o interdicție de transferuri suspendată pentru două perioade de mercato, conform deciziei unei comisii independente de apel. Sancțiunile vin după ce clubul a recunoscut încălcări ale regulilor Federației Engleze de Fotbal privind agenții, fapte ce datează din perioada anterioară. Această decizie subliniază angajamentul FA de a menține integritatea regulamentelor sale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-31T17:41:59.625500+00:00",
-      "data_afisaj": "31 iulie 2026, 20:41"
-    },
-    {
-      "id": "9bbd3123a39d",
-      "titlu": "Compania PCP Capital Partners a făcut o ofertă pentru o cotă din West Ham",
-      "rezumat": "PCP Capital Partners, compania deținută de Amanda Staveley și soțul ei Mehrdad Ghodoussi, a înaintat o ofertă pentru achiziționarea unei cote de 25.1% din clubul West Ham United. Această propunere ar putea marca o schimbare semnificativă în structura de proprietate a clubului londonez, aducând noi investitori și o potențială infuzie de capital, în contextul ambițiilor de dezvoltare ale echipei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-07-31T17:41:59.627707+00:00",
-      "data_afisaj": "31 iulie 2026, 20:41"
-    },
-    {
-      "id": "0801d6189cd9",
-      "titlu": "FIFA accelerează planul de extindere a Cupei Mondiale la 64 de echipe începând cu ediția din 2030",
-      "rezumat": "FIFA avansează rapid cu planurile de a extinde Cupa Mondială la 64 de echipe, începând cu turneul din 2030. Organizația a lansat o licitație pentru companii de cercetare, cu scopul de a evalua beneficiile economice ale acestei extinderi într-un interval de timp extrem de scurt. Această decizie subliniază intenția FIFA de a implementa modificările într-un ritm accelerat, în ciuda controverselor anterioare legate de formatul competiției.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-07-31T17:41:59.629473+00:00",
-      "data_afisaj": "31 iulie 2026, 20:41"
     }
   ]
 }
