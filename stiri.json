@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-08T07:51:50.018059+00:00",
-  "updated_at_afisaj": "8 august 2026, 10:51",
+  "updated_at": "2026-08-08T08:38:51.871417+00:00",
+  "updated_at_afisaj": "8 august 2026, 11:38",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,52 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 93,
+  "numar_stiri": 97,
   "stiri": [
+    {
+      "id": "bd533ab27949",
+      "titlu": "Matthias Jaissle preia conducerea tehnică la Newcastle United",
+      "rezumat": "Matthias Jaissle va debuta ca antrenor principal al echipei Newcastle United într-un meci amical împotriva Valenciei. Această partidă marchează începutul unei noi ere pentru clubul englez, după schimbările recente din cadrul proiectului \"Newcastle 2.0\". Jaissle va avea ocazia să-și testeze strategia și să-și cunoască mai bine jucătorii înaintea startului oficial al sezonului, oferind fanilor o primă imagine a direcției sub noua sa conducere.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-08T08:38:51.866700+00:00",
+      "data_afisaj": "8 august 2026, 11:38"
+    },
+    {
+      "id": "6674c1d5e2a4",
+      "titlu": "Chelsea pierde un amical în fața lui Juventus, după un gol spectaculos",
+      "rezumat": "Echipa Chelsea a înregistrat o înfrângere la limită într-un meci amical disputat împotriva formației Juventus, în Hong Kong. Partida a fost decisă de un gol spectaculos marcat de Edon Zhegrova, care a adus victoria echipei italiene. Rezultatul oferă antrenorilor ambelor echipe ocazia de a evalua performanțele jucătorilor și de a ajusta strategiile înaintea începerii competițiilor oficiale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-08T08:38:51.868043+00:00",
+      "data_afisaj": "8 august 2026, 11:38"
+    },
+    {
+      "id": "a6a57f02fd6d",
+      "titlu": "Luptele din conducere adâncesc incertitudinea la West Ham, înaintea noului sezon",
+      "rezumat": "West Ham United se pregătește pentru un nou sezon în Championship, însă startul este umbrit de tensiuni interne și acuzații. O luptă pentru acțiuni, implicând-o pe Vanessa Gold, și acuzațiile aduse lui David Sullivan, afectează moralul clubului. Retrogradarea din Premier League a adus o perioadă de incertitudine, iar meciul din Cupa Ligii împotriva lui Portsmouth servește ca o reamintire a circumstanțelor dificile în care se află echipa.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-08T08:38:51.869403+00:00",
+      "data_afisaj": "8 august 2026, 11:38"
+    },
+    {
+      "id": "e4fb31897d3c",
+      "titlu": "Partick Thistle învinge Livingston în Championship-ul Scoțian",
+      "rezumat": "Partick Thistle a obținut o victorie importantă împotriva echipei Livingston în Scottish Championship. Un gol marcat devreme de Robbie Crawford, printr-o execuție cu călcâiul, și un autogol al lui Cammy MacPherson au asigurat succesul pentru Partick Thistle. Această confruntare a adus față în față două dintre echipele considerate favorite la promovare, iar rezultatul influențează startul de sezon pentru ambele formații.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-08T08:38:51.871399+00:00",
+      "data_afisaj": "8 august 2026, 11:38"
+    },
     {
       "id": "1393242d5b1a",
       "titlu": "Gianni Infantino neagă acuzațiile că UEFA ar fi plătit o presupusă amantă",
