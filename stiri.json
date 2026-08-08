@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-08T08:38:51.871417+00:00",
-  "updated_at_afisaj": "8 august 2026, 11:38",
+  "updated_at": "2026-08-08T16:37:20.865844+00:00",
+  "updated_at_afisaj": "8 august 2026, 19:37",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,53 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 97,
+  "numar_stiri": 94,
   "stiri": [
+    {
+      "id": "f55fdfcebed7",
+      "titlu": "Jorge Messi, tatăl și agentul lui Lionel Messi, a decedat la 68 de ani",
+      "rezumat": "Jorge Messi, tatăl și agentul celebrului fotbalist Lionel Messi, a încetat din viață la vârsta de 68 de ani, după o lungă suferință. Anunțul a fost făcut de familie, iar vestea a fost preluată rapid de presa internațională. Jorge Messi a fost o figură importantă în cariera fiului său, gestionând aspectele contractuale și de reprezentare pe parcursul întregii sale cariere. Comunitatea fotbalistică și-a exprimat condoleanțele.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-08T16:37:20.862046+00:00",
+      "data_afisaj": "8 august 2026, 19:37"
+    },
+    {
+      "id": "4ed176ca592f",
+      "titlu": "Middlesbrough îl achiziționează pe portarul Radek Vitek de la Manchester United",
+      "rezumat": "Clubul Middlesbrough a anunțat transferul portarului Radek Vitek de la Manchester United. Suma de transfer nu a fost dezvăluită public. Vitek se alătură echipei Middlesbrough pentru a consolida lotul înaintea noului sezon. Această mutare reprezintă o oportunitate pentru tânărul portar de a acumula experiență la nivel de seniori și de a contribui la obiectivele echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-08T16:37:20.863302+00:00",
+      "data_afisaj": "8 august 2026, 19:37"
+    },
+    {
+      "id": "92abaea620cc",
+      "titlu": "Chelsea învinge AC Milan cu 3-0 într-un meci amical, Joao Pedro marcând o dublă",
+      "rezumat": "Chelsea a revenit în formă după două înfrângeri consecutive în pre-sezon, obținând o victorie convingătoare cu 3-0 împotriva echipei AC Milan, într-un meci amical disputat la Jakarta. Joao Pedro a fost eroul serii, reușind să marcheze două goluri. Această performanță este considerată cea mai bună a echipei sub conducerea antrenorului Xabi Alonso până în prezent, oferind un impuls de încredere înainte de începerea sezonului oficial.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-08T16:37:20.864635+00:00",
+      "data_afisaj": "8 august 2026, 19:37"
+    },
+    {
+      "id": "dd1d25577ebc",
+      "titlu": "Federația Scoțiană de Fotbal este aproape de a numi un nou selecționer",
+      "rezumat": "Federația Scoțiană de Fotbal (SFA) se apropie de numirea unui nou antrenor principal care să-l succeadă pe Steve Clarke. Decizia vine în contextul eforturilor de a revitaliza echipa națională și de a stabili o direcție clară pentru viitorul fotbalului scoțian. Detaliile privind candidatul și data anunțului oficial nu au fost încă făcute publice, dar se așteaptă o decizie în curând pentru a pregăti echipa pentru următoarele provocări.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-08T16:37:20.865826+00:00",
+      "data_afisaj": "8 august 2026, 19:37"
+    },
     {
       "id": "bd533ab27949",
       "titlu": "Matthias Jaissle preia conducerea tehnică la Newcastle United",
@@ -1050,84 +1095,6 @@
       ],
       "data_publicare": "2026-08-01T17:03:41.965093+00:00",
       "data_afisaj": "1 august 2026, 20:03"
-    },
-    {
-      "id": "c00d4904f051",
-      "titlu": "UEFA și-a pierdut încrederea în conducerea FIFA",
-      "rezumat": "Uniunea Asociațiilor Europene de Fotbal (UEFA) a declarat că și-a pierdut încrederea în actuala conducere a FIFA, condusă de Gianni Infantino. Această declarație vine pe fondul intensificării tensiunilor și a consecințelor generate de abandonarea planului controversat al FIFA de a vinde participații la competițiile sale. Poziția UEFA subliniază o ruptură semnificativă între cele două organisme majore ale fotbalului mondial, indicând o criză de leadership la nivel global.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-01T09:57:56.749116+00:00",
-      "data_afisaj": "1 august 2026, 12:57"
-    },
-    {
-      "id": "465680b41f2b",
-      "titlu": "Matthias Jaissle demisionează de la Al-Ahli pe fondul unei dispute contractuale",
-      "rezumat": "Antrenorul principal al echipei Al-Ahli, Matthias Jaissle, a demisionat din funcție din cauza unei dispute contractuale. Această mișcare vine în contextul în care Jaissle este considerat principalul candidat pentru postul de antrenor al echipei Newcastle United, după plecarea lui Eddie Howe. Demisia sa de la clubul saudit confirmă disponibilitatea tehnicianului german de a prelua o nouă provocare în Premier League, deschizând calea pentru negocierile finale cu Newcastle.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-08-01T09:57:56.750743+00:00",
-      "data_afisaj": "1 august 2026, 12:57"
-    },
-    {
-      "id": "03cd4ef5f86a",
-      "titlu": "Viitorul Cupei Mondiale Feminine 2027, incert pe fondul conflictelor interne din FIFA",
-      "rezumat": "Planurile de a atrage investitori privați în Cupa Mondială au stârnit furie și amenințări cu boicotul, punând sub semnul întrebării viitorul Cupei Mondiale Feminine din 2027. Pe fondul unei \"război civil\" intern în FIFA, incertitudinea planează asupra organizării și finanțării viitoarelor competiții majore. Această situație ar putea avea repercusiuni semnificative asupra dezvoltării fotbalului feminin și a evenimentelor internaționale planificate de FIFA.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-08-01T09:57:56.752294+00:00",
-      "data_afisaj": "1 august 2026, 12:57"
-    },
-    {
-      "id": "22b1a479decb",
-      "titlu": "Ronaldinho, legenda braziliană, va juca în Serie C la vârsta de 46 de ani",
-      "rezumat": "Legendarul fotbalist brazilian Ronaldinho a luat decizia surprinzătoare de a juca în Serie C, a treia ligă a Italiei, la vârsta de 46 de ani, pentru clubul Ravenna. Această mutare a stârnit reacții împărțite printre fani și analiști, unii considerând-o o strategie de marketing, în timp ce alții o văd ca un transfer extraordinar. Omul care a aranjat afacerea are mari speranțe că prezența lui Ronaldinho va aduce beneficii semnificative clubului și ligii, atrăgând atenția asupra competiției.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-01T09:07:49.238065+00:00",
-      "data_afisaj": "1 august 2026, 12:07"
-    },
-    {
-      "id": "c0443b9d2dc1",
-      "titlu": "Inter Milano reia negocierile pentru transferul lui Curtis Jones de la Liverpool, cu o ofertă de 30 de milioane de lire sterline",
-      "rezumat": "Campioana Italiei, Inter Milano, a făcut o nouă abordare către Liverpool pentru mijlocașul Curtis Jones, fiind dispusă să-și mărească oferta la 35 de milioane de euro (aproximativ 30 de milioane de lire sterline). Liverpool a respins o ofertă anterioară de 25 de milioane de euro în iunie, evaluându-l pe jucătorul format la club la aproximativ 40 de milioane de euro. Jones mai are doar un an de contract pe Anfield, ceea ce ar putea influența decizia clubului englez în privința vânzării sale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-01T09:07:49.239317+00:00",
-      "data_afisaj": "1 august 2026, 12:07"
-    },
-    {
-      "id": "381d85bf42be",
-      "titlu": "Bruno Guimarães, ținta lui Arsenal, absent de la zborul lui Newcastle pentru cantonamentul de pre-sezon",
-      "rezumat": "Mijlocașul Bruno Guimarães nu s-a aflat la bordul zborului echipei Newcastle United către Murcia, Spania, pentru cantonamentul de pre-sezon. Această absență alimentează speculațiile privind un posibil transfer la Arsenal, club care este interesat de serviciile sale. Deși ar putea ajunge la La Manga duminică, lipsa sa de la zborul inițial este un indiciu puternic al unor discuții avansate privind plecarea sa de la clubul din Premier League, în contextul în care Eddie Howe a demisionat.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-01T09:07:49.240485+00:00",
-      "data_afisaj": "1 august 2026, 12:07"
-    },
-    {
-      "id": "3abb744b1cf2",
-      "titlu": "Era Derek McInnes la Rangers a început cu o remiză în Premiership-ul Scoției",
-      "rezumat": "Mandatul lui Derek McInnes ca antrenor al echipei Rangers a debutat cu o remiză 1-1 împotriva lui Dundee United, în prima etapă a Premiership-ului Scoției. Thelo Aasgaard a marcat golul egalizator pentru Rangers, după ce Lachlan Rose deschisese scorul pentru Dundee United, oferind gazdelor un avantaj la pauză. McInnes a declarat că echipa va progresa, însă startul este considerat modest de către unii observatori, având în vedere așteptările de la Rangers.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-01T09:07:49.241525+00:00",
-      "data_afisaj": "1 august 2026, 12:07"
     }
   ]
 }
