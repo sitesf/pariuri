@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-09T08:40:47.517295+00:00",
-  "updated_at_afisaj": "9 august 2026, 11:40",
+  "updated_at": "2026-08-09T16:39:05.890024+00:00",
+  "updated_at_afisaj": "9 august 2026, 19:39",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,63 @@
   },
   "numar_stiri": 98,
   "stiri": [
+    {
+      "id": "d0911c4cf988",
+      "titlu": "Kasper Hogh Marchează un Hat-trick în Victoria Convingătoare a lui Celtic Împotriva lui Kilmarnock",
+      "rezumat": "Atacantul Kasper Hogh, cea mai scumpă achiziție a lui Celtic, a impresionat marcând un hat-trick în prima repriză a meciului împotriva lui Kilmarnock. Performanța sa a contribuit decisiv la victoria categorică a echipei sale pe noul teren de la Rugby Park, aducând liniște criticilor săi timpurii și demonstrând potențialul său ofensiv. Celtic a dominat partida, obținând o victorie importantă în campionatul scoțian.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-09T16:39:05.884900+00:00",
+      "data_afisaj": "9 august 2026, 19:39"
+    },
+    {
+      "id": "355485366a4c",
+      "titlu": "FIFA Condamnă Eforturile de Subminare a Organizației și a Președintelui Gianni Infantino",
+      "rezumat": "FIFA a emis o declarație fermă prin care critică vehement ceea ce numește un „efort concertat și continuu” de a submina organizația și pe președintele său, Gianni Infantino. Declarația vine în contextul tensiunilor crescânde și a apelurilor din partea unor federații naționale pentru demisia lui Infantino, semnalând o escaladare a conflictului intern din fotbalul mondial și o apărare puternică a conducerii actuale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-09T16:39:05.886198+00:00",
+      "data_afisaj": "9 august 2026, 19:39"
+    },
+    {
+      "id": "ecb8374cc3cf",
+      "titlu": "Fulham Ajunge la un Acord pentru Transferul Mijlocașului Shea Charles de la Southampton",
+      "rezumat": "Clubul Fulham a ajuns la un acord cu Southampton pentru transferul mijlocașului Shea Charles, într-o afacere evaluată la aproximativ 30 de milioane de lire sterline. Mutarea este condiționată de efectuarea cu succes a vizitei medicale. Charles ar urma să se alăture echipei Fulham, consolidând astfel lotul pentru sezonul viitor al Premier League și reprezentând o achiziție importantă pentru ambițiile clubului londonez.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-09T16:39:05.887490+00:00",
+      "data_afisaj": "9 august 2026, 19:39"
+    },
+    {
+      "id": "6ddbd25188e6",
+      "titlu": "Borussia Dortmund Câștigă Cupa Emirates După o Victorie Împotriva lui Arsenal",
+      "rezumat": "Arsenal a înregistrat o înfrângere cu scorul de 3-2 în fața Borussiei Dortmund în finala Cupei Emirates, disputată la Londra. Echipa lui Mikel Arteta a arătat deficiențe în apărare, primind goluri considerate „slabe” în timpul meciului de pregătire. Borussia Dortmund a profitat de aceste erori pentru a se impune și a ridica trofeul competiției amicale, ridicând semne de întrebare despre forma defensivă a \"tunarilor\".",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-09T16:39:05.888727+00:00",
+      "data_afisaj": "9 august 2026, 19:39"
+    },
+    {
+      "id": "5ba19f4ca524",
+      "titlu": "Liverpool Pierde un Amical pe Anfield, După ce a Concedat un Avantaj de Două Goluri",
+      "rezumat": "Liverpool a suferit o înfrângere cu 3-2 într-un meci amical disputat pe Anfield împotriva lui Monaco, după ce a condus cu 2-0. Echipa lui Andoni Iraola, aflat la primul său meci pe banca tehnică a lui Liverpool pe teren propriu, a cedat avantajul, permițând adversarilor să revină și să câștige partida de pregătire. Aceasta este o nouă situație în care Liverpool pierde un avantaj consistent în pre-sezon, stârnind îngrijorări.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-09T16:39:05.890006+00:00",
+      "data_afisaj": "9 august 2026, 19:39"
+    },
     {
       "id": "a5af318dc7d7",
       "titlu": "Alexia Putellas, Transferul Record în WSL, Se Alătură Echipei London City Lionesses",
@@ -1077,65 +1134,6 @@
       ],
       "data_publicare": "2026-08-02T17:03:24.532574+00:00",
       "data_afisaj": "2 august 2026, 20:03"
-    },
-    {
-      "id": "101194071b89",
-      "titlu": "Brentford realizează un transfer record prin aducerea lui Mamadou Sangare",
-      "rezumat": "Clubul Brentford a confirmat achiziționarea mijlocașului malian Mamadou Sangare de la Lens, pentru o sumă record în istoria clubului. Transferul, evaluat la aproximativ 39 de milioane de lire sterline, reprezintă o investiție semnificativă pentru \"albine\" în vederea consolidării lotului. Sangare, cunoscut pentru abilitățile sale defensive și capacitatea de a dicta ritmul jocului la mijlocul terenului, este așteptat să devină o piesă cheie în strategia echipei pentru sezonul viitor, contribuind la ambițiile clubului în Premier League.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-02T09:55:36.413256+00:00",
-      "data_afisaj": "2 august 2026, 12:55"
-    },
-    {
-      "id": "fc5d87cef921",
-      "titlu": "Gianni Infantino ar putea fi contestat la conducerea FIFA de membrii consiliului",
-      "rezumat": "Președintele FIFA, Gianni Infantino, se confruntă cu o revoltă din partea membrilor consiliului, care încearcă să forțeze o reuniune generală extraordinară (RGE). Această inițiativă ar putea escalada într-o contestare directă a conducerii sale. Demersurile pentru convocarea unei RGE erau deja în curs înainte de apariția planului eșuat al lui Infantino de a vinde acțiuni la Cupa Mondială. Membrii consiliului cer o revizuire independentă a deciziilor recente și o evaluare a modului în care este condusă organizația, pe fondul unei crize de încredere.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-02T09:55:36.415270+00:00",
-      "data_afisaj": "2 august 2026, 12:55"
-    },
-    {
-      "id": "aa80fc0604b3",
-      "titlu": "Prim-ministrul Marii Britanii, Andy Burnham, critică vehement planurile FIFA și pe Gianni Infantino",
-      "rezumat": "Andy Burnham, Prim-ministrul Marii Britanii, a intervenit public în disputa legată de conducerea FIFA, exprimându-și vehement dezaprobarea față de planurile controversate ale organizației și față de președintele Gianni Infantino. Burnham a calificat inițiativele FIFA drept \"scandaloase\" și a declarat că Infantino este \"omul nepotrivit pentru a conduce organizația\". Această declarație subliniază tensiunile crescânde și opoziția la nivel înalt față de direcția actuală a fotbalului mondial, adăugând o nouă dimensiune politică conflictului intern din cadrul FIFA și intensificând presiunea asupra liderului său.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-08-02T09:55:36.417069+00:00",
-      "data_afisaj": "2 august 2026, 12:55"
-    },
-    {
-      "id": "3903c6cf5802",
-      "titlu": "Aberdeen învinge Hearts cu două goluri în prelungiri în Premiership-ul Scoției",
-      "rezumat": "Echipa Aberdeen a reușit o victorie dramatică, scor 2-1, împotriva formației Hearts, în meciul de deschidere al noului sezon din Premiership-ul Scoției. Hearts conducea cu 1-0 printr-un gol marcat de Oisin McEntee în prima repriză, însă Aberdeen a revenit spectaculos, marcând două goluri în prelungiri prin Lewis Mayo și Kevin Nisbet. Această victorie spectaculoasă oferă un start pozitiv pentru Aberdeen și o continuare a perioadei dificile pentru Hearts, care a avut o vară turbulentă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-02T09:10:43.103858+00:00",
-      "data_afisaj": "2 august 2026, 12:10"
-    },
-    {
-      "id": "92db6948476a",
-      "titlu": "St Mirren începe sezonul cu o victorie în deplasare împotriva lui Falkirk",
-      "rezumat": "St Mirren a obținut o victorie convingătoare, scor 2-0, în deplasare împotriva lui Falkirk, în prima etapă a Premiership-ului Scoției. Killian Phillips a fost eroul meciului, marcând ambele goluri ale echipei sale, asigurând cele trei puncte. Această performanță solidă oferă un start excelent pentru St Mirren în noul sezon, demonstrând potențialul echipei de a se lupta pentru o poziție bună în clasament și de a-și construi încrederea de la începutul campionatului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-02T09:10:43.106919+00:00",
-      "data_afisaj": "2 august 2026, 12:10"
     }
   ]
 }
