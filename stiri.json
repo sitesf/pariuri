@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-09T16:39:05.890024+00:00",
-  "updated_at_afisaj": "9 august 2026, 19:39",
+  "updated_at": "2026-08-09T17:23:45.946983+00:00",
+  "updated_at_afisaj": "9 august 2026, 20:23",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 98,
+  "numar_stiri": 100,
   "stiri": [
+    {
+      "id": "3ddcf7573af6",
+      "titlu": "Lucas Digne Se Transferă la PSG de la Aston Villa",
+      "rezumat": "Fundașul internațional francez Lucas Digne a finalizat mutarea sa de la Aston Villa la campioana europeană Paris Saint-Germain. Acest transfer important marchează o nouă etapă în cariera jucătorului, care se alătură unei echipe de top din Europa. Digne este așteptat să aducă experiență și calitate pe flancul stâng al apărării pariziene, consolidând lotul pentru viitoarele provocări interne și europene. Mutarea subliniază ambițiile PSG de a-și întări echipa cu jucători de calibru.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-09T17:23:45.943643+00:00",
+      "data_afisaj": "9 august 2026, 20:23"
+    },
+    {
+      "id": "82dcc4603bd1",
+      "titlu": "Hibernian Învinge Rangers pe Ibrox, Derek McInnes Rămâne Fără Victorie",
+      "rezumat": "Hibernian a obținut o victorie dramatică, scor 2-1, împotriva lui Rangers pe Ibrox, grație unui gol marcat în prelungiri. Acest rezultat prelungeste seria fără victorie a antrenorului lui Rangers, Derek McInnes, care încă își caută prima victorie de la preluarea echipei. Meciul a fost unul intens, cu ambele formații luptând pentru puncte în campionatul scoțian. Victoria oferă un moral ridicat pentru Hibernian în debutul sezonului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-09T17:23:45.944498+00:00",
+      "data_afisaj": "9 august 2026, 20:23"
+    },
+    {
+      "id": "2f87fc246139",
+      "titlu": "Hearts Obține Prima Victorie Sub Conducerea Lui Wouter Vrancken",
+      "rezumat": "Echipa Hearts a înregistrat o victorie convingătoare, scor 4-0, împotriva lui Dundee United, marcând prima victorie a antrenorului Wouter Vrancken de la preluarea băncii tehnice. Trei dintre noile achiziții ale clubului din această vară au marcat, contribuind decisiv la succesul echipei. Acest rezultat oferă un impuls de moral și încredere pentru Hearts în debutul noului sezon, demonstrând potențialul noilor veniți sub îndrumarea noului manager.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-09T17:23:45.945295+00:00",
+      "data_afisaj": "9 august 2026, 20:23"
+    },
+    {
+      "id": "4a879aba782c",
+      "titlu": "Everton și Crystal Palace Discută un Schimb de Jucători Între McNeil și Johnson",
+      "rezumat": "Cluburile Everton și Crystal Palace se află în negocieri avansate pentru un potențial schimb de jucători. Conform discuțiilor, aripa lui Everton, Dwight McNeil, ar urma să se alăture echipei Crystal Palace, în timp ce internaționalul galez Brennan Johnson ar face mutarea în direcția opusă, la Everton. Acest posibil transfer ar putea aduce schimbări semnificative în loturile ambelor echipe înainte de startul sezonului, reconfigurând opțiunile ofensive pentru ambii antrenori.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-09T17:23:45.946120+00:00",
+      "data_afisaj": "9 august 2026, 20:23"
+    },
+    {
+      "id": "8748ba226964",
+      "titlu": "Rangers Refuză Ofertă pentru Atacantul Youssef Chermiti, Jucătorul Este Accidentat",
+      "rezumat": "Clubul Rangers a respins o ofertă pentru atacantul Youssef Chermiti, managerul Derek McInnes confirmând că propunerea nu a îndeplinit evaluarea clubului din Premiership-ul scoțian. Pe lângă această veste de pe piața transferurilor, s-a confirmat și faptul că jucătorul este accidentat, adăugând o provocare suplimentară pentru echipa scoțiană în perioada următoare. Situația lui Chermiti va fi monitorizată, având în vedere atât interesul altor cluburi, cât și recuperarea sa medicală.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-09T17:23:45.946968+00:00",
+      "data_afisaj": "9 august 2026, 20:23"
+    },
     {
       "id": "d0911c4cf988",
       "titlu": "Kasper Hogh Marchează un Hat-trick în Victoria Convingătoare a lui Celtic Împotriva lui Kilmarnock",
@@ -1101,39 +1156,6 @@
       ],
       "data_publicare": "2026-08-02T17:55:42.262758+00:00",
       "data_afisaj": "2 august 2026, 20:55"
-    },
-    {
-      "id": "dc574f16fb73",
-      "titlu": "Alonso vindecă rănile de la Real Madrid pentru a conduce revoluția seniorilor de la Chelsea",
-      "rezumat": "Xabi Alonso vorbește despre depășirea plecării sale de la Real Madrid, despre intuiția sa de a se alătura lui Chelsea și despre motivul pentru care vede noul său club ca pe o oportunitate incitantă. Antrenorul spaniol își propune să aducă o nouă viziune și să consolideze echipa londoneză, concentrându-se pe experiența jucătorilor seniori pentru a construi un proiect de succes pe termen lung. Această mișcare marchează o nouă etapă în cariera sa managerială, cu ambiții clare de a readuce Chelsea în topul fotbalului european.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-02T17:03:24.528110+00:00",
-      "data_afisaj": "2 august 2026, 20:03"
-    },
-    {
-      "id": "f5a8742abf79",
-      "titlu": "Gvardiol: Noul antrenor Maresca este perfect pentru Manchester City",
-      "rezumat": "Fundașul Josko Gvardiol a declarat că noul antrenor al echipei Manchester City, Enzo Maresca, este \"perfect\" pentru club. Declarația vine după ce Maresca a preluat recent conducerea tehnică. Gvardiol a subliniat că viziunea și metodele de antrenament ale lui Maresca se potrivesc ideal cu stilul de joc al echipei, inspirând încredere și optimism în rândul jucătorilor pentru sezonul care urmează. Această susținere publică din partea unui jucător cheie indică o integrare rapidă a noului staff tehnic.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-02T17:03:24.529799+00:00",
-      "data_afisaj": "2 august 2026, 20:03"
-    },
-    {
-      "id": "b65b3cc512f1",
-      "titlu": "St Johnstone învinge Kilmarnock într-un meci spectaculos cu șapte goluri",
-      "rezumat": "St Johnstone a reușit o victorie dramatică împotriva lui Kilmarnock, într-un meci cu șapte goluri, la revenirea în Premiership-ul Scoției. Echipa gazdă a condus de două ori, a fost egalată, dar a revenit spectaculos pentru a câștiga partida cu 4-3. Această victorie la limită, obținută pe teren propriu, marchează un început promițător de sezon pentru St Johnstone, demonstrând rezistență și capacitate ofensivă într-un duel plin de răsturnări de situație, oferind fanilor un spectacol memorabil.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-02T17:03:24.532574+00:00",
-      "data_afisaj": "2 august 2026, 20:03"
     }
   ]
 }
