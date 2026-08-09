@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-08T17:22:38.042750+00:00",
-  "updated_at_afisaj": "8 august 2026, 20:22",
+  "updated_at": "2026-08-09T07:55:03.402324+00:00",
+  "updated_at_afisaj": "9 august 2026, 10:55",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,44 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 94,
+  "numar_stiri": 95,
   "stiri": [
+    {
+      "id": "4c4ea5ae80e0",
+      "titlu": "Arsenal îl transferă pe Bruno Guimarães de la Newcastle într-o afacere de 75 de milioane de lire sterline",
+      "rezumat": "Campioana Premier League, Arsenal, a finalizat transferul mijlocașului brazilian Bruno Guimarães de la Newcastle United pentru suma de 75 de milioane de lire sterline. Această mutare reprezintă o achiziție semnificativă pentru \"Tunari\", aducând un jucător versatil, capabil să joace atât într-un rol mai defensiv, cât și să contribuie la faza de creație. Transferul este considerat unul dintre cele mai costisitoare pentru un mijlocaș de 28 de ani, subliniind valoarea pe care Arsenal o acordă calităților sale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-08-09T07:55:03.399372+00:00",
+      "data_afisaj": "9 august 2026, 10:55"
+    },
+    {
+      "id": "1fe915c7bebc",
+      "titlu": "Barcelona intensifică eforturile pentru Rodri cu o a doua ofertă; Cristian Romero dorește să se alăture lui Arsenal",
+      "rezumat": "FC Barcelona și-a intensificat eforturile pentru a-l achiziționa pe mijlocașul Rodri de la Manchester City, înaintând o a doua ofertă pentru jucătorul spaniol. Această mișcare vine după ce discuțiile anterioare cu Real Madrid pentru același jucător au stagnat. Între timp, fundașul Cristian Romero de la Tottenham Hotspur și-a exprimat dorința de a se alătura echipei Arsenal, o veste care ar putea stârni controverse având în vedere rivalitatea dintre cele două cluburi londoneze.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-09T07:55:03.400856+00:00",
+      "data_afisaj": "9 august 2026, 10:55"
+    },
+    {
+      "id": "06a620673993",
+      "titlu": "Trent Alexander-Arnold se pregătește pentru un sezon decisiv la Real Madrid sub Jose Mourinho",
+      "rezumat": "Trent Alexander-Arnold se confruntă cu un al doilea sezon crucial la Real Madrid, având ca obiectiv să-și demonstreze pe deplin valoarea sub conducerea noului antrenor, Jose Mourinho. După un prim sezon de adaptare, așteptările sunt mari pentru fundașul englez, care va trebui să se impună ca o figură cheie în planurile tactice ale \"Specialului\". Această perioadă va fi definitorie pentru viitorul său la clubul spaniol și pentru rolul său în echipa plină de vedete.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-09T07:55:03.402306+00:00",
+      "data_afisaj": "9 august 2026, 10:55"
+    },
     {
       "id": "b6cf3e4ab954",
       "titlu": "A murit Phil Parkes, legendarul portar al lui Wolverhampton Wanderers",
@@ -1066,30 +1102,6 @@
       ],
       "data_publicare": "2026-08-02T09:10:43.106919+00:00",
       "data_afisaj": "2 august 2026, 12:10"
-    },
-    {
-      "id": "abe033a2ff20",
-      "titlu": "Manchester City, învinsă la penalty-uri de Inter Milano în primul meci al lui Maresca",
-      "rezumat": "Enzo Maresca a înregistrat prima înfrângere ca antrenor al lui Manchester City, echipa sa fiind învinsă la penalty-uri de Inter Milano, după o remiză 1-1 într-un meci amical disputat la Hong Kong. Partida a marcat debutul oficial al lui Maresca pe banca tehnică a \"cetățenilor\" și a oferit o primă ocazie de evaluare a strategiei sale în fața unei echipe puternice din Serie A. Rezultatul, deși într-un meci de pregătire, subliniază necesitatea adaptării la noul stil de joc.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-01T17:55:24.001330+00:00",
-      "data_afisaj": "1 august 2026, 20:55"
-    },
-    {
-      "id": "c16d8e2ec6b7",
-      "titlu": "Universitatea Craiova înfruntă Petrolul în Superligă, după trei meciuri fără victorie",
-      "rezumat": "Universitatea Craiova se pregătește să joace împotriva Petrolului Ploiești în etapa a 3-a a Superligii României, meci programat să înceapă la ora 21:30. Echipa din Craiova, deținătoarea titlului de campioană, se află sub presiune, venind după o serie de trei partide consecutive fără victorie în campionat. Această confruntare este crucială pentru moralul și poziția în clasament a \"alb-albaștrilor\", care speră să își revină și să obțină un rezultat pozitiv pe teren propriu.",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-08-01T17:55:24.002632+00:00",
-      "data_afisaj": "1 august 2026, 20:55"
     }
   ]
 }
