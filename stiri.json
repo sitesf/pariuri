@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-09T07:55:03.402324+00:00",
-  "updated_at_afisaj": "9 august 2026, 10:55",
+  "updated_at": "2026-08-09T08:40:47.517295+00:00",
+  "updated_at_afisaj": "9 august 2026, 11:40",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,42 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 95,
+  "numar_stiri": 98,
   "stiri": [
+    {
+      "id": "a5af318dc7d7",
+      "titlu": "Alexia Putellas, Transferul Record în WSL, Se Alătură Echipei London City Lionesses",
+      "rezumat": "Alexia Putellas, una dintre cele mai mari superstaruri ale fotbalului feminin, a realizat cel mai important transfer din istoria Women's Super League (WSL), alăturându-se echipei London City Lionesses. Jucătoarea spaniolă, dublă câștigătoare a Balonului de Aur, a vorbit despre ambițiile sale de a câștiga și de a lupta alături de noile sale coechipiere în Anglia. Sosirea sa este așteptată să aducă o creștere semnificativă a profilului și competitivității campionatului englez de fotbal feminin.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-09T08:40:47.514467+00:00",
+      "data_afisaj": "9 august 2026, 11:40"
+    },
+    {
+      "id": "1bb39fadd75b",
+      "titlu": "Youri Tielemans Impresionează la Debutul pentru Manchester United Într-un Amical cu PSG",
+      "rezumat": "Mijlocașul Youri Tielemans, transferat la Manchester United pentru 35 de milioane de lire sterline, a avut o prestație promițătoare la debutul său pentru club. Acesta a intrat pe teren în remiza 1-1 împotriva lui Paris Saint-Germain, într-un meci amical disputat la Gothenburg. Deși rezultatul a fost egal, apariția lui Tielemans a oferit semne încurajatoare pentru viitorul său la echipa engleză, sugerând că ar putea deveni o figură cheie în planurile antrenorului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-09T08:40:47.515886+00:00",
+      "data_afisaj": "9 august 2026, 11:40"
+    },
+    {
+      "id": "117fb0de49f9",
+      "titlu": "Mohamed Salah Se Transferă la Trabzonspor, Surprinzând Rivalii Turci",
+      "rezumat": "Fostul atacant al lui Liverpool, Mohamed Salah, a semnat cu echipa turcă Trabzonspor, o mutare care a surprins mulți rivali din Istanbul. Președintele clubului, Ertugrul Dogan, a inițiat discuțiile pentru transferul lui Salah în timpul Cupei Mondiale, iar eforturile sale au fost încununate de succes. Această achiziție reprezintă o lovitură majoră pentru Trabzonspor, aducând un nume de calibru mondial în Superliga Turcă și schimbând dinamica pieței de transferuri din regiune.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-09T08:40:47.517276+00:00",
+      "data_afisaj": "9 august 2026, 11:40"
+    },
     {
       "id": "4c4ea5ae80e0",
       "titlu": "Arsenal îl transferă pe Bruno Guimarães de la Newcastle într-o afacere de 75 de milioane de lire sterline",
