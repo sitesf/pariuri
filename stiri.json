@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-09T17:23:45.946983+00:00",
-  "updated_at_afisaj": "9 august 2026, 20:23",
+  "updated_at": "2026-08-10T08:40:34.424183+00:00",
+  "updated_at_afisaj": "10 august 2026, 11:40",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,40 @@
   },
   "numar_stiri": 100,
   "stiri": [
+    {
+      "id": "3dd3f0097c26",
+      "titlu": "José Mourinho a Dezvăluit că a Semnat un Contract pentru a-l Succeda pe Alex Ferguson la Manchester United în 2013",
+      "rezumat": "Într-un nou documentar, José Mourinho a făcut public faptul că a semnat un contract pentru a prelua funcția de antrenor al echipei Manchester United în 2013, după retragerea lui Sir Alex Ferguson. Cu toate acestea, Mourinho a declarat că a renunțat ulterior la această înțelegere, într-un moment emoționant, pentru a reveni la Chelsea. Această dezvăluire oferă o perspectivă nouă asupra evenimentelor care au dus la numirea lui David Moyes la Old Trafford în acel an, indicând o posibilă schimbare majoră în istoria recentă a clubului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-10T08:40:34.420099+00:00",
+      "data_afisaj": "10 august 2026, 11:40"
+    },
+    {
+      "id": "4dcc9ab6e445",
+      "titlu": "Președintele La Liga, Javier Tebas, Declară că „Era Infantino s-a Încheiat” la FIFA",
+      "rezumat": "Javier Tebas, președintele La Liga și un critic vocal al regimului actual al FIFA, a declarat că poziția lui Gianni Infantino ca președinte al FIFA este de nesusținut. Tebas a afirmat că Infantino „distruge însăși esența fotbalului” și a cerut o reformă autentică la cele mai înalte niveluri ale jocului. Declarațiile sale subliniază tensiunile continue dintre ligile europene majore și conducerea FIFA, sugerând o criză de leadership în fotbalul mondial.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-10T08:40:34.422729+00:00",
+      "data_afisaj": "10 august 2026, 11:40"
+    },
+    {
+      "id": "a2e4fdd70879",
+      "titlu": "Chelsea Încheie Turneul de Pre-sezon cu o Remiză Spectaculoasă Împotriva Campioanei Malaeziei",
+      "rezumat": "Chelsea a încheiat turneul său de pre-sezon cu o remiză tensionată, scor 3-3, împotriva echipei Johor Darul Ta’zim, campioana Malaeziei. Cole Delap a marcat de două ori din penalty pentru echipa lui Xabi Alonso, care a efectuat 11 schimbări în timpul meciului. Această partidă a oferit antrenorului spaniol noi motive de reflecție, evidențiind problemele persistente legate de numărul mare de atacanți și de lipsa de experiență și disciplină, cu mai puțin de două săptămâni înainte de startul noului sezon.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-10T08:40:34.424164+00:00",
+      "data_afisaj": "10 august 2026, 11:40"
+    },
     {
       "id": "3ddcf7573af6",
       "titlu": "Lucas Digne Se Transferă la PSG de la Aston Villa",
@@ -1122,40 +1156,6 @@
       ],
       "data_publicare": "2026-08-03T10:44:45.674114+00:00",
       "data_afisaj": "3 august 2026, 13:44"
-    },
-    {
-      "id": "f731777bc87c",
-      "titlu": "Rapid și CFR Cluj se duelează în etapa a 3-a din Superligă",
-      "rezumat": "Rapid București și CFR Cluj se pregătesc pentru confruntarea directă din etapa a treia a Superligii României, programată să înceapă la ora 21:30. Meciul este de interes, având în vedere că antrenorul Rapidului, Daniel Pancu, se va întâlni cu fosta sa echipă, pe care a condus-o pe locul trei în sezonul precedent. Se așteaptă un duel tactic intens, cu ambele formații căutând să obțină puncte importante în debutul campionatului. Echipele de start vor fi anunțate înaintea partidei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-08-02T17:55:42.257995+00:00",
-      "data_afisaj": "2 august 2026, 20:55"
-    },
-    {
-      "id": "716470db1eaa",
-      "titlu": "Antrenorul Liverpool, Iraola, se grăbește să acopere lacunele din lot înainte de startul Premier League",
-      "rezumat": "Noul antrenor al lui Liverpool, Andoni Iraola, se confruntă cu presiunea de a consolida lotul prin transferuri, în special în zona defensivă, înainte de începerea noului sezon din Premier League. Echipa a fost afectată de accidentări în timpul turneului de pre-sezon din SUA, evidențiind necesitatea urgentă de noi achiziții. Iraola subliniază importanța vitezei în piața transferurilor pentru a asigura o pregătire optimă și a remedia deficiențele existente, vizând un start puternic în campionat.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-02T17:55:42.261216+00:00",
-      "data_afisaj": "2 august 2026, 20:55"
-    },
-    {
-      "id": "3e82c8b7c7df",
-      "titlu": "Robert Lewandowski marchează o dublă la debutul acasă pentru Chicago Fire în MLS",
-      "rezumat": "Atacantul polonez Robert Lewandowski a avut un debut spectaculos pe teren propriu pentru Chicago Fire, marcând două goluri în victoria cu 2-1 împotriva echipei Charlotte FC în Major League Soccer. Această performanță a marcat prima victorie a clubului din Chicago de la pauza internațională și a demonstrat impactul imediat al lui Lewandowski, semnat ca jucător liber de contract la sfârșitul lunii iunie. Golurile sale au ajutat echipa să reducă diferența față de liderii Conferinței de Est, consolidându-și poziția.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-02T17:55:42.262758+00:00",
-      "data_afisaj": "2 august 2026, 20:55"
     }
   ]
 }
