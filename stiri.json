@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-10T09:18:40.655892+00:00",
-  "updated_at_afisaj": "10 august 2026, 12:18",
+  "updated_at": "2026-08-10T16:56:25.266500+00:00",
+  "updated_at_afisaj": "10 august 2026, 19:56",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,65 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 105,
+  "numar_stiri": 102,
   "stiri": [
+    {
+      "id": "8bc9117b2545",
+      "titlu": "Consorțiu Inclusiv Jeff Bezos Avancează Negocierile pentru o Parte din Liverpool",
+      "rezumat": "Un consorțiu care îl include pe fondatorul Amazon, Jeff Bezos, se află în discuții avansate pentru achiziționarea unei participații de aproximativ 30% la clubul de fotbal Liverpool. BBC Sport și Sky News au raportat că grupul este aproape de a finaliza un acord pentru o cotă semnificativă din clubul englez. Această potențială investiție ar putea aduce o infuzie financiară importantă și ar marca o nouă etapă în structura de proprietate a unuia dintre cele mai mari cluburi din Premier League.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-10T16:56:25.261151+00:00",
+      "data_afisaj": "10 august 2026, 19:56"
+    },
+    {
+      "id": "9580d2294752",
+      "titlu": "Manchester City Aproape de Transferul lui Ayyoub Bouaddi, Rodri S-ar Putea Alătura Barcelonei",
+      "rezumat": "Manchester City este pe punctul de a finaliza transferul mijlocașului Ayyoub Bouaddi de la Lille, într-o afacere evaluată la aproximativ 85 de milioane de lire sterline. Sosirea internaționalului marocan de 18 ani ar putea facilita plecarea lui Rodri la Barcelona, club care își intensifică eforturile pentru a-l achiziționa pe mijlocașul spaniol. Bouaddi a ajuns deja la un acord privind termenii personali cu City, iar cluburile lucrează la detaliile finale ale tranzacției.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-10T16:56:25.262621+00:00",
+      "data_afisaj": "10 august 2026, 19:56"
+    },
+    {
+      "id": "930be5e68c08",
+      "titlu": "Aston Villa Negociază Transferul Mijlocașului Joao Palhinha de la Bayern Munchen",
+      "rezumat": "Aston Villa se află în discuții pentru a-l aduce pe mijlocașul Joao Palhinha de la Bayern Munchen. Jucătorul portughez, care a fost o țintă pentru mai multe cluburi europene, ar putea reprezenta o achiziție importantă pentru echipa antrenată de Unai Emery, consolidând linia de mijloc. Negocierile sunt în desfășurare, iar detaliile financiare ale potențialului transfer nu au fost încă făcute publice.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-10T16:56:25.263898+00:00",
+      "data_afisaj": "10 august 2026, 19:56"
+    },
+    {
+      "id": "c71baa2114a1",
+      "titlu": "Arsenal Caută Soluții Defensive După Accidentările lui Timber și Saliba",
+      "rezumat": "Arsenal își intensifică eforturile pentru a aduce întăriri în defensivă, în contextul accidentărilor pe termen lung ale lui Jurriën Timber și William Saliba. Antrenorul Mikel Arteta a confirmat că Timber este departe de a reveni pe teren, iar Saliba va lipsi o perioadă extinsă din cauza unei leziuni la spate suferite la Cupa Mondială. Clubul londonez analizează piața transferurilor pentru a găsi jucători capabili să acopere aceste absențe cruciale înainte de startul sezonului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-10T16:56:25.265161+00:00",
+      "data_afisaj": "10 august 2026, 19:56"
+    },
+    {
+      "id": "9f55ab3488b4",
+      "titlu": "Președintele Clubului Rangers Anunță Încă 3-5 Transferuri Până la Închiderea Ferestrei",
+      "rezumat": "Președintele clubului Rangers, Andrew Cavanagh, a declarat că, în ciuda frustrării legate de începutul sezonului, se așteaptă ca echipa să realizeze între trei și cinci noi transferuri înainte de închiderea ferestrei de mercato. Această declarație vine în contextul în care clubul încearcă să-și consolideze lotul și să-și îmbunătățească performanțele. Fanii așteaptă cu interes noile achiziții care ar putea schimba dinamica echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-10T16:56:25.266483+00:00",
+      "data_afisaj": "10 august 2026, 19:56"
+    },
     {
       "id": "7bfa6e05e28d",
       "titlu": "FC Argeș Învinge Universitatea Craiova cu 1-0 și Devine Lider în Superliga",
@@ -1120,99 +1177,6 @@
       ],
       "data_publicare": "2026-08-03T17:53:45.752977+00:00",
       "data_afisaj": "3 august 2026, 20:53"
-    },
-    {
-      "id": "88b7758bbbd8",
-      "titlu": "Christos Tzolis, gata de luptă la Arsenal după revenirea în Anglia",
-      "rezumat": "Achiziția de 34 de milioane de lire sterline de la Club Brugge, Christos Tzolis, a declarat că este un jucător mai complet acum, după o perioadă mai puțin reușită la Norwich. Aflat la Arsenal, Tzolis este pregătit să demonstreze calitățile care i-au adus porecla \"Leonidas\" în testele de fitness din pre-sezon, în ciuda zvonurilor privind o posibilă venire a lui Vinicius Jr. la club. El își propune să joace un rol important în echipa campioană a Premier League.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-03T11:21:19.994224+00:00",
-      "data_afisaj": "3 august 2026, 14:21"
-    },
-    {
-      "id": "2c046224ea2c",
-      "titlu": "Lucas Herrington, aproape de un transfer la Hull City în Premier League",
-      "rezumat": "Lucas Herrington, cel mai tânăr australian care a început un meci la Cupa Mondială masculină, este pe cale să devină al doilea cel mai scump fotbalist australian din istorie. Se preconizează un transfer la nou-promovata Hull City, echipă din Premier League, pentru o sumă de aproximativ 12,6 milioane de lire sterline, cu posibilitatea de a ajunge la 4,4 milioane de lire sterline în bonusuri. Această mutare marchează un pas important în cariera fundașului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-03T11:21:19.995749+00:00",
-      "data_afisaj": "3 august 2026, 14:21"
-    },
-    {
-      "id": "ff9282673581",
-      "titlu": "Marco Rose preia conducerea la Bournemouth după plecarea lui Andoni Iraola",
-      "rezumat": "Echipa Bournemouth, care a impresionat sub îndrumarea lui Andoni Iraola, intră într-o nouă eră odată cu preluarea conducerii de către Marco Rose. Iraola a părăsit clubul, iar acum se pune întrebarea dacă Bournemouth va reuși să continue munca excelentă depusă de fostul antrenor și să construiască pe baza fundației solide lăsate de acesta. Marco Rose are sarcina de a menține echipa pe o traiectorie ascendentă în sezonul 2026-27.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-08-03T11:21:19.997228+00:00",
-      "data_afisaj": "3 august 2026, 14:21"
-    },
-    {
-      "id": "177b735f84a1",
-      "titlu": "Federația Engleză de Fotbal își va retrage sprijinul pentru președintele FIFA, Gianni Infantino",
-      "rezumat": "Asociația de Fotbal din Anglia (FA) se pregătește să-i transmită președintelui FIFA, Gianni Infantino, retragerea sprijinului său. Această decizie vine în urma controverselor legate de planurile anulate ale lui Infantino de a vinde pachete de acțiuni din competițiile FIFA către investitori privați. Retragerea sprijinului din partea unei federații majore precum FA marchează o escaladare a tensiunilor și a opoziției față de conducerea actuală a FIFA, adăugându-se criticilor deja exprimate de alte organisme și membri ai consiliului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-03T10:44:45.667883+00:00",
-      "data_afisaj": "3 august 2026, 13:44"
-    },
-    {
-      "id": "ddf001938b80",
-      "titlu": "Newcastle United îl transferă pe portarul Hornicek de la Braga pentru 25,7 milioane de lire sterline",
-      "rezumat": "Clubul englez Newcastle United a finalizat transferul portarului Lukas Hornicek de la echipa portugheză Braga. Suma de transfer se ridică la 25,7 milioane de lire sterline, marcând o investiție semnificativă pentru întărirea lotului. Această mutare subliniază intenția lui Newcastle de a-și consolida poziția în Premier League și de a concura la un nivel înalt, aducând un jucător considerat de perspectivă pentru postul de portar. Transferul a fost confirmat de mai multe surse de presă sportive.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-03T10:44:45.669567+00:00",
-      "data_afisaj": "3 august 2026, 13:44"
-    },
-    {
-      "id": "b05a120ab760",
-      "titlu": "Antrenorul Marc Skinner demisionează de la Manchester United Femei înainte de startul sezonului WSL",
-      "rezumat": "Marc Skinner a demisionat din funcția de antrenor al echipei feminine Manchester United, chiar înainte de începerea noului sezon al Women's Super League (WSL). Plecarea sa neașteptată lasă clubul într-o poziție delicată, necesitând găsirea rapidă a unui înlocuitor pentru a pregăti echipa pentru provocările campionatului. Sub conducerea lui Skinner, Manchester United Femei a înregistrat progrese, iar această schimbare de la cârma tehnică va influența strategia și performanța echipei în sezonul viitor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-03T10:44:45.671181+00:00",
-      "data_afisaj": "3 august 2026, 13:44"
-    },
-    {
-      "id": "cb9a37dd17cc",
-      "titlu": "Chelsea îl achiziționează pe mijlocașul Valentin Barco de la Strasbourg",
-      "rezumat": "Clubul londonez Chelsea a finalizat transferul mijlocașului argentinian Valentin Barco de la echipa franceză Strasbourg. Jucătorul a semnat un contract pe o perioadă de șapte ani, indicând o investiție pe termen lung din partea clubului englez. Barco este considerat un talent promițător, iar aducerea sa la Chelsea face parte din strategia de întinerire și consolidare a lotului, oferind noi opțiuni la mijlocul terenului pentru viitoarele sezoane.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-03T10:44:45.672630+00:00",
-      "data_afisaj": "3 august 2026, 13:44"
-    },
-    {
-      "id": "10bda223cc10",
-      "titlu": "Celtic va înfrunta LASK în play-off-ul Ligii Campionilor",
-      "rezumat": "Echipa scoțiană Celtic a fost extrasă să joace împotriva campioanei Austriei, LASK, în runda play-off-ului Ligii Campionilor. Meciurile din această fază sunt cruciale pentru calificarea în grupele celei mai prestigioase competiții europene intercluburi. Celtic speră să depășească acest obstacol pentru a-și asigura prezența în faza grupelor, în timp ce alte patru echipe scoțiene așteaptă tragerile la sorți pentru Europa League și Conference League.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-03T10:44:45.674114+00:00",
-      "data_afisaj": "3 august 2026, 13:44"
     }
   ]
 }
