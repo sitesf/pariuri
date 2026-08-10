@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-10T16:56:25.266500+00:00",
-  "updated_at_afisaj": "10 august 2026, 19:56",
+  "updated_at": "2026-08-10T17:46:51.010911+00:00",
+  "updated_at_afisaj": "10 august 2026, 20:46",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 102,
+  "numar_stiri": 107,
   "stiri": [
+    {
+      "id": "356b930585a8",
+      "titlu": "Consorțiul care include Bezos înaintează discuțiile pentru participarea la Liverpool",
+      "rezumat": "Un grup, care include fondatorul Amazon, Jeff Bezos, își avansează discuțiile pentru a cumpăra aproximativ 30% din acțiunile din Liverpool, i s-a spus BBC Sport.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-10T17:46:24.208658+00:00",
+      "data_afisaj": "10 august 2026, 20:46"
+    },
+    {
+      "id": "1eede8bbc03b",
+      "titlu": "Infantino a rupt încrederea „prin înșelăciune” - președinții de confederație",
+      "rezumat": "FIFA a fost acuzată că a încălcat încrederea „prin înșelăciune” într-o scrisoare deschisă emisă de Uefa, Concacaf și Confederația Asiatică de Fotbal.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-10T17:46:24.210143+00:00",
+      "data_afisaj": "10 august 2026, 20:46"
+    },
+    {
+      "id": "d705a258632e",
+      "titlu": "Ar trebui fanii lui Liverpool să fie îngrijorați de comentariile de fitness ale lui Iraola?",
+      "rezumat": "Ar trebui să fie îngrijorați fanii lui Liverpool de comentariile lui Andoni Iraola cu privire la starea de fitness a echipei?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-10T17:46:24.211563+00:00",
+      "data_afisaj": "10 august 2026, 20:46"
+    },
+    {
+      "id": "ae9c65f8a017",
+      "titlu": "Uși glisante - când Mourinho a spus da, apoi nu, lui Man Utd",
+      "rezumat": "Povestea interioară a încercării lui Manchester United de a-l determina pe Jose Mourinho să-l înlocuiască pe Sir Alex Ferguson, de ce a spus „nu” și impactul acestei decizii.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-10T17:46:24.213048+00:00",
+      "data_afisaj": "10 august 2026, 20:46"
+    },
+    {
+      "id": "8d784c2e7f91",
+      "titlu": "Stelele din campionat la pariuri globale - va funcționa abordarea lui Ipswich?",
+      "rezumat": "În timp ce Ipswich se pregătește pentru întoarcerea în Premier League, BBC Sport privește modul în care abordează diferit piața transferurilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-10T17:46:24.214366+00:00",
+      "data_afisaj": "10 august 2026, 20:46"
+    },
     {
       "id": "8bc9117b2545",
       "titlu": "Consorțiu Inclusiv Jeff Bezos Avancează Negocierile pentru o Parte din Liverpool",
