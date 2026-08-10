@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-10T08:40:34.424183+00:00",
-  "updated_at_afisaj": "10 august 2026, 11:40",
+  "updated_at": "2026-08-10T09:18:40.655892+00:00",
+  "updated_at_afisaj": "10 august 2026, 12:18",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,65 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 100,
+  "numar_stiri": 105,
   "stiri": [
+    {
+      "id": "7bfa6e05e28d",
+      "titlu": "FC Argeș Învinge Universitatea Craiova cu 1-0 și Devine Lider în Superliga",
+      "rezumat": "FC Argeș a obținut o victorie surprinzătoare cu scorul de 1-0 împotriva Universității Craiova în etapa a patra a Superligii. Echipa din Craiova, considerată campioana en-titre, nu a reușit să-și concretizeze numeroasele ocazii de gol, continuând o serie de rezultate slabe. În urma acestui succes, piteștenii au urcat pe prima poziție în clasamentul campionatului intern, consolidându-și statutul de lideri provizorii. Meciul a evidențiat problemele ofensive ale Craiovei și eficiența oaspeților în fața porții.",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-08-10T09:18:40.649843+00:00",
+      "data_afisaj": "10 august 2026, 12:18"
+    },
+    {
+      "id": "213754493785",
+      "titlu": "Președinții Confederațiilor Acuză FIFA de „Înșelăciune” și „Ruperea Încrederii”",
+      "rezumat": "Președinții UEFA, CONCACAF și Confederației Asiatice de Fotbal au emis o scrisoare deschisă prin care acuză FIFA de „înșelăciune” și de ruperea încrederii. Această declarație reprezintă o nouă lovitură majoră pentru președinția lui Gianni Infantino, pe fondul tensiunilor continue dintre forul mondial și principalele confederații continentale. Acuzațiile subliniază o criză de leadership și o lipsă de transparență percepută în cadrul organizației, adâncind incertitudinea privind viitorul conducerii FIFA.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-08-10T09:18:40.651291+00:00",
+      "data_afisaj": "10 august 2026, 12:18"
+    },
+    {
+      "id": "e7ee16cbc071",
+      "titlu": "Analiză: Cum se Conturează Liverpool Sub Conducerea Noului Antrenor Andoni Iraola",
+      "rezumat": "După patru meciuri de pre-sezon, Andoni Iraola începe să-și impună amprenta asupra echipei Liverpool. Analiza primelor sale jocuri relevă modul în care \"Cormoranii\" se adaptează sub noul antrenor. Deși este un eșantion mic, se pot observa deja schimbări tactice și de abordare. Fanii și analiștii urmăresc cu atenție evoluția echipei pentru a înțelege direcția în care se îndreaptă Liverpool înaintea noului sezon, în special în privința stilului de joc și a performanțelor individuale ale jucătorilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-10T09:18:40.652713+00:00",
+      "data_afisaj": "10 august 2026, 12:18"
+    },
+    {
+      "id": "ecc0dbfe26f7",
+      "titlu": "Observații din Pre-sezonul Chelsea: Revenirea Emoțională a lui Mudryk și Rolul de Lider al lui Palmer",
+      "rezumat": "Campania de pre-sezon a echipei Chelsea, sub comanda noului manager Xabi Alonso, a oferit primele indicii despre forma și dinamica lotului. Printre aspectele notabile se numără revenirea emoțională a lui Mykhailo Mudryk și ascensiunea lui Cole Palmer, care pare să-și asume un rol de lider în echipă. Aceste observații sunt cruciale pentru a înțelege cum se pregătește Chelsea pentru noul sezon, având în vedere așteptările mari și schimbările din cadrul clubului, în special în compartimentul ofensiv.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-10T09:18:40.654315+00:00",
+      "data_afisaj": "10 august 2026, 12:18"
+    },
+    {
+      "id": "2934acdb615d",
+      "titlu": "Celtic Începe Sezonul cu o Victorie Împotriva lui Dundee, Grație Golului lui Benjamin Nygren",
+      "rezumat": "Celtic a debutat în apărarea titlului din Premiership-ul Scoțian cu o victorie la limită pe teren propriu împotriva echipei Dundee. Unicul gol al partidei a fost marcat de Benjamin Nygren, care a înscris cu capul, asigurând cele trei puncte pentru campioana en-titre. Meciul a reprezentat o deschidere dificilă a sezonului pentru Celtic, însă echipa a reușit să obțină rezultatul dorit, demonstrând determinare în fața unei formații bine organizate și o capacitate de a gestiona presiunea primului joc.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-10T09:18:40.655870+00:00",
+      "data_afisaj": "10 august 2026, 12:18"
+    },
     {
       "id": "3dd3f0097c26",
       "titlu": "José Mourinho a Dezvăluit că a Semnat un Contract pentru a-l Succeda pe Alex Ferguson la Manchester United în 2013",
