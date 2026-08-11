@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-11T08:53:53.397412+00:00",
-  "updated_at_afisaj": "11 august 2026, 11:53",
+  "updated_at": "2026-08-11T16:59:58.439328+00:00",
+  "updated_at_afisaj": "11 august 2026, 19:59",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,55 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 109,
+  "numar_stiri": 106,
   "stiri": [
+    {
+      "id": "f0f2ea8889d2",
+      "titlu": "Nottingham Forest îl semnează pe Diomande de la Sporting",
+      "rezumat": "Clubul Nottingham Forest a anunțat transferul fundașului ivorian Ousmane Diomande de la echipa portugheză Sporting. Suma de transfer raportată este de 34 de milioane de lire sterline. Diomande, în vârstă de 22 de ani, a semnat un contract pe patru ani, cu opțiune de prelungire pentru încă un an, și a făcut parte din lotul Coastei de Fildeș la Cupa Mondială. Această mutare reprezintă o achiziție importantă pentru defensiva lui Forest.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-11T16:59:58.436274+00:00",
+      "data_afisaj": "11 august 2026, 19:59"
+    },
+    {
+      "id": "884f7bf91c78",
+      "titlu": "Chelsea va întâlni Real Sociedad în turul trei preliminar al Ligii Campionilor la Femei",
+      "rezumat": "Echipa feminină Chelsea va înfrunta formația spaniolă Real Sociedad în turul trei preliminar al Ligii Campionilor la Femei. Clubul londonez, finalist în 2021 și semifinalist de șase ori în competiție, trebuie să obțină victoria în dublă manșă pentru a se califica în faza grupelor. Participarea în calificări vine după un sezon precedent dezamăgitor în Women's Super League, unde Chelsea a terminat pe locul al treilea, cea mai slabă clasare recentă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-11T16:59:58.437546+00:00",
+      "data_afisaj": "11 august 2026, 19:59"
+    },
+    {
+      "id": "2fa81ca5e21c",
+      "titlu": "PFA inițiază proceduri legale privind plafonul salarial din League One",
+      "rezumat": "Asociația Fotbaliștilor Profesioniști (PFA) a inițiat proceduri legale împotriva Ligii de Fotbal Engleze (EFL) în legătură cu modificările aduse plafonului salarial din League One. Această acțiune subliniază tensiunile dintre organizația jucătorilor și conducerea ligii privind reglementările financiare care afectează cluburile și salariile fotbaliștilor din a treia divizie engleză. PFA susține că noile reguli ar putea avea un impact negativ asupra carierelor jucătorilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-11T16:59:58.438421+00:00",
+      "data_afisaj": "11 august 2026, 19:59"
+    },
+    {
+      "id": "73af62fccd95",
+      "titlu": "Myles Lewis-Skelly de la Arsenal, oferit lui Manchester United și Chelsea",
+      "rezumat": "Tânărul jucător Myles Lewis-Skelly de la Arsenal a fost oferit clubului Manchester United ca o posibilă soluție pentru postul de fundaș stânga. Se pare că Arsenal dorește să recupereze o parte din suma de 75 de milioane de lire sterline plătită pentru Bruno Guimarães. De asemenea, Chelsea a fost informată despre disponibilitatea jucătorului în vârstă de 19 ani, indicând un interes crescut pentru serviciile sale din partea mai multor cluburi de top din Premier League.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-11T16:59:58.439315+00:00",
+      "data_afisaj": "11 august 2026, 19:59"
+    },
     {
       "id": "a8f89d4ed64d",
       "titlu": "Nottingham Forest va întâlni Leeds în Cupa Ligii Angliei",
@@ -1177,83 +1224,6 @@
       ],
       "data_publicare": "2026-08-04T17:51:42.081891+00:00",
       "data_afisaj": "4 august 2026, 20:51"
-    },
-    {
-      "id": "51f113d17333",
-      "titlu": "Țările din Concacaf iau în considerare retragerea sprijinului pentru președintele FIFA, Gianni Infantino",
-      "rezumat": "Mai multe țări membre ale Confederației Nord-Americane, Centrale și Caraibiene de Fotbal (Concacaf) analizează posibilitatea de a-și retrage oficial sprijinul pentru președintele FIFA, Gianni Infantino. Această decizie ar urma exemplul Europei și vine pe fondul presiunilor crescânde asupra liderului FIFA. Deși cele 41 de membre Concacaf au susținut inițial realegerea lui Infantino, situația actuală indică o schimbare de atitudine și o potențială criză de încredere în conducerea organismului mondial de fotbal.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-04T10:37:40.440366+00:00",
-      "data_afisaj": "4 august 2026, 13:37"
-    },
-    {
-      "id": "7e441627ffc3",
-      "titlu": "Clubul portughez Alverca prosperă cu ajutorul lui Vinícius Júnior, co-proprietar",
-      "rezumat": "Clubul portughez Alverca înregistrează o ascensiune notabilă în piramida fotbalului, beneficiind de sprijinul și implicarea lui Vinícius Júnior, care a devenit co-proprietar. Această creștere se datorează unei strategii inteligente de scouting și unor legături cu personalități precum Eduardo Camavinga și Travis Scott. Alverca, care a schimbat proprietarii și a achiziționat un nou lot de jucători, își propune să devină un „schimbător de joc” în fotbalul portughez, transformându-se dintr-un club satelit al Benficăi într-o entitate independentă și ambițioasă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-04T10:37:40.442167+00:00",
-      "data_afisaj": "4 august 2026, 13:37"
-    },
-    {
-      "id": "7313a0d1c41d",
-      "titlu": "Como stârnește controverse cu fanii din cauza noii politici privind abonamentele la stadion",
-      "rezumat": "Clubul Como, revelația sezonului trecut din Serie A, a generat o dispută aprinsă cu suporterii săi din cauza unei noi politici controversate privind abonamentele. Conform noilor reguli, clubul va revoca abonamentele fanilor care lipsesc de la mai mult de trei meciuri de acasă fără o justificare validă. Această decizie, apărată de președintele clubului, a stârnit nemulțumire și îngrijorare în rândul suporterilor, care consideră măsura prea strictă și restrictivă. Como, antrenată de Cesc Fàbregas, a calificat în Liga Campionilor pentru prima dată în istoria sa.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-04T10:37:40.443446+00:00",
-      "data_afisaj": "4 august 2026, 13:37"
-    },
-    {
-      "id": "99248ab479e4",
-      "titlu": "Palermo FC depune o candidatură ambițioasă pentru a găzdui meciuri la UEFA Euro 2032",
-      "rezumat": "Palermo FC a depus oficial o candidatură la Federația Italiană de Fotbal (FIGC) pentru a fi desemnat unul dintre orașele gazdă ale Campionatului European UEFA Euro 2032. Această inițiativă ambițioasă vine în contextul unui proiect de reamenajare a stadionului, menită să modernizeze infrastructura și să îndeplinească standardele UEFA. Dacă va fi selectată, Palermo ar putea juca un rol important în organizarea turneului, aducând beneficii semnificative orașului și regiunii.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-08-04T10:37:40.444692+00:00",
-      "data_afisaj": "4 august 2026, 13:37"
-    },
-    {
-      "id": "e81885136e4b",
-      "titlu": "Patru noi națiuni își exprimă sprijinul pentru Gianni Infantino, pe fondul opoziției crescânde",
-      "rezumat": "În contextul unei opoziții tot mai puternice din partea unor federații europene, președintele FIFA, Gianni Infantino, a primit sprijin din partea a patru noi națiuni, pe lângă Qatar și Maroc. Această evoluție subliniază diviziunile din cadrul fotbalului mondial, unde unele țări contestă poziția confederațiilor lor și își reafirmă susținerea pentru liderul FIFA. Situația indică o complexitate crescândă în peisajul politic al fotbalului internațional, cu alianțe și contra-alianțe în jurul conducerii actuale a forului internațional.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-08-04T09:40:08.115953+00:00",
-      "data_afisaj": "4 august 2026, 12:40"
-    },
-    {
-      "id": "304c2d19ef5d",
-      "titlu": "Mijlocașul englez Jordan Henderson semnează cu Chelsea",
-      "rezumat": "Mijlocașul internațional englez Jordan Henderson a semnat un contract pe doi ani cu Chelsea, după ce înțelegerea sa cu rivala din Premier League, Brentford, a fost reziliată de comun acord. Henderson, care a devenit agent liber, aduce experiență semnificativă la mijlocul terenului pentru echipa londoneză. Transferul său reprezintă o mutare importantă pentru Chelsea în eforturile de a-și consolida lotul înainte de startul noului sezon, adăugând profunzime și leadership echipei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-04T09:40:08.117717+00:00",
-      "data_afisaj": "4 august 2026, 12:40"
-    },
-    {
-      "id": "7f6a69eb199a",
-      "titlu": "Fulham îi transferă pe Garcia și Palacios de la Real Madrid",
-      "rezumat": "Clubul Fulham a anunțat achiziționarea a doi jucători de la Real Madrid, Gonzalo Garcia și Cesar Palacios. Ambii fotbaliști au semnat contracte pe cinci ani cu echipa din Premier League. Această dublă mutare reprezintă o investiție a lui Fulham în tineri talente de la un club de top, Real Madrid, în încercarea de a-și întări lotul pentru viitoarele sezoane. Transferurile subliniază strategia clubului de a aduce jucători cu potențial de dezvoltare de la academii prestigioase.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-04T09:40:08.118989+00:00",
-      "data_afisaj": "4 august 2026, 12:40"
     }
   ]
 }
