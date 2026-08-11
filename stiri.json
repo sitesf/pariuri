@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-11T08:10:36.867710+00:00",
-  "updated_at_afisaj": "11 august 2026, 11:10",
+  "updated_at": "2026-08-11T08:53:53.397412+00:00",
+  "updated_at_afisaj": "11 august 2026, 11:53",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,41 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 106,
+  "numar_stiri": 109,
   "stiri": [
+    {
+      "id": "a8f89d4ed64d",
+      "titlu": "Nottingham Forest va întâlni Leeds în Cupa Ligii Angliei",
+      "rezumat": "Nottingham Forest va juca împotriva lui Leeds United în turul doi al Cupei Ligii Angliei (Carabao Cup). Aceasta este singura confruntare între două echipe din Premier League în această fază a competiției. Tragerea la sorți a stabilit meciurile din turul doi, oferind fanilor o partidă interesantă între cele două formații, care promite o luptă intensă pentru calificarea în etapa următoare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-11T08:53:53.393624+00:00",
+      "data_afisaj": "11 august 2026, 11:53"
+    },
+    {
+      "id": "18d9a38f1fb4",
+      "titlu": "Liverpool ar fi ajuns la un acord pe cinci ani cu Bradley Barcola",
+      "rezumat": "Potrivit rapoartelor, ținta lui Liverpool, Bradley Barcola, ar fi acceptat un contract pe termen lung cu \"Cormoranii\", înaintea unei posibile mutări majore. Atacantul francez, care a atras atenția mai multor cluburi europene, ar fi ajuns la un acord personal cu echipa de pe Anfield. Această veste sugerează că Liverpool este aproape de a-și asigura serviciile unui jucător promițător, consolidându-și opțiunile ofensive pentru sezoanele viitoare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-08-11T08:53:53.396135+00:00",
+      "data_afisaj": "11 august 2026, 11:53"
+    },
+    {
+      "id": "eaf67ada2f43",
+      "titlu": "Jordan Nobbs vrea să-și îndeplinească visul WSL cu Newcastle",
+      "rezumat": "Fosta mijlocașă a naționalei Angliei, Jordan Nobbs, declară că obținerea promovării în Women’s Super League (WSL) cu Newcastle ar îndeplini ambiția sa de a vedea un club din nord-est în prima ligă. Născută în Stockton-on-Tees, Nobbs, cu 71 de selecții la națională, consideră că fotbalul feminin din regiune ar beneficia enorm de o reprezentare la cel mai înalt nivel. Newcastle a terminat pe locul șase în WSL2 sezonul trecut, la 11 puncte de câștigătoare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-11T08:53:53.397396+00:00",
+      "data_afisaj": "11 august 2026, 11:53"
+    },
     {
       "id": "212c834c387e",
       "titlu": "Donald Trump Consideră o „Greșeală Teribilă” Demiterea lui Infantino",
