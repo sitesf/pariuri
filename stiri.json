@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-10T17:46:51.010911+00:00",
-  "updated_at_afisaj": "10 august 2026, 20:46",
+  "updated_at": "2026-08-11T08:10:36.867710+00:00",
+  "updated_at_afisaj": "11 august 2026, 11:10",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,66 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 107,
+  "numar_stiri": 106,
   "stiri": [
+    {
+      "id": "212c834c387e",
+      "titlu": "Donald Trump Consideră o „Greșeală Teribilă” Demiterea lui Infantino",
+      "rezumat": "Președintele Statelor Unite, Donald Trump, a declarat că ar fi o „greșeală teribilă” dacă președintele FIFA, Gianni Infantino, aflat sub presiune, ar fi înlăturat din funcție. Această declarație vine în contextul în care Infantino se confruntă cu critici și acuzații din partea unor președinți de confederații și a președintelui La Liga, Javier Tebas, care au pus sub semnul întrebării integritatea și conducerea sa. Sprijinul lui Trump adaugă o nouă dimensiune dezbaterii privind viitorul conducerii fotbalului mondial.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-11T08:10:36.861794+00:00",
+      "data_afisaj": "11 august 2026, 11:10"
+    },
+    {
+      "id": "a20ca94d5592",
+      "titlu": "Proprietarul Nottingham Forest, Marinakis, Dă în Judecată Crystal Palace pentru un Banner Controversat",
+      "rezumat": "Evangelos Marinakis, proprietarul clubului Nottingham Forest, a inițiat un proces împotriva clubului Crystal Palace, ca urmare a unui banner afișat de fanii acestuia. Bannerul îl înfățișa pe Marinakis ținând o armă îndreptată spre capul mijlocașului Morgan Gibbs-White, o imagine considerată ofensatoare și amenințătoare. Incidentul a stârnit controverse și a escaladat într-o acțiune legală, subliniind tensiunile și rivalitățile din fotbalul englez și necesitatea respectării eticii sportive.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-11T08:10:36.863335+00:00",
+      "data_afisaj": "11 august 2026, 11:10"
+    },
+    {
+      "id": "c712f3de95b2",
+      "titlu": "Enzo Maresca Vorbește Despre Prezentul la Manchester City: Succesiunea lui Guardiola și Dilema Căpitanului",
+      "rezumat": "Noul antrenor al echipei Manchester City, Enzo Maresca, a oferit detalii despre provocările și aspectele vieții sale la club, după ce l-a înlocuit pe Pep Guardiola. Maresca a discutat despre presiunea de a prelua frâiele unei echipe de succes, interesul său pentru inteligența artificială în fotbal și dilema alegerii căpitanului echipei, un rol crucial pentru coeziunea grupului. Declarațiile sale oferă o perspectivă asupra viziunii sale pentru viitorul campioanei Angliei și adaptarea la noua poziție.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-11T08:10:36.864821+00:00",
+      "data_afisaj": "11 august 2026, 11:10"
+    },
+    {
+      "id": "273cfc3a5f84",
+      "titlu": "Ronald Araujo S-a Alăturat lui Liverpool: Analiza Transferului de la Barcelona",
+      "rezumat": "Fundașul uruguayan Ronald Araujo s-a transferat la Liverpool sub formă de împrumut de la Barcelona. Această mutare a stârnit interes, iar analiștii încearcă să explice motivele pentru care Liverpool a insistat pentru aducerea apărătorului și ce anume nu a funcționat în perioada petrecută de Araujo la clubul catalan. Transferul său reprezintă o încercare a ambelor cluburi de a-și consolida loturile și de a găsi soluții pentru obiectivele lor sportive, oferind o nouă șansă jucătorului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-11T08:10:36.866237+00:00",
+      "data_afisaj": "11 august 2026, 11:10"
+    },
+    {
+      "id": "a75867060458",
+      "titlu": "Șeful Arbitrilor UEFA, Roberto Rosetti, Critică Utilizarea VAR: „Nu Este PlayStation”",
+      "rezumat": "Roberto Rosetti, șeful arbitrilor din cadrul UEFA, a declarat că unele decizii luate în urma revizuirilor Video Assistant Referee (VAR) „nu au avut legătură cu fotbalul”. Comentariile sale subliniază preocupările continue legate de implementarea și interpretarea VAR, sugerând că sistemul ar trebui să fie folosit într-un mod care să respecte mai bine spiritul jocului. Această critică vine în contextul dezbaterilor aprinse privind impactul tehnologiei asupra dinamicii și fluidității meciurilor și a deciziilor arbitrilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-11T08:10:36.867692+00:00",
+      "data_afisaj": "11 august 2026, 11:10"
+    },
     {
       "id": "356b930585a8",
       "titlu": "Consorțiul care include Bezos înaintează discuțiile pentru participarea la Liverpool",
@@ -1163,76 +1221,6 @@
       ],
       "data_publicare": "2026-08-04T09:40:08.118989+00:00",
       "data_afisaj": "4 august 2026, 12:40"
-    },
-    {
-      "id": "76cdf967806a",
-      "titlu": "A început meciul FCSB – Farul în etapa a 3-a din Superligă",
-      "rezumat": "Partida dintre FCSB și Farul Constanța, contând pentru etapa a 3-a a Superligii României, a început pe Stadionul „Arcul de Triumf”. Meciul este un eveniment important în campionatul intern, ambele echipe căutând să obțină puncte prețioase pentru clasament. Suporterii pot urmări desfășurarea evenimentelor în timp real, prin intermediul transmisiunilor live text online.",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-08-03T18:44:45.099184+00:00",
-      "data_afisaj": "3 august 2026, 21:44"
-    },
-    {
-      "id": "a05240505fdc",
-      "titlu": "Oponenții lui Gianni Infantino amenință cu 'non-cooperarea' cu FIFA",
-      "rezumat": "Potrivit unor surse înalte din UEFA, oponenții președintelui FIFA, Gianni Infantino, amenință cu 'non-cooperarea' cu organismul de conducere al fotbalului mondial, dacă acesta nu demisionează. Această amenințare reprezintă o escaladare a tensiunilor existente și adaugă presiune asupra mandatului lui Infantino, pe fondul criticilor și al pierderii încrederii din partea mai multor federații naționale și continentale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-03T18:44:45.101782+00:00",
-      "data_afisaj": "3 august 2026, 21:44"
-    },
-    {
-      "id": "4939c7238f2d",
-      "titlu": "Como a ajuns la un acord de 31 de milioane de lire sterline pentru Trevoh Chalobah de la Chelsea",
-      "rezumat": "Clubul italian Como a ajuns la un acord cu Chelsea pentru transferul fundașului Trevoh Chalobah, într-o tranzacție evaluată la peste 30 de milioane de lire sterline. Chalobah, care a petrecut o mare parte din carieră la Chelsea, se va alătura echipei antrenate de Cesc Fàbregas, care a promovat recent în Serie A. Această mutare reprezintă o achiziție semnificativă pentru Como și o nouă etapă în cariera fundașului englez.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-03T18:44:45.103213+00:00",
-      "data_afisaj": "3 august 2026, 21:44"
-    },
-    {
-      "id": "f6a9be07683a",
-      "titlu": "Celtic își începe apărarea titlului în Premiership-ul Scoției împotriva lui Dundee",
-      "rezumat": "Campioana en-titre a Scoției, Celtic, își începe campania de apărare a titlului în Premiership-ul scoțian cu un meci împotriva echipei Dundee. Partida marchează debutul noului sezon pentru Celtic, care vizează un nou succes intern. Echipa va încerca să își demonstreze forța încă de la început, într-un meci considerat important pentru moralul și parcursul viitor al sezonului. Fanii așteaptă cu nerăbdare să vadă cum se prezintă echipa sub presiunea așteptărilor de a-și menține dominația în fotbalul scoțian.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-03T17:53:45.747999+00:00",
-      "data_afisaj": "3 august 2026, 20:53"
-    },
-    {
-      "id": "1e8a69428c69",
-      "titlu": "Real Madrid reia discuțiile contractuale cu Vinicius Jr, pe fondul interesului lui Arsenal",
-      "rezumat": "Real Madrid și Vinicius Jr vor relua discuțiile privind prelungirea contractului în această săptămână, în timp ce Arsenal urmărește cu atenție situația jucătorului. Atacantul brazilian este o țintă importantă pentru clubul londonez, iar speculațiile privind un posibil transfer la Arsenal au crescut în ultima perioadă. Negocierile dintre Real Madrid și Vinicius Jr sunt cruciale pentru a clarifica viitorul său, având în vedere că Arsenal este pregătită să intervină dacă nu se ajunge la un acord.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-08-03T17:53:45.751471+00:00",
-      "data_afisaj": "3 august 2026, 20:53"
-    },
-    {
-      "id": "e6cbd350ac05",
-      "titlu": "Mauricio Pochettino își prelungește contractul de selecționer al Statelor Unite până în 2030",
-      "rezumat": "Mauricio Pochettino a ajuns la un acord pentru a continua ca selecționer al echipei naționale masculine a Statelor Unite până în anul 2030. Această prelungire a contractului subliniază încrederea federației americane în viziunea și capacitatea antrenorului argentinian de a dezvolta fotbalul în SUA pe termen lung. Decizia vine în contextul pregătirilor pentru viitoarele competiții internaționale și al obiectivului de a consolida prezența Statelor Unite pe scena fotbalului mondial.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-03T17:53:45.752977+00:00",
-      "data_afisaj": "3 august 2026, 20:53"
     }
   ]
 }
