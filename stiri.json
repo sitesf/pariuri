@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-12T08:20:46.997145+00:00",
-  "updated_at_afisaj": "12 august 2026, 11:20",
+  "updated_at": "2026-08-12T09:09:58.690935+00:00",
+  "updated_at_afisaj": "12 august 2026, 12:09",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 105,
+  "numar_stiri": 110,
   "stiri": [
+    {
+      "id": "511ee6dbc4d9",
+      "titlu": "Gigi Becali, prima reacție despre transferul lui Arnold Garita la FCSB: „L-am luat pentru 4 luni”",
+      "rezumat": "(rezumat indisponibil)",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-08-12T09:09:36.283443+00:00",
+      "data_afisaj": "12 august 2026, 12:09"
+    },
+    {
+      "id": "c06a5f7150af",
+      "titlu": "Ipswich a convenit asupra unei taxe pentru atacantul Paraguay, Enciso",
+      "rezumat": "Ipswich Town a ajuns la un acord pentru a semna atacantul Paraguay Julio Enciso de la Strasbourg.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-12T09:09:36.284681+00:00",
+      "data_afisaj": "12 august 2026, 12:09"
+    },
+    {
+      "id": "c5c032528d78",
+      "titlu": "Emery urmărește prima Supercupă - dar contează?",
+      "rezumat": "Aston Villa concurează în Supercupă pentru prima dată din 1982, dar antrenorul Unai Emery are o experiență mult mai recentă a meciului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-12T09:09:36.285900+00:00",
+      "data_afisaj": "12 august 2026, 12:09"
+    },
+    {
+      "id": "d60d83b6e354",
+      "titlu": "Chelsea îl semnează pe Chavarria cu un contract de 16 milioane de lire sterline - cine este fundașul stâng?",
+      "rezumat": "Pep Chavarria se alătură lui Chelsea cu un contract de cinci ani, după ce a jucat în ligile inferioare spaniole până la 24 de ani.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-12T09:09:36.287240+00:00",
+      "data_afisaj": "12 august 2026, 12:09"
+    },
+    {
+      "id": "416c74f9dc3d",
+      "titlu": "O lovitură de stat pentru Bezos și o excepție pentru FSG - unde îl lasă afacerea pe Liverpool?",
+      "rezumat": "De ce investiția unui grup care include Jeff Bezos nu ar face o diferență semnificativă în puterea de cheltuieli a lui Liverpool - și ar putea sta neliniştit cu fanii.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-12T09:09:36.288561+00:00",
+      "data_afisaj": "12 august 2026, 12:09"
+    },
     {
       "id": "f969d54904c6",
       "titlu": "Arne Slot Refuză Discuțiile cu Naționala Olandei pentru a se Concentra pe Fotbalul de Club",
