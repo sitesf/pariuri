@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-12T16:59:11.213970+00:00",
-  "updated_at_afisaj": "12 august 2026, 19:59",
+  "updated_at": "2026-08-12T17:53:13.724830+00:00",
+  "updated_at_afisaj": "12 august 2026, 20:53",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,30 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 107,
+  "numar_stiri": 105,
   "stiri": [
+    {
+      "id": "89dad634d939",
+      "titlu": "Monaco a Respins Oferta lui Crystal Palace pentru Mijlocașul Lamine Camara",
+      "rezumat": "Clubul AS Monaco din Ligue 1 a respins o ofertă verbală din partea echipei Crystal Palace pentru transferul mijlocașului Lamine Camara. Detaliile financiare ale ofertei nu au fost specificate, dar refuzul indică faptul că Monaco nu este dispusă să renunțe la jucătorul său în condițiile actuale. Crystal Palace își continuă eforturile de a-și întări lotul pentru noul sezon, însă va trebui să revină cu o propunere îmbunătățită pentru a-l convinge pe Camara să se alăture echipei din Premier League.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-12T17:53:13.721303+00:00",
+      "data_afisaj": "12 august 2026, 20:53"
+    },
+    {
+      "id": "eca06f22e63d",
+      "titlu": "Liga Profesionistă Saudită Vizează Evoluția, în Timp ce Cristiano Ronaldo Se Apropie de 1.000 de Goluri",
+      "rezumat": "Liga Profesionistă Saudită încearcă să depășească era bazată exclusiv pe transferul de megastaruri în vârstă, concentrându-se pe creșterea standardului general al fotbalului saudit. Cu toate acestea, prezența unor nume mari precum Cristiano Ronaldo continuă să domine atenția. La 41 de ani, Ronaldo se apropie de borna impresionantă de 1.000 de goluri în carieră, având nevoie de doar 24 de reușite. El a marcat deja 102 goluri în 107 meciuri de campionat pentru Al-Nassr, demonstrând o formă excepțională.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-12T17:53:13.724810+00:00",
+      "data_afisaj": "12 august 2026, 20:53"
+    },
     {
       "id": "71e2ebf0c366",
       "titlu": "Youri Tielemans Vorbește Despre Transferul la Manchester United și Adaptare",
@@ -1187,54 +1209,6 @@
       ],
       "data_publicare": "2026-08-05T18:16:06.396882+00:00",
       "data_afisaj": "5 august 2026, 21:16"
-    },
-    {
-      "id": "4eda33f0d5c4",
-      "titlu": "Martin O'Neill, antrenorul lui Celtic, internat în spital după o procedură medicală",
-      "rezumat": "Antrenorul echipei Celtic, Martin O'Neill, rămâne internat în spital după ce a suferit o \"mică procedură\" medicală, a anunțat clubul. Detaliile complete despre natura intervenției sau starea sa de sănătate nu au fost făcute publice, însă clubul a confirmat că O'Neill se află sub supraveghere medicală. Această veste vine într-un moment important pentru Celtic, la începutul sezonului, iar absența antrenorului principal ar putea influența pregătirea echipei. Fanii și comunitatea fotbalistică așteaptă cu interes noi informații despre recuperarea sa.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-05T17:42:33.776001+00:00",
-      "data_afisaj": "5 august 2026, 20:42"
-    },
-    {
-      "id": "4ee6a2446f36",
-      "titlu": "Luis Figo cere demisia președintelui FIFA, Gianni Infantino, acuzând un comportament \"înșelător\"",
-      "rezumat": "Legendarul fotbalist portughez Luís Figo a lansat un atac dur la adresa președintelui FIFA, Gianni Infantino, cerându-i demisia. Figo a descris planul eșuat al lui Infantino de a vinde acțiuni la Cupa Mondială către investitori privați drept \"cel mai josnic, înșelător și laș comportament interesat pe care l-am văzut vreodată\". Criticile lui Figo se adaugă unei opoziții tot mai mari față de conducerea lui Infantino, pe fondul controverselor legate de integritatea și transparența organizației.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-08-05T17:42:33.777483+00:00",
-      "data_afisaj": "5 august 2026, 20:42"
-    },
-    {
-      "id": "f8abfac1ead3",
-      "titlu": "Jeremy Monga debutează pentru Manchester City după ce a refuzat oferta lui Arsenal",
-      "rezumat": "Transferul de 10 milioane de lire sterline al lui Jeremy Monga de la Leicester la Manchester City ar fi putut trece neobservat în această vară, însă tânărul jucător a debutat deja pentru \"Cetățeni\", marcând o nouă etapă în cariera sa. Adolescentul, care a refuzat o ofertă de la Arsenal, își propune să-l emuleze pe idolul său, Eden Hazard. Debutul său în victoria lui Manchester City sugerează că Monga este pregătit să își lase amprenta în Premier League și să devină un nume important în fotbalul englez.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-05T17:42:33.779010+00:00",
-      "data_afisaj": "5 august 2026, 20:42"
-    },
-    {
-      "id": "26e0d9b95da9",
-      "titlu": "Liverpool explorează posibilitatea transferului atacantului Ibrahim Mbaye de la Paris Saint-Germain",
-      "rezumat": "Clubul Liverpool a inițiat discuții pentru a explora condițiile unui potențial transfer al tânărului atacant Ibrahim Mbaye de la Paris Saint-Germain. Wingerul adolescent este considerat o țintă importantă pentru \"Cormorani\", care caută să își întărească ofensiva. Această mișcare ar putea reprezenta o investiție pe termen lung pentru Liverpool, aducând un talent promițător de la o academie renumită. Detaliile negocierilor și șansele de concretizare a transferului rămân de văzut în perioada următoare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-08-05T17:42:33.780420+00:00",
-      "data_afisaj": "5 august 2026, 20:42"
     }
   ]
 }
