@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-12T09:09:58.690935+00:00",
-  "updated_at_afisaj": "12 august 2026, 12:09",
+  "updated_at": "2026-08-12T16:59:11.213970+00:00",
+  "updated_at_afisaj": "12 august 2026, 19:59",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,54 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 110,
+  "numar_stiri": 107,
   "stiri": [
+    {
+      "id": "71e2ebf0c366",
+      "titlu": "Youri Tielemans Vorbește Despre Transferul la Manchester United și Adaptare",
+      "rezumat": "Mijlocașul belgian Youri Tielemans a oferit primele sale declarații extinse după mutarea la Manchester United pentru 35 de milioane de lire sterline. Fostul jucător al lui Aston Villa a mărturisit că nu se aștepta să părăsească clubul în această vară, dar a descris transferul la United ca pe o \"mutare de vis\". Tielemans a subliniat că adaptarea la viziunea antrenorului Michael Carrick a fost naturală, simțind că \"pur și simplu miroase a fotbal\". Experiența sa vastă, debutând la Anderlecht la 16 ani, l-a ajutat să se integreze rapid în lotul echipei pe parcursul turneului de pre-sezon.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-12T16:59:11.208503+00:00",
+      "data_afisaj": "12 august 2026, 19:59"
+    },
+    {
+      "id": "d1648d7efb78",
+      "titlu": "Federația de Fotbal din Coreea de Sud, Implicată într-un Scandal de Favoruri Sexuale pentru Arbitri",
+      "rezumat": "Federația de Fotbal din Coreea de Sud (KFA) și-a cerut scuze public în urma unei serii de controverse, inclusiv un scandal legat de favoruri sexuale oferite arbitrilor. Situația a escaladat odată cu o percheziție a poliției la sediul KFA, indicând o criză profundă în cadrul organismului de conducere al fotbalului sud-coreean. Incidentele au generat o indignare considerabilă în rândul publicului și al comunității sportive, punând sub semnul întrebării integritatea și buna guvernanță a fotbalului în țară. Investigațiile sunt în curs de desfășurare pentru a elucida toate aspectele acestui caz.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-12T16:59:11.210124+00:00",
+      "data_afisaj": "12 august 2026, 19:59"
+    },
+    {
+      "id": "7bc09f5a6829",
+      "titlu": "Un Atacant de la Everton, Acuzat de Încălcarea Regulilor de Pariuri ale Federației Engleze",
+      "rezumat": "Un atacant al clubului Everton a fost acuzat de încălcarea regulilor de pariuri stabilite de Federația Engleză de Fotbal (FA). Detaliile specifice ale acuzațiilor nu au fost încă făcute publice, dar astfel de încălcări pot duce la sancțiuni severe, inclusiv suspendări pe termen lung și amenzi. FA are o politică strictă împotriva pariurilor în fotbal, menită să protejeze integritatea sportului. Clubul Everton și jucătorul vizat nu au emis încă declarații oficiale detaliate, dar se așteaptă ca o investigație amănunțită să urmeze.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-08-12T16:59:11.212579+00:00",
+      "data_afisaj": "12 august 2026, 19:59"
+    },
+    {
+      "id": "57fc4cbee7ef",
+      "titlu": "Aston Villa Se Apropie de Semnarea Fundașului Matteo Ruggeri de la Atletico Madrid",
+      "rezumat": "Aston Villa este pe punctul de a finaliza transferul fundașului Matteo Ruggeri de la Atletico Madrid. Clubul englez se află în etape avansate ale negocierilor pentru a-l aduce pe tânărul apărător în Premier League. Ruggeri, un talent promițător, ar urma să întărească linia defensivă a echipei lui Unai Emery, care își propune să continue performanțele bune din sezoanele recente. Detaliile financiare ale tranzacției nu au fost încă dezvăluite, dar se anticipează o confirmare oficială în curând, pe măsură ce Villa își consolidează lotul pentru viitoarea campanie.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-12T16:59:11.213955+00:00",
+      "data_afisaj": "12 august 2026, 19:59"
+    },
     {
       "id": "511ee6dbc4d9",
       "titlu": "Gigi Becali, prima reacție despre transferul lui Arnold Garita la FCSB: „L-am luat pentru 4 luni”",
@@ -1189,86 +1235,6 @@
       ],
       "data_publicare": "2026-08-05T17:42:33.780420+00:00",
       "data_afisaj": "5 august 2026, 20:42"
-    },
-    {
-      "id": "01ba411a468e",
-      "titlu": "FIFA acuzată de șantaj pentru a forța susținerea realegerii lui Infantino",
-      "rezumat": "Președintele Federației Iordaniene de Fotbal, Prințul Ali bin al-Hussein, a acuzat administrația lui Gianni Infantino de \"șantaj\", susținând că FIFA a amenințat cu reținerea asistenței financiare pentru federația sa dacă refuza să sprijine candidatura președintelui pentru realegere. Această intervenție majoră vine în contextul criticilor crescânde la adresa lui Infantino și a planului său eșuat de a vinde operațiunile comerciale ale FIFA. Acuzațiile aduc noi tensiuni în cadrul organismului de conducere al fotbalului mondial.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-05T10:33:12.517101+00:00",
-      "data_afisaj": "5 august 2026, 13:33"
-    },
-    {
-      "id": "f7947fd2aaf7",
-      "titlu": "Viitorul lui Marcus Rashford la Manchester United, sub semnul întrebării",
-      "rezumat": "Marcus Rashford este așteptat să revină la antrenamentele lui Manchester United în zilele următoare, însă continuă dezbaterea privind oportunitatea acestei reveniri. Situația atacantului englez a generat discuții intense în rândul fanilor și al presei, cu privire la forma sa sportivă și la rolul său în planurile echipei. Clubul și jucătorul se confruntă cu o perioadă de incertitudine, în care deciziile viitoare vor fi cruciale pentru ambele părți.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-05T10:33:12.519785+00:00",
-      "data_afisaj": "5 august 2026, 13:33"
-    },
-    {
-      "id": "46597938bd30",
-      "titlu": "Trabzonspor inițiază discuții pentru transferul lui Mohamed Salah",
-      "rezumat": "Clubul turc Trabzonspor a confirmat că a început negocierile pentru a-l aduce pe atacantul egiptean Mohamed Salah. Jucătorul, în prezent la Liverpool, este o țintă importantă pentru echipa din Super Lig, care își propune să-și întărească lotul. Această mișcare ar reprezenta un transfer major pentru fotbalul turc și ar putea marca o schimbare semnificativă în cariera lui Salah, după o perioadă lungă petrecută în Premier League. Discuțiile sunt în stadiu incipient, dar interesul este concret și urmărește consolidarea echipei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-05T09:38:24.741495+00:00",
-      "data_afisaj": "5 august 2026, 12:38"
-    },
-    {
-      "id": "429b29b4adbc",
-      "titlu": "Arsenal a ajuns la un acord pentru transferul lui Bruno Guimaraes",
-      "rezumat": "Arsenal a convenit o sumă de 75 de milioane de lire sterline cu Newcastle United pentru transferul căpitanului lor, Bruno Guimaraes. Mijlocașul brazilian este considerat o țintă cheie pentru \"Tunari\", care își propun să-și consolideze lotul pentru sezonul viitor și să-și sporească șansele în competițiile majore. Această achiziție ar reprezenta o investiție semnificativă și ar sublinia ambițiile clubului londonez de a concura la cel mai înalt nivel. Detaliile finale ale contractului jucătorului urmează să fie stabilite în perioada următoare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-05T09:38:24.742771+00:00",
-      "data_afisaj": "5 august 2026, 12:38"
-    },
-    {
-      "id": "74bbc932f9c4",
-      "titlu": "Aripa japoneză Daisuke Yokota se alătură echipei Rangers",
-      "rezumat": "Clubul scoțian Rangers a finalizat transferul aripii japoneze Daisuke Yokota de la Hannover 96. Jucătorul a declarat că speră să creeze \"amintiri speciale\" la noul său club. Această mutare marchează o nouă etapă în cariera lui Yokota și aduce un plus de viteză și creativitate în ofensiva lui Rangers. Echipa scoțiană își propune să aibă o performanță puternică în competițiile interne și europene, iar achiziția lui Yokota este parte a strategiei de întărire a lotului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-05T09:38:24.744019+00:00",
-      "data_afisaj": "5 august 2026, 12:38"
-    },
-    {
-      "id": "bf484675e6e2",
-      "titlu": "Milan îl plânge pe Franco Baresi la funeraliile legendarului fotbalist",
-      "rezumat": "Orașul Milano și întreaga lume a fotbalului au adus un ultim omagiu legendarului fundaș Franco Baresi, la funeraliile sale desfășurate la Basilica di Sant’Ambrogio. Unul dintre cei mai mari apărători din istorie, fostul jucător al Italiei și al lui AC Milan a încetat din viață săptămâna trecută, la vârsta de 66 de ani. Foști coechipieri, oficiali ai clubului și mii de fani au participat la ceremonie, exprimându-și respectul și durerea profundă pentru pierderea \"Căpitanului\".",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-05T09:38:24.745294+00:00",
-      "data_afisaj": "5 august 2026, 12:38"
-    },
-    {
-      "id": "4025b4544a28",
-      "titlu": "TNT Sports lansează o nouă campanie pentru sezonul de fotbal 2026/27",
-      "rezumat": "TNT Sports a dezvăluit campania sa de marketing emblematică înaintea sezonului de fotbal 2026/27, anunțând difuzarea a 700 de meciuri. Această inițiativă subliniază angajamentul postului de televiziune de a oferi o acoperire extinsă a fotbalului, consolidându-și poziția pe piața drepturilor de televizare. Fanii se pot aștepta la o varietate largă de competiții și evenimente, transmise pe parcursul întregului sezon, demonstrând investiția semnificativă a companiei în conținut sportiv de calitate.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-08-05T09:38:24.746650+00:00",
-      "data_afisaj": "5 august 2026, 12:38"
     }
   ]
 }
