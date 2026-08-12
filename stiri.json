@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-11T17:52:05.643419+00:00",
-  "updated_at_afisaj": "11 august 2026, 20:52",
+  "updated_at": "2026-08-12T08:20:46.997145+00:00",
+  "updated_at_afisaj": "12 august 2026, 11:20",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,52 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 110,
+  "numar_stiri": 105,
   "stiri": [
+    {
+      "id": "f969d54904c6",
+      "titlu": "Arne Slot Refuză Discuțiile cu Naționala Olandei pentru a se Concentra pe Fotbalul de Club",
+      "rezumat": "Fostul antrenor al lui Liverpool, Arne Slot, a confirmat că a purtat discuții pentru postul vacant de selecționer al Olandei, dar a decis să se retragă. Slot a declarat că următoarea sa provocare profesională va fi în fotbalul de club, indicând o preferință clară pentru munca zilnică la o echipă. Această decizie vine în contextul speculațiilor privind viitorul său și al nevoii Federației Olandeze de a găsi un nou antrenor pentru echipa națională.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-12T08:20:46.992625+00:00",
+      "data_afisaj": "12 august 2026, 11:20"
+    },
+    {
+      "id": "bcd64a373660",
+      "titlu": "Memphis Depay Acuză Corinthians de „Comportament Inacceptabil” la Încheierea Contractului",
+      "rezumat": "Atacantul Memphis Depay a lansat acuzații grave la adresa clubului brazilian Corinthians, calificând comportamentul acestuia drept „inacceptabil” și susținând că a încălcat un acord. Declarațiile vin după ce clubul a decis să nu-i reînnoiască contractul. Depay, un jucător cu experiență internațională, își încheie astfel colaborarea cu echipa braziliană într-o notă controversată, deschizând calea pentru o posibilă acțiune legală sau pentru căutarea unei noi echipe.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-12T08:20:46.994057+00:00",
+      "data_afisaj": "12 august 2026, 11:20"
+    },
+    {
+      "id": "22de714636d0",
+      "titlu": "Gustavo Hamer Revine la Coventry City printr-un Acord pe Termen Lung",
+      "rezumat": "Mijlocașul Gustavo Hamer a semnat un nou contract pe termen lung cu Coventry City, revenind la clubul de la care plecase anterior la Sheffield United. Suma de transfer nu a fost dezvăluită public. Această mutare marchează o revenire importantă pentru Coventry, care își asigură serviciile unui jucător cheie pentru viitor. Fanii echipei sunt entuziasmați de reîntoarcerea lui Hamer, considerată o întărire semnificativă a lotului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-12T08:20:46.995307+00:00",
+      "data_afisaj": "12 august 2026, 11:20"
+    },
+    {
+      "id": "8fda53766c1e",
+      "titlu": "Unai Emery Vizează Prima Supercupă cu Aston Villa",
+      "rezumat": "Aston Villa se pregătește să participe pentru prima dată din 1982 în Supercupa Europei, sub conducerea antrenorului Unai Emery. Deși este o premieră pentru club în această competiție modernă, Emery are o experiență recentă în astfel de finale. Meciul reprezintă o oportunitate importantă pentru Aston Villa de a-și testa forțele împotriva unei echipe de top și de a adăuga un trofeu european în palmaresul său, consolidând progresul sub mandatul lui Emery.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-12T08:20:46.997126+00:00",
+      "data_afisaj": "12 august 2026, 11:20"
+    },
     {
       "id": "b6932d6998e7",
       "titlu": "Inter Milano negociază transferul fundașului Djed Spence de la Tottenham pentru 25,6 milioane de lire sterline",
@@ -1169,106 +1213,6 @@
       ],
       "data_publicare": "2026-08-05T09:38:24.746650+00:00",
       "data_afisaj": "5 august 2026, 12:38"
-    },
-    {
-      "id": "c62d201cb6ef",
-      "titlu": "Mykhailo Mudryk ar putea reveni pe teren miercuri după o suspendare de 20 de luni",
-      "rezumat": "Mijlocașul lui Chelsea, Mykhailo Mudryk, ar putea reveni în acțiune miercuri, după o absență de 20 de luni cauzată de o suspendare legată de dopaj. Jucătorul a fost inclus în lotul lui Chelsea pentru un meci amical împotriva lui Juventus, programat să aibă loc în Hong Kong. Această revenire este așteptată cu interes de fanii clubului, având în vedere perioada lungă de inactivitate a fotbalistului ucrainean și potențialul său de a contribui la performanțele echipei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-04T18:23:40.861500+00:00",
-      "data_afisaj": "4 august 2026, 21:23"
-    },
-    {
-      "id": "b934adfc7d5e",
-      "titlu": "Manchester United recunoaște erori în investigația privind revânzarea ilegală de bilete",
-      "rezumat": "Clubul Manchester United a recunoscut că a făcut greșeli în modul de desfășurare a investigației sale privind revânzarea ilegală de bilete. Cu toate acestea, oficialii clubului insistă că motivele care au stat la baza acestei investigații sunt valide și necesare pentru a combate fenomenul \"ticket touting\". Declarația vine pe fondul unor critici legate de modul în care clubul a gestionat situația, afectând unii suporteri.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-04T18:23:40.863005+00:00",
-      "data_afisaj": "4 august 2026, 21:23"
-    },
-    {
-      "id": "8bd3bf513498",
-      "titlu": "Ipswich Town îl transferă pe mijlocașul Florentino de la Burnley",
-      "rezumat": "Echipa nou-promovată în Premier League, Ipswich Town, a finalizat transferul mijlocașului portughez Florentino Luis de la Burnley. Suma de transfer nu a fost dezvăluită public. Florentino Luis se alătură echipei lui Ipswich pentru a consolida linia de mijloc în vederea provocărilor din prima ligă engleză. Această achiziție reprezintă un pas important pentru club în eforturile sale de a se menține în Premier League.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-04T18:23:40.864272+00:00",
-      "data_afisaj": "4 august 2026, 21:23"
-    },
-    {
-      "id": "23c32ed715ed",
-      "titlu": "Dominik Szoboszlai minimizează disputa cu colegii de la Liverpool privind banderola de căpitan",
-      "rezumat": "Mijlocașul lui Liverpool, Dominik Szoboszlai, a declarat că a \"clarificat\" situația cu coechipierii Curtis Jones și Kostas Tsimikas, după ce aceștia au avut o discuție aprinsă pe tema banderolei de căpitan. Incidentul a avut loc recent, stârnind speculații despre tensiuni în vestiar. Declarația lui Szoboszlai sugerează că problema a fost rezolvată intern și că relațiile dintre jucători sunt acum normale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-04T18:23:40.865631+00:00",
-      "data_afisaj": "4 august 2026, 21:23"
-    },
-    {
-      "id": "402803f63262",
-      "titlu": "Barcelona o transferă pe atacanta Kerolin de la Manchester City",
-      "rezumat": "Clubul spaniol Barcelona a anunțat achiziționarea atacantei braziliene Kerolin de la campioana Women's Super League, Manchester City. Transferul marchează o mutare importantă în fotbalul feminin european, Kerolin fiind considerată una dintre cele mai talentate jucătoare din campionatul englez. Această tranzacție subliniază ambițiile Barcelonei de a-și consolida și mai mult lotul, continuând să atragă nume mari pentru a-și menține dominația în competițiile interne și europene.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-04T17:51:42.076296+00:00",
-      "data_afisaj": "4 august 2026, 20:51"
-    },
-    {
-      "id": "0c6b057793c1",
-      "titlu": "Arsène Wenger și secretarul general FIFA critică planul eșuat al Cupei Mondiale",
-      "rezumat": "Arsène Wenger, șeful departamentului de dezvoltare globală a fotbalului la FIFA, și Mattias Grafström, secretarul general al organizației, au criticat vehement planul eșuat de investiții private pentru Cupa Mondială. Grafström a descris evenimentele ca fiind \"triste și reproșabile\", în timp ce Wenger a declarat că nu a avut cunoștință despre acest plan. Declarațiile subliniază o presiune crescândă asupra președintelui FIFA, Gianni Infantino, și indică o distanțare a unor oficiali de rang înalt de deciziile sale controversate.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-04T17:51:42.077721+00:00",
-      "data_afisaj": "4 august 2026, 20:51"
-    },
-    {
-      "id": "57d4ead42959",
-      "titlu": "Coventry realizează un transfer record, achiziționându-l pe portarul Carl Rushworth",
-      "rezumat": "Coventry City a finalizat transferul definitiv al portarului Carl Rushworth de la Brighton pentru o sumă record de 22,5 milioane de lire sterline. Antrenorul Frank Lampard a salutat achiziția ca fiind \"uriașă\" pentru club, în contextul pregătirilor pentru revenirea în Premier League după 25 de ani. Rushworth, în vârstă de 25 de ani, a avut un rol esențial în campania de promovare a lui Coventry din sezonul trecut, fiind titular în toate cele 46 de meciuri de campionat și câștigând Mănușa de Aur.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-04T17:51:42.079152+00:00",
-      "data_afisaj": "4 august 2026, 20:51"
-    },
-    {
-      "id": "e66f05feff4d",
-      "titlu": "Manchester United Femei o numește pe Eva Olid noul antrenor principal",
-      "rezumat": "Manchester United Femei este pe cale să o numească pe Eva Olid, fostul manager al echipei Hearts, în funcția de antrenor principal. Aceasta o va înlocui pe Marc Skinner, care a demisionat luni. Discuțiile cu antrenoarea în vârstă de 40 de ani sunt considerate a fi într-un stadiu foarte avansat, iar Olid este așteptată să se întâlnească cu echipa miercuri. Numirea sa reprezintă un pas important pentru club înaintea noului sezon din Women's Super League.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-04T17:51:42.080478+00:00",
-      "data_afisaj": "4 august 2026, 20:51"
-    },
-    {
-      "id": "01fc950d5c63",
-      "titlu": "Aston Villa câștigă un proces important împotriva FIFA la Tribunalul de Arbitraj Sportiv",
-      "rezumat": "Aston Villa a obținut o victorie semnificativă la Tribunalul de Arbitraj Sportiv (TAS) într-un litigiu împotriva FIFA, o decizie care a adus o mare ușurare clubului. Această hotărâre legală va salva milioane de lire sterline pentru Aston Villa, permițând unui jucător englez să evolueze în Anglia, conform declarațiilor jucătorilor clubului. Victoria subliniază complexitatea reglementărilor internaționale din fotbal și impactul lor financiar asupra cluburilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-08-04T17:51:42.081891+00:00",
-      "data_afisaj": "4 august 2026, 20:51"
     }
   ]
 }
