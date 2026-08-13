@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-12T17:53:13.724830+00:00",
-  "updated_at_afisaj": "12 august 2026, 20:53",
+  "updated_at": "2026-08-13T08:23:04.262106+00:00",
+  "updated_at_afisaj": "13 august 2026, 11:23",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,58 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 105,
+  "numar_stiri": 106,
   "stiri": [
+    {
+      "id": "f6fc6b4d4f00",
+      "titlu": "Atletico Madrid A Ajuns la un Acord de 34 Milioane Lire Sterline pentru Cristian Romero de la Tottenham",
+      "rezumat": "Clubul spaniol Atletico Madrid a convenit o înțelegere în valoare de 34,2 milioane de lire sterline cu Tottenham Hotspur pentru transferul căpitanului lor, Cristian Romero. Fundașul argentinian este așteptat să se alăture echipei din La Liga, marcând o mutare semnificativă pe piața transferurilor. Această tranzacție, confirmată de mai multe surse de top, subliniază intenția lui Atletico de a-și consolida defensiva cu un jucător de calibru internațional.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-13T08:23:04.257674+00:00",
+      "data_afisaj": "13 august 2026, 11:23"
+    },
+    {
+      "id": "ae49927a01f6",
+      "titlu": "Paris Saint-Germain Câștigă Supercupa UEFA Împotriva lui Aston Villa",
+      "rezumat": "Paris Saint-Germain a învins echipa engleză Aston Villa în Supercupa UEFA, într-un meci disputat. Golurile victoriei pentru PSG au fost marcate de Khvicha Kvaratskhelia și Desire Doue, asigurând trofeul pentru campioana Franței. Această confruntare a reprezentat un test important pentru ambele echipe la începutul noului sezon european, cu PSG demonstrând forța ofensivă și capacitatea de a se impune în fața unei formații puternice din Premier League.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-13T08:23:04.259141+00:00",
+      "data_afisaj": "13 august 2026, 11:23"
+    },
+    {
+      "id": "5ef53b1b70d8",
+      "titlu": "Chelsea Stabilește un Termen Limită pentru Ofertele de 120 Milioane Lire Sterline pentru Enzo Fernandez",
+      "rezumat": "Clubul Chelsea a impus un termen limită, până vineri, pentru primirea ofertelor de 120 de milioane de lire sterline pentru mijlocașul Enzo Fernandez. Această decizie indică o posibilă plecare a jucătorului argentinian de pe Stamford Bridge, în cazul în care o echipă este dispusă să achite suma solicitată. Situația lui Fernandez este urmărită cu atenție pe piața transferurilor, având în vedere valoarea sa ridicată și interesul potențial din partea altor cluburi europene.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-13T08:23:04.260660+00:00",
+      "data_afisaj": "13 august 2026, 11:23"
+    },
+    {
+      "id": "b75931be46e6",
+      "titlu": "Bruno Guimaraes Debutează pentru Arsenal într-un Meci Amical cu Como",
+      "rezumat": "Bruno Guimaraes a avut o prestație convingătoare la debutul său pentru Arsenal, într-un meci amical încheiat la egalitate, scor 1-1, împotriva echipei Como. Partida s-a desfășurat pe stadionul Emirates, oferind fanilor o primă ocazie de a-l vedea pe noul jucător în acțiune. Debutul său marchează un moment important în pregătirea echipei pentru noul sezon competițional, integrându-l în schema de joc a antrenorului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-13T08:23:04.262086+00:00",
+      "data_afisaj": "13 august 2026, 11:23"
+    },
     {
       "id": "89dad634d939",
       "titlu": "Monaco a Respins Oferta lui Crystal Palace pentru Mijlocașul Lamine Camara",
@@ -1175,40 +1225,6 @@
       ],
       "data_publicare": "2026-08-06T09:41:38.371976+00:00",
       "data_afisaj": "6 august 2026, 12:41"
-    },
-    {
-      "id": "79256b0b4571",
-      "titlu": "Liverpool vizează transferul lui Bradley Barcola de la PSG",
-      "rezumat": "Clubul Liverpool este pregătit să facă din Bradley Barcola, aripa franceză de la Paris Saint-Germain, a treia sa achiziție de 100 de milioane de lire sterline. Jucătorul este considerat o țintă importantă pentru \"Cormorani\", care caută să-și întărească ofensiva. Analizele sugerează că Barcola ar aduce un plus semnificativ echipei de pe Anfield, fiind un talent promițător. Această mutare ar sublinia strategia de investiții a clubului în jucători de mare valoare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-08-05T18:16:06.394929+00:00",
-      "data_afisaj": "5 august 2026, 21:16"
-    },
-    {
-      "id": "0af60f5f2fcd",
-      "titlu": "Mykhailo Mudryk a revenit pe teren pentru Chelsea într-un amical cu Juventus",
-      "rezumat": "Mykhailo Mudryk a revenit pe teren pentru Chelsea, jucând pentru prima dată în aproape doi ani, într-un meci amical pierdut cu 1-0 împotriva lui Juventus la Hong Kong. Aripa ucraineană a intrat ca rezervă în minutul 82, fiind aplaudat de coechipieri și de fanii Chelsea. Antrenorul Xabi Alonso a salutat revenirea \"emoțională\" a lui Mudryk după o suspendare de 20 de luni pentru dopaj, marcând un moment important pentru cariera sa.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-05T18:16:06.395871+00:00",
-      "data_afisaj": "5 august 2026, 21:16"
-    },
-    {
-      "id": "08c811aa01d2",
-      "titlu": "Președintele FIFA, Gianni Infantino, se confruntă cu liderii executivi ai forului mondial",
-      "rezumat": "Președintele FIFA, Gianni Infantino, urmează să se întâlnească cu liderii seniori ai organismului mondial de conducere al fotbalului. Această întâlnire vine pe fondul unor tensiuni și critici la adresa conducerii sale, inclusiv acuzații de comportament \"înșelător\" și retragerea sprijinului din partea unor federații. Se așteaptă ca discuțiile să abordeze aspecte cheie legate de viitorul și integritatea organizației.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-05T18:16:06.396882+00:00",
-      "data_afisaj": "5 august 2026, 21:16"
     }
   ]
 }
