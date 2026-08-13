@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-13T08:23:04.262106+00:00",
-  "updated_at_afisaj": "13 august 2026, 11:23",
+  "updated_at": "2026-08-13T09:10:33.591001+00:00",
+  "updated_at_afisaj": "13 august 2026, 12:10",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 106,
+  "numar_stiri": 111,
   "stiri": [
+    {
+      "id": "894667231f96",
+      "titlu": "Lionel Messi a Jucat pentru Inter Miami După Decesul Tatălui Său",
+      "rezumat": "Lionel Messi a revenit pe teren pentru Inter Miami, intrând ca rezervă miercuri, la scurt timp după decesul tatălui său. Prezența sa pe teren a fost notabilă, având în vedere contextul personal dificil. Jucătorul argentinian a făcut o apariție emoționantă, iar sursele indică faptul că ar fi sugerat chiar și o posibilă retragere din fotbal, deși această informație necesită confirmări suplimentare. Momentul subliniază impactul evenimentelor personale asupra carierei sportivilor de top.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-13T09:10:33.584952+00:00",
+      "data_afisaj": "13 august 2026, 12:10"
+    },
+    {
+      "id": "37a4c05dabe7",
+      "titlu": "Antrenor Interzis de FIFA pentru Abuz Sexual Continuă să Antreneze Tineri în Congo",
+      "rezumat": "Un antrenor din Republica Democratică Congo, Jonathan Bukabakwa, cunoscut și sub numele de Messi, interzis de FIFA pentru 20 de ani în martie 2023 pentru abuz sexual asupra unui minor, continuă să antreneze tineri jucători. Această situație, dezvăluită de The Guardian, evidențiază deficiențele în procesele de protecție ale FIFA. Bukabakwa, care a fost și amendat cu 100.000 de franci elvețieni, a fost eliberat din închisoare anul trecut și își continuă activitatea, ridicând semne de întrebare serioase privind aplicarea sancțiunilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-13T09:10:33.586462+00:00",
+      "data_afisaj": "13 august 2026, 12:10"
+    },
+    {
+      "id": "821689aff1f2",
+      "titlu": "Mikel Arteta Confirmă Intenția Arsenal de a Face Noi Transferuri",
+      "rezumat": "Antrenorul lui Arsenal, Mikel Arteta, a declarat că clubul caută activ noi achiziții pe piața transferurilor pentru a-și consolida lotul. Cu toate acestea, Arteta a recunoscut că există un număr limitat de jucători disponibili care pot aduce echipa la un nivel superior. Declarația subliniază ambițiile clubului de a se îmbunătăți continuu, dar și provocările întâmpinate în găsirea talentelor potrivite care să se integreze în viziunea sa strategică pentru sezonul următor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-13T09:10:33.587896+00:00",
+      "data_afisaj": "13 august 2026, 12:10"
+    },
+    {
+      "id": "a2d4c9186dd4",
+      "titlu": "Tinerii Madjo și Hemmings Impresionează la Debutul pentru Aston Villa în Supercupa UEFA",
+      "rezumat": "Aston Villa, deși învinsă cu 2-1 de Paris Saint-Germain în Supercupa UEFA, a descoperit doi jucători promițători. Atacantul Brian Madjo, în vârstă de 17 ani, a marcat la debutul său, iar aripa George Hemmings, de 19 ani, a avut, de asemenea, o prestație remarcabilă. Această apariție a tinerilor talente sugerează o direcție nouă pentru echipa lui Unai Emery, demonstrând potențialul academiei clubului în meciuri de anvergură europeană. Performanțele lor au fost evidențiate ca fiind \"extrem de impresionante\" de analiștii sportivi.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-13T09:10:33.589411+00:00",
+      "data_afisaj": "13 august 2026, 12:10"
+    },
+    {
+      "id": "807fa0579739",
+      "titlu": "Gianni Infantino Pregătit să Susțină Modificări la Cupa Mondială în Vederea Alegerilor FIFA",
+      "rezumat": "Președintele FIFA, Gianni Infantino, este pregătit să sprijine modificări ale formatului Cupei Mondiale, în contextul în care își curtează asociațiile membre înaintea candidaturii sale pentru un nou mandat prezidențial. Infantino se confruntă cu presiuni continue, dar disponibilitatea sa de a face compromisuri în privința fotbalului pentru a-și menține puterea este considerată fără egal. Această strategie politică vizează consolidarea sprijinului în roul său de lider al organizației mondiale de fotbal.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-08-13T09:10:33.590978+00:00",
+      "data_afisaj": "13 august 2026, 12:10"
+    },
     {
       "id": "f6fc6b4d4f00",
       "titlu": "Atletico Madrid A Ajuns la un Acord de 34 Milioane Lire Sterline pentru Cristian Romero de la Tottenham",
