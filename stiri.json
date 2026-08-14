@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-14T08:17:25.915064+00:00",
-  "updated_at_afisaj": "14 august 2026, 11:17",
+  "updated_at": "2026-08-14T09:05:46.681516+00:00",
+  "updated_at_afisaj": "14 august 2026, 12:05",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 116,
+  "numar_stiri": 118,
   "stiri": [
+    {
+      "id": "7ea51826a5f7",
+      "titlu": "Manchester City Femei Își Propune Să-și Apere Titlul în Fața Rivalelor Tot Mai Puternice",
+      "rezumat": "Echipa feminină a clubului Manchester City și-a consolidat lotul în această vară, însă rămâne de văzut dacă va fi suficient pentru a-și apăra coroana în Women's Super League. Competiția devine tot mai acerbă, iar rivalele au investit semnificativ pentru a-și întări propriile echipe. Analiza pre-sezonului sugerează că City va trebui să demonstreze o formă excepțională și o strategie solidă pentru a-și menține poziția de campioană într-un campionat din ce în ce mai competitiv.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-14T09:05:46.674901+00:00",
+      "data_afisaj": "14 august 2026, 12:05"
+    },
+    {
+      "id": "30134e6d9948",
+      "titlu": "Analiză: Problemele Echipei Rangers Sub Conducerea Lui Derek McInnes După Eliminarea din Europa League",
+      "rezumat": "După înfrângerea suferită de Rangers în calificările Europa League împotriva echipei Jagellonia Bialystok, se analizează dificultățile întâmpinate de noul antrenor Derek McInnes și de echipa sa în acest debut de sezon. Eliminarea din competiția europeană a stârnit semne de întrebare cu privire la strategia și performanța clubului. Suporterii și analiștii caută explicații pentru startul sub așteptări și pentru direcția în care se îndreaptă echipa sub noua conducere tehnică.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-14T09:05:46.676678+00:00",
+      "data_afisaj": "14 august 2026, 12:05"
+    },
+    {
+      "id": "42f3afbedf08",
+      "titlu": "Chelsea Speră Să Repete Performanța de Acum Un Deceniu, De La Locul 10 la Titlul Premier League",
+      "rezumat": "Cu un nou antrenor, Xabi Alonso, la cârma echipei, Chelsea își propune să realizeze o ascensiune spectaculoasă, similară cu cea de acum un deceniu, când a trecut de la locul 10 la câștigarea titlului Premier League. Obiectivul este ambițios, iar fanii se întreabă dacă noul tehnician va reuși să revitalizeze echipa și să o readucă în lupta pentru trofeu. Sezonul care urmează va fi un test crucial pentru capacitatea clubului de a-și depăși performanța recentă și de a concura la cel mai înalt nivel.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-14T09:05:46.678367+00:00",
+      "data_afisaj": "14 august 2026, 12:05"
+    },
+    {
+      "id": "c7f38702c2af",
+      "titlu": "Wesley Fofana de la Chelsea: De la Abuz Rasist la Căutarea Stabilității",
+      "rezumat": "Fundașul lui Chelsea, Wesley Fofana, a trecut printr-o perioadă dificilă în sezonul trecut, confruntându-se cu critici, momente de neînțelegere și, cel mai grav, abuzuri rasiste. În ciuda acestor provocări, Fofana își exprimă convingerea că stabilitatea va fi cheia unui viitor \"extraordinar\" la Chelsea. El speră ca echipa să găsească echilibrul necesar pentru a performa constant și pentru a-și atinge obiectivele, depășind obstacolele personale și colective.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-14T09:05:46.679904+00:00",
+      "data_afisaj": "14 august 2026, 12:05"
+    },
+    {
+      "id": "a18a04044557",
+      "titlu": "Jarrod Bowen, Căpitanul West Ham, Despre Revenirea în Premier League",
+      "rezumat": "După retrogradarea echipei West Ham din Premier League în luna mai, după 15 ani petrecuți în prima ligă, căpitanul Jarrod Bowen a declarat că nu-i pasă cum anume va reuși echipa să revină în Sky Bet Championship, atâta timp cât obiectivul este atins. Declarația subliniază determinarea jucătorului și a clubului de a se întoarce rapid în elita fotbalului englez. Sezonul care urmează va fi unul plin de provocări, dar ambiția de a promova este clară.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-14T09:05:46.681494+00:00",
+      "data_afisaj": "14 august 2026, 12:05"
+    },
     {
       "id": "57a1e3c42eb2",
       "titlu": "Oceania Își Declară Sprijinul pentru Gianni Infantino, în Timp ce Noua Zeelandă Se Delimitează",
@@ -1301,40 +1356,6 @@
       ],
       "data_publicare": "2026-08-07T16:56:59.219730+00:00",
       "data_afisaj": "7 august 2026, 19:56"
-    },
-    {
-      "id": "549bd484b046",
-      "titlu": "Liverpool investește 60 de milioane de lire sterline pentru transferul fundașului central Jeremy Jacquet",
-      "rezumat": "Liverpool a făcut o investiție majoră în apărare, aducându-l pe tânărul fundaș central francez Jeremy Jacquet într-un transfer evaluat la 60 de milioane de lire sterline. Clubul are așteptări mari de la Jacquet, considerându-l o achiziție strategică pentru viitor. Deși o accidentare i-a perturbat pregătirea de pre-sezon, oficialii de la Anfield sunt încrezători în calitățile jucătorului și cred că acesta va justifica suma plătită. Transferul subliniază intenția lui Liverpool de a-și întări defensiva cu talente de top.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-07T08:57:39.168099+00:00",
-      "data_afisaj": "7 august 2026, 11:57"
-    },
-    {
-      "id": "dee9d751d8a6",
-      "titlu": "Barcelona intensifică interesul pentru Rodri, după ce discuțiile Real Madrid cu starul lui Manchester City au stagnat",
-      "rezumat": "Barcelona și-a intensificat eforturile de a-l aduce pe mijlocașul Rodri de la Manchester City, încercând să deturneze planurile rivalei Real Madrid. Deși City speră ca internaționalul spaniol să semneze un nou contract, având în vedere că a intrat în ultimul an al înțelegerii sale, clubul ar fi dispus să-l lase să plece pentru aproximativ 60 de milioane de lire sterline. Discuțiile dintre Real Madrid și reprezentanții lui Rodri au stagnat de săptămâni întregi, deschizând calea pentru intervenția Barcelonei în această cursă pentru semnătura căpitanului campioanei mondiale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-08-07T08:57:39.169568+00:00",
-      "data_afisaj": "7 august 2026, 11:57"
-    },
-    {
-      "id": "f28f72dd7e89",
-      "titlu": "CAF a pierdut un acord de peste 1 miliard de dolari din cauza schimbării formatului Cupei Africii pe Națiuni",
-      "rezumat": "Confederația Africană de Fotbal (CAF) a abandonat un acord financiar de cel puțin 1 miliard de dolari, garantat pe o perioadă de opt ani, din cauza deciziei de a schimba Cupa Africii pe Națiuni dintr-un eveniment bienal într-unul care are loc la fiecare patru ani. Această modificare a ciclului competițional a dus la anularea ofertei pentru ediția din 2025 și a lăsat CAF fără un acord financiar pe termen lung din 2019. Președintele CAF, Patrice Motsepe, a confirmat impactul acestei decizii.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-07T08:57:39.170954+00:00",
-      "data_afisaj": "7 august 2026, 11:57"
     }
   ]
 }
