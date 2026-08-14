@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-14T16:57:17.062780+00:00",
-  "updated_at_afisaj": "14 august 2026, 19:57",
+  "updated_at": "2026-08-14T17:46:03.956340+00:00",
+  "updated_at_afisaj": "14 august 2026, 20:46",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,56 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 122,
+  "numar_stiri": 118,
   "stiri": [
+    {
+      "id": "2793a23389df",
+      "titlu": "Analiză: Cum se vor descurca cele trei echipe retrogradate în Championship?",
+      "rezumat": "BBC Sport și The Guardian analizează perspectivele celor trei echipe retrogradate din Premier League – West Ham, Burnley și Wolves – în noul sezon din Championship. Articolele examinează strategiile pe care le vor adopta aceste cluburi pentru a naviga în a doua ligă engleză, provocările financiare și sportive, precum și șansele lor de a reveni rapid în elita fotbalului englez. Se discută despre impactul pierderii statutului de Premier League asupra loturilor de jucători și a stabilității cluburilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-14T17:46:03.950321+00:00",
+      "data_afisaj": "14 august 2026, 20:46"
+    },
+    {
+      "id": "a1219dcf02da",
+      "titlu": "Petrolul Învinge FC Voluntari cu 2-1 în Superliga României",
+      "rezumat": "Petrolul Ploiești a obținut o victorie importantă în deplasare împotriva echipei FC Voluntari, scor 2-1, în cadrul etapei a cincea a Superligii României. Golurile victoriei pentru „lupii galbeni” au fost marcate de Flores și Malula, asigurând cele trei puncte pentru oaspeți. Reușita de onoare a gazdelor a fost semnată de Roman. Această partidă subliniază lupta intensă din campionatul intern și influența jucătorilor cheie în rezultatele finale ale meciurilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-08-14T17:46:03.951880+00:00",
+      "data_afisaj": "14 august 2026, 20:46"
+    },
+    {
+      "id": "3a509c433b4f",
+      "titlu": "Enzo Fernández Rămâne la Chelsea După Ce Manchester City Nu A Făcut Ofertă Până la Termenul Limită",
+      "rezumat": "Termenul limită stabilit de Chelsea pentru primirea ofertelor de 120 de milioane de lire sterline pentru mijlocașul Enzo Fernández a expirat, iar Manchester City nu a înaintat nicio propunere. În consecință, Chelsea se așteaptă ca internaționalul argentinian să rămână la club în acest sezon. Deși City ar putea menține interesul, lipsa unei oferte concrete până la termenul impus confirmă decizia lui Fernández de a continua la Stamford Bridge, cel puțin pentru moment.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-14T17:46:03.954655+00:00",
+      "data_afisaj": "14 august 2026, 20:46"
+    },
+    {
+      "id": "9258db10076d",
+      "titlu": "Surorile Chawinga, Vedetele Echipei Malawi la Cupa Africii pe Națiuni la Fotbal Feminin",
+      "rezumat": "Surorile Tabitha și Temwa Chawinga sunt considerate principalele vedete ale echipei naționale a Malawi, care a avut o evoluție surprinzătoare până în finala Cupei Africii pe Națiuni la Fotbal Feminin din 2026. Performanța lor excepțională a propulsat echipa într-o poziție neașteptată, atrăgând atenția asupra talentului și contribuției lor esențiale la succesul naționalei. Prezența lor în finală reprezintă o realizare istorică pentru fotbalul feminin din Malawi.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-14T17:46:03.956322+00:00",
+      "data_afisaj": "14 august 2026, 20:46"
+    },
     {
       "id": "52c9620377a1",
       "titlu": "Noi Reguli Introduse în Fotbal pentru Sezonul 2026-27",
@@ -1308,99 +1356,6 @@
       ],
       "data_publicare": "2026-08-08T07:51:50.018037+00:00",
       "data_afisaj": "8 august 2026, 10:51"
-    },
-    {
-      "id": "2140d9ea0587",
-      "titlu": "Manchester City refuză oferta de 38,5 milioane de lire sterline a Barcelonei pentru Rodri",
-      "rezumat": "Manchester City a respins o ofertă de 38,5 milioane de lire sterline din partea Barcelonei pentru mijlocașul Rodri. Deși campioana Angliei este deschisă la vânzarea căpitanului Spaniei, clubul solicită o sumă de peste 60 de milioane de lire sterline pentru serviciile sale. Această decizie subliniază valoarea pe care City o atribuie jucătorului și complexitatea negocierilor în piața transferurilor, indicând că Barcelona va trebui să-și revizuiască strategia financiară pentru a-l aduce pe mijlocașul dorit.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-07T17:42:06.082990+00:00",
-      "data_afisaj": "7 august 2026, 20:42"
-    },
-    {
-      "id": "edd8f14470c5",
-      "titlu": "Franța intenționează să participe la Cupa Mondială U20 Feminin, în ciuda amenințării de boicot a UEFA",
-      "rezumat": "Federația Franceză de Fotbal a anunțat că echipa sa națională U20 feminină intenționează să concureze la Cupa Mondială de luna viitoare, în ciuda amenințării UEFA de a boicota competițiile FIFA. Această decizie subliniază o potențială tensiune între federațiile naționale și organismul european de fotbal, pe fondul unor dispute mai ample privind organizarea competițiilor internaționale și suveranitatea deciziilor federale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-07T17:42:06.084798+00:00",
-      "data_afisaj": "7 august 2026, 20:42"
-    },
-    {
-      "id": "f4846c1dc618",
-      "titlu": "Newcastle refuză oferta lui Manchester United pentru fundașul Lewis Hall",
-      "rezumat": "Newcastle United a informat clubul Manchester United că fundașul Lewis Hall nu este de vânzare în această vară, după ce o primă solicitare a fost respinsă. Această poziție fermă a lui Newcastle indică dorința clubului de a-l păstra pe jucător și de a nu-l ceda, consolidându-și lotul pentru sezonul viitor, în ciuda interesului unui club de top din Premier League care căuta să-și întărească defensiva.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-07T17:42:06.086069+00:00",
-      "data_afisaj": "7 august 2026, 20:42"
-    },
-    {
-      "id": "7015dd5d1635",
-      "titlu": "Crystal Palace îl transferă pe fundașul Takehiro Tomiyasu după o perioadă de probă",
-      "rezumat": "Crystal Palace a finalizat transferul fundașului japonez Takehiro Tomiyasu, după o perioadă de probă reușită în pre-sezon. Jucătorul, cunoscut pentru versatilitatea sa defensivă, se alătură echipei din Premier League, aducând un plus de experiență și opțiuni pentru linia defensivă a clubului. Această mutare marchează o nouă etapă în cariera internaționalului japonez, care va căuta să se impună rapid în fotbalul englez de elită.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-07T17:42:06.087327+00:00",
-      "data_afisaj": "7 august 2026, 20:42"
-    },
-    {
-      "id": "e580924b68ef",
-      "titlu": "Atacantul englez Toney, acuzat de agresiune",
-      "rezumat": "Atacantul englez Toney a fost acuzat de agresiune în zona Soho din Londra. Fostul jucător al lui Brentford, în vârstă de 30 de ani, urmează să compară în instanță luna viitoare pentru a răspunde acuzațiilor. Incidentul aduce în atenție comportamentul jucătorilor de fotbal în afara terenului și consecințele legale ale acestuia, stârnind discuții în comunitatea sportivă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-07T16:56:59.216014+00:00",
-      "data_afisaj": "7 august 2026, 19:56"
-    },
-    {
-      "id": "a88613f7f558",
-      "titlu": "Tensiuni la FIFA: Norvegia cere demisia lui Infantino, Mexic și Argentina îl susțin",
-      "rezumat": "Federația Norvegiană de Fotbal a cerut demisia președintelui FIFA, Gianni Infantino, în urma tentativei sale de a vinde acțiuni la Cupa Mondială. În contrast, federațiile din Mexic și Argentina și-au declarat public sprijinul pentru Infantino, adâncind astfel diviziunile în cadrul fotbalului mondial. Președinta Federației Norvegiene a subliniat că \"nu mai există cale de întoarcere\" pentru liderul FIFA, pe fondul unei serii de controverse legate de conducerea forului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-07T16:56:59.217455+00:00",
-      "data_afisaj": "7 august 2026, 19:56"
-    },
-    {
-      "id": "d88114ba97f6",
-      "titlu": "Tottenham negociază transferul lui Cristian Romero cu Atlético Madrid",
-      "rezumat": "Tottenham Hotspur se află în discuții cu Atlético Madrid privind o posibilă vânzare a fundașului argentinian Cristian Romero. Clubul londonez a respins anterior o abordare din partea lui Arsenal pentru jucător, care și-a exprimat dorința de a părăsi Spurs în această vară. Negocierile indică o posibilă schimbare majoră în defensiva echipei engleze, Romero fiind un jucător cheie în ultimii ani.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-07T16:56:59.218723+00:00",
-      "data_afisaj": "7 august 2026, 19:56"
-    },
-    {
-      "id": "b5040430ddd8",
-      "titlu": "FA interzice zidurile perimetrale solide în jurul terenurilor de fotbal",
-      "rezumat": "Asociația de Fotbal (FA) din Anglia a interzis construirea zidurilor perimetrale solide în jurul terenurilor de joc, în urma unei revizuiri a normelor de siguranță. Decizia vine după decesul fostului jucător de tineret al lui Arsenal, Billy Vigar, subliniind importanța măsurilor de precauție pentru siguranța jucătorilor. Această modificare regulamentară vizează reducerea riscurilor de accidentare pe terenurile de fotbal din Anglia.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-07T16:56:59.219730+00:00",
-      "data_afisaj": "7 august 2026, 19:56"
     }
   ]
 }
