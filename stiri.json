@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-14T09:05:46.681516+00:00",
-  "updated_at_afisaj": "14 august 2026, 12:05",
+  "updated_at": "2026-08-14T16:57:17.062780+00:00",
+  "updated_at_afisaj": "14 august 2026, 19:57",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,53 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 118,
+  "numar_stiri": 122,
   "stiri": [
+    {
+      "id": "52c9620377a1",
+      "titlu": "Noi Reguli Introduse în Fotbal pentru Sezonul 2026-27",
+      "rezumat": "Sezonul de fotbal 2026-27 va aduce un număr fără precedent de noi reguli, majoritatea fiind concepute pentru a combate pierderea de timp și a accelera ritmul jocului. Printre modificări se numără ajustări la sistemul VAR, reguli mai stricte privind întârzierea jocului și noi protocoale pentru înlocuiri. Aceste inovații legislative urmăresc să îmbunătățească fluiditatea meciurilor și să ofere o experiență mai dinamică atât pentru jucători, cât și pentru spectatori, abordând aspecte critice ale desfășurării partidelor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-14T16:57:17.058068+00:00",
+      "data_afisaj": "14 august 2026, 19:57"
+    },
+    {
+      "id": "00b7f08d8f48",
+      "titlu": "A Murit Jimmy Rimmer, Fost Portar la Aston Villa și Manchester United",
+      "rezumat": "Jimmy Rimmer, fostul portar al echipelor Aston Villa și Manchester United și câștigător al Cupei Europene, a încetat din viață la vârsta de 78 de ani. Rimmer a fost o figură emblematică în fotbalul englez, având o carieră notabilă în anii '70 și '80. El a contribuit la succesele ambelor cluburi, fiind recunoscut pentru performanțele sale constante între buturi. Comunitatea fotbalistică își exprimă regretul pentru pierderea unei legende a sportului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-14T16:57:17.059662+00:00",
+      "data_afisaj": "14 august 2026, 19:57"
+    },
+    {
+      "id": "dadc14b2b10c",
+      "titlu": "Arsenal Inițiază Discuții pentru Transferul Fundașului Jarell Quansah",
+      "rezumat": "Arsenal a început negocierile cu Bayer Leverkusen pentru transferul fundașului englez Jarell Quansah. Clubul din Bundesliga solicită cel puțin 50 de milioane de euro pentru apărător. Arsenal intensifică eforturile de a aduce acoperire pentru William Saliba și Jurriën Timber, ambii urmând să rateze startul sezonului. Quansah, care a părăsit Liverpool vara trecută pentru 30 de milioane de lire sterline și a făcut parte din lotul Angliei la Cupa Mondială, este considerat o soluție ideală pentru defensiva londonezilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-14T16:57:17.061175+00:00",
+      "data_afisaj": "14 august 2026, 19:57"
+    },
+    {
+      "id": "37d412145049",
+      "titlu": "Pozițiile Confederațiilor de Fotbal Față de FIFA și Gianni Infantino, Explicate",
+      "rezumat": "Decizia Confederației de Fotbal din Oceania (OFC) de a lăuda progresele FIFA din ultimul deceniu înseamnă că toate cele șase confederații continentale și-au exprimat în cele din urmă punctul de vedere cu privire la planul de vânzare a Cupei Mondiale, care a divizat fotbalul mondial. Această situație subliniază o divizare clară în cadrul organismelor de conducere ale fotbalului, cu voturile părând a fi echilibrate. Articolul oferă o analiză a pozițiilor fiecărei confederații și a implicațiilor pentru viitorul președinției FIFA și al competițiilor internaționale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-14T16:57:17.062764+00:00",
+      "data_afisaj": "14 august 2026, 19:57"
+    },
     {
       "id": "7ea51826a5f7",
       "titlu": "Manchester City Femei Își Propune Să-și Apere Titlul în Fața Rivalelor Tot Mai Puternice",
