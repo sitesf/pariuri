@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-14T17:46:03.956340+00:00",
-  "updated_at_afisaj": "14 august 2026, 20:46",
+  "updated_at": "2026-08-15T07:32:31.493568+00:00",
+  "updated_at_afisaj": "15 august 2026, 10:32",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,54 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 118,
+  "numar_stiri": 122,
   "stiri": [
+    {
+      "id": "ad2ac74bef84",
+      "titlu": "Consorțiul susținut de Jeff Bezos cumpără o treime din Liverpool",
+      "rezumat": "Proprietarii clubului Liverpool, Fenway Sports Group, au confirmat acordul de vânzare a aproximativ o treime din acțiunile clubului către un consorțiu care îl include pe miliardarul Jeff Bezos, fondatorul Amazon, și pe co-fondatorul Facebook, Eduardo Saverin. Tranzacția este evaluată la 1,65 miliarde de lire sterline, ceea ce evaluează întregul club la 5,5 miliarde de lire sterline. Amit Bhatia va deveni noul vicepreședinte al consiliului de administrație, marcând o investiție semnificativă în viitorul clubului de pe Anfield.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-15T07:32:31.488196+00:00",
+      "data_afisaj": "15 august 2026, 10:32"
+    },
+    {
+      "id": "f02d1be099aa",
+      "titlu": "Raúl Jiménez salvează un punct dramatic pentru Wolves la revenirea pe Molineux",
+      "rezumat": "Raúl Jiménez a marcat un gol egalizator din penalty în prelungiri, la revenirea sa pe Molineux, salvând un punct pentru Wolves într-un meci încheiat 2-2 împotriva echipei Blackburn. Atacantul mexican, care a intrat pe teren de pe bancă, a transformat lovitura de la 11 metri acordată pentru un henț, asigurând un rezultat de egalitate în debutul sezonului din Championship. Golul său a evitat o înfrângere jenantă pentru Wolves în fața propriilor suporteri.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-15T07:32:31.490366+00:00",
+      "data_afisaj": "15 august 2026, 10:32"
+    },
+    {
+      "id": "e1506f8ca304",
+      "titlu": "Șahtior Donețk dorește să joace meciurile din Liga Campionilor pe Stamford Bridge",
+      "rezumat": "Clubul ucrainean Șahtior Donețk și-a exprimat dorința de a-și disputa meciurile de pe teren propriu din Liga Campionilor pe stadionul Stamford Bridge al echipei Chelsea, în acest sezon. Această solicitare vine în contextul situației actuale din Ucraina, care împiedică desfășurarea partidelor internaționale pe teritoriul național. Decizia finală va depinde de acordul UEFA și al clubului Chelsea, care ar trebui să aprobe utilizarea facilităților lor pentru meciurile europene.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-15T07:32:31.491991+00:00",
+      "data_afisaj": "15 august 2026, 10:32"
+    },
+    {
+      "id": "e539036a72b5",
+      "titlu": "Erling Haaland adaugă patru recorduri mondiale Guinness la colecția sa de trofee",
+      "rezumat": "Atacantul norvegian Erling Haaland și-a îmbogățit palmaresul cu încă patru recorduri mondiale Guinness, primind premiile pentru performanțele sale remarcabile. Această recunoaștere subliniază dominația sa în fotbalul mondial și capacitatea sa de a stabili noi standarde în sport. Detaliile specifice ale recordurilor nu au fost încă publicate, dar se așteaptă să fie legate de performanțele sale de golgheter și de alte realizări notabile din cariera sa recentă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-08-15T07:32:31.493552+00:00",
+      "data_afisaj": "15 august 2026, 10:32"
+    },
     {
       "id": "2793a23389df",
       "titlu": "Analiză: Cum se vor descurca cele trei echipe retrogradate în Championship?",
