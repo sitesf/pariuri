@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-15T07:32:31.493568+00:00",
-  "updated_at_afisaj": "15 august 2026, 10:32",
+  "updated_at": "2026-08-15T08:26:46.200144+00:00",
+  "updated_at_afisaj": "15 august 2026, 11:26",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,42 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 122,
+  "numar_stiri": 120,
   "stiri": [
+    {
+      "id": "2f15024bb42c",
+      "titlu": "Arteta nu este îngrijorat de discuțiile privind contractul său la Arsenal",
+      "rezumat": "Mikel Arteta a declarat că suporterii nu ar trebui să-și facă griji în privința viitorului său la Arsenal. Antrenorul spaniol a subliniat că dorește să-și prelungească actualul contract și că timpul rămas din înțelegere nu reprezintă o problemă. Declarațiile vin în contextul speculațiilor legate de viitorul său pe banca tehnică a clubului londonez, Arteta exprimându-și încrederea în continuarea proiectului său la echipă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-15T08:26:46.196071+00:00",
+      "data_afisaj": "15 august 2026, 11:26"
+    },
+    {
+      "id": "f701248aee8d",
+      "titlu": "Cluburile de top din Europa au amenințat cu boicotarea Cupei Mondiale a Cluburilor",
+      "rezumat": "Cele mai importante cluburi europene au amenințat cu boicotarea viitoarelor ediții ale Cupei Mondiale a Cluburilor, dacă Gianni Infantino nu retrage schema sa \"Fifa Forward Enterprise\". Ultimatumul a fost emis cu doar câteva ore înainte ca planul FIFA să fie anulat. Grupul influent al Cluburilor Europene de Fotbal (EFC) a avertizat că participarea lor la turneele viitoare depinde de retragerea acestei inițiative, subliniind tensiunile dintre cluburi și forul mondial.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-15T08:26:46.198197+00:00",
+      "data_afisaj": "15 august 2026, 11:26"
+    },
+    {
+      "id": "75bb67d5e8ed",
+      "titlu": "Mapi León de la London City Lionesses: „Este un club creat pentru femei. Este frumos și incitant”",
+      "rezumat": "Fundașa spaniolă Mapi León a vorbit despre transferul său de la Barcelona la London City Lionesses, un club dedicat fotbalului feminin. Ea a descris experiența ca fiind „frumoasă și incitantă”, adaptându-se la stilul diferit al WSL. León a subliniat importanța unui club construit special pentru femei și entuziasmul ei de a contribui la succesul noii sale echipe. Această mutare reprezintă o schimbare semnificativă în cariera jucătoarei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-15T08:26:46.200123+00:00",
+      "data_afisaj": "15 august 2026, 11:26"
+    },
     {
       "id": "ad2ac74bef84",
       "titlu": "Consorțiul susținut de Jeff Bezos cumpără o treime din Liverpool",
@@ -1344,64 +1378,6 @@
       ],
       "data_publicare": "2026-08-08T08:38:51.871399+00:00",
       "data_afisaj": "8 august 2026, 11:38"
-    },
-    {
-      "id": "1393242d5b1a",
-      "titlu": "Gianni Infantino neagă acuzațiile că UEFA ar fi plătit o presupusă amantă",
-      "rezumat": "Președintele FIFA, Gianni Infantino, a negat acuzațiile conform cărora UEFA ar fi efectuat o plată compensatorie către o presupusă amantă a sa, în perioada în care ocupa funcția de secretar general al forului european. O investigație a Daily Telegraph a sugerat că această plată ar fi avut loc. UEFA a confirmat că este la curent cu aceste acuzații, care aduc noi tensiuni în jurul conducerii fotbalului mondial, deja confruntată cu diverse controverse.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-08T07:51:50.012811+00:00",
-      "data_afisaj": "8 august 2026, 10:51"
-    },
-    {
-      "id": "df030fe750fa",
-      "titlu": "Manchester City ajunge la un acord pentru transferul portarului Geronimo Rulli de la Marseille",
-      "rezumat": "Manchester City a ajuns la un acord pentru a-l transfera pe portarul argentinian Geronimo Rulli de la clubul francez Olympique Marseille. Detaliile financiare ale tranzacției nu au fost încă publicate, dar se anticipează că Rulli se va alătura echipei lui Pep Guardiola pentru a consolida opțiunile din poartă. Această mutare marchează o nouă achiziție importantă pentru campioana Angliei în fereastra de transferuri, aducând experiență internațională în lot.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-08T07:51:50.014080+00:00",
-      "data_afisaj": "8 august 2026, 10:51"
-    },
-    {
-      "id": "6c23f86bb101",
-      "titlu": "Liverpool este aproape de a-l împrumuta pe fundașul Ronald Araujo de la Barcelona",
-      "rezumat": "Liverpool este pe punctul de a finaliza un acord pentru împrumutul fundașului uruguayan Ronald Araujo de la FC Barcelona, pentru un sezon întreg. Înțelegerea include și o opțiune de cumpărare definitivă a jucătorului. Această mutare ar adăuga profunzime și calitate defensivei lui Liverpool, care caută să-și întărească lotul pentru noul sezon. Araujo este considerat un fundaș central talentat și versatil, capabil să joace și pe flancul drept.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-08T07:51:50.015339+00:00",
-      "data_afisaj": "8 august 2026, 10:51"
-    },
-    {
-      "id": "694c2bb5341c",
-      "titlu": "Asociația Scoțiană de Fotbal convoacă un summit crucial pentru viitorul fotbalului național",
-      "rezumat": "Asociația Scoțiană de Fotbal (SFA) a anunțat convocarea unui summit considerat „critic de important” pentru a discuta și a stabili direcțiile viitoare ale fotbalului național. Întâlnirea va reuni factori de decizie și părți interesate pentru a aborda provocările și oportunitățile din sportul scoțian. Scopul este de a elabora strategii pe termen lung pentru dezvoltarea și îmbunătățirea fotbalului la toate nivelurile, de la bază la echipele naționale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-08T07:51:50.016594+00:00",
-      "data_afisaj": "8 august 2026, 10:51"
-    },
-    {
-      "id": "d6c839915b0c",
-      "titlu": "Middlesbrough învinge Wrexham în Cupa Ligii, cu un gol la debut al lui Will Lankshear",
-      "rezumat": "Middlesbrough a început noul sezon cu o victorie, învingând Wrexham cu scorul de 1-0 în prima rundă a Cupei Ligii Angliei (Carabao Cup). Unicul gol al partidei a fost marcat de Will Lankshear, aflat la debutul său pentru Middlesbrough, în minutul 61. Atacantul, transferat în vară de la Tottenham, a reușit o execuție spectaculoasă, asigurând calificarea echipei sale în faza următoare a competiției. De asemenea, Wolves și Stevenage au avansat în turul următor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-08T07:51:50.018037+00:00",
-      "data_afisaj": "8 august 2026, 10:51"
     }
   ]
 }
