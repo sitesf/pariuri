@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-15T08:26:46.200144+00:00",
-  "updated_at_afisaj": "15 august 2026, 11:26",
+  "updated_at": "2026-08-15T16:29:03.828609+00:00",
+  "updated_at_afisaj": "15 august 2026, 19:29",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,67 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 120,
+  "numar_stiri": 121,
   "stiri": [
+    {
+      "id": "2321e86bc905",
+      "titlu": "CFR Cluj renunță la un jucător, conform declarațiilor lui Marius Șumudică",
+      "rezumat": "Antrenorul Marius Șumudică a anunțat că un jucător nu mai intră în planurile sale la CFR Cluj, marcând prima decizie majoră de lot sub conducerea sa. Această mișcare indică o restructurare a echipei înaintea noului sezon, Șumudică dorind să-și impună viziunea asupra componenței lotului. Decizia a fost comunicată public, subliniind intenția antrenorului de a lucra doar cu fotbaliști care se aliniază strategiei sale tactice și de performanță.",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-08-15T16:29:03.822313+00:00",
+      "data_afisaj": "15 august 2026, 19:29"
+    },
+    {
+      "id": "1173b4659d72",
+      "titlu": "Enzo Fernandez, huiduit de suporterii Chelsea în timpul unui meci recent",
+      "rezumat": "Mijlocașul Enzo Fernandez a fost ținta huiduielilor din partea unor secțiuni ale suporterilor Chelsea în timpul unei apariții recente pe teren. Incidentul a avut loc într-un context în care antrenorul Xabi Alonso a oferit o primă imagine a planurilor sale pentru sezon, iar reacția fanilor sugerează o anumită nemulțumire față de performanța sau implicarea jucătorului. Această situație adaugă presiune asupra campionului mondial argentinian la începutul noului sezon.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-15T16:29:03.824025+00:00",
+      "data_afisaj": "15 august 2026, 19:29"
+    },
+    {
+      "id": "d2e4958d17b5",
+      "titlu": "Sebastien Pocognoli, principalul candidat pentru funcția de selecționer al Scoției",
+      "rezumat": "Fostul antrenor al echipei Monaco, Sebastien Pocognoli, în vârstă de 39 de ani, a fost identificat de Asociația Scoțiană de Fotbal ca fiind principalul candidat pentru a-l înlocui pe Steve Clarke la conducerea naționalei. Dacă va fi numit, Pocognoli ar deveni primul selecționer non-scoțian al țării de la Berti Vogts (2002-2004). Numirea sa este așteptată la începutul săptămânii viitoare, Scoția urmând să joace împotriva Sloveniei în Liga Națiunilor pe 26 septembrie.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-15T16:29:03.825473+00:00",
+      "data_afisaj": "15 august 2026, 19:29"
+    },
+    {
+      "id": "f23c6ab2d610",
+      "titlu": "Newcastle United, în discuții avansate pentru transferul fundașului Amar Dedic de la Benfica",
+      "rezumat": "Newcastle United se află în discuții avansate pentru a-l aduce pe fundașul Amar Dedic de la Benfica. Clubul englez a trimis oficiali pentru a-l urmări pe fundașul dreapta în Europa League, iar managerul echipei a rupt tăcerea cu privire la un posibil acord. Transferul ar consolida apărarea lui Newcastle, care își propune să-și îmbunătățească performanțele în sezonul viitor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-08-15T16:29:03.827000+00:00",
+      "data_afisaj": "15 august 2026, 19:29"
+    },
+    {
+      "id": "16b1febefca6",
+      "titlu": "Paris Saint-Germain îl achiziționează pe Ferran Torres de la Barcelona pentru 50 de milioane de euro",
+      "rezumat": "Campioana europeană Paris Saint-Germain a anunțat transferul atacantului spaniol Ferran Torres de la Barcelona, într-o tranzacție evaluată la 50 de milioane de euro. Jucătorul, care a marcat golul victoriei pentru Spania la Cupa Mondială, a semnat un contract pe cinci ani, valabil până în 2031. Torres și-a exprimat entuziasmul de a începe o nouă aventură la un club ambițios precum PSG.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-15T16:29:03.828590+00:00",
+      "data_afisaj": "15 august 2026, 19:29"
+    },
     {
       "id": "2f15024bb42c",
       "titlu": "Arteta nu este îngrijorat de discuțiile privind contractul său la Arsenal",
@@ -1334,50 +1393,6 @@
       ],
       "data_publicare": "2026-08-08T16:37:20.865826+00:00",
       "data_afisaj": "8 august 2026, 19:37"
-    },
-    {
-      "id": "bd533ab27949",
-      "titlu": "Matthias Jaissle preia conducerea tehnică la Newcastle United",
-      "rezumat": "Matthias Jaissle va debuta ca antrenor principal al echipei Newcastle United într-un meci amical împotriva Valenciei. Această partidă marchează începutul unei noi ere pentru clubul englez, după schimbările recente din cadrul proiectului \"Newcastle 2.0\". Jaissle va avea ocazia să-și testeze strategia și să-și cunoască mai bine jucătorii înaintea startului oficial al sezonului, oferind fanilor o primă imagine a direcției sub noua sa conducere.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-08T08:38:51.866700+00:00",
-      "data_afisaj": "8 august 2026, 11:38"
-    },
-    {
-      "id": "6674c1d5e2a4",
-      "titlu": "Chelsea pierde un amical în fața lui Juventus, după un gol spectaculos",
-      "rezumat": "Echipa Chelsea a înregistrat o înfrângere la limită într-un meci amical disputat împotriva formației Juventus, în Hong Kong. Partida a fost decisă de un gol spectaculos marcat de Edon Zhegrova, care a adus victoria echipei italiene. Rezultatul oferă antrenorilor ambelor echipe ocazia de a evalua performanțele jucătorilor și de a ajusta strategiile înaintea începerii competițiilor oficiale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-08T08:38:51.868043+00:00",
-      "data_afisaj": "8 august 2026, 11:38"
-    },
-    {
-      "id": "a6a57f02fd6d",
-      "titlu": "Luptele din conducere adâncesc incertitudinea la West Ham, înaintea noului sezon",
-      "rezumat": "West Ham United se pregătește pentru un nou sezon în Championship, însă startul este umbrit de tensiuni interne și acuzații. O luptă pentru acțiuni, implicând-o pe Vanessa Gold, și acuzațiile aduse lui David Sullivan, afectează moralul clubului. Retrogradarea din Premier League a adus o perioadă de incertitudine, iar meciul din Cupa Ligii împotriva lui Portsmouth servește ca o reamintire a circumstanțelor dificile în care se află echipa.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-08T08:38:51.869403+00:00",
-      "data_afisaj": "8 august 2026, 11:38"
-    },
-    {
-      "id": "e4fb31897d3c",
-      "titlu": "Partick Thistle învinge Livingston în Championship-ul Scoțian",
-      "rezumat": "Partick Thistle a obținut o victorie importantă împotriva echipei Livingston în Scottish Championship. Un gol marcat devreme de Robbie Crawford, printr-o execuție cu călcâiul, și un autogol al lui Cammy MacPherson au asigurat succesul pentru Partick Thistle. Această confruntare a adus față în față două dintre echipele considerate favorite la promovare, iar rezultatul influențează startul de sezon pentru ambele formații.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-08T08:38:51.871399+00:00",
-      "data_afisaj": "8 august 2026, 11:38"
     }
   ]
 }
