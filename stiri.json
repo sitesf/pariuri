@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-15T16:29:03.828609+00:00",
-  "updated_at_afisaj": "15 august 2026, 19:29",
+  "updated_at": "2026-08-15T17:14:54.567090+00:00",
+  "updated_at_afisaj": "15 august 2026, 20:14",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,41 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 121,
+  "numar_stiri": 120,
   "stiri": [
+    {
+      "id": "3c75194672cb",
+      "titlu": "Cristian Romero se alătură echipei Atlético Madrid",
+      "rezumat": "Fundașul argentinian Cristian Romero a finalizat transferul la Atlético Madrid, sub conducerea antrenorului Diego Simeone. Mutarea sa la clubul spaniol este considerată o destinație potrivită pentru stilul său de joc intens și combativ, adesea caracterizat prin cartonașe roșii. Romero, campion mondial cu Argentina, va aduce experiență și agresivitate defensivei lui Atlético, care este renumită pentru abordarea sa tactică riguroasă. Această achiziție întărește lotul madrilenilor înaintea noului sezon, în încercarea de a concura la cel mai înalt nivel în La Liga și Liga Campionilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-15T17:14:54.563520+00:00",
+      "data_afisaj": "15 august 2026, 20:14"
+    },
+    {
+      "id": "e006faa03473",
+      "titlu": "Arbitrul Anthony Taylor se retrage din activitate",
+      "rezumat": "Arbitrul internațional Anthony Taylor a anunțat că se retrage din activitatea de arbitraj. Taylor, o figură proeminentă în Premier League și în competițiile europene, a explicat decizia sa într-un interviu acordat BBC, abordând subiecte precum presiunea, sistemul VAR și rolul analiștilor arbitrajului. Retragerea sa marchează sfârșitul unei cariere lungi și respectate, în care a oficiat numeroase meciuri de top, inclusiv finale de cupă și partide internaționale importante, lăsând un gol în corpul de arbitri de elită.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-15T17:14:54.565567+00:00",
+      "data_afisaj": "15 august 2026, 20:14"
+    },
+    {
+      "id": "81dba58ea2fa",
+      "titlu": "Danny Rohl părăsește Rangers pentru Red Bull Salzburg",
+      "rezumat": "Antrenorul Danny Rohl a confirmat plecarea sa de la Rangers pentru a prelua conducerea tehnică a echipei Red Bull Salzburg. Rohl a declarat că această mutare reprezintă o oportunitate de a câștiga trofee și de a contribui la dezvoltarea tinerilor jucători la noul său club. Decizia sa vine înaintea primului său sezon complet în Premier League, după o perioadă petrecută la Old Trafford. Transferul la Salzburg subliniază ambițiile lui Rohl de a lucra într-un mediu cu obiective clare de performanță și dezvoltare, departe de presiunea campionatului englez.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-15T17:14:54.567061+00:00",
+      "data_afisaj": "15 august 2026, 20:14"
+    },
     {
       "id": "2321e86bc905",
       "titlu": "CFR Cluj renunță la un jucător, conform declarațiilor lui Marius Șumudică",
@@ -1348,51 +1381,6 @@
       ],
       "data_publicare": "2026-08-08T17:22:38.042735+00:00",
       "data_afisaj": "8 august 2026, 20:22"
-    },
-    {
-      "id": "f55fdfcebed7",
-      "titlu": "Jorge Messi, tatăl și agentul lui Lionel Messi, a decedat la 68 de ani",
-      "rezumat": "Jorge Messi, tatăl și agentul celebrului fotbalist Lionel Messi, a încetat din viață la vârsta de 68 de ani, după o lungă suferință. Anunțul a fost făcut de familie, iar vestea a fost preluată rapid de presa internațională. Jorge Messi a fost o figură importantă în cariera fiului său, gestionând aspectele contractuale și de reprezentare pe parcursul întregii sale cariere. Comunitatea fotbalistică și-a exprimat condoleanțele.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-08T16:37:20.862046+00:00",
-      "data_afisaj": "8 august 2026, 19:37"
-    },
-    {
-      "id": "4ed176ca592f",
-      "titlu": "Middlesbrough îl achiziționează pe portarul Radek Vitek de la Manchester United",
-      "rezumat": "Clubul Middlesbrough a anunțat transferul portarului Radek Vitek de la Manchester United. Suma de transfer nu a fost dezvăluită public. Vitek se alătură echipei Middlesbrough pentru a consolida lotul înaintea noului sezon. Această mutare reprezintă o oportunitate pentru tânărul portar de a acumula experiență la nivel de seniori și de a contribui la obiectivele echipei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-08T16:37:20.863302+00:00",
-      "data_afisaj": "8 august 2026, 19:37"
-    },
-    {
-      "id": "92abaea620cc",
-      "titlu": "Chelsea învinge AC Milan cu 3-0 într-un meci amical, Joao Pedro marcând o dublă",
-      "rezumat": "Chelsea a revenit în formă după două înfrângeri consecutive în pre-sezon, obținând o victorie convingătoare cu 3-0 împotriva echipei AC Milan, într-un meci amical disputat la Jakarta. Joao Pedro a fost eroul serii, reușind să marcheze două goluri. Această performanță este considerată cea mai bună a echipei sub conducerea antrenorului Xabi Alonso până în prezent, oferind un impuls de încredere înainte de începerea sezonului oficial.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-08T16:37:20.864635+00:00",
-      "data_afisaj": "8 august 2026, 19:37"
-    },
-    {
-      "id": "dd1d25577ebc",
-      "titlu": "Federația Scoțiană de Fotbal este aproape de a numi un nou selecționer",
-      "rezumat": "Federația Scoțiană de Fotbal (SFA) se apropie de numirea unui nou antrenor principal care să-l succeadă pe Steve Clarke. Decizia vine în contextul eforturilor de a revitaliza echipa națională și de a stabili o direcție clară pentru viitorul fotbalului scoțian. Detaliile privind candidatul și data anunțului oficial nu au fost încă făcute publice, dar se așteaptă o decizie în curând pentru a pregăti echipa pentru următoarele provocări.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-08T16:37:20.865826+00:00",
-      "data_afisaj": "8 august 2026, 19:37"
     }
   ]
 }
