@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-16T16:29:03.450616+00:00",
-  "updated_at_afisaj": "16 august 2026, 19:29",
+  "updated_at": "2026-08-16T17:13:17.919296+00:00",
+  "updated_at_afisaj": "16 august 2026, 20:13",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,62 @@
   },
   "numar_stiri": 124,
   "stiri": [
+    {
+      "id": "531b69978500",
+      "titlu": "Leeds United ajunge la un acord pentru transferul fundașului Nico Elvedi",
+      "rezumat": "Leeds United a convenit un acord în valoare de 8,5 milioane de lire sterline pentru achiziționarea fundașului Nico Elvedi. Jucătorul este programat să efectueze vizita medicală luni, marcând un pas important în consolidarea defensivei echipei pentru sezonul următor. Această mutare subliniază ambițiile clubului de a se întări cu jucători de calitate în Championship.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-16T17:13:17.912683+00:00",
+      "data_afisaj": "16 august 2026, 20:13"
+    },
+    {
+      "id": "8aa6dc19f974",
+      "titlu": "Coventry City confirmă acordul pentru transferul atacantului Taiwo Awoniyi",
+      "rezumat": "Coventry City a ajuns la un acord cu Nottingham Forest pentru transferul atacantului Taiwo Awoniyi, într-o tranzacție estimată la aproximativ 17 milioane de lire sterline. Această achiziție reprezintă o investiție semnificativă pentru Coventry, care își propune să își consolideze ofensiva. Awoniyi, cunoscut pentru forța și abilitățile sale de finalizare, este așteptat să aducă un plus de valoare echipei în campania viitoare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-16T17:13:17.914560+00:00",
+      "data_afisaj": "16 august 2026, 20:13"
+    },
+    {
+      "id": "6b2b1895365f",
+      "titlu": "Watford învinge Southampton într-un meci tensionat din Championship",
+      "rezumat": "Watford a obținut o victorie cu 2-1 împotriva echipei Southampton în Championship, într-un meci marcat de tensiuni și referiri la scandalul \"Spygate\". Fanii gazdelor au ironizat echipa retrogradată, iar Amin Nabizada a marcat golul decisiv pentru Watford. Această înfrângere subliniază dificultățile cu care se confruntă Southampton în noul sezon din liga secundă, evidențiind realitatea dură a competiției.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-16T17:13:17.916161+00:00",
+      "data_afisaj": "16 august 2026, 20:13"
+    },
+    {
+      "id": "f38c1b967d7d",
+      "titlu": "Declinul jucătorilor sud-coreeni în Premier League și ascensiunea celor japonezi",
+      "rezumat": "După o perioadă de succes marcată de prezența unor jucători sud-coreeni de top precum Park Ji-sung și Son Heung-min, Premier League ar putea rămâne fără fotbaliști din Coreea de Sud pentru prima dată din 2005. Această tendință vine în contrast cu o creștere notabilă a numărului de jucători japonezi în campionatul englez, sugerând o schimbare a dinamicii prezenței asiatice în fotbalul britanic de elită.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-16T17:13:17.917650+00:00",
+      "data_afisaj": "16 august 2026, 20:13"
+    },
+    {
+      "id": "679a76a21a90",
+      "titlu": "Fostul antrenor al lui Yan Diomande laudă transferul său la Real Madrid pentru o sumă record",
+      "rezumat": "Fostul antrenor al lui Yan Diomande a oferit o perspectivă unică asupra transferului jucătorului la Real Madrid, unde clubul spaniol a plătit o sumă de nouă cifre. Antrenorul a declarat că Diomande este \"de departe cel mai talentat jucător cu care a lucrat\" și că încă nu și-a atins întregul potențial. Aceste declarații subliniază așteptările enorme de la Diomande și încrederea clubului în dezvoltarea sa viitoare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-08-16T17:13:17.919278+00:00",
+      "data_afisaj": "16 august 2026, 20:13"
+    },
     {
       "id": "2bc0e9dfd840",
       "titlu": "Arsenal învinge categoric Manchester City și lansează un avertisment cu victoria din Community Shield",
@@ -1367,63 +1423,6 @@
       ],
       "data_publicare": "2026-08-09T17:23:45.946968+00:00",
       "data_afisaj": "9 august 2026, 20:23"
-    },
-    {
-      "id": "d0911c4cf988",
-      "titlu": "Kasper Hogh Marchează un Hat-trick în Victoria Convingătoare a lui Celtic Împotriva lui Kilmarnock",
-      "rezumat": "Atacantul Kasper Hogh, cea mai scumpă achiziție a lui Celtic, a impresionat marcând un hat-trick în prima repriză a meciului împotriva lui Kilmarnock. Performanța sa a contribuit decisiv la victoria categorică a echipei sale pe noul teren de la Rugby Park, aducând liniște criticilor săi timpurii și demonstrând potențialul său ofensiv. Celtic a dominat partida, obținând o victorie importantă în campionatul scoțian.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-09T16:39:05.884900+00:00",
-      "data_afisaj": "9 august 2026, 19:39"
-    },
-    {
-      "id": "355485366a4c",
-      "titlu": "FIFA Condamnă Eforturile de Subminare a Organizației și a Președintelui Gianni Infantino",
-      "rezumat": "FIFA a emis o declarație fermă prin care critică vehement ceea ce numește un „efort concertat și continuu” de a submina organizația și pe președintele său, Gianni Infantino. Declarația vine în contextul tensiunilor crescânde și a apelurilor din partea unor federații naționale pentru demisia lui Infantino, semnalând o escaladare a conflictului intern din fotbalul mondial și o apărare puternică a conducerii actuale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-09T16:39:05.886198+00:00",
-      "data_afisaj": "9 august 2026, 19:39"
-    },
-    {
-      "id": "ecb8374cc3cf",
-      "titlu": "Fulham Ajunge la un Acord pentru Transferul Mijlocașului Shea Charles de la Southampton",
-      "rezumat": "Clubul Fulham a ajuns la un acord cu Southampton pentru transferul mijlocașului Shea Charles, într-o afacere evaluată la aproximativ 30 de milioane de lire sterline. Mutarea este condiționată de efectuarea cu succes a vizitei medicale. Charles ar urma să se alăture echipei Fulham, consolidând astfel lotul pentru sezonul viitor al Premier League și reprezentând o achiziție importantă pentru ambițiile clubului londonez.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-09T16:39:05.887490+00:00",
-      "data_afisaj": "9 august 2026, 19:39"
-    },
-    {
-      "id": "6ddbd25188e6",
-      "titlu": "Borussia Dortmund Câștigă Cupa Emirates După o Victorie Împotriva lui Arsenal",
-      "rezumat": "Arsenal a înregistrat o înfrângere cu scorul de 3-2 în fața Borussiei Dortmund în finala Cupei Emirates, disputată la Londra. Echipa lui Mikel Arteta a arătat deficiențe în apărare, primind goluri considerate „slabe” în timpul meciului de pregătire. Borussia Dortmund a profitat de aceste erori pentru a se impune și a ridica trofeul competiției amicale, ridicând semne de întrebare despre forma defensivă a \"tunarilor\".",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-09T16:39:05.888727+00:00",
-      "data_afisaj": "9 august 2026, 19:39"
-    },
-    {
-      "id": "5ba19f4ca524",
-      "titlu": "Liverpool Pierde un Amical pe Anfield, După ce a Concedat un Avantaj de Două Goluri",
-      "rezumat": "Liverpool a suferit o înfrângere cu 3-2 într-un meci amical disputat pe Anfield împotriva lui Monaco, după ce a condus cu 2-0. Echipa lui Andoni Iraola, aflat la primul său meci pe banca tehnică a lui Liverpool pe teren propriu, a cedat avantajul, permițând adversarilor să revină și să câștige partida de pregătire. Aceasta este o nouă situație în care Liverpool pierde un avantaj consistent în pre-sezon, stârnind îngrijorări.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-09T16:39:05.890006+00:00",
-      "data_afisaj": "9 august 2026, 19:39"
     }
   ]
 }
