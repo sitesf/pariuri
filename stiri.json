@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-15T17:14:54.567090+00:00",
-  "updated_at_afisaj": "15 august 2026, 20:14",
+  "updated_at": "2026-08-16T07:35:47.473881+00:00",
+  "updated_at_afisaj": "16 august 2026, 10:35",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 120,
+  "numar_stiri": 122,
   "stiri": [
+    {
+      "id": "4a286249ff20",
+      "titlu": "Mari favoriți sau o sarcină mai dificilă - își va apăra Arsenal titlul?",
+      "rezumat": "Arsenal începe acest sezon ca și campioană a Premier League, dar cât de dificil este să-ți aperi titlul de campioană și cât de bine pregătită este pentru această provocare?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-16T07:35:41.864830+00:00",
+      "data_afisaj": "16 august 2026, 10:35"
+    },
+    {
+      "id": "ad97ef3f2087",
+      "titlu": "Cât de important este Community Shield pentru sezonul unei echipe?",
+      "rezumat": "Campioana Premier League, Arsenal, o înfruntă pe câștigătoarea Cupei Angliei, Manchester City, în Community Shield de duminică - dar ar sugera oare o victorie un sezon de succes?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-16T07:35:41.866446+00:00",
+      "data_afisaj": "16 august 2026, 10:35"
+    },
+    {
+      "id": "173f89f499db",
+      "titlu": "Rashford revine, în timp ce Milanul lui Amorim evidențiază probleme pentru Carrick",
+      "rezumat": "Manchester United își încheie campania de pre-sezon cu o înfrângere de 4-2 în fața lui AC Milan, echipa lui Ruben Amorim, în Polonia, în timp ce Marcus Rashford revine în acțiune pentru Diavolii Roșii.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-16T07:35:41.868113+00:00",
+      "data_afisaj": "16 august 2026, 10:35"
+    },
+    {
+      "id": "43b26907aa6e",
+      "titlu": "Fernandez huiduit de fanii Chelsea, în timp ce Alonso oferă o privire asupra planului",
+      "rezumat": "Enzo Fernandez este huiduit de o parte a suporterilor Chelsea, Morgan Rogers marchează la prima sa apariție, iar Xabi Alonso oferă o privire asupra a ceea ce ar putea fi planul său pentru sezon.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-16T07:35:41.869501+00:00",
+      "data_afisaj": "16 august 2026, 10:35"
+    },
+    {
+      "id": "dd899d170b35",
+      "titlu": "Cine sunt eu? Ghicește vedeta Premier League nr. 27",
+      "rezumat": "Descoperă identitatea jucătorului de astăzi în cât mai puține încercări posibil.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-16T07:35:41.870746+00:00",
+      "data_afisaj": "16 august 2026, 10:35"
+    },
     {
       "id": "3c75194672cb",
       "titlu": "Cristian Romero se alătură echipei Atlético Madrid",
@@ -1348,39 +1403,6 @@
       ],
       "data_publicare": "2026-08-09T07:55:03.402306+00:00",
       "data_afisaj": "9 august 2026, 10:55"
-    },
-    {
-      "id": "b6cf3e4ab954",
-      "titlu": "A murit Phil Parkes, legendarul portar al lui Wolverhampton Wanderers",
-      "rezumat": "Phil Parkes, fostul portar al echipei Wolverhampton Wanderers, a încetat din viață la vârsta de 79 de ani. Parkes a fost o figură emblematică pentru club, fiind considerat o legendă de către fani. Cariera sa la Wolves a fost marcată de performanțe notabile, contribuind la istoria bogată a echipei. Vestea decesului său a fost primită cu tristețe în lumea fotbalului englez.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-08T17:22:38.039965+00:00",
-      "data_afisaj": "8 august 2026, 20:22"
-    },
-    {
-      "id": "d6e9f8dde14e",
-      "titlu": "Manchester United egalează cu PSG într-un amical, dar Mason Mount se accidentează",
-      "rezumat": "Manchester United a încheiat la egalitate, scor 1-1, meciul amical disputat împotriva echipei Paris Saint-Germain la Gothenburg. Bryan Mbeumo a marcat golul pentru Manchester United, asigurând remiza. Cu toate acestea, rezultatul a fost umbrit de accidentarea mijlocașului Mason Mount, care a stârnit îngrijorare în rândul staff-ului tehnic și al fanilor. Starea exactă a accidentării lui Mount urmează să fie evaluată.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-08T17:22:38.041271+00:00",
-      "data_afisaj": "8 august 2026, 20:22"
-    },
-    {
-      "id": "28c15ab374ac",
-      "titlu": "Portarul lui Millwall, Lukas Jensen, a apărat patru penalty-uri în Cupa Ligii",
-      "rezumat": "Lukas Jensen, portarul echipei Millwall, a devenit eroul meciului din Cupa Ligii împotriva QPR, apărând un număr impresionant de patru penalty-uri în timpul loviturilor de departajare. Performanța sa excepțională a asigurat calificarea echipei sale în faza următoare a competiției. Meciul s-a încheiat la egalitate în timpul regulamentar, iar intervențiile decisive ale lui Jensen au fost cruciale pentru succesul lui Millwall.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-08T17:22:38.042735+00:00",
-      "data_afisaj": "8 august 2026, 20:22"
     }
   ]
 }
