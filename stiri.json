@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-16T08:27:16.851977+00:00",
-  "updated_at_afisaj": "16 august 2026, 11:27",
+  "updated_at": "2026-08-16T16:29:03.450616+00:00",
+  "updated_at_afisaj": "16 august 2026, 19:29",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,54 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 123,
+  "numar_stiri": 124,
   "stiri": [
+    {
+      "id": "2bc0e9dfd840",
+      "titlu": "Arsenal învinge categoric Manchester City și lansează un avertisment cu victoria din Community Shield",
+      "rezumat": "Deținătoarea titlului, Arsenal, a avut o prestație convingătoare în Community Shield, învingând Manchester City cu 3-0 la Cardiff. Această victorie a fost interpretată ca un avertisment clar pentru toate rivalele din Premier League, demonstrând forța și ambiția echipei lui Mikel Arteta înaintea noului sezon. Meciul a subliniat capacitatea \"tunarilor\" de a domina un adversar de calibru, consolidându-le statutul de pretendenți serioși la titlu.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-16T16:29:03.445236+00:00",
+      "data_afisaj": "16 august 2026, 19:29"
+    },
+    {
+      "id": "767237d9e97f",
+      "titlu": "Burnley vs West Ham: Meci live din Championship",
+      "rezumat": "Urmăriți actualizări în direct de la meciul dintre Burnley și West Ham, care a început la ora 16:00 la Turf Moor. Burnley joacă în echipamentul tradițional vișiniu și albastru, în timp ce West Ham a optat pentru al treilea echipament, de culoare deschisă. Jucătorii au intrat pe teren, iar atmosfera este tensionată, cu multe saluturi între adversari înainte de fluierul de start al partidei din Championship.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-16T16:29:03.446662+00:00",
+      "data_afisaj": "16 august 2026, 19:29"
+    },
+    {
+      "id": "c25d96f3a251",
+      "titlu": "Cristiano Ronaldo sugerează că acesta ar putea fi ultimul său an în fotbal",
+      "rezumat": "Legendarul atacant portughez Cristiano Ronaldo a lăsat să se înțeleagă că ar putea să se retragă din activitatea fotbalistică la sfârșitul acestui sezon. Declarația sa a stârnit un val de reacții în lumea sportului, având în vedere cariera sa impresionantă și impactul său global. Această veste marchează un moment important pentru fanii fotbalului, care ar putea asista la ultimele meciuri ale unuia dintre cei mai mari jucători din istorie.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-16T16:29:03.448272+00:00",
+      "data_afisaj": "16 august 2026, 19:29"
+    },
+    {
+      "id": "629738e7b9ea",
+      "titlu": "Jamal Musiala este bine după ce a leșinat în timpul unui amical al lui Bayern",
+      "rezumat": "Mijlocașul lui Bayern Munchen, Jamal Musiala, este în stare bună după ce a leșinat în timpul unui meci amical recent. Incidentul a stârnit îngrijorare, dar clubul a confirmat că jucătorul este \"okay\". Detaliile complete despre cauzele leșinului nu au fost încă făcute publice, dar vestea că starea sa de sănătate este stabilă a liniștit fanii și staff-ul echipei, permițându-i să se recupereze fără complicații majore.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-16T16:29:03.449938+00:00",
+      "data_afisaj": "16 august 2026, 19:29"
+    },
     {
       "id": "bfec51ef285c",
       "titlu": "Matei Ilie, performanță remarcabilă la debutul în Turcia, anihilându-l pe Mohamed Salah",
@@ -1378,40 +1424,6 @@
       ],
       "data_publicare": "2026-08-09T16:39:05.890006+00:00",
       "data_afisaj": "9 august 2026, 19:39"
-    },
-    {
-      "id": "a5af318dc7d7",
-      "titlu": "Alexia Putellas, Transferul Record în WSL, Se Alătură Echipei London City Lionesses",
-      "rezumat": "Alexia Putellas, una dintre cele mai mari superstaruri ale fotbalului feminin, a realizat cel mai important transfer din istoria Women's Super League (WSL), alăturându-se echipei London City Lionesses. Jucătoarea spaniolă, dublă câștigătoare a Balonului de Aur, a vorbit despre ambițiile sale de a câștiga și de a lupta alături de noile sale coechipiere în Anglia. Sosirea sa este așteptată să aducă o creștere semnificativă a profilului și competitivității campionatului englez de fotbal feminin.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-09T08:40:47.514467+00:00",
-      "data_afisaj": "9 august 2026, 11:40"
-    },
-    {
-      "id": "1bb39fadd75b",
-      "titlu": "Youri Tielemans Impresionează la Debutul pentru Manchester United Într-un Amical cu PSG",
-      "rezumat": "Mijlocașul Youri Tielemans, transferat la Manchester United pentru 35 de milioane de lire sterline, a avut o prestație promițătoare la debutul său pentru club. Acesta a intrat pe teren în remiza 1-1 împotriva lui Paris Saint-Germain, într-un meci amical disputat la Gothenburg. Deși rezultatul a fost egal, apariția lui Tielemans a oferit semne încurajatoare pentru viitorul său la echipa engleză, sugerând că ar putea deveni o figură cheie în planurile antrenorului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-09T08:40:47.515886+00:00",
-      "data_afisaj": "9 august 2026, 11:40"
-    },
-    {
-      "id": "117fb0de49f9",
-      "titlu": "Mohamed Salah Se Transferă la Trabzonspor, Surprinzând Rivalii Turci",
-      "rezumat": "Fostul atacant al lui Liverpool, Mohamed Salah, a semnat cu echipa turcă Trabzonspor, o mutare care a surprins mulți rivali din Istanbul. Președintele clubului, Ertugrul Dogan, a inițiat discuțiile pentru transferul lui Salah în timpul Cupei Mondiale, iar eforturile sale au fost încununate de succes. Această achiziție reprezintă o lovitură majoră pentru Trabzonspor, aducând un nume de calibru mondial în Superliga Turcă și schimbând dinamica pieței de transferuri din regiune.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-09T08:40:47.517276+00:00",
-      "data_afisaj": "9 august 2026, 11:40"
     }
   ]
 }
