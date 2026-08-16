@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-16T07:35:47.473881+00:00",
-  "updated_at_afisaj": "16 august 2026, 10:35",
+  "updated_at": "2026-08-16T08:27:16.851977+00:00",
+  "updated_at_afisaj": "16 august 2026, 11:27",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,53 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 122,
+  "numar_stiri": 123,
   "stiri": [
+    {
+      "id": "bfec51ef285c",
+      "titlu": "Matei Ilie, performanță remarcabilă la debutul în Turcia, anihilându-l pe Mohamed Salah",
+      "rezumat": "Fundașul român Matei Ilie a avut un debut impresionant în campionatul Turciei, unde a reușit să-l anihileze pe starul egiptean Mohamed Salah. Performanța sa a fost lăudată de presa sportivă, care i-a acordat o notă mare pentru prestația solidă. Ilie a demonstrat o adaptare rapidă la noul său club și la intensitatea campionatului turc, contribuind semnificativ la rezultatul echipei sale. Această evoluție promițătoare sugerează un viitor bun pentru tânărul jucător român în fotbalul internațional.",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-08-16T08:27:16.847292+00:00",
+      "data_afisaj": "16 august 2026, 11:27"
+    },
+    {
+      "id": "d005fae77e47",
+      "titlu": "West Ham United stabilește un nou record EFL prin transferul lui Arne Engels pentru 22 de milioane de lire sterline",
+      "rezumat": "West Ham United a finalizat transferul mijlocașului internațional belgian Arne Engels de la Celtic, plătind o sumă de 22 de milioane de lire sterline. Această tranzacție reprezintă un nou record pentru o achiziție din English Football League (EFL). Engels, cunoscut pentru abilitățile sale la mijlocul terenului, se alătură echipei londoneze într-o mișcare menită să întărească lotul pentru sezonul viitor. Suma considerabilă investită subliniază încrederea clubului în potențialul și contribuția viitoare a jucătorului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-16T08:27:16.848815+00:00",
+      "data_afisaj": "16 august 2026, 11:27"
+    },
+    {
+      "id": "89a59353c534",
+      "titlu": "Michael Carrick vizează îmbunătățirea lotului la Manchester United în această vară",
+      "rezumat": "Antrenorul Michael Carrick a declarat că este hotărât să consolideze echipa Manchester United în această perioadă de transferuri. Înaintea primului său sezon complet la cârma clubului din Premier League, Carrick a subliniat că lotul face progrese semnificative, dar că sunt necesare noi achiziții pentru a atinge obiectivele propuse. Declarațiile sale vin în contextul pregătirilor intense pentru o campanie competitivă, cu accent pe aducerea de jucători care să completeze viziunea sa tactică și să crească nivelul general al echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-16T08:27:16.850080+00:00",
+      "data_afisaj": "16 august 2026, 11:27"
+    },
+    {
+      "id": "17bc4d03a323",
+      "titlu": "Leicester City se confruntă cu realitatea dură a League One, dar tinerii jucători oferă speranță",
+      "rezumat": "Leicester City a început sezonul în League One cu o remiză 1-1 împotriva lui Notts County, confruntându-se cu realitatea dură a vieții în a treia divizie engleză. Echipa, recent retrogradată din Premier League, a fost depășită tactic de o formație nou-promovată, bine organizată și energică. În ciuda începutului dificil și a incertitudinii legate de viitorul clubului, prestația tinerilor jucători a reprezentat un punct pozitiv. Această situație subliniază provocările cu care se confruntă Leicester în încercarea de a reveni în eșaloanele superioare ale fotbalului englez.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-16T08:27:16.851962+00:00",
+      "data_afisaj": "16 august 2026, 11:27"
+    },
     {
       "id": "4a286249ff20",
       "titlu": "Mari favoriți sau o sarcină mai dificilă - își va apăra Arsenal titlul?",
@@ -1367,42 +1412,6 @@
       ],
       "data_publicare": "2026-08-09T08:40:47.517276+00:00",
       "data_afisaj": "9 august 2026, 11:40"
-    },
-    {
-      "id": "4c4ea5ae80e0",
-      "titlu": "Arsenal îl transferă pe Bruno Guimarães de la Newcastle într-o afacere de 75 de milioane de lire sterline",
-      "rezumat": "Campioana Premier League, Arsenal, a finalizat transferul mijlocașului brazilian Bruno Guimarães de la Newcastle United pentru suma de 75 de milioane de lire sterline. Această mutare reprezintă o achiziție semnificativă pentru \"Tunari\", aducând un jucător versatil, capabil să joace atât într-un rol mai defensiv, cât și să contribuie la faza de creație. Transferul este considerat unul dintre cele mai costisitoare pentru un mijlocaș de 28 de ani, subliniind valoarea pe care Arsenal o acordă calităților sale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-08-09T07:55:03.399372+00:00",
-      "data_afisaj": "9 august 2026, 10:55"
-    },
-    {
-      "id": "1fe915c7bebc",
-      "titlu": "Barcelona intensifică eforturile pentru Rodri cu o a doua ofertă; Cristian Romero dorește să se alăture lui Arsenal",
-      "rezumat": "FC Barcelona și-a intensificat eforturile pentru a-l achiziționa pe mijlocașul Rodri de la Manchester City, înaintând o a doua ofertă pentru jucătorul spaniol. Această mișcare vine după ce discuțiile anterioare cu Real Madrid pentru același jucător au stagnat. Între timp, fundașul Cristian Romero de la Tottenham Hotspur și-a exprimat dorința de a se alătura echipei Arsenal, o veste care ar putea stârni controverse având în vedere rivalitatea dintre cele două cluburi londoneze.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-09T07:55:03.400856+00:00",
-      "data_afisaj": "9 august 2026, 10:55"
-    },
-    {
-      "id": "06a620673993",
-      "titlu": "Trent Alexander-Arnold se pregătește pentru un sezon decisiv la Real Madrid sub Jose Mourinho",
-      "rezumat": "Trent Alexander-Arnold se confruntă cu un al doilea sezon crucial la Real Madrid, având ca obiectiv să-și demonstreze pe deplin valoarea sub conducerea noului antrenor, Jose Mourinho. După un prim sezon de adaptare, așteptările sunt mari pentru fundașul englez, care va trebui să se impună ca o figură cheie în planurile tactice ale \"Specialului\". Această perioadă va fi definitorie pentru viitorul său la clubul spaniol și pentru rolul său în echipa plină de vedete.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-09T07:55:03.402306+00:00",
-      "data_afisaj": "9 august 2026, 10:55"
     }
   ]
 }
