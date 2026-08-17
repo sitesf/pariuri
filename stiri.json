@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-17T07:54:14.066670+00:00",
-  "updated_at_afisaj": "17 august 2026, 10:54",
+  "updated_at": "2026-08-17T08:41:12.340045+00:00",
+  "updated_at_afisaj": "17 august 2026, 11:41",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,52 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 122,
+  "numar_stiri": 126,
   "stiri": [
+    {
+      "id": "0d83a646fb97",
+      "titlu": "Lucy Bronze își prelungește contractul cu Chelsea",
+      "rezumat": "Fundașul englez Lucy Bronze a semnat o prelungire de contract cu Chelsea, o decizie pe care a descris-o ca fiind neobișnuită pentru ea. Jucătoarea a declarat că a găsit un \"rol foarte bun\" la club și se simte \"confortabil\" în mediul actual. Această prelungire subliniază angajamentul ei față de echipa londoneză și dorința de a continua să contribuie la performanțele acesteia. Decizia vine într-un moment important pentru cariera sa, consolidându-i poziția la unul dintre cluburile de top din fotbalul feminin.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-17T08:41:12.335531+00:00",
+      "data_afisaj": "17 august 2026, 11:41"
+    },
+    {
+      "id": "4cfa0d9ea377",
+      "titlu": "Premier League devine tot mai competitivă, arată statisticile",
+      "rezumat": "Un nou raport al BBC Sport analizează datele din sezonul trecut al Premier League, sugerând că liga a devenit mai competitivă decât în anii precedenți. Articolul explorează dacă această tendință va continua și în actuala stagiune, examinând factorii care contribuie la echilibrul crescut dintre echipe. Analiza statistică oferă o perspectivă asupra dinamicii campionatului, evidențiind schimbările în performanțele cluburilor și impactul acestora asupra luptei pentru titlu și evitarea retrogradării.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-17T08:41:12.337066+00:00",
+      "data_afisaj": "17 august 2026, 11:41"
+    },
+    {
+      "id": "714b005a9115",
+      "titlu": "Tentativa eșuată de a muta un club din Premier League la Dublin",
+      "rezumat": "Un articol detaliază cât de aproape a fost un consorțiu irlandez de a achiziționa o echipă din Premier League și de a o reloca în Dublin. Povestea explorează complexitatea și obstacolele întâmpinate în acest demers ambițios, care ar fi putut schimba peisajul fotbalistic irlandez. Deși planul nu s-a concretizat, relatarea oferă o perspectivă fascinantă asupra unei inițiative puțin cunoscute, care a vizat extinderea influenței Premier League dincolo de granițele Angliei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-17T08:41:12.338527+00:00",
+      "data_afisaj": "17 august 2026, 11:41"
+    },
+    {
+      "id": "6a089b21f35d",
+      "titlu": "Nottingham Forest încheie pre-sezonul cu o victorie împotriva lui Brest",
+      "rezumat": "Nottingham Forest și-a încheiat campania de pre-sezon cu o victorie împotriva echipei franceze Brest. Meciul a reprezentat ultima verificare pentru echipa înainte de startul noului sezon competițional. Această victorie oferă un impuls de încredere jucătorilor și staff-ului tehnic, consolidând pregătirea echipei pentru provocările ce urmează în campionat. Rezultatul pozitiv sugerează o formă bună a jucătorilor și o adaptare reușită la strategiile antrenorului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-17T08:41:12.340016+00:00",
+      "data_afisaj": "17 august 2026, 11:41"
+    },
     {
       "id": "321935afb15e",
       "titlu": "Juventus intensifică negocierile pentru Guglielmo Vicario și alte mișcări pe piața transferurilor",
