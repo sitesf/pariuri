@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-17T16:31:30.520054+00:00",
-  "updated_at_afisaj": "17 august 2026, 19:31",
+  "updated_at": "2026-08-17T17:19:31.282759+00:00",
+  "updated_at_afisaj": "17 august 2026, 20:19",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,44 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 121,
+  "numar_stiri": 119,
   "stiri": [
+    {
+      "id": "236cfd8b2fbc",
+      "titlu": "Manchester City acceptă oferta pentru Rodri și negociază transferul lui Bouaddi",
+      "rezumat": "Manchester City a acceptat o ofertă de 65,4 milioane de lire sterline de la Barcelona pentru mijlocașul Rodri, care intrase în ultimul an de contract și și-a exprimat dorința de a se întoarce în Spania. În paralel, clubul englez se află în discuții avansate cu Lille pentru transferul mijlocașului marocan Ayyoub Bouaddi, în vârstă de 18 ani, considerat un potențial înlocuitor. Bouaddi, evaluat la aproximativ 85 de milioane de lire sterline, a fost una dintre revelațiile Cupei Mondiale. Aceste mișcări subliniază strategia de transfer a lui City în această vară.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football",
+        "Sky Sports Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-08-17T17:19:31.279074+00:00",
+      "data_afisaj": "17 august 2026, 20:19"
+    },
+    {
+      "id": "3ee14dfd9a79",
+      "titlu": "Cheltuielile cluburilor din Premier League ar putea stabili un nou record de 2,14 miliarde de lire sterline",
+      "rezumat": "Cluburile din Premier League au cheltuit deja 2,14 miliarde de lire sterline în această vară pe transferuri, o sumă considerabilă care continuă să crească. Experții BBC Sport analizează posibilitatea ca acest sezon să stabilească un nou record absolut în ceea ce privește investițiile pe piața transferurilor. Această tendință subliniază puterea financiară a campionatului englez și concurența acerbă dintre echipe pentru a-și consolida loturile, multe sume impresionante fiind tranzacționate chiar între rivalele din prima ligă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-17T17:19:31.281155+00:00",
+      "data_afisaj": "17 august 2026, 20:19"
+    },
+    {
+      "id": "f9de82855750",
+      "titlu": "Ipswich Town transferă doi jucători de la Strasbourg: Julio Enciso și Abdoul Ouattara",
+      "rezumat": "Clubul Ipswich Town a finalizat transferurile a doi jucători de la echipa franceză Strasbourg, consolidându-și lotul pentru noul sezon. Julio Enciso și Abdoul Ouattara se alătură echipei engleze, aducând un plus de valoare și opțiuni pentru antrenor. Aceste achiziții reprezintă o mișcare strategică pentru Ipswich, care își propune să își întărească poziția în campionat. Detaliile financiare ale tranzacțiilor nu au fost specificate, dar transferurile sunt confirmate de surse de încredere.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-17T17:19:31.282743+00:00",
+      "data_afisaj": "17 august 2026, 20:19"
+    },
     {
       "id": "e57f757503d0",
       "titlu": "Manchester United va respinge orice ofertă pentru Bruno Fernandes",
@@ -1332,63 +1368,6 @@
       ],
       "data_publicare": "2026-08-10T17:46:24.214366+00:00",
       "data_afisaj": "10 august 2026, 20:46"
-    },
-    {
-      "id": "8bc9117b2545",
-      "titlu": "Consorțiu Inclusiv Jeff Bezos Avancează Negocierile pentru o Parte din Liverpool",
-      "rezumat": "Un consorțiu care îl include pe fondatorul Amazon, Jeff Bezos, se află în discuții avansate pentru achiziționarea unei participații de aproximativ 30% la clubul de fotbal Liverpool. BBC Sport și Sky News au raportat că grupul este aproape de a finaliza un acord pentru o cotă semnificativă din clubul englez. Această potențială investiție ar putea aduce o infuzie financiară importantă și ar marca o nouă etapă în structura de proprietate a unuia dintre cele mai mari cluburi din Premier League.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-10T16:56:25.261151+00:00",
-      "data_afisaj": "10 august 2026, 19:56"
-    },
-    {
-      "id": "9580d2294752",
-      "titlu": "Manchester City Aproape de Transferul lui Ayyoub Bouaddi, Rodri S-ar Putea Alătura Barcelonei",
-      "rezumat": "Manchester City este pe punctul de a finaliza transferul mijlocașului Ayyoub Bouaddi de la Lille, într-o afacere evaluată la aproximativ 85 de milioane de lire sterline. Sosirea internaționalului marocan de 18 ani ar putea facilita plecarea lui Rodri la Barcelona, club care își intensifică eforturile pentru a-l achiziționa pe mijlocașul spaniol. Bouaddi a ajuns deja la un acord privind termenii personali cu City, iar cluburile lucrează la detaliile finale ale tranzacției.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-10T16:56:25.262621+00:00",
-      "data_afisaj": "10 august 2026, 19:56"
-    },
-    {
-      "id": "930be5e68c08",
-      "titlu": "Aston Villa Negociază Transferul Mijlocașului Joao Palhinha de la Bayern Munchen",
-      "rezumat": "Aston Villa se află în discuții pentru a-l aduce pe mijlocașul Joao Palhinha de la Bayern Munchen. Jucătorul portughez, care a fost o țintă pentru mai multe cluburi europene, ar putea reprezenta o achiziție importantă pentru echipa antrenată de Unai Emery, consolidând linia de mijloc. Negocierile sunt în desfășurare, iar detaliile financiare ale potențialului transfer nu au fost încă făcute publice.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-10T16:56:25.263898+00:00",
-      "data_afisaj": "10 august 2026, 19:56"
-    },
-    {
-      "id": "c71baa2114a1",
-      "titlu": "Arsenal Caută Soluții Defensive După Accidentările lui Timber și Saliba",
-      "rezumat": "Arsenal își intensifică eforturile pentru a aduce întăriri în defensivă, în contextul accidentărilor pe termen lung ale lui Jurriën Timber și William Saliba. Antrenorul Mikel Arteta a confirmat că Timber este departe de a reveni pe teren, iar Saliba va lipsi o perioadă extinsă din cauza unei leziuni la spate suferite la Cupa Mondială. Clubul londonez analizează piața transferurilor pentru a găsi jucători capabili să acopere aceste absențe cruciale înainte de startul sezonului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-10T16:56:25.265161+00:00",
-      "data_afisaj": "10 august 2026, 19:56"
-    },
-    {
-      "id": "9f55ab3488b4",
-      "titlu": "Președintele Clubului Rangers Anunță Încă 3-5 Transferuri Până la Închiderea Ferestrei",
-      "rezumat": "Președintele clubului Rangers, Andrew Cavanagh, a declarat că, în ciuda frustrării legate de începutul sezonului, se așteaptă ca echipa să realizeze între trei și cinci noi transferuri înainte de închiderea ferestrei de mercato. Această declarație vine în contextul în care clubul încearcă să-și consolideze lotul și să-și îmbunătățească performanțele. Fanii așteaptă cu interes noile achiziții care ar putea schimba dinamica echipei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-10T16:56:25.266483+00:00",
-      "data_afisaj": "10 august 2026, 19:56"
     }
   ]
 }
