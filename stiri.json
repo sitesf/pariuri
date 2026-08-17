@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-16T17:13:17.919296+00:00",
-  "updated_at_afisaj": "16 august 2026, 20:13",
+  "updated_at": "2026-08-17T07:54:14.066670+00:00",
+  "updated_at_afisaj": "17 august 2026, 10:54",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,41 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 124,
+  "numar_stiri": 122,
   "stiri": [
+    {
+      "id": "321935afb15e",
+      "titlu": "Juventus intensifică negocierile pentru Guglielmo Vicario și alte mișcări pe piața transferurilor",
+      "rezumat": "Juventus Torino a intensificat discuțiile pentru transferul portarului Guglielmo Vicario și s-a retras din cursa pentru Emiliano Martinez. Pe lângă aceste evoluții, Manchester City se confruntă cu concurență pentru achiziționarea lui Pedro Neto, în timp ce Real Madrid își manifestă interesul pentru Martin Zubimendi. Aceste informații fac parte din cele mai recente știri și zvonuri de pe piața transferurilor, indicând o activitate intensă a cluburilor europene de top.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-17T07:54:14.063480+00:00",
+      "data_afisaj": "17 august 2026, 10:54"
+    },
+    {
+      "id": "af9753e877cf",
+      "titlu": "Hibernian învinge Rangers cu un gol dramatic pe final",
+      "rezumat": "Echipa Hibernian a obținut o victorie spectaculoasă împotriva lui Rangers pe stadionul Ibrox, grație unui gol marcat dramatic pe final de Callum Wright. Această înfrângere menține presiunea pe antrenorul lui Rangers, Derek McInnes, care încă așteaptă prima sa victorie la conducerea echipei. Meciul a fost unul tensionat, iar rezultatul a adus o surpriză în campionatul scoțian, consolidând poziția lui Hibernian.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-17T07:54:14.065045+00:00",
+      "data_afisaj": "17 august 2026, 10:54"
+    },
+    {
+      "id": "1b9e61caffcd",
+      "titlu": "Birmingham și Cardiff City își manifestă interesul pentru noi mijlocași",
+      "rezumat": "Cluburile din EFL Championship, Birmingham și Cardiff City, sunt în căutarea unor noi mijlocași pentru a-și consolida loturile în această perioadă de transferuri. Ambele echipe vizează întărirea compartimentului median pentru a-și îmbunătăți performanțele în campionat. Detaliile specifice despre jucătorii vizați nu au fost încă publicate, dar interesul lor subliniază intenția de a fi active pe piața transferurilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-17T07:54:14.066653+00:00",
+      "data_afisaj": "17 august 2026, 10:54"
+    },
     {
       "id": "531b69978500",
       "titlu": "Leeds United ajunge la un acord pentru transferul fundașului Nico Elvedi",
@@ -1368,61 +1401,6 @@
       ],
       "data_publicare": "2026-08-10T08:40:34.424164+00:00",
       "data_afisaj": "10 august 2026, 11:40"
-    },
-    {
-      "id": "3ddcf7573af6",
-      "titlu": "Lucas Digne Se Transferă la PSG de la Aston Villa",
-      "rezumat": "Fundașul internațional francez Lucas Digne a finalizat mutarea sa de la Aston Villa la campioana europeană Paris Saint-Germain. Acest transfer important marchează o nouă etapă în cariera jucătorului, care se alătură unei echipe de top din Europa. Digne este așteptat să aducă experiență și calitate pe flancul stâng al apărării pariziene, consolidând lotul pentru viitoarele provocări interne și europene. Mutarea subliniază ambițiile PSG de a-și întări echipa cu jucători de calibru.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-09T17:23:45.943643+00:00",
-      "data_afisaj": "9 august 2026, 20:23"
-    },
-    {
-      "id": "82dcc4603bd1",
-      "titlu": "Hibernian Învinge Rangers pe Ibrox, Derek McInnes Rămâne Fără Victorie",
-      "rezumat": "Hibernian a obținut o victorie dramatică, scor 2-1, împotriva lui Rangers pe Ibrox, grație unui gol marcat în prelungiri. Acest rezultat prelungeste seria fără victorie a antrenorului lui Rangers, Derek McInnes, care încă își caută prima victorie de la preluarea echipei. Meciul a fost unul intens, cu ambele formații luptând pentru puncte în campionatul scoțian. Victoria oferă un moral ridicat pentru Hibernian în debutul sezonului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-09T17:23:45.944498+00:00",
-      "data_afisaj": "9 august 2026, 20:23"
-    },
-    {
-      "id": "2f87fc246139",
-      "titlu": "Hearts Obține Prima Victorie Sub Conducerea Lui Wouter Vrancken",
-      "rezumat": "Echipa Hearts a înregistrat o victorie convingătoare, scor 4-0, împotriva lui Dundee United, marcând prima victorie a antrenorului Wouter Vrancken de la preluarea băncii tehnice. Trei dintre noile achiziții ale clubului din această vară au marcat, contribuind decisiv la succesul echipei. Acest rezultat oferă un impuls de moral și încredere pentru Hearts în debutul noului sezon, demonstrând potențialul noilor veniți sub îndrumarea noului manager.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-09T17:23:45.945295+00:00",
-      "data_afisaj": "9 august 2026, 20:23"
-    },
-    {
-      "id": "4a879aba782c",
-      "titlu": "Everton și Crystal Palace Discută un Schimb de Jucători Între McNeil și Johnson",
-      "rezumat": "Cluburile Everton și Crystal Palace se află în negocieri avansate pentru un potențial schimb de jucători. Conform discuțiilor, aripa lui Everton, Dwight McNeil, ar urma să se alăture echipei Crystal Palace, în timp ce internaționalul galez Brennan Johnson ar face mutarea în direcția opusă, la Everton. Acest posibil transfer ar putea aduce schimbări semnificative în loturile ambelor echipe înainte de startul sezonului, reconfigurând opțiunile ofensive pentru ambii antrenori.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-09T17:23:45.946120+00:00",
-      "data_afisaj": "9 august 2026, 20:23"
-    },
-    {
-      "id": "8748ba226964",
-      "titlu": "Rangers Refuză Ofertă pentru Atacantul Youssef Chermiti, Jucătorul Este Accidentat",
-      "rezumat": "Clubul Rangers a respins o ofertă pentru atacantul Youssef Chermiti, managerul Derek McInnes confirmând că propunerea nu a îndeplinit evaluarea clubului din Premiership-ul scoțian. Pe lângă această veste de pe piața transferurilor, s-a confirmat și faptul că jucătorul este accidentat, adăugând o provocare suplimentară pentru echipa scoțiană în perioada următoare. Situația lui Chermiti va fi monitorizată, având în vedere atât interesul altor cluburi, cât și recuperarea sa medicală.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-09T17:23:45.946968+00:00",
-      "data_afisaj": "9 august 2026, 20:23"
     }
   ]
 }
