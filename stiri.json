@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-18T07:42:13.427352+00:00",
-  "updated_at_afisaj": "18 august 2026, 10:42",
+  "updated_at": "2026-08-18T08:35:07.243972+00:00",
+  "updated_at_afisaj": "18 august 2026, 11:35",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,19 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 119,
+  "numar_stiri": 115,
   "stiri": [
+    {
+      "id": "2a11893f1cf7",
+      "titlu": "Rodri Aterizează la Barcelona pentru Vizita Medicală, Declară că Este un Vis",
+      "rezumat": "Mijlocașul spaniol Rodri a ajuns în Catalonia pentru a-și finaliza transferul la FC Barcelona de la Manchester City, declarând că este \"un vis\" să joace pentru clubul catalan. Acesta urmează să efectueze vizita medicală marți, după ce Manchester City a acceptat o ofertă de 65,4 milioane de lire sterline. Căpitanul Spaniei, câștigător al Cupei Mondiale, și-a exprimat satisfacția că \"totul s-a rezolvat\" după o perioadă intensă de negocieri, marcând o mutare majoră pe piața transferurilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-18T08:35:07.243922+00:00",
+      "data_afisaj": "18 august 2026, 11:35"
+    },
     {
       "id": "eaf4157c523f",
       "titlu": "Un oficial FIFA de rang înalt, demis după critici la adresa lui Infantino",
@@ -1314,64 +1325,6 @@
       ],
       "data_publicare": "2026-08-11T08:53:53.397396+00:00",
       "data_afisaj": "11 august 2026, 11:53"
-    },
-    {
-      "id": "212c834c387e",
-      "titlu": "Donald Trump Consideră o „Greșeală Teribilă” Demiterea lui Infantino",
-      "rezumat": "Președintele Statelor Unite, Donald Trump, a declarat că ar fi o „greșeală teribilă” dacă președintele FIFA, Gianni Infantino, aflat sub presiune, ar fi înlăturat din funcție. Această declarație vine în contextul în care Infantino se confruntă cu critici și acuzații din partea unor președinți de confederații și a președintelui La Liga, Javier Tebas, care au pus sub semnul întrebării integritatea și conducerea sa. Sprijinul lui Trump adaugă o nouă dimensiune dezbaterii privind viitorul conducerii fotbalului mondial.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-11T08:10:36.861794+00:00",
-      "data_afisaj": "11 august 2026, 11:10"
-    },
-    {
-      "id": "a20ca94d5592",
-      "titlu": "Proprietarul Nottingham Forest, Marinakis, Dă în Judecată Crystal Palace pentru un Banner Controversat",
-      "rezumat": "Evangelos Marinakis, proprietarul clubului Nottingham Forest, a inițiat un proces împotriva clubului Crystal Palace, ca urmare a unui banner afișat de fanii acestuia. Bannerul îl înfățișa pe Marinakis ținând o armă îndreptată spre capul mijlocașului Morgan Gibbs-White, o imagine considerată ofensatoare și amenințătoare. Incidentul a stârnit controverse și a escaladat într-o acțiune legală, subliniind tensiunile și rivalitățile din fotbalul englez și necesitatea respectării eticii sportive.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-11T08:10:36.863335+00:00",
-      "data_afisaj": "11 august 2026, 11:10"
-    },
-    {
-      "id": "c712f3de95b2",
-      "titlu": "Enzo Maresca Vorbește Despre Prezentul la Manchester City: Succesiunea lui Guardiola și Dilema Căpitanului",
-      "rezumat": "Noul antrenor al echipei Manchester City, Enzo Maresca, a oferit detalii despre provocările și aspectele vieții sale la club, după ce l-a înlocuit pe Pep Guardiola. Maresca a discutat despre presiunea de a prelua frâiele unei echipe de succes, interesul său pentru inteligența artificială în fotbal și dilema alegerii căpitanului echipei, un rol crucial pentru coeziunea grupului. Declarațiile sale oferă o perspectivă asupra viziunii sale pentru viitorul campioanei Angliei și adaptarea la noua poziție.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-11T08:10:36.864821+00:00",
-      "data_afisaj": "11 august 2026, 11:10"
-    },
-    {
-      "id": "273cfc3a5f84",
-      "titlu": "Ronald Araujo S-a Alăturat lui Liverpool: Analiza Transferului de la Barcelona",
-      "rezumat": "Fundașul uruguayan Ronald Araujo s-a transferat la Liverpool sub formă de împrumut de la Barcelona. Această mutare a stârnit interes, iar analiștii încearcă să explice motivele pentru care Liverpool a insistat pentru aducerea apărătorului și ce anume nu a funcționat în perioada petrecută de Araujo la clubul catalan. Transferul său reprezintă o încercare a ambelor cluburi de a-și consolida loturile și de a găsi soluții pentru obiectivele lor sportive, oferind o nouă șansă jucătorului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-11T08:10:36.866237+00:00",
-      "data_afisaj": "11 august 2026, 11:10"
-    },
-    {
-      "id": "a75867060458",
-      "titlu": "Șeful Arbitrilor UEFA, Roberto Rosetti, Critică Utilizarea VAR: „Nu Este PlayStation”",
-      "rezumat": "Roberto Rosetti, șeful arbitrilor din cadrul UEFA, a declarat că unele decizii luate în urma revizuirilor Video Assistant Referee (VAR) „nu au avut legătură cu fotbalul”. Comentariile sale subliniază preocupările continue legate de implementarea și interpretarea VAR, sugerând că sistemul ar trebui să fie folosit într-un mod care să respecte mai bine spiritul jocului. Această critică vine în contextul dezbaterilor aprinse privind impactul tehnologiei asupra dinamicii și fluidității meciurilor și a deciziilor arbitrilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-11T08:10:36.867692+00:00",
-      "data_afisaj": "11 august 2026, 11:10"
     }
   ]
 }
