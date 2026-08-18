@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-18T16:35:06.220194+00:00",
-  "updated_at_afisaj": "18 august 2026, 19:35",
+  "updated_at": "2026-08-18T17:20:04.667147+00:00",
+  "updated_at_afisaj": "18 august 2026, 20:20",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,41 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 115,
+  "numar_stiri": 114,
   "stiri": [
+    {
+      "id": "9a461e805a3f",
+      "titlu": "Sheffield United Riscă o Penalizare de 12 Puncte din Cauza Problemelor Financiare",
+      "rezumat": "Clubul Sheffield United se confruntă cu o situație critică, proprietarii săi fiind chemați în fața Înaltei Curți pentru o ordonanță de lichidare. Această acțiune legală ar putea avea consecințe severe, inclusiv o penalizare de 12 puncte pentru echipa din Championship. Dificultățile financiare subliniază presiunea economică asupra cluburilor de fotbal și pot influența semnificativ performanța sportivă în sezonul viitor. Decizia instanței este așteptată cu mare interes de comunitatea fotbalistică.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-18T17:20:04.664145+00:00",
+      "data_afisaj": "18 august 2026, 20:20"
+    },
+    {
+      "id": "4ac31293c885",
+      "titlu": "Premier League Va Publica Deciziile Panoului de Incidente Cheie privind Arbitrajul",
+      "rezumat": "Premier League a anunțat că va începe să publice, pentru prima dată în acest sezon, verdictele Panoului său de Incidente Cheie (Key Match Incidents Panel) referitoare la deciziile arbitrilor și la intervențiile VAR. Această măsură vizează creșterea transparenței și a încrederii în procesul de arbitraj. Publicarea detaliată a evaluărilor va oferi o perspectivă mai clară asupra modului în care sunt analizate fazele controversate, contribuind la o mai bună înțelegere a deciziilor luate pe teren.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-18T17:20:04.665551+00:00",
+      "data_afisaj": "18 august 2026, 20:20"
+    },
+    {
+      "id": "351c52fa42ed",
+      "titlu": "Verdictul în Cazul Acuzațiilor Adresate lui Manchester City Durează Mai Mult Decât Era Anticipat",
+      "rezumat": "Richard Masters, directorul executiv al Premier League, a declarat că procesul de emitere a unui verdict în legătură cu acuzațiile aduse clubului Manchester City \"a durat mai mult decât era anticipat\". Această declarație subliniază complexitatea și amploarea investigației privind presupusele încălcări ale regulilor financiare. Așteptarea prelungită a deciziei menține incertitudinea asupra viitorului clubului și a potențialelor sancțiuni, având un impact considerabil asupra peisajului fotbalistic englez și a competiției.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-18T17:20:04.667131+00:00",
+      "data_afisaj": "18 august 2026, 20:20"
+    },
     {
       "id": "7002310d4af1",
       "titlu": "Patrick Vieira, Noul Antrenor al Naționalei Senegalului",
@@ -1281,53 +1314,6 @@
       ],
       "data_publicare": "2026-08-11T17:52:05.643401+00:00",
       "data_afisaj": "11 august 2026, 20:52"
-    },
-    {
-      "id": "f0f2ea8889d2",
-      "titlu": "Nottingham Forest îl semnează pe Diomande de la Sporting",
-      "rezumat": "Clubul Nottingham Forest a anunțat transferul fundașului ivorian Ousmane Diomande de la echipa portugheză Sporting. Suma de transfer raportată este de 34 de milioane de lire sterline. Diomande, în vârstă de 22 de ani, a semnat un contract pe patru ani, cu opțiune de prelungire pentru încă un an, și a făcut parte din lotul Coastei de Fildeș la Cupa Mondială. Această mutare reprezintă o achiziție importantă pentru defensiva lui Forest.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-11T16:59:58.436274+00:00",
-      "data_afisaj": "11 august 2026, 19:59"
-    },
-    {
-      "id": "884f7bf91c78",
-      "titlu": "Chelsea va întâlni Real Sociedad în turul trei preliminar al Ligii Campionilor la Femei",
-      "rezumat": "Echipa feminină Chelsea va înfrunta formația spaniolă Real Sociedad în turul trei preliminar al Ligii Campionilor la Femei. Clubul londonez, finalist în 2021 și semifinalist de șase ori în competiție, trebuie să obțină victoria în dublă manșă pentru a se califica în faza grupelor. Participarea în calificări vine după un sezon precedent dezamăgitor în Women's Super League, unde Chelsea a terminat pe locul al treilea, cea mai slabă clasare recentă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-11T16:59:58.437546+00:00",
-      "data_afisaj": "11 august 2026, 19:59"
-    },
-    {
-      "id": "2fa81ca5e21c",
-      "titlu": "PFA inițiază proceduri legale privind plafonul salarial din League One",
-      "rezumat": "Asociația Fotbaliștilor Profesioniști (PFA) a inițiat proceduri legale împotriva Ligii de Fotbal Engleze (EFL) în legătură cu modificările aduse plafonului salarial din League One. Această acțiune subliniază tensiunile dintre organizația jucătorilor și conducerea ligii privind reglementările financiare care afectează cluburile și salariile fotbaliștilor din a treia divizie engleză. PFA susține că noile reguli ar putea avea un impact negativ asupra carierelor jucătorilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-11T16:59:58.438421+00:00",
-      "data_afisaj": "11 august 2026, 19:59"
-    },
-    {
-      "id": "73af62fccd95",
-      "titlu": "Myles Lewis-Skelly de la Arsenal, oferit lui Manchester United și Chelsea",
-      "rezumat": "Tânărul jucător Myles Lewis-Skelly de la Arsenal a fost oferit clubului Manchester United ca o posibilă soluție pentru postul de fundaș stânga. Se pare că Arsenal dorește să recupereze o parte din suma de 75 de milioane de lire sterline plătită pentru Bruno Guimarães. De asemenea, Chelsea a fost informată despre disponibilitatea jucătorului în vârstă de 19 ani, indicând un interes crescut pentru serviciile sale din partea mai multor cluburi de top din Premier League.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-11T16:59:58.439315+00:00",
-      "data_afisaj": "11 august 2026, 19:59"
     }
   ]
 }
