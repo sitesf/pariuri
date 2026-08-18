@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-17T17:19:31.282759+00:00",
-  "updated_at_afisaj": "17 august 2026, 20:19",
+  "updated_at": "2026-08-18T07:42:13.427352+00:00",
+  "updated_at_afisaj": "18 august 2026, 10:42",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,66 @@
   },
   "numar_stiri": 119,
   "stiri": [
+    {
+      "id": "eaf4157c523f",
+      "titlu": "Un oficial FIFA de rang înalt, demis după critici la adresa lui Infantino",
+      "rezumat": "Kevin Lamour, o figură importantă în cadrul FIFA, a fost demis de organismul mondial de conducere al fotbalului. Decizia vine la trei săptămâni după ce Lamour l-a criticat public pe președintele FIFA, Gianni Infantino. Această acțiune subliniază tensiunile interne și consecințele criticii la adresa conducerii, având implicații potențiale asupra politicii și imaginii organizației. Demiterea a fost confirmată de surse de top, indicând o mișcare decisivă în structura administrativă a fotbalului mondial.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-18T07:42:13.420917+00:00",
+      "data_afisaj": "18 august 2026, 10:42"
+    },
+    {
+      "id": "48b8604c40ad",
+      "titlu": "Un nou documentar dezvăluie conflictul dintre Guardiola și Kyle Walker la Manchester City",
+      "rezumat": "O nouă serie documentară despre ultimele două sezoane ale lui Pep Guardiola la Manchester City a scos la iveală o dispută majoră între antrenor și fostul căpitan al echipei, Kyle Walker. Documentarul, intitulat 'A Beautiful Obsession', oferă o perspectivă inedită asupra dinamicii interne a clubului și a relațiilor dintre figuri cheie în timpul mandatului lui Guardiola. Această dezvăluire aruncă o nouă lumină asupra perioadei respective, oferind fanilor și analiștilor detalii despre provocările și tensiunile din spatele succesului echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-18T07:42:13.422537+00:00",
+      "data_afisaj": "18 august 2026, 10:42"
+    },
+    {
+      "id": "62d0b5e7be26",
+      "titlu": "Memphis Depay acceptă o reducere salarială pentru a rămâne la Corinthians",
+      "rezumat": "Fostul atacant al lui Manchester United, Memphis Depay, a acceptat o reducere semnificativă a salariului pentru a-și prelungi contractul cu clubul brazilian Corinthians. Decizia vine la doar câteva zile după ce jucătorul acuzase Corinthians de \"comportament inacceptabil\" în timpul negocierilor pentru extinderea înțelegerii. Această mișcare confirmă angajamentul lui Depay față de club, în ciuda tensiunilor inițiale, și asigură prezența sa în lot pentru viitoarele competiții. Suma la care a renunțat este estimată la aproape 3 milioane de lire sterline.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-18T07:42:13.423990+00:00",
+      "data_afisaj": "18 august 2026, 10:42"
+    },
+    {
+      "id": "1191e48da7c4",
+      "titlu": "Gol dramatic al lui Rubin Colwill în prelungiri, Cardiff obține o remiză cu Wrexham",
+      "rezumat": "Cardiff City a obținut un punct dramatic în meciul de debut din Championship împotriva rivalei galeze Wrexham, grație unui gol spectaculos marcat de Rubin Colwill în minutul 98. Meciul, un derby galez tensionat, părea să se îndrepte spre o victorie pentru Wrexham, însă execuția puternică a lui Colwill dintr-o lovitură liberă a egalat scorul la 1-1 chiar înainte de fluierul final. Rezultatul a adus o bucurie imensă fanilor lui Cardiff și a marcat o revenire memorabilă în campionat.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-18T07:42:13.425609+00:00",
+      "data_afisaj": "18 august 2026, 10:42"
+    },
+    {
+      "id": "7dda0f510933",
+      "titlu": "Todd Boehly și Mark Walter iau în considerare vânzarea acțiunilor Chelsea către Clearlake Capital",
+      "rezumat": "Președintele Chelsea, Todd Boehly, și directorul Mark Walter poartă discuții pentru a-și vinde acțiunile deținute la club către Clearlake Capital, acționarii majoritari. Fiecare dintre Boehly și Walter deține aproximativ 13% din club, iar o astfel de tranzacție ar conferi companiei de capital privat Clearlake controlul efectiv asupra clubului, ajungând la o deținere de 86%. Această mișcare ar consolida puterea Clearlake la Stamford Bridge și ar putea influența direcția strategică viitoare a clubului, având implicații semnificative pentru structura de proprietate.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-18T07:42:13.427330+00:00",
+      "data_afisaj": "18 august 2026, 10:42"
+    },
     {
       "id": "236cfd8b2fbc",
       "titlu": "Manchester City acceptă oferta pentru Rodri și negociază transferul lui Bouaddi",
@@ -1312,62 +1372,6 @@
       ],
       "data_publicare": "2026-08-11T08:10:36.867692+00:00",
       "data_afisaj": "11 august 2026, 11:10"
-    },
-    {
-      "id": "356b930585a8",
-      "titlu": "Consorțiul care include Bezos înaintează discuțiile pentru participarea la Liverpool",
-      "rezumat": "Un grup, care include fondatorul Amazon, Jeff Bezos, își avansează discuțiile pentru a cumpăra aproximativ 30% din acțiunile din Liverpool, i s-a spus BBC Sport.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-10T17:46:24.208658+00:00",
-      "data_afisaj": "10 august 2026, 20:46"
-    },
-    {
-      "id": "1eede8bbc03b",
-      "titlu": "Infantino a rupt încrederea „prin înșelăciune” - președinții de confederație",
-      "rezumat": "FIFA a fost acuzată că a încălcat încrederea „prin înșelăciune” într-o scrisoare deschisă emisă de Uefa, Concacaf și Confederația Asiatică de Fotbal.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-10T17:46:24.210143+00:00",
-      "data_afisaj": "10 august 2026, 20:46"
-    },
-    {
-      "id": "d705a258632e",
-      "titlu": "Ar trebui fanii lui Liverpool să fie îngrijorați de comentariile de fitness ale lui Iraola?",
-      "rezumat": "Ar trebui să fie îngrijorați fanii lui Liverpool de comentariile lui Andoni Iraola cu privire la starea de fitness a echipei?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-10T17:46:24.211563+00:00",
-      "data_afisaj": "10 august 2026, 20:46"
-    },
-    {
-      "id": "ae9c65f8a017",
-      "titlu": "Uși glisante - când Mourinho a spus da, apoi nu, lui Man Utd",
-      "rezumat": "Povestea interioară a încercării lui Manchester United de a-l determina pe Jose Mourinho să-l înlocuiască pe Sir Alex Ferguson, de ce a spus „nu” și impactul acestei decizii.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-10T17:46:24.213048+00:00",
-      "data_afisaj": "10 august 2026, 20:46"
-    },
-    {
-      "id": "8d784c2e7f91",
-      "titlu": "Stelele din campionat la pariuri globale - va funcționa abordarea lui Ipswich?",
-      "rezumat": "În timp ce Ipswich se pregătește pentru întoarcerea în Premier League, BBC Sport privește modul în care abordează diferit piața transferurilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-10T17:46:24.214366+00:00",
-      "data_afisaj": "10 august 2026, 20:46"
     }
   ]
 }
