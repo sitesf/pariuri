@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-19T16:34:41.753484+00:00",
-  "updated_at_afisaj": "19 august 2026, 19:34",
+  "updated_at": "2026-08-19T17:20:07.339948+00:00",
+  "updated_at_afisaj": "19 august 2026, 20:20",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,51 @@
   },
   "numar_stiri": 112,
   "stiri": [
+    {
+      "id": "c42a6cebba37",
+      "titlu": "Oficiali de top din fotbalul englez critică FIFA pentru controversa cartonașului roșu al lui Balogun",
+      "rezumat": "Richard Masters, directorul executiv al Premier League, și Howard Webb, șeful arbitrilor din Anglia, au criticat decizia FIFA de a anula suspendarea atacantului american Folarin Balogun după un cartonaș roșu primit la Cupa Mondială. Balogun a fost lăsat să joace în ciuda unei eliminări care ar fi trebuit să ducă la o suspendare automată. Webb s-a declarat \"foarte tulburat\" de această decizie, avertizând că astfel de acțiuni alimentează convingerea publicului în conspirații legate de arbitraj. Criticile vin în contextul în care Premier League introduce noi măsuri pentru transparența arbitrajului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-19T17:20:07.335491+00:00",
+      "data_afisaj": "19 august 2026, 20:20"
+    },
+    {
+      "id": "27ff91dcb294",
+      "titlu": "Șeful Federației de Fotbal din Țara Galilor cere demisia președintelui FIFA, Gianni Infantino",
+      "rezumat": "Noel Mooney, directorul executiv al Asociației de Fotbal din Țara Galilor (FAW), a solicitat public demisia președintelui FIFA, Gianni Infantino. Această cerere vine în urma unor critici tot mai dese la adresa conducerii FIFA și a deciziilor luate sub mandatul lui Infantino. Declarația lui Mooney subliniază tensiunile existente între unele federații naționale și organismul de conducere al fotbalului mondial, reflectând o nemulțumire crescândă față de direcția și politicile adoptate de FIFA.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-19T17:20:07.337098+00:00",
+      "data_afisaj": "19 august 2026, 20:20"
+    },
+    {
+      "id": "dd5e16c68d2d",
+      "titlu": "Harry Kane minimizează posibilitatea unei reveniri în Premier League",
+      "rezumat": "Atacantul englez Harry Kane a declarat că \"nu mai simte la fel de mult dorința\" de a se întoarce într-o zi în Anglia, din Germania, pentru a încerca să bată recordul de goluri din toate timpurile în Premier League. Această afirmație vine în contextul speculațiilor privind o potențială revenire a sa în campionatul englez, după transferul la Bayern München. Declarația lui Kane sugerează o dedicare pe termen lung față de cariera sa în Bundesliga și o reorientare a obiectivelor personale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-19T17:20:07.338464+00:00",
+      "data_afisaj": "19 august 2026, 20:20"
+    },
+    {
+      "id": "68c67d783da1",
+      "titlu": "Jose Mourinho l-a sfătuit pe Vinicius Jr să nu părăsească Real Madrid",
+      "rezumat": "Antrenorul Jose Mourinho a dezvăluit cum l-a convins cu succes pe Vinicius Jr să rămână la clubul spaniol Real Madrid. Mourinho a explicat că i-a transmis tânărului atacant brazilian că nu ar merita să plece de la Real Madrid, subliniind importanța de a continua să joace la un club de top. Această intervenție a lui Mourinho a fost crucială în decizia lui Vinicius Jr de a-și prelungi șederea la echipa de pe Santiago Bernabéu, unde a devenit ulterior unul dintre cei mai importanți jucători.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-19T17:20:07.339926+00:00",
+      "data_afisaj": "19 august 2026, 20:20"
+    },
     {
       "id": "72faf2cd59b1",
       "titlu": "Arsenal ajunge la un acord de peste 50 de milioane de lire sterline pentru transferul lui Ezri Konsa",
@@ -1248,52 +1293,6 @@
       ],
       "data_publicare": "2026-08-12T17:53:13.724810+00:00",
       "data_afisaj": "12 august 2026, 20:53"
-    },
-    {
-      "id": "71e2ebf0c366",
-      "titlu": "Youri Tielemans Vorbește Despre Transferul la Manchester United și Adaptare",
-      "rezumat": "Mijlocașul belgian Youri Tielemans a oferit primele sale declarații extinse după mutarea la Manchester United pentru 35 de milioane de lire sterline. Fostul jucător al lui Aston Villa a mărturisit că nu se aștepta să părăsească clubul în această vară, dar a descris transferul la United ca pe o \"mutare de vis\". Tielemans a subliniat că adaptarea la viziunea antrenorului Michael Carrick a fost naturală, simțind că \"pur și simplu miroase a fotbal\". Experiența sa vastă, debutând la Anderlecht la 16 ani, l-a ajutat să se integreze rapid în lotul echipei pe parcursul turneului de pre-sezon.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-12T16:59:11.208503+00:00",
-      "data_afisaj": "12 august 2026, 19:59"
-    },
-    {
-      "id": "d1648d7efb78",
-      "titlu": "Federația de Fotbal din Coreea de Sud, Implicată într-un Scandal de Favoruri Sexuale pentru Arbitri",
-      "rezumat": "Federația de Fotbal din Coreea de Sud (KFA) și-a cerut scuze public în urma unei serii de controverse, inclusiv un scandal legat de favoruri sexuale oferite arbitrilor. Situația a escaladat odată cu o percheziție a poliției la sediul KFA, indicând o criză profundă în cadrul organismului de conducere al fotbalului sud-coreean. Incidentele au generat o indignare considerabilă în rândul publicului și al comunității sportive, punând sub semnul întrebării integritatea și buna guvernanță a fotbalului în țară. Investigațiile sunt în curs de desfășurare pentru a elucida toate aspectele acestui caz.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-12T16:59:11.210124+00:00",
-      "data_afisaj": "12 august 2026, 19:59"
-    },
-    {
-      "id": "7bc09f5a6829",
-      "titlu": "Un Atacant de la Everton, Acuzat de Încălcarea Regulilor de Pariuri ale Federației Engleze",
-      "rezumat": "Un atacant al clubului Everton a fost acuzat de încălcarea regulilor de pariuri stabilite de Federația Engleză de Fotbal (FA). Detaliile specifice ale acuzațiilor nu au fost încă făcute publice, dar astfel de încălcări pot duce la sancțiuni severe, inclusiv suspendări pe termen lung și amenzi. FA are o politică strictă împotriva pariurilor în fotbal, menită să protejeze integritatea sportului. Clubul Everton și jucătorul vizat nu au emis încă declarații oficiale detaliate, dar se așteaptă ca o investigație amănunțită să urmeze.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-08-12T16:59:11.212579+00:00",
-      "data_afisaj": "12 august 2026, 19:59"
-    },
-    {
-      "id": "57fc4cbee7ef",
-      "titlu": "Aston Villa Se Apropie de Semnarea Fundașului Matteo Ruggeri de la Atletico Madrid",
-      "rezumat": "Aston Villa este pe punctul de a finaliza transferul fundașului Matteo Ruggeri de la Atletico Madrid. Clubul englez se află în etape avansate ale negocierilor pentru a-l aduce pe tânărul apărător în Premier League. Ruggeri, un talent promițător, ar urma să întărească linia defensivă a echipei lui Unai Emery, care își propune să continue performanțele bune din sezoanele recente. Detaliile financiare ale tranzacției nu au fost încă dezvăluite, dar se anticipează o confirmare oficială în curând, pe măsură ce Villa își consolidează lotul pentru viitoarea campanie.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-12T16:59:11.213955+00:00",
-      "data_afisaj": "12 august 2026, 19:59"
     }
   ]
 }
