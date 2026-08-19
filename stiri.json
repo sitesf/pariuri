@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-19T08:35:32.689443+00:00",
-  "updated_at_afisaj": "19 august 2026, 11:35",
+  "updated_at": "2026-08-19T16:34:41.753484+00:00",
+  "updated_at_afisaj": "19 august 2026, 19:34",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,55 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 113,
+  "numar_stiri": 112,
   "stiri": [
+    {
+      "id": "72faf2cd59b1",
+      "titlu": "Arsenal ajunge la un acord de peste 50 de milioane de lire sterline pentru transferul lui Ezri Konsa",
+      "rezumat": "Clubul Arsenal a ajuns la un acord cu Aston Villa pentru transferul fundașului englez Ezri Konsa, într-o tranzacție evaluată la peste 50 de milioane de lire sterline. Mutarea marchează o investiție semnificativă pentru \"tunari\" în consolidarea defensivei, aducând un jucător cu experiență în Premier League și la nivel internațional. Konsa, în vârstă de 28 de ani, a fost o prezență constantă în echipa lui Aston Villa și este considerat o piesă importantă pentru viitorul defensivei lui Arsenal.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-19T16:34:41.750143+00:00",
+      "data_afisaj": "19 august 2026, 19:34"
+    },
+    {
+      "id": "50e11a7de402",
+      "titlu": "Inter Milano este aproape de a finaliza transferul lui Curtis Jones de la Liverpool pentru 30 de milioane de lire sterline",
+      "rezumat": "Campioana Italiei, Inter Milano, se apropie de un acord pentru achiziționarea mijlocașului lui Liverpool, Curtis Jones. Tranzacția este estimată la aproximativ 35 de milioane de euro (30 de milioane de lire sterline). Jones, un produs al academiei lui Liverpool, a fost o prezență intermitentă în echipa de start în ultimele sezoane, iar o mutare în Serie A ar putea oferi o nouă provocare pentru tânărul jucător englez. Negocierile sunt în stadii avansate, iar anunțul oficial este așteptat în curând.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-19T16:34:41.751090+00:00",
+      "data_afisaj": "19 august 2026, 19:34"
+    },
+    {
+      "id": "220ff3747e4f",
+      "titlu": "Detalii despre contractul lui Carlos Baleba la Manchester United au fost dezvăluite, un ultim obstacol fiind cunoscut",
+      "rezumat": "Manchester United a făcut un pas important către finalizarea transferului lui Carlos Baleba, ținta sa pe termen lung. Au fost dezvăluite detalii despre contractul propus mijlocașului, iar un ultim obstacol în calea mutării a devenit cunoscut. Clubul englez este hotărât să-și consolideze lotul, iar aducerea lui Baleba ar reprezenta o achiziție strategică pentru viitorul echipei. Fanii așteaptă cu nerăbdare confirmarea oficială a acestei tranzacții, care ar putea aduce un suflu nou la mijlocul terenului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-08-19T16:34:41.752688+00:00",
+      "data_afisaj": "19 august 2026, 19:34"
+    },
+    {
+      "id": "fc185f7ceb64",
+      "titlu": "Benoît Badiashile de la Chelsea este aproape de un transfer la Napoli",
+      "rezumat": "Fundașul central al lui Chelsea, Benoît Badiashile, este pe cale să finalizeze un transfer la clubul italian Napoli. Mutarea vine în contextul în care Chelsea își restructurează lotul, iar Badiashile ar putea căuta mai multe oportunități de joc în Serie A. Napoli, la rândul său, dorește să-și întărească apărarea pentru a-și menține competitivitatea în campionat și în competițiile europene. Detaliile finale ale tranzacției sunt în curs de stabilire, iar anunțul oficial este așteptat în zilele următoare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-19T16:34:41.753475+00:00",
+      "data_afisaj": "19 august 2026, 19:34"
+    },
     {
       "id": "fcd09852f5c7",
       "titlu": "Șeful Premier League critică planul FIFA pentru Cupa Mondială",
@@ -1247,62 +1294,6 @@
       ],
       "data_publicare": "2026-08-12T16:59:11.213955+00:00",
       "data_afisaj": "12 august 2026, 19:59"
-    },
-    {
-      "id": "511ee6dbc4d9",
-      "titlu": "Gigi Becali, prima reacție despre transferul lui Arnold Garita la FCSB: „L-am luat pentru 4 luni”",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-08-12T09:09:36.283443+00:00",
-      "data_afisaj": "12 august 2026, 12:09"
-    },
-    {
-      "id": "c06a5f7150af",
-      "titlu": "Ipswich a convenit asupra unei taxe pentru atacantul Paraguay, Enciso",
-      "rezumat": "Ipswich Town a ajuns la un acord pentru a semna atacantul Paraguay Julio Enciso de la Strasbourg.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-12T09:09:36.284681+00:00",
-      "data_afisaj": "12 august 2026, 12:09"
-    },
-    {
-      "id": "c5c032528d78",
-      "titlu": "Emery urmărește prima Supercupă - dar contează?",
-      "rezumat": "Aston Villa concurează în Supercupă pentru prima dată din 1982, dar antrenorul Unai Emery are o experiență mult mai recentă a meciului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-12T09:09:36.285900+00:00",
-      "data_afisaj": "12 august 2026, 12:09"
-    },
-    {
-      "id": "d60d83b6e354",
-      "titlu": "Chelsea îl semnează pe Chavarria cu un contract de 16 milioane de lire sterline - cine este fundașul stâng?",
-      "rezumat": "Pep Chavarria se alătură lui Chelsea cu un contract de cinci ani, după ce a jucat în ligile inferioare spaniole până la 24 de ani.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-12T09:09:36.287240+00:00",
-      "data_afisaj": "12 august 2026, 12:09"
-    },
-    {
-      "id": "416c74f9dc3d",
-      "titlu": "O lovitură de stat pentru Bezos și o excepție pentru FSG - unde îl lasă afacerea pe Liverpool?",
-      "rezumat": "De ce investiția unui grup care include Jeff Bezos nu ar face o diferență semnificativă în puterea de cheltuieli a lui Liverpool - și ar putea sta neliniştit cu fanii.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-12T09:09:36.288561+00:00",
-      "data_afisaj": "12 august 2026, 12:09"
     }
   ]
 }
