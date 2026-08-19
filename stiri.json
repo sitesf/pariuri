@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-18T17:20:04.667147+00:00",
-  "updated_at_afisaj": "18 august 2026, 20:20",
+  "updated_at": "2026-08-19T07:39:55.623597+00:00",
+  "updated_at_afisaj": "19 august 2026, 10:39",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,42 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 114,
+  "numar_stiri": 113,
   "stiri": [
+    {
+      "id": "a3e3f87782cc",
+      "titlu": "Jamal Musiala dezvăluie că suferă de „crize tratabile” după două colapsuri pe teren",
+      "rezumat": "Mijlocașul lui Bayern München, Jamal Musiala, a anunțat că este tratat pentru o „disfuncție neurologică” care a cauzat două colapsuri pe teren în decurs de patru zile. Jucătorul a căzut în timpul unui meci amical cu Heidenheim, la doar opt minute după ce intrase pe teren, un incident similar având loc și într-un amical anterior cu RB Leipzig. Musiala a declarat că este vorba despre „crize de absență tratabile” și că primește îngrijiri medicale. Această veste a stârnit îngrijorare în lumea fotbalului, dar și speranțe pentru recuperarea rapidă a tânărului talent.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-19T07:39:55.619735+00:00",
+      "data_afisaj": "19 august 2026, 10:39"
+    },
+    {
+      "id": "0ce1d8770af0",
+      "titlu": "Aston Villa ajunge la un acord pentru transferul lui Aaron Wan-Bissaka de la West Ham",
+      "rezumat": "Aston Villa a convenit un acord pentru transferul fundașului Aaron Wan-Bissaka de la West Ham United. Inițial, transferul se va realiza sub formă de împrumut, cu o obligație de cumpărare la sfârșitul sezonului. Această mutare strategică vizează consolidarea apărării echipei din Birmingham în perspectiva noului sezon. Wan-Bissaka, cunoscut pentru abilitățile sale defensive și contribuția pe flancul drept, va aduce experiență și calitate lotului lui Aston Villa, care își propune să își îmbunătățească performanțele în Premier League.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-19T07:39:55.621263+00:00",
+      "data_afisaj": "19 august 2026, 10:39"
+    },
+    {
+      "id": "3586c9d98ac0",
+      "titlu": "Arsenal și Chelsea domină financiar Women's Super League, depășind restul ligii la venituri",
+      "rezumat": "Un studiu recent al conturilor financiare ale cluburilor din Women's Super League (WSL) pe parcursul a opt sezoane a relevat că Arsenal și Chelsea se află la o distanță considerabilă față de restul competiției în ceea ce privește veniturile și cheltuielile salariale. Cele două cluburi londoneze generează împreună mai multe venituri decât toate celelalte echipe din ligă la un loc. Această disparitate financiară subliniază o polarizare crescândă în fotbalul feminin englez, unde 'cele două mari' își consolidează poziția dominantă, în timp ce alte cluburi, precum London City Lionesses, încearcă să recupereze decalajul prin investiții strategice în transferuri.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-19T07:39:55.622955+00:00",
+      "data_afisaj": "19 august 2026, 10:39"
+    },
     {
       "id": "9a461e805a3f",
       "titlu": "Sheffield United Riscă o Penalizare de 12 Puncte din Cauza Problemelor Financiare",
@@ -1269,51 +1303,6 @@
       ],
       "data_publicare": "2026-08-12T08:20:46.997126+00:00",
       "data_afisaj": "12 august 2026, 11:20"
-    },
-    {
-      "id": "b6932d6998e7",
-      "titlu": "Inter Milano negociază transferul fundașului Djed Spence de la Tottenham pentru 25,6 milioane de lire sterline",
-      "rezumat": "Fundașul englez Djed Spence este aproape de o plecare de la Tottenham, Inter Milano fiind în discuții avansate pentru un transfer evaluat la aproximativ 25,6 milioane de lire sterline (30 de milioane de euro). Spence, care a jucat patru meciuri pentru Anglia la Cupa Mondială, inclusiv semifinala împotriva Argentinei, a coborât în ierarhia lui Spurs după sosirea lui Andy Robertson. Jucătorul este deschis la o mutare la campioana Italiei pentru a-și asigura mai multe minute de joc și a-și relansa cariera la un nivel înalt.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-11T17:52:05.638259+00:00",
-      "data_afisaj": "11 august 2026, 20:52"
-    },
-    {
-      "id": "e0e90c800649",
-      "titlu": "Shea Charles devine cel mai scump fotbalist nord-irlandez, transferat la Fulham pentru 30 de milioane de lire sterline",
-      "rezumat": "BBC Sport NI analizează ascensiunea lui Shea Charles, de la academia lui Manchester City la statutul de jucător transferat la Fulham pentru 30 de milioane de lire sterline, devenind astfel cel mai scump fotbalist din istoria Irlandei de Nord. Această sumă record subliniază potențialul și valoarea jucătorului pe piața transferurilor. Transferul reprezintă o recunoaștere a talentului său și o investiție semnificativă din partea clubului Fulham, care speră ca Charles să aducă un plus de valoare echipei în Premier League.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-11T17:52:05.640416+00:00",
-      "data_afisaj": "11 august 2026, 20:52"
-    },
-    {
-      "id": "7b88339ef14c",
-      "titlu": "Atacantul Robbie Ure, ignorat de Scoția la Cupa Mondială, semnează cu Sevilla",
-      "rezumat": "Sevilla a anunțat transferul atacantului Robbie Ure, fost internațional de tineret al Scoției, de la clubul suedez IK Sirius, pentru o sumă de 5,5 milioane de lire sterline, care ar putea ajunge la 7,6 milioane. Jucătorul a fost ocolit de selecționata Scoției pentru Cupa Mondială, iar mutarea sa la un club de calibru european precum Sevilla reprezintă o oportunitate importantă pentru cariera sa. Acest transfer marchează o nouă etapă pentru Ure, oferindu-i șansa de a se afirma la un nivel superior în La Liga.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-11T17:52:05.641918+00:00",
-      "data_afisaj": "11 august 2026, 20:52"
-    },
-    {
-      "id": "dabf9f5e8974",
-      "titlu": "Wrexham realizează un transfer record de club; Phillips revine la Sheffield United",
-      "rezumat": "Clubul Wrexham a efectuat un transfer record în istoria sa, aducând un nou jucător în echipă, într-o mișcare ce subliniază ambițiile crescânde ale clubului. Detaliile complete ale transferului nu au fost încă publicate, dar se anticipează că suma implicată este cea mai mare plătită vreodată de Wrexham. Între timp, Phillips revine la Sheffield United, o mutare care consolidează lotul \"Blades\" pentru sezonul viitor. Aceste mișcări pe piața transferurilor indică o activitate intensă în ligile inferioare engleze.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-11T17:52:05.643401+00:00",
-      "data_afisaj": "11 august 2026, 20:52"
     }
   ]
 }
