@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-20T08:36:20.879157+00:00",
-  "updated_at_afisaj": "20 august 2026, 11:36",
+  "updated_at": "2026-08-20T16:38:39.626146+00:00",
+  "updated_at_afisaj": "20 august 2026, 19:38",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,63 @@
   },
   "numar_stiri": 114,
   "stiri": [
+    {
+      "id": "04e56cbbbe71",
+      "titlu": "Premier League introduce noi măsuri pentru a reduce haosul la cornere",
+      "rezumat": "Premier League intenționează să implementeze noi reguli pentru a gestiona mai bine situațiile de la cornere, după ce sezonul trecut a fost marcat de numeroase incidente de împingere, tragere și agresiune în careu. Aceste măsuri vizează restabilirea ordinii și asigurarea unui joc mai corect în timpul fazelor fixe, o problemă care a devenit tot mai evidentă și a generat controverse în rândul echipelor și al fanilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-20T16:38:39.619774+00:00",
+      "data_afisaj": "20 august 2026, 19:38"
+    },
+    {
+      "id": "d63a09f168bb",
+      "titlu": "Xabi Alonso, antrenorul Chelsea, vorbește despre viitorul lui Enzo Fernández",
+      "rezumat": "Antrenorul principal al Chelsea, Xabi Alonso, a declarat că Enzo Fernández a demonstrat o „atitudine foarte bună” de la revenirea sa la club, în ciuda speculațiilor continue privind viitorul mijlocașului. Alonso a refuzat să garanteze că Chelsea va rezista unei eventuale oferte de la Manchester City, care ar fi interesată de serviciile jucătorului argentinian. Viitorul lui Fernández rămâne incert, chiar dacă termenul neoficial pentru oferte de 120 de milioane de lire sterline a expirat.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-20T16:38:39.621411+00:00",
+      "data_afisaj": "20 august 2026, 19:38"
+    },
+    {
+      "id": "860164176c6a",
+      "titlu": "Joao Cancelo se alătură definitiv Barcelonei după plecarea de la Al-Hilal",
+      "rezumat": "Fundașul portughez Joao Cancelo a semnat un contract permanent cu FC Barcelona, după ce înțelegerea sa cu clubul Al-Hilal a fost reziliată de comun acord. Această mutare marchează o revenire la echipa catalană pentru Cancelo, care a fost un jucător cheie în planurile antrenorului, iar transferul său definitiv consolidează apărarea Barcelonei pentru sezoanele viitoare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-20T16:38:39.622979+00:00",
+      "data_afisaj": "20 august 2026, 19:38"
+    },
+    {
+      "id": "c3da9903a0b0",
+      "titlu": "Mikel Arteta este încrezător că Myles Lewis-Skelly va rămâne la Arsenal",
+      "rezumat": "Mikel Arteta, managerul lui Arsenal, a declarat că este „100% încrezător” că tânărul mijlocaș Myles Lewis-Skelly va rămâne la club la finalul ferestrei de transferuri. Declarația vine în contextul în care Arsenal se pregătește pentru debutul noului sezon de Premier League, iar Arteta a subliniat importanța menținerii jucătorilor cheie pentru a-și apăra titlul. Lewis-Skelly este considerat un talent promițător în cadrul echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-20T16:38:39.624511+00:00",
+      "data_afisaj": "20 august 2026, 19:38"
+    },
+    {
+      "id": "f32b27084690",
+      "titlu": "Stadionul Maracanã va găzdui meciul de deschidere și finala Cupei Mondiale Feminine de anul viitor",
+      "rezumat": "Stadionul Maracanã din Rio de Janeiro, cu o capacitate de 78.838 de locuri, a fost desemnat să găzduiască atât meciul de deschidere, cât și finala Cupei Mondiale Feminine de anul viitor. Arena, care a fost gazda finalelor Cupei Mondiale masculine din 1950 și 2014, precum și a finalelor competițiilor olimpice de fotbal din 2016, va fi scena meciului Braziliei din Grupa A pe 24 iunie și a finalei pe 25 iulie, conform programului FIFA.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-20T16:38:39.626126+00:00",
+      "data_afisaj": "20 august 2026, 19:38"
+    },
     {
       "id": "f42df450f3f4",
       "titlu": "Experți BBC Sport prezic primele patru echipe din Premier League 2026-27",
@@ -1255,62 +1312,6 @@
       ],
       "data_publicare": "2026-08-13T16:59:36.482193+00:00",
       "data_afisaj": "13 august 2026, 19:59"
-    },
-    {
-      "id": "894667231f96",
-      "titlu": "Lionel Messi a Jucat pentru Inter Miami După Decesul Tatălui Său",
-      "rezumat": "Lionel Messi a revenit pe teren pentru Inter Miami, intrând ca rezervă miercuri, la scurt timp după decesul tatălui său. Prezența sa pe teren a fost notabilă, având în vedere contextul personal dificil. Jucătorul argentinian a făcut o apariție emoționantă, iar sursele indică faptul că ar fi sugerat chiar și o posibilă retragere din fotbal, deși această informație necesită confirmări suplimentare. Momentul subliniază impactul evenimentelor personale asupra carierei sportivilor de top.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-13T09:10:33.584952+00:00",
-      "data_afisaj": "13 august 2026, 12:10"
-    },
-    {
-      "id": "37a4c05dabe7",
-      "titlu": "Antrenor Interzis de FIFA pentru Abuz Sexual Continuă să Antreneze Tineri în Congo",
-      "rezumat": "Un antrenor din Republica Democratică Congo, Jonathan Bukabakwa, cunoscut și sub numele de Messi, interzis de FIFA pentru 20 de ani în martie 2023 pentru abuz sexual asupra unui minor, continuă să antreneze tineri jucători. Această situație, dezvăluită de The Guardian, evidențiază deficiențele în procesele de protecție ale FIFA. Bukabakwa, care a fost și amendat cu 100.000 de franci elvețieni, a fost eliberat din închisoare anul trecut și își continuă activitatea, ridicând semne de întrebare serioase privind aplicarea sancțiunilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-13T09:10:33.586462+00:00",
-      "data_afisaj": "13 august 2026, 12:10"
-    },
-    {
-      "id": "821689aff1f2",
-      "titlu": "Mikel Arteta Confirmă Intenția Arsenal de a Face Noi Transferuri",
-      "rezumat": "Antrenorul lui Arsenal, Mikel Arteta, a declarat că clubul caută activ noi achiziții pe piața transferurilor pentru a-și consolida lotul. Cu toate acestea, Arteta a recunoscut că există un număr limitat de jucători disponibili care pot aduce echipa la un nivel superior. Declarația subliniază ambițiile clubului de a se îmbunătăți continuu, dar și provocările întâmpinate în găsirea talentelor potrivite care să se integreze în viziunea sa strategică pentru sezonul următor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-13T09:10:33.587896+00:00",
-      "data_afisaj": "13 august 2026, 12:10"
-    },
-    {
-      "id": "a2d4c9186dd4",
-      "titlu": "Tinerii Madjo și Hemmings Impresionează la Debutul pentru Aston Villa în Supercupa UEFA",
-      "rezumat": "Aston Villa, deși învinsă cu 2-1 de Paris Saint-Germain în Supercupa UEFA, a descoperit doi jucători promițători. Atacantul Brian Madjo, în vârstă de 17 ani, a marcat la debutul său, iar aripa George Hemmings, de 19 ani, a avut, de asemenea, o prestație remarcabilă. Această apariție a tinerilor talente sugerează o direcție nouă pentru echipa lui Unai Emery, demonstrând potențialul academiei clubului în meciuri de anvergură europeană. Performanțele lor au fost evidențiate ca fiind \"extrem de impresionante\" de analiștii sportivi.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-13T09:10:33.589411+00:00",
-      "data_afisaj": "13 august 2026, 12:10"
-    },
-    {
-      "id": "807fa0579739",
-      "titlu": "Gianni Infantino Pregătit să Susțină Modificări la Cupa Mondială în Vederea Alegerilor FIFA",
-      "rezumat": "Președintele FIFA, Gianni Infantino, este pregătit să sprijine modificări ale formatului Cupei Mondiale, în contextul în care își curtează asociațiile membre înaintea candidaturii sale pentru un nou mandat prezidențial. Infantino se confruntă cu presiuni continue, dar disponibilitatea sa de a face compromisuri în privința fotbalului pentru a-și menține puterea este considerată fără egal. Această strategie politică vizează consolidarea sprijinului în roul său de lider al organizației mondiale de fotbal.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-08-13T09:10:33.590978+00:00",
-      "data_afisaj": "13 august 2026, 12:10"
     }
   ]
 }
