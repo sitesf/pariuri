@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-20T07:42:29.820583+00:00",
-  "updated_at_afisaj": "20 august 2026, 10:42",
+  "updated_at": "2026-08-20T08:36:20.879157+00:00",
+  "updated_at_afisaj": "20 august 2026, 11:36",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,51 @@
   },
   "numar_stiri": 114,
   "stiri": [
+    {
+      "id": "f42df450f3f4",
+      "titlu": "Experți BBC Sport prezic primele patru echipe din Premier League 2026-27",
+      "rezumat": "26 de experți în fotbal de la BBC Sport au fost solicitați să-și prezinte predicțiile pentru sezonul 2026-27 al Premier League, inclusiv cine va câștiga titlul și care cluburi se vor clasa în primele patru poziții. Aceste previziuni oferă o perspectivă asupra așteptărilor din rândul analiștilor sportivi înainte de începerea noului sezon, evidențiind echipele considerate favorite pentru succesul în campionatul englez. Predicțiile acoperă o gamă largă de opinii, reflectând incertitudinea și competitivitatea ligii.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-20T08:36:20.875366+00:00",
+      "data_afisaj": "20 august 2026, 11:36"
+    },
+    {
+      "id": "b462e2318e68",
+      "titlu": "Terenul deteriorat forțează PSG să mute meciul de deschidere al sezonului",
+      "rezumat": "Primul meci al sezonului din Ligue 1 pentru Paris Saint-Germain va fi jucat la Rennes, după ce condițiile meteorologice calde au deteriorat \"sever\" gazonul de pe Parc des Princes. Această decizie a fost luată pentru a asigura condiții optime de joc și pentru a proteja integritatea sportivă a competiției, obligând clubul să găsească o soluție rapidă pentru debutul în campionat. Măsura subliniază provocările logistice cu care se confruntă cluburile în menținerea infrastructurii sportive în fața condițiilor climatice extreme.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-20T08:36:20.876364+00:00",
+      "data_afisaj": "20 august 2026, 11:36"
+    },
+    {
+      "id": "e6ffb5511efa",
+      "titlu": "Manchester United ar putea regreta lipsa de susținere pentru Carrick",
+      "rezumat": "O analiză sugerează că Manchester United ar putea regreta decizia de a nu-l susține pe Michael Carrick, în special în privința achiziționării unui fundaș stânga, o prioritate pe piața transferurilor pe parcursul verii. Articolul pune sub semnul întrebării strategia clubului pe piața transferurilor, comparând-o cu eforturile anterioare de scouting și evidențiind potențialele consecințe ale lipsei de investiții în anumite poziții cheie pentru succesul echipei. Această abordare \"frugală sau nechibzuită\" ar putea afecta performanța pe termen lung a clubului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-20T08:36:20.878170+00:00",
+      "data_afisaj": "20 august 2026, 11:36"
+    },
+    {
+      "id": "f83fc93e373e",
+      "titlu": "Primele 30 de minute ale transmisiunilor Premier League de la TNT Sports vor fi disponibile pe YouTube",
+      "rezumat": "TNT Sports va oferi gratuit, pe platforma YouTube, primele 30 de minute ale transmisiunilor sale live din Premier League, începând cu meciul dintre Manchester United și Hull City. Această inițiativă include și emisiunea pre-meci 'EKO – Early Kick Off', disponibilă pentru prima dată gratuit, pe lângă difuzarea pe TNT Sports și HBO Max. Decizia reprezintă o schimbare în strategia de difuzare, menită să atragă un public mai larg și să sporească accesibilitatea conținutului Premier League pentru fani.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-20T08:36:20.879144+00:00",
+      "data_afisaj": "20 august 2026, 11:36"
+    },
     {
       "id": "7742313f3b89",
       "titlu": "Un Raport Dezvăluie că Algoritmii au Amplificat Rasismul la Cupa Mondială",
@@ -1266,56 +1311,6 @@
       ],
       "data_publicare": "2026-08-13T09:10:33.590978+00:00",
       "data_afisaj": "13 august 2026, 12:10"
-    },
-    {
-      "id": "f6fc6b4d4f00",
-      "titlu": "Atletico Madrid A Ajuns la un Acord de 34 Milioane Lire Sterline pentru Cristian Romero de la Tottenham",
-      "rezumat": "Clubul spaniol Atletico Madrid a convenit o înțelegere în valoare de 34,2 milioane de lire sterline cu Tottenham Hotspur pentru transferul căpitanului lor, Cristian Romero. Fundașul argentinian este așteptat să se alăture echipei din La Liga, marcând o mutare semnificativă pe piața transferurilor. Această tranzacție, confirmată de mai multe surse de top, subliniază intenția lui Atletico de a-și consolida defensiva cu un jucător de calibru internațional.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-13T08:23:04.257674+00:00",
-      "data_afisaj": "13 august 2026, 11:23"
-    },
-    {
-      "id": "ae49927a01f6",
-      "titlu": "Paris Saint-Germain Câștigă Supercupa UEFA Împotriva lui Aston Villa",
-      "rezumat": "Paris Saint-Germain a învins echipa engleză Aston Villa în Supercupa UEFA, într-un meci disputat. Golurile victoriei pentru PSG au fost marcate de Khvicha Kvaratskhelia și Desire Doue, asigurând trofeul pentru campioana Franței. Această confruntare a reprezentat un test important pentru ambele echipe la începutul noului sezon european, cu PSG demonstrând forța ofensivă și capacitatea de a se impune în fața unei formații puternice din Premier League.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-13T08:23:04.259141+00:00",
-      "data_afisaj": "13 august 2026, 11:23"
-    },
-    {
-      "id": "5ef53b1b70d8",
-      "titlu": "Chelsea Stabilește un Termen Limită pentru Ofertele de 120 Milioane Lire Sterline pentru Enzo Fernandez",
-      "rezumat": "Clubul Chelsea a impus un termen limită, până vineri, pentru primirea ofertelor de 120 de milioane de lire sterline pentru mijlocașul Enzo Fernandez. Această decizie indică o posibilă plecare a jucătorului argentinian de pe Stamford Bridge, în cazul în care o echipă este dispusă să achite suma solicitată. Situația lui Fernandez este urmărită cu atenție pe piața transferurilor, având în vedere valoarea sa ridicată și interesul potențial din partea altor cluburi europene.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-13T08:23:04.260660+00:00",
-      "data_afisaj": "13 august 2026, 11:23"
-    },
-    {
-      "id": "b75931be46e6",
-      "titlu": "Bruno Guimaraes Debutează pentru Arsenal într-un Meci Amical cu Como",
-      "rezumat": "Bruno Guimaraes a avut o prestație convingătoare la debutul său pentru Arsenal, într-un meci amical încheiat la egalitate, scor 1-1, împotriva echipei Como. Partida s-a desfășurat pe stadionul Emirates, oferind fanilor o primă ocazie de a-l vedea pe noul jucător în acțiune. Debutul său marchează un moment important în pregătirea echipei pentru noul sezon competițional, integrându-l în schema de joc a antrenorului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-13T08:23:04.262086+00:00",
-      "data_afisaj": "13 august 2026, 11:23"
     }
   ]
 }
