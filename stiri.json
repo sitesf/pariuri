@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-19T17:20:07.339948+00:00",
-  "updated_at_afisaj": "19 august 2026, 20:20",
+  "updated_at": "2026-08-20T07:42:29.820583+00:00",
+  "updated_at_afisaj": "20 august 2026, 10:42",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,53 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 112,
+  "numar_stiri": 114,
   "stiri": [
+    {
+      "id": "7742313f3b89",
+      "titlu": "Un Raport Dezvăluie că Algoritmii au Amplificat Rasismul la Cupa Mondială",
+      "rezumat": "Un nou studiu arată că abuzurile rasiste îndreptate către fotbaliștii englezi pe rețelele sociale, în timpul Cupei Mondiale, au fost amplificate de algoritmi. Acești algoritmi, concepuți pentru a maximiza implicarea utilizatorilor și profitul, au contribuit la răspândirea mesajelor discriminatorii. Cercetarea subliniază o problemă sistemică în modul în care platformele online gestionează conținutul, având un impact negativ asupra jucătorilor și integrității sportului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-20T07:42:29.815726+00:00",
+      "data_afisaj": "20 august 2026, 10:42"
+    },
+    {
+      "id": "ba1861349183",
+      "titlu": "Campanie Anti-Rasism Cere Guvernului Să Declare Meciurile Premier League „Evenimente cu Risc Ridicat”",
+      "rezumat": "Grupul de advocacy anti-rasism „HOPE not hate” a solicitat guvernului să clasifice meciurile din Premier League drept „evenimente cu risc ridicat”. Această cerere vine în urma amplorii abuzurilor rasiste la adresa fotbaliștilor englezi în timpul Cupei Mondiale, abuzuri despre care se spune că au fost amplificate de algoritmii rețelelor sociale. Organizația susține că platformele de social media profită de pe urma hărțuirii rasiale a jucătorilor, iar măsura propusă ar impune o monitorizare și intervenție sporită.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-08-20T07:42:29.817443+00:00",
+      "data_afisaj": "20 august 2026, 10:42"
+    },
+    {
+      "id": "498b3dd70e5b",
+      "titlu": "Tottenham Negociază Transferul Duo-ului Savinho și Marmoush de la Manchester City",
+      "rezumat": "Tottenham Hotspur se află în discuții avansate cu Manchester City pentru un potențial dublu transfer al jucătorilor Savinho și Omar Marmoush. Această mutare ar putea consolida ofensiva echipei londoneze, care caută să aducă trei noi atacanți în această fereastră de transferuri. Ambele cluburi sunt în negocieri, iar detaliile privind acordurile individuale și sumele de transfer urmează să fie finalizate în săptămânile următoare, pe măsură ce fereastra de transferuri se apropie de încheiere.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-20T07:42:29.819004+00:00",
+      "data_afisaj": "20 august 2026, 10:42"
+    },
+    {
+      "id": "b3fdb0af2c44",
+      "titlu": "Antrenorul Newcastle, Matthias Jaissle, Confirmă Necesitatea Ajustărilor în Lot",
+      "rezumat": "Matthias Jaissle, antrenorul principal al echipei Newcastle, a declarat că clubul este de acord cu necesitatea unor „ajustări” în componența lotului. Declarația vine în ultimele săptămâni ale ferestrei de transferuri de vară, sugerând că Newcastle va căuta să aducă noi jucători pentru a-și consolida echipa. Jaissle a subliniat că există o aliniere între staff-ul tehnic și conducerea clubului în privința strategiei de transferuri, înaintea meciului cu Liverpool.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-20T07:42:29.820564+00:00",
+      "data_afisaj": "20 august 2026, 10:42"
+    },
     {
       "id": "c42a6cebba37",
       "titlu": "Oficiali de top din fotbalul englez critică FIFA pentru controversa cartonașului roșu al lui Balogun",
@@ -1271,28 +1316,6 @@
       ],
       "data_publicare": "2026-08-13T08:23:04.262086+00:00",
       "data_afisaj": "13 august 2026, 11:23"
-    },
-    {
-      "id": "89dad634d939",
-      "titlu": "Monaco a Respins Oferta lui Crystal Palace pentru Mijlocașul Lamine Camara",
-      "rezumat": "Clubul AS Monaco din Ligue 1 a respins o ofertă verbală din partea echipei Crystal Palace pentru transferul mijlocașului Lamine Camara. Detaliile financiare ale ofertei nu au fost specificate, dar refuzul indică faptul că Monaco nu este dispusă să renunțe la jucătorul său în condițiile actuale. Crystal Palace își continuă eforturile de a-și întări lotul pentru noul sezon, însă va trebui să revină cu o propunere îmbunătățită pentru a-l convinge pe Camara să se alăture echipei din Premier League.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-12T17:53:13.721303+00:00",
-      "data_afisaj": "12 august 2026, 20:53"
-    },
-    {
-      "id": "eca06f22e63d",
-      "titlu": "Liga Profesionistă Saudită Vizează Evoluția, în Timp ce Cristiano Ronaldo Se Apropie de 1.000 de Goluri",
-      "rezumat": "Liga Profesionistă Saudită încearcă să depășească era bazată exclusiv pe transferul de megastaruri în vârstă, concentrându-se pe creșterea standardului general al fotbalului saudit. Cu toate acestea, prezența unor nume mari precum Cristiano Ronaldo continuă să domine atenția. La 41 de ani, Ronaldo se apropie de borna impresionantă de 1.000 de goluri în carieră, având nevoie de doar 24 de reușite. El a marcat deja 102 goluri în 107 meciuri de campionat pentru Al-Nassr, demonstrând o formă excepțională.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-12T17:53:13.724810+00:00",
-      "data_afisaj": "12 august 2026, 20:53"
     }
   ]
 }
