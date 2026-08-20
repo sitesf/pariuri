@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-20T16:38:39.626146+00:00",
-  "updated_at_afisaj": "20 august 2026, 19:38",
+  "updated_at": "2026-08-20T17:21:33.332259+00:00",
+  "updated_at_afisaj": "20 august 2026, 20:21",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,64 @@
   },
   "numar_stiri": 114,
   "stiri": [
+    {
+      "id": "08cea01aaf72",
+      "titlu": "Liverpool a avut o ofertă de 50 de milioane de lire sterline respinsă pentru Yankuba Minteh de la Brighton",
+      "rezumat": "Clubul Liverpool a înaintat o ofertă de 50 de milioane de lire sterline pentru a-l achiziționa pe aripa Yankuba Minteh de la Brighton. Cu toate acestea, propunerea a fost refuzată de clubul din sudul Angliei. Minteh, un tânăr talent, este considerat o țintă importantă pentru \"cormorani\" în această perioadă de transferuri, dar Brighton pare hotărâtă să-și păstreze jucătorul sau să obțină o sumă considerabil mai mare. Negocierile ar putea continua pe măsură ce fereastra de transferuri avansează.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-20T17:21:33.327407+00:00",
+      "data_afisaj": "20 august 2026, 20:21"
+    },
+    {
+      "id": "da5d36db0344",
+      "titlu": "Universitatea Craiova conduce Ararat Armenia în play-off-ul Europa League",
+      "rezumat": "Universitatea Craiova a deschis scorul pe stadionul \"Ion Oblemenco\" în meciul din play-off-ul Europa League împotriva echipei Ararat Armenia. Partida este una crucială pentru calificarea în faza grupelor competiției europene. Fanii craioveni sunt prezenți în număr mare pentru a-și susține echipa în această confruntare importantă. Rezultatul de pe teren va decide soarta calificării, iar echipa românească speră să obțină un avantaj consistent în prima manșă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-08-20T17:21:33.328592+00:00",
+      "data_afisaj": "20 august 2026, 20:21"
+    },
+    {
+      "id": "95228fa8c20c",
+      "titlu": "Daniel Pancu anunță un posibil transfer al unui internațional ghanez la echipa sa",
+      "rezumat": "Antrenorul Daniel Pancu a făcut un anunț important privind un potențial transfer la echipa sa, menționând că un fotbalist care a reprezentat naționala Ghanei și a evoluat anterior la Steaua Roșie Belgrad este aproape de a semna. Pancu a declarat că speră ca jucătorul să treacă cu succes vizita medicală, ultimul pas înainte de oficializarea mutării. Acest transfer ar putea aduce un plus de experiență și calitate lotului, având în vedere pedigree-ul internațional al fotbalistului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-08-20T17:21:33.329743+00:00",
+      "data_afisaj": "20 august 2026, 20:21"
+    },
+    {
+      "id": "1247099963a1",
+      "titlu": "Matthias Jaissle, noul antrenor al lui Newcastle, vorbește despre cum o accidentare i-a modelat cariera",
+      "rezumat": "Matthias Jaissle, recent numit antrenor la Newcastle United, a dezvăluit că încheierea prematură a carierei sale de jucător, la vârsta de 25 de ani, din cauza unei accidentări, a reprezentat un moment definitoriu. El a subliniat că această adversitate l-a învățat că dificultățile pot deschide noi oportunități. Declarațiile sale oferă o perspectivă asupra filozofiei sale de viață și de antrenor, sugerând o abordare rezilientă și adaptabilă în noua sa funcție la clubul din Premier League.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-20T17:21:33.331045+00:00",
+      "data_afisaj": "20 august 2026, 20:21"
+    },
+    {
+      "id": "4c0b334a70c7",
+      "titlu": "BBC Sport analizează prezența redusă a jucătoarelor africane în Women's Super League",
+      "rezumat": "BBC Sport a inițiat o investigație pentru a înțelege motivele din spatele numărului mic de jucătoare africane în Women's Super League (WSL), prima ligă de fotbal feminin din Anglia. Analiza explorează factorii care contribuie la această discrepanță, inclusiv provocările legate de infrastructură, oportunitățile de dezvoltare în țările de origine și barierele culturale sau economice. Studiul își propune să aducă în atenție aspecte importante legate de diversitate și incluziune în fotbalul feminin de elită.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-20T17:21:33.332245+00:00",
+      "data_afisaj": "20 august 2026, 20:21"
+    },
     {
       "id": "04e56cbbbe71",
       "titlu": "Premier League introduce noi măsuri pentru a reduce haosul la cornere",
@@ -1255,63 +1313,6 @@
       ],
       "data_publicare": "2026-08-13T17:52:19.826017+00:00",
       "data_afisaj": "13 august 2026, 20:52"
-    },
-    {
-      "id": "e331e3dd7a05",
-      "titlu": "Michael Carrick Solicită Transferuri Suplimentare la Manchester United și Exclude Achiziții de 100 Milioane Lire Sterline",
-      "rezumat": "Antrenorul principal al lui Manchester United, Michael Carrick, a declarat că clubul are nevoie de mai multe transferuri înainte de închiderea ferestrei de mercato pe 1 septembrie. Carrick a subliniat că, deși echipa a investit deja 85 de milioane de lire sterline în Youri Tielemans și Andrey Santos, este necesară o consolidare suplimentară a lotului. Totodată, el a exclus posibilitatea unei achiziții de 100 de milioane de lire sterline în această vară, invocând constrângerile financiare ale clubului. Declarațiile vin în contextul în care Marcus Rashford s-a reunit cu echipa după un împrumut la Barcelona.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-13T16:59:36.475816+00:00",
-      "data_afisaj": "13 august 2026, 19:59"
-    },
-    {
-      "id": "e43fb6b7613a",
-      "titlu": "Leicester City, Scoasă la Vânzare de Proprietarii Thai pentru Peste 200 Milioane Lire Sterline",
-      "rezumat": "Clubul de fotbal Leicester City a fost scos la vânzare de către proprietarii săi thailandezi, King Power, după 16 ani de deținere. Suma solicitată pentru achiziționarea clubului depășește 200 de milioane de lire sterline. Această decizie marchează o schimbare semnificativă pentru clubul care a cunoscut succesul sub conducerea King Power, inclusiv câștigarea titlului în Premier League în 2016. Procesul de vânzare ar putea atrage investitori interesați de un club cu o istorie recentă de performanță notabilă în fotbalul englez.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-13T16:59:36.477447+00:00",
-      "data_afisaj": "13 august 2026, 19:59"
-    },
-    {
-      "id": "f0a2000382eb",
-      "titlu": "Federația Irlandeză de Fotbal (FAI) Retrage Sprijinul pentru Președintele FIFA, Gianni Infantino",
-      "rezumat": "Federația Irlandeză de Fotbal (FAI) a anunțat oficial retragerea sprijinului pentru președintele FIFA, Gianni Infantino, aflat sub presiune. Această decizie vine în contextul în care Asociația Irlandeză de Fotbal (IFA) și-a reafirmat susținerea pentru poziția UEFA. Retragerea sprijinului din partea FAI reprezintă o lovitură semnificativă pentru Infantino, pe măsură ce se apropie alegerile FIFA și tensiunile cresc în jurul conducerii sale. Acțiunea FAI reflectă o tendință de distanțare a unor federații naționale față de actuala administrație FIFA.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-13T16:59:36.479040+00:00",
-      "data_afisaj": "13 august 2026, 19:59"
-    },
-    {
-      "id": "74da3f486ef7",
-      "titlu": "Meciul de Deschidere al Celta Vigo din La Liga, Amânat din Cauza unei Infecții Fungice pe Teren",
-      "rezumat": "Meciul de deschidere al sezonului din La Liga, dintre Celta Vigo și Osasuna, a fost amânat după ce o infecție fungică a afectat grav suprafața de joc de pe Estadio de Balaidos. Clubul spaniol a confirmat joi că terenul a fost declarat „nepotrivit pentru fotbal” în urma unei inspecții tehnice efectuate de La Liga. Decizia de amânare a fost luată de comun acord de ambele cluburi și de Federația Spaniolă de Fotbal (RFEF), asigurând siguranța jucătorilor și integritatea competiției.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-13T16:59:36.480651+00:00",
-      "data_afisaj": "13 august 2026, 19:59"
-    },
-    {
-      "id": "e7d4a73797bb",
-      "titlu": "Echipamentele din Premier League se Vor Schimba în Urma Interdicției Sponsorilor de Jocuri de Noroc",
-      "rezumat": "Echipamentele cluburilor din Premier League vor avea un aspect diferit începând cu acest sezon, după ce cluburile au votat pentru interzicerea sponsorilor de jocuri de noroc pe partea frontală a tricourilor. Această decizie marchează o schimbare semnificativă în peisajul sponsorizărilor din fotbalul englez, punând capăt unei ere în care companiile de pariuri erau prezențe dominante. BBC Sport analizează istoria sponsorizărilor și explorează cine va înlocui companiile de pariuri pe tricourile echipelor din cea mai puternică ligă din Anglia.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-13T16:59:36.482193+00:00",
-      "data_afisaj": "13 august 2026, 19:59"
     }
   ]
 }
