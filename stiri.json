@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-21T08:38:19.583184+00:00",
-  "updated_at_afisaj": "21 august 2026, 11:38",
+  "updated_at": "2026-08-21T16:38:05.826223+00:00",
+  "updated_at_afisaj": "21 august 2026, 19:38",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,44 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 114,
+  "numar_stiri": 112,
   "stiri": [
+    {
+      "id": "7f4c5909f226",
+      "titlu": "Leandro Paredes Suspendat 10 Meciuri de FIFA; Argentina, Amendată După Incidente la Cupa Mondială",
+      "rezumat": "Federația Internațională de Fotbal (FIFA) l-a suspendat pe mijlocașul argentinian Leandro Paredes pentru 10 meciuri, ca urmare a implicării sale în altercațiile cu jucătorii spanioli după finala Cupei Mondiale. Pe lângă sancțiunea aplicată jucătorului, FIFA a amendat Federația Argentiniană de Fotbal cu 235.647 de lire sterline pentru afișarea unui banner cu referire la Insulele Falkland, după victoria împotriva Angliei în semifinale, în urma incidentelor de la turneul final.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-08-21T16:38:05.823700+00:00",
+      "data_afisaj": "21 august 2026, 19:38"
+    },
+    {
+      "id": "df1b257a841c",
+      "titlu": "UEFA și CONCACAF Discută Crearea unei Ligi a Națiunilor Comune, o Provocare pentru FIFA",
+      "rezumat": "UEFA și CONCACAF au inițiat discuții pentru a înființa o Ligă a Națiunilor combinată, care ar include toate cele 96 de țări din Europa, America de Nord, Centrală și Caraibe. Această inițiativă reprezintă o nouă provocare directă la adresa FIFA, în contextul unor tensiuni crescânde legate de guvernanța fotbalului mondial. Un astfel de turneu bienal ar putea fi lansat încă din 2028, consolidând alianța dintre cele două confederații.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-21T16:38:05.824982+00:00",
+      "data_afisaj": "21 august 2026, 19:38"
+    },
+    {
+      "id": "ea98f65498a1",
+      "titlu": "Mohamed Salah S-a Transferat la Trabzonspor, o Surpriză a Pieței de Transferuri",
+      "rezumat": "Atacantul egiptean Mohamed Salah, fostul star al lui Liverpool, a semnat cu echipa turcă Trabzonspor, într-o mutare considerată una dintre cele mai surprinzătoare ale ferestrei de transferuri. Deși se anticipa că Salah va alege o destinație precum Arabia Saudită sau Statele Unite după plecarea de la Liverpool, clubul turc a reușit să finalizeze o tranzacție importantă, atrăgând un nume sonor în campionatul său.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-08-21T16:38:05.826206+00:00",
+      "data_afisaj": "21 august 2026, 19:38"
+    },
     {
       "id": "818b4d00d7c5",
       "titlu": "Arsenal Caută o Nouă Împrumutare pentru Ethan Nwaneri",
@@ -1260,61 +1296,6 @@
       ],
       "data_publicare": "2026-08-14T16:57:17.062764+00:00",
       "data_afisaj": "14 august 2026, 19:57"
-    },
-    {
-      "id": "7ea51826a5f7",
-      "titlu": "Manchester City Femei Își Propune Să-și Apere Titlul în Fața Rivalelor Tot Mai Puternice",
-      "rezumat": "Echipa feminină a clubului Manchester City și-a consolidat lotul în această vară, însă rămâne de văzut dacă va fi suficient pentru a-și apăra coroana în Women's Super League. Competiția devine tot mai acerbă, iar rivalele au investit semnificativ pentru a-și întări propriile echipe. Analiza pre-sezonului sugerează că City va trebui să demonstreze o formă excepțională și o strategie solidă pentru a-și menține poziția de campioană într-un campionat din ce în ce mai competitiv.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-14T09:05:46.674901+00:00",
-      "data_afisaj": "14 august 2026, 12:05"
-    },
-    {
-      "id": "30134e6d9948",
-      "titlu": "Analiză: Problemele Echipei Rangers Sub Conducerea Lui Derek McInnes După Eliminarea din Europa League",
-      "rezumat": "După înfrângerea suferită de Rangers în calificările Europa League împotriva echipei Jagellonia Bialystok, se analizează dificultățile întâmpinate de noul antrenor Derek McInnes și de echipa sa în acest debut de sezon. Eliminarea din competiția europeană a stârnit semne de întrebare cu privire la strategia și performanța clubului. Suporterii și analiștii caută explicații pentru startul sub așteptări și pentru direcția în care se îndreaptă echipa sub noua conducere tehnică.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-14T09:05:46.676678+00:00",
-      "data_afisaj": "14 august 2026, 12:05"
-    },
-    {
-      "id": "42f3afbedf08",
-      "titlu": "Chelsea Speră Să Repete Performanța de Acum Un Deceniu, De La Locul 10 la Titlul Premier League",
-      "rezumat": "Cu un nou antrenor, Xabi Alonso, la cârma echipei, Chelsea își propune să realizeze o ascensiune spectaculoasă, similară cu cea de acum un deceniu, când a trecut de la locul 10 la câștigarea titlului Premier League. Obiectivul este ambițios, iar fanii se întreabă dacă noul tehnician va reuși să revitalizeze echipa și să o readucă în lupta pentru trofeu. Sezonul care urmează va fi un test crucial pentru capacitatea clubului de a-și depăși performanța recentă și de a concura la cel mai înalt nivel.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-14T09:05:46.678367+00:00",
-      "data_afisaj": "14 august 2026, 12:05"
-    },
-    {
-      "id": "c7f38702c2af",
-      "titlu": "Wesley Fofana de la Chelsea: De la Abuz Rasist la Căutarea Stabilității",
-      "rezumat": "Fundașul lui Chelsea, Wesley Fofana, a trecut printr-o perioadă dificilă în sezonul trecut, confruntându-se cu critici, momente de neînțelegere și, cel mai grav, abuzuri rasiste. În ciuda acestor provocări, Fofana își exprimă convingerea că stabilitatea va fi cheia unui viitor \"extraordinar\" la Chelsea. El speră ca echipa să găsească echilibrul necesar pentru a performa constant și pentru a-și atinge obiectivele, depășind obstacolele personale și colective.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-14T09:05:46.679904+00:00",
-      "data_afisaj": "14 august 2026, 12:05"
-    },
-    {
-      "id": "a18a04044557",
-      "titlu": "Jarrod Bowen, Căpitanul West Ham, Despre Revenirea în Premier League",
-      "rezumat": "După retrogradarea echipei West Ham din Premier League în luna mai, după 15 ani petrecuți în prima ligă, căpitanul Jarrod Bowen a declarat că nu-i pasă cum anume va reuși echipa să revină în Sky Bet Championship, atâta timp cât obiectivul este atins. Declarația subliniază determinarea jucătorului și a clubului de a se întoarce rapid în elita fotbalului englez. Sezonul care urmează va fi unul plin de provocări, dar ambiția de a promova este clară.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-14T09:05:46.681494+00:00",
-      "data_afisaj": "14 august 2026, 12:05"
     }
   ]
 }
