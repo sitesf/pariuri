@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-21T07:44:36.192951+00:00",
-  "updated_at_afisaj": "21 august 2026, 10:44",
+  "updated_at": "2026-08-21T08:38:19.583184+00:00",
+  "updated_at_afisaj": "21 august 2026, 11:38",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,63 @@
   },
   "numar_stiri": 114,
   "stiri": [
+    {
+      "id": "818b4d00d7c5",
+      "titlu": "Arsenal Caută o Nouă Împrumutare pentru Ethan Nwaneri",
+      "rezumat": "După un sezon de debut promițător în 2024-25, mijlocașul lui Arsenal, Ethan Nwaneri, în vârstă de 19 ani, a avut puține apariții în sezonul trecut și a fost împrumutat la Marseille, o mutare care nu a avut succesul scontat. Clubul londonez explorează acum o altă soluție temporară pentru a-i asigura lui Nwaneri minute de joc constante în noul sezon. Această decizie vine în contextul în care un alt tânăr talent, Myles Lewis-Skelly, pare să rămână la Emirates.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-21T08:38:19.576955+00:00",
+      "data_afisaj": "21 august 2026, 11:38"
+    },
+    {
+      "id": "c14c25fdbe04",
+      "titlu": "Aston Villa Se Confruntă cu Plecări Semnificative de Jucători Cheie",
+      "rezumat": "Aston Villa a vândut deja trei jucători importanți în această vară, iar numărul plecărilor ar putea crește considerabil până la încheierea ferestrei de transferuri. Această situație creează provocări pentru antrenorul Unai Emery, care trebuie să gestioneze reconstrucția echipei după performanțele bune din Europa League. Clubul se află într-un proces de restructurare a lotului, ceea ce ar putea afecta echilibrul și coeziunea echipei pentru noul sezon.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-21T08:38:19.578424+00:00",
+      "data_afisaj": "21 august 2026, 11:38"
+    },
+    {
+      "id": "fc0a10a78752",
+      "titlu": "Rezultate din Play-off-urile Europene: Rangers Câștigă, Brighton și Hearts Egalizează",
+      "rezumat": "Rangers a obținut o victorie la limită, scor 1-0, împotriva echipei cehe Jablonec în prima manșă a play-off-ului Conference League, deși a jucat în 10 oameni. Între timp, Brighton a remizat fără goluri, 0-0, în deplasare cu Tromsø în Norvegia, iar Hearts a încheiat la egalitate, 2-2, meciul cu Rapid Viena. Aceste rezultate stabilesc premisele pentru manșele retur, cu echipele britanice având șanse de calificare în faza grupelor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-21T08:38:19.580057+00:00",
+      "data_afisaj": "21 august 2026, 11:38"
+    },
+    {
+      "id": "8c44748e921e",
+      "titlu": "Ligue 1: PSG Domină, Restul Cluburilor Luptă pentru Supraviețuire Financiară",
+      "rezumat": "O analiză recentă subliniază decalajul tot mai mare din Ligue 1, unde Paris Saint-Germain este considerată cea mai bună echipă de pe continent, în timp ce majoritatea celorlalte cluburi franceze se concentrează pe stabilitatea financiară și dezvoltarea jucătorilor pentru a-i vinde ulterior în ligi mai puternice, precum Premier League. Această situație a transformat campionatul francez într-o ligă în care supraviețuirea și furnizarea de talente primează în fața competiției sportive.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-21T08:38:19.581582+00:00",
+      "data_afisaj": "21 august 2026, 11:38"
+    },
+    {
+      "id": "1c1cc312b0d4",
+      "titlu": "Lia Walti (Brighton) Mărturisește că I-a Lipsit Sentimentul de a Fi Apreciată la Juventus",
+      "rezumat": "Mijlocașul echipei Brighton, Lia Walti, a declarat că i-a lipsit \"sentimentul de a fi apreciată ca fotbalistă\" în perioada petrecută la Juventus și că a dorit intens să revină în Women's Super League (WSL). Declarația subliniază importanța recunoașterii și valorizării jucătoarelor în cariera lor, un aspect crucial pentru bunăstarea și performanța sportivă. Revenirea sa în WSL a fost motivată de dorința de a regăsi acest sentiment de apartenență și apreciere.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-21T08:38:19.583167+00:00",
+      "data_afisaj": "21 august 2026, 11:38"
+    },
     {
       "id": "8161ba7ade65",
       "titlu": "Tottenham a ajuns la un acord de 75 de milioane de lire sterline pentru Savinho de la Manchester City",
@@ -1258,61 +1315,6 @@
       ],
       "data_publicare": "2026-08-14T09:05:46.681494+00:00",
       "data_afisaj": "14 august 2026, 12:05"
-    },
-    {
-      "id": "57a1e3c42eb2",
-      "titlu": "Oceania Își Declară Sprijinul pentru Gianni Infantino, în Timp ce Noua Zeelandă Se Delimitează",
-      "rezumat": "Confederația de Fotbal din Oceania (OFC) și-a declarat sprijinul pentru președintele FIFA, Gianni Infantino, după o întâlnire a comitetului executiv în Fiji. Această decizie vine în contextul în care UEFA, Concacaf și Confederația Asiatică de Fotbal au cerut demisia lui Infantino, evidențiind o divizare în fotbalul mondial. Cele 11 voturi ale OFC ar putea fi cruciale în viitoarele alegeri FIFA. Cu toate acestea, Noua Zeelandă a ales să se delimiteze de poziția OFC, retrăgându-și sprijinul pentru președintele în funcție, marcând o ruptură în cadrul organismului de conducere al fotbalului din Oceania.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-14T08:17:25.910049+00:00",
-      "data_afisaj": "14 august 2026, 11:17"
-    },
-    {
-      "id": "5f27d8116eba",
-      "titlu": "Tijjani Reijnders de la Manchester City, Aproape de un Transfer de 52 Milioane Lire Sterline în Arabia Saudită",
-      "rezumat": "Mijlocașul lui Manchester City, Tijjani Reijnders, este pe punctul de a părăsi clubul după doar un an, în urma unui acord de 52 de milioane de lire sterline cu echipa Al-Qadsiah din Liga Profesionistă Saudită. Transferul marchează o nouă plecare importantă de la un club de top european către campionatul saudit, care continuă să atragă jucători de valoare cu oferte financiare substanțiale. Reijnders, care a petrecut un singur sezon la Manchester City, se pregătește acum pentru o nouă provocare în Orientul Mijlociu.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-14T08:17:25.911375+00:00",
-      "data_afisaj": "14 august 2026, 11:17"
-    },
-    {
-      "id": "4d10d81a783c",
-      "titlu": "Analiză: Stilul și Tactica lui Enzo Maresca la Manchester City, Comparativ cu Pep Guardiola",
-      "rezumat": "Enzo Maresca se confruntă cu sarcina dificilă de a-i succeda lui Pep Guardiola la Manchester City. O analiză recentă a stilului și tacticilor noului manager, bazată pe meciurile din pre-sezon, explorează modul în care echipa se conturează sub conducerea sa. Se examinează dacă Maresca va menține filosofia de joc a lui Guardiola sau va introduce modificări semnificative, încercând să-și impună propria viziune, păstrând în același timp standardele înalte de performanță ale clubului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-14T08:17:25.912654+00:00",
-      "data_afisaj": "14 august 2026, 11:17"
-    },
-    {
-      "id": "d48429146546",
-      "titlu": "Lincoln City Revine în Championship cu o Conducere Dublă la Nivel de Antrenori Principali",
-      "rezumat": "Lincoln City, unul dintre cele mai noi cluburi din Championship, va fi condus de o echipă de doi antrenori principali, Tom Shaw și Chris Cohen, pe parcursul campaniei lor în a doua ligă engleză. Această abordare neconvențională subliniază o atmosferă relaxată și o vară plină de schimbări la club. În ciuda pierderii unor jucători cheie, Lincoln își propune să demonstreze că poate concura la acest nivel, bazându-se pe încrederea în modelul lor de conducere și pe adaptabilitatea echipei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-14T08:17:25.913833+00:00",
-      "data_afisaj": "14 august 2026, 11:17"
-    },
-    {
-      "id": "054816587348",
-      "titlu": "Căpitanul Echipei Durham, Ușurat După Ce Clubul de Fotbal Feminin a Evitat Desființarea",
-      "rezumat": "Sarah Wilson, căpitanul echipei de fotbal feminin Durham, și-a exprimat ușurarea în urma investițiilor recente care au salvat clubul de la o posibilă desființare. Wilson a descris perioada de incertitudine ca fiind \"oribilă\", cu temeri că echipa din Women's Super League 2 (WSL2) ar putea înceta să existe. Durham, o prezență constantă în a doua ligă engleză din 2014, a terminat pe locul 10 sezonul trecut, iar supraviețuirea clubului este o veste crucială pentru continuitatea fotbalului feminin în regiune.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-14T08:17:25.915049+00:00",
-      "data_afisaj": "14 august 2026, 11:17"
     }
   ]
 }
