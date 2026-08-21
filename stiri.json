@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-20T17:21:33.332259+00:00",
-  "updated_at_afisaj": "20 august 2026, 20:21",
+  "updated_at": "2026-08-21T07:44:36.192951+00:00",
+  "updated_at_afisaj": "21 august 2026, 10:44",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,62 @@
   },
   "numar_stiri": 114,
   "stiri": [
+    {
+      "id": "8161ba7ade65",
+      "titlu": "Tottenham a ajuns la un acord de 75 de milioane de lire sterline pentru Savinho de la Manchester City",
+      "rezumat": "Tottenham Hotspur a convenit un acord cu Manchester City pentru transferul atacantului Savinho, în valoare de 75 de milioane de lire sterline, la care se pot adăuga alte 10 milioane de lire sterline sub formă de bonusuri. Jucătorul brazilian, care a impresionat în ultimele sezoane, va aduce un plus de viteză și creativitate ofensivei londoneze. Această mutare reprezintă o investiție semnificativă pentru Spurs, care își propune să își consolideze lotul în vederea noului sezon și a obiectivelor ambițioase.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-21T07:44:36.186750+00:00",
+      "data_afisaj": "21 august 2026, 10:44"
+    },
+    {
+      "id": "7fcf4e4c95e3",
+      "titlu": "Aston Villa a respins o ofertă de 18 milioane de lire sterline pentru fundașul Harwood-Bellis",
+      "rezumat": "Aston Villa a înaintat o ofertă de aproximativ 18 milioane de lire sterline, plus bonusuri, pentru fundașul Taylor Harwood-Bellis de la Southampton, însă aceasta a fost respinsă. Jucătorul, considerat o țintă importantă pentru echipa antrenată de Unai Emery, rămâne sub contract cu Southampton. Negocierile ar putea continua, deoarece Villa caută să-și întărească defensiva înaintea începerii noului sezon, în contextul participării în competițiile europene.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-21T07:44:36.188406+00:00",
+      "data_afisaj": "21 august 2026, 10:44"
+    },
+    {
+      "id": "1dba93aa7a10",
+      "titlu": "Noul sezon Premier League aduce reguli, antrenori și comentatori noi",
+      "rezumat": "Sezonul 2026-27 din Premier League debutează cu o serie de schimbări semnificative, incluzând noi reguli menite să reducă pierderile de timp, un număr record de antrenori noi la cârma echipelor și fețe noi în emisiunile sportive. Printre noii antrenori se numără Xabi Alonso la Chelsea și Marco Rose la Bournemouth. Aceste modificări vizează îmbunătățirea spectacolului și a integrității jocului, oferind fanilor o experiență reînnoită pentru campania care urmează.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-21T07:44:36.189874+00:00",
+      "data_afisaj": "21 august 2026, 10:44"
+    },
+    {
+      "id": "1d4fc92c5547",
+      "titlu": "Gianni Infantino caută sprijin la un turneu de juniori pentru a-și păstra poziția la FIFA",
+      "rezumat": "Președintele FIFA, Gianni Infantino, intenționează să participe la un turneu de juniori U14 în Republica Dominicană, organizat de Uniunea de Fotbal din Caraibe (CFU). Această acțiune este percepută ca o strategie de a obține voturi și de a diviza coaliția europeană și nord-americană care încearcă să-l înlăture de la putere. Întâlnirile din jurul evenimentului sunt considerate o oportunitate pentru Infantino de a-și consolida poziția într-un moment de criză la conducerea forului mondial.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-21T07:44:36.191462+00:00",
+      "data_afisaj": "21 august 2026, 10:44"
+    },
+    {
+      "id": "bb13cd68ef26",
+      "titlu": "Ronaldinho, la 46 de ani, revine pe teren la Ravenna în Serie C",
+      "rezumat": "Legendarul fotbalist brazilian Ronaldinho, în vârstă de 46 de ani, a semnat cu echipa italiană Ravenna din Serie C, într-o revenire surprinzătoare pe terenul de fotbal. Fostul câștigător al Balonului de Aur, care a jucat ultimul său meci oficial în 2015, a fost prezentat oficial și a promis entuziasm și bucurie fanilor. Această mutare neașteptată a stârnit un val de interes și a convins chiar și pe cei mai sceptici suporteri ai clubului italian.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-21T07:44:36.192930+00:00",
+      "data_afisaj": "21 august 2026, 10:44"
+    },
     {
       "id": "08cea01aaf72",
       "titlu": "Liverpool a avut o ofertă de 50 de milioane de lire sterline respinsă pentru Yankuba Minteh de la Brighton",
@@ -1257,62 +1313,6 @@
       ],
       "data_publicare": "2026-08-14T08:17:25.915049+00:00",
       "data_afisaj": "14 august 2026, 11:17"
-    },
-    {
-      "id": "49b75740fc4d",
-      "titlu": "Prezentare Premier League 2026-27: Crystal Palace Își Asumă un Risc cu Noul Antrenor",
-      "rezumat": "Crystal Palace își începe sezonul 2026-27 din Premier League cu un nou antrenor, Pierre Sage, care are sarcina de a construi pe succesul fără precedent al predecesorului său, Glasner. Echipa este anticipată să termine pe locul 16, conform previziunilor jurnaliștilor. Această mutare reprezintă o decizie riscantă pentru club, având în vedere așteptările de a continua progresul înregistrat anterior și de a se menține în prima ligă engleză.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-13T17:52:19.820277+00:00",
-      "data_afisaj": "13 august 2026, 20:52"
-    },
-    {
-      "id": "0bb47db19bfe",
-      "titlu": "Arsenal Vizează Transferul Fundașului Ezri Konsa de la Aston Villa",
-      "rezumat": "Arsenal intensifică discuțiile pentru achiziționarea fundașului central Ezri Konsa de la Aston Villa. Se pare că jucătorul este opțiunea preferată a clubului londonez în căutarea unui nou apărător central pentru a-și consolida lotul. Această mutare ar putea reprezenta o întărire semnificativă pentru defensiva lui Arsenal înaintea noului sezon, având în vedere performanțele constante ale lui Konsa în Premier League.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-13T17:52:19.821752+00:00",
-      "data_afisaj": "13 august 2026, 20:52"
-    },
-    {
-      "id": "5eb4ec4cf8e2",
-      "titlu": "Arbitrul Retras Anthony Taylor Denunță o Cultură a Fricii în Fotbalul Englez",
-      "rezumat": "Arbitrul Anthony Taylor, care se retrage din Premier League, a declarat că decizia sa a fost influențată parțial de dezbaterea toxică din jurul oficialilor de meci. El a subliniat că foștii arbitri critici contribuie la o \"cultură a fricii\" în rândul actualilor arbitri, afectând performanța și bunăstarea acestora. Această declarație aduce în discuție presiunea și ostilitatea cu care se confruntă arbitrii în fotbalul modern, cerând o schimbare de atitudine.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-13T17:52:19.823222+00:00",
-      "data_afisaj": "13 august 2026, 20:52"
-    },
-    {
-      "id": "eaab70654b32",
-      "titlu": "Enes Unal Finalizează Transferul de la Bournemouth la Getafe",
-      "rezumat": "Atacantul Enes Unal a finalizat mutarea sa de la Bournemouth pentru a se alătura din nou clubului spaniol Getafe. Transferul marchează revenirea jucătorului la echipa din La Liga, după o perioadă petrecută în Premier League. Această decizie consolidează ofensiva Getafe pentru sezonul viitor și reprezintă o nouă etapă în cariera fotbalistului, care speră să își regăsească forma în campionatul spaniol.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-13T17:52:19.824562+00:00",
-      "data_afisaj": "13 august 2026, 20:52"
-    },
-    {
-      "id": "deab05a9be31",
-      "titlu": "Celtic Îl Semnează pe Mijlocașul Mika Baur pe un Contract de Patru Ani",
-      "rezumat": "Celtic a realizat a patra achiziție a verii, semnându-l pe mijlocașul Mika Baur pe un contract inițial de patru ani, cu opțiunea de prelungire pentru încă un an. Jucătorul se alătură clubului scoțian de la Paderborn, aducând un plus de talent la mijlocul terenului. Această mutare subliniază strategia lui Celtic de a-și întări echipa pentru competițiile viitoare, vizând atât succesul intern, cât și cel european.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-13T17:52:19.826017+00:00",
-      "data_afisaj": "13 august 2026, 20:52"
     }
   ]
 }
