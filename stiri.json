@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-21T17:21:30.737751+00:00",
-  "updated_at_afisaj": "21 august 2026, 20:21",
+  "updated_at": "2026-08-22T07:34:13.713767+00:00",
+  "updated_at_afisaj": "22 august 2026, 10:34",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,42 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 111,
+  "numar_stiri": 106,
   "stiri": [
+    {
+      "id": "926762d340f0",
+      "titlu": "Arsenal Începe Apărarea Titlului cu o Victorie Convingătoare Împotriva lui Coventry",
+      "rezumat": "Campioana en-titre Arsenal a debutat în noul sezon de Premier League cu o victorie clară, scor 3-0, împotriva nou-promovatei Coventry City. Meciul de deschidere, disputat pe Emirates Stadium, a fost dominat de \"Tunari\", care au marcat prin Kai Havertz, Bukayo Saka și Martin Odegaard. Acest rezultat subliniază intenția echipei de a-și apăra titlul cu o performanță solidă încă de la începutul campaniei, demonstrând forța ofensivă și coeziunea grupului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-22T07:34:13.710855+00:00",
+      "data_afisaj": "22 august 2026, 10:34"
+    },
+    {
+      "id": "e331c8ea180c",
+      "titlu": "Arsenal Finalizează Transferul Fundașului Ezri Konsa de la Aston Villa",
+      "rezumat": "Arsenal a confirmat achiziționarea fundașului englez Ezri Konsa de la Aston Villa, într-o tranzacție evaluată la 55 de milioane de lire sterline. Apărătorul central, cunoscut pentru forța și abilitățile sale defensive, se alătură \"Tunarilor\" într-un moment crucial, consolidând opțiunile defensive ale echipei. Konsa a declarat că este \"flămând de victorii\", exprimându-și entuziasmul de a contribui la obiectivele ambițioase ale clubului londonez în noul sezon de Premier League și în competițiile europene.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-22T07:34:13.712383+00:00",
+      "data_afisaj": "22 august 2026, 10:34"
+    },
+    {
+      "id": "600961ef0d46",
+      "titlu": "Secretarul General FIFA, Mattias Grafström, Ar Putea Candida Împotriva lui Gianni Infantino",
+      "rezumat": "Mattias Grafström, actualul secretar general al FIFA, este curtat de federațiile africane pentru a candida împotriva lui Gianni Infantino la viitoarele alegeri prezidențiale ale FIFA. Se pare că până la 15 federații africane sunt pregătite să-și retragă sprijinul pentru Infantino, în ciuda declarațiilor Confederației Africane de Fotbal (CAF) care susțin contrariul. Discuțiile cu Grafström indică o posibilă provocare semnificativă la adresa actualului președinte, cu speranța că acesta ar putea uni continentele sub o nouă viziune de conducere.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-22T07:34:13.713753+00:00",
+      "data_afisaj": "22 august 2026, 10:34"
+    },
     {
       "id": "84d70d2b7a04",
       "titlu": "Crystal Palace Îl Aduc pe Axel Disasi Împrumut de la Chelsea și Refuză Oferta Man City pentru Adam Wharton",
@@ -1190,100 +1224,6 @@
       ],
       "data_publicare": "2026-08-15T08:26:46.200123+00:00",
       "data_afisaj": "15 august 2026, 11:26"
-    },
-    {
-      "id": "ad2ac74bef84",
-      "titlu": "Consorțiul susținut de Jeff Bezos cumpără o treime din Liverpool",
-      "rezumat": "Proprietarii clubului Liverpool, Fenway Sports Group, au confirmat acordul de vânzare a aproximativ o treime din acțiunile clubului către un consorțiu care îl include pe miliardarul Jeff Bezos, fondatorul Amazon, și pe co-fondatorul Facebook, Eduardo Saverin. Tranzacția este evaluată la 1,65 miliarde de lire sterline, ceea ce evaluează întregul club la 5,5 miliarde de lire sterline. Amit Bhatia va deveni noul vicepreședinte al consiliului de administrație, marcând o investiție semnificativă în viitorul clubului de pe Anfield.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-15T07:32:31.488196+00:00",
-      "data_afisaj": "15 august 2026, 10:32"
-    },
-    {
-      "id": "f02d1be099aa",
-      "titlu": "Raúl Jiménez salvează un punct dramatic pentru Wolves la revenirea pe Molineux",
-      "rezumat": "Raúl Jiménez a marcat un gol egalizator din penalty în prelungiri, la revenirea sa pe Molineux, salvând un punct pentru Wolves într-un meci încheiat 2-2 împotriva echipei Blackburn. Atacantul mexican, care a intrat pe teren de pe bancă, a transformat lovitura de la 11 metri acordată pentru un henț, asigurând un rezultat de egalitate în debutul sezonului din Championship. Golul său a evitat o înfrângere jenantă pentru Wolves în fața propriilor suporteri.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-15T07:32:31.490366+00:00",
-      "data_afisaj": "15 august 2026, 10:32"
-    },
-    {
-      "id": "e1506f8ca304",
-      "titlu": "Șahtior Donețk dorește să joace meciurile din Liga Campionilor pe Stamford Bridge",
-      "rezumat": "Clubul ucrainean Șahtior Donețk și-a exprimat dorința de a-și disputa meciurile de pe teren propriu din Liga Campionilor pe stadionul Stamford Bridge al echipei Chelsea, în acest sezon. Această solicitare vine în contextul situației actuale din Ucraina, care împiedică desfășurarea partidelor internaționale pe teritoriul național. Decizia finală va depinde de acordul UEFA și al clubului Chelsea, care ar trebui să aprobe utilizarea facilităților lor pentru meciurile europene.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-15T07:32:31.491991+00:00",
-      "data_afisaj": "15 august 2026, 10:32"
-    },
-    {
-      "id": "e539036a72b5",
-      "titlu": "Erling Haaland adaugă patru recorduri mondiale Guinness la colecția sa de trofee",
-      "rezumat": "Atacantul norvegian Erling Haaland și-a îmbogățit palmaresul cu încă patru recorduri mondiale Guinness, primind premiile pentru performanțele sale remarcabile. Această recunoaștere subliniază dominația sa în fotbalul mondial și capacitatea sa de a stabili noi standarde în sport. Detaliile specifice ale recordurilor nu au fost încă publicate, dar se așteaptă să fie legate de performanțele sale de golgheter și de alte realizări notabile din cariera sa recentă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-08-15T07:32:31.493552+00:00",
-      "data_afisaj": "15 august 2026, 10:32"
-    },
-    {
-      "id": "2793a23389df",
-      "titlu": "Analiză: Cum se vor descurca cele trei echipe retrogradate în Championship?",
-      "rezumat": "BBC Sport și The Guardian analizează perspectivele celor trei echipe retrogradate din Premier League – West Ham, Burnley și Wolves – în noul sezon din Championship. Articolele examinează strategiile pe care le vor adopta aceste cluburi pentru a naviga în a doua ligă engleză, provocările financiare și sportive, precum și șansele lor de a reveni rapid în elita fotbalului englez. Se discută despre impactul pierderii statutului de Premier League asupra loturilor de jucători și a stabilității cluburilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-14T17:46:03.950321+00:00",
-      "data_afisaj": "14 august 2026, 20:46"
-    },
-    {
-      "id": "a1219dcf02da",
-      "titlu": "Petrolul Învinge FC Voluntari cu 2-1 în Superliga României",
-      "rezumat": "Petrolul Ploiești a obținut o victorie importantă în deplasare împotriva echipei FC Voluntari, scor 2-1, în cadrul etapei a cincea a Superligii României. Golurile victoriei pentru „lupii galbeni” au fost marcate de Flores și Malula, asigurând cele trei puncte pentru oaspeți. Reușita de onoare a gazdelor a fost semnată de Roman. Această partidă subliniază lupta intensă din campionatul intern și influența jucătorilor cheie în rezultatele finale ale meciurilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-08-14T17:46:03.951880+00:00",
-      "data_afisaj": "14 august 2026, 20:46"
-    },
-    {
-      "id": "3a509c433b4f",
-      "titlu": "Enzo Fernández Rămâne la Chelsea După Ce Manchester City Nu A Făcut Ofertă Până la Termenul Limită",
-      "rezumat": "Termenul limită stabilit de Chelsea pentru primirea ofertelor de 120 de milioane de lire sterline pentru mijlocașul Enzo Fernández a expirat, iar Manchester City nu a înaintat nicio propunere. În consecință, Chelsea se așteaptă ca internaționalul argentinian să rămână la club în acest sezon. Deși City ar putea menține interesul, lipsa unei oferte concrete până la termenul impus confirmă decizia lui Fernández de a continua la Stamford Bridge, cel puțin pentru moment.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-14T17:46:03.954655+00:00",
-      "data_afisaj": "14 august 2026, 20:46"
-    },
-    {
-      "id": "9258db10076d",
-      "titlu": "Surorile Chawinga, Vedetele Echipei Malawi la Cupa Africii pe Națiuni la Fotbal Feminin",
-      "rezumat": "Surorile Tabitha și Temwa Chawinga sunt considerate principalele vedete ale echipei naționale a Malawi, care a avut o evoluție surprinzătoare până în finala Cupei Africii pe Națiuni la Fotbal Feminin din 2026. Performanța lor excepțională a propulsat echipa într-o poziție neașteptată, atrăgând atenția asupra talentului și contribuției lor esențiale la succesul naționalei. Prezența lor în finală reprezintă o realizare istorică pentru fotbalul feminin din Malawi.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-14T17:46:03.956322+00:00",
-      "data_afisaj": "14 august 2026, 20:46"
     }
   ]
 }
