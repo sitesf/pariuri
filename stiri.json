@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-22T08:27:36.017381+00:00",
-  "updated_at_afisaj": "22 august 2026, 11:27",
+  "updated_at": "2026-08-22T16:27:43.365519+00:00",
+  "updated_at_afisaj": "22 august 2026, 19:27",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,32 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 107,
+  "numar_stiri": 109,
   "stiri": [
+    {
+      "id": "9454d8a3335e",
+      "titlu": "Hull City Produce Surpriza Începutului de Sezon, Învingând Manchester United",
+      "rezumat": "Nou-promovata Hull City a produs o surpriză majoră în prima etapă a Premier League, învingând Manchester United cu 2-0. Golurile au fost marcate de Semi Ajayi și Mendy. Antrenorul lui Manchester United, Michael Carrick, a refuzat să intre în panică, în ciuda înfrângerii șocante, în timp ce managerul lui Hull, Sergej Jakirovic, a lăudat abordarea tactică a echipei sale. Victoria reprezintă un debut de vis pentru Hull City, care își propune să demonstreze că merită un loc în prima ligă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-22T16:27:43.362488+00:00",
+      "data_afisaj": "22 august 2026, 19:27"
+    },
+    {
+      "id": "83c8b2ed5788",
+      "titlu": "Marea Britanie Vizează Găzduirea Cupei Mondiale de Fotbal Masculin în 2042",
+      "rezumat": "Andy Burnham și-a exprimat dorința ca Marea Britanie să găzduiască Cupa Mondială de fotbal masculin în anul 2042. Aceasta ar marca prima dată în aproape opt decenii când turneul ar reveni pe teritoriul britanic. În cadrul unor discuții informale la Manchester, prim-ministrul a indicat, de asemenea, interesul pentru ca evenimentul să se desfășoare în Insulele Britanice, subliniind o ambiție pe termen lung pentru fotbalul din regiune.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-22T16:27:43.365499+00:00",
+      "data_afisaj": "22 august 2026, 19:27"
+    },
     {
       "id": "9a058a3653b2",
       "titlu": "Lionel Messi, Amendat de MLS După un Incident pe Teren",
