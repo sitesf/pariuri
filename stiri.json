@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-22T07:34:13.713767+00:00",
-  "updated_at_afisaj": "22 august 2026, 10:34",
+  "updated_at": "2026-08-22T08:27:36.017381+00:00",
+  "updated_at_afisaj": "22 august 2026, 11:27",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,52 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 106,
+  "numar_stiri": 107,
   "stiri": [
+    {
+      "id": "9a058a3653b2",
+      "titlu": "Lionel Messi, Amendat de MLS După un Incident pe Teren",
+      "rezumat": "Lionel Messi a fost amendat de Major League Soccer (MLS) în urma unui incident petrecut miercuri, în timpul meciului dintre Inter Miami și Philadelphia Union. Starul argentinian a fost sancționat pentru că l-a lovit pe jucătorul Quinn de la Philadelphia Union, în timpul partidei care s-a încheiat la egalitate. Decizia subliniază aplicarea regulamentului disciplinar în campionatul nord-american, menținând standardele de conduită pe teren.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-22T08:27:36.014683+00:00",
+      "data_afisaj": "22 august 2026, 11:27"
+    },
+    {
+      "id": "c0c6086e17fe",
+      "titlu": "Roberto De Zerbi Confirmă Rămânerea lui Lucas Bergvall la Tottenham",
+      "rezumat": "Antrenorul lui Tottenham, Roberto De Zerbi, a declarat că mijlocașul Lucas Bergvall va rămâne \"100 la sută\" la club. Această declarație vine în contextul speculațiilor privind viitorul tânărului jucător și oferă claritate asupra planurilor echipei pentru sezonul viitor. Confirmarea din partea tehnicianului subliniază importanța pe care clubul o acordă stabilității lotului și dezvoltării jucătorilor săi cheie, consolidând poziția lui Bergvall în echipă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-22T08:27:36.015601+00:00",
+      "data_afisaj": "22 august 2026, 11:27"
+    },
+    {
+      "id": "8be1d619701b",
+      "titlu": "Roberto De Zerbi Apără Cheltuielile Masive ale lui Tottenham pe Piața Transferurilor",
+      "rezumat": "Antrenorul lui Tottenham, Roberto De Zerbi, a apărat politica de transferuri a clubului, care se estimează că va depăși 300 de milioane de lire sterline în această vară. De Zerbi a declarat că alte cluburi \"au vrut să omoare\" Tottenham sezonul trecut și a subliniat că \"oamenii nu iubesc dacă Tottenham devine mai bun\". Printre achizițiile notabile se numără Sandro Tonali pentru 92,5 milioane de lire sterline, Mateus Fernandes pentru 85 de milioane de lire sterline și Jan Paul van Hecke pentru 52 de milioane de lire sterline.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-22T08:27:36.016530+00:00",
+      "data_afisaj": "22 august 2026, 11:27"
+    },
+    {
+      "id": "e92bf8493fa9",
+      "titlu": "Răspuns Bizar al lui Gianni Infantino Către un Reporter",
+      "rezumat": "Președintele FIFA, Gianni Infantino, a avut un schimb de replici neobișnuit cu un reporter Sky News în Republica Dominicană. Întrebat dacă a trădat fotbalul în legătură cu planul său eșuat de vânzare a Cupei Mondiale și de ce nu a demisionat, Infantino a răspuns reporterului: „Ne vedem la coafor”. Incidentul a avut loc în afara unui hotel, iar replica președintelui FIFA a stârnit controverse și a fost considerată bizară de către jurnaliști, adăugând o notă neașteptată discuției.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-22T08:27:36.017368+00:00",
+      "data_afisaj": "22 august 2026, 11:27"
+    },
     {
       "id": "926762d340f0",
       "titlu": "Arsenal Începe Apărarea Titlului cu o Victorie Convingătoare Împotriva lui Coventry",
@@ -1190,40 +1234,6 @@
       ],
       "data_publicare": "2026-08-15T16:29:03.828590+00:00",
       "data_afisaj": "15 august 2026, 19:29"
-    },
-    {
-      "id": "2f15024bb42c",
-      "titlu": "Arteta nu este îngrijorat de discuțiile privind contractul său la Arsenal",
-      "rezumat": "Mikel Arteta a declarat că suporterii nu ar trebui să-și facă griji în privința viitorului său la Arsenal. Antrenorul spaniol a subliniat că dorește să-și prelungească actualul contract și că timpul rămas din înțelegere nu reprezintă o problemă. Declarațiile vin în contextul speculațiilor legate de viitorul său pe banca tehnică a clubului londonez, Arteta exprimându-și încrederea în continuarea proiectului său la echipă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-15T08:26:46.196071+00:00",
-      "data_afisaj": "15 august 2026, 11:26"
-    },
-    {
-      "id": "f701248aee8d",
-      "titlu": "Cluburile de top din Europa au amenințat cu boicotarea Cupei Mondiale a Cluburilor",
-      "rezumat": "Cele mai importante cluburi europene au amenințat cu boicotarea viitoarelor ediții ale Cupei Mondiale a Cluburilor, dacă Gianni Infantino nu retrage schema sa \"Fifa Forward Enterprise\". Ultimatumul a fost emis cu doar câteva ore înainte ca planul FIFA să fie anulat. Grupul influent al Cluburilor Europene de Fotbal (EFC) a avertizat că participarea lor la turneele viitoare depinde de retragerea acestei inițiative, subliniind tensiunile dintre cluburi și forul mondial.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-15T08:26:46.198197+00:00",
-      "data_afisaj": "15 august 2026, 11:26"
-    },
-    {
-      "id": "75bb67d5e8ed",
-      "titlu": "Mapi León de la London City Lionesses: „Este un club creat pentru femei. Este frumos și incitant”",
-      "rezumat": "Fundașa spaniolă Mapi León a vorbit despre transferul său de la Barcelona la London City Lionesses, un club dedicat fotbalului feminin. Ea a descris experiența ca fiind „frumoasă și incitantă”, adaptându-se la stilul diferit al WSL. León a subliniat importanța unui club construit special pentru femei și entuziasmul ei de a contribui la succesul noii sale echipe. Această mutare reprezintă o schimbare semnificativă în cariera jucătoarei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-15T08:26:46.200123+00:00",
-      "data_afisaj": "15 august 2026, 11:26"
     }
   ]
 }
