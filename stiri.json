@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-22T16:27:43.365519+00:00",
-  "updated_at_afisaj": "22 august 2026, 19:27",
+  "updated_at": "2026-08-22T17:13:53.606122+00:00",
+  "updated_at_afisaj": "22 august 2026, 20:13",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,44 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 109,
+  "numar_stiri": 107,
   "stiri": [
+    {
+      "id": "1c79339f3029",
+      "titlu": "Leeds United Câștigă la Limită Împotriva lui Nottingham Forest în Debutul Sezonului Premier League",
+      "rezumat": "Leeds United a obținut o victorie importantă cu 1-0 împotriva lui Nottingham Forest în primul meci al sezonului 2026-27 din Premier League. Golul decisiv a fost marcat de Anton Stach dintr-o lovitură liberă, cu doar câteva minute înainte de finalul timpului regulamentar. Managerul lui Leeds, Daniel Farke, și-a exprimat satisfacția față de performanța echipei sale, subliniind un start pozitiv în campanie.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-22T17:13:53.601963+00:00",
+      "data_afisaj": "22 august 2026, 20:13"
+    },
+    {
+      "id": "85158a2cf589",
+      "titlu": "Ipswich Obține O Victorie Dramatică la Revenirea în Premier League Împotriva lui Sunderland",
+      "rezumat": "Ipswich Town a marcat o revenire victorioasă în Premier League, învingând Sunderland cu un gol marcat în ultimul minut de Jack Clarke. Meciul a fost unul tensionat, iar golul târziu a asigurat cele trei puncte pentru Ipswich, oferind un start de sezon memorabil pentru fani și echipă. Victoria subliniază determinarea clubului la revenirea în elita fotbalului englez.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-22T17:13:53.603476+00:00",
+      "data_afisaj": "22 august 2026, 20:13"
+    },
+    {
+      "id": "4e0a76fb872b",
+      "titlu": "Rezultate Variate în Championship: West Ham Învinsă, Wolves, Blackburn și Alte Echipe Câștigă sau Egalizează",
+      "rezumat": "Prima etapă din Championship a adus rezultate surprinzătoare și meciuri echilibrate. Charlton a învins West Ham cu 2-1, punând presiune pe antrenorul Nuno Espírito Santo. Wolves a obținut o victorie convingătoare cu 3-1 împotriva lui Preston, în timp ce Blackburn a revenit și a învins Middlesbrough cu 2-1. De asemenea, Swansea și Sheffield United au încheiat la egalitate, la fel ca Wrexham cu Watford și Derby cu Cardiff.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-22T17:13:53.605147+00:00",
+      "data_afisaj": "22 august 2026, 20:13"
+    },
     {
       "id": "9454d8a3335e",
       "titlu": "Hull City Produce Surpriza Începutului de Sezon, Învingând Manchester United",
@@ -1199,65 +1235,6 @@
       ],
       "data_publicare": "2026-08-15T17:14:54.567061+00:00",
       "data_afisaj": "15 august 2026, 20:14"
-    },
-    {
-      "id": "2321e86bc905",
-      "titlu": "CFR Cluj renunță la un jucător, conform declarațiilor lui Marius Șumudică",
-      "rezumat": "Antrenorul Marius Șumudică a anunțat că un jucător nu mai intră în planurile sale la CFR Cluj, marcând prima decizie majoră de lot sub conducerea sa. Această mișcare indică o restructurare a echipei înaintea noului sezon, Șumudică dorind să-și impună viziunea asupra componenței lotului. Decizia a fost comunicată public, subliniind intenția antrenorului de a lucra doar cu fotbaliști care se aliniază strategiei sale tactice și de performanță.",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-08-15T16:29:03.822313+00:00",
-      "data_afisaj": "15 august 2026, 19:29"
-    },
-    {
-      "id": "1173b4659d72",
-      "titlu": "Enzo Fernandez, huiduit de suporterii Chelsea în timpul unui meci recent",
-      "rezumat": "Mijlocașul Enzo Fernandez a fost ținta huiduielilor din partea unor secțiuni ale suporterilor Chelsea în timpul unei apariții recente pe teren. Incidentul a avut loc într-un context în care antrenorul Xabi Alonso a oferit o primă imagine a planurilor sale pentru sezon, iar reacția fanilor sugerează o anumită nemulțumire față de performanța sau implicarea jucătorului. Această situație adaugă presiune asupra campionului mondial argentinian la începutul noului sezon.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-15T16:29:03.824025+00:00",
-      "data_afisaj": "15 august 2026, 19:29"
-    },
-    {
-      "id": "d2e4958d17b5",
-      "titlu": "Sebastien Pocognoli, principalul candidat pentru funcția de selecționer al Scoției",
-      "rezumat": "Fostul antrenor al echipei Monaco, Sebastien Pocognoli, în vârstă de 39 de ani, a fost identificat de Asociația Scoțiană de Fotbal ca fiind principalul candidat pentru a-l înlocui pe Steve Clarke la conducerea naționalei. Dacă va fi numit, Pocognoli ar deveni primul selecționer non-scoțian al țării de la Berti Vogts (2002-2004). Numirea sa este așteptată la începutul săptămânii viitoare, Scoția urmând să joace împotriva Sloveniei în Liga Națiunilor pe 26 septembrie.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-15T16:29:03.825473+00:00",
-      "data_afisaj": "15 august 2026, 19:29"
-    },
-    {
-      "id": "f23c6ab2d610",
-      "titlu": "Newcastle United, în discuții avansate pentru transferul fundașului Amar Dedic de la Benfica",
-      "rezumat": "Newcastle United se află în discuții avansate pentru a-l aduce pe fundașul Amar Dedic de la Benfica. Clubul englez a trimis oficiali pentru a-l urmări pe fundașul dreapta în Europa League, iar managerul echipei a rupt tăcerea cu privire la un posibil acord. Transferul ar consolida apărarea lui Newcastle, care își propune să-și îmbunătățească performanțele în sezonul viitor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-08-15T16:29:03.827000+00:00",
-      "data_afisaj": "15 august 2026, 19:29"
-    },
-    {
-      "id": "16b1febefca6",
-      "titlu": "Paris Saint-Germain îl achiziționează pe Ferran Torres de la Barcelona pentru 50 de milioane de euro",
-      "rezumat": "Campioana europeană Paris Saint-Germain a anunțat transferul atacantului spaniol Ferran Torres de la Barcelona, într-o tranzacție evaluată la 50 de milioane de euro. Jucătorul, care a marcat golul victoriei pentru Spania la Cupa Mondială, a semnat un contract pe cinci ani, valabil până în 2031. Torres și-a exprimat entuziasmul de a începe o nouă aventură la un club ambițios precum PSG.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-15T16:29:03.828590+00:00",
-      "data_afisaj": "15 august 2026, 19:29"
     }
   ]
 }
