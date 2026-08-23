@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-23T07:35:25.055850+00:00",
-  "updated_at_afisaj": "23 august 2026, 10:35",
+  "updated_at": "2026-08-23T08:27:47.353511+00:00",
+  "updated_at_afisaj": "23 august 2026, 11:27",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,53 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 108,
+  "numar_stiri": 107,
   "stiri": [
+    {
+      "id": "a9759e88b62e",
+      "titlu": "Jean-Philippe Mateta Contestă Valabilitatea Ultimului An de Contract cu Crystal Palace",
+      "rezumat": "Atacantul Jean-Philippe Mateta a inițiat o acțiune legală prin care contestă validitatea ultimelor 10 luni ale contractului său cu clubul Crystal Palace. Această dispută contractuală ar putea avea implicații semnificative pentru viitorul jucătorului la clubul londonez și pentru strategia de transferuri a echipei în acest sezon. Situația aduce o notă de incertitudine în lotul lui Palace, mai ales în contextul în care clubul se pregătește pentru provocările noului campionat. Rezultatul acestei contestații va fi crucial pentru ambele părți.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-23T08:27:47.349842+00:00",
+      "data_afisaj": "23 august 2026, 11:27"
+    },
+    {
+      "id": "b3480ec0d8b3",
+      "titlu": "Manchester City Caută \"Noul Rodri\" După Plecarea Căpitanului Spaniol la Barcelona",
+      "rezumat": "Managerul lui Manchester City, Enzo Maresca, a declarat că clubul va căuta un \"nou Rodri\" după ce căpitanul spaniol a părăsit echipa săptămâna aceasta pentru a se alătura campioanei La Liga, Barcelona. Maresca a comparat această situație cu înlocuirea lui Sergio Agüero cu Erling Haaland, subliniind că clubul trebuie să fie eficient în recrutarea succesorului. Plecarea lui Rodri, pentru 65 de milioane de lire sterline, reprezintă o lovitură semnificativă pentru noul manager, care se află la începutul primului său sezon la conducerea clubului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-23T08:27:47.351011+00:00",
+      "data_afisaj": "23 august 2026, 11:27"
+    },
+    {
+      "id": "a3375bc1c4c2",
+      "titlu": "Dundee Câștigă Derby-ul Local Împotriva lui Dundee United în Premiership-ul Scoțian",
+      "rezumat": "Echipa Dundee a obținut o victorie convingătoare cu 2-0 în derby-ul local împotriva rivalilor de la Dundee United, într-un meci din Premiership-ul Scoțian. Această victorie le permite celor de la Dundee să urce în clasament, în timp ce Dundee United rămâne fără victorie în noul sezon. Rezultatul a fost primit cu entuziasm de fanii echipei câștigătoare, consolidând poziția lui Dundee în primele locuri ale clasamentului la începutul campionatului și oferind un moral bun pentru etapele viitoare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-23T08:27:47.352299+00:00",
+      "data_afisaj": "23 august 2026, 11:27"
+    },
+    {
+      "id": "f7b4f9d81326",
+      "titlu": "Lincoln City Revine în A Doua Ligă Engleză După 65 de Ani, în Ciuda Unei Înfrângeri la Debut",
+      "rezumat": "Lincoln City a marcat o revenire istorică în a doua ligă a fotbalului englez, după o absență de 65 de ani, chiar dacă debutul a fost umbrit de o înfrângere cu 3-1 împotriva lui Portsmouth. În ciuda rezultatului, fanii și clubul sunt plini de optimism și bucurie, considerând acest moment o realizare majoră și un pas important pentru viitorul echipei. Ultimul sezon la acest nivel pentru \"The Imps\" fusese în 1961, iar revenirea este un motiv de sărbătoare și o sursă de inspirație pentru comunitate.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-23T08:27:47.353499+00:00",
+      "data_afisaj": "23 august 2026, 11:27"
+    },
     {
       "id": "ec5511651aff",
       "titlu": "José Mourinho Marchează Revenirea la Real Madrid cu Dramă pe Final și O Notă de Umilință",
@@ -1192,61 +1237,6 @@
       ],
       "data_publicare": "2026-08-16T08:27:16.851962+00:00",
       "data_afisaj": "16 august 2026, 11:27"
-    },
-    {
-      "id": "4a286249ff20",
-      "titlu": "Mari favoriți sau o sarcină mai dificilă - își va apăra Arsenal titlul?",
-      "rezumat": "Arsenal începe acest sezon ca și campioană a Premier League, dar cât de dificil este să-ți aperi titlul de campioană și cât de bine pregătită este pentru această provocare?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-16T07:35:41.864830+00:00",
-      "data_afisaj": "16 august 2026, 10:35"
-    },
-    {
-      "id": "ad97ef3f2087",
-      "titlu": "Cât de important este Community Shield pentru sezonul unei echipe?",
-      "rezumat": "Campioana Premier League, Arsenal, o înfruntă pe câștigătoarea Cupei Angliei, Manchester City, în Community Shield de duminică - dar ar sugera oare o victorie un sezon de succes?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-16T07:35:41.866446+00:00",
-      "data_afisaj": "16 august 2026, 10:35"
-    },
-    {
-      "id": "173f89f499db",
-      "titlu": "Rashford revine, în timp ce Milanul lui Amorim evidențiază probleme pentru Carrick",
-      "rezumat": "Manchester United își încheie campania de pre-sezon cu o înfrângere de 4-2 în fața lui AC Milan, echipa lui Ruben Amorim, în Polonia, în timp ce Marcus Rashford revine în acțiune pentru Diavolii Roșii.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-16T07:35:41.868113+00:00",
-      "data_afisaj": "16 august 2026, 10:35"
-    },
-    {
-      "id": "43b26907aa6e",
-      "titlu": "Fernandez huiduit de fanii Chelsea, în timp ce Alonso oferă o privire asupra planului",
-      "rezumat": "Enzo Fernandez este huiduit de o parte a suporterilor Chelsea, Morgan Rogers marchează la prima sa apariție, iar Xabi Alonso oferă o privire asupra a ceea ce ar putea fi planul său pentru sezon.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-16T07:35:41.869501+00:00",
-      "data_afisaj": "16 august 2026, 10:35"
-    },
-    {
-      "id": "dd899d170b35",
-      "titlu": "Cine sunt eu? Ghicește vedeta Premier League nr. 27",
-      "rezumat": "Descoperă identitatea jucătorului de astăzi în cât mai puține încercări posibil.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-16T07:35:41.870746+00:00",
-      "data_afisaj": "16 august 2026, 10:35"
     }
   ]
 }
