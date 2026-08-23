@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-22T17:13:53.606122+00:00",
-  "updated_at_afisaj": "22 august 2026, 20:13",
+  "updated_at": "2026-08-23T07:35:25.055850+00:00",
+  "updated_at_afisaj": "23 august 2026, 10:35",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,53 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 107,
+  "numar_stiri": 108,
   "stiri": [
+    {
+      "id": "ec5511651aff",
+      "titlu": "José Mourinho Marchează Revenirea la Real Madrid cu Dramă pe Final și O Notă de Umilință",
+      "rezumat": "José Mourinho a revenit pe banca tehnică a lui Real Madrid după 4.380 de zile, debutând cu o victorie dramatică împotriva lui Espanyol. Deși echipa sa a obținut succesul printr-un gol marcat în minutul 90, antrenorul portughez a ales să nu se alăture euforiei generale de pe margine, observând cu o atitudine mai calmă bucuria staff-ului și a jucătorilor. Această reacție sugerează o schimbare în abordarea sa, indicând o oarecare umilință și o gestionare mai temperată a emoțiilor la revenirea sa la clubul madrilen.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-23T07:35:25.052334+00:00",
+      "data_afisaj": "23 august 2026, 10:35"
+    },
+    {
+      "id": "cf335636b58c",
+      "titlu": "Gianni Infantino Provoacă Nemulțumiri în Rândul Națiunilor CONCACAF După o Întâlnire Deturnată",
+      "rezumat": "Președintele FIFA, Gianni Infantino, a stârnit controverse și a riscat să-și alieneze mai multe națiuni din CONCACAF, al căror sprijin îl caută pentru campania sa de realegere. Acesta a deturnat o întâlnire a Uniunii de Fotbal din Caraibe (CFU) pentru a anunța proiecte de dezvoltare finanțate de FIFA, în valoare de milioane de dolari, care fuseseră întârziate de luni de zile. Surse multiple prezente la reuniunea CFU din Republica Dominicană au indicat că acțiunile lui Infantino au generat un val de nemulțumire.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-23T07:35:25.053466+00:00",
+      "data_afisaj": "23 august 2026, 10:35"
+    },
+    {
+      "id": "ef1cc9f6afd4",
+      "titlu": "Brentford Învinge Convingător Tottenham în Debutul Sezonului, De Zerbi Recunoaște Lipsa de Coeziune",
+      "rezumat": "Sezonul de Premier League al lui Tottenham Hotspur, sub conducerea lui Roberto De Zerbi, a început dezastruos, echipa suferind o înfrângere categorică cu 3-0 în fața unui Brentford dominant pe Gtech Community Stadium. După meci, antrenorul De Zerbi a declarat că, în ciuda investițiilor semnificative din vară, echipa sa \"nu este încă o echipă\", sugerând că jucătorii nu au reușit să formeze un colectiv unit. Această înfrângere severă ridică semne de întrebare cu privire la capacitatea noii formații de a se adapta rapid la cerințele campionatului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-23T07:35:25.054586+00:00",
+      "data_afisaj": "23 august 2026, 10:35"
+    },
+    {
+      "id": "cf52f2245dac",
+      "titlu": "Liverpool Se Pregătește pentru Viața Fără Mohamed Salah: Isak și Wirtz, Cheia Succesului",
+      "rezumat": "Liverpool se pregătește să înceapă un nou sezon fără Mohamed Salah, pentru prima dată în ultimul deceniu, după transferul atacantului egiptean. În absența unui înlocuitor direct, analiștii sugerează că Alexander Isak și Florian Wirtz vor trebui să preia un rol mult mai important în ofensiva echipei. Clubul se confruntă cu provocarea de a-și reconfigura strategia de atac și de a distribui responsabilitatea golurilor, bazându-se pe performanțele acestor jucători pentru a menține un nivel competitiv în Premier League și în competițiile europene.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-23T07:35:25.055835+00:00",
+      "data_afisaj": "23 august 2026, 10:35"
+    },
     {
       "id": "1c79339f3029",
       "titlu": "Leeds United Câștigă la Limită Împotriva lui Nottingham Forest în Debutul Sezonului Premier League",
@@ -1202,39 +1247,6 @@
       ],
       "data_publicare": "2026-08-16T07:35:41.870746+00:00",
       "data_afisaj": "16 august 2026, 10:35"
-    },
-    {
-      "id": "3c75194672cb",
-      "titlu": "Cristian Romero se alătură echipei Atlético Madrid",
-      "rezumat": "Fundașul argentinian Cristian Romero a finalizat transferul la Atlético Madrid, sub conducerea antrenorului Diego Simeone. Mutarea sa la clubul spaniol este considerată o destinație potrivită pentru stilul său de joc intens și combativ, adesea caracterizat prin cartonașe roșii. Romero, campion mondial cu Argentina, va aduce experiență și agresivitate defensivei lui Atlético, care este renumită pentru abordarea sa tactică riguroasă. Această achiziție întărește lotul madrilenilor înaintea noului sezon, în încercarea de a concura la cel mai înalt nivel în La Liga și Liga Campionilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-15T17:14:54.563520+00:00",
-      "data_afisaj": "15 august 2026, 20:14"
-    },
-    {
-      "id": "e006faa03473",
-      "titlu": "Arbitrul Anthony Taylor se retrage din activitate",
-      "rezumat": "Arbitrul internațional Anthony Taylor a anunțat că se retrage din activitatea de arbitraj. Taylor, o figură proeminentă în Premier League și în competițiile europene, a explicat decizia sa într-un interviu acordat BBC, abordând subiecte precum presiunea, sistemul VAR și rolul analiștilor arbitrajului. Retragerea sa marchează sfârșitul unei cariere lungi și respectate, în care a oficiat numeroase meciuri de top, inclusiv finale de cupă și partide internaționale importante, lăsând un gol în corpul de arbitri de elită.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-15T17:14:54.565567+00:00",
-      "data_afisaj": "15 august 2026, 20:14"
-    },
-    {
-      "id": "81dba58ea2fa",
-      "titlu": "Danny Rohl părăsește Rangers pentru Red Bull Salzburg",
-      "rezumat": "Antrenorul Danny Rohl a confirmat plecarea sa de la Rangers pentru a prelua conducerea tehnică a echipei Red Bull Salzburg. Rohl a declarat că această mutare reprezintă o oportunitate de a câștiga trofee și de a contribui la dezvoltarea tinerilor jucători la noul său club. Decizia sa vine înaintea primului său sezon complet în Premier League, după o perioadă petrecută la Old Trafford. Transferul la Salzburg subliniază ambițiile lui Rohl de a lucra într-un mediu cu obiective clare de performanță și dezvoltare, departe de presiunea campionatului englez.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-15T17:14:54.567061+00:00",
-      "data_afisaj": "15 august 2026, 20:14"
     }
   ]
 }
