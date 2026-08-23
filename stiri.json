@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-23T16:29:40.096864+00:00",
-  "updated_at_afisaj": "23 august 2026, 19:29",
+  "updated_at": "2026-08-23T17:13:59.204624+00:00",
+  "updated_at_afisaj": "23 august 2026, 20:13",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,20 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 107,
+  "numar_stiri": 99,
   "stiri": [
+    {
+      "id": "f92fbb283d33",
+      "titlu": "Manchester City Obține O Victorie Dramatică Împotriva lui Bournemouth în Debutul Sezonului",
+      "rezumat": "Manchester City a început noul sezon de Premier League cu o victorie dramatică împotriva lui Bournemouth, sub conducerea noului antrenor Enzo Maresca. Echipa a reușit o revenire spectaculoasă, după ce a fost condusă, Marc Guéhi egalând în minutul 84, iar Josko Gvardiol marcând golul victoriei în prelungiri. Această performanță a transformat o înfrângere iminentă într-o victorie memorabilă, demonstrând reziliența \"Cetățenilor\" în fața unei echipe de Bournemouth care era aproape de a obține o victorie istorică pe terenul lui City.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-23T17:13:59.204226+00:00",
+      "data_afisaj": "23 august 2026, 20:13"
+    },
     {
       "id": "3f25a9eff6bc",
       "titlu": "Newcastle și Liverpool, Unite într-un Omagiu pentru Legendarul Kevin Keegan",
@@ -1137,108 +1149,6 @@
       ],
       "data_publicare": "2026-08-17T07:54:14.066653+00:00",
       "data_afisaj": "17 august 2026, 10:54"
-    },
-    {
-      "id": "531b69978500",
-      "titlu": "Leeds United ajunge la un acord pentru transferul fundașului Nico Elvedi",
-      "rezumat": "Leeds United a convenit un acord în valoare de 8,5 milioane de lire sterline pentru achiziționarea fundașului Nico Elvedi. Jucătorul este programat să efectueze vizita medicală luni, marcând un pas important în consolidarea defensivei echipei pentru sezonul următor. Această mutare subliniază ambițiile clubului de a se întări cu jucători de calitate în Championship.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-16T17:13:17.912683+00:00",
-      "data_afisaj": "16 august 2026, 20:13"
-    },
-    {
-      "id": "8aa6dc19f974",
-      "titlu": "Coventry City confirmă acordul pentru transferul atacantului Taiwo Awoniyi",
-      "rezumat": "Coventry City a ajuns la un acord cu Nottingham Forest pentru transferul atacantului Taiwo Awoniyi, într-o tranzacție estimată la aproximativ 17 milioane de lire sterline. Această achiziție reprezintă o investiție semnificativă pentru Coventry, care își propune să își consolideze ofensiva. Awoniyi, cunoscut pentru forța și abilitățile sale de finalizare, este așteptat să aducă un plus de valoare echipei în campania viitoare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-16T17:13:17.914560+00:00",
-      "data_afisaj": "16 august 2026, 20:13"
-    },
-    {
-      "id": "6b2b1895365f",
-      "titlu": "Watford învinge Southampton într-un meci tensionat din Championship",
-      "rezumat": "Watford a obținut o victorie cu 2-1 împotriva echipei Southampton în Championship, într-un meci marcat de tensiuni și referiri la scandalul \"Spygate\". Fanii gazdelor au ironizat echipa retrogradată, iar Amin Nabizada a marcat golul decisiv pentru Watford. Această înfrângere subliniază dificultățile cu care se confruntă Southampton în noul sezon din liga secundă, evidențiind realitatea dură a competiției.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-16T17:13:17.916161+00:00",
-      "data_afisaj": "16 august 2026, 20:13"
-    },
-    {
-      "id": "f38c1b967d7d",
-      "titlu": "Declinul jucătorilor sud-coreeni în Premier League și ascensiunea celor japonezi",
-      "rezumat": "După o perioadă de succes marcată de prezența unor jucători sud-coreeni de top precum Park Ji-sung și Son Heung-min, Premier League ar putea rămâne fără fotbaliști din Coreea de Sud pentru prima dată din 2005. Această tendință vine în contrast cu o creștere notabilă a numărului de jucători japonezi în campionatul englez, sugerând o schimbare a dinamicii prezenței asiatice în fotbalul britanic de elită.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-16T17:13:17.917650+00:00",
-      "data_afisaj": "16 august 2026, 20:13"
-    },
-    {
-      "id": "679a76a21a90",
-      "titlu": "Fostul antrenor al lui Yan Diomande laudă transferul său la Real Madrid pentru o sumă record",
-      "rezumat": "Fostul antrenor al lui Yan Diomande a oferit o perspectivă unică asupra transferului jucătorului la Real Madrid, unde clubul spaniol a plătit o sumă de nouă cifre. Antrenorul a declarat că Diomande este \"de departe cel mai talentat jucător cu care a lucrat\" și că încă nu și-a atins întregul potențial. Aceste declarații subliniază așteptările enorme de la Diomande și încrederea clubului în dezvoltarea sa viitoare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-08-16T17:13:17.919278+00:00",
-      "data_afisaj": "16 august 2026, 20:13"
-    },
-    {
-      "id": "2bc0e9dfd840",
-      "titlu": "Arsenal învinge categoric Manchester City și lansează un avertisment cu victoria din Community Shield",
-      "rezumat": "Deținătoarea titlului, Arsenal, a avut o prestație convingătoare în Community Shield, învingând Manchester City cu 3-0 la Cardiff. Această victorie a fost interpretată ca un avertisment clar pentru toate rivalele din Premier League, demonstrând forța și ambiția echipei lui Mikel Arteta înaintea noului sezon. Meciul a subliniat capacitatea \"tunarilor\" de a domina un adversar de calibru, consolidându-le statutul de pretendenți serioși la titlu.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-16T16:29:03.445236+00:00",
-      "data_afisaj": "16 august 2026, 19:29"
-    },
-    {
-      "id": "767237d9e97f",
-      "titlu": "Burnley vs West Ham: Meci live din Championship",
-      "rezumat": "Urmăriți actualizări în direct de la meciul dintre Burnley și West Ham, care a început la ora 16:00 la Turf Moor. Burnley joacă în echipamentul tradițional vișiniu și albastru, în timp ce West Ham a optat pentru al treilea echipament, de culoare deschisă. Jucătorii au intrat pe teren, iar atmosfera este tensionată, cu multe saluturi între adversari înainte de fluierul de start al partidei din Championship.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-16T16:29:03.446662+00:00",
-      "data_afisaj": "16 august 2026, 19:29"
-    },
-    {
-      "id": "c25d96f3a251",
-      "titlu": "Cristiano Ronaldo sugerează că acesta ar putea fi ultimul său an în fotbal",
-      "rezumat": "Legendarul atacant portughez Cristiano Ronaldo a lăsat să se înțeleagă că ar putea să se retragă din activitatea fotbalistică la sfârșitul acestui sezon. Declarația sa a stârnit un val de reacții în lumea sportului, având în vedere cariera sa impresionantă și impactul său global. Această veste marchează un moment important pentru fanii fotbalului, care ar putea asista la ultimele meciuri ale unuia dintre cei mai mari jucători din istorie.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-16T16:29:03.448272+00:00",
-      "data_afisaj": "16 august 2026, 19:29"
-    },
-    {
-      "id": "629738e7b9ea",
-      "titlu": "Jamal Musiala este bine după ce a leșinat în timpul unui amical al lui Bayern",
-      "rezumat": "Mijlocașul lui Bayern Munchen, Jamal Musiala, este în stare bună după ce a leșinat în timpul unui meci amical recent. Incidentul a stârnit îngrijorare, dar clubul a confirmat că jucătorul este \"okay\". Detaliile complete despre cauzele leșinului nu au fost încă făcute publice, dar vestea că starea sa de sănătate este stabilă a liniștit fanii și staff-ul echipei, permițându-i să se recupereze fără complicații majore.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-16T16:29:03.449938+00:00",
-      "data_afisaj": "16 august 2026, 19:29"
     }
   ]
 }
