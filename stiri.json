@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-23T08:27:47.353511+00:00",
-  "updated_at_afisaj": "23 august 2026, 11:27",
+  "updated_at": "2026-08-23T16:29:40.096864+00:00",
+  "updated_at_afisaj": "23 august 2026, 19:29",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,53 @@
   },
   "numar_stiri": 107,
   "stiri": [
+    {
+      "id": "3f25a9eff6bc",
+      "titlu": "Newcastle și Liverpool, Unite într-un Omagiu pentru Legendarul Kevin Keegan",
+      "rezumat": "Cluburile Newcastle United și Liverpool au adus un omagiu comun legendarului jucător Kevin Keegan, la începutul noului sezon de Premier League. Fostul atacant, care a evoluat pentru ambele echipe, este considerat o figură emblematică în istoria fotbalului englez. Gestul subliniază respectul și admirația continuă pentru contribuția sa excepțională pe teren și în afara acestuia, unind fanii celor două cluburi într-un moment de recunoștință și celebrare a unei cariere remarcabile.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-08-23T16:29:40.091316+00:00",
+      "data_afisaj": "23 august 2026, 19:29"
+    },
+    {
+      "id": "01faf9d0b48e",
+      "titlu": "Harry Kane, Primul Englez Care Câștigă Premiul de Fotbalistul Anului în Germania",
+      "rezumat": "Atacantul englez Harry Kane a fost desemnat Fotbalistul Anului în Germania pentru 2026, o performanță istorică, fiind primul jucător englez care primește această distincție. Această recunoaștere subliniază impactul său imediat și decisiv în Bundesliga de la transferul său, consolidându-i statutul de unul dintre cei mai prolifici și influenți atacanți din fotbalul european. Premiul vine ca o confirmare a sezoanelor sale excepționale și a adaptării rapide la fotbalul german, impresionând atât criticii, cât și fanii.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-23T16:29:40.092818+00:00",
+      "data_afisaj": "23 august 2026, 19:29"
+    },
+    {
+      "id": "67c65c00e3f4",
+      "titlu": "Aston Villa Femei Se Pregătește pentru Sezonul 2026-27 din Women's Super League",
+      "rezumat": "Aston Villa se pregătește pentru sezonul 2026-27 din Women's Super League, cu antrenoarea Natalia Arroyo concentrându-se pe consolidarea defensivei și găsirea unui înlocuitor pentru o marcatoare cheie. Echipa a terminat pe locul 9 în sezonul precedent, iar analiștii anticipează o poziție similară. Provocările includ menținerea coeziunii în fața plecărilor și integrarea noilor jucătoare pentru a îmbunătăți performanța generală și a evita lupta pentru supraviețuire în campionat, vizând o clasare mai bună.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-23T16:29:40.094338+00:00",
+      "data_afisaj": "23 august 2026, 19:29"
+    },
+    {
+      "id": "dc2db1c78591",
+      "titlu": "Brighton Învinge Categoric Aston Villa, João Gomes Primește Cartonaș Roșu",
+      "rezumat": "Brighton a învins categoric Aston Villa într-un meci din Premier League, adăugând presiune asupra antrenorului Unai Emery. Înfrângerea a fost agravată de un cartonaș roșu primit de João Gomes, complicând și mai mult situația echipei. Villa s-a confruntat cu plecări de jucători cheie și accidentări pe parcursul verii, iar acest debut dificil de sezon subliniază provocările cu care se confruntă clubul. Brighton, deși a avut și ea propriile probleme cu plecări și indisponibilități, a reușit o performanță solidă pe teren propriu, obținând o victorie convingătoare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-23T16:29:40.096849+00:00",
+      "data_afisaj": "23 august 2026, 19:29"
+    },
     {
       "id": "a9759e88b62e",
       "titlu": "Jean-Philippe Mateta Contestă Valabilitatea Ultimului An de Contract cu Crystal Palace",
@@ -1192,51 +1239,6 @@
       ],
       "data_publicare": "2026-08-16T16:29:03.449938+00:00",
       "data_afisaj": "16 august 2026, 19:29"
-    },
-    {
-      "id": "bfec51ef285c",
-      "titlu": "Matei Ilie, performanță remarcabilă la debutul în Turcia, anihilându-l pe Mohamed Salah",
-      "rezumat": "Fundașul român Matei Ilie a avut un debut impresionant în campionatul Turciei, unde a reușit să-l anihileze pe starul egiptean Mohamed Salah. Performanța sa a fost lăudată de presa sportivă, care i-a acordat o notă mare pentru prestația solidă. Ilie a demonstrat o adaptare rapidă la noul său club și la intensitatea campionatului turc, contribuind semnificativ la rezultatul echipei sale. Această evoluție promițătoare sugerează un viitor bun pentru tânărul jucător român în fotbalul internațional.",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-08-16T08:27:16.847292+00:00",
-      "data_afisaj": "16 august 2026, 11:27"
-    },
-    {
-      "id": "d005fae77e47",
-      "titlu": "West Ham United stabilește un nou record EFL prin transferul lui Arne Engels pentru 22 de milioane de lire sterline",
-      "rezumat": "West Ham United a finalizat transferul mijlocașului internațional belgian Arne Engels de la Celtic, plătind o sumă de 22 de milioane de lire sterline. Această tranzacție reprezintă un nou record pentru o achiziție din English Football League (EFL). Engels, cunoscut pentru abilitățile sale la mijlocul terenului, se alătură echipei londoneze într-o mișcare menită să întărească lotul pentru sezonul viitor. Suma considerabilă investită subliniază încrederea clubului în potențialul și contribuția viitoare a jucătorului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-16T08:27:16.848815+00:00",
-      "data_afisaj": "16 august 2026, 11:27"
-    },
-    {
-      "id": "89a59353c534",
-      "titlu": "Michael Carrick vizează îmbunătățirea lotului la Manchester United în această vară",
-      "rezumat": "Antrenorul Michael Carrick a declarat că este hotărât să consolideze echipa Manchester United în această perioadă de transferuri. Înaintea primului său sezon complet la cârma clubului din Premier League, Carrick a subliniat că lotul face progrese semnificative, dar că sunt necesare noi achiziții pentru a atinge obiectivele propuse. Declarațiile sale vin în contextul pregătirilor intense pentru o campanie competitivă, cu accent pe aducerea de jucători care să completeze viziunea sa tactică și să crească nivelul general al echipei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-16T08:27:16.850080+00:00",
-      "data_afisaj": "16 august 2026, 11:27"
-    },
-    {
-      "id": "17bc4d03a323",
-      "titlu": "Leicester City se confruntă cu realitatea dură a League One, dar tinerii jucători oferă speranță",
-      "rezumat": "Leicester City a început sezonul în League One cu o remiză 1-1 împotriva lui Notts County, confruntându-se cu realitatea dură a vieții în a treia divizie engleză. Echipa, recent retrogradată din Premier League, a fost depășită tactic de o formație nou-promovată, bine organizată și energică. În ciuda începutului dificil și a incertitudinii legate de viitorul clubului, prestația tinerilor jucători a reprezentat un punct pozitiv. Această situație subliniază provocările cu care se confruntă Leicester în încercarea de a reveni în eșaloanele superioare ale fotbalului englez.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-16T08:27:16.851962+00:00",
-      "data_afisaj": "16 august 2026, 11:27"
     }
   ]
 }
