@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-24T16:40:43.717587+00:00",
-  "updated_at_afisaj": "24 august 2026, 19:40",
+  "updated_at": "2026-08-24T17:24:20.986068+00:00",
+  "updated_at_afisaj": "24 august 2026, 20:24",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 101,
+  "numar_stiri": 103,
   "stiri": [
+    {
+      "id": "8532d7806f48",
+      "titlu": "Tragerea la sorți a fazei ligii UEFA Champions League 2026/27: Detalii și Procedură",
+      "rezumat": "Tragerea la sorți pentru faza ligii UEFA Champions League 2026/27 este programată să aibă loc joi, la Monaco. Evenimentul va stabili programul și adversarii echipelor calificate pentru noul format al competiției. Fanii și cluburile așteaptă cu interes să afle componența grupelor și parcursul potențial al favoritelor. Acest moment marchează startul oficial al campaniei europene, oferind o imagine clară asupra provocărilor ce urmează în cea mai prestigioasă competiție intercluburi din Europa.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-24T17:24:20.980417+00:00",
+      "data_afisaj": "24 august 2026, 20:24"
+    },
+    {
+      "id": "4ce7d4f50f7c",
+      "titlu": "Săptămână Decisivă pentru Cluburile Scoțiene în Competițiile Europene",
+      "rezumat": "Cinco reprezentante ale Scoției, Celtic, Rangers, Hearts, Hibs și Motherwell, se pregătesc pentru manșele retur ale play-off-urilor europene. Doar Celtic are deja asigurată participarea în faza ligii UEFA, în timp ce celelalte patru echipe luptă pentru calificarea în Conference League. Această săptămână este crucială pentru fotbalul scoțian, deoarece rezultatele vor determina numărul de cluburi care vor continua parcursul european, influențând prestigiul și coeficientul țării în clasamentele UEFA.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-24T17:24:20.981761+00:00",
+      "data_afisaj": "24 august 2026, 20:24"
+    },
+    {
+      "id": "d542be50050e",
+      "titlu": "Problemele de Echilibru ale lui Liverpool Persistă Sub Conducerea lui Iraola",
+      "rezumat": "Egalul obținut duminică împotriva lui Newcastle a evidențiat că noile idei ale antrenorului Andoni Iraola la Liverpool trebuie să depășească lipsa de echilibru a lotului. Vulnerabilitatea la contraatac, o problemă recurentă din sezonul trecut, nu a dispărut, sugerând că echipa încă se confruntă cu dificultăți structurale. Deși au salvat un punct, performanța a ridicat semne de întrebare cu privire la capacitatea echipei de a-și rezolva deficiențele defensive și de a implementa pe deplin viziunea noului manager.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-24T17:24:20.983133+00:00",
+      "data_afisaj": "24 august 2026, 20:24"
+    },
+    {
+      "id": "867f365263d1",
+      "titlu": "Debut Promițător pentru AC Milan Sub Amorim, cu Tânăra Stea Cissè în Rol Principal",
+      "rezumat": "AC Milan, sub conducerea noului antrenor Ruben Amorim, a avut un debut promițător în Serie A, depășind prima provocare împotriva lui Torino. Tânăra stea Alphadjo Cissè, un mijlocaș ofensiv de 19 ani, a impresionat, eclipsând noile achiziții prin performanța sa remarcabilă. Cissè, transferat de la Verona în februarie, a demonstrat un potențial semnificativ, confirmând așteptările și contribuind la succesul echipei. Această evoluție subliniază viziunea lui Amorim de a valorifica talentele tinere în cadrul echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-24T17:24:20.984622+00:00",
+      "data_afisaj": "24 august 2026, 20:24"
+    },
+    {
+      "id": "0b2525c10ff8",
+      "titlu": "Ipswich Town Vizează Consolidarea în Premier League, Contrazicând Istoria Recentă",
+      "rezumat": "Ipswich Town, supranumită \"The Tractor Boys\", a alternat între primele două divizii engleze în ultimele trei sezoane, fiind considerată o echipă \"yo-yo\". Cu toate acestea, există argumente solide care sugerează că de această dată clubul are resursele și strategia necesare pentru a se menține în Premier League. Analiza factorilor cheie, inclusiv stabilitatea managerială și achizițiile inteligente, indică o șansă reală de a contrazice tendințele istorice și de a-și asigura un loc stabil în elita fotbalului englez.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-08-24T17:24:20.986049+00:00",
+      "data_afisaj": "24 august 2026, 20:24"
+    },
     {
       "id": "5efae9e5bdc8",
       "titlu": "Dilema lui Julian Alvarez la Atletico Madrid pe fondul interesului Arsenal",
@@ -1138,42 +1193,6 @@
       ],
       "data_publicare": "2026-08-18T07:42:13.427330+00:00",
       "data_afisaj": "18 august 2026, 10:42"
-    },
-    {
-      "id": "236cfd8b2fbc",
-      "titlu": "Manchester City acceptă oferta pentru Rodri și negociază transferul lui Bouaddi",
-      "rezumat": "Manchester City a acceptat o ofertă de 65,4 milioane de lire sterline de la Barcelona pentru mijlocașul Rodri, care intrase în ultimul an de contract și și-a exprimat dorința de a se întoarce în Spania. În paralel, clubul englez se află în discuții avansate cu Lille pentru transferul mijlocașului marocan Ayyoub Bouaddi, în vârstă de 18 ani, considerat un potențial înlocuitor. Bouaddi, evaluat la aproximativ 85 de milioane de lire sterline, a fost una dintre revelațiile Cupei Mondiale. Aceste mișcări subliniază strategia de transfer a lui City în această vară.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football",
-        "Sky Sports Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-08-17T17:19:31.279074+00:00",
-      "data_afisaj": "17 august 2026, 20:19"
-    },
-    {
-      "id": "3ee14dfd9a79",
-      "titlu": "Cheltuielile cluburilor din Premier League ar putea stabili un nou record de 2,14 miliarde de lire sterline",
-      "rezumat": "Cluburile din Premier League au cheltuit deja 2,14 miliarde de lire sterline în această vară pe transferuri, o sumă considerabilă care continuă să crească. Experții BBC Sport analizează posibilitatea ca acest sezon să stabilească un nou record absolut în ceea ce privește investițiile pe piața transferurilor. Această tendință subliniază puterea financiară a campionatului englez și concurența acerbă dintre echipe pentru a-și consolida loturile, multe sume impresionante fiind tranzacționate chiar între rivalele din prima ligă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-17T17:19:31.281155+00:00",
-      "data_afisaj": "17 august 2026, 20:19"
-    },
-    {
-      "id": "f9de82855750",
-      "titlu": "Ipswich Town transferă doi jucători de la Strasbourg: Julio Enciso și Abdoul Ouattara",
-      "rezumat": "Clubul Ipswich Town a finalizat transferurile a doi jucători de la echipa franceză Strasbourg, consolidându-și lotul pentru noul sezon. Julio Enciso și Abdoul Ouattara se alătură echipei engleze, aducând un plus de valoare și opțiuni pentru antrenor. Aceste achiziții reprezintă o mișcare strategică pentru Ipswich, care își propune să își întărească poziția în campionat. Detaliile financiare ale tranzacțiilor nu au fost specificate, dar transferurile sunt confirmate de surse de încredere.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-17T17:19:31.282743+00:00",
-      "data_afisaj": "17 august 2026, 20:19"
     }
   ]
 }
