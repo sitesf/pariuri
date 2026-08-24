@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-24T08:45:31.105781+00:00",
-  "updated_at_afisaj": "24 august 2026, 11:45",
+  "updated_at": "2026-08-24T16:40:43.717587+00:00",
+  "updated_at_afisaj": "24 august 2026, 19:40",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,66 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 99,
+  "numar_stiri": 101,
   "stiri": [
+    {
+      "id": "5efae9e5bdc8",
+      "titlu": "Dilema lui Julian Alvarez la Atletico Madrid pe fondul interesului Arsenal",
+      "rezumat": "Atacantul Julian Alvarez se află în centrul unei dispute intense de transfer, cu fereastra de mercato aproape de închidere. Viitorul său la Atletico Madrid este incert, mai ales după ce a fost huiduit de fani la meciul cu Villarreal, pe fondul speculațiilor privind un posibil transfer la Arsenal sau Barcelona. Jucătorul ar fi exprimat dorința de a pleca, lăsând clubul într-o situație delicată și alimentând speculațiile presei sportive internaționale. Această saga de transferuri continuă să genereze tensiuni între jucător, club și suporteri, fără o rezolvare clară la orizont.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-24T16:40:43.712116+00:00",
+      "data_afisaj": "24 august 2026, 19:40"
+    },
+    {
+      "id": "acaab38a2275",
+      "titlu": "Rafael Benitez comentează confruntarea managerială dintre foștii săi elevi, Arbeloa și Alonso",
+      "rezumat": "Fostul antrenor al lui Liverpool, Rafael Benitez, a oferit o perspectivă interesantă asupra confruntării manageriale dintre foștii săi jucători, Xabi Alonso și Alvaro Arbeloa. Cei doi se vor întâlni ca antrenori în meciul dintre Fulham și Chelsea, marcând o etapă importantă în carierele lor de antrenori. Benitez a subliniat calitățile ambilor tehnicieni, evidențiind modul în care experiența lor ca jucători de top la Real Madrid și Liverpool le-a modelat abordările tactice. Această partidă aduce în prim-plan rivalitatea dintre doi foști colegi de echipă, acum adversari pe banca tehnică.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-08-24T16:40:43.713605+00:00",
+      "data_afisaj": "24 august 2026, 19:40"
+    },
+    {
+      "id": "1564410a1936",
+      "titlu": "Fani răniți de artificii la un meci din Eredivisie",
+      "rezumat": "Clubul olandez SC Cambuur a anunțat că mai mulți fani au suferit \"arsuri, leziuni auditive și oculare\" după ce suporterii echipei Feyenoord au aruncat cu artificii în timpul meciului din Eredivisie de duminică. Incidentul subliniază problemele continue legate de siguranța spectatorilor și comportamentul periculos al fanilor pe stadioanele de fotbal, atrăgând atenția asupra necesității unor măsuri mai stricte de prevenire a unor astfel de evenimente.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-24T16:40:43.714814+00:00",
+      "data_afisaj": "24 august 2026, 19:40"
+    },
+    {
+      "id": "52faefc48895",
+      "titlu": "Președintele UEFA, Aleksander Ceferin, exclude o candidatură la președinția FIFA",
+      "rezumat": "Președintele UEFA, Aleksander Ceferin, a declarat că nu va candida pentru a-l înlocui pe Gianni Infantino la conducerea FIFA. Cu toate acestea, Ceferin se așteaptă ca un alt candidat să conteste leadership-ul actualului președinte FIFA în luna martie, sugerând că vor exista provocări la adresa conducerii organizației mondiale de fotbal. Această decizie clarifică peisajul politic al fotbalului internațional pentru viitorul apropiat.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-24T16:40:43.716184+00:00",
+      "data_afisaj": "24 august 2026, 19:40"
+    },
+    {
+      "id": "aa88acdc9368",
+      "titlu": "Ligile engleze și scoțiene iau măsuri împotriva transmisiunilor ilegale în Rusia",
+      "rezumat": "English Football League (EFL) și Scottish Professional Football League (SPFL) au inițiat investigații și iau în considerare acțiuni legale după ce au descoperit că meciurile lor au fost difuzate în Rusia în acest sezon. Aceasta se întâmplă în ciuda faptului că pachetele de drepturi de televiziune pentru Rusia au fost oprite încă din 2022, ridicând probleme legate de pirateria sportivă și încălcarea drepturilor de autor la nivel internațional. Cluburile și ligile caută soluții pentru a proteja veniturile din drepturile de transmisie.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-24T16:40:43.717564+00:00",
+      "data_afisaj": "24 august 2026, 19:40"
+    },
     {
       "id": "0a6c172b0174",
       "titlu": "Dubla lui Ferran Torres Salvează un Punct pentru PSG în Debutul din Ligue 1",
@@ -1116,41 +1174,6 @@
       ],
       "data_publicare": "2026-08-17T17:19:31.282743+00:00",
       "data_afisaj": "17 august 2026, 20:19"
-    },
-    {
-      "id": "e57f757503d0",
-      "titlu": "Manchester United va respinge orice ofertă pentru Bruno Fernandes",
-      "rezumat": "Manchester United nu are nicio intenție să-l vândă pe căpitanul Bruno Fernandes, în ciuda interesului manifestat de clubul turc Galatasaray. Echipa din Istanbul se pregătește să depună o ofertă pentru mijlocașul portughez de 31 de ani în această săptămână. Cu toate acestea, oficialii de pe Old Trafford au transmis clar că Fernandes nu este de vânzare la niciun preț. Decizia subliniază importanța sa pentru planurile lui Erik ten Hag și statutul său de jucător cheie în echipa \"Diavolilor Roșii\" pentru sezonul viitor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-17T16:31:30.516808+00:00",
-      "data_afisaj": "17 august 2026, 19:31"
-    },
-    {
-      "id": "b3a5462dce52",
-      "titlu": "Premier League va permite difuzarea audio a conversațiilor dintre jucători și arbitri",
-      "rezumat": "Premier League va permite, pentru prima dată în acest sezon, difuzarea audio a conversațiilor de pe teren dintre jucători și arbitri în timpul transmisiunilor live. Această inițiativă face parte dintr-o extindere a sistemului RefCam, care a devenit o caracteristică permanentă a transmisiunilor din prima ligă sezonul trecut, după o perioadă de probă de șase săptămâni. Măsura, care va fi implementată de deținătorii drepturilor de televizare Sky Sports și TNT Sports, vizează creșterea transparenței și îmbunătățirea înțelegerii deciziilor arbitrilor de către public.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-17T16:31:30.518394+00:00",
-      "data_afisaj": "17 august 2026, 19:31"
-    },
-    {
-      "id": "6c9f45172ea1",
-      "titlu": "Atacantul lui Cagliari, Yael Trepy, internat la terapie intensivă după un incident",
-      "rezumat": "Atacantul echipei Cagliari, Yael Trepy, este tratat la terapie intensivă în urma unui incident petrecut în Sardinia. Detaliile exacte ale incidentului nu au fost încă făcute publice, dar starea sa este considerată gravă. Clubul Cagliari și comunitatea fotbalistică și-au exprimat îngrijorarea și sprijinul pentru tânărul jucător. Medicii monitorizează atent situația, iar fanii așteaptă cu nerăbdare vești pozitive despre recuperarea sa, subliniind importanța sănătății și siguranței sportivilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-17T16:31:30.520037+00:00",
-      "data_afisaj": "17 august 2026, 19:31"
     }
   ]
 }
