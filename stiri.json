@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-24T07:59:23.977414+00:00",
-  "updated_at_afisaj": "24 august 2026, 10:59",
+  "updated_at": "2026-08-24T08:45:31.105781+00:00",
+  "updated_at_afisaj": "24 august 2026, 11:45",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,50 @@
   },
   "numar_stiri": 99,
   "stiri": [
+    {
+      "id": "0a6c172b0174",
+      "titlu": "Dubla lui Ferran Torres Salvează un Punct pentru PSG în Debutul din Ligue 1",
+      "rezumat": "Ferran Torres, intrat de pe bancă, a marcat o dublă târzie la debutul său pentru Paris Saint-Germain, ajutând echipa să revină de la un deficit de două goluri și să obțină o remiză, scor 2-2, împotriva lui Rennes în meciul de deschidere al sezonului din Ligue 1. Rennes a condus cu 2-0 la pauză, dar presiunea constantă a PSG-ului în a doua repriză a fost răsplătită cu un punct important, demonstrând capacitatea de revenire a parizienilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-24T08:45:31.101404+00:00",
+      "data_afisaj": "24 august 2026, 11:45"
+    },
+    {
+      "id": "cf2ad3281064",
+      "titlu": "Chelsea Își Schimbă Strategia Sub Conducerea lui Xabi Alonso, Vizând Experiența",
+      "rezumat": "Chelsea pare să fi operat o schimbare strategică sub noul antrenor Xabi Alonso, concentrându-se pe aducerea de jucători cu experiență pentru a stabiliza echipa. După achiziții precum Jordan Henderson și Danny Welbeck, clubul pare să se îndepărteze de politica de a se baza exclusiv pe tineri. Alonso își propune să mențină \"controlul emoțional\" în vestiar, sperând că prezența unor jucători mai maturi va ajuta un lot încă plin de talent tânăr să își atingă potențialul maxim.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-24T08:45:31.102867+00:00",
+      "data_afisaj": "24 august 2026, 11:45"
+    },
+    {
+      "id": "4603a604877b",
+      "titlu": "Harry Kane, Favorit la Câștigarea Balonului de Aur, O Prioritate și pentru Bayern Munchen",
+      "rezumat": "Harry Kane este considerat favorit la câștigarea Balonului de Aur, iar obținerea acestui prestigios premiu este la fel de importantă pentru clubul Bayern Munchen pe cât este pentru căpitanul Angliei. Discuțiile cu oficiali cheie de la Bayern și cu Kane însuși au relevat că atât jucătorul, cât și clubul, văd acest obiectiv ca pe o prioritate majoră, subliniind ambițiile reciproce de succes la cel mai înalt nivel individual și colectiv în fotbalul mondial.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-24T08:45:31.104352+00:00",
+      "data_afisaj": "24 august 2026, 11:45"
+    },
+    {
+      "id": "703fcedc29d7",
+      "titlu": "Enzo Maresca Recunoaște că Manchester City Este Încă \"Un Proiect în Desfășurare\"",
+      "rezumat": "Enzo Maresca, noul antrenor al lui Manchester City, a declarat că echipa sa rămâne \"un proiect în desfășurare\", chiar și după victoria dramatică de ultim moment împotriva lui Bournemouth pe Etihad Stadium. Deși golurile lui Marc Guéhi și Josko Gvardiol din prelungiri au asigurat victoria în primul său meci, Maresca subliniază că există încă mult de lucru pentru a atinge nivelul dorit, reflectând o abordare pragmatică după un debut tensionat în Premier League.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-24T08:45:31.105762+00:00",
+      "data_afisaj": "24 august 2026, 11:45"
+    },
     {
       "id": "4870242ecc34",
       "titlu": "Liverpool Egalizează Dramatic cu un Penalty în Debutul Erei Iraola",
@@ -1107,50 +1151,6 @@
       ],
       "data_publicare": "2026-08-17T16:31:30.520037+00:00",
       "data_afisaj": "17 august 2026, 19:31"
-    },
-    {
-      "id": "0d83a646fb97",
-      "titlu": "Lucy Bronze își prelungește contractul cu Chelsea",
-      "rezumat": "Fundașul englez Lucy Bronze a semnat o prelungire de contract cu Chelsea, o decizie pe care a descris-o ca fiind neobișnuită pentru ea. Jucătoarea a declarat că a găsit un \"rol foarte bun\" la club și se simte \"confortabil\" în mediul actual. Această prelungire subliniază angajamentul ei față de echipa londoneză și dorința de a continua să contribuie la performanțele acesteia. Decizia vine într-un moment important pentru cariera sa, consolidându-i poziția la unul dintre cluburile de top din fotbalul feminin.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-17T08:41:12.335531+00:00",
-      "data_afisaj": "17 august 2026, 11:41"
-    },
-    {
-      "id": "4cfa0d9ea377",
-      "titlu": "Premier League devine tot mai competitivă, arată statisticile",
-      "rezumat": "Un nou raport al BBC Sport analizează datele din sezonul trecut al Premier League, sugerând că liga a devenit mai competitivă decât în anii precedenți. Articolul explorează dacă această tendință va continua și în actuala stagiune, examinând factorii care contribuie la echilibrul crescut dintre echipe. Analiza statistică oferă o perspectivă asupra dinamicii campionatului, evidențiind schimbările în performanțele cluburilor și impactul acestora asupra luptei pentru titlu și evitarea retrogradării.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-17T08:41:12.337066+00:00",
-      "data_afisaj": "17 august 2026, 11:41"
-    },
-    {
-      "id": "714b005a9115",
-      "titlu": "Tentativa eșuată de a muta un club din Premier League la Dublin",
-      "rezumat": "Un articol detaliază cât de aproape a fost un consorțiu irlandez de a achiziționa o echipă din Premier League și de a o reloca în Dublin. Povestea explorează complexitatea și obstacolele întâmpinate în acest demers ambițios, care ar fi putut schimba peisajul fotbalistic irlandez. Deși planul nu s-a concretizat, relatarea oferă o perspectivă fascinantă asupra unei inițiative puțin cunoscute, care a vizat extinderea influenței Premier League dincolo de granițele Angliei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-17T08:41:12.338527+00:00",
-      "data_afisaj": "17 august 2026, 11:41"
-    },
-    {
-      "id": "6a089b21f35d",
-      "titlu": "Nottingham Forest încheie pre-sezonul cu o victorie împotriva lui Brest",
-      "rezumat": "Nottingham Forest și-a încheiat campania de pre-sezon cu o victorie împotriva echipei franceze Brest. Meciul a reprezentat ultima verificare pentru echipa înainte de startul noului sezon competițional. Această victorie oferă un impuls de încredere jucătorilor și staff-ului tehnic, consolidând pregătirea echipei pentru provocările ce urmează în campionat. Rezultatul pozitiv sugerează o formă bună a jucătorilor și o adaptare reușită la strategiile antrenorului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-17T08:41:12.340016+00:00",
-      "data_afisaj": "17 august 2026, 11:41"
     }
   ]
 }
