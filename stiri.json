@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-23T17:13:59.204624+00:00",
-  "updated_at_afisaj": "23 august 2026, 20:13",
+  "updated_at": "2026-08-24T07:59:23.977414+00:00",
+  "updated_at_afisaj": "24 august 2026, 10:59",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,41 @@
   },
   "numar_stiri": 99,
   "stiri": [
+    {
+      "id": "4870242ecc34",
+      "titlu": "Liverpool Egalizează Dramatic cu un Penalty în Debutul Erei Iraola",
+      "rezumat": "Un penalty transformat de Dominik Szoboszlai în prelungiri a salvat un punct pentru Liverpool în debutul erei antrenorului Andoni Iraola. Echipa a arătat o performanță sub așteptări, indicând necesitatea unor îmbunătățiri semnificative. Meciul a evidențiat provocările cu care se confruntă noul manager, chiar dacă a reușit să evite o înfrângere în prima sa partidă din Premier League.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-08-24T07:59:23.972052+00:00",
+      "data_afisaj": "24 august 2026, 10:59"
+    },
+    {
+      "id": "25c9cda9f895",
+      "titlu": "Absența lui Ollie Watkins de la Meciul cu Brighton, o Întrebare pentru Atacant, Spune Unai Emery",
+      "rezumat": "Antrenorul Unai Emery a declarat că absența atacantului Ollie Watkins din meciul în care Aston Villa a fost învinsă categoric de Brighton reprezintă o întrebare la care jucătorul trebuie să răspundă. Comentariile lui Emery sugerează o posibilă tensiune sau o situație neclară în jurul statutului lui Watkins la club, stârnind speculații despre viitorul său în contextul înfrângerii echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-24T07:59:23.973575+00:00",
+      "data_afisaj": "24 august 2026, 10:59"
+    },
+    {
+      "id": "d5153d8d46d6",
+      "titlu": "Mingea cu care Maradona a Marcat Golul \"Mâna lui Dumnezeu\" S-a Vândut cu 2,5 Milioane de Lire Sterline",
+      "rezumat": "Mingea de fotbal cu care Diego Maradona a marcat celebrul său gol \"Mâna lui Dumnezeu\" în sferturile de final ale Cupei Mondiale din 1986, împotriva Angliei, a fost vândută la licitație pentru suma de 2,5 milioane de lire sterline. Acest eveniment subliniază valoarea istorică și culturală a obiectelor legate de momentele iconice din istoria fotbalului, atrăgând un interes considerabil din partea colecționarilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-24T07:59:23.977394+00:00",
+      "data_afisaj": "24 august 2026, 10:59"
+    },
     {
       "id": "f92fbb283d33",
       "titlu": "Manchester City Obține O Victorie Dramatică Împotriva lui Bournemouth în Debutul Sezonului",
@@ -1116,39 +1151,6 @@
       ],
       "data_publicare": "2026-08-17T08:41:12.340016+00:00",
       "data_afisaj": "17 august 2026, 11:41"
-    },
-    {
-      "id": "321935afb15e",
-      "titlu": "Juventus intensifică negocierile pentru Guglielmo Vicario și alte mișcări pe piața transferurilor",
-      "rezumat": "Juventus Torino a intensificat discuțiile pentru transferul portarului Guglielmo Vicario și s-a retras din cursa pentru Emiliano Martinez. Pe lângă aceste evoluții, Manchester City se confruntă cu concurență pentru achiziționarea lui Pedro Neto, în timp ce Real Madrid își manifestă interesul pentru Martin Zubimendi. Aceste informații fac parte din cele mai recente știri și zvonuri de pe piața transferurilor, indicând o activitate intensă a cluburilor europene de top.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-17T07:54:14.063480+00:00",
-      "data_afisaj": "17 august 2026, 10:54"
-    },
-    {
-      "id": "af9753e877cf",
-      "titlu": "Hibernian învinge Rangers cu un gol dramatic pe final",
-      "rezumat": "Echipa Hibernian a obținut o victorie spectaculoasă împotriva lui Rangers pe stadionul Ibrox, grație unui gol marcat dramatic pe final de Callum Wright. Această înfrângere menține presiunea pe antrenorul lui Rangers, Derek McInnes, care încă așteaptă prima sa victorie la conducerea echipei. Meciul a fost unul tensionat, iar rezultatul a adus o surpriză în campionatul scoțian, consolidând poziția lui Hibernian.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-17T07:54:14.065045+00:00",
-      "data_afisaj": "17 august 2026, 10:54"
-    },
-    {
-      "id": "1b9e61caffcd",
-      "titlu": "Birmingham și Cardiff City își manifestă interesul pentru noi mijlocași",
-      "rezumat": "Cluburile din EFL Championship, Birmingham și Cardiff City, sunt în căutarea unor noi mijlocași pentru a-și consolida loturile în această perioadă de transferuri. Ambele echipe vizează întărirea compartimentului median pentru a-și îmbunătăți performanțele în campionat. Detaliile specifice despre jucătorii vizați nu au fost încă publicate, dar interesul lor subliniază intenția de a fi active pe piața transferurilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-17T07:54:14.066653+00:00",
-      "data_afisaj": "17 august 2026, 10:54"
     }
   ]
 }
