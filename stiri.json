@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-25T08:39:52.860785+00:00",
-  "updated_at_afisaj": "25 august 2026, 11:39",
+  "updated_at": "2026-08-25T16:40:17.306017+00:00",
+  "updated_at_afisaj": "25 august 2026, 19:40",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,56 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 105,
+  "numar_stiri": 106,
   "stiri": [
+    {
+      "id": "e7912eb3d0df",
+      "titlu": "Manchester United Îl Transferă pe Carlos Baleba de la Brighton pentru 70 de Milioane de Lire Sterline",
+      "rezumat": "Manchester United a confirmat achiziția mijlocașului camerunez Carlos Baleba de la Brighton, într-o tranzacție evaluată la aproximativ 70 de milioane de lire sterline. Baleba a semnat un contract pe cinci ani, cu opțiunea de prelungire pentru încă 12 luni, devenind al treilea mijlocaș transferat de \"Diavolii Roșii\" în această vară. Suma include o plată inițială de 65 de milioane de lire sterline, la care se adaugă 5 milioane de lire sterline în bonusuri și o clauză de revânzare pentru Brighton. Această mutare subliniază investițiile semnificative ale clubului în linia mediană.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-25T16:40:17.300730+00:00",
+      "data_afisaj": "25 august 2026, 19:40"
+    },
+    {
+      "id": "ce4e6bf26821",
+      "titlu": "FA Aprobă Includerea Echipelor Academiei WSL în Liga Națională Feminină",
+      "rezumat": "Federația Engleză de Fotbal (FA) a aprobat o propunere semnificativă, conform căreia patru echipe ale academiilor din Women's Super League (WSL) vor fi integrate în al treilea eșalon al piramidei fotbalistice, Liga Națională Feminină, începând cu sezonul 2027-28. Această decizie, deși controversată, face parte dintr-un pachet de reforme menite să consolideze structura fotbalului feminin, să îmbunătățească standardele la nivel de ligă și să accelereze dezvoltarea tinerelor talente.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-25T16:40:17.303116+00:00",
+      "data_afisaj": "25 august 2026, 19:40"
+    },
+    {
+      "id": "58aded24456c",
+      "titlu": "Sir Kenny Dalglish și Karen Carney, Distinși cu Premiile de Merit PFA 2026",
+      "rezumat": "Legendarul atacant al lui Liverpool și al naționalei Scoției, Sir Kenny Dalglish, alături de fosta mare jucătoare a naționalei feminine a Angliei, Karen Carney, au fost onorați cu Premiile de Merit ale Asociației Fotbaliștilor Profesioniști (PFA) pentru anul 2026. Aceste distincții recunosc contribuțiile excepționale și impactul durabil pe care ambii l-au avut asupra fotbalului, atât pe teren, cât și în afara acestuia, de-a lungul carierelor lor impresionante.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-25T16:40:17.304590+00:00",
+      "data_afisaj": "25 august 2026, 19:40"
+    },
+    {
+      "id": "9fa29f1a5e31",
+      "titlu": "Abdul Abdulmalik Solicită Plecarea de la Boreham Wood După Ofertă Respinsă",
+      "rezumat": "Atacantul echipei Boreham Wood, Abdul Abdulmalik, a cerut să părăsească clubul din National League, declarând că își dorește să atingă \"cel mai înalt nivel\" în cariera sa. Această solicitare vine în contextul în care clubul a refuzat o ofertă de 1,5 milioane de lire sterline pentru jucător, venită de la echipa suedeză Djurgarden. Abdulmalik este evaluat la 1,5 milioane de lire sterline, iar situația sa contractuală rămâne incertă pe măsură ce fereastra de transferuri se apropie de închidere.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-25T16:40:17.306002+00:00",
+      "data_afisaj": "25 august 2026, 19:40"
+    },
     {
       "id": "fc90adb064e5",
       "titlu": "Transfer important în Superliga: Virgil Ghiță, vândut pentru 1,5 milioane de euro",
@@ -1181,42 +1229,6 @@
       ],
       "data_publicare": "2026-08-18T17:20:04.667131+00:00",
       "data_afisaj": "18 august 2026, 20:20"
-    },
-    {
-      "id": "7002310d4af1",
-      "titlu": "Patrick Vieira, Noul Antrenor al Naționalei Senegalului",
-      "rezumat": "Fostul căpitan al echipelor Arsenal și Franța, Patrick Vieira, a fost numit noul antrenor principal al echipei naționale masculine a Senegalului. Această numire, confirmată de BBC Sport Football și The Guardian Football, marchează o etapă importantă în cariera de tehnician a lui Vieira. El aduce o experiență vastă, acumulată atât ca jucător de top, cât și ca antrenor la cluburi precum Crystal Palace și Nice. Obiectivul său principal va fi consolidarea performanțelor naționalei africane și pregătirea pentru viitoarele competiții majore.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-18T16:35:06.216031+00:00",
-      "data_afisaj": "18 august 2026, 19:35"
-    },
-    {
-      "id": "3f9a6f6e3186",
-      "titlu": "Daniel Oprița Demisionează de la Steaua București",
-      "rezumat": "Daniel Oprița și-a dat demisia din funcția de antrenor al echipei Steaua București, conform informațiilor publicate de GSP.ro și ProSport.ro. Antrenorul a declarat că se consideră o \"victimă colaterală\" în contextul situației actuale a clubului. Plecarea lui Oprița, care a condus echipa în ultimii ani, deschide o perioadă de incertitudine pentru Steaua, care va trebui să găsească rapid un înlocuitor pentru a asigura stabilitatea și continuitatea performanțelor în campionatul intern.",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-08-18T16:35:06.217404+00:00",
-      "data_afisaj": "18 august 2026, 19:35"
-    },
-    {
-      "id": "c9589ba34e89",
-      "titlu": "Juventus Îl Semnează pe Guglielmo Vicario de la Tottenham, Sub Formă de Împrumut",
-      "rezumat": "Juventus a oficializat transferul portarului Guglielmo Vicario de la Tottenham Hotspur, sub formă de împrumut inițial pe un sezon. Această mutare vine după ce clubul italian a decis să nu continue negocierile pentru Emiliano Martinez. Achiziția lui Vicario, confirmată de Sky Sports Football și menționată într-un roundup de The Guardian, reprezintă o soluție pentru postul de portar al \"Bătrânei Doamne\", aducând stabilitate și experiență la nivel înalt. Juventus își consolidează astfel lotul pentru noul sezon.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-18T16:35:06.220169+00:00",
-      "data_afisaj": "18 august 2026, 19:35"
     }
   ]
 }
