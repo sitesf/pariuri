@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-25T16:40:17.306017+00:00",
-  "updated_at_afisaj": "25 august 2026, 19:40",
+  "updated_at": "2026-08-25T17:24:48.786384+00:00",
+  "updated_at_afisaj": "25 august 2026, 20:24",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,52 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 106,
+  "numar_stiri": 107,
   "stiri": [
+    {
+      "id": "c0a606dce080",
+      "titlu": "Manchester United, După Cheltuieli Masive la Mijloc, Vizează un Fundaș Stânga",
+      "rezumat": "După ce a investit aproximativ 155 de milioane de lire sterline pentru achiziționarea a trei mijlocași în această perioadă de transferuri, Manchester United se confruntă acum cu decizia de a căuta un fundaș stânga. Clubul a consolidat semnificativ zona de mijloc a terenului, dar se pare că există o nevoie de întărire pe flancul stâng al apărării. Rămâne de văzut dacă United va face o mișcare decisivă pentru un nou fundaș stânga înainte de închiderea ferestrei de transferuri, având în vedere cheltuielile deja considerabile.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-25T17:24:48.781793+00:00",
+      "data_afisaj": "25 august 2026, 20:24"
+    },
+    {
+      "id": "ee8c39f345fe",
+      "titlu": "Asociația Irlandeză de Fotbal Își Retrage Sprijinul pentru Președintele FIFA, Gianni Infantino",
+      "rezumat": "Asociația Irlandeză de Fotbal (IFA) a anunțat că nu va susține realegerea președintelui FIFA, Gianni Infantino, declarând că este „timpul pentru o schimbare” la conducerea forului mondial. Decizia IFA vine în contextul unor presiuni crescânde asupra lui Infantino din partea unor jucători și foști fotbaliști, precum și a altor federații. Această poziție subliniază o diviziune tot mai mare în cadrul organismelor de conducere ale fotbalului global și ar putea influența viitoarele alegeri pentru președinția FIFA.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-25T17:24:48.783424+00:00",
+      "data_afisaj": "25 august 2026, 20:24"
+    },
+    {
+      "id": "b0c209777c8e",
+      "titlu": "Ashley Cole Demisionează din Funcția de Antrenor al Naționalei Angliei U21",
+      "rezumat": "Ashley Cole a părăsit postul de antrenor al echipei naționale de fotbal a Angliei Under-21, după o perioadă de cinci ani petrecută în această funcție. Fostul internațional englez a jucat un rol important în dezvoltarea tinerilor jucători englezi în cadrul programului național. Decizia sa marchează încheierea unui capitol în cariera sa de antrenor, iar Federația Engleză de Fotbal va trebui să găsească un înlocuitor pentru a continua munca de pregătire a viitoarelor talente ale fotbalului englez.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-25T17:24:48.784868+00:00",
+      "data_afisaj": "25 august 2026, 20:24"
+    },
+    {
+      "id": "0f50cca9d1ba",
+      "titlu": "Jack Grealish Revine la Manchester City, Dar Viitorul Său Rămâne Incert",
+      "rezumat": "Mijlocașul de la Manchester City, Jack Grealish, a revenit pe teren, înregistrând două apariții ca rezervă în acest sezon. Cu toate acestea, viitorul său la club rămâne sub semnul întrebării, pe fondul speculațiilor privind o posibilă plecare. Deși a început să joace din nou, incertitudinea legată de rolul său pe termen lung în echipa lui Pep Guardiola persistă. Fanii și analiștii urmăresc cu atenție evoluția situației sale, în contextul în care fereastra de transferuri se apropie de final.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-25T17:24:48.786366+00:00",
+      "data_afisaj": "25 august 2026, 20:24"
+    },
     {
       "id": "e7912eb3d0df",
       "titlu": "Manchester United Îl Transferă pe Carlos Baleba de la Brighton pentru 70 de Milioane de Lire Sterline",
@@ -1196,39 +1240,6 @@
       ],
       "data_publicare": "2026-08-19T07:39:55.622955+00:00",
       "data_afisaj": "19 august 2026, 10:39"
-    },
-    {
-      "id": "9a461e805a3f",
-      "titlu": "Sheffield United Riscă o Penalizare de 12 Puncte din Cauza Problemelor Financiare",
-      "rezumat": "Clubul Sheffield United se confruntă cu o situație critică, proprietarii săi fiind chemați în fața Înaltei Curți pentru o ordonanță de lichidare. Această acțiune legală ar putea avea consecințe severe, inclusiv o penalizare de 12 puncte pentru echipa din Championship. Dificultățile financiare subliniază presiunea economică asupra cluburilor de fotbal și pot influența semnificativ performanța sportivă în sezonul viitor. Decizia instanței este așteptată cu mare interes de comunitatea fotbalistică.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-18T17:20:04.664145+00:00",
-      "data_afisaj": "18 august 2026, 20:20"
-    },
-    {
-      "id": "4ac31293c885",
-      "titlu": "Premier League Va Publica Deciziile Panoului de Incidente Cheie privind Arbitrajul",
-      "rezumat": "Premier League a anunțat că va începe să publice, pentru prima dată în acest sezon, verdictele Panoului său de Incidente Cheie (Key Match Incidents Panel) referitoare la deciziile arbitrilor și la intervențiile VAR. Această măsură vizează creșterea transparenței și a încrederii în procesul de arbitraj. Publicarea detaliată a evaluărilor va oferi o perspectivă mai clară asupra modului în care sunt analizate fazele controversate, contribuind la o mai bună înțelegere a deciziilor luate pe teren.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-18T17:20:04.665551+00:00",
-      "data_afisaj": "18 august 2026, 20:20"
-    },
-    {
-      "id": "351c52fa42ed",
-      "titlu": "Verdictul în Cazul Acuzațiilor Adresate lui Manchester City Durează Mai Mult Decât Era Anticipat",
-      "rezumat": "Richard Masters, directorul executiv al Premier League, a declarat că procesul de emitere a unui verdict în legătură cu acuzațiile aduse clubului Manchester City \"a durat mai mult decât era anticipat\". Această declarație subliniază complexitatea și amploarea investigației privind presupusele încălcări ale regulilor financiare. Așteptarea prelungită a deciziei menține incertitudinea asupra viitorului clubului și a potențialelor sancțiuni, având un impact considerabil asupra peisajului fotbalistic englez și a competiției.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-18T17:20:04.667131+00:00",
-      "data_afisaj": "18 august 2026, 20:20"
     }
   ]
 }
