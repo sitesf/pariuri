@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-24T17:24:20.986068+00:00",
-  "updated_at_afisaj": "24 august 2026, 20:24",
+  "updated_at": "2026-08-25T07:45:57.300848+00:00",
+  "updated_at_afisaj": "25 august 2026, 10:45",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,66 @@
   },
   "numar_stiri": 103,
   "stiri": [
+    {
+      "id": "ed8e63ee643e",
+      "titlu": "Chelsea Obține Prima Victorie Sub Conducerea lui Xabi Alonso, cu Palmer în Rol Decisiv",
+      "rezumat": "Chelsea a înregistrat o victorie palpitantă cu 3-2 împotriva lui Fulham, marcând un debut de succes pentru antrenorul Xabi Alonso în Premier League. Cole Palmer a fost omul meciului, contribuind cu un gol și o pasă decisivă, demonstrând responsabilitate și maturitate. Deși echipa a arătat un atac electric, au existat și semne de vulnerabilitate în apărare, în special la nivelul portarului Robert Sanchez. Această victorie oferă speranțe fanilor că noua eră sub Alonso ar putea aduce performanțe speciale în acest sezon.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-25T07:45:57.295044+00:00",
+      "data_afisaj": "25 august 2026, 10:45"
+    },
+    {
+      "id": "9e30d21454ca",
+      "titlu": "Jucători Activi și Foști Fotbaliști Cer Demisia Președintelui FIFA, Gianni Infantino",
+      "rezumat": "Un grup influent de fotbaliști, atât activi cât și retrași, a lansat un apel public pentru schimbare la vârful FIFA, cerând demisia președintelui Gianni Infantino. Aceștia au declarat că \"este suficient\" și au criticat conducerea actuală a organismului mondial. Intervenția este semnificativă, având în vedere că unii dintre acești jucători au avut anterior roluri de ambasadori pentru FIFA. Această acțiune colectivă adaugă presiune considerabilă asupra lui Infantino, pe fondul nemulțumirilor crescânde legate de stilul său de conducere.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-25T07:45:57.296535+00:00",
+      "data_afisaj": "25 august 2026, 10:45"
+    },
+    {
+      "id": "7860199b7621",
+      "titlu": "Ollie Watkins, Aproape de Plecarea de la Aston Villa pe Fondul Interesului din Arabia Saudită",
+      "rezumat": "Atacantul Ollie Watkins pare să se apropie de un final dureros al perioadei sale la Aston Villa, pe fondul unui interes puternic din partea cluburilor din Arabia Saudită, în special Al-Hilal. Absența sa din lotul pentru meciul cu Brighton a alimentat speculațiile, iar analiștii sugerează că jucătorul ar putea dori să părăsească clubul. O eventuală plecare a lui Watkins ar reprezenta o pierdere semnificativă pentru Aston Villa, având în vedere contribuțiile sale importante la echipă de-a lungul anilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-25T07:45:57.298058+00:00",
+      "data_afisaj": "25 august 2026, 10:45"
+    },
+    {
+      "id": "71575a0d06d7",
+      "titlu": "Arsenal, în Negocieri Avansate pentru Vânzarea lui Gabriel Martinelli către Al-Hilal",
+      "rezumat": "Clubul Arsenal se află în negocieri avansate cu echipa saudită Al-Hilal pentru transferul atacantului brazilian Gabriel Martinelli. Se estimează că suma de transfer ar putea depăși 50 de milioane de lire sterline. Progresele înregistrate în ultimele zile sugerează că un acord este iminent. Această mutare ar reprezenta o vânzare importantă pentru Arsenal și o achiziție de marcă pentru Al-Hilal, continuând trendul transferurilor de jucători de top către campionatul saudit în această fereastră de mercato.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-25T07:45:57.299540+00:00",
+      "data_afisaj": "25 august 2026, 10:45"
+    },
+    {
+      "id": "c23ea4f1779a",
+      "titlu": "Nottingham Forest Aproape de Transferul Atacantului Liam Delap de la Chelsea",
+      "rezumat": "Nottingham Forest se află în discuții avansate cu Chelsea pentru achiziționarea atacantului Liam Delap. Antrenorul Oliver Glasner dorește încă două transferuri înainte de închiderea ferestrei de mercato, iar Delap este o prioritate. Jucătorul, care a fost anterior în vizorul lui Forest, nu face parte din planurile primei echipe a lui Xabi Alonso la Chelsea și se antrenează separat. Această mutare ar consolida ofensiva lui Forest pentru sezonul viitor, aducând un atacant tânăr și promițător.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-25T07:45:57.300828+00:00",
+      "data_afisaj": "25 august 2026, 10:45"
+    },
     {
       "id": "8532d7806f48",
       "titlu": "Tragerea la sorți a fazei ligii UEFA Champions League 2026/27: Detalii și Procedură",
@@ -1133,66 +1193,6 @@
       ],
       "data_publicare": "2026-08-18T08:35:07.243922+00:00",
       "data_afisaj": "18 august 2026, 11:35"
-    },
-    {
-      "id": "eaf4157c523f",
-      "titlu": "Un oficial FIFA de rang înalt, demis după critici la adresa lui Infantino",
-      "rezumat": "Kevin Lamour, o figură importantă în cadrul FIFA, a fost demis de organismul mondial de conducere al fotbalului. Decizia vine la trei săptămâni după ce Lamour l-a criticat public pe președintele FIFA, Gianni Infantino. Această acțiune subliniază tensiunile interne și consecințele criticii la adresa conducerii, având implicații potențiale asupra politicii și imaginii organizației. Demiterea a fost confirmată de surse de top, indicând o mișcare decisivă în structura administrativă a fotbalului mondial.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-18T07:42:13.420917+00:00",
-      "data_afisaj": "18 august 2026, 10:42"
-    },
-    {
-      "id": "48b8604c40ad",
-      "titlu": "Un nou documentar dezvăluie conflictul dintre Guardiola și Kyle Walker la Manchester City",
-      "rezumat": "O nouă serie documentară despre ultimele două sezoane ale lui Pep Guardiola la Manchester City a scos la iveală o dispută majoră între antrenor și fostul căpitan al echipei, Kyle Walker. Documentarul, intitulat 'A Beautiful Obsession', oferă o perspectivă inedită asupra dinamicii interne a clubului și a relațiilor dintre figuri cheie în timpul mandatului lui Guardiola. Această dezvăluire aruncă o nouă lumină asupra perioadei respective, oferind fanilor și analiștilor detalii despre provocările și tensiunile din spatele succesului echipei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-18T07:42:13.422537+00:00",
-      "data_afisaj": "18 august 2026, 10:42"
-    },
-    {
-      "id": "62d0b5e7be26",
-      "titlu": "Memphis Depay acceptă o reducere salarială pentru a rămâne la Corinthians",
-      "rezumat": "Fostul atacant al lui Manchester United, Memphis Depay, a acceptat o reducere semnificativă a salariului pentru a-și prelungi contractul cu clubul brazilian Corinthians. Decizia vine la doar câteva zile după ce jucătorul acuzase Corinthians de \"comportament inacceptabil\" în timpul negocierilor pentru extinderea înțelegerii. Această mișcare confirmă angajamentul lui Depay față de club, în ciuda tensiunilor inițiale, și asigură prezența sa în lot pentru viitoarele competiții. Suma la care a renunțat este estimată la aproape 3 milioane de lire sterline.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-18T07:42:13.423990+00:00",
-      "data_afisaj": "18 august 2026, 10:42"
-    },
-    {
-      "id": "1191e48da7c4",
-      "titlu": "Gol dramatic al lui Rubin Colwill în prelungiri, Cardiff obține o remiză cu Wrexham",
-      "rezumat": "Cardiff City a obținut un punct dramatic în meciul de debut din Championship împotriva rivalei galeze Wrexham, grație unui gol spectaculos marcat de Rubin Colwill în minutul 98. Meciul, un derby galez tensionat, părea să se îndrepte spre o victorie pentru Wrexham, însă execuția puternică a lui Colwill dintr-o lovitură liberă a egalat scorul la 1-1 chiar înainte de fluierul final. Rezultatul a adus o bucurie imensă fanilor lui Cardiff și a marcat o revenire memorabilă în campionat.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-18T07:42:13.425609+00:00",
-      "data_afisaj": "18 august 2026, 10:42"
-    },
-    {
-      "id": "7dda0f510933",
-      "titlu": "Todd Boehly și Mark Walter iau în considerare vânzarea acțiunilor Chelsea către Clearlake Capital",
-      "rezumat": "Președintele Chelsea, Todd Boehly, și directorul Mark Walter poartă discuții pentru a-și vinde acțiunile deținute la club către Clearlake Capital, acționarii majoritari. Fiecare dintre Boehly și Walter deține aproximativ 13% din club, iar o astfel de tranzacție ar conferi companiei de capital privat Clearlake controlul efectiv asupra clubului, ajungând la o deținere de 86%. Această mișcare ar consolida puterea Clearlake la Stamford Bridge și ar putea influența direcția strategică viitoare a clubului, având implicații semnificative pentru structura de proprietate.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-18T07:42:13.427330+00:00",
-      "data_afisaj": "18 august 2026, 10:42"
     }
   ]
 }
