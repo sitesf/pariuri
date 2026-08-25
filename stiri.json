@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-25T07:45:57.300848+00:00",
-  "updated_at_afisaj": "25 august 2026, 10:45",
+  "updated_at": "2026-08-25T08:39:52.860785+00:00",
+  "updated_at_afisaj": "25 august 2026, 11:39",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,43 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 103,
+  "numar_stiri": 105,
   "stiri": [
+    {
+      "id": "fc90adb064e5",
+      "titlu": "Transfer important în Superliga: Virgil Ghiță, vândut pentru 1,5 milioane de euro",
+      "rezumat": "Clubul din Superliga a finalizat transferul fundașului Virgil Ghiță, achitând suma de 1.500.000 de euro. Această mutare reprezintă una dintre cele mai semnificative tranzacții din campionatul intern în această perioadă de mercato. Detaliile complete ale acordului nu au fost încă făcute publice, dar se anticipează că Ghiță va juca un rol cheie la noua sa echipă. Transferul subliniază dinamica pieței românești și interesul crescut pentru jucătorii locali valoroși.",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-08-25T08:39:52.855782+00:00",
+      "data_afisaj": "25 august 2026, 11:39"
+    },
+    {
+      "id": "674c760edadc",
+      "titlu": "Co-proprietarul cluburilor Leeds United și Rangers, Jed York, arestat în Ohio",
+      "rezumat": "Jed York, co-proprietar al cluburilor de fotbal Leeds United și Rangers, a fost arestat în weekend în Ohio. Acesta a pledat fără contestație la acuzațiile de comportament dezordonat și posesie de instrumente infracționale. Inițial, York a fost reținut sub suspiciunea de implicare în prostituție, dar acuzația a fost ulterior modificată. Incidentul a atras atenția asupra conducerii cluburilor respective și a generat discuții în comunitatea sportivă, având în vedere statutul său în fotbal.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-25T08:39:52.857288+00:00",
+      "data_afisaj": "25 august 2026, 11:39"
+    },
+    {
+      "id": "5f328cd3208a",
+      "titlu": "Aston Villa face o abordare \"serioasă\" pentru transferul lui Rafael Leao de la AC Milan",
+      "rezumat": "Aston Villa a inițiat discuții cu AC Milan pentru transferul atacantului portughez Rafael Leao. Conform informațiilor din presa italiană, Leao este deschis la ideea de a părăsi clubul italian, iar abordarea celor de la Villa este considerată \"serioasă\". Această mutare ar reprezenta o achiziție majoră pentru echipa lui Unai Emery, care încearcă să-și consolideze lotul în această perioadă de transferuri. Leao este un jucător cheie pentru Milan și ar aduce un plus de calitate ofensivei engleze.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-25T08:39:52.859657+00:00",
+      "data_afisaj": "25 august 2026, 11:39"
+    },
     {
       "id": "ed8e63ee643e",
       "titlu": "Chelsea Obține Prima Victorie Sub Conducerea lui Xabi Alonso, cu Palmer în Rol Decisiv",
@@ -1182,17 +1217,6 @@
       ],
       "data_publicare": "2026-08-18T16:35:06.220169+00:00",
       "data_afisaj": "18 august 2026, 19:35"
-    },
-    {
-      "id": "2a11893f1cf7",
-      "titlu": "Rodri Aterizează la Barcelona pentru Vizita Medicală, Declară că Este un Vis",
-      "rezumat": "Mijlocașul spaniol Rodri a ajuns în Catalonia pentru a-și finaliza transferul la FC Barcelona de la Manchester City, declarând că este \"un vis\" să joace pentru clubul catalan. Acesta urmează să efectueze vizita medicală marți, după ce Manchester City a acceptat o ofertă de 65,4 milioane de lire sterline. Căpitanul Spaniei, câștigător al Cupei Mondiale, și-a exprimat satisfacția că \"totul s-a rezolvat\" după o perioadă intensă de negocieri, marcând o mutare majoră pe piața transferurilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-18T08:35:07.243922+00:00",
-      "data_afisaj": "18 august 2026, 11:35"
     }
   ]
 }
