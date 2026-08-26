@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-26T07:49:34.932255+00:00",
-  "updated_at_afisaj": "26 august 2026, 10:49",
+  "updated_at": "2026-08-26T08:41:02.164190+00:00",
+  "updated_at_afisaj": "26 august 2026, 11:41",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,52 @@
   },
   "numar_stiri": 108,
   "stiri": [
+    {
+      "id": "ec0cb9fcf1f0",
+      "titlu": "Raheem Sterling, acuzat de conducere periculoasă după un accident",
+      "rezumat": "Fotbalistul Raheem Sterling va trebui să se prezinte în instanță luna viitoare pentru a răspunde acuzațiilor de conducere periculoasă. Incidentul a avut loc în luna mai, când jucătorul și-a izbit mașina de barierele autostrăzii. Această situație aduce în atenția publicului problemele legale cu care se confruntă sportivii de top, punând sub semnul întrebării comportamentul lor în afara terenului de joc și impactul asupra imaginii publice a clubului său. Detaliile complete ale cazului vor fi prezentate în timpul procesului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-26T08:41:02.159577+00:00",
+      "data_afisaj": "26 august 2026, 11:41"
+    },
+    {
+      "id": "4e0f906f25c1",
+      "titlu": "Celtic, eliminată din Liga Campionilor după ce a risipit un avantaj de patru goluri",
+      "rezumat": "Celtic a ratat calificarea în faza grupelor Ligii Campionilor pentru al doilea an consecutiv, după o înfrângere dramatică în fața echipei austriece LASK. Echipa scoțiană a risipit un avantaj de patru goluri acumulat în manșa tur, pierzând cu 5-1 în retur, scor general 5-4. Această eliminare reprezintă o lovitură financiară semnificativă, estimată la peste 20 de milioane de lire sterline, și a generat critici intense la adresa performanței echipei și a deciziilor manageriale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-26T08:41:02.161121+00:00",
+      "data_afisaj": "26 august 2026, 11:41"
+    },
+    {
+      "id": "df71734fb8f2",
+      "titlu": "Noah Anyadike de la Cardiff, cel mai tânăr jucător din istoria Cupei EFL",
+      "rezumat": "Noah Anyadike, în vârstă de 15 ani, a stabilit un nou record în Cupa EFL, devenind cel mai tânăr jucător din istoria competiției. Tânăra speranță a echipei Cardiff City a fost titular în meciul din turul doi împotriva lui Norwich City, pierdut de echipa sa. Această performanță subliniază potențialul jucătorului și oferă o perspectivă asupra viitorului său în fotbalul profesionist, atrăgând atenția asupra talentelor emergente din academiile de fotbal britanice.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-26T08:41:02.162624+00:00",
+      "data_afisaj": "26 august 2026, 11:41"
+    },
+    {
+      "id": "eb0db204ab69",
+      "titlu": "Leeds United obține a doua victorie consecutivă împotriva lui Nottingham Forest în Cupa Ligii",
+      "rezumat": "Leeds United a înregistrat o a doua victorie în decurs de trei zile împotriva lui Nottingham Forest, asigurându-și calificarea în turul al treilea al Cupei Ligii Angliei (Carabao Cup). Meciul s-a desfășurat pe terenul lui Nottingham Forest, iar succesul le permite celor de la Leeds să avanseze în competiție. Această performanță demonstrează forma bună a echipei și capacitatea de a obține rezultate pozitive în deplasare, consolidându-și poziția în competițiile interne.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-26T08:41:02.164172+00:00",
+      "data_afisaj": "26 august 2026, 11:41"
+    },
     {
       "id": "d4315e842945",
       "titlu": "Bruno Fernandes și Khadija Shaw, desemnați Jucătorii Anului de către PFA",
@@ -1209,50 +1255,6 @@
       ],
       "data_publicare": "2026-08-19T16:34:41.753475+00:00",
       "data_afisaj": "19 august 2026, 19:34"
-    },
-    {
-      "id": "fcd09852f5c7",
-      "titlu": "Șeful Premier League critică planul FIFA pentru Cupa Mondială",
-      "rezumat": "Richard Masters, directorul executiv al Premier League, a criticat vehement planul președintelui FIFA, Gianni Infantino, privind vânzarea drepturilor pentru Cupa Mondială. Masters a declarat că FIFA a „apăsat butonul de autodistrugere” și a provocat o „rană auto-infligată” prin această decizie. Criticile vin în contextul unor tensiuni crescânde legate de direcția strategică a organizației mondiale de fotbal.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-19T08:35:32.684198+00:00",
-      "data_afisaj": "19 august 2026, 11:35"
-    },
-    {
-      "id": "5eb88ecdab35",
-      "titlu": "Malaga revine în La Liga după aproape un deceniu",
-      "rezumat": "Clubul spaniol Malaga a reușit să revină în La Liga, prima divizie a fotbalului spaniol, după o absență de aproape un deceniu. Această performanță marchează o revenire spectaculoasă pentru echipă, care a trecut printr-o perioadă dificilă, coborând din Liga Campionilor până în a treia ligă semi-profesionistă a Spaniei. Promovarea reprezintă un moment de bucurie și speranță pentru fanii clubului andaluz.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-19T08:35:32.685524+00:00",
-      "data_afisaj": "19 august 2026, 11:35"
-    },
-    {
-      "id": "7523fb303a82",
-      "titlu": "Al Hilal negociază transferul atacantului Ollie Watkins de la Aston Villa",
-      "rezumat": "Clubul saudit Al Hilal se află în discuții avansate cu Aston Villa pentru a-l transfera pe atacantul englez Ollie Watkins. Negocierile vizează aducerea internaționalului englez în campionatul saudit, într-o mișcare care ar reprezenta o pierdere semnificativă pentru echipa din Premier League. Detaliile financiare ale potențialului acord nu au fost încă dezvăluite public, dar se așteaptă o ofertă substanțială.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-19T08:35:32.686899+00:00",
-      "data_afisaj": "19 august 2026, 11:35"
-    },
-    {
-      "id": "63666a5334c7",
-      "titlu": "Consorțiul lui Jeff Bezos ar putea deveni acționar majoritar la Liverpool în decurs de un an",
-      "rezumat": "1892 Holdings, noul investitor în clubul Liverpool, care include și pe fondatorul Amazon, Jeff Bezos, are drept de prim refuz pentru a deveni acționar majoritar în următoarele 12 luni, în cazul în care Fenway Sports Group decide să vândă. Inițial, se credea că acordul viza o participație de 30-33%, însă s-a confirmat că este vorba de 38% din acțiunile clubului. Această clauză deschide posibilitatea unei schimbări majore în structura de proprietate a clubului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-19T08:35:32.689421+00:00",
-      "data_afisaj": "19 august 2026, 11:35"
     }
   ]
 }
