@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-25T17:24:48.786384+00:00",
-  "updated_at_afisaj": "25 august 2026, 20:24",
+  "updated_at": "2026-08-26T07:49:34.932255+00:00",
+  "updated_at_afisaj": "26 august 2026, 10:49",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,55 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 107,
+  "numar_stiri": 108,
   "stiri": [
+    {
+      "id": "d4315e842945",
+      "titlu": "Bruno Fernandes și Khadija Shaw, desemnați Jucătorii Anului de către PFA",
+      "rezumat": "Bruno Fernandes, căpitanul echipei Manchester United, a fost recompensat cu premiul pentru Jucătorul Anului la categoria masculină de către Asociația Fotbaliștilor Profesioniști (PFA). La feminin, distincția i-a revenit atacantei Khadija Shaw de la Manchester City. Aceste premii recunosc performanțele excepționale ale celor doi fotbaliști pe parcursul sezonului recent încheiat, fiind votate de către colegii lor de breaslă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-26T07:49:34.929200+00:00",
+      "data_afisaj": "26 august 2026, 10:49"
+    },
+    {
+      "id": "c607a3788930",
+      "titlu": "Coventry Avancează în Carabao Cup După o Victorie Dificilă Împotriva Lui Plymouth",
+      "rezumat": "Nou-promovata în Premier League, Coventry, a trecut cu emoții de turul doi al Cupei Ligii Angliei (Carabao Cup), învingând echipa din League One, Plymouth, cu scorul de 4-2 pe stadionul Home Park. Deși a fost condusă, echipa Coventry a reușit să revină și să-și asigure calificarea în faza următoare a competiției, demonstrând rezistență în fața unei echipe inferioare valoric pe hârtie.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-26T07:49:34.930097+00:00",
+      "data_afisaj": "26 august 2026, 10:49"
+    },
+    {
+      "id": "5a94285bae61",
+      "titlu": "Zeljko Kopic, Noul Antrenor al unei Echipe din Polonia",
+      "rezumat": "Antrenorul croat Zeljko Kopic a semnat contractul cu noua sa echipă din Polonia, conform imaginilor publicate de presa românească. Fostul tehnician al mai multor cluburi, inclusiv din Superliga României, a fost fotografiat purtând fularul clubului polonez, confirmând astfel mutarea sa. Această decizie marchează o nouă etapă în cariera sa managerială, preluând conducerea tehnică a formației din campionatul polonez.",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-08-26T07:49:34.930837+00:00",
+      "data_afisaj": "26 august 2026, 10:49"
+    },
+    {
+      "id": "217d7885dd05",
+      "titlu": "Xavi Hernández, Numit Noul Selecționer al Naționalei Olandei",
+      "rezumat": "Legendarul fost jucător al Barcelonei, Xavi Hernández, a fost prezentat oficial ca noul antrenor al echipei naționale a Olandei. În cadrul conferinței de presă, Xavi a declarat că vede această nouă provocare ca pe o 'universitate a fotbalului', exprimându-și dorința de a emula filosofia 'fotbalului total' a lui Johan Cruyff. Numirea sa marchează un moment important pentru fotbalul olandez, aducând la cârma naționalei un antrenor cu o viziune clară și o experiență vastă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-26T07:49:34.932242+00:00",
+      "data_afisaj": "26 august 2026, 10:49"
+    },
     {
       "id": "c0a606dce080",
       "titlu": "Manchester United, După Cheltuieli Masive la Mijloc, Vizează un Fundaș Stânga",
@@ -1206,40 +1253,6 @@
       ],
       "data_publicare": "2026-08-19T08:35:32.689421+00:00",
       "data_afisaj": "19 august 2026, 11:35"
-    },
-    {
-      "id": "a3e3f87782cc",
-      "titlu": "Jamal Musiala dezvăluie că suferă de „crize tratabile” după două colapsuri pe teren",
-      "rezumat": "Mijlocașul lui Bayern München, Jamal Musiala, a anunțat că este tratat pentru o „disfuncție neurologică” care a cauzat două colapsuri pe teren în decurs de patru zile. Jucătorul a căzut în timpul unui meci amical cu Heidenheim, la doar opt minute după ce intrase pe teren, un incident similar având loc și într-un amical anterior cu RB Leipzig. Musiala a declarat că este vorba despre „crize de absență tratabile” și că primește îngrijiri medicale. Această veste a stârnit îngrijorare în lumea fotbalului, dar și speranțe pentru recuperarea rapidă a tânărului talent.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-19T07:39:55.619735+00:00",
-      "data_afisaj": "19 august 2026, 10:39"
-    },
-    {
-      "id": "0ce1d8770af0",
-      "titlu": "Aston Villa ajunge la un acord pentru transferul lui Aaron Wan-Bissaka de la West Ham",
-      "rezumat": "Aston Villa a convenit un acord pentru transferul fundașului Aaron Wan-Bissaka de la West Ham United. Inițial, transferul se va realiza sub formă de împrumut, cu o obligație de cumpărare la sfârșitul sezonului. Această mutare strategică vizează consolidarea apărării echipei din Birmingham în perspectiva noului sezon. Wan-Bissaka, cunoscut pentru abilitățile sale defensive și contribuția pe flancul drept, va aduce experiență și calitate lotului lui Aston Villa, care își propune să își îmbunătățească performanțele în Premier League.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-19T07:39:55.621263+00:00",
-      "data_afisaj": "19 august 2026, 10:39"
-    },
-    {
-      "id": "3586c9d98ac0",
-      "titlu": "Arsenal și Chelsea domină financiar Women's Super League, depășind restul ligii la venituri",
-      "rezumat": "Un studiu recent al conturilor financiare ale cluburilor din Women's Super League (WSL) pe parcursul a opt sezoane a relevat că Arsenal și Chelsea se află la o distanță considerabilă față de restul competiției în ceea ce privește veniturile și cheltuielile salariale. Cele două cluburi londoneze generează împreună mai multe venituri decât toate celelalte echipe din ligă la un loc. Această disparitate financiară subliniază o polarizare crescândă în fotbalul feminin englez, unde 'cele două mari' își consolidează poziția dominantă, în timp ce alte cluburi, precum London City Lionesses, încearcă să recupereze decalajul prin investiții strategice în transferuri.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-19T07:39:55.622955+00:00",
-      "data_afisaj": "19 august 2026, 10:39"
     }
   ]
 }
