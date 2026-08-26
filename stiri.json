@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-26T16:49:43.010150+00:00",
-  "updated_at_afisaj": "26 august 2026, 19:49",
+  "updated_at": "2026-08-26T18:51:36.739443+00:00",
+  "updated_at_afisaj": "26 august 2026, 21:51",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,31 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 107,
+  "numar_stiri": 105,
   "stiri": [
+    {
+      "id": "7b4bcabe1f0d",
+      "titlu": "Liverpool face o ofertă pentru atacantul Ismaila Sarr de la Crystal Palace",
+      "rezumat": "Liverpool a inițiat discuții cu Crystal Palace pentru un posibil transfer al atacantului Ismaila Sarr. Această mișcare vine după ce Brighton a respins două oferte ale lui Liverpool pentru Yankuba Minteh. Clubul de pe Anfield își propune să-și întărească ofensiva, iar Sarr, un jucător rapid și tehnic, pare să fie o opțiune viabilă pentru echipa lui Jurgen Klopp în această perioadă de transferuri, în contextul căutării de noi soluții pentru atac.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-26T18:51:36.736886+00:00",
+      "data_afisaj": "26 august 2026, 21:51"
+    },
+    {
+      "id": "be076891bd01",
+      "titlu": "Schimbarea lui Cristiano Ronaldo de către Postecoglou declanșează o revenire dramatică pentru Al-Nassr",
+      "rezumat": "Antrenorul lui Al-Nassr, Ange Postecoglou, a decis să-l scoată pe Cristiano Ronaldo la pauză, în condițiile în care echipa sa, rămasă în zece oameni, era condusă cu 2-0 de Al-Ettifaq. În mod surprinzător, Al-Nassr a reușit o revenire spectaculoasă în a doua repriză, obținând o victorie dramatică. Decizia antrenorului a stârnit discuții intense, dar rezultatul final a validat strategia sa, demonstrând capacitatea echipei de a reacționa sub presiune.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-26T18:51:36.738497+00:00",
+      "data_afisaj": "26 august 2026, 21:51"
+    },
     {
       "id": "0f9a75e84456",
       "titlu": "Chelsea, în discuții pentru transferul portarului Emiliano Martínez de la Aston Villa",
@@ -1200,51 +1223,6 @@
       ],
       "data_publicare": "2026-08-20T07:42:29.820564+00:00",
       "data_afisaj": "20 august 2026, 10:42"
-    },
-    {
-      "id": "c42a6cebba37",
-      "titlu": "Oficiali de top din fotbalul englez critică FIFA pentru controversa cartonașului roșu al lui Balogun",
-      "rezumat": "Richard Masters, directorul executiv al Premier League, și Howard Webb, șeful arbitrilor din Anglia, au criticat decizia FIFA de a anula suspendarea atacantului american Folarin Balogun după un cartonaș roșu primit la Cupa Mondială. Balogun a fost lăsat să joace în ciuda unei eliminări care ar fi trebuit să ducă la o suspendare automată. Webb s-a declarat \"foarte tulburat\" de această decizie, avertizând că astfel de acțiuni alimentează convingerea publicului în conspirații legate de arbitraj. Criticile vin în contextul în care Premier League introduce noi măsuri pentru transparența arbitrajului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-19T17:20:07.335491+00:00",
-      "data_afisaj": "19 august 2026, 20:20"
-    },
-    {
-      "id": "27ff91dcb294",
-      "titlu": "Șeful Federației de Fotbal din Țara Galilor cere demisia președintelui FIFA, Gianni Infantino",
-      "rezumat": "Noel Mooney, directorul executiv al Asociației de Fotbal din Țara Galilor (FAW), a solicitat public demisia președintelui FIFA, Gianni Infantino. Această cerere vine în urma unor critici tot mai dese la adresa conducerii FIFA și a deciziilor luate sub mandatul lui Infantino. Declarația lui Mooney subliniază tensiunile existente între unele federații naționale și organismul de conducere al fotbalului mondial, reflectând o nemulțumire crescândă față de direcția și politicile adoptate de FIFA.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-19T17:20:07.337098+00:00",
-      "data_afisaj": "19 august 2026, 20:20"
-    },
-    {
-      "id": "dd5e16c68d2d",
-      "titlu": "Harry Kane minimizează posibilitatea unei reveniri în Premier League",
-      "rezumat": "Atacantul englez Harry Kane a declarat că \"nu mai simte la fel de mult dorința\" de a se întoarce într-o zi în Anglia, din Germania, pentru a încerca să bată recordul de goluri din toate timpurile în Premier League. Această afirmație vine în contextul speculațiilor privind o potențială revenire a sa în campionatul englez, după transferul la Bayern München. Declarația lui Kane sugerează o dedicare pe termen lung față de cariera sa în Bundesliga și o reorientare a obiectivelor personale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-19T17:20:07.338464+00:00",
-      "data_afisaj": "19 august 2026, 20:20"
-    },
-    {
-      "id": "68c67d783da1",
-      "titlu": "Jose Mourinho l-a sfătuit pe Vinicius Jr să nu părăsească Real Madrid",
-      "rezumat": "Antrenorul Jose Mourinho a dezvăluit cum l-a convins cu succes pe Vinicius Jr să rămână la clubul spaniol Real Madrid. Mourinho a explicat că i-a transmis tânărului atacant brazilian că nu ar merita să plece de la Real Madrid, subliniind importanța de a continua să joace la un club de top. Această intervenție a lui Mourinho a fost crucială în decizia lui Vinicius Jr de a-și prelungi șederea la echipa de pe Santiago Bernabéu, unde a devenit ulterior unul dintre cei mai importanți jucători.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-19T17:20:07.339926+00:00",
-      "data_afisaj": "19 august 2026, 20:20"
     }
   ]
 }
