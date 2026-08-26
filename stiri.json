@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-26T08:41:02.164190+00:00",
-  "updated_at_afisaj": "26 august 2026, 11:41",
+  "updated_at": "2026-08-26T16:49:43.010150+00:00",
+  "updated_at_afisaj": "26 august 2026, 19:49",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,45 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 108,
+  "numar_stiri": 107,
   "stiri": [
+    {
+      "id": "0f9a75e84456",
+      "titlu": "Chelsea, în discuții pentru transferul portarului Emiliano Martínez de la Aston Villa",
+      "rezumat": "Clubul Chelsea a inițiat contacte cu reprezentanții portarului argentinian Emiliano Martínez de la Aston Villa, explorând posibilitatea unui transfer. Martínez, campion mondial cu Argentina, și-a exprimat dorința de a părăsi clubul din Birmingham, iar Chelsea îl consideră o opțiune pentru întărirea postului de portar. Această mișcare vine în contextul în care o posibilă mutare a lui Martínez la Juventus a eșuat recent, după ce Aston Villa și-a asigurat deja un înlocuitor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-26T16:49:43.004976+00:00",
+      "data_afisaj": "26 august 2026, 19:49"
+    },
+    {
+      "id": "7a4140608da7",
+      "titlu": "UEFA renunță la amenințarea de boicotare a competițiilor FIFA",
+      "rezumat": "Uniunea Asociațiilor Europene de Fotbal (UEFA) este pe cale să renunțe la amenințarea de a boicota competițiile organizate de FIFA. Decizia vine după ce UEFA a primit asigurări că planurile președintelui FIFA, Gianni Infantino, de a vinde participații la Cupa Mondială către investitori privați nu se vor repeta. Această evoluție marchează o detensionare a relațiilor dintre cele două organisme majore ale fotbalului mondial, care au fost tensionate de propunerile anterioare ale lui Infantino.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-26T16:49:43.006356+00:00",
+      "data_afisaj": "26 august 2026, 19:49"
+    },
+    {
+      "id": "87e8f289f940",
+      "titlu": "Coventry City îl transferă pe fundașul Ethan Pinnock de la Brentford",
+      "rezumat": "Coventry City a finalizat transferul fundașului central jamaican Ethan Pinnock de la Brentford. Suma de transfer nu a fost dezvăluită oficial, dar este estimată la aproximativ 6 milioane de lire sterline. Pinnock, un jucător cu experiență, se alătură echipei Coventry pentru a consolida apărarea, reprezentând o achiziție importantă în eforturile clubului de a-și atinge obiectivele în sezonul curent. Transferul a fost confirmat de ambele cluburi și de surse media de top.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-26T16:49:43.008932+00:00",
+      "data_afisaj": "26 august 2026, 19:49"
+    },
     {
       "id": "ec0cb9fcf1f0",
       "titlu": "Raheem Sterling, acuzat de conducere periculoasă după un accident",
@@ -1208,53 +1245,6 @@
       ],
       "data_publicare": "2026-08-19T17:20:07.339926+00:00",
       "data_afisaj": "19 august 2026, 20:20"
-    },
-    {
-      "id": "72faf2cd59b1",
-      "titlu": "Arsenal ajunge la un acord de peste 50 de milioane de lire sterline pentru transferul lui Ezri Konsa",
-      "rezumat": "Clubul Arsenal a ajuns la un acord cu Aston Villa pentru transferul fundașului englez Ezri Konsa, într-o tranzacție evaluată la peste 50 de milioane de lire sterline. Mutarea marchează o investiție semnificativă pentru \"tunari\" în consolidarea defensivei, aducând un jucător cu experiență în Premier League și la nivel internațional. Konsa, în vârstă de 28 de ani, a fost o prezență constantă în echipa lui Aston Villa și este considerat o piesă importantă pentru viitorul defensivei lui Arsenal.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-19T16:34:41.750143+00:00",
-      "data_afisaj": "19 august 2026, 19:34"
-    },
-    {
-      "id": "50e11a7de402",
-      "titlu": "Inter Milano este aproape de a finaliza transferul lui Curtis Jones de la Liverpool pentru 30 de milioane de lire sterline",
-      "rezumat": "Campioana Italiei, Inter Milano, se apropie de un acord pentru achiziționarea mijlocașului lui Liverpool, Curtis Jones. Tranzacția este estimată la aproximativ 35 de milioane de euro (30 de milioane de lire sterline). Jones, un produs al academiei lui Liverpool, a fost o prezență intermitentă în echipa de start în ultimele sezoane, iar o mutare în Serie A ar putea oferi o nouă provocare pentru tânărul jucător englez. Negocierile sunt în stadii avansate, iar anunțul oficial este așteptat în curând.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-19T16:34:41.751090+00:00",
-      "data_afisaj": "19 august 2026, 19:34"
-    },
-    {
-      "id": "220ff3747e4f",
-      "titlu": "Detalii despre contractul lui Carlos Baleba la Manchester United au fost dezvăluite, un ultim obstacol fiind cunoscut",
-      "rezumat": "Manchester United a făcut un pas important către finalizarea transferului lui Carlos Baleba, ținta sa pe termen lung. Au fost dezvăluite detalii despre contractul propus mijlocașului, iar un ultim obstacol în calea mutării a devenit cunoscut. Clubul englez este hotărât să-și consolideze lotul, iar aducerea lui Baleba ar reprezenta o achiziție strategică pentru viitorul echipei. Fanii așteaptă cu nerăbdare confirmarea oficială a acestei tranzacții, care ar putea aduce un suflu nou la mijlocul terenului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-08-19T16:34:41.752688+00:00",
-      "data_afisaj": "19 august 2026, 19:34"
-    },
-    {
-      "id": "fc185f7ceb64",
-      "titlu": "Benoît Badiashile de la Chelsea este aproape de un transfer la Napoli",
-      "rezumat": "Fundașul central al lui Chelsea, Benoît Badiashile, este pe cale să finalizeze un transfer la clubul italian Napoli. Mutarea vine în contextul în care Chelsea își restructurează lotul, iar Badiashile ar putea căuta mai multe oportunități de joc în Serie A. Napoli, la rândul său, dorește să-și întărească apărarea pentru a-și menține competitivitatea în campionat și în competițiile europene. Detaliile finale ale tranzacției sunt în curs de stabilire, iar anunțul oficial este așteptat în zilele următoare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-19T16:34:41.753475+00:00",
-      "data_afisaj": "19 august 2026, 19:34"
     }
   ]
 }
