@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-27T18:09:11.218438+00:00",
-  "updated_at_afisaj": "27 august 2026, 21:09",
+  "updated_at": "2026-08-27T18:51:15.094877+00:00",
+  "updated_at_afisaj": "27 august 2026, 21:51",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,53 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 91,
+  "numar_stiri": 95,
   "stiri": [
+    {
+      "id": "511b5fcbd3d1",
+      "titlu": "Jucători români vor înfrunta Real Madrid în faza grupelor Ligii Campionilor",
+      "rezumat": "Cristi Chivu, Dennis Man și Răzvan Marin sunt printre jucătorii români care vor avea ocazia să joace împotriva vedetelor lui Real Madrid, antrenate de Jose Mourinho, în faza grupelor Ligii Campionilor. Această confruntare reprezintă un moment important pentru fotbalul românesc, oferind o platformă internațională pentru performanța jucătorilor români împotriva uneia dintre cele mai prestigioase echipe din Europa. Tragerea la sorți a stabilit aceste meciuri de anvergură.",
+      "categorie": "Fotbal",
+      "surse": [
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-08-27T18:51:15.089863+00:00",
+      "data_afisaj": "27 august 2026, 21:51"
+    },
+    {
+      "id": "51fb06470141",
+      "titlu": "Dramă pentru Universitatea Craiova în Europa League: Portarul Popescu a apărat două penalty-uri, dar echipa a fost eliminată",
+      "rezumat": "Universitatea Craiova a fost eliminată din Europa League într-un mod dramatic, după ce portarul Laurențiu Popescu a apărat două penalty-uri consecutive în minutul 90+3 al meciului cu Ararat. După prima intervenție, VAR a dictat repetarea execuției, însă Popescu a reușit să apere și a doua oară. Cu toate acestea, echipa a primit ulterior un gol care a dus la eliminarea din competiție, într-o seară considerată \"tristă\" de jucători și oficiali ai clubului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-08-27T18:51:15.091719+00:00",
+      "data_afisaj": "27 august 2026, 21:51"
+    },
+    {
+      "id": "75121b4712e0",
+      "titlu": "Aston Villa îl transferă pe Leon Goretzka de la Bayern Munchen",
+      "rezumat": "Aston Villa a finalizat transferul mijlocașului Leon Goretzka, fost jucător al lui Bayern Munchen, sub formă de transfer gratuit. Această mutare reprezintă o achiziție importantă pentru echipa din Premier League, aducând un jucător cu experiență la nivel înalt și un profil versatil la mijlocul terenului. Se anticipează că Goretzka va aduce un plus de forță și creativitate, iar fanii sunt curioși să vadă cum se va integra în noul său club după perioada petrecută la Bayern.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-27T18:51:15.093142+00:00",
+      "data_afisaj": "27 august 2026, 21:51"
+    },
+    {
+      "id": "a1c9d74c1ee6",
+      "titlu": "Chelsea ajunge la un acord de 40 de milioane de lire sterline pentru fundașul Honest Ahanor de la Atalanta",
+      "rezumat": "Clubul Chelsea a ajuns la un acord cu Atalanta pentru transferul fundașului Honest Ahanor, într-o tranzacție evaluată la până la 40 de milioane de lire sterline. Această achiziție subliniază intenția lui Chelsea de a-și consolida apărarea cu un jucător tânăr și promițător, considerat a fi o investiție pe termen lung. Detaliile finale ale transferului urmează să fie stabilite, dar acordul de principiu a fost atins între cele două cluburi.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-27T18:51:15.094569+00:00",
+      "data_afisaj": "27 august 2026, 21:51"
+    },
     {
       "id": "7396176678d1",
       "titlu": "Manchester City și Aston Villa vor înfrunta campioana PSG în faza ligii Ligii Campionilor",
