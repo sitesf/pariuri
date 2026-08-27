@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-26T18:51:36.739443+00:00",
-  "updated_at_afisaj": "26 august 2026, 21:51",
+  "updated_at": "2026-08-27T18:09:11.218438+00:00",
+  "updated_at_afisaj": "27 august 2026, 21:09",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,60 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 105,
+  "numar_stiri": 91,
   "stiri": [
+    {
+      "id": "7396176678d1",
+      "titlu": "Manchester City și Aston Villa vor înfrunta campioana PSG în faza ligii Ligii Campionilor",
+      "rezumat": "Campioana europeană Paris Saint-Germain va întâlni echipele din Premier League Manchester City și Aston Villa în faza ligii a Ligii Campionilor din acest sezon. Tragerea la sorți a stabilit confruntări interesante, oferind fanilor fotbalului european meciuri de calibru încă din această etapă a competiției. Această fază a ligii promite dueluri intense între cluburi de top de pe continent.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-08-27T18:09:11.214139+00:00",
+      "data_afisaj": "27 august 2026, 21:09"
+    },
+    {
+      "id": "bea091889e09",
+      "titlu": "UEFA pregătește acțiuni penale împotriva președintelui FIFA, Gianni Infantino",
+      "rezumat": "UEFA inițiază proceduri penale împotriva președintelui FIFA, Gianni Infantino, în legătură cu planul anulat de a vinde participații la Cupa Mondială. Această decizie marchează o escaladare semnificativă a tensiunilor dintre cele două organisme de conducere ale fotbalului, indicând o investigație aprofundată a deciziilor financiare și de guvernanță ale FIFA sub conducerea lui Infantino.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-27T18:09:11.215438+00:00",
+      "data_afisaj": "27 august 2026, 21:09"
+    },
+    {
+      "id": "ec166cf97c7c",
+      "titlu": "Tottenham îl transferă pe Omar Marmoush de la Manchester City sub formă de împrumut",
+      "rezumat": "Tottenham a semnat cu atacantul lui Manchester City, Omar Marmoush, sub formă de împrumut până la sfârșitul sezonului. Acordul include o obligație de a face transferul permanent pentru 60 de milioane de lire sterline vara viitoare. Această mutare strategică urmărește să consolideze ofensiva lui Tottenham și să ofere jucătorului mai multe oportunități de joc.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-08-27T18:09:11.216719+00:00",
+      "data_afisaj": "27 august 2026, 21:09"
+    },
+    {
+      "id": "64e76a210ac2",
+      "titlu": "Liverpool, aproape de un acord de 120 de milioane de lire sterline pentru Bradley Barcola de la PSG",
+      "rezumat": "Liverpool este aproape de a ajunge la un acord cu Paris Saint-Germain pentru transferul lui Bradley Barcola, o mutare care ridică semne de întrebare cu privire la viitorul lui Cody Gakpo pe Anfield. Potențialul transfer al atacantului francez, evaluat la aproximativ 120 de milioane de lire sterline, ar reprezenta o investiție majoră pentru clubul englez, consolidând opțiunile ofensive ale echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-27T18:09:11.217968+00:00",
+      "data_afisaj": "27 august 2026, 21:09"
+    },
     {
       "id": "7b4bcabe1f0d",
       "titlu": "Liverpool face o ofertă pentru atacantul Ismaila Sarr de la Crystal Palace",
@@ -1018,211 +1070,6 @@
       ],
       "data_publicare": "2026-08-21T07:44:36.192930+00:00",
       "data_afisaj": "21 august 2026, 10:44"
-    },
-    {
-      "id": "08cea01aaf72",
-      "titlu": "Liverpool a avut o ofertă de 50 de milioane de lire sterline respinsă pentru Yankuba Minteh de la Brighton",
-      "rezumat": "Clubul Liverpool a înaintat o ofertă de 50 de milioane de lire sterline pentru a-l achiziționa pe aripa Yankuba Minteh de la Brighton. Cu toate acestea, propunerea a fost refuzată de clubul din sudul Angliei. Minteh, un tânăr talent, este considerat o țintă importantă pentru \"cormorani\" în această perioadă de transferuri, dar Brighton pare hotărâtă să-și păstreze jucătorul sau să obțină o sumă considerabil mai mare. Negocierile ar putea continua pe măsură ce fereastra de transferuri avansează.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-20T17:21:33.327407+00:00",
-      "data_afisaj": "20 august 2026, 20:21"
-    },
-    {
-      "id": "da5d36db0344",
-      "titlu": "Universitatea Craiova conduce Ararat Armenia în play-off-ul Europa League",
-      "rezumat": "Universitatea Craiova a deschis scorul pe stadionul \"Ion Oblemenco\" în meciul din play-off-ul Europa League împotriva echipei Ararat Armenia. Partida este una crucială pentru calificarea în faza grupelor competiției europene. Fanii craioveni sunt prezenți în număr mare pentru a-și susține echipa în această confruntare importantă. Rezultatul de pe teren va decide soarta calificării, iar echipa românească speră să obțină un avantaj consistent în prima manșă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-08-20T17:21:33.328592+00:00",
-      "data_afisaj": "20 august 2026, 20:21"
-    },
-    {
-      "id": "95228fa8c20c",
-      "titlu": "Daniel Pancu anunță un posibil transfer al unui internațional ghanez la echipa sa",
-      "rezumat": "Antrenorul Daniel Pancu a făcut un anunț important privind un potențial transfer la echipa sa, menționând că un fotbalist care a reprezentat naționala Ghanei și a evoluat anterior la Steaua Roșie Belgrad este aproape de a semna. Pancu a declarat că speră ca jucătorul să treacă cu succes vizita medicală, ultimul pas înainte de oficializarea mutării. Acest transfer ar putea aduce un plus de experiență și calitate lotului, având în vedere pedigree-ul internațional al fotbalistului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-08-20T17:21:33.329743+00:00",
-      "data_afisaj": "20 august 2026, 20:21"
-    },
-    {
-      "id": "1247099963a1",
-      "titlu": "Matthias Jaissle, noul antrenor al lui Newcastle, vorbește despre cum o accidentare i-a modelat cariera",
-      "rezumat": "Matthias Jaissle, recent numit antrenor la Newcastle United, a dezvăluit că încheierea prematură a carierei sale de jucător, la vârsta de 25 de ani, din cauza unei accidentări, a reprezentat un moment definitoriu. El a subliniat că această adversitate l-a învățat că dificultățile pot deschide noi oportunități. Declarațiile sale oferă o perspectivă asupra filozofiei sale de viață și de antrenor, sugerând o abordare rezilientă și adaptabilă în noua sa funcție la clubul din Premier League.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-20T17:21:33.331045+00:00",
-      "data_afisaj": "20 august 2026, 20:21"
-    },
-    {
-      "id": "4c0b334a70c7",
-      "titlu": "BBC Sport analizează prezența redusă a jucătoarelor africane în Women's Super League",
-      "rezumat": "BBC Sport a inițiat o investigație pentru a înțelege motivele din spatele numărului mic de jucătoare africane în Women's Super League (WSL), prima ligă de fotbal feminin din Anglia. Analiza explorează factorii care contribuie la această discrepanță, inclusiv provocările legate de infrastructură, oportunitățile de dezvoltare în țările de origine și barierele culturale sau economice. Studiul își propune să aducă în atenție aspecte importante legate de diversitate și incluziune în fotbalul feminin de elită.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-20T17:21:33.332245+00:00",
-      "data_afisaj": "20 august 2026, 20:21"
-    },
-    {
-      "id": "04e56cbbbe71",
-      "titlu": "Premier League introduce noi măsuri pentru a reduce haosul la cornere",
-      "rezumat": "Premier League intenționează să implementeze noi reguli pentru a gestiona mai bine situațiile de la cornere, după ce sezonul trecut a fost marcat de numeroase incidente de împingere, tragere și agresiune în careu. Aceste măsuri vizează restabilirea ordinii și asigurarea unui joc mai corect în timpul fazelor fixe, o problemă care a devenit tot mai evidentă și a generat controverse în rândul echipelor și al fanilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-20T16:38:39.619774+00:00",
-      "data_afisaj": "20 august 2026, 19:38"
-    },
-    {
-      "id": "d63a09f168bb",
-      "titlu": "Xabi Alonso, antrenorul Chelsea, vorbește despre viitorul lui Enzo Fernández",
-      "rezumat": "Antrenorul principal al Chelsea, Xabi Alonso, a declarat că Enzo Fernández a demonstrat o „atitudine foarte bună” de la revenirea sa la club, în ciuda speculațiilor continue privind viitorul mijlocașului. Alonso a refuzat să garanteze că Chelsea va rezista unei eventuale oferte de la Manchester City, care ar fi interesată de serviciile jucătorului argentinian. Viitorul lui Fernández rămâne incert, chiar dacă termenul neoficial pentru oferte de 120 de milioane de lire sterline a expirat.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-20T16:38:39.621411+00:00",
-      "data_afisaj": "20 august 2026, 19:38"
-    },
-    {
-      "id": "860164176c6a",
-      "titlu": "Joao Cancelo se alătură definitiv Barcelonei după plecarea de la Al-Hilal",
-      "rezumat": "Fundașul portughez Joao Cancelo a semnat un contract permanent cu FC Barcelona, după ce înțelegerea sa cu clubul Al-Hilal a fost reziliată de comun acord. Această mutare marchează o revenire la echipa catalană pentru Cancelo, care a fost un jucător cheie în planurile antrenorului, iar transferul său definitiv consolidează apărarea Barcelonei pentru sezoanele viitoare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-20T16:38:39.622979+00:00",
-      "data_afisaj": "20 august 2026, 19:38"
-    },
-    {
-      "id": "c3da9903a0b0",
-      "titlu": "Mikel Arteta este încrezător că Myles Lewis-Skelly va rămâne la Arsenal",
-      "rezumat": "Mikel Arteta, managerul lui Arsenal, a declarat că este „100% încrezător” că tânărul mijlocaș Myles Lewis-Skelly va rămâne la club la finalul ferestrei de transferuri. Declarația vine în contextul în care Arsenal se pregătește pentru debutul noului sezon de Premier League, iar Arteta a subliniat importanța menținerii jucătorilor cheie pentru a-și apăra titlul. Lewis-Skelly este considerat un talent promițător în cadrul echipei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-20T16:38:39.624511+00:00",
-      "data_afisaj": "20 august 2026, 19:38"
-    },
-    {
-      "id": "f32b27084690",
-      "titlu": "Stadionul Maracanã va găzdui meciul de deschidere și finala Cupei Mondiale Feminine de anul viitor",
-      "rezumat": "Stadionul Maracanã din Rio de Janeiro, cu o capacitate de 78.838 de locuri, a fost desemnat să găzduiască atât meciul de deschidere, cât și finala Cupei Mondiale Feminine de anul viitor. Arena, care a fost gazda finalelor Cupei Mondiale masculine din 1950 și 2014, precum și a finalelor competițiilor olimpice de fotbal din 2016, va fi scena meciului Braziliei din Grupa A pe 24 iunie și a finalei pe 25 iulie, conform programului FIFA.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-20T16:38:39.626126+00:00",
-      "data_afisaj": "20 august 2026, 19:38"
-    },
-    {
-      "id": "f42df450f3f4",
-      "titlu": "Experți BBC Sport prezic primele patru echipe din Premier League 2026-27",
-      "rezumat": "26 de experți în fotbal de la BBC Sport au fost solicitați să-și prezinte predicțiile pentru sezonul 2026-27 al Premier League, inclusiv cine va câștiga titlul și care cluburi se vor clasa în primele patru poziții. Aceste previziuni oferă o perspectivă asupra așteptărilor din rândul analiștilor sportivi înainte de începerea noului sezon, evidențiind echipele considerate favorite pentru succesul în campionatul englez. Predicțiile acoperă o gamă largă de opinii, reflectând incertitudinea și competitivitatea ligii.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-20T08:36:20.875366+00:00",
-      "data_afisaj": "20 august 2026, 11:36"
-    },
-    {
-      "id": "b462e2318e68",
-      "titlu": "Terenul deteriorat forțează PSG să mute meciul de deschidere al sezonului",
-      "rezumat": "Primul meci al sezonului din Ligue 1 pentru Paris Saint-Germain va fi jucat la Rennes, după ce condițiile meteorologice calde au deteriorat \"sever\" gazonul de pe Parc des Princes. Această decizie a fost luată pentru a asigura condiții optime de joc și pentru a proteja integritatea sportivă a competiției, obligând clubul să găsească o soluție rapidă pentru debutul în campionat. Măsura subliniază provocările logistice cu care se confruntă cluburile în menținerea infrastructurii sportive în fața condițiilor climatice extreme.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-20T08:36:20.876364+00:00",
-      "data_afisaj": "20 august 2026, 11:36"
-    },
-    {
-      "id": "e6ffb5511efa",
-      "titlu": "Manchester United ar putea regreta lipsa de susținere pentru Carrick",
-      "rezumat": "O analiză sugerează că Manchester United ar putea regreta decizia de a nu-l susține pe Michael Carrick, în special în privința achiziționării unui fundaș stânga, o prioritate pe piața transferurilor pe parcursul verii. Articolul pune sub semnul întrebării strategia clubului pe piața transferurilor, comparând-o cu eforturile anterioare de scouting și evidențiind potențialele consecințe ale lipsei de investiții în anumite poziții cheie pentru succesul echipei. Această abordare \"frugală sau nechibzuită\" ar putea afecta performanța pe termen lung a clubului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-20T08:36:20.878170+00:00",
-      "data_afisaj": "20 august 2026, 11:36"
-    },
-    {
-      "id": "f83fc93e373e",
-      "titlu": "Primele 30 de minute ale transmisiunilor Premier League de la TNT Sports vor fi disponibile pe YouTube",
-      "rezumat": "TNT Sports va oferi gratuit, pe platforma YouTube, primele 30 de minute ale transmisiunilor sale live din Premier League, începând cu meciul dintre Manchester United și Hull City. Această inițiativă include și emisiunea pre-meci 'EKO – Early Kick Off', disponibilă pentru prima dată gratuit, pe lângă difuzarea pe TNT Sports și HBO Max. Decizia reprezintă o schimbare în strategia de difuzare, menită să atragă un public mai larg și să sporească accesibilitatea conținutului Premier League pentru fani.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-20T08:36:20.879144+00:00",
-      "data_afisaj": "20 august 2026, 11:36"
-    },
-    {
-      "id": "7742313f3b89",
-      "titlu": "Un Raport Dezvăluie că Algoritmii au Amplificat Rasismul la Cupa Mondială",
-      "rezumat": "Un nou studiu arată că abuzurile rasiste îndreptate către fotbaliștii englezi pe rețelele sociale, în timpul Cupei Mondiale, au fost amplificate de algoritmi. Acești algoritmi, concepuți pentru a maximiza implicarea utilizatorilor și profitul, au contribuit la răspândirea mesajelor discriminatorii. Cercetarea subliniază o problemă sistemică în modul în care platformele online gestionează conținutul, având un impact negativ asupra jucătorilor și integrității sportului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-20T07:42:29.815726+00:00",
-      "data_afisaj": "20 august 2026, 10:42"
-    },
-    {
-      "id": "ba1861349183",
-      "titlu": "Campanie Anti-Rasism Cere Guvernului Să Declare Meciurile Premier League „Evenimente cu Risc Ridicat”",
-      "rezumat": "Grupul de advocacy anti-rasism „HOPE not hate” a solicitat guvernului să clasifice meciurile din Premier League drept „evenimente cu risc ridicat”. Această cerere vine în urma amplorii abuzurilor rasiste la adresa fotbaliștilor englezi în timpul Cupei Mondiale, abuzuri despre care se spune că au fost amplificate de algoritmii rețelelor sociale. Organizația susține că platformele de social media profită de pe urma hărțuirii rasiale a jucătorilor, iar măsura propusă ar impune o monitorizare și intervenție sporită.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-08-20T07:42:29.817443+00:00",
-      "data_afisaj": "20 august 2026, 10:42"
-    },
-    {
-      "id": "498b3dd70e5b",
-      "titlu": "Tottenham Negociază Transferul Duo-ului Savinho și Marmoush de la Manchester City",
-      "rezumat": "Tottenham Hotspur se află în discuții avansate cu Manchester City pentru un potențial dublu transfer al jucătorilor Savinho și Omar Marmoush. Această mutare ar putea consolida ofensiva echipei londoneze, care caută să aducă trei noi atacanți în această fereastră de transferuri. Ambele cluburi sunt în negocieri, iar detaliile privind acordurile individuale și sumele de transfer urmează să fie finalizate în săptămânile următoare, pe măsură ce fereastra de transferuri se apropie de încheiere.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-20T07:42:29.819004+00:00",
-      "data_afisaj": "20 august 2026, 10:42"
-    },
-    {
-      "id": "b3fdb0af2c44",
-      "titlu": "Antrenorul Newcastle, Matthias Jaissle, Confirmă Necesitatea Ajustărilor în Lot",
-      "rezumat": "Matthias Jaissle, antrenorul principal al echipei Newcastle, a declarat că clubul este de acord cu necesitatea unor „ajustări” în componența lotului. Declarația vine în ultimele săptămâni ale ferestrei de transferuri de vară, sugerând că Newcastle va căuta să aducă noi jucători pentru a-și consolida echipa. Jaissle a subliniat că există o aliniere între staff-ul tehnic și conducerea clubului în privința strategiei de transferuri, înaintea meciului cu Liverpool.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-20T07:42:29.820564+00:00",
-      "data_afisaj": "20 august 2026, 10:42"
     }
   ]
 }
