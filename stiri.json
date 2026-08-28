@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-28T19:20:53.154361+00:00",
-  "updated_at_afisaj": "28 august 2026, 22:20",
+  "updated_at": "2026-08-28T19:54:22.168889+00:00",
+  "updated_at_afisaj": "28 august 2026, 22:54",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 94,
+  "numar_stiri": 99,
   "stiri": [
+    {
+      "id": "f12310c9c3da",
+      "titlu": "🚨 LIVE U Cluj – Petrolul se joacă în etapa 7 din Superliga. Festival de goluri pe Cluj Arena! Două reușite în primele 10 minute din repriza secundă",
+      "rezumat": "(rezumat indisponibil)",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-08-28T19:54:04.690143+00:00",
+      "data_afisaj": "28 august 2026, 22:54"
+    },
+    {
+      "id": "b0bef971fcde",
+      "titlu": "Ordonez's move to Palace in doubt after medical",
+      "rezumat": "Club Brugge defender Joel Ordonez's move to Crystal Palace runs into complications after his medical, with the Eagles set to decide whether to proceed with the deal.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-28T19:54:04.691322+00:00",
+      "data_afisaj": "28 august 2026, 22:54"
+    },
+    {
+      "id": "dd8d8a6913dc",
+      "titlu": "Departing Watkins apologised for refusing to play - Emery",
+      "rezumat": "Ollie Watkins is leaving Aston Villa as their record Premier League goalscorer.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-28T19:54:04.692470+00:00",
+      "data_afisaj": "28 august 2026, 22:54"
+    },
+    {
+      "id": "44919b53f22a",
+      "titlu": "Sunderland and Bournemouth egal AC Milan in Europa League",
+      "rezumat": "Sunderland will mark their first European campaign since 1973 with a trip to the San Siro after egaling AC Milan in the Europa League league phase.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-28T19:54:04.693597+00:00",
+      "data_afisaj": "28 august 2026, 22:54"
+    },
+    {
+      "id": "9ed9d6cc937f",
+      "titlu": "How will Scottish clubs respond to Euro disappointments?",
+      "rezumat": "Read the best storylines before this weekend's full card of Scottish Premiership mecis.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-28T19:54:04.694730+00:00",
+      "data_afisaj": "28 august 2026, 22:54"
+    },
     {
       "id": "2d587ccc7a44",
       "titlu": "Wrexham vs Birmingham pe Sky LIVE!",
