@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-28T00:48:08.804580+00:00",
-  "updated_at_afisaj": "28 august 2026, 03:48",
+  "updated_at": "2026-08-28T01:14:34.656179+00:00",
+  "updated_at_afisaj": "28 august 2026, 04:14",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,66 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 100,
+  "numar_stiri": 105,
   "stiri": [
+    {
+      "id": "59f66ed923a0",
+      "titlu": "Rodrigo Muniz marchează primul său gol după un an, Fulham avansează în Cupa Ligii",
+      "rezumat": "Atacantul Rodrigo Muniz a pus capăt unei perioade de un an fără gol marcat, contribuind decisiv la victoria echipei Fulham cu 3-0 împotriva lui AFC Wimbledon în Cupa Ligii. Această reușită personală a venit într-un moment important, ajutând-o pe Fulham să obțină prima victorie sub conducerea lui Alvaro Arbeloa. Performanța lui Muniz este un semn pozitiv pentru echipa londoneză, care își propune să avanseze cât mai mult în competiție.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-28T01:14:34.650404+00:00",
+      "data_afisaj": "28 august 2026, 04:14"
+    },
+    {
+      "id": "1eea58bc68df",
+      "titlu": "Manchester City este încrezătoare în transferul mijlocașului Enzo Fernández de la Chelsea",
+      "rezumat": "Conform presei sportive, Manchester City este optimistă în privința finalizării transferului mijlocașului Enzo Fernández de la Chelsea. Această mutare ar reprezenta o achiziție majoră pentru campioana Angliei, consolidându-și și mai mult lotul. Deși detaliile financiare nu sunt încă publice, negocierile par să progreseze, iar viitorul lui Fernández la Chelsea pare incert, având în vedere absența sa recentă din meciurile echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-28T01:14:34.651879+00:00",
+      "data_afisaj": "28 august 2026, 04:14"
+    },
+    {
+      "id": "179c805ae4e8",
+      "titlu": "Danny Welbeck marchează la debut pentru Chelsea în victoria din Cupa Ligii",
+      "rezumat": "Danny Welbeck a marcat la debutul său pentru Chelsea, contribuind la victoria cu 2-0 împotriva echipei Luton din League One, în turul doi al Cupei Ligii. Acesta a fost primul meci competitiv al lui Xabi Alonso ca manager pe Stamford Bridge, iar succesul a asigurat calificarea \"albaștrilor\" în runda următoare. Golul lui Welbeck reprezintă un început promițător pentru atacant și o confirmare a intențiilor de consolidare a lotului pentru noul antrenor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-28T01:14:34.653266+00:00",
+      "data_afisaj": "28 august 2026, 04:14"
+    },
+    {
+      "id": "7d179b670a87",
+      "titlu": "Jamie Carragher, fost jucător și actual comentator, riscă falimentul din cauza datoriilor fiscale",
+      "rezumat": "Jamie Carragher, fostul jucător al lui Liverpool și al naționalei Angliei, în prezent comentator sportiv, se confruntă cu o petiție de faliment din cauza unei facturi fiscale neplătite. Această situație ar putea avea implicații semnificative asupra finanțelor și imaginii publice a fostului fundaș. Detaliile complete ale sumei datorate și ale procedurilor legale nu au fost încă făcute publice, dar vestea a stârnit îngrijorare în rândul fanilor și al comunității fotbalistice.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-28T01:14:34.654763+00:00",
+      "data_afisaj": "28 august 2026, 04:14"
+    },
+    {
+      "id": "7b4bf5c70795",
+      "titlu": "Transferul lui Nick Pope de la Newcastle United este în pericol de a eșua",
+      "rezumat": "Viitorul portarului Nick Pope la Newcastle United este incert, transferul său fiind în pericol de a se prăbuși pe măsură ce se apropie termenul limită al ferestrei de transferuri. Detaliile contractuale și negocierile par să întâmpine dificultăți, punând sub semnul întrebării plecarea sa de la club în acest sezon. Situația creează presiune pentru toate părțile implicate, având în vedere timpul limitat rămas pentru finalizarea oricărei tranzacții.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-08-28T01:14:34.656159+00:00",
+      "data_afisaj": "28 august 2026, 04:14"
+    },
     {
       "id": "78d915307211",
       "titlu": "Managerul Rangers își asumă responsabilitatea pentru eliminarea din Conference League",
