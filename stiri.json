@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-29T13:37:55.293617+00:00",
-  "updated_at_afisaj": "29 august 2026, 16:37",
+  "updated_at": "2026-08-29T19:17:28.427871+00:00",
+  "updated_at_afisaj": "29 august 2026, 22:17",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,56 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 107,
+  "numar_stiri": 106,
   "stiri": [
+    {
+      "id": "1dc41fd94f5a",
+      "titlu": "Radu Drăgușin, notă mică după înfrângerea Fiorentinei cu Frosinone",
+      "rezumat": "Fundașul român Radu Drăgușin a primit o notă modestă în urma prestației sale din meciul dintre Fiorentina și Frosinone, încheiat cu scorul de 0-3. Echipa sa a suferit o înfrângere categorică, iar Drăgușin a fost printre jucătorii evaluați sub așteptări de presa sportivă. Această partidă marchează un moment dificil pentru internaționalul român, care spera la un debut mai bun în noul sezon. Analiza jocului său indică anumite deficiențe defensive care au contribuit la rezultatul negativ al echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-08-29T19:17:28.422737+00:00",
+      "data_afisaj": "29 august 2026, 22:17"
+    },
+    {
+      "id": "1fa25f47dfb4",
+      "titlu": "Nottingham Forest a ajuns la un acord de 22 de milioane de lire sterline pentru transferul lui Daniel Munoz",
+      "rezumat": "Nottingham Forest a convenit un acord în valoare de cel puțin 22 de milioane de lire sterline pentru a-l achiziționa pe Daniel Munoz de la Crystal Palace. Această tranzacție reprezintă o investiție semnificativă pentru Forest, care își propune să-și întărească lotul. Munoz este așteptat să aducă un plus de valoare echipei, consolidând apărarea și contribuind la obiectivele clubului în campionat. Transferul său este considerat un pas important în strategia de dezvoltare a echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-29T19:17:28.424803+00:00",
+      "data_afisaj": "29 august 2026, 22:17"
+    },
+    {
+      "id": "25696300998f",
+      "titlu": "Newcastle învinge Tottenham și prelungește startul slab de sezon al londonezilor",
+      "rezumat": "Newcastle United a obținut o victorie importantă împotriva lui Tottenham Hotspur, scor 2-0, pe terenul acestora, prelungind astfel startul dificil de sezon al echipei londoneze. Golurile marcate de Elanga și Wissa au asigurat succesul \"Coțofenelor\", care au demonstrat o performanță solidă. Această înfrângere adaugă presiune asupra lui Tottenham, care nu a reușit să-și valorifice noile achiziții și se confruntă cu dificultăți în primele etape ale campionatului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-29T19:17:28.426221+00:00",
+      "data_afisaj": "29 august 2026, 22:17"
+    },
+    {
+      "id": "d35c9a08c6e7",
+      "titlu": "Hull City își menține startul perfect în Premier League după victoria împotriva lui Coventry",
+      "rezumat": "Hull City a continuat seria excelentă de rezultate în Premier League, obținând o nouă victorie împotriva lui Coventry City. După o victorie surprinzătoare împotriva lui Manchester United în prima etapă, echipa și-a consolidat poziția cu un start de 100% în campionat. Golul marcat de Liam Millar în minutul 82 a adus cele trei puncte pentru Hull, ruinând speranțele lui Coventry de a obține cel puțin un punct. Această performanță remarcabilă a generat entuziasm în rândul fanilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-29T19:17:28.427850+00:00",
+      "data_afisaj": "29 august 2026, 22:17"
+    },
     {
       "id": "82595f3fb201",
       "titlu": "Chelsea își ajustează prioritățile prin transferul lui Emiliano Martínez",
@@ -1188,66 +1236,6 @@
       ],
       "data_publicare": "2026-08-23T07:35:25.055835+00:00",
       "data_afisaj": "23 august 2026, 10:35"
-    },
-    {
-      "id": "1c79339f3029",
-      "titlu": "Leeds United Câștigă la Limită Împotriva lui Nottingham Forest în Debutul Sezonului Premier League",
-      "rezumat": "Leeds United a obținut o victorie importantă cu 1-0 împotriva lui Nottingham Forest în primul meci al sezonului 2026-27 din Premier League. Golul decisiv a fost marcat de Anton Stach dintr-o lovitură liberă, cu doar câteva minute înainte de finalul timpului regulamentar. Managerul lui Leeds, Daniel Farke, și-a exprimat satisfacția față de performanța echipei sale, subliniind un start pozitiv în campanie.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-22T17:13:53.601963+00:00",
-      "data_afisaj": "22 august 2026, 20:13"
-    },
-    {
-      "id": "85158a2cf589",
-      "titlu": "Ipswich Obține O Victorie Dramatică la Revenirea în Premier League Împotriva lui Sunderland",
-      "rezumat": "Ipswich Town a marcat o revenire victorioasă în Premier League, învingând Sunderland cu un gol marcat în ultimul minut de Jack Clarke. Meciul a fost unul tensionat, iar golul târziu a asigurat cele trei puncte pentru Ipswich, oferind un start de sezon memorabil pentru fani și echipă. Victoria subliniază determinarea clubului la revenirea în elita fotbalului englez.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-22T17:13:53.603476+00:00",
-      "data_afisaj": "22 august 2026, 20:13"
-    },
-    {
-      "id": "4e0a76fb872b",
-      "titlu": "Rezultate Variate în Championship: West Ham Învinsă, Wolves, Blackburn și Alte Echipe Câștigă sau Egalizează",
-      "rezumat": "Prima etapă din Championship a adus rezultate surprinzătoare și meciuri echilibrate. Charlton a învins West Ham cu 2-1, punând presiune pe antrenorul Nuno Espírito Santo. Wolves a obținut o victorie convingătoare cu 3-1 împotriva lui Preston, în timp ce Blackburn a revenit și a învins Middlesbrough cu 2-1. De asemenea, Swansea și Sheffield United au încheiat la egalitate, la fel ca Wrexham cu Watford și Derby cu Cardiff.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-22T17:13:53.605147+00:00",
-      "data_afisaj": "22 august 2026, 20:13"
-    },
-    {
-      "id": "9454d8a3335e",
-      "titlu": "Hull City Produce Surpriza Începutului de Sezon, Învingând Manchester United",
-      "rezumat": "Nou-promovata Hull City a produs o surpriză majoră în prima etapă a Premier League, învingând Manchester United cu 2-0. Golurile au fost marcate de Semi Ajayi și Mendy. Antrenorul lui Manchester United, Michael Carrick, a refuzat să intre în panică, în ciuda înfrângerii șocante, în timp ce managerul lui Hull, Sergej Jakirovic, a lăudat abordarea tactică a echipei sale. Victoria reprezintă un debut de vis pentru Hull City, care își propune să demonstreze că merită un loc în prima ligă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-22T16:27:43.362488+00:00",
-      "data_afisaj": "22 august 2026, 19:27"
-    },
-    {
-      "id": "83c8b2ed5788",
-      "titlu": "Marea Britanie Vizează Găzduirea Cupei Mondiale de Fotbal Masculin în 2042",
-      "rezumat": "Andy Burnham și-a exprimat dorința ca Marea Britanie să găzduiască Cupa Mondială de fotbal masculin în anul 2042. Aceasta ar marca prima dată în aproape opt decenii când turneul ar reveni pe teritoriul britanic. În cadrul unor discuții informale la Manchester, prim-ministrul a indicat, de asemenea, interesul pentru ca evenimentul să se desfășoare în Insulele Britanice, subliniind o ambiție pe termen lung pentru fotbalul din regiune.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-22T16:27:43.365499+00:00",
-      "data_afisaj": "22 august 2026, 19:27"
     }
   ]
 }
