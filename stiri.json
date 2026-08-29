@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-29T19:17:28.427871+00:00",
-  "updated_at_afisaj": "29 august 2026, 22:17",
+  "updated_at": "2026-08-29T19:35:03.881600+00:00",
+  "updated_at_afisaj": "29 august 2026, 22:35",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,52 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 106,
+  "numar_stiri": 110,
   "stiri": [
+    {
+      "id": "43b339eb0576",
+      "titlu": "Liverpool obține o remiză târzie împotriva lui Nottingham Forest, Iraola încă așteaptă prima victorie",
+      "rezumat": "Liverpool a reușit să revină de două ori de la scor defavorabil, obținând o remiză de 2-2 împotriva lui Nottingham Forest pe Anfield. Acest rezultat îl lasă pe noul antrenor, Andoni Iraola, în continuare în căutarea primei sale victorii în Premier League la conducerea clubului. Meciul a fost marcat de o luptă intensă, în care \"Cormoranii\" au demonstrat reziliență, dar și vulnerabilități defensive, necesitând eforturi considerabile pentru a egala scorul.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-29T19:35:03.876016+00:00",
+      "data_afisaj": "29 august 2026, 22:35"
+    },
+    {
+      "id": "a390d5ff62be",
+      "titlu": "James Tarkowski egalează în prelungiri, Everton obține un punct la Bournemouth",
+      "rezumat": "Căpitanul lui Everton, James Tarkowski, a marcat un gol crucial în minutul 91, asigurând un punct pentru echipa sa într-un meci încheiat la egalitate, scor 1-1, împotriva lui Bournemouth pe stadionul Vitality. Golul târziu al lui Tarkowski a anulat avantajul inițial al gazdelor, stabilind un rezultat de egalitate în Premier League. Acest punct este important pentru Everton, demonstrând capacitatea de a lupta până la final și de a evita înfrângerea.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-29T19:35:03.877556+00:00",
+      "data_afisaj": "29 august 2026, 22:35"
+    },
+    {
+      "id": "1206b44770cd",
+      "titlu": "Antrenorul Liverpool, Andoni Iraola, furios din cauza întârzierii schimbărilor în meciul cu Forest",
+      "rezumat": "Antrenorul lui Liverpool, Andoni Iraola, și-a exprimat public nemulțumirea față de faptul că i s-a împiedicat efectuarea unei triple schimbări mai devreme în timpul meciului echipei sale, încheiat la egalitate cu Nottingham Forest. Iraola a declarat că a fost \"furios\" din cauza întârzierii cauzate de tabela oficială, considerând că intervenția rapidă ar fi putut influența pozitiv cursul jocului și rezultatul final, subliniind importanța deciziilor tactice rapide.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-29T19:35:03.879167+00:00",
+      "data_afisaj": "29 august 2026, 22:35"
+    },
+    {
+      "id": "6d4b3134414f",
+      "titlu": "Frank Lampard, frustrat de înfrângerea lui Coventry în fața lui Hull City, subliniază lipsa de rapiditate",
+      "rezumat": "Antrenorul lui Coventry, Frank Lampard, și-a exprimat frustrarea după înfrângerea cu 1-0 în fața lui Hull City, primul meci acasă în prima ligă după 25 de ani. Lampard a remarcat că echipa sa a controlat posesia, dar a fost \"prea lentă\" cu mingea, nereușind să concretizeze oportunitățile. El a subliniat necesitatea de a îmbunătăți ritmul și eficiența pentru a obține rezultate pozitive în viitor, în ciuda controlului jocului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-29T19:35:03.881578+00:00",
+      "data_afisaj": "29 august 2026, 22:35"
+    },
     {
       "id": "1dc41fd94f5a",
       "titlu": "Radu Drăgușin, notă mică după înfrângerea Fiorentinei cu Frosinone",
