@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-29T13:02:01.334783+00:00",
-  "updated_at_afisaj": "29 august 2026, 16:02",
+  "updated_at": "2026-08-29T13:37:55.293617+00:00",
+  "updated_at_afisaj": "29 august 2026, 16:37",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,19 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 106,
+  "numar_stiri": 107,
   "stiri": [
+    {
+      "id": "82595f3fb201",
+      "titlu": "Chelsea își ajustează prioritățile prin transferul lui Emiliano Martínez",
+      "rezumat": "Chelsea pare să își fi redefinit strategia de transferuri, concentrându-se pe achiziții de impact, conform The Guardian Football. Decizia de a-l aduce pe portarul Emiliano Martínez, câștigător al Cupei Mondiale, în locul lui Robert Sánchez, este văzută ca un semn al seriozității clubului pe piața transferurilor. Această mutare amintește de abordarea lui José Mourinho din 2004, când l-a înlocuit pe Carlo Cudicini cu Petr Cech pentru a asigura cel mai înalt nivel de performanță. Xabi Alonso, managerul echipei, pare să prioritizeze experiența și calitatea dovedită.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-29T13:37:55.292732+00:00",
+      "data_afisaj": "29 august 2026, 16:37"
+    },
     {
       "id": "0afe95e18dce",
       "titlu": "Nottingham Forest pregătește o ofertă de 40 de milioane de lire sterline pentru adolescentul Armstrong de la Everton",
