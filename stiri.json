@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-28T19:54:22.168889+00:00",
-  "updated_at_afisaj": "28 august 2026, 22:54",
+  "updated_at": "2026-08-29T00:28:47.785656+00:00",
+  "updated_at_afisaj": "29 august 2026, 03:28",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 99,
+  "numar_stiri": 104,
   "stiri": [
+    {
+      "id": "b84be6393497",
+      "titlu": "Fotbal European: PSG obține o remiză, Bayern începe sezonul în forță",
+      "rezumat": "Paris Saint-Germain a înregistrat o remiză de 2-2 împotriva echipei Lille, cu un gol marcat de Marquinhos în prelungiri, continuând astfel un început dificil de sezon în Ligue 1. Între timp, în Bundesliga, Bayern Munchen a avut o deschidere spectaculoasă, învingând Stuttgart cu 5-1 pe Allianz Arena. Rezultatele marchează un contrast puternic în debutul campionatelor pentru cele două mari cluburi europene.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-29T00:28:47.780130+00:00",
+      "data_afisaj": "29 august 2026, 03:28"
+    },
+    {
+      "id": "22376126924f",
+      "titlu": "Toate meciurile din faza ligii Ligii Campionilor 2026/27 au fost stabilite",
+      "rezumat": "Programul complet al meciurilor din faza ligii Ligii Campionilor pentru sezonul 2026/27 a fost publicat, oferind detalii despre confruntările majore care vor avea loc pe întreg continentul. Cele 36 de cluburi participante își cunosc acum adversarii pentru cele opt etape ale fazei ligii, pregătindu-se pentru o nouă ediție a celei mai prestigioase competiții europene intercluburi.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-08-29T00:28:47.781621+00:00",
+      "data_afisaj": "29 august 2026, 03:28"
+    },
+    {
+      "id": "615d254ec79b",
+      "titlu": "De Zerbi dorește încă o achiziție pentru Tottenham înainte de închiderea ferestrei de transferuri",
+      "rezumat": "Antrenorul principal al lui Tottenham, Roberto De Zerbi, a declarat că își dorește să aducă încă un jucător în lotul său înainte de termenul limită al transferurilor de marți seară. De Zerbi a discutat cu proprietarii clubului despre o ultimă ofensivă pe piața transferurilor, după ce fereastra a depășit deja așteptările sale. Pe lângă posibilele achiziții, antrenorul a menționat și că ar putea exista plecări de jucători.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-29T00:28:47.783218+00:00",
+      "data_afisaj": "29 august 2026, 03:28"
+    },
+    {
+      "id": "f28c168055bb",
+      "titlu": "Jose Mourinho va reveni la Chelsea într-un eveniment neașteptat",
+      "rezumat": "Fostul antrenor al echipei Chelsea, Jose Mourinho, este programat să revină pe Stamford Bridge în acest sezon, într-o apariție neașteptată. Detaliile exacte ale evenimentului nu au fost specificate, dar prezența sa la clubul londonez, unde a avut două mandate de succes, este un subiect de interes pentru fani și presa sportivă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-08-29T00:28:47.784426+00:00",
+      "data_afisaj": "29 august 2026, 03:28"
+    },
+    {
+      "id": "dd69c553c7dc",
+      "titlu": "Manchester United o transferă pe aripa suedeză Monica Jusu Bah",
+      "rezumat": "Manchester United a confirmat achiziționarea aripii suedeze Monica Jusu Bah de la clubul BK Hacken, pentru o sumă de puțin sub 400.000 de lire sterline. Transferul marchează o nouă adăugare importantă pentru echipa feminină a clubului, consolidând lotul cu o jucătoare considerată promițătoare și demonstrând angajamentul clubului față de dezvoltarea secției de fotbal feminin.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-29T00:28:47.785633+00:00",
+      "data_afisaj": "29 august 2026, 03:28"
+    },
     {
       "id": "f12310c9c3da",
       "titlu": "🚨 LIVE U Cluj – Petrolul se joacă în etapa 7 din Superliga. Festival de goluri pe Cluj Arena! Două reușite în primele 10 minute din repriza secundă",
