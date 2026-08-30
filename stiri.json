@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-30T19:09:52.816829+00:00",
-  "updated_at_afisaj": "30 august 2026, 22:09",
+  "updated_at": "2026-08-30T19:36:04.192420+00:00",
+  "updated_at_afisaj": "30 august 2026, 22:36",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,55 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 110,
+  "numar_stiri": 114,
   "stiri": [
+    {
+      "id": "06603f942201",
+      "titlu": "Calvert-Lewin salvează un punct pentru Leeds în meciul cu Brentford",
+      "rezumat": "Dominic Calvert-Lewin a marcat primul său gol al sezonului, ajutând-o pe Leeds să revină și să obțină o remiză, scor 1-1, împotriva echipei Brentford. Meciul a fost unul disputat, cu Leeds luptând din greu pentru a recupera dezavantajul și a evita o înfrângere pe teren propriu. Punctul obținut este crucial pentru moralul echipei și pentru parcursul în campionat, demonstrând rezistența și determinarea jucătorilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-30T19:36:04.187473+00:00",
+      "data_afisaj": "30 august 2026, 22:36"
+    },
+    {
+      "id": "aa1346cea7e0",
+      "titlu": "Abdulmalik stabilește un nou record de transfer în fotbalul non-ligă din Anglia",
+      "rezumat": "Clubul suedez Djurgarden l-a transferat pe Abdul Adbulmalik de la Boreham Wood pentru o sumă inițială de 1,5 milioane de lire sterline, stabilind un nou record pentru un transfer din National League. Această mutare depășește precedentul record deținut de Jamie Vardy și subliniază potențialul jucătorilor din ligile inferioare de a atrage atenția cluburilor europene de top. Transferul reprezintă o recunoaștere a performanțelor sale remarcabile și a valorii sale pe piața fotbalistică.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-30T19:36:04.189093+00:00",
+      "data_afisaj": "30 august 2026, 22:36"
+    },
+    {
+      "id": "a8fd8a356c72",
+      "titlu": "Sunderland obține prima victorie a sezonului prin golul lui Wilson Isidor împotriva lui Fulham",
+      "rezumat": "Sunderland a înregistrat prima sa victorie din acest sezon, învingând Fulham cu scorul de 1-0 pe Craven Cottage. Golul decisiv a fost marcat de Wilson Isidor în minutul 64, la scurt timp după intrarea sa pe teren ca rezervă. Această victorie mult-așteptată pune capăt unei serii de 17 ani fără succes pentru Sunderland pe terenul lui Fulham și aduce o ușurare semnificativă pentru antrenorul Régis Le Bris, oferind un impuls moral echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-30T19:36:04.190752+00:00",
+      "data_afisaj": "30 august 2026, 22:36"
+    },
+    {
+      "id": "38a8d5e33965",
+      "titlu": "Real Madrid își menține startul perfect în La Liga, Bellingham strălucind împotriva Malagăi",
+      "rezumat": "Real Madrid a continuat parcursul impecabil în La Liga, înregistrând o victorie convingătoare cu 4-0 pe teren propriu împotriva nou-promovatei Málaga. Jude Bellingham a deschis scorul cu o execuție individuală superbă, iar un autogol și un voleu al lui Kylian Mbappé au stabilit avantajul la pauză. Echipa a marcat trei goluri în primele 30 de minute, demonstrând o formă excelentă și o determinare clară de a-și menține poziția de lider în campionatul spaniol.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-30T19:36:04.192403+00:00",
+      "data_afisaj": "30 august 2026, 22:36"
+    },
     {
       "id": "fbdbc8ce6c46",
       "titlu": "Bruno Fernandes, hat-trick decisiv pentru prima victorie a lui Manchester United în noul sezon",
