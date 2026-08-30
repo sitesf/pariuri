@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-30T13:34:21.818191+00:00",
-  "updated_at_afisaj": "30 august 2026, 16:34",
+  "updated_at": "2026-08-30T19:09:52.816829+00:00",
+  "updated_at_afisaj": "30 august 2026, 22:09",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,65 @@
   },
   "numar_stiri": 110,
   "stiri": [
+    {
+      "id": "fbdbc8ce6c46",
+      "titlu": "Bruno Fernandes, hat-trick decisiv pentru prima victorie a lui Manchester United în noul sezon",
+      "rezumat": "Bruno Fernandes a marcat un hat-trick, ajutând-o pe Manchester United să revină și să învingă pe Ipswich cu scorul de 5-2 pe Old Trafford. Această victorie reprezintă primul succes al sezonului pentru echipa lui Erik ten Hag. Ipswich a preluat inițial conducerea în minutul 29 prin Leif Davis, însă United a reușit să întoarcă rezultatul, demonstrând o formă excelentă a căpitanului portughez. Performanța lui Fernandes vine după ce a câștigat ambele premii majore pentru fotbalistul anului în sezonul precedent, indicând o continuare a formei sale stelare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "The Guardian Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-30T19:09:52.811896+00:00",
+      "data_afisaj": "30 august 2026, 22:09"
+    },
+    {
+      "id": "cc8f9e5042a5",
+      "titlu": "Gigi Becali confirmă un nou transfer la FCSB",
+      "rezumat": "Gigi Becali, patronul clubului FCSB, a confirmat oficial un nou transfer pentru echipa sa. Anunțul a fost făcut recent, indicând că un jucător a semnat contractul în urmă cu aproximativ o oră. Detaliile specifice ale transferului, precum numele jucătorului sau suma implicată, nu au fost încă dezvăluite public. Această mutare strategică vine în contextul eforturilor FCSB de a-și consolida lotul pentru obiectivele din campionat și cupele europene, demonstrând intenția clubului de a-și întări lotul.",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-08-30T19:09:52.812960+00:00",
+      "data_afisaj": "30 august 2026, 22:09"
+    },
+    {
+      "id": "edbf4aa0f908",
+      "titlu": "Chelsea are nevoie de mai mult decât un portar nou pentru a lupta la titlu, în ciuda debutului lui Martínez",
+      "rezumat": "Noul portar al lui Chelsea, Emiliano Martínez, a debutat într-o victorie spectaculoasă cu 4-3 împotriva lui Brighton. Cu toate acestea, analiza post-meci sugerează că prezența sa nu este suficientă pentru a rezolva de una singură problemele defensive ale clubului. Deși Chelsea a obținut o victorie importantă, fragilitatea apărării rămâne o preocupare, indicând că echipa are nevoie de mai mult decât un portar nou pentru a deveni un pretendent serios la titlu în Premier League sub conducerea lui Xabi Alonso.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-30T19:09:52.814315+00:00",
+      "data_afisaj": "30 august 2026, 22:09"
+    },
+    {
+      "id": "666224a10e7a",
+      "titlu": "Ollie Watkins se transferă la Al-Hilal în Arabia Saudită pentru 51 de milioane de lire sterline",
+      "rezumat": "Atacantul Ollie Watkins a finalizat transferul său de la Aston Villa la clubul saudit Al-Hilal, într-o mutare evaluată la 51 de milioane de lire sterline. Această tranzacție marchează o nouă achiziție importantă pentru Liga Profesionistă Saudită, care continuă să atragă jucători de top din Europa. Plecarea lui Watkins reprezintă o pierdere semnificativă pentru Aston Villa, în timp ce Al-Hilal își consolidează ofensiva cu un atacant prolific, în vederea atingerii obiectivelor ambițioase în competițiile interne și continentale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-30T19:09:52.815549+00:00",
+      "data_afisaj": "30 august 2026, 22:09"
+    },
+    {
+      "id": "6048ade29474",
+      "titlu": "Rangers obține o victorie crucială în Premiership-ul Scoției, ușurând presiunea pe antrenorul McInnes",
+      "rezumat": "Rangers a obținut o victorie importantă cu 1-0 împotriva lui Aberdeen pe stadionul Pittodrie, grație unui penalty transformat de Lawrence Shankland în a doua repriză. Acest succes oferă o gură de oxigen antrenorului Derek McInnes, aflat sub presiune după un început de sezon dificil, marcat de eliminări din competițiile europene și o formă slabă în campionat. Deși victoria a fost descrisă ca fiind \"neconvingătoare\", cele trei puncte sunt cruciale pentru moralul echipei și pentru a schimba direcția parcursului din Premiership.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-30T19:09:52.816814+00:00",
+      "data_afisaj": "30 august 2026, 22:09"
+    },
     {
       "id": "45eda85afafa",
       "titlu": "Meciuri live din Premier League: Chelsea, Leeds și Sunderland în acțiune",
@@ -1225,65 +1284,6 @@
       ],
       "data_publicare": "2026-08-24T07:59:23.977394+00:00",
       "data_afisaj": "24 august 2026, 10:59"
-    },
-    {
-      "id": "f92fbb283d33",
-      "titlu": "Manchester City Obține O Victorie Dramatică Împotriva lui Bournemouth în Debutul Sezonului",
-      "rezumat": "Manchester City a început noul sezon de Premier League cu o victorie dramatică împotriva lui Bournemouth, sub conducerea noului antrenor Enzo Maresca. Echipa a reușit o revenire spectaculoasă, după ce a fost condusă, Marc Guéhi egalând în minutul 84, iar Josko Gvardiol marcând golul victoriei în prelungiri. Această performanță a transformat o înfrângere iminentă într-o victorie memorabilă, demonstrând reziliența \"Cetățenilor\" în fața unei echipe de Bournemouth care era aproape de a obține o victorie istorică pe terenul lui City.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-23T17:13:59.204226+00:00",
-      "data_afisaj": "23 august 2026, 20:13"
-    },
-    {
-      "id": "3f25a9eff6bc",
-      "titlu": "Newcastle și Liverpool, Unite într-un Omagiu pentru Legendarul Kevin Keegan",
-      "rezumat": "Cluburile Newcastle United și Liverpool au adus un omagiu comun legendarului jucător Kevin Keegan, la începutul noului sezon de Premier League. Fostul atacant, care a evoluat pentru ambele echipe, este considerat o figură emblematică în istoria fotbalului englez. Gestul subliniază respectul și admirația continuă pentru contribuția sa excepțională pe teren și în afara acestuia, unind fanii celor două cluburi într-un moment de recunoștință și celebrare a unei cariere remarcabile.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-08-23T16:29:40.091316+00:00",
-      "data_afisaj": "23 august 2026, 19:29"
-    },
-    {
-      "id": "01faf9d0b48e",
-      "titlu": "Harry Kane, Primul Englez Care Câștigă Premiul de Fotbalistul Anului în Germania",
-      "rezumat": "Atacantul englez Harry Kane a fost desemnat Fotbalistul Anului în Germania pentru 2026, o performanță istorică, fiind primul jucător englez care primește această distincție. Această recunoaștere subliniază impactul său imediat și decisiv în Bundesliga de la transferul său, consolidându-i statutul de unul dintre cei mai prolifici și influenți atacanți din fotbalul european. Premiul vine ca o confirmare a sezoanelor sale excepționale și a adaptării rapide la fotbalul german, impresionând atât criticii, cât și fanii.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-23T16:29:40.092818+00:00",
-      "data_afisaj": "23 august 2026, 19:29"
-    },
-    {
-      "id": "67c65c00e3f4",
-      "titlu": "Aston Villa Femei Se Pregătește pentru Sezonul 2026-27 din Women's Super League",
-      "rezumat": "Aston Villa se pregătește pentru sezonul 2026-27 din Women's Super League, cu antrenoarea Natalia Arroyo concentrându-se pe consolidarea defensivei și găsirea unui înlocuitor pentru o marcatoare cheie. Echipa a terminat pe locul 9 în sezonul precedent, iar analiștii anticipează o poziție similară. Provocările includ menținerea coeziunii în fața plecărilor și integrarea noilor jucătoare pentru a îmbunătăți performanța generală și a evita lupta pentru supraviețuire în campionat, vizând o clasare mai bună.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-23T16:29:40.094338+00:00",
-      "data_afisaj": "23 august 2026, 19:29"
-    },
-    {
-      "id": "dc2db1c78591",
-      "titlu": "Brighton Învinge Categoric Aston Villa, João Gomes Primește Cartonaș Roșu",
-      "rezumat": "Brighton a învins categoric Aston Villa într-un meci din Premier League, adăugând presiune asupra antrenorului Unai Emery. Înfrângerea a fost agravată de un cartonaș roșu primit de João Gomes, complicând și mai mult situația echipei. Villa s-a confruntat cu plecări de jucători cheie și accidentări pe parcursul verii, iar acest debut dificil de sezon subliniază provocările cu care se confruntă clubul. Brighton, deși a avut și ea propriile probleme cu plecări și indisponibilități, a reușit o performanță solidă pe teren propriu, obținând o victorie convingătoare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-23T16:29:40.096849+00:00",
-      "data_afisaj": "23 august 2026, 19:29"
     }
   ]
 }
