@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-30T12:39:57.687114+00:00",
-  "updated_at_afisaj": "30 august 2026, 15:39",
+  "updated_at": "2026-08-30T13:34:21.818191+00:00",
+  "updated_at_afisaj": "30 august 2026, 16:34",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,56 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 106,
+  "numar_stiri": 110,
   "stiri": [
+    {
+      "id": "45eda85afafa",
+      "titlu": "Meciuri live din Premier League: Chelsea, Leeds și Sunderland în acțiune",
+      "rezumat": "Trei confruntări din Premier League au loc astăzi, cu Chelsea întâlnind Brighton, Leeds jucând împotriva lui Brentford și Sunderland înfruntând Fulham. Fanii fotbalului pot urmări actualizări în direct de la aceste partide, care au început la ora 14:00 (BST). Aceste meciuri sunt cruciale pentru echipe în lupta pentru puncte în campionatul englez, influențând pozițiile în clasament și aspirațiile sezoniere.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "GSP.ro",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-30T13:34:21.812968+00:00",
+      "data_afisaj": "30 august 2026, 16:34"
+    },
+    {
+      "id": "857287c25c0b",
+      "titlu": "Barcelona, aproape de un acord pentru transferul lui Gabriel Jesus de la Arsenal",
+      "rezumat": "Clubul spaniol Barcelona este aproape de a finaliza un transfer pentru atacantul lui Arsenal, Gabriel Jesus. Afacerea este evaluată la 8,6 milioane de lire sterline. Această mutare ar putea reprezenta o întărire semnificativă pentru ofensiva Barcelonei, aducând experiență și calitate în atac. Pentru Jesus, ar marca o nouă etapă importantă în cariera sa internațională, într-unul dintre cele mai prestigioase campionate europene.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-30T13:34:21.814461+00:00",
+      "data_afisaj": "30 august 2026, 16:34"
+    },
+    {
+      "id": "4400960ae026",
+      "titlu": "Coventry City îl împrumută pe Stephen Mfuni de la Manchester City",
+      "rezumat": "Coventry City a anunțat semnarea fundașului englez Stephen Mfuni de la Manchester City, printr-un acord de împrumut pe durata unui sezon. Această mutare îi va oferi tânărului jucător oportunitatea de a acumula experiență la nivel de seniori într-un campionat competitiv. Transferul este benefic pentru dezvoltarea lui Mfuni și pentru a contribui la obiectivele echipei Coventry în campionatul în curs.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-30T13:34:21.815844+00:00",
+      "data_afisaj": "30 august 2026, 16:34"
+    },
+    {
+      "id": "6e562954d3ff",
+      "titlu": "Tottenham, pe ultimul loc în Premier League după investiții de peste 300 de milioane de lire sterline",
+      "rezumat": "În ciuda cheltuielilor de peste 300 de milioane de lire sterline în perioada de transferuri de vară, Tottenham se află pe ultimul loc în clasamentul Premier League, fără niciun punct sau gol marcat. Cu toate acestea, antrenorul Roberto de Zerbi își menține optimismul, în ciuda startului dezamăgitor de sezon al echipei sale. Situația actuală ridică semne de întrebare privind eficiența investițiilor masive.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-30T13:34:21.818170+00:00",
+      "data_afisaj": "30 august 2026, 16:34"
+    },
     {
       "id": "d844a47b16d1",
       "titlu": "Analiză: Opt transferuri între Chelsea și Aston Villa în patru ani",
