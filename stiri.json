@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-29T19:35:03.881600+00:00",
-  "updated_at_afisaj": "29 august 2026, 22:35",
+  "updated_at": "2026-08-30T12:39:57.687114+00:00",
+  "updated_at_afisaj": "30 august 2026, 15:39",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,54 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 110,
+  "numar_stiri": 106,
   "stiri": [
+    {
+      "id": "d844a47b16d1",
+      "titlu": "Analiză: Opt transferuri între Chelsea și Aston Villa în patru ani",
+      "rezumat": "După mutarea lui Emiliano Martínez, BBC Sport analizează de ce Aston Villa și Chelsea au devenit două dintre cluburile cu cele mai active parteneriate de transferuri din Premier League începând cu anul 2022. Această tendință subliniază o relație de afaceri tot mai strânsă între cele două echipe, cu un număr considerabil de jucători schimbând taberele în ultimii ani. Articolul explorează factorii care au contribuit la această frecvență a tranzacțiilor, oferind o perspectivă asupra strategiilor de piață ale ambelor cluburi.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-30T12:39:57.682280+00:00",
+      "data_afisaj": "30 august 2026, 15:39"
+    },
+    {
+      "id": "a4f73c8b52ae",
+      "titlu": "Tottenham și Everton, discuții avansate pentru transferurile lui Ndiaye și Richarlison",
+      "rezumat": "Tottenham Hotspur și Everton se află în negocieri avansate pentru transferurile separate ale jucătorilor Iliman Ndiaye și Richarlison. Conform rapoartelor, Ndiaye ar urma să ajungă la Tottenham, în timp ce Richarlison ar face mișcarea inversă, revenind la Everton. Aceste discuții indică o posibilă reconfigurare a loturilor pentru ambele cluburi înainte de închiderea ferestrei de transferuri, cu implicații semnificative pentru strategiile lor ofensive și echilibrul echipelor în noul sezon.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-30T12:39:57.683720+00:00",
+      "data_afisaj": "30 august 2026, 15:39"
+    },
+    {
+      "id": "16afafe9e183",
+      "titlu": "Everton anulează vânzarea lui Harrison Armstrong după reacția fanilor",
+      "rezumat": "Clubul Everton a anulat un acord propus pentru vânzarea mijlocașului Harrison Armstrong către Nottingham Forest. Decizia vine în urma unei reacții negative puternice din partea suporterilor clubului, care și-au exprimat opoziția față de plecarea tânărului jucător. Această situație subliniază influența crescândă a bazei de fani în deciziile de transfer ale cluburilor, mai ales în cazul jucătorilor considerați promițători, și ar putea influența viitoarele strategii de transfer ale echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-30T12:39:57.685076+00:00",
+      "data_afisaj": "30 august 2026, 15:39"
+    },
+    {
+      "id": "50a694e8f515",
+      "titlu": "Manchester City inițiază discuții cu Liverpool pentru transferul lui Cody Gakpo",
+      "rezumat": "Manchester City a deschis negocierile cu Liverpool pentru transferul atacantului olandez Cody Gakpo. Deși jucătorul a atras și interesul lui Tottenham, surse apropiate situației indică faptul că Manchester City este destinația preferată a lui Gakpo, în cazul în care ar părăsi Anfield. Această potențială mutare ar reprezenta o lovitură importantă pe piața transferurilor, consolidând și mai mult ofensiva campioanei en-titre și adăugând o nouă dimensiune atacului său stelar.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-30T12:39:57.687094+00:00",
+      "data_afisaj": "30 august 2026, 15:39"
+    },
     {
       "id": "43b339eb0576",
       "titlu": "Liverpool obține o remiză târzie împotriva lui Nottingham Forest, Iraola încă așteaptă prima victorie",
@@ -1190,96 +1236,6 @@
       ],
       "data_publicare": "2026-08-23T16:29:40.096849+00:00",
       "data_afisaj": "23 august 2026, 19:29"
-    },
-    {
-      "id": "a9759e88b62e",
-      "titlu": "Jean-Philippe Mateta Contestă Valabilitatea Ultimului An de Contract cu Crystal Palace",
-      "rezumat": "Atacantul Jean-Philippe Mateta a inițiat o acțiune legală prin care contestă validitatea ultimelor 10 luni ale contractului său cu clubul Crystal Palace. Această dispută contractuală ar putea avea implicații semnificative pentru viitorul jucătorului la clubul londonez și pentru strategia de transferuri a echipei în acest sezon. Situația aduce o notă de incertitudine în lotul lui Palace, mai ales în contextul în care clubul se pregătește pentru provocările noului campionat. Rezultatul acestei contestații va fi crucial pentru ambele părți.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-23T08:27:47.349842+00:00",
-      "data_afisaj": "23 august 2026, 11:27"
-    },
-    {
-      "id": "b3480ec0d8b3",
-      "titlu": "Manchester City Caută \"Noul Rodri\" După Plecarea Căpitanului Spaniol la Barcelona",
-      "rezumat": "Managerul lui Manchester City, Enzo Maresca, a declarat că clubul va căuta un \"nou Rodri\" după ce căpitanul spaniol a părăsit echipa săptămâna aceasta pentru a se alătura campioanei La Liga, Barcelona. Maresca a comparat această situație cu înlocuirea lui Sergio Agüero cu Erling Haaland, subliniind că clubul trebuie să fie eficient în recrutarea succesorului. Plecarea lui Rodri, pentru 65 de milioane de lire sterline, reprezintă o lovitură semnificativă pentru noul manager, care se află la începutul primului său sezon la conducerea clubului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-23T08:27:47.351011+00:00",
-      "data_afisaj": "23 august 2026, 11:27"
-    },
-    {
-      "id": "a3375bc1c4c2",
-      "titlu": "Dundee Câștigă Derby-ul Local Împotriva lui Dundee United în Premiership-ul Scoțian",
-      "rezumat": "Echipa Dundee a obținut o victorie convingătoare cu 2-0 în derby-ul local împotriva rivalilor de la Dundee United, într-un meci din Premiership-ul Scoțian. Această victorie le permite celor de la Dundee să urce în clasament, în timp ce Dundee United rămâne fără victorie în noul sezon. Rezultatul a fost primit cu entuziasm de fanii echipei câștigătoare, consolidând poziția lui Dundee în primele locuri ale clasamentului la începutul campionatului și oferind un moral bun pentru etapele viitoare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-23T08:27:47.352299+00:00",
-      "data_afisaj": "23 august 2026, 11:27"
-    },
-    {
-      "id": "f7b4f9d81326",
-      "titlu": "Lincoln City Revine în A Doua Ligă Engleză După 65 de Ani, în Ciuda Unei Înfrângeri la Debut",
-      "rezumat": "Lincoln City a marcat o revenire istorică în a doua ligă a fotbalului englez, după o absență de 65 de ani, chiar dacă debutul a fost umbrit de o înfrângere cu 3-1 împotriva lui Portsmouth. În ciuda rezultatului, fanii și clubul sunt plini de optimism și bucurie, considerând acest moment o realizare majoră și un pas important pentru viitorul echipei. Ultimul sezon la acest nivel pentru \"The Imps\" fusese în 1961, iar revenirea este un motiv de sărbătoare și o sursă de inspirație pentru comunitate.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-23T08:27:47.353499+00:00",
-      "data_afisaj": "23 august 2026, 11:27"
-    },
-    {
-      "id": "ec5511651aff",
-      "titlu": "José Mourinho Marchează Revenirea la Real Madrid cu Dramă pe Final și O Notă de Umilință",
-      "rezumat": "José Mourinho a revenit pe banca tehnică a lui Real Madrid după 4.380 de zile, debutând cu o victorie dramatică împotriva lui Espanyol. Deși echipa sa a obținut succesul printr-un gol marcat în minutul 90, antrenorul portughez a ales să nu se alăture euforiei generale de pe margine, observând cu o atitudine mai calmă bucuria staff-ului și a jucătorilor. Această reacție sugerează o schimbare în abordarea sa, indicând o oarecare umilință și o gestionare mai temperată a emoțiilor la revenirea sa la clubul madrilen.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-23T07:35:25.052334+00:00",
-      "data_afisaj": "23 august 2026, 10:35"
-    },
-    {
-      "id": "cf335636b58c",
-      "titlu": "Gianni Infantino Provoacă Nemulțumiri în Rândul Națiunilor CONCACAF După o Întâlnire Deturnată",
-      "rezumat": "Președintele FIFA, Gianni Infantino, a stârnit controverse și a riscat să-și alieneze mai multe națiuni din CONCACAF, al căror sprijin îl caută pentru campania sa de realegere. Acesta a deturnat o întâlnire a Uniunii de Fotbal din Caraibe (CFU) pentru a anunța proiecte de dezvoltare finanțate de FIFA, în valoare de milioane de dolari, care fuseseră întârziate de luni de zile. Surse multiple prezente la reuniunea CFU din Republica Dominicană au indicat că acțiunile lui Infantino au generat un val de nemulțumire.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-23T07:35:25.053466+00:00",
-      "data_afisaj": "23 august 2026, 10:35"
-    },
-    {
-      "id": "ef1cc9f6afd4",
-      "titlu": "Brentford Învinge Convingător Tottenham în Debutul Sezonului, De Zerbi Recunoaște Lipsa de Coeziune",
-      "rezumat": "Sezonul de Premier League al lui Tottenham Hotspur, sub conducerea lui Roberto De Zerbi, a început dezastruos, echipa suferind o înfrângere categorică cu 3-0 în fața unui Brentford dominant pe Gtech Community Stadium. După meci, antrenorul De Zerbi a declarat că, în ciuda investițiilor semnificative din vară, echipa sa \"nu este încă o echipă\", sugerând că jucătorii nu au reușit să formeze un colectiv unit. Această înfrângere severă ridică semne de întrebare cu privire la capacitatea noii formații de a se adapta rapid la cerințele campionatului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-23T07:35:25.054586+00:00",
-      "data_afisaj": "23 august 2026, 10:35"
-    },
-    {
-      "id": "cf52f2245dac",
-      "titlu": "Liverpool Se Pregătește pentru Viața Fără Mohamed Salah: Isak și Wirtz, Cheia Succesului",
-      "rezumat": "Liverpool se pregătește să înceapă un nou sezon fără Mohamed Salah, pentru prima dată în ultimul deceniu, după transferul atacantului egiptean. În absența unui înlocuitor direct, analiștii sugerează că Alexander Isak și Florian Wirtz vor trebui să preia un rol mult mai important în ofensiva echipei. Clubul se confruntă cu provocarea de a-și reconfigura strategia de atac și de a distribui responsabilitatea golurilor, bazându-se pe performanțele acestor jucători pentru a menține un nivel competitiv în Premier League și în competițiile europene.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-23T07:35:25.055835+00:00",
-      "data_afisaj": "23 august 2026, 10:35"
     }
   ]
 }
