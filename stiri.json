@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-30T19:36:04.192420+00:00",
-  "updated_at_afisaj": "30 august 2026, 22:36",
+  "updated_at": "2026-08-31T14:55:43.425587+00:00",
+  "updated_at_afisaj": "31 august 2026, 17:55",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,30 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 114,
+  "numar_stiri": 109,
   "stiri": [
+    {
+      "id": "0c6828b07b05",
+      "titlu": "Arsenal încearcă să-l aducă pe Julián Álvarez după ce a acceptat vânzarea lui Martinelli",
+      "rezumat": "Arsenal depune eforturi pentru a-l convinge pe Julián Álvarez să se alăture clubului, după ce a ajuns la un acord pentru vânzarea lui Gabriel Martinelli la Al-Hilal. Deși Gabriel Jesus este menționat ca fiind aproape de Barcelona (știre deja publicată), focusul este pe încercarea lui Arsenal de a-l achiziționa pe Álvarez de la Atlético Madrid. Această mișcare ar putea reconfigura semnificativ ofensiva \"tunarilor\" în noul sezon, aducând un atacant de calibru.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-31T14:55:43.424059+00:00",
+      "data_afisaj": "31 august 2026, 17:55"
+    },
+    {
+      "id": "3e006d35ed0a",
+      "titlu": "Valencia, interesată de împrumutul lui Harvey Elliott de la Liverpool",
+      "rezumat": "Clubul spaniol Valencia se află în discuții avansate cu Liverpool pentru a obține împrumutul mijlocașului Harvey Elliott pentru restul sezonului. Tânărul talent englez ar putea beneficia de mai mult timp de joc în La Liga, o oportunitate de dezvoltare importantă. Această mutare ar oferi lui Elliott experiență prețioasă într-un campionat de top, în timp ce Valencia ar adăuga un jucător creativ la mijlocul terenului, consolidându-și opțiunile pentru linia mediană.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-31T14:55:43.425563+00:00",
+      "data_afisaj": "31 august 2026, 17:55"
+    },
     {
       "id": "06603f942201",
       "titlu": "Calvert-Lewin salvează un punct pentru Leeds în meciul cu Brentford",
@@ -1252,85 +1274,6 @@
       ],
       "data_publicare": "2026-08-24T16:40:43.717564+00:00",
       "data_afisaj": "24 august 2026, 19:40"
-    },
-    {
-      "id": "0a6c172b0174",
-      "titlu": "Dubla lui Ferran Torres Salvează un Punct pentru PSG în Debutul din Ligue 1",
-      "rezumat": "Ferran Torres, intrat de pe bancă, a marcat o dublă târzie la debutul său pentru Paris Saint-Germain, ajutând echipa să revină de la un deficit de două goluri și să obțină o remiză, scor 2-2, împotriva lui Rennes în meciul de deschidere al sezonului din Ligue 1. Rennes a condus cu 2-0 la pauză, dar presiunea constantă a PSG-ului în a doua repriză a fost răsplătită cu un punct important, demonstrând capacitatea de revenire a parizienilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-24T08:45:31.101404+00:00",
-      "data_afisaj": "24 august 2026, 11:45"
-    },
-    {
-      "id": "cf2ad3281064",
-      "titlu": "Chelsea Își Schimbă Strategia Sub Conducerea lui Xabi Alonso, Vizând Experiența",
-      "rezumat": "Chelsea pare să fi operat o schimbare strategică sub noul antrenor Xabi Alonso, concentrându-se pe aducerea de jucători cu experiență pentru a stabiliza echipa. După achiziții precum Jordan Henderson și Danny Welbeck, clubul pare să se îndepărteze de politica de a se baza exclusiv pe tineri. Alonso își propune să mențină \"controlul emoțional\" în vestiar, sperând că prezența unor jucători mai maturi va ajuta un lot încă plin de talent tânăr să își atingă potențialul maxim.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-24T08:45:31.102867+00:00",
-      "data_afisaj": "24 august 2026, 11:45"
-    },
-    {
-      "id": "4603a604877b",
-      "titlu": "Harry Kane, Favorit la Câștigarea Balonului de Aur, O Prioritate și pentru Bayern Munchen",
-      "rezumat": "Harry Kane este considerat favorit la câștigarea Balonului de Aur, iar obținerea acestui prestigios premiu este la fel de importantă pentru clubul Bayern Munchen pe cât este pentru căpitanul Angliei. Discuțiile cu oficiali cheie de la Bayern și cu Kane însuși au relevat că atât jucătorul, cât și clubul, văd acest obiectiv ca pe o prioritate majoră, subliniind ambițiile reciproce de succes la cel mai înalt nivel individual și colectiv în fotbalul mondial.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-24T08:45:31.104352+00:00",
-      "data_afisaj": "24 august 2026, 11:45"
-    },
-    {
-      "id": "703fcedc29d7",
-      "titlu": "Enzo Maresca Recunoaște că Manchester City Este Încă \"Un Proiect în Desfășurare\"",
-      "rezumat": "Enzo Maresca, noul antrenor al lui Manchester City, a declarat că echipa sa rămâne \"un proiect în desfășurare\", chiar și după victoria dramatică de ultim moment împotriva lui Bournemouth pe Etihad Stadium. Deși golurile lui Marc Guéhi și Josko Gvardiol din prelungiri au asigurat victoria în primul său meci, Maresca subliniază că există încă mult de lucru pentru a atinge nivelul dorit, reflectând o abordare pragmatică după un debut tensionat în Premier League.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-24T08:45:31.105762+00:00",
-      "data_afisaj": "24 august 2026, 11:45"
-    },
-    {
-      "id": "4870242ecc34",
-      "titlu": "Liverpool Egalizează Dramatic cu un Penalty în Debutul Erei Iraola",
-      "rezumat": "Un penalty transformat de Dominik Szoboszlai în prelungiri a salvat un punct pentru Liverpool în debutul erei antrenorului Andoni Iraola. Echipa a arătat o performanță sub așteptări, indicând necesitatea unor îmbunătățiri semnificative. Meciul a evidențiat provocările cu care se confruntă noul manager, chiar dacă a reușit să evite o înfrângere în prima sa partidă din Premier League.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-08-24T07:59:23.972052+00:00",
-      "data_afisaj": "24 august 2026, 10:59"
-    },
-    {
-      "id": "25c9cda9f895",
-      "titlu": "Absența lui Ollie Watkins de la Meciul cu Brighton, o Întrebare pentru Atacant, Spune Unai Emery",
-      "rezumat": "Antrenorul Unai Emery a declarat că absența atacantului Ollie Watkins din meciul în care Aston Villa a fost învinsă categoric de Brighton reprezintă o întrebare la care jucătorul trebuie să răspundă. Comentariile lui Emery sugerează o posibilă tensiune sau o situație neclară în jurul statutului lui Watkins la club, stârnind speculații despre viitorul său în contextul înfrângerii echipei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-24T07:59:23.973575+00:00",
-      "data_afisaj": "24 august 2026, 10:59"
-    },
-    {
-      "id": "d5153d8d46d6",
-      "titlu": "Mingea cu care Maradona a Marcat Golul \"Mâna lui Dumnezeu\" S-a Vândut cu 2,5 Milioane de Lire Sterline",
-      "rezumat": "Mingea de fotbal cu care Diego Maradona a marcat celebrul său gol \"Mâna lui Dumnezeu\" în sferturile de final ale Cupei Mondiale din 1986, împotriva Angliei, a fost vândută la licitație pentru suma de 2,5 milioane de lire sterline. Acest eveniment subliniază valoarea istorică și culturală a obiectelor legate de momentele iconice din istoria fotbalului, atrăgând un interes considerabil din partea colecționarilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-24T07:59:23.977394+00:00",
-      "data_afisaj": "24 august 2026, 10:59"
     }
   ]
 }
