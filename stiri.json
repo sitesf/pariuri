@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-31T21:23:18.070024+00:00",
-  "updated_at_afisaj": "1 septembrie 2026, 00:23",
+  "updated_at": "2026-08-31T21:43:51.512795+00:00",
+  "updated_at_afisaj": "1 septembrie 2026, 00:43",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,44 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 107,
+  "numar_stiri": 110,
   "stiri": [
+    {
+      "id": "27b4208825f4",
+      "titlu": "Arsenal obține o victorie dificilă împotriva lui Aston Villa",
+      "rezumat": "Arsenal, campioana en-titre a Premier League, a reușit să obțină o victorie muncită cu 1-0 în deplasare împotriva lui Aston Villa. Unicul gol al partidei a fost marcat de Bukayo Saka în a doua repriză, asigurând cele trei puncte pentru \"tunari\". Această victorie contribuie la menținerea unui start bun de sezon pentru echipa lui Mikel Arteta, în ciuda unei prestații nu tocmai imperiale. Aston Villa a înregistrat astfel a doua înfrângere consecutivă în campionat fără a marca.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-31T21:43:51.509196+00:00",
+      "data_afisaj": "1 septembrie 2026, 00:43"
+    },
+    {
+      "id": "a431df0dadde",
+      "titlu": "Tottenham se apropie de transferurile lui Mykhailo Mudryk și Tosin Adarabioyo de la Chelsea",
+      "rezumat": "Chelsea a acceptat ofertele venite de la Tottenham Hotspur pentru aripa Mykhailo Mudryk și fundașul Tosin Adarabioyo. Această dublă mutare ar consolida semnificativ lotul lui Tottenham înainte de închiderea ferestrei de transferuri. De asemenea, portarul Robert Sanchez de la Chelsea este pe cale să se alăture clubului italian Como, după ce o ofertă a fost acceptată. Detaliile financiare ale acestor tranzacții nu au fost încă oficializate, dar se așteaptă anunțuri în curând.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-31T21:43:51.511583+00:00",
+      "data_afisaj": "1 septembrie 2026, 00:43"
+    },
+    {
+      "id": "d9a3bc1d6925",
+      "titlu": "FIFA extinde interdicția la nivel mondial pentru un fost oficial acuzat de filmări secrete",
+      "rezumat": "Federația Internațională de Fotbal (FIFA) a extins la nivel mondial interdicția pentru un fost oficial de meci și angajat al clubului austriac SCR Altach. Acesta a fost găsit vinovat de realizarea de videoclipuri și fotografii secrete cu membre ale echipei feminine a clubului. Decizia FIFA vine în urma presiunii exercitate de sindicatele jucătorilor și subliniază angajamentul organizației de a proteja integritatea și siguranța în fotbalul feminin, condamnând astfel de abateri.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-31T21:43:51.512781+00:00",
+      "data_afisaj": "1 septembrie 2026, 00:43"
+    },
     {
       "id": "b42e462f9626",
       "titlu": "Man City agree £65m deal for Everton's Ndiaye",
