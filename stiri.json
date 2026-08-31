@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-31T15:51:40.965317+00:00",
-  "updated_at_afisaj": "31 august 2026, 18:51",
+  "updated_at": "2026-08-31T21:23:18.070024+00:00",
+  "updated_at_afisaj": "1 septembrie 2026, 00:23",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,67 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 112,
+  "numar_stiri": 107,
   "stiri": [
+    {
+      "id": "b42e462f9626",
+      "titlu": "Man City agree £65m deal for Everton's Ndiaye",
+      "rezumat": "Manchester City agree a deal worth a minimum £60m to sign Iliman Ndiaye from Everton.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-31T21:23:00.860954+00:00",
+      "data_afisaj": "1 septembrie 2026, 00:23"
+    },
+    {
+      "id": "605bd802c0c6",
+      "titlu": "Man City's £80m move for Gakpo close to collapse",
+      "rezumat": "Manchester City's proposed £80m move for Liverpool forward Cody Gakpo is close to collapsing.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-31T21:23:00.862301+00:00",
+      "data_afisaj": "1 septembrie 2026, 00:23"
+    },
+    {
+      "id": "d81a5b4f1f4d",
+      "titlu": "Everton agree £40m fee for Monaco striker Balogun",
+      "rezumat": "Everton agree a £40m deal with Monaco for United States striker Folarin Balogun.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-31T21:23:00.863558+00:00",
+      "data_afisaj": "1 septembrie 2026, 00:23"
+    },
+    {
+      "id": "6dc39faf2ac4",
+      "titlu": "Is now the right time for Djokovic to retire after 'heart-breaking' US Open loss?",
+      "rezumat": "Novak Djokovic said he \"despised\" every moment of the five-set, near five-hour ordeal which ended his US Open hopes in the first round, so now the question is whether he calls time on his trophy-laden career.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-08-31T21:23:00.864976+00:00",
+      "data_afisaj": "1 septembrie 2026, 00:23"
+    },
+    {
+      "id": "a38cf4332d56",
+      "titlu": "How Messi's decade of dominance almost never happened",
+      "rezumat": "Lionel Messi's decade of dominance with Argentina that almost never happened will go down as one of football's greatest ever stories.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-08-31T21:23:00.866203+00:00",
+      "data_afisaj": "1 septembrie 2026, 00:23"
+    },
     {
       "id": "efad3216f252",
       "titlu": "Lionel Messi se retrage din fotbalul internațional",
@@ -1198,119 +1257,6 @@
       ],
       "data_publicare": "2026-08-25T07:45:57.300828+00:00",
       "data_afisaj": "25 august 2026, 10:45"
-    },
-    {
-      "id": "8532d7806f48",
-      "titlu": "Tragerea la sorți a fazei ligii UEFA Champions League 2026/27: Detalii și Procedură",
-      "rezumat": "Tragerea la sorți pentru faza ligii UEFA Champions League 2026/27 este programată să aibă loc joi, la Monaco. Evenimentul va stabili programul și adversarii echipelor calificate pentru noul format al competiției. Fanii și cluburile așteaptă cu interes să afle componența grupelor și parcursul potențial al favoritelor. Acest moment marchează startul oficial al campaniei europene, oferind o imagine clară asupra provocărilor ce urmează în cea mai prestigioasă competiție intercluburi din Europa.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-24T17:24:20.980417+00:00",
-      "data_afisaj": "24 august 2026, 20:24"
-    },
-    {
-      "id": "4ce7d4f50f7c",
-      "titlu": "Săptămână Decisivă pentru Cluburile Scoțiene în Competițiile Europene",
-      "rezumat": "Cinco reprezentante ale Scoției, Celtic, Rangers, Hearts, Hibs și Motherwell, se pregătesc pentru manșele retur ale play-off-urilor europene. Doar Celtic are deja asigurată participarea în faza ligii UEFA, în timp ce celelalte patru echipe luptă pentru calificarea în Conference League. Această săptămână este crucială pentru fotbalul scoțian, deoarece rezultatele vor determina numărul de cluburi care vor continua parcursul european, influențând prestigiul și coeficientul țării în clasamentele UEFA.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-24T17:24:20.981761+00:00",
-      "data_afisaj": "24 august 2026, 20:24"
-    },
-    {
-      "id": "d542be50050e",
-      "titlu": "Problemele de Echilibru ale lui Liverpool Persistă Sub Conducerea lui Iraola",
-      "rezumat": "Egalul obținut duminică împotriva lui Newcastle a evidențiat că noile idei ale antrenorului Andoni Iraola la Liverpool trebuie să depășească lipsa de echilibru a lotului. Vulnerabilitatea la contraatac, o problemă recurentă din sezonul trecut, nu a dispărut, sugerând că echipa încă se confruntă cu dificultăți structurale. Deși au salvat un punct, performanța a ridicat semne de întrebare cu privire la capacitatea echipei de a-și rezolva deficiențele defensive și de a implementa pe deplin viziunea noului manager.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-24T17:24:20.983133+00:00",
-      "data_afisaj": "24 august 2026, 20:24"
-    },
-    {
-      "id": "867f365263d1",
-      "titlu": "Debut Promițător pentru AC Milan Sub Amorim, cu Tânăra Stea Cissè în Rol Principal",
-      "rezumat": "AC Milan, sub conducerea noului antrenor Ruben Amorim, a avut un debut promițător în Serie A, depășind prima provocare împotriva lui Torino. Tânăra stea Alphadjo Cissè, un mijlocaș ofensiv de 19 ani, a impresionat, eclipsând noile achiziții prin performanța sa remarcabilă. Cissè, transferat de la Verona în februarie, a demonstrat un potențial semnificativ, confirmând așteptările și contribuind la succesul echipei. Această evoluție subliniază viziunea lui Amorim de a valorifica talentele tinere în cadrul echipei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-24T17:24:20.984622+00:00",
-      "data_afisaj": "24 august 2026, 20:24"
-    },
-    {
-      "id": "0b2525c10ff8",
-      "titlu": "Ipswich Town Vizează Consolidarea în Premier League, Contrazicând Istoria Recentă",
-      "rezumat": "Ipswich Town, supranumită \"The Tractor Boys\", a alternat între primele două divizii engleze în ultimele trei sezoane, fiind considerată o echipă \"yo-yo\". Cu toate acestea, există argumente solide care sugerează că de această dată clubul are resursele și strategia necesare pentru a se menține în Premier League. Analiza factorilor cheie, inclusiv stabilitatea managerială și achizițiile inteligente, indică o șansă reală de a contrazice tendințele istorice și de a-și asigura un loc stabil în elita fotbalului englez.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-08-24T17:24:20.986049+00:00",
-      "data_afisaj": "24 august 2026, 20:24"
-    },
-    {
-      "id": "5efae9e5bdc8",
-      "titlu": "Dilema lui Julian Alvarez la Atletico Madrid pe fondul interesului Arsenal",
-      "rezumat": "Atacantul Julian Alvarez se află în centrul unei dispute intense de transfer, cu fereastra de mercato aproape de închidere. Viitorul său la Atletico Madrid este incert, mai ales după ce a fost huiduit de fani la meciul cu Villarreal, pe fondul speculațiilor privind un posibil transfer la Arsenal sau Barcelona. Jucătorul ar fi exprimat dorința de a pleca, lăsând clubul într-o situație delicată și alimentând speculațiile presei sportive internaționale. Această saga de transferuri continuă să genereze tensiuni între jucător, club și suporteri, fără o rezolvare clară la orizont.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-24T16:40:43.712116+00:00",
-      "data_afisaj": "24 august 2026, 19:40"
-    },
-    {
-      "id": "acaab38a2275",
-      "titlu": "Rafael Benitez comentează confruntarea managerială dintre foștii săi elevi, Arbeloa și Alonso",
-      "rezumat": "Fostul antrenor al lui Liverpool, Rafael Benitez, a oferit o perspectivă interesantă asupra confruntării manageriale dintre foștii săi jucători, Xabi Alonso și Alvaro Arbeloa. Cei doi se vor întâlni ca antrenori în meciul dintre Fulham și Chelsea, marcând o etapă importantă în carierele lor de antrenori. Benitez a subliniat calitățile ambilor tehnicieni, evidențiind modul în care experiența lor ca jucători de top la Real Madrid și Liverpool le-a modelat abordările tactice. Această partidă aduce în prim-plan rivalitatea dintre doi foști colegi de echipă, acum adversari pe banca tehnică.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-08-24T16:40:43.713605+00:00",
-      "data_afisaj": "24 august 2026, 19:40"
-    },
-    {
-      "id": "1564410a1936",
-      "titlu": "Fani răniți de artificii la un meci din Eredivisie",
-      "rezumat": "Clubul olandez SC Cambuur a anunțat că mai mulți fani au suferit \"arsuri, leziuni auditive și oculare\" după ce suporterii echipei Feyenoord au aruncat cu artificii în timpul meciului din Eredivisie de duminică. Incidentul subliniază problemele continue legate de siguranța spectatorilor și comportamentul periculos al fanilor pe stadioanele de fotbal, atrăgând atenția asupra necesității unor măsuri mai stricte de prevenire a unor astfel de evenimente.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-24T16:40:43.714814+00:00",
-      "data_afisaj": "24 august 2026, 19:40"
-    },
-    {
-      "id": "52faefc48895",
-      "titlu": "Președintele UEFA, Aleksander Ceferin, exclude o candidatură la președinția FIFA",
-      "rezumat": "Președintele UEFA, Aleksander Ceferin, a declarat că nu va candida pentru a-l înlocui pe Gianni Infantino la conducerea FIFA. Cu toate acestea, Ceferin se așteaptă ca un alt candidat să conteste leadership-ul actualului președinte FIFA în luna martie, sugerând că vor exista provocări la adresa conducerii organizației mondiale de fotbal. Această decizie clarifică peisajul politic al fotbalului internațional pentru viitorul apropiat.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-24T16:40:43.716184+00:00",
-      "data_afisaj": "24 august 2026, 19:40"
-    },
-    {
-      "id": "aa88acdc9368",
-      "titlu": "Ligile engleze și scoțiene iau măsuri împotriva transmisiunilor ilegale în Rusia",
-      "rezumat": "English Football League (EFL) și Scottish Professional Football League (SPFL) au inițiat investigații și iau în considerare acțiuni legale după ce au descoperit că meciurile lor au fost difuzate în Rusia în acest sezon. Aceasta se întâmplă în ciuda faptului că pachetele de drepturi de televiziune pentru Rusia au fost oprite încă din 2022, ridicând probleme legate de pirateria sportivă și încălcarea drepturilor de autor la nivel internațional. Cluburile și ligile caută soluții pentru a proteja veniturile din drepturile de transmisie.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-24T16:40:43.717564+00:00",
-      "data_afisaj": "24 august 2026, 19:40"
     }
   ]
 }
