@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-31T14:55:43.425587+00:00",
-  "updated_at_afisaj": "31 august 2026, 17:55",
+  "updated_at": "2026-08-31T15:51:40.965317+00:00",
+  "updated_at_afisaj": "31 august 2026, 18:51",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,45 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 109,
+  "numar_stiri": 112,
   "stiri": [
+    {
+      "id": "efad3216f252",
+      "titlu": "Lionel Messi se retrage din fotbalul internațional",
+      "rezumat": "Legendarul fotbalist argentinian Lionel Messi a anunțat că se retrage din echipa națională, declarând că a fost o decizie care l-a „dureros”, dar înțelege că „a sosit momentul”. Această veste marchează sfârșitul unei ere pentru naționala Argentinei, unde Messi a fost o figură centrală și căpitan pentru mulți ani. Decizia vine după o carieră internațională plină de succese, inclusiv câștigarea Cupei Mondiale. Retragerea sa va lăsa un gol imens în echipa națională și în inimile fanilor din întreaga lume.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-31T15:51:40.959537+00:00",
+      "data_afisaj": "31 august 2026, 18:51"
+    },
+    {
+      "id": "c5c6b99b05d8",
+      "titlu": "Newcastle United este aproape de a semna cu Matias Fernandez-Pardo într-o tranzacție de 55 de milioane de lire sterline",
+      "rezumat": "Newcastle United se apropie de finalizarea transferului atacantului Matias Fernandez-Pardo de la clubul francez Lille. Acordul este evaluat la o sumă de până la 55 de milioane de lire sterline. Această mutare ar reprezenta o întărire semnificativă pentru linia ofensivă a lui Newcastle, în contextul ambițiilor clubului de a concura la cel mai înalt nivel în Premier League și în competițiile europene. Fernandez-Pardo este considerat un jucător cu un potențial mare de dezvoltare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-08-31T15:51:40.962527+00:00",
+      "data_afisaj": "31 august 2026, 18:51"
+    },
+    {
+      "id": "edd091c4adc9",
+      "titlu": "Everton a făcut o ofertă pentru atacantul Folarin Balogun de la Monaco",
+      "rezumat": "Clubul englez Everton a înaintat o ofertă pentru atacantul Folarin Balogun, legitimat la AS Monaco. Jucătorul este evaluat de clubul francez la aproximativ 40 de milioane de lire sterline. Această mișcare indică intenția lui Everton de a-și consolida atacul înainte de închiderea ferestrei de transferuri, Balogun fiind un jucător cu potențial considerabil, căutat de mai multe echipe din Europa. Negocierile sunt în desfășurare, iar un acord ar putea fi iminent.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-08-31T15:51:40.965297+00:00",
+      "data_afisaj": "31 august 2026, 18:51"
+    },
     {
       "id": "0c6828b07b05",
       "titlu": "Arsenal încearcă să-l aducă pe Julián Álvarez după ce a acceptat vânzarea lui Martinelli",
