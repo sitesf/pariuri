@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-01T19:16:44.048758+00:00",
-  "updated_at_afisaj": "1 septembrie 2026, 22:16",
+  "updated_at": "2026-09-01T19:42:43.790073+00:00",
+  "updated_at_afisaj": "1 septembrie 2026, 22:42",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,52 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 106,
+  "numar_stiri": 110,
   "stiri": [
+    {
+      "id": "919f43101270",
+      "titlu": "Leeds United ajunge la un acord pentru cel mai rapid jucător din Bundesliga, Gnonto pleacă",
+      "rezumat": "Leeds United a ajuns la un acord pentru a semna cu cel mai rapid jucător din Bundesliga, în timp ce Wilfried Gnonto părăsește clubul. Această mutare strategică indică intenția lui Leeds de a-și îmbunătăți viteza și dinamismul în atac, înlocuind un jucător cheie cu un talent promițător. Detaliile financiare ale tranzacției nu au fost încă publicate, dar se anticipează că va fi o achiziție importantă pentru ambițiile clubului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-09-01T19:42:43.785223+00:00",
+      "data_afisaj": "1 septembrie 2026, 22:42"
+    },
+    {
+      "id": "7af890d9049f",
+      "titlu": "Atacantul Beto părăsește Everton și se alătură Fiorentinei",
+      "rezumat": "Everton a confirmat plecarea atacantului Beto, care se va alătura echipei italiene Fiorentina. Această mutare vine în contextul în care clubul englez a fost activ pe piața transferurilor, inclusiv prin reîntoarcerea lui Jack Grealish sub formă de împrumut. Plecarea lui Beto deschide un nou capitol în cariera sa în Serie A, în timp ce Everton își restructurează ofensiva pentru a-și atinge obiectivele în Premier League.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-01T19:42:43.786787+00:00",
+      "data_afisaj": "1 septembrie 2026, 22:42"
+    },
+    {
+      "id": "a2074f706366",
+      "titlu": "Honest Ahanor, tânărul fundaș, semnează cu Chelsea după un împrumut la Crystal Palace",
+      "rezumat": "Chelsea a anunțat că tânărul fundaș Honest Ahanor se va alătura clubului în 2027, după ce jucătorul de la Atalanta va finaliza un împrumut la Crystal Palace. Această tranzacție complexă implică trei cluburi și demonstrează o strategie pe termen lung a lui Chelsea pentru dezvoltarea talentelor. Ahanor va petrece o perioadă la Crystal Palace pentru a acumula experiență înainte de a se alătura definitiv echipei londoneze.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-01T19:42:43.788553+00:00",
+      "data_afisaj": "1 septembrie 2026, 22:42"
+    },
+    {
+      "id": "83929e92d098",
+      "titlu": "Crystal Palace și Sunderland se luptă pentru transferul lui Malick Fofana de la Lyon",
+      "rezumat": "Crystal Palace încearcă să deturneze mutarea lui Malick Fofana de la Lyon către Sunderland, cele două cluburi din Anglia fiind angrenate într-o bătălie pentru serviciile atacantului. Suma vehiculată pentru transfer este de aproximativ 30 de milioane de lire sterline. Această competiție intensă subliniază interesul crescut pentru tânărul jucător, iar deznodământul este așteptat cu nerăbdare înainte de închiderea ferestrei de transferuri.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-01T19:42:43.790056+00:00",
+      "data_afisaj": "1 septembrie 2026, 22:42"
+    },
     {
       "id": "f5760d2c7b38",
       "titlu": "Juventus semnează cu Woltemade și Sarr sub formă de împrumut",
