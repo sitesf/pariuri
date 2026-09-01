@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-31T21:43:51.512795+00:00",
-  "updated_at_afisaj": "1 septembrie 2026, 00:43",
+  "updated_at": "2026-09-01T12:25:32.997653+00:00",
+  "updated_at_afisaj": "1 septembrie 2026, 15:25",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,68 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 110,
+  "numar_stiri": 107,
   "stiri": [
+    {
+      "id": "08e7d8ad9319",
+      "titlu": "Aston Villa semnează cu Mbaye și Harwood-Bellis",
+      "rezumat": "Aston Villa a finalizat transferurile mijlocașului senegalez Ibrahim Mbaye de la Paris Saint-Germain și ale fundașului central englez Taylor Harwood-Bellis de la Southampton. Aceste achiziții consolidează lotul echipei înaintea continuării sezonului, aducând noi opțiuni pentru antrenor. Mbaye este un aripă rapidă, iar Harwood-Bellis un fundaș central solid, ambii fiind considerați talente promițătoare care vor contribui la obiectivele clubului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-01T12:25:32.992019+00:00",
+      "data_afisaj": "1 septembrie 2026, 15:25"
+    },
+    {
+      "id": "85bca7b7d730",
+      "titlu": "Prezentare generală a transferurilor finalizate în ziua limită",
+      "rezumat": "O recapitulare a celor mai importante transferuri și plecări înregistrate în Premier League, Scottish Premiership, EFL și Women's Super League în ultima zi a perioadei de mercato. Această sinteză oferă o imagine completă a mișcărilor de jucători care au avut loc, influențând semnificativ componența echipelor pentru sezonul în curs. Cluburile au lucrat intens pentru a-și finaliza loturile, iar lista include atât mutări majore, cât și tranzacții de ultim moment.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-09-01T12:25:32.993419+00:00",
+      "data_afisaj": "1 septembrie 2026, 15:25"
+    },
+    {
+      "id": "31f7621f7c19",
+      "titlu": "Everton ajunge la un acord pentru împrumutul lui Jack Grealish de la Manchester City",
+      "rezumat": "Everton a convenit un acord cu Manchester City pentru a-l readuce pe Jack Grealish la club sub formă de împrumut pe durata unui sezon. Această mutare marchează o revenire a mijlocașului la echipa unde a mai evoluat, oferind o soluție ofensivă importantă pentru \"Caramele\". Grealish va efectua vizita medicală, iar transferul este așteptat să fie oficializat în scurt timp, consolidând opțiunile ofensive ale lui Everton.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-09-01T12:25:32.994876+00:00",
+      "data_afisaj": "1 septembrie 2026, 15:25"
+    },
+    {
+      "id": "feedc6dd80e9",
+      "titlu": "Scott McTominay va rata meciurile Scoției din cauza unei probleme cardiace minore",
+      "rezumat": "Mijlocașul scoțian Scott McTominay va fi supus unei proceduri cardiace după descoperirea unei \"aritmii benigne ușoare\", a anunțat clubul său, Napoli. Această situație îl va împiedica pe jucător să participe la următoarele meciuri ale naționalei Scoției. Starea sa de sănătate este monitorizată, iar revenirea pe teren va depinde de recuperarea completă după intervenție, prioritatea fiind bunăstarea jucătorului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-01T12:25:32.996317+00:00",
+      "data_afisaj": "1 septembrie 2026, 15:25"
+    },
+    {
+      "id": "c8fbf0fae014",
+      "titlu": "Alan Knight, legenda portarilor de la Portsmouth, a decedat la 65 de ani",
+      "rezumat": "Fostul portar al echipei Portsmouth, Alan Knight, care a jucat 801 meciuri pentru club, a murit la vârsta de 65 de ani. Decesul survine după ce fusese diagnosticat cu cancer de prostată în 2024. Knight este considerat o figură emblematică pentru Portsmouth, fiind cel mai longeviv jucător din istoria clubului și un simbol al devotamentului față de echipa sa, lăsând în urmă o moștenire impresionantă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-01T12:25:32.997636+00:00",
+      "data_afisaj": "1 septembrie 2026, 15:25"
+    },
     {
       "id": "27b4208825f4",
       "titlu": "Arsenal obține o victorie dificilă împotriva lui Aston Villa",
@@ -1198,101 +1258,6 @@
       ],
       "data_publicare": "2026-08-25T16:40:17.306002+00:00",
       "data_afisaj": "25 august 2026, 19:40"
-    },
-    {
-      "id": "fc90adb064e5",
-      "titlu": "Transfer important în Superliga: Virgil Ghiță, vândut pentru 1,5 milioane de euro",
-      "rezumat": "Clubul din Superliga a finalizat transferul fundașului Virgil Ghiță, achitând suma de 1.500.000 de euro. Această mutare reprezintă una dintre cele mai semnificative tranzacții din campionatul intern în această perioadă de mercato. Detaliile complete ale acordului nu au fost încă făcute publice, dar se anticipează că Ghiță va juca un rol cheie la noua sa echipă. Transferul subliniază dinamica pieței românești și interesul crescut pentru jucătorii locali valoroși.",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-08-25T08:39:52.855782+00:00",
-      "data_afisaj": "25 august 2026, 11:39"
-    },
-    {
-      "id": "674c760edadc",
-      "titlu": "Co-proprietarul cluburilor Leeds United și Rangers, Jed York, arestat în Ohio",
-      "rezumat": "Jed York, co-proprietar al cluburilor de fotbal Leeds United și Rangers, a fost arestat în weekend în Ohio. Acesta a pledat fără contestație la acuzațiile de comportament dezordonat și posesie de instrumente infracționale. Inițial, York a fost reținut sub suspiciunea de implicare în prostituție, dar acuzația a fost ulterior modificată. Incidentul a atras atenția asupra conducerii cluburilor respective și a generat discuții în comunitatea sportivă, având în vedere statutul său în fotbal.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-25T08:39:52.857288+00:00",
-      "data_afisaj": "25 august 2026, 11:39"
-    },
-    {
-      "id": "5f328cd3208a",
-      "titlu": "Aston Villa face o abordare \"serioasă\" pentru transferul lui Rafael Leao de la AC Milan",
-      "rezumat": "Aston Villa a inițiat discuții cu AC Milan pentru transferul atacantului portughez Rafael Leao. Conform informațiilor din presa italiană, Leao este deschis la ideea de a părăsi clubul italian, iar abordarea celor de la Villa este considerată \"serioasă\". Această mutare ar reprezenta o achiziție majoră pentru echipa lui Unai Emery, care încearcă să-și consolideze lotul în această perioadă de transferuri. Leao este un jucător cheie pentru Milan și ar aduce un plus de calitate ofensivei engleze.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-25T08:39:52.859657+00:00",
-      "data_afisaj": "25 august 2026, 11:39"
-    },
-    {
-      "id": "ed8e63ee643e",
-      "titlu": "Chelsea Obține Prima Victorie Sub Conducerea lui Xabi Alonso, cu Palmer în Rol Decisiv",
-      "rezumat": "Chelsea a înregistrat o victorie palpitantă cu 3-2 împotriva lui Fulham, marcând un debut de succes pentru antrenorul Xabi Alonso în Premier League. Cole Palmer a fost omul meciului, contribuind cu un gol și o pasă decisivă, demonstrând responsabilitate și maturitate. Deși echipa a arătat un atac electric, au existat și semne de vulnerabilitate în apărare, în special la nivelul portarului Robert Sanchez. Această victorie oferă speranțe fanilor că noua eră sub Alonso ar putea aduce performanțe speciale în acest sezon.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-25T07:45:57.295044+00:00",
-      "data_afisaj": "25 august 2026, 10:45"
-    },
-    {
-      "id": "9e30d21454ca",
-      "titlu": "Jucători Activi și Foști Fotbaliști Cer Demisia Președintelui FIFA, Gianni Infantino",
-      "rezumat": "Un grup influent de fotbaliști, atât activi cât și retrași, a lansat un apel public pentru schimbare la vârful FIFA, cerând demisia președintelui Gianni Infantino. Aceștia au declarat că \"este suficient\" și au criticat conducerea actuală a organismului mondial. Intervenția este semnificativă, având în vedere că unii dintre acești jucători au avut anterior roluri de ambasadori pentru FIFA. Această acțiune colectivă adaugă presiune considerabilă asupra lui Infantino, pe fondul nemulțumirilor crescânde legate de stilul său de conducere.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-25T07:45:57.296535+00:00",
-      "data_afisaj": "25 august 2026, 10:45"
-    },
-    {
-      "id": "7860199b7621",
-      "titlu": "Ollie Watkins, Aproape de Plecarea de la Aston Villa pe Fondul Interesului din Arabia Saudită",
-      "rezumat": "Atacantul Ollie Watkins pare să se apropie de un final dureros al perioadei sale la Aston Villa, pe fondul unui interes puternic din partea cluburilor din Arabia Saudită, în special Al-Hilal. Absența sa din lotul pentru meciul cu Brighton a alimentat speculațiile, iar analiștii sugerează că jucătorul ar putea dori să părăsească clubul. O eventuală plecare a lui Watkins ar reprezenta o pierdere semnificativă pentru Aston Villa, având în vedere contribuțiile sale importante la echipă de-a lungul anilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-25T07:45:57.298058+00:00",
-      "data_afisaj": "25 august 2026, 10:45"
-    },
-    {
-      "id": "71575a0d06d7",
-      "titlu": "Arsenal, în Negocieri Avansate pentru Vânzarea lui Gabriel Martinelli către Al-Hilal",
-      "rezumat": "Clubul Arsenal se află în negocieri avansate cu echipa saudită Al-Hilal pentru transferul atacantului brazilian Gabriel Martinelli. Se estimează că suma de transfer ar putea depăși 50 de milioane de lire sterline. Progresele înregistrate în ultimele zile sugerează că un acord este iminent. Această mutare ar reprezenta o vânzare importantă pentru Arsenal și o achiziție de marcă pentru Al-Hilal, continuând trendul transferurilor de jucători de top către campionatul saudit în această fereastră de mercato.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-25T07:45:57.299540+00:00",
-      "data_afisaj": "25 august 2026, 10:45"
-    },
-    {
-      "id": "c23ea4f1779a",
-      "titlu": "Nottingham Forest Aproape de Transferul Atacantului Liam Delap de la Chelsea",
-      "rezumat": "Nottingham Forest se află în discuții avansate cu Chelsea pentru achiziționarea atacantului Liam Delap. Antrenorul Oliver Glasner dorește încă două transferuri înainte de închiderea ferestrei de mercato, iar Delap este o prioritate. Jucătorul, care a fost anterior în vizorul lui Forest, nu face parte din planurile primei echipe a lui Xabi Alonso la Chelsea și se antrenează separat. Această mutare ar consolida ofensiva lui Forest pentru sezonul viitor, aducând un atacant tânăr și promițător.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-25T07:45:57.300828+00:00",
-      "data_afisaj": "25 august 2026, 10:45"
     }
   ]
 }
