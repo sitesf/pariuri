@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-01T12:25:32.997653+00:00",
-  "updated_at_afisaj": "1 septembrie 2026, 15:25",
+  "updated_at": "2026-09-01T13:07:14.545871+00:00",
+  "updated_at_afisaj": "1 septembrie 2026, 16:07",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,41 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 107,
+  "numar_stiri": 110,
   "stiri": [
+    {
+      "id": "d213bfbcb3cc",
+      "titlu": "Borussia Dortmund ajunge la un acord pentru împrumutul lui Ethan Nwaneri de la Arsenal",
+      "rezumat": "Clubul german Borussia Dortmund a convenit un acord cu Arsenal pentru a-l aduce pe tânărul mijlocaș Ethan Nwaneri sub formă de împrumut pe durata unui sezon. Nwaneri, considerat unul dintre cei mai promițători tineri talente din academia lui Arsenal, va avea ocazia să acumuleze experiență prețioasă în Bundesliga. Această mutare este văzută ca o oportunitate excelentă pentru dezvoltarea sa, oferindu-i un mediu competitiv pentru a-și demonstra abilitățile la nivel înalt.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-01T13:07:14.542758+00:00",
+      "data_afisaj": "1 septembrie 2026, 16:07"
+    },
+    {
+      "id": "b3fff559cdf6",
+      "titlu": "Universitatea Craiova a semnat cu un atacant brazilian adus de Gustavo",
+      "rezumat": "Universitatea Craiova a finalizat transferul unui atacant brazilian, adus la echipă prin intermediul lui Gustavo, fostul jucător al clubului. Noul atacant a semnat contractul după ce a fost monitorizat de mai multe cluburi din Europa, inclusiv din Portugalia și Belgia, conform surselor ProSport. Această achiziție strategică vine să întărească ofensiva echipei din Bănie, oferind noi opțiuni antrenorului și crescând competitivitatea lotului în vederea obiectivelor propuse pentru noul sezon.",
+      "categorie": "Fotbal",
+      "surse": [
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-09-01T13:07:14.544125+00:00",
+      "data_afisaj": "1 septembrie 2026, 16:07"
+    },
+    {
+      "id": "6a30ca04f3b8",
+      "titlu": "Transferul lui Andrei Rațiu în Premier League a eșuat; un jucător de la Bayern ar putea veni în locul său",
+      "rezumat": "Transferul fundașului român Andrei Rațiu în Premier League a picat, conform informațiilor ProSport. Această veste vine după o perioadă de speculații intense privind o posibilă mutare a internaționalului român în campionatul englez. În locul său, se pare că un fotbalist de la Bayern Munchen ar putea fi adus pentru a ocupa poziția vizată. Detaliile despre jucătorul de la Bayern și motivele eșecului transferului lui Rațiu nu au fost încă pe deplin clarificate, dar situația indică o schimbare de planuri pentru clubul implicat.",
+      "categorie": "Fotbal",
+      "surse": [
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-09-01T13:07:14.545853+00:00",
+      "data_afisaj": "1 septembrie 2026, 16:07"
+    },
     {
       "id": "08e7d8ad9319",
       "titlu": "Aston Villa semnează cu Mbaye și Harwood-Bellis",
