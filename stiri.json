@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-01T13:07:14.545871+00:00",
-  "updated_at_afisaj": "1 septembrie 2026, 16:07",
+  "updated_at": "2026-09-01T19:16:44.048758+00:00",
+  "updated_at_afisaj": "1 septembrie 2026, 22:16",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,55 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 110,
+  "numar_stiri": 106,
   "stiri": [
+    {
+      "id": "f5760d2c7b38",
+      "titlu": "Juventus semnează cu Woltemade și Sarr sub formă de împrumut",
+      "rezumat": "Clubul italian Juventus a anunțat oficial achiziționarea atacantului Nick Woltemade de la Newcastle și a mijlocașului Pape Matar Sarr de la Tottenham Hotspur. Ambii jucători se alătură echipei din Torino sub formă de împrumut pe durata unui sezon complet. Această dublă mutare consolidează lotul lui Juventus pentru campania viitoare, aducând noi opțiuni ofensive și la mijlocul terenului, în încercarea de a-și atinge obiectivele în competițiile interne și europene.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-09-01T19:16:44.043064+00:00",
+      "data_afisaj": "1 septembrie 2026, 22:16"
+    },
+    {
+      "id": "0e4de37721fc",
+      "titlu": "Liverpool semnează cu tânărul portar Lucca Brughmans într-o tranzacție de până la 30 de milioane de lire sterline",
+      "rezumat": "Liverpool a finalizat achiziția tânărului portar Lucca Brughmans, într-o afacere evaluată la până la 30 de milioane de lire sterline. Transferul este programat să devină efectiv la începutul sezonului 2027-28. Această mutare strategică indică o investiție pe termen lung a clubului de pe Anfield în viitorul său, asigurându-și serviciile unui talent promițător pentru postul de portar. Clubul speră ca Brughmans să se dezvolte și să devină o piesă importantă în anii următori.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-09-01T19:16:44.045845+00:00",
+      "data_afisaj": "1 septembrie 2026, 22:16"
+    },
+    {
+      "id": "55811ed59e62",
+      "titlu": "Vivianne Miedema va rata începutul sezonului din Women's Super League din cauza unei accidentări la genunchi",
+      "rezumat": "Atacanta Vivianne Miedema, una dintre cele mai proeminente jucătoare din fotbalul feminin, va fi indisponibilă pentru startul noului sezon din Women's Super League. Accidentarea la genunchi o va ține pe marginea terenului, reprezentând o lovitură pentru echipa sa. Absența sa va fi resimțită, având în vedere contribuția sa semnificativă la performanțele anterioare ale clubului. Perioada exactă de recuperare nu a fost încă anunțată, dar se anticipează o absență prelungită.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-01T19:16:44.047414+00:00",
+      "data_afisaj": "1 septembrie 2026, 22:16"
+    },
+    {
+      "id": "6f81f2fa6814",
+      "titlu": "Celtic îl aduce pe Oliver Sorensen de la Parma sub formă de împrumut",
+      "rezumat": "Clubul scoțian Celtic a anunțat transferul mijlocașului Oliver Sorensen de la Parma, sub formă de împrumut. Această mutare vine în contextul în care antrenorul secund Shaun Maloney a indicat că echipa lucrează la finalizarea a până la patru noi achiziții înainte de termenul limită pentru înregistrarea lotului pentru Europa League. Sorensen va adăuga profunzime și opțiuni la mijlocul terenului pentru campioana Scoției, înaintea provocărilor din competițiile europene și interne.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-09-01T19:16:44.048743+00:00",
+      "data_afisaj": "1 septembrie 2026, 22:16"
+    },
     {
       "id": "d213bfbcb3cc",
       "titlu": "Borussia Dortmund ajunge la un acord pentru împrumutul lui Ethan Nwaneri de la Arsenal",
@@ -1199,98 +1246,6 @@
       ],
       "data_publicare": "2026-08-26T07:49:34.932242+00:00",
       "data_afisaj": "26 august 2026, 10:49"
-    },
-    {
-      "id": "c0a606dce080",
-      "titlu": "Manchester United, După Cheltuieli Masive la Mijloc, Vizează un Fundaș Stânga",
-      "rezumat": "După ce a investit aproximativ 155 de milioane de lire sterline pentru achiziționarea a trei mijlocași în această perioadă de transferuri, Manchester United se confruntă acum cu decizia de a căuta un fundaș stânga. Clubul a consolidat semnificativ zona de mijloc a terenului, dar se pare că există o nevoie de întărire pe flancul stâng al apărării. Rămâne de văzut dacă United va face o mișcare decisivă pentru un nou fundaș stânga înainte de închiderea ferestrei de transferuri, având în vedere cheltuielile deja considerabile.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-25T17:24:48.781793+00:00",
-      "data_afisaj": "25 august 2026, 20:24"
-    },
-    {
-      "id": "ee8c39f345fe",
-      "titlu": "Asociația Irlandeză de Fotbal Își Retrage Sprijinul pentru Președintele FIFA, Gianni Infantino",
-      "rezumat": "Asociația Irlandeză de Fotbal (IFA) a anunțat că nu va susține realegerea președintelui FIFA, Gianni Infantino, declarând că este „timpul pentru o schimbare” la conducerea forului mondial. Decizia IFA vine în contextul unor presiuni crescânde asupra lui Infantino din partea unor jucători și foști fotbaliști, precum și a altor federații. Această poziție subliniază o diviziune tot mai mare în cadrul organismelor de conducere ale fotbalului global și ar putea influența viitoarele alegeri pentru președinția FIFA.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-25T17:24:48.783424+00:00",
-      "data_afisaj": "25 august 2026, 20:24"
-    },
-    {
-      "id": "b0c209777c8e",
-      "titlu": "Ashley Cole Demisionează din Funcția de Antrenor al Naționalei Angliei U21",
-      "rezumat": "Ashley Cole a părăsit postul de antrenor al echipei naționale de fotbal a Angliei Under-21, după o perioadă de cinci ani petrecută în această funcție. Fostul internațional englez a jucat un rol important în dezvoltarea tinerilor jucători englezi în cadrul programului național. Decizia sa marchează încheierea unui capitol în cariera sa de antrenor, iar Federația Engleză de Fotbal va trebui să găsească un înlocuitor pentru a continua munca de pregătire a viitoarelor talente ale fotbalului englez.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-25T17:24:48.784868+00:00",
-      "data_afisaj": "25 august 2026, 20:24"
-    },
-    {
-      "id": "0f50cca9d1ba",
-      "titlu": "Jack Grealish Revine la Manchester City, Dar Viitorul Său Rămâne Incert",
-      "rezumat": "Mijlocașul de la Manchester City, Jack Grealish, a revenit pe teren, înregistrând două apariții ca rezervă în acest sezon. Cu toate acestea, viitorul său la club rămâne sub semnul întrebării, pe fondul speculațiilor privind o posibilă plecare. Deși a început să joace din nou, incertitudinea legată de rolul său pe termen lung în echipa lui Pep Guardiola persistă. Fanii și analiștii urmăresc cu atenție evoluția situației sale, în contextul în care fereastra de transferuri se apropie de final.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-25T17:24:48.786366+00:00",
-      "data_afisaj": "25 august 2026, 20:24"
-    },
-    {
-      "id": "e7912eb3d0df",
-      "titlu": "Manchester United Îl Transferă pe Carlos Baleba de la Brighton pentru 70 de Milioane de Lire Sterline",
-      "rezumat": "Manchester United a confirmat achiziția mijlocașului camerunez Carlos Baleba de la Brighton, într-o tranzacție evaluată la aproximativ 70 de milioane de lire sterline. Baleba a semnat un contract pe cinci ani, cu opțiunea de prelungire pentru încă 12 luni, devenind al treilea mijlocaș transferat de \"Diavolii Roșii\" în această vară. Suma include o plată inițială de 65 de milioane de lire sterline, la care se adaugă 5 milioane de lire sterline în bonusuri și o clauză de revânzare pentru Brighton. Această mutare subliniază investițiile semnificative ale clubului în linia mediană.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-25T16:40:17.300730+00:00",
-      "data_afisaj": "25 august 2026, 19:40"
-    },
-    {
-      "id": "ce4e6bf26821",
-      "titlu": "FA Aprobă Includerea Echipelor Academiei WSL în Liga Națională Feminină",
-      "rezumat": "Federația Engleză de Fotbal (FA) a aprobat o propunere semnificativă, conform căreia patru echipe ale academiilor din Women's Super League (WSL) vor fi integrate în al treilea eșalon al piramidei fotbalistice, Liga Națională Feminină, începând cu sezonul 2027-28. Această decizie, deși controversată, face parte dintr-un pachet de reforme menite să consolideze structura fotbalului feminin, să îmbunătățească standardele la nivel de ligă și să accelereze dezvoltarea tinerelor talente.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-25T16:40:17.303116+00:00",
-      "data_afisaj": "25 august 2026, 19:40"
-    },
-    {
-      "id": "58aded24456c",
-      "titlu": "Sir Kenny Dalglish și Karen Carney, Distinși cu Premiile de Merit PFA 2026",
-      "rezumat": "Legendarul atacant al lui Liverpool și al naționalei Scoției, Sir Kenny Dalglish, alături de fosta mare jucătoare a naționalei feminine a Angliei, Karen Carney, au fost onorați cu Premiile de Merit ale Asociației Fotbaliștilor Profesioniști (PFA) pentru anul 2026. Aceste distincții recunosc contribuțiile excepționale și impactul durabil pe care ambii l-au avut asupra fotbalului, atât pe teren, cât și în afara acestuia, de-a lungul carierelor lor impresionante.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-25T16:40:17.304590+00:00",
-      "data_afisaj": "25 august 2026, 19:40"
-    },
-    {
-      "id": "9fa29f1a5e31",
-      "titlu": "Abdul Abdulmalik Solicită Plecarea de la Boreham Wood După Ofertă Respinsă",
-      "rezumat": "Atacantul echipei Boreham Wood, Abdul Abdulmalik, a cerut să părăsească clubul din National League, declarând că își dorește să atingă \"cel mai înalt nivel\" în cariera sa. Această solicitare vine în contextul în care clubul a refuzat o ofertă de 1,5 milioane de lire sterline pentru jucător, venită de la echipa suedeză Djurgarden. Abdulmalik este evaluat la 1,5 milioane de lire sterline, iar situația sa contractuală rămâne incertă pe măsură ce fereastra de transferuri se apropie de închidere.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-25T16:40:17.306002+00:00",
-      "data_afisaj": "25 august 2026, 19:40"
     }
   ]
 }
