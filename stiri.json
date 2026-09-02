@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-02T19:17:17.468187+00:00",
-  "updated_at_afisaj": "2 septembrie 2026, 22:17",
+  "updated_at": "2026-09-02T19:36:11.496827+00:00",
+  "updated_at_afisaj": "2 septembrie 2026, 22:36",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 111,
+  "numar_stiri": 116,
   "stiri": [
+    {
+      "id": "47676078d5c7",
+      "titlu": "Lovitură pentru Dinamo chiar înaintea derby-ului cu FCSB! Căpitanul Cătălin Cîrjan a ieșit accidentat",
+      "rezumat": "(rezumat indisponibil)",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-09-02T19:35:53.952290+00:00",
+      "data_afisaj": "2 septembrie 2026, 22:35"
+    },
+    {
+      "id": "c988401b3ada",
+      "titlu": "How Everton's deadline day debacle leaves owners facing fan mutiny",
+      "rezumat": "Everton's transfer deadline day debacle over Folarin Balogun leaves owners The Friedkin facing fan mutiny, says chief football writer Phil McNulty.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-02T19:35:53.953451+00:00",
+      "data_afisaj": "2 septembrie 2026, 22:35"
+    },
+    {
+      "id": "83493b4321ec",
+      "titlu": "Late-night transfer fallout sparks Chelsea-Monaco row",
+      "rezumat": "How Chelsea, Everton and Monaco all missed out after late-night drama on deadline day. Nizaar Kinsella reports.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-02T19:35:53.954534+00:00",
+      "data_afisaj": "2 septembrie 2026, 22:35"
+    },
+    {
+      "id": "f451f373136e",
+      "titlu": "The 20 most expensive transfers of the summer",
+      "rezumat": "From Enzo Fernandez to Maxence Lacroix, BBC Sport lists the 20 biggest transfers of the summer window.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-02T19:35:53.955506+00:00",
+      "data_afisaj": "2 septembrie 2026, 22:35"
+    },
+    {
+      "id": "deae94360322",
+      "titlu": "Northern Ireland boss O'Neill 'hopeful' training centre plans progress",
+      "rezumat": "Northern Ireland antrenor Michael O'Neill says that he is \"certainly hopeful\" that the Irish Football Association can move forward with plans to have a National Training Centre open by 2028.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-02T19:35:53.956608+00:00",
+      "data_afisaj": "2 septembrie 2026, 22:35"
+    },
     {
       "id": "987b3204a96a",
       "titlu": "Planurile pentru Centrul Național de Antrenament al Irlandei de Nord avansează",
