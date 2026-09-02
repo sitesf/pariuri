@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-01T19:42:43.790073+00:00",
-  "updated_at_afisaj": "1 septembrie 2026, 22:42",
+  "updated_at": "2026-09-02T12:01:10.593424+00:00",
+  "updated_at_afisaj": "2 septembrie 2026, 15:01",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 110,
+  "numar_stiri": 107,
   "stiri": [
+    {
+      "id": "1a5187215c07",
+      "titlu": "Deadlines, acrimony and a record as Man City back Maresca for Fernandez deal",
+      "rezumat": "The summer's longest-running transfer saga ends with Manchester City paying a joint-British record fee to bring in midfielder Enzo Fernandez from Chelsea.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-02T12:00:53.194368+00:00",
+      "data_afisaj": "2 septembrie 2026, 15:00"
+    },
+    {
+      "id": "b747d4b37867",
+      "titlu": "Have title contenders done enough in perioada de transferuri to challenge Arsenal?",
+      "rezumat": "As the perioada de transferuri closes for the summer, chief football writer Phil McNulty asks if Arsenal's rivals have done enough to challenge the champions?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-02T12:00:53.195697+00:00",
+      "data_afisaj": "2 septembrie 2026, 15:00"
+    },
+    {
+      "id": "f51a2c9f0311",
+      "titlu": "Are Arsenal taking a risk in not signing a world-class forward?",
+      "rezumat": "Arsenal have been busy in the transfer market as they look to defend their Premier League title, but do they lack a world class striker still?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-02T12:00:53.196997+00:00",
+      "data_afisaj": "2 septembrie 2026, 15:00"
+    },
+    {
+      "id": "22db1b46430e",
+      "titlu": "Feared in attack, light at the back - why Liverpool's perioada de transferuri leaves questions",
+      "rezumat": "Feared in attack but light at the back? Liverpool have spent more than £200m in the perioada de transferuri but questions remain over whether the squad has enough depth.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-02T12:00:53.198375+00:00",
+      "data_afisaj": "2 septembrie 2026, 15:00"
+    },
+    {
+      "id": "82d290535668",
+      "titlu": "Man Utd and their calculated left-back gamble",
+      "rezumat": "Despite a widespread expectation they would sign a left-back this summer, Manchester United decided against - what does it mean?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-02T12:00:53.199594+00:00",
+      "data_afisaj": "2 septembrie 2026, 15:00"
+    },
     {
       "id": "919f43101270",
       "titlu": "Leeds United ajunge la un acord pentru cel mai rapid jucător din Bundesliga, Gnonto pleacă",
@@ -1197,99 +1252,6 @@
       ],
       "data_publicare": "2026-08-26T16:49:43.008932+00:00",
       "data_afisaj": "26 august 2026, 19:49"
-    },
-    {
-      "id": "ec0cb9fcf1f0",
-      "titlu": "Raheem Sterling, acuzat de conducere periculoasă după un accident",
-      "rezumat": "Fotbalistul Raheem Sterling va trebui să se prezinte în instanță luna viitoare pentru a răspunde acuzațiilor de conducere periculoasă. Incidentul a avut loc în luna mai, când jucătorul și-a izbit mașina de barierele autostrăzii. Această situație aduce în atenția publicului problemele legale cu care se confruntă sportivii de top, punând sub semnul întrebării comportamentul lor în afara terenului de joc și impactul asupra imaginii publice a clubului său. Detaliile complete ale cazului vor fi prezentate în timpul procesului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-26T08:41:02.159577+00:00",
-      "data_afisaj": "26 august 2026, 11:41"
-    },
-    {
-      "id": "4e0f906f25c1",
-      "titlu": "Celtic, eliminată din Liga Campionilor după ce a risipit un avantaj de patru goluri",
-      "rezumat": "Celtic a ratat calificarea în faza grupelor Ligii Campionilor pentru al doilea an consecutiv, după o înfrângere dramatică în fața echipei austriece LASK. Echipa scoțiană a risipit un avantaj de patru goluri acumulat în manșa tur, pierzând cu 5-1 în retur, scor general 5-4. Această eliminare reprezintă o lovitură financiară semnificativă, estimată la peste 20 de milioane de lire sterline, și a generat critici intense la adresa performanței echipei și a deciziilor manageriale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-26T08:41:02.161121+00:00",
-      "data_afisaj": "26 august 2026, 11:41"
-    },
-    {
-      "id": "df71734fb8f2",
-      "titlu": "Noah Anyadike de la Cardiff, cel mai tânăr jucător din istoria Cupei EFL",
-      "rezumat": "Noah Anyadike, în vârstă de 15 ani, a stabilit un nou record în Cupa EFL, devenind cel mai tânăr jucător din istoria competiției. Tânăra speranță a echipei Cardiff City a fost titular în meciul din turul doi împotriva lui Norwich City, pierdut de echipa sa. Această performanță subliniază potențialul jucătorului și oferă o perspectivă asupra viitorului său în fotbalul profesionist, atrăgând atenția asupra talentelor emergente din academiile de fotbal britanice.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-26T08:41:02.162624+00:00",
-      "data_afisaj": "26 august 2026, 11:41"
-    },
-    {
-      "id": "eb0db204ab69",
-      "titlu": "Leeds United obține a doua victorie consecutivă împotriva lui Nottingham Forest în Cupa Ligii",
-      "rezumat": "Leeds United a înregistrat o a doua victorie în decurs de trei zile împotriva lui Nottingham Forest, asigurându-și calificarea în turul al treilea al Cupei Ligii Angliei (Carabao Cup). Meciul s-a desfășurat pe terenul lui Nottingham Forest, iar succesul le permite celor de la Leeds să avanseze în competiție. Această performanță demonstrează forma bună a echipei și capacitatea de a obține rezultate pozitive în deplasare, consolidându-și poziția în competițiile interne.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-26T08:41:02.164172+00:00",
-      "data_afisaj": "26 august 2026, 11:41"
-    },
-    {
-      "id": "d4315e842945",
-      "titlu": "Bruno Fernandes și Khadija Shaw, desemnați Jucătorii Anului de către PFA",
-      "rezumat": "Bruno Fernandes, căpitanul echipei Manchester United, a fost recompensat cu premiul pentru Jucătorul Anului la categoria masculină de către Asociația Fotbaliștilor Profesioniști (PFA). La feminin, distincția i-a revenit atacantei Khadija Shaw de la Manchester City. Aceste premii recunosc performanțele excepționale ale celor doi fotbaliști pe parcursul sezonului recent încheiat, fiind votate de către colegii lor de breaslă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-26T07:49:34.929200+00:00",
-      "data_afisaj": "26 august 2026, 10:49"
-    },
-    {
-      "id": "c607a3788930",
-      "titlu": "Coventry Avancează în Carabao Cup După o Victorie Dificilă Împotriva Lui Plymouth",
-      "rezumat": "Nou-promovata în Premier League, Coventry, a trecut cu emoții de turul doi al Cupei Ligii Angliei (Carabao Cup), învingând echipa din League One, Plymouth, cu scorul de 4-2 pe stadionul Home Park. Deși a fost condusă, echipa Coventry a reușit să revină și să-și asigure calificarea în faza următoare a competiției, demonstrând rezistență în fața unei echipe inferioare valoric pe hârtie.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-26T07:49:34.930097+00:00",
-      "data_afisaj": "26 august 2026, 10:49"
-    },
-    {
-      "id": "5a94285bae61",
-      "titlu": "Zeljko Kopic, Noul Antrenor al unei Echipe din Polonia",
-      "rezumat": "Antrenorul croat Zeljko Kopic a semnat contractul cu noua sa echipă din Polonia, conform imaginilor publicate de presa românească. Fostul tehnician al mai multor cluburi, inclusiv din Superliga României, a fost fotografiat purtând fularul clubului polonez, confirmând astfel mutarea sa. Această decizie marchează o nouă etapă în cariera sa managerială, preluând conducerea tehnică a formației din campionatul polonez.",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-08-26T07:49:34.930837+00:00",
-      "data_afisaj": "26 august 2026, 10:49"
-    },
-    {
-      "id": "217d7885dd05",
-      "titlu": "Xavi Hernández, Numit Noul Selecționer al Naționalei Olandei",
-      "rezumat": "Legendarul fost jucător al Barcelonei, Xavi Hernández, a fost prezentat oficial ca noul antrenor al echipei naționale a Olandei. În cadrul conferinței de presă, Xavi a declarat că vede această nouă provocare ca pe o 'universitate a fotbalului', exprimându-și dorința de a emula filosofia 'fotbalului total' a lui Johan Cruyff. Numirea sa marchează un moment important pentru fotbalul olandez, aducând la cârma naționalei un antrenor cu o viziune clară și o experiență vastă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-26T07:49:34.932242+00:00",
-      "data_afisaj": "26 august 2026, 10:49"
     }
   ]
 }
