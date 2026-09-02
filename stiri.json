@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-02T12:01:10.593424+00:00",
-  "updated_at_afisaj": "2 septembrie 2026, 15:01",
+  "updated_at": "2026-09-02T12:34:33.011773+00:00",
+  "updated_at_afisaj": "2 septembrie 2026, 15:34",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,53 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 107,
+  "numar_stiri": 111,
   "stiri": [
+    {
+      "id": "b5dc0f8d1f19",
+      "titlu": "Transferul lui Folarin Balogun la Everton a eșuat",
+      "rezumat": "Mutarea atacantului Folarin Balogun de la Monaco la Everton a căzut în ultimul moment, după o schimbare de decizie a jucătorului. Inițial, Everton ajunsese la un acord de 40 de milioane de lire sterline pentru atacantul american. Eșecul acestei tranzacții vine după ce Everton îl vânduse pe Beto la Fiorentina și pe Iliman Ndiaye la Manchester City, lăsând clubul cu puține opțiuni în atac. Această situație complică serios planurile ofensive ale echipei pentru prima jumătate a sezonului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-02T12:34:33.008834+00:00",
+      "data_afisaj": "2 septembrie 2026, 15:34"
+    },
+    {
+      "id": "d37746f602a5",
+      "titlu": "Premier League stabilește un nou record de cheltuieli pentru transferuri în vară",
+      "rezumat": "Cluburile din Premier League au depășit propriul record de cheltuieli pentru transferuri într-o singură fereastră de vară, ajungând la o sumă totală de 3,198 miliarde de lire sterline. Aceasta este a doua vară consecutivă în care liga engleză stabilește un nou reper financiar în piața transferurilor, subliniind puterea economică continuă a cluburilor din Premier League. Suma impresionantă reflectă investițiile masive făcute de echipe pentru a-și consolida loturile în vederea noului sezon, într-o cursă acerbă pentru performanță.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-02T12:34:33.009823+00:00",
+      "data_afisaj": "2 septembrie 2026, 15:34"
+    },
+    {
+      "id": "166227aff720",
+      "titlu": "Declan Rice de la Arsenal, incert după ce a părăsit terenul accidentat",
+      "rezumat": "Mijlocașul lui Arsenal, Declan Rice, a stârnit îngrijorări în rândul staff-ului tehnic condus de Mikel Arteta, după ce a părăsit terenul șchiopătând în ultimele minute ale victoriei cu 1-0 împotriva lui Aston Villa. Accidentarea sa reprezintă o nouă preocupare pentru \"Tunari\", având în vedere importanța jucătorului în echipa. Se așteaptă o evaluare medicală pentru a determina gravitatea problemei și perioada de indisponibilitate, o veste potențial proastă pentru ambițiile clubului în campionat.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-09-02T12:34:33.010771+00:00",
+      "data_afisaj": "2 septembrie 2026, 15:34"
+    },
+    {
+      "id": "5b5ac3e8b003",
+      "titlu": "Costel Gâlcă: „Dinamo e mult mai bună decât cu Kopic pe bancă!”",
+      "rezumat": "Antrenorul Costel Gâlcă a oferit o evaluare tranșantă a situației de la Dinamo, declarând că echipa este \"mult mai bună\" sub actuala conducere tehnică, comparativ cu perioada în care pe bancă se afla Kopic. Gâlcă a lăudat, de asemenea, un antrenor român din noul val, subliniind potențialul acestuia. Declarațiile vin în contextul unei perioade de schimbări la clubul din Ștefan cel Mare și oferă o perspectivă asupra evoluției echipei, sugerând o îmbunătățire a performanțelor sub noua direcție.",
+      "categorie": "Fotbal",
+      "surse": [
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-09-02T12:34:33.011761+00:00",
+      "data_afisaj": "2 septembrie 2026, 15:34"
+    },
     {
       "id": "1a5187215c07",
       "titlu": "Deadlines, acrimony and a record as Man City back Maresca for Fernandez deal",
