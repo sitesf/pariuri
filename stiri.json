@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-03T19:11:16.456874+00:00",
-  "updated_at_afisaj": "3 septembrie 2026, 22:11",
+  "updated_at": "2026-09-03T19:32:39.966406+00:00",
+  "updated_at_afisaj": "3 septembrie 2026, 22:32",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,44 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 122,
+  "numar_stiri": 125,
   "stiri": [
+    {
+      "id": "cbca666e7f3b",
+      "titlu": "Ismaila Sarr are nevoie de timp pentru a depăși eșecul transferului la Liverpool",
+      "rezumat": "Atacantul lui Crystal Palace, Ismaila Sarr, va avea nevoie de timp pentru a procesa eșecul mutării sale la Liverpool, a declarat antrenorul echipei Eagles, Pierre Sage. Transferul propus a căzut în ultima clipă, lăsându-l pe jucător într-o stare emoțională dificilă. Sarr era o țintă importantă pentru Liverpool, iar ratarea acestei oportunități reprezintă o dezamăgire majoră atât pentru el, cât și pentru clubul care spera să-l achiziționeze, conform declarațiilor oficiale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-09-03T19:32:39.962333+00:00",
+      "data_afisaj": "3 septembrie 2026, 22:32"
+    },
+    {
+      "id": "3dc8fbed9333",
+      "titlu": "Fostul arbitru Mike Dean recunoaște că juca \"jocuri secrete\" în timpul meciurilor din Premier League",
+      "rezumat": "Fostul arbitru din Premier League, Mike Dean, a declarat că obișnuia să participe la \"provocări secrete\" în timp ce arbitra meciuri, inclusiv încercarea de a rămâne în cercul de la centrul terenului cât mai mult timp posibil. Aceste declarații, făcute de unul dintre cei mai cunoscuți oficiali din fotbalul englez, au stârnit uimire în rândul oficialilor arbitrajului, care au considerat remarcile sale drept \"deconcertante\" și au cerut clarificări suplimentare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-09-03T19:32:39.964268+00:00",
+      "data_afisaj": "3 septembrie 2026, 22:32"
+    },
+    {
+      "id": "7fd9b7945635",
+      "titlu": "Richarlison, omis din lotul lui Tottenham pentru Premier League",
+      "rezumat": "Atacantul Richarlison a fost lăsat în afara lotului lui Tottenham pentru Premier League, deoarece nu mai figurează în planurile clubului pentru acest sezon. Această decizie semnalează o schimbare majoră în statutul jucătorului brazilian la clubul londonez. Omiterea sa din lotul oficial sugerează că Tottenham este deschisă la un transfer sau o plecare a acestuia în viitorul apropiat, având în vedere că fereastra de transferuri s-a închis în majoritatea ligilor europene.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-03T19:32:39.965812+00:00",
+      "data_afisaj": "3 septembrie 2026, 22:32"
+    },
     {
       "id": "bbb3280bc16a",
       "titlu": "FIFA acuză UEFA de „campanie de denigrare” împotriva președintelui Infantino",
