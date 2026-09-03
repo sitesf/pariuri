@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-03T12:37:17.298615+00:00",
-  "updated_at_afisaj": "3 septembrie 2026, 15:37",
+  "updated_at": "2026-09-03T19:11:16.456874+00:00",
+  "updated_at_afisaj": "3 septembrie 2026, 22:11",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,54 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 126,
+  "numar_stiri": 122,
   "stiri": [
+    {
+      "id": "bbb3280bc16a",
+      "titlu": "FIFA acuză UEFA de „campanie de denigrare” împotriva președintelui Infantino",
+      "rezumat": "Federația Internațională de Fotbal (FIFA) a lansat acuzații grave împotriva Uniunii Asociațiilor Europene de Fotbal (UEFA), susținând că aceasta desfășoară o „campanie de denigrare” împotriva președintelui FIFA, Gianni Infantino. Tensiunile dintre cele două organisme de conducere au escaladat de când planul lui Infantino de a vinde acțiuni din Cupa Mondială către investitori privați a fost anulat. Această dispută subliniază o ruptură profundă în relațiile dintre cele mai puternice organizații din fotbalul mondial, cu implicații potențiale asupra guvernanței sportului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-09-03T19:11:16.452238+00:00",
+      "data_afisaj": "3 septembrie 2026, 22:11"
+    },
+    {
+      "id": "a62a2e8c02e7",
+      "titlu": "Prezentare Women's Super League 2026-27: Tottenham Hotspur",
+      "rezumat": "După un sezon precedent încheiat pe o poziție record sub conducerea lui Martin Ho și o strategie de recrutare estivală care a atras atenția, se analizează dacă Tottenham Hotspur poate pătrunde în top patru în ediția 2026-27 a Women's Super League. Echipa a terminat pe locul 5 în sezonul trecut, iar așteptările sunt ridicate pentru o îmbunătățire a performanței. Această previzualizare detaliază perspectivele clubului londonez în noul sezon, evidențiind punctele forte și provocările cu care se va confrunta.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-03T19:11:16.453786+00:00",
+      "data_afisaj": "3 septembrie 2026, 22:11"
+    },
+    {
+      "id": "c4e227facd39",
+      "titlu": "Analiza celor 39 de plecări uimitoare de la Chelsea în această vară",
+      "rezumat": "Chelsea ar fi încasat peste 500 de milioane de lire sterline în această vară, prin vânzarea sau împrumutul unui număr impresionant de 39 de jucători. Această strategie masivă de restructurare a lotului a implicat un număr record de plecări, având un impact semnificativ asupra finanțelor și componenței echipei. Analiza detaliază amploarea și implicațiile acestei campanii de transferuri fără precedent pentru clubul londonez, evidențiind eforturile de reechilibrare financiară și de reînnoire a lotului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-03T19:11:16.455339+00:00",
+      "data_afisaj": "3 septembrie 2026, 22:11"
+    },
+    {
+      "id": "24b726e0e2f0",
+      "titlu": "Rangers își întărește lotul cu atacantul Kelsy și aripa Bouanani",
+      "rezumat": "Clubul scoțian Rangers a confirmat achiziționarea atacantului venezuelean Kevin Kelsy de la Portland Timbers și împrumutul aripii algeriene Badredine Bouanani de la Stuttgart. Aceste două transferuri sunt menite să aducă un plus de forță și creativitate în ofensiva echipei. Kelsy, un tânăr atacant promițător, și Bouanani, un jucător rapid pe flanc, se alătură lotului în încercarea de a consolida performanțele clubului în competițiile interne și europene, înaintea începerii noului sezon.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-03T19:11:16.456855+00:00",
+      "data_afisaj": "3 septembrie 2026, 22:11"
+    },
     {
       "id": "3d777a1a5cf4",
       "titlu": "Costul suplimentar al jucătorilor din Premier League îngrijorează cluburile europene",
@@ -1362,103 +1408,6 @@
       ],
       "data_publicare": "2026-08-28T00:48:08.804562+00:00",
       "data_afisaj": "28 august 2026, 03:48"
-    },
-    {
-      "id": "511b5fcbd3d1",
-      "titlu": "Jucători români vor înfrunta Real Madrid în faza grupelor Ligii Campionilor",
-      "rezumat": "Cristi Chivu, Dennis Man și Răzvan Marin sunt printre jucătorii români care vor avea ocazia să joace împotriva vedetelor lui Real Madrid, antrenate de Jose Mourinho, în faza grupelor Ligii Campionilor. Această confruntare reprezintă un moment important pentru fotbalul românesc, oferind o platformă internațională pentru performanța jucătorilor români împotriva uneia dintre cele mai prestigioase echipe din Europa. Tragerea la sorți a stabilit aceste meciuri de anvergură.",
-      "categorie": "Fotbal",
-      "surse": [
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-08-27T18:51:15.089863+00:00",
-      "data_afisaj": "27 august 2026, 21:51"
-    },
-    {
-      "id": "51fb06470141",
-      "titlu": "Dramă pentru Universitatea Craiova în Europa League: Portarul Popescu a apărat două penalty-uri, dar echipa a fost eliminată",
-      "rezumat": "Universitatea Craiova a fost eliminată din Europa League într-un mod dramatic, după ce portarul Laurențiu Popescu a apărat două penalty-uri consecutive în minutul 90+3 al meciului cu Ararat. După prima intervenție, VAR a dictat repetarea execuției, însă Popescu a reușit să apere și a doua oară. Cu toate acestea, echipa a primit ulterior un gol care a dus la eliminarea din competiție, într-o seară considerată \"tristă\" de jucători și oficiali ai clubului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-08-27T18:51:15.091719+00:00",
-      "data_afisaj": "27 august 2026, 21:51"
-    },
-    {
-      "id": "75121b4712e0",
-      "titlu": "Aston Villa îl transferă pe Leon Goretzka de la Bayern Munchen",
-      "rezumat": "Aston Villa a finalizat transferul mijlocașului Leon Goretzka, fost jucător al lui Bayern Munchen, sub formă de transfer gratuit. Această mutare reprezintă o achiziție importantă pentru echipa din Premier League, aducând un jucător cu experiență la nivel înalt și un profil versatil la mijlocul terenului. Se anticipează că Goretzka va aduce un plus de forță și creativitate, iar fanii sunt curioși să vadă cum se va integra în noul său club după perioada petrecută la Bayern.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-27T18:51:15.093142+00:00",
-      "data_afisaj": "27 august 2026, 21:51"
-    },
-    {
-      "id": "a1c9d74c1ee6",
-      "titlu": "Chelsea ajunge la un acord de 40 de milioane de lire sterline pentru fundașul Honest Ahanor de la Atalanta",
-      "rezumat": "Clubul Chelsea a ajuns la un acord cu Atalanta pentru transferul fundașului Honest Ahanor, într-o tranzacție evaluată la până la 40 de milioane de lire sterline. Această achiziție subliniază intenția lui Chelsea de a-și consolida apărarea cu un jucător tânăr și promițător, considerat a fi o investiție pe termen lung. Detaliile finale ale transferului urmează să fie stabilite, dar acordul de principiu a fost atins între cele două cluburi.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-27T18:51:15.094569+00:00",
-      "data_afisaj": "27 august 2026, 21:51"
-    },
-    {
-      "id": "7396176678d1",
-      "titlu": "Manchester City și Aston Villa vor înfrunta campioana PSG în faza ligii Ligii Campionilor",
-      "rezumat": "Campioana europeană Paris Saint-Germain va întâlni echipele din Premier League Manchester City și Aston Villa în faza ligii a Ligii Campionilor din acest sezon. Tragerea la sorți a stabilit confruntări interesante, oferind fanilor fotbalului european meciuri de calibru încă din această etapă a competiției. Această fază a ligii promite dueluri intense între cluburi de top de pe continent.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-08-27T18:09:11.214139+00:00",
-      "data_afisaj": "27 august 2026, 21:09"
-    },
-    {
-      "id": "bea091889e09",
-      "titlu": "UEFA pregătește acțiuni penale împotriva președintelui FIFA, Gianni Infantino",
-      "rezumat": "UEFA inițiază proceduri penale împotriva președintelui FIFA, Gianni Infantino, în legătură cu planul anulat de a vinde participații la Cupa Mondială. Această decizie marchează o escaladare semnificativă a tensiunilor dintre cele două organisme de conducere ale fotbalului, indicând o investigație aprofundată a deciziilor financiare și de guvernanță ale FIFA sub conducerea lui Infantino.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-27T18:09:11.215438+00:00",
-      "data_afisaj": "27 august 2026, 21:09"
-    },
-    {
-      "id": "ec166cf97c7c",
-      "titlu": "Tottenham îl transferă pe Omar Marmoush de la Manchester City sub formă de împrumut",
-      "rezumat": "Tottenham a semnat cu atacantul lui Manchester City, Omar Marmoush, sub formă de împrumut până la sfârșitul sezonului. Acordul include o obligație de a face transferul permanent pentru 60 de milioane de lire sterline vara viitoare. Această mutare strategică urmărește să consolideze ofensiva lui Tottenham și să ofere jucătorului mai multe oportunități de joc.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-08-27T18:09:11.216719+00:00",
-      "data_afisaj": "27 august 2026, 21:09"
-    },
-    {
-      "id": "64e76a210ac2",
-      "titlu": "Liverpool, aproape de un acord de 120 de milioane de lire sterline pentru Bradley Barcola de la PSG",
-      "rezumat": "Liverpool este aproape de a ajunge la un acord cu Paris Saint-Germain pentru transferul lui Bradley Barcola, o mutare care ridică semne de întrebare cu privire la viitorul lui Cody Gakpo pe Anfield. Potențialul transfer al atacantului francez, evaluat la aproximativ 120 de milioane de lire sterline, ar reprezenta o investiție majoră pentru clubul englez, consolidând opțiunile ofensive ale echipei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-27T18:09:11.217968+00:00",
-      "data_afisaj": "27 august 2026, 21:09"
     }
   ]
 }
