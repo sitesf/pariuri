@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-02T19:36:11.496827+00:00",
-  "updated_at_afisaj": "2 septembrie 2026, 22:36",
+  "updated_at": "2026-09-03T11:59:33.781276+00:00",
+  "updated_at_afisaj": "3 septembrie 2026, 14:59",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 116,
+  "numar_stiri": 121,
   "stiri": [
+    {
+      "id": "78f140833752",
+      "titlu": "Hull City condamnă abuzurile rasiste la adresa noului transfer Robinio Vaz",
+      "rezumat": "Clubul Hull City a emis o condamnare fermă a abuzurilor rasiste direcționate pe rețelele sociale către noul său atacant, Robinio Vaz. Jucătorul în vârstă de 19 ani a fost transferat sub formă de împrumut de la Roma în ultima zi a perioadei de transferuri. Anunțul mutării sale a generat un val de comentarii denigratoare. Clubul a declarat că lucrează îndeaproape cu autoritățile pentru a identifica și a lua măsuri împotriva celor responsabili de aceste acte de discriminare, subliniind angajamentul său împotriva rasismului în fotbal.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-03T11:59:33.776279+00:00",
+      "data_afisaj": "3 septembrie 2026, 14:59"
+    },
+    {
+      "id": "61395a628bda",
+      "titlu": "Liga argentiniană de fotbal va întrerupe meciurile pentru a-l onora pe Lionel Messi",
+      "rezumat": "Liga de fotbal din Argentina a anunțat că va aduce un omagiu carierei internaționale a lui Lionel Messi prin întreruperea tuturor meciurilor interne în minutul 10, în acest weekend. Gestul simbolic vine în semn de recunoaștere a contribuției excepționale a căpitanului naționalei Argentinei la fotbalul mondial și a succeselor sale remarcabile. Această inițiativă subliniază importanța lui Messi pentru țara sa și impactul profund pe care l-a avut asupra sportului, fiind o modalitate de a celebra moștenirea sa în fața fanilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-03T11:59:33.777597+00:00",
+      "data_afisaj": "3 septembrie 2026, 14:59"
+    },
+    {
+      "id": "a6b4b71d1f1b",
+      "titlu": "Women's Super League revine cu un sezon extins și o luptă acerbă pentru titlu",
+      "rezumat": "Women's Super League (WSL) din Anglia se pregătește de startul unui nou sezon, care promite să fie cel mai amplu și mai competitiv de până acum. Campionatul s-a extins la 14 echipe, incluzând trei noi formații, iar piața transferurilor a fost marcată de mutări importante. Lupta pentru titlu se anunță deschisă, cu Manchester City încercând să-și apere coroana. Schimbările includ și modificări la Cupa Ligii, reflectând o creștere continuă a fotbalului feminin în Anglia și la nivel global.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-03T11:59:33.778904+00:00",
+      "data_afisaj": "3 septembrie 2026, 14:59"
+    },
+    {
+      "id": "8787d0715973",
+      "titlu": "Carlos Queiroz revine ca antrenor principal al Ghanei",
+      "rezumat": "Carlos Queiroz a fost renumit în funcția de antrenor principal al echipei naționale masculine de fotbal a Ghanei. Anunțul vine la două luni după ce tehnicianul părea să se fi retras din funcție, în urma eliminării Ghanei de la Cupa Mondială. Queiroz, fost asistent la Manchester United și cu o vastă experiență la nivel internațional, inclusiv la naționale precum Portugalia, Iran și Columbia, va prelua din nou frâiele echipei cu obiectivul de a o pregăti pentru viitoarele competiții.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-03T11:59:33.779960+00:00",
+      "data_afisaj": "3 septembrie 2026, 14:59"
+    },
+    {
+      "id": "f54f6e886f76",
+      "titlu": "Arsenal mizează pe continuitate după ce țintele majore au fost ratate în fereastra de transferuri",
+      "rezumat": "Arsenal a optat pentru o strategie bazată pe continuitate, după ce clubul nu a reușit să aducă nume mari în ultimele ore ale ferestrei de transferuri. Deși antrenorul Mikel Arteta a solicitat o extindere a loturilor de meci, echipa nu a concretizat achiziții de anvergură, precum Vinícius Júnior. Această abordare ridică întrebări despre capacitatea campionilor de a-și consolida lotul, mai ales în contextul în care Manchester City a stabilit un nou record britanic prin transferul lui Enzo Fernández de la Chelsea pentru 125 de milioane de lire sterline.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-03T11:59:33.781262+00:00",
+      "data_afisaj": "3 septembrie 2026, 14:59"
+    },
     {
       "id": "47676078d5c7",
       "titlu": "Lovitură pentru Dinamo chiar înaintea derby-ului cu FCSB! Căpitanul Cătălin Cîrjan a ieșit accidentat",
