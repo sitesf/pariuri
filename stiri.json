@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-04T12:01:03.732245+00:00",
-  "updated_at_afisaj": "4 septembrie 2026, 15:01",
+  "updated_at": "2026-09-04T12:31:08.227518+00:00",
+  "updated_at_afisaj": "4 septembrie 2026, 15:31",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,53 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 120,
+  "numar_stiri": 124,
   "stiri": [
+    {
+      "id": "29164089a30e",
+      "titlu": "Mary Earps revine în Women's Super League și vizează o reîntâlnire cu Manchester United",
+      "rezumat": "Portarul Mary Earps se pregătește să revină în Women's Super League, exprimându-și dorința de a juca împotriva fostului său club, Manchester United. Ea a declarat că i-au lipsit confortul englezesc, prietenii și familia. Această revenire marchează un moment important pentru jucătoare, care își dorește să își reia cariera în Anglia după o perioadă petrecută în străinătate. Fanii așteaptă cu interes revederea ei pe terenul de joc.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-09-04T12:31:08.222795+00:00",
+      "data_afisaj": "4 septembrie 2026, 15:31"
+    },
+    {
+      "id": "5604bb47899d",
+      "titlu": "Manchester City nu a reușit să transfere două jucătoare spaniole pentru echipa feminină",
+      "rezumat": "Manchester City a eșuat în încercarea de a aduce două jucătoare spaniole pentru echipa sa feminină în ultima zi a ferestrei de transferuri. Clubul a oferit peste 500.000 de lire sterline pentru mijlocașul Fiamma Benítez de la Atlético Madrid, dar oferta a fost respinsă. De asemenea, City a încercat să o semneze pe Ornella Vignola. Campioanele WSL căutau întăriri în linia de mijloc ofensivă, în special după accidentarea jucătoarei Vivi Miedema.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-04T12:31:08.224425+00:00",
+      "data_afisaj": "4 septembrie 2026, 15:31"
+    },
+    {
+      "id": "5e6f91203ec1",
+      "titlu": "Start dificil pentru PSG în noul sezon, Luis Enrique își menține încrederea",
+      "rezumat": "Paris Saint-Germain a avut un început anevoios de sezon, înregistrând două egaluri în primele meciuri de campionat. Echipa se pregătește pentru o confruntare dificilă împotriva lui Monaco. Antrenorul Luis Enrique rămâne optimist, subliniind că noile achiziții au adus o \"nouă energie\" în echipă. Acesta speră ca formația să își găsească ritmul și să obțină primele victorii în curând, în ciuda startului sub așteptări.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-04T12:31:08.226010+00:00",
+      "data_afisaj": "4 septembrie 2026, 15:31"
+    },
+    {
+      "id": "e76be7e6a071",
+      "titlu": "Clubul de cartier care i-a format pe Mikel Arteta, Xabi Alonso și Andoni Iraola",
+      "rezumat": "Un mic club de fotbal din cartierul Berio din San Sebastian, Antiguoko, este recunoscut pentru că a fost locul unde trei dintre cei mai cunoscuți antrenori de top ai fotbalului modern – Mikel Arteta, Xabi Alonso și Andoni Iraola – și-au început carierele. Între clădiri de apartamente și un teren artificial, acești viitori tehnicieni și-au dezvoltat abilitățile, transformând Antiguoko într-un adevărat incubator de talente pentru fotbalul de elită.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-09-04T12:31:08.227499+00:00",
+      "data_afisaj": "4 septembrie 2026, 15:31"
+    },
     {
       "id": "6ce9be15d792",
       "titlu": "Arsenal va înfrunta Barca și Lyon în Liga Campionilor la feminin",
