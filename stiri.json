@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-03T19:32:39.966406+00:00",
-  "updated_at_afisaj": "3 septembrie 2026, 22:32",
+  "updated_at": "2026-09-04T12:01:03.732245+00:00",
+  "updated_at_afisaj": "4 septembrie 2026, 15:01",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 125,
+  "numar_stiri": 120,
   "stiri": [
+    {
+      "id": "6ce9be15d792",
+      "titlu": "Arsenal va înfrunta Barca și Lyon în Liga Campionilor la feminin",
+      "rezumat": "Arsenal va înfrunta deținătoarea trofeului Barcelona și recordmana Lyon în Liga Campionilor la feminin, în timp ce Chelsea va călători la Lyon, iar Man City se va duela cu Bayern München.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-09-04T12:00:56.002773+00:00",
+      "data_afisaj": "4 septembrie 2026, 15:00"
+    },
+    {
+      "id": "be73931d3d1b",
+      "titlu": "73 de goluri din poziții mai retrase - îl rugăm pe Kane să explice cum a reușit",
+      "rezumat": "Harry Kane a fost cel mai bun marcator din Europa sezonul trecut, totuși joacă precum un mijlocaș. Îl rugăm să-și explice jocul.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-04T12:00:56.004319+00:00",
+      "data_afisaj": "4 septembrie 2026, 15:00"
+    },
+    {
+      "id": "17870afbc93a",
+      "titlu": "Cum 'unicul' Bellingham prosperă în sistemul lui Mourinho",
+      "rezumat": "Jude Bellingham pare în formă și pregătit să continue pe baza performanței sale de la Cupa Mondială, în timp ce își propune să-și regăsească cea mai bună formă la Real Madrid sub Jose Mourinho.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-04T12:00:56.005706+00:00",
+      "data_afisaj": "4 septembrie 2026, 15:00"
+    },
+    {
+      "id": "510d70106625",
+      "titlu": "Alvarez de la Atletico va reveni după o 'experiență de învățare' - Simeone",
+      "rezumat": "Julian Alvarez va reveni în lotul lui Atletico Madrid pentru meciul din La Liga de la Athletic Club, în ciuda tentativei sale eșuate de a părăsi clubul, spune antrenorul Diego Simeone.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-04T12:00:56.007170+00:00",
+      "data_afisaj": "4 septembrie 2026, 15:00"
+    },
+    {
+      "id": "da4661d5f131",
+      "titlu": "Ținta lui Liverpool, Minteh, poate încă obține transferul visat - Hurzeler",
+      "rezumat": "Antrenorul lui Brighton, Fabian Hurzeler, spune că Yankuba Minteh poate încă 'își îndeplini visul' de transfer în viitor, după ce 'Pescărușii' au refuzat ofertele lui Liverpool pentru aripă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-04T12:00:56.008587+00:00",
+      "data_afisaj": "4 septembrie 2026, 15:00"
+    },
     {
       "id": "cbca666e7f3b",
       "titlu": "Ismaila Sarr are nevoie de timp pentru a depăși eșecul transferului la Liverpool",
@@ -1329,121 +1385,6 @@
       ],
       "data_publicare": "2026-08-28T19:20:45.713389+00:00",
       "data_afisaj": "28 august 2026, 22:20"
-    },
-    {
-      "id": "59f66ed923a0",
-      "titlu": "Rodrigo Muniz marchează primul său gol după un an, Fulham avansează în Cupa Ligii",
-      "rezumat": "Atacantul Rodrigo Muniz a pus capăt unei perioade de un an fără gol marcat, contribuind decisiv la victoria echipei Fulham cu 3-0 împotriva lui AFC Wimbledon în Cupa Ligii. Această reușită personală a venit într-un moment important, ajutând-o pe Fulham să obțină prima victorie sub conducerea lui Alvaro Arbeloa. Performanța lui Muniz este un semn pozitiv pentru echipa londoneză, care își propune să avanseze cât mai mult în competiție.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-28T01:14:34.650404+00:00",
-      "data_afisaj": "28 august 2026, 04:14"
-    },
-    {
-      "id": "1eea58bc68df",
-      "titlu": "Manchester City este încrezătoare în transferul mijlocașului Enzo Fernández de la Chelsea",
-      "rezumat": "Conform presei sportive, Manchester City este optimistă în privința finalizării transferului mijlocașului Enzo Fernández de la Chelsea. Această mutare ar reprezenta o achiziție majoră pentru campioana Angliei, consolidându-și și mai mult lotul. Deși detaliile financiare nu sunt încă publice, negocierile par să progreseze, iar viitorul lui Fernández la Chelsea pare incert, având în vedere absența sa recentă din meciurile echipei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-28T01:14:34.651879+00:00",
-      "data_afisaj": "28 august 2026, 04:14"
-    },
-    {
-      "id": "179c805ae4e8",
-      "titlu": "Danny Welbeck marchează la debut pentru Chelsea în victoria din Cupa Ligii",
-      "rezumat": "Danny Welbeck a marcat la debutul său pentru Chelsea, contribuind la victoria cu 2-0 împotriva echipei Luton din League One, în turul doi al Cupei Ligii. Acesta a fost primul meci competitiv al lui Xabi Alonso ca manager pe Stamford Bridge, iar succesul a asigurat calificarea \"albaștrilor\" în runda următoare. Golul lui Welbeck reprezintă un început promițător pentru atacant și o confirmare a intențiilor de consolidare a lotului pentru noul antrenor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-28T01:14:34.653266+00:00",
-      "data_afisaj": "28 august 2026, 04:14"
-    },
-    {
-      "id": "7d179b670a87",
-      "titlu": "Jamie Carragher, fost jucător și actual comentator, riscă falimentul din cauza datoriilor fiscale",
-      "rezumat": "Jamie Carragher, fostul jucător al lui Liverpool și al naționalei Angliei, în prezent comentator sportiv, se confruntă cu o petiție de faliment din cauza unei facturi fiscale neplătite. Această situație ar putea avea implicații semnificative asupra finanțelor și imaginii publice a fostului fundaș. Detaliile complete ale sumei datorate și ale procedurilor legale nu au fost încă făcute publice, dar vestea a stârnit îngrijorare în rândul fanilor și al comunității fotbalistice.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-28T01:14:34.654763+00:00",
-      "data_afisaj": "28 august 2026, 04:14"
-    },
-    {
-      "id": "7b4bf5c70795",
-      "titlu": "Transferul lui Nick Pope de la Newcastle United este în pericol de a eșua",
-      "rezumat": "Viitorul portarului Nick Pope la Newcastle United este incert, transferul său fiind în pericol de a se prăbuși pe măsură ce se apropie termenul limită al ferestrei de transferuri. Detaliile contractuale și negocierile par să întâmpine dificultăți, punând sub semnul întrebării plecarea sa de la club în acest sezon. Situația creează presiune pentru toate părțile implicate, având în vedere timpul limitat rămas pentru finalizarea oricărei tranzacții.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-08-28T01:14:34.656159+00:00",
-      "data_afisaj": "28 august 2026, 04:14"
-    },
-    {
-      "id": "78d915307211",
-      "titlu": "Managerul Rangers își asumă responsabilitatea pentru eliminarea din Conference League",
-      "rezumat": "Managerul Derek McInnes a declarat că își asumă \"întreaga responsabilitate\" pentru eliminarea \"jenantă\" a echipei Rangers din Conference League, în urma înfrângerii la penalty-uri în fața formației cehe Jablonec. Echipa scoțiană a pierdut în play-off-ul competiției, după ce a remizat 1-1 la general, ratând calificarea în faza grupelor. Această eliminare timpurie ridică semne de întrebare cu privire la performanța și strategia echipei sub conducerea lui McInnes.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-28T00:48:08.799759+00:00",
-      "data_afisaj": "28 august 2026, 03:48"
-    },
-    {
-      "id": "afa06ed5f48d",
-      "titlu": "Ipswich Town îl transferă pe campionul mondial argentinian Exequiel Palacios",
-      "rezumat": "Clubul Ipswich Town a anunțat transferul mijlocașului argentinian Exequiel Palacios de la Bayer Leverkusen. Palacios, câștigător al Cupei Mondiale cu Argentina, devine primul jucător cu un astfel de titlu care semnează pentru Ipswich Town. Această mutare reprezintă o achiziție importantă pentru echipa engleză, aducând experiență și calitate la mijlocul terenului și subliniind ambițiile clubului în competițiile viitoare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-28T00:48:08.801029+00:00",
-      "data_afisaj": "28 august 2026, 03:48"
-    },
-    {
-      "id": "87ef7ce9b533",
-      "titlu": "Fenerbahce revine în Liga Campionilor după 18 ani de absență",
-      "rezumat": "Fenerbahce s-a calificat în faza grupelor Ligii Campionilor după o pauză de 18 ani. Echipa turcă a învins-o pe Lyon, grație golurilor marcate de Vedat Muriqi și Archie Brown, asigurându-și prezența în cea mai prestigioasă competiție europeană intercluburi. Această performanță marchează o revenire importantă pentru clubul din Istanbul pe scena fotbalului european de elită, generând entuziasm printre suporteri.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-28T00:48:08.802193+00:00",
-      "data_afisaj": "28 august 2026, 03:48"
-    },
-    {
-      "id": "442bcf332d4a",
-      "titlu": "Conducerea lui Atlético Madrid exclude definitiv transferul lui Julián Álvarez la Barcelona",
-      "rezumat": "Miguel Ángel Gil Marín, directorul executiv al clubului Atlético Madrid, a declarat ferm că atacantul argentinian Julián Álvarez nu va fi vândut \"niciodată\" către Barcelona. Gil Marín a acuzat clubul catalan de lipsă de onestitate în abordarea transferului, punând capăt speculațiilor intense legate de o posibilă mutare a jucătorului. Această declarație subliniază poziția intransigentă a lui Atlético în privința viitorului lui Álvarez.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-28T00:48:08.803462+00:00",
-      "data_afisaj": "28 august 2026, 03:48"
-    },
-    {
-      "id": "5bead033e20b",
-      "titlu": "Brighton se califică în faza grupelor Conference League",
-      "rezumat": "Echipa Brighton a obținut calificarea în faza grupelor Conference League, după o victorie convingătoare cu 4-0 împotriva formației norvegiene Tromso. Performanța solidă din prima repriză a asigurat un avantaj decisiv, permițând clubului englez să își asigure un loc în tragerea la sorți pentru faza ligii. Aceasta reprezintă o realizare importantă pentru Brighton, care își continuă parcursul european și își propune să avanseze în competiție.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-28T00:48:08.804562+00:00",
-      "data_afisaj": "28 august 2026, 03:48"
     }
   ]
 }
