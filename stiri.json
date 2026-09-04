@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-04T18:53:45.398591+00:00",
-  "updated_at_afisaj": "4 septembrie 2026, 21:53",
+  "updated_at": "2026-09-04T19:14:51.027690+00:00",
+  "updated_at_afisaj": "4 septembrie 2026, 22:14",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,52 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 129,
+  "numar_stiri": 133,
   "stiri": [
+    {
+      "id": "476b0ce75b38",
+      "titlu": "David Moyes, dezamăgit de activitatea Everton pe piața transferurilor",
+      "rezumat": "Antrenorul lui Everton, David Moyes, a declarat că trebuie să accepte \"dezamăgirile\" după ce clubul nu a reușit să finalizeze mai multe transferuri în ultima zi a perioadei de mercato. Moyes a recunoscut că și-ar fi dorit să aducă mai mulți jucători pentru a-și întări lotul, însă planurile sale nu s-au concretizat. Această situație lasă echipa într-o poziție dificilă, iar antrenorul va trebui să gestioneze lotul actual până la următoarea fereastră de transferuri.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-04T19:14:51.023067+00:00",
+      "data_afisaj": "4 septembrie 2026, 22:14"
+    },
+    {
+      "id": "05ab5ce3f21e",
+      "titlu": "Chelsea a reușit un transfer important cu Morgan Rogers, în timp ce Arsenal regretă oportunitatea ratată",
+      "rezumat": "Chelsea a considerat inițial că șansele de a-l semna pe Morgan Rogers erau mici la începutul verii, însă transferul s-a concretizat, iar jucătorul a avut un start excelent sub comanda lui Xabi Alonso. Arsenal, pe de altă parte, ar putea regreta că nu a reușit să-l aducă pe fostul jucător al lui Aston Villa, având în vedere performanțele sale actuale. Rogers fusese o țintă prioritară pentru echipa de recrutare a lui Chelsea, în ciuda unui sezon anterior dezamăgitor al clubului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-04T19:14:51.024605+00:00",
+      "data_afisaj": "4 septembrie 2026, 22:14"
+    },
+    {
+      "id": "12d00a8a0f05",
+      "titlu": "Antrenorii din Premier League, Michael Carrick și Unai Emery, abordează provocările echipelor",
+      "rezumat": "Michael Carrick a avertizat că nu există soluții rapide pentru problemele echipei sale, subliniind necesitatea unei abordări pe termen lung. Între timp, Unai Emery, antrenorul lui Aston Villa, a avut o discuție \"dificilă\" cu jucătorul Taylor Harwood-Bellis, indicând posibile tensiuni sau decizii importante în cadrul lotului. Aceste declarații reflectă provocările cu care se confruntă managerii în gestionarea echipelor și a așteptărilor în campionatul englez.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-04T19:14:51.026303+00:00",
+      "data_afisaj": "4 septembrie 2026, 22:14"
+    },
+    {
+      "id": "584eb12d019c",
+      "titlu": "Aston Villa primește o triplă veste bună înaintea meciului cu Hull City",
+      "rezumat": "Echipa Aston Villa, condusă de antrenorul Unai Emery, a primit o triplă veste bună în ceea ce privește lotul, chiar înainte de deplasarea la Hull City, programată sâmbătă. Această îmbunătățire a situației jucătorilor vine ca un impuls semnificativ pentru echipă, având în vedere problemele de accidentări cu care s-a confruntat recent. Detaliile exacte ale \"triplei vești bune\" nu sunt specificate, dar sugerează revenirea unor jucători importanți sau o îmbunătățire a stării medicale a acestora.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-09-04T19:14:51.027676+00:00",
+      "data_afisaj": "4 septembrie 2026, 22:14"
+    },
     {
       "id": "d622582e6ff0",
       "titlu": "Fără suporteri în deplasare la meciurile Old Firm din SPFL în acest sezon",
