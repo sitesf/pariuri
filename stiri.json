@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-04T12:31:08.227518+00:00",
-  "updated_at_afisaj": "4 septembrie 2026, 15:31",
+  "updated_at": "2026-09-04T18:53:45.398591+00:00",
+  "updated_at_afisaj": "4 septembrie 2026, 21:53",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 124,
+  "numar_stiri": 129,
   "stiri": [
+    {
+      "id": "d622582e6ff0",
+      "titlu": "Fără suporteri în deplasare la meciurile Old Firm din SPFL în acest sezon",
+      "rezumat": "Derby-urile dintre Celtic și Rangers din Premiership-ul Scoțian și Premier Sports Cup se vor disputa fără suporteri ai echipelor oaspete în acest sezon. Decizia a fost luată pentru a asigura ordinea publică și siguranța, o măsură care va afecta atmosfera unică a confruntărilor directe dintre cele două mari rivale din fotbalul scoțian. Această interdicție vizează toate meciurile directe din competițiile menționate, marcând o schimbare semnificativă în tradiția acestor confruntări intense.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-04T18:53:45.390947+00:00",
+      "data_afisaj": "4 septembrie 2026, 21:53"
+    },
+    {
+      "id": "fda418bf49dc",
+      "titlu": "Ramsdale, al patrulea portar la Southampton, va \"susține echipa\" conform antrenorului Eckert",
+      "rezumat": "Antrenorul echipei Southampton, Tonda Eckert, a declarat că portarul Aaron Ramsdale, deși a devenit a patra opțiune în ierarhia clubului, are în continuare un rol important de a \"susține echipa\". Această declarație vine în contextul în care Ramsdale se confruntă cu o scădere semnificativă a statutului său la club, dar antrenorul subliniază importanța contribuției sale la moralul și unitatea grupului. Eckert a reiterat că fiecare membru al lotului este valoros, indiferent de poziția sa în echipă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-04T18:53:45.392817+00:00",
+      "data_afisaj": "4 septembrie 2026, 21:53"
+    },
+    {
+      "id": "9dfab0c7e50c",
+      "titlu": "Jucătorii lui Manchester City au cerut informații despre transferul lui Enzo Fernandez, confirmă Maresca",
+      "rezumat": "Antrenorul lui Manchester City, Enzo Maresca, a dezvăluit că mai mulți jucători ai echipei au fost interesați și au cerut informații despre posibila venire a lui Enzo Fernandez în ultimele zile ale ferestrei de transferuri. Acest interes din partea lotului subliniază importanța pe care o acordă clubul și jucătorii săi întăririi echipei, chiar dacă transferul nu s-a concretizat. Maresca a menționat că discuțiile interne reflectă ambiția clubului de a aduce constant jucători de top.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-04T18:53:45.394670+00:00",
+      "data_afisaj": "4 septembrie 2026, 21:53"
+    },
+    {
+      "id": "77f5f0aa895e",
+      "titlu": "Fereastra de transferuri haotică a lăsat antrenorul lui Crystal Palace, Pierre Sage, cu emoții contradictorii",
+      "rezumat": "Antrenorul lui Crystal Palace, Pierre Sage, a traversat o fereastră de transferuri dificilă, fiind frustrat de eșecul de a aduce ținte defensive și de pierderea unor jucători în ultima zi. Deși a început sezonul cu înfrângeri împotriva lui Everton și Manchester City, Sage încearcă să extragă aspecte pozitive și să se concentreze pe obținerea primelor puncte, după o tranziție complicată de la era Oliver Glasner. Managerul a recunoscut provocările, dar rămâne optimist cu privire la potențialul echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-04T18:53:45.396567+00:00",
+      "data_afisaj": "4 septembrie 2026, 21:53"
+    },
+    {
+      "id": "61043bf5b6d4",
+      "titlu": "Fostul antrenor al lui Chelsea, Graham Potter, critică un club anterior într-o postare pe rețelele sociale",
+      "rezumat": "Graham Potter, fostul antrenor al echipei Chelsea, a lansat un atac voalat la adresa unui club anterior, pe care l-a descris ca fiind un \"loc disfuncțional\", într-o postare pe Instagram. Deși nu a numit explicit clubul, comentariul său a stârnit speculații, având în vedere experiențele sale recente. Această declarație subliniază tensiunile și provocările cu care se confruntă antrenorii în mediul fotbalistic de top, adăugând o notă personală la discuțiile despre managementul cluburilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-09-04T18:53:45.398567+00:00",
+      "data_afisaj": "4 septembrie 2026, 21:53"
+    },
     {
       "id": "29164089a30e",
       "titlu": "Mary Earps revine în Women's Super League și vizează o reîntâlnire cu Manchester United",
