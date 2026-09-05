@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-05T18:01:28.430358+00:00",
-  "updated_at_afisaj": "5 septembrie 2026, 21:01",
+  "updated_at": "2026-09-05T18:42:20.955453+00:00",
+  "updated_at_afisaj": "5 septembrie 2026, 21:42",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 123,
+  "numar_stiri": 128,
   "stiri": [
+    {
+      "id": "57f17825d3aa",
+      "titlu": "Glasner and Williams dispute VAR call over Forest handball",
+      "rezumat": "Nottingham Forest antrenor Oliver Glasner and Neco Williams believe VAR should not have ruled out defender's goal against Tottenham.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-05T18:42:03.755771+00:00",
+      "data_afisaj": "5 septembrie 2026, 21:42"
+    },
+    {
+      "id": "e987fc3b9570",
+      "titlu": "Fernandez and Ndiaye show signs of promise on Man City debuts",
+      "rezumat": "Manchester City gave £185m of deadline-day talent their Premier League debuts in the win over Coventry - and antrenor Enzo Maresca will have enjoyed what he saw.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-05T18:42:03.757287+00:00",
+      "data_afisaj": "5 septembrie 2026, 21:42"
+    },
+    {
+      "id": "f93e32e278f8",
+      "titlu": "Pompey boss apologises as Cardiff's Bielik clashes with fan",
+      "rezumat": "Portsmouth antrenor principal John Mousinho apologises to Cardiff City players after an incident involving home fans at Fratton Park during their Championship match.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-05T18:42:03.758778+00:00",
+      "data_afisaj": "5 septembrie 2026, 21:42"
+    },
+    {
+      "id": "e9db9afcf648",
+      "titlu": "Fulham booed off after third defeat in a row",
+      "rezumat": "Fulham arebooed off by some supporters following the 3-2 Premier League defeat by Crystal Palace at Craven Cottage.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-05T18:42:03.760168+00:00",
+      "data_afisaj": "5 septembrie 2026, 21:42"
+    },
+    {
+      "id": "4acb0284333a",
+      "titlu": "Williams goal 'should not have been disallowed' - Glasner",
+      "rezumat": "Nottingham Forest antrenor Oliver Glasner says his side \"lost two points\" following their goalless egal against Tottenham Hotspur. The Austrian insists and says Neco Williams' second-half disallowed goal should have stood.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-05T18:42:03.761662+00:00",
+      "data_afisaj": "5 septembrie 2026, 21:42"
+    },
     {
       "id": "e8cb8c05e391",
       "titlu": "Penalty-ul lui Le Fee salvează o remiză pentru Sunderland la Brentford",
