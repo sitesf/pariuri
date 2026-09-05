@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-05T11:13:44.915798+00:00",
-  "updated_at_afisaj": "5 septembrie 2026, 14:13",
+  "updated_at": "2026-09-05T11:39:32.080788+00:00",
+  "updated_at_afisaj": "5 septembrie 2026, 14:39",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 118,
+  "numar_stiri": 123,
   "stiri": [
+    {
+      "id": "f5e3e8a089fb",
+      "titlu": "Guendouzi și Greenwood suspendați după o altercație în Liga Campionilor",
+      "rezumat": "Mijlocașul lui Fenerbahce, Matteo Guendouzi, a primit o suspendare de patru meciuri în competițiile europene și o amendă de 50.000 de euro, în urma unei altercații care a avut loc după victoria echipei sale împotriva lui Lyon în play-off-ul Ligii Campionilor. Decizia subliniază consecințele acțiunilor nesportive în competițiile continentale, iar incidentul a atras atenția asupra comportamentului jucătorilor pe teren.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-05T11:39:32.074116+00:00",
+      "data_afisaj": "5 septembrie 2026, 14:39"
+    },
+    {
+      "id": "52a79879c202",
+      "titlu": "Liverpool caută un nou director sportiv după plecarea oficială a lui Richard Hughes",
+      "rezumat": "Liverpool este în căutarea celui de-al patrulea director sportiv în patru ani, după ce a confirmat plecarea oficială a lui Richard Hughes din funcție. Plecarea lui Hughes, în vârstă de 47 de ani, era anticipată de mult timp, acesta fiind așteptat să preia o poziție similară la clubul Al-Hilal din Liga Profesionistă Saudită. El a informat clubul Liverpool despre intențiile sale de a pleca la începutul acestui an, lăsând un gol important în structura administrativă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-05T11:39:32.075818+00:00",
+      "data_afisaj": "5 septembrie 2026, 14:39"
+    },
+    {
+      "id": "8f838c223bd0",
+      "titlu": "Real Madrid, antrenată de José Mourinho, învinsă de Real Betis printr-un gol al lui Troy Parrott",
+      "rezumat": "Real Madrid, sub conducerea lui José Mourinho, a suferit prima înfrângere în La Liga, fiind învinsă cu 1-0 de Real Betis. Golul decisiv a fost marcat de rezerva Troy Parrott cu nouă minute înainte de final, iar portarul Álvaro Valles a salvat un penalty executat de Kylian Mbappé în prelungiri. Meciul, disputat la Sevilla pe o vreme călduroasă, a marcat o surpriză în debutul sezonului, punând presiune pe echipa lui Mourinho.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-05T11:39:32.077645+00:00",
+      "data_afisaj": "5 septembrie 2026, 14:39"
+    },
+    {
+      "id": "773eb64973ed",
+      "titlu": "FCSB a realizat un nou transfer important, supranumit „al doilea Cisotti”",
+      "rezumat": "FCSB a confirmat un nou transfer considerat \"super\" pe piața internă, jucătorul fiind deja supranumit „al doilea Cisotti”. Detaliile specifice ale transferului, inclusiv numele jucătorului și suma implicată, nu au fost complet dezvăluite, dar se anticipează că acesta va aduce un plus de valoare echipei, similar impactului avut de Cisotti. Această mutare este așteptată să întărească lotul roș-albaștrilor pentru obiectivele din acest sezon.",
+      "categorie": "Fotbal",
+      "surse": [
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-09-05T11:39:32.079206+00:00",
+      "data_afisaj": "5 septembrie 2026, 14:39"
+    },
+    {
+      "id": "a7a88d3c7d93",
+      "titlu": "Un jucător părăsește Universitatea Craiova după 11 ani petrecuți la club",
+      "rezumat": "Un fotbalist important va pleca de la Universitatea Craiova după o perioadă de 11 ani petrecută la club. Această plecare marchează sfârșitul unei ere pentru jucătorul respectiv și pentru echipa olteană. Detaliile despre identitatea jucătorului și motivele despărțirii nu au fost specificate, dar se așteaptă ca această decizie să aibă un impact asupra strategiei clubului și a dinamicii lotului în viitorul apropiat.",
+      "categorie": "Fotbal",
+      "surse": [
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-09-05T11:39:32.080770+00:00",
+      "data_afisaj": "5 septembrie 2026, 14:39"
+    },
     {
       "id": "91857746b6a3",
       "titlu": "I've never spoken to Everton owner Friedkin - Moyes",
