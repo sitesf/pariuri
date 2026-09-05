@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-05T11:39:32.080788+00:00",
-  "updated_at_afisaj": "5 septembrie 2026, 14:39",
+  "updated_at": "2026-09-05T18:01:28.430358+00:00",
+  "updated_at_afisaj": "5 septembrie 2026, 21:01",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,63 @@
   },
   "numar_stiri": 123,
   "stiri": [
+    {
+      "id": "e8cb8c05e391",
+      "titlu": "Penalty-ul lui Le Fee salvează o remiză pentru Sunderland la Brentford",
+      "rezumat": "Enzo Le Fee a salvat un punct pentru Sunderland după ce a transformat penalty-ul său târziu pentru a asigura o remiză de 1-1 la Brentford.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-05T18:01:22.257653+00:00",
+      "data_afisaj": "5 septembrie 2026, 21:01"
+    },
+    {
+      "id": "535a87ec2e5d",
+      "titlu": "St Mirren vs Celtic știri echipe LIVE!",
+      "rezumat": "(rezumat indisponibil)",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-09-05T18:01:22.259190+00:00",
+      "data_afisaj": "5 septembrie 2026, 21:01"
+    },
+    {
+      "id": "a9d0c72ccdba",
+      "titlu": "'Nu e Football Manager' - De Zerbi spune că Spurs, care nu marchează, are nevoie de timp",
+      "rezumat": "Tottenham nu a reușit să marcheze în primele trei meciuri din Premier League, iar antrenorul Roberto de Zerbi spune că va dura timp pentru a construi echipa sa scumpă într-un colectiv.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-05T18:01:22.260888+00:00",
+      "data_afisaj": "5 septembrie 2026, 21:01"
+    },
+    {
+      "id": "3c4543ef882f",
+      "titlu": "Sezon nou, același defect - Speranțele la titlu ale lui Chelsea sunt deja sub lupă",
+      "rezumat": "Cu 11 minute rămase, Chelsea părea să se îndrepte spre victorie în meciul de deschidere din WSL împotriva lui Aston Villa. Atunci, cum au risipit-o?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-05T18:01:22.262435+00:00",
+      "data_afisaj": "5 septembrie 2026, 21:01"
+    },
+    {
+      "id": "0a01d6ade439",
+      "titlu": "Scott strălucește, Dedic se chinuie - Notele jucătorilor Newcastle v Bournemouth",
+      "rezumat": "Cum au fost notați jucătorii de la Newcastle United și Bournemouth în meciul lor din Premier League.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-05T18:01:22.263768+00:00",
+      "data_afisaj": "5 septembrie 2026, 21:01"
+    },
     {
       "id": "f5e3e8a089fb",
       "titlu": "Guendouzi și Greenwood suspendați după o altercație în Liga Campionilor",
@@ -1363,61 +1420,6 @@
       ],
       "data_publicare": "2026-08-29T19:17:28.427850+00:00",
       "data_afisaj": "29 august 2026, 22:17"
-    },
-    {
-      "id": "82595f3fb201",
-      "titlu": "Chelsea își ajustează prioritățile prin transferul lui Emiliano Martínez",
-      "rezumat": "Chelsea pare să își fi redefinit strategia de transferuri, concentrându-se pe achiziții de impact, conform The Guardian Football. Decizia de a-l aduce pe portarul Emiliano Martínez, câștigător al Cupei Mondiale, în locul lui Robert Sánchez, este văzută ca un semn al seriozității clubului pe piața transferurilor. Această mutare amintește de abordarea lui José Mourinho din 2004, când l-a înlocuit pe Carlo Cudicini cu Petr Cech pentru a asigura cel mai înalt nivel de performanță. Xabi Alonso, managerul echipei, pare să prioritizeze experiența și calitatea dovedită.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-29T13:37:55.292732+00:00",
-      "data_afisaj": "29 august 2026, 16:37"
-    },
-    {
-      "id": "0afe95e18dce",
-      "titlu": "Nottingham Forest pregătește o ofertă de 40 de milioane de lire sterline pentru adolescentul Armstrong de la Everton",
-      "rezumat": "Nottingham Forest a lansat o ofertă ambițioasă în valoare de 40 de milioane de lire sterline pentru a-l achiziționa pe mijlocașul adolescent Harrison Armstrong de la Everton. Această sumă considerabilă demonstrează interesul serios al clubului Forest pentru tânărul talent. Transferul, dacă se va concretiza, ar reprezenta o investiție majoră pentru viitorul echipei și ar putea influența semnificativ dinamica lotului lui Everton.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-29T13:02:01.330373+00:00",
-      "data_afisaj": "29 august 2026, 16:02"
-    },
-    {
-      "id": "474e9b90b42f",
-      "titlu": "Pauza internațională de trei săptămâni, o preocupare pentru Jose Mourinho",
-      "rezumat": "Jose Mourinho, antrenorul echipei Real Madrid, și-a exprimat îngrijorarea cu privire la pauza internațională de trei săptămâni. Tehnicianul portughez a subliniat că mai mulți jucători cheie ai echipei sale se vor confrunta cu un program solicitant după participarea la Cupa Mondială. Această perioadă prelungită departe de club ar putea afecta pregătirea fizică și coeziunea echipei înaintea reluării competițiilor interne și europene.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-29T13:02:01.331890+00:00",
-      "data_afisaj": "29 august 2026, 16:02"
-    },
-    {
-      "id": "1d8a63c2b760",
-      "titlu": "Orașul mic Elversberg își propune să sfideze așteptările la debutul în Bundesliga",
-      "rezumat": "Echipa de fotbal din Elversberg, un oraș cu doar 13.000 de locuitori și fără gară, a reușit o ascensiune meteorică din ligile regionale germane până în Bundesliga. Această performanță remarcabilă reprezintă o poveste de succes neașteptată în fotbalul german. Clubul își propune acum să demonstreze că poate concura la cel mai înalt nivel, sfidând previziunile și inspirând comunitatea locală prin determinarea și spiritul său de luptă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-29T13:02:01.333326+00:00",
-      "data_afisaj": "29 august 2026, 16:02"
-    },
-    {
-      "id": "152f6ce0f5fb",
-      "titlu": "Fulham negociază transferul fundașului român Andrei Rațiu de la Rayo Vallecano",
-      "rezumat": "Clubul englez Fulham se află în discuții avansate pentru a-l transfera pe fundașul român Andrei Rațiu, în vârstă de 28 de ani, de la echipa spaniolă Rayo Vallecano. Această potențială mutare ar aduce un jucător cu experiență internațională în Premier League. Negocierile vizează consolidarea apărării lui Fulham, iar prezența lui Rațiu ar putea oferi o soluție valoroasă pentru flancul drept al echipei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-29T13:02:01.334763+00:00",
-      "data_afisaj": "29 august 2026, 16:02"
     }
   ]
 }
