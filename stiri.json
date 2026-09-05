@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-04T19:14:51.027690+00:00",
-  "updated_at_afisaj": "4 septembrie 2026, 22:14",
+  "updated_at": "2026-09-05T11:13:44.915798+00:00",
+  "updated_at_afisaj": "5 septembrie 2026, 14:13",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,65 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 133,
+  "numar_stiri": 118,
   "stiri": [
+    {
+      "id": "91857746b6a3",
+      "titlu": "I've never spoken to Everton owner Friedkin - Moyes",
+      "rezumat": "Everton antrenor David Moyes says he has never met or spoken to the club's owner Dan Friedkin.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-05T11:12:27.336196+00:00",
+      "data_afisaj": "5 septembrie 2026, 14:12"
+    },
+    {
+      "id": "2129c86650a2",
+      "titlu": "Newcastle United v Bournemouth: Premier League – live",
+      "rezumat": "Updates from St James’ Park, start 12.30pm (BST) Premier League: 10 things to look out for | Mail David A big question: do the two German antrenors know each other? Bournemouth’s Marco Rose (49) is 11 years older than Newcastle’s Matthias Jaissle (just 38) but, yes, their paths have crossed. Here’s Rose: “I know Matthias from Salzburg because I was the antrenor there and he succeeded, not me, but the antrenor after me, or after the antrenor after me! I visited old friends at the training ground a",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-05T11:12:27.337814+00:00",
+      "data_afisaj": "5 septembrie 2026, 14:12"
+    },
+    {
+      "id": "51e7640f043b",
+      "titlu": "Isak finally arrives as Gakpo proves value to Liverpool",
+      "rezumat": "Has the real Alexander Isak finally arrived at Liverpool after his two-goal display in their Premier League win at Ipswich Town, asks chief football writer Phil McNulty?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-05T11:12:27.339299+00:00",
+      "data_afisaj": "5 septembrie 2026, 14:12"
+    },
+    {
+      "id": "55ff0463bb4a",
+      "titlu": "Superstar-led London City live up to hype as Man Utd suffer",
+      "rezumat": "There was an expectation on London City Lionesses to live up to the hype and deliver in the Women's Super League's season opener - and they did.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-05T11:12:27.340862+00:00",
+      "data_afisaj": "5 septembrie 2026, 14:12"
+    },
+    {
+      "id": "33645aaff520",
+      "titlu": "Man Utd made midfield recruitment summer priority - what happens now?",
+      "rezumat": "Michael Carrick says Manchester United have balance in their midfield following a £150m summer recruitment campaign - so who plays?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-05T11:12:27.342157+00:00",
+      "data_afisaj": "5 septembrie 2026, 14:12"
+    },
     {
       "id": "476b0ce75b38",
       "titlu": "David Moyes, dezamăgit de activitatea Everton pe piața transferurilor",
@@ -1306,229 +1363,6 @@
       ],
       "data_publicare": "2026-08-29T13:02:01.334763+00:00",
       "data_afisaj": "29 august 2026, 16:02"
-    },
-    {
-      "id": "99b818bf75ab",
-      "titlu": "Tottenham a respins oferta de împrumut pentru Danso de la Sunderland",
-      "rezumat": "Tottenham Hotspur a refuzat o ofertă de împrumut pe durata unui sezon din partea clubului Sunderland pentru fundașul Kevin Danso. Decizia subliniază intenția lui Tottenham de a păstra jucătorul în lot sau de a explora alte opțiuni pentru viitorul său. Danso rămâne astfel în lotul echipei londoneze, cel puțin pentru moment, în ciuda interesului manifestat de clubul din Championship. Această respingere indică o strategie clară a clubului londonez în privința gestionării jucătorilor săi.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-29T00:49:09.066001+00:00",
-      "data_afisaj": "29 august 2026, 03:49"
-    },
-    {
-      "id": "c9abde6f1462",
-      "titlu": "Brighton îl numește pe Ruiz antrenor principal după plecarea surprinzătoare a lui Vidosic",
-      "rezumat": "Clubul Brighton a confirmat numirea lui Arturo Ruiz în funcția de antrenor principal al echipei feminine, în urma plecării neașteptate a lui Dario Vidosic. Această schimbare la nivelul conducerii tehnice marchează un nou capitol pentru echipa feminină a lui Brighton, cu Ruiz preluând frâiele pentru a continua dezvoltarea și performanța clubului în competițiile interne și internaționale. Numirea sa vine într-un moment crucial pentru obiectivele echipei în noul sezon.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-29T00:49:09.067543+00:00",
-      "data_afisaj": "29 august 2026, 03:49"
-    },
-    {
-      "id": "a828891eaf47",
-      "titlu": "Andoni Iraola le cere atacanților lui Liverpool să se 'epuizeze' pe teren",
-      "rezumat": "Antrenorul principal al lui Liverpool, Andoni Iraola, a declarat că este mai important ca atacanții săi să se epuizeze pe teren decât să joace 90 de minute complete. Înaintea primului său meci acasă în Premier League, Iraola speră ca opțiunile sale ofensive să fie îmbunătățite de sosirea lui Bradley Barcola de la Paris Saint-Germain și a unui alt aripă înainte de termenul limită al transferurilor. El dorește o abordare intensă și dinamică din partea jucătorilor săi, punând accent pe efortul maxim.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-29T00:49:09.069031+00:00",
-      "data_afisaj": "29 august 2026, 03:49"
-    },
-    {
-      "id": "8535d8c0e393",
-      "titlu": "Liverpool și Chelsea se luptă pentru un mijlocaș de 40 de milioane de euro",
-      "rezumat": "Liverpool și Chelsea sunt angrenate într-o dispută intensă pe piața transferurilor pentru un mijlocaș internațional evaluat la 40 de milioane de euro, înainte de închiderea ferestrei. Ambele cluburi ar putea depune oferte competitive pentru jucător, subliniind urgența și importanța achiziției pentru planurile lor. Această luptă de ultim moment adaugă dramatism perioadei de transferuri, cu ambele echipe căutând să-și întărească loturile pentru a-și atinge obiectivele din acest sezon.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-08-29T00:49:09.070442+00:00",
-      "data_afisaj": "29 august 2026, 03:49"
-    },
-    {
-      "id": "231f30dc5232",
-      "titlu": "Analiză: Cine a primit cele mai dificile meciuri în faza ligii Ligii Campionilor?",
-      "rezumat": "După tragerea la sorți a fazei ligii Ligii Campionilor, o analiză Opta a evaluat dificultatea programului pentru cele 36 de cluburi participante. În timp ce Liverpool și Arsenal au beneficiat de o tragere la sorți considerată favorabilă, Manchester City și Aston Villa se confruntă cu adversari considerați mai puternici. Fiecare echipă are opt adversari diferiți, iar studiul subliniază inegalitatea condițiilor de joc în această fază a competiției, oferind o perspectivă asupra provocărilor viitoare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-29T00:49:09.072048+00:00",
-      "data_afisaj": "29 august 2026, 03:49"
-    },
-    {
-      "id": "b84be6393497",
-      "titlu": "Fotbal European: PSG obține o remiză, Bayern începe sezonul în forță",
-      "rezumat": "Paris Saint-Germain a înregistrat o remiză de 2-2 împotriva echipei Lille, cu un gol marcat de Marquinhos în prelungiri, continuând astfel un început dificil de sezon în Ligue 1. Între timp, în Bundesliga, Bayern Munchen a avut o deschidere spectaculoasă, învingând Stuttgart cu 5-1 pe Allianz Arena. Rezultatele marchează un contrast puternic în debutul campionatelor pentru cele două mari cluburi europene.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-29T00:28:47.780130+00:00",
-      "data_afisaj": "29 august 2026, 03:28"
-    },
-    {
-      "id": "22376126924f",
-      "titlu": "Toate meciurile din faza ligii Ligii Campionilor 2026/27 au fost stabilite",
-      "rezumat": "Programul complet al meciurilor din faza ligii Ligii Campionilor pentru sezonul 2026/27 a fost publicat, oferind detalii despre confruntările majore care vor avea loc pe întreg continentul. Cele 36 de cluburi participante își cunosc acum adversarii pentru cele opt etape ale fazei ligii, pregătindu-se pentru o nouă ediție a celei mai prestigioase competiții europene intercluburi.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-08-29T00:28:47.781621+00:00",
-      "data_afisaj": "29 august 2026, 03:28"
-    },
-    {
-      "id": "615d254ec79b",
-      "titlu": "De Zerbi dorește încă o achiziție pentru Tottenham înainte de închiderea ferestrei de transferuri",
-      "rezumat": "Antrenorul principal al lui Tottenham, Roberto De Zerbi, a declarat că își dorește să aducă încă un jucător în lotul său înainte de termenul limită al transferurilor de marți seară. De Zerbi a discutat cu proprietarii clubului despre o ultimă ofensivă pe piața transferurilor, după ce fereastra a depășit deja așteptările sale. Pe lângă posibilele achiziții, antrenorul a menționat și că ar putea exista plecări de jucători.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-29T00:28:47.783218+00:00",
-      "data_afisaj": "29 august 2026, 03:28"
-    },
-    {
-      "id": "f28c168055bb",
-      "titlu": "Jose Mourinho va reveni la Chelsea într-un eveniment neașteptat",
-      "rezumat": "Fostul antrenor al echipei Chelsea, Jose Mourinho, este programat să revină pe Stamford Bridge în acest sezon, într-o apariție neașteptată. Detaliile exacte ale evenimentului nu au fost specificate, dar prezența sa la clubul londonez, unde a avut două mandate de succes, este un subiect de interes pentru fani și presa sportivă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-08-29T00:28:47.784426+00:00",
-      "data_afisaj": "29 august 2026, 03:28"
-    },
-    {
-      "id": "dd69c553c7dc",
-      "titlu": "Manchester United o transferă pe aripa suedeză Monica Jusu Bah",
-      "rezumat": "Manchester United a confirmat achiziționarea aripii suedeze Monica Jusu Bah de la clubul BK Hacken, pentru o sumă de puțin sub 400.000 de lire sterline. Transferul marchează o nouă adăugare importantă pentru echipa feminină a clubului, consolidând lotul cu o jucătoare considerată promițătoare și demonstrând angajamentul clubului față de dezvoltarea secției de fotbal feminin.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-29T00:28:47.785633+00:00",
-      "data_afisaj": "29 august 2026, 03:28"
-    },
-    {
-      "id": "f12310c9c3da",
-      "titlu": "🚨 LIVE U Cluj – Petrolul se joacă în etapa 7 din Superliga. Festival de goluri pe Cluj Arena! Două reușite în primele 10 minute din repriza secundă",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-08-28T19:54:04.690143+00:00",
-      "data_afisaj": "28 august 2026, 22:54"
-    },
-    {
-      "id": "b0bef971fcde",
-      "titlu": "Ordonez's move to Palace in doubt after medical",
-      "rezumat": "Club Brugge defender Joel Ordonez's move to Crystal Palace runs into complications after his medical, with the Eagles set to decide whether to proceed with the deal.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-28T19:54:04.691322+00:00",
-      "data_afisaj": "28 august 2026, 22:54"
-    },
-    {
-      "id": "dd8d8a6913dc",
-      "titlu": "Departing Watkins apologised for refusing to play - Emery",
-      "rezumat": "Ollie Watkins is leaving Aston Villa as their record Premier League goalscorer.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-28T19:54:04.692470+00:00",
-      "data_afisaj": "28 august 2026, 22:54"
-    },
-    {
-      "id": "44919b53f22a",
-      "titlu": "Sunderland and Bournemouth egal AC Milan in Europa League",
-      "rezumat": "Sunderland will mark their first European campaign since 1973 with a trip to the San Siro after egaling AC Milan in the Europa League league phase.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-28T19:54:04.693597+00:00",
-      "data_afisaj": "28 august 2026, 22:54"
-    },
-    {
-      "id": "9ed9d6cc937f",
-      "titlu": "How will Scottish clubs respond to Euro disappointments?",
-      "rezumat": "Read the best storylines before this weekend's full card of Scottish Premiership mecis.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-28T19:54:04.694730+00:00",
-      "data_afisaj": "28 august 2026, 22:54"
-    },
-    {
-      "id": "2d587ccc7a44",
-      "titlu": "Wrexham vs Birmingham pe Sky LIVE!",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-28T19:20:45.708676+00:00",
-      "data_afisaj": "28 august 2026, 22:20"
-    },
-    {
-      "id": "4009490ffca4",
-      "titlu": "Crystal Palace v Manchester City: Premier League – live",
-      "rezumat": "Actualizări de la ora 20:00 (BST) de la Selhurst Park Contactați-ne: trimiteți un email lui Michael despre meci Echipele au ieșit pe teren! Palace în roșu și albastru, în timp ce City poartă echipamentul lor negru de deplasare, cu o bordură aurie. „Se simte că Maresca încearcă să facă lucruri ciudate pentru că Guardiola obișnuia și el încearcă să fie ca el. E prea dur?” scrie Joshua Keeling. Continuă să citești...",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-28T19:20:45.709934+00:00",
-      "data_afisaj": "28 august 2026, 22:20"
-    },
-    {
-      "id": "666512707c7a",
-      "titlu": "Ce va aduce Jackson la Villa, în condițiile în care Watkins este pe cale să plece?",
-      "rezumat": "BBC Sport analizează ce va aduce noul atacant Nicolas Jackson la Aston Villa, în condițiile în care Ollie Watkins pare să se alăture echipei Al-Hilal.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-28T19:20:45.711050+00:00",
-      "data_afisaj": "28 august 2026, 22:20"
-    },
-    {
-      "id": "ceb40e046e08",
-      "titlu": "Diviziune, dramă și putere - ce urmează pentru Infantino și Uefa?",
-      "rezumat": "Documente judiciare explozive dezvăluie amărăciunea crescândă a disputei Uefa cu președintele Fifa, Gianni Infantino, relatează Dan Roan.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-28T19:20:45.712192+00:00",
-      "data_afisaj": "28 august 2026, 22:20"
-    },
-    {
-      "id": "411b8642a3c0",
-      "titlu": "Celtic și Rangers vor juca meciurile de cupă de acasă cu porțile închise după tulburările provocate de fani",
-      "rezumat": "Celtic și Rangers au primit ordin să joace următoarele lor meciuri de acasă din Cupa Scoției cu porțile închise, după tulburările provocate de fani sezonul trecut.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-28T19:20:45.713389+00:00",
-      "data_afisaj": "28 august 2026, 22:20"
     }
   ]
 }
