@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-06T18:09:10.043991+00:00",
-  "updated_at_afisaj": "6 septembrie 2026, 21:09",
+  "updated_at": "2026-09-06T18:46:23.414121+00:00",
+  "updated_at_afisaj": "6 septembrie 2026, 21:46",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 127,
+  "numar_stiri": 132,
   "stiri": [
+    {
+      "id": "003130116b8a",
+      "titlu": "S-au încins spiritele! Andrei Nicolescu și Mihai Stoica s-au contrat în studio după Dinamo – FCSB: „Mi se pare o chestie ciudată”",
+      "rezumat": "(rezumat indisponibil)",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-09-06T18:46:05.945561+00:00",
+      "data_afisaj": "6 septembrie 2026, 21:46"
+    },
+    {
+      "id": "3e3cb2cb1167",
+      "titlu": "New contenders emerge on WSL return - but Man City start strong",
+      "rezumat": "The Women’s Super League returned this weekend and with it a host of new signings, improved squads and unexpected results.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-06T18:46:05.947178+00:00",
+      "data_afisaj": "6 septembrie 2026, 21:46"
+    },
+    {
+      "id": "5a9137c2b526",
+      "titlu": "Ex-Leicester striker Vardy joins Burnley",
+      "rezumat": "Former Leicester City and England striker Jamie Vardy joins Burnley until the end of the season.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-06T18:46:05.948612+00:00",
+      "data_afisaj": "6 septembrie 2026, 21:46"
+    },
+    {
+      "id": "59d34b49ca28",
+      "titlu": "Police investigate Bielik fan clash at Portsmouth",
+      "rezumat": "Police are investigating an incident between Cardiff defender Krystian Bielik and a Portsmouth supporter during Pompey's 2-0 home win on Saturday.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-06T18:46:05.950018+00:00",
+      "data_afisaj": "6 septembrie 2026, 21:46"
+    },
+    {
+      "id": "daa5b08a9947",
+      "titlu": "Baum scores on debut as Arsenal edge Brighton",
+      "rezumat": "Lisa Baum scores on her Arsenal debut as the Gunners beat Brighton 1-0 in the Women's Super League.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-06T18:46:05.951434+00:00",
+      "data_afisaj": "6 septembrie 2026, 21:46"
+    },
     {
       "id": "b8394b395936",
       "titlu": "Golul târziu cu capul al lui Vuskovic salvează un punct pentru Brighton împotriva lui Leeds",
