@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-06T11:35:30.493556+00:00",
-  "updated_at_afisaj": "6 septembrie 2026, 14:35",
+  "updated_at": "2026-09-06T11:58:45.797997+00:00",
+  "updated_at_afisaj": "6 septembrie 2026, 14:58",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 125,
+  "numar_stiri": 130,
   "stiri": [
+    {
+      "id": "b5cf47fe4c48",
+      "titlu": "How much will Celtic miss Asian Games-bound Yang?",
+      "rezumat": "Yang Hyun-jun illustrated his importance to Celtic with a vital goal against St Mirren before heading off for the Asian Games.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-06T11:58:27.825435+00:00",
+      "data_afisaj": "6 septembrie 2026, 14:58"
+    },
+    {
+      "id": "55ea0488d909",
+      "titlu": "How Man Utd plan to compete at top with big-spending rivals",
+      "rezumat": "Antrenor Michael Carrick and chief executive Omar Berrada are united in their viewthat Manchester United can be successful despite the club's relatively low summer spending.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-06T11:58:27.826910+00:00",
+      "data_afisaj": "6 septembrie 2026, 14:58"
+    },
+    {
+      "id": "973e6b8cc696",
+      "titlu": "Fans furious with Robinson, but what is going wrong at Aberdeen?",
+      "rezumat": "After a fourth straight Scottish Premiership game without a goal and just one league win this season, what is wrong with Aberdeen?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-06T11:58:27.828286+00:00",
+      "data_afisaj": "6 septembrie 2026, 14:58"
+    },
+    {
+      "id": "adc06ddcec8a",
+      "titlu": "Foxes pain and Burnley suffer hangover - Aaron McLean's EFL takeaways",
+      "rezumat": "Leicester, Millwall, Swindon, Stoke and Burnley are among the talking points from this weekend's EFL matches.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-06T11:58:27.829600+00:00",
+      "data_afisaj": "6 septembrie 2026, 14:58"
+    },
+    {
+      "id": "0903a78d08b0",
+      "titlu": "Forest and Spurs remain winless after disallowed goal drama in egal",
+      "rezumat": "Tottenham are still waiting for their first Premier League win of the season after a scrappy egal at Nottingham Forest.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-06T11:58:27.830864+00:00",
+      "data_afisaj": "6 septembrie 2026, 14:58"
+    },
     {
       "id": "82049a164e17",
       "titlu": "Gică Hagi a anunțat lotul preliminar extins al României pentru meciurile din Liga Națiunilor! Ce surprize a pregătit „Regele”",
