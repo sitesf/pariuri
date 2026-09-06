@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-06T11:58:45.797997+00:00",
-  "updated_at_afisaj": "6 septembrie 2026, 14:58",
+  "updated_at": "2026-09-06T18:09:10.043991+00:00",
+  "updated_at_afisaj": "6 septembrie 2026, 21:09",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,66 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 130,
+  "numar_stiri": 127,
   "stiri": [
+    {
+      "id": "b8394b395936",
+      "titlu": "Golul târziu cu capul al lui Vuskovic salvează un punct pentru Brighton împotriva lui Leeds",
+      "rezumat": "Leeds a fost privată de prima victorie în Premier League pe American Express Stadium, deoarece Brighton a revenit de la un dezavantaj pentru a împărți punctele.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-06T18:09:04.556963+00:00",
+      "data_afisaj": "6 septembrie 2026, 21:09"
+    },
+    {
+      "id": "921b2bfba5d4",
+      "titlu": "Aston Villa rămâne fără victorie după egalul de la Hull",
+      "rezumat": "Aston Villa rămâne fără victorie după trei meciuri în noul sezon de Premier League, după ce a fost ținută la un egal fără goluri de nou-promovata Hull City.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-06T18:09:04.558060+00:00",
+      "data_afisaj": "6 septembrie 2026, 21:09"
+    },
+    {
+      "id": "6c2e1f789635",
+      "titlu": "Președintele Fifa Infantino va candida pentru realegere",
+      "rezumat": "Președintele Fifa, Gianni Infantino, va candida pentru realegere în martie, a confirmat organismul de conducere mondial.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-06T18:09:04.559134+00:00",
+      "data_afisaj": "6 septembrie 2026, 21:09"
+    },
+    {
+      "id": "95637bd5a643",
+      "titlu": "Odegaard și Saka strălucesc - notele jucătorilor pentru Arsenal v Chelsea",
+      "rezumat": "Cum au fost notați jucătorii lui Arsenal și Chelsea după meciul lor din Premier League.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-06T18:09:04.560257+00:00",
+      "data_afisaj": "6 septembrie 2026, 21:09"
+    },
+    {
+      "id": "a35e5432ce4e",
+      "titlu": "Man Utd nu poate ignora punctele pierdute, în ciuda aspectelor pozitive",
+      "rezumat": "Antrenorul lui Manchester United, Michael Carrick, rămâne optimist, în ciuda faptului că echipa sa a pierdut încă două puncte la Everton.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-06T18:09:04.561339+00:00",
+      "data_afisaj": "6 septembrie 2026, 21:09"
+    },
     {
       "id": "b5cf47fe4c48",
       "titlu": "How much will Celtic miss Asian Games-bound Yang?",
@@ -1402,100 +1460,6 @@
       ],
       "data_publicare": "2026-08-30T19:09:52.816814+00:00",
       "data_afisaj": "30 august 2026, 22:09"
-    },
-    {
-      "id": "45eda85afafa",
-      "titlu": "Meciuri live din Premier League: Chelsea, Leeds și Sunderland în acțiune",
-      "rezumat": "Trei confruntări din Premier League au loc astăzi, cu Chelsea întâlnind Brighton, Leeds jucând împotriva lui Brentford și Sunderland înfruntând Fulham. Fanii fotbalului pot urmări actualizări în direct de la aceste partide, care au început la ora 14:00 (BST). Aceste meciuri sunt cruciale pentru echipe în lupta pentru puncte în campionatul englez, influențând pozițiile în clasament și aspirațiile sezoniere.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "GSP.ro",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-30T13:34:21.812968+00:00",
-      "data_afisaj": "30 august 2026, 16:34"
-    },
-    {
-      "id": "857287c25c0b",
-      "titlu": "Barcelona, aproape de un acord pentru transferul lui Gabriel Jesus de la Arsenal",
-      "rezumat": "Clubul spaniol Barcelona este aproape de a finaliza un transfer pentru atacantul lui Arsenal, Gabriel Jesus. Afacerea este evaluată la 8,6 milioane de lire sterline. Această mutare ar putea reprezenta o întărire semnificativă pentru ofensiva Barcelonei, aducând experiență și calitate în atac. Pentru Jesus, ar marca o nouă etapă importantă în cariera sa internațională, într-unul dintre cele mai prestigioase campionate europene.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-30T13:34:21.814461+00:00",
-      "data_afisaj": "30 august 2026, 16:34"
-    },
-    {
-      "id": "4400960ae026",
-      "titlu": "Coventry City îl împrumută pe Stephen Mfuni de la Manchester City",
-      "rezumat": "Coventry City a anunțat semnarea fundașului englez Stephen Mfuni de la Manchester City, printr-un acord de împrumut pe durata unui sezon. Această mutare îi va oferi tânărului jucător oportunitatea de a acumula experiență la nivel de seniori într-un campionat competitiv. Transferul este benefic pentru dezvoltarea lui Mfuni și pentru a contribui la obiectivele echipei Coventry în campionatul în curs.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-30T13:34:21.815844+00:00",
-      "data_afisaj": "30 august 2026, 16:34"
-    },
-    {
-      "id": "6e562954d3ff",
-      "titlu": "Tottenham, pe ultimul loc în Premier League după investiții de peste 300 de milioane de lire sterline",
-      "rezumat": "În ciuda cheltuielilor de peste 300 de milioane de lire sterline în perioada de transferuri de vară, Tottenham se află pe ultimul loc în clasamentul Premier League, fără niciun punct sau gol marcat. Cu toate acestea, antrenorul Roberto de Zerbi își menține optimismul, în ciuda startului dezamăgitor de sezon al echipei sale. Situația actuală ridică semne de întrebare privind eficiența investițiilor masive.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-30T13:34:21.818170+00:00",
-      "data_afisaj": "30 august 2026, 16:34"
-    },
-    {
-      "id": "d844a47b16d1",
-      "titlu": "Analiză: Opt transferuri între Chelsea și Aston Villa în patru ani",
-      "rezumat": "După mutarea lui Emiliano Martínez, BBC Sport analizează de ce Aston Villa și Chelsea au devenit două dintre cluburile cu cele mai active parteneriate de transferuri din Premier League începând cu anul 2022. Această tendință subliniază o relație de afaceri tot mai strânsă între cele două echipe, cu un număr considerabil de jucători schimbând taberele în ultimii ani. Articolul explorează factorii care au contribuit la această frecvență a tranzacțiilor, oferind o perspectivă asupra strategiilor de piață ale ambelor cluburi.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-30T12:39:57.682280+00:00",
-      "data_afisaj": "30 august 2026, 15:39"
-    },
-    {
-      "id": "a4f73c8b52ae",
-      "titlu": "Tottenham și Everton, discuții avansate pentru transferurile lui Ndiaye și Richarlison",
-      "rezumat": "Tottenham Hotspur și Everton se află în negocieri avansate pentru transferurile separate ale jucătorilor Iliman Ndiaye și Richarlison. Conform rapoartelor, Ndiaye ar urma să ajungă la Tottenham, în timp ce Richarlison ar face mișcarea inversă, revenind la Everton. Aceste discuții indică o posibilă reconfigurare a loturilor pentru ambele cluburi înainte de închiderea ferestrei de transferuri, cu implicații semnificative pentru strategiile lor ofensive și echilibrul echipelor în noul sezon.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-30T12:39:57.683720+00:00",
-      "data_afisaj": "30 august 2026, 15:39"
-    },
-    {
-      "id": "16afafe9e183",
-      "titlu": "Everton anulează vânzarea lui Harrison Armstrong după reacția fanilor",
-      "rezumat": "Clubul Everton a anulat un acord propus pentru vânzarea mijlocașului Harrison Armstrong către Nottingham Forest. Decizia vine în urma unei reacții negative puternice din partea suporterilor clubului, care și-au exprimat opoziția față de plecarea tânărului jucător. Această situație subliniază influența crescândă a bazei de fani în deciziile de transfer ale cluburilor, mai ales în cazul jucătorilor considerați promițători, și ar putea influența viitoarele strategii de transfer ale echipei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-30T12:39:57.685076+00:00",
-      "data_afisaj": "30 august 2026, 15:39"
-    },
-    {
-      "id": "50a694e8f515",
-      "titlu": "Manchester City inițiază discuții cu Liverpool pentru transferul lui Cody Gakpo",
-      "rezumat": "Manchester City a deschis negocierile cu Liverpool pentru transferul atacantului olandez Cody Gakpo. Deși jucătorul a atras și interesul lui Tottenham, surse apropiate situației indică faptul că Manchester City este destinația preferată a lui Gakpo, în cazul în care ar părăsi Anfield. Această potențială mutare ar reprezenta o lovitură importantă pe piața transferurilor, consolidând și mai mult ofensiva campioanei en-titre și adăugând o nouă dimensiune atacului său stelar.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-30T12:39:57.687094+00:00",
-      "data_afisaj": "30 august 2026, 15:39"
     }
   ]
 }
