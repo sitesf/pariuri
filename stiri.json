@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-10T12:43:12.264834+00:00",
-  "updated_at_afisaj": "10 septembrie 2026, 15:43",
+  "updated_at": "2026-09-10T19:01:18.742783+00:00",
+  "updated_at_afisaj": "10 septembrie 2026, 22:01",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,53 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 134,
+  "numar_stiri": 138,
   "stiri": [
+    {
+      "id": "534a1d7dfbd4",
+      "titlu": "Tavi Popescu a părăsit FCSB, transfer confirmat de Gigi Becali",
+      "rezumat": "Atacantul Tavi Popescu a plecat de la echipa FCSB, conform anunțului făcut de patronul Gigi Becali. Deși detaliile complete ale transferului nu au fost publicate, Becali a confirmat plecarea jucătorului, declarând simplu „L-am dat!”. Această mutare marchează o schimbare importantă în lotul vicecampioanei României și vine în contextul pregătirilor pentru noul sezon competițional. Plecarea lui Popescu ar putea deschide noi oportunități pentru alți jucători tineri din cadrul clubului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-09-10T19:01:18.737280+00:00",
+      "data_afisaj": "10 septembrie 2026, 22:01"
+    },
+    {
+      "id": "19125f89c294",
+      "titlu": "Arsenal este aproape de a finaliza noul contract pentru Mikel Arteta",
+      "rezumat": "Mikel Arteta, antrenorul principal al campioanei en-titre din Premier League, Arsenal, este pe punctul de a semna un nou contract cu clubul. Negocierile sunt în stadii avansate, iar anunțul oficial este așteptat în curând. Această decizie subliniază încrederea conducerii în viziunea și capacitatea lui Arteta de a menține echipa la cel mai înalt nivel, după un sezon de succes în care Arsenal a cucerit titlul. Prelungirea contractului ar asigura stabilitate pe termen lung la cârma echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-10T19:01:18.738991+00:00",
+      "data_afisaj": "10 septembrie 2026, 22:01"
+    },
+    {
+      "id": "2a5754e5b74e",
+      "titlu": "Tottenham și Richarlison, în dispută privind contractul jucătorului",
+      "rezumat": "Clubul Tottenham Hotspur și atacantul său, Richarlison, se află într-o dispută legată de ultimele nouă luni rămase din contractul acestuia. Situația contractuală a jucătorului brazilian a devenit un subiect de discuție, iar negocierile pentru o posibilă prelungire sau o reziliere amiabilă par să fi ajuns într-un impas. Această neînțelegere ar putea influența viitorul lui Richarlison la club și performanța echipei în sezonul actual, adăugând tensiuni în vestiarul londonez.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-10T19:01:18.740753+00:00",
+      "data_afisaj": "10 septembrie 2026, 22:01"
+    },
+    {
+      "id": "3947e6ac32ad",
+      "titlu": "Washington Spirit o transferă pe Clara Luvanga într-o tranzacție considerată record în fotbalul feminin",
+      "rezumat": "Atacanta tanzaniană Clara Luvanga a fost transferată la clubul Washington Spirit de la Al-Nassr, într-o tranzacție despre care se crede că ar fi una dintre cele mai costisitoare din istoria fotbalului feminin, posibil chiar un record mondial. Această mutare subliniază creșterea investițiilor și a valorii jucătoarelor în fotbalul feminin la nivel global. Luvanga este așteptată să aducă un plus de valoare echipei Washington Spirit, consolidându-i poziția pe piața transferurilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-10T19:01:18.742762+00:00",
+      "data_afisaj": "10 septembrie 2026, 22:01"
+    },
     {
       "id": "8c57a59338ec",
       "titlu": "Mauricio Pochettino își exprimă dorința de a reveni în Premier League",
