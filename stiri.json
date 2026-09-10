@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-10T19:01:18.742783+00:00",
-  "updated_at_afisaj": "10 septembrie 2026, 22:01",
+  "updated_at": "2026-09-10T19:23:58.812972+00:00",
+  "updated_at_afisaj": "10 septembrie 2026, 22:23",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,52 @@
   },
   "numar_stiri": 138,
   "stiri": [
+    {
+      "id": "91b889a42c95",
+      "titlu": "Alexis Mac Allister impresionează pentru Liverpool în victoria din Liga Campionilor",
+      "rezumat": "Mijlocașul Alexis Mac Allister a avut o prestație decisivă, marcând golul victoriei pentru Liverpool în meciul din Liga Campionilor împotriva lui Atletico Madrid. Această evoluție remarcabilă vine într-un context tensionat, după ce jucătorul și-a exprimat public \"tristețea\" față de lipsa unei oferte de prelungire a contractului din partea clubului, în timp ce alți coechipieri au primit noi înțelegeri. Performanța sa pe teren a fost interpretată ca un mesaj clar adresat conducerii clubului, demonstrându-și valoarea incontestabilă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-10T19:23:58.807155+00:00",
+      "data_afisaj": "10 septembrie 2026, 22:23"
+    },
+    {
+      "id": "864c6147c02b",
+      "titlu": "Manchester United debutează în Liga Campionilor cu Patrick Dorgu titular",
+      "rezumat": "Manchester United a început campania în Liga Campionilor cu un meci împotriva echipei Sabah, unde Patrick Dorgu a fost titularizat pentru prima dată pe postul de fundaș stânga sub comanda antrenorului Carrick. Dorgu, considerat un specialist pe postul de wing-back, a fost evaluat pentru abilitățile sale ofensive, dar și pentru aspectele defensive care necesită îmbunătățiri, cum ar fi conștientizarea tactică și distribuția mingii din apărare. Prezența sa în primul unsprezece a marcat un moment important pentru tânărul jucător.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-10T19:23:58.808953+00:00",
+      "data_afisaj": "10 septembrie 2026, 22:23"
+    },
+    {
+      "id": "d8ca54edd3b5",
+      "titlu": "Noah Okafor refuză să mai joace pentru naționala Elveției sub antrenorul Murat Yakin",
+      "rezumat": "Atacantul lui Leeds United, Noah Okafor, a declarat public că nu va mai reprezenta echipa națională a Elveției atâta timp cât Murat Yakin va rămâne selecționer. Această decizie surprinzătoare a jucătorului, care evoluează în Premier League, indică o ruptură semnificativă între el și staff-ul tehnic al naționalei. Anunțul lui Okafor ar putea avea implicații majore pentru viitoarele convocări și pentru strategia echipei Elveției în competițiile internaționale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-10T19:23:58.810854+00:00",
+      "data_afisaj": "10 septembrie 2026, 22:23"
+    },
+    {
+      "id": "d9a278211d44",
+      "titlu": "Directorul sportiv al Barcelonei, Deco, explică preferința pentru Anthony Gordon în detrimentul lui Marcus Rashford",
+      "rezumat": "Deco, directorul sportiv al FC Barcelona, a justificat decizia clubului de a-l considera pe Anthony Gordon o opțiune mai potrivită pentru echipa antrenată de Hansi Flick, comparativ cu Marcus Rashford, în timpul campaniei de transferuri din această vară. Declarația lui Deco subliniază filosofia de transferuri a clubului catalan și criteriile specifice pe care le-a avut în vedere pentru a consolida lotul, punând accent pe compatibilitatea stilistică a jucătorilor cu viziunea tactică a noului antrenor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-10T19:23:58.812953+00:00",
+      "data_afisaj": "10 septembrie 2026, 22:23"
+    },
     {
       "id": "534a1d7dfbd4",
       "titlu": "Tavi Popescu a părăsit FCSB, transfer confirmat de Gigi Becali",
@@ -1523,52 +1569,6 @@
       ],
       "data_publicare": "2026-09-03T19:32:39.965812+00:00",
       "data_afisaj": "3 septembrie 2026, 22:32"
-    },
-    {
-      "id": "bbb3280bc16a",
-      "titlu": "FIFA acuză UEFA de „campanie de denigrare” împotriva președintelui Infantino",
-      "rezumat": "Federația Internațională de Fotbal (FIFA) a lansat acuzații grave împotriva Uniunii Asociațiilor Europene de Fotbal (UEFA), susținând că aceasta desfășoară o „campanie de denigrare” împotriva președintelui FIFA, Gianni Infantino. Tensiunile dintre cele două organisme de conducere au escaladat de când planul lui Infantino de a vinde acțiuni din Cupa Mondială către investitori privați a fost anulat. Această dispută subliniază o ruptură profundă în relațiile dintre cele mai puternice organizații din fotbalul mondial, cu implicații potențiale asupra guvernanței sportului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-09-03T19:11:16.452238+00:00",
-      "data_afisaj": "3 septembrie 2026, 22:11"
-    },
-    {
-      "id": "a62a2e8c02e7",
-      "titlu": "Prezentare Women's Super League 2026-27: Tottenham Hotspur",
-      "rezumat": "După un sezon precedent încheiat pe o poziție record sub conducerea lui Martin Ho și o strategie de recrutare estivală care a atras atenția, se analizează dacă Tottenham Hotspur poate pătrunde în top patru în ediția 2026-27 a Women's Super League. Echipa a terminat pe locul 5 în sezonul trecut, iar așteptările sunt ridicate pentru o îmbunătățire a performanței. Această previzualizare detaliază perspectivele clubului londonez în noul sezon, evidențiind punctele forte și provocările cu care se va confrunta.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-03T19:11:16.453786+00:00",
-      "data_afisaj": "3 septembrie 2026, 22:11"
-    },
-    {
-      "id": "c4e227facd39",
-      "titlu": "Analiza celor 39 de plecări uimitoare de la Chelsea în această vară",
-      "rezumat": "Chelsea ar fi încasat peste 500 de milioane de lire sterline în această vară, prin vânzarea sau împrumutul unui număr impresionant de 39 de jucători. Această strategie masivă de restructurare a lotului a implicat un număr record de plecări, având un impact semnificativ asupra finanțelor și componenței echipei. Analiza detaliază amploarea și implicațiile acestei campanii de transferuri fără precedent pentru clubul londonez, evidențiind eforturile de reechilibrare financiară și de reînnoire a lotului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-03T19:11:16.455339+00:00",
-      "data_afisaj": "3 septembrie 2026, 22:11"
-    },
-    {
-      "id": "24b726e0e2f0",
-      "titlu": "Rangers își întărește lotul cu atacantul Kelsy și aripa Bouanani",
-      "rezumat": "Clubul scoțian Rangers a confirmat achiziționarea atacantului venezuelean Kevin Kelsy de la Portland Timbers și împrumutul aripii algeriene Badredine Bouanani de la Stuttgart. Aceste două transferuri sunt menite să aducă un plus de forță și creativitate în ofensiva echipei. Kelsy, un tânăr atacant promițător, și Bouanani, un jucător rapid pe flanc, se alătură lotului în încercarea de a consolida performanțele clubului în competițiile interne și europene, înaintea începerii noului sezon.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-03T19:11:16.456855+00:00",
-      "data_afisaj": "3 septembrie 2026, 22:11"
     }
   ]
 }
