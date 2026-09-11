@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-11T12:37:29.192909+00:00",
-  "updated_at_afisaj": "11 septembrie 2026, 15:37",
+  "updated_at": "2026-09-11T19:02:50.348251+00:00",
+  "updated_at_afisaj": "11 septembrie 2026, 22:02",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,61 @@
   },
   "numar_stiri": 136,
   "stiri": [
+    {
+      "id": "0c2775b5ef29",
+      "titlu": "Am perturbat planurile de călătorie din pre-sezon pentru a pregăti jucătorii - Arteta",
+      "rezumat": "Mikel Arteta spune că Arsenal a fost pregătită pentru întârzierea zborului din Liga Campionilor de la mijlocul săptămânii - deoarece el a perturbat în mod deliberat planurile lor de antrenament și călătorie în pre-sezon pentru a-i pregăti.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-11T19:02:35.132858+00:00",
+      "data_afisaj": "11 septembrie 2026, 22:02"
+    },
+    {
+      "id": "e79c3b82cb57",
+      "titlu": "Hull amendat cu 30.000 de lire sterline și interdicții emise pentru scandarea despre Chelsea",
+      "rezumat": "Hull City a fost amendat cu 30.000 de lire sterline pentru scandări discriminatorii, clubul emițând trei interdicții pentru suporteri în urma înfrângerii lor în FA Cup împotriva lui Chelsea în februarie.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-11T19:02:35.134524+00:00",
+      "data_afisaj": "11 septembrie 2026, 22:02"
+    },
+    {
+      "id": "ecf5b68a832b",
+      "titlu": "Antrenorul lui Leicester, Martin, spune că criticile au devenit 'foarte personale'",
+      "rezumat": "Antrenorul lui Leicester City, Russell Martin, nu știe de ce \"supără atât de mulți oameni\" și spune că criticile au \"devenit personale\".",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-11T19:02:35.136133+00:00",
+      "data_afisaj": "11 septembrie 2026, 22:02"
+    },
+    {
+      "id": "117879fc0af1",
+      "titlu": "Aripa lui Hull, Thomas, nevătămat după accidentul de mașină",
+      "rezumat": "Land Rover-ul aripii din Premier League, Sorba Thomas, s-a răsturnat în Cottingham.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-11T19:02:35.137581+00:00",
+      "data_afisaj": "11 septembrie 2026, 22:02"
+    },
+    {
+      "id": "a27ea290dad7",
+      "titlu": "Liverpool dezvăluie monumente comemorative pentru fostul antrenor Beard",
+      "rezumat": "Liverpool a dezvăluit monumente comemorative permanente la terenul lor de antrenament și în afara stadionului Anfield în omagiu fostului antrenor al echipei feminine, Matt Beard.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-11T19:02:35.139054+00:00",
+      "data_afisaj": "11 septembrie 2026, 22:02"
+    },
     {
       "id": "9fd4bbbcf5ee",
       "titlu": "Lucas Bergvall semnează un nou contract cu Tottenham, după ce inițial și-a exprimat dorința de a pleca",
@@ -1489,61 +1544,6 @@
       ],
       "data_publicare": "2026-09-04T19:14:51.027676+00:00",
       "data_afisaj": "4 septembrie 2026, 22:14"
-    },
-    {
-      "id": "d622582e6ff0",
-      "titlu": "Fără suporteri în deplasare la meciurile Old Firm din SPFL în acest sezon",
-      "rezumat": "Derby-urile dintre Celtic și Rangers din Premiership-ul Scoțian și Premier Sports Cup se vor disputa fără suporteri ai echipelor oaspete în acest sezon. Decizia a fost luată pentru a asigura ordinea publică și siguranța, o măsură care va afecta atmosfera unică a confruntărilor directe dintre cele două mari rivale din fotbalul scoțian. Această interdicție vizează toate meciurile directe din competițiile menționate, marcând o schimbare semnificativă în tradiția acestor confruntări intense.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-04T18:53:45.390947+00:00",
-      "data_afisaj": "4 septembrie 2026, 21:53"
-    },
-    {
-      "id": "fda418bf49dc",
-      "titlu": "Ramsdale, al patrulea portar la Southampton, va \"susține echipa\" conform antrenorului Eckert",
-      "rezumat": "Antrenorul echipei Southampton, Tonda Eckert, a declarat că portarul Aaron Ramsdale, deși a devenit a patra opțiune în ierarhia clubului, are în continuare un rol important de a \"susține echipa\". Această declarație vine în contextul în care Ramsdale se confruntă cu o scădere semnificativă a statutului său la club, dar antrenorul subliniază importanța contribuției sale la moralul și unitatea grupului. Eckert a reiterat că fiecare membru al lotului este valoros, indiferent de poziția sa în echipă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-04T18:53:45.392817+00:00",
-      "data_afisaj": "4 septembrie 2026, 21:53"
-    },
-    {
-      "id": "9dfab0c7e50c",
-      "titlu": "Jucătorii lui Manchester City au cerut informații despre transferul lui Enzo Fernandez, confirmă Maresca",
-      "rezumat": "Antrenorul lui Manchester City, Enzo Maresca, a dezvăluit că mai mulți jucători ai echipei au fost interesați și au cerut informații despre posibila venire a lui Enzo Fernandez în ultimele zile ale ferestrei de transferuri. Acest interes din partea lotului subliniază importanța pe care o acordă clubul și jucătorii săi întăririi echipei, chiar dacă transferul nu s-a concretizat. Maresca a menționat că discuțiile interne reflectă ambiția clubului de a aduce constant jucători de top.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-04T18:53:45.394670+00:00",
-      "data_afisaj": "4 septembrie 2026, 21:53"
-    },
-    {
-      "id": "77f5f0aa895e",
-      "titlu": "Fereastra de transferuri haotică a lăsat antrenorul lui Crystal Palace, Pierre Sage, cu emoții contradictorii",
-      "rezumat": "Antrenorul lui Crystal Palace, Pierre Sage, a traversat o fereastră de transferuri dificilă, fiind frustrat de eșecul de a aduce ținte defensive și de pierderea unor jucători în ultima zi. Deși a început sezonul cu înfrângeri împotriva lui Everton și Manchester City, Sage încearcă să extragă aspecte pozitive și să se concentreze pe obținerea primelor puncte, după o tranziție complicată de la era Oliver Glasner. Managerul a recunoscut provocările, dar rămâne optimist cu privire la potențialul echipei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-04T18:53:45.396567+00:00",
-      "data_afisaj": "4 septembrie 2026, 21:53"
-    },
-    {
-      "id": "61043bf5b6d4",
-      "titlu": "Fostul antrenor al lui Chelsea, Graham Potter, critică un club anterior într-o postare pe rețelele sociale",
-      "rezumat": "Graham Potter, fostul antrenor al echipei Chelsea, a lansat un atac voalat la adresa unui club anterior, pe care l-a descris ca fiind un \"loc disfuncțional\", într-o postare pe Instagram. Deși nu a numit explicit clubul, comentariul său a stârnit speculații, având în vedere experiențele sale recente. Această declarație subliniază tensiunile și provocările cu care se confruntă antrenorii în mediul fotbalistic de top, adăugând o notă personală la discuțiile despre managementul cluburilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-09-04T18:53:45.398567+00:00",
-      "data_afisaj": "4 septembrie 2026, 21:53"
     }
   ]
 }
