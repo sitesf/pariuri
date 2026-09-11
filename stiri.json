@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-11T12:04:52.137240+00:00",
-  "updated_at_afisaj": "11 septembrie 2026, 15:04",
+  "updated_at": "2026-09-11T12:37:29.192909+00:00",
+  "updated_at_afisaj": "11 septembrie 2026, 15:37",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 135,
+  "numar_stiri": 136,
   "stiri": [
+    {
+      "id": "9fd4bbbcf5ee",
+      "titlu": "Lucas Bergvall semnează un nou contract cu Tottenham, după ce inițial și-a exprimat dorința de a pleca",
+      "rezumat": "Mijlocașul suedez Lucas Bergvall a semnat un nou contract cu Tottenham Hotspur, în ciuda faptului că anterior își anunțase intenția de a părăsi clubul. Această decizie vine ca o surpriză, consolidând angajamentul jucătorului față de echipa londoneză. Detaliile contractului nu au fost făcute publice, dar se anticipează o înțelegere pe termen lung, menită să asigure stabilitatea viitorului său la club, după ce a fost confirmată de două surse importante.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-09-11T12:37:29.185393+00:00",
+      "data_afisaj": "11 septembrie 2026, 15:37"
+    },
+    {
+      "id": "496f9e7d93ea",
+      "titlu": "Manchester United înregistrează o victorie categorică la revenirea în Liga Campionilor",
+      "rezumat": "Manchester United a obținut o victorie impresionantă, scor 4-0, împotriva echipei Sabah FK pe Old Trafford, marcând astfel cea mai mare victorie a sa în Liga Campionilor din 2020. Echipa a demonstrat o formă excelentă la revenirea în competiția europeană de elită, oferind fanilor o prestație dominantă și un start puternic în faza grupelor. Această performanță subliniază ambițiile clubului în actuala ediție a competiției.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-11T12:37:29.187227+00:00",
+      "data_afisaj": "11 septembrie 2026, 15:37"
+    },
+    {
+      "id": "5f27a5cc6e4d",
+      "titlu": "Michael Olise marchează de două ori, iar Bayern Munchen domină în Liga Campionilor",
+      "rezumat": "Căpitanul Angliei, Harry Kane, a înscris al 55-lea său gol în Liga Campionilor, iar Michael Olise a reușit o dublă, contribuind la victoria confortabilă a lui Bayern Munchen împotriva echipei Bodo/Glimt. Această performanță solidă marchează un debut puternic pentru gigantul german în noua campanie a Ligii Campionilor, subliniind forța ofensivă a echipei și ambițiile sale de a progresa în competiție.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-11T12:37:29.189151+00:00",
+      "data_afisaj": "11 septembrie 2026, 15:37"
+    },
+    {
+      "id": "0926abe2d8b9",
+      "titlu": "Mikel Arteta dezvăluie metodele neconvenționale de pregătire a jucătorilor Arsenal",
+      "rezumat": "Antrenorul lui Arsenal, Mikel Arteta, a declarat că a sabotat în mod deliberat planurile de călătorie ale clubului în timpul pre-sezonului. Scopul acestei tactici a fost de a-i obișnui pe jucători cu dificultățile și problemele neprevăzute care pot apărea în deplasări. Această abordare inedită face parte din strategia sa de a pregăti echipa pentru orice eventualitate pe parcursul sezonului, asigurându-le reziliența mentală și fizică.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-09-11T12:37:29.190918+00:00",
+      "data_afisaj": "11 septembrie 2026, 15:37"
+    },
+    {
+      "id": "8edf455b1e69",
+      "titlu": "Antrenorul lui Fenerbahce demisionează după egalul cu Roma, dar președintele refuză plecarea",
+      "rezumat": "Antrenorul principal al echipei Fenerbahce, Ismail Kartal, și-a anunțat demisia joi, după ce echipa sa a înregistrat un egal, scor 1-1, acasă, împotriva Romei în Liga Campionilor. Cu toate acestea, la doar câteva minute după anunțul lui Kartal, președintele clubului a declarat că antrenorul va rămâne în funcție, creând o situație tensionată și incertă la conducerea tehnică a clubului turc, chiar în debutul campaniei europene.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-11T12:37:29.192888+00:00",
+      "data_afisaj": "11 septembrie 2026, 15:37"
+    },
     {
       "id": "342a6ec64068",
       "titlu": "Man Utd ban 685 fan accounts after touting probe",
@@ -1488,51 +1544,6 @@
       ],
       "data_publicare": "2026-09-04T18:53:45.398567+00:00",
       "data_afisaj": "4 septembrie 2026, 21:53"
-    },
-    {
-      "id": "29164089a30e",
-      "titlu": "Mary Earps revine în Women's Super League și vizează o reîntâlnire cu Manchester United",
-      "rezumat": "Portarul Mary Earps se pregătește să revină în Women's Super League, exprimându-și dorința de a juca împotriva fostului său club, Manchester United. Ea a declarat că i-au lipsit confortul englezesc, prietenii și familia. Această revenire marchează un moment important pentru jucătoare, care își dorește să își reia cariera în Anglia după o perioadă petrecută în străinătate. Fanii așteaptă cu interes revederea ei pe terenul de joc.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-09-04T12:31:08.222795+00:00",
-      "data_afisaj": "4 septembrie 2026, 15:31"
-    },
-    {
-      "id": "5604bb47899d",
-      "titlu": "Manchester City nu a reușit să transfere două jucătoare spaniole pentru echipa feminină",
-      "rezumat": "Manchester City a eșuat în încercarea de a aduce două jucătoare spaniole pentru echipa sa feminină în ultima zi a ferestrei de transferuri. Clubul a oferit peste 500.000 de lire sterline pentru mijlocașul Fiamma Benítez de la Atlético Madrid, dar oferta a fost respinsă. De asemenea, City a încercat să o semneze pe Ornella Vignola. Campioanele WSL căutau întăriri în linia de mijloc ofensivă, în special după accidentarea jucătoarei Vivi Miedema.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-04T12:31:08.224425+00:00",
-      "data_afisaj": "4 septembrie 2026, 15:31"
-    },
-    {
-      "id": "5e6f91203ec1",
-      "titlu": "Start dificil pentru PSG în noul sezon, Luis Enrique își menține încrederea",
-      "rezumat": "Paris Saint-Germain a avut un început anevoios de sezon, înregistrând două egaluri în primele meciuri de campionat. Echipa se pregătește pentru o confruntare dificilă împotriva lui Monaco. Antrenorul Luis Enrique rămâne optimist, subliniind că noile achiziții au adus o \"nouă energie\" în echipă. Acesta speră ca formația să își găsească ritmul și să obțină primele victorii în curând, în ciuda startului sub așteptări.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-04T12:31:08.226010+00:00",
-      "data_afisaj": "4 septembrie 2026, 15:31"
-    },
-    {
-      "id": "e76be7e6a071",
-      "titlu": "Clubul de cartier care i-a format pe Mikel Arteta, Xabi Alonso și Andoni Iraola",
-      "rezumat": "Un mic club de fotbal din cartierul Berio din San Sebastian, Antiguoko, este recunoscut pentru că a fost locul unde trei dintre cei mai cunoscuți antrenori de top ai fotbalului modern – Mikel Arteta, Xabi Alonso și Andoni Iraola – și-au început carierele. Între clădiri de apartamente și un teren artificial, acești viitori tehnicieni și-au dezvoltat abilitățile, transformând Antiguoko într-un adevărat incubator de talente pentru fotbalul de elită.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-09-04T12:31:08.227499+00:00",
-      "data_afisaj": "4 septembrie 2026, 15:31"
     }
   ]
 }
