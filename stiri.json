@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-10T19:23:58.812972+00:00",
-  "updated_at_afisaj": "10 septembrie 2026, 22:23",
+  "updated_at": "2026-09-11T12:04:52.137240+00:00",
+  "updated_at_afisaj": "11 septembrie 2026, 15:04",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 138,
+  "numar_stiri": 135,
   "stiri": [
+    {
+      "id": "342a6ec64068",
+      "titlu": "Man Utd ban 685 fan accounts after touting probe",
+      "rezumat": "Manchester United bans 685 fan accounts after a ticket touting investigation and insists innocent fans have not been punished.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-09-11T12:04:34.897518+00:00",
+      "data_afisaj": "11 septembrie 2026, 15:04"
+    },
+    {
+      "id": "c89148ec2cb6",
+      "titlu": "Hall signs new contract with Newcastle until 2031",
+      "rezumat": "Newcastle United defender Lewis Hall signs a new contract with the club that runs until 2031.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-11T12:04:34.899087+00:00",
+      "data_afisaj": "11 septembrie 2026, 15:04"
+    },
+    {
+      "id": "73124b04ed0d",
+      "titlu": "Teams need to adapt to meci scheduling - Maresca",
+      "rezumat": "Manchester City antrenor Enzo Maresca says teams \"need to adapt\" to the meci scheduling as his side head into Sunday's derby with two days extra rest over rivals Manchester United.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-11T12:04:34.900587+00:00",
+      "data_afisaj": "11 septembrie 2026, 15:04"
+    },
+    {
+      "id": "501bed99b37b",
+      "titlu": "Two goals in two games - Sesko gives Man Utd a different threat",
+      "rezumat": "Benjamin Sesko's return to Manchester United's starting line-up is well timed ahead of Sunday's Premier League encounter with Manchester City",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-11T12:04:34.902283+00:00",
+      "data_afisaj": "11 septembrie 2026, 15:04"
+    },
+    {
+      "id": "e4f4b1d73841",
+      "titlu": "Leeds want boss Farke to stay 'long-term'",
+      "rezumat": "Leeds United managing director Robbie Evans says the club and boss Daniel Farke are \"on the same page\" as they look to agree a new contract.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-11T12:04:34.903811+00:00",
+      "data_afisaj": "11 septembrie 2026, 15:04"
+    },
     {
       "id": "91b889a42c95",
       "titlu": "Alexis Mac Allister impresionează pentru Liverpool în victoria din Liga Campionilor",
@@ -1477,98 +1533,6 @@
       ],
       "data_publicare": "2026-09-04T12:31:08.227499+00:00",
       "data_afisaj": "4 septembrie 2026, 15:31"
-    },
-    {
-      "id": "6ce9be15d792",
-      "titlu": "Arsenal va înfrunta Barca și Lyon în Liga Campionilor la feminin",
-      "rezumat": "Arsenal va înfrunta deținătoarea trofeului Barcelona și recordmana Lyon în Liga Campionilor la feminin, în timp ce Chelsea va călători la Lyon, iar Man City se va duela cu Bayern München.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-09-04T12:00:56.002773+00:00",
-      "data_afisaj": "4 septembrie 2026, 15:00"
-    },
-    {
-      "id": "be73931d3d1b",
-      "titlu": "73 de goluri din poziții mai retrase - îl rugăm pe Kane să explice cum a reușit",
-      "rezumat": "Harry Kane a fost cel mai bun marcator din Europa sezonul trecut, totuși joacă precum un mijlocaș. Îl rugăm să-și explice jocul.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-04T12:00:56.004319+00:00",
-      "data_afisaj": "4 septembrie 2026, 15:00"
-    },
-    {
-      "id": "17870afbc93a",
-      "titlu": "Cum 'unicul' Bellingham prosperă în sistemul lui Mourinho",
-      "rezumat": "Jude Bellingham pare în formă și pregătit să continue pe baza performanței sale de la Cupa Mondială, în timp ce își propune să-și regăsească cea mai bună formă la Real Madrid sub Jose Mourinho.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-04T12:00:56.005706+00:00",
-      "data_afisaj": "4 septembrie 2026, 15:00"
-    },
-    {
-      "id": "510d70106625",
-      "titlu": "Alvarez de la Atletico va reveni după o 'experiență de învățare' - Simeone",
-      "rezumat": "Julian Alvarez va reveni în lotul lui Atletico Madrid pentru meciul din La Liga de la Athletic Club, în ciuda tentativei sale eșuate de a părăsi clubul, spune antrenorul Diego Simeone.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-04T12:00:56.007170+00:00",
-      "data_afisaj": "4 septembrie 2026, 15:00"
-    },
-    {
-      "id": "da4661d5f131",
-      "titlu": "Ținta lui Liverpool, Minteh, poate încă obține transferul visat - Hurzeler",
-      "rezumat": "Antrenorul lui Brighton, Fabian Hurzeler, spune că Yankuba Minteh poate încă 'își îndeplini visul' de transfer în viitor, după ce 'Pescărușii' au refuzat ofertele lui Liverpool pentru aripă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-04T12:00:56.008587+00:00",
-      "data_afisaj": "4 septembrie 2026, 15:00"
-    },
-    {
-      "id": "cbca666e7f3b",
-      "titlu": "Ismaila Sarr are nevoie de timp pentru a depăși eșecul transferului la Liverpool",
-      "rezumat": "Atacantul lui Crystal Palace, Ismaila Sarr, va avea nevoie de timp pentru a procesa eșecul mutării sale la Liverpool, a declarat antrenorul echipei Eagles, Pierre Sage. Transferul propus a căzut în ultima clipă, lăsându-l pe jucător într-o stare emoțională dificilă. Sarr era o țintă importantă pentru Liverpool, iar ratarea acestei oportunități reprezintă o dezamăgire majoră atât pentru el, cât și pentru clubul care spera să-l achiziționeze, conform declarațiilor oficiale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-09-03T19:32:39.962333+00:00",
-      "data_afisaj": "3 septembrie 2026, 22:32"
-    },
-    {
-      "id": "3dc8fbed9333",
-      "titlu": "Fostul arbitru Mike Dean recunoaște că juca \"jocuri secrete\" în timpul meciurilor din Premier League",
-      "rezumat": "Fostul arbitru din Premier League, Mike Dean, a declarat că obișnuia să participe la \"provocări secrete\" în timp ce arbitra meciuri, inclusiv încercarea de a rămâne în cercul de la centrul terenului cât mai mult timp posibil. Aceste declarații, făcute de unul dintre cei mai cunoscuți oficiali din fotbalul englez, au stârnit uimire în rândul oficialilor arbitrajului, care au considerat remarcile sale drept \"deconcertante\" și au cerut clarificări suplimentare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-09-03T19:32:39.964268+00:00",
-      "data_afisaj": "3 septembrie 2026, 22:32"
-    },
-    {
-      "id": "7fd9b7945635",
-      "titlu": "Richarlison, omis din lotul lui Tottenham pentru Premier League",
-      "rezumat": "Atacantul Richarlison a fost lăsat în afara lotului lui Tottenham pentru Premier League, deoarece nu mai figurează în planurile clubului pentru acest sezon. Această decizie semnalează o schimbare majoră în statutul jucătorului brazilian la clubul londonez. Omiterea sa din lotul oficial sugerează că Tottenham este deschisă la un transfer sau o plecare a acestuia în viitorul apropiat, având în vedere că fereastra de transferuri s-a închis în majoritatea ligilor europene.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-03T19:32:39.965812+00:00",
-      "data_afisaj": "3 septembrie 2026, 22:32"
     }
   ]
 }
