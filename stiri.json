@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-11T19:02:50.348251+00:00",
-  "updated_at_afisaj": "11 septembrie 2026, 22:02",
+  "updated_at": "2026-09-11T19:22:20.622897+00:00",
+  "updated_at_afisaj": "11 septembrie 2026, 22:22",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 136,
+  "numar_stiri": 137,
   "stiri": [
+    {
+      "id": "fcd5290aba94",
+      "titlu": "Bergvall signs new deal - but no news on Richarlison",
+      "rezumat": "Lucas Bergvall signs a new contract at Tottenham after telling the club he wanted to leave, but there is no update on Richarlison's future",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-11T19:22:03.569474+00:00",
+      "data_afisaj": "11 septembrie 2026, 22:22"
+    },
+    {
+      "id": "b384734d8699",
+      "titlu": "Celtic given 'timely' police reminder before derby",
+      "rezumat": "Celtic players had a visit from Police Scotland on Friday to give them \"a timely reminder\" about their \"general behaviour\" in Sunday's Premier Sport Cup quarter-final against city rivals Rangers, antrenor Martin O'Neill reveals.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-11T19:22:03.570822+00:00",
+      "data_afisaj": "11 septembrie 2026, 22:22"
+    },
+    {
+      "id": "5ecd388af1a6",
+      "titlu": "Dictator meme shows lack of human awareness - Mbappe",
+      "rezumat": "Kylian Mbappe criticises a viral meme which superimposes his face on the body of a dictator, saying it shows \"a lack of political and human awareness\".",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-11T19:22:03.572075+00:00",
+      "data_afisaj": "11 septembrie 2026, 22:22"
+    },
+    {
+      "id": "2711351b7b5e",
+      "titlu": "Moroccan official told to stop making 2030 final promise",
+      "rezumat": "Morocco's prime minister tells the head of the country's football federation to stop making promises about the 2030 World Cup final, while the head of the Spanish federation says the showpiece should be played in Spain.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-11T19:22:03.573356+00:00",
+      "data_afisaj": "11 septembrie 2026, 22:22"
+    },
+    {
+      "id": "7ae6d10b8409",
+      "titlu": "Mourinho compares Mbappe and Vini Jr to fruit trees after boos",
+      "rezumat": "Real Madrid boss Jose Mourinho says fans \"want a piece\" of star duo Kylian Mbappe and Vinicius Jr after they were booed by supporters this week.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-11T19:22:03.574632+00:00",
+      "data_afisaj": "11 septembrie 2026, 22:22"
+    },
     {
       "id": "0c2775b5ef29",
       "titlu": "Am perturbat planurile de călătorie din pre-sezon pentru a pregăti jucătorii - Arteta",
@@ -1500,50 +1555,6 @@
       ],
       "data_publicare": "2026-09-05T11:12:27.342157+00:00",
       "data_afisaj": "5 septembrie 2026, 14:12"
-    },
-    {
-      "id": "476b0ce75b38",
-      "titlu": "David Moyes, dezamăgit de activitatea Everton pe piața transferurilor",
-      "rezumat": "Antrenorul lui Everton, David Moyes, a declarat că trebuie să accepte \"dezamăgirile\" după ce clubul nu a reușit să finalizeze mai multe transferuri în ultima zi a perioadei de mercato. Moyes a recunoscut că și-ar fi dorit să aducă mai mulți jucători pentru a-și întări lotul, însă planurile sale nu s-au concretizat. Această situație lasă echipa într-o poziție dificilă, iar antrenorul va trebui să gestioneze lotul actual până la următoarea fereastră de transferuri.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-04T19:14:51.023067+00:00",
-      "data_afisaj": "4 septembrie 2026, 22:14"
-    },
-    {
-      "id": "05ab5ce3f21e",
-      "titlu": "Chelsea a reușit un transfer important cu Morgan Rogers, în timp ce Arsenal regretă oportunitatea ratată",
-      "rezumat": "Chelsea a considerat inițial că șansele de a-l semna pe Morgan Rogers erau mici la începutul verii, însă transferul s-a concretizat, iar jucătorul a avut un start excelent sub comanda lui Xabi Alonso. Arsenal, pe de altă parte, ar putea regreta că nu a reușit să-l aducă pe fostul jucător al lui Aston Villa, având în vedere performanțele sale actuale. Rogers fusese o țintă prioritară pentru echipa de recrutare a lui Chelsea, în ciuda unui sezon anterior dezamăgitor al clubului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-04T19:14:51.024605+00:00",
-      "data_afisaj": "4 septembrie 2026, 22:14"
-    },
-    {
-      "id": "12d00a8a0f05",
-      "titlu": "Antrenorii din Premier League, Michael Carrick și Unai Emery, abordează provocările echipelor",
-      "rezumat": "Michael Carrick a avertizat că nu există soluții rapide pentru problemele echipei sale, subliniind necesitatea unei abordări pe termen lung. Între timp, Unai Emery, antrenorul lui Aston Villa, a avut o discuție \"dificilă\" cu jucătorul Taylor Harwood-Bellis, indicând posibile tensiuni sau decizii importante în cadrul lotului. Aceste declarații reflectă provocările cu care se confruntă managerii în gestionarea echipelor și a așteptărilor în campionatul englez.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-04T19:14:51.026303+00:00",
-      "data_afisaj": "4 septembrie 2026, 22:14"
-    },
-    {
-      "id": "584eb12d019c",
-      "titlu": "Aston Villa primește o triplă veste bună înaintea meciului cu Hull City",
-      "rezumat": "Echipa Aston Villa, condusă de antrenorul Unai Emery, a primit o triplă veste bună în ceea ce privește lotul, chiar înainte de deplasarea la Hull City, programată sâmbătă. Această îmbunătățire a situației jucătorilor vine ca un impuls semnificativ pentru echipă, având în vedere problemele de accidentări cu care s-a confruntat recent. Detaliile exacte ale \"triplei vești bune\" nu sunt specificate, dar sugerează revenirea unor jucători importanți sau o îmbunătățire a stării medicale a acestora.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-09-04T19:14:51.027676+00:00",
-      "data_afisaj": "4 septembrie 2026, 22:14"
     }
   ]
 }
