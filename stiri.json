@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-12T11:32:08.413168+00:00",
-  "updated_at_afisaj": "12 septembrie 2026, 14:32",
+  "updated_at": "2026-09-12T11:59:28.514959+00:00",
+  "updated_at_afisaj": "12 septembrie 2026, 14:59",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,61 @@
   },
   "numar_stiri": 137,
   "stiri": [
+    {
+      "id": "0c52cc774409",
+      "titlu": "Edi Iordănescu a refuzat o ofertă de 1.2 milioane de euro de la Dinamo Kiev",
+      "rezumat": "Antrenorul român Edi Iordănescu a declinat recent o propunere financiară substanțială din partea clubului ucrainean Dinamo Kiev. Oferta, care se ridica la un salariu anual de 1.200.000 de euro, a fost refuzată de Iordănescu, stârnind reacții în presa ucraineană. Decizia antrenorului vine într-un context în care viitorul său este intens discutat, iar refuzul unei astfel de sume demonstrează probabil alte priorități sau negocieri în curs. Această veste subliniază valoarea percepută a tehnicianului român pe piața internațională.",
+      "categorie": "Fotbal",
+      "surse": [
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-09-12T11:59:28.507549+00:00",
+      "data_afisaj": "12 septembrie 2026, 14:59"
+    },
+    {
+      "id": "e4f673db0a21",
+      "titlu": "West Ham a învins categoric Wrexham și a urcat pe primul loc în Championship",
+      "rezumat": "West Ham United a obținut a patra victorie consecutivă în campionat, învingând-o pe Wrexham cu un scor zdrobitor de 6-0 pe London Stadium. Această performanță a propulsat echipa lui Nuno Espírito Santo pe prima poziție în clasamentul Championship. Golurile au fost marcate de șase jucători diferiți: Jarrod Bowen a deschis scorul, Joël Piroe a dublat avantajul înainte de pauză, iar Konstantinos Mavropanos, Taty Castellanos, Mohamadou Kanté și Manor Solomon au completat scorul în repriza secundă. Victoria subliniază forma excelentă a echipei și ambițiile sale de promovare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-12T11:59:28.509408+00:00",
+      "data_afisaj": "12 septembrie 2026, 14:59"
+    },
+    {
+      "id": "5d0d3c1df0a5",
+      "titlu": "Bournemouth se pregătește pentru debutul istoric în competițiile europene",
+      "rezumat": "Clubul Bournemouth se pregătește să dispute joi prima sa partidă într-o competiție continentală, marcând un moment istoric în existența sa. Oficialii clubului și jucătorii sunt entuziasmați de această nouă provocare, considerând participarea în Europa o \"problemă incredibilă\" de gestionat. Această realizare subliniază ascensiunea clubului către noi culmi, depășind așteptările și oferind fanilor o experiență unică. Este o oportunitate de a se măsura cu echipe de pe continent și de a-și consolida statutul în fotbalul european.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-09-12T11:59:28.511163+00:00",
+      "data_afisaj": "12 septembrie 2026, 14:59"
+    },
+    {
+      "id": "bbae91d0e54f",
+      "titlu": "Manchester City înregistrează o rotație rapidă a jucătorilor sub antrenorul Enzo Maresca",
+      "rezumat": "Manchester City a cunoscut o schimbare semnificativă a lotului de jucători, un nivel de rotație considerat de neconceput în era Pep Guardiola. Spre deosebire de Arne Slot, care a beneficiat de stabilitatea lotului la Liverpool, Enzo Maresca trebuie să gestioneze o evoluție rapidă a echipei, menținând în același timp performanța la cel mai înalt nivel. Mulți dintre jucătorii actuali sunt achiziții recente, iar dependența de aceștia nu a afectat încă punctajul în Premier League, dar ridică întrebări despre coeziunea pe termen lung a echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-12T11:59:28.513016+00:00",
+      "data_afisaj": "12 septembrie 2026, 14:59"
+    },
+    {
+      "id": "3b955e6049bb",
+      "titlu": "Lista scurtă pentru Balonul de Aur scoate în evidență problemele ofensive din Premier League",
+      "rezumat": "Reprezentarea redusă a atacanților din Premier League pe lista scurtă de 16 jucători pentru Balonul de Aur din acest an indică deficiențe în ofensiva campionatului englez. Deși Bruno Fernandes de la Manchester United și Erling Haaland de la Manchester City sunt prezenți, absența unor nume precum Cole Palmer, nominalizat în 2025, după un an marcat de accidentări, reflectă o tendință a fotbalului englez către fizicalitate și faze fixe în sezonul precedent. Cu toate acestea, sezonul 2026-27 pare să aducă o îmbunătățire a situației.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-12T11:59:28.514940+00:00",
+      "data_afisaj": "12 septembrie 2026, 14:59"
+    },
     {
       "id": "012cd565a507",
       "titlu": "Transferul lui Richarlison la Vasco da Gama a eșuat",
@@ -1498,61 +1553,6 @@
       ],
       "data_publicare": "2026-09-05T18:01:22.263768+00:00",
       "data_afisaj": "5 septembrie 2026, 21:01"
-    },
-    {
-      "id": "f5e3e8a089fb",
-      "titlu": "Guendouzi și Greenwood suspendați după o altercație în Liga Campionilor",
-      "rezumat": "Mijlocașul lui Fenerbahce, Matteo Guendouzi, a primit o suspendare de patru meciuri în competițiile europene și o amendă de 50.000 de euro, în urma unei altercații care a avut loc după victoria echipei sale împotriva lui Lyon în play-off-ul Ligii Campionilor. Decizia subliniază consecințele acțiunilor nesportive în competițiile continentale, iar incidentul a atras atenția asupra comportamentului jucătorilor pe teren.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-05T11:39:32.074116+00:00",
-      "data_afisaj": "5 septembrie 2026, 14:39"
-    },
-    {
-      "id": "52a79879c202",
-      "titlu": "Liverpool caută un nou director sportiv după plecarea oficială a lui Richard Hughes",
-      "rezumat": "Liverpool este în căutarea celui de-al patrulea director sportiv în patru ani, după ce a confirmat plecarea oficială a lui Richard Hughes din funcție. Plecarea lui Hughes, în vârstă de 47 de ani, era anticipată de mult timp, acesta fiind așteptat să preia o poziție similară la clubul Al-Hilal din Liga Profesionistă Saudită. El a informat clubul Liverpool despre intențiile sale de a pleca la începutul acestui an, lăsând un gol important în structura administrativă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-05T11:39:32.075818+00:00",
-      "data_afisaj": "5 septembrie 2026, 14:39"
-    },
-    {
-      "id": "8f838c223bd0",
-      "titlu": "Real Madrid, antrenată de José Mourinho, învinsă de Real Betis printr-un gol al lui Troy Parrott",
-      "rezumat": "Real Madrid, sub conducerea lui José Mourinho, a suferit prima înfrângere în La Liga, fiind învinsă cu 1-0 de Real Betis. Golul decisiv a fost marcat de rezerva Troy Parrott cu nouă minute înainte de final, iar portarul Álvaro Valles a salvat un penalty executat de Kylian Mbappé în prelungiri. Meciul, disputat la Sevilla pe o vreme călduroasă, a marcat o surpriză în debutul sezonului, punând presiune pe echipa lui Mourinho.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-05T11:39:32.077645+00:00",
-      "data_afisaj": "5 septembrie 2026, 14:39"
-    },
-    {
-      "id": "773eb64973ed",
-      "titlu": "FCSB a realizat un nou transfer important, supranumit „al doilea Cisotti”",
-      "rezumat": "FCSB a confirmat un nou transfer considerat \"super\" pe piața internă, jucătorul fiind deja supranumit „al doilea Cisotti”. Detaliile specifice ale transferului, inclusiv numele jucătorului și suma implicată, nu au fost complet dezvăluite, dar se anticipează că acesta va aduce un plus de valoare echipei, similar impactului avut de Cisotti. Această mutare este așteptată să întărească lotul roș-albaștrilor pentru obiectivele din acest sezon.",
-      "categorie": "Fotbal",
-      "surse": [
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-09-05T11:39:32.079206+00:00",
-      "data_afisaj": "5 septembrie 2026, 14:39"
-    },
-    {
-      "id": "a7a88d3c7d93",
-      "titlu": "Un jucător părăsește Universitatea Craiova după 11 ani petrecuți la club",
-      "rezumat": "Un fotbalist important va pleca de la Universitatea Craiova după o perioadă de 11 ani petrecută la club. Această plecare marchează sfârșitul unei ere pentru jucătorul respectiv și pentru echipa olteană. Detaliile despre identitatea jucătorului și motivele despărțirii nu au fost specificate, dar se așteaptă ca această decizie să aibă un impact asupra strategiei clubului și a dinamicii lotului în viitorul apropiat.",
-      "categorie": "Fotbal",
-      "surse": [
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-09-05T11:39:32.080770+00:00",
-      "data_afisaj": "5 septembrie 2026, 14:39"
     }
   ]
 }
