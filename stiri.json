@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-12T18:13:24.802532+00:00",
-  "updated_at_afisaj": "12 septembrie 2026, 21:13",
+  "updated_at": "2026-09-12T18:54:58.411277+00:00",
+  "updated_at_afisaj": "12 septembrie 2026, 21:54",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,62 @@
   },
   "numar_stiri": 137,
   "stiri": [
+    {
+      "id": "73bec60e0943",
+      "titlu": "Jordan Pickford atinge borna de 100 de meciuri fără gol primit în Premier League",
+      "rezumat": "Portarul lui Everton, Jordan Pickford, a intrat în clubul select al jucătorilor cu 100 de meciuri fără gol primit în Premier League. Această performanță subliniază constanța și importanța sa pentru echipa sa de-a lungul anilor în cea mai puternică ligă engleză. Echipa \"Ask Me Anything\" a analizat portarii care au reușit această performanță notabilă, evidențiind cariera impresionantă a lui Pickford.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-12T18:54:58.405010+00:00",
+      "data_afisaj": "12 septembrie 2026, 21:54"
+    },
+    {
+      "id": "8778c09a293a",
+      "titlu": "Anthony Gordon demonstrează valoarea la Barcelona după transferul de 70 de milioane de lire sterline",
+      "rezumat": "Transferul lui Anthony Gordon la Barcelona, în valoare de 70 de milioane de lire sterline, a fost inițial privit cu scepticism de unii. Cu toate acestea, aripa engleză își demonstrează deja valoarea la gigantul spaniol, marcând goluri și contribuind semnificativ la jocul ofensiv al echipei. Performanțele sale timpurii sugerează că decizia de a-l aduce pe Camp Nou, în locul lui Rashford, a fost una inspirată.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-12T18:54:58.406531+00:00",
+      "data_afisaj": "12 septembrie 2026, 21:54"
+    },
+    {
+      "id": "c98998ff7c20",
+      "titlu": "Rezultate spectaculoase în Championship: Middlesbrough câștigă un thriller cu șapte goluri, Burnley continuă seria înfrângerilor",
+      "rezumat": "Etapa din Championship a adus meciuri pline de dramatism. Middlesbrough a obținut o victorie palpitantă cu 4-3 împotriva lui Norwich, Ashley Phillips marcând golul decisiv în prelungiri. Între timp, Burnley a suferit o nouă înfrângere, 1-3 în fața lui Swansea, ajungând pe ultimul loc în clasament. Swansea a urcat astfel pe locurile de promovare automată, adâncind criza la echipa antrenată de Nicky Hayen.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-12T18:54:58.408142+00:00",
+      "data_afisaj": "12 septembrie 2026, 21:54"
+    },
+    {
+      "id": "c51e516ec7bd",
+      "titlu": "Fotbalul se implică într-o campanie vitală: Bărbații ar trebui să vorbească despre suferința lor",
+      "rezumat": "Premier League s-a alăturat campaniei \"Together Against Suicide\", promovând un mesaj esențial despre sănătatea mintală masculină. Inițiativa încurajează bărbații să-și exprime emoțiile și să discute despre durerea lor, contribuind la destigmatizarea problemelor de sănătate mintală. Prin implicarea fotbalului, un sport cu o audiență masivă, mesajul ajunge la un public larg, subliniind importanța deschiderii și a căutării ajutorului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-12T18:54:58.409694+00:00",
+      "data_afisaj": "12 septembrie 2026, 21:54"
+    },
+    {
+      "id": "4f19e4ae0041",
+      "titlu": "Detalii neștiute despre ținta de transfer a lui Manchester United, Lewis Hall, și motivele eșecului",
+      "rezumat": "Manchester United nu a reușit să-l transfere pe Lewis Hall în această vară, în ciuda interesului. Articolul explorează aspecte pe care clubul nu le-a înțeles pe deplin despre jucător sau situația sa contractuală, sugerând că șansele de a-l achiziționa au fost minime încă de la început. Această perspectivă oferă o analiză aprofundată a motivelor pentru care transferul de 35 de milioane de lire sterline nu s-a concretizat.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-09-12T18:54:58.411261+00:00",
+      "data_afisaj": "12 septembrie 2026, 21:54"
+    },
     {
       "id": "e9195dbe30de",
       "titlu": "West Ham United obține prima victorie în WSL împotriva lui London City Lionesses",
@@ -1501,61 +1557,6 @@
       ],
       "data_publicare": "2026-09-06T11:35:24.323696+00:00",
       "data_afisaj": "6 septembrie 2026, 14:35"
-    },
-    {
-      "id": "57f17825d3aa",
-      "titlu": "Glasner and Williams dispute VAR call over Forest handball",
-      "rezumat": "Nottingham Forest antrenor Oliver Glasner and Neco Williams believe VAR should not have ruled out defender's goal against Tottenham.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-05T18:42:03.755771+00:00",
-      "data_afisaj": "5 septembrie 2026, 21:42"
-    },
-    {
-      "id": "e987fc3b9570",
-      "titlu": "Fernandez and Ndiaye show signs of promise on Man City debuts",
-      "rezumat": "Manchester City gave £185m of deadline-day talent their Premier League debuts in the win over Coventry - and antrenor Enzo Maresca will have enjoyed what he saw.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-05T18:42:03.757287+00:00",
-      "data_afisaj": "5 septembrie 2026, 21:42"
-    },
-    {
-      "id": "f93e32e278f8",
-      "titlu": "Pompey boss apologises as Cardiff's Bielik clashes with fan",
-      "rezumat": "Portsmouth antrenor principal John Mousinho apologises to Cardiff City players after an incident involving home fans at Fratton Park during their Championship match.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-05T18:42:03.758778+00:00",
-      "data_afisaj": "5 septembrie 2026, 21:42"
-    },
-    {
-      "id": "e9db9afcf648",
-      "titlu": "Fulham booed off after third defeat in a row",
-      "rezumat": "Fulham arebooed off by some supporters following the 3-2 Premier League defeat by Crystal Palace at Craven Cottage.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-05T18:42:03.760168+00:00",
-      "data_afisaj": "5 septembrie 2026, 21:42"
-    },
-    {
-      "id": "4acb0284333a",
-      "titlu": "Williams goal 'should not have been disallowed' - Glasner",
-      "rezumat": "Nottingham Forest antrenor Oliver Glasner says his side \"lost two points\" following their goalless egal against Tottenham Hotspur. The Austrian insists and says Neco Williams' second-half disallowed goal should have stood.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-05T18:42:03.761662+00:00",
-      "data_afisaj": "5 septembrie 2026, 21:42"
     }
   ]
 }
