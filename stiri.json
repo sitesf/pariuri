@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-12T11:59:28.514959+00:00",
-  "updated_at_afisaj": "12 septembrie 2026, 14:59",
+  "updated_at": "2026-09-12T18:13:24.802532+00:00",
+  "updated_at_afisaj": "12 septembrie 2026, 21:13",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,66 @@
   },
   "numar_stiri": 137,
   "stiri": [
+    {
+      "id": "e9195dbe30de",
+      "titlu": "West Ham United obține prima victorie în WSL împotriva lui London City Lionesses",
+      "rezumat": "West Ham United a înregistrat prima sa victorie în sezonul Women's Super League (WSL), reușind să învingă pe teren propriu o echipă London City Lionesses considerată puternică. Această victorie marchează un început pozitiv pentru West Ham în campionatul feminin, consolidându-le poziția în clasament. Meciul a fost unul disputat, dar echipa gazdă a reușit să-și mențină avantajul până la final, obținând cele trei puncte esențiale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-12T18:13:24.795126+00:00",
+      "data_afisaj": "12 septembrie 2026, 21:13"
+    },
+    {
+      "id": "547a89ff00fe",
+      "titlu": "Tottenham Hotspur și Everton se confruntă într-un meci live din Premier League",
+      "rezumat": "Meciul dintre Tottenham Hotspur și Everton din Premier League este în desfășurare, cu actualizări live de la ora 17:30 BST. Echipa lui Spurs a început în forță, pasând mingea în jurul careului lui Everton, în căutarea primului gol. Fanii prezenți pe stadion își arată susținerea, sperând la o prestație ofensivă solidă din partea echipei lor favorite. Partida promite să fie una plină de acțiune și momente cheie.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-12T18:13:24.797059+00:00",
+      "data_afisaj": "12 septembrie 2026, 21:13"
+    },
+    {
+      "id": "89c6ea58f067",
+      "titlu": "Chelsea, egalată de Hull City după un meci intens în Premier League",
+      "rezumat": "Hull City a reușit să obțină un punct meritat împotriva lui Chelsea, într-un meci captivant din Premier League. Mohamed Belloumi a marcat de două ori pentru Hull, în timp ce João Pedro a salvat un punct pentru Chelsea. Antrenorul Xabi Alonso a recunoscut că echipa sa a primit ceea ce a meritat, după ce a dominat posesia, dar a avut dificultăți în a concretiza ocaziile. Rezultatul subliniază startul remarcabil de sezon al lui Hull.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-12T18:13:24.798866+00:00",
+      "data_afisaj": "12 septembrie 2026, 21:13"
+    },
+    {
+      "id": "4fe73b875e21",
+      "titlu": "Borussia Dortmund continuă startul perfect în Bundesliga, Freiburg lider provizoriu",
+      "rezumat": "Borussia Dortmund și-a continuat startul perfect în Bundesliga, înregistrând o victorie cu 3-0 împotriva lui Paderborn, cu goluri marcate de Felix Nmecha (două) și Fábio Silva. Aceasta este cea mai bună performanță a echipei în primele trei etape din ultimii 11 ani. Între timp, Freiburg a preluat conducerea în clasament, datorită unui golaveraj superior, după o victorie categorică cu 5-0. Competiția din Bundesliga se anunță una intensă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-12T18:13:24.800688+00:00",
+      "data_afisaj": "12 septembrie 2026, 21:13"
+    },
+    {
+      "id": "f10acd971000",
+      "titlu": "Aston Villa, în dificultate după o nouă înfrângere și controverse VAR",
+      "rezumat": "Aston Villa se confruntă cu dificultăți majore la începutul sezonului de Premier League, înregistrând a treia înfrângere în patru meciuri. Antrenorul Unai Emery și-a exprimat frustrarea față de deciziile arbitrilor, în special în urma unei faze controversate cu VAR, unde un jucător de la Nottingham Forest nu a fost eliminat după un fault asupra lui Ian Maatsen. Forest a profitat de superioritatea numerică temporară și a marcat golul victoriei cu 2-1, adâncind criza de rezultate a Villa.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-12T18:13:24.802512+00:00",
+      "data_afisaj": "12 septembrie 2026, 21:13"
+    },
     {
       "id": "0c52cc774409",
       "titlu": "Edi Iordănescu a refuzat o ofertă de 1.2 milioane de euro de la Dinamo Kiev",
@@ -1496,63 +1556,6 @@
       ],
       "data_publicare": "2026-09-05T18:42:03.761662+00:00",
       "data_afisaj": "5 septembrie 2026, 21:42"
-    },
-    {
-      "id": "e8cb8c05e391",
-      "titlu": "Penalty-ul lui Le Fee salvează o remiză pentru Sunderland la Brentford",
-      "rezumat": "Enzo Le Fee a salvat un punct pentru Sunderland după ce a transformat penalty-ul său târziu pentru a asigura o remiză de 1-1 la Brentford.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-05T18:01:22.257653+00:00",
-      "data_afisaj": "5 septembrie 2026, 21:01"
-    },
-    {
-      "id": "535a87ec2e5d",
-      "titlu": "St Mirren vs Celtic știri echipe LIVE!",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-09-05T18:01:22.259190+00:00",
-      "data_afisaj": "5 septembrie 2026, 21:01"
-    },
-    {
-      "id": "a9d0c72ccdba",
-      "titlu": "'Nu e Football Manager' - De Zerbi spune că Spurs, care nu marchează, are nevoie de timp",
-      "rezumat": "Tottenham nu a reușit să marcheze în primele trei meciuri din Premier League, iar antrenorul Roberto de Zerbi spune că va dura timp pentru a construi echipa sa scumpă într-un colectiv.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-05T18:01:22.260888+00:00",
-      "data_afisaj": "5 septembrie 2026, 21:01"
-    },
-    {
-      "id": "3c4543ef882f",
-      "titlu": "Sezon nou, același defect - Speranțele la titlu ale lui Chelsea sunt deja sub lupă",
-      "rezumat": "Cu 11 minute rămase, Chelsea părea să se îndrepte spre victorie în meciul de deschidere din WSL împotriva lui Aston Villa. Atunci, cum au risipit-o?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-05T18:01:22.262435+00:00",
-      "data_afisaj": "5 septembrie 2026, 21:01"
-    },
-    {
-      "id": "0a01d6ade439",
-      "titlu": "Scott strălucește, Dedic se chinuie - Notele jucătorilor Newcastle v Bournemouth",
-      "rezumat": "Cum au fost notați jucătorii de la Newcastle United și Bournemouth în meciul lor din Premier League.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-05T18:01:22.263768+00:00",
-      "data_afisaj": "5 septembrie 2026, 21:01"
     }
   ]
 }
