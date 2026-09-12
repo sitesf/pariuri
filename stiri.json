@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-11T19:22:20.622897+00:00",
-  "updated_at_afisaj": "11 septembrie 2026, 22:22",
+  "updated_at": "2026-09-12T11:32:08.413168+00:00",
+  "updated_at_afisaj": "12 septembrie 2026, 14:32",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,61 @@
   },
   "numar_stiri": 137,
   "stiri": [
+    {
+      "id": "012cd565a507",
+      "titlu": "Transferul lui Richarlison la Vasco da Gama a eșuat",
+      "rezumat": "Atacantul lui Tottenham, Richarlison, nu va mai ajunge la Vasco da Gama, după ce mutarea propusă a eșuat. Această evoluție vine pe fondul incertitudinii continue legate de viitorul fotbalistului brazilian la clubul englez. Deși se discuta despre o posibilă plecare, negocierile nu au fost finalizate, lăsând deschisă întrebarea despre următoarea destinație sau rolul său la Tottenham. Situația sa contractuală și sportivă rămâne un subiect de interes în presa sportivă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-12T11:32:08.406134+00:00",
+      "data_afisaj": "12 septembrie 2026, 14:32"
+    },
+    {
+      "id": "fa2e49093bc8",
+      "titlu": "Derby-ul de la Manchester, marcat de tensiuni între fanii United și club",
+      "rezumat": "Derby-ul fierbinte de la Manchester se apropie, dar este umbrit de o tensiune crescândă între suporterii lui Manchester United și conducerea clubului. Fanii intenționează să protesteze înainte de meci din cauza campaniei clubului împotriva speculanților de bilete. Deși Old Trafford a fost o fortăreață pentru United în acest an, cu nouă victorii în zece meciuri de Premier League, atmosfera din afara terenului este una încărcată, reflectând nemulțumirea suporterilor față de anumite decizii administrative.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-12T11:32:08.408008+00:00",
+      "data_afisaj": "12 septembrie 2026, 14:32"
+    },
+    {
+      "id": "e59025014fb1",
+      "titlu": "Xabi Alonso îl compară pe Joao Pedro cu Benzema și Haaland",
+      "rezumat": "Antrenorul lui Chelsea, Xabi Alonso, a făcut declarații elogioase la adresa atacantului Joao Pedro, afirmând că acesta are un stil de joc similar cu cel al fostului său coleg de la Real Madrid, Karim Benzema. Mai mult, Alonso a sugerat că nivelul de performanță al lui Joao Pedro este comparabil cu cel al golgheterului lui Manchester City, Erling Haaland. Aceste comparații subliniază încrederea antrenorului în potențialul și calitățile ofensive ale jucătorului său.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-12T11:32:08.409650+00:00",
+      "data_afisaj": "12 septembrie 2026, 14:32"
+    },
+    {
+      "id": "5752fc6c0ec5",
+      "titlu": "Lamine Camara a depășit eșecul transferului la Chelsea",
+      "rezumat": "Mijlocașul lui Monaco și al naționalei Senegalului, Lamine Camara, a declarat că a trecut peste dezamăgirea cauzată de eșecul transferului său la Chelsea, o mutare evaluată la 47,1 milioane de lire sterline. Jucătorul a subliniat că s-a concentrat pe viitorul său și pe performanțele la actualul său club, Monaco, după ce negocierile cu echipa londoneză nu s-au concretizat. Declarația sa indică o atitudine profesionistă și dorința de a-și continua cariera fără a fi afectat de oportunitățile ratate.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-12T11:32:08.411257+00:00",
+      "data_afisaj": "12 septembrie 2026, 14:32"
+    },
+    {
+      "id": "d24ed99b1dfb",
+      "titlu": "Noile achiziții de la Manchester City sunt dornice de victorie, afirmă Ruben Dias",
+      "rezumat": "Noul căpitan al lui Manchester City, Ruben Dias, a declarat că jucătorii transferați în această vară sunt \"disperați să câștige\" și că întregul lot este \"receptiv la ideile\" noului antrenor, Enzo Maresca. Aceste afirmații sugerează o integrare rapidă a noilor veniți și o unitate în vestiar sub noua conducere tehnică. Dias a subliniat ambiția colectivă a echipei de a-și menține standardele înalte și de a lupta pentru trofee în noul sezon.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-12T11:32:08.413147+00:00",
+      "data_afisaj": "12 septembrie 2026, 14:32"
+    },
     {
       "id": "fcd5290aba94",
       "titlu": "Bergvall signs new deal - but no news on Richarlison",
@@ -1498,63 +1553,6 @@
       ],
       "data_publicare": "2026-09-05T11:39:32.080770+00:00",
       "data_afisaj": "5 septembrie 2026, 14:39"
-    },
-    {
-      "id": "91857746b6a3",
-      "titlu": "I've never spoken to Everton owner Friedkin - Moyes",
-      "rezumat": "Everton antrenor David Moyes says he has never met or spoken to the club's owner Dan Friedkin.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-05T11:12:27.336196+00:00",
-      "data_afisaj": "5 septembrie 2026, 14:12"
-    },
-    {
-      "id": "2129c86650a2",
-      "titlu": "Newcastle United v Bournemouth: Premier League – live",
-      "rezumat": "Updates from St James’ Park, start 12.30pm (BST) Premier League: 10 things to look out for | Mail David A big question: do the two German antrenors know each other? Bournemouth’s Marco Rose (49) is 11 years older than Newcastle’s Matthias Jaissle (just 38) but, yes, their paths have crossed. Here’s Rose: “I know Matthias from Salzburg because I was the antrenor there and he succeeded, not me, but the antrenor after me, or after the antrenor after me! I visited old friends at the training ground a",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-05T11:12:27.337814+00:00",
-      "data_afisaj": "5 septembrie 2026, 14:12"
-    },
-    {
-      "id": "51e7640f043b",
-      "titlu": "Isak finally arrives as Gakpo proves value to Liverpool",
-      "rezumat": "Has the real Alexander Isak finally arrived at Liverpool after his two-goal display in their Premier League win at Ipswich Town, asks chief football writer Phil McNulty?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-05T11:12:27.339299+00:00",
-      "data_afisaj": "5 septembrie 2026, 14:12"
-    },
-    {
-      "id": "55ff0463bb4a",
-      "titlu": "Superstar-led London City live up to hype as Man Utd suffer",
-      "rezumat": "There was an expectation on London City Lionesses to live up to the hype and deliver in the Women's Super League's season opener - and they did.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-05T11:12:27.340862+00:00",
-      "data_afisaj": "5 septembrie 2026, 14:12"
-    },
-    {
-      "id": "33645aaff520",
-      "titlu": "Man Utd made midfield recruitment summer priority - what happens now?",
-      "rezumat": "Michael Carrick says Manchester United have balance in their midfield following a £150m summer recruitment campaign - so who plays?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-05T11:12:27.342157+00:00",
-      "data_afisaj": "5 septembrie 2026, 14:12"
     }
   ]
 }
