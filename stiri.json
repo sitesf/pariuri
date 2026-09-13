@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-12T18:54:58.411277+00:00",
-  "updated_at_afisaj": "12 septembrie 2026, 21:54",
+  "updated_at": "2026-09-13T12:36:46.010950+00:00",
+  "updated_at_afisaj": "13 septembrie 2026, 15:36",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,55 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 137,
+  "numar_stiri": 131,
   "stiri": [
+    {
+      "id": "4554eb862406",
+      "titlu": "Tottenham continuă să aștepte primul gol în campionat după egalul cu Everton",
+      "rezumat": "Echipa lui Tottenham Hotspur nu a reușit să marcheze și să obțină prima victorie în Premier League în acest sezon, după ce formația lui Roberto de Zerbi a fost ținută la egalitate, scor 0-0, pe teren propriu de Everton. Meciul s-a încheiat fără goluri, prelungind perioada de așteptare a lui Spurs pentru un succes în campionat. Rezultatul subliniază dificultățile ofensive ale echipei în debutul stagiunii.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-13T12:36:46.004798+00:00",
+      "data_afisaj": "13 septembrie 2026, 15:36"
+    },
+    {
+      "id": "344392d74c99",
+      "titlu": "Cum să urmărești derby-ul Manchester United vs Manchester City",
+      "rezumat": "Manchester United va găzdui rivala Manchester City într-un derby crucial din Premier League, programat pe 13 septembrie. Meciul va fi transmis în direct pe Sky Sports, oferind fanilor ocazia de a urmări confruntarea dintre cele două mari echipe din Manchester. Această partidă este considerată una dintre cele mai importante ale sezonului, cu implicații semnificative în lupta pentru titlu și clasament.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-09-13T12:36:46.006310+00:00",
+      "data_afisaj": "13 septembrie 2026, 15:36"
+    },
+    {
+      "id": "015ecf286254",
+      "titlu": "Rangers învinge Celtic într-un thriller din sferturile Cupei Ligii Scoției",
+      "rezumat": "Rangers a obținut o victorie dramatică împotriva rivalei Celtic în sferturile de final ale Cupei Ligii Scoției, într-un meci disputat pe Ibrox. Miovski a marcat golul victoriei pentru Rangers în minutele de final, în timp ce Celtic a avut o prestație ezitantă, ratând ocazii importante. Această victorie permite Rangers să avanseze în competiție, punând capăt unei serii de rezultate pozitive pentru Celtic.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-13T12:36:46.007921+00:00",
+      "data_afisaj": "13 septembrie 2026, 15:36"
+    },
+    {
+      "id": "331a537599bc",
+      "titlu": "Nottingham Forest obține o victorie târzie împotriva lui Aston Villa, care continuă startul slab",
+      "rezumat": "Igor Jesus a marcat golul victoriei în minutul 88, aducând prima victorie pentru Nottingham Forest pe terenul lui Aston Villa în ultimii 32 de ani. Aceasta este și prima victorie a antrenorului Oliver Glasner la conducerea lui Forest de la preluarea echipei în vară. Pentru Aston Villa, înfrângerea agravează un început de sezon dificil, echipa continuând să se confrunte cu probleme de formă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-13T12:36:46.010933+00:00",
+      "data_afisaj": "13 septembrie 2026, 15:36"
+    },
     {
       "id": "73bec60e0943",
       "titlu": "Jordan Pickford atinge borna de 100 de meciuri fără gol primit în Premier League",
@@ -1444,119 +1491,6 @@
       ],
       "data_publicare": "2026-09-06T18:09:04.561339+00:00",
       "data_afisaj": "6 septembrie 2026, 21:09"
-    },
-    {
-      "id": "b5cf47fe4c48",
-      "titlu": "How much will Celtic miss Asian Games-bound Yang?",
-      "rezumat": "Yang Hyun-jun illustrated his importance to Celtic with a vital goal against St Mirren before heading off for the Asian Games.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-06T11:58:27.825435+00:00",
-      "data_afisaj": "6 septembrie 2026, 14:58"
-    },
-    {
-      "id": "55ea0488d909",
-      "titlu": "How Man Utd plan to compete at top with big-spending rivals",
-      "rezumat": "Antrenor Michael Carrick and chief executive Omar Berrada are united in their viewthat Manchester United can be successful despite the club's relatively low summer spending.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-06T11:58:27.826910+00:00",
-      "data_afisaj": "6 septembrie 2026, 14:58"
-    },
-    {
-      "id": "973e6b8cc696",
-      "titlu": "Fans furious with Robinson, but what is going wrong at Aberdeen?",
-      "rezumat": "After a fourth straight Scottish Premiership game without a goal and just one league win this season, what is wrong with Aberdeen?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-06T11:58:27.828286+00:00",
-      "data_afisaj": "6 septembrie 2026, 14:58"
-    },
-    {
-      "id": "adc06ddcec8a",
-      "titlu": "Foxes pain and Burnley suffer hangover - Aaron McLean's EFL takeaways",
-      "rezumat": "Leicester, Millwall, Swindon, Stoke and Burnley are among the talking points from this weekend's EFL matches.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-06T11:58:27.829600+00:00",
-      "data_afisaj": "6 septembrie 2026, 14:58"
-    },
-    {
-      "id": "0903a78d08b0",
-      "titlu": "Forest and Spurs remain winless after disallowed goal drama in egal",
-      "rezumat": "Tottenham are still waiting for their first Premier League win of the season after a scrappy egal at Nottingham Forest.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-06T11:58:27.830864+00:00",
-      "data_afisaj": "6 septembrie 2026, 14:58"
-    },
-    {
-      "id": "82049a164e17",
-      "titlu": "Gică Hagi a anunțat lotul preliminar extins al României pentru meciurile din Liga Națiunilor! Ce surprize a pregătit „Regele”",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-09-06T11:35:24.316756+00:00",
-      "data_afisaj": "6 septembrie 2026, 14:35"
-    },
-    {
-      "id": "8aceef3ec063",
-      "titlu": "Petrolul Ploiești – Corvinul Hunedoara, Live Text Online de la ora 15:00, în etapa 8 din Superliga. Echipele probabile",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-09-06T11:35:24.318770+00:00",
-      "data_afisaj": "6 septembrie 2026, 14:35"
-    },
-    {
-      "id": "61987d812471",
-      "titlu": "Gigi Becali l-a sunat pe Gheorghe Mustață imediat după Dinamo – FCSB! Liderul Peluzei Nord a dezvăluit tot dialogul",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-09-06T11:35:24.320697+00:00",
-      "data_afisaj": "6 septembrie 2026, 14:35"
-    },
-    {
-      "id": "a292d2c6ede9",
-      "titlu": "Arsenal a avut peste 20 de jucători pe lista scurtă pentru a valorifica victoria în campionat",
-      "rezumat": "Corespondentul senior de fotbal Sami Mokbel analizează eforturile lui Arsenal de a valorifica titlul de Premier League și de a-și întări lotul în această vară.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-06T11:35:24.322172+00:00",
-      "data_afisaj": "6 septembrie 2026, 14:35"
-    },
-    {
-      "id": "e6e7deebb8e9",
-      "titlu": "Șapte puncte din trei meciuri - este Hull pe drumul cel bun pentru a evita retrogradarea?",
-      "rezumat": "Ar putea fi prea devreme pentru a vorbi despre salvare, dar nou-promovata Hull City și-a creat platforma perfectă pe care să construiască în Premier League.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-06T11:35:24.323696+00:00",
-      "data_afisaj": "6 septembrie 2026, 14:35"
     }
   ]
 }
