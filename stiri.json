@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-13T13:07:15.816975+00:00",
-  "updated_at_afisaj": "13 septembrie 2026, 16:07",
+  "updated_at": "2026-09-13T18:37:36.860869+00:00",
+  "updated_at_afisaj": "13 septembrie 2026, 21:37",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,62 @@
   },
   "numar_stiri": 136,
   "stiri": [
+    {
+      "id": "efa035c59d35",
+      "titlu": "Ronaldo Cere Interdicții pe Viață După Scandări cu Numele lui Jota",
+      "rezumat": "Cristiano Ronaldo a cerut interdicții pe viață pentru fanii care scandează numele jucătorilor adversi, după ce imagini apărute pe rețelele sociale îl arată pe Ruben Neves de la Al-Hilal reacționând la scandările fanilor lui Al-Taawoun cu numele lui Diogo Jota, în timpul unui meci din Liga Profesionistă Saudită. Incidentul a stârnit discuții aprinse despre comportamentul suporterilor și necesitatea unor măsuri mai stricte pentru a combate astfel de manifestări pe stadioane.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-13T18:37:36.853375+00:00",
+      "data_afisaj": "13 septembrie 2026, 21:37"
+    },
+    {
+      "id": "ae1963680c43",
+      "titlu": "Haaland Marchează Golul Decisiv Controversat în Derby-ul Manchester, După Eliminarea lui Foden",
+      "rezumat": "Erling Haaland a marcat golul victoriei pentru Manchester City într-un derby tensionat împotriva rivalilor de la Manchester United, pe Old Trafford. Meciul a fost marcat de eliminarea controversată a lui Phil Foden în prima repriză, lăsând-o pe City în zece jucători. În ciuda inferiorității numerice, echipa lui Pep Guardiola a reușit să se impună, însă golul lui Haaland a stârnit discuții aprinse din cauza circumstanțelor în care a fost obținut și a deciziilor arbitrale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-09-13T18:37:36.855378+00:00",
+      "data_afisaj": "13 septembrie 2026, 21:37"
+    },
+    {
+      "id": "78933e62222e",
+      "titlu": "Valencia Îi Demite pe Antrenorul Corberan și pe Directorul Executiv",
+      "rezumat": "Clubul spaniol Valencia a anunțat demiterea antrenorului principal Carlos Corberan și a directorului executiv de fotbal, Ron Gourlay. Decizia vine în urma unui început de sezon fără victorie, care a plasat echipa într-o poziție dificilă în clasament. Conducerea clubului speră ca aceste schimbări la nivel înalt să revitalizeze performanța echipei și să aducă rezultate pozitive în viitorul apropiat.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-13T18:37:36.857062+00:00",
+      "data_afisaj": "13 septembrie 2026, 21:37"
+    },
+    {
+      "id": "92b92f78a067",
+      "titlu": "Lamine Yamal Menține Startul Perfect al Barcelonei; Leipzig Învinge Categoric Hamburg",
+      "rezumat": "Barcelona își continuă parcursul impecabil în La Liga, obținând o victorie dificilă cu 4-2 împotriva echipei Levante, în Valencia. Tânărul talent Lamine Yamal a fost decisiv, marcând două goluri și contribuind la un avans rapid de 2-0. Într-un alt meci important din fotbalul european, RB Leipzig a înregistrat o victorie categorică, învingând-o pe Hamburg cu un scor de 5-0. Aceste rezultate subliniază forma bună a ambelor echipe în campionatele lor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-13T18:37:36.858945+00:00",
+      "data_afisaj": "13 septembrie 2026, 21:37"
+    },
+    {
+      "id": "8d5fa9fc0fc5",
+      "titlu": "Chelsea Învinge Manchester United cu 5-0 în WSL, Demonstrând Forța Ofensivă",
+      "rezumat": "Echipa feminină Chelsea a obținut o victorie convingătoare cu 5-0 împotriva lui Manchester United în Women's Super League (WSL). Performanța dominantă a londonezelor a spulberat orice îndoială privind capacitatea lor de a finaliza meciurile, în fața unei echipe United care a părut lipsită de energie și inspirație. Antrenoarea Chelsea, Sonia Bompastor, a declarat că cel mai bun mod de a respecta un adversar este să marchezi cât mai multe goluri atunci când ai ocazia.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-13T18:37:36.860847+00:00",
+      "data_afisaj": "13 septembrie 2026, 21:37"
+    },
     {
       "id": "49b7bdfc91ee",
       "titlu": "Abordări Tactice Opuse: Maresca vs Carrick în Derby-ul de la Manchester",
@@ -1491,64 +1547,6 @@
       ],
       "data_publicare": "2026-09-06T18:46:05.951434+00:00",
       "data_afisaj": "6 septembrie 2026, 21:46"
-    },
-    {
-      "id": "b8394b395936",
-      "titlu": "Golul târziu cu capul al lui Vuskovic salvează un punct pentru Brighton împotriva lui Leeds",
-      "rezumat": "Leeds a fost privată de prima victorie în Premier League pe American Express Stadium, deoarece Brighton a revenit de la un dezavantaj pentru a împărți punctele.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-06T18:09:04.556963+00:00",
-      "data_afisaj": "6 septembrie 2026, 21:09"
-    },
-    {
-      "id": "921b2bfba5d4",
-      "titlu": "Aston Villa rămâne fără victorie după egalul de la Hull",
-      "rezumat": "Aston Villa rămâne fără victorie după trei meciuri în noul sezon de Premier League, după ce a fost ținută la un egal fără goluri de nou-promovata Hull City.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-06T18:09:04.558060+00:00",
-      "data_afisaj": "6 septembrie 2026, 21:09"
-    },
-    {
-      "id": "6c2e1f789635",
-      "titlu": "Președintele Fifa Infantino va candida pentru realegere",
-      "rezumat": "Președintele Fifa, Gianni Infantino, va candida pentru realegere în martie, a confirmat organismul de conducere mondial.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-06T18:09:04.559134+00:00",
-      "data_afisaj": "6 septembrie 2026, 21:09"
-    },
-    {
-      "id": "95637bd5a643",
-      "titlu": "Odegaard și Saka strălucesc - notele jucătorilor pentru Arsenal v Chelsea",
-      "rezumat": "Cum au fost notați jucătorii lui Arsenal și Chelsea după meciul lor din Premier League.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-06T18:09:04.560257+00:00",
-      "data_afisaj": "6 septembrie 2026, 21:09"
-    },
-    {
-      "id": "a35e5432ce4e",
-      "titlu": "Man Utd nu poate ignora punctele pierdute, în ciuda aspectelor pozitive",
-      "rezumat": "Antrenorul lui Manchester United, Michael Carrick, rămâne optimist, în ciuda faptului că echipa sa a pierdut încă două puncte la Everton.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-06T18:09:04.561339+00:00",
-      "data_afisaj": "6 septembrie 2026, 21:09"
     }
   ]
 }
