@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-13T18:37:36.860869+00:00",
-  "updated_at_afisaj": "13 septembrie 2026, 21:37",
+  "updated_at": "2026-09-13T19:10:16.114982+00:00",
+  "updated_at_afisaj": "13 septembrie 2026, 22:10",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,65 @@
   },
   "numar_stiri": 136,
   "stiri": [
+    {
+      "id": "66b2c2c1d1ca",
+      "titlu": "Haaland scores controversial winner as Man City win derby despite Foden red",
+      "rezumat": "Erling Haaland's goal helps Manchester City win a highly controversial Manchester derby at rivals Manchester United despite playing with 10 men for more than 70 minutes.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-09-13T19:09:58.999093+00:00",
+      "data_afisaj": "13 septembrie 2026, 22:09"
+    },
+    {
+      "id": "51bbab713109",
+      "titlu": "Dunk scores screamer as Brighton thrash 10-man Coventry",
+      "rezumat": "Coventry's poor start to the Premier League season continues after they're thrashed 5-0 at home to Brighton, having played most of the second half with ten men after having Taiwo Awoniyi sent off at the CBS Arena.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-13T19:09:59.000711+00:00",
+      "data_afisaj": "13 septembrie 2026, 22:09"
+    },
+    {
+      "id": "7f4b1ac8f8a6",
+      "titlu": "Ronaldo demands lifetime bans over Jota chants",
+      "rezumat": "Footage on social media appears to show Al-Hilal's Ruben Neves reacting to Al-Taawoun fans chanting Diogo Jota's name at him during their Saudi Pro League match.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-13T19:09:59.002221+00:00",
+      "data_afisaj": "13 septembrie 2026, 22:09"
+    },
+    {
+      "id": "88183ff58423",
+      "titlu": "🚨 LIVE Corvinul Hunedoara – Universitatea Craiova, în etapa 9 din Superliga. Deschidere de scor la Arad!",
+      "rezumat": "(rezumat indisponibil)",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-09-13T19:09:59.004238+00:00",
+      "data_afisaj": "13 septembrie 2026, 22:09"
+    },
+    {
+      "id": "cbb6328bd725",
+      "titlu": "Was Haaland's winner a VAR error? Man Utd fury at 'injustice'",
+      "rezumat": "Manchester City celebrate a remarkable derby win over Manchester United but questions remain over whether Erling Haaland's winning goal should have stood in a match fraught with controversy.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-13T19:09:59.005947+00:00",
+      "data_afisaj": "13 septembrie 2026, 22:09"
+    },
     {
       "id": "efa035c59d35",
       "titlu": "Ronaldo Cere Interdicții pe Viață După Scandări cu Numele lui Jota",
@@ -1491,62 +1550,6 @@
       ],
       "data_publicare": "2026-09-07T13:21:14.669749+00:00",
       "data_afisaj": "7 septembrie 2026, 16:21"
-    },
-    {
-      "id": "003130116b8a",
-      "titlu": "S-au încins spiritele! Andrei Nicolescu și Mihai Stoica s-au contrat în studio după Dinamo – FCSB: „Mi se pare o chestie ciudată”",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-09-06T18:46:05.945561+00:00",
-      "data_afisaj": "6 septembrie 2026, 21:46"
-    },
-    {
-      "id": "3e3cb2cb1167",
-      "titlu": "New contenders emerge on WSL return - but Man City start strong",
-      "rezumat": "The Women’s Super League returned this weekend and with it a host of new signings, improved squads and unexpected results.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-06T18:46:05.947178+00:00",
-      "data_afisaj": "6 septembrie 2026, 21:46"
-    },
-    {
-      "id": "5a9137c2b526",
-      "titlu": "Ex-Leicester striker Vardy joins Burnley",
-      "rezumat": "Former Leicester City and England striker Jamie Vardy joins Burnley until the end of the season.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-06T18:46:05.948612+00:00",
-      "data_afisaj": "6 septembrie 2026, 21:46"
-    },
-    {
-      "id": "59d34b49ca28",
-      "titlu": "Police investigate Bielik fan clash at Portsmouth",
-      "rezumat": "Police are investigating an incident between Cardiff defender Krystian Bielik and a Portsmouth supporter during Pompey's 2-0 home win on Saturday.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-06T18:46:05.950018+00:00",
-      "data_afisaj": "6 septembrie 2026, 21:46"
-    },
-    {
-      "id": "daa5b08a9947",
-      "titlu": "Baum scores on debut as Arsenal edge Brighton",
-      "rezumat": "Lisa Baum scores on her Arsenal debut as the Gunners beat Brighton 1-0 in the Women's Super League.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-06T18:46:05.951434+00:00",
-      "data_afisaj": "6 septembrie 2026, 21:46"
     }
   ]
 }
