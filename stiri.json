@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-14T14:44:28.375412+00:00",
-  "updated_at_afisaj": "14 septembrie 2026, 17:44",
+  "updated_at": "2026-09-14T20:12:12.766143+00:00",
+  "updated_at_afisaj": "14 septembrie 2026, 23:12",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,62 @@
   },
   "numar_stiri": 136,
   "stiri": [
+    {
+      "id": "b36f7b11a058",
+      "titlu": "Oficialii VAR de la Derby-ul Manchester, Lăsați în Afara Programului de Meciuri",
+      "rezumat": "Arbitrul asistent video (VAR) Matt Donohue și asistentul său, Blake Antrobus, care au validat golul controversat al lui Erling Haaland în derby-ul Manchester, nu au fost desemnați pentru meciurile din Premier League din acest weekend. Decizia a fost luată de Howard Webb, șeful arbitrajului, după ce organismul Pro Ref a recunoscut că a fost o eroare de judecată. Această măsură subliniază consecințele deciziilor controversate și dorința de a asigura corectitudinea arbitrajului în competiție, în urma criticilor intense primite.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-14T20:12:12.760594+00:00",
+      "data_afisaj": "14 septembrie 2026, 23:12"
+    },
+    {
+      "id": "43d852a79173",
+      "titlu": "Datele Dezvăluie Că West Ham United a Umflat Cifrele de Prezență pe Stadion",
+      "rezumat": "O analiză recentă a datelor a scos la iveală că cifrele oficiale de prezență ale clubului West Ham United pe London Stadium, pe parcursul sezonului trecut, au fost umflate. Conform acestor descoperiri, un sfert de milion de fani au lipsit din estimările raportate, sugerând o discrepanță semnificativă între numărul real de spectatori și cel comunicat public. Această dezvăluire, provenită dintr-o 'data dump', ridică semne de întrebare privind transparența clubului și modul de raportare a audienței.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-09-14T20:12:12.761994+00:00",
+      "data_afisaj": "14 septembrie 2026, 23:12"
+    },
+    {
+      "id": "c3e6cfc73eb5",
+      "titlu": "Frank Lampard Rămâne la Conducerea lui Coventry City în Ciuda Startului Dezastruos",
+      "rezumat": "Frank Lampard își păstrează poziția de antrenor la Coventry City, în ciuda unui început de sezon extrem de dificil în Premier League. Echipa nu a reușit să marcheze niciun gol și nu a acumulat niciun punct în primele meciuri, marcând o revenire în prima ligă după 25 de ani. Proprietarul Doug King a declarat că are încredere în Lampard, evitând o decizie pripită de demitere, în speranța că antrenorul va reuși să redreseze situația și să evite o luptă pentru retrogradare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-09-14T20:12:12.763403+00:00",
+      "data_afisaj": "14 septembrie 2026, 23:12"
+    },
+    {
+      "id": "0e8eac2aec5f",
+      "titlu": "Loris Karius Își Relansează Cariera la o Echipă Nou Promovată",
+      "rezumat": "Fostul portar al lui Liverpool, Loris Karius, își revitalizează cariera într-un mod spectaculos la o echipă nou promovată. După un final dificil al perioadei sale la Liverpool, marcat de erori în finala Ligii Campionilor, care l-a făcut să ia în considerare retragerea la doar 25 de ani, Karius a reușit să-și reconstruiască reputația pas cu pas. Această renaștere marchează un capitol nou pentru portar, demonstrând reziliență și determinare în fața adversității și a criticilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-09-14T20:12:12.764708+00:00",
+      "data_afisaj": "14 septembrie 2026, 23:12"
+    },
+    {
+      "id": "283340c8e5fd",
+      "titlu": "Roberto De Zerbi Începe Să Simtă Presiunea la Tottenham După Startul Fără Goluri",
+      "rezumat": "Antrenorul lui Tottenham Hotspur, Roberto De Zerbi, se confruntă cu o presiune crescândă după ce echipa nu a reușit să marcheze în primele patru meciuri din campionat. Într-o încercare de a explica situația, De Zerbi a făcut referire la fostul antrenor Igor Tudor, sugerând că problemele ar putea fi mai profunde decât cele actuale. Această serie negativă a generat un val de critici și a pus sub semnul întrebării capacitatea echipei de a-și atinge obiectivele în acest sezon, având în vedere așteptările mari.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-09-14T20:12:12.766127+00:00",
+      "data_afisaj": "14 septembrie 2026, 23:12"
+    },
     {
       "id": "71c4fcdfbe6b",
       "titlu": "Aberdeen Riscă Sancțiuni Disciplinare După Comportamentul Fanilor",
@@ -1497,62 +1553,6 @@
       ],
       "data_publicare": "2026-09-07T20:18:58.754514+00:00",
       "data_afisaj": "7 septembrie 2026, 23:18"
-    },
-    {
-      "id": "2683d147bfe0",
-      "titlu": "Mihai Stoica îi răspunde lui Ianis Zicu în disputa publică",
-      "rezumat": "Mihai Stoica, oficial al FCSB, a răspuns acuzațiilor de ipocrizie lansate de Ianis Zicu, fost jucător și antrenor, afirmând că deține mesaje care îi susțin poziția. Disputa verbală dintre cele două personalități din fotbalul românesc continuă să genereze discuții în spațiul public, reflectând tensiunile existente în Liga 1. Acest schimb de replici subliniază rivalitățile și dinamica relațiilor dintre actorii principali ai campionatului intern.",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-09-07T19:42:08.877593+00:00",
-      "data_afisaj": "7 septembrie 2026, 22:42"
-    },
-    {
-      "id": "e27685ac39bd",
-      "titlu": "Noua înregistrare video confirmă hențul lui Williams, dar controversele VAR persistă",
-      "rezumat": "O nouă înregistrare video a confirmat că mingea a atins brațul fundașului Neco Williams de la Nottingham Forest înainte de golul său anulat împotriva echipei Tottenham. Această dovadă suplimentară, deși clarifică faza, nu este de așteptat să pună capăt controverselor legate de sistemul VAR și de deciziile arbitrilor în Premier League, continuând să alimenteze dezbaterile privind implementarea tehnologiei în fotbal.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-07T19:42:08.879465+00:00",
-      "data_afisaj": "7 septembrie 2026, 22:42"
-    },
-    {
-      "id": "c55589c6fee6",
-      "titlu": "Arsenal, un start de sezon aproape perfect în Premier League",
-      "rezumat": "Arsenal a avut un început de sezon aproape perfect, câștigând toate cele trei meciuri din campionat și demonstrând o autoritate și o prospețime care le-au lipsit uneori în stagiunea precedentă. Echipa lui Mikel Arteta a dominat confortabil fiecare partidă, consolidându-și poziția de pretendent serios la titlu. Această formă excelentă sugerează că \"tunarii\" sunt pregătiți să lupte pentru trofeul Premier League, având în vedere și performanțele solide ale principalilor rivali.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-07T19:42:08.881102+00:00",
-      "data_afisaj": "7 septembrie 2026, 22:42"
-    },
-    {
-      "id": "3a1b4fa897ef",
-      "titlu": "Mijlocul terenului, o problemă pentru Chelsea în fața presiunii lui Arsenal",
-      "rezumat": "Mijlocul terenului a reprezentat o problemă majoră pentru Chelsea în recenta confruntare cu Arsenal, unde echipa lui Xabi Alonso a fost dominată tactic. Absența lui Moisés Caicedo s-a resimțit puternic, creând un decalaj semnificativ între cele două formații. Această dificultate în zona mediană ridică semne de întrebare cu privire la strategia și echilibrul echipei, punând presiune pe antrenor să găsească soluții pentru a îmbunătăți performanța în meciurile viitoare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-07T19:42:08.882882+00:00",
-      "data_afisaj": "7 septembrie 2026, 22:42"
-    },
-    {
-      "id": "7a0e62b4fb20",
-      "titlu": "Fereastra de transferuri de vară 2026 s-a încheiat în marile ligi europene",
-      "rezumat": "Fereastra de transferuri de vară din 2026 s-a încheiat, aducând o serie de mutări semnificative în cele cinci mari ligi europene: Premier League, La Liga, Bundesliga, Ligue 1 și Serie A. Cluburile au finalizat achizițiile și vânzările de jucători, conturând loturile pentru noul sezon. Un ghid detaliat, club cu club, este disponibil pentru a analiza impactul acestor tranzacții asupra forței echipelor și a echilibrului de putere în campionatele de top.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-07T19:42:08.884634+00:00",
-      "data_afisaj": "7 septembrie 2026, 22:42"
     }
   ]
 }
