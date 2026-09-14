@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-14T13:44:53.809344+00:00",
-  "updated_at_afisaj": "14 septembrie 2026, 16:44",
+  "updated_at": "2026-09-14T14:44:28.375412+00:00",
+  "updated_at_afisaj": "14 septembrie 2026, 17:44",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,61 @@
   },
   "numar_stiri": 136,
   "stiri": [
+    {
+      "id": "71c4fcdfbe6b",
+      "titlu": "Aberdeen Riscă Sancțiuni Disciplinare După Comportamentul Fanilor",
+      "rezumat": "Clubul scoțian Aberdeen ar putea fi sancționat disciplinar în urma incidentelor în care suporterii au invadat terenul de joc. Evenimentul a avut loc după victoria echipei în meciul de cupă împotriva formației Kilmarnock. Federația de fotbal analizează situația pentru a decide măsurile ce vor fi luate, subliniind importanța menținerii ordinii și siguranței pe stadioane. Acest tip de comportament al fanilor este adesea pedepsit cu amenzi sau chiar cu închiderea parțială a stadionului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-14T14:44:28.369617+00:00",
+      "data_afisaj": "14 septembrie 2026, 17:44"
+    },
+    {
+      "id": "0179b9f3584d",
+      "titlu": "Revoltă la Lazio: Fanii Boicotează Meciurile Acasă în Ciuda Succesului Echipei",
+      "rezumat": "În ciuda unui început de sezon impresionant sub conducerea antrenorului Gennaro Gattuso, suporterii echipei Lazio Roma boicotează meciurile de pe Stadio Olimpico. Această acțiune reprezintă o formă de protest împotriva proprietarului clubului, Claudio Lotito. Fanii își exprimă nemulțumirea față de modul în care este condus clubul, chiar dacă echipa se află în fruntea clasamentului. Boicotul subliniază tensiunile persistente dintre conducere și baza de suporteri, o situație rară în fotbalul modern.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-14T14:44:28.371080+00:00",
+      "data_afisaj": "14 septembrie 2026, 17:44"
+    },
+    {
+      "id": "a06dd8668893",
+      "titlu": "PSG Obține Prima Victorie în Ligue 1, Dar Prestația Rămâne Sub Așteptări",
+      "rezumat": "Paris Saint-Germain a înregistrat în sfârșit prima sa victorie în Ligue 1, însă performanța echipei a fost departe de a fi convingătoare. Deși Ferran Torres a avut o evoluție remarcabilă pentru noul său club, majoritatea coechipierilor săi nu au reușit să impresioneze. Rezultatul, deși pozitiv, ridică semne de întrebare cu privire la forma și coeziunea echipei, sugerând că mai este mult de lucru pentru a atinge nivelul așteptat de la un club cu asemenea ambiții și investiții.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-14T14:44:28.372523+00:00",
+      "data_afisaj": "14 septembrie 2026, 17:44"
+    },
+    {
+      "id": "ac892b8c3377",
+      "titlu": "Coreea de Sud Analizează Mutarea Sezonului de Fotbal în Iarnă Din Cauza Verilor Insuporabile",
+      "rezumat": "Liga de fotbal din Coreea de Sud, K-League, ia în considerare o schimbare majoră a calendarului competițional, propunând mutarea sezonului în lunile de iarnă. Această decizie vine ca urmare a verilor din ce în ce mai fierbinți, care afectează atât performanța jucătorilor, cât și sănătatea fanilor. Un sondaj recent a arătat că peste 70% dintre antrenorii din ligă susțin această modificare, aliniindu-se astfel cu modelul european și încercând să evite condițiile meteorologice extreme.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-14T14:44:28.374007+00:00",
+      "data_afisaj": "14 septembrie 2026, 17:44"
+    },
+    {
+      "id": "9aeeee0a373b",
+      "titlu": "Richarlison de la Tottenham Primește o Șansă de Revenire Prin Regulamentul Competiției",
+      "rezumat": "Atacantul brazilian Richarlison, care a fost exclus din lotul de 25 de jucători al lui Tottenham Hotspur pentru Premier League, ar putea beneficia de o șansă neașteptată de a reveni în echipă. Regulamentul competiției îi oferă o portiță pentru a fi inclus în lotul pentru alte competiții, cum ar fi Cupa Ligii sau cupele europene, dacă echipa participă. Această situație îi oferă jucătorului o oportunitate de a-și demonstra valoarea și de a-și relansa cariera la clubul londonez.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-09-14T14:44:28.375397+00:00",
+      "data_afisaj": "14 septembrie 2026, 17:44"
+    },
     {
       "id": "1f2f835b5a4d",
       "titlu": "Decesul fostului portar al lui West Ham, Ludek Miklosko, la 64 de ani",
@@ -1498,61 +1553,6 @@
       ],
       "data_publicare": "2026-09-07T19:42:08.884634+00:00",
       "data_afisaj": "7 septembrie 2026, 22:42"
-    },
-    {
-      "id": "5b4a893851ba",
-      "titlu": "Harry Kane, la 33 de ani: „Sunt la apogeu fizic și mental”, respinge discuțiile despre retragere",
-      "rezumat": "Căpitanul Angliei, Harry Kane, a respins orice discuție privind o eventuală retragere din fotbal, insistând că se află la \"apogeul\" puterilor sale fizice și mentale la vârsta de 33 de ani. După o vară intensă la Cupa Mondială cu Anglia, Kane a declarat că se simte excelent din punct de vedere fizic și depune multă muncă în culise pentru a-și menține forma. Declarațiile sale sugerează o dorință puternică de a continua să joace la cel mai înalt nivel și de a contribui la performanțele echipei sale și ale naționalei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-09-07T13:59:29.637256+00:00",
-      "data_afisaj": "7 septembrie 2026, 16:59"
-    },
-    {
-      "id": "a2a8f66ad921",
-      "titlu": "Chelsea, probleme de lot în ciuda investițiilor de 349 de milioane de lire sterline?",
-      "rezumat": "După înfrângerea cu Arsenal, Chelsea a încheiat meciul cu doi fundași dreapta la mijlocul terenului, ridicând semne de întrebare cu privire la strategia de transferuri și echilibrul lotului. În ciuda cheltuielilor masive de 349 de milioane de lire sterline, echipa pare să aibă deficiențe în anumite zone, forțând antrenorul să improvizeze. Această situație sugerează că investițiile semnificative nu au rezolvat pe deplin problemele de profunzime și coeziune ale echipei, iar analiza tactică devine crucială.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-07T13:59:29.639110+00:00",
-      "data_afisaj": "7 septembrie 2026, 16:59"
-    },
-    {
-      "id": "232157b00d02",
-      "titlu": "Consorțiul american a primit undă verde pentru achiziționarea clubului Shrewsbury",
-      "rezumat": "Saga preluării clubului Shrewsbury Town este pe cale să se încheie, după ce un consorțiu american a obținut aprobarea necesară pentru a cumpăra clubul. Această decizie marchează un moment important pentru viitorul echipei, punând capăt unei perioade de incertitudine. Se anticipează că noua conducere va aduce stabilitate financiară și noi perspective de dezvoltare pentru clubul din ligile inferioare engleze, cu speranța unei ascensiuni sportive.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-07T13:59:29.640844+00:00",
-      "data_afisaj": "7 septembrie 2026, 16:59"
-    },
-    {
-      "id": "34c7e0451934",
-      "titlu": "Rezultatul lui Crystal Palace în WSL, sub semnul întrebării după o eroare la schimbări; noile achiziții ale lui Arsenal impresionează",
-      "rezumat": "Victoria entuziasmantă a echipei Crystal Palace cu 1-0 împotriva lui Everton în Women's Super League ar putea fi anulată, după ce echipa promovată a folosit patru ferestre de schimbări, depășind limita regulamentară. Între timp, noile achiziții ale lui Arsenal au strălucit, contribuind la un start puternic al campioanelor. Această situație creează incertitudine pentru Palace și evidențiază impactul imediat al transferurilor reușite pentru Arsenal în noul sezon, influențând clasamentul.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-07T13:59:29.643022+00:00",
-      "data_afisaj": "7 septembrie 2026, 16:59"
-    },
-    {
-      "id": "994681c6962d",
-      "titlu": "Ierarhia din Serie A prinde contur după o seară intensă la Milano și o remiză la Torino",
-      "rezumat": "Victoria lui Inter Milano împotriva lui Napoli a avut alura unui clasic de luptă pentru titlu, în timp ce remiza dintre Juventus și AC Milan a scos la iveală deficiențe familiare, în ciuda investițiilor semnificative din vară. Aceste rezultate conturează o ierarhie incipientă în Serie A, sugerând că lupta pentru titlu va fi una disputată, iar echipele de top se confruntă cu provocări diferite în ciuda ambițiilor lor de a domina campionatul italian.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-07T13:59:29.644895+00:00",
-      "data_afisaj": "7 septembrie 2026, 16:59"
     }
   ]
 }
