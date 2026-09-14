@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-14T20:12:12.766143+00:00",
-  "updated_at_afisaj": "14 septembrie 2026, 23:12",
+  "updated_at": "2026-09-14T20:42:09.693122+00:00",
+  "updated_at_afisaj": "14 septembrie 2026, 23:42",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,61 @@
   },
   "numar_stiri": 136,
   "stiri": [
+    {
+      "id": "af41e3aaa608",
+      "titlu": "Presiune Crescândă la Manchester United: Michael Carrick Caută Soluții După Un Start Dificil",
+      "rezumat": "Manchester United se confruntă cu o serie de probleme după ce a înregistrat o singură victorie în primele patru meciuri din Premier League. Managerul Michael Carrick este sub presiune să găsească răspunsuri și să redreseze echipa, pe măsură ce întrebările familiare despre performanța clubului reapar. Analiza se concentrează pe provocările tactice și de moral cu care se confruntă echipa în acest început de sezon, subliniind necesitatea unor schimbări rapide pentru a evita o criză prelungită.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-14T20:42:09.688393+00:00",
+      "data_afisaj": "14 septembrie 2026, 23:42"
+    },
+    {
+      "id": "4319a84bee51",
+      "titlu": "Transparența VAR: Fanii Așteaptă în Continuare Acces la Audio Live",
+      "rezumat": "La aproape un deceniu de la introducerea sa, sistemul VAR continuă să genereze dezbateri intense, în special în privința transparenței deciziilor. Deși tehnologia este utilizată pe scară largă, posibilitatea ca suporterii să asculte în direct comunicările audio dintre arbitrii VAR și cei de pe teren rămâne o perspectivă îndepărtată. Această lipsă de acces alimentează frustrarea și speculațiile, subliniind o problemă persistentă în eforturile de a îmbunătăți înțelegerea și acceptarea deciziilor arbitrale în fotbalul modern.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-14T20:42:09.689593+00:00",
+      "data_afisaj": "14 septembrie 2026, 23:42"
+    },
+    {
+      "id": "714aa6c990ec",
+      "titlu": "Cursa pentru Titlul din Premier League: Deja o Luptă în Doi?",
+      "rezumat": "După doar patru etape, se ridică întrebarea dacă lupta pentru titlul din Premier League s-a restrâns deja la două echipe. Deși este considerat prea devreme pentru a trage concluzii definitive, startul puternic al anumitor formații a generat speculații intense. Analiza BBC Sport explorează argumentele pro și contra unei curse în doi, examinând performanțele echipelor de top și potențialul lor de a menține ritmul pe parcursul întregului sezon, într-o competiție care promite să fie una acerbă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-14T20:42:09.690763+00:00",
+      "data_afisaj": "14 septembrie 2026, 23:42"
+    },
+    {
+      "id": "dc427c36a7bf",
+      "titlu": "Sebastien Pocognoli Pregătește Prima Selecție pentru Naționala Scoției",
+      "rezumat": "Noul selecționer al Scoției, Sebastien Pocognoli, urmează să anunțe marți prima sa listă de jucători convocați. Se anticipează o abordare proaspătă, cu posibile nume noi în lot, pe măsură ce antrenorul își propune să imprime propria viziune asupra echipei naționale. BBC Sport Scoția analizează potențialii candidați și modificările așteptate în componența echipei, marcând un nou început pentru fotbalul scoțian sub conducerea lui Pocognoli și speranțe reînnoite pentru viitoarele campanii.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-14T20:42:09.691866+00:00",
+      "data_afisaj": "14 septembrie 2026, 23:42"
+    },
+    {
+      "id": "93be16574ce4",
+      "titlu": "Căpitanul Celtic, Callum McGregor, Critică Echipa După Înfrângerea în Old Firm",
+      "rezumat": "Căpitanul echipei Celtic, Callum McGregor, a lansat critici dure la adresa colegilor săi după înfrângerea categorică în fața rivalilor de la Rangers în derby-ul Old Firm. McGregor a declarat că a văzut 'o echipă și o echipă de individualiști', sugerând o lipsă de coeziune și spirit de echipă în rândul jucătorilor. Declarația sa subliniază frustrarea și dezamăgirea din vestiarul Celtic după o prestație considerată sub așteptări în fața suporterilor, cerând o analiză profundă a situației.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-09-14T20:42:09.693106+00:00",
+      "data_afisaj": "14 septembrie 2026, 23:42"
+    },
     {
       "id": "b36f7b11a058",
       "titlu": "Oficialii VAR de la Derby-ul Manchester, Lăsați în Afara Programului de Meciuri",
@@ -1498,61 +1553,6 @@
       ],
       "data_publicare": "2026-09-08T12:02:07.542722+00:00",
       "data_afisaj": "8 septembrie 2026, 15:02"
-    },
-    {
-      "id": "aa45a280cd70",
-      "titlu": "Poate Harry Kane să sfideze istoria și să câștige Balonul de Aur?",
-      "rezumat": "Istoria recentă a Balonului de Aur arată că majoritatea câștigătorilor au ridicat anterior unul dintre cele mai prestigioase trofee din fotbal. Se pune întrebarea dacă Harry Kane, un jucător de top fără un trofeu major recent la nivel de club sau internațional, poate deveni o excepție rară și să obțină râvnitul premiu individual. Analiza se concentrează pe performanțele sale excepționale și pe contextul în care ar putea fi recunoscut, în ciuda acestei tendințe istorice.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-07T20:18:58.746976+00:00",
-      "data_afisaj": "7 septembrie 2026, 23:18"
-    },
-    {
-      "id": "e5ec38abd163",
-      "titlu": "Cine va fi noul director sportiv al lui Liverpool și ce provocări îl așteaptă?",
-      "rezumat": "Clubul Liverpool caută un succesor pentru Richard Hughes în funcția de director sportiv, iar lista potențialilor candidați este analizată. Pe lângă identificarea persoanei potrivite, noul director se va confrunta cu numeroase sarcini și provocări strategice, esențiale pentru viitorul clubului. Acestea includ gestionarea transferurilor, dezvoltarea academiei și asigurarea stabilității pe termen lung a echipei, într-un mediu competitiv al fotbalului european.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-07T20:18:58.748826+00:00",
-      "data_afisaj": "7 septembrie 2026, 23:18"
-    },
-    {
-      "id": "1d4ad906d650",
-      "titlu": "Edu părăsește Nottingham Forest după o perioadă turbulentă",
-      "rezumat": "Edu, șeful global de fotbal al clubului Nottingham Forest, a plecat de la echipă după puțin peste un an petrecut pe City Ground. Mandatul său a fost marcat de o serie de evenimente și decizii controversate, care au generat discuții în rândul suporterilor și al presei. Plecarea sa deschide o nouă etapă pentru club, care va trebui să găsească un înlocuitor pentru a gestiona strategia sportivă și a asigura stabilitatea pe termen lung.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-07T20:18:58.750482+00:00",
-      "data_afisaj": "7 septembrie 2026, 23:18"
-    },
-    {
-      "id": "feeeffc4f167",
-      "titlu": "Anglia se confruntă cu o problemă la poziția de număr nouă după transferul lui Ollie Watkins în Arabia Saudită",
-      "rezumat": "Odată cu transferul lui Ollie Watkins în Arabia Saudită și cu Ivan Toney evoluând de asemenea în campionatul saudit, ambii jucători fiind trecuți de 30 de ani, echipa națională a Angliei se confruntă cu o provocare la poziția de atacant central. Această situație creează un moment oportun pentru a reîmprospăta linia ofensivă a \"Leilor\" în perspectiva Campionatului European din 2028, oferind șanse noi tinerilor talente.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-09-07T20:18:58.752508+00:00",
-      "data_afisaj": "7 septembrie 2026, 23:18"
-    },
-    {
-      "id": "0f36e6efbf62",
-      "titlu": "Putellas, eclipsată la debut de Cascarino, dar rămâne un pilon pentru succesul lui London City",
-      "rezumat": "În prima etapă a Women's Super League, debutul Alexiei Putellas la London City a fost marcat de o prestație solidă, însă a fost eclipsată de evoluția impresionantă a lui Cascarino. Chiar și așa, Putellas este considerată un element central și un pilon esențial pentru strategia și succesul pe termen lung al echipei London City. Analiza se concentrează pe impactul jucătoarelor cheie și pe dinamica noii sezoane din fotbalul feminin de top.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-09-07T20:18:58.754514+00:00",
-      "data_afisaj": "7 septembrie 2026, 23:18"
     }
   ]
 }
