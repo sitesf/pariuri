@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-13T19:10:16.114982+00:00",
-  "updated_at_afisaj": "13 septembrie 2026, 22:10",
+  "updated_at": "2026-09-14T13:44:53.809344+00:00",
+  "updated_at_afisaj": "14 septembrie 2026, 16:44",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,64 @@
   },
   "numar_stiri": 136,
   "stiri": [
+    {
+      "id": "1f2f835b5a4d",
+      "titlu": "Decesul fostului portar al lui West Ham, Ludek Miklosko, la 64 de ani",
+      "rezumat": "Fostul portar al echipei West Ham United, Ludek Miklosko, a încetat din viață la vârsta de 64 de ani. Miklosko a fost o figură emblematică pentru clubul londonez în anii '90, acumulând aproape 400 de apariții în poarta \"Ciocănarilor\". Fanii l-au apreciat enorm pentru devotamentul și performanțele sale, continuând să-i scandeze numele mult timp după plecarea sa de la echipă. Vestea dispariției sale a adus un val de tristețe în comunitatea fotbalistică, în special printre suporterii lui West Ham, care își amintesc cu drag de contribuția sa la istoria clubului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-14T13:44:53.801266+00:00",
+      "data_afisaj": "14 septembrie 2026, 16:44"
+    },
+    {
+      "id": "2510b22169b9",
+      "titlu": "Arsenal va contacta organismul de arbitraj Pro Ref în legătură cu penalty-ul lui Konsa",
+      "rezumat": "Clubul Arsenal a anunțat că va lua legătura cu Pro Ref, organismul responsabil cu arbitrajul, în urma incidentului care a dus la acordarea unui penalty împotriva lui Ezri Konsa în victoria de sâmbătă împotriva lui Sunderland. Decizia arbitrului a stârnit controverse și a fost analizată intens, iar oficialii lui Arsenal doresc clarificări și o evaluare a modului în care a fost gestionată situația. Această acțiune subliniază preocuparea clubului față de deciziile de arbitraj și impactul acestora asupra rezultatelor și desfășurării meciurilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-14T13:44:53.803205+00:00",
+      "data_afisaj": "14 septembrie 2026, 16:44"
+    },
+    {
+      "id": "b4fb82d82e80",
+      "titlu": "Organismul de arbitraj admite o eroare de judecată la golul decisiv al lui Haaland în derby-ul Manchester",
+      "rezumat": "Organismul de arbitraj al Premier League, Pro Ref, a recunoscut o eroare de judecată în decizia de a valida golul marcat de Erling Haaland, care a adus victoria echipei Manchester City în derby-ul cu Manchester United. Această admitere vine în urma controverselor intense legate de faza golului, unde s-a speculat că ar fi existat o poziție de ofsaid sau o interferență cu jocul. Recunoașterea oficială a erorii de către Pro Ref subliniază dificultățile cu care se confruntă arbitrii și sistemul VAR, dar și importanța transparenței în astfel de situații.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-14T13:44:53.805388+00:00",
+      "data_afisaj": "14 septembrie 2026, 16:44"
+    },
+    {
+      "id": "18b815a1ebe2",
+      "titlu": "Rezultate din fotbalul european: Kane ajută Bayern să învingă Elversberg, Sassuolo surprinde Juventus",
+      "rezumat": "În fotbalul european, Harry Kane a marcat primul său gol în Bundesliga în acest sezon, contribuind la victoria cu 2-1 a lui Bayern München în fața nou-promovatei Elversberg. Între timp, în Serie A, Sassuolo a produs o surpriză majoră, învingând Juventus cu 3-2 într-un meci intens. Aceste rezultate marchează evoluții importante în campionatele europene, cu Bayern obținând o victorie muncită și Sassuolo demonstrând că poate rivaliza cu echipele de top din Italia.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-14T13:44:53.807401+00:00",
+      "data_afisaj": "14 septembrie 2026, 16:44"
+    },
+    {
+      "id": "a508dc235b0c",
+      "titlu": "Eugen Polanski, prima demitere managerială a sezonului în Bundesliga, la Borussia Mönchengladbach",
+      "rezumat": "Eugen Polanski a devenit primul antrenor demis în Bundesliga în acest sezon, după ce Borussia Mönchengladbach a înregistrat un nou eșec. Plecarea sa survine după doar trei etape, pe fondul unui început de campionat dezamăgitor pentru club. Această decizie reflectă presiunea constantă din fotbalul de top și dorința cluburilor de a schimba rapid direcția atunci când rezultatele nu sunt pe măsura așteptărilor. Situația de la Gladbach subliniază dificultățile cu care se confruntă echipele care se luptă să evite retrogradarea.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-14T13:44:53.809324+00:00",
+      "data_afisaj": "14 septembrie 2026, 16:44"
+    },
     {
       "id": "66b2c2c1d1ca",
       "titlu": "Haaland scores controversial winner as Man City win derby despite Foden red",
@@ -1495,61 +1553,6 @@
       ],
       "data_publicare": "2026-09-07T13:59:29.644895+00:00",
       "data_afisaj": "7 septembrie 2026, 16:59"
-    },
-    {
-      "id": "7cd32d395e39",
-      "titlu": "Kylian Mbappe: 'Acesta ar putea fi anul în care voi câștiga Balonul de Aur'",
-      "rezumat": "Atacantul lui Real Madrid, Kylian Mbappe, a declarat recent că anul curent ar putea fi cel în care va câștiga pentru prima dată prestigiosul trofeu Ballon d'Or. Jucătorul francez, considerat unul dintre cei mai buni fotbaliști din lume, și-a exprimat încrederea în șansele sale, având în vedere performanțele sale constante la nivel de club și națională. Această declarație subliniază ambiția sa de a atinge cea mai înaltă recunoaștere individuală în fotbal, adăugând presiune și așteptări pentru restul sezonului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-07T13:21:14.662827+00:00",
-      "data_afisaj": "7 septembrie 2026, 16:21"
-    },
-    {
-      "id": "ebd8637290e8",
-      "titlu": "Suporterii Stelei Roșii Belgrad au afișat un tifo cu imaginea criminalului de război Mladic",
-      "rezumat": "Suporterii echipei Steaua Roșie Belgrad au stârnit controverse majore după ce au afișat un tifo cu imaginea criminalului de război Ratko Mladic, înainte de meciul derby câștigat împotriva rivalei Partizan Belgrad duminică. Incidentul a avut loc pe stadionul Rajko Mitić și a atras condamnări internaționale, reamintind de tensiunile istorice din regiune. Federația Sârbă de Fotbal și UEFA sunt așteptate să investigheze evenimentul și să ia măsuri disciplinare, având în vedere politicile stricte împotriva mesajelor politice și discriminatorii în sport.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-07T13:21:14.664602+00:00",
-      "data_afisaj": "7 septembrie 2026, 16:21"
-    },
-    {
-      "id": "3706b3fbeca3",
-      "titlu": "Federația Belgiană de Fotbal solicită clarificări privind eligibilitatea lui Folarin Balogun la Cupa Mondială",
-      "rezumat": "Federația Belgiană de Fotbal a anunțat că solicită în continuare clarificări și răspunsuri cu privire la eligibilitatea jucătorului Folarin Balogun de a evolua împotriva lor la Cupa Mondială. Această cerere vine în urma unor suspiciuni legate de regulile de eligibilitate FIFA pentru jucătorii care au reprezentat anterior alte națiuni la nivel de tineret. Situația ar putea duce la o investigație oficială și, potențial, la sancțiuni, dacă se constată nereguli în procesul de înregistrare al jucătorului pentru naționala adversă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-07T13:21:14.666410+00:00",
-      "data_afisaj": "7 septembrie 2026, 16:21"
-    },
-    {
-      "id": "76195e84e5d2",
-      "titlu": "Karius strălucește în remiza Schalke cu Bayern, eclipsându-l pe Neuer",
-      "rezumat": "Portarul Loris Karius, adesea criticat, a avut o prestație remarcabilă, eclipsându-l pe Manuel Neuer, în meciul în care Schalke a reușit să obțină o remiză rară, scor 0-0, împotriva lui Bayern Munchen. Partida, desfășurată în Gelsenkirchen, a fost dominată de duelul dintre cei doi portari, Karius reușind să-l oprească pe Harry Kane și să asigure un punct prețios pentru echipa sa. Acest rezultat reprezintă o surpriză în Bundesliga și subliniază importanța performanțelor individuale la nivel înalt.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-07T13:21:14.668048+00:00",
-      "data_afisaj": "7 septembrie 2026, 16:21"
-    },
-    {
-      "id": "2b48c981c36e",
-      "titlu": "Aubameyang, eroul revenirii lui Deportivo în La Liga cu o prestație de excepție",
-      "rezumat": "Pierre-Emerick Aubameyang a avut o prestație excepțională, contribuind cu două pase decisive și marcând golul victoriei pentru Deportivo La Coruña, în meciul care a marcat revenirea echipei în La Liga. Atacantul gabonez, în vârstă de 37 de ani, a fost considerat cel mai bun jucător pe teren, stabilind un nou record de club și vizând un altul. Această performanță subliniază impactul său imediat și rolul crucial în succesul \"Super Dépor\" la revenirea în prima divizie spaniolă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-07T13:21:14.669749+00:00",
-      "data_afisaj": "7 septembrie 2026, 16:21"
     }
   ]
 }
