@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-14T20:42:09.693122+00:00",
-  "updated_at_afisaj": "14 septembrie 2026, 23:42",
+  "updated_at": "2026-09-15T12:31:16.633670+00:00",
+  "updated_at_afisaj": "15 septembrie 2026, 15:31",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,61 @@
   },
   "numar_stiri": 136,
   "stiri": [
+    {
+      "id": "bbbe0d403faf",
+      "titlu": "Enzo Maresca, Succes Surprinzător la Manchester City După Plecarea lui Guardiola",
+      "rezumat": "Enzo Maresca, succesorul legendarului Pep Guardiola la Manchester City, pare să fi preluat o misiune imposibilă în vară, dar reușește să o facă să pară o sarcină ușoară în primele etape ale mandatului său. Antrenorul italian a impresionat prin modul în care a gestionat tranziția, menținând echipa la un nivel înalt de performanță și demonstrând că este capabil să continue succesul clubului, în ciuda presiunii enorme. Această adaptare rapidă și rezultatele pozitive au depășit așteptările inițiale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-15T12:31:16.628011+00:00",
+      "data_afisaj": "15 septembrie 2026, 15:31"
+    },
+    {
+      "id": "f0382f0380e7",
+      "titlu": "Philippe Coutinho Se Alătură lui Neymar la Santos Până la Sfârșitul Sezonului",
+      "rezumat": "Fostul mijlocaș al echipelor Liverpool și Barcelona, Philippe Coutinho, s-a alăturat clubului brazilian Santos, venind de la echipa sa de juniorat, Vasco da Gama. Acordul este valabil pentru restul sezonului, reunindu-l pe Coutinho cu Neymar, un alt nume sonor din fotbalul brazilian. Această mutare marchează o revenire a lui Coutinho în fotbalul brazilian și o încercare de a-și regăsi forma într-un mediu familiar, după o perioadă mai puțin prolifică în Europa.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-15T12:31:16.629443+00:00",
+      "data_afisaj": "15 septembrie 2026, 15:31"
+    },
+    {
+      "id": "a120038a8b66",
+      "titlu": "Fostul Mijlocaș al lui Tottenham, Yves Bissouma, Aproape de Transferul la Ajax",
+      "rezumat": "Yves Bissouma, fostul mijlocaș al lui Tottenham, este pe punctul de a se alătura echipei Ajax Amsterdam printr-un acord inițial valabil până la sfârșitul sezonului. Mutarea reprezintă o nouă etapă în cariera jucătorului, oferindu-i șansa de a-și relansa forma într-un nou campionat, după o perioadă dificilă la clubul englez. Detaliile financiare ale tranzacției nu au fost încă publicate, dar se așteaptă o confirmare oficială în scurt timp, consolidând defensiva olandezilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-15T12:31:16.630862+00:00",
+      "data_afisaj": "15 septembrie 2026, 15:31"
+    },
+    {
+      "id": "b7d6cd3bf174",
+      "titlu": "Cardiff Va Găzdui Finala Ligii Campionilor la Fotbal Feminin în 2029",
+      "rezumat": "UEFA a confirmat că Stadionul Principality din Cardiff va fi gazda finalei Ligii Campionilor la fotbal feminin în anul 2029. Această decizie face parte dintr-o serie de numiri de gazde pentru viitoarele finale ale competițiilor europene. Găzduirea unui eveniment de o asemenea anvergură reprezintă o recunoaștere a infrastructurii și capacității orașului de a organiza evenimente sportive majore, contribuind semnificativ la promovarea și dezvoltarea fotbalului feminin în regiune.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-15T12:31:16.632175+00:00",
+      "data_afisaj": "15 septembrie 2026, 15:31"
+    },
+    {
+      "id": "4a59ee2ad07b",
+      "titlu": "Andoni Iraola Cere Mai Mult de la Atacanții lui Liverpool Pentru a-și Implementa Sistemul",
+      "rezumat": "Antrenorul lui Liverpool, Andoni Iraola, a mutat atenția asupra atacanților echipei, insistând că aceștia trebuie să contribuie mai mult pentru ca sistemul său de joc să funcționeze eficient. Declarația vine după o prestație neconvingătoare împotriva lui Fulham, unde echipa a înregistrat o remiză fără goluri. Iraola a recunoscut că echipa a făcut un 'pas înapoi' și a subliniat necesitatea unei îmbunătățiri a presingului din partea compartimentului ofensiv pentru a obține rezultatele dorite.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-15T12:31:16.633656+00:00",
+      "data_afisaj": "15 septembrie 2026, 15:31"
+    },
     {
       "id": "af41e3aaa608",
       "titlu": "Presiune Crescândă la Manchester United: Michael Carrick Caută Soluții După Un Start Dificil",
@@ -1498,61 +1553,6 @@
       ],
       "data_publicare": "2026-09-08T12:37:44.698948+00:00",
       "data_afisaj": "8 septembrie 2026, 15:37"
-    },
-    {
-      "id": "d5a357013a1c",
-      "titlu": "Cine sunt favoriții Ligii Campionilor și jucătorii de urmărit?",
-      "rezumat": "Liga Campionilor a revenit, iar BBC Sport analizează cine sunt favoriții la câștigarea titlului, plus predicții de la experți.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-08T12:02:07.536531+00:00",
-      "data_afisaj": "8 septembrie 2026, 15:02"
-    },
-    {
-      "id": "1d06173dc7cc",
-      "titlu": "Newcastle se pregătea de 'luni de zile' pentru plecarea lui Howe",
-      "rezumat": "Directorul sportiv al lui Newcastle United, Ross Wilson, spune că clubul se pregătea pentru plecarea fostului antrenor principal Eddie Howe de până la nouă luni.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-08T12:02:07.538127+00:00",
-      "data_afisaj": "8 septembrie 2026, 15:02"
-    },
-    {
-      "id": "e6b0b98ff7bd",
-      "titlu": "Edu pleacă de la Nottingham Forest după o perioadă turbulentă",
-      "rezumat": "Șeful global de fotbal Edu pleacă de la Nottingham Forest după puțin peste un an petrecut pe City Ground.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-08T12:02:07.539542+00:00",
-      "data_afisaj": "8 septembrie 2026, 15:02"
-    },
-    {
-      "id": "fc3fdc9299bd",
-      "titlu": "Mourinho, Inter și Liga Campionilor: Poate livra din nou la Real Madrid?",
-      "rezumat": "Jose Mourinho își începe al doilea mandat la Real Madrid în Liga Campionilor împotriva fostului său club Inter Milano, la 16 ani după ce a câștigat trofeul cu Inter pe Bernabeu. Va aduce în sfârșit gloria europeană la Madrid?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-08T12:02:07.541143+00:00",
-      "data_afisaj": "8 septembrie 2026, 15:02"
-    },
-    {
-      "id": "98f03be8b577",
-      "titlu": "De la ligi inferioare la Liga Campionilor: Antrenorul lui Porto care vrea să uimească pe Man City",
-      "rezumat": "Antrenorul lui Porto, Francesco Farioli, este unul dintre cei mai apreciați tineri manageri și marți va prelua conducerea în Liga Campionilor pentru prima dată.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-08T12:02:07.542722+00:00",
-      "data_afisaj": "8 septembrie 2026, 15:02"
     }
   ]
 }
