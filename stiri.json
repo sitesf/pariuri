@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-15T19:34:51.011134+00:00",
-  "updated_at_afisaj": "15 septembrie 2026, 22:34",
+  "updated_at": "2026-09-15T19:56:45.704620+00:00",
+  "updated_at_afisaj": "15 septembrie 2026, 22:56",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,61 @@
   },
   "numar_stiri": 133,
   "stiri": [
+    {
+      "id": "fd998685e5e2",
+      "titlu": "Howard Webb Confirmă Cartonașul Roșu al lui Foden, dar Recunoaște Scăparea lui Fernandes",
+      "rezumat": "Șeful arbitrilor, Howard Webb, a susținut decizia de a-l elimina pe Phil Foden în derby-ul din Manchester, dar a dezvăluit că arbitrajul video (VAR) nu a putut interveni pentru a-l avertiza pe Bruno Fernandes pentru lovitura \"capricioasă\" care a declanșat altercația. Webb a explicat limitările regulamentului în astfel de situații, subliniind că, deși acțiunea lui Fernandes a fost condamnabilă, protocolul VAR nu a permis o intervenție pentru un cartonaș galben. Această clarificare vine în contextul dezbaterilor continue privind aplicarea regulilor în Premier League.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-09-15T19:56:45.697799+00:00",
+      "data_afisaj": "15 septembrie 2026, 22:56"
+    },
+    {
+      "id": "a14d052a33ae",
+      "titlu": "Howard Webb Cere Reformarea Legii Hențului Accidental, Considerând-o „Absurdă”",
+      "rezumat": "Howard Webb, șeful arbitrilor din fotbalul englez, a criticat vehement legea hențului accidental, descriind-o drept „o absurditate” și solicitând reformarea acesteia. El a declarat că actualele reglementări îi plasează pe arbitri în „situații ridicole”. Declarațiile vin în contextul unor controverse recente legate de deciziile de henț, Webb subliniind necesitatea unor reguli mai clare și mai coerente pentru a evita interpretările subiective și frustrarea generală. Această inițiativă ar putea duce la modificări semnificative în aplicarea regulamentului de joc.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-15T19:56:45.699678+00:00",
+      "data_afisaj": "15 septembrie 2026, 22:56"
+    },
+    {
+      "id": "5d3608259653",
+      "titlu": "Șase Jucătoare Remarcabile la Cupa Mondială U20 Feminină 2026",
+      "rezumat": "Pe măsură ce Cupa Mondială U20 Feminină din 2026, găzduită de Polonia, intră în faza eliminatorie, mai multe tinere talente s-au remarcat în etapa grupelor. Printre acestea se numără Celia Segura de la Spania și Barcelona, o jucătoare deja familiarizată cu fazele eliminatorii, având în palmares o medalie de argint la Cupa Mondială U17 de acum doi ani, unde a câștigat și Balonul și Gheata de Bronz. Articolul evidențiază performanțele a șase jucătoare care ar putea face pasul către echipele naționale de senioare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-15T19:56:45.701308+00:00",
+      "data_afisaj": "15 septembrie 2026, 22:56"
+    },
+    {
+      "id": "c80c3dbf588e",
+      "titlu": "Manchester United, Sub Așteptări în Startul Sezonului de Premier League",
+      "rezumat": "Manchester United ocupă locul 13 în Premier League, acumulând doar patru puncte din primele patru meciuri. Echipa a înregistrat o înfrângere cu 2-0 împotriva lui Hull, o victorie cu 5-2 contra lui Ipswich, o remiză 2-2 cu Everton și o înfrângere cu 1-0 în derby-ul cu Manchester City. Deși înfrângerea în derby poate fi parțial justificată de programul încărcat, venind la doar trei zile după o victorie în Liga Campionilor, startul slab al sezonului ridică semne de întrebare cu privire la forma și strategia echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-15T19:56:45.703011+00:00",
+      "data_afisaj": "15 septembrie 2026, 22:56"
+    },
+    {
+      "id": "d5c3abfced06",
+      "titlu": "Transformarea lui Leeds United Sub Conducerea lui Daniel Farke",
+      "rezumat": "Leeds United a avut un start impresionant în Premier League, ocupând în prezent locul al treilea în clasament. BBC Sport analizează modul în care antrenorul Daniel Farke a reușit să revitalizeze echipa și să o transforme într-o forță competitivă. Sub conducerea sa, Leeds a demonstrat o îmbunătățire semnificativă a performanțelor, atât în jocul ofensiv, cât și în cel defensiv, depășind așteptările multor analiști. Această ascensiune rapidă subliniază impactul pozitiv al viziunii tactice a lui Farke asupra echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-15T19:56:45.704599+00:00",
+      "data_afisaj": "15 septembrie 2026, 22:56"
+    },
     {
       "id": "4c88064c0550",
       "titlu": "Raheem Sterling Pledează Vinovat pentru Conducere Periculoasă",
@@ -1466,62 +1521,6 @@
       ],
       "data_publicare": "2026-09-09T12:12:32.045159+00:00",
       "data_afisaj": "9 septembrie 2026, 15:12"
-    },
-    {
-      "id": "a23a8869a8ac",
-      "titlu": "Harry Kane, Jude Bellingham și Declan Rice, nominalizați la Balonul de Aur 2026",
-      "rezumat": "Atacantul lui Bayern Munchen, Harry Kane, se numără printre cei trei jucători englezi nominalizați pentru Balonul de Aur 2026, alături de Jude Bellingham și Declan Rice. Această nominalizare confirmă performanțele remarcabile ale celor trei fotbaliști pe parcursul anului, plasându-i în cursa pentru prestigiosul trofeu individual. Lista completă a nominalizaților a fost anunțată, iar absența unor nume notabile, precum Cristiano Ronaldo, a stârnit discuții în lumea fotbalului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-09-08T19:41:43.531360+00:00",
-      "data_afisaj": "8 septembrie 2026, 22:41"
-    },
-    {
-      "id": "adf9eeb1682b",
-      "titlu": "Peste 100.000 de persoane au semnat o plângere împotriva președintelui FIFA, Gianni Infantino",
-      "rezumat": "Peste 100.000 de persoane au adăugat numele lor unei plângeri împotriva președintelui FIFA, Gianni Infantino. Plângerea, inițiată de campania \"Reboot Fifa\", susține că Infantino \"a abuzat de puterea sa, a încălcat datoria de neutralitate politică și datoria de loialitate\" prin interacțiunile sale cu Donald Trump. Această acțiune legală amplă subliniază preocupările legate de etica și conducerea forului mondial de fotbal, cerând o investigație aprofundată.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-08T19:41:43.533431+00:00",
-      "data_afisaj": "8 septembrie 2026, 22:41"
-    },
-    {
-      "id": "b2a832ce8e12",
-      "titlu": "Cluburile din Premier League riscă să piardă sponsori importanți din cauza interzicerii firmelor de jocuri de noroc fără licență",
-      "rezumat": "Jumătate dintre cele 20 de cluburi din Premier League au acorduri de sponsorizare sau publicitate cu companii de jocuri de noroc fără licență, care ar putea deveni ilegale anul viitor, conform planurilor guvernamentale. Această măsură ar putea duce la pierderi de zeci de milioane de lire sterline pentru cluburi, având un impact financiar semnificativ asupra ligii. O consultare publică pe această temă se încheie miercuri, cu operatorii licențiați susținând interdicția.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-08T19:41:43.535575+00:00",
-      "data_afisaj": "8 septembrie 2026, 22:41"
-    },
-    {
-      "id": "6809c16bb564",
-      "titlu": "Operația pe cord a lui Scott McTominay, un succes complet",
-      "rezumat": "Clubul Napoli a anunțat că intervenția chirurgicală pe cord suferită de mijlocașul scoțian Scott McTominay a fost un \"succes complet\". Se anticipează că jucătorul va relua antrenamentele în cursul acestei luni, o veste pozitivă pentru club și pentru cariera sa. Această actualizare medicală oferă claritate asupra stării de sănătate a fotbalistului și a perioadei sale de recuperare, confirmând că procesul decurge conform așteptărilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-08T19:41:43.537316+00:00",
-      "data_afisaj": "8 septembrie 2026, 22:41"
-    },
-    {
-      "id": "b41da172802f",
-      "titlu": "Liverpool a semnat cel mai mare contract de sponsorizare pentru tricouri din istoria clubului",
-      "rezumat": "Liverpool a încheiat un nou acord de sponsorizare pentru partea frontală a tricourilor, descris ca fiind cel mai mare din istoria clubului. Această înțelegere va aduce o creștere semnificativă veniturilor anuale ale clubului, consolidând poziția financiară a \"Cormoranilor\" în comparație cu rivalii din Premier League. Detaliile financiare exacte nu au fost încă dezvăluite public, dar impactul asupra bugetului clubului este considerabil și strategic.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-09-08T19:41:43.539087+00:00",
-      "data_afisaj": "8 septembrie 2026, 22:41"
     }
   ]
 }
