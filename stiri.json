@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-15T13:10:28.673405+00:00",
-  "updated_at_afisaj": "15 septembrie 2026, 16:10",
+  "updated_at": "2026-09-15T19:34:51.011134+00:00",
+  "updated_at_afisaj": "15 septembrie 2026, 22:34",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,46 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 135,
+  "numar_stiri": 133,
   "stiri": [
+    {
+      "id": "4c88064c0550",
+      "titlu": "Raheem Sterling Pledează Vinovat pentru Conducere Periculoasă",
+      "rezumat": "Fostul internațional englez Raheem Sterling a pledat vinovat pentru conducere periculoasă, după ce a fost implicat într-un accident pe autostradă în luna mai, când a intrat cu un Lamborghini în bariere. De asemenea, el a recunoscut că nu a furnizat o probă și că a condus sub influența protoxidului de azot timp de peste o oră pe autostrăzi aglomerate. Sterling ar putea risca o pedeapsă cu închisoarea în urma acestor acuzații, conform informațiilor din instanță.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-15T19:34:51.007450+00:00",
+      "data_afisaj": "15 septembrie 2026, 22:34"
+    },
+    {
+      "id": "7fdb99560388",
+      "titlu": "Legenda Celtic și a Scoției, Danny McGrain, Diagnosticat cu Boala Alzheimer",
+      "rezumat": "Danny McGrain, descris de clubul Celtic ca fiind \"cel mai mare fundaș lateral din istoria Scoției\", a fost diagnosticat cu boala Alzheimer. Familia sa a confirmat vestea, aducând în atenția publicului starea de sănătate a fostului mare fotbalist. McGrain este o figură emblematică pentru fotbalul scoțian, având o carieră impresionantă atât la Celtic, cât și la echipa națională, iar anunțul a stârnit un val de susținere din partea comunității sportive.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-09-15T19:34:51.009226+00:00",
+      "data_afisaj": "15 septembrie 2026, 22:34"
+    },
+    {
+      "id": "a204d611a2de",
+      "titlu": "Tânărul Talent JJ Gabriel, în Vârstă de 15 Ani, Cere Să Plece de la Manchester United",
+      "rezumat": "Manchester United a fost surprinsă de cererea tânărului talentat JJ Gabriel, în vârstă de 15 ani, de a părăsi clubul. Atacantul, considerat o mare speranță, ar fi trebuit să fie inclus în lotul primei echipe pentru meciul din Carabao Cup împotriva lui Brighton. Se pare că Gabriel a solicitat anularea înregistrării sale la club, o decizie care a generat confuzie și șoc în rândul oficialilor de pe Old Trafford, care îl vedeau ca pe un viitor star.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-09-15T19:34:51.011111+00:00",
+      "data_afisaj": "15 septembrie 2026, 22:34"
+    },
     {
       "id": "cfb09005490a",
       "titlu": "Craig Bellamy Refuză Postul de Antrenor la Burnley pentru a Rămâne la Naționala Țării Galilor",
@@ -1484,65 +1522,6 @@
       ],
       "data_publicare": "2026-09-08T19:41:43.539087+00:00",
       "data_afisaj": "8 septembrie 2026, 22:41"
-    },
-    {
-      "id": "3a54aa2fc6ae",
-      "titlu": "Mac Allister, dezamăgit de lipsa unei oferte de prelungire a contractului de la Liverpool",
-      "rezumat": "Mijlocașul lui Liverpool, Alexis Mac Allister, a declarat că este \"foarte trist\" că nu i s-a oferit un nou contract de către club și că a avut \"opțiuni\" de a pleca în vară. Această situație ridică semne de întrebare cu privire la viitorul său pe Anfield, mai ales în contextul în care jucătorul a fost o piesă importantă în angrenajul echipei. Declarațiile sale sugerează o posibilă nemulțumire față de managementul clubului în privința negocierilor contractuale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-08T19:19:45.088963+00:00",
-      "data_afisaj": "8 septembrie 2026, 22:19"
-    },
-    {
-      "id": "c41e7761392d",
-      "titlu": "Alessia Russo și Alex Greenwood, nominalizate la Balonul de Aur feminin",
-      "rezumat": "Vedetele Angliei, Alessia Russo și Alex Greenwood, se numără printre cele 30 de jucătoare nominalizate la Balonul de Aur feminin. Această recunoaștere subliniază performanțele lor excepționale la nivel de club și internațional, consolidându-le statutul de jucătoare cheie în fotbalul feminin. Nominalizările reflectă creșterea și importanța tot mai mare a fotbalului feminin la nivel global, aducând în prim-plan talentele individuale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-08T19:19:45.090653+00:00",
-      "data_afisaj": "8 septembrie 2026, 22:19"
-    },
-    {
-      "id": "26b6d5d558b4",
-      "titlu": "Atacul lui Aston Villa a funcționat perfect în victoria spectaculoasă din Liga Campionilor",
-      "rezumat": "Aston Villa a oferit o demonstrație ofensivă superbă, punând capăt problemelor de marcare și începând campania din Liga Campionilor cu o victorie palpitantă, scor 3-2, împotriva echipei Club Brugge. Această performanță a arătat o îmbunătățire semnificativă în faza de atac a echipei, oferind încredere pentru meciurile viitoare din competiția europeană. Rezultatul este un impuls moral important pentru formația engleză.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-08T19:19:45.092617+00:00",
-      "data_afisaj": "8 septembrie 2026, 22:19"
-    },
-    {
-      "id": "81eeeea0ee03",
-      "titlu": "Acțiune legală împotriva FIFA, extinsă pentru a include \"conduita abuzivă\" față de fotbalul feminin",
-      "rezumat": "Acțiunea legală inițiată de ligile europene de top și de sindicatul global al jucătorilor Fifpro împotriva FIFA a fost extinsă pentru a include \"conduita abuzivă\" a organismului mondial de conducere față de fotbalul feminin. Această decizie subliniază preocupările crescânde legate de tratamentul și sprijinul acordat fotbalului feminin la nivel global, cerând o mai mare responsabilitate din partea FIFA.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-08T19:19:45.094581+00:00",
-      "data_afisaj": "8 septembrie 2026, 22:19"
-    },
-    {
-      "id": "daaecb23a424",
-      "titlu": "Haosul din traficul aerian întârzie zborul lui Arsenal către Napoli pentru Liga Campionilor",
-      "rezumat": "Pregătirile lui Arsenal pentru meciul de deschidere din Liga Campionilor împotriva lui Napoli au fost perturbate din cauza haosului din traficul aerian care a afectat aeroporturile din Regatul Unit. Zborul echipei a fost sever întârziat, forțându-l pe Mikel Arteta să anuleze conferința de presă pre-meci de la Stadionul Diego Armando Maradona. Această situație logistică ar putea afecta programul și pregătirea finală a echipei înainte de confruntarea importantă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-08T19:19:45.096417+00:00",
-      "data_afisaj": "8 septembrie 2026, 22:19"
     }
   ]
 }
