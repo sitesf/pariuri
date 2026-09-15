@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-15T12:31:16.633670+00:00",
-  "updated_at_afisaj": "15 septembrie 2026, 15:31",
+  "updated_at": "2026-09-15T13:10:28.673405+00:00",
+  "updated_at_afisaj": "15 septembrie 2026, 16:10",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,53 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 136,
+  "numar_stiri": 135,
   "stiri": [
+    {
+      "id": "cfb09005490a",
+      "titlu": "Craig Bellamy Refuză Postul de Antrenor la Burnley pentru a Rămâne la Naționala Țării Galilor",
+      "rezumat": "Craig Bellamy a confirmat că a declinat oferta de a prelua banca tehnică a clubului Burnley în această vară, preferând să-și continue angajamentul cu echipa națională a Țării Galilor. Fostul internațional galez a declarat că se simte \"confortabil\" cu decizia sa de a rămâne în fotbalul internațional, reiterând dorința de a contribui la dezvoltarea selecționatei. Bellamy se pregătește acum să conducă Țara Galilor în campania Ligii Națiunilor, cu un meci important împotriva Portugaliei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-15T13:10:28.670191+00:00",
+      "data_afisaj": "15 septembrie 2026, 16:10"
+    },
+    {
+      "id": "090ca26f2c51",
+      "titlu": "Inter Milano Revine Spectaculos și Se Alătură Romei în Fruntea Clasamentului din Serie A",
+      "rezumat": "Inter Milano a reușit o revenire impresionantă, învingând Udinese cu scorul de 5-3, după ce fusese condusă cu două goluri. Această victorie menține startul perfect al echipei în Serie A, alături de AS Roma, care a învins Torino cu 2-0. Ambele formații acumulează 12 puncte din patru meciuri și împart prima poziție în clasament, pregătind un duel direct crucial în etapa următoare. Como se află pe locul trei, cu 10 puncte, după victoria împotriva Parmei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-15T13:10:28.671279+00:00",
+      "data_afisaj": "15 septembrie 2026, 16:10"
+    },
+    {
+      "id": "22ffcd6cbc5e",
+      "titlu": "Richarlison de la Tottenham Își Exprimă Public Nemulțumirea După Ce a Fost Lăsat în Afara Lotului",
+      "rezumat": "Atacantul lui Tottenham, Richarlison, și-a manifestat public nemulțumirea pe rețelele sociale, postând un emoji plângând, după decizia antrenorului Roberto de Zerbi de a-l exclude din lotul pentru meciul din Carabao Cup împotriva lui Liverpool. Această reacție vine în contextul dificultăților ofensive ale echipei, care nu a reușit să marcheze în primele patru meciuri din Premier League. Situația subliniază tensiunile din cadrul lotului londonez și presiunea asupra performanței ofensive.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-15T13:10:28.672353+00:00",
+      "data_afisaj": "15 septembrie 2026, 16:10"
+    },
+    {
+      "id": "dd291f8a902f",
+      "titlu": "Atacantul lui Newcastle United Va Lipsi o Perioadă Îndelungată din Cauza unei Accidentări",
+      "rezumat": "Echipa Newcastle United se confruntă cu o veste proastă, după ce un atacant important al clubului va fi indisponibil pentru o perioadă extinsă din cauza unei accidentări. Severitatea leziunii a fost confirmată, reprezentând o lovitură semnificativă pentru planurile antrenorului, mai ales după înfrângerea suferită recent în fața lui Leeds United. Clubul va trebui să găsească soluții pentru a compensa absența jucătorului în următoarele meciuri, într-un moment crucial al sezonului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-09-15T13:10:28.673393+00:00",
+      "data_afisaj": "15 septembrie 2026, 16:10"
+    },
     {
       "id": "bbbe0d403faf",
       "titlu": "Enzo Maresca, Succes Surprinzător la Manchester City După Plecarea lui Guardiola",
@@ -1498,61 +1543,6 @@
       ],
       "data_publicare": "2026-09-08T19:19:45.096417+00:00",
       "data_afisaj": "8 septembrie 2026, 22:19"
-    },
-    {
-      "id": "5df5556a76d1",
-      "titlu": "No goals but Emery knows Villa's forwards need time",
-      "rezumat": "Aston Villa have not scored in their opening three Premier League games - how will antrenor Unai Emery find their attacking edge?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-08T12:37:44.694099+00:00",
-      "data_afisaj": "8 septembrie 2026, 15:37"
-    },
-    {
-      "id": "078959d27c62",
-      "titlu": "Como chiefs giving up seats to older fans for Champions League debut",
-      "rezumat": "Como president Mirwan Suwarso and several directors are giving up their tickets for the club's Champions League debut to allow elderly supporters to attend.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-08T12:37:44.695393+00:00",
-      "data_afisaj": "8 septembrie 2026, 15:37"
-    },
-    {
-      "id": "04af8f3c742e",
-      "titlu": "Can Kane buck history and win Ballon d'Or?",
-      "rezumat": "History suggests Ballon d’Or winners come from those who have recently lifted one of football's biggest trophies. Can Harry Kane become a rare exception?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-08T12:37:44.696549+00:00",
-      "data_afisaj": "8 septembrie 2026, 15:37"
-    },
-    {
-      "id": "4a28fc3f16d9",
-      "titlu": "Flex your football brain with our daily quizzes",
-      "rezumat": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-08T12:37:44.697679+00:00",
-      "data_afisaj": "8 septembrie 2026, 15:37"
-    },
-    {
-      "id": "1e6e3169bd6f",
-      "titlu": "Europe's next great coach? How Fabregas led Como into Champions League",
-      "rezumat": "BBC Sport visits Como to discover the vision and philosophy of the club's coach, Cesc Fabregas, who has overseen the team's remarkable rise to the Champions League.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-08T12:37:44.698948+00:00",
-      "data_afisaj": "8 septembrie 2026, 15:37"
     }
   ]
 }
