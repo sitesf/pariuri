@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-16T19:26:37.480842+00:00",
-  "updated_at_afisaj": "16 septembrie 2026, 22:26",
+  "updated_at": "2026-09-16T19:49:19.651126+00:00",
+  "updated_at_afisaj": "16 septembrie 2026, 22:49",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 133,
+  "numar_stiri": 134,
   "stiri": [
+    {
+      "id": "e5ac2919508e",
+      "titlu": "James Garner Devine Jucătorul Cheie al lui Everton",
+      "rezumat": "BBC Sport analizează ascensiunea lui James Garner, care a devenit cel mai important jucător al echipei Everton. Mijlocașul, supranumit \"Mini Valverde\", a impresionat prin performanțele sale constante, transformându-se într-o piesă esențială în strategia clubului. Articolul detaliază modul în care Garner a reușit să se impună și să-și asume un rol central, demonstrând o influență semnificativă asupra jocului echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-16T19:49:19.643316+00:00",
+      "data_afisaj": "16 septembrie 2026, 22:49"
+    },
+    {
+      "id": "81c08f5d0c33",
+      "titlu": "Analiză Tactică: Manchester United Performantă Fără Posesia Balonului Sub Michael Carrick",
+      "rezumat": "O analiză recentă arată că Manchester United, sub conducerea lui Michael Carrick, obține în medie 1,5 puncte pe meci atunci când deține posesia balonului în proporție de peste 50%. În contrast, echipa înregistrează o medie de 2,6 puncte pe meci atunci când posesia este sub 50%. Această statistică sugerează o eficiență mai mare a echipei în jocul de contraatac și în fazele de tranziție, ridicând întrebări despre abordarea tactică optimă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-16T19:49:19.645186+00:00",
+      "data_afisaj": "16 septembrie 2026, 22:49"
+    },
+    {
+      "id": "ce6f9f884cf5",
+      "titlu": "SUA Eliminată de la Cupa Mondială U20 Feminină la Penalty-uri, Critici privind Programarea Turneului",
+      "rezumat": "Echipa Statelor Unite a fost eliminată din Cupa Mondială U20 Feminină în optimile de finală, pierzând la penalty-uri în fața Braziliei, după un scor de 1-1 la finalul prelungirilor. Portarul brazilian Thaís Lima a avut o intervenție decisivă la lovitura Emeri Adames, asigurând victoria cu 5-4 în Katowice, Polonia. Eliminarea prelungește o serie dificilă pentru echipele de tineret ale SUA, iar programarea turneului a atras critici.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-16T19:49:19.647158+00:00",
+      "data_afisaj": "16 septembrie 2026, 22:49"
+    },
+    {
+      "id": "22fd9799440e",
+      "titlu": "Ruud Gullit: Kylian Mbappe, Cea Mai Mare Amenințare pentru Balonul de Aur al lui Harry Kane",
+      "rezumat": "Fostul câștigător al Balonului de Aur, Ruud Gullit, a declarat că îl consideră pe Kylian Mbappe cea mai mare amenințare la adresa șanselor lui Harry Kane de a câștiga prestigiosul trofeu. Gullit anticipează că Mbappe ar putea primi mai multe voturi decât alți concurenți importanți, inclusiv Lamine Yamal și Harry Kane, subliniind impactul și performanțele atacantului francez în cursa pentru Balonul de Aur.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-09-16T19:49:19.649180+00:00",
+      "data_afisaj": "16 septembrie 2026, 22:49"
+    },
+    {
+      "id": "d8a6d9a091a2",
+      "titlu": "Cienciano din Cusco Visează la Succes Continental, la Peste 20 de Ani de la Ultima Performanță",
+      "rezumat": "Echipa de fotbal Cienciano din Cusco, Peru, își propune să readucă succesul continental în țară, la peste două decenii de la câștigarea unui titlu sud-american care a produs un șoc în lumea fotbalului. Orașul Cusco, renumit pentru turism, își îndreaptă acum atenția către echipa sa de fotbal, care speră să repete performanța istorică. Aproximativ 30.000 de fani s-au adunat pe stadionul Garcilaso de la Vega pentru a susține această ambiție.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-16T19:49:19.651104+00:00",
+      "data_afisaj": "16 septembrie 2026, 22:49"
+    },
     {
       "id": "80c782e51757",
       "titlu": "Clubul Al-Taawoun, sancționat cu meciuri fără spectatori în Liga Saudită",
@@ -1478,50 +1533,6 @@
       ],
       "data_publicare": "2026-09-10T12:07:03.040168+00:00",
       "data_afisaj": "10 septembrie 2026, 15:07"
-    },
-    {
-      "id": "a8c0ad44eaa0",
-      "titlu": "Echipa feminină Wolves intră într-o nouă eră ca echipă profesionistă",
-      "rezumat": "Echipa feminină Wolverhampton Wanderers a început primul său sezon ca club complet profesionist, marcând o etapă importantă în istoria sa. Această tranziție le permite jucătoarelor să se concentreze pe dezvoltarea lor sportivă, beneficiind de un mediu dedicat performanței. Decizia subliniază angajamentul clubului față de fotbalul feminin și ambiția de a concura la cel mai înalt nivel. Această schimbare este văzută ca un pas esențial pentru a demonstra potențialul și determinarea echipei în competițiile viitoare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-09T19:34:53.315788+00:00",
-      "data_afisaj": "9 septembrie 2026, 22:34"
-    },
-    {
-      "id": "7cd592eeaebe",
-      "titlu": "Locația Finalei Ligii Campionilor din 2027 a fost stabilită",
-      "rezumat": "Finala Ligii Campionilor din anul 2027 va avea loc într-un oraș european, fiind aleasă o locație considerată accesibilă. Deși detaliile specifice despre orașul gazdă nu sunt menționate în rezumat, confirmarea continentului și a criteriului de accesibilitate subliniază eforturile UEFA de a asigura o experiență optimă pentru fani. Această decizie este importantă pentru planificarea evenimentului major al fotbalului european.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-09-09T19:34:53.317561+00:00",
-      "data_afisaj": "9 septembrie 2026, 22:34"
-    },
-    {
-      "id": "012eb466c84f",
-      "titlu": "Detalii despre tragerea la sorți a turului patru din Carabao Cup",
-      "rezumat": "După disputarea a douăsprezece meciuri din Cupa Ligii Angliei (Carabao Cup) în perioada 9-17 septembrie, atenția se îndreaptă către tragerea la sorți pentru turul al patrulea al competiției. Articolul oferă informații despre echipele calificate și datele programate pentru următoarele etape. Fanii așteaptă cu interes să afle împerecherile pentru a anticipa parcursul echipelor favorite în drumul spre trofeu.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-09-09T19:34:53.319341+00:00",
-      "data_afisaj": "9 septembrie 2026, 22:34"
-    },
-    {
-      "id": "97c44b0766b1",
-      "titlu": "Semnul original \"This Is Anfield\" vândut la licitație pentru 115.000 de lire sterline",
-      "rezumat": "Semnul iconic \"This Is Anfield\", care a stat la intrarea în tunelul stadionului Liverpool, a fost vândut la licitație pentru o sumă impresionantă de 115.000 de lire sterline. Această sumă depășește de aproape opt ori prețul estimat inițial, demonstrând valoarea sentimentală și istorică pe care o are obiectul pentru fanii clubului și colecționari. Vanzarea subliniază importanța simbolurilor în cultura fotbalului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-09T19:34:53.321451+00:00",
-      "data_afisaj": "9 septembrie 2026, 22:34"
     }
   ]
 }
