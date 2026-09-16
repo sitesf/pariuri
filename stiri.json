@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-16T12:30:13.196047+00:00",
-  "updated_at_afisaj": "16 septembrie 2026, 15:30",
+  "updated_at": "2026-09-16T13:10:53.550886+00:00",
+  "updated_at_afisaj": "16 septembrie 2026, 16:10",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,62 @@
   },
   "numar_stiri": 133,
   "stiri": [
+    {
+      "id": "e13387b1739f",
+      "titlu": "Messi în lotul Argentinei pentru adio amical",
+      "rezumat": "Argentina îl numește pe Lionel Messi în lotul lor pentru un amical împotriva Beninului în octombrie, într-un meci care va fi la revedere de la fotbalul internațional al atacantului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-16T13:10:30.381268+00:00",
+      "data_afisaj": "16 septembrie 2026, 16:10"
+    },
+    {
+      "id": "2b55d4674ada",
+      "titlu": "Maresca critică concentrarea pe un câștigător controversat",
+      "rezumat": "Antrenorul lui Manchester City, Enzo Maresca, spune că este „destul de sărac” că controversa în jurul câștigătorului lui Erling Haaland a umbrit victoria echipei sale la Manchester United.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-16T13:10:30.382779+00:00",
+      "data_afisaj": "16 septembrie 2026, 16:10"
+    },
+    {
+      "id": "85d2f7dec13d",
+      "titlu": "Mbappe, Vini și Konate mușamalizează mesajul de susținere al Realului pentru Ceuta",
+      "rezumat": "Vini Jnr, Mbappé și Konate acoperă mesajul de susținere al Ceuta înaintea meciului lui Real Madrid cu Elche.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-16T13:10:30.384433+00:00",
+      "data_afisaj": "16 septembrie 2026, 16:10"
+    },
+    {
+      "id": "25366f6c84cd",
+      "titlu": "Clasamentul celor mai mari pictograme de fotbal fantastic din toate timpurile",
+      "rezumat": "Nu există nimic asemănător cu satisfacția de a descoperi un chilipir absolut Fantasy Premier League - deci care sunt cele mai emblematice alegeri vreodată?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-16T13:10:30.385986+00:00",
+      "data_afisaj": "16 septembrie 2026, 16:10"
+    },
+    {
+      "id": "2167c3d7e919",
+      "titlu": "Faceți cunoștință cu adolescenții scoțieni gata să reprezinte Uganda",
+      "rezumat": "Frații adolescenți Olly și Seb Fisher se apropie de visul lor de recunoaștere internațională - dar nu va veni din patria lor, Scoția.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-16T13:10:30.387478+00:00",
+      "data_afisaj": "16 septembrie 2026, 16:10"
+    },
     {
       "id": "dcea9057a485",
       "titlu": "Messi, inclus în lotul Argentinei pentru meciul de adio internațional",
@@ -1466,63 +1522,6 @@
       ],
       "data_publicare": "2026-09-09T19:09:28.205978+00:00",
       "data_afisaj": "9 septembrie 2026, 22:09"
-    },
-    {
-      "id": "0c6135ceb4e9",
-      "titlu": "West Ham United preia conducerea în Championship",
-      "rezumat": "West Ham United a urcat pe prima poziție în Championship, după o victorie cu 3-2 împotriva echipei Bolton. Căpitanul Jarrod Bowen a fost decisiv, marcând două goluri, inclusiv cel care a asigurat succesul. Această performanță marchează o serie de trei victorii consecutive pentru „Ciocănari”, care speră să lase în urmă dificultățile din sezoanele precedente și să își consolideze poziția în fruntea clasamentului, demonstrând o formă excelentă în debutul campionatului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-09T12:44:53.303815+00:00",
-      "data_afisaj": "9 septembrie 2026, 15:44"
-    },
-    {
-      "id": "2b00a332e5db",
-      "titlu": "Newcastle United avansează în Cupa Ligii Angliei",
-      "rezumat": "Newcastle United a reușit să se califice în runda următoare a Cupei Ligii Angliei, învingând-o pe Millwall cu scorul de 1-0. Unicul gol al partidei a fost marcat de Joe Willock în minutele de final, asigurând victoria pentru echipa lui Matthias Jaissle. Această calificare reprezintă o continuare a formei bune pentru Newcastle, care a înregistrat cinci meciuri consecutive fără înfrângere sub conducerea noului antrenor, consolidându-și parcursul în competiție.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-09-09T12:44:53.305400+00:00",
-      "data_afisaj": "9 septembrie 2026, 15:44"
-    },
-    {
-      "id": "acf688ca0ea7",
-      "titlu": "JJ Gabriel, la un pas de a deveni cel mai tânăr debutant al lui Manchester United",
-      "rezumat": "JJ Gabriel, un tânăr fotbalist de doar 15 ani, a atras atenția la Manchester United după ce a marcat două goluri spectaculoase în două apariții în Premier League 2. Performanțele sale remarcabile au stârnit discuții despre o posibilă promovare rapidă la echipa de seniori, ceea ce l-ar putea transforma în cel mai tânăr jucător din istoria clubului care debutează la prima echipă. Talentul său precoce este considerat un semn promițător pentru viitorul „Diavolilor Roșii”.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-09T12:44:53.307270+00:00",
-      "data_afisaj": "9 septembrie 2026, 15:44"
-    },
-    {
-      "id": "d374fec184a8",
-      "titlu": "Revenire emoționantă pe teren pentru Ollie Harfield după o accidentare gravă",
-      "rezumat": "Fundașul echipei Aldershot Town, Ollie Harfield, a revenit pe teren după o absență de 717 zile, cauzată de o accidentare gravă la genunchi care a necesitat nouă diagnostice de „sfârșit de carieră”. Jucătorul a descris momentul revenirii sale ca fiind „ireal”, marcând un triumf personal semnificativ. Perseverența și dedicarea sa au fost esențiale în depășirea obstacolelor medicale și în revenirea la fotbalul profesionist, inspirând prin rezistența sa.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-09T12:44:53.308994+00:00",
-      "data_afisaj": "9 septembrie 2026, 15:44"
-    },
-    {
-      "id": "2fc73804fe22",
-      "titlu": "Controversă în fotbalul feminin sud-coreean privind tratamentul jucătoarelor",
-      "rezumat": "O presupusă remarcă a unui arbitru, referitoare la menstruație, în timpul unui meci din WK League, a stârnit o amplă controversă în fotbalul feminin sud-coreean. Incidentul, care a implicat-o pe Ji So-yun, golgheterul all-time al Coreei de Sud, a redeschis dezbaterea despre modul în care sunt tratate jucătoarele. Asociația Coreeană de Fotbal a reacționat, iar evenimentul a generat întrebări serioase privind respectul și egalitatea în sportul feminin, subliniind necesitatea unor schimbări.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-09T12:44:53.310768+00:00",
-      "data_afisaj": "9 septembrie 2026, 15:44"
     }
   ]
 }
