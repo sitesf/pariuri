@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-16T13:10:53.550886+00:00",
-  "updated_at_afisaj": "16 septembrie 2026, 16:10",
+  "updated_at": "2026-09-16T19:26:37.480842+00:00",
+  "updated_at_afisaj": "16 septembrie 2026, 22:26",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,61 @@
   },
   "numar_stiri": 133,
   "stiri": [
+    {
+      "id": "80c782e51757",
+      "titlu": "Clubul Al-Taawoun, sancționat cu meciuri fără spectatori în Liga Saudită",
+      "rezumat": "Clubul Al-Taawoun din Liga Profesionistă Saudită a fost sancționat cu disputarea a două meciuri fără spectatori. Decizia vine după ce suporterii echipei au scandat mesaje ofensatoare la adresa lui Ruben Neves, făcând referire la decesul prietenului său, Diogo Jota. Incidentul a stârnit controverse și a determinat federația să ia măsuri drastice pentru a combate comportamentul nesportiv din tribune. Această pedeapsă subliniază eforturile de a menține un mediu respectuos în fotbalul saudit și de a descuraja astfel de manifestări. Sancțiunea intră în vigoare imediat.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-16T19:26:37.475468+00:00",
+      "data_afisaj": "16 septembrie 2026, 22:26"
+    },
+    {
+      "id": "d8582716a6a6",
+      "titlu": "David Gray, demis de la conducerea tehnică a echipei Hibernian",
+      "rezumat": "David Gray a fost demis din funcția de antrenor principal al echipei Hibernian, după doar șase etape disputate în sezonul actual al Scottish Premiership. Această decizie marchează sfârșitul unei perioade de 12 ani petrecute de fostul căpitan la clubul de pe Easter Road, unde a avut diverse roluri, inclusiv cel de antrenor secund. Conducerea clubului a considerat că este necesară o schimbare pentru a redresa parcursul echipei în campionat, având în vedere rezultatele sub așteptări din debutul sezonului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-16T19:26:37.476789+00:00",
+      "data_afisaj": "16 septembrie 2026, 22:26"
+    },
+    {
+      "id": "f2da9a574ce7",
+      "titlu": "Thomas Tuchel își apără deciziile controversate din semifinala Cupei Mondiale",
+      "rezumat": "Antrenorul Thomas Tuchel și-a apărat cu fermitate deciziile controversate privind schimbările defensive efectuate în timpul semifinalei Cupei Mondiale, pierdută de Anglia împotriva Argentinei. Tuchel a declarat că responsabilitatea pentru acele alegeri îi aparține în totalitate, subliniind că a acționat în interesul echipei și că \"este cicatricea mea, nu a voastră\". Declarațiile sale vin în contextul criticilor continue legate de strategia adoptată în meciul crucial, la câteva zile după partidă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-09-16T19:26:37.478146+00:00",
+      "data_afisaj": "16 septembrie 2026, 22:26"
+    },
+    {
+      "id": "e933643801fd",
+      "titlu": "Ionuț Radu, învins de Florin Tănase în Europa League printr-un gol spectaculos",
+      "rezumat": "Portarul român Ionuț Radu a fost învins de compatriotul său Florin Tănase într-un meci din Europa League, după ce Tănase a marcat un gol spectaculos de la aproximativ 20 de metri în minutul 88. Această reușită a adus victoria echipei lui Tănase și a reprezentat un moment de ghinion pentru Radu, care a primit o notă modestă pentru prestația sa. Duelul românesc a fost unul dintre punctele de atracție ale partidei, evidențiind performanța individuală a lui Tănase.",
+      "categorie": "Fotbal",
+      "surse": [
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-09-16T19:26:37.479567+00:00",
+      "data_afisaj": "16 septembrie 2026, 22:26"
+    },
+    {
+      "id": "22c082597658",
+      "titlu": "Kendry Paez, de la talent de top la echipa U21 a lui Chelsea",
+      "rezumat": "Kendry Paez, considerat la 16 ani unul dintre cele mai promițătoare talente la nivel mondial la momentul transferului său la Chelsea, se află acum, trei ani mai târziu, în lotul echipei Under-21. Această situație ridică semne de întrebare cu privire la progresul său și la motivele pentru care nu a reușit să se impună la prima echipă, în ciuda așteptărilor inițiale. Evoluția sa este analizată pentru a înțelege factorii care au contribuit la această stagnare în cariera tânărului jucător.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-16T19:26:37.480825+00:00",
+      "data_afisaj": "16 septembrie 2026, 22:26"
+    },
     {
       "id": "e13387b1739f",
       "titlu": "Messi în lotul Argentinei pentru adio amical",
@@ -1467,61 +1522,6 @@
       ],
       "data_publicare": "2026-09-09T19:34:53.321451+00:00",
       "data_afisaj": "9 septembrie 2026, 22:34"
-    },
-    {
-      "id": "9d8453efa1cb",
-      "titlu": "Alan Irvine rămâne în staff-ul tehnic al Scoției sub noul antrenor Sebastien Pocognoli",
-      "rezumat": "Asistentul lui Everton, Alan Irvine, își va continua rolul în staff-ul tehnic reînnoit al naționalei Scoției, sub conducerea noului antrenor Sebastien Pocognoli. Această decizie marchează o continuitate importantă în structura tehnică a echipei, în timp ce Pocognoli își propune să aducă o nouă viziune. Irvine, cu experiența sa la nivel de club, va contribui la dezvoltarea strategiei naționale, asigurând o tranziție lină și stabilitate în cadrul echipei. Numirea lui Pocognoli și menținerea lui Irvine sugerează o combinație de inovație și experiență pentru viitoarele campanii ale Scoției.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-09T19:09:28.197988+00:00",
-      "data_afisaj": "9 septembrie 2026, 22:09"
-    },
-    {
-      "id": "be8819a34b15",
-      "titlu": "Atacantul rwandez Joy-Lance Mickels vizează istoria Ligii Campionilor împotriva lui Manchester United",
-      "rezumat": "Atacantul rwandez Joy-Lance Mickels a ajutat echipa azeră Sabah să ajungă în faza grupelor Ligii Campionilor la debutul lor în competiție. Acum, el își propune să învingă echipa pe care o susține, Manchester United, într-un meci istoric. Această confruntare reprezintă o ocazie unică pentru Mickels și pentru clubul său, Sabah, de a-și demonstra valoarea pe scena europeană și de a scrie o pagină importantă în istoria fotbalului rwandez și azer. Povestea sa este un exemplu de ascensiune remarcabilă, de la un jucător cu origini modeste la o prezență pe cea mai mare scenă a fotbalului european.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-09T19:09:28.200029+00:00",
-      "data_afisaj": "9 septembrie 2026, 22:09"
-    },
-    {
-      "id": "306d2ac6de2d",
-      "titlu": "Gianni Infantino numește un loialist pentru a supraveghea Caraibele și divizează managementul FIFA",
-      "rezumat": "Președintele FIFA, Gianni Infantino, a separat managementul țărilor din Caraibe de restul confederației CONCACAF, numind un loialist, Gelson Fernandes, pentru a supraveghea regiunea. Această mișcare este percepută de critici ca o încercare de a diviza alianța CONCACAF și de a-și consolida poziția la conducerea FIFA. Modificarea structurii de management vizează, conform FIFA, o abordare mai globală a sportului, dar a stârnit controverse. Oponenții lui Infantino consideră că această decizie ar putea slăbi opoziția internă și ar putea influența viitoarele voturi și decizii la nivel înalt în cadrul organizației.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-09T19:09:28.202009+00:00",
-      "data_afisaj": "9 septembrie 2026, 22:09"
-    },
-    {
-      "id": "42950908a490",
-      "titlu": "Erling Haaland acuză un jucător de la Porto de agresiune în timpul meciului din Liga Campionilor",
-      "rezumat": "Atacantul lui Manchester City, Erling Haaland, a declarat că jucătorul de la Porto, Pablo Rosario, \"l-a apucat de fund\" în timpul victoriei cu 2-0 a echipei sale în Liga Campionilor. Incidentul a avut loc în minutul 92 al meciului, după ce Haaland marcase ambele goluri. Cei doi jucători au fost implicați într-o altercație, au căzut la pământ și au primit cartonașe galbene după ce au fost separați. Haaland a descris incidentul ca fiind \"puțin interesant\", sugerând că Rosario a încercat să-l oprească să marcheze un hat-trick.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-09T19:09:28.203959+00:00",
-      "data_afisaj": "9 septembrie 2026, 22:09"
-    },
-    {
-      "id": "26b4c424b2e3",
-      "titlu": "Michael Carrick entuziasmat de Liga Campionilor, dar îngrijorat de programul derby-ului",
-      "rezumat": "Antrenorul lui Manchester United, Michael Carrick, a declarat că este entuziasmat să conducă echipa în revenirea în \"magica\" Ligă a Campionilor, dar a recunoscut că programul meciului de joi seara nu este ideal, având în vedere derby-ul de duminică. United va primi vizita echipei Sabah din Azerbaidjan pe Old Trafford, după o absență de doi ani din competiție. Clubul azer se află la debutul său în elita europeană, adăugând o presiune suplimentară asupra lui Carrick de a gestiona echilibrul între performanța europeană și cea internă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-09T19:09:28.205978+00:00",
-      "data_afisaj": "9 septembrie 2026, 22:09"
     }
   ]
 }
