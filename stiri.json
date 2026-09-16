@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-15T19:56:45.704620+00:00",
-  "updated_at_afisaj": "15 septembrie 2026, 22:56",
+  "updated_at": "2026-09-16T12:30:13.196047+00:00",
+  "updated_at_afisaj": "16 septembrie 2026, 15:30",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,63 @@
   },
   "numar_stiri": 133,
   "stiri": [
+    {
+      "id": "dcea9057a485",
+      "titlu": "Messi, inclus în lotul Argentinei pentru meciul de adio internațional",
+      "rezumat": "Lionel Messi a fost convocat în lotul naționalei Argentinei pentru un meci amical împotriva Beninului, programat în luna octombrie. Această partidă este anunțată ca fiind ultima apariție a atacantului pentru selecționata \"Pumelor\", marcând retragerea sa din fotbalul internațional. Decizia vine după o carieră excepțională la nivel de club și națională, în care Messi a câștigat numeroase trofee, inclusiv Copa America și Cupa Mondială. Meciul va oferi fanilor ocazia de a-și lua rămas bun de la unul dintre cei mai mari jucători din istorie.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-16T12:30:13.189948+00:00",
+      "data_afisaj": "16 septembrie 2026, 15:30"
+    },
+    {
+      "id": "2cb8b457f866",
+      "titlu": "Tânărul Max Dowman impresionează la Arsenal, Arteta cere prudență",
+      "rezumat": "Max Dowman, în vârstă de 16 ani, a strălucit pentru echipa secundă a lui Arsenal, marcând două goluri și oferind o pasă decisivă în victoria împotriva lui Ipswich în Cupa Ligii. Prestația sa remarcabilă a determinat comparații cu Lionel Messi din partea antrenorului Mikel Arteta. Cu toate acestea, Arteta a subliniat necesitatea prudenței în dezvoltarea tânărului talent, avertizând că nu trebuie grăbită ascensiunea sa. Dowman este considerat o promisiune importantă pentru viitorul clubului londonez.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-16T12:30:13.191533+00:00",
+      "data_afisaj": "16 septembrie 2026, 15:30"
+    },
+    {
+      "id": "18ac4fb25dc6",
+      "titlu": "Real Madrid obține o victorie dramatică și egalează Barcelona în clasament",
+      "rezumat": "Real Madrid a reușit să obțină o victorie crucială, marcând golul decisiv în prelungiri, într-un meci important din campionat. Acest succes permite echipei din capitala Spaniei să egaleze la puncte liderul clasamentului, FC Barcelona, intensificând lupta pentru titlu. Rezultatul subliniază determinarea și capacitatea de a reveni a \"galacticilor\", menținând presiunea asupra rivalilor lor. Fanii așteaptă cu nerăbdare continuarea campionatului, care se anunță extrem de disputat.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-09-16T12:30:13.193071+00:00",
+      "data_afisaj": "16 septembrie 2026, 15:30"
+    },
+    {
+      "id": "1dcd5635877d",
+      "titlu": "Granit Xhaka promite determinare pentru Sunderland la revenirea în Europa",
+      "rezumat": "Căpitanul Granit Xhaka a declarat că Sunderland va arăta \"foc\" la mult-așteptata sa revenire în competițiile europene, după o pauză de 53 de ani. Echipa se pregătește să găzduiască AZ Alkmaar, iar Xhaka anticipează o atmosferă intimidantă pe stadionul de acasă. Ultima participare a clubului în Europa a avut loc în 1973, când directorii vedeau competiția ca o modalitate de a finanța modernizarea sistemului de iluminat. Acum, Sunderland își propune să facă o impresie puternică pe scena continentală.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-16T12:30:13.194553+00:00",
+      "data_afisaj": "16 septembrie 2026, 15:30"
+    },
+    {
+      "id": "1064e1473d06",
+      "titlu": "Fotbalul iranian revine sub umbra conflictului și a disputelor interne",
+      "rezumat": "Fotbalul iranian își reia activitatea după o suspendare prelungită cauzată de conflictul armat, confruntându-se în același timp cu o dispută privind titlul de campioană din sezonul trecut. Sportul în Iran este slăbit de impactul războiului și de incapacitatea de a concura cu puterea financiară a Arabiei Saudite în regiune. Situația reflectă provocările complexe cu care se confruntă țara, unde fotbalul, un sport popular, încearcă să-și regăsească stabilitatea și relevanța în contextul geopolitic actual.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-16T12:30:13.196029+00:00",
+      "data_afisaj": "16 septembrie 2026, 15:30"
+    },
     {
       "id": "fd998685e5e2",
       "titlu": "Howard Webb Confirmă Cartonașul Roșu al lui Foden, dar Recunoaște Scăparea lui Fernandes",
@@ -1466,61 +1523,6 @@
       ],
       "data_publicare": "2026-09-09T12:44:53.310768+00:00",
       "data_afisaj": "9 septembrie 2026, 15:44"
-    },
-    {
-      "id": "298ee79f6c9f",
-      "titlu": "Lionel Messi, acord preliminar pentru a deveni acționar majoritar la un club spaniol",
-      "rezumat": "Superstarul argentinian Lionel Messi a ajuns la un acord preliminar pentru a deveni acționar majoritar al clubului spaniol de ligă secundă Eldense. Anunțul a fost făcut de Eldense, confirmând implicarea lui Messi în managementul și proprietatea clubului. Această mișcare marchează o extindere a intereselor de afaceri ale lui Messi în fotbal, adăugând un al doilea club spaniol la portofoliul său. Detaliile complete ale tranzacției urmează să fie finalizate, dar intenția de a prelua controlul majoritar este clară.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-09T12:12:32.038907+00:00",
-      "data_afisaj": "9 septembrie 2026, 15:12"
-    },
-    {
-      "id": "0c0c9d7197a6",
-      "titlu": "Dubla lui Haaland asigură un start ideal pentru Manchester City în Liga Campionilor",
-      "rezumat": "Erling Haaland a marcat două goluri, contribuind decisiv la victoria cu 2-0 a lui Manchester City împotriva echipei Porto în Liga Campionilor. Sub conducerea lui Enzo Maresca, echipa a demonstrat o performanță solidă, obținând trei puncte importante în debutul campaniei europene. Victoria este un impuls semnificativ pentru proiectul incipient al antrenorului Maresca, mai ales având în vedere istoricul recent al lui City cu șase înfrângeri în ultimele nouă meciuri în deplasare în această competiție.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-09T12:12:32.040645+00:00",
-      "data_afisaj": "9 septembrie 2026, 15:12"
-    },
-    {
-      "id": "ba6d36a4e12d",
-      "titlu": "Mourinho consideră că Alexander-Arnold nu este un mijlocaș, în ciuda rolului său la Real Madrid",
-      "rezumat": "Trent Alexander-Arnold a fost titularizat la mijlocul terenului în victoria lui Real Madrid împotriva lui Inter, însă antrenorul Jose Mourinho a declarat că aceasta nu este poziția sa optimă. Mourinho a subliniat că, deși Alexander-Arnold a evoluat în acest rol, calitățile sale ar fi mai bine valorificate într-o altă zonă a terenului. Comentariile antrenorului portughez aduc în discuție dezbaterea continuă privind cea mai bună poziție pentru fundașul englez, un subiect de interes tactic.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-09T12:12:32.042220+00:00",
-      "data_afisaj": "9 septembrie 2026, 15:12"
-    },
-    {
-      "id": "ba87c910ae6c",
-      "titlu": "Chelsea a refuzat o oportunitate de transfer, în ciuda problemelor din mijlocul terenului",
-      "rezumat": "Chelsea a decis să nu urmărească o oportunitate de transfer considerată \"perfectă\" pentru întărirea mijlocului terenului, în ciuda preocupărilor crescânde legate de această zonă a echipei. Antrenorul Xabi Alonso a confirmat că planurile actuale ale primei echipe nu includ aducerea unui alt mijlocaș. Această decizie vine pe fondul presiunii și a analizelor privind performanța compartimentului median, sugerând o încredere în lotul existent sau o strategie diferită pe termen lung a clubului londonez.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-09-09T12:12:32.043656+00:00",
-      "data_afisaj": "9 septembrie 2026, 15:12"
-    },
-    {
-      "id": "6c2d091c5144",
-      "titlu": "Ayyoub Bouaddi impresionează la debutul său ca titular pentru Manchester City în Liga Campionilor",
-      "rezumat": "Tânărul Ayyoub Bouaddi, în vârstă de 18 ani, a avut o prestație matură și impresionantă la primul său meci ca titular pentru Manchester City în Liga Campionilor. Evoluția sa a demonstrat de ce clubul a fost atât de hotărât să-l transfere, confirmând potențialul său de \"bijuterie\" pentru viitor. Bouaddi a reușit să-și depășească vârsta prin jocul său, oferind o perspectivă promițătoare pentru echipa lui Manchester City în competițiile viitoare și atrăgând atenția asupra talentului său.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-09T12:12:32.045159+00:00",
-      "data_afisaj": "9 septembrie 2026, 15:12"
     }
   ]
 }
