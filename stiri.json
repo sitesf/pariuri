@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-17T12:29:00.507800+00:00",
-  "updated_at_afisaj": "17 septembrie 2026, 15:29",
+  "updated_at": "2026-09-17T13:03:47.454110+00:00",
+  "updated_at_afisaj": "17 septembrie 2026, 16:03",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,62 @@
   },
   "numar_stiri": 134,
   "stiri": [
+    {
+      "id": "d1de3249b14e",
+      "titlu": "Boehly și Walter vând acțiunile Chelsea către Clearlake",
+      "rezumat": "Clearlake Capital preia controlul total al Chelsea, după ce președintele Todd Boehly și directorul Mark Walter își vând acțiunile la club.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-17T13:03:40.559569+00:00",
+      "data_afisaj": "17 septembrie 2026, 16:03"
+    },
+    {
+      "id": "abb07a9901e2",
+      "titlu": "Carrick 'nu este deranjat' de presiune - dar ar trebui să fie după această ultimă încurcătură?",
+      "rezumat": "Antrenorul Michael Carrick insistă că nu se simte sub presiune după eliminarea lui Manchester United din Cupa EFL.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-17T13:03:40.561516+00:00",
+      "data_afisaj": "17 septembrie 2026, 16:03"
+    },
+    {
+      "id": "f27b46e4afca",
+      "titlu": "Real Madrid interesată de atacantul lui Man Utd, Gabriel, 15 ani",
+      "rezumat": "Real Madrid este puternic interesată să-l transfere pe atacantul de 15 ani al lui Manchester United, JJ Gabriel.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-17T13:03:40.563213+00:00",
+      "data_afisaj": "17 septembrie 2026, 16:03"
+    },
+    {
+      "id": "33415a382475",
+      "titlu": "Cum un jucător de rezervă de la Aston Villa a devenit cel mai prolific marcator al Europei",
+      "rezumat": "Niciun jucător din primele cinci ligi europene nu a marcat mai multe goluri decât Donyell Malen de la debutul său la Roma în ianuarie - BBC Sport examinează transformarea sa.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-17T13:03:40.565027+00:00",
+      "data_afisaj": "17 septembrie 2026, 16:03"
+    },
+    {
+      "id": "cbb55e632ad9",
+      "titlu": "O echipă care a oferit speranță... apoi, patru luni mai târziu, Hamas a atacat Israelul",
+      "rezumat": "Poate fi realizat potențialul unei generații de aur de fotbaliști israelieni, în sport și societate?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-17T13:03:40.566954+00:00",
+      "data_afisaj": "17 septembrie 2026, 16:03"
+    },
     {
       "id": "01b9c978b5af",
       "titlu": "Clearlake Capital Preia Controlul Total al Clubului Chelsea",
@@ -1472,66 +1528,6 @@
       ],
       "data_publicare": "2026-09-10T19:01:18.742762+00:00",
       "data_afisaj": "10 septembrie 2026, 22:01"
-    },
-    {
-      "id": "8c57a59338ec",
-      "titlu": "Mauricio Pochettino își exprimă dorința de a reveni în Premier League",
-      "rezumat": "Fostul antrenor al echipelor Tottenham și Chelsea, Mauricio Pochettino, a declarat că speră să revină în Premier League în viitor. Într-un interviu, el a subliniat că este deschis să ajute Tottenham, indiferent de divizie, dacă circumstanțele ar fi fost diferite în vară. Pochettino a avut o perioadă de pauză după plecarea de la Chelsea și a menționat că a fost contactat de Spurs, ceea ce l-a emoționat. Declarațiile sale sugerează o dorință puternică de a se implica din nou în fotbalul englez de top.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-10T12:43:12.257037+00:00",
-      "data_afisaj": "10 septembrie 2026, 15:43"
-    },
-    {
-      "id": "f454b5c19ae4",
-      "titlu": "Martin Odegaard, în forma vieții sale, contribuie la startul excelent al lui Arsenal",
-      "rezumat": "Căpitanul lui Arsenal, Martin Odegaard, a început sezonul într-o formă excepțională, marcând golul victoriei împotriva lui Napoli în Liga Campionilor. Antrenorul Mikel Arteta a atribuit performanțele impresionante ale lui Odegaard atât condiției fizice optime, cât și unei noi poziționări tactice pe teren. Arsenal a trecut cu brio de fiecare test până acum, iar contribuția lui Odegaard este considerată crucială pentru succesul echipei, confirmând că este un jucător transformat.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-09-10T12:43:12.258969+00:00",
-      "data_afisaj": "10 septembrie 2026, 15:43"
-    },
-    {
-      "id": "ca08452099f5",
-      "titlu": "Chelsea obține o victorie dramatică în Cupa Ligii Angliei după o revenire spectaculoasă",
-      "rezumat": "Chelsea a reușit o victorie spectaculoasă împotriva lui Leeds United în turul trei al Cupei Ligii Angliei, într-un meci cu nouă goluri. Echipa antrenată de Xabi Alonso a avut nevoie de intervenția decisivă a rezervelor pentru a se impune, după ce a fost condusă. Cole Palmer a fost un jucător cheie în această revenire, contribuind semnificativ la calificarea \"albaștrilor\". Deși defensiva a arătat vulnerabilități, capacitatea de a reveni în joc a fost lăudată.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-10T12:43:12.260807+00:00",
-      "data_afisaj": "10 septembrie 2026, 15:43"
-    },
-    {
-      "id": "41cec8cf3e5d",
-      "titlu": "Liverpool începe campania din Liga Campionilor cu o victorie împotriva lui Atletico Madrid",
-      "rezumat": "Liverpool a debutat cu dreptul în campania Ligii Campionilor, învingând Atletico Madrid pe Anfield. Echipa a revenit de la un scor defavorabil pentru a obține victoria, demonstrând rezistență și determinare. Alexis Mac Allister a marcat golul decisiv, contribuind la un start pozitiv în faza grupelor. Această victorie este crucială pentru moralul echipei și pentru stabilirea unui ritm bun în competiția europeană.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-10T12:43:12.262708+00:00",
-      "data_afisaj": "10 septembrie 2026, 15:43"
-    },
-    {
-      "id": "c9a47adfed14",
-      "titlu": "Rangers obține o victorie dramatică, în timp ce Celtic își menține recordul de 100% în Premiership-ul Scoțian",
-      "rezumat": "Rangers a obținut o victorie dramatică în Premiership-ul Scoțian, învingând St Mirren cu 1-0 printr-un gol marcat în prelungiri de Bojan Miovski. Această victorie menține impulsul echipei înainte de cele două derby-uri Old Firm cu rivalii de la Celtic. Între timp, Celtic și-a continuat parcursul perfect, obținând o victorie la limită cu 1-0 împotriva lui St Johnstone, consolidându-și poziția de lider în campionat.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-10T12:43:12.264812+00:00",
-      "data_afisaj": "10 septembrie 2026, 15:43"
     }
   ]
 }
