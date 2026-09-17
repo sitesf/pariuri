@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-17T19:37:47.984988+00:00",
-  "updated_at_afisaj": "17 septembrie 2026, 22:37",
+  "updated_at": "2026-09-17T19:57:39.941686+00:00",
+  "updated_at_afisaj": "17 septembrie 2026, 22:57",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 131,
+  "numar_stiri": 136,
   "stiri": [
+    {
+      "id": "ee6c2e3966d0",
+      "titlu": "Tuchel ia în considerare convocarea lui Cole Palmer la naționala Angliei pentru Liga Națiunilor",
+      "rezumat": "Selecționerul Angliei, Thomas Tuchel, analizează posibilitatea de a-l include pe Cole Palmer în lotul pentru Liga Națiunilor. Aceasta ar fi prima sa selecție de la Cupa Mondială, unde Palmer a fost omis din cauza formei slabe. Alături de Palmer, Alex Scott și Morgan Gibbs-White sunt, de asemenea, în atenția lui Tuchel pentru viitoarele meciuri internaționale. Decizia finală privind lotul va fi anunțată vineri dimineață, aducând o nouă perspectivă asupra strategiei selecționerului după turneul mondial.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-17T19:57:39.937589+00:00",
+      "data_afisaj": "17 septembrie 2026, 22:57"
+    },
+    {
+      "id": "7e6f8d647a10",
+      "titlu": "Selecționerul Irlandei a discutat individual cu jucătorii despre meciurile cu Israel",
+      "rezumat": "Antrenorul principal Heimir Hallgrimsson a dezvăluit că a purtat discuții individuale cu jucătorii din lotul Republicii Irlanda despre perspectiva de a juca împotriva Israelului. Hallgrimsson a adăugat că \"niciunul dintre noi nu se simte confortabil jucând în aceste meciuri\", subliniind sensibilitatea situației. Această abordare personală reflectă preocupările etice și emoționale ale echipei în contextul politic actual, evidențiind impactul evenimentelor externe asupra sportivilor și a deciziilor federale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-17T19:57:39.938634+00:00",
+      "data_afisaj": "17 septembrie 2026, 22:57"
+    },
+    {
+      "id": "625c823749a1",
+      "titlu": "De ce va dura pauza internațională din septembrie trei săptămâni?",
+      "rezumat": "Echipa \"Ask Me Anything\" de la BBC Sport explică modificările majore care vor avea loc în programul pauzelor internaționale de fotbal, începând cu septembrie 2026. Această schimbare semnificativă va prelungi pauza internațională la trei săptămâni, având implicații asupra calendarului competițiilor de club și a pregătirii echipelor naționale. Detaliile acestor ajustări sunt esențiale pentru înțelegerea noului format al fotbalului internațional și a impactului său asupra jucătorilor și cluburilor din întreaga lume.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-17T19:57:39.939605+00:00",
+      "data_afisaj": "17 septembrie 2026, 22:57"
+    },
+    {
+      "id": "43721f2e19b6",
+      "titlu": "Alessandro Costacurta: „San Siro este o emblemă – incredibil de frumos, dar nu funcțional”",
+      "rezumat": "Legendarul Alessandro Costacurta reflectă asupra stadionului San Siro, care împlinește 100 de ani în acest weekend. Fostul jucător al Milanului descrie arena ca fiind \"incredibil de frumoasă\", dar recunoaște că \"nu este funcțională\" în contextul fotbalului modern. Comentariile sale vin în contextul planurilor de demolare a stadionului, oferind o perspectivă emoțională și practică asupra unei arene iconice care a găzduit unele dintre cele mai mari momente din istoria fotbalului italian și european.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-17T19:57:39.940718+00:00",
+      "data_afisaj": "17 septembrie 2026, 22:57"
+    },
+    {
+      "id": "fb451c588770",
+      "titlu": "Ce se întâmplă cu echipa feminină a lui Manchester United?",
+      "rezumat": "Echipa feminină a lui Manchester United se confruntă cu numeroase semne de întrebare la începutul sezonului, după numirea unui nou antrenor și o remaniere a lotului. Două înfrângeri categorice au generat îngrijorări cu privire la direcția echipei. Analiza situației actuale încearcă să identifice problemele care afectează performanța, de la adaptarea la noua conducere tehnică până la coeziunea lotului, în contextul ambițiilor clubului în fotbalul feminin și al presiunii rezultatelor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-09-17T19:57:39.941675+00:00",
+      "data_afisaj": "17 septembrie 2026, 22:57"
+    },
     {
       "id": "34b9cafd79e3",
       "titlu": "Europa League: Bournemouth și Palace conduc cu două goluri, Celtic este în urmă LIVE!",
