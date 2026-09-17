@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-16T19:49:19.651126+00:00",
-  "updated_at_afisaj": "16 septembrie 2026, 22:49",
+  "updated_at": "2026-09-17T12:29:00.507800+00:00",
+  "updated_at_afisaj": "17 septembrie 2026, 15:29",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,62 @@
   },
   "numar_stiri": 134,
   "stiri": [
+    {
+      "id": "01b9c978b5af",
+      "titlu": "Clearlake Capital Preia Controlul Total al Clubului Chelsea",
+      "rezumat": "Clearlake Capital a achiziționat controlul deplin asupra clubului Chelsea, după ce președintele Todd Boehly, directorul Mark Walter și Hansjorg Wyss și-au vândut participațiile în club. Această tranzacție marchează o schimbare semnificativă în structura de proprietate a gigantului londonez, consolidând poziția Clearlake Capital ca principal acționar. Decizia vine în contextul unor discuții anterioare privind direcția strategică și investițiile viitoare ale clubului, având potențialul de a influența deciziile sportive și financiare pe termen lung.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-17T12:29:00.500577+00:00",
+      "data_afisaj": "17 septembrie 2026, 15:29"
+    },
+    {
+      "id": "5c19f72fe2f3",
+      "titlu": "Jürgen Klopp Vrea ca Naționala Germaniei să Recâștige Mândria Națională",
+      "rezumat": "Selecționerul Germaniei, Jürgen Klopp, a declarat că echipa națională de fotbal poate contribui la asigurarea faptului că „mândria națională nu este încredințată persoanelor nepotrivite”. Declarația a fost făcută într-o conferință de presă la Frankfurt, unde Klopp a anunțat primul său lot de jucători, și vine în urma victoriei recente a partidului de extremă-dreapta AfD într-un scrutin de stat. Fostul antrenor al lui Liverpool a subliniat rolul sportului în unirea națiunii și în promovarea valorilor pozitive, distanțându-se de ideologiile anti-imigrație.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-17T12:29:00.502312+00:00",
+      "data_afisaj": "17 septembrie 2026, 15:29"
+    },
+    {
+      "id": "b8e943da755c",
+      "titlu": "Debutul European al lui Bournemouth, o Culminare a unei Ascensiuni Spectaculoase",
+      "rezumat": "Clubul Bournemouth se pregătește pentru debutul său istoric în competițiile europene, înfruntând Real Sociedad în Europa League. Legenda clubului, Steve Fletcher, a reflectat asupra parcursului incredibil al echipei în ultimele două decenii, de la marginea prăpastiei financiare la prezența pe scena continentală. Această realizare marchează o culminare a eforturilor depuse de club și de suporteri, transformând un vis îndepărtat într-o realitate palpabilă. Este o poveste de perseverență și dedicare, care inspiră întreaga comunitate a fanilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-17T12:29:00.503968+00:00",
+      "data_afisaj": "17 septembrie 2026, 15:29"
+    },
+    {
+      "id": "e41353b0aa8e",
+      "titlu": "Donyell Malen, de la Jucător de Rezervă la Aston Villa la Cel Mai Prolific Marcator din Europa",
+      "rezumat": "Atacantul Donyell Malen, considerat anterior un jucător de rezervă la Aston Villa, a devenit cel mai prolific marcator din primele cinci ligi europene de la debutul său la AS Roma în luna ianuarie. Această transformare remarcabilă a fost analizată de BBC Sport, evidențiind adaptarea rapidă și eficiența sa în noul mediu. Performanțele sale impresionante au atras atenția, demonstrând potențialul său ofensiv și capacitatea de a influența decisiv rezultatele echipei sale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-17T12:29:00.505972+00:00",
+      "data_afisaj": "17 septembrie 2026, 15:29"
+    },
+    {
+      "id": "283131fdfa2e",
+      "titlu": "Povestea Balonului de Aur Dispărut și Dovada Că Robert Lewandowski L-a Câștigat",
+      "rezumat": "Ediția din acest an a prestigiosului premiu Balonul de Aur marchează a 70-a aniversare, însă înregistrările oficiale arată că trofeul a fost acordat de doar 69 de ori. Această discrepanță ascunde o poveste fascinantă despre un Balon de Aur \"dispărut\", pentru care există dovezi că ar fi trebuit să-i fie acordat lui Robert Lewandowski. Articolul explorează detaliile acestei situații neobișnuite, aducând în lumină argumente solide care susțin că atacantul polonez ar fi meritat recunoașterea într-o ediție anterioară.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-09-17T12:29:00.507778+00:00",
+      "data_afisaj": "17 septembrie 2026, 15:29"
+    },
     {
       "id": "e5ac2919508e",
       "titlu": "James Garner Devine Jucătorul Cheie al lui Everton",
@@ -1476,63 +1532,6 @@
       ],
       "data_publicare": "2026-09-10T12:43:12.264812+00:00",
       "data_afisaj": "10 septembrie 2026, 15:43"
-    },
-    {
-      "id": "56f332d3f3b7",
-      "titlu": "Pochettino cere ca Tottenham să primească titlul Premier League din 2016-17",
-      "rezumat": "Antrenorul Mauricio Pochettino a declarat că echipa Chelsea ar trebui să fie deposedată de titlul Premier League câștigat în sezonul 2016-17. În acel sezon, echipa sa, Tottenham, a terminat pe locul al doilea. Declarația vine în contextul unor discuții despre integritatea competiției, iar Pochettino susține că decizia ar fi una corectă, având în vedere circumstanțele. Această afirmație a fost preluată de mai multe surse sportive importante.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-10T12:07:03.033075+00:00",
-      "data_afisaj": "10 septembrie 2026, 15:07"
-    },
-    {
-      "id": "5fa541d02928",
-      "titlu": "Antrenorul Valdas Dambrauskas, de la câștigător de concurs TV la Liga Campionilor",
-      "rezumat": "Valdas Dambrauskas, antrenorul lituanian al echipei Sabah, se pregătește să înfrunte Manchester United în Liga Campionilor. Parcursul său este unul neobișnuit, incluzând o perioadă în fotbalul englez la nivel inferior și chiar o victorie la un concurs televizat, \"Vrei să fii milionar?\", unde a câștigat 725 de lire sterline. Povestea sa subliniază o ascensiune remarcabilă de la începuturi modeste la scena europeană de elită, fiind un exemplu de perseverență în cariera sportivă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-10T12:07:03.034769+00:00",
-      "data_afisaj": "10 septembrie 2026, 15:07"
-    },
-    {
-      "id": "85ffa3964fe2",
-      "titlu": "Raphinha strălucește cu o dublă în victoria Barcelonei împotriva lui Feyenoord în Liga Campionilor",
-      "rezumat": "Atacantul brazilian Raphinha a marcat de două ori, contribuind decisiv la victoria categorică a Barcelonei, scor 5-1, împotriva echipei Feyenoord pe Camp Nou, în Liga Campionilor. Această performanță vine după ce Raphinha a fost omis surprinzător de pe lista scurtă pentru Balonul de Aur, demonstrând o formă excelentă. Într-un alt meci din aceeași competiție, Ferran Torres a reușit un hat-trick, ajutând PSG să învingă Slovan Bratislava, completând o seară plină de goluri.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-10T12:07:03.036511+00:00",
-      "data_afisaj": "10 septembrie 2026, 15:07"
-    },
-    {
-      "id": "ac0f330cdac7",
-      "titlu": "Como, debutantă în Liga Campionilor, a reușit un \"miracol\" pentru a juca acasă",
-      "rezumat": "Echipa Como, aflată la debutul său în Liga Campionilor, va putea juca meciurile de acasă pe propriul stadion, după ce a finalizat lucrările de modernizare și a îndeplinit standardele UEFA într-un timp record de 90 de zile. Această realizare evită necesitatea de a disputa partidele la o distanță de 200 de kilometri, permițând fanilor să susțină echipa pe teren propriu în cea mai prestigioasă competiție europeană. Eforturile clubului au fost lăudate pentru eficiența lor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-09-10T12:07:03.038268+00:00",
-      "data_afisaj": "10 septembrie 2026, 15:07"
-    },
-    {
-      "id": "0fce75302c18",
-      "titlu": "Declan Rice susține că poate susține peste 60 de meciuri pe sezon, în ciuda îngrijorărilor Arsenal",
-      "rezumat": "Mijlocașul lui Arsenal, Declan Rice, a declarat că este capabil să joace peste 60 de meciuri pe sezon, în ciuda îngrijorărilor clubului privind volumul său de muncă. Sezonul trecut, Rice a acumulat 69 de apariții pentru Arsenal și naționala Angliei, recunoscând că a primit injecții pentru durere în timpul Cupei Mondiale din cauza unor probleme la spate și ischiogambieri. Clubul monitorizează situația, dar jucătorul este încrezător în rezistența sa fizică și în capacitatea de a performa la cel mai înalt nivel.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-10T12:07:03.040168+00:00",
-      "data_afisaj": "10 septembrie 2026, 15:07"
     }
   ]
 }
