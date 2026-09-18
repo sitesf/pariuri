@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-18T18:58:33.897428+00:00",
-  "updated_at_afisaj": "18 septembrie 2026, 21:58",
+  "updated_at": "2026-09-18T19:21:38.435334+00:00",
+  "updated_at_afisaj": "18 septembrie 2026, 22:21",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,55 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 140,
+  "numar_stiri": 139,
   "stiri": [
+    {
+      "id": "e7eff5c9e4f3",
+      "titlu": "Kylian Mbappé Părăsește Nike După 20 de Ani Pentru Un Contract Cu Brandul Elvețian On",
+      "rezumat": "Atacantul francez Kylian Mbappé a încheiat o colaborare de două decenii cu gigantul Nike, semnând un nou contract de echipament sportiv cu compania elvețiană On. Pe lângă parteneriatul comercial, Mbappé va deveni și acționar al brandului, care intenționează să se extindă semnificativ pe piața fotbalului anul viitor. Fostul internațional francez Thierry Henry a fost, de asemenea, numit director de fotbal al companiei On, marcând o mișcare strategică importantă pe piața echipamentelor sportive.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "FourFourTwo",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-09-18T19:21:38.428408+00:00",
+      "data_afisaj": "18 septembrie 2026, 22:21"
+    },
+    {
+      "id": "19a48b2b8d4f",
+      "titlu": "UEFA și CONCACAF Solicită FIFA Să Plătească Câte 10 Milioane de Dolari Fiecărei Asociații Membre",
+      "rezumat": "UEFA și CONCACAF au emis o declarație comună prin care cer FIFA să distribuie câte 10 milioane de dolari din rezervele sale de numerar către fiecare dintre cele 211 asociații membre. Președinții Aleksander Ceferin (UEFA) și Victor Montagliani (CONCACAF) au propus ca acest plan să fie analizat de Consiliul FIFA, argumentând că schema anterioară de finanțare, \"Fifa Forward Enterprise\", era inutilă având în vedere fondurile considerabile deținute de organizație.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-18T19:21:38.430440+00:00",
+      "data_afisaj": "18 septembrie 2026, 22:21"
+    },
+    {
+      "id": "851337e71608",
+      "titlu": "UEFA A Refuzat Cererea Asociației Irlandeze de Fotbal de a Separa Irlanda și Israel la Tragerile la Sorți",
+      "rezumat": "Asociația Irlandeză de Fotbal (FAI) a anunțat că UEFA a respins solicitarea sa de a menține Republica Irlanda și Israel separate la viitoarele trageri la sorți pentru competiții. Această cerere a fost făcută în contextul unor tensiuni și preocupări legate de siguranța și logistica meciurilor dintre cele două națiuni. Decizia UEFA confirmă că cele două echipe ar putea fi extrase împreună în competițiile viitoare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-18T19:21:38.433414+00:00",
+      "data_afisaj": "18 septembrie 2026, 22:21"
+    },
+    {
+      "id": "5b8c73e8ea74",
+      "titlu": "Lamine Yamal de la Barcelona Declară că a Experimentat Rasismul de „O Mie de Ori”",
+      "rezumat": "Tânărul atacant al Barcelonei, Lamine Yamal, a declarat că a fost victima rasismului de „o mie de ori” de-a lungul vieții sale. Jucătorul a subliniat că adesea oamenii nu sunt conștienți de faptul că remarcile sau comportamentul lor sunt ofensatoare. Această declarație aduce din nou în prim-plan problema rasismului în fotbal și necesitatea unei conștientizări sporite în rândul publicului și al comunității sportive.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-18T19:21:38.435315+00:00",
+      "data_afisaj": "18 septembrie 2026, 22:21"
+    },
     {
       "id": "5b110264e243",
       "titlu": "Tuchel îi recheamă pe Alexander-Arnold și Palmer cu un avertisment",
@@ -1548,61 +1595,6 @@
       ],
       "data_publicare": "2026-09-11T19:22:03.574632+00:00",
       "data_afisaj": "11 septembrie 2026, 22:22"
-    },
-    {
-      "id": "0c2775b5ef29",
-      "titlu": "Am perturbat planurile de călătorie din pre-sezon pentru a pregăti jucătorii - Arteta",
-      "rezumat": "Mikel Arteta spune că Arsenal a fost pregătită pentru întârzierea zborului din Liga Campionilor de la mijlocul săptămânii - deoarece el a perturbat în mod deliberat planurile lor de antrenament și călătorie în pre-sezon pentru a-i pregăti.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-11T19:02:35.132858+00:00",
-      "data_afisaj": "11 septembrie 2026, 22:02"
-    },
-    {
-      "id": "e79c3b82cb57",
-      "titlu": "Hull amendat cu 30.000 de lire sterline și interdicții emise pentru scandarea despre Chelsea",
-      "rezumat": "Hull City a fost amendat cu 30.000 de lire sterline pentru scandări discriminatorii, clubul emițând trei interdicții pentru suporteri în urma înfrângerii lor în FA Cup împotriva lui Chelsea în februarie.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-11T19:02:35.134524+00:00",
-      "data_afisaj": "11 septembrie 2026, 22:02"
-    },
-    {
-      "id": "ecf5b68a832b",
-      "titlu": "Antrenorul lui Leicester, Martin, spune că criticile au devenit 'foarte personale'",
-      "rezumat": "Antrenorul lui Leicester City, Russell Martin, nu știe de ce \"supără atât de mulți oameni\" și spune că criticile au \"devenit personale\".",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-11T19:02:35.136133+00:00",
-      "data_afisaj": "11 septembrie 2026, 22:02"
-    },
-    {
-      "id": "117879fc0af1",
-      "titlu": "Aripa lui Hull, Thomas, nevătămat după accidentul de mașină",
-      "rezumat": "Land Rover-ul aripii din Premier League, Sorba Thomas, s-a răsturnat în Cottingham.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-11T19:02:35.137581+00:00",
-      "data_afisaj": "11 septembrie 2026, 22:02"
-    },
-    {
-      "id": "a27ea290dad7",
-      "titlu": "Liverpool dezvăluie monumente comemorative pentru fostul antrenor Beard",
-      "rezumat": "Liverpool a dezvăluit monumente comemorative permanente la terenul lor de antrenament și în afara stadionului Anfield în omagiu fostului antrenor al echipei feminine, Matt Beard.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-11T19:02:35.139054+00:00",
-      "data_afisaj": "11 septembrie 2026, 22:02"
     }
   ]
 }
