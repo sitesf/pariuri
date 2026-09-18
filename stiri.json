@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-18T12:43:54.010887+00:00",
-  "updated_at_afisaj": "18 septembrie 2026, 15:43",
+  "updated_at": "2026-09-18T18:58:33.897428+00:00",
+  "updated_at_afisaj": "18 septembrie 2026, 21:58",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,70 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 135,
+  "numar_stiri": 140,
   "stiri": [
+    {
+      "id": "5b110264e243",
+      "titlu": "Tuchel îi recheamă pe Alexander-Arnold și Palmer cu un avertisment",
+      "rezumat": "Antrenorul Angliei, Thomas Tuchel, îi recheamă pe Trent Alexander-Arnold și Cole Palmer, dar spune că jucătorii trebuie să „performeze”.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-18T18:58:00.220312+00:00",
+      "data_afisaj": "18 septembrie 2026, 21:58"
+    },
+    {
+      "id": "ce36ce26b31d",
+      "titlu": "Brentford vs Chelsea LIVE! & rezumate",
+      "rezumat": "(rezumat indisponibil)",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-18T18:58:00.221556+00:00",
+      "data_afisaj": "18 septembrie 2026, 21:58"
+    },
+    {
+      "id": "0360f23007df",
+      "titlu": "Va „îmbrățișa haosul” antrenorul Angliei, Tuchel?",
+      "rezumat": "După Cupa Mondială, antrenorul Angliei, Thomas Tuchel, a dorit un control mai mare. Două luni mai târziu, el este dornic să „îmbrățișeze haosul” după ce și-a numit lotul pentru viitoarele meciuri din Liga Națiunilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-09-18T18:58:00.222826+00:00",
+      "data_afisaj": "18 septembrie 2026, 21:58"
+    },
+    {
+      "id": "73c063f2e95b",
+      "titlu": "Millwall și West Ham își reînnoiesc rivalitatea după 14 ani",
+      "rezumat": "La mai mult de 14 ani de la cea mai recentă întâlnire, rivalitatea dintre Millwall și West Ham United va fi reînnoită sâmbătă la The Den.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-18T18:58:00.224067+00:00",
+      "data_afisaj": "18 septembrie 2026, 21:58"
+    },
+    {
+      "id": "46d1a5d05b4a",
+      "titlu": "Oxford își cere scuze pentru reclama la tricoul United 93",
+      "rezumat": "Oxford United își cere scuze pentru imaginea care prezintă indicativul de apel al unuia dintre avioanele folosite în atacurile din 11 septembrie.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-18T18:58:00.225275+00:00",
+      "data_afisaj": "18 septembrie 2026, 21:58"
+    },
     {
       "id": "2bd5981ed2d3",
       "titlu": "Thomas Tuchel: „99,9% dintre fani nu mă întreabă despre schimbările din meciul cu Argentina”",
