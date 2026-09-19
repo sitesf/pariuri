@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-18T19:21:38.435334+00:00",
-  "updated_at_afisaj": "18 septembrie 2026, 22:21",
+  "updated_at": "2026-09-19T11:51:38.473472+00:00",
+  "updated_at_afisaj": "19 septembrie 2026, 14:51",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 139,
+  "numar_stiri": 134,
   "stiri": [
+    {
+      "id": "96a8f1ffaaf2",
+      "titlu": "Derby-ul Black Country: Miza Mare pentru Wolves și West Brom",
+      "rezumat": "Wolves și West Bromwich Albion se pregătesc pentru prima lor confruntare în derby-ul Black Country din campionat de la meciul din mai 2021. Această rivalitate locală este profund înrădăcinată în istoria fotbalului englez și depășește simpla luptă pentru puncte. Pentru ambele echipe, o victorie în acest meci este crucială nu doar pentru clasament, ci și pentru moralul suporterilor și al jucătorilor. Se anticipează o atmosferă intensă, reflectând pasiunea și mândria regională.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-09-19T11:51:38.466066+00:00",
+      "data_afisaj": "19 septembrie 2026, 14:51"
+    },
+    {
+      "id": "5ec9068a5f16",
+      "titlu": "Harry Kane Doboară Recordul de 100 de Goluri în Bundesliga în Doar 98 de Meciuri",
+      "rezumat": "Atacantul englez Harry Kane a stabilit un nou record impresionant în Bundesliga, devenind cel mai rapid jucător care atinge borna de 100 de goluri. Această performanță remarcabilă a fost realizată în doar 98 de meciuri, depășind recordul anterior de 129 de partide, deținut de Dieter Müller din 1977. Kane a marcat o dublă în victoria categorică a lui Bayern München cu 7-0 împotriva lui Union Berlin, consolidându-și statutul de golgheter de excepție în fotbalul german.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-19T11:51:38.467954+00:00",
+      "data_afisaj": "19 septembrie 2026, 14:51"
+    },
+    {
+      "id": "2ab5f456ae04",
+      "titlu": "Kenya, Tanzania și Uganda se Grăbesc pentru Pregătirile AFCON 2027",
+      "rezumat": "Președintele Confederației Africane de Fotbal (CAF), Patrice Motsepe, a solicitat un \"sentiment sporit de urgență\" din partea co-gazdelor Cupei Africii pe Națiuni 2027, Kenya, Tanzania și Uganda. Cele trei națiuni se află într-o cursă contracronometru pentru a finaliza infrastructura și toate pregătirile necesare la timp pentru turneu. Motsepe a subliniat că amânarea evenimentului nu este o opțiune, punând o presiune considerabilă pe organizatori pentru a asigura standarde internaționale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-19T11:51:38.469693+00:00",
+      "data_afisaj": "19 septembrie 2026, 14:51"
+    },
+    {
+      "id": "a9de5cd2f1a2",
+      "titlu": "Manchester City Câștigă Dramatic în WSL Împotriva lui Liverpool cu Două Goluri în Prelungiri",
+      "rezumat": "Manchester City și-a continuat parcursul victorios în noul sezon al Women’s Super League (WSL), obținând o victorie dramatică împotriva unei echipe Liverpool în continuă ascensiune. Campioanele en-titre au avut nevoie de un autogol în minutul 90, marcat de Grace Fisk, pentru a prelua conducerea cu 3-2, după un meci antrenant în care Lauren Hemp a marcat de două ori. Ulterior, Hemp a adăugat un alt gol în prelungiri, asigurând victoria pentru City, care a demonstrat reziliență până la final.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-19T11:51:38.471576+00:00",
+      "data_afisaj": "19 septembrie 2026, 14:51"
+    },
+    {
+      "id": "34f42d748fd7",
+      "titlu": "Brighton Sărbătorește 125 de Ani de la Înființare, de la Anonimat la Competițiile Europene",
+      "rezumat": "Clubul Brighton & Hove Albion marchează 125 de ani de existență, o ocazie de a reflecta asupra parcursului său remarcabil. De la o perioadă de aproape anonimat și dificultăți financiare, echipa a reușit să se impună în Premier League și să acceadă în competițiile europene. Această aniversare subliniază reziliența și creșterea constantă a clubului, devenind un exemplu de succes în fotbalul modern. Este o poveste inspirațională despre evoluția și ambițiile unui club de fotbal.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-19T11:51:38.473449+00:00",
+      "data_afisaj": "19 septembrie 2026, 14:51"
+    },
     {
       "id": "e7eff5c9e4f3",
       "titlu": "Kylian Mbappé Părăsește Nike După 20 de Ani Pentru Un Contract Cu Brandul Elvețian On",
@@ -1485,116 +1541,6 @@
       ],
       "data_publicare": "2026-09-12T11:59:28.514940+00:00",
       "data_afisaj": "12 septembrie 2026, 14:59"
-    },
-    {
-      "id": "012cd565a507",
-      "titlu": "Transferul lui Richarlison la Vasco da Gama a eșuat",
-      "rezumat": "Atacantul lui Tottenham, Richarlison, nu va mai ajunge la Vasco da Gama, după ce mutarea propusă a eșuat. Această evoluție vine pe fondul incertitudinii continue legate de viitorul fotbalistului brazilian la clubul englez. Deși se discuta despre o posibilă plecare, negocierile nu au fost finalizate, lăsând deschisă întrebarea despre următoarea destinație sau rolul său la Tottenham. Situația sa contractuală și sportivă rămâne un subiect de interes în presa sportivă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-12T11:32:08.406134+00:00",
-      "data_afisaj": "12 septembrie 2026, 14:32"
-    },
-    {
-      "id": "fa2e49093bc8",
-      "titlu": "Derby-ul de la Manchester, marcat de tensiuni între fanii United și club",
-      "rezumat": "Derby-ul fierbinte de la Manchester se apropie, dar este umbrit de o tensiune crescândă între suporterii lui Manchester United și conducerea clubului. Fanii intenționează să protesteze înainte de meci din cauza campaniei clubului împotriva speculanților de bilete. Deși Old Trafford a fost o fortăreață pentru United în acest an, cu nouă victorii în zece meciuri de Premier League, atmosfera din afara terenului este una încărcată, reflectând nemulțumirea suporterilor față de anumite decizii administrative.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-12T11:32:08.408008+00:00",
-      "data_afisaj": "12 septembrie 2026, 14:32"
-    },
-    {
-      "id": "e59025014fb1",
-      "titlu": "Xabi Alonso îl compară pe Joao Pedro cu Benzema și Haaland",
-      "rezumat": "Antrenorul lui Chelsea, Xabi Alonso, a făcut declarații elogioase la adresa atacantului Joao Pedro, afirmând că acesta are un stil de joc similar cu cel al fostului său coleg de la Real Madrid, Karim Benzema. Mai mult, Alonso a sugerat că nivelul de performanță al lui Joao Pedro este comparabil cu cel al golgheterului lui Manchester City, Erling Haaland. Aceste comparații subliniază încrederea antrenorului în potențialul și calitățile ofensive ale jucătorului său.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-12T11:32:08.409650+00:00",
-      "data_afisaj": "12 septembrie 2026, 14:32"
-    },
-    {
-      "id": "5752fc6c0ec5",
-      "titlu": "Lamine Camara a depășit eșecul transferului la Chelsea",
-      "rezumat": "Mijlocașul lui Monaco și al naționalei Senegalului, Lamine Camara, a declarat că a trecut peste dezamăgirea cauzată de eșecul transferului său la Chelsea, o mutare evaluată la 47,1 milioane de lire sterline. Jucătorul a subliniat că s-a concentrat pe viitorul său și pe performanțele la actualul său club, Monaco, după ce negocierile cu echipa londoneză nu s-au concretizat. Declarația sa indică o atitudine profesionistă și dorința de a-și continua cariera fără a fi afectat de oportunitățile ratate.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-12T11:32:08.411257+00:00",
-      "data_afisaj": "12 septembrie 2026, 14:32"
-    },
-    {
-      "id": "d24ed99b1dfb",
-      "titlu": "Noile achiziții de la Manchester City sunt dornice de victorie, afirmă Ruben Dias",
-      "rezumat": "Noul căpitan al lui Manchester City, Ruben Dias, a declarat că jucătorii transferați în această vară sunt \"disperați să câștige\" și că întregul lot este \"receptiv la ideile\" noului antrenor, Enzo Maresca. Aceste afirmații sugerează o integrare rapidă a noilor veniți și o unitate în vestiar sub noua conducere tehnică. Dias a subliniat ambiția colectivă a echipei de a-și menține standardele înalte și de a lupta pentru trofee în noul sezon.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-12T11:32:08.413147+00:00",
-      "data_afisaj": "12 septembrie 2026, 14:32"
-    },
-    {
-      "id": "fcd5290aba94",
-      "titlu": "Bergvall signs new deal - but no news on Richarlison",
-      "rezumat": "Lucas Bergvall signs a new contract at Tottenham after telling the club he wanted to leave, but there is no update on Richarlison's future",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-11T19:22:03.569474+00:00",
-      "data_afisaj": "11 septembrie 2026, 22:22"
-    },
-    {
-      "id": "b384734d8699",
-      "titlu": "Celtic given 'timely' police reminder before derby",
-      "rezumat": "Celtic players had a visit from Police Scotland on Friday to give them \"a timely reminder\" about their \"general behaviour\" in Sunday's Premier Sport Cup quarter-final against city rivals Rangers, antrenor Martin O'Neill reveals.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-11T19:22:03.570822+00:00",
-      "data_afisaj": "11 septembrie 2026, 22:22"
-    },
-    {
-      "id": "5ecd388af1a6",
-      "titlu": "Dictator meme shows lack of human awareness - Mbappe",
-      "rezumat": "Kylian Mbappe criticises a viral meme which superimposes his face on the body of a dictator, saying it shows \"a lack of political and human awareness\".",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-11T19:22:03.572075+00:00",
-      "data_afisaj": "11 septembrie 2026, 22:22"
-    },
-    {
-      "id": "2711351b7b5e",
-      "titlu": "Moroccan official told to stop making 2030 final promise",
-      "rezumat": "Morocco's prime minister tells the head of the country's football federation to stop making promises about the 2030 World Cup final, while the head of the Spanish federation says the showpiece should be played in Spain.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-11T19:22:03.573356+00:00",
-      "data_afisaj": "11 septembrie 2026, 22:22"
-    },
-    {
-      "id": "7ae6d10b8409",
-      "titlu": "Mourinho compares Mbappe and Vini Jr to fruit trees after boos",
-      "rezumat": "Real Madrid boss Jose Mourinho says fans \"want a piece\" of star duo Kylian Mbappe and Vinicius Jr after they were booed by supporters this week.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-11T19:22:03.574632+00:00",
-      "data_afisaj": "11 septembrie 2026, 22:22"
     }
   ]
 }
