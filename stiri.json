@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-20T12:52:31.377002+00:00",
-  "updated_at_afisaj": "20 septembrie 2026, 15:52",
+  "updated_at": "2026-09-20T18:33:57.571171+00:00",
+  "updated_at_afisaj": "20 septembrie 2026, 21:33",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,55 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 139,
+  "numar_stiri": 138,
   "stiri": [
+    {
+      "id": "8c336950194e",
+      "titlu": "Liverpool Învinge Bournemouth Grație Golului lui Isak",
+      "rezumat": "Alexander Isak a marcat golul decisiv, aducând victoria lui Liverpool cu 1-0 împotriva lui Bournemouth. Meciul a marcat revenirea lui Andoni Iraola pe stadionul Vitality, unde echipa sa a fost învinsă la limită. Victoria consolidează poziția lui Liverpool în clasament și subliniază eficiența atacului său în momentele cheie. Echipa a demonstrat o bună organizare defensivă, reușind să-și mențină avantajul până la finalul partidei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-20T18:33:57.565344+00:00",
+      "data_afisaj": "20 septembrie 2026, 21:33"
+    },
+    {
+      "id": "7d37e76722e2",
+      "titlu": "Manchester United Obține un Punct la Fulham După un Gol Egalizator Târziu",
+      "rezumat": "Matheus Cunha a marcat un gol egalizator deviat în minutul 89, asigurând un punct pentru Manchester United într-o remiză 1-1 cu Fulham. Rezultatul a atenuat presiunea asupra echipei lui Michael Carrick, care se confrunta cu o criză după înfrângerea în derby-ul cu Manchester City și eliminarea din Cupa Ligii. Acest punct este crucial pentru moralul echipei înainte de pauza internațională.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-20T18:33:57.567221+00:00",
+      "data_afisaj": "20 septembrie 2026, 21:33"
+    },
+    {
+      "id": "f684b9b896a5",
+      "titlu": "Rangers Învinge Din Nou Celtic și Reduce Ecartul în Clasament",
+      "rezumat": "Rangers a obținut a doua victorie consecutivă împotriva rivalei Celtic în opt zile, grație golului marcat de Ryan Naderi. Acest succes reduce diferența dintre cele două echipe la doar două puncte în fruntea Premiership-ului scoțian, redeschizând lupta pentru titlu. Victoria în derby-ul Old Firm este un impuls major pentru Rangers și adâncește perioada dificilă a lui Celtic.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-20T18:33:57.569362+00:00",
+      "data_afisaj": "20 septembrie 2026, 21:33"
+    },
+    {
+      "id": "2d474de2054c",
+      "titlu": "Atlético Madrid Învinge Real Madrid Într-un Derby Tensionat",
+      "rezumat": "Atlético Madrid a obținut o victorie prețioasă cu 2-0 împotriva rivalei Real Madrid într-un derby tensionat. Golurile marcate de Álex Grimaldo și Jonathan David au asigurat succesul echipei lui Diego Simeone, care a profitat de faptul că Real Madrid a jucat în inferioritate numerică. Această victorie este un rezultat important pentru Atlético în lupta pentru titlu și consolidează moralul echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-20T18:33:57.571152+00:00",
+      "data_afisaj": "20 septembrie 2026, 21:33"
+    },
     {
       "id": "e5e04ed0d4be",
       "titlu": "Coventry obține primele puncte ale sezonului într-o victorie dramatică împotriva lui Forest",
@@ -1536,64 +1583,6 @@
       ],
       "data_publicare": "2026-09-13T18:37:36.860847+00:00",
       "data_afisaj": "13 septembrie 2026, 21:37"
-    },
-    {
-      "id": "49b7bdfc91ee",
-      "titlu": "Abordări Tactice Opuse: Maresca vs Carrick în Derby-ul de la Manchester",
-      "rezumat": "Enzo Maresca și Michael Carrick, antrenorii echipelor din Manchester, se vor confrunta duminică într-un derby important, prezentând abordări tactice fundamental diferite. Analiza subliniază contrastele dintre stilurile lor de joc, cu Maresca favorizând un sistem mai fix, în timp ce Carrick optează pentru o abordare mai fluidă. Această diferență strategică va fi un factor cheie în modul în care cele două echipe se vor duela pe teren, influențând dinamica meciului și potențialul rezultat al confruntării.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-13T13:07:15.809545+00:00",
-      "data_afisaj": "13 septembrie 2026, 16:07"
-    },
-    {
-      "id": "5455060b958a",
-      "titlu": "Arteta Critică Decizia de Penalty După Victoria lui Arsenal cu Sunderland",
-      "rezumat": "Antrenorul lui Arsenal, Mikel Arteta, și-a exprimat furia față de o decizie de penalty acordată împotriva echipei sale în victoria cu 2-0 împotriva lui Sunderland. Deși Arsenal a obținut o victorie importantă, Arteta a considerat că decizia arbitrului a fost inacceptabilă la acest nivel, punând în pericol rezultatul meciului. Comentariile sale subliniază tensiunea și importanța deciziilor arbitrale în meciurile din Premier League, chiar și atunci când echipa sa reușește să câștige.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-13T13:07:15.811347+00:00",
-      "data_afisaj": "13 septembrie 2026, 16:07"
-    },
-    {
-      "id": "b37a9e2367c8",
-      "titlu": "Liverpool Continuă Să Piardă Puncte pe Anfield: Motive de Îngrijorare?",
-      "rezumat": "Liverpool nu a reușit să câștige niciunul dintre primele două meciuri din Premier League disputate pe Anfield în acest sezon, acumulând noi puncte pierdute. Această serie de rezultate sub așteptări ridică semne de întrebare cu privire la forma echipei și la capacitatea de a concura pentru titlu. Deși este devreme în campionat, fanii și analiștii se întreabă dacă este prea curând pentru a se îngrijora de parcursul echipei lui Jürgen Klopp și de lipsa de eficiență pe teren propriu.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-13T13:07:15.813153+00:00",
-      "data_afisaj": "13 septembrie 2026, 16:07"
-    },
-    {
-      "id": "37e5c879be53",
-      "titlu": "Ipswich Învinge Crystal Palace cu Un Gol Târziu, După Ce Adversarii Au Rămas în 10 Jucători",
-      "rezumat": "Ipswich a obținut o victorie dramatică împotriva lui Crystal Palace, marcând golul decisiv în minutul 90 prin Zian Flemming. Meciul a fost unul tensionat, iar situația s-a complicat pentru Crystal Palace după ce un jucător a fost eliminat, lăsând echipa în 10 oameni. Această primă victorie a lui Flemming pentru Ipswich a adus trei puncte prețioase și a consolidat moralul echipei, demonstrând capacitatea de a lupta până la finalul partidei și de a profita de avantajul numeric.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-13T13:07:15.815056+00:00",
-      "data_afisaj": "13 septembrie 2026, 16:07"
-    },
-    {
-      "id": "fa98ffd33854",
-      "titlu": "Marius Baciu, Anunț Despre Demisia de la FCSB: „Nu Mi-a Căzut Bine Deloc”",
-      "rezumat": "Marius Baciu a făcut declarații privind demisia sa de la FCSB, afirmând că situația nu i-a convenit deloc. Detaliile exacte ale plecării sale nu sunt pe deplin clarificate, dar comentariile sale sugerează o anumită nemulțumire legată de contextul sau motivele care au dus la această decizie. Această știre aduce în prim plan tensiunile interne sau provocările cu care se confruntă clubul FCSB, având un impact asupra stabilității echipei și a personalului tehnic în perioada următoare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-09-13T13:07:15.816953+00:00",
-      "data_afisaj": "13 septembrie 2026, 16:07"
     }
   ]
 }
