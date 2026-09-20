@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-20T18:33:57.571171+00:00",
-  "updated_at_afisaj": "20 septembrie 2026, 21:33",
+  "updated_at": "2026-09-20T19:13:38.814282+00:00",
+  "updated_at_afisaj": "20 septembrie 2026, 22:13",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,69 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 138,
+  "numar_stiri": 133,
   "stiri": [
+    {
+      "id": "35daa9723d9a",
+      "titlu": "Martin O'Neill Contemplă Viitorul Său la Celtic După O Serie de Înfrângeri",
+      "rezumat": "Antrenorul lui Celtic, Martin O'Neill, a declarat că va folosi pauza internațională pentru a-și analiza poziția la club, după ce echipa a suferit trei înfrângeri consecutive în meciuri importante. Speculațiile privind viitorul său au crescut în urma rezultatelor slabe, iar decizia sa ar putea influența direcția clubului pentru restul sezonului. Fanii și presa așteaptă cu interes concluziile reflecției sale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-09-20T19:13:38.809495+00:00",
+      "data_afisaj": "20 septembrie 2026, 22:13"
+    },
+    {
+      "id": "5434977f4c9c",
+      "titlu": "Manchester City Învinge Sunderland Într-un Meci Spectaculos cu Opt Goluri și Se Distanțează în Clasament",
+      "rezumat": "Manchester City a obținut o victorie dramatică, scor 5-3, împotriva lui Sunderland pe Etihad Stadium, într-un meci plin de goluri. Acest rezultat permite echipei lui Pep Guardiola să se distanțeze la trei puncte în fruntea clasamentului Premier League. Victoria, deși obținută cu dificultate, consolidează poziția lui City înainte de pauza internațională, punând presiune pe urmăritoarele din campionat.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-20T19:13:38.810777+00:00",
+      "data_afisaj": "20 septembrie 2026, 22:13"
+    },
+    {
+      "id": "2a02912d70fa",
+      "titlu": "Leeds United Își Menține Seria de Invincibilitate După O Remiză cu Crystal Palace",
+      "rezumat": "Leeds United și-a continuat startul neînvins în campania Premier League, obținând o remiză albă, 0-0, pe teren propriu împotriva lui Crystal Palace. Echipa lui Daniel Farke a demonstrat o apărare solidă, reușind să obțină un punct prețios. Deși nu au reușit să marcheze, rezultatul le permite să rămână în partea superioară a clasamentului și să construiască pe baza unui început promițător de sezon.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-09-20T19:13:38.811910+00:00",
+      "data_afisaj": "20 septembrie 2026, 22:13"
+    },
+    {
+      "id": "d26738c88a8e",
+      "titlu": "Bolton Câștigă un Meci Spectaculos cu Șapte Goluri Împotriva lui Norwich în Championship",
+      "rezumat": "Bolton Wanderers a obținut o victorie palpitantă, scor 4-3, în deplasare împotriva lui Norwich City, într-un meci din Championship. Norwich a suferit a doua înfrângere consecutivă cu același scor, 4-3, pe Carrow Road. Partida a fost marcată de numeroase răsturnări de scor și a oferit un spectacol ofensiv, Bolton reușind să se impună într-un final dramatic.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-09-20T19:13:38.813066+00:00",
+      "data_afisaj": "20 septembrie 2026, 22:13"
+    },
+    {
+      "id": "db29755ab67b",
+      "titlu": "Incidente Grave la Meciul Dinamo – Farul: O Femeie Rănită de o Torță Aruncată în Tribună",
+      "rezumat": "Partida dintre Dinamo București și Farul Constanța din Superliga României a fost marcată de incidente grave. O torță aruncată din sectorul fanilor constănțeni a aterizat în tribuna dinamovistă, rănind o femeie. Evenimentul a generat tensiuni pe stadion și a atras atenția asupra problemelor de siguranță la meciurile de fotbal din România. Autoritățile investighează incidentul pentru a identifica persoanele responsabile.",
+      "categorie": "Fotbal",
+      "surse": [
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-09-20T19:13:38.814266+00:00",
+      "data_afisaj": "20 septembrie 2026, 22:13"
+    },
     {
       "id": "8c336950194e",
       "titlu": "Liverpool Învinge Bournemouth Grație Golului lui Isak",
@@ -1468,121 +1529,6 @@
       ],
       "data_publicare": "2026-09-14T13:44:53.809324+00:00",
       "data_afisaj": "14 septembrie 2026, 16:44"
-    },
-    {
-      "id": "66b2c2c1d1ca",
-      "titlu": "Haaland scores controversial winner as Man City win derby despite Foden red",
-      "rezumat": "Erling Haaland's goal helps Manchester City win a highly controversial Manchester derby at rivals Manchester United despite playing with 10 men for more than 70 minutes.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-09-13T19:09:58.999093+00:00",
-      "data_afisaj": "13 septembrie 2026, 22:09"
-    },
-    {
-      "id": "51bbab713109",
-      "titlu": "Dunk scores screamer as Brighton thrash 10-man Coventry",
-      "rezumat": "Coventry's poor start to the Premier League season continues after they're thrashed 5-0 at home to Brighton, having played most of the second half with ten men after having Taiwo Awoniyi sent off at the CBS Arena.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-13T19:09:59.000711+00:00",
-      "data_afisaj": "13 septembrie 2026, 22:09"
-    },
-    {
-      "id": "7f4b1ac8f8a6",
-      "titlu": "Ronaldo demands lifetime bans over Jota chants",
-      "rezumat": "Footage on social media appears to show Al-Hilal's Ruben Neves reacting to Al-Taawoun fans chanting Diogo Jota's name at him during their Saudi Pro League match.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-13T19:09:59.002221+00:00",
-      "data_afisaj": "13 septembrie 2026, 22:09"
-    },
-    {
-      "id": "88183ff58423",
-      "titlu": "🚨 LIVE Corvinul Hunedoara – Universitatea Craiova, în etapa 9 din Superliga. Deschidere de scor la Arad!",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-09-13T19:09:59.004238+00:00",
-      "data_afisaj": "13 septembrie 2026, 22:09"
-    },
-    {
-      "id": "cbb6328bd725",
-      "titlu": "Was Haaland's winner a VAR error? Man Utd fury at 'injustice'",
-      "rezumat": "Manchester City celebrate a remarkable derby win over Manchester United but questions remain over whether Erling Haaland's winning goal should have stood in a match fraught with controversy.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-13T19:09:59.005947+00:00",
-      "data_afisaj": "13 septembrie 2026, 22:09"
-    },
-    {
-      "id": "efa035c59d35",
-      "titlu": "Ronaldo Cere Interdicții pe Viață După Scandări cu Numele lui Jota",
-      "rezumat": "Cristiano Ronaldo a cerut interdicții pe viață pentru fanii care scandează numele jucătorilor adversi, după ce imagini apărute pe rețelele sociale îl arată pe Ruben Neves de la Al-Hilal reacționând la scandările fanilor lui Al-Taawoun cu numele lui Diogo Jota, în timpul unui meci din Liga Profesionistă Saudită. Incidentul a stârnit discuții aprinse despre comportamentul suporterilor și necesitatea unor măsuri mai stricte pentru a combate astfel de manifestări pe stadioane.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-13T18:37:36.853375+00:00",
-      "data_afisaj": "13 septembrie 2026, 21:37"
-    },
-    {
-      "id": "ae1963680c43",
-      "titlu": "Haaland Marchează Golul Decisiv Controversat în Derby-ul Manchester, După Eliminarea lui Foden",
-      "rezumat": "Erling Haaland a marcat golul victoriei pentru Manchester City într-un derby tensionat împotriva rivalilor de la Manchester United, pe Old Trafford. Meciul a fost marcat de eliminarea controversată a lui Phil Foden în prima repriză, lăsând-o pe City în zece jucători. În ciuda inferiorității numerice, echipa lui Pep Guardiola a reușit să se impună, însă golul lui Haaland a stârnit discuții aprinse din cauza circumstanțelor în care a fost obținut și a deciziilor arbitrale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-09-13T18:37:36.855378+00:00",
-      "data_afisaj": "13 septembrie 2026, 21:37"
-    },
-    {
-      "id": "78933e62222e",
-      "titlu": "Valencia Îi Demite pe Antrenorul Corberan și pe Directorul Executiv",
-      "rezumat": "Clubul spaniol Valencia a anunțat demiterea antrenorului principal Carlos Corberan și a directorului executiv de fotbal, Ron Gourlay. Decizia vine în urma unui început de sezon fără victorie, care a plasat echipa într-o poziție dificilă în clasament. Conducerea clubului speră ca aceste schimbări la nivel înalt să revitalizeze performanța echipei și să aducă rezultate pozitive în viitorul apropiat.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-13T18:37:36.857062+00:00",
-      "data_afisaj": "13 septembrie 2026, 21:37"
-    },
-    {
-      "id": "92b92f78a067",
-      "titlu": "Lamine Yamal Menține Startul Perfect al Barcelonei; Leipzig Învinge Categoric Hamburg",
-      "rezumat": "Barcelona își continuă parcursul impecabil în La Liga, obținând o victorie dificilă cu 4-2 împotriva echipei Levante, în Valencia. Tânărul talent Lamine Yamal a fost decisiv, marcând două goluri și contribuind la un avans rapid de 2-0. Într-un alt meci important din fotbalul european, RB Leipzig a înregistrat o victorie categorică, învingând-o pe Hamburg cu un scor de 5-0. Aceste rezultate subliniază forma bună a ambelor echipe în campionatele lor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-13T18:37:36.858945+00:00",
-      "data_afisaj": "13 septembrie 2026, 21:37"
-    },
-    {
-      "id": "8d5fa9fc0fc5",
-      "titlu": "Chelsea Învinge Manchester United cu 5-0 în WSL, Demonstrând Forța Ofensivă",
-      "rezumat": "Echipa feminină Chelsea a obținut o victorie convingătoare cu 5-0 împotriva lui Manchester United în Women's Super League (WSL). Performanța dominantă a londonezelor a spulberat orice îndoială privind capacitatea lor de a finaliza meciurile, în fața unei echipe United care a părut lipsită de energie și inspirație. Antrenoarea Chelsea, Sonia Bompastor, a declarat că cel mai bun mod de a respecta un adversar este să marchezi cât mai multe goluri atunci când ai ocazia.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-13T18:37:36.860847+00:00",
-      "data_afisaj": "13 septembrie 2026, 21:37"
     }
   ]
 }
