@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-19T19:06:54.461233+00:00",
-  "updated_at_afisaj": "19 septembrie 2026, 22:06",
+  "updated_at": "2026-09-20T12:06:06.502091+00:00",
+  "updated_at_afisaj": "20 septembrie 2026, 15:06",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 133,
+  "numar_stiri": 138,
   "stiri": [
+    {
+      "id": "82cdb0ae869c",
+      "titlu": "Andros Townsend, lovit de un utilaj pe teren în Thailanda",
+      "rezumat": "Fostul aripă al naționalei Angliei, Andros Townsend, a glumit că a juca împotriva lui Stoke în deplasare „nu a fost chiar atât de rău” după un incident bizar petrecut înainte de un meci în Thailanda. Townsend a fost lovit de un utilaj de nivelat terenul, dar a scăpat nevătămat. Incidentul a stârnit amuzament, jucătorul postând ulterior pe rețelele sociale despre experiența neobișnuită. Este o întâmplare rară și neașteptată pe un teren de fotbal, care a devenit rapid virală.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-20T12:06:06.496021+00:00",
+      "data_afisaj": "20 septembrie 2026, 15:06"
+    },
+    {
+      "id": "8b896f594ee3",
+      "titlu": "Pauza de trei săptămâni va crește presiunea asupra antrenorilor?",
+      "rezumat": "După ce trei antrenori și-au pierdut deja posturile în acest sezon, o pauză internațională extinsă de trei săptămâni ar putea intensifica presiunea asupra multor manageri. Această perioadă oferă timp pentru reflecție și evaluare, dar și pentru speculații privind viitorul tehnicienilor. Cluburile ar putea profita de această fereastră pentru a lua decizii importante, iar antrenorii vor fi sub o atenție sporită înaintea reluării campionatelor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-20T12:06:06.497386+00:00",
+      "data_afisaj": "20 septembrie 2026, 15:06"
+    },
+    {
+      "id": "956f8aad115c",
+      "titlu": "Mourinho și Simeone își reînnoiesc rivalitatea în derby-ul Madridului după peste un deceniu",
+      "rezumat": "Jose Mourinho și Diego Simeone se vor confrunta din nou, reînviind o rivalitate de peste un deceniu, în derby-ul capitalei spaniole dintre Real Madrid și Atletico Madrid. Meciul de duminică marchează o întâlnire așteptată între doi dintre cei mai carismatici și tactici antrenori din fotbalul mondial. Ultima lor confruntare directă a avut loc în urmă cu 12 ani, adăugând o miză suplimentară acestei partide de campionat.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-20T12:06:06.498889+00:00",
+      "data_afisaj": "20 septembrie 2026, 15:06"
+    },
+    {
+      "id": "9b73ecff1a71",
+      "titlu": "Maddy Cusack, „mai mult decât un număr pe tricou”, la a treia aniversare a decesului, în contextul întârzierii anchetei",
+      "rezumat": "A treia aniversare a decesului fotbalistei Maddy Cusack are loc în timpul unei pauze în ancheta privind moartea sa. Familia și apropiații continuă să-i onoreze memoria, subliniind impactul pe care l-a avut Maddy dincolo de terenul de fotbal. Situația subliniază importanța sănătății mintale în sport și necesitatea clarificării circumstanțelor, în timp ce comunitatea fotbalistică își amintește de o jucătoare talentată și o persoană iubită.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-20T12:06:06.500563+00:00",
+      "data_afisaj": "20 septembrie 2026, 15:06"
+    },
+    {
+      "id": "18dbf770259a",
+      "titlu": "Următoarea mutare a lui Zidane ca antrenor al Franței ar putea dezvălui geniul tactic",
+      "rezumat": "Zinedine Zidane, o figură enigmatică în fotbal, ar putea prelua banca tehnică a naționalei Franței, o mișcare ce ar putea clarifica viziunea sa managerială. Deși a câștigat trei Ligi ale Campionilor cu Real Madrid, stilul său tactic a rămas adesea neclar. Franța, o națiune cu un talent fotbalistic imens, ar oferi un cadru propice pentru ca Zidane să-și demonstreze pe deplin abilitățile de antrenor și să-și lase amprenta asupra unei echipe de top mondial.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-20T12:06:06.502071+00:00",
+      "data_afisaj": "20 septembrie 2026, 15:06"
+    },
     {
       "id": "40d60ab93c8c",
       "titlu": "Arsenal Femei Obține o Remiză Târzie Împotriva lui Manchester United",
