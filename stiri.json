@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-20T12:06:06.502091+00:00",
-  "updated_at_afisaj": "20 septembrie 2026, 15:06",
+  "updated_at": "2026-09-20T12:52:31.377002+00:00",
+  "updated_at_afisaj": "20 septembrie 2026, 15:52",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 138,
+  "numar_stiri": 139,
   "stiri": [
+    {
+      "id": "e5e04ed0d4be",
+      "titlu": "Coventry obține primele puncte ale sezonului într-o victorie dramatică împotriva lui Forest",
+      "rezumat": "Golul lui Jay Dasilva a făcut diferența, aducând lui Coventry prima victorie în Premier League de la revenirea în eșalonul superior. Echipa a reușit să-și asigure cele trei puncte într-un meci tensionat, marcând un moment important pentru club după o perioadă dificilă. Această victorie le oferă un impuls moral semnificativ și speranțe pentru continuarea sezonului, consolidând eforturile de adaptare la rigorile primei ligi.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-20T12:52:31.369107+00:00",
+      "data_afisaj": "20 septembrie 2026, 15:52"
+    },
+    {
+      "id": "0e9dc26d7c2d",
+      "titlu": "Everton își continuă seria de invincibilitate cu o victorie împotriva lui Ipswich, rămasă în 10 jucători",
+      "rezumat": "Everton, neînvinsă în acest sezon, a urcat pe locul cinci în Premier League, după ce golul lui Thierno Barry a făcut diferența împotriva lui Ipswich Town, care a jucat în inferioritate numerică. Victoria subliniază forma bună a echipei și capacitatea de a gestiona meciurile dificile, chiar și în fața unei rezistențe acerbe. Acest succes este crucial pentru ambițiile clubului de a se menține în zona superioară a clasamentului și de a-și consolida poziția.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-20T12:52:31.371202+00:00",
+      "data_afisaj": "20 septembrie 2026, 15:52"
+    },
+    {
+      "id": "15bba7c64be0",
+      "titlu": "Donnarumma: Manchester City nu este în tranziție, va fi un sezon grozav",
+      "rezumat": "Portarul Gianluigi Donnarumma a declarat că Manchester City nu se află într-o perioadă de tranziție, ci este pregătită pentru un sezon de succes. Afirmația sa vine în contextul speculațiilor privind evoluția echipei după schimbările recente. Donnarumma a subliniat încrederea în forța colectivă și în obiectivele clubului, transmițând un mesaj de optimism fanilor și analiștilor sportivi, care anticipează o luptă acerbă pentru trofee.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-09-20T12:52:31.373055+00:00",
+      "data_afisaj": "20 septembrie 2026, 15:52"
+    },
+    {
+      "id": "b4902b56079d",
+      "titlu": "Viitorul lui Hayen la Burnley sub semnul întrebării, pe fondul problemelor financiare și al rezultatelor slabe",
+      "rezumat": "Egalul obținut de Derby în prelungiri a lăsat-o pe Burnley fără victorie acasă din octombrie anul trecut, iar problemele financiare ale clubului se agravează. Antrenorul Nicky Hayen se confruntă cu o presiune crescută, în timp ce fanii își exprimă îngrijorarea existențială cu privire la viitorul echipei. Revenirea în Premier League pare o perspectivă îndepărtată, iar situația necesită soluții urgente pentru a redresa parcursul clubului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-20T12:52:31.375143+00:00",
+      "data_afisaj": "20 septembrie 2026, 15:52"
+    },
+    {
+      "id": "4e121998b073",
+      "titlu": "Planul Japoniei de a câștiga Cupa Mondială se bazează pe Premier League",
+      "rezumat": "Strategia Japoniei de a cuceri Cupa Mondială este în plină desfășurare și depinde în mare măsură de influența Premier League. Influxul de talente japoneze în Europa, în special în campionatul englez, este considerat primul pas într-o revoluție a transferurilor. Această abordare vizează dezvoltarea jucătorilor la cel mai înalt nivel, pentru a construi o echipă națională competitivă capabilă să atingă performanțe istorice la turneul mondial și să-și îndeplinească ambițiile.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-09-20T12:52:31.376979+00:00",
+      "data_afisaj": "20 septembrie 2026, 15:52"
+    },
     {
       "id": "82cdb0ae869c",
       "titlu": "Andros Townsend, lovit de un utilaj pe teren în Thailanda",
@@ -1539,53 +1594,6 @@
       ],
       "data_publicare": "2026-09-13T13:07:15.816953+00:00",
       "data_afisaj": "13 septembrie 2026, 16:07"
-    },
-    {
-      "id": "4554eb862406",
-      "titlu": "Tottenham continuă să aștepte primul gol în campionat după egalul cu Everton",
-      "rezumat": "Echipa lui Tottenham Hotspur nu a reușit să marcheze și să obțină prima victorie în Premier League în acest sezon, după ce formația lui Roberto de Zerbi a fost ținută la egalitate, scor 0-0, pe teren propriu de Everton. Meciul s-a încheiat fără goluri, prelungind perioada de așteptare a lui Spurs pentru un succes în campionat. Rezultatul subliniază dificultățile ofensive ale echipei în debutul stagiunii.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-13T12:36:46.004798+00:00",
-      "data_afisaj": "13 septembrie 2026, 15:36"
-    },
-    {
-      "id": "344392d74c99",
-      "titlu": "Cum să urmărești derby-ul Manchester United vs Manchester City",
-      "rezumat": "Manchester United va găzdui rivala Manchester City într-un derby crucial din Premier League, programat pe 13 septembrie. Meciul va fi transmis în direct pe Sky Sports, oferind fanilor ocazia de a urmări confruntarea dintre cele două mari echipe din Manchester. Această partidă este considerată una dintre cele mai importante ale sezonului, cu implicații semnificative în lupta pentru titlu și clasament.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-09-13T12:36:46.006310+00:00",
-      "data_afisaj": "13 septembrie 2026, 15:36"
-    },
-    {
-      "id": "015ecf286254",
-      "titlu": "Rangers învinge Celtic într-un thriller din sferturile Cupei Ligii Scoției",
-      "rezumat": "Rangers a obținut o victorie dramatică împotriva rivalei Celtic în sferturile de final ale Cupei Ligii Scoției, într-un meci disputat pe Ibrox. Miovski a marcat golul victoriei pentru Rangers în minutele de final, în timp ce Celtic a avut o prestație ezitantă, ratând ocazii importante. Această victorie permite Rangers să avanseze în competiție, punând capăt unei serii de rezultate pozitive pentru Celtic.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-13T12:36:46.007921+00:00",
-      "data_afisaj": "13 septembrie 2026, 15:36"
-    },
-    {
-      "id": "331a537599bc",
-      "titlu": "Nottingham Forest obține o victorie târzie împotriva lui Aston Villa, care continuă startul slab",
-      "rezumat": "Igor Jesus a marcat golul victoriei în minutul 88, aducând prima victorie pentru Nottingham Forest pe terenul lui Aston Villa în ultimii 32 de ani. Aceasta este și prima victorie a antrenorului Oliver Glasner la conducerea lui Forest de la preluarea echipei în vară. Pentru Aston Villa, înfrângerea agravează un început de sezon dificil, echipa continuând să se confrunte cu probleme de formă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-13T12:36:46.010933+00:00",
-      "data_afisaj": "13 septembrie 2026, 15:36"
     }
   ]
 }
