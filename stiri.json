@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-21T13:44:28.527380+00:00",
-  "updated_at_afisaj": "21 septembrie 2026, 16:44",
+  "updated_at": "2026-09-21T14:51:36.845111+00:00",
+  "updated_at_afisaj": "21 septembrie 2026, 17:51",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,52 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 138,
+  "numar_stiri": 132,
   "stiri": [
+    {
+      "id": "8314386cf02d",
+      "titlu": "Antrenorul lui Southampton, Tonda Eckert, Așteaptă Verdictul în Cazul „Spygate”",
+      "rezumat": "Antrenorul echipei Southampton, Tonda Eckert, se pregătește pentru audierea FA privind acuzația de comportament necorespunzător în cazul „Spygate”. Eckert a declarat că a cerut iertare, iar clubul, prin directorul executiv Phil Parsons, așteaptă cu nerăbdare decizia forului. Acest caz a stârnit discuții intense în lumea fotbalului englez, iar rezultatul audierii va avea implicații semnificative pentru antrenor și pentru clubul din Premier League, influențând imaginea și stabilitatea echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-21T14:51:36.839764+00:00",
+      "data_afisaj": "21 septembrie 2026, 17:51"
+    },
+    {
+      "id": "316489b2cd86",
+      "titlu": "Fostul Extrema lui Birmingham, Jordan Graham, Internat în Spital După un Accident Grav",
+      "rezumat": "Jordan Graham, fostul extrema al echipei Birmingham, a fost internat în spital după ce a fost implicat într-un „accident rutier grav”. Detaliile complete ale incidentului nu au fost încă făcute publice, dar starea sa de sănătate este monitorizată. Comunitatea fotbalistică și fanii își exprimă îngrijorarea și îi transmit mesaje de susținere jucătorului, sperând într-o recuperare rapidă după acest eveniment nefericit. Accidentul a șocat lumea sportului, iar recuperarea sa este prioritatea principală.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-21T14:51:36.841687+00:00",
+      "data_afisaj": "21 septembrie 2026, 17:51"
+    },
+    {
+      "id": "723ef5759661",
+      "titlu": "Analiza Pieței de Transferuri din Premier League: Cum S-au Descurcat Cluburile",
+      "rezumat": "O analiză detaliată a pieței de transferuri din Premier League a fost publicată, evaluând performanța fiecărui club în perioada de vară. Raportul examinează achizițiile și plecările, inclusiv recordul britanic de transferuri egalat și clubul care a semnat nu mai puțin de 18 jucători. Se discută despre modul în care fiecare echipă și-a consolidat lotul și dacă strategiile adoptate vor influența rezultatele în sezonul curent, oferind o perspectivă asupra echilibrului de forțe din campionat.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-21T14:51:36.843489+00:00",
+      "data_afisaj": "21 septembrie 2026, 17:51"
+    },
+    {
+      "id": "4a350fb9044e",
+      "titlu": "Lewis Hall Își Prelungește Contractul cu Newcastle United",
+      "rezumat": "Fundașul englez Lewis Hall și-a exprimat entuziasmul după ce și-a prelungit contractul cu Newcastle United, declarând că „întotdeauna a știut că vrea să joace aici”. Jucătorul, care a reprezentat și naționala Angliei, este încântat să continue la Magpies. Această decizie consolidează planurile pe termen lung ale clubului și confirmă angajamentul jucătorului față de echipa din Premier League, unde speră să aibă un rol important în sezoanele următoare, contribuind la obiectivele ambițioase ale clubului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-09-21T14:51:36.845091+00:00",
+      "data_afisaj": "21 septembrie 2026, 17:51"
+    },
     {
       "id": "ae07cd8a9a6f",
       "titlu": "Cinco Jucători Cheie Se Retrag din Lotul Angliei pentru Liga Națiunilor",
@@ -1473,119 +1517,6 @@
       ],
       "data_publicare": "2026-09-14T20:12:12.766127+00:00",
       "data_afisaj": "14 septembrie 2026, 23:12"
-    },
-    {
-      "id": "71c4fcdfbe6b",
-      "titlu": "Aberdeen Riscă Sancțiuni Disciplinare După Comportamentul Fanilor",
-      "rezumat": "Clubul scoțian Aberdeen ar putea fi sancționat disciplinar în urma incidentelor în care suporterii au invadat terenul de joc. Evenimentul a avut loc după victoria echipei în meciul de cupă împotriva formației Kilmarnock. Federația de fotbal analizează situația pentru a decide măsurile ce vor fi luate, subliniind importanța menținerii ordinii și siguranței pe stadioane. Acest tip de comportament al fanilor este adesea pedepsit cu amenzi sau chiar cu închiderea parțială a stadionului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-14T14:44:28.369617+00:00",
-      "data_afisaj": "14 septembrie 2026, 17:44"
-    },
-    {
-      "id": "0179b9f3584d",
-      "titlu": "Revoltă la Lazio: Fanii Boicotează Meciurile Acasă în Ciuda Succesului Echipei",
-      "rezumat": "În ciuda unui început de sezon impresionant sub conducerea antrenorului Gennaro Gattuso, suporterii echipei Lazio Roma boicotează meciurile de pe Stadio Olimpico. Această acțiune reprezintă o formă de protest împotriva proprietarului clubului, Claudio Lotito. Fanii își exprimă nemulțumirea față de modul în care este condus clubul, chiar dacă echipa se află în fruntea clasamentului. Boicotul subliniază tensiunile persistente dintre conducere și baza de suporteri, o situație rară în fotbalul modern.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-14T14:44:28.371080+00:00",
-      "data_afisaj": "14 septembrie 2026, 17:44"
-    },
-    {
-      "id": "a06dd8668893",
-      "titlu": "PSG Obține Prima Victorie în Ligue 1, Dar Prestația Rămâne Sub Așteptări",
-      "rezumat": "Paris Saint-Germain a înregistrat în sfârșit prima sa victorie în Ligue 1, însă performanța echipei a fost departe de a fi convingătoare. Deși Ferran Torres a avut o evoluție remarcabilă pentru noul său club, majoritatea coechipierilor săi nu au reușit să impresioneze. Rezultatul, deși pozitiv, ridică semne de întrebare cu privire la forma și coeziunea echipei, sugerând că mai este mult de lucru pentru a atinge nivelul așteptat de la un club cu asemenea ambiții și investiții.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-14T14:44:28.372523+00:00",
-      "data_afisaj": "14 septembrie 2026, 17:44"
-    },
-    {
-      "id": "ac892b8c3377",
-      "titlu": "Coreea de Sud Analizează Mutarea Sezonului de Fotbal în Iarnă Din Cauza Verilor Insuporabile",
-      "rezumat": "Liga de fotbal din Coreea de Sud, K-League, ia în considerare o schimbare majoră a calendarului competițional, propunând mutarea sezonului în lunile de iarnă. Această decizie vine ca urmare a verilor din ce în ce mai fierbinți, care afectează atât performanța jucătorilor, cât și sănătatea fanilor. Un sondaj recent a arătat că peste 70% dintre antrenorii din ligă susțin această modificare, aliniindu-se astfel cu modelul european și încercând să evite condițiile meteorologice extreme.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-14T14:44:28.374007+00:00",
-      "data_afisaj": "14 septembrie 2026, 17:44"
-    },
-    {
-      "id": "9aeeee0a373b",
-      "titlu": "Richarlison de la Tottenham Primește o Șansă de Revenire Prin Regulamentul Competiției",
-      "rezumat": "Atacantul brazilian Richarlison, care a fost exclus din lotul de 25 de jucători al lui Tottenham Hotspur pentru Premier League, ar putea beneficia de o șansă neașteptată de a reveni în echipă. Regulamentul competiției îi oferă o portiță pentru a fi inclus în lotul pentru alte competiții, cum ar fi Cupa Ligii sau cupele europene, dacă echipa participă. Această situație îi oferă jucătorului o oportunitate de a-și demonstra valoarea și de a-și relansa cariera la clubul londonez.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-09-14T14:44:28.375397+00:00",
-      "data_afisaj": "14 septembrie 2026, 17:44"
-    },
-    {
-      "id": "1f2f835b5a4d",
-      "titlu": "Decesul fostului portar al lui West Ham, Ludek Miklosko, la 64 de ani",
-      "rezumat": "Fostul portar al echipei West Ham United, Ludek Miklosko, a încetat din viață la vârsta de 64 de ani. Miklosko a fost o figură emblematică pentru clubul londonez în anii '90, acumulând aproape 400 de apariții în poarta \"Ciocănarilor\". Fanii l-au apreciat enorm pentru devotamentul și performanțele sale, continuând să-i scandeze numele mult timp după plecarea sa de la echipă. Vestea dispariției sale a adus un val de tristețe în comunitatea fotbalistică, în special printre suporterii lui West Ham, care își amintesc cu drag de contribuția sa la istoria clubului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-14T13:44:53.801266+00:00",
-      "data_afisaj": "14 septembrie 2026, 16:44"
-    },
-    {
-      "id": "2510b22169b9",
-      "titlu": "Arsenal va contacta organismul de arbitraj Pro Ref în legătură cu penalty-ul lui Konsa",
-      "rezumat": "Clubul Arsenal a anunțat că va lua legătura cu Pro Ref, organismul responsabil cu arbitrajul, în urma incidentului care a dus la acordarea unui penalty împotriva lui Ezri Konsa în victoria de sâmbătă împotriva lui Sunderland. Decizia arbitrului a stârnit controverse și a fost analizată intens, iar oficialii lui Arsenal doresc clarificări și o evaluare a modului în care a fost gestionată situația. Această acțiune subliniază preocuparea clubului față de deciziile de arbitraj și impactul acestora asupra rezultatelor și desfășurării meciurilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-14T13:44:53.803205+00:00",
-      "data_afisaj": "14 septembrie 2026, 16:44"
-    },
-    {
-      "id": "b4fb82d82e80",
-      "titlu": "Organismul de arbitraj admite o eroare de judecată la golul decisiv al lui Haaland în derby-ul Manchester",
-      "rezumat": "Organismul de arbitraj al Premier League, Pro Ref, a recunoscut o eroare de judecată în decizia de a valida golul marcat de Erling Haaland, care a adus victoria echipei Manchester City în derby-ul cu Manchester United. Această admitere vine în urma controverselor intense legate de faza golului, unde s-a speculat că ar fi existat o poziție de ofsaid sau o interferență cu jocul. Recunoașterea oficială a erorii de către Pro Ref subliniază dificultățile cu care se confruntă arbitrii și sistemul VAR, dar și importanța transparenței în astfel de situații.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-14T13:44:53.805388+00:00",
-      "data_afisaj": "14 septembrie 2026, 16:44"
-    },
-    {
-      "id": "18b815a1ebe2",
-      "titlu": "Rezultate din fotbalul european: Kane ajută Bayern să învingă Elversberg, Sassuolo surprinde Juventus",
-      "rezumat": "În fotbalul european, Harry Kane a marcat primul său gol în Bundesliga în acest sezon, contribuind la victoria cu 2-1 a lui Bayern München în fața nou-promovatei Elversberg. Între timp, în Serie A, Sassuolo a produs o surpriză majoră, învingând Juventus cu 3-2 într-un meci intens. Aceste rezultate marchează evoluții importante în campionatele europene, cu Bayern obținând o victorie muncită și Sassuolo demonstrând că poate rivaliza cu echipele de top din Italia.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-14T13:44:53.807401+00:00",
-      "data_afisaj": "14 septembrie 2026, 16:44"
-    },
-    {
-      "id": "a508dc235b0c",
-      "titlu": "Eugen Polanski, prima demitere managerială a sezonului în Bundesliga, la Borussia Mönchengladbach",
-      "rezumat": "Eugen Polanski a devenit primul antrenor demis în Bundesliga în acest sezon, după ce Borussia Mönchengladbach a înregistrat un nou eșec. Plecarea sa survine după doar trei etape, pe fondul unui început de campionat dezamăgitor pentru club. Această decizie reflectă presiunea constantă din fotbalul de top și dorința cluburilor de a schimba rapid direcția atunci când rezultatele nu sunt pe măsura așteptărilor. Situația de la Gladbach subliniază dificultățile cu care se confruntă echipele care se luptă să evite retrogradarea.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-14T13:44:53.809324+00:00",
-      "data_afisaj": "14 septembrie 2026, 16:44"
     }
   ]
 }
