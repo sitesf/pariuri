@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-20T19:13:38.814282+00:00",
-  "updated_at_afisaj": "20 septembrie 2026, 22:13",
+  "updated_at": "2026-09-21T13:44:28.527380+00:00",
+  "updated_at_afisaj": "21 septembrie 2026, 16:44",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,65 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 133,
+  "numar_stiri": 138,
   "stiri": [
+    {
+      "id": "ae07cd8a9a6f",
+      "titlu": "Cinco Jucători Cheie Se Retrag din Lotul Angliei pentru Liga Națiunilor",
+      "rezumat": "Lotul național al Angliei a suferit cinci retrageri semnificative înaintea meciurilor din Liga Națiunilor. Printre jucătorii care nu vor participa se numără Tino Livramento, Kobbie Mainoo, Cole Palmer, Marcus Rashford și Declan Rice. Această serie de absențe reprezintă o provocare pentru selecționerul Angliei, Gareth Southgate, care va trebui să găsească soluții pentru a acoperi golurile lăsate libere de acești fotbaliști importanți în partidele viitoare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-21T13:44:28.519441+00:00",
+      "data_afisaj": "21 septembrie 2026, 16:44"
+    },
+    {
+      "id": "2ccf75d216b3",
+      "titlu": "Granit Xhaka Recunoaște Utilizarea unui Certificat Fals de Vaccinare Anti-COVID-19 în 2022",
+      "rezumat": "Căpitanul Elveției și al echipei Sunderland, Granit Xhaka, a fost retras din lotul național după ce a recunoscut că a folosit un certificat fals de vaccinare anti-COVID-19 în anul 2022. La momentul respectiv, Xhaka era jucător la Arsenal. Fotbalistul și-a cerut scuze pentru \"greșeala\" comisă și nu va participa la cele patru meciuri viitoare ale Elveției din Liga Națiunilor. El urmează să fie interogat de biroul procurorului din Lucerna.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-21T13:44:28.521490+00:00",
+      "data_afisaj": "21 septembrie 2026, 16:44"
+    },
+    {
+      "id": "d4f612dea238",
+      "titlu": "Inter Milano Obține o Remiză cu Roma, Lautaro Martínez Egalând Scorul în Serie A",
+      "rezumat": "Inter Milano, campioana en-titre, a reușit să obțină o remiză de 2-2 împotriva rivalei la titlu, AS Roma, într-un meci tensionat din Serie A. Lautaro Martínez a fost eroul Interului, marcând ambele goluri și extinzându-și recordul de invincibilitate împotriva echipelor antrenate de Gian Piero Gasperini. Roma a condus cu două goluri, dar nu a reușit să-și mențină avantajul, permițând Interului să revină și să salveze un punct prețios pe Stadio Olimpico.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-21T13:44:28.523464+00:00",
+      "data_afisaj": "21 septembrie 2026, 16:44"
+    },
+    {
+      "id": "eed731939768",
+      "titlu": "Borussia Dortmund Revine în Fruntea Clasamentului Bundesliga, Menținând un Start Perfect de Sezon",
+      "rezumat": "Borussia Dortmund a urcat din nou pe primul loc în Bundesliga, după ce a menținut un start perfect de sezon, învingând Stuttgart. Echipa lui Niko Kovac a câștigat toate meciurile de până acum, demonstrând o formă excelentă. Deși este prea devreme pentru a-i numi candidați la titlu, începutul puternic al BVB sugerează un sezon promițător, readucând în discuție amintirile performanțelor din sezoanele anterioare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-21T13:44:28.525471+00:00",
+      "data_afisaj": "21 septembrie 2026, 16:44"
+    },
+    {
+      "id": "3319689b91fb",
+      "titlu": "Liga Campionilor la Fotbal Feminin Își Desfășoară Meciurile de Debut Săptămâna Aceasta",
+      "rezumat": "Competiția UEFA Women's Champions League (UWCL) debutează în această săptămână, aducând în prim-plan cele mai bune echipe de fotbal feminin din Europa. Fanii sunt pregătiți să urmărească acțiunea, cu echipe precum Manchester City, Arsenal și Chelsea printre cele care vor intra în luptă pentru trofeul râvnit. Turneul promite meciuri spectaculoase și o luptă intensă pentru supremația continentală în fotbalul feminin, marcând un moment important în calendarul sportiv.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-09-21T13:44:28.527360+00:00",
+      "data_afisaj": "21 septembrie 2026, 16:44"
+    },
     {
       "id": "35daa9723d9a",
       "titlu": "Martin O'Neill Contemplă Viitorul Său la Celtic După O Serie de Înfrângeri",
