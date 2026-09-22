@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-21T20:44:28.409185+00:00",
-  "updated_at_afisaj": "21 septembrie 2026, 23:44",
+  "updated_at": "2026-09-22T12:27:16.567208+00:00",
+  "updated_at_afisaj": "22 septembrie 2026, 15:27",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 132,
+  "numar_stiri": 137,
   "stiri": [
+    {
+      "id": "0e2d81b6d465",
+      "titlu": "Arteta agrees new deal with champions Arsenal",
+      "rezumat": "Mikel Arteta agrees an improved new contract with Premier League champions Arsenal.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-22T12:26:48.872331+00:00",
+      "data_afisaj": "22 septembrie 2026, 15:26"
+    },
+    {
+      "id": "2ac3e0c7a39c",
+      "titlu": "'In another galaxy' - La Liga chief dismisses Real's ref conspiracy claims",
+      "rezumat": "La Liga president Javier Tebas says claiming there is a refereeing conspiracy against Real Madrid is like \"living in another galaxy\".",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-22T12:26:48.874132+00:00",
+      "data_afisaj": "22 septembrie 2026, 15:26"
+    },
+    {
+      "id": "844e7f4ab45e",
+      "titlu": "'Alarming' - does WSL have a homegrown problem?",
+      "rezumat": "The London City Lionesses raised eyebrows with no English players in their starting line-up against Manchester United, but is there a wider trend?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-22T12:26:48.875707+00:00",
+      "data_afisaj": "22 septembrie 2026, 15:26"
+    },
+    {
+      "id": "62bb1bb49d2c",
+      "titlu": "Israel FA accuses Hallgrimsson of 'ignorance, hypocrisy and stupidity'",
+      "rezumat": "The Israel FA accuse Republic of Ireland antrenor Heimir Hallgrimsson of \"ignorance, hypocrisy and stupidity\" in comments made last week.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-22T12:26:48.877338+00:00",
+      "data_afisaj": "22 septembrie 2026, 15:26"
+    },
+    {
+      "id": "70f5754d90f0",
+      "titlu": "Chelsea struggles to Villa bench - Garnacho faces defining season",
+      "rezumat": "Alejandro Garnacho joined Aston Villa on loan from Chelsea with a view to kick-starting his career, but his early weeks in the Midlands have been a struggle.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-22T12:26:48.878960+00:00",
+      "data_afisaj": "22 septembrie 2026, 15:26"
+    },
     {
       "id": "7d897b8c1cab",
       "titlu": "Infantino spune că Fifa se poate schimba, propunând o revizuire externă",
