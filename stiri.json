@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-22T13:07:10.390927+00:00",
-  "updated_at_afisaj": "22 septembrie 2026, 16:07",
+  "updated_at": "2026-09-22T19:37:44.912521+00:00",
+  "updated_at_afisaj": "22 septembrie 2026, 22:37",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 137,
+  "numar_stiri": 135,
   "stiri": [
+    {
+      "id": "19d641721e85",
+      "titlu": "Kylian Mbappé Dezvăluie Că A Fost Aproape De Liverpool În 2016",
+      "rezumat": "Atacantul francez Kylian Mbappé a declarat recent că a fost la un pas de a se alătura echipei Liverpool în anul 2016. Potrivit jucătorului, mama sa era o \"mare fană\" a antrenorului Jürgen Klopp și își dorea ca fiul ei să se mute pe Merseyside. Această dezvăluire oferă o perspectivă interesantă asupra carierei timpurii a lui Mbappé și a deciziilor care i-au modelat parcursul, înainte de a deveni unul dintre cei mai căutați fotbaliști din lume.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-22T19:37:44.905658+00:00",
+      "data_afisaj": "22 septembrie 2026, 22:37"
+    },
+    {
+      "id": "f42bbea5c1fc",
+      "titlu": "Real Madrid Solicită Demiterea Președintelui La Liga, Javier Tebas",
+      "rezumat": "Clubul Real Madrid a cerut demiterea președintelui La Liga, Javier Tebas, în urma unor comentarii pe care le-a considerat \"intolerabile\". Tebas acuzase anterior clubul de \"conspirație permanentă\" privind arbitrajul, după ce Real Madrid a criticat vehement arbitrajul în urma înfrângerii cu Atlético Madrid. Această solicitare marchează o escaladare majoră a tensiunilor dintre gigantul spaniol și conducerea ligii, subliniind un conflict deschis privind integritatea competiției.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-22T19:37:44.907383+00:00",
+      "data_afisaj": "22 septembrie 2026, 22:37"
+    },
+    {
+      "id": "01be9f1db35f",
+      "titlu": "Celtic Anunță Pierderi de 4,8 Milioane de Lire Sterline",
+      "rezumat": "Clubul scoțian Celtic a raportat o pierdere după impozitare de 4,8 milioane de lire sterline pentru anul fiscal încheiat la 30 iunie. Această cifră contrastează puternic cu profitul de 33,9 milioane de lire sterline înregistrat în cele 12 luni anterioare. Scăderea veniturilor cu 22,7% indică o perioadă financiară dificilă pentru club, evidențiind provocările economice cu care se confruntă chiar și echipele de top din Europa.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-22T19:37:44.909054+00:00",
+      "data_afisaj": "22 septembrie 2026, 22:37"
+    },
+    {
+      "id": "93d2b9fabb7e",
+      "titlu": "Senatul Mexican Propune Reintroducerea Sistemului de Promovare și Retrogradare în Fotbal",
+      "rezumat": "Dezbaterea privind absența promovării și retrogradării în fotbalul mexican a ajuns în Senatul țării, unde a fost propusă o reformă legislativă pentru a restabili acest sistem. Ligile mexicane au suspendat promovarea și retrogradarea în 2020 din cauza pandemiei de COVID-19, iar promisiunea de a o reintroduce în 2025 nu s-a materializat. Această inițiativă legislativă ar putea schimba fundamental structura și dinamica competițiilor interne din Mexia.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-22T19:37:44.910774+00:00",
+      "data_afisaj": "22 septembrie 2026, 22:37"
+    },
+    {
+      "id": "3772d5e8fada",
+      "titlu": "Scoția Își Prezintă Noul Antrenor Principal, Sebastien Pocognoli",
+      "rezumat": "Sebastien Pocognoli a fost numit noul antrenor principal al naționalei Scoției, declarând pentru Sky Sports că a venit timpul pentru o schimbare. El a exprimat încrederea că a alcătuit o echipă cu un \"mix bun\" pentru primul său meci din Liga Națiunilor. Numirea sa marchează un nou capitol pentru echipa scoțiană, cu așteptări mari de la noul tehnician pentru a aduce rezultate pozitive și o nouă direcție strategică.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-09-22T19:37:44.912501+00:00",
+      "data_afisaj": "22 septembrie 2026, 22:37"
+    },
     {
       "id": "11980fb817ce",
       "titlu": "Infantino says he is open to talks over Fifa reform",
@@ -1492,89 +1547,6 @@
       ],
       "data_publicare": "2026-09-15T19:56:45.704599+00:00",
       "data_afisaj": "15 septembrie 2026, 22:56"
-    },
-    {
-      "id": "4c88064c0550",
-      "titlu": "Raheem Sterling Pledează Vinovat pentru Conducere Periculoasă",
-      "rezumat": "Fostul internațional englez Raheem Sterling a pledat vinovat pentru conducere periculoasă, după ce a fost implicat într-un accident pe autostradă în luna mai, când a intrat cu un Lamborghini în bariere. De asemenea, el a recunoscut că nu a furnizat o probă și că a condus sub influența protoxidului de azot timp de peste o oră pe autostrăzi aglomerate. Sterling ar putea risca o pedeapsă cu închisoarea în urma acestor acuzații, conform informațiilor din instanță.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-15T19:34:51.007450+00:00",
-      "data_afisaj": "15 septembrie 2026, 22:34"
-    },
-    {
-      "id": "7fdb99560388",
-      "titlu": "Legenda Celtic și a Scoției, Danny McGrain, Diagnosticat cu Boala Alzheimer",
-      "rezumat": "Danny McGrain, descris de clubul Celtic ca fiind \"cel mai mare fundaș lateral din istoria Scoției\", a fost diagnosticat cu boala Alzheimer. Familia sa a confirmat vestea, aducând în atenția publicului starea de sănătate a fostului mare fotbalist. McGrain este o figură emblematică pentru fotbalul scoțian, având o carieră impresionantă atât la Celtic, cât și la echipa națională, iar anunțul a stârnit un val de susținere din partea comunității sportive.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-09-15T19:34:51.009226+00:00",
-      "data_afisaj": "15 septembrie 2026, 22:34"
-    },
-    {
-      "id": "a204d611a2de",
-      "titlu": "Tânărul Talent JJ Gabriel, în Vârstă de 15 Ani, Cere Să Plece de la Manchester United",
-      "rezumat": "Manchester United a fost surprinsă de cererea tânărului talentat JJ Gabriel, în vârstă de 15 ani, de a părăsi clubul. Atacantul, considerat o mare speranță, ar fi trebuit să fie inclus în lotul primei echipe pentru meciul din Carabao Cup împotriva lui Brighton. Se pare că Gabriel a solicitat anularea înregistrării sale la club, o decizie care a generat confuzie și șoc în rândul oficialilor de pe Old Trafford, care îl vedeau ca pe un viitor star.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-09-15T19:34:51.011111+00:00",
-      "data_afisaj": "15 septembrie 2026, 22:34"
-    },
-    {
-      "id": "cfb09005490a",
-      "titlu": "Craig Bellamy Refuză Postul de Antrenor la Burnley pentru a Rămâne la Naționala Țării Galilor",
-      "rezumat": "Craig Bellamy a confirmat că a declinat oferta de a prelua banca tehnică a clubului Burnley în această vară, preferând să-și continue angajamentul cu echipa națională a Țării Galilor. Fostul internațional galez a declarat că se simte \"confortabil\" cu decizia sa de a rămâne în fotbalul internațional, reiterând dorința de a contribui la dezvoltarea selecționatei. Bellamy se pregătește acum să conducă Țara Galilor în campania Ligii Națiunilor, cu un meci important împotriva Portugaliei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-15T13:10:28.670191+00:00",
-      "data_afisaj": "15 septembrie 2026, 16:10"
-    },
-    {
-      "id": "090ca26f2c51",
-      "titlu": "Inter Milano Revine Spectaculos și Se Alătură Romei în Fruntea Clasamentului din Serie A",
-      "rezumat": "Inter Milano a reușit o revenire impresionantă, învingând Udinese cu scorul de 5-3, după ce fusese condusă cu două goluri. Această victorie menține startul perfect al echipei în Serie A, alături de AS Roma, care a învins Torino cu 2-0. Ambele formații acumulează 12 puncte din patru meciuri și împart prima poziție în clasament, pregătind un duel direct crucial în etapa următoare. Como se află pe locul trei, cu 10 puncte, după victoria împotriva Parmei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-15T13:10:28.671279+00:00",
-      "data_afisaj": "15 septembrie 2026, 16:10"
-    },
-    {
-      "id": "22ffcd6cbc5e",
-      "titlu": "Richarlison de la Tottenham Își Exprimă Public Nemulțumirea După Ce a Fost Lăsat în Afara Lotului",
-      "rezumat": "Atacantul lui Tottenham, Richarlison, și-a manifestat public nemulțumirea pe rețelele sociale, postând un emoji plângând, după decizia antrenorului Roberto de Zerbi de a-l exclude din lotul pentru meciul din Carabao Cup împotriva lui Liverpool. Această reacție vine în contextul dificultăților ofensive ale echipei, care nu a reușit să marcheze în primele patru meciuri din Premier League. Situația subliniază tensiunile din cadrul lotului londonez și presiunea asupra performanței ofensive.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-15T13:10:28.672353+00:00",
-      "data_afisaj": "15 septembrie 2026, 16:10"
-    },
-    {
-      "id": "dd291f8a902f",
-      "titlu": "Atacantul lui Newcastle United Va Lipsi o Perioadă Îndelungată din Cauza unei Accidentări",
-      "rezumat": "Echipa Newcastle United se confruntă cu o veste proastă, după ce un atacant important al clubului va fi indisponibil pentru o perioadă extinsă din cauza unei accidentări. Severitatea leziunii a fost confirmată, reprezentând o lovitură semnificativă pentru planurile antrenorului, mai ales după înfrângerea suferită recent în fața lui Leeds United. Clubul va trebui să găsească soluții pentru a compensa absența jucătorului în următoarele meciuri, într-un moment crucial al sezonului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-09-15T13:10:28.673393+00:00",
-      "data_afisaj": "15 septembrie 2026, 16:10"
     }
   ]
 }
