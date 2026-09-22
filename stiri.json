@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-22T19:37:44.912521+00:00",
-  "updated_at_afisaj": "22 septembrie 2026, 22:37",
+  "updated_at": "2026-09-22T19:59:06.004368+00:00",
+  "updated_at_afisaj": "22 septembrie 2026, 22:59",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,62 @@
   },
   "numar_stiri": 135,
   "stiri": [
+    {
+      "id": "028702bda1b3",
+      "titlu": "Manchester City Remizează cu Bayern Munchen în Liga Campionilor Feminin",
+      "rezumat": "Echipa feminină Manchester City a reușit o revenire spectaculoasă în Liga Campionilor, obținând o remiză de 2-2 în deplasare împotriva lui Bayern Munchen. După ce au fost conduse cu 2-0, grație golurilor marcate de Giulia Gwinn și un autogol al lui Kerstin Casparij, \"Cetățenele\" au luptat și au egalat prin reușitele lui Beth Mead și Carlotta Wamser. Acest rezultat reprezintă o performanță notabilă pentru echipa engleză, fiind prima formație din Anglia care evită înfrângerea în fața nemțoaicelor în competițiile europene.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-22T19:59:05.996778+00:00",
+      "data_afisaj": "22 septembrie 2026, 22:59"
+    },
+    {
+      "id": "06bb5d41e722",
+      "titlu": "Șeful Fotbalului Galez Contestă Afirmațiile lui Infantino Privind Reformele FIFA",
+      "rezumat": "Noel Mooney, directorul executiv al Asociației de Fotbal din Țara Galilor (FAW), a contestat recent afirmațiile președintelui FIFA, Gianni Infantino, referitoare la planurile de reformă majoră ale organismului internațional. Mooney a pus sub semnul întrebării angajamentul FIFA față de schimbări semnificative, sugerând că declarațiile lui Infantino ar putea să nu reflecte o intenție reală de reformă profundă. Această poziție subliniază scepticismul unor oficiali naționali față de direcția actuală a guvernanței fotbalului mondial.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-22T19:59:05.998589+00:00",
+      "data_afisaj": "22 septembrie 2026, 22:59"
+    },
+    {
+      "id": "5065cb602bd3",
+      "titlu": "Gianni Infantino Încearcă Să Se Mențină la Conducerea FIFA După Eșecul Vânzării Drepturilor Cupei Mondiale",
+      "rezumat": "Președintele FIFA, Gianni Infantino, își continuă campania pentru realegere, în ciuda controverselor legate de eșecul planului de vânzare a drepturilor Cupei Mondiale. Se așteaptă ca Infantino să participe la Adunarea Generală a Națiunilor Unite pentru a obține sprijinul federațiilor naționale. Articolul explorează eforturile sale de a rămâne în funcție, în contextul în care nu au apărut alți candidați care să-l provoace direct, evidențiind presiunile și strategiile politice din cadrul organismului de conducere al fotbalului mondial.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-22T19:59:06.000512+00:00",
+      "data_afisaj": "22 septembrie 2026, 22:59"
+    },
+    {
+      "id": "88ba2d90482a",
+      "titlu": "Jarrad Branthwaite Atribuie Studiului Cerebral Revenirea După Accidentări și Convocarea la Naționala Angliei",
+      "rezumat": "Fundașul lui Everton, Jarrad Branthwaite, a dezvăluit că un program complex de reabilitare efectuat în Germania, care a analizat legăturile dintre leziunile sale, creier și mișcare, l-a ajutat să depășească problemele recurente la coapsă și inghinală. Această abordare inovatoare i-a permis să revină în formă excelentă și să obțină o convocare la echipa națională a Angliei pentru meciurile din Liga Națiunilor. Branthwaite a subliniat importanța acestei metode în recuperarea sa, care i-a deschis calea spre lotul lui Thomas Tuchel.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-22T19:59:06.002375+00:00",
+      "data_afisaj": "22 septembrie 2026, 22:59"
+    },
+    {
+      "id": "daa406b30c1e",
+      "titlu": "Édouard Mendy: „Câștigarea Cupei Africii a Fost de 10 Ori Mai Bună Decât Liga Campionilor”",
+      "rezumat": "Fostul portar al lui Chelsea, Édouard Mendy, a declarat că victoria cu Senegal la Cupa Africii pe Națiuni a fost o experiență mult mai intensă și mai satisfăcătoare decât triumful în Liga Campionilor. Într-un interviu, Mendy a reflectat asupra carierei sale internaționale, care, conform spuselor sale, include două titluri africane. El a descris presiunea și emoțiile resimțite în finala Cupei Africii, subliniind importanța și impactul profund pe care l-a avut acest succes pentru el și pentru țara sa.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-22T19:59:06.004348+00:00",
+      "data_afisaj": "22 septembrie 2026, 22:59"
+    },
     {
       "id": "19d641721e85",
       "titlu": "Kylian Mbappé Dezvăluie Că A Fost Aproape De Liverpool În 2016",
@@ -1492,61 +1548,6 @@
       ],
       "data_publicare": "2026-09-16T12:30:13.196029+00:00",
       "data_afisaj": "16 septembrie 2026, 15:30"
-    },
-    {
-      "id": "fd998685e5e2",
-      "titlu": "Howard Webb Confirmă Cartonașul Roșu al lui Foden, dar Recunoaște Scăparea lui Fernandes",
-      "rezumat": "Șeful arbitrilor, Howard Webb, a susținut decizia de a-l elimina pe Phil Foden în derby-ul din Manchester, dar a dezvăluit că arbitrajul video (VAR) nu a putut interveni pentru a-l avertiza pe Bruno Fernandes pentru lovitura \"capricioasă\" care a declanșat altercația. Webb a explicat limitările regulamentului în astfel de situații, subliniind că, deși acțiunea lui Fernandes a fost condamnabilă, protocolul VAR nu a permis o intervenție pentru un cartonaș galben. Această clarificare vine în contextul dezbaterilor continue privind aplicarea regulilor în Premier League.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-09-15T19:56:45.697799+00:00",
-      "data_afisaj": "15 septembrie 2026, 22:56"
-    },
-    {
-      "id": "a14d052a33ae",
-      "titlu": "Howard Webb Cere Reformarea Legii Hențului Accidental, Considerând-o „Absurdă”",
-      "rezumat": "Howard Webb, șeful arbitrilor din fotbalul englez, a criticat vehement legea hențului accidental, descriind-o drept „o absurditate” și solicitând reformarea acesteia. El a declarat că actualele reglementări îi plasează pe arbitri în „situații ridicole”. Declarațiile vin în contextul unor controverse recente legate de deciziile de henț, Webb subliniind necesitatea unor reguli mai clare și mai coerente pentru a evita interpretările subiective și frustrarea generală. Această inițiativă ar putea duce la modificări semnificative în aplicarea regulamentului de joc.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-15T19:56:45.699678+00:00",
-      "data_afisaj": "15 septembrie 2026, 22:56"
-    },
-    {
-      "id": "5d3608259653",
-      "titlu": "Șase Jucătoare Remarcabile la Cupa Mondială U20 Feminină 2026",
-      "rezumat": "Pe măsură ce Cupa Mondială U20 Feminină din 2026, găzduită de Polonia, intră în faza eliminatorie, mai multe tinere talente s-au remarcat în etapa grupelor. Printre acestea se numără Celia Segura de la Spania și Barcelona, o jucătoare deja familiarizată cu fazele eliminatorii, având în palmares o medalie de argint la Cupa Mondială U17 de acum doi ani, unde a câștigat și Balonul și Gheata de Bronz. Articolul evidențiază performanțele a șase jucătoare care ar putea face pasul către echipele naționale de senioare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-15T19:56:45.701308+00:00",
-      "data_afisaj": "15 septembrie 2026, 22:56"
-    },
-    {
-      "id": "c80c3dbf588e",
-      "titlu": "Manchester United, Sub Așteptări în Startul Sezonului de Premier League",
-      "rezumat": "Manchester United ocupă locul 13 în Premier League, acumulând doar patru puncte din primele patru meciuri. Echipa a înregistrat o înfrângere cu 2-0 împotriva lui Hull, o victorie cu 5-2 contra lui Ipswich, o remiză 2-2 cu Everton și o înfrângere cu 1-0 în derby-ul cu Manchester City. Deși înfrângerea în derby poate fi parțial justificată de programul încărcat, venind la doar trei zile după o victorie în Liga Campionilor, startul slab al sezonului ridică semne de întrebare cu privire la forma și strategia echipei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-15T19:56:45.703011+00:00",
-      "data_afisaj": "15 septembrie 2026, 22:56"
-    },
-    {
-      "id": "d5c3abfced06",
-      "titlu": "Transformarea lui Leeds United Sub Conducerea lui Daniel Farke",
-      "rezumat": "Leeds United a avut un start impresionant în Premier League, ocupând în prezent locul al treilea în clasament. BBC Sport analizează modul în care antrenorul Daniel Farke a reușit să revitalizeze echipa și să o transforme într-o forță competitivă. Sub conducerea sa, Leeds a demonstrat o îmbunătățire semnificativă a performanțelor, atât în jocul ofensiv, cât și în cel defensiv, depășind așteptările multor analiști. Această ascensiune rapidă subliniază impactul pozitiv al viziunii tactice a lui Farke asupra echipei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-15T19:56:45.704599+00:00",
-      "data_afisaj": "15 septembrie 2026, 22:56"
     }
   ]
 }
