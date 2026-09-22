@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-22T12:27:16.567208+00:00",
-  "updated_at_afisaj": "22 septembrie 2026, 15:27",
+  "updated_at": "2026-09-22T13:07:10.390927+00:00",
+  "updated_at_afisaj": "22 septembrie 2026, 16:07",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,61 @@
   },
   "numar_stiri": 137,
   "stiri": [
+    {
+      "id": "11980fb817ce",
+      "titlu": "Infantino says he is open to talks over Fifa reform",
+      "rezumat": "Fifa president Gianni Infantino has proposed an external review of how world football's governing body operates. shifting tone as he seeks support to stay on.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-22T13:06:52.987317+00:00",
+      "data_afisaj": "22 septembrie 2026, 16:06"
+    },
+    {
+      "id": "6354c9cb1623",
+      "titlu": "Being run over by pitch roller was terrifying - Townsend",
+      "rezumat": "Former England winger Andros Townsend says he was lucky to escape from under a pitch roller with just a few \"bumps and bruises\".",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-22T13:06:52.988948+00:00",
+      "data_afisaj": "22 septembrie 2026, 16:06"
+    },
+    {
+      "id": "f0ccbad56a5e",
+      "titlu": "'Constant bombardment' - fans shown 65,000 junk food ads at World Cup",
+      "rezumat": "New data shows fans were shown more than 28 hours of adverts for unhealthy food and drinks during World Cup matches this summer.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-22T13:06:52.990637+00:00",
+      "data_afisaj": "22 septembrie 2026, 16:06"
+    },
+    {
+      "id": "4a28fc3f16d9",
+      "titlu": "Flex your football brain with our daily quizzes",
+      "rezumat": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-22T13:06:52.992144+00:00",
+      "data_afisaj": "22 septembrie 2026, 16:06"
+    },
+    {
+      "id": "ff80554e348a",
+      "titlu": "McPake's 'colourful' journey from club-less to Scotland call-up in three years",
+      "rezumat": "Three years ago, Josh McPake was without a club. Twenty months ago, he was in the shop window but \"no-one wanted him\". This week, he's involved in his first Scotland camp. Here, BBC Sport Scotland charts the fall and rise of the winger who's got everyone in the country talking.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-22T13:06:52.993888+00:00",
+      "data_afisaj": "22 septembrie 2026, 16:06"
+    },
     {
       "id": "0e2d81b6d465",
       "titlu": "Arteta agrees new deal with champions Arsenal",
@@ -1520,61 +1575,6 @@
       ],
       "data_publicare": "2026-09-15T13:10:28.673393+00:00",
       "data_afisaj": "15 septembrie 2026, 16:10"
-    },
-    {
-      "id": "bbbe0d403faf",
-      "titlu": "Enzo Maresca, Succes Surprinzător la Manchester City După Plecarea lui Guardiola",
-      "rezumat": "Enzo Maresca, succesorul legendarului Pep Guardiola la Manchester City, pare să fi preluat o misiune imposibilă în vară, dar reușește să o facă să pară o sarcină ușoară în primele etape ale mandatului său. Antrenorul italian a impresionat prin modul în care a gestionat tranziția, menținând echipa la un nivel înalt de performanță și demonstrând că este capabil să continue succesul clubului, în ciuda presiunii enorme. Această adaptare rapidă și rezultatele pozitive au depășit așteptările inițiale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-15T12:31:16.628011+00:00",
-      "data_afisaj": "15 septembrie 2026, 15:31"
-    },
-    {
-      "id": "f0382f0380e7",
-      "titlu": "Philippe Coutinho Se Alătură lui Neymar la Santos Până la Sfârșitul Sezonului",
-      "rezumat": "Fostul mijlocaș al echipelor Liverpool și Barcelona, Philippe Coutinho, s-a alăturat clubului brazilian Santos, venind de la echipa sa de juniorat, Vasco da Gama. Acordul este valabil pentru restul sezonului, reunindu-l pe Coutinho cu Neymar, un alt nume sonor din fotbalul brazilian. Această mutare marchează o revenire a lui Coutinho în fotbalul brazilian și o încercare de a-și regăsi forma într-un mediu familiar, după o perioadă mai puțin prolifică în Europa.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-15T12:31:16.629443+00:00",
-      "data_afisaj": "15 septembrie 2026, 15:31"
-    },
-    {
-      "id": "a120038a8b66",
-      "titlu": "Fostul Mijlocaș al lui Tottenham, Yves Bissouma, Aproape de Transferul la Ajax",
-      "rezumat": "Yves Bissouma, fostul mijlocaș al lui Tottenham, este pe punctul de a se alătura echipei Ajax Amsterdam printr-un acord inițial valabil până la sfârșitul sezonului. Mutarea reprezintă o nouă etapă în cariera jucătorului, oferindu-i șansa de a-și relansa forma într-un nou campionat, după o perioadă dificilă la clubul englez. Detaliile financiare ale tranzacției nu au fost încă publicate, dar se așteaptă o confirmare oficială în scurt timp, consolidând defensiva olandezilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-15T12:31:16.630862+00:00",
-      "data_afisaj": "15 septembrie 2026, 15:31"
-    },
-    {
-      "id": "b7d6cd3bf174",
-      "titlu": "Cardiff Va Găzdui Finala Ligii Campionilor la Fotbal Feminin în 2029",
-      "rezumat": "UEFA a confirmat că Stadionul Principality din Cardiff va fi gazda finalei Ligii Campionilor la fotbal feminin în anul 2029. Această decizie face parte dintr-o serie de numiri de gazde pentru viitoarele finale ale competițiilor europene. Găzduirea unui eveniment de o asemenea anvergură reprezintă o recunoaștere a infrastructurii și capacității orașului de a organiza evenimente sportive majore, contribuind semnificativ la promovarea și dezvoltarea fotbalului feminin în regiune.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-15T12:31:16.632175+00:00",
-      "data_afisaj": "15 septembrie 2026, 15:31"
-    },
-    {
-      "id": "4a59ee2ad07b",
-      "titlu": "Andoni Iraola Cere Mai Mult de la Atacanții lui Liverpool Pentru a-și Implementa Sistemul",
-      "rezumat": "Antrenorul lui Liverpool, Andoni Iraola, a mutat atenția asupra atacanților echipei, insistând că aceștia trebuie să contribuie mai mult pentru ca sistemul său de joc să funcționeze eficient. Declarația vine după o prestație neconvingătoare împotriva lui Fulham, unde echipa a înregistrat o remiză fără goluri. Iraola a recunoscut că echipa a făcut un 'pas înapoi' și a subliniat necesitatea unei îmbunătățiri a presingului din partea compartimentului ofensiv pentru a obține rezultatele dorite.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-15T12:31:16.633656+00:00",
-      "data_afisaj": "15 septembrie 2026, 15:31"
     }
   ]
 }
