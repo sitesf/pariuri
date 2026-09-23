@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-22T19:59:06.004368+00:00",
-  "updated_at_afisaj": "22 septembrie 2026, 22:59",
+  "updated_at": "2026-09-23T12:37:55.499022+00:00",
+  "updated_at_afisaj": "23 septembrie 2026, 15:37",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,54 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 135,
+  "numar_stiri": 134,
   "stiri": [
+    {
+      "id": "44a3125b996b",
+      "titlu": "Disney+ Recunoaște o Întrerupere Publicitară Neplanificată în Timpul Meciului de Liga Campionilor Feminin",
+      "rezumat": "Transmisiunea meciului de deschidere al Ligii Campionilor la fotbal feminin, dintre Arsenal și un adversar nenumit, a fost marcată de o pauză publicitară neprogramată, conform declarațiilor Disney+. Pe lângă această problemă tehnică, evenimentul a inclus și elemente neobișnuite în platoul de emisie, cum ar fi prezența unui câine, un platou de legume și un podium rotativ, adăugând o notă bizară experienței de vizionare. Incidentul a stârnit discuții despre calitatea transmisiunilor sportive.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-23T12:37:55.491862+00:00",
+      "data_afisaj": "23 septembrie 2026, 15:37"
+    },
+    {
+      "id": "690931c774d7",
+      "titlu": "Antrenorul Columbus Crew, Federico Higuaín, Demis După Remarci Sexiste Adresate unei Arbitre",
+      "rezumat": "Clubul Columbus Crew din Major League Soccer (MLS) l-a demis pe antrenorul echipei de rezerve, Federico Higuaín, în urma unor acuzații de comportament sexist. Higuaín ar fi refuzat să-i dea drumul mâinii unei arbitre și i-ar fi spus: „nu uita că acesta este un joc de bărbați”. Incidentul a avut loc în timpul unui meci din liga MLS Next Pro, iar antrenorul a fost inițial suspendat pentru două meciuri, înainte ca clubul să decidă concedierea sa.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-23T12:37:55.493894+00:00",
+      "data_afisaj": "23 septembrie 2026, 15:37"
+    },
+    {
+      "id": "f107dbf7e432",
+      "titlu": "Manchester United Anunță Venituri Record pe Fondul Progresului Planurilor de Modernizare a Stadionului",
+      "rezumat": "Clubul Manchester United a înregistrat venituri record în anul 2026, în ciuda faptului că nu a participat în competițiile europene în sezonul precedent. Această performanță financiară remarcabilă vine în contextul în care planurile de modernizare a stadionului Old Trafford avansează. Rezultatele financiare solide demonstrează puterea brandului Manchester United și capacitatea clubului de a genera venituri semnificative chiar și fără prezența în elita europeană.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-09-23T12:37:55.497171+00:00",
+      "data_afisaj": "23 septembrie 2026, 15:37"
+    },
+    {
+      "id": "f54073c17d64",
+      "titlu": "Pseudosciența în Fotbal: Critici la Adresa Practicilor Fără Bază Științifică",
+      "rezumat": "Un director de performanță de top avertizează că pseudosciența este tot mai răspândită în fotbal, cu practici precum camerele de crioterapie și alte metode care au puține dovezi științifice în spate. Dr. Claire-Marie Roberts, fost director de performanță la Coventry City, a declarat că primea săptămânal zeci de mesaje pe LinkedIn cu oferte de dispozitive și tratamente care promiteau câștiguri miraculoase, dar care, în realitate, se apropie de exploatare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-23T12:37:55.499004+00:00",
+      "data_afisaj": "23 septembrie 2026, 15:37"
+    },
     {
       "id": "028702bda1b3",
       "titlu": "Manchester City Remizează cu Bayern Munchen în Liga Campionilor Feminin",
@@ -1491,63 +1537,6 @@
       ],
       "data_publicare": "2026-09-16T13:10:30.387478+00:00",
       "data_afisaj": "16 septembrie 2026, 16:10"
-    },
-    {
-      "id": "dcea9057a485",
-      "titlu": "Messi, inclus în lotul Argentinei pentru meciul de adio internațional",
-      "rezumat": "Lionel Messi a fost convocat în lotul naționalei Argentinei pentru un meci amical împotriva Beninului, programat în luna octombrie. Această partidă este anunțată ca fiind ultima apariție a atacantului pentru selecționata \"Pumelor\", marcând retragerea sa din fotbalul internațional. Decizia vine după o carieră excepțională la nivel de club și națională, în care Messi a câștigat numeroase trofee, inclusiv Copa America și Cupa Mondială. Meciul va oferi fanilor ocazia de a-și lua rămas bun de la unul dintre cei mai mari jucători din istorie.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-16T12:30:13.189948+00:00",
-      "data_afisaj": "16 septembrie 2026, 15:30"
-    },
-    {
-      "id": "2cb8b457f866",
-      "titlu": "Tânărul Max Dowman impresionează la Arsenal, Arteta cere prudență",
-      "rezumat": "Max Dowman, în vârstă de 16 ani, a strălucit pentru echipa secundă a lui Arsenal, marcând două goluri și oferind o pasă decisivă în victoria împotriva lui Ipswich în Cupa Ligii. Prestația sa remarcabilă a determinat comparații cu Lionel Messi din partea antrenorului Mikel Arteta. Cu toate acestea, Arteta a subliniat necesitatea prudenței în dezvoltarea tânărului talent, avertizând că nu trebuie grăbită ascensiunea sa. Dowman este considerat o promisiune importantă pentru viitorul clubului londonez.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-16T12:30:13.191533+00:00",
-      "data_afisaj": "16 septembrie 2026, 15:30"
-    },
-    {
-      "id": "18ac4fb25dc6",
-      "titlu": "Real Madrid obține o victorie dramatică și egalează Barcelona în clasament",
-      "rezumat": "Real Madrid a reușit să obțină o victorie crucială, marcând golul decisiv în prelungiri, într-un meci important din campionat. Acest succes permite echipei din capitala Spaniei să egaleze la puncte liderul clasamentului, FC Barcelona, intensificând lupta pentru titlu. Rezultatul subliniază determinarea și capacitatea de a reveni a \"galacticilor\", menținând presiunea asupra rivalilor lor. Fanii așteaptă cu nerăbdare continuarea campionatului, care se anunță extrem de disputat.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-09-16T12:30:13.193071+00:00",
-      "data_afisaj": "16 septembrie 2026, 15:30"
-    },
-    {
-      "id": "1dcd5635877d",
-      "titlu": "Granit Xhaka promite determinare pentru Sunderland la revenirea în Europa",
-      "rezumat": "Căpitanul Granit Xhaka a declarat că Sunderland va arăta \"foc\" la mult-așteptata sa revenire în competițiile europene, după o pauză de 53 de ani. Echipa se pregătește să găzduiască AZ Alkmaar, iar Xhaka anticipează o atmosferă intimidantă pe stadionul de acasă. Ultima participare a clubului în Europa a avut loc în 1973, când directorii vedeau competiția ca o modalitate de a finanța modernizarea sistemului de iluminat. Acum, Sunderland își propune să facă o impresie puternică pe scena continentală.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-16T12:30:13.194553+00:00",
-      "data_afisaj": "16 septembrie 2026, 15:30"
-    },
-    {
-      "id": "1064e1473d06",
-      "titlu": "Fotbalul iranian revine sub umbra conflictului și a disputelor interne",
-      "rezumat": "Fotbalul iranian își reia activitatea după o suspendare prelungită cauzată de conflictul armat, confruntându-se în același timp cu o dispută privind titlul de campioană din sezonul trecut. Sportul în Iran este slăbit de impactul războiului și de incapacitatea de a concura cu puterea financiară a Arabiei Saudite în regiune. Situația reflectă provocările complexe cu care se confruntă țara, unde fotbalul, un sport popular, încearcă să-și regăsească stabilitatea și relevanța în contextul geopolitic actual.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-16T12:30:13.196029+00:00",
-      "data_afisaj": "16 septembrie 2026, 15:30"
     }
   ]
 }
