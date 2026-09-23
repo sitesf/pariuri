@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-23T12:37:55.499022+00:00",
-  "updated_at_afisaj": "23 septembrie 2026, 15:37",
+  "updated_at": "2026-09-23T13:22:23.162204+00:00",
+  "updated_at_afisaj": "23 septembrie 2026, 16:22",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,52 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 134,
+  "numar_stiri": 133,
   "stiri": [
+    {
+      "id": "bd211c389913",
+      "titlu": "Jurrien Timber de la Arsenal Lipsește de la Antrenamente După o Vară Marcată de Accidentări",
+      "rezumat": "Fundașul lui Arsenal, Jurrien Timber, ar fi absent de la antrenamente, continuând o serie de probleme medicale care i-au afectat pregătirea de vară. Clubul monitorizează atent starea de sănătate a jucătorului olandez, care a avut un debut dificil la echipă din cauza accidentărilor. Această nouă absență ridică semne de întrebare cu privire la disponibilitatea sa pe termen scurt și la impactul asupra planurilor tactice ale antrenorului Mikel Arteta. Fanii speră la o recuperare rapidă pentru a-l vedea pe Timber în acțiune.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-09-23T13:22:23.156658+00:00",
+      "data_afisaj": "23 septembrie 2026, 16:22"
+    },
+    {
+      "id": "c0edfb75859d",
+      "titlu": "Zece Cele Mai Avantajoase Transferuri din Fereastra de Vară",
+      "rezumat": "Într-o eră a inflației constante pe piața transferurilor, The Guardian analizează cele mai bune zece achiziții din această vară, care ar putea reprezenta adevărate chilipiruri pentru noile lor echipe. Lista include atât atacanți veterani, cât și tinere talente promițătoare, care au fost aduse pentru sume considerate rezonabile în raport cu potențialul sau performanțele lor. Articolul detaliază motivele pentru care aceste transferuri se disting, oferind o perspectivă asupra inteligenței pieței și a strategiilor cluburilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-23T13:22:23.158352+00:00",
+      "data_afisaj": "23 septembrie 2026, 16:22"
+    },
+    {
+      "id": "fbad44ef04f8",
+      "titlu": "Fotbalul Nigerian Trece Prin „Cea Mai Grea Perioadă din Istorie”, Conform lui Segun Odegbami",
+      "rezumat": "Fostul câștigător al Cupei Africii pe Națiuni, Segun Odegbami, a criticat dur conducerea fotbalului nigerian, afirmând că țara traversează „cea mai proastă perioadă din istorie”. Declarațiile vin după ce Nigeria a ratat calificarea la Cupele Mondiale masculine și feminine, un eșec considerat inacceptabil pentru o națiune cu o tradiție fotbalistică atât de bogată. Odegbami a acuzat incompetența și lipsa de viziune a celor responsabili, cerând reforme urgente pentru a readuce fotbalul nigerian pe drumul cel bun.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-23T13:22:23.160341+00:00",
+      "data_afisaj": "23 septembrie 2026, 16:22"
+    },
+    {
+      "id": "f03ddb6a3fb8",
+      "titlu": "Vânătoarea de Talente Ascunse: Mai Există Zone Neexplorate pentru Scouting în Fotbal?",
+      "rezumat": "Într-o eră a datelor extinse și a monitorizării constante, cluburile de top au acum acces la o proporție mare din talentele lumii. Articolul explorează întrebarea dacă mai există „bijuterii ascunse” în fotbal sau dacă rețelele de scouting au acoperit deja fiecare colț al globului. Prin intermediul scouting-ului live și al analizei avansate de date, echipele reușesc să identifice jucători la vârste tot mai fragede, ridicând discuții despre viitorul descoperirii talentelor și despre impactul tehnologiei asupra acestui proces.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-23T13:22:23.162186+00:00",
+      "data_afisaj": "23 septembrie 2026, 16:22"
+    },
     {
       "id": "44a3125b996b",
       "titlu": "Disney+ Recunoaște o Întrerupere Publicitară Neplanificată în Timpul Meciului de Liga Campionilor Feminin",
@@ -1481,62 +1525,6 @@
       ],
       "data_publicare": "2026-09-16T19:26:37.480825+00:00",
       "data_afisaj": "16 septembrie 2026, 22:26"
-    },
-    {
-      "id": "e13387b1739f",
-      "titlu": "Messi în lotul Argentinei pentru adio amical",
-      "rezumat": "Argentina îl numește pe Lionel Messi în lotul lor pentru un amical împotriva Beninului în octombrie, într-un meci care va fi la revedere de la fotbalul internațional al atacantului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-16T13:10:30.381268+00:00",
-      "data_afisaj": "16 septembrie 2026, 16:10"
-    },
-    {
-      "id": "2b55d4674ada",
-      "titlu": "Maresca critică concentrarea pe un câștigător controversat",
-      "rezumat": "Antrenorul lui Manchester City, Enzo Maresca, spune că este „destul de sărac” că controversa în jurul câștigătorului lui Erling Haaland a umbrit victoria echipei sale la Manchester United.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-16T13:10:30.382779+00:00",
-      "data_afisaj": "16 septembrie 2026, 16:10"
-    },
-    {
-      "id": "85d2f7dec13d",
-      "titlu": "Mbappe, Vini și Konate mușamalizează mesajul de susținere al Realului pentru Ceuta",
-      "rezumat": "Vini Jnr, Mbappé și Konate acoperă mesajul de susținere al Ceuta înaintea meciului lui Real Madrid cu Elche.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-16T13:10:30.384433+00:00",
-      "data_afisaj": "16 septembrie 2026, 16:10"
-    },
-    {
-      "id": "25366f6c84cd",
-      "titlu": "Clasamentul celor mai mari pictograme de fotbal fantastic din toate timpurile",
-      "rezumat": "Nu există nimic asemănător cu satisfacția de a descoperi un chilipir absolut Fantasy Premier League - deci care sunt cele mai emblematice alegeri vreodată?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-16T13:10:30.385986+00:00",
-      "data_afisaj": "16 septembrie 2026, 16:10"
-    },
-    {
-      "id": "2167c3d7e919",
-      "titlu": "Faceți cunoștință cu adolescenții scoțieni gata să reprezinte Uganda",
-      "rezumat": "Frații adolescenți Olly și Seb Fisher se apropie de visul lor de recunoaștere internațională - dar nu va veni din patria lor, Scoția.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-16T13:10:30.387478+00:00",
-      "data_afisaj": "16 septembrie 2026, 16:10"
     }
   ]
 }
