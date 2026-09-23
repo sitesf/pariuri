@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-23T13:22:23.162204+00:00",
-  "updated_at_afisaj": "23 septembrie 2026, 16:22",
+  "updated_at": "2026-09-23T19:33:47.536836+00:00",
+  "updated_at_afisaj": "23 septembrie 2026, 22:33",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,65 @@
   },
   "numar_stiri": 133,
   "stiri": [
+    {
+      "id": "763e24edbb51",
+      "titlu": "Cristiano Ronaldo Vizează 1.000 de Goluri și Glorie cu Portugalia",
+      "rezumat": "Cristiano Ronaldo a mărturisit că a luat în considerare retragerea din fotbalul internațional după Cupa Mondială, dar acum își propune să atingă pragul de 1.000 de goluri în carieră și să ajute o echipă nouă a Portugaliei să prospere înainte de a-și agăța ghetele în cui. Atacantul este la 21 de goluri distanță de această bornă impresionantă și este determinat să continue să joace la cel mai înalt nivel, în ciuda criticilor. El a declarat că unii critici încearcă să-l \"ucidă\", dar el este hotărât să continue.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-23T19:33:47.529868+00:00",
+      "data_afisaj": "23 septembrie 2026, 22:33"
+    },
+    {
+      "id": "ae3ade490cfe",
+      "titlu": "Jürgen Klopp Încearcă să Redreseze Destinul Naționalei Germaniei",
+      "rezumat": "Înaintea primului său meci ca selecționer al Germaniei, Jürgen Klopp își propune să schimbe soarta echipei naționale, care a avut rezultate dezamăgitoare în ultima perioadă. BBC Sport analizează strategiile și abordarea antrenorului pentru a readuce Germania în topul fotbalului mondial. Klopp se confruntă cu așteptări mari din partea fanilor și presei, iar debutul său într-un derby cu Olanda în Liga Națiunilor va fi un test important pentru noul său proiect de reconstrucție.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-23T19:33:47.531578+00:00",
+      "data_afisaj": "23 septembrie 2026, 22:33"
+    },
+    {
+      "id": "3462b164f2bd",
+      "titlu": "Echipa Națională a Irlandei Va Discuta Meciurile Controverse cu Israel",
+      "rezumat": "Dara O'Shea a declarat că lotul Republicii Irlanda va aștepta până după meciul cu Kosovo de joi pentru a discuta abordarea partidei controversate de duminică împotriva Israelului. Situația delicată a generat discuții intense, iar jucătorii doresc să ia o decizie unitară și responsabilă în privința participării la aceste meciuri, care au implicații dincolo de sport. Această decizie subliniază complexitatea contextului politic actual și presiunea asupra sportivilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-09-23T19:33:47.533219+00:00",
+      "data_afisaj": "23 septembrie 2026, 22:33"
+    },
+    {
+      "id": "b5f29085232f",
+      "titlu": "Christian Eriksen Părăsește Wolfsburg de Comun Acord",
+      "rezumat": "Christian Eriksen a plecat de la Wolfsburg de comun acord, la puțin peste trei luni după ce s-a prăbușit pe teren în timpul unui meci amical al Danemarcei cu Ucraina. Decizia marchează o nouă etapă în cariera mijlocașului danez, care își caută acum o nouă echipă. Plecarea sa vine în contextul recuperării complete și al dorinței de a-și continua cariera la cel mai înalt nivel, după evenimentul medical îngrijorător care i-a pus viața în pericol.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-23T19:33:47.534788+00:00",
+      "data_afisaj": "23 septembrie 2026, 22:33"
+    },
+    {
+      "id": "eb33d2863ecc",
+      "titlu": "Harry Kane: Eliminarea Angliei de la Cupa Mondială a Dureros Mai Mult Decât Orice Altă Experiență",
+      "rezumat": "Harry Kane a descris înfrângerea Angliei în semifinalele Cupei Mondiale împotriva Argentinei drept cea mai dureroasă eliminare din cariera sa, din cauza modului în care echipa și-a pierdut identitatea. Căpitanul este hotărât să depășească rapid acest moment și vizează o performanță convingătoare împotriva Spaniei în Liga Națiunilor. El recunoaște că încă nu a trecut peste meciul cu Argentina, care a lăsat o amprentă profundă asupra sa și a echipei, afectând moralul jucătorilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-23T19:33:47.536814+00:00",
+      "data_afisaj": "23 septembrie 2026, 22:33"
+    },
     {
       "id": "bd211c389913",
       "titlu": "Jurrien Timber de la Arsenal Lipsește de la Antrenamente După o Vară Marcată de Accidentări",
@@ -1470,61 +1529,6 @@
       ],
       "data_publicare": "2026-09-16T19:49:19.651104+00:00",
       "data_afisaj": "16 septembrie 2026, 22:49"
-    },
-    {
-      "id": "80c782e51757",
-      "titlu": "Clubul Al-Taawoun, sancționat cu meciuri fără spectatori în Liga Saudită",
-      "rezumat": "Clubul Al-Taawoun din Liga Profesionistă Saudită a fost sancționat cu disputarea a două meciuri fără spectatori. Decizia vine după ce suporterii echipei au scandat mesaje ofensatoare la adresa lui Ruben Neves, făcând referire la decesul prietenului său, Diogo Jota. Incidentul a stârnit controverse și a determinat federația să ia măsuri drastice pentru a combate comportamentul nesportiv din tribune. Această pedeapsă subliniază eforturile de a menține un mediu respectuos în fotbalul saudit și de a descuraja astfel de manifestări. Sancțiunea intră în vigoare imediat.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-16T19:26:37.475468+00:00",
-      "data_afisaj": "16 septembrie 2026, 22:26"
-    },
-    {
-      "id": "d8582716a6a6",
-      "titlu": "David Gray, demis de la conducerea tehnică a echipei Hibernian",
-      "rezumat": "David Gray a fost demis din funcția de antrenor principal al echipei Hibernian, după doar șase etape disputate în sezonul actual al Scottish Premiership. Această decizie marchează sfârșitul unei perioade de 12 ani petrecute de fostul căpitan la clubul de pe Easter Road, unde a avut diverse roluri, inclusiv cel de antrenor secund. Conducerea clubului a considerat că este necesară o schimbare pentru a redresa parcursul echipei în campionat, având în vedere rezultatele sub așteptări din debutul sezonului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-16T19:26:37.476789+00:00",
-      "data_afisaj": "16 septembrie 2026, 22:26"
-    },
-    {
-      "id": "f2da9a574ce7",
-      "titlu": "Thomas Tuchel își apără deciziile controversate din semifinala Cupei Mondiale",
-      "rezumat": "Antrenorul Thomas Tuchel și-a apărat cu fermitate deciziile controversate privind schimbările defensive efectuate în timpul semifinalei Cupei Mondiale, pierdută de Anglia împotriva Argentinei. Tuchel a declarat că responsabilitatea pentru acele alegeri îi aparține în totalitate, subliniind că a acționat în interesul echipei și că \"este cicatricea mea, nu a voastră\". Declarațiile sale vin în contextul criticilor continue legate de strategia adoptată în meciul crucial, la câteva zile după partidă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-09-16T19:26:37.478146+00:00",
-      "data_afisaj": "16 septembrie 2026, 22:26"
-    },
-    {
-      "id": "e933643801fd",
-      "titlu": "Ionuț Radu, învins de Florin Tănase în Europa League printr-un gol spectaculos",
-      "rezumat": "Portarul român Ionuț Radu a fost învins de compatriotul său Florin Tănase într-un meci din Europa League, după ce Tănase a marcat un gol spectaculos de la aproximativ 20 de metri în minutul 88. Această reușită a adus victoria echipei lui Tănase și a reprezentat un moment de ghinion pentru Radu, care a primit o notă modestă pentru prestația sa. Duelul românesc a fost unul dintre punctele de atracție ale partidei, evidențiind performanța individuală a lui Tănase.",
-      "categorie": "Fotbal",
-      "surse": [
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-09-16T19:26:37.479567+00:00",
-      "data_afisaj": "16 septembrie 2026, 22:26"
-    },
-    {
-      "id": "22c082597658",
-      "titlu": "Kendry Paez, de la talent de top la echipa U21 a lui Chelsea",
-      "rezumat": "Kendry Paez, considerat la 16 ani unul dintre cele mai promițătoare talente la nivel mondial la momentul transferului său la Chelsea, se află acum, trei ani mai târziu, în lotul echipei Under-21. Această situație ridică semne de întrebare cu privire la progresul său și la motivele pentru care nu a reușit să se impună la prima echipă, în ciuda așteptărilor inițiale. Evoluția sa este analizată pentru a înțelege factorii care au contribuit la această stagnare în cariera tânărului jucător.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-16T19:26:37.480825+00:00",
-      "data_afisaj": "16 septembrie 2026, 22:26"
     }
   ]
 }
