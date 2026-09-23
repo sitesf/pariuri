@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-23T19:33:47.536836+00:00",
-  "updated_at_afisaj": "23 septembrie 2026, 22:33",
+  "updated_at": "2026-09-23T19:55:52.479084+00:00",
+  "updated_at_afisaj": "23 septembrie 2026, 22:55",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,63 @@
   },
   "numar_stiri": 133,
   "stiri": [
+    {
+      "id": "cc8df97a7537",
+      "titlu": "Manchester United Se Confruntă cu Datorii Masive și Pierderi Anuale Consecutive",
+      "rezumat": "Manchester United raportează o datorie totală de peste 1 miliard de lire sterline, în ciuda măsurilor de reducere a costurilor implementate. Clubul a confirmat, de asemenea, cheltuieli de 63,5 milioane de lire sterline pentru achiziționarea de terenuri destinate noului stadion. Aceste cifre vin în contextul în care clubul a înregistrat pierderi anuale pentru al șaptelea an consecutiv, totalizând 444 de milioane de lire sterline din 2019. Costurile semnificative legate de demiterea antrenorilor contribuie, de asemenea, la presiunea financiară, evidențiind o perioadă dificilă din punct de vedere economic pentru gigantul englez.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-09-23T19:55:52.475066+00:00",
+      "data_afisaj": "23 septembrie 2026, 22:55"
+    },
+    {
+      "id": "c75c01229d95",
+      "titlu": "De la Transplant de Inimă la Titlul Mondial: Povestea Incredibilă a lui Martyn Jackson",
+      "rezumat": "Martyn Jackson, un fotbalist care a suferit un transplant de inimă în 2024, a realizat o performanță remarcabilă, devenind campion mondial cu echipa Angliei la mai puțin de doi ani de la operație. Inițial, medicii îi spuseseră că nu va mai putea juca fotbal, însă perseverența și recuperarea sa l-au adus înapoi pe teren, culminând cu succesul la Cupa Mondială. Povestea sa este un exemplu de depășire a limitărilor fizice și de revenire spectaculoasă în sportul de performanță, inspirând prin determinare și reziliență.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-23T19:55:52.476154+00:00",
+      "data_afisaj": "23 septembrie 2026, 22:55"
+    },
+    {
+      "id": "33f42131590a",
+      "titlu": "Analiza Performanței Echipelor din Premier League pe Baza Statisticilor xG",
+      "rezumat": "O analiză recentă examinează modul în care echipele din Premier League au început sezonul, comparând performanța lor reală cu așteptările generate de statisticile xG (expected goals). Studiul identifică echipele care au depășit sau, dimpotrivă, au subperformant în raport cu numărul de goluri estimate pe baza ocaziilor create. Această perspectivă oferă o înțelegere mai profundă a eficienței ofensive și defensive a cluburilor, indicând dacă rezultatele actuale sunt sustenabile sau dacă există discrepanțe între jocul prestat și scorurile obținute, oferind o viziune bazată pe date.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-23T19:55:52.477109+00:00",
+      "data_afisaj": "23 septembrie 2026, 22:55"
+    },
+    {
+      "id": "8b28558415df",
+      "titlu": "Krystian Bielik de la Cardiff City, Acuzat de FA După Încheierea Anchetei Poliției",
+      "rezumat": "Federația Engleză de Fotbal (FA) l-a acuzat pe fundașul echipei Cardiff City, Krystian Bielik, în urma unei altercații cu fani ai echipei Portsmouth. Incidentul a avut loc într-un context care a necesitat intervenția autorităților, însă ancheta poliției a fost acum finalizată. Acuzația din partea FA indică faptul că organismul de conducere al fotbalului va continua propriile proceduri disciplinare împotriva jucătorului, independent de concluziile investigației penale. Detaliile specifice ale acuzației și posibilele sancțiuni urmează să fie comunicate oficial.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-23T19:55:52.478108+00:00",
+      "data_afisaj": "23 septembrie 2026, 22:55"
+    },
+    {
+      "id": "bf614d114b60",
+      "titlu": "Ascensiunea lui Lewis Koumas: De la Liverpool la Naționala Țării Galilor",
+      "rezumat": "Lewis Koumas, tânărul jucător care a impresionat în primele etape ale sezonului la Liverpool, își propune să-și continue forma bună și la echipa națională a Țării Galilor, în Liga Națiunilor. Descris ca fiind un jucător \"contagios și încrezător\", Koumas a atras atenția prin performanțele sale, demonstrând un potențial semnificativ. Această convocare la națională reprezintă un pas important în cariera sa, oferindu-i oportunitatea de a se afirma la nivel internațional și de a-și consolida statutul de talent emergent în fotbalul britanic, confirmându-i progresul rapid.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-23T19:55:52.479074+00:00",
+      "data_afisaj": "23 septembrie 2026, 22:55"
+    },
     {
       "id": "763e24edbb51",
       "titlu": "Cristiano Ronaldo Vizează 1.000 de Goluri și Glorie cu Portugalia",
@@ -1474,61 +1531,6 @@
       ],
       "data_publicare": "2026-09-17T12:29:00.507778+00:00",
       "data_afisaj": "17 septembrie 2026, 15:29"
-    },
-    {
-      "id": "e5ac2919508e",
-      "titlu": "James Garner Devine Jucătorul Cheie al lui Everton",
-      "rezumat": "BBC Sport analizează ascensiunea lui James Garner, care a devenit cel mai important jucător al echipei Everton. Mijlocașul, supranumit \"Mini Valverde\", a impresionat prin performanțele sale constante, transformându-se într-o piesă esențială în strategia clubului. Articolul detaliază modul în care Garner a reușit să se impună și să-și asume un rol central, demonstrând o influență semnificativă asupra jocului echipei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-16T19:49:19.643316+00:00",
-      "data_afisaj": "16 septembrie 2026, 22:49"
-    },
-    {
-      "id": "81c08f5d0c33",
-      "titlu": "Analiză Tactică: Manchester United Performantă Fără Posesia Balonului Sub Michael Carrick",
-      "rezumat": "O analiză recentă arată că Manchester United, sub conducerea lui Michael Carrick, obține în medie 1,5 puncte pe meci atunci când deține posesia balonului în proporție de peste 50%. În contrast, echipa înregistrează o medie de 2,6 puncte pe meci atunci când posesia este sub 50%. Această statistică sugerează o eficiență mai mare a echipei în jocul de contraatac și în fazele de tranziție, ridicând întrebări despre abordarea tactică optimă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-16T19:49:19.645186+00:00",
-      "data_afisaj": "16 septembrie 2026, 22:49"
-    },
-    {
-      "id": "ce6f9f884cf5",
-      "titlu": "SUA Eliminată de la Cupa Mondială U20 Feminină la Penalty-uri, Critici privind Programarea Turneului",
-      "rezumat": "Echipa Statelor Unite a fost eliminată din Cupa Mondială U20 Feminină în optimile de finală, pierzând la penalty-uri în fața Braziliei, după un scor de 1-1 la finalul prelungirilor. Portarul brazilian Thaís Lima a avut o intervenție decisivă la lovitura Emeri Adames, asigurând victoria cu 5-4 în Katowice, Polonia. Eliminarea prelungește o serie dificilă pentru echipele de tineret ale SUA, iar programarea turneului a atras critici.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-16T19:49:19.647158+00:00",
-      "data_afisaj": "16 septembrie 2026, 22:49"
-    },
-    {
-      "id": "22fd9799440e",
-      "titlu": "Ruud Gullit: Kylian Mbappe, Cea Mai Mare Amenințare pentru Balonul de Aur al lui Harry Kane",
-      "rezumat": "Fostul câștigător al Balonului de Aur, Ruud Gullit, a declarat că îl consideră pe Kylian Mbappe cea mai mare amenințare la adresa șanselor lui Harry Kane de a câștiga prestigiosul trofeu. Gullit anticipează că Mbappe ar putea primi mai multe voturi decât alți concurenți importanți, inclusiv Lamine Yamal și Harry Kane, subliniind impactul și performanțele atacantului francez în cursa pentru Balonul de Aur.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-09-16T19:49:19.649180+00:00",
-      "data_afisaj": "16 septembrie 2026, 22:49"
-    },
-    {
-      "id": "d8a6d9a091a2",
-      "titlu": "Cienciano din Cusco Visează la Succes Continental, la Peste 20 de Ani de la Ultima Performanță",
-      "rezumat": "Echipa de fotbal Cienciano din Cusco, Peru, își propune să readucă succesul continental în țară, la peste două decenii de la câștigarea unui titlu sud-american care a produs un șoc în lumea fotbalului. Orașul Cusco, renumit pentru turism, își îndreaptă acum atenția către echipa sa de fotbal, care speră să repete performanța istorică. Aproximativ 30.000 de fani s-au adunat pe stadionul Garcilaso de la Vega pentru a susține această ambiție.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-16T19:49:19.651104+00:00",
-      "data_afisaj": "16 septembrie 2026, 22:49"
     }
   ]
 }
