@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-24T13:14:03.688422+00:00",
-  "updated_at_afisaj": "24 septembrie 2026, 16:14",
+  "updated_at": "2026-09-24T19:53:20.385642+00:00",
+  "updated_at_afisaj": "24 septembrie 2026, 22:53",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,61 @@
   },
   "numar_stiri": 132,
   "stiri": [
+    {
+      "id": "1e8289c53654",
+      "titlu": "Premier League solicită reforme FIFA pe fondul crizei Infantino",
+      "rezumat": "Premier League, alături de alte trei ligi europene de top, va lansa un apel comun pentru reforme urgente în cadrul guvernanței FIFA. Această inițiativă vine pe fondul crizei care îl vizează pe președintele Gianni Infantino. Ligile solicită o revizuire a structurilor de conducere ale organizației, în special în contextul planurilor abandonate de vânzare a drepturilor Cupei Mondiale și a altor controverse recente. Acțiunea subliniază presiunea crescândă asupra conducerii FIFA de a implementa o transparență sporită și o mai bună responsabilitate.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-09-24T19:53:20.378902+00:00",
+      "data_afisaj": "24 septembrie 2026, 22:53"
+    },
+    {
+      "id": "a65ae6c27860",
+      "titlu": "Anthony Gordon: Anglia nu ar trebui să încerce să imite Spania",
+      "rezumat": "Atacantul Anthony Gordon a declarat că încercarea de a controla meciurile nu face parte din „ADN-ul englezesc” al fotbalului. Jucătorul consideră că naționala Angliei ar putea câștiga turnee majore dacă ar renunța la strategia de a imita stilul de joc al Spaniei. Gordon sugerează că echipa ar trebui să se concentreze pe punctele sale forte inerente, mai degrabă decât să adopte o abordare tactică ce nu se potrivește cu identitatea tradițională a fotbalului englez. Această declarație vine în contextul dezbaterilor privind direcția tactică a echipei naționale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-24T19:53:20.380612+00:00",
+      "data_afisaj": "24 septembrie 2026, 22:53"
+    },
+    {
+      "id": "93c37f1197e7",
+      "titlu": "Raphinha a vrut să plece de la Barcelona, dar s-a răzgândit",
+      "rezumat": "Raphinha, atacantul brazilian al Barcelonei, a dezvăluit că în urmă cu doi ani era convins că va părăsi clubul. Cu toate acestea, o serie de discuții și o schimbare de perspectivă l-au determinat să rămână. De atunci, el a câștigat două titluri de La Liga și a devenit căpitanul echipei, fiind considerat unul dintre cei mai eficienți numărul 9 din Europa. Raphinha a recunoscut că nu era conștient de calitățile sale de lider, dar că acum se simte confortabil în acest rol, apreciind încrederea acordată de club.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-24T19:53:20.382310+00:00",
+      "data_afisaj": "24 septembrie 2026, 22:53"
+    },
+    {
+      "id": "1e05bacb22ea",
+      "titlu": "Început neconvingător pentru echipele englezești în Liga Campionilor Feminin",
+      "rezumat": "Echipele englezești de top, Arsenal, Chelsea și Manchester City, au început campania în Liga Campionilor Feminin într-o manieră neconvingătoare, lăsând multe semne de întrebare. Performanțele inițiale ale acestora în competiția europeană au fost sub așteptări, ridicând preocupări cu privire la șansele lor de a lupta pentru trofeu. Analiza primelor meciuri indică faptul că formațiile din Anglia trebuie să își îmbunătățească semnificativ jocul pentru a concura la cel mai înalt nivel și a-și atinge obiectivele de performanță pe scena continentală.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-24T19:53:20.383966+00:00",
+      "data_afisaj": "24 septembrie 2026, 22:53"
+    },
+    {
+      "id": "62955c2175ea",
+      "titlu": "Premier League dorește soluționarea impasului financiar cu EFL",
+      "rezumat": "Premier League își exprimă speranța de a ajunge la un acord cu English Football League (EFL) în privința modelului de finanțare „cât mai curând posibil”. Discuțiile privind distribuția veniturilor și sprijinul financiar pentru ligile inferioare au stagnat de ceva timp, generând tensiuni. Rezolvarea acestui impas este crucială pentru stabilitatea financiară a cluburilor din EFL și pentru întregul sistem piramidal al fotbalului englez. Ambele părți recunosc importanța unei soluții rapide pentru a asigura un viitor sustenabil.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-24T19:53:20.385621+00:00",
+      "data_afisaj": "24 septembrie 2026, 22:53"
+    },
     {
       "id": "838b1f192c0c",
       "titlu": "Emily Fox semnează un nou contract pe trei ani cu Arsenal",
@@ -1461,65 +1516,6 @@
       ],
       "data_publicare": "2026-09-17T19:57:39.941675+00:00",
       "data_afisaj": "17 septembrie 2026, 22:57"
-    },
-    {
-      "id": "34b9cafd79e3",
-      "titlu": "Europa League: Bournemouth și Palace conduc cu două goluri, Celtic este în urmă LIVE!",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-17T19:37:40.755506+00:00",
-      "data_afisaj": "17 septembrie 2026, 22:37"
-    },
-    {
-      "id": "625a2c3e24a4",
-      "titlu": "Președintele FA cere lui Infantino să publice documentele privind vânzarea Cupei Mondiale",
-      "rezumat": "Președintelui FIFA, Gianni Infantino, i s-a cerut să publice toate documentele referitoare la planul său controversat de a vinde o parte din drepturile Cupei Mondiale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-17T19:37:40.756803+00:00",
-      "data_afisaj": "17 septembrie 2026, 22:37"
-    },
-    {
-      "id": "f90720ce82f8",
-      "titlu": "Cu ce echipă de fotbal din România ține Siegfried Mureșan, propunerea de premier a lui Nicușor Dan",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-09-17T19:37:40.758278+00:00",
-      "data_afisaj": "17 septembrie 2026, 22:37"
-    },
-    {
-      "id": "5cfb1b887b07",
-      "titlu": "Marile întrebări pentru primul lot al lui Tuchel pentru Anglia de la Cupa Mondială",
-      "rezumat": "Înainte ca Thomas Tuchel să numească vineri primul său lot de la Cupa Mondială, BBC Sport analizează marile întrebări cu care se confruntă antrenorul Angliei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-17T19:37:40.759527+00:00",
-      "data_afisaj": "17 septembrie 2026, 22:37"
-    },
-    {
-      "id": "004d2bd0b566",
-      "titlu": "Predicțiile lui Sutton împotriva legendarului chitarist Johnny Marr",
-      "rezumat": "Expertul în fotbal de la BBC Sport, Chris Sutton, se duelează cu legendarul chitarist și fan Man City Johnny Marr, plus cititorii BBC și AI, cu predicțiile sale pentru meciurile din Premier League din acest weekend.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-17T19:37:40.760673+00:00",
-      "data_afisaj": "17 septembrie 2026, 22:37"
     }
   ]
 }
