@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-24T12:36:47.859307+00:00",
-  "updated_at_afisaj": "24 septembrie 2026, 15:36",
+  "updated_at": "2026-09-24T13:14:03.688422+00:00",
+  "updated_at_afisaj": "24 septembrie 2026, 16:14",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,53 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 133,
+  "numar_stiri": 132,
   "stiri": [
+    {
+      "id": "838b1f192c0c",
+      "titlu": "Emily Fox semnează un nou contract pe trei ani cu Arsenal",
+      "rezumat": "Jucătoarea internațională americană Emily Fox a semnat un nou contract pe trei ani cu clubul Arsenal. Fundașul, în vârstă de 26 de ani, s-a alăturat echipei în ianuarie 2026 și a devenit rapid o componentă esențială a defensivei, contribuind la câștigarea titlului în Premier League. Fox a declarat că decizia de a-și prelungi șederea la club a fost una \"ușoară\", subliniind ambițiile echipei și mediul pozitiv de la Arsenal.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-09-24T13:14:03.684510+00:00",
+      "data_afisaj": "24 septembrie 2026, 16:14"
+    },
+    {
+      "id": "d2ce1cd2cb22",
+      "titlu": "Fostul atacant al Angliei, Andy Carroll, dezvăluie că a fost agresat sexual în 2021",
+      "rezumat": "Andy Carroll, fostul atacant al naționalei Angliei și al unor cluburi precum Newcastle și Liverpool, a dezvăluit public că a fost victima unei agresiuni sexuale în anul 2021. Agresorul, un bărbat, a fost ulterior condamnat la trei ani de închisoare pentru fapta sa. Carroll a ales să vorbească despre această experiență personală dificilă, subliniind impactul evenimentului asupra vieții sale și importanța conștientizării unor astfel de probleme.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-24T13:14:03.685742+00:00",
+      "data_afisaj": "24 septembrie 2026, 16:14"
+    },
+    {
+      "id": "2dba7efe2856",
+      "titlu": "Oli McBurnie revine la naționala Scoției, dornic să demonstreze valoarea",
+      "rezumat": "Atacantul Oli McBurnie a fost convocat din nou la echipa națională a Scoției, după o perioadă în care a fost ignorat de selecționerul Steve Clarke și criticat de unii suporteri. McBurnie a declarat că este \"etern recunoscător\" pentru această nouă șansă și este hotărât să demonstreze pe teren că merită locul în echipă. Revenirea sa vine într-un moment crucial pentru națională, iar jucătorul speră să contribuie la performanțele viitoare ale Scoției.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-24T13:14:03.687233+00:00",
+      "data_afisaj": "24 septembrie 2026, 16:14"
+    },
+    {
+      "id": "f32f6d1ebd1c",
+      "titlu": "Analiză după înfrângerea lui Arsenal în Premier League: A fost descoperită vulnerabilitatea „Tunarilor”?",
+      "rezumat": "După o serie impresionantă de nouă victorii consecutive în Premier League, care a culminat cu titlul de campioană sezonul trecut, Arsenal a suferit o înfrângere surprinzătoare în fața echipei Brighton. Acest rezultat a ridicat semne de întrebare cu privire la strategia și vulnerabilitățile echipei lui Mikel Arteta. Analiza post-meci explorează dacă adversarii au găsit o modalitate de a contracara stilul de joc al „Tunarilor” și ce ajustări ar putea fi necesare pentru a menține performanța la cel mai înalt nivel.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-24T13:14:03.688410+00:00",
+      "data_afisaj": "24 septembrie 2026, 16:14"
+    },
     {
       "id": "20218c3e133b",
       "titlu": "Prim-ministrul consideră interdicția alcoolului pe stadioane o „discriminare”",
@@ -1475,62 +1520,6 @@
       ],
       "data_publicare": "2026-09-17T19:37:40.760673+00:00",
       "data_afisaj": "17 septembrie 2026, 22:37"
-    },
-    {
-      "id": "d1de3249b14e",
-      "titlu": "Boehly și Walter vând acțiunile Chelsea către Clearlake",
-      "rezumat": "Clearlake Capital preia controlul total al Chelsea, după ce președintele Todd Boehly și directorul Mark Walter își vând acțiunile la club.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-17T13:03:40.559569+00:00",
-      "data_afisaj": "17 septembrie 2026, 16:03"
-    },
-    {
-      "id": "abb07a9901e2",
-      "titlu": "Carrick 'nu este deranjat' de presiune - dar ar trebui să fie după această ultimă încurcătură?",
-      "rezumat": "Antrenorul Michael Carrick insistă că nu se simte sub presiune după eliminarea lui Manchester United din Cupa EFL.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-17T13:03:40.561516+00:00",
-      "data_afisaj": "17 septembrie 2026, 16:03"
-    },
-    {
-      "id": "f27b46e4afca",
-      "titlu": "Real Madrid interesată de atacantul lui Man Utd, Gabriel, 15 ani",
-      "rezumat": "Real Madrid este puternic interesată să-l transfere pe atacantul de 15 ani al lui Manchester United, JJ Gabriel.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-17T13:03:40.563213+00:00",
-      "data_afisaj": "17 septembrie 2026, 16:03"
-    },
-    {
-      "id": "33415a382475",
-      "titlu": "Cum un jucător de rezervă de la Aston Villa a devenit cel mai prolific marcator al Europei",
-      "rezumat": "Niciun jucător din primele cinci ligi europene nu a marcat mai multe goluri decât Donyell Malen de la debutul său la Roma în ianuarie - BBC Sport examinează transformarea sa.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-17T13:03:40.565027+00:00",
-      "data_afisaj": "17 septembrie 2026, 16:03"
-    },
-    {
-      "id": "cbb55e632ad9",
-      "titlu": "O echipă care a oferit speranță... apoi, patru luni mai târziu, Hamas a atacat Israelul",
-      "rezumat": "Poate fi realizat potențialul unei generații de aur de fotbaliști israelieni, în sport și societate?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-17T13:03:40.566954+00:00",
-      "data_afisaj": "17 septembrie 2026, 16:03"
     }
   ]
 }
