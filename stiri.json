@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-24T19:53:20.385642+00:00",
-  "updated_at_afisaj": "24 septembrie 2026, 22:53",
+  "updated_at": "2026-09-24T20:14:52.519703+00:00",
+  "updated_at_afisaj": "24 septembrie 2026, 23:14",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,63 @@
   },
   "numar_stiri": 132,
   "stiri": [
+    {
+      "id": "8cacba06dba1",
+      "titlu": "Carroll dezvăluie că a fost agresat sexual în 2021",
+      "rezumat": "Fostul atacant al Angliei, Andy Carroll, dezvăluie că a fost agresat sexual în 2021, de către un bărbat care a fost ulterior închis pentru trei ani.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-24T20:14:46.811210+00:00",
+      "data_afisaj": "24 septembrie 2026, 23:14"
+    },
+    {
+      "id": "f1133edce849",
+      "titlu": "Kosovo vs Republica Irlanda, ultimul scor",
+      "rezumat": "(rezumat indisponibil)",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-09-24T20:14:46.812692+00:00",
+      "data_afisaj": "24 septembrie 2026, 23:14"
+    },
+    {
+      "id": "561babe7f29b",
+      "titlu": "Cum se motivează reciproc duo-ul de la PSG pentru Balonul de Aur",
+      "rezumat": "Deși poate exista un singur câștigător, colegii de echipă Ousmane Dembele și Khvicha Kvaratskhelia se susțin reciproc pentru a câștiga Balonul de Aur.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-24T20:14:46.814247+00:00",
+      "data_afisaj": "24 septembrie 2026, 23:14"
+    },
+    {
+      "id": "2d08fa001800",
+      "titlu": "Consumul de alcool la meciurile de fotbal - ar fi binevenit de fani?",
+      "rezumat": "Andy Burnham a susținut de mult timp abrogarea interdicției care împiedică suporterii de fotbal să consume alcool în zona vizibilă a terenului. Dar fanii chiar își doresc asta?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-24T20:14:46.815745+00:00",
+      "data_afisaj": "24 septembrie 2026, 23:14"
+    },
+    {
+      "id": "35a82f7f18c0",
+      "titlu": "Cum și-a reînnoit Man City lotul dintr-o bază de date de 650.000 de jucători",
+      "rezumat": "BBC Sport pătrunde în echipa de date a lui Manchester City, care a jucat un rol cheie în reconstrucția echipei în ultimele 18 luni.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-24T20:14:46.817386+00:00",
+      "data_afisaj": "24 septembrie 2026, 23:14"
+    },
     {
       "id": "1e8289c53654",
       "titlu": "Premier League solicită reforme FIFA pe fondul crizei Infantino",
@@ -1461,61 +1518,6 @@
       ],
       "data_publicare": "2026-09-18T12:07:54.193839+00:00",
       "data_afisaj": "18 septembrie 2026, 15:07"
-    },
-    {
-      "id": "ee6c2e3966d0",
-      "titlu": "Tuchel ia în considerare convocarea lui Cole Palmer la naționala Angliei pentru Liga Națiunilor",
-      "rezumat": "Selecționerul Angliei, Thomas Tuchel, analizează posibilitatea de a-l include pe Cole Palmer în lotul pentru Liga Națiunilor. Aceasta ar fi prima sa selecție de la Cupa Mondială, unde Palmer a fost omis din cauza formei slabe. Alături de Palmer, Alex Scott și Morgan Gibbs-White sunt, de asemenea, în atenția lui Tuchel pentru viitoarele meciuri internaționale. Decizia finală privind lotul va fi anunțată vineri dimineață, aducând o nouă perspectivă asupra strategiei selecționerului după turneul mondial.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-17T19:57:39.937589+00:00",
-      "data_afisaj": "17 septembrie 2026, 22:57"
-    },
-    {
-      "id": "7e6f8d647a10",
-      "titlu": "Selecționerul Irlandei a discutat individual cu jucătorii despre meciurile cu Israel",
-      "rezumat": "Antrenorul principal Heimir Hallgrimsson a dezvăluit că a purtat discuții individuale cu jucătorii din lotul Republicii Irlanda despre perspectiva de a juca împotriva Israelului. Hallgrimsson a adăugat că \"niciunul dintre noi nu se simte confortabil jucând în aceste meciuri\", subliniind sensibilitatea situației. Această abordare personală reflectă preocupările etice și emoționale ale echipei în contextul politic actual, evidențiind impactul evenimentelor externe asupra sportivilor și a deciziilor federale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-17T19:57:39.938634+00:00",
-      "data_afisaj": "17 septembrie 2026, 22:57"
-    },
-    {
-      "id": "625c823749a1",
-      "titlu": "De ce va dura pauza internațională din septembrie trei săptămâni?",
-      "rezumat": "Echipa \"Ask Me Anything\" de la BBC Sport explică modificările majore care vor avea loc în programul pauzelor internaționale de fotbal, începând cu septembrie 2026. Această schimbare semnificativă va prelungi pauza internațională la trei săptămâni, având implicații asupra calendarului competițiilor de club și a pregătirii echipelor naționale. Detaliile acestor ajustări sunt esențiale pentru înțelegerea noului format al fotbalului internațional și a impactului său asupra jucătorilor și cluburilor din întreaga lume.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-17T19:57:39.939605+00:00",
-      "data_afisaj": "17 septembrie 2026, 22:57"
-    },
-    {
-      "id": "43721f2e19b6",
-      "titlu": "Alessandro Costacurta: „San Siro este o emblemă – incredibil de frumos, dar nu funcțional”",
-      "rezumat": "Legendarul Alessandro Costacurta reflectă asupra stadionului San Siro, care împlinește 100 de ani în acest weekend. Fostul jucător al Milanului descrie arena ca fiind \"incredibil de frumoasă\", dar recunoaște că \"nu este funcțională\" în contextul fotbalului modern. Comentariile sale vin în contextul planurilor de demolare a stadionului, oferind o perspectivă emoțională și practică asupra unei arene iconice care a găzduit unele dintre cele mai mari momente din istoria fotbalului italian și european.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-17T19:57:39.940718+00:00",
-      "data_afisaj": "17 septembrie 2026, 22:57"
-    },
-    {
-      "id": "fb451c588770",
-      "titlu": "Ce se întâmplă cu echipa feminină a lui Manchester United?",
-      "rezumat": "Echipa feminină a lui Manchester United se confruntă cu numeroase semne de întrebare la începutul sezonului, după numirea unui nou antrenor și o remaniere a lotului. Două înfrângeri categorice au generat îngrijorări cu privire la direcția echipei. Analiza situației actuale încearcă să identifice problemele care afectează performanța, de la adaptarea la noua conducere tehnică până la coeziunea lotului, în contextul ambițiilor clubului în fotbalul feminin și al presiunii rezultatelor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-09-17T19:57:39.941675+00:00",
-      "data_afisaj": "17 septembrie 2026, 22:57"
     }
   ]
 }
