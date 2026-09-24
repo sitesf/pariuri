@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-23T19:55:52.479084+00:00",
-  "updated_at_afisaj": "23 septembrie 2026, 22:55",
+  "updated_at": "2026-09-24T12:36:47.859307+00:00",
+  "updated_at_afisaj": "24 septembrie 2026, 15:36",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,62 @@
   },
   "numar_stiri": 133,
   "stiri": [
+    {
+      "id": "20218c3e133b",
+      "titlu": "Prim-ministrul consideră interdicția alcoolului pe stadioane o „discriminare”",
+      "rezumat": "Prim-ministrul Andy Burnham a declarat că interdicția privind consumul de alcool în tribunele stadioanelor de fotbal, în vigoare din 1985, reprezintă o formă de discriminare. El susține că există argumente solide pentru a revizui și, eventual, a elimina această lege. Burnham a subliniat că fanii fotbalului ar trebui tratați la fel ca spectatorii altor sporturi, unde consumul de alcool în zonele de vizionare este permis. Această poziție deschide o dezbatere importantă despre reglementările privind comportamentul fanilor și egalitatea de tratament în sport.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-24T12:36:47.851597+00:00",
+      "data_afisaj": "24 septembrie 2026, 15:36"
+    },
+    {
+      "id": "90fd87aa224e",
+      "titlu": "Manchester City și-a reformat echipa folosind o bază de date cu 650.000 de jucători",
+      "rezumat": "Manchester City a implementat o strategie inovatoare de reconstrucție a echipei în ultimele 18 luni, bazându-se pe o bază de date extinsă, care include informații despre 650.000 de jucători. Echipa de analiză a datelor a clubului a jucat un rol crucial în identificarea talentelor și în luarea deciziilor de transfer, permițând o abordare științifică a scoutingului și a dezvoltării lotului. Această metodă subliniază importanța tot mai mare a analizei datelor în fotbalul modern, oferind un avantaj competitiv în procesul de selecție și achiziție de jucători.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-24T12:36:47.853520+00:00",
+      "data_afisaj": "24 septembrie 2026, 15:36"
+    },
+    {
+      "id": "9ce72df48769",
+      "titlu": "Hibernian îl numește pe Marink Reedijk, în vârstă de 35 de ani, noul antrenor principal",
+      "rezumat": "Clubul scoțian Hibernian a anunțat numirea lui Marink Reedijk, în vârstă de 35 de ani, în funcția de antrenor principal. Această decizie vine la opt zile după demiterea fostului antrenor, David Gray. Reedijk, un tehnician tânăr, preia conducerea echipei cu scopul de a aduce o nouă viziune și de a îmbunătăți performanțele. Numirea sa marchează o direcție strategică a clubului de a investi în antrenori cu potențial, capabili să implementeze un stil de joc modern și să dezvolte talente.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-09-24T12:36:47.855462+00:00",
+      "data_afisaj": "24 septembrie 2026, 15:36"
+    },
+    {
+      "id": "150f054e40f7",
+      "titlu": "Se impune separarea fanilor gazdă și oaspeți la meciurile Women's Super League?",
+      "rezumat": "Pe măsură ce interesul pentru Women's Super League (WSL) crește și tot mai multe cluburi joacă pe stadioanele principale, se ridică întrebarea dacă este momentul să se introducă o separare mai strictă a fanilor gazdă și oaspeți, similar cu fotbalul masculin. Unii susțin că zonele dedicate fanilor oaspeți ar putea îmbunătăți atmosfera și siguranța. Deși regulamentele din sezonul 2023-24 au impus cluburilor o politică de bilete pentru fanii oaspeți, dezbaterea continuă dacă ar trebui adoptată o segregare completă a sectoarelor pentru a optimiza experiența la meciuri.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-24T12:36:47.857305+00:00",
+      "data_afisaj": "24 septembrie 2026, 15:36"
+    },
+    {
+      "id": "072a6b62c237",
+      "titlu": "Infantino, sub presiune să includă planul abandonat de vânzare a Cupei Mondiale în revizuirea FIFA",
+      "rezumat": "Membrii Consiliului FIFA îi cer președintelui Gianni Infantino să includă planul abandonat de vânzare a drepturilor Cupei Mondiale și afacerea Folarin Balogun în revizuirea externă propusă a guvernanței FIFA. Într-o scrisoare adresată celor 211 asociații membre, Infantino a menționat că va solicita consiliului să comande o analiză a \"cadrului actual de guvernanță al FIFA pentru inițiative strategice majore\". Presiunea vizează asigurarea transparenței și responsabilității în deciziile cheie ale organizației, în special după controversele legate de inițiativele financiare anterioare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-24T12:36:47.859285+00:00",
+      "data_afisaj": "24 septembrie 2026, 15:36"
+    },
     {
       "id": "cc8df97a7537",
       "titlu": "Manchester United Se Confruntă cu Datorii Masive și Pierderi Anuale Consecutive",
@@ -1475,62 +1531,6 @@
       ],
       "data_publicare": "2026-09-17T13:03:40.566954+00:00",
       "data_afisaj": "17 septembrie 2026, 16:03"
-    },
-    {
-      "id": "01b9c978b5af",
-      "titlu": "Clearlake Capital Preia Controlul Total al Clubului Chelsea",
-      "rezumat": "Clearlake Capital a achiziționat controlul deplin asupra clubului Chelsea, după ce președintele Todd Boehly, directorul Mark Walter și Hansjorg Wyss și-au vândut participațiile în club. Această tranzacție marchează o schimbare semnificativă în structura de proprietate a gigantului londonez, consolidând poziția Clearlake Capital ca principal acționar. Decizia vine în contextul unor discuții anterioare privind direcția strategică și investițiile viitoare ale clubului, având potențialul de a influența deciziile sportive și financiare pe termen lung.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-17T12:29:00.500577+00:00",
-      "data_afisaj": "17 septembrie 2026, 15:29"
-    },
-    {
-      "id": "5c19f72fe2f3",
-      "titlu": "Jürgen Klopp Vrea ca Naționala Germaniei să Recâștige Mândria Națională",
-      "rezumat": "Selecționerul Germaniei, Jürgen Klopp, a declarat că echipa națională de fotbal poate contribui la asigurarea faptului că „mândria națională nu este încredințată persoanelor nepotrivite”. Declarația a fost făcută într-o conferință de presă la Frankfurt, unde Klopp a anunțat primul său lot de jucători, și vine în urma victoriei recente a partidului de extremă-dreapta AfD într-un scrutin de stat. Fostul antrenor al lui Liverpool a subliniat rolul sportului în unirea națiunii și în promovarea valorilor pozitive, distanțându-se de ideologiile anti-imigrație.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-17T12:29:00.502312+00:00",
-      "data_afisaj": "17 septembrie 2026, 15:29"
-    },
-    {
-      "id": "b8e943da755c",
-      "titlu": "Debutul European al lui Bournemouth, o Culminare a unei Ascensiuni Spectaculoase",
-      "rezumat": "Clubul Bournemouth se pregătește pentru debutul său istoric în competițiile europene, înfruntând Real Sociedad în Europa League. Legenda clubului, Steve Fletcher, a reflectat asupra parcursului incredibil al echipei în ultimele două decenii, de la marginea prăpastiei financiare la prezența pe scena continentală. Această realizare marchează o culminare a eforturilor depuse de club și de suporteri, transformând un vis îndepărtat într-o realitate palpabilă. Este o poveste de perseverență și dedicare, care inspiră întreaga comunitate a fanilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-17T12:29:00.503968+00:00",
-      "data_afisaj": "17 septembrie 2026, 15:29"
-    },
-    {
-      "id": "e41353b0aa8e",
-      "titlu": "Donyell Malen, de la Jucător de Rezervă la Aston Villa la Cel Mai Prolific Marcator din Europa",
-      "rezumat": "Atacantul Donyell Malen, considerat anterior un jucător de rezervă la Aston Villa, a devenit cel mai prolific marcator din primele cinci ligi europene de la debutul său la AS Roma în luna ianuarie. Această transformare remarcabilă a fost analizată de BBC Sport, evidențiind adaptarea rapidă și eficiența sa în noul mediu. Performanțele sale impresionante au atras atenția, demonstrând potențialul său ofensiv și capacitatea de a influența decisiv rezultatele echipei sale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-17T12:29:00.505972+00:00",
-      "data_afisaj": "17 septembrie 2026, 15:29"
-    },
-    {
-      "id": "283131fdfa2e",
-      "titlu": "Povestea Balonului de Aur Dispărut și Dovada Că Robert Lewandowski L-a Câștigat",
-      "rezumat": "Ediția din acest an a prestigiosului premiu Balonul de Aur marchează a 70-a aniversare, însă înregistrările oficiale arată că trofeul a fost acordat de doar 69 de ori. Această discrepanță ascunde o poveste fascinantă despre un Balon de Aur \"dispărut\", pentru care există dovezi că ar fi trebuit să-i fie acordat lui Robert Lewandowski. Articolul explorează detaliile acestei situații neobișnuite, aducând în lumină argumente solide care susțin că atacantul polonez ar fi meritat recunoașterea într-o ediție anterioară.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-09-17T12:29:00.507778+00:00",
-      "data_afisaj": "17 septembrie 2026, 15:29"
     }
   ]
 }
