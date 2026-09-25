@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-25T13:16:14.051162+00:00",
-  "updated_at_afisaj": "25 septembrie 2026, 16:16",
+  "updated_at": "2026-09-25T19:54:59.693734+00:00",
+  "updated_at_afisaj": "25 septembrie 2026, 22:54",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,69 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 133,
+  "numar_stiri": 129,
   "stiri": [
+    {
+      "id": "80ca17c75955",
+      "titlu": "Tuchel: Cole Palmer ratează prea multe oportunități pentru a juca la naționala Angliei",
+      "rezumat": "Antrenorul Thomas Tuchel a declarat că atacantul Cole Palmer \"ratează prea multe oportunități\" pentru a fi selecționat la naționala Angliei. Declarația vine după ce jucătorul lui Chelsea s-a retras din cel mai recent lot al Angliei. Palmer, considerat un talent promițător, se confruntă cu critici privind constanța performanțelor sale, ceea ce îi afectează șansele de a se impune la nivel internațional, în ciuda potențialului său evident.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-25T19:54:59.686276+00:00",
+      "data_afisaj": "25 septembrie 2026, 22:54"
+    },
+    {
+      "id": "481d8cd0b933",
+      "titlu": "Manchester City, găsită vinovată de încălcarea regulilor Fair Play Financiar din Premier League",
+      "rezumat": "Manchester City a fost găsită vinovată de majoritatea celor peste o sută de acuzații legate de încălcarea regulilor financiare ale Premier League. Verdictul aruncă fotbalul englez în incertitudine, clubul riscând sancțiuni semnificative, inclusiv retrogradarea din Premier League sau excluderea din competiție. Cluburile din Premier League analizează deja posibilitatea de a cere despăgubiri. Manchester City își susține nevinovăția și se așteaptă să facă apel împotriva deciziei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-09-25T19:54:59.688211+00:00",
+      "data_afisaj": "25 septembrie 2026, 22:54"
+    },
+    {
+      "id": "b68a183f9dc6",
+      "titlu": "Celtic și Rangers contestă sancțiunea de închidere a stadionului după incidente provocate de fani",
+      "rezumat": "Cluburile scoțiene Celtic și Rangers au depus apel împotriva deciziei Federației Scoțiene de Fotbal de a le impune să joace următorul meci de Cupa Scoției pe teren propriu fără spectatori. Sancțiunea a fost dictată în urma incidentelor provocate de fani în timpul unui meci anterior. Ambele cluburi speră să obțină o reducere sau anulare a pedepsei, argumentând probabil măsuri de securitate îmbunătățite sau circumstanțe atenuante, pentru a evita impactul financiar și sportiv al deciziei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-09-25T19:54:59.690005+00:00",
+      "data_afisaj": "25 septembrie 2026, 22:54"
+    },
+    {
+      "id": "2995073c8501",
+      "titlu": "Cody Gakpo reflectă asupra unei veri dificile după eșecul transferului la Manchester City",
+      "rezumat": "Atacantul lui Liverpool, Cody Gakpo, a vorbit despre o vară \"foarte dificilă\", marcată de eșecul unui transfer la Manchester City și de o tragedie personală, pierderea celui de-al doilea fiu în timpul sarcinii. Gakpo a dezvăluit că Liverpool și-a schimbat decizia de a-l lăsa să se alăture rivalilor din Premier League. În ciuda acestor provocări, fotbalistul olandez a reușit să marcheze un gol crucial pentru Olanda într-un meci recent din Liga Națiunilor împotriva Germaniei, demonstrând reziliență.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-25T19:54:59.691800+00:00",
+      "data_afisaj": "25 septembrie 2026, 22:54"
+    },
+    {
+      "id": "10f3b65a9dd2",
+      "titlu": "Kieron Dyer impresionează la Southend după ce a lăsat în urmă un trecut tumultuos și o luptă pentru viață",
+      "rezumat": "Fostul mijlocaș al Angliei, Kieron Dyer, face valuri ca antrenor la Southend United. O zi petrecută în compania sa a dezvăluit un manager dedicat, pasionat de șah și intolerant la întârzieri. Dyer a reflectat asupra experiențelor sale, inclusiv o luptă pentru viață după un transplant de ficat și o perioadă descrisă ca \"zile de huligan\". Povestea sa subliniază transformarea sa dintr-un jucător cu un trecut controversat într-un lider respectat pe banca tehnică, inspirând echipa.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-25T19:54:59.693714+00:00",
+      "data_afisaj": "25 septembrie 2026, 22:54"
+    },
     {
       "id": "786d7ceaa58f",
       "titlu": "Părinții lui Billy Vigar acuză FA că ar fi putut preveni moartea fiului lor",
@@ -1417,115 +1478,6 @@
       ],
       "data_publicare": "2026-09-19T11:51:38.473449+00:00",
       "data_afisaj": "19 septembrie 2026, 14:51"
-    },
-    {
-      "id": "e7eff5c9e4f3",
-      "titlu": "Kylian Mbappé Părăsește Nike După 20 de Ani Pentru Un Contract Cu Brandul Elvețian On",
-      "rezumat": "Atacantul francez Kylian Mbappé a încheiat o colaborare de două decenii cu gigantul Nike, semnând un nou contract de echipament sportiv cu compania elvețiană On. Pe lângă parteneriatul comercial, Mbappé va deveni și acționar al brandului, care intenționează să se extindă semnificativ pe piața fotbalului anul viitor. Fostul internațional francez Thierry Henry a fost, de asemenea, numit director de fotbal al companiei On, marcând o mișcare strategică importantă pe piața echipamentelor sportive.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "FourFourTwo",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-09-18T19:21:38.428408+00:00",
-      "data_afisaj": "18 septembrie 2026, 22:21"
-    },
-    {
-      "id": "19a48b2b8d4f",
-      "titlu": "UEFA și CONCACAF Solicită FIFA Să Plătească Câte 10 Milioane de Dolari Fiecărei Asociații Membre",
-      "rezumat": "UEFA și CONCACAF au emis o declarație comună prin care cer FIFA să distribuie câte 10 milioane de dolari din rezervele sale de numerar către fiecare dintre cele 211 asociații membre. Președinții Aleksander Ceferin (UEFA) și Victor Montagliani (CONCACAF) au propus ca acest plan să fie analizat de Consiliul FIFA, argumentând că schema anterioară de finanțare, \"Fifa Forward Enterprise\", era inutilă având în vedere fondurile considerabile deținute de organizație.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-18T19:21:38.430440+00:00",
-      "data_afisaj": "18 septembrie 2026, 22:21"
-    },
-    {
-      "id": "851337e71608",
-      "titlu": "UEFA A Refuzat Cererea Asociației Irlandeze de Fotbal de a Separa Irlanda și Israel la Tragerile la Sorți",
-      "rezumat": "Asociația Irlandeză de Fotbal (FAI) a anunțat că UEFA a respins solicitarea sa de a menține Republica Irlanda și Israel separate la viitoarele trageri la sorți pentru competiții. Această cerere a fost făcută în contextul unor tensiuni și preocupări legate de siguranța și logistica meciurilor dintre cele două națiuni. Decizia UEFA confirmă că cele două echipe ar putea fi extrase împreună în competițiile viitoare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-18T19:21:38.433414+00:00",
-      "data_afisaj": "18 septembrie 2026, 22:21"
-    },
-    {
-      "id": "5b8c73e8ea74",
-      "titlu": "Lamine Yamal de la Barcelona Declară că a Experimentat Rasismul de „O Mie de Ori”",
-      "rezumat": "Tânărul atacant al Barcelonei, Lamine Yamal, a declarat că a fost victima rasismului de „o mie de ori” de-a lungul vieții sale. Jucătorul a subliniat că adesea oamenii nu sunt conștienți de faptul că remarcile sau comportamentul lor sunt ofensatoare. Această declarație aduce din nou în prim-plan problema rasismului în fotbal și necesitatea unei conștientizări sporite în rândul publicului și al comunității sportive.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-18T19:21:38.435315+00:00",
-      "data_afisaj": "18 septembrie 2026, 22:21"
-    },
-    {
-      "id": "5b110264e243",
-      "titlu": "Tuchel îi recheamă pe Alexander-Arnold și Palmer cu un avertisment",
-      "rezumat": "Antrenorul Angliei, Thomas Tuchel, îi recheamă pe Trent Alexander-Arnold și Cole Palmer, dar spune că jucătorii trebuie să „performeze”.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-18T18:58:00.220312+00:00",
-      "data_afisaj": "18 septembrie 2026, 21:58"
-    },
-    {
-      "id": "ce36ce26b31d",
-      "titlu": "Brentford vs Chelsea LIVE! & rezumate",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-18T18:58:00.221556+00:00",
-      "data_afisaj": "18 septembrie 2026, 21:58"
-    },
-    {
-      "id": "0360f23007df",
-      "titlu": "Va „îmbrățișa haosul” antrenorul Angliei, Tuchel?",
-      "rezumat": "După Cupa Mondială, antrenorul Angliei, Thomas Tuchel, a dorit un control mai mare. Două luni mai târziu, el este dornic să „îmbrățișeze haosul” după ce și-a numit lotul pentru viitoarele meciuri din Liga Națiunilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-09-18T18:58:00.222826+00:00",
-      "data_afisaj": "18 septembrie 2026, 21:58"
-    },
-    {
-      "id": "73c063f2e95b",
-      "titlu": "Millwall și West Ham își reînnoiesc rivalitatea după 14 ani",
-      "rezumat": "La mai mult de 14 ani de la cea mai recentă întâlnire, rivalitatea dintre Millwall și West Ham United va fi reînnoită sâmbătă la The Den.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-18T18:58:00.224067+00:00",
-      "data_afisaj": "18 septembrie 2026, 21:58"
-    },
-    {
-      "id": "46d1a5d05b4a",
-      "titlu": "Oxford își cere scuze pentru reclama la tricoul United 93",
-      "rezumat": "Oxford United își cere scuze pentru imaginea care prezintă indicativul de apel al unuia dintre avioanele folosite în atacurile din 11 septembrie.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-18T18:58:00.225275+00:00",
-      "data_afisaj": "18 septembrie 2026, 21:58"
     }
   ]
 }
