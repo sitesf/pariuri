@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-24T20:14:52.519703+00:00",
-  "updated_at_afisaj": "24 septembrie 2026, 23:14",
+  "updated_at": "2026-09-25T12:38:11.733332+00:00",
+  "updated_at_afisaj": "25 septembrie 2026, 15:38",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,61 @@
   },
   "numar_stiri": 132,
   "stiri": [
+    {
+      "id": "0512ac249609",
+      "titlu": "Chelsea, acuzată de FA pentru scandări discriminatorii",
+      "rezumat": "Clubul Chelsea a fost acuzat de Asociația de Fotbal (FA) în urma unor presupuse scandări discriminatorii ale fanilor săi. Incidentul ar fi avut loc în timpul meciului câștigat de Chelsea împotriva echipei Fulham, în luna august. Această acuzație subliniază eforturile continue ale organismelor de conducere ale fotbalului de a combate comportamentele inadecvate pe stadioane și de a asigura un mediu respectuos pentru toți participanții. Investigația FA va stabili dacă acuzațiile sunt fondate și ce măsuri vor fi luate.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-25T12:38:11.725991+00:00",
+      "data_afisaj": "25 septembrie 2026, 15:38"
+    },
+    {
+      "id": "87f027631974",
+      "titlu": "Chelsea lansează o politică inovatoare privind fertilitatea pentru jucătoare",
+      "rezumat": "Clubul Chelsea a introdus o politică de pionierat în fotbalul feminin, care permite jucătoarelor să își continue cariera sportivă în timp ce devin mame. Această inițiativă abordează aspecte legate de fertilitate și maternitate, oferind suport esențial și flexibilitate. Prin această măsură, Chelsea își propune să stabilească un nou standard în sport, demonstrând că performanța la nivel înalt și viața de familie pot fi compatibile, contribuind la bunăstarea și longevitatea carierelor sportive feminine.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-09-25T12:38:11.727717+00:00",
+      "data_afisaj": "25 septembrie 2026, 15:38"
+    },
+    {
+      "id": "81856e89c8c0",
+      "titlu": "Zinedine Zidane preia naționala Franței după o lungă așteptare",
+      "rezumat": "Zinedine Zidane a confirmat că a așteptat postul de selecționer al Franței, marcând revenirea sa în management după o pauză de cinci ani. Numirea sa la cârma echipei naționale, plină de talente, ridică întrebări despre modul în care va reuși să gestioneze și să valorifice potențialul starurilor franceze. Fostul antrenor al Real Madrid este așteptat să aducă o nouă viziune și să continue succesul echipei pe scena internațională.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-25T12:38:11.729409+00:00",
+      "data_afisaj": "25 septembrie 2026, 15:38"
+    },
+    {
+      "id": "512bbb513318",
+      "titlu": "David Beckham încasează 39 de milioane de lire sterline din dividende, pe fondul profiturilor record generate de Cupa Mondială",
+      "rezumat": "David Beckham a primit un dividend de 39 de milioane de lire sterline din afacerile sale, după ce o serie de contracte publicitare încheiate în timpul Cupei Mondiale au generat profituri record. Fostul fotbalist a apărut în aproximativ 12 campanii publicitare pe durata turneului din SUA, colaborând cu branduri majore. Această performanță financiară subliniază succesul continuu al imperiului său de afaceri și influența sa comercială globală.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-25T12:38:11.731456+00:00",
+      "data_afisaj": "25 septembrie 2026, 15:38"
+    },
+    {
+      "id": "5b28fb212930",
+      "titlu": "Dele Alli, deschis la o revenire în fotbal; un antrenor din EFL îi oferă sprijin",
+      "rezumat": "Un antrenor din English Football League (EFL) a declarat că \"ușile sunt deschise\" pentru Dele Alli, pe măsură ce fostul mijlocaș al naționalei Angliei își dorește să revină în fotbal. Această declarație oferă o speranță semnificativă pentru Alli, care a trecut printr-o perioadă dificilă în carieră. Sprijinul din partea comunității fotbalistice ar putea juca un rol crucial în eforturile sale de a-și relansa parcursul sportiv.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-09-25T12:38:11.733311+00:00",
+      "data_afisaj": "25 septembrie 2026, 15:38"
+    },
     {
       "id": "8cacba06dba1",
       "titlu": "Carroll dezvăluie că a fost agresat sexual în 2021",
@@ -1460,64 +1515,6 @@
       ],
       "data_publicare": "2026-09-18T12:43:54.010865+00:00",
       "data_afisaj": "18 septembrie 2026, 15:43"
-    },
-    {
-      "id": "b5c5951d9cbe",
-      "titlu": "Rivalitatea acerbă dintre Millwall și West Ham reînvie după 14 ani",
-      "rezumat": "Una dintre cele mai intense rivalități din fotbalul englez, cea dintre Millwall și West Ham, se reia sâmbătă, după o pauză de 14 ani. Poliția Metropolitană a primit puteri speciale pentru a gestiona potențialele violențe, având în vedere istoricul tensionat dintre cele două cluburi din sudul și estul Londrei. Se speră ca atenția să rămână pe terenul de fotbal, deși atmosfera la Den va fi, fără îndoială, una extrem de înflăcărată, marcând o reuniune așteptată cu teamă și anticipare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-18T12:07:54.189419+00:00",
-      "data_afisaj": "18 septembrie 2026, 15:07"
-    },
-    {
-      "id": "b8e0aac4ec14",
-      "titlu": "Debut spectaculos pentru Floyd Samba la Manchester City, cu o dublă în Carabao Cup",
-      "rezumat": "Tânărul Floyd Samba, în vârstă de 17 ani, a avut un debut remarcabil pentru Manchester City, marcând două goluri în victoria echipei sale împotriva lui Norwich în Carabao Cup. Performanța sa strălucitoare a asigurat calificarea lui City în optimile de finală ale competiției, unde va întâlni Brighton. Samba, al cărui tată, Christopher, este un fost fundaș la Blackburn și QPR, a atras toate privirile, eclipsând alți tineri talentați din Manchester prin prestația sa convingătoare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-18T12:07:54.190583+00:00",
-      "data_afisaj": "18 septembrie 2026, 15:07"
-    },
-    {
-      "id": "5f454e57b995",
-      "titlu": "Probleme ofensive la Tottenham: Echipa lui De Zerbi nu a marcat în Premier League",
-      "rezumat": "Tottenham, sub conducerea lui Roberto De Zerbi, nu a reușit să înscrie niciun gol în primele patru meciuri din Premier League ale acestui sezon. Această situație reprezintă o premieră pentru club în ultimele două decenii, ridicând semne de întrebare cu privire la capacitatea echipei de a concretiza ocaziile create. Analizele indică faptul că, deși echipa ajunge în zone periculoase, finalizarea și crearea de șanse clare sunt deficiente, iar fluctuația de jucători contribuie la această problemă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-18T12:07:54.191654+00:00",
-      "data_afisaj": "18 septembrie 2026, 15:07"
-    },
-    {
-      "id": "3ca4ad6d4c37",
-      "titlu": "Jurgen Klopp a anunțat primele două loturi ale Germaniei pentru Liga Națiunilor",
-      "rezumat": "Jurgen Klopp, noul selecționer al Germaniei, a făcut primele sale selecții, anunțând două loturi separate pentru meciurile viitoare din Liga Națiunilor. Această decizie marchează primul său act oficial în calitate de antrenor principal al naționalei, subliniind o nouă abordare și o viziune proaspătă pentru echipa Germaniei. Declarația sa anterioară, conform căreia este „unul dintre cei 83 de milioane” de germani, a fost interpretată ca un semn de unitate și dorință de a reconecta echipa cu fanii.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-09-18T12:07:54.192744+00:00",
-      "data_afisaj": "18 septembrie 2026, 15:07"
-    },
-    {
-      "id": "5c8d512fd6d7",
-      "titlu": "Alexander Isak: Decizia de a se transfera de la Newcastle la Liverpool a fost ușoară",
-      "rezumat": "Atacantul Alexander Isak a declarat că ambiția și determinarea clubului Liverpool de a-l semna au jucat un rol major în decizia sa de a părăsi Newcastle și de a se alătura echipei de pe Anfield. Isak a subliniat că proiectul sportiv și dorința arătată de Liverpool l-au convins rapid, făcând tranziția o alegere simplă pentru continuarea carierei sale la un club cu aspirații înalte în competițiile interne și europene.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-18T12:07:54.193839+00:00",
-      "data_afisaj": "18 septembrie 2026, 15:07"
     }
   ]
 }
