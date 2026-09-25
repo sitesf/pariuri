@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-25T19:54:59.693734+00:00",
-  "updated_at_afisaj": "25 septembrie 2026, 22:54",
+  "updated_at": "2026-09-25T20:12:15.761453+00:00",
+  "updated_at_afisaj": "25 septembrie 2026, 23:12",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 129,
+  "numar_stiri": 134,
   "stiri": [
+    {
+      "id": "c0172efb1aad",
+      "titlu": "Cluburile din Premier League cer sfaturi juridice privind despăgubirile în cazul acuzațiilor aduse lui Manchester City",
+      "rezumat": "Cluburile din Premier League solicită consiliere juridică pentru a evalua posibilitatea de a cere despăgubiri în urma cazului celor 115 acuzații aduse clubului Manchester City. Această acțiune vine în contextul în care Manchester City a fost găsită vinovată de încălcarea regulilor Fair Play Financiar, iar alte cluburi analizează impactul financiar pe care aceste nereguli l-ar fi putut avea asupra lor. Demersul subliniază complexitatea și consecințele pe termen lung ale verdictului împotriva campioanei en-titre.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-25T20:12:15.753845+00:00",
+      "data_afisaj": "25 septembrie 2026, 23:12"
+    },
+    {
+      "id": "d4ab7a2a33bb",
+      "titlu": "Michael O'Neill, antrenorul Irlandei de Nord, nedumerit de deciziile arbitrilor",
+      "rezumat": "Selecționerul Irlandei de Nord, Michael O'Neill, și-a exprimat confuzia și nemulțumirea față de anumite decizii de arbitraj luate în timpul victoriei echipei sale cu 1-0 împotriva Georgiei, în Liga Națiunilor. O'Neill a declarat că a fost \"bafled\" (nedumerit) de modul în care au fost gestionate unele faze ale jocului, în ciuda faptului că echipa sa a reușit să obțină cele trei puncte. Incidentul ridică semne de întrebare cu privire la calitatea arbitrajului în competițiile internaționale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-25T20:12:15.755616+00:00",
+      "data_afisaj": "25 septembrie 2026, 23:12"
+    },
+    {
+      "id": "e3806da894ec",
+      "titlu": "Primele 100 de zile ale lui Derek McInnes la conducerea lui Rangers: Un început tumultuos",
+      "rezumat": "BBC Scoția a analizat primele 100 de zile ale mandatului lui Derek McInnes ca antrenor al echipei Rangers. Perioada a fost marcată de un început ezitant, urmat de victorii importante, reflectând o adaptare la cerințele clubului. Raportul detaliază provocările și succesele timpurii ale lui McInnes, oferind o perspectivă asupra direcției în care se îndreaptă echipa sub noua sa conducere.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-25T20:12:15.757562+00:00",
+      "data_afisaj": "25 septembrie 2026, 23:12"
+    },
+    {
+      "id": "1fd86f338c4b",
+      "titlu": "Brentford negociază prelungirea contractului cu Kevin Schade, urmărit de Arsenal și Liverpool",
+      "rezumat": "Brentford a inițiat discuții preliminare cu Kevin Schade pentru un nou contract pe termen lung, în contextul unui interes crescut din partea unor cluburi mai mari, inclusiv Arsenal și Liverpool. Aripa germană a avut un început excelent de sezon, atrăgând atenția prin performanțele sale. Brentford dorește să-și asigure serviciile pe termen lung, în timp ce giganții Premier League monitorizează situația jucătorului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-09-25T20:12:15.759442+00:00",
+      "data_afisaj": "25 septembrie 2026, 23:12"
+    },
+    {
+      "id": "23453a56c9bc",
+      "titlu": "Virgil van Dijk critică un reporter olandez pe fondul acuzațiilor de sabotaj la adresa lui Ronald Koeman",
+      "rezumat": "Căpitanul lui Liverpool și al naționalei Olandei, Virgil van Dijk, și-a exprimat frustrarea față de un reporter olandez, în urma unor sugestii conform cărora ar fi sabotat relația cu selecționerul Ronald Koeman. Van Dijk a reacționat vehement la aceste acuzații, subliniind tensiunile dintre jucători și anumite segmente ale presei. Incidentul evidențiază presiunea mediatică la care sunt supuși fotbaliștii de top și modul în care aceștia gestionează criticile.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-09-25T20:12:15.761430+00:00",
+      "data_afisaj": "25 septembrie 2026, 23:12"
+    },
     {
       "id": "80ca17c75955",
       "titlu": "Tuchel: Cole Palmer ratează prea multe oportunități pentru a juca la naționala Angliei",
