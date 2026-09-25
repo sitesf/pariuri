@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-25T12:38:11.733332+00:00",
-  "updated_at_afisaj": "25 septembrie 2026, 15:38",
+  "updated_at": "2026-09-25T13:16:14.051162+00:00",
+  "updated_at_afisaj": "25 septembrie 2026, 16:16",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 132,
+  "numar_stiri": 133,
   "stiri": [
+    {
+      "id": "786d7ceaa58f",
+      "titlu": "Părinții lui Billy Vigar acuză FA că ar fi putut preveni moartea fiului lor",
+      "rezumat": "Părinții lui Billy Vigar, un tânăr fotbalist, susțin că Asociația de Fotbal (FA) ar fi putut interveni pentru a preveni decesul fiului lor. Această acuzație ridică semne de întrebare cu privire la protocoalele de siguranță și responsabilitatea organismelor de conducere în fotbalul juvenil. Cazul subliniază necesitatea unei analize amănunțite a măsurilor luate pentru protejarea jucătorilor și a modului în care astfel de tragedii pot fi evitate pe viitor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-25T13:16:14.045844+00:00",
+      "data_afisaj": "25 septembrie 2026, 16:16"
+    },
+    {
+      "id": "7533701e6faa",
+      "titlu": "Jucătorul Irlandei de Nord, Jason Knight, se opune disputării meciului cu Israel",
+      "rezumat": "Jason Knight, jucător al Republicii Irlanda, a devenit primul fotbalist din echipa națională care și-a exprimat public opoziția față de disputarea meciului programat duminică împotriva Israelului. Poziția sa aduce în discuție implicațiile etice și politice ale evenimentelor sportive internaționale, reflectând tensiunile și preocupările din rândul sportivilor. Declarația sa ar putea influența dezbaterile publice și deciziile ulterioare privind organizarea partidei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-25T13:16:14.047280+00:00",
+      "data_afisaj": "25 septembrie 2026, 16:16"
+    },
+    {
+      "id": "d12ab59c44df",
+      "titlu": "Meci din Cupa Angliei, rejucat din cauza unei erori de arbitraj",
+      "rezumat": "Clubul Mulbarton Wanderers s-a declarat \"profund supărat\" după ce a fost informat că trebuie să rejueze meciul de calificare din Cupa Angliei împotriva echipei Woodford Town, din cauza unei erori comise de arbitru. Decizia de a rejuca partida, impusă de forurile competente, ridică întrebări importante despre precedentele pe care le-ar putea crea și despre modul în care erorile de arbitraj pot afecta integritatea competițiilor. Această situație subliniază presiunea asupra arbitrilor și necesitatea unor decizii corecte.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-25T13:16:14.048540+00:00",
+      "data_afisaj": "25 septembrie 2026, 16:16"
+    },
+    {
+      "id": "7e0028e2df2e",
+      "titlu": "Kai Havertz revine la Arsenal",
+      "rezumat": "Atacantul Kai Havertz s-a întors la echipa Arsenal, conform ultimelor informații din fotbal. Revenirea sa este o veste importantă pentru club, mai ales în contextul pregătirilor pentru meciurile viitoare și al campaniei din Nations League. Detaliile complete despre starea sa fizică și disponibilitatea pentru joc vor fi cruciale pentru planurile antrenorului și performanța echipei în următoarea perioadă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-25T13:16:14.049616+00:00",
+      "data_afisaj": "25 septembrie 2026, 16:16"
+    },
+    {
+      "id": "155766aa95a6",
+      "titlu": "Golul lui João Félix asigură victoria Portugaliei împotriva Țării Galilor; Ronaldo nu impresionează",
+      "rezumat": "Portugalia a învins Țara Galilor într-un meci din Liga Națiunilor, grație unui gol marcat de João Félix. În ciuda prezenței lui Cristiano Ronaldo, care a fost înlocuit în minutul 67, starul portughez nu a reușit să se remarce, ratând mai multe ocazii. Meciul a fost unul intens, iar victoria Portugaliei consolidează poziția echipei în competiție, în timp ce Țara Galilor va căuta să-și îmbunătățească performanța în partidele următoare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-25T13:16:14.051145+00:00",
+      "data_afisaj": "25 septembrie 2026, 16:16"
+    },
     {
       "id": "0512ac249609",
       "titlu": "Chelsea, acuzată de FA pentru scandări discriminatorii",
@@ -1471,50 +1526,6 @@
       ],
       "data_publicare": "2026-09-18T18:58:00.225275+00:00",
       "data_afisaj": "18 septembrie 2026, 21:58"
-    },
-    {
-      "id": "2bd5981ed2d3",
-      "titlu": "Thomas Tuchel: „99,9% dintre fani nu mă întreabă despre schimbările din meciul cu Argentina”",
-      "rezumat": "Selecționerul Angliei, Thomas Tuchel, a declarat că majoritatea fanilor pe care îi întâlnește nu discută despre deciziile sale tactice sau schimbările făcute în timpul semifinalei Cupei Mondiale împotriva Argentinei. Această afirmație vine în contextul reflecțiilor asupra experienței Angliei la Cupa Mondială, sugerând că publicul larg se concentrează pe alte aspecte ale performanței echipei naționale, în ciuda criticilor anterioare legate de anumite decizii cheie.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-09-18T12:43:54.005065+00:00",
-      "data_afisaj": "18 septembrie 2026, 15:43"
-    },
-    {
-      "id": "7ab36ec4c4d7",
-      "titlu": "Anthony Elanga, accidentat: Newcastle United fără aripa suedeză pentru meciul cu Hull City",
-      "rezumat": "Anthony Elanga, aripa internațională suedeză a echipei Newcastle United, va lipsi de pe teren din cauza unei accidentări. Jucătorul a suferit leziunea înaintea înfrângerii cu 4-1 în fața echipei Leeds, iar absența sa reprezintă o lovitură pentru planurile antrenorului Eddie Howe, în special înaintea confruntării cu Hull City. Durata exactă a perioadei de recuperare nu a fost specificată, însă echipa medicală monitorizează situația.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-09-18T12:43:54.007056+00:00",
-      "data_afisaj": "18 septembrie 2026, 15:43"
-    },
-    {
-      "id": "715e77e8e382",
-      "titlu": "Chelsea, îngrijorată de starea de sănătate a lui Joao Pedro înainte de meciul cu Brentford",
-      "rezumat": "Chelsea este în așteptarea veștilor privind starea de sănătate a atacantului Joao Pedro, care a marcat deja trei goluri în patru meciuri în acest sezon. Prezența sa este incertă pentru partida din acest weekend împotriva echipei Brentford. Accidentarea sa ar reprezenta o pierdere semnificativă pentru ofensiva londonezilor, având în vedere forma excelentă demonstrată de jucător în debutul campaniei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-09-18T12:43:54.008934+00:00",
-      "data_afisaj": "18 septembrie 2026, 15:43"
-    },
-    {
-      "id": "842a6b8954eb",
-      "titlu": "Celtic, în dificultate după o nouă înfrângere: Ce urmează pentru echipa lui O'Neill?",
-      "rezumat": "După o nouă înfrângere, fanii lui Celtic se confruntă cu o provocare tot mai mare în a-și menține încrederea în echipă. Jurnalistul Tom English subliniază că forma actuală a echipei este o imitație palidă a performanțelor anterioare sub conducerea lui Ange Postecoglou. Se ridică întrebări serioase despre direcția în care se îndreaptă clubul și despre capacitatea antrenorului O'Neill de a redresa situația și de a readuce echipa pe drumul cel bun.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-18T12:43:54.010865+00:00",
-      "data_afisaj": "18 septembrie 2026, 15:43"
     }
   ]
 }
