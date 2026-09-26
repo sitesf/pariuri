@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-25T20:12:15.761453+00:00",
-  "updated_at_afisaj": "25 septembrie 2026, 23:12",
+  "updated_at": "2026-09-26T12:07:08.224148+00:00",
+  "updated_at_afisaj": "26 septembrie 2026, 15:07",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,63 @@
   },
   "numar_stiri": 134,
   "stiri": [
+    {
+      "id": "fa28a99c2691",
+      "titlu": "Conferința de presă a Republicii Irlanda, amânată înaintea meciului controversat cu Israel",
+      "rezumat": "Conferința de presă premergătoare meciului din Liga Națiunilor dintre Republica Irlanda și Israel, programată duminică în Ungaria, a fost amânată. Această decizie vine în contextul în care mai multe organizații și activiști au cerut boicotarea partidei din cauza situației politice. Meciul, care se va disputa pe teren neutru și probabil fără spectatori, a generat dezbateri intense în societatea irlandeză de la tragerea la sorți din februarie. Guvernul Republicii Irlanda a declarat că Israelul este o țară implicată într-un conflict.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-09-26T12:07:08.219679+00:00",
+      "data_afisaj": "26 septembrie 2026, 15:07"
+    },
+    {
+      "id": "11043c40f07f",
+      "titlu": "Julian Ward, numit director sportiv la Liverpool",
+      "rezumat": "Julian Ward a fost numit director sportiv al clubului Liverpool pentru a doua oară în cariera sa, preluând funcția după plecarea lui Richard Hughes. Această numire marchează o revenire a lui Ward la clubul de pe Anfield, unde a mai ocupat o poziție similară în trecut. Decizia vine în contextul restructurărilor administrative la nivel înalt, având ca scop consolidarea strategiei sportive și de transferuri a echipei pentru sezoanele viitoare, sub o conducere familiară cu viziunea clubului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-26T12:07:08.220744+00:00",
+      "data_afisaj": "26 septembrie 2026, 15:07"
+    },
+    {
+      "id": "3141fcfc9940",
+      "titlu": "Hackerul care a declanșat investigația împotriva Manchester City",
+      "rezumat": "BBC Sport a investigat povestea lui Rui Pinto, hackerul informatic din Portugalia care a jucat un rol crucial în declanșarea investigației împotriva clubului Manchester City. Pinto este cunoscut pentru scurgerile de informații din fotbal, iar datele furnizate de el au stat la baza acuzațiilor de încălcare a regulilor Fair Play Financiar aduse clubului englez. Această dezvăluire oferă o perspectivă asupra originilor cazului complex care a afectat reputația și stabilitatea financiară a lui Manchester City, aducând în prim-plan sursa inițială a problemelor legale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-26T12:07:08.221817+00:00",
+      "data_afisaj": "26 septembrie 2026, 15:07"
+    },
+    {
+      "id": "371e3a9273ba",
+      "titlu": "Rio Ngumoha, adolescentul de la Liverpool, nu a fost inclus în lotul Angliei pentru meciul cu Spania",
+      "rezumat": "Tânărul jucător al lui Liverpool, Rio Ngumoha, nu a fost inclus în lotul Angliei pentru meciul de deschidere din Liga Națiunilor împotriva Spaniei, programat sâmbătă. Decizia antrenorului naționalei vine în contextul pregătirilor pentru această competiție importantă, unde se caută cea mai bună formulă. Ngumoha, considerat un talent promițător în fotbalul englez, va trebui să aștepte o altă oportunitate pentru a-și face debutul la nivel internațional pentru echipa Angliei, continuând să se dezvolte la club.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-26T12:07:08.223091+00:00",
+      "data_afisaj": "26 septembrie 2026, 15:07"
+    },
+    {
+      "id": "a7bb714b8c72",
+      "titlu": "Problemele cu care se confruntă Mourinho la Real Madrid",
+      "rezumat": "Jose Mourinho a revenit la Real Madrid în luna iulie, însă echipa se confruntă deja cu dificultăți semnificative. Articolul analizează aspectele pe care antrenorul portughez se străduiește să le remedieze pentru ca Real Madrid să poată concura la titlul din La Liga. Sunt evidențiate probleme tactice și de performanță care necesită îmbunătățiri urgente pentru a asigura o luptă echilibrată în campionatul spaniol și pentru a îndeplini așteptările ridicate ale fanilor și conducerii clubului, care vizează succesul imediat.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-26T12:07:08.224132+00:00",
+      "data_afisaj": "26 septembrie 2026, 15:07"
+    },
     {
       "id": "c0172efb1aad",
       "titlu": "Cluburile din Premier League cer sfaturi juridice privind despăgubirile în cazul acuzațiilor aduse lui Manchester City",
@@ -1477,62 +1534,6 @@
       ],
       "data_publicare": "2026-09-19T12:17:29.841904+00:00",
       "data_afisaj": "19 septembrie 2026, 15:17"
-    },
-    {
-      "id": "96a8f1ffaaf2",
-      "titlu": "Derby-ul Black Country: Miza Mare pentru Wolves și West Brom",
-      "rezumat": "Wolves și West Bromwich Albion se pregătesc pentru prima lor confruntare în derby-ul Black Country din campionat de la meciul din mai 2021. Această rivalitate locală este profund înrădăcinată în istoria fotbalului englez și depășește simpla luptă pentru puncte. Pentru ambele echipe, o victorie în acest meci este crucială nu doar pentru clasament, ci și pentru moralul suporterilor și al jucătorilor. Se anticipează o atmosferă intensă, reflectând pasiunea și mândria regională.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-09-19T11:51:38.466066+00:00",
-      "data_afisaj": "19 septembrie 2026, 14:51"
-    },
-    {
-      "id": "5ec9068a5f16",
-      "titlu": "Harry Kane Doboară Recordul de 100 de Goluri în Bundesliga în Doar 98 de Meciuri",
-      "rezumat": "Atacantul englez Harry Kane a stabilit un nou record impresionant în Bundesliga, devenind cel mai rapid jucător care atinge borna de 100 de goluri. Această performanță remarcabilă a fost realizată în doar 98 de meciuri, depășind recordul anterior de 129 de partide, deținut de Dieter Müller din 1977. Kane a marcat o dublă în victoria categorică a lui Bayern München cu 7-0 împotriva lui Union Berlin, consolidându-și statutul de golgheter de excepție în fotbalul german.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-19T11:51:38.467954+00:00",
-      "data_afisaj": "19 septembrie 2026, 14:51"
-    },
-    {
-      "id": "2ab5f456ae04",
-      "titlu": "Kenya, Tanzania și Uganda se Grăbesc pentru Pregătirile AFCON 2027",
-      "rezumat": "Președintele Confederației Africane de Fotbal (CAF), Patrice Motsepe, a solicitat un \"sentiment sporit de urgență\" din partea co-gazdelor Cupei Africii pe Națiuni 2027, Kenya, Tanzania și Uganda. Cele trei națiuni se află într-o cursă contracronometru pentru a finaliza infrastructura și toate pregătirile necesare la timp pentru turneu. Motsepe a subliniat că amânarea evenimentului nu este o opțiune, punând o presiune considerabilă pe organizatori pentru a asigura standarde internaționale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-19T11:51:38.469693+00:00",
-      "data_afisaj": "19 septembrie 2026, 14:51"
-    },
-    {
-      "id": "a9de5cd2f1a2",
-      "titlu": "Manchester City Câștigă Dramatic în WSL Împotriva lui Liverpool cu Două Goluri în Prelungiri",
-      "rezumat": "Manchester City și-a continuat parcursul victorios în noul sezon al Women’s Super League (WSL), obținând o victorie dramatică împotriva unei echipe Liverpool în continuă ascensiune. Campioanele en-titre au avut nevoie de un autogol în minutul 90, marcat de Grace Fisk, pentru a prelua conducerea cu 3-2, după un meci antrenant în care Lauren Hemp a marcat de două ori. Ulterior, Hemp a adăugat un alt gol în prelungiri, asigurând victoria pentru City, care a demonstrat reziliență până la final.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-19T11:51:38.471576+00:00",
-      "data_afisaj": "19 septembrie 2026, 14:51"
-    },
-    {
-      "id": "34f42d748fd7",
-      "titlu": "Brighton Sărbătorește 125 de Ani de la Înființare, de la Anonimat la Competițiile Europene",
-      "rezumat": "Clubul Brighton & Hove Albion marchează 125 de ani de existență, o ocazie de a reflecta asupra parcursului său remarcabil. De la o perioadă de aproape anonimat și dificultăți financiare, echipa a reușit să se impună în Premier League și să acceadă în competițiile europene. Această aniversare subliniază reziliența și creșterea constantă a clubului, devenind un exemplu de succes în fotbalul modern. Este o poveste inspirațională despre evoluția și ambițiile unui club de fotbal.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-19T11:51:38.473449+00:00",
-      "data_afisaj": "19 septembrie 2026, 14:51"
     }
   ]
 }
