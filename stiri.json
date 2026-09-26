@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-26T19:06:42.011203+00:00",
-  "updated_at_afisaj": "26 septembrie 2026, 22:06",
+  "updated_at": "2026-09-26T19:30:59.623033+00:00",
+  "updated_at_afisaj": "26 septembrie 2026, 22:30",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,55 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 134,
+  "numar_stiri": 133,
   "stiri": [
+    {
+      "id": "ab3625ca8882",
+      "titlu": "Naționala Irlandei va purta banderole negre la meciul cu Israel",
+      "rezumat": "Jucătorii naționalei Republicii Irlanda au anunțat că intenționează să poarte banderole negre la meciul împotriva Israelului. Gestul este menit să aducă un omagiu \"tuturor vieților pierdute în conflictul din Gaza\". Această decizie vine în contextul tensiunilor și controverselor legate de disputarea acestei partide, subliniind dorința de a recunoaște impactul uman al conflictului. Măsura a fost confirmată de mai multe surse de presă internaționale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-26T19:30:59.617337+00:00",
+      "data_afisaj": "26 septembrie 2026, 22:30"
+    },
+    {
+      "id": "6b34f4b62308",
+      "titlu": "Debut cu remiză pentru noul selecționer al Scoției, Sebastien Pocognoli",
+      "rezumat": "Sebastien Pocognoli a debutat pe banca tehnică a naționalei Scoției cu o remiză albă, scor 0-0, împotriva Sloveniei. Deși rezultatul nu este cel mai spectaculos pentru o nouă eră, analiștii au remarcat aspecte pozitive în jocul echipei, în special în repriza secundă. Pocognoli a preluat recent conducerea, iar partida a oferit primele indicii despre direcția tactică pe care o va aborda în mandatul său, generând discuții despre potențialul echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-26T19:30:59.619249+00:00",
+      "data_afisaj": "26 septembrie 2026, 22:30"
+    },
+    {
+      "id": "d2b7a4052a6e",
+      "titlu": "Plecarea lui Messi lasă Argentina cu o misiune dificilă de înlocuire a \"supereroului\"",
+      "rezumat": "Viitorul naționalei Argentinei fără Lionel Messi se anunță o provocare majoră, pe măsură ce echipa se pregătește să joace primele meciuri fără talismanul său. Deși Messi va reveni pentru un meci de adio împotriva Beninului, Argentina va trebui să învețe să se descurce fără jucătorul care a reprezentat de multe ori soluția salvatoare în momentele dificile. Analiza subliniază dificultatea de a înlocui un fotbalist cu o asemenea influență și capacitate de a decide meciurile.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-26T19:30:59.621240+00:00",
+      "data_afisaj": "26 septembrie 2026, 22:30"
+    },
+    {
+      "id": "b3839f328188",
+      "titlu": "Mohamed Salah ratează meciul Egiptului din cauza terenului artificial",
+      "rezumat": "Atacantul egiptean Mohamed Salah nu va participa la următorul meci al naționalei sale împotriva Sudanului de Sud. Decizia a fost luată deoarece partida se va disputa pe un teren cu gazon artificial, o suprafață pe care Salah o evită pentru a preveni posibile accidentări și a-și proteja sănătatea fizică. Absența sa reprezintă o pierdere importantă pentru selecționata Egiptului în această confruntare, având în vedere rolul său crucial în echipă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-26T19:30:59.623012+00:00",
+      "data_afisaj": "26 septembrie 2026, 22:30"
+    },
     {
       "id": "b58f1c0a65dd",
       "titlu": "Președintele Manchester City, Khaldoon Al Mubarak, își menține încrederea după verdictul de vinovăție",
@@ -1476,63 +1523,6 @@
       ],
       "data_publicare": "2026-09-20T12:06:06.502071+00:00",
       "data_afisaj": "20 septembrie 2026, 15:06"
-    },
-    {
-      "id": "40d60ab93c8c",
-      "titlu": "Arsenal Femei Obține o Remiză Târzie Împotriva lui Manchester United",
-      "rezumat": "Smilla Holmberg a marcat un gol decisiv în prelungiri, aducând o remiză pentru Arsenal Femei în meciul împotriva lui Manchester United. Scorul final de 1-1 a fost stabilit după ce Manchester United a condus, dar Arsenal a reușit să egaleze în ultimele momente ale partidei din Women's Super League. Acest rezultat menține echilibrul în clasament și subliniază importanța fiecărui punct în lupta pentru titlu, demonstrând reziliența echipei Arsenal.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-19T19:06:54.454297+00:00",
-      "data_afisaj": "19 septembrie 2026, 22:06"
-    },
-    {
-      "id": "28782c550208",
-      "titlu": "Universitatea Craiova și FCSB se Duelează în Superliga României",
-      "rezumat": "Meciul dintre Universitatea Craiova și FCSB, contând pentru etapa a 10-a din Superliga României, este în desfășurare. Campioana României, FCSB, a început partida într-o manieră spectaculoasă, dominând jocul și creând ocazii importante. Fanii așteaptă cu interes deznodământul acestei confruntări cruciale pentru clasamentul campionatului intern. Detaliile complete ale scorului și evenimentelor cheie vor fi disponibile la finalul partidei, pe măsură ce acțiunea continuă pe teren.",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-09-19T19:06:54.455954+00:00",
-      "data_afisaj": "19 septembrie 2026, 22:06"
-    },
-    {
-      "id": "cac0aff702a3",
-      "titlu": "Brighton Pune Capăt Startului Perfect al Campioanei Arsenal",
-      "rezumat": "Brighton a obținut o victorie convingătoare cu 3-0 împotriva campioanei en-titre Arsenal, punând capăt seriei perfecte de victorii a \"Tunarilor\" în acest sezon. Gazdele au sărbătorit cea de-a 125-a aniversare a clubului cu o performanță remarcabilă, infligând prima înfrângere a sezonului echipei lui Mikel Arteta. Rezultatul subliniază ambițiile lui Brighton și capacitatea lor de a învinge echipe de top din Premier League, consolidându-și poziția în clasament.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-19T19:06:54.457623+00:00",
-      "data_afisaj": "19 septembrie 2026, 22:06"
-    },
-    {
-      "id": "e2de1a05b15f",
-      "titlu": "Brentford Rămâne Neînvinsă După o Victorie Clară Împotriva lui Chelsea",
-      "rezumat": "Brentford și-a menținut startul neînvins în Premier League, învingând Chelsea cu 3-0 pe Gtech Community Stadium. Toate cele trei goluri au fost marcate în a doua repriză, consolidând poziția lui Brentford în clasament. Această victorie reprezintă o performanță notabilă pentru echipa gazdă și adâncește problemele pentru Chelsea, care continuă să caute o formă consistentă în campionat, confruntându-se cu dificultăți atât în apărare, cât și în atac.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-19T19:06:54.459358+00:00",
-      "data_afisaj": "19 septembrie 2026, 22:06"
-    },
-    {
-      "id": "9783aa065557",
-      "titlu": "Tottenham Suferă o Nouă Înfrângere, Aston Villa Obține Prima Victorie a Sezonului",
-      "rezumat": "Aston Villa a înregistrat prima sa victorie în Premier League după cinci etape, învingând Tottenham Hotspur. Echipa lui Tottenham rămâne fără victorie în campionat, continuând o serie de rezultate dezamăgitoare. Villa a reușit să reziste presiunii adverse în finalul meciului, obținând cele trei puncte mult așteptate, în timp ce situația la Tottenham devine tot mai tensionată, iar antrenorul Roberto De Zerbi se confruntă cu o presiune crescândă din partea fanilor și a presei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-19T19:06:54.461211+00:00",
-      "data_afisaj": "19 septembrie 2026, 22:06"
     }
   ]
 }
