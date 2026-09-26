@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-26T12:07:08.224148+00:00",
-  "updated_at_afisaj": "26 septembrie 2026, 15:07",
+  "updated_at": "2026-09-26T12:40:40.692571+00:00",
+  "updated_at_afisaj": "26 septembrie 2026, 15:40",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,61 @@
   },
   "numar_stiri": 134,
   "stiri": [
+    {
+      "id": "b3063f332980",
+      "titlu": "Lamine Yamal: „Fotbalul este mecanizat, dar jucătorii ca mine au acea scânteie specială”",
+      "rezumat": "Tânărul prodigiu al Barcelonei și al naționalei Spaniei, Lamine Yamal, a vorbit despre viziunea sa asupra fotbalului modern. În ciuda succeselor timpurii, incluzând victorii la Cupa Mondială și Campionatul European, Yamal subliniază că nu-și impune limite în carieră. El a declarat că, deși fotbalul a devenit tot mai tacticizat și \"mecanizat\", jucătorii cu un talent individual deosebit pot aduce o \"scânteie specială\" pe teren, menținând spectacolul și imprevizibilul jocului. Această perspectivă evidențiază încrederea și maturitatea sa la o vârstă fragedă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-26T12:40:40.685052+00:00",
+      "data_afisaj": "26 septembrie 2026, 15:40"
+    },
+    {
+      "id": "68539d99a6f8",
+      "titlu": "Melvine Malard își propune să devină o legendă la Chelsea, alături de antrenoarea Sonia Bompastor",
+      "rezumat": "Atacanta franceză Melvine Malard, recent transferată la Chelsea, își dorește să-și construiască o moștenire la clubul londonez, reunindu-se cu antrenoarea Sonia Bompastor, cea care a încurajat-o să părăsească insula Réunion pentru a-și urma visul în fotbal. Malard, care a avut un an plin de evenimente, incluzând o nuntă, o nominalizare la Balonul de Aur și un transfer important, se bucură de viață și de provocările din Super League-ul feminin. Ea speră să aducă succes echipei și să-și îndeplinească ambițiile personale sub îndrumarea lui Bompastor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-26T12:40:40.686992+00:00",
+      "data_afisaj": "26 septembrie 2026, 15:40"
+    },
+    {
+      "id": "f1917e3fbd1e",
+      "titlu": "Wrexham confirmă o plecare importantă după cinci ani la clubul din Championship",
+      "rezumat": "Clubul Wrexham AFC, recent promovat în Championship și deținut de actorii Ryan Reynolds și Rob McElhenney, a confirmat plecarea unei figuri cheie după o perioadă de cinci ani. Această persoană a jucat un rol crucial în aducerea actualilor proprietari la club și în ascensiunea sa rapidă prin ligile inferioare. Detaliile exacte ale plecării și impactul acesteia asupra structurii administrative sau sportive a clubului nu au fost specificate, dar se anticipează că va fi o schimbare semnificativă pentru echipa galeză.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-09-26T12:40:40.688789+00:00",
+      "data_afisaj": "26 septembrie 2026, 15:40"
+    },
+    {
+      "id": "40800aaaa6e0",
+      "titlu": "Brian Brobbey, atacantul lui Sunderland și al naționalei Olandei, se confruntă cu o posibilă accidentare",
+      "rezumat": "Brian Brobbey, atacantul echipei Sunderland și al selecționatei Olandei, a părăsit terenul în timpul meciului din Nations League de joi seară, stârnind îngrijorări cu privire la starea sa fizică. Detaliile complete despre natura și gravitatea accidentării nu au fost încă făcute publice, dar situația sa este monitorizată îndeaproape atât de club, cât și de echipa națională. O eventuală absență prelungită a lui Brobbey ar reprezenta o lovitură pentru ambele formații, având în vedere importanța sa în atac.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-09-26T12:40:40.690705+00:00",
+      "data_afisaj": "26 septembrie 2026, 15:40"
+    },
+    {
+      "id": "e9d85ba61da1",
+      "titlu": "Conducerea Craiovei comentează posibilul schimb de jucători Nsimba – Boutoutaou cu FCSB",
+      "rezumat": "Un oficial al clubului Universitatea Craiova a oferit detalii despre discuțiile privind un potențial schimb de jucători cu FCSB, implicându-i pe Nsimba și Boutoutaou. Declarația subliniază că, în viziunea Craiovei, unul dintre jucători reprezintă o \"confirmare\" a valorii sale, în timp ce celălalt este considerat o \"necunoscută\" pentru echipa din București. Această tranzacție ar putea influența semnificativ loturile ambelor echipe în perspectiva viitoarelor competiții, aducând noi dinamici în campionatul intern.",
+      "categorie": "Fotbal",
+      "surse": [
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-09-26T12:40:40.692550+00:00",
+      "data_afisaj": "26 septembrie 2026, 15:40"
+    },
     {
       "id": "fa28a99c2691",
       "titlu": "Conferința de presă a Republicii Irlanda, amânată înaintea meciului controversat cu Israel",
@@ -1479,61 +1534,6 @@
       ],
       "data_publicare": "2026-09-19T18:29:38.814867+00:00",
       "data_afisaj": "19 septembrie 2026, 21:29"
-    },
-    {
-      "id": "0531093c6637",
-      "titlu": "Arsenal ia în considerare împrumutul lui Max Dowman pentru dezvoltare",
-      "rezumat": "Arsenal este deschisă să-i permită tânărului talent Max Dowman să plece sub formă de împrumut în acest sezon, dacă o astfel de mutare ar contribui la dezvoltarea sa. Clubul dorește să se asigure că jucătorul primește suficient timp de joc la un nivel competitiv pentru a-și continua progresul. Decizia finală va depinde de găsirea unei echipe potrivite care să-i ofere condițiile necesare pentru a-și atinge potențialul maxim.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-19T12:17:29.834490+00:00",
-      "data_afisaj": "19 septembrie 2026, 15:17"
-    },
-    {
-      "id": "1126dc644805",
-      "titlu": "London City Lionesses va avea un nou centru de antrenament superior majorității cluburilor din Premier League",
-      "rezumat": "Michele Kang, proprietara clubului London City Lionesses, a declarat că noul centru de antrenament planificat pentru echipa feminină va stabili un nou standard în fotbalul feminin. Facilitatea este proiectată să depășească infrastructura utilizată de majoritatea cluburilor masculine din Premier League, subliniind angajamentul clubului pentru dezvoltarea și profesionalizarea fotbalului feminin. Această investiție majoră vizează îmbunătățirea condițiilor de pregătire și performanță pentru jucătoare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-19T12:17:29.836453+00:00",
-      "data_afisaj": "19 septembrie 2026, 15:17"
-    },
-    {
-      "id": "145cd9f759a2",
-      "titlu": "Presiune pe Michael Carrick la Manchester United, Jason Wilcox trebuie să-și asume responsabilitatea",
-      "rezumat": "Michael Carrick, antrenorul lui Manchester United, se află sub o presiune crescândă după eliminarea din Carabao Cup și performanțele slabe ale echipei. Criticile vizează și directorul de fotbal, Jason Wilcox, a cărui strategie de recrutare este pusă sub semnul întrebării. Clubul a cheltuit 155 de milioane de lire sterline pe trei mijlocași, neglijând alte poziții esențiale, ceea ce a contribuit la problemele actuale ale echipei și la nemulțumirea fanilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-19T12:17:29.838286+00:00",
-      "data_afisaj": "19 septembrie 2026, 15:17"
-    },
-    {
-      "id": "48d8b44717da",
-      "titlu": "Antrenor refuză oferta lui Gigi Becali la FCSB, dar rămâne favorit",
-      "rezumat": "Un antrenor a refuzat să-i răspundă la telefon lui Gigi Becali, patronul FCSB, care îl contactase pentru a-i oferi postul de antrenor. În ciuda acestui refuz, antrenorul este în continuare considerat de mulți drept \"cea mai bună variantă\" pentru banca tehnică a echipei. Situația subliniază dificultățile lui Becali de a găsi un antrenor stabil și acceptat de public, într-un moment crucial pentru club.",
-      "categorie": "Fotbal",
-      "surse": [
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-09-19T12:17:29.840000+00:00",
-      "data_afisaj": "19 septembrie 2026, 15:17"
-    },
-    {
-      "id": "6e0f46460c4d",
-      "titlu": "Rezultate Liga 2: Știința Poli Timișoara câștigă derby-ul, Steaua obține prima victorie",
-      "rezumat": "În etapa a 8-a a Ligii 2, Știința Poli Timișoara a obținut o victorie importantă în derby-ul rundei împotriva echipei SC Popești Leordeni, menținându-se la doar două puncte în spatele liderului CSM Slatina. Într-un alt meci, Steaua București a reușit să obțină prima sa victorie a sezonului, performanță care o ajută să părăsească ultima poziție în clasament și să spere la o îmbunătățire a situației în campionat.",
-      "categorie": "Fotbal",
-      "surse": [
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-09-19T12:17:29.841904+00:00",
-      "data_afisaj": "19 septembrie 2026, 15:17"
     }
   ]
 }
