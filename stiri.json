@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-27T13:32:42.329958+00:00",
-  "updated_at_afisaj": "27 septembrie 2026, 16:32",
+  "updated_at": "2026-09-27T19:38:43.053329+00:00",
+  "updated_at_afisaj": "27 septembrie 2026, 22:38",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,53 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 132,
+  "numar_stiri": 127,
   "stiri": [
+    {
+      "id": "5d97a4bca514",
+      "titlu": "Bruno Fernandes, Cody Gakpo și Patrick Dorgu, printre jucătorii accidentați în pauza internațională",
+      "rezumat": "Pauza internațională a adus vești proaste pentru mai multe echipe, deoarece Bruno Fernandes, Cody Gakpo și Patrick Dorgu s-au alăturat listei de jucători de profil înalt care au suferit accidentări. Problemele medicale i-au forțat să își întrerupă participarea la meciurile din Liga Națiunilor, creând îngrijorări pentru cluburile și naționalele lor. Aceste absențe ar putea influența semnificativ performanțele echipelor în viitoarele confruntări, având în vedere importanța acestor jucători.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-27T19:38:43.048920+00:00",
+      "data_afisaj": "27 septembrie 2026, 22:38"
+    },
+    {
+      "id": "3a118e4f805b",
+      "titlu": "Fără strângeri de mână între jucătorii Irlandei și Israelului înainte de meciul controversat",
+      "rezumat": "Jucătorii naționalelor Republicii Irlanda și Israelului nu și-au strâns mâinile înainte de meciul controversat din Liga Națiunilor UEFA, disputat duminică în Ungaria. Gestul subliniază tensiunile din jurul acestei partide, care a fost deja marcată de decizia Irlandei de a purta banderole negre. Absența salutului tradițional adaugă o nouă dimensiune simbolică contextului politic și social al întâlnirii, atrăgând atenția asupra sensibilităților din regiune.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-27T19:38:43.050360+00:00",
+      "data_afisaj": "27 septembrie 2026, 22:38"
+    },
+    {
+      "id": "7084b320d262",
+      "titlu": "Chelsea învinge Arsenal și pune capăt seriei de invincibilitate a „tunarilor” în WSL",
+      "rezumat": "Chelsea a obținut o victorie importantă cu 1-0 împotriva lui Arsenal în Women's Super League, punând capăt seriei de invincibilitate a rivalei. Alyssa Thompson a marcat singurul gol al partidei în prima repriză, asigurând cele trei puncte pentru Chelsea pe Stamford Bridge. Acest rezultat are implicații majore în lupta pentru titlu, Arsenal fiind acum nevoită să recupereze teren în clasament. Meciul a fost intens, cu ambele echipe luptând pentru supremație.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-27T19:38:43.051736+00:00",
+      "data_afisaj": "27 septembrie 2026, 22:38"
+    },
+    {
+      "id": "09d4ce711e76",
+      "titlu": "Liverpool învinge Everton și pune capăt unei lungi serii fără victorie în derby-ul feminin de pe Anfield",
+      "rezumat": "Echipa feminină a lui Liverpool a reușit o victorie istorică împotriva rivalei Everton, punând capăt unei serii de șase înfrângeri consecutive pe Anfield în Women's Super League. Jucătoarele lui Liverpool au sărbătorit intens în fața fanilor, după ce Olsson și Kapocs au marcat golurile care au adus prima victorie în derby-ul de pe teren propriu în era WSL. Acest succes marchează un moment important pentru club și pentru moralul echipei, oferind speranțe pentru viitor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-27T19:38:43.053313+00:00",
+      "data_afisaj": "27 septembrie 2026, 22:38"
+    },
     {
       "id": "2a20f1aaa011",
       "titlu": "Naționala SUA impresionează cu o nouă generație de tineri în victoria împotriva Peru",
@@ -1405,114 +1450,6 @@
       ],
       "data_publicare": "2026-09-21T13:44:28.527360+00:00",
       "data_afisaj": "21 septembrie 2026, 16:44"
-    },
-    {
-      "id": "35daa9723d9a",
-      "titlu": "Martin O'Neill Contemplă Viitorul Său la Celtic După O Serie de Înfrângeri",
-      "rezumat": "Antrenorul lui Celtic, Martin O'Neill, a declarat că va folosi pauza internațională pentru a-și analiza poziția la club, după ce echipa a suferit trei înfrângeri consecutive în meciuri importante. Speculațiile privind viitorul său au crescut în urma rezultatelor slabe, iar decizia sa ar putea influența direcția clubului pentru restul sezonului. Fanii și presa așteaptă cu interes concluziile reflecției sale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-09-20T19:13:38.809495+00:00",
-      "data_afisaj": "20 septembrie 2026, 22:13"
-    },
-    {
-      "id": "5434977f4c9c",
-      "titlu": "Manchester City Învinge Sunderland Într-un Meci Spectaculos cu Opt Goluri și Se Distanțează în Clasament",
-      "rezumat": "Manchester City a obținut o victorie dramatică, scor 5-3, împotriva lui Sunderland pe Etihad Stadium, într-un meci plin de goluri. Acest rezultat permite echipei lui Pep Guardiola să se distanțeze la trei puncte în fruntea clasamentului Premier League. Victoria, deși obținută cu dificultate, consolidează poziția lui City înainte de pauza internațională, punând presiune pe urmăritoarele din campionat.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-20T19:13:38.810777+00:00",
-      "data_afisaj": "20 septembrie 2026, 22:13"
-    },
-    {
-      "id": "2a02912d70fa",
-      "titlu": "Leeds United Își Menține Seria de Invincibilitate După O Remiză cu Crystal Palace",
-      "rezumat": "Leeds United și-a continuat startul neînvins în campania Premier League, obținând o remiză albă, 0-0, pe teren propriu împotriva lui Crystal Palace. Echipa lui Daniel Farke a demonstrat o apărare solidă, reușind să obțină un punct prețios. Deși nu au reușit să marcheze, rezultatul le permite să rămână în partea superioară a clasamentului și să construiască pe baza unui început promițător de sezon.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-09-20T19:13:38.811910+00:00",
-      "data_afisaj": "20 septembrie 2026, 22:13"
-    },
-    {
-      "id": "d26738c88a8e",
-      "titlu": "Bolton Câștigă un Meci Spectaculos cu Șapte Goluri Împotriva lui Norwich în Championship",
-      "rezumat": "Bolton Wanderers a obținut o victorie palpitantă, scor 4-3, în deplasare împotriva lui Norwich City, într-un meci din Championship. Norwich a suferit a doua înfrângere consecutivă cu același scor, 4-3, pe Carrow Road. Partida a fost marcată de numeroase răsturnări de scor și a oferit un spectacol ofensiv, Bolton reușind să se impună într-un final dramatic.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-09-20T19:13:38.813066+00:00",
-      "data_afisaj": "20 septembrie 2026, 22:13"
-    },
-    {
-      "id": "db29755ab67b",
-      "titlu": "Incidente Grave la Meciul Dinamo – Farul: O Femeie Rănită de o Torță Aruncată în Tribună",
-      "rezumat": "Partida dintre Dinamo București și Farul Constanța din Superliga României a fost marcată de incidente grave. O torță aruncată din sectorul fanilor constănțeni a aterizat în tribuna dinamovistă, rănind o femeie. Evenimentul a generat tensiuni pe stadion și a atras atenția asupra problemelor de siguranță la meciurile de fotbal din România. Autoritățile investighează incidentul pentru a identifica persoanele responsabile.",
-      "categorie": "Fotbal",
-      "surse": [
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-09-20T19:13:38.814266+00:00",
-      "data_afisaj": "20 septembrie 2026, 22:13"
-    },
-    {
-      "id": "8c336950194e",
-      "titlu": "Liverpool Învinge Bournemouth Grație Golului lui Isak",
-      "rezumat": "Alexander Isak a marcat golul decisiv, aducând victoria lui Liverpool cu 1-0 împotriva lui Bournemouth. Meciul a marcat revenirea lui Andoni Iraola pe stadionul Vitality, unde echipa sa a fost învinsă la limită. Victoria consolidează poziția lui Liverpool în clasament și subliniază eficiența atacului său în momentele cheie. Echipa a demonstrat o bună organizare defensivă, reușind să-și mențină avantajul până la finalul partidei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-20T18:33:57.565344+00:00",
-      "data_afisaj": "20 septembrie 2026, 21:33"
-    },
-    {
-      "id": "7d37e76722e2",
-      "titlu": "Manchester United Obține un Punct la Fulham După un Gol Egalizator Târziu",
-      "rezumat": "Matheus Cunha a marcat un gol egalizator deviat în minutul 89, asigurând un punct pentru Manchester United într-o remiză 1-1 cu Fulham. Rezultatul a atenuat presiunea asupra echipei lui Michael Carrick, care se confrunta cu o criză după înfrângerea în derby-ul cu Manchester City și eliminarea din Cupa Ligii. Acest punct este crucial pentru moralul echipei înainte de pauza internațională.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-20T18:33:57.567221+00:00",
-      "data_afisaj": "20 septembrie 2026, 21:33"
-    },
-    {
-      "id": "f684b9b896a5",
-      "titlu": "Rangers Învinge Din Nou Celtic și Reduce Ecartul în Clasament",
-      "rezumat": "Rangers a obținut a doua victorie consecutivă împotriva rivalei Celtic în opt zile, grație golului marcat de Ryan Naderi. Acest succes reduce diferența dintre cele două echipe la doar două puncte în fruntea Premiership-ului scoțian, redeschizând lupta pentru titlu. Victoria în derby-ul Old Firm este un impuls major pentru Rangers și adâncește perioada dificilă a lui Celtic.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-20T18:33:57.569362+00:00",
-      "data_afisaj": "20 septembrie 2026, 21:33"
-    },
-    {
-      "id": "2d474de2054c",
-      "titlu": "Atlético Madrid Învinge Real Madrid Într-un Derby Tensionat",
-      "rezumat": "Atlético Madrid a obținut o victorie prețioasă cu 2-0 împotriva rivalei Real Madrid într-un derby tensionat. Golurile marcate de Álex Grimaldo și Jonathan David au asigurat succesul echipei lui Diego Simeone, care a profitat de faptul că Real Madrid a jucat în inferioritate numerică. Această victorie este un rezultat important pentru Atlético în lupta pentru titlu și consolidează moralul echipei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-20T18:33:57.571152+00:00",
-      "data_afisaj": "20 septembrie 2026, 21:33"
     }
   ]
 }
