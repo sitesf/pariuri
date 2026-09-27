@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-27T19:38:43.053329+00:00",
-  "updated_at_afisaj": "27 septembrie 2026, 22:38",
+  "updated_at": "2026-09-27T19:56:28.375464+00:00",
+  "updated_at_afisaj": "27 septembrie 2026, 22:56",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,53 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 127,
+  "numar_stiri": 131,
   "stiri": [
+    {
+      "id": "4498d91273e3",
+      "titlu": "Chelsea își recapătă reziliența în Women's Super League: Sunt din nou candidate la titlu?",
+      "rezumat": "După ce au pierdut titlul în Women's Super League sezonul trecut, echipa feminină a clubului Chelsea arată semne timpurii că și-a recăpătat scânteia pentru o nouă provocare. Semnele din actuala campanie sugerează că formația londoneză și-a restabilit forța și determinarea, alimentând speranțele fanilor că pot lupta din nou pentru coroana WSL. Analiza performanțelor indică o revenire la forma care le-a consacrat.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-27T19:56:28.369535+00:00",
+      "data_afisaj": "27 septembrie 2026, 22:56"
+    },
+    {
+      "id": "001a59427a03",
+      "titlu": "Tony Pulis acuză că Stoke City a fost „înșelată” în finala Cupei Angliei din 2011, după verdictul Manchester City",
+      "rezumat": "Fostul manager al echipei Stoke City, Tony Pulis, a declarat că formația sa a fost „înșelată” în finala Cupei Angliei din 2011, pierdută în fața lui Manchester City. Declarația vine după ce Manchester City a fost găsită vinovată de majoritatea celor 115 acuzații de încălcare a regulilor financiare ale Premier League. Pulis consideră că verdictul recent aruncă o umbră asupra legitimității victoriei lui City de atunci.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-27T19:56:28.371706+00:00",
+      "data_afisaj": "27 septembrie 2026, 22:56"
+    },
+    {
+      "id": "b417e2865be2",
+      "titlu": "Thomas Tuchel: Jude Bellingham joacă mai bine cu „o doză de furie”",
+      "rezumat": "Selecționerul Angliei, Thomas Tuchel, consideră că Jude Bellingham își atinge cel mai înalt nivel de performanță atunci când joacă cu „o doză de furie”. Această observație vine în contextul pregătirilor starului englez și al coechipierilor săi pentru meciul împotriva Republicii Cehe. Tuchel subliniază că această intensitate emoțională contribuie la jocul excepțional al mijlocașului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-09-27T19:56:28.373486+00:00",
+      "data_afisaj": "27 septembrie 2026, 22:56"
+    },
+    {
+      "id": "f09c820b1d8c",
+      "titlu": "Thomas Tuchel consideră „nebunie” să odihnească jucătorii Angliei în ciuda ferestrei internaționale extinse",
+      "rezumat": "Thomas Tuchel a declarat că ar fi „o nebunie” să permită jucătorilor săi de la naționala Angliei sau cluburilor acestora să aleagă meciurile în timpul ferestrei extinse din Liga Națiunilor. Antrenorul a promis că va aborda cu maximă intensitate meciul împotriva Cehiei, deși a recunoscut că Declan Rice a avut nevoie de odihnă și nu a putut face parte din lot din cauza volumului mare de muncă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-27T19:56:28.375445+00:00",
+      "data_afisaj": "27 septembrie 2026, 22:56"
+    },
     {
       "id": "5d97a4bca514",
       "titlu": "Bruno Fernandes, Cody Gakpo și Patrick Dorgu, printre jucătorii accidentați în pauza internațională",
