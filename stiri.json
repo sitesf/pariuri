@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-27T12:51:49.332057+00:00",
-  "updated_at_afisaj": "27 septembrie 2026, 15:51",
+  "updated_at": "2026-09-27T13:32:42.329958+00:00",
+  "updated_at_afisaj": "27 septembrie 2026, 16:32",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,53 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 133,
+  "numar_stiri": 132,
   "stiri": [
+    {
+      "id": "2a20f1aaa011",
+      "titlu": "Naționala SUA impresionează cu o nouă generație de tineri în victoria împotriva Peru",
+      "rezumat": "Echipa națională masculină a Statelor Unite a învins Peru cu 4-1 într-un meci care a marcat debutul a unsprezece jucători noi, majoritatea tineri. Victoria, obținută prin golurile marcate de Justin Ellis, Zavier Gozo și Justin Hall, demonstrează succesul noii strategii de dezvoltare a talentelor pentru ciclul Cupei Mondiale din 2030. Performanța entuziastă a noilor veniți sugerează că mișcarea de tineret a USMNT începe să dea roade, oferind optimism pentru viitorul fotbalului american.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-27T13:32:42.324375+00:00",
+      "data_afisaj": "27 septembrie 2026, 16:32"
+    },
+    {
+      "id": "dcc4ec282774",
+      "titlu": "Consecințele verdictului de vinovăție al Manchester City ar putea afecta profund Premier League",
+      "rezumat": "Verdictul de vinovăție împotriva Manchester City pentru încălcarea regulilor financiare ar putea avea repercusiuni semnificative nu doar pentru club, ci și pentru întreaga Premier League. Analiza sugerează că integritatea competiției și percepția publică ar putea fi afectate pe termen lung. Discuțiile se concentrează pe modul în care liga va gestiona situația și pe precedentul pe care acest caz îl creează, cu implicații potențial profunde asupra modului în care cluburile sunt reglementate și sancționate în viitor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-27T13:32:42.326251+00:00",
+      "data_afisaj": "27 septembrie 2026, 16:32"
+    },
+    {
+      "id": "0adedb4ad79d",
+      "titlu": "Anglia trebuie să echilibreze \"haosul\" cu controlul pentru a câștiga trofee majore",
+      "rezumat": "După înfrângerea Angliei în fața Spaniei, analiștii subliniază necesitatea ca echipa să găsească un echilibru între stilul său de joc energic și o abordare mai controlată. Deși Anglia demonstrează momente de \"haos\" creativ, lipsa de control tactic în momente cheie a fost evidențiată ca un factor decisiv în meciurile importante. Pentru a aspira la trofee majore, echipa trebuie să-și îmbunătățească gestionarea jocului și să evite erorile neforțate, transformând momentele de presiune în oportunități de a-și impune ritmul.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-27T13:32:42.328040+00:00",
+      "data_afisaj": "27 septembrie 2026, 16:32"
+    },
+    {
+      "id": "f395a1a46977",
+      "titlu": "Jonjo Shelvey dezvăluie detalii despre disputa cu Gareth Southgate și excluderea din naționala Angliei",
+      "rezumat": "Fostul mijlocaș al Liverpool și Newcastle, Jonjo Shelvey, a vorbit deschis despre relația tensionată cu selecționerul Angliei, Gareth Southgate, și despre motivele pentru care a fost ignorat de echipa națională. Shelvey a declarat că o neînțelegere mai veche cu Southgate a influențat decizia de a nu fi inclus în lotul pentru Cupa Mondială din 2018, în ciuda performanțelor sale la nivel de club. Această dezvăluire oferă o perspectivă rară asupra dinamicii interne și a deciziilor de selecție din cadrul naționalei Angliei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-09-27T13:32:42.329942+00:00",
+      "data_afisaj": "27 septembrie 2026, 16:32"
+    },
     {
       "id": "cdc80c7f366c",
       "titlu": "Echipa Națională a SUA își lansează o nouă generație de tineri talente, inclusiv debutul lui Cavan Sullivan",
@@ -1468,61 +1513,6 @@
       ],
       "data_publicare": "2026-09-20T18:33:57.571152+00:00",
       "data_afisaj": "20 septembrie 2026, 21:33"
-    },
-    {
-      "id": "e5e04ed0d4be",
-      "titlu": "Coventry obține primele puncte ale sezonului într-o victorie dramatică împotriva lui Forest",
-      "rezumat": "Golul lui Jay Dasilva a făcut diferența, aducând lui Coventry prima victorie în Premier League de la revenirea în eșalonul superior. Echipa a reușit să-și asigure cele trei puncte într-un meci tensionat, marcând un moment important pentru club după o perioadă dificilă. Această victorie le oferă un impuls moral semnificativ și speranțe pentru continuarea sezonului, consolidând eforturile de adaptare la rigorile primei ligi.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-20T12:52:31.369107+00:00",
-      "data_afisaj": "20 septembrie 2026, 15:52"
-    },
-    {
-      "id": "0e9dc26d7c2d",
-      "titlu": "Everton își continuă seria de invincibilitate cu o victorie împotriva lui Ipswich, rămasă în 10 jucători",
-      "rezumat": "Everton, neînvinsă în acest sezon, a urcat pe locul cinci în Premier League, după ce golul lui Thierno Barry a făcut diferența împotriva lui Ipswich Town, care a jucat în inferioritate numerică. Victoria subliniază forma bună a echipei și capacitatea de a gestiona meciurile dificile, chiar și în fața unei rezistențe acerbe. Acest succes este crucial pentru ambițiile clubului de a se menține în zona superioară a clasamentului și de a-și consolida poziția.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-20T12:52:31.371202+00:00",
-      "data_afisaj": "20 septembrie 2026, 15:52"
-    },
-    {
-      "id": "15bba7c64be0",
-      "titlu": "Donnarumma: Manchester City nu este în tranziție, va fi un sezon grozav",
-      "rezumat": "Portarul Gianluigi Donnarumma a declarat că Manchester City nu se află într-o perioadă de tranziție, ci este pregătită pentru un sezon de succes. Afirmația sa vine în contextul speculațiilor privind evoluția echipei după schimbările recente. Donnarumma a subliniat încrederea în forța colectivă și în obiectivele clubului, transmițând un mesaj de optimism fanilor și analiștilor sportivi, care anticipează o luptă acerbă pentru trofee.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-09-20T12:52:31.373055+00:00",
-      "data_afisaj": "20 septembrie 2026, 15:52"
-    },
-    {
-      "id": "b4902b56079d",
-      "titlu": "Viitorul lui Hayen la Burnley sub semnul întrebării, pe fondul problemelor financiare și al rezultatelor slabe",
-      "rezumat": "Egalul obținut de Derby în prelungiri a lăsat-o pe Burnley fără victorie acasă din octombrie anul trecut, iar problemele financiare ale clubului se agravează. Antrenorul Nicky Hayen se confruntă cu o presiune crescută, în timp ce fanii își exprimă îngrijorarea existențială cu privire la viitorul echipei. Revenirea în Premier League pare o perspectivă îndepărtată, iar situația necesită soluții urgente pentru a redresa parcursul clubului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-20T12:52:31.375143+00:00",
-      "data_afisaj": "20 septembrie 2026, 15:52"
-    },
-    {
-      "id": "4e121998b073",
-      "titlu": "Planul Japoniei de a câștiga Cupa Mondială se bazează pe Premier League",
-      "rezumat": "Strategia Japoniei de a cuceri Cupa Mondială este în plină desfășurare și depinde în mare măsură de influența Premier League. Influxul de talente japoneze în Europa, în special în campionatul englez, este considerat primul pas într-o revoluție a transferurilor. Această abordare vizează dezvoltarea jucătorilor la cel mai înalt nivel, pentru a construi o echipă națională competitivă capabilă să atingă performanțe istorice la turneul mondial și să-și îndeplinească ambițiile.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-09-20T12:52:31.376979+00:00",
-      "data_afisaj": "20 septembrie 2026, 15:52"
     }
   ]
 }
