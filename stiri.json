@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-27T19:56:28.375464+00:00",
-  "updated_at_afisaj": "27 septembrie 2026, 22:56",
+  "updated_at": "2026-09-28T15:05:27.374373+00:00",
+  "updated_at_afisaj": "28 septembrie 2026, 18:05",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 131,
+  "numar_stiri": 127,
   "stiri": [
+    {
+      "id": "4bc33d5cf8f8",
+      "titlu": "Konsa și O'Reilly se îndoiesc să înfrunte Cehia",
+      "rezumat": "Ezri Konsa și Nico O'Reilly sunt amândoi îndoieli să joace marți seară în meciul Angliei din Liga Națiunilor împotriva Cehiei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-28T15:04:42.142310+00:00",
+      "data_afisaj": "28 septembrie 2026, 18:04"
+    },
+    {
+      "id": "f07d1df8e930",
+      "titlu": "FAI nu este clar asupra posibilelor sancțiuni dacă jocul nu este jucat",
+      "rezumat": "Republica Irlanda s-ar fi putut confrunta cu sancțiuni „nedeterminate” dacă nu ar fi jucat duminică meciul din Liga Națiunilor împotriva Israelului, potrivit președintelui FAI, Paul Cooke.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-28T15:04:42.143822+00:00",
+      "data_afisaj": "28 septembrie 2026, 18:04"
+    },
+    {
+      "id": "7aa9ab890d99",
+      "titlu": "Este fotbalul cu posesie din Premier League pe cale de plecare?",
+      "rezumat": "Doar 36% dintre echipele cu posesie de peste 60% au câștigat în acest sezon în Premier League. BBC Sport se uită la ce?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-28T15:04:42.145295+00:00",
+      "data_afisaj": "28 septembrie 2026, 18:04"
+    },
+    {
+      "id": "f061e329df8f",
+      "titlu": "Cei patru „ce mai departe?” scenarii pentru Premier League după guvernarea lui Man City",
+      "rezumat": "A durat mai mult de doi ani, dar în cele din urmă pare să fi fost făcută o judecată cu privire la cele 115 acuzații formulate împotriva lui Manchester City. Iată ce înseamnă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-28T15:04:42.146943+00:00",
+      "data_afisaj": "28 septembrie 2026, 18:04"
+    },
+    {
+      "id": "e9ae77852ef9",
+      "titlu": "Ar putea fi Potter următoarea vedetă revoluționară a Angliei?",
+      "rezumat": "Cu Sarina Wiegman gata să-și numească ultima echipă a Angliei marți, există un nume despre care toată lumea vorbește - Lexi Potter. Iată de ce.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-28T15:04:42.148400+00:00",
+      "data_afisaj": "28 septembrie 2026, 18:04"
+    },
     {
       "id": "4498d91273e3",
       "titlu": "Chelsea își recapătă reziliența în Women's Super League: Sunt din nou candidate la titlu?",
@@ -1394,107 +1449,6 @@
       ],
       "data_publicare": "2026-09-21T20:19:12.602215+00:00",
       "data_afisaj": "21 septembrie 2026, 23:19"
-    },
-    {
-      "id": "8314386cf02d",
-      "titlu": "Antrenorul lui Southampton, Tonda Eckert, Așteaptă Verdictul în Cazul „Spygate”",
-      "rezumat": "Antrenorul echipei Southampton, Tonda Eckert, se pregătește pentru audierea FA privind acuzația de comportament necorespunzător în cazul „Spygate”. Eckert a declarat că a cerut iertare, iar clubul, prin directorul executiv Phil Parsons, așteaptă cu nerăbdare decizia forului. Acest caz a stârnit discuții intense în lumea fotbalului englez, iar rezultatul audierii va avea implicații semnificative pentru antrenor și pentru clubul din Premier League, influențând imaginea și stabilitatea echipei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-21T14:51:36.839764+00:00",
-      "data_afisaj": "21 septembrie 2026, 17:51"
-    },
-    {
-      "id": "316489b2cd86",
-      "titlu": "Fostul Extrema lui Birmingham, Jordan Graham, Internat în Spital După un Accident Grav",
-      "rezumat": "Jordan Graham, fostul extrema al echipei Birmingham, a fost internat în spital după ce a fost implicat într-un „accident rutier grav”. Detaliile complete ale incidentului nu au fost încă făcute publice, dar starea sa de sănătate este monitorizată. Comunitatea fotbalistică și fanii își exprimă îngrijorarea și îi transmit mesaje de susținere jucătorului, sperând într-o recuperare rapidă după acest eveniment nefericit. Accidentul a șocat lumea sportului, iar recuperarea sa este prioritatea principală.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-21T14:51:36.841687+00:00",
-      "data_afisaj": "21 septembrie 2026, 17:51"
-    },
-    {
-      "id": "723ef5759661",
-      "titlu": "Analiza Pieței de Transferuri din Premier League: Cum S-au Descurcat Cluburile",
-      "rezumat": "O analiză detaliată a pieței de transferuri din Premier League a fost publicată, evaluând performanța fiecărui club în perioada de vară. Raportul examinează achizițiile și plecările, inclusiv recordul britanic de transferuri egalat și clubul care a semnat nu mai puțin de 18 jucători. Se discută despre modul în care fiecare echipă și-a consolidat lotul și dacă strategiile adoptate vor influența rezultatele în sezonul curent, oferind o perspectivă asupra echilibrului de forțe din campionat.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-21T14:51:36.843489+00:00",
-      "data_afisaj": "21 septembrie 2026, 17:51"
-    },
-    {
-      "id": "4a350fb9044e",
-      "titlu": "Lewis Hall Își Prelungește Contractul cu Newcastle United",
-      "rezumat": "Fundașul englez Lewis Hall și-a exprimat entuziasmul după ce și-a prelungit contractul cu Newcastle United, declarând că „întotdeauna a știut că vrea să joace aici”. Jucătorul, care a reprezentat și naționala Angliei, este încântat să continue la Magpies. Această decizie consolidează planurile pe termen lung ale clubului și confirmă angajamentul jucătorului față de echipa din Premier League, unde speră să aibă un rol important în sezoanele următoare, contribuind la obiectivele ambițioase ale clubului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-09-21T14:51:36.845091+00:00",
-      "data_afisaj": "21 septembrie 2026, 17:51"
-    },
-    {
-      "id": "ae07cd8a9a6f",
-      "titlu": "Cinco Jucători Cheie Se Retrag din Lotul Angliei pentru Liga Națiunilor",
-      "rezumat": "Lotul național al Angliei a suferit cinci retrageri semnificative înaintea meciurilor din Liga Națiunilor. Printre jucătorii care nu vor participa se numără Tino Livramento, Kobbie Mainoo, Cole Palmer, Marcus Rashford și Declan Rice. Această serie de absențe reprezintă o provocare pentru selecționerul Angliei, Gareth Southgate, care va trebui să găsească soluții pentru a acoperi golurile lăsate libere de acești fotbaliști importanți în partidele viitoare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-21T13:44:28.519441+00:00",
-      "data_afisaj": "21 septembrie 2026, 16:44"
-    },
-    {
-      "id": "2ccf75d216b3",
-      "titlu": "Granit Xhaka Recunoaște Utilizarea unui Certificat Fals de Vaccinare Anti-COVID-19 în 2022",
-      "rezumat": "Căpitanul Elveției și al echipei Sunderland, Granit Xhaka, a fost retras din lotul național după ce a recunoscut că a folosit un certificat fals de vaccinare anti-COVID-19 în anul 2022. La momentul respectiv, Xhaka era jucător la Arsenal. Fotbalistul și-a cerut scuze pentru \"greșeala\" comisă și nu va participa la cele patru meciuri viitoare ale Elveției din Liga Națiunilor. El urmează să fie interogat de biroul procurorului din Lucerna.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-21T13:44:28.521490+00:00",
-      "data_afisaj": "21 septembrie 2026, 16:44"
-    },
-    {
-      "id": "d4f612dea238",
-      "titlu": "Inter Milano Obține o Remiză cu Roma, Lautaro Martínez Egalând Scorul în Serie A",
-      "rezumat": "Inter Milano, campioana en-titre, a reușit să obțină o remiză de 2-2 împotriva rivalei la titlu, AS Roma, într-un meci tensionat din Serie A. Lautaro Martínez a fost eroul Interului, marcând ambele goluri și extinzându-și recordul de invincibilitate împotriva echipelor antrenate de Gian Piero Gasperini. Roma a condus cu două goluri, dar nu a reușit să-și mențină avantajul, permițând Interului să revină și să salveze un punct prețios pe Stadio Olimpico.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-21T13:44:28.523464+00:00",
-      "data_afisaj": "21 septembrie 2026, 16:44"
-    },
-    {
-      "id": "eed731939768",
-      "titlu": "Borussia Dortmund Revine în Fruntea Clasamentului Bundesliga, Menținând un Start Perfect de Sezon",
-      "rezumat": "Borussia Dortmund a urcat din nou pe primul loc în Bundesliga, după ce a menținut un start perfect de sezon, învingând Stuttgart. Echipa lui Niko Kovac a câștigat toate meciurile de până acum, demonstrând o formă excelentă. Deși este prea devreme pentru a-i numi candidați la titlu, începutul puternic al BVB sugerează un sezon promițător, readucând în discuție amintirile performanțelor din sezoanele anterioare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-21T13:44:28.525471+00:00",
-      "data_afisaj": "21 septembrie 2026, 16:44"
-    },
-    {
-      "id": "3319689b91fb",
-      "titlu": "Liga Campionilor la Fotbal Feminin Își Desfășoară Meciurile de Debut Săptămâna Aceasta",
-      "rezumat": "Competiția UEFA Women's Champions League (UWCL) debutează în această săptămână, aducând în prim-plan cele mai bune echipe de fotbal feminin din Europa. Fanii sunt pregătiți să urmărească acțiunea, cu echipe precum Manchester City, Arsenal și Chelsea printre cele care vor intra în luptă pentru trofeul râvnit. Turneul promite meciuri spectaculoase și o luptă intensă pentru supremația continentală în fotbalul feminin, marcând un moment important în calendarul sportiv.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-09-21T13:44:28.527360+00:00",
-      "data_afisaj": "21 septembrie 2026, 16:44"
     }
   ]
 }
