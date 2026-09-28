@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-28T15:05:27.374373+00:00",
-  "updated_at_afisaj": "28 septembrie 2026, 18:05",
+  "updated_at": "2026-09-28T16:28:22.460676+00:00",
+  "updated_at_afisaj": "28 septembrie 2026, 19:28",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 127,
+  "numar_stiri": 132,
   "stiri": [
+    {
+      "id": "1e5582b315eb",
+      "titlu": "Cluburile Europene de Top Vor Împărți 185 de Milioane de Lire Sterline din Fondul Cupei Mondiale a Cluburilor",
+      "rezumat": "Cluburile de elită din Europa vor primi jumătate din fondul de solidaritate de 250 de milioane de dolari (aproximativ 185 de milioane de lire sterline) provenit din Cupa Mondială a Cluburilor de anul trecut. Această decizie marchează sfârșitul unei perioade de frustrare pentru cluburile care nu au participat la turneu. Se așteaptă ca FIFA și Asociația Cluburilor de Fotbal Europene să ajungă la un acord final în octombrie, stabilind o împărțire egală a veniturilor între echipele europene și cele din restul lumii. Această măsură financiară este menită să sprijine dezvoltarea fotbalului la nivel global.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-28T16:28:22.453205+00:00",
+      "data_afisaj": "28 septembrie 2026, 19:28"
+    },
+    {
+      "id": "62e7ed62af80",
+      "titlu": "Arsène Wenger și Arsenal: 30 de Ani de la Numirea Care a Schimbat Fotbalul Englez",
+      "rezumat": "Se împlinesc 30 de ani de la numirea lui Arsène Wenger la Arsenal, o decizie managerială care a transformat ireversibil fotbalul englez. Alegerea lui David Dein de a-l aduce pe antrenorul francez a marcat începutul unei ere de multiculturalism și inovație tactică, dând naștere Premier League-ului modern pe care îl cunoaștem astăzi. În ciuda scepticismului inițial, Wenger a revoluționat abordarea clubului în materie de antrenament, dietă și scouting, stabilind noi standarde și influențând profund identitatea și stilul de joc al echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-28T16:28:22.455126+00:00",
+      "data_afisaj": "28 septembrie 2026, 19:28"
+    },
+    {
+      "id": "bcd466ee7736",
+      "titlu": "Precedentul Deducerilor de Puncte în Premier League: O Istorie a Sancțiunilor",
+      "rezumat": "Premier League are o istorie bogată în ceea ce privește deducerea de puncte cluburilor, stabilind un precedent important pentru cazurile actuale de încălcare a regulilor financiare. Această retrospectivă subliniază că sancțiunile nu sunt un fenomen nou în fotbalul englez de top, ci o măsură aplicată de-a lungul timpului pentru a asigura respectarea regulamentelor. Analiza cazurilor anterioare oferă context și perspective asupra modului în care liga a gestionat și ar putea gestiona în viitor abaterile financiare, influențând clasamentele și destinele cluburilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-09-28T16:28:22.456896+00:00",
+      "data_afisaj": "28 septembrie 2026, 19:28"
+    },
+    {
+      "id": "c01f7464894b",
+      "titlu": "Poate Harry Kane să Depășească Recordurile de Goluri Internaționale ale lui Messi și Ronaldo?",
+      "rezumat": "Harry Kane, atacantul Angliei, a stabilit deja numeroase recorduri de goluri în cariera sa, iar acum se pune întrebarea dacă poate continua să marcheze la nivel internațional pentru a-i depăși pe Lionel Messi și Cristiano Ronaldo. Cei doi sunt considerați cei mai mari marcatori ai generației lor, iar atingerea performanțelor lor ar reprezenta o realizare monumentală. Analiza formei sale actuale, a longevității și a numărului de meciuri rămase în cariera sa internațională va determina dacă Kane are șanse reale să atingă aceste borne istorice.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-09-28T16:28:22.458813+00:00",
+      "data_afisaj": "28 septembrie 2026, 19:28"
+    },
+    {
+      "id": "d7e9f71f497d",
+      "titlu": "Oficial din Superliga Avertizează Asupra unei Posibile Oferte Tentante pentru Gică Hagi",
+      "rezumat": "Un conducător din Superliga României a fost prezent în tribune la meciul Bosnia-Herțegovina și a exprimat o îngrijorare publică, sugerând că Gică Hagi ar putea deveni ținta unei oferte tentante. Declarația, făcută în exclusivitate, indică o posibilă \"momeală\" care ar putea-l convinge pe legendarul fotbalist și antrenor român să părăsească actualul său proiect. Această speculație aduce în discuție viitorul lui Hagi și impactul pe care o eventuală plecare l-ar avea asupra fotbalului românesc.",
+      "categorie": "Fotbal",
+      "surse": [
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-09-28T16:28:22.460655+00:00",
+      "data_afisaj": "28 septembrie 2026, 19:28"
+    },
     {
       "id": "4bc33d5cf8f8",
       "titlu": "Konsa și O'Reilly se îndoiesc să înfrunte Cehia",
