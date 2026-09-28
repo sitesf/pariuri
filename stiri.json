@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-28T16:28:22.460676+00:00",
-  "updated_at_afisaj": "28 septembrie 2026, 19:28",
+  "updated_at": "2026-09-28T21:41:13.448633+00:00",
+  "updated_at_afisaj": "29 septembrie 2026, 00:41",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,65 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 132,
+  "numar_stiri": 127,
   "stiri": [
+    {
+      "id": "13e5a6f651ac",
+      "titlu": "Directorul Executiv al Manchester City își Menține Inocența în Fața Acuzațiilor Premier League",
+      "rezumat": "Ferran Soriano, directorul executiv al clubului Manchester City, a transmis un mesaj ferm altor oficiali din fotbal, susținând nevinovăția clubului în legătură cu majoritatea acuzațiilor aduse de Premier League. Clubul a fost găsit vinovat de o comisie independentă, însă Soriano a declarat că Manchester City va lupta pentru a-și demonstra inocența. Această poziție vine în contextul în care mai multe cluburi din Premier League solicită publicarea rapidă a verdictului, intensificând presiunea asupra situației. Clubul insistă că deține dovezi irefutabile pentru a-și susține cazul.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-28T21:41:13.441256+00:00",
+      "data_afisaj": "29 septembrie 2026, 00:41"
+    },
+    {
+      "id": "1e9570fd57ae",
+      "titlu": "Portarul lui Mallorca, Iván Cuéllar, Rănit Grav După un Incident la Baza de Antrenament",
+      "rezumat": "Iván \"Pichu\" Cuéllar, portarul în vârstă de 42 de ani al echipei Real Mallorca, a suferit o leziune gravă la cap după ce o structură mare din cantina bazei de antrenament a clubului s-a prăbușit peste el. Incidentul a avut loc luni, înainte de sesiunea de antrenament programată. Clubul a confirmat că jucătorul a fost transportat de urgență la spital pentru îngrijiri medicale, unde se recuperează în prezent. Cauzele exacte ale prăbușirii structurii de la Ciutat Esportiva Antonio Asensio sunt investigate.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-28T21:41:13.443203+00:00",
+      "data_afisaj": "29 septembrie 2026, 00:41"
+    },
+    {
+      "id": "ba6286e23626",
+      "titlu": "Rezultate Notabile în Liga Națiunilor: Franța Învinge Belgia, Italia Câștigă Convingător",
+      "rezumat": "În cadrul meciurilor din Liga Națiunilor, Franța a obținut o victorie importantă cu scorul de 1-0 împotriva Belgiei la Bruxelles, grație golului marcat de Michael Olise. Într-un alt meci, Italia a reușit o revenire spectaculoasă, învingând Turcia cu 4-1. Aceste rezultate marchează o serie de confruntări intense în competiția europeană, cu echipele luptând pentru supremație în grupele lor. Partidele au oferit momente de tensiune și spectacol, confirmând importanța Ligii Națiunilor în calendarul fotbalistic internațional.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-28T21:41:13.445074+00:00",
+      "data_afisaj": "29 septembrie 2026, 00:41"
+    },
+    {
+      "id": "e0d4a211b97b",
+      "titlu": "Naționala României Învinsă de Bosnia cu 2-4 într-un Meci Amical",
+      "rezumat": "Echipa națională de fotbal a României a fost învinsă pe teren propriu de selecționata Bosniei și Herțegovinei cu scorul de 2-4 într-un meci amical. Partida a evidențiat deficiențe în jocul defensiv al României și a generat critici privind performanța echipei. Rezultatul subliniază necesitatea unor ajustări tactice și strategice pentru viitoarele confruntări internaționale, în contextul pregătirilor pentru competițiile oficiale. Meciul a fost considerat un experiment nereușit de către unii observatori.",
+      "categorie": "Fotbal",
+      "surse": [
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-09-28T21:41:13.446811+00:00",
+      "data_afisaj": "29 septembrie 2026, 00:41"
+    },
+    {
+      "id": "9810f66aa01d",
+      "titlu": "De la Portar de Top la a Patra Opțiune: Declinul Carierei lui Aaron Ramsdale",
+      "rezumat": "Aaron Ramsdale, portarul care a concurat pentru titlul de Premier League cu Arsenal și a reprezentat Anglia la nivel internațional, se află acum în situația de a fi a patra opțiune de portar la Southampton. Această schimbare drastică în statutul său ridică întrebări despre parcursul carierei sale și despre factorii care au condus la această retrogradare neașteptată. De la un jucător cheie la Arsenal, Ramsdale se confruntă acum cu o provocare majoră în încercarea de a-și recâștiga locul în fotbalul de top.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-28T21:41:13.448612+00:00",
+      "data_afisaj": "29 septembrie 2026, 00:41"
+    },
     {
       "id": "1e5582b315eb",
       "titlu": "Cluburile Europene de Top Vor Împărți 185 de Milioane de Lire Sterline din Fondul Cupei Mondiale a Cluburilor",
@@ -1390,120 +1447,6 @@
       ],
       "data_publicare": "2026-09-22T12:26:48.878960+00:00",
       "data_afisaj": "22 septembrie 2026, 15:26"
-    },
-    {
-      "id": "7d897b8c1cab",
-      "titlu": "Infantino spune că Fifa se poate schimba, propunând o revizuire externă",
-      "rezumat": "Președintele Fifa, Gianni Infantino, a propus o revizuire externă a guvernanței organismului de conducere al fotbalului mondial.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-21T20:44:06.651973+00:00",
-      "data_afisaj": "21 septembrie 2026, 23:44"
-    },
-    {
-      "id": "4adc33912143",
-      "titlu": "Atletico îi răspunde lui Mourinho în legătură cu plângerile privind arbitrajul",
-      "rezumat": "Atletico Madrid i-a răspuns lui Jose Mourinho după ce acesta s-a plâns de arbitrajul din derby-ul Madridului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-09-21T20:44:06.653166+00:00",
-      "data_afisaj": "21 septembrie 2026, 23:44"
-    },
-    {
-      "id": "5c70fe4eec83",
-      "titlu": "Palmer și Rice printre cele cinci retrageri din lotul Angliei",
-      "rezumat": "Tino Livramento, Kobbie Mainoo, Cole Palmer, Marcus Rashford și Declan Rice se retrag din lotul Angliei pentru viitoarele meciuri din Liga Națiunilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-21T20:44:06.654343+00:00",
-      "data_afisaj": "21 septembrie 2026, 23:44"
-    },
-    {
-      "id": "db058dc53527",
-      "titlu": "A avut dreptate Neville să acuze Man Utd de 'lipsă de efort'?",
-      "rezumat": "Fostul fundaș al lui Manchester United a spus că o perioadă de 15 minute din egalul 1-1 cu Fulham a fost „cea mai proastă pe care am văzut-o vreodată” – îl susțin statisticile și portofoliul său media amplifică zgomotul?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-21T20:44:06.655607+00:00",
-      "data_afisaj": "21 septembrie 2026, 23:44"
-    },
-    {
-      "id": "3010fb4e3c33",
-      "titlu": "Sportivi irlandezi îndeamnă Republica Irlanda să boicoteze meciul cu Israel",
-      "rezumat": "Peste 160 de sportivi irlandezi semnează o scrisoare deschisă prin care îndeamnă echipa masculină de seniori a Republicii Irlanda să refuze să participe la viitoarele meciuri din Liga Națiunilor împotriva Israelului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-21T20:44:06.656795+00:00",
-      "data_afisaj": "21 septembrie 2026, 23:44"
-    },
-    {
-      "id": "850dc9ddad11",
-      "titlu": "Atletico Madrid Răspunde Acuzațiilor lui Mourinho Privind Arbitrajul",
-      "rezumat": "Clubul Atletico Madrid a reacționat public la plângerile antrenorului Jose Mourinho, care a criticat arbitrajul după derby-ul capitalei spaniole. Declarațiile lui Mourinho au venit în urma înfrângerii echipei sale în fața rivalilor locali, iar răspunsul de la Atletico subliniază tensiunile post-meci și dezacordul față de acuzațiile aduse oficialilor partidei. Această dispută adaugă un nou capitol rivalității dintre cele două cluburi madrilene și antrenorii lor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-09-21T20:19:12.595094+00:00",
-      "data_afisaj": "21 septembrie 2026, 23:19"
-    },
-    {
-      "id": "45e4d38bc60e",
-      "titlu": "Președintele FIFA, Gianni Infantino, Propune o Revizuire Externă a Guvernanței Organismului",
-      "rezumat": "Președintele FIFA, Gianni Infantino, a inițiat o propunere pentru o revizuire externă a structurii de guvernanță a forului mondial de fotbal. Această inițiativă vizează creșterea transparenței și îmbunătățirea modului în care este condusă organizația, în contextul unor apeluri continue pentru reformă în fotbalul internațional. O astfel de evaluare independentă ar putea aduce schimbări semnificative în operațiunile și deciziile FIFA, consolidând încrederea în integritatea sportului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-21T20:19:12.596961+00:00",
-      "data_afisaj": "21 septembrie 2026, 23:19"
-    },
-    {
-      "id": "bca1e170575f",
-      "titlu": "Sportivi Irlandezi Îndeamnă Echipa Națională să Boicoteze Meciul cu Israel",
-      "rezumat": "Peste 160 de personalități sportive irlandeze au semnat o scrisoare deschisă prin care solicită echipei naționale masculine a Republicii Irlanda să refuze participarea la viitoarele meciuri din Liga Națiunilor împotriva Israelului. Apelul subliniază preocupări etice și politice, punând presiune asupra Federației Irlandeze de Fotbal și a jucătorilor. Această acțiune reflectă o implicare crescândă a sportivilor în chestiuni sociale și politice, generând dezbateri intense în spațiul public.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-21T20:19:12.598618+00:00",
-      "data_afisaj": "21 septembrie 2026, 23:19"
-    },
-    {
-      "id": "7468b61c6a0e",
-      "titlu": "Scoția Convoacă un Nou Jucător, Montgomery, După Retragerile lui Tierney și McLean",
-      "rezumat": "Mijlocașul echipei Blackburn Rovers, Kristi Montgomery, a primit prima sa convocare la echipa națională a Scoției, în urma retragerilor din lotul pentru Liga Națiunilor a lui Kieran Tierney și Kenny McLean. Această modificare de ultim moment oferă o oportunitate tânărului jucător de a-și demonstra calitățile la nivel internațional și de a contribui la campania Scoției în competiție. Selecționerul a fost nevoit să facă ajustări din cauza indisponibilității jucătorilor cheie.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-21T20:19:12.600434+00:00",
-      "data_afisaj": "21 septembrie 2026, 23:19"
-    },
-    {
-      "id": "dbc85576464b",
-      "titlu": "Jordan James: Țara Galilor Nu Se Va Temer de Portugalia în Liga Națiunilor",
-      "rezumat": "Jordan James, jucător al naționalei Țării Galilor, a declarat că echipa sa, deși afectată de absențe, nu se va simți intimidată în fața \"celor mai buni jucători din lume\" în meciul de deschidere din Liga Națiunilor A împotriva Portugaliei. Declarația subliniază încrederea și determinarea galezilor de a aborda partida fără teamă, în ciuda provocării reprezentate de adversarul de calibru. Meciul este programat joi și marchează debutul campaniei pentru ambele echipe.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-21T20:19:12.602215+00:00",
-      "data_afisaj": "21 septembrie 2026, 23:19"
     }
   ]
 }
