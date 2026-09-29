@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-29T13:51:17.067692+00:00",
-  "updated_at_afisaj": "29 septembrie 2026, 16:51",
+  "updated_at": "2026-09-29T14:37:57.054656+00:00",
+  "updated_at_afisaj": "29 septembrie 2026, 17:37",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,66 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 127,
+  "numar_stiri": 132,
   "stiri": [
+    {
+      "id": "09320ef75b78",
+      "titlu": "Ella Toone și Chloe Kelly, excluse din lotul Angliei pentru meciurile de calificare la Cupa Mondială",
+      "rezumat": "Mijlocașul de la Manchester United, Ella Toone, și Chloe Kelly nu au fost selecționate în lotul Angliei pentru meciurile de calificare la Cupa Mondială feminină din această lună. Decizia a fost luată de antrenoarea Sarina Wiegman, care a invocat nivelul de performanță al jucătoarelor. Aceasta este o veste surprinzătoare, având în vedere rolurile cheie pe care Toone și Kelly le-au avut în parcursul Angliei către trei finale majore consecutive. În schimb, Lexi Potter, mijlocaș de 20 de ani de la Chelsea, a primit prima sa convocare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-29T14:37:57.046544+00:00",
+      "data_afisaj": "29 septembrie 2026, 17:37"
+    },
+    {
+      "id": "2b0c3028edf2",
+      "titlu": "Martin Odegaard, căpitanul lui Arsenal, ratează antrenamentul Norvegiei din cauza unei accidentări la gleznă",
+      "rezumat": "Martin Odegaard, căpitanul echipei Arsenal, a absentat de la antrenamentul naționalei Norvegiei, după ce a suferit o accidentare la gleznă în timpul unei acțiuni internaționale. Clubul Arsenal este în contact permanent cu federația norvegiană pentru a monitoriza starea de sănătate a jucătorului. Această veste stârnește îngrijorări în rândul fanilor și staff-ului tehnic al lui Arsenal, având în vedere importanța lui Odegaard pentru echipa londoneză. Se așteaptă mai multe detalii despre gravitatea accidentării și perioada de recuperare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-09-29T14:37:57.048663+00:00",
+      "data_afisaj": "29 septembrie 2026, 17:37"
+    },
+    {
+      "id": "f0d6b5ceafce",
+      "titlu": "Tensiuni înaintea meciului Israel - Irlanda din Liga Națiunilor, jucătorii se declară 'incomodați'",
+      "rezumat": "Jucătorii naționalei Irlandei s-au declarat \"incomodați\" înaintea meciului din Liga Națiunilor împotriva Israelului, care a avut loc într-o locație neutră. Partida a fost înconjurată de controverse și a fost aproape de a nu se disputa, reflectând tensiunile din jurul evenimentului. Declarațiile antrenorului Hallgrimsson subliniază atmosfera dificilă și presiunea resimțită de echipă înaintea confruntării. Situația a generat discuții intense și a pus sub semnul întrebării desfășurarea normală a evenimentului sportiv.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-09-29T14:37:57.050682+00:00",
+      "data_afisaj": "29 septembrie 2026, 17:37"
+    },
+    {
+      "id": "13b46b51a38a",
+      "titlu": "Wayne Rooney: Manchester United nu merită titlurile lui Manchester City dacă acestea sunt retrase",
+      "rezumat": "Wayne Rooney, fostul atacant al lui Manchester United, a declarat că echipa sa nu ar trebui să primească titlurile de Premier League în cazul în care rivalii de la Manchester City ar fi deposedați de acestea din cauza încălcării regulilor financiare. Rooney a subliniat că, deși situația este delicată, trofeele ar trebui câștigate pe teren, nu acordate retroactiv. Această declarație vine în contextul acuzațiilor grave aduse lui Manchester City de către Premier League, care ar putea duce la sancțiuni severe, inclusiv retragerea unor titluri.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-29T14:37:57.052684+00:00",
+      "data_afisaj": "29 septembrie 2026, 17:37"
+    },
+    {
+      "id": "9b4092122e95",
+      "titlu": "Primele discuții despre plecarea unui jucător de la Manchester City, după verdictul acuzațiilor",
+      "rezumat": "În urma verdictului conform căruia Manchester City a fost găsită vinovată de încălcarea regulilor Premier League, au început primele discuții privind o posibilă plecare a unui jucător cheie de la club. Incertitudinea planează asupra viitorului echipei, iar această situație ar putea declanșa o serie de transferuri. Acuzațiile grave și posibilele sancțiuni au creat un climat de instabilitate, determinând unii fotbaliști să-și reconsidere poziția la club și să caute noi oportunități.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-09-29T14:37:57.054640+00:00",
+      "data_afisaj": "29 septembrie 2026, 17:37"
+    },
     {
       "id": "9e605411c2c3",
       "titlu": "FIFA Acuză UEFA de „Campanie de Dezinformare”",
