@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-28T22:23:36.237942+00:00",
-  "updated_at_afisaj": "29 septembrie 2026, 01:23",
+  "updated_at": "2026-09-29T13:51:17.067692+00:00",
+  "updated_at_afisaj": "29 septembrie 2026, 16:51",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,65 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 132,
+  "numar_stiri": 127,
   "stiri": [
+    {
+      "id": "9e605411c2c3",
+      "titlu": "FIFA Acuză UEFA de „Campanie de Dezinformare”",
+      "rezumat": "Organismul mondial de conducere al fotbalului, FIFA, a declarat că acuzațiile UEFA conform cărora președintele FIFA, Gianni Infantino, ar fi „încălcat orice lege sau principiu etic sunt categoric nefondate”. Această declarație vine în contextul unor tensiuni crescânde între cele două foruri majore ale fotbalului, indicând o dispută deschisă privind integritatea și conducerea la cel mai înalt nivel. FIFA respinge ferm orice sugestie de comportament neetic din partea liderului său.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-29T13:51:17.062055+00:00",
+      "data_afisaj": "29 septembrie 2026, 16:51"
+    },
+    {
+      "id": "29d056b3f384",
+      "titlu": "Aston Villa O Demite pe Antrenoarea Natalia Arroyo După Un Început Fără Victorie în WSL",
+      "rezumat": "Natalia Arroyo, antrenoarea echipei feminine Aston Villa, a fost demisă din funcție după un început dezamăgitor în Women's Super League. Decizia vine în urma a două înfrângeri și două egaluri în primele patru meciuri ale sezonului, rezultate care au plasat echipa într-o poziție dificilă în clasament. Conducerea clubului a considerat că este necesară o schimbare pentru a redresa parcursul echipei în competiția internă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-29T13:51:17.063512+00:00",
+      "data_afisaj": "29 septembrie 2026, 16:51"
+    },
+    {
+      "id": "954f35128288",
+      "titlu": "Șeful Arbitrilor Turci, Arestat Într-o Ancheta de Corupție",
+      "rezumat": "Președintele Comitetului Arbitrilor din Turcia a fost reținut, alături de alte șase persoane, în cadrul unei ample investigații privind fapte de corupție. Anchetatorii examinează acuzații de șantaj și fals în acte, care ar implica oficiali de rang înalt din arbitrajul turc. Această acțiune subliniază eforturile autorităților de a combate neregulile și de a asigura integritatea în fotbalul din Turcia, având un impact semnificativ asupra organizării competițiilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-29T13:51:17.064830+00:00",
+      "data_afisaj": "29 septembrie 2026, 16:51"
+    },
+    {
+      "id": "378e3886513e",
+      "titlu": "Pochettino: Premier League A Trăit O Perioadă de Înșelăciune Dacă Manchester City Este Găsită Vinovată",
+      "rezumat": "Fostul antrenor al echipelor Tottenham și Chelsea, Mauricio Pochettino, a declarat că Premier League „a trăit o perioadă de înșelăciune” în cazul în care Manchester City va fi găsită vinovată de încălcarea regulilor financiare. Comentariile sale subliniază gravitatea acuzațiilor aduse clubului și impactul potențial asupra integrității competiției. Această afirmație adaugă o nouă dimensiune dezbaterii continue despre consecințele posibilelor sancțiuni pentru Manchester City.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-09-29T13:51:17.066275+00:00",
+      "data_afisaj": "29 septembrie 2026, 16:51"
+    },
+    {
+      "id": "c3d78d58ea5d",
+      "titlu": "Liga Națiunilor UEFA Va Adopta Un Nou Format Începând cu Sezonul 2028/29",
+      "rezumat": "Liga Națiunilor UEFA va suferi modificări semnificative, trecând la un format cu trei eșaloane începând cu sezonul 2028/29. Această revizuire a structurii competiției are ca scop creșterea atractivității și a echilibrului între echipe, oferind mai multe oportunități pentru naționalele de toate nivelurile. Detaliile complete ale noului sistem, inclusiv modul de promovare și retrogradare, vor fi comunicate pentru a clarifica impactul asupra viitoarelor ediții.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-09-29T13:51:17.067673+00:00",
+      "data_afisaj": "29 septembrie 2026, 16:51"
+    },
     {
       "id": "01a5f73c8833",
       "titlu": "Roberto Mancini Se Distanțează de Acuzațiile Adresate Manchester City",
@@ -1394,116 +1451,6 @@
       ],
       "data_publicare": "2026-09-22T19:37:44.912501+00:00",
       "data_afisaj": "22 septembrie 2026, 22:37"
-    },
-    {
-      "id": "11980fb817ce",
-      "titlu": "Infantino says he is open to talks over Fifa reform",
-      "rezumat": "Fifa president Gianni Infantino has proposed an external review of how world football's governing body operates. shifting tone as he seeks support to stay on.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-22T13:06:52.987317+00:00",
-      "data_afisaj": "22 septembrie 2026, 16:06"
-    },
-    {
-      "id": "6354c9cb1623",
-      "titlu": "Being run over by pitch roller was terrifying - Townsend",
-      "rezumat": "Former England winger Andros Townsend says he was lucky to escape from under a pitch roller with just a few \"bumps and bruises\".",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-22T13:06:52.988948+00:00",
-      "data_afisaj": "22 septembrie 2026, 16:06"
-    },
-    {
-      "id": "f0ccbad56a5e",
-      "titlu": "'Constant bombardment' - fans shown 65,000 junk food ads at World Cup",
-      "rezumat": "New data shows fans were shown more than 28 hours of adverts for unhealthy food and drinks during World Cup matches this summer.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-22T13:06:52.990637+00:00",
-      "data_afisaj": "22 septembrie 2026, 16:06"
-    },
-    {
-      "id": "4a28fc3f16d9",
-      "titlu": "Flex your football brain with our daily quizzes",
-      "rezumat": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-22T13:06:52.992144+00:00",
-      "data_afisaj": "22 septembrie 2026, 16:06"
-    },
-    {
-      "id": "ff80554e348a",
-      "titlu": "McPake's 'colourful' journey from club-less to Scotland call-up in three years",
-      "rezumat": "Three years ago, Josh McPake was without a club. Twenty months ago, he was in the shop window but \"no-one wanted him\". This week, he's involved in his first Scotland camp. Here, BBC Sport Scotland charts the fall and rise of the winger who's got everyone in the country talking.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-22T13:06:52.993888+00:00",
-      "data_afisaj": "22 septembrie 2026, 16:06"
-    },
-    {
-      "id": "0e2d81b6d465",
-      "titlu": "Arteta agrees new deal with champions Arsenal",
-      "rezumat": "Mikel Arteta agrees an improved new contract with Premier League champions Arsenal.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-22T12:26:48.872331+00:00",
-      "data_afisaj": "22 septembrie 2026, 15:26"
-    },
-    {
-      "id": "2ac3e0c7a39c",
-      "titlu": "'In another galaxy' - La Liga chief dismisses Real's ref conspiracy claims",
-      "rezumat": "La Liga president Javier Tebas says claiming there is a refereeing conspiracy against Real Madrid is like \"living in another galaxy\".",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-22T12:26:48.874132+00:00",
-      "data_afisaj": "22 septembrie 2026, 15:26"
-    },
-    {
-      "id": "844e7f4ab45e",
-      "titlu": "'Alarming' - does WSL have a homegrown problem?",
-      "rezumat": "The London City Lionesses raised eyebrows with no English players in their starting line-up against Manchester United, but is there a wider trend?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-22T12:26:48.875707+00:00",
-      "data_afisaj": "22 septembrie 2026, 15:26"
-    },
-    {
-      "id": "62bb1bb49d2c",
-      "titlu": "Israel FA accuses Hallgrimsson of 'ignorance, hypocrisy and stupidity'",
-      "rezumat": "The Israel FA accuse Republic of Ireland antrenor Heimir Hallgrimsson of \"ignorance, hypocrisy and stupidity\" in comments made last week.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-22T12:26:48.877338+00:00",
-      "data_afisaj": "22 septembrie 2026, 15:26"
-    },
-    {
-      "id": "70f5754d90f0",
-      "titlu": "Chelsea struggles to Villa bench - Garnacho faces defining season",
-      "rezumat": "Alejandro Garnacho joined Aston Villa on loan from Chelsea with a view to kick-starting his career, but his early weeks in the Midlands have been a struggle.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-22T12:26:48.878960+00:00",
-      "data_afisaj": "22 septembrie 2026, 15:26"
     }
   ]
 }
