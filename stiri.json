@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-29T20:32:57.515448+00:00",
-  "updated_at_afisaj": "29 septembrie 2026, 23:32",
+  "updated_at": "2026-09-29T21:12:40.158835+00:00",
+  "updated_at_afisaj": "30 septembrie 2026, 00:12",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 127,
+  "numar_stiri": 132,
   "stiri": [
+    {
+      "id": "591298444f5d",
+      "titlu": "Șeful PFA critică programul \"bolnav\" al fotbalului, Cole Palmer fiind o victimă",
+      "rezumat": "Maheta Molango, directorul executiv al Asociației Fotbaliștilor Profesioniști (PFA), a declarat că sistemul actual al programului meciurilor este \"bolnav\" și solicită prea mult de la jucători. Declarația vine în contextul în care jucătorul englez Cole Palmer este considerat o victimă a acestui program aglomerat. Molango subliniază necesitatea de a proteja sănătatea și bunăstarea fizică a fotbaliștilor, care sunt supuși unui număr tot mai mare de meciuri la nivel de club și internațional, fără perioade adecvate de recuperare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-29T21:12:40.153212+00:00",
+      "data_afisaj": "30 septembrie 2026, 00:12"
+    },
+    {
+      "id": "1ad79e5239d1",
+      "titlu": "Scoția, învinsă de Elveția în Liga Națiunilor, după ce a jucat în inferioritate numerică",
+      "rezumat": "Naționala Scoției a suferit o înfrângere cu 3-0 în fața Elveției în Liga Națiunilor, într-un meci disputat pe Hampden Park. Situația s-a complicat pentru scoțieni după ce un jucător a fost eliminat în prima repriză, lăsând echipa în zece oameni. Golurile elvețienilor au fost marcate de Rodríguez și Elvedi, consolidând poziția Elveției în Grupa B1. Aceasta a fost prima partidă a lui Sébastien Pocognoli la conducerea tehnică a Scoției pe teren propriu, marcând un debut dificil.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-29T21:12:40.154716+00:00",
+      "data_afisaj": "30 septembrie 2026, 00:12"
+    },
+    {
+      "id": "f8feea8ca41e",
+      "titlu": "Președintele UEFA, Aleksander Ceferin, îl critică dur pe Gianni Infantino de la FIFA",
+      "rezumat": "Președintele UEFA, Aleksander Ceferin, a lansat un atac vehement la adresa omologului său de la FIFA, Gianni Infantino, declarând că \"împăratul este gol\". Într-un discurs adresat Adunării Generale a Cluburilor Europene de Fotbal (EFC), Ceferin a condamnat proiectul eșuat FIFA Forward Enterprise (FFE) și alte scandaluri recente, fără a-l menționa direct pe Infantino, dar făcând aluzie clară la acesta. Criticile subliniază tensiunile continue dintre cele două organisme de conducere ale fotbalului mondial.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-29T21:12:40.156113+00:00",
+      "data_afisaj": "30 septembrie 2026, 00:12"
+    },
+    {
+      "id": "b84fc14d36cf",
+      "titlu": "Cody Gakpo de la Liverpool a suferit o accidentare la gleznă în timpul meciurilor internaționale",
+      "rezumat": "Atacantul lui Liverpool, Cody Gakpo, a suferit o accidentare la gleznă în timpul meciurilor internaționale cu naționala sa. Jucătorul a fost victima unei intervenții dure, iar clubul a primit deja o actualizare privind starea sa. Această veste reprezintă o preocupare pentru Liverpool, având în vedere importanța lui Gakpo în ofensiva echipei. Se așteaptă detalii suplimentare privind gravitatea accidentării și perioada de recuperare necesară.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-09-29T21:12:40.157506+00:00",
+      "data_afisaj": "30 septembrie 2026, 00:12"
+    },
+    {
+      "id": "0d9bff4ed18b",
+      "titlu": "Modificări semnificative în Cupa Jucătoarelor WSL pentru sezonul 2026/27",
+      "rezumat": "Cupa Jucătoarelor WSL, fosta Cupă a Ligii Feminine, va beneficia de o serie de modificări majore începând cu sezonul 2026/27. Competiția va avea un nou nume și un format revizuit, iar echipele de top nu vor mai participa în același mod ca până acum. Aceste schimbări vizează revitalizarea turneului și oferirea de noi oportunități pentru dezvoltarea fotbalului feminin. Detaliile complete ale noului format și implicațiile pentru cluburi și jucătoare urmează să fie comunicate.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-09-29T21:12:40.158819+00:00",
+      "data_afisaj": "30 septembrie 2026, 00:12"
+    },
     {
       "id": "78e57a890f77",
       "titlu": "Aston Villa o demite pe antrenoarea Arroyo după un început fără victorie în WSL",
