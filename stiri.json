@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-29T21:12:40.158835+00:00",
-  "updated_at_afisaj": "30 septembrie 2026, 00:12",
+  "updated_at": "2026-09-30T13:25:06.450878+00:00",
+  "updated_at_afisaj": "30 septembrie 2026, 16:25",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,42 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 132,
+  "numar_stiri": 127,
   "stiri": [
+    {
+      "id": "e67db69f7ec0",
+      "titlu": "Manchester City ar putea fi obligată să plătească Premier League până la 50 de milioane de lire sterline în costuri legale",
+      "rezumat": "Manchester City este pe cale să datoreze Premier League zeci de milioane de lire sterline sub formă de compensații pentru costurile legale, după ce a fost găsită vinovată de aproape toate acuzațiile aduse. O comisie independentă a stabilit că clubul și-a umflat artificial veniturile cu 900 de milioane de lire sterline pe parcursul a nouă ani, printr-o schemă de finanțare mascată. Această decizie deschide calea pentru sancțiuni financiare semnificative.",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-30T13:25:06.448706+00:00",
+      "data_afisaj": "30 septembrie 2026, 16:25"
+    },
+    {
+      "id": "ad718846caea",
+      "titlu": "Meciul dintre Republica Irlanda și Israel din Liga Națiunilor se va disputa conform programului",
+      "rezumat": "Selecționerul Republicii Irlanda, Heimir Hallgrimsson, a confirmat că al doilea meci din Liga Națiunilor împotriva Israelului se va desfășura conform planului. Această declarație vine în contextul unor tensiuni anterioare și a incertitudinilor legate de securitate și disconfortul exprimat de unii jucători. Confirmarea oficială elimină speculațiile și asigură că partida va avea loc așa cum a fost stabilit.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-30T13:25:06.449790+00:00",
+      "data_afisaj": "30 septembrie 2026, 16:25"
+    },
+    {
+      "id": "e221cf308ff4",
+      "titlu": "Lamine Yamal strălucește cu două goluri în victoria categorică a Spaniei împotriva Croației în Liga Națiunilor",
+      "rezumat": "Tânărul Lamine Yamal a marcat de două ori și a oferit o pasă decisivă, contribuind la victoria zdrobitoare a Spaniei cu 4-1 împotriva Croației în Liga Națiunilor. Meciul a reprezentat prima partidă pe teren propriu a Spaniei de la câștigarea Cupei Mondiale. Performanța excepțională a adolescentului, care a deschis scorul în doar 75 de secunde, îi consolidează candidatura pentru Balonul de Aur și demonstrează forma sa remarcabilă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-30T13:25:06.450868+00:00",
+      "data_afisaj": "30 septembrie 2026, 16:25"
+    },
     {
       "id": "591298444f5d",
       "titlu": "Șeful PFA critică programul \"bolnav\" al fotbalului, Cole Palmer fiind o victimă",
@@ -1423,96 +1457,6 @@
       ],
       "data_publicare": "2026-09-23T19:33:47.536814+00:00",
       "data_afisaj": "23 septembrie 2026, 22:33"
-    },
-    {
-      "id": "bd211c389913",
-      "titlu": "Jurrien Timber de la Arsenal Lipsește de la Antrenamente După o Vară Marcată de Accidentări",
-      "rezumat": "Fundașul lui Arsenal, Jurrien Timber, ar fi absent de la antrenamente, continuând o serie de probleme medicale care i-au afectat pregătirea de vară. Clubul monitorizează atent starea de sănătate a jucătorului olandez, care a avut un debut dificil la echipă din cauza accidentărilor. Această nouă absență ridică semne de întrebare cu privire la disponibilitatea sa pe termen scurt și la impactul asupra planurilor tactice ale antrenorului Mikel Arteta. Fanii speră la o recuperare rapidă pentru a-l vedea pe Timber în acțiune.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-09-23T13:22:23.156658+00:00",
-      "data_afisaj": "23 septembrie 2026, 16:22"
-    },
-    {
-      "id": "c0edfb75859d",
-      "titlu": "Zece Cele Mai Avantajoase Transferuri din Fereastra de Vară",
-      "rezumat": "Într-o eră a inflației constante pe piața transferurilor, The Guardian analizează cele mai bune zece achiziții din această vară, care ar putea reprezenta adevărate chilipiruri pentru noile lor echipe. Lista include atât atacanți veterani, cât și tinere talente promițătoare, care au fost aduse pentru sume considerate rezonabile în raport cu potențialul sau performanțele lor. Articolul detaliază motivele pentru care aceste transferuri se disting, oferind o perspectivă asupra inteligenței pieței și a strategiilor cluburilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-23T13:22:23.158352+00:00",
-      "data_afisaj": "23 septembrie 2026, 16:22"
-    },
-    {
-      "id": "fbad44ef04f8",
-      "titlu": "Fotbalul Nigerian Trece Prin „Cea Mai Grea Perioadă din Istorie”, Conform lui Segun Odegbami",
-      "rezumat": "Fostul câștigător al Cupei Africii pe Națiuni, Segun Odegbami, a criticat dur conducerea fotbalului nigerian, afirmând că țara traversează „cea mai proastă perioadă din istorie”. Declarațiile vin după ce Nigeria a ratat calificarea la Cupele Mondiale masculine și feminine, un eșec considerat inacceptabil pentru o națiune cu o tradiție fotbalistică atât de bogată. Odegbami a acuzat incompetența și lipsa de viziune a celor responsabili, cerând reforme urgente pentru a readuce fotbalul nigerian pe drumul cel bun.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-23T13:22:23.160341+00:00",
-      "data_afisaj": "23 septembrie 2026, 16:22"
-    },
-    {
-      "id": "f03ddb6a3fb8",
-      "titlu": "Vânătoarea de Talente Ascunse: Mai Există Zone Neexplorate pentru Scouting în Fotbal?",
-      "rezumat": "Într-o eră a datelor extinse și a monitorizării constante, cluburile de top au acum acces la o proporție mare din talentele lumii. Articolul explorează întrebarea dacă mai există „bijuterii ascunse” în fotbal sau dacă rețelele de scouting au acoperit deja fiecare colț al globului. Prin intermediul scouting-ului live și al analizei avansate de date, echipele reușesc să identifice jucători la vârste tot mai fragede, ridicând discuții despre viitorul descoperirii talentelor și despre impactul tehnologiei asupra acestui proces.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-23T13:22:23.162186+00:00",
-      "data_afisaj": "23 septembrie 2026, 16:22"
-    },
-    {
-      "id": "44a3125b996b",
-      "titlu": "Disney+ Recunoaște o Întrerupere Publicitară Neplanificată în Timpul Meciului de Liga Campionilor Feminin",
-      "rezumat": "Transmisiunea meciului de deschidere al Ligii Campionilor la fotbal feminin, dintre Arsenal și un adversar nenumit, a fost marcată de o pauză publicitară neprogramată, conform declarațiilor Disney+. Pe lângă această problemă tehnică, evenimentul a inclus și elemente neobișnuite în platoul de emisie, cum ar fi prezența unui câine, un platou de legume și un podium rotativ, adăugând o notă bizară experienței de vizionare. Incidentul a stârnit discuții despre calitatea transmisiunilor sportive.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-23T12:37:55.491862+00:00",
-      "data_afisaj": "23 septembrie 2026, 15:37"
-    },
-    {
-      "id": "690931c774d7",
-      "titlu": "Antrenorul Columbus Crew, Federico Higuaín, Demis După Remarci Sexiste Adresate unei Arbitre",
-      "rezumat": "Clubul Columbus Crew din Major League Soccer (MLS) l-a demis pe antrenorul echipei de rezerve, Federico Higuaín, în urma unor acuzații de comportament sexist. Higuaín ar fi refuzat să-i dea drumul mâinii unei arbitre și i-ar fi spus: „nu uita că acesta este un joc de bărbați”. Incidentul a avut loc în timpul unui meci din liga MLS Next Pro, iar antrenorul a fost inițial suspendat pentru două meciuri, înainte ca clubul să decidă concedierea sa.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-23T12:37:55.493894+00:00",
-      "data_afisaj": "23 septembrie 2026, 15:37"
-    },
-    {
-      "id": "f107dbf7e432",
-      "titlu": "Manchester United Anunță Venituri Record pe Fondul Progresului Planurilor de Modernizare a Stadionului",
-      "rezumat": "Clubul Manchester United a înregistrat venituri record în anul 2026, în ciuda faptului că nu a participat în competițiile europene în sezonul precedent. Această performanță financiară remarcabilă vine în contextul în care planurile de modernizare a stadionului Old Trafford avansează. Rezultatele financiare solide demonstrează puterea brandului Manchester United și capacitatea clubului de a genera venituri semnificative chiar și fără prezența în elita europeană.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-09-23T12:37:55.497171+00:00",
-      "data_afisaj": "23 septembrie 2026, 15:37"
-    },
-    {
-      "id": "f54073c17d64",
-      "titlu": "Pseudosciența în Fotbal: Critici la Adresa Practicilor Fără Bază Științifică",
-      "rezumat": "Un director de performanță de top avertizează că pseudosciența este tot mai răspândită în fotbal, cu practici precum camerele de crioterapie și alte metode care au puține dovezi științifice în spate. Dr. Claire-Marie Roberts, fost director de performanță la Coventry City, a declarat că primea săptămânal zeci de mesaje pe LinkedIn cu oferte de dispozitive și tratamente care promiteau câștiguri miraculoase, dar care, în realitate, se apropie de exploatare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-23T12:37:55.499004+00:00",
-      "data_afisaj": "23 septembrie 2026, 15:37"
     }
   ]
 }
