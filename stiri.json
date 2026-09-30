@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-30T13:25:06.450878+00:00",
-  "updated_at_afisaj": "30 septembrie 2026, 16:25",
+  "updated_at": "2026-09-30T14:38:59.029737+00:00",
+  "updated_at_afisaj": "30 septembrie 2026, 17:38",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 127,
+  "numar_stiri": 132,
   "stiri": [
+    {
+      "id": "f55568d51c15",
+      "titlu": "Guardiola backing Man City after guilty verdicts",
+      "rezumat": "Former antrenor Pep Guardiola says he will \"always\" be behind Manchester City after they were found guilty of all charges related to breaches of the Premier League's financial rules.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-30T14:38:41.675649+00:00",
+      "data_afisaj": "30 septembrie 2026, 17:38"
+    },
+    {
+      "id": "319e5613a039",
+      "titlu": "Criminal investigation? Relegation or expulsion? The key Man City questions",
+      "rezumat": "BBC Sport takes a look at the key questions following the guilty verdicts handed down to Manchester City.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-30T14:38:41.677329+00:00",
+      "data_afisaj": "30 septembrie 2026, 17:38"
+    },
+    {
+      "id": "b7a3c214a8e5",
+      "titlu": "£1.2bn on transfers with £830m inflated in sponsorships - Man City's 'asterisk era'",
+      "rezumat": "BBC Sport analyses Manchester City's dominance of English football during the period in which they were breaching financial rules.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-30T14:38:41.679189+00:00",
+      "data_afisaj": "30 septembrie 2026, 17:38"
+    },
+    {
+      "id": "2b42a04b545a",
+      "titlu": "Republic of Ireland will play second Israel game - Hallgrimsson",
+      "rezumat": "Republic of Ireland antrenor principal Heimir Hallgrimsson says the team's second Uefa Nations League game against Israel will go ahead as planned.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-30T14:38:41.680774+00:00",
+      "data_afisaj": "30 septembrie 2026, 17:38"
+    },
+    {
+      "id": "5a0c566bcb12",
+      "titlu": "Consortium involving ex-Brazil forward Pato seals Northampton takeover",
+      "rezumat": "The takeover of Northampton Town by a consortium including former AC Milan and Brazil forward Alexandre Pato has been completed.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-30T14:38:41.682346+00:00",
+      "data_afisaj": "30 septembrie 2026, 17:38"
+    },
     {
       "id": "e67db69f7ec0",
       "titlu": "Manchester City ar putea fi obligată să plătească Premier League până la 50 de milioane de lire sterline în costuri legale",
