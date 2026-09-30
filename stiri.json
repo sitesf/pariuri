@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-30T14:38:59.029737+00:00",
-  "updated_at_afisaj": "30 septembrie 2026, 17:38",
+  "updated_at": "2026-09-30T20:41:06.996219+00:00",
+  "updated_at_afisaj": "30 septembrie 2026, 23:41",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 132,
+  "numar_stiri": 127,
   "stiri": [
+    {
+      "id": "7c163be1cf1f",
+      "titlu": "Accidentare teribilă în România U21 – Finlanda U21! Fotbalistul din Superliga a fost scos cu targa de pe teren",
+      "rezumat": "(rezumat indisponibil)",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-09-30T20:40:49.765993+00:00",
+      "data_afisaj": "30 septembrie 2026, 23:40"
+    },
+    {
+      "id": "c885faa6379f",
+      "titlu": "Punish Man City this season, say other club chiefs",
+      "rezumat": "Manchester City's punishment for breaching Premier League rules should be handed down before the end of this season, senior football figures tell BBC Sport.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-30T20:40:49.767227+00:00",
+      "data_afisaj": "30 septembrie 2026, 23:40"
+    },
+    {
+      "id": "47c15a09f0cc",
+      "titlu": "Burnham 'really concerned' if Man City owners sell up after rule breaches",
+      "rezumat": "The prime minister compares the allegations against Man City to the plight of his own club Everton.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-30T20:40:49.768481+00:00",
+      "data_afisaj": "30 septembrie 2026, 23:40"
+    },
+    {
+      "id": "4125fbf214db",
+      "titlu": "Ronaldo leaves Portugal camp after coach denies rift",
+      "rezumat": "Cristiano Ronaldo says he has left Portugal's international camp and will explain why \"in time\", hours after antrenor principal Jorge Jesus denied any rift with the player.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-30T20:40:49.769618+00:00",
+      "data_afisaj": "30 septembrie 2026, 23:40"
+    },
+    {
+      "id": "54c56ce95b81",
+      "titlu": "Infantino should have no place in future of football - Pinto",
+      "rezumat": "The computer hacker who released documents which led to the Premier League investigation into Manchester City says Gianni Infantino \"should have no place in the future of the game\".",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-30T20:40:49.770786+00:00",
+      "data_afisaj": "30 septembrie 2026, 23:40"
+    },
     {
       "id": "f55568d51c15",
       "titlu": "Guardiola backing Man City after guilty verdicts",
@@ -1397,122 +1453,6 @@
       ],
       "data_publicare": "2026-09-24T12:36:47.859285+00:00",
       "data_afisaj": "24 septembrie 2026, 15:36"
-    },
-    {
-      "id": "cc8df97a7537",
-      "titlu": "Manchester United Se Confruntă cu Datorii Masive și Pierderi Anuale Consecutive",
-      "rezumat": "Manchester United raportează o datorie totală de peste 1 miliard de lire sterline, în ciuda măsurilor de reducere a costurilor implementate. Clubul a confirmat, de asemenea, cheltuieli de 63,5 milioane de lire sterline pentru achiziționarea de terenuri destinate noului stadion. Aceste cifre vin în contextul în care clubul a înregistrat pierderi anuale pentru al șaptelea an consecutiv, totalizând 444 de milioane de lire sterline din 2019. Costurile semnificative legate de demiterea antrenorilor contribuie, de asemenea, la presiunea financiară, evidențiind o perioadă dificilă din punct de vedere economic pentru gigantul englez.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-09-23T19:55:52.475066+00:00",
-      "data_afisaj": "23 septembrie 2026, 22:55"
-    },
-    {
-      "id": "c75c01229d95",
-      "titlu": "De la Transplant de Inimă la Titlul Mondial: Povestea Incredibilă a lui Martyn Jackson",
-      "rezumat": "Martyn Jackson, un fotbalist care a suferit un transplant de inimă în 2024, a realizat o performanță remarcabilă, devenind campion mondial cu echipa Angliei la mai puțin de doi ani de la operație. Inițial, medicii îi spuseseră că nu va mai putea juca fotbal, însă perseverența și recuperarea sa l-au adus înapoi pe teren, culminând cu succesul la Cupa Mondială. Povestea sa este un exemplu de depășire a limitărilor fizice și de revenire spectaculoasă în sportul de performanță, inspirând prin determinare și reziliență.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-23T19:55:52.476154+00:00",
-      "data_afisaj": "23 septembrie 2026, 22:55"
-    },
-    {
-      "id": "33f42131590a",
-      "titlu": "Analiza Performanței Echipelor din Premier League pe Baza Statisticilor xG",
-      "rezumat": "O analiză recentă examinează modul în care echipele din Premier League au început sezonul, comparând performanța lor reală cu așteptările generate de statisticile xG (expected goals). Studiul identifică echipele care au depășit sau, dimpotrivă, au subperformant în raport cu numărul de goluri estimate pe baza ocaziilor create. Această perspectivă oferă o înțelegere mai profundă a eficienței ofensive și defensive a cluburilor, indicând dacă rezultatele actuale sunt sustenabile sau dacă există discrepanțe între jocul prestat și scorurile obținute, oferind o viziune bazată pe date.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-23T19:55:52.477109+00:00",
-      "data_afisaj": "23 septembrie 2026, 22:55"
-    },
-    {
-      "id": "8b28558415df",
-      "titlu": "Krystian Bielik de la Cardiff City, Acuzat de FA După Încheierea Anchetei Poliției",
-      "rezumat": "Federația Engleză de Fotbal (FA) l-a acuzat pe fundașul echipei Cardiff City, Krystian Bielik, în urma unei altercații cu fani ai echipei Portsmouth. Incidentul a avut loc într-un context care a necesitat intervenția autorităților, însă ancheta poliției a fost acum finalizată. Acuzația din partea FA indică faptul că organismul de conducere al fotbalului va continua propriile proceduri disciplinare împotriva jucătorului, independent de concluziile investigației penale. Detaliile specifice ale acuzației și posibilele sancțiuni urmează să fie comunicate oficial.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-23T19:55:52.478108+00:00",
-      "data_afisaj": "23 septembrie 2026, 22:55"
-    },
-    {
-      "id": "bf614d114b60",
-      "titlu": "Ascensiunea lui Lewis Koumas: De la Liverpool la Naționala Țării Galilor",
-      "rezumat": "Lewis Koumas, tânărul jucător care a impresionat în primele etape ale sezonului la Liverpool, își propune să-și continue forma bună și la echipa națională a Țării Galilor, în Liga Națiunilor. Descris ca fiind un jucător \"contagios și încrezător\", Koumas a atras atenția prin performanțele sale, demonstrând un potențial semnificativ. Această convocare la națională reprezintă un pas important în cariera sa, oferindu-i oportunitatea de a se afirma la nivel internațional și de a-și consolida statutul de talent emergent în fotbalul britanic, confirmându-i progresul rapid.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-23T19:55:52.479074+00:00",
-      "data_afisaj": "23 septembrie 2026, 22:55"
-    },
-    {
-      "id": "763e24edbb51",
-      "titlu": "Cristiano Ronaldo Vizează 1.000 de Goluri și Glorie cu Portugalia",
-      "rezumat": "Cristiano Ronaldo a mărturisit că a luat în considerare retragerea din fotbalul internațional după Cupa Mondială, dar acum își propune să atingă pragul de 1.000 de goluri în carieră și să ajute o echipă nouă a Portugaliei să prospere înainte de a-și agăța ghetele în cui. Atacantul este la 21 de goluri distanță de această bornă impresionantă și este determinat să continue să joace la cel mai înalt nivel, în ciuda criticilor. El a declarat că unii critici încearcă să-l \"ucidă\", dar el este hotărât să continue.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-23T19:33:47.529868+00:00",
-      "data_afisaj": "23 septembrie 2026, 22:33"
-    },
-    {
-      "id": "ae3ade490cfe",
-      "titlu": "Jürgen Klopp Încearcă să Redreseze Destinul Naționalei Germaniei",
-      "rezumat": "Înaintea primului său meci ca selecționer al Germaniei, Jürgen Klopp își propune să schimbe soarta echipei naționale, care a avut rezultate dezamăgitoare în ultima perioadă. BBC Sport analizează strategiile și abordarea antrenorului pentru a readuce Germania în topul fotbalului mondial. Klopp se confruntă cu așteptări mari din partea fanilor și presei, iar debutul său într-un derby cu Olanda în Liga Națiunilor va fi un test important pentru noul său proiect de reconstrucție.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-23T19:33:47.531578+00:00",
-      "data_afisaj": "23 septembrie 2026, 22:33"
-    },
-    {
-      "id": "3462b164f2bd",
-      "titlu": "Echipa Națională a Irlandei Va Discuta Meciurile Controverse cu Israel",
-      "rezumat": "Dara O'Shea a declarat că lotul Republicii Irlanda va aștepta până după meciul cu Kosovo de joi pentru a discuta abordarea partidei controversate de duminică împotriva Israelului. Situația delicată a generat discuții intense, iar jucătorii doresc să ia o decizie unitară și responsabilă în privința participării la aceste meciuri, care au implicații dincolo de sport. Această decizie subliniază complexitatea contextului politic actual și presiunea asupra sportivilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-09-23T19:33:47.533219+00:00",
-      "data_afisaj": "23 septembrie 2026, 22:33"
-    },
-    {
-      "id": "b5f29085232f",
-      "titlu": "Christian Eriksen Părăsește Wolfsburg de Comun Acord",
-      "rezumat": "Christian Eriksen a plecat de la Wolfsburg de comun acord, la puțin peste trei luni după ce s-a prăbușit pe teren în timpul unui meci amical al Danemarcei cu Ucraina. Decizia marchează o nouă etapă în cariera mijlocașului danez, care își caută acum o nouă echipă. Plecarea sa vine în contextul recuperării complete și al dorinței de a-și continua cariera la cel mai înalt nivel, după evenimentul medical îngrijorător care i-a pus viața în pericol.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-23T19:33:47.534788+00:00",
-      "data_afisaj": "23 septembrie 2026, 22:33"
-    },
-    {
-      "id": "eb33d2863ecc",
-      "titlu": "Harry Kane: Eliminarea Angliei de la Cupa Mondială a Dureros Mai Mult Decât Orice Altă Experiență",
-      "rezumat": "Harry Kane a descris înfrângerea Angliei în semifinalele Cupei Mondiale împotriva Argentinei drept cea mai dureroasă eliminare din cariera sa, din cauza modului în care echipa și-a pierdut identitatea. Căpitanul este hotărât să depășească rapid acest moment și vizează o performanță convingătoare împotriva Spaniei în Liga Națiunilor. El recunoaște că încă nu a trecut peste meciul cu Argentina, care a lăsat o amprentă profundă asupra sa și a echipei, afectând moralul jucătorilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-23T19:33:47.536814+00:00",
-      "data_afisaj": "23 septembrie 2026, 22:33"
     }
   ]
 }
