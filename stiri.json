@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-01T20:53:15.916757+00:00",
-  "updated_at_afisaj": "1 octombrie 2026, 23:53",
+  "updated_at": "2026-10-01T21:31:21.078481+00:00",
+  "updated_at_afisaj": "2 octombrie 2026, 00:31",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,53 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 126,
+  "numar_stiri": 130,
   "stiri": [
+    {
+      "id": "c2a991f5b784",
+      "titlu": "Țara Galilor Învinge Norvegia cu 10 Jucători într-un Meci Dramatic",
+      "rezumat": "Naționala Țării Galilor a obținut o victorie importantă împotriva Norvegiei, scor 2-1, într-un meci din Liga Națiunilor. Daniel James a egalat după deschiderea scorului de către Oscar Bobb. Momentul cheie al partidei a fost eliminarea lui Torbjørn Heggem de la Norvegia la începutul reprizei secunde, pentru un fault asupra lui James. Neco Williams a marcat golul victoriei din lovitura liberă rezultată, asigurând primele trei puncte pentru echipa lui Craig Bellamy în acest an.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-01T21:31:21.072530+00:00",
+      "data_afisaj": "2 octombrie 2026, 00:31"
+    },
+    {
+      "id": "8f568a93a0aa",
+      "titlu": "Meciul Naționalei Irlandei, Întrerupt de Protestatari Anti-Israel",
+      "rezumat": "O partidă a naționalei de fotbal a Irlandei a fost întreruptă de un grup de protestatari care își manifestau opoziția față de organizarea unui viitor meci împotriva Israelului. Incidentul a avut loc pe teren, atrăgând atenția asupra tensiunilor politice și a modului în care acestea pot afecta evenimentele sportive. Forțele de ordine au intervenit pentru a gestiona situația și a permite reluarea jocului, însă evenimentul a generat discuții aprinse în spațiul public.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-10-01T21:31:21.074108+00:00",
+      "data_afisaj": "2 octombrie 2026, 00:31"
+    },
+    {
+      "id": "100bc3c95317",
+      "titlu": "Christos Tzolis de la Arsenal, Accidentat în Meciul Naționalei Greciei",
+      "rezumat": "Christos Tzolis, jucătorul lui Arsenal, a suferit o accidentare în timpul unui meci disputat pentru naționala Greciei și a fost nevoit să părăsească terenul șchiopătând. Gravitatea leziunii nu este încă cunoscută, dar incidentul a stârnit îngrijorări la clubul londonez, având în vedere importanța sa în lot. Se așteaptă o evaluare medicală detaliată pentru a determina perioada de recuperare și disponibilitatea lui Tzolis pentru următoarele partide ale lui Arsenal.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-10-01T21:31:21.076861+00:00",
+      "data_afisaj": "2 octombrie 2026, 00:31"
+    },
+    {
+      "id": "686d845cc1cf",
+      "titlu": "Florian Wirtz Marchează, Germania Obține Prima Victorie Sub Conducerea lui Klopp",
+      "rezumat": "Florian Wirtz a reușit să pună capăt seriei sale fără gol marcat, contribuind decisiv la prima victorie a naționalei Germaniei de la preluarea băncii tehnice de către Jürgen Klopp. Această performanță reprezintă un moment important pentru selecționerul german și echipa sa, marcând un debut pozitiv în mandatul său. Victoria este considerată un pas înainte în reconstrucția echipei naționale și oferă un moral bun pentru viitoarele provocări.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-10-01T21:31:21.078465+00:00",
+      "data_afisaj": "2 octombrie 2026, 00:31"
+    },
     {
       "id": "7a1f7227de84",
       "titlu": "Comisia Trezoreriei Solicită HMRC Să Examineze Implicațiile Fiscale ale Cazului Manchester City",
