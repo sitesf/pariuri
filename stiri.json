@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-01T14:18:17.867479+00:00",
-  "updated_at_afisaj": "1 octombrie 2026, 17:18",
+  "updated_at": "2026-10-01T15:06:58.600751+00:00",
+  "updated_at_afisaj": "1 octombrie 2026, 18:06",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,52 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 128,
+  "numar_stiri": 132,
   "stiri": [
+    {
+      "id": "c10eb7c3ec75",
+      "titlu": "Nico O'Reilly se Retrage din Lotul Angliei din Cauza unei Accidentări",
+      "rezumat": "Nico O'Reilly s-a retras din lotul naționalei Angliei pentru ultimele două meciuri din Liga Națiunilor, programate în această pauză internațională, din cauza unei accidentări. Retragerea sa reprezintă o pierdere pentru selecționerul Angliei, care va trebui să găsească soluții pentru a acoperi absența mijlocașului în partidele cruciale. Detaliile exacte ale accidentării nu au fost specificate, dar se anticipează o perioadă de recuperare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-01T15:06:58.594895+00:00",
+      "data_afisaj": "1 octombrie 2026, 18:06"
+    },
+    {
+      "id": "28a9ac82582a",
+      "titlu": "Lexi Potter, Noua Convocare la Naționala Angliei, Lăudată de Keira Walsh",
+      "rezumat": "Mijlocașul de la Chelsea, Lexi Potter, a primit prima sa convocare la naționala Angliei, după un început impresionant de sezon în WSL (Women's Super League). Colega sa de la mijlocul terenului, Keira Walsh, a declarat că nu este surprinsă de ascensiunea rapidă a tinerei jucătoare. Această convocare subliniază talentul și progresul lui Potter, oferindu-i o oportunitate importantă de a se afirma la nivel internațional.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-10-01T15:06:58.596796+00:00",
+      "data_afisaj": "1 octombrie 2026, 18:06"
+    },
+    {
+      "id": "9e15e72e6330",
+      "titlu": "Cum Ar Putea Argentina să Retragă Tricoul cu Numărul 10 al lui Lionel Messi, în Ciuda Regulilor FIFA",
+      "rezumat": "Lionel Messi se pregătește să se retragă definitiv din fotbalul internațional în această lună, iar Argentina ar dori să-i onoreze cariera prin retragerea tricoului iconic cu numărul 10. Cu toate acestea, regulile FIFA interzic, în general, retragerea numerelor de pe tricouri în competițiile oficiale. Articolul explorează modalitățile prin care Federația Argentiniană de Fotbal ar putea totuși să realizeze acest gest simbolic, respectând sau ocolind reglementările internaționale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-10-01T15:06:58.598823+00:00",
+      "data_afisaj": "1 octombrie 2026, 18:06"
+    },
+    {
+      "id": "8a09b0862147",
+      "titlu": "Manchester United, Risc de a Deveni „Victimă Colaterală” în Scandalul Manchester City",
+      "rezumat": "Trecutul comercial al unui director executiv de top de la Manchester United creează o suprapunere incomodă cu anii în care Manchester City a încălcat regulile financiare ale Premier League. Această situație ridică întrebări despre modul în care scandalul financiar al lui City ar putea afecta reputația și operațiunile rivalilor din oraș, transformând United într-o „victimă colaterală” a consecințelor verdictului de vinovăție împotriva clubului vecin.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-10-01T15:06:58.600732+00:00",
+      "data_afisaj": "1 octombrie 2026, 18:06"
+    },
     {
       "id": "da063a073dbe",
       "titlu": "Ivan Toney Pledează Nevinovat într-un Caz de Agresiune la un Club din Soho",
