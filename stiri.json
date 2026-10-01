@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-30T21:07:32.011971+00:00",
-  "updated_at_afisaj": "1 octombrie 2026, 00:07",
+  "updated_at": "2026-10-01T14:18:17.867479+00:00",
+  "updated_at_afisaj": "1 octombrie 2026, 17:18",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 132,
+  "numar_stiri": 128,
   "stiri": [
+    {
+      "id": "da063a073dbe",
+      "titlu": "Ivan Toney Pledează Nevinovat într-un Caz de Agresiune la un Club din Soho",
+      "rezumat": "Atacantul englez Ivan Toney a pledat nevinovat la acuzația de agresiune cauzatoare de vătămări corporale, în urma unui incident petrecut anul trecut într-un club de noapte din Soho. Jucătorul, care evoluează pentru naționala Angliei, a apărut în fața unei instanțe din Londra pentru a-și susține poziția. Detaliile complete ale incidentului nu au fost încă făcute publice, dar cazul continuă să atragă atenția presei sportive și a publicului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-01T14:18:17.859902+00:00",
+      "data_afisaj": "1 octombrie 2026, 17:18"
+    },
+    {
+      "id": "b32cad22ce70",
+      "titlu": "Sponsorul Manchester City, Etihad Airways, ia în Calcul Acțiuni Legale Împotriva Premier League",
+      "rezumat": "Etihad Airways, principalul sponsor al clubului Manchester City, analizează posibilitatea de a iniția acțiuni legale împotriva Premier League. Această decizie vine în urma publicării verdictului comisiei independente care a găsit clubul vinovat de încălcări grave ale regulilor financiare. Într-o declarație, Etihad a respins categoric verdictele comisiei, susținând că acuzațiile sunt nefondate. Compania aeriană este sponsorul principal al clubului din 2009.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-01T14:18:17.861856+00:00",
+      "data_afisaj": "1 octombrie 2026, 17:18"
+    },
+    {
+      "id": "7f68c0a67ac5",
+      "titlu": "Statele Unite, Pregătite să Găzduiască Prima Cupă Mondială a Cluburilor Feminine",
+      "rezumat": "Statele Unite sunt pe cale să găzduiască prima ediție a Cupei Mondiale a Cluburilor Feminine, programată pentru ianuarie 2028. Orașe precum Los Angeles și San Diego sunt printre favoritele pentru a găzdui meciurile. Turneul va include nouăsprezece echipe și reprezintă o extindere majoră a competițiilor FIFA în America de Nord, urmând formatul extins al turneului masculin, care a debutat anul trecut. Discuțiile pentru organizare sunt într-un stadiu avansat.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-01T14:18:17.863625+00:00",
+      "data_afisaj": "1 octombrie 2026, 17:18"
+    },
+    {
+      "id": "b88b4f72a1ac",
+      "titlu": "Jürgen Klopp, Dezgustat de Afirmațiile Conform Cărora Echipa Sa Germană Nu Este „Suficient de Albă”",
+      "rezumat": "Selecționerul Germaniei, Jürgen Klopp, a reacționat cu dezgust la o dezbatere apărută pe rețelele sociale, care punea sub semnul întrebării dacă echipa sa națională este „suficient de albă”. Klopp a catalogat aceste afirmații drept „prostii complete” și „idioțenie”, declarând că nu vede niciun motiv să acorde atenție unor astfel de persoane și declarațiilor lor. Antrenorul a subliniat că nu este cazul să se dea amploare unor astfel de discuții lipsite de sens.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-01T14:18:17.865562+00:00",
+      "data_afisaj": "1 octombrie 2026, 17:18"
+    },
+    {
+      "id": "0655c0e0a777",
+      "titlu": "Atacantul lui Arsenal, Viktor Gyokeres, Vorbește Despre o Posibilă Plecare de la Club",
+      "rezumat": "Atacantul suedez Viktor Gyokeres a abordat speculațiile privind viitorul său la Arsenal, declarând că își dorește să joace cât mai mult posibil. Gyokeres nu a fost titular în Premier League în acest sezon, ceea ce a alimentat discuțiile despre o potențială plecare de la club. Declarația sa sugerează o nemulțumire legată de timpul redus de joc și o deschidere către noi oportunități, dacă situația nu se va schimba.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-10-01T14:18:17.867457+00:00",
+      "data_afisaj": "1 octombrie 2026, 17:18"
+    },
     {
       "id": "3377b71edd25",
       "titlu": "Arsenal Women, egal dramatic în Liga Campionilor după o eroare a lui Williamson",
@@ -1409,107 +1465,6 @@
       ],
       "data_publicare": "2026-09-24T19:53:20.385621+00:00",
       "data_afisaj": "24 septembrie 2026, 22:53"
-    },
-    {
-      "id": "838b1f192c0c",
-      "titlu": "Emily Fox semnează un nou contract pe trei ani cu Arsenal",
-      "rezumat": "Jucătoarea internațională americană Emily Fox a semnat un nou contract pe trei ani cu clubul Arsenal. Fundașul, în vârstă de 26 de ani, s-a alăturat echipei în ianuarie 2026 și a devenit rapid o componentă esențială a defensivei, contribuind la câștigarea titlului în Premier League. Fox a declarat că decizia de a-și prelungi șederea la club a fost una \"ușoară\", subliniind ambițiile echipei și mediul pozitiv de la Arsenal.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-09-24T13:14:03.684510+00:00",
-      "data_afisaj": "24 septembrie 2026, 16:14"
-    },
-    {
-      "id": "d2ce1cd2cb22",
-      "titlu": "Fostul atacant al Angliei, Andy Carroll, dezvăluie că a fost agresat sexual în 2021",
-      "rezumat": "Andy Carroll, fostul atacant al naționalei Angliei și al unor cluburi precum Newcastle și Liverpool, a dezvăluit public că a fost victima unei agresiuni sexuale în anul 2021. Agresorul, un bărbat, a fost ulterior condamnat la trei ani de închisoare pentru fapta sa. Carroll a ales să vorbească despre această experiență personală dificilă, subliniind impactul evenimentului asupra vieții sale și importanța conștientizării unor astfel de probleme.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-24T13:14:03.685742+00:00",
-      "data_afisaj": "24 septembrie 2026, 16:14"
-    },
-    {
-      "id": "2dba7efe2856",
-      "titlu": "Oli McBurnie revine la naționala Scoției, dornic să demonstreze valoarea",
-      "rezumat": "Atacantul Oli McBurnie a fost convocat din nou la echipa națională a Scoției, după o perioadă în care a fost ignorat de selecționerul Steve Clarke și criticat de unii suporteri. McBurnie a declarat că este \"etern recunoscător\" pentru această nouă șansă și este hotărât să demonstreze pe teren că merită locul în echipă. Revenirea sa vine într-un moment crucial pentru națională, iar jucătorul speră să contribuie la performanțele viitoare ale Scoției.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-24T13:14:03.687233+00:00",
-      "data_afisaj": "24 septembrie 2026, 16:14"
-    },
-    {
-      "id": "f32f6d1ebd1c",
-      "titlu": "Analiză după înfrângerea lui Arsenal în Premier League: A fost descoperită vulnerabilitatea „Tunarilor”?",
-      "rezumat": "După o serie impresionantă de nouă victorii consecutive în Premier League, care a culminat cu titlul de campioană sezonul trecut, Arsenal a suferit o înfrângere surprinzătoare în fața echipei Brighton. Acest rezultat a ridicat semne de întrebare cu privire la strategia și vulnerabilitățile echipei lui Mikel Arteta. Analiza post-meci explorează dacă adversarii au găsit o modalitate de a contracara stilul de joc al „Tunarilor” și ce ajustări ar putea fi necesare pentru a menține performanța la cel mai înalt nivel.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-24T13:14:03.688410+00:00",
-      "data_afisaj": "24 septembrie 2026, 16:14"
-    },
-    {
-      "id": "20218c3e133b",
-      "titlu": "Prim-ministrul consideră interdicția alcoolului pe stadioane o „discriminare”",
-      "rezumat": "Prim-ministrul Andy Burnham a declarat că interdicția privind consumul de alcool în tribunele stadioanelor de fotbal, în vigoare din 1985, reprezintă o formă de discriminare. El susține că există argumente solide pentru a revizui și, eventual, a elimina această lege. Burnham a subliniat că fanii fotbalului ar trebui tratați la fel ca spectatorii altor sporturi, unde consumul de alcool în zonele de vizionare este permis. Această poziție deschide o dezbatere importantă despre reglementările privind comportamentul fanilor și egalitatea de tratament în sport.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-24T12:36:47.851597+00:00",
-      "data_afisaj": "24 septembrie 2026, 15:36"
-    },
-    {
-      "id": "90fd87aa224e",
-      "titlu": "Manchester City și-a reformat echipa folosind o bază de date cu 650.000 de jucători",
-      "rezumat": "Manchester City a implementat o strategie inovatoare de reconstrucție a echipei în ultimele 18 luni, bazându-se pe o bază de date extinsă, care include informații despre 650.000 de jucători. Echipa de analiză a datelor a clubului a jucat un rol crucial în identificarea talentelor și în luarea deciziilor de transfer, permițând o abordare științifică a scoutingului și a dezvoltării lotului. Această metodă subliniază importanța tot mai mare a analizei datelor în fotbalul modern, oferind un avantaj competitiv în procesul de selecție și achiziție de jucători.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-24T12:36:47.853520+00:00",
-      "data_afisaj": "24 septembrie 2026, 15:36"
-    },
-    {
-      "id": "9ce72df48769",
-      "titlu": "Hibernian îl numește pe Marink Reedijk, în vârstă de 35 de ani, noul antrenor principal",
-      "rezumat": "Clubul scoțian Hibernian a anunțat numirea lui Marink Reedijk, în vârstă de 35 de ani, în funcția de antrenor principal. Această decizie vine la opt zile după demiterea fostului antrenor, David Gray. Reedijk, un tehnician tânăr, preia conducerea echipei cu scopul de a aduce o nouă viziune și de a îmbunătăți performanțele. Numirea sa marchează o direcție strategică a clubului de a investi în antrenori cu potențial, capabili să implementeze un stil de joc modern și să dezvolte talente.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-09-24T12:36:47.855462+00:00",
-      "data_afisaj": "24 septembrie 2026, 15:36"
-    },
-    {
-      "id": "150f054e40f7",
-      "titlu": "Se impune separarea fanilor gazdă și oaspeți la meciurile Women's Super League?",
-      "rezumat": "Pe măsură ce interesul pentru Women's Super League (WSL) crește și tot mai multe cluburi joacă pe stadioanele principale, se ridică întrebarea dacă este momentul să se introducă o separare mai strictă a fanilor gazdă și oaspeți, similar cu fotbalul masculin. Unii susțin că zonele dedicate fanilor oaspeți ar putea îmbunătăți atmosfera și siguranța. Deși regulamentele din sezonul 2023-24 au impus cluburilor o politică de bilete pentru fanii oaspeți, dezbaterea continuă dacă ar trebui adoptată o segregare completă a sectoarelor pentru a optimiza experiența la meciuri.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-24T12:36:47.857305+00:00",
-      "data_afisaj": "24 septembrie 2026, 15:36"
-    },
-    {
-      "id": "072a6b62c237",
-      "titlu": "Infantino, sub presiune să includă planul abandonat de vânzare a Cupei Mondiale în revizuirea FIFA",
-      "rezumat": "Membrii Consiliului FIFA îi cer președintelui Gianni Infantino să includă planul abandonat de vânzare a drepturilor Cupei Mondiale și afacerea Folarin Balogun în revizuirea externă propusă a guvernanței FIFA. Într-o scrisoare adresată celor 211 asociații membre, Infantino a menționat că va solicita consiliului să comande o analiză a \"cadrului actual de guvernanță al FIFA pentru inițiative strategice majore\". Presiunea vizează asigurarea transparenței și responsabilității în deciziile cheie ale organizației, în special după controversele legate de inițiativele financiare anterioare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-24T12:36:47.859285+00:00",
-      "data_afisaj": "24 septembrie 2026, 15:36"
     }
   ]
 }
