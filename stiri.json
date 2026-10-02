@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-02T13:40:31.087151+00:00",
-  "updated_at_afisaj": "2 octombrie 2026, 16:40",
+  "updated_at": "2026-10-02T14:28:45.626879+00:00",
+  "updated_at_afisaj": "2 octombrie 2026, 17:28",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,52 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 124,
+  "numar_stiri": 128,
   "stiri": [
+    {
+      "id": "81207d4c8eca",
+      "titlu": "Liberal Democrații Îi Cer lui Andy Burnham Să Dezvăluie Întâlnirile cu Proprietarii Manchester City",
+      "rezumat": "Andy Burnham, primarul regiunii Manchester, este presat de Partidul Liberal Democrat să publice detaliile tuturor întâlnirilor sale cu proprietarii Manchester City, Abu Dhabi United Group (ADUG), și să declare orice ospitalitate acceptată pe Stadionul Etihad. Această solicitare vine după ce Burnham a fost criticat pentru declarațiile sale conform cărora ar fi „foarte îngrijorat” dacă ADUG ar fi forțată să vândă clubul în urma verdictului de vinovăție pentru încălcarea regulilor. Partidul cere transparență totală în relația dintre oficialul politic și conducerea clubului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-02T14:28:45.620929+00:00",
+      "data_afisaj": "2 octombrie 2026, 17:28"
+    },
+    {
+      "id": "7c44a0fecfe6",
+      "titlu": "Thomas Tuchel Nu Exclude Convocarea Jucătorilor de la Manchester City în Cazul Retrogradării Clubului",
+      "rezumat": "Selecționerul Angliei, Thomas Tuchel, a declarat că nu ar exclude posibilitatea de a convoca jucători de la Manchester City în echipa națională, chiar dacă clubul ar retrograda în Championship. Această afirmație vine pe fondul incertitudinilor legate de viitorul lui Manchester City, în urma acuzațiilor de încălcare a regulilor financiare. Tuchel a subliniat că performanța și calitatea jucătorilor ar rămâne criteriile principale de selecție, indiferent de liga în care ar evolua clubul lor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-10-02T14:28:45.623061+00:00",
+      "data_afisaj": "2 octombrie 2026, 17:28"
+    },
+    {
+      "id": "e65970fe2b53",
+      "titlu": "Victoria Manchester City în Liga Campionilor 2023, Pusă Sub Semnul Întrebării pe Fondul Crizei Acuzațiilor",
+      "rezumat": "Succesul lui Manchester City în Liga Campionilor din 2023 este acum pus sub semnul întrebării, pe măsură ce criza acuzațiilor de încălcare a regulilor financiare se adâncește. După verdictul Premier League privind neregulile financiare, au apărut discuții despre legitimitatea titlurilor câștigate de club, atât pe plan intern, cât și în competițiile europene. Această situație adaugă o nouă dimensiune controverselor din jurul clubului, sugerând că performanțele sale recente ar putea fi reevaluate în contextul investigațiilor în curs.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-10-02T14:28:45.625099+00:00",
+      "data_afisaj": "2 octombrie 2026, 17:28"
+    },
+    {
+      "id": "8098e20a8db0",
+      "titlu": "Andy Robertson Se Pregătește Să Atingă 100 de Selecții pentru Scoția",
+      "rezumat": "Căpitanul Scoției, Andy Robertson, este pe cale să devină al doilea jucător din istorie care va atinge borna de 100 de selecții pentru echipa națională. BBC Sport Scotland a analizat parcursul său internațional, prezentând cifrele impresionante ale carierei sale. Această realizare subliniază longevitatea și importanța lui Robertson pentru naționala Scoției, consolidându-i statutul de legendă a fotbalului scoțian.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-02T14:28:45.626859+00:00",
+      "data_afisaj": "2 octombrie 2026, 17:28"
+    },
     {
       "id": "f3febba7cbfc",
       "titlu": "Real Madrid Depune un Dosar „Substanțial” în Cazul Plăților Barcelonei",
