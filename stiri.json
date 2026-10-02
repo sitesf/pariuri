@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-02T20:29:22.277875+00:00",
-  "updated_at_afisaj": "2 octombrie 2026, 23:29",
+  "updated_at": "2026-10-02T21:08:37.863641+00:00",
+  "updated_at_afisaj": "3 octombrie 2026, 00:08",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,65 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 123,
+  "numar_stiri": 128,
   "stiri": [
+    {
+      "id": "31e9ee4ba1ba",
+      "titlu": "Manchester City a primit o carte de ieșire din închisoare gratuită din Premier League: raport",
+      "rezumat": "Verdictul de vinovăție al lui Manchester City pentru 114 acuzații de încălcare a regulilor Premier League este povestea sezonului - și abia acum începe",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "GSP.ro"
+      ],
+      "data_publicare": "2026-10-02T21:08:30.537623+00:00",
+      "data_afisaj": "3 octombrie 2026, 00:08"
+    },
+    {
+      "id": "74b272fa5aad",
+      "titlu": "DECLARAȚII Andrei Rațiu, discurs halucinant după Polonia – România 6-0: „Am făcut o primă repriză bună. Să rămânem cu ea”",
+      "rezumat": "(rezumat indisponibil)",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-10-02T21:08:30.539744+00:00",
+      "data_afisaj": "3 octombrie 2026, 00:08"
+    },
+    {
+      "id": "dcb0cfb4f81c",
+      "titlu": "Man City confirmă apelul împotriva verdictului de vinovăție",
+      "rezumat": "Declarația clubului afirmă că decizia conține „erori materiale clare, de drept, principiu și fapt, și este nesigură”.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-02T21:08:30.541175+00:00",
+      "data_afisaj": "3 octombrie 2026, 00:08"
+    },
+    {
+      "id": "7af0f2adfcbf",
+      "titlu": "Informatorul Man City urmează să-și piardă protecția pe fondul temerilor pentru viața sa",
+      "rezumat": "Hackerul portughez care a publicat documente ce au dus la investigația Premier League împotriva lui Manchester City urmează să-și piardă protecția martorilor, în ciuda temerilor pentru viața sa.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-02T21:08:30.542707+00:00",
+      "data_afisaj": "3 octombrie 2026, 00:08"
+    },
+    {
+      "id": "2857a5761b40",
+      "titlu": "Cum a devenit Gordon unul dintre oamenii cheie ai Angliei",
+      "rezumat": "Anthony Gordon a fost cel mai în formă jucător al Angliei de la faza eliminatorie a Cupei Mondiale - este atacantul Barcelonei acum de neînlocuit?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-02T21:08:30.544171+00:00",
+      "data_afisaj": "3 octombrie 2026, 00:08"
+    },
     {
       "id": "dc8069b1f541",
       "titlu": "Manchester City, Ofertă pentru a Evita Sancțiunile Premier League: Raport",
