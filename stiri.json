@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-01T21:31:21.078481+00:00",
-  "updated_at_afisaj": "2 octombrie 2026, 00:31",
+  "updated_at": "2026-10-02T13:40:31.087151+00:00",
+  "updated_at_afisaj": "2 octombrie 2026, 16:40",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,53 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 130,
+  "numar_stiri": 124,
   "stiri": [
+    {
+      "id": "f3febba7cbfc",
+      "titlu": "Real Madrid Depune un Dosar „Substanțial” în Cazul Plăților Barcelonei",
+      "rezumat": "Real Madrid a trimis UEFA un dosar conținând \"dovezi de o gravitate extraordinară\" legate de plățile efectuate de FC Barcelona către un fost vicepreședinte al Comisiei Tehnice a Arbitrilor din Spania. Această acțiune intensifică presiunea asupra clubului catalan în scandalul cunoscut sub numele de \"Cazul Negreira\", care investighează presupuse influențe asupra arbitrajului. Real Madrid, care s-a constituit parte civilă în acest caz, continuă să solicite clarificări și justiție în legătură cu acuzațiile aduse rivalei sale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-02T13:40:31.082340+00:00",
+      "data_afisaj": "2 octombrie 2026, 16:40"
+    },
+    {
+      "id": "37fe089aaa2b",
+      "titlu": "Robbie Savage, Noul Antrenor al Echipei Peterborough United",
+      "rezumat": "Robbie Savage a fost numit noul antrenor al echipei Peterborough United, club din League One. Fostul internațional galez părăsește postul de la Forest Green Rovers, echipă din National League, pentru a prelua conducerea tehnică a \"Posh\", care se află pe penultimul loc în clasament. Aceasta este prima sa experiență ca antrenor în Football League de la retragerea sa din activitatea de jucător în 2011. Savage a declarat că este entuziasmat de provocare și dorește să demonstreze că merită această șansă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-02T13:40:31.083886+00:00",
+      "data_afisaj": "2 octombrie 2026, 16:40"
+    },
+    {
+      "id": "9dc134e30739",
+      "titlu": "Slaven Bilic Revine la Conducerea Naționalei Croației",
+      "rezumat": "Slaven Bilic a fost numit din nou selecționer al naționalei Croației, marcând a doua sa venire la cârma echipei. Fostul antrenor al lui West Ham United îl înlocuiește pe Zlatko Dalic, antrenorul care a făcut istorie cu naționala croată. Bilic, cunoscut pentru stilul său direct și pasiunea sa, va avea un test important împotriva Angliei în Liga Națiunilor. Revenirea sa este așteptată cu interes, fanii sperând că va aduce o nouă energie și va continua performanțele notabile ale echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-02T13:40:31.085434+00:00",
+      "data_afisaj": "2 octombrie 2026, 16:40"
+    },
+    {
+      "id": "4d8ca39efab9",
+      "titlu": "Manchester City Feminin Obține o Remiză cu Real Madrid în Liga Campionilor",
+      "rezumat": "Echipa feminină a clubului Manchester City a reușit o remiză de calitate împotriva formației Real Madrid în Liga Campionilor la fotbal feminin. Antrenorul principal, Andrée Jeglertz, a declarat că problemele extra-sportive ale clubului masculin nu au afectat performanța echipei sale. Golul marcat de Khadija 'Bunny' Shaw a asigurat un punct important pentru City într-un meci disputat, oferind o scurtă evadare de la turbulențele din jurul clubului după verdictul Premier League.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-02T13:40:31.087132+00:00",
+      "data_afisaj": "2 octombrie 2026, 16:40"
+    },
     {
       "id": "c2a991f5b784",
       "titlu": "Țara Galilor Învinge Norvegia cu 10 Jucători într-un Meci Dramatic",
@@ -1378,116 +1423,6 @@
       ],
       "data_publicare": "2026-09-25T19:54:59.693714+00:00",
       "data_afisaj": "25 septembrie 2026, 22:54"
-    },
-    {
-      "id": "786d7ceaa58f",
-      "titlu": "Părinții lui Billy Vigar acuză FA că ar fi putut preveni moartea fiului lor",
-      "rezumat": "Părinții lui Billy Vigar, un tânăr fotbalist, susțin că Asociația de Fotbal (FA) ar fi putut interveni pentru a preveni decesul fiului lor. Această acuzație ridică semne de întrebare cu privire la protocoalele de siguranță și responsabilitatea organismelor de conducere în fotbalul juvenil. Cazul subliniază necesitatea unei analize amănunțite a măsurilor luate pentru protejarea jucătorilor și a modului în care astfel de tragedii pot fi evitate pe viitor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-25T13:16:14.045844+00:00",
-      "data_afisaj": "25 septembrie 2026, 16:16"
-    },
-    {
-      "id": "7533701e6faa",
-      "titlu": "Jucătorul Irlandei de Nord, Jason Knight, se opune disputării meciului cu Israel",
-      "rezumat": "Jason Knight, jucător al Republicii Irlanda, a devenit primul fotbalist din echipa națională care și-a exprimat public opoziția față de disputarea meciului programat duminică împotriva Israelului. Poziția sa aduce în discuție implicațiile etice și politice ale evenimentelor sportive internaționale, reflectând tensiunile și preocupările din rândul sportivilor. Declarația sa ar putea influența dezbaterile publice și deciziile ulterioare privind organizarea partidei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-25T13:16:14.047280+00:00",
-      "data_afisaj": "25 septembrie 2026, 16:16"
-    },
-    {
-      "id": "d12ab59c44df",
-      "titlu": "Meci din Cupa Angliei, rejucat din cauza unei erori de arbitraj",
-      "rezumat": "Clubul Mulbarton Wanderers s-a declarat \"profund supărat\" după ce a fost informat că trebuie să rejueze meciul de calificare din Cupa Angliei împotriva echipei Woodford Town, din cauza unei erori comise de arbitru. Decizia de a rejuca partida, impusă de forurile competente, ridică întrebări importante despre precedentele pe care le-ar putea crea și despre modul în care erorile de arbitraj pot afecta integritatea competițiilor. Această situație subliniază presiunea asupra arbitrilor și necesitatea unor decizii corecte.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-25T13:16:14.048540+00:00",
-      "data_afisaj": "25 septembrie 2026, 16:16"
-    },
-    {
-      "id": "7e0028e2df2e",
-      "titlu": "Kai Havertz revine la Arsenal",
-      "rezumat": "Atacantul Kai Havertz s-a întors la echipa Arsenal, conform ultimelor informații din fotbal. Revenirea sa este o veste importantă pentru club, mai ales în contextul pregătirilor pentru meciurile viitoare și al campaniei din Nations League. Detaliile complete despre starea sa fizică și disponibilitatea pentru joc vor fi cruciale pentru planurile antrenorului și performanța echipei în următoarea perioadă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-25T13:16:14.049616+00:00",
-      "data_afisaj": "25 septembrie 2026, 16:16"
-    },
-    {
-      "id": "155766aa95a6",
-      "titlu": "Golul lui João Félix asigură victoria Portugaliei împotriva Țării Galilor; Ronaldo nu impresionează",
-      "rezumat": "Portugalia a învins Țara Galilor într-un meci din Liga Națiunilor, grație unui gol marcat de João Félix. În ciuda prezenței lui Cristiano Ronaldo, care a fost înlocuit în minutul 67, starul portughez nu a reușit să se remarce, ratând mai multe ocazii. Meciul a fost unul intens, iar victoria Portugaliei consolidează poziția echipei în competiție, în timp ce Țara Galilor va căuta să-și îmbunătățească performanța în partidele următoare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-25T13:16:14.051145+00:00",
-      "data_afisaj": "25 septembrie 2026, 16:16"
-    },
-    {
-      "id": "0512ac249609",
-      "titlu": "Chelsea, acuzată de FA pentru scandări discriminatorii",
-      "rezumat": "Clubul Chelsea a fost acuzat de Asociația de Fotbal (FA) în urma unor presupuse scandări discriminatorii ale fanilor săi. Incidentul ar fi avut loc în timpul meciului câștigat de Chelsea împotriva echipei Fulham, în luna august. Această acuzație subliniază eforturile continue ale organismelor de conducere ale fotbalului de a combate comportamentele inadecvate pe stadioane și de a asigura un mediu respectuos pentru toți participanții. Investigația FA va stabili dacă acuzațiile sunt fondate și ce măsuri vor fi luate.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-25T12:38:11.725991+00:00",
-      "data_afisaj": "25 septembrie 2026, 15:38"
-    },
-    {
-      "id": "87f027631974",
-      "titlu": "Chelsea lansează o politică inovatoare privind fertilitatea pentru jucătoare",
-      "rezumat": "Clubul Chelsea a introdus o politică de pionierat în fotbalul feminin, care permite jucătoarelor să își continue cariera sportivă în timp ce devin mame. Această inițiativă abordează aspecte legate de fertilitate și maternitate, oferind suport esențial și flexibilitate. Prin această măsură, Chelsea își propune să stabilească un nou standard în sport, demonstrând că performanța la nivel înalt și viața de familie pot fi compatibile, contribuind la bunăstarea și longevitatea carierelor sportive feminine.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-09-25T12:38:11.727717+00:00",
-      "data_afisaj": "25 septembrie 2026, 15:38"
-    },
-    {
-      "id": "81856e89c8c0",
-      "titlu": "Zinedine Zidane preia naționala Franței după o lungă așteptare",
-      "rezumat": "Zinedine Zidane a confirmat că a așteptat postul de selecționer al Franței, marcând revenirea sa în management după o pauză de cinci ani. Numirea sa la cârma echipei naționale, plină de talente, ridică întrebări despre modul în care va reuși să gestioneze și să valorifice potențialul starurilor franceze. Fostul antrenor al Real Madrid este așteptat să aducă o nouă viziune și să continue succesul echipei pe scena internațională.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-25T12:38:11.729409+00:00",
-      "data_afisaj": "25 septembrie 2026, 15:38"
-    },
-    {
-      "id": "512bbb513318",
-      "titlu": "David Beckham încasează 39 de milioane de lire sterline din dividende, pe fondul profiturilor record generate de Cupa Mondială",
-      "rezumat": "David Beckham a primit un dividend de 39 de milioane de lire sterline din afacerile sale, după ce o serie de contracte publicitare încheiate în timpul Cupei Mondiale au generat profituri record. Fostul fotbalist a apărut în aproximativ 12 campanii publicitare pe durata turneului din SUA, colaborând cu branduri majore. Această performanță financiară subliniază succesul continuu al imperiului său de afaceri și influența sa comercială globală.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-25T12:38:11.731456+00:00",
-      "data_afisaj": "25 septembrie 2026, 15:38"
-    },
-    {
-      "id": "5b28fb212930",
-      "titlu": "Dele Alli, deschis la o revenire în fotbal; un antrenor din EFL îi oferă sprijin",
-      "rezumat": "Un antrenor din English Football League (EFL) a declarat că \"ușile sunt deschise\" pentru Dele Alli, pe măsură ce fostul mijlocaș al naționalei Angliei își dorește să revină în fotbal. Această declarație oferă o speranță semnificativă pentru Alli, care a trecut printr-o perioadă dificilă în carieră. Sprijinul din partea comunității fotbalistice ar putea juca un rol crucial în eforturile sale de a-și relansa parcursul sportiv.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-09-25T12:38:11.733311+00:00",
-      "data_afisaj": "25 septembrie 2026, 15:38"
     }
   ]
 }
