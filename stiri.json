@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-02T21:08:37.863641+00:00",
-  "updated_at_afisaj": "3 octombrie 2026, 00:08",
+  "updated_at": "2026-10-03T12:20:20.958612+00:00",
+  "updated_at_afisaj": "3 octombrie 2026, 15:20",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,61 @@
   },
   "numar_stiri": 128,
   "stiri": [
+    {
+      "id": "d6b749c58bbf",
+      "titlu": "Lewandowski, la 38 de ani, marchează un hat-trick în victoria Poloniei cu 6-0",
+      "rezumat": "Atacantul Robert Lewandowski, în vârstă de 38 de ani, a reușit un hat-trick impresionant în meciul din Liga Națiunilor, contribuind decisiv la victoria categorică a Poloniei cu scorul de 6-0. Această performanță subliniază forma excelentă a veteranului atacant, care continuă să fie un jucător cheie pentru echipa națională. În aceeași seară, Edin Dzeko și-a disputat ultimul său meci pentru naționala Bosniei-Herțegovina, marcând o altă bornă importantă în fotbalul internațional.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-03T12:20:20.952890+00:00",
+      "data_afisaj": "3 octombrie 2026, 15:20"
+    },
+    {
+      "id": "50ec685e9adc",
+      "titlu": "Italia obține o remiză împotriva Franței, rămasă în 10 jucători, în Liga Națiunilor",
+      "rezumat": "Primul meci pe teren propriu al lui Zinedine Zidane în calitate de selecționer al Franței s-a încheiat cu o remiză 1-1 împotriva Italiei în Liga Națiunilor. Portarul oaspeților, Gianluigi Donnarumma, a avut o serie de intervenții decisive, frustrând atacurile francezilor pe Stade de France. Gazdele au terminat partida în inferioritate numerică, după eliminarea târzie a lui Dayot Upamecano. Michael Olise a deschis scorul pentru Franța în minutul 55, cu un șut spectaculos.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-03T12:20:20.954371+00:00",
+      "data_afisaj": "3 octombrie 2026, 15:20"
+    },
+    {
+      "id": "0f677aa71a1a",
+      "titlu": "Implicațiile verdictului de vinovăție al Manchester City asupra lotului și transferurilor",
+      "rezumat": "Verdictul de vinovăție pronunțat împotriva clubului Manchester City în cazul încălcărilor regulilor financiare va avea un impact semnificativ asupra viitorului jucătorilor existenți și asupra activității clubului pe piața transferurilor. BBC Sport analizează modul în care această decizie ar putea influența strategia de recrutare a clubului, potențialele plecări de jucători cheie și capacitatea echipei de a atrage noi talente în contextul sancțiunilor iminente.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-03T12:20:20.955766+00:00",
+      "data_afisaj": "3 octombrie 2026, 15:20"
+    },
+    {
+      "id": "b43ff625c51b",
+      "titlu": "Xavi, selecționerul Olandei, se confruntă deja cu tensiuni în echipa națională",
+      "rezumat": "Xavi, noul selecționer al Olandei, se află deja în centrul atenției din cauza tensiunilor apărute în cadrul echipei naționale. Iconicul fost jucător al Barcelonei își propune să implementeze o fuziune stilistică în jocul echipei și nu a ezitat să ia decizii drastice până acum. Această abordare fermă a generat discuții și provocări interne, pe măsură ce Xavi încearcă să-și impună viziunea și să remodeleze lotul pentru a atinge obiectivele propuse.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-10-03T12:20:20.957148+00:00",
+      "data_afisaj": "3 octombrie 2026, 15:20"
+    },
+    {
+      "id": "5c43c60eebf9",
+      "titlu": "Raheem Sterling, sub semnul întrebării: viitorul carierei sale după problemele legale",
+      "rezumat": "Fostul atacant al naționalei Angliei, Raheem Sterling, ar putea risca o pedeapsă cu închisoarea luna viitoare, iar colapsul carierei sale ridică numeroase semne de întrebare. În altă conjunctură, Sterling ar fi fost acum în lotul Angliei, jucând sub comanda lui Thomas Tuchel, care îl considera ținta numărul unu la Chelsea. La 16 luni mai tânăr decât Harry Kane, care continuă să bată recorduri, situația lui Sterling contrastează puternic, punând sub lupă credibilitatea și viitorul său în fotbal.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-03T12:20:20.958597+00:00",
+      "data_afisaj": "3 octombrie 2026, 15:20"
+    },
     {
       "id": "31e9ee4ba1ba",
       "titlu": "Manchester City a primit o carte de ieșire din închisoare gratuită din Premier League: raport",
@@ -1408,63 +1463,6 @@
       ],
       "data_publicare": "2026-09-26T12:40:40.692550+00:00",
       "data_afisaj": "26 septembrie 2026, 15:40"
-    },
-    {
-      "id": "fa28a99c2691",
-      "titlu": "Conferința de presă a Republicii Irlanda, amânată înaintea meciului controversat cu Israel",
-      "rezumat": "Conferința de presă premergătoare meciului din Liga Națiunilor dintre Republica Irlanda și Israel, programată duminică în Ungaria, a fost amânată. Această decizie vine în contextul în care mai multe organizații și activiști au cerut boicotarea partidei din cauza situației politice. Meciul, care se va disputa pe teren neutru și probabil fără spectatori, a generat dezbateri intense în societatea irlandeză de la tragerea la sorți din februarie. Guvernul Republicii Irlanda a declarat că Israelul este o țară implicată într-un conflict.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-09-26T12:07:08.219679+00:00",
-      "data_afisaj": "26 septembrie 2026, 15:07"
-    },
-    {
-      "id": "11043c40f07f",
-      "titlu": "Julian Ward, numit director sportiv la Liverpool",
-      "rezumat": "Julian Ward a fost numit director sportiv al clubului Liverpool pentru a doua oară în cariera sa, preluând funcția după plecarea lui Richard Hughes. Această numire marchează o revenire a lui Ward la clubul de pe Anfield, unde a mai ocupat o poziție similară în trecut. Decizia vine în contextul restructurărilor administrative la nivel înalt, având ca scop consolidarea strategiei sportive și de transferuri a echipei pentru sezoanele viitoare, sub o conducere familiară cu viziunea clubului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-26T12:07:08.220744+00:00",
-      "data_afisaj": "26 septembrie 2026, 15:07"
-    },
-    {
-      "id": "3141fcfc9940",
-      "titlu": "Hackerul care a declanșat investigația împotriva Manchester City",
-      "rezumat": "BBC Sport a investigat povestea lui Rui Pinto, hackerul informatic din Portugalia care a jucat un rol crucial în declanșarea investigației împotriva clubului Manchester City. Pinto este cunoscut pentru scurgerile de informații din fotbal, iar datele furnizate de el au stat la baza acuzațiilor de încălcare a regulilor Fair Play Financiar aduse clubului englez. Această dezvăluire oferă o perspectivă asupra originilor cazului complex care a afectat reputația și stabilitatea financiară a lui Manchester City, aducând în prim-plan sursa inițială a problemelor legale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-26T12:07:08.221817+00:00",
-      "data_afisaj": "26 septembrie 2026, 15:07"
-    },
-    {
-      "id": "371e3a9273ba",
-      "titlu": "Rio Ngumoha, adolescentul de la Liverpool, nu a fost inclus în lotul Angliei pentru meciul cu Spania",
-      "rezumat": "Tânărul jucător al lui Liverpool, Rio Ngumoha, nu a fost inclus în lotul Angliei pentru meciul de deschidere din Liga Națiunilor împotriva Spaniei, programat sâmbătă. Decizia antrenorului naționalei vine în contextul pregătirilor pentru această competiție importantă, unde se caută cea mai bună formulă. Ngumoha, considerat un talent promițător în fotbalul englez, va trebui să aștepte o altă oportunitate pentru a-și face debutul la nivel internațional pentru echipa Angliei, continuând să se dezvolte la club.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-26T12:07:08.223091+00:00",
-      "data_afisaj": "26 septembrie 2026, 15:07"
-    },
-    {
-      "id": "a7bb714b8c72",
-      "titlu": "Problemele cu care se confruntă Mourinho la Real Madrid",
-      "rezumat": "Jose Mourinho a revenit la Real Madrid în luna iulie, însă echipa se confruntă deja cu dificultăți semnificative. Articolul analizează aspectele pe care antrenorul portughez se străduiește să le remedieze pentru ca Real Madrid să poată concura la titlul din La Liga. Sunt evidențiate probleme tactice și de performanță care necesită îmbunătățiri urgente pentru a asigura o luptă echilibrată în campionatul spaniol și pentru a îndeplini așteptările ridicate ale fanilor și conducerii clubului, care vizează succesul imediat.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-26T12:07:08.224132+00:00",
-      "data_afisaj": "26 septembrie 2026, 15:07"
     }
   ]
 }
