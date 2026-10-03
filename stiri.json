@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-03T13:02:54.798271+00:00",
-  "updated_at_afisaj": "3 octombrie 2026, 16:02",
+  "updated_at": "2026-10-03T19:06:09.677195+00:00",
+  "updated_at_afisaj": "3 octombrie 2026, 22:06",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,68 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 128,
+  "numar_stiri": 133,
   "stiri": [
+    {
+      "id": "374d95774711",
+      "titlu": "Anglia obține o victorie zdrobitoare împotriva Croației în Liga Națiunilor",
+      "rezumat": "Naționala Angliei a demonstrat o performanță dominantă, învingând categoric Croația într-un meci din Liga Națiunilor. Victoria a fost descrisă ca o \"ruină istorică\" de către observatori, consolidând poziția Angliei în grupă și sporind speranțele de calificare în sferturile de finală. Jucători precum Harry Kane și Bukayo Saka au avut contribuții semnificative la acest succes. Meciul a fost urmărit de un public tânăr, format din peste 6.000 de copii sub 14 ani.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-03T19:06:09.669906+00:00",
+      "data_afisaj": "3 octombrie 2026, 22:06"
+    },
+    {
+      "id": "97446b52c53e",
+      "titlu": "Bruno Fernandes comentează plecarea lui Cristiano Ronaldo din lotul Portugaliei",
+      "rezumat": "Mijlocașul portughez Bruno Fernandes a declarat că, în ciuda plecării sale recente din lotul naționalei după ce a aflat că nu va fi titular, Cristiano Ronaldo rămâne cea mai mare figură fotbalistică a țării. Fernandes a confirmat discuții cu Ronaldo, subliniind importanța acestuia pentru echipa Portugaliei și impactul său continuu asupra fotbalului lusitan.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-10-03T19:06:09.671748+00:00",
+      "data_afisaj": "3 octombrie 2026, 22:06"
+    },
+    {
+      "id": "f5ff2407f6ae",
+      "titlu": "Conferința de presă a naționalei Irlandei, întreruptă brusc pe fondul acuzațiilor",
+      "rezumat": "Conferința de presă premergătoare meciului naționalei Republicii Irlanda împotriva Israelului a fost întreruptă brusc, după ce managerul Heimir Hallgrimsson a fost confruntat cu acuzații la adresa jucătorilor săi. Acuzațiile de rasism au fost respinse ca fiind \"complet neadevărate\". Incidentul a avut loc în contextul unei tensiuni crescute, echipa irlandeză votând anterior să joace meciul, în ciuda unor neliniști în rândul jucătorilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-03T19:06:09.673549+00:00",
+      "data_afisaj": "3 octombrie 2026, 22:06"
+    },
+    {
+      "id": "503df8e5ab6c",
+      "titlu": "Scoția preia conducerea în meciul cu Macedonia de Nord din Liga Națiunilor",
+      "rezumat": "Naționala Scoției a deschis scorul devreme în partida din Liga Națiunilor împotriva Macedoniei de Nord. Meciul, care face parte din seria de confruntări din Liga Națiunilor, este urmărit în direct, alături de alte partide importante precum Spania împotriva Cehiei. Golul marcat de Bowie a oferit Scoției un avantaj important în prima parte a jocului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-03T19:06:09.675331+00:00",
+      "data_afisaj": "3 octombrie 2026, 22:06"
+    },
+    {
+      "id": "8fa6edac1516",
+      "titlu": "Accidentare majoră pentru un jucător cheie al României înainte de meciul cu Suedia",
+      "rezumat": "Un jucător important al naționalei României s-a accidentat și nu va putea participa la meciul crucial împotriva Suediei. Această veste reprezintă un șoc pentru selecționer și pentru echipa națională, având în vedere importanța partidei. Detaliile complete despre identitatea jucătorului și gravitatea accidentării urmează să fie comunicate.",
+      "categorie": "Fotbal",
+      "surse": [
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-10-03T19:06:09.677173+00:00",
+      "data_afisaj": "3 octombrie 2026, 22:06"
+    },
     {
       "id": "7136e3a6a6b2",
       "titlu": "Către ce cluburi au curs banii 'umflați' ai lui Man City pe piața transferurilor?",
