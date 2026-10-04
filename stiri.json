@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-04T19:19:40.855753+00:00",
-  "updated_at_afisaj": "4 octombrie 2026, 22:19",
+  "updated_at": "2026-10-04T19:52:15.469925+00:00",
+  "updated_at_afisaj": "4 octombrie 2026, 22:52",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,50 @@
   },
   "numar_stiri": 133,
   "stiri": [
+    {
+      "id": "84d983271701",
+      "titlu": "Gateshead îl demite pe antrenorul Lee Cattermole după un început slab de sezon",
+      "rezumat": "Clubul Gateshead l-a demis pe antrenorul Lee Cattermole în urma unei serii slabe de rezultate în National League. Decizia vine după o perioadă dificilă pentru echipă, care nu a reușit să obțină performanțele așteptate sub conducerea lui Cattermole. Această schimbare la nivel de bancă tehnică marchează o încercare a clubului de a redresa parcursul echipei și de a îmbunătăți rezultatele în campionat, în speranța de a evita retrogradarea.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-04T19:52:15.463911+00:00",
+      "data_afisaj": "4 octombrie 2026, 22:52"
+    },
+    {
+      "id": "36dd9d450d98",
+      "titlu": "Un club din Superliga României se remarcă prin stabilitate financiară, având 1,5 milioane euro în depozite bancare",
+      "rezumat": "Într-o Superligă românească adesea afectată de insolvență și probleme financiare, un club se distinge printr-o situație economică solidă, având depozite și investiții bancare în valoare de 1,5 milioane de euro. Această performanță financiară este considerată un model de urmat, demonstrând o gestionare prudentă și eficientă a resurselor. Stabilitatea financiară a clubului reprezintă o excepție notabilă în peisajul fotbalistic românesc, oferind un exemplu pozitiv în contextul dificultăților generale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-10-04T19:52:15.466179+00:00",
+      "data_afisaj": "4 octombrie 2026, 22:52"
+    },
+    {
+      "id": "5f3dc67f7a1c",
+      "titlu": "Vedeta naționalei U21 a României, exclusă din lot în urma unui scandal",
+      "rezumat": "Un jucător considerat vedetă a naționalei de fotbal U21 a României a fost exclus din lot în urma unui scandal. Jucătorul a declarat că a fost acuzat de consum de alcool, dar a prezentat dovezi video pentru a-și susține nevinovăția. Incidentul a generat discuții aprinse în jurul echipei naționale de tineret și a politicilor de disciplină impuse de staff-ul tehnic, subliniind importanța respectării regulamentului intern.",
+      "categorie": "Fotbal",
+      "surse": [
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-10-04T19:52:15.468041+00:00",
+      "data_afisaj": "4 octombrie 2026, 22:52"
+    },
+    {
+      "id": "dfa0b3d28407",
+      "titlu": "Giovanni Becali critică clauzele de transfer impuse de Gigi Becali jucătorilor de la FCSB",
+      "rezumat": "Agentul Giovanni Becali și-a exprimat exasperarea față de clauzele de transfer extrem de mari, de până la 50 de milioane de euro, pe care Gigi Becali, patronul FCSB, le impune fotbaliștilor săi. Becali consideră că aceste clauze reprezintă un „dispreț” față de jucători, limitându-le drastic șansele de a se transfera la cluburi mai puternice din străinătate și afectându-le dezvoltarea profesională și valoarea pe piață.",
+      "categorie": "Fotbal",
+      "surse": [
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-10-04T19:52:15.469905+00:00",
+      "data_afisaj": "4 octombrie 2026, 22:52"
+    },
     {
       "id": "6c08f6a91dc8",
       "titlu": "Manchester City învinge Arsenal cu 4-2 și își menține parcursul perfect în WSL",
@@ -1473,51 +1517,6 @@
       ],
       "data_publicare": "2026-09-27T19:56:28.375445+00:00",
       "data_afisaj": "27 septembrie 2026, 22:56"
-    },
-    {
-      "id": "5d97a4bca514",
-      "titlu": "Bruno Fernandes, Cody Gakpo și Patrick Dorgu, printre jucătorii accidentați în pauza internațională",
-      "rezumat": "Pauza internațională a adus vești proaste pentru mai multe echipe, deoarece Bruno Fernandes, Cody Gakpo și Patrick Dorgu s-au alăturat listei de jucători de profil înalt care au suferit accidentări. Problemele medicale i-au forțat să își întrerupă participarea la meciurile din Liga Națiunilor, creând îngrijorări pentru cluburile și naționalele lor. Aceste absențe ar putea influența semnificativ performanțele echipelor în viitoarele confruntări, având în vedere importanța acestor jucători.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-27T19:38:43.048920+00:00",
-      "data_afisaj": "27 septembrie 2026, 22:38"
-    },
-    {
-      "id": "3a118e4f805b",
-      "titlu": "Fără strângeri de mână între jucătorii Irlandei și Israelului înainte de meciul controversat",
-      "rezumat": "Jucătorii naționalelor Republicii Irlanda și Israelului nu și-au strâns mâinile înainte de meciul controversat din Liga Națiunilor UEFA, disputat duminică în Ungaria. Gestul subliniază tensiunile din jurul acestei partide, care a fost deja marcată de decizia Irlandei de a purta banderole negre. Absența salutului tradițional adaugă o nouă dimensiune simbolică contextului politic și social al întâlnirii, atrăgând atenția asupra sensibilităților din regiune.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-27T19:38:43.050360+00:00",
-      "data_afisaj": "27 septembrie 2026, 22:38"
-    },
-    {
-      "id": "7084b320d262",
-      "titlu": "Chelsea învinge Arsenal și pune capăt seriei de invincibilitate a „tunarilor” în WSL",
-      "rezumat": "Chelsea a obținut o victorie importantă cu 1-0 împotriva lui Arsenal în Women's Super League, punând capăt seriei de invincibilitate a rivalei. Alyssa Thompson a marcat singurul gol al partidei în prima repriză, asigurând cele trei puncte pentru Chelsea pe Stamford Bridge. Acest rezultat are implicații majore în lupta pentru titlu, Arsenal fiind acum nevoită să recupereze teren în clasament. Meciul a fost intens, cu ambele echipe luptând pentru supremație.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-27T19:38:43.051736+00:00",
-      "data_afisaj": "27 septembrie 2026, 22:38"
-    },
-    {
-      "id": "09d4ce711e76",
-      "titlu": "Liverpool învinge Everton și pune capăt unei lungi serii fără victorie în derby-ul feminin de pe Anfield",
-      "rezumat": "Echipa feminină a lui Liverpool a reușit o victorie istorică împotriva rivalei Everton, punând capăt unei serii de șase înfrângeri consecutive pe Anfield în Women's Super League. Jucătoarele lui Liverpool au sărbătorit intens în fața fanilor, după ce Olsson și Kapocs au marcat golurile care au adus prima victorie în derby-ul de pe teren propriu în era WSL. Acest succes marchează un moment important pentru club și pentru moralul echipei, oferind speranțe pentru viitor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-27T19:38:43.053313+00:00",
-      "data_afisaj": "27 septembrie 2026, 22:38"
     }
   ]
 }
