@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-03T19:37:44.823892+00:00",
-  "updated_at_afisaj": "3 octombrie 2026, 22:37",
+  "updated_at": "2026-10-04T13:05:42.792241+00:00",
+  "updated_at_afisaj": "4 octombrie 2026, 16:05",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,61 @@
   },
   "numar_stiri": 130,
   "stiri": [
+    {
+      "id": "2daecb99e99b",
+      "titlu": "Bellingham deblochează un nou nivel și potențial de a fi „unul dintre cei mai mari”",
+      "rezumat": "Viitorul internațional al lui Jude Bellingham a fost pus sub semnul întrebării în urmă cu un an, dar acum el este considerat unul dintre „cei mai mari din toate timpurile” din Anglia.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-04T13:05:17.392471+00:00",
+      "data_afisaj": "4 octombrie 2026, 16:05"
+    },
+    {
+      "id": "3a44e4391c5a",
+      "titlu": "Bowie a pus mâna pe Scoția după dezamăgirea de la Cupa Mondială",
+      "rezumat": "BBC Scoția vorbește cu Kieron Bowie după ce acesta a marcat primul său gol pentru țara sa împotriva Macedoniei de Nord.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-04T13:05:17.394062+00:00",
+      "data_afisaj": "4 octombrie 2026, 16:05"
+    },
+    {
+      "id": "36c277ab3041",
+      "titlu": "Modric îi este „rușine” de „noaptea catastrofală” a Croației",
+      "rezumat": "Căpitanul Croației, Luka Modric, spune că i-a fost „rușine” de performanța echipei sale într-o „noapte catastrofală” împotriva Angliei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-04T13:05:17.395611+00:00",
+      "data_afisaj": "4 octombrie 2026, 16:05"
+    },
+    {
+      "id": "8151bbc2485f",
+      "titlu": "Davies susține Țara Galilor să continue să provoace „echipele mai mari”",
+      "rezumat": "Căpitanul Ben Davies spune că Țara Galilor va fi condusă de hotărârea să demonstreze că poate trăi cu provocările Ligii Națiunilor A când se va confrunta cu Danemarca la Cardiff.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-04T13:05:17.397167+00:00",
+      "data_afisaj": "4 octombrie 2026, 16:05"
+    },
+    {
+      "id": "1a01fb65c5a8",
+      "titlu": "Două merg pe patru, cinci sau șase în noaptea bună pentru noua era a Scoției",
+      "rezumat": "Scoția a marcat de două ori în Macedonia de Nord, dar scorul nu reflectă dominația lor la Skopje, scrie Tom English.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-04T13:05:17.398831+00:00",
+      "data_afisaj": "4 octombrie 2026, 16:05"
+    },
     {
       "id": "20691b1b1a7f",
       "titlu": "Fanii Celtic protestează împotriva proprietarului Dermot Desmond la un turneu de golf",
@@ -1429,62 +1484,6 @@
       ],
       "data_publicare": "2026-09-27T13:32:42.329942+00:00",
       "data_afisaj": "27 septembrie 2026, 16:32"
-    },
-    {
-      "id": "cdc80c7f366c",
-      "titlu": "Echipa Națională a SUA își lansează o nouă generație de tineri talente, inclusiv debutul lui Cavan Sullivan",
-      "rezumat": "Naționala masculină a Statelor Unite a învins Peru cu 4-1 într-un meci care a marcat debutul a 11 jucători noi, semnalând începutul ciclului pentru Cupa Mondială din 2030. Printre aceștia s-a remarcat Cavan Sullivan, un mijlocaș de doar 16 ani de la Philadelphia Union, a cărui performanță a justificat interesul lui Manchester City. Alți tineri, precum Justin Ellis și Justin Hall, au contribuit la victorie, demonstrând o nouă vigoare și optimism în cadrul programului național.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-27T12:51:49.326332+00:00",
-      "data_afisaj": "27 septembrie 2026, 15:51"
-    },
-    {
-      "id": "b86a2d448a40",
-      "titlu": "Thomas Tuchel regretă \"greșelile mari\" ale Angliei; acuzațiile la adresa Manchester City ar fi putut influența performanța",
-      "rezumat": "În urma înfrângerii Angliei în fața Spaniei, selecționerul Thomas Tuchel a deplâns \"greșelile mari\" comise de jucătorii săi, care au decis soarta meciului. Două dintre erorile decisive au aparținut unor fotbaliști de la Manchester City, ridicând întrebarea dacă acuzațiile recente de încălcare a regulilor financiare aduse clubului ar fi putut afecta performanțele acestora la nivel internațional. Tuchel a sugerat că știrile din jurul clubului ar fi putut avea un impact psihologic asupra jucătorilor, influențând concentrarea și execuția pe teren.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-27T12:51:49.328041+00:00",
-      "data_afisaj": "27 septembrie 2026, 15:51"
-    },
-    {
-      "id": "2b35643dbbf2",
-      "titlu": "Arsenal Women se confruntă cu dificultăți în a marca goluri în WSL",
-      "rezumat": "Echipa feminină a clubului Arsenal se află deja în dificultate în cursa pentru titlul din Women's Super League (WSL) din cauza problemelor persistente de a înscrie goluri. Analiza BBC Sport examinează factorii care contribuie la această situație, în contextul în care echipa nu reușește să concretizeze ocaziile create. Această lipsă de eficiență ofensivă pune presiune pe antrenori și jucătoare, necesitând ajustări rapide pentru a nu pierde contactul cu echipele din fruntea clasamentului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-27T12:51:49.329353+00:00",
-      "data_afisaj": "27 septembrie 2026, 15:51"
-    },
-    {
-      "id": "497c3326377d",
-      "titlu": "Competiție acerbă pentru postul de portar numărul unu al Angliei",
-      "rezumat": "Postul de portar titular al naționalei Angliei, deținut de mult timp de Jordan Pickford, este acum sub semnul întrebării, odată cu ascensiunea lui James Trafford. Performanțele recente ale lui Trafford au deschis o dezbatere intensă cu privire la cine ar trebui să fie prima opțiune pentru selecționer. Această concurență aduce o dinamică nouă în lotul Angliei, oferind opțiuni valoroase și sporind presiunea pentru ambii jucători de a-și demonstra valoarea la cel mai înalt nivel.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-27T12:51:49.330696+00:00",
-      "data_afisaj": "27 septembrie 2026, 15:51"
-    },
-    {
-      "id": "195ccfbe65bd",
-      "titlu": "Sergio Aguero vorbește despre provocările colaborării cu Pep Guardiola",
-      "rezumat": "Fostul atacant al lui Manchester City, Sergio Aguero, a dezvăluit dificultățile pe care le-a întâmpinat în timpul colaborării cu antrenorul Pep Guardiola. Aguero a declarat că stilul de joc și cerințele tactice ale lui Guardiola, care a sosit la club în 2016, au fost inițial complicate și diferite de ceea ce era obișnuit. Cu toate acestea, el a recunoscut că, în cele din urmă, adaptarea la viziunea lui Guardiola a fost benefică, considerându-l pe tehnicianul spaniol cel mai bun antrenor pe care l-a avut vreodată.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-09-27T12:51:49.332038+00:00",
-      "data_afisaj": "27 septembrie 2026, 15:51"
     }
   ]
 }
