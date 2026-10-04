@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-04T13:42:22.581446+00:00",
-  "updated_at_afisaj": "4 octombrie 2026, 16:42",
+  "updated_at": "2026-10-04T19:19:40.855753+00:00",
+  "updated_at_afisaj": "4 octombrie 2026, 22:19",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,54 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 129,
+  "numar_stiri": 133,
   "stiri": [
+    {
+      "id": "6c08f6a91dc8",
+      "titlu": "Manchester City învinge Arsenal cu 4-2 și își menține parcursul perfect în WSL",
+      "rezumat": "Manchester City a revenit de două ori de la scor defavorabil pentru a câștiga un meci palpitant cu 4-2 împotriva lui Arsenal, continuând astfel startul perfect în sezonul Women's Super League. Această victorie, obținută cu ajutorul unui gol spectaculos marcat de Kerstin Casparij la prima sa atingere după intrarea pe teren, mărește avansul campioanelor la 10 puncte față de Arsenal după doar cinci etape, punând o presiune suplimentară pe antrenorul Renée Slegers și pe speranțele la titlu ale echipei sale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-04T19:19:40.852105+00:00",
+      "data_afisaj": "4 octombrie 2026, 22:19"
+    },
+    {
+      "id": "67e7b8585679",
+      "titlu": "Antrenorul Renee Slegers declară că Arsenal nu mai este în cursa pentru titlu în WSL și necesită o revizuire",
+      "rezumat": "Antrenorul echipei Arsenal, Renee Slegers, aflată sub presiune, a declarat că formația sa nu mai este considerată o candidată la titlul Women's Super League, după înfrângerea cu 4-2 în fața lui Manchester City. Acest rezultat a lăsat-o pe Arsenal pe locul zece în clasament, la 10 puncte distanță de lider, determinând-o pe Slegers să ceară o analiză amănunțită a situației echipei. Declarația subliniază dificultățile cu care se confruntă clubul în acest sezon și necesitatea unor schimbări strategice.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-10-04T19:19:40.853335+00:00",
+      "data_afisaj": "4 octombrie 2026, 22:19"
+    },
+    {
+      "id": "93f8bf7cf1ff",
+      "titlu": "Thomas Tuchel laudă ascensiunea lui Alex Scott, care aduce concurență la nivel înalt în naționala Angliei",
+      "rezumat": "Thomas Tuchel a subliniat că apariția lui Alex Scott oferă o concurență de nivel înalt pentru locul lui Declan Rice în mijlocul terenului la naționala Angliei. Scott a impresionat la prima sa apariție ca titular, având o prestație remarcabilă în victoria cu 7-0 împotriva Croației. Tuchel a avertizat că echipa nu se poate baza doar pe doi mijlocași, sugerând că o concurență sporită este benefică pentru selecție și pentru creșterea calității generale a lotului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-04T19:19:40.854514+00:00",
+      "data_afisaj": "4 octombrie 2026, 22:19"
+    },
+    {
+      "id": "c4e9fa85fcca",
+      "titlu": "John Obi Mikel povestește saga transferului său disputat între Chelsea și Manchester United",
+      "rezumat": "John Obi Mikel a dezvăluit detalii despre celebra dispută de transfer în care a fost implicat în adolescență, între giganții Premier League, Chelsea și Manchester United. Fostul mijlocaș a descris cum s-a desfășurat întreaga poveste, incluzând zboruri secrete și o confruntare cu Sir Alex Ferguson. Mărturia sa oferă o perspectivă unică asupra presiunilor și complexității transferurilor la nivel înalt, chiar și pentru un jucător tânăr, și a impactului pe care l-a avut asupra carierei sale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-10-04T19:19:40.855744+00:00",
+      "data_afisaj": "4 octombrie 2026, 22:19"
+    },
     {
       "id": "4b318584b0fa",
       "titlu": "Cesar Azpilicueta anunță că este timpul pentru o nouă etapă în viață după o carieră glorioasă",
