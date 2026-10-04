@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-04T13:05:42.792241+00:00",
-  "updated_at_afisaj": "4 octombrie 2026, 16:05",
+  "updated_at": "2026-10-04T13:42:22.581446+00:00",
+  "updated_at_afisaj": "4 octombrie 2026, 16:42",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,41 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 130,
+  "numar_stiri": 129,
   "stiri": [
+    {
+      "id": "4b318584b0fa",
+      "titlu": "Cesar Azpilicueta anunță că este timpul pentru o nouă etapă în viață după o carieră glorioasă",
+      "rezumat": "Fundașul spaniol Cesar Azpilicueta a declarat că este momentul să treacă la \"o altă etapă a vieții\" după o carieră de jucător de 20 de ani, marcată de numeroase succese. Cunoscut pentru rolul său de căpitan la Chelsea, unde a câștigat mai multe titluri importante, Azpilicueta a reflectat asupra parcursului său. Decizia sa vine după o perioadă intensă în fotbalul de top, sugerând o nevoie de pauză și de explorare a unor noi orizonturi personale și profesionale în afara terenului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-04T13:42:22.577020+00:00",
+      "data_afisaj": "4 octombrie 2026, 16:42"
+    },
+    {
+      "id": "90b939c1dedc",
+      "titlu": "Lamine Yamal strălucește din nou, Spania învinge Cehia și își menține startul perfect",
+      "rezumat": "Tânărul talent Lamine Yamal a avut o nouă prestație remarcabilă, marcând un gol spectaculos în victoria Spaniei cu 3-1 împotriva Cehiei. Această victorie, obținută la Oviedo, menține naționala Spaniei pe un parcurs impecabil în Liga Națiunilor, fiind la doar un punct distanță de calificarea în sferturile de finală. Yamal, care a marcat în al treilea meci consecutiv în primele șase minute, continuă să impresioneze prin abilitățile sale excepționale, fanii comparându-l deja cu un supererou.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-04T13:42:22.578915+00:00",
+      "data_afisaj": "4 octombrie 2026, 16:42"
+    },
+    {
+      "id": "5bcc850f34a0",
+      "titlu": "Selecționerul Canadei, Jesse Marsch, reflectă asupra fotbalului american și a propagandei",
+      "rezumat": "Jesse Marsch, antrenorul naționalei masculine a Canadei, a oferit o perspectivă profundă asupra experienței sale ca american și a modului în care fotbalul este perceput în Statele Unite. Într-un interviu acordat în Montreal, Marsch a vorbit despre \"propaganda\" cu care americanii sunt \"inundați de tineri\", referindu-se la influențele culturale și sportive. Declarațiile sale vin în contextul pregătirilor pentru meciurile internaționale, oferind o viziune personală asupra sportului și a identității naționale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-04T13:42:22.580885+00:00",
+      "data_afisaj": "4 octombrie 2026, 16:42"
+    },
     {
       "id": "2daecb99e99b",
       "titlu": "Bellingham deblochează un nou nivel și potențial de a fi „unul dintre cei mai mari”",
@@ -1439,51 +1472,6 @@
       ],
       "data_publicare": "2026-09-27T19:38:43.053313+00:00",
       "data_afisaj": "27 septembrie 2026, 22:38"
-    },
-    {
-      "id": "2a20f1aaa011",
-      "titlu": "Naționala SUA impresionează cu o nouă generație de tineri în victoria împotriva Peru",
-      "rezumat": "Echipa națională masculină a Statelor Unite a învins Peru cu 4-1 într-un meci care a marcat debutul a unsprezece jucători noi, majoritatea tineri. Victoria, obținută prin golurile marcate de Justin Ellis, Zavier Gozo și Justin Hall, demonstrează succesul noii strategii de dezvoltare a talentelor pentru ciclul Cupei Mondiale din 2030. Performanța entuziastă a noilor veniți sugerează că mișcarea de tineret a USMNT începe să dea roade, oferind optimism pentru viitorul fotbalului american.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-27T13:32:42.324375+00:00",
-      "data_afisaj": "27 septembrie 2026, 16:32"
-    },
-    {
-      "id": "dcc4ec282774",
-      "titlu": "Consecințele verdictului de vinovăție al Manchester City ar putea afecta profund Premier League",
-      "rezumat": "Verdictul de vinovăție împotriva Manchester City pentru încălcarea regulilor financiare ar putea avea repercusiuni semnificative nu doar pentru club, ci și pentru întreaga Premier League. Analiza sugerează că integritatea competiției și percepția publică ar putea fi afectate pe termen lung. Discuțiile se concentrează pe modul în care liga va gestiona situația și pe precedentul pe care acest caz îl creează, cu implicații potențial profunde asupra modului în care cluburile sunt reglementate și sancționate în viitor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-27T13:32:42.326251+00:00",
-      "data_afisaj": "27 septembrie 2026, 16:32"
-    },
-    {
-      "id": "0adedb4ad79d",
-      "titlu": "Anglia trebuie să echilibreze \"haosul\" cu controlul pentru a câștiga trofee majore",
-      "rezumat": "După înfrângerea Angliei în fața Spaniei, analiștii subliniază necesitatea ca echipa să găsească un echilibru între stilul său de joc energic și o abordare mai controlată. Deși Anglia demonstrează momente de \"haos\" creativ, lipsa de control tactic în momente cheie a fost evidențiată ca un factor decisiv în meciurile importante. Pentru a aspira la trofee majore, echipa trebuie să-și îmbunătățească gestionarea jocului și să evite erorile neforțate, transformând momentele de presiune în oportunități de a-și impune ritmul.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-27T13:32:42.328040+00:00",
-      "data_afisaj": "27 septembrie 2026, 16:32"
-    },
-    {
-      "id": "f395a1a46977",
-      "titlu": "Jonjo Shelvey dezvăluie detalii despre disputa cu Gareth Southgate și excluderea din naționala Angliei",
-      "rezumat": "Fostul mijlocaș al Liverpool și Newcastle, Jonjo Shelvey, a vorbit deschis despre relația tensionată cu selecționerul Angliei, Gareth Southgate, și despre motivele pentru care a fost ignorat de echipa națională. Shelvey a declarat că o neînțelegere mai veche cu Southgate a influențat decizia de a nu fi inclus în lotul pentru Cupa Mondială din 2018, în ciuda performanțelor sale la nivel de club. Această dezvăluire oferă o perspectivă rară asupra dinamicii interne și a deciziilor de selecție din cadrul naționalei Angliei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-09-27T13:32:42.329942+00:00",
-      "data_afisaj": "27 septembrie 2026, 16:32"
     }
   ]
 }
