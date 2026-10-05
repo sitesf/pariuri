@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-05T15:41:46.333023+00:00",
-  "updated_at_afisaj": "5 octombrie 2026, 18:41",
+  "updated_at": "2026-10-05T16:48:56.532861+00:00",
+  "updated_at_afisaj": "5 octombrie 2026, 19:48",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,61 @@
   },
   "numar_stiri": 129,
   "stiri": [
+    {
+      "id": "28a57e61f625",
+      "titlu": "Cluburile rivale din Premier League nu se așteaptă ca Manchester City să rămână în campionat",
+      "rezumat": "Cluburile rivale din Premier League nu anticipează prezența Manchester City în campionat în sezonul următor, în urma deciziei devastatoare a unei comisii independente. Aceasta a scos la iveală amploarea încălcărilor regulamentului financiar de către club pe parcursul a nouă sezoane. Reacția subliniază lipsa de simpatie din partea celorlalte echipe, care anticipează consecințe severe pentru campioana en-titre, în cazul în care apelul acesteia nu va avea succes. Situația creează tensiuni semnificative în rândul cluburilor din liga engleză.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-10-05T16:48:56.525289+00:00",
+      "data_afisaj": "5 octombrie 2026, 19:48"
+    },
+    {
+      "id": "8b7c957002e8",
+      "titlu": "Selecționerul Portugaliei lasă ușa deschisă pentru o revenire a lui Cristiano Ronaldo",
+      "rezumat": "Selecționerul Portugaliei, Jorge Jesus, a declarat că ușa rămâne deschisă pentru o eventuală revenire a lui Cristiano Ronaldo la echipa națională. Această afirmație vine în contextul plecării anterioare a starului din lot, sugerând că, în ciuda speculațiilor privind viitorul său internațional, există încă posibilitatea ca Ronaldo să reprezinte Portugalia în competițiile viitoare. Decizia finală va depinde de o serie de factori, inclusiv de forma sportivă a jucătorului și de planurile tactice ale antrenorului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-05T16:48:56.527283+00:00",
+      "data_afisaj": "5 octombrie 2026, 19:48"
+    },
+    {
+      "id": "8819fdd8e0cf",
+      "titlu": "Tottenham Hotspur se confruntă cu o criză de accidentări în defensivă",
+      "rezumat": "Tottenham Hotspur se confruntă cu o criză defensivă majoră, după ce ambii fundași centrali titulari ai echipei au suferit accidentări. Această situație pune clubul într-o poziție dificilă, perturbând stabilitatea apărării și creând provocări semnificative pentru antrenor în gestionarea lotului, mai ales înaintea unor meciuri importante. Absența simultană a jucătorilor cheie din centrul apărării ar putea afecta semnificativ performanța echipei în următoarea perioadă, necesitând soluții rapide din partea staff-ului tehnic.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-10-05T16:48:56.529067+00:00",
+      "data_afisaj": "5 octombrie 2026, 19:48"
+    },
+    {
+      "id": "7af47e191002",
+      "titlu": "Irlanda de Nord, singura echipă din Liga Națiunilor fără gol primit",
+      "rezumat": "Irlanda de Nord a devenit singura echipă din actuala ediție a Ligii Națiunilor UEFA care nu a primit niciun gol, după ce a înregistrat trei meciuri consecutive fără gol în Grupa B2. Această performanță defensivă remarcabilă subliniază soliditatea apărării echipei și eficiența strategiei adoptate de antrenor, plasând-o într-o poziție unică în competiție. Echipa a demonstrat o rezistență impresionantă în fața adversarilor, consolidându-și reputația de formație greu de învins pe plan internațional.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-05T16:48:56.530964+00:00",
+      "data_afisaj": "5 octombrie 2026, 19:48"
+    },
+    {
+      "id": "f27a93ab7f08",
+      "titlu": "Gabriel Tamaș susține naturalizarea lui Cisotti pentru naționala României",
+      "rezumat": "Fostul internațional român Gabriel Tamaș a avut o reacție fermă în legătură cu posibila naturalizare a fotbalistului Cisotti pentru echipa națională a României. Tamaș a declarat că o astfel de decizie ar reprezenta un „plus” semnificativ pentru lotul actual și ar contribui la îmbunătățirea performanțelor echipei, oferind un sprijin valoros în competițiile viitoare. Această opinie subliniază importanța aducerii de noi talente pentru consolidarea naționalei, în contextul discuțiilor despre viitorul fotbalului românesc.",
+      "categorie": "Fotbal",
+      "surse": [
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-10-05T16:48:56.532832+00:00",
+      "data_afisaj": "5 octombrie 2026, 19:48"
+    },
     {
       "id": "49b5cbffb004",
       "titlu": "Bournemouth nefericit după ce Scott sa accidentat cu Anglia",
@@ -1418,61 +1473,6 @@
       ],
       "data_publicare": "2026-09-28T21:41:13.448612+00:00",
       "data_afisaj": "29 septembrie 2026, 00:41"
-    },
-    {
-      "id": "1e5582b315eb",
-      "titlu": "Cluburile Europene de Top Vor Împărți 185 de Milioane de Lire Sterline din Fondul Cupei Mondiale a Cluburilor",
-      "rezumat": "Cluburile de elită din Europa vor primi jumătate din fondul de solidaritate de 250 de milioane de dolari (aproximativ 185 de milioane de lire sterline) provenit din Cupa Mondială a Cluburilor de anul trecut. Această decizie marchează sfârșitul unei perioade de frustrare pentru cluburile care nu au participat la turneu. Se așteaptă ca FIFA și Asociația Cluburilor de Fotbal Europene să ajungă la un acord final în octombrie, stabilind o împărțire egală a veniturilor între echipele europene și cele din restul lumii. Această măsură financiară este menită să sprijine dezvoltarea fotbalului la nivel global.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-28T16:28:22.453205+00:00",
-      "data_afisaj": "28 septembrie 2026, 19:28"
-    },
-    {
-      "id": "62e7ed62af80",
-      "titlu": "Arsène Wenger și Arsenal: 30 de Ani de la Numirea Care a Schimbat Fotbalul Englez",
-      "rezumat": "Se împlinesc 30 de ani de la numirea lui Arsène Wenger la Arsenal, o decizie managerială care a transformat ireversibil fotbalul englez. Alegerea lui David Dein de a-l aduce pe antrenorul francez a marcat începutul unei ere de multiculturalism și inovație tactică, dând naștere Premier League-ului modern pe care îl cunoaștem astăzi. În ciuda scepticismului inițial, Wenger a revoluționat abordarea clubului în materie de antrenament, dietă și scouting, stabilind noi standarde și influențând profund identitatea și stilul de joc al echipei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-28T16:28:22.455126+00:00",
-      "data_afisaj": "28 septembrie 2026, 19:28"
-    },
-    {
-      "id": "bcd466ee7736",
-      "titlu": "Precedentul Deducerilor de Puncte în Premier League: O Istorie a Sancțiunilor",
-      "rezumat": "Premier League are o istorie bogată în ceea ce privește deducerea de puncte cluburilor, stabilind un precedent important pentru cazurile actuale de încălcare a regulilor financiare. Această retrospectivă subliniază că sancțiunile nu sunt un fenomen nou în fotbalul englez de top, ci o măsură aplicată de-a lungul timpului pentru a asigura respectarea regulamentelor. Analiza cazurilor anterioare oferă context și perspective asupra modului în care liga a gestionat și ar putea gestiona în viitor abaterile financiare, influențând clasamentele și destinele cluburilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-09-28T16:28:22.456896+00:00",
-      "data_afisaj": "28 septembrie 2026, 19:28"
-    },
-    {
-      "id": "c01f7464894b",
-      "titlu": "Poate Harry Kane să Depășească Recordurile de Goluri Internaționale ale lui Messi și Ronaldo?",
-      "rezumat": "Harry Kane, atacantul Angliei, a stabilit deja numeroase recorduri de goluri în cariera sa, iar acum se pune întrebarea dacă poate continua să marcheze la nivel internațional pentru a-i depăși pe Lionel Messi și Cristiano Ronaldo. Cei doi sunt considerați cei mai mari marcatori ai generației lor, iar atingerea performanțelor lor ar reprezenta o realizare monumentală. Analiza formei sale actuale, a longevității și a numărului de meciuri rămase în cariera sa internațională va determina dacă Kane are șanse reale să atingă aceste borne istorice.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-09-28T16:28:22.458813+00:00",
-      "data_afisaj": "28 septembrie 2026, 19:28"
-    },
-    {
-      "id": "d7e9f71f497d",
-      "titlu": "Oficial din Superliga Avertizează Asupra unei Posibile Oferte Tentante pentru Gică Hagi",
-      "rezumat": "Un conducător din Superliga României a fost prezent în tribune la meciul Bosnia-Herțegovina și a exprimat o îngrijorare publică, sugerând că Gică Hagi ar putea deveni ținta unei oferte tentante. Declarația, făcută în exclusivitate, indică o posibilă \"momeală\" care ar putea-l convinge pe legendarul fotbalist și antrenor român să părăsească actualul său proiect. Această speculație aduce în discuție viitorul lui Hagi și impactul pe care o eventuală plecare l-ar avea asupra fotbalului românesc.",
-      "categorie": "Fotbal",
-      "surse": [
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-09-28T16:28:22.460655+00:00",
-      "data_afisaj": "28 septembrie 2026, 19:28"
     }
   ]
 }
