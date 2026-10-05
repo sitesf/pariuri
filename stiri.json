@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-05T22:22:55.542760+00:00",
-  "updated_at_afisaj": "6 octombrie 2026, 01:22",
+  "updated_at": "2026-10-05T23:01:47.043051+00:00",
+  "updated_at_afisaj": "6 octombrie 2026, 02:01",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,61 @@
   },
   "numar_stiri": 129,
   "stiri": [
+    {
+      "id": "be8e2f83521a",
+      "titlu": "Juventus & Atletico Madrid eye Madueke - Tuesday's gossip",
+      "rezumat": "Arsenal forward Noni Madueke has suitors in Spain and Italy, five Premier League clubs are interested in Barcelona defender Jules Kounde, England captain Harry Kane is close to signing a new deal at Bayern Munich, plus more.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-05T23:01:29.334360+00:00",
+      "data_afisaj": "6 octombrie 2026, 02:01"
+    },
+    {
+      "id": "220c728f7d26",
+      "titlu": "£117m Rogers failed at Bournemouth - and feared he may not make it",
+      "rezumat": "A look at the point in club-record £117m Chelsea signing Morgan Rogers' career when he doubted whether he could make it at the highest level.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-05T23:01:29.336101+00:00",
+      "data_afisaj": "6 octombrie 2026, 02:01"
+    },
+    {
+      "id": "3cd185d1109b",
+      "titlu": "Ex-England player Carroll names attacker as TV dance coach",
+      "rezumat": "The former England striker tells the Sun he was sexually assaulted by former Fame Academy dance instructor Kevin Adams in 2021.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-05T23:01:29.337701+00:00",
+      "data_afisaj": "6 octombrie 2026, 02:01"
+    },
+    {
+      "id": "404024390602",
+      "titlu": "How perfect storm has rained on Derby's parade",
+      "rezumat": "BBC Sport looks at how Turki Alalshikh's aborted takeover of Derby County has contributed to a poor start to their Championship season.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-05T23:01:29.339278+00:00",
+      "data_afisaj": "6 octombrie 2026, 02:01"
+    },
+    {
+      "id": "94858e3c6301",
+      "titlu": "Duff set to be appointed Bradford boss",
+      "rezumat": "Bradford City are set to appoint former Wycombe Wanderers boss Michael Duff as their new antrenor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-05T23:01:29.340702+00:00",
+      "data_afisaj": "6 octombrie 2026, 02:01"
+    },
     {
       "id": "00c55db86993",
       "titlu": "Gabriel în poza echipei Man Utd, dar nici un indiciu de reconciliere",
@@ -1416,63 +1471,6 @@
       ],
       "data_publicare": "2026-09-29T13:51:17.067673+00:00",
       "data_afisaj": "29 septembrie 2026, 16:51"
-    },
-    {
-      "id": "01a5f73c8833",
-      "titlu": "Roberto Mancini Se Distanțează de Acuzațiile Adresate Manchester City",
-      "rezumat": "Fostul antrenor al echipei Manchester City, Roberto Mancini, a declarat că presupusul \"contract dublu\" din perioada sa la club nu este o preocupare personală. Această declarație vine în contextul celor 115 acuzații de încălcare a regulilor financiare ale Premier League aduse clubului. Mancini, actualul selecționer al Italiei, a subliniat că nu este implicat în aspectele administrative sau legale ale acestor acuzații, menținând o poziție neutră față de investigația în curs. Clubul Manchester City insistă că deține dovezi irefutabile care demonstrează nevinovăția sa.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-09-28T22:23:36.230331+00:00",
-      "data_afisaj": "29 septembrie 2026, 01:23"
-    },
-    {
-      "id": "423206bacf26",
-      "titlu": "Gianni Infantino, Președintele FIFA, Gata Să Accepte Cereri Pentru Plăți Mai Mari Din Rezervele De 6 Miliarde de Dolari",
-      "rezumat": "Președintele FIFA, Gianni Infantino, este pregătit să cedeze cererilor din partea UEFA și CONCACAF de a distribui mai mulți bani din rezervele de 6 miliarde de dolari ale organizației către asociațiile membre. Într-o scrisoare adresată președinților celor șase confederații, Infantino și-a exprimat disponibilitatea de a \"sprijini cel mai înalt nivel de finanțare suplimentară\", fără a se angaja însă la suma specifică de 10 milioane de dolari per membru solicitată inițial. Această decizie ar putea influența semnificativ finanțarea fotbalului la nivel global.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-28T22:23:36.232468+00:00",
-      "data_afisaj": "29 septembrie 2026, 01:23"
-    },
-    {
-      "id": "8a7ae4c74057",
-      "titlu": "Preston North End Îl Numește pe Graham Alexander Noul Antrenor",
-      "rezumat": "Clubul Preston North End a anunțat numirea lui Graham Alexander, fostul antrenor al echipei Bradford City, în funcția de manager. Alexander preia conducerea tehnică a echipei cu efect imediat, având sarcina de a îmbunătăți performanțele și de a ghida clubul în competițiile viitoare. Această mutare marchează o nouă etapă în cariera managerială a lui Alexander și reprezintă o decizie strategică pentru Preston North End în vederea atingerii obiectivelor stabilite pentru sezonul în curs.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-28T22:23:36.234170+00:00",
-      "data_afisaj": "29 septembrie 2026, 01:23"
-    },
-    {
-      "id": "db47f856e180",
-      "titlu": "Michael Wynn-Jones, Președinte Onorific pe Viață al Clubului Norwich City, A Decedat la 85 de Ani",
-      "rezumat": "Michael Wynn-Jones, jurnalist și soțul celebrei bucătărese TV Delia Smith, a încetat din viață la vârsta de 85 de ani. Acesta a fost președinte onorific pe viață al clubului de fotbal Norwich City, iar oficialii clubului și-au exprimat profunda tristețe la aflarea veștii. Wynn-Jones a avut o contribuție semnificativă la istoria și dezvoltarea clubului, fiind o figură respectată în comunitatea fotbalistică locală și nu numai.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-28T22:23:36.236141+00:00",
-      "data_afisaj": "29 septembrie 2026, 01:23"
-    },
-    {
-      "id": "62bdb025afbc",
-      "titlu": "Irlanda de Nord Obține o Remiză Frustrantă Fără Goluri Împotriva Ungariei",
-      "rezumat": "Naționala Irlandei de Nord a încheiat la egalitate, scor 0-0, meciul disputat pe teren propriu împotriva Ungariei. Rezultatul este considerat frustrant pentru gazde, având în vedere că partida părea a fi la îndemâna lor. Meciul, parte a competiției Liga Națiunilor, nu a adus modificări pe tabela de marcaj, lăsând ambele echipe cu un singur punct. Irlanda de Nord va căuta să își îmbunătățească ofensiva în următoarele confruntări pentru a obține victorii.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-09-28T22:23:36.237909+00:00",
-      "data_afisaj": "29 septembrie 2026, 01:23"
     }
   ]
 }
