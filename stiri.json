@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-06T20:51:38.589825+00:00",
-  "updated_at_afisaj": "6 octombrie 2026, 23:51",
+  "updated_at": "2026-10-06T21:24:55.079422+00:00",
+  "updated_at_afisaj": "7 octombrie 2026, 00:24",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,64 @@
   },
   "numar_stiri": 128,
   "stiri": [
+    {
+      "id": "fe78736c3b37",
+      "titlu": "Rezultate spectaculoase în Liga Națiunilor: Anglia învinge Cehia, Spania revine contra Croației",
+      "rezumat": "Etapa recentă din Liga Națiunilor a adus confruntări intense și rezultate notabile. Naționala Angliei a obținut o victorie categorică împotriva Cehiei, demonstrând o formă excelentă. Într-un alt meci dramatic, Spania a reușit să întoarcă scorul în minutul 88, învingând Croația. Aceste rezultate influențează clasamentele grupelor și traseul echipelor în competiție, promițând o continuare palpitantă a Ligii Națiunilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-10-06T21:24:55.072425+00:00",
+      "data_afisaj": "7 octombrie 2026, 00:24"
+    },
+    {
+      "id": "cfa52c6bcaf2",
+      "titlu": "Martin O'Neill confirmă că rămâne antrenor la Celtic",
+      "rezumat": "Martin O'Neill a confirmat decizia de a continua la cârma echipei Celtic, după o perioadă de reflecție în timpul pauzei internaționale. Anunțul pune capăt speculațiilor privind viitorul său la clubul scoțian. O'Neill a declarat că este hotărât să ducă echipa mai departe, iar această decizie este binevenită pentru fanii și conducerea clubului, care își propun obiective ambițioase pentru sezonul în curs.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-06T21:24:55.074077+00:00",
+      "data_afisaj": "7 octombrie 2026, 00:24"
+    },
+    {
+      "id": "7b317c6499a9",
+      "titlu": "Republica Irlanda U21 se califică la barajul Euro 2027 după victoria împotriva Angliei U21",
+      "rezumat": "Echipa națională U21 a Republicii Irlanda a obținut o victorie importantă cu 3-1 împotriva Angliei U21, asigurându-și astfel un loc în play-off-ul pentru Campionatul European din 2027. Aceasta a fost prima înfrângere pentru Anglia U21 în fața omologilor lor irlandezi. Tommy Lonergan a marcat de două ori pentru gazde, contribuind decisiv la succesul care le deschide drumul spre o posibilă calificare la turneul final.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-10-06T21:24:55.075944+00:00",
+      "data_afisaj": "7 octombrie 2026, 00:24"
+    },
+    {
+      "id": "2c345be0598c",
+      "titlu": "Slovenia învinge Scoția în Liga Națiunilor, după o revenire de scor",
+      "rezumat": "Naționala Sloveniei a reușit să obțină o victorie importantă împotriva Scoției în Liga Națiunilor, revenind de la un scor defavorabil. Această înfrângere reprezintă un început dificil pentru antrenorul Scoției, Sebastien Pocognoli, care rămâne fără victorie pe teren propriu. Performanța Sloveniei subliniază dinamica imprevizibilă a competiției și impactul rezultatelor asupra moralului și poziției echipelor în grupe.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-06T21:24:55.077672+00:00",
+      "data_afisaj": "7 octombrie 2026, 00:24"
+    },
+    {
+      "id": "c6a54e7c65ab",
+      "titlu": "Thomas Hitzlsperger explică de ce sunt puțini fotbaliști gay declarați",
+      "rezumat": "Fostul internațional german Thomas Hitzlsperger a abordat subiectul lipsei fotbaliștilor gay declarați în fotbalul masculin. El a explicat că această situație este adânc înrădăcinată în \"masculinitatea toxică\" prezentă în sport, descriind-o ca o realitate tristă a vieții. Declarațiile sale subliniază provocările și presiunile sociale cu care se confruntă jucătorii, evidențiind necesitatea unei schimbări culturale pentru a crea un mediu mai incluziv în fotbal.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-10-06T21:24:55.079401+00:00",
+      "data_afisaj": "7 octombrie 2026, 00:24"
+    },
     {
       "id": "908e54a51cce",
       "titlu": "Cristiano Ronaldo rupe tăcerea despre plecarea de la naționala Portugaliei",
@@ -1400,62 +1458,6 @@
       ],
       "data_publicare": "2026-09-30T13:25:06.450868+00:00",
       "data_afisaj": "30 septembrie 2026, 16:25"
-    },
-    {
-      "id": "591298444f5d",
-      "titlu": "Șeful PFA critică programul \"bolnav\" al fotbalului, Cole Palmer fiind o victimă",
-      "rezumat": "Maheta Molango, directorul executiv al Asociației Fotbaliștilor Profesioniști (PFA), a declarat că sistemul actual al programului meciurilor este \"bolnav\" și solicită prea mult de la jucători. Declarația vine în contextul în care jucătorul englez Cole Palmer este considerat o victimă a acestui program aglomerat. Molango subliniază necesitatea de a proteja sănătatea și bunăstarea fizică a fotbaliștilor, care sunt supuși unui număr tot mai mare de meciuri la nivel de club și internațional, fără perioade adecvate de recuperare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-29T21:12:40.153212+00:00",
-      "data_afisaj": "30 septembrie 2026, 00:12"
-    },
-    {
-      "id": "1ad79e5239d1",
-      "titlu": "Scoția, învinsă de Elveția în Liga Națiunilor, după ce a jucat în inferioritate numerică",
-      "rezumat": "Naționala Scoției a suferit o înfrângere cu 3-0 în fața Elveției în Liga Națiunilor, într-un meci disputat pe Hampden Park. Situația s-a complicat pentru scoțieni după ce un jucător a fost eliminat în prima repriză, lăsând echipa în zece oameni. Golurile elvețienilor au fost marcate de Rodríguez și Elvedi, consolidând poziția Elveției în Grupa B1. Aceasta a fost prima partidă a lui Sébastien Pocognoli la conducerea tehnică a Scoției pe teren propriu, marcând un debut dificil.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-29T21:12:40.154716+00:00",
-      "data_afisaj": "30 septembrie 2026, 00:12"
-    },
-    {
-      "id": "f8feea8ca41e",
-      "titlu": "Președintele UEFA, Aleksander Ceferin, îl critică dur pe Gianni Infantino de la FIFA",
-      "rezumat": "Președintele UEFA, Aleksander Ceferin, a lansat un atac vehement la adresa omologului său de la FIFA, Gianni Infantino, declarând că \"împăratul este gol\". Într-un discurs adresat Adunării Generale a Cluburilor Europene de Fotbal (EFC), Ceferin a condamnat proiectul eșuat FIFA Forward Enterprise (FFE) și alte scandaluri recente, fără a-l menționa direct pe Infantino, dar făcând aluzie clară la acesta. Criticile subliniază tensiunile continue dintre cele două organisme de conducere ale fotbalului mondial.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-29T21:12:40.156113+00:00",
-      "data_afisaj": "30 septembrie 2026, 00:12"
-    },
-    {
-      "id": "b84fc14d36cf",
-      "titlu": "Cody Gakpo de la Liverpool a suferit o accidentare la gleznă în timpul meciurilor internaționale",
-      "rezumat": "Atacantul lui Liverpool, Cody Gakpo, a suferit o accidentare la gleznă în timpul meciurilor internaționale cu naționala sa. Jucătorul a fost victima unei intervenții dure, iar clubul a primit deja o actualizare privind starea sa. Această veste reprezintă o preocupare pentru Liverpool, având în vedere importanța lui Gakpo în ofensiva echipei. Se așteaptă detalii suplimentare privind gravitatea accidentării și perioada de recuperare necesară.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-09-29T21:12:40.157506+00:00",
-      "data_afisaj": "30 septembrie 2026, 00:12"
-    },
-    {
-      "id": "0d9bff4ed18b",
-      "titlu": "Modificări semnificative în Cupa Jucătoarelor WSL pentru sezonul 2026/27",
-      "rezumat": "Cupa Jucătoarelor WSL, fosta Cupă a Ligii Feminine, va beneficia de o serie de modificări majore începând cu sezonul 2026/27. Competiția va avea un nou nume și un format revizuit, iar echipele de top nu vor mai participa în același mod ca până acum. Aceste schimbări vizează revitalizarea turneului și oferirea de noi oportunități pentru dezvoltarea fotbalului feminin. Detaliile complete ale noului format și implicațiile pentru cluburi și jucătoare urmează să fie comunicate.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-09-29T21:12:40.158819+00:00",
-      "data_afisaj": "30 septembrie 2026, 00:12"
     }
   ]
 }
