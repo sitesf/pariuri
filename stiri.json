@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-06T14:45:30.065781+00:00",
-  "updated_at_afisaj": "6 octombrie 2026, 17:45",
+  "updated_at": "2026-10-06T20:51:38.589825+00:00",
+  "updated_at_afisaj": "6 octombrie 2026, 23:51",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,56 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 129,
+  "numar_stiri": 128,
   "stiri": [
+    {
+      "id": "908e54a51cce",
+      "titlu": "Cristiano Ronaldo rupe tăcerea despre plecarea de la naționala Portugaliei",
+      "rezumat": "Atacantul portughez Cristiano Ronaldo a emis o declarație amplă în care a confirmat că nu se retrage din fotbalul internațional, dar consideră că merită să fie pedepsit pentru că a părăsit cantonamentul Portugaliei. El a acuzat antrenorul principal, Jorge Jesus, că și-a încălcat de două ori promisiunea, afirmând că un acord eșuat de a explica public omiterea sa din echipa pentru meciul cu Norvegia l-a determinat să plece. Ronaldo a subliniat că rămâne disponibil pentru echipa națională după orice eventuală sancțiune.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-06T20:51:38.584293+00:00",
+      "data_afisaj": "6 octombrie 2026, 23:51"
+    },
+    {
+      "id": "ed8bc143ead7",
+      "titlu": "Harry Kane egalează recordul de selecții pentru naționala Angliei",
+      "rezumat": "Atacantul Harry Kane a atins o nouă bornă semnificativă în cariera sa internațională, egalând recordul lui Peter Shilton de cele mai multe selecții pentru echipa națională a Angliei. Shilton deținea acest record de 36 de ani. Această realizare subliniază longevitatea și importanța lui Kane pentru \"Three Lions\", consolidându-i statutul de legendă a fotbalului englez. Performanța vine într-o perioadă în care Kane continuă să fie un jucător cheie și un marcator prolific pentru selecționata sa.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-06T20:51:38.586339+00:00",
+      "data_afisaj": "6 octombrie 2026, 23:51"
+    },
+    {
+      "id": "a5467dacd7e6",
+      "titlu": "FIFA ar fi permis R.D. Congo să participe la Cupa Mondială cu un jucător ineligibil",
+      "rezumat": "FIFA ar fi permis Republicii Democrate Congo să concureze la Cupa Mondială din această vară, în ciuda unor rapoarte care indică faptul că o investigație internă a constatat că țara a folosit un jucător ineligibil în timpul calificărilor. Portarul Lionel Mpasi, jucătorul în cauză, a fost o figură cheie pentru națiunea sa la turneu, inclusiv în meciul împotriva Angliei din optimile de finală. Nigeria a depus o plângere privind jucătorii ineligibili în faza playoff-ului, iar anchetatorii FIFA erau conștienți de situație înainte de începerea turneului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-10-06T20:51:38.588191+00:00",
+      "data_afisaj": "6 octombrie 2026, 23:51"
+    },
+    {
+      "id": "3cb8458e4bb1",
+      "titlu": "Lionel Messi își ia rămas bun de la naționala Argentinei",
+      "rezumat": "Lionel Messi se pregătește să își ia rămas bun de la echipa națională a Argentinei, într-un moment de celebrare a unei cariere excepționale. Cu 208 selecții și un titlu de Cupă Mondială în palmares, Messi va îmbrăca tricoul Argentinei pentru ultima dată săptămâna aceasta, într-un meci amical împotriva Beninului, la Buenos Aires. Acest eveniment marchează încheierea unei ere glorioase pentru cel considerat de mulți cel mai mare fotbalist din toate timpurile, oferind țării sale ocazia de a-l omagia.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-10-06T20:51:38.589806+00:00",
+      "data_afisaj": "6 octombrie 2026, 23:51"
+    },
     {
       "id": "1b02067f5214",
       "titlu": "Născut în celtic, făcut la Motherwell, galeza a devenit majoră cu Scoția",
@@ -1408,65 +1456,6 @@
       ],
       "data_publicare": "2026-09-29T21:12:40.158819+00:00",
       "data_afisaj": "30 septembrie 2026, 00:12"
-    },
-    {
-      "id": "78e57a890f77",
-      "titlu": "Aston Villa o demite pe antrenoarea Arroyo după un început fără victorie în WSL",
-      "rezumat": "Antrenoarea echipei Aston Villa, Natalia Arroyo, este demisă în urma a două înfrângeri și două egaluri în primele patru meciuri ale sezonului Women's Super League.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-29T20:32:47.913069+00:00",
-      "data_afisaj": "29 septembrie 2026, 23:32"
-    },
-    {
-      "id": "51220e2f15a0",
-      "titlu": "Kane dublează avantajul Angliei împotriva Cehiei în Liga Națiunilor LIVE!",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-29T20:32:47.914356+00:00",
-      "data_afisaj": "29 septembrie 2026, 23:32"
-    },
-    {
-      "id": "0cae632bafd6",
-      "titlu": "Manchester City găsită vinovată în acuzațiile Premier League după contracte „false” de 900 de milioane de lire sterline",
-      "rezumat": "Comisie: clubul a încălcat regulile pe o perioadă de nouă sezoane. City va face apel împotriva verdictului înainte de termenul limită de vineri. Premier League a confirmat că Manchester City a fost găsită vinovată de toate acuzațiile de încălcare a regulilor sale financiare pe o perioadă de nouă ani, clubul fiind găsit că și-a majorat veniturile cu o sumă uluitoare de peste 900 de milioane de lire sterline. Într-un anunț șocant, Premier League a dezvăluit că o comisie independentă a găsit City vinovată de aranjarea unor „contracte false” cu parteneri comerciali",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-29T20:32:47.915730+00:00",
-      "data_afisaj": "29 septembrie 2026, 23:32"
-    },
-    {
-      "id": "35bd38917cf8",
-      "titlu": "Gică Hagi luat decizia legată de plecarea de la națională și FRF a fost informată: ProSport, confirmat!",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-09-29T20:32:47.917217+00:00",
-      "data_afisaj": "29 septembrie 2026, 23:32"
-    },
-    {
-      "id": "04c59eeb748e",
-      "titlu": "Man City găsită vinovată de contracte „false” și o „schemă de finanțare mascată” de 830 de milioane de lire sterline",
-      "rezumat": "Premier League confirmă că Manchester City a fost găsită vinovată de toate acuzațiile legate de încălcări ale regulilor financiare ale Premier League între 2009-10 și 2017-18.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-29T20:32:47.918552+00:00",
-      "data_afisaj": "29 septembrie 2026, 23:32"
     }
   ]
 }
