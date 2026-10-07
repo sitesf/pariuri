@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-07T15:05:51.603392+00:00",
-  "updated_at_afisaj": "7 octombrie 2026, 18:05",
+  "updated_at": "2026-10-07T21:06:02.317645+00:00",
+  "updated_at_afisaj": "8 octombrie 2026, 00:06",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,62 @@
   },
   "numar_stiri": 130,
   "stiri": [
+    {
+      "id": "9de686c1a489",
+      "titlu": "Iar l-a făcut Marius Baciu „căcăcios”, după 10 ani: „Se întoarce Didi Prodan în mormânt”",
+      "rezumat": "(rezumat indisponibil)",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-10-07T21:05:37.592010+00:00",
+      "data_afisaj": "8 octombrie 2026, 00:05"
+    },
+    {
+      "id": "c74581b7977e",
+      "titlu": "Guardiola se pregătește să participe la primul meci acasă la Man City de la verdictul de vinovăție",
+      "rezumat": "Pep Guardiola este de așteptat să participe săptămâna viitoare la meciul lui Manchester City din Liga Campionilor împotriva Paris St-Germain - primul meci de acasă al clubului de când a fost găsit vinovat de majoritatea celor 115 acuzații aduse lor de Premier League.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-07T21:05:37.593659+00:00",
+      "data_afisaj": "8 octombrie 2026, 00:05"
+    },
+    {
+      "id": "eec4ada212d4",
+      "titlu": "Rice aproape de a ajunge la un nou acord cu Arsenal",
+      "rezumat": "Declan Rice este aproape de a ajunge la un nou contract pe termen lung cu Arsenal, au declarat surse pentru BBC Sport.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-07T21:05:37.595093+00:00",
+      "data_afisaj": "8 octombrie 2026, 00:05"
+    },
+    {
+      "id": "e8279dd58e51",
+      "titlu": "Eckert este liber să rămână șef de la Southampton, deoarece interdicția Spygate a fost suspendată",
+      "rezumat": "Tonda Eckert este liberă să continue ca antrenor de la Southampton, după ce a primit o suspendare pentru rolul său în Spygate.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-07T21:05:37.596636+00:00",
+      "data_afisaj": "8 octombrie 2026, 00:05"
+    },
+    {
+      "id": "42eb9dfd4e70",
+      "titlu": "Vega, fostul jucător al lui Spurs, se pregătește să candideze la președintele FIFA",
+      "rezumat": "Fostul fundaș al lui Tottenham, Ramon Vega, spune că intenționează să candideze la alegerile prezidențiale FIFA de anul viitor - devenind prima persoană care confirmă că vrea să-l provoace pe Gianni Infantino.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-07T21:05:37.598174+00:00",
+      "data_afisaj": "8 octombrie 2026, 00:05"
+    },
     {
       "id": "da9833734d84",
       "titlu": "Antrenorul Southampton, Tonda Eckert, liber să continue după suspendarea interdicției Spygate",
@@ -1423,62 +1479,6 @@
       ],
       "data_publicare": "2026-09-30T21:07:32.011950+00:00",
       "data_afisaj": "1 octombrie 2026, 00:07"
-    },
-    {
-      "id": "7c163be1cf1f",
-      "titlu": "Accidentare teribilă în România U21 – Finlanda U21! Fotbalistul din Superliga a fost scos cu targa de pe teren",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-09-30T20:40:49.765993+00:00",
-      "data_afisaj": "30 septembrie 2026, 23:40"
-    },
-    {
-      "id": "c885faa6379f",
-      "titlu": "Punish Man City this season, say other club chiefs",
-      "rezumat": "Manchester City's punishment for breaching Premier League rules should be handed down before the end of this season, senior football figures tell BBC Sport.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-30T20:40:49.767227+00:00",
-      "data_afisaj": "30 septembrie 2026, 23:40"
-    },
-    {
-      "id": "47c15a09f0cc",
-      "titlu": "Burnham 'really concerned' if Man City owners sell up after rule breaches",
-      "rezumat": "The prime minister compares the allegations against Man City to the plight of his own club Everton.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-30T20:40:49.768481+00:00",
-      "data_afisaj": "30 septembrie 2026, 23:40"
-    },
-    {
-      "id": "4125fbf214db",
-      "titlu": "Ronaldo leaves Portugal camp after coach denies rift",
-      "rezumat": "Cristiano Ronaldo says he has left Portugal's international camp and will explain why \"in time\", hours after antrenor principal Jorge Jesus denied any rift with the player.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-30T20:40:49.769618+00:00",
-      "data_afisaj": "30 septembrie 2026, 23:40"
-    },
-    {
-      "id": "54c56ce95b81",
-      "titlu": "Infantino should have no place in future of football - Pinto",
-      "rezumat": "The computer hacker who released documents which led to the Premier League investigation into Manchester City says Gianni Infantino \"should have no place in the future of the game\".",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-30T20:40:49.770786+00:00",
-      "data_afisaj": "30 septembrie 2026, 23:40"
     }
   ]
 }
