@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-06T21:24:55.079422+00:00",
-  "updated_at_afisaj": "7 octombrie 2026, 00:24",
+  "updated_at": "2026-10-07T14:19:13.507222+00:00",
+  "updated_at_afisaj": "7 octombrie 2026, 17:19",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 128,
+  "numar_stiri": 130,
   "stiri": [
+    {
+      "id": "e86c9615a0e8",
+      "titlu": "Arteta semnează un nou contract cu campioana Arsenal",
+      "rezumat": "Mikel Arteta spune că acesta este \"doar începutul\" succesului lui Arsenal după ce a semnat un nou contract cu campioana Premier League până în 2030.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-10-07T14:18:57.297208+00:00",
+      "data_afisaj": "7 octombrie 2026, 17:18"
+    },
+    {
+      "id": "fa89dcf5986c",
+      "titlu": "Oficiali de rang înalt, îngrijorați că Man City ar putea juca în Liga Campionilor sezonul viitor",
+      "rezumat": "Oficiali de rang înalt din fotbalul englez sunt îngrijorați că Manchester City ar putea juca în Liga Campionilor sezonul viitor chiar dacă ar fi retrogradată pentru încălcarea regulamentelor financiare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-07T14:18:57.298250+00:00",
+      "data_afisaj": "7 octombrie 2026, 17:18"
+    },
+    {
+      "id": "e3832d3047d5",
+      "titlu": "Anglia lui Tuchel 2.0: Ce s-a schimbat?",
+      "rezumat": "Ce a modificat Thomas Tuchel în încercarea de a-și rafina planul pentru Anglia, mai degrabă decât să-l rescrie de la zero?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-07T14:18:57.299248+00:00",
+      "data_afisaj": "7 octombrie 2026, 17:18"
+    },
+    {
+      "id": "b763856b898b",
+      "titlu": "Ronaldo vrea 'pedeapsă' pentru Portugalia, dar nu se retrage",
+      "rezumat": "Cristiano Ronaldo spune că nu se retrage din fotbalul internațional, dar merită să fie pedepsit pentru că a părăsit echipa Portugaliei după ce antrenorul Jorge Jesus \"și-a încălcat cuvântul dat mie\".",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-07T14:18:57.300219+00:00",
+      "data_afisaj": "7 octombrie 2026, 17:18"
+    },
+    {
+      "id": "1f5463a6a972",
+      "titlu": "Cum se îndrăgostesc fanii din nou de fotbal",
+      "rezumat": "BBC Sport vorbește cu Marc White, proprietarul și managerul echipei Dorking Wanderers, despre utilizarea tot mai mare a rețelelor sociale care ajută echipele din ligile inferioare să crească.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-07T14:18:57.301104+00:00",
+      "data_afisaj": "7 octombrie 2026, 17:18"
+    },
     {
       "id": "fe78736c3b37",
       "titlu": "Rezultate spectaculoase în Liga Națiunilor: Anglia învinge Cehia, Spania revine contra Croației",
@@ -1424,40 +1480,6 @@
       ],
       "data_publicare": "2026-09-30T14:38:41.682346+00:00",
       "data_afisaj": "30 septembrie 2026, 17:38"
-    },
-    {
-      "id": "e67db69f7ec0",
-      "titlu": "Manchester City ar putea fi obligată să plătească Premier League până la 50 de milioane de lire sterline în costuri legale",
-      "rezumat": "Manchester City este pe cale să datoreze Premier League zeci de milioane de lire sterline sub formă de compensații pentru costurile legale, după ce a fost găsită vinovată de aproape toate acuzațiile aduse. O comisie independentă a stabilit că clubul și-a umflat artificial veniturile cu 900 de milioane de lire sterline pe parcursul a nouă ani, printr-o schemă de finanțare mascată. Această decizie deschide calea pentru sancțiuni financiare semnificative.",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-30T13:25:06.448706+00:00",
-      "data_afisaj": "30 septembrie 2026, 16:25"
-    },
-    {
-      "id": "ad718846caea",
-      "titlu": "Meciul dintre Republica Irlanda și Israel din Liga Națiunilor se va disputa conform programului",
-      "rezumat": "Selecționerul Republicii Irlanda, Heimir Hallgrimsson, a confirmat că al doilea meci din Liga Națiunilor împotriva Israelului se va desfășura conform planului. Această declarație vine în contextul unor tensiuni anterioare și a incertitudinilor legate de securitate și disconfortul exprimat de unii jucători. Confirmarea oficială elimină speculațiile și asigură că partida va avea loc așa cum a fost stabilit.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-30T13:25:06.449790+00:00",
-      "data_afisaj": "30 septembrie 2026, 16:25"
-    },
-    {
-      "id": "e221cf308ff4",
-      "titlu": "Lamine Yamal strălucește cu două goluri în victoria categorică a Spaniei împotriva Croației în Liga Națiunilor",
-      "rezumat": "Tânărul Lamine Yamal a marcat de două ori și a oferit o pasă decisivă, contribuind la victoria zdrobitoare a Spaniei cu 4-1 împotriva Croației în Liga Națiunilor. Meciul a reprezentat prima partidă pe teren propriu a Spaniei de la câștigarea Cupei Mondiale. Performanța excepțională a adolescentului, care a deschis scorul în doar 75 de secunde, îi consolidează candidatura pentru Balonul de Aur și demonstrează forma sa remarcabilă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-30T13:25:06.450868+00:00",
-      "data_afisaj": "30 septembrie 2026, 16:25"
     }
   ]
 }
