@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-07T14:19:13.507222+00:00",
-  "updated_at_afisaj": "7 octombrie 2026, 17:19",
+  "updated_at": "2026-10-07T15:05:51.603392+00:00",
+  "updated_at_afisaj": "7 octombrie 2026, 18:05",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,61 @@
   },
   "numar_stiri": 130,
   "stiri": [
+    {
+      "id": "da9833734d84",
+      "titlu": "Antrenorul Southampton, Tonda Eckert, liber să continue după suspendarea interdicției Spygate",
+      "rezumat": "Tonda Eckert, antrenorul echipei Southampton, a primit permisiunea de a-și continua activitatea după ce a fost sancționat cu o suspendare condiționată în urma implicării sale în scandalul \"Spygate\". Decizia îi permite lui Eckert să rămână la conducerea tehnică a clubului, evitând o interdicție imediată. Această hotărâre vine în urma unei investigații privind acuzațiile de spionaj, iar clubul și antrenorul pot acum să se concentreze pe performanțele sportive fără întreruperi majore.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-07T15:05:51.596220+00:00",
+      "data_afisaj": "7 octombrie 2026, 18:05"
+    },
+    {
+      "id": "b236c8c70847",
+      "titlu": "Fostul jucător al lui Man City, David Silva, revine din retragere la 40 de ani",
+      "rezumat": "David Silva, fostul mijlocaș legendar al echipei Manchester City și al naționalei Spaniei, a anunțat o revenire surprinzătoare pe terenul de fotbal la vârsta de 40 de ani. Jucătorul se alătură clubului Sha Tin din Liga Premieră din Hong Kong, marcând o reluare a carierei după ce se retrăsese din activitate. Această decizie a stârnit un interes considerabil în lumea fotbalului, mulți fani fiind curioși să vadă performanța sa la un nivel competitiv după o pauză.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-07T15:05:51.598066+00:00",
+      "data_afisaj": "7 octombrie 2026, 18:05"
+    },
+    {
+      "id": "fd17caf14e1d",
+      "titlu": "Noul stadion Kop al lui Wrexham, un simbol al ambițiilor de promovare",
+      "rezumat": "Noul proiect de construcție a tribunei Kop de la stadionul echipei Wrexham este considerat un indicator clar al ambițiilor clubului de a continua ascensiunea din Championship către Premier League. Această investiție majoră în infrastructură subliniază dorința clubului de a-și consolida poziția și de a oferi o bază solidă pentru viitoarele succese. Modernizarea stadionului este văzută ca un pas esențial în dezvoltarea pe termen lung a echipei, reflectând creșterea popularității și a performanțelor sale recente.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-07T15:05:51.599761+00:00",
+      "data_afisaj": "7 octombrie 2026, 18:05"
+    },
+    {
+      "id": "036912c6b034",
+      "titlu": "Arsenal și Chelsea ar putea rata o lună din sezonul viitor al WSL din cauza Cupei Mondiale a Cluburilor",
+      "rezumat": "Liga Superioară Feminină (WSL) din Anglia se confruntă cu o perturbare majoră în sezonul următor, deoarece echipele Arsenal și Chelsea ar putea fi absente din competițiile interne timp de până la o lună. Această situație este cauzată de programarea Cupei Mondiale a Cluburilor, care va impune călătorii transatlantice și va crea probleme suplimentare pentru echipele europene. Perioada propusă pentru turneu, 5-30 ianuarie, va duce la o aglomerare a programului și la provocări logistice semnificative pentru cluburile implicate.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-07T15:05:51.601641+00:00",
+      "data_afisaj": "7 octombrie 2026, 18:05"
+    },
+    {
+      "id": "4d1ee3cffc18",
+      "titlu": "Verdict dur privind naturalizarea lui Juri Cisotti de la FCSB în Superliga României",
+      "rezumat": "Un patron important din fotbalul românesc a emis un verdict dur cu privire la posibila naturalizare a jucătorului Juri Cisotti de la FCSB. Discuțiile despre acordarea cetățeniei române fotbaliștilor străini sunt un subiect recurent în Superliga, iar această opinie subliniază complexitatea și controversele din jurul acestui proces. Criticile aduse deciziei de naturalizare a lui Cisotti reflectă dezbaterile mai ample despre impactul acestor măsuri asupra fotbalului autohton și a selecției naționale, generând opinii împărțite în rândul specialiștilor și al publicului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-10-07T15:05:51.603371+00:00",
+      "data_afisaj": "7 octombrie 2026, 18:05"
+    },
     {
       "id": "e86c9615a0e8",
       "titlu": "Arteta semnează un nou contract cu campioana Arsenal",
@@ -1424,62 +1479,6 @@
       ],
       "data_publicare": "2026-09-30T20:40:49.770786+00:00",
       "data_afisaj": "30 septembrie 2026, 23:40"
-    },
-    {
-      "id": "f55568d51c15",
-      "titlu": "Guardiola backing Man City after guilty verdicts",
-      "rezumat": "Former antrenor Pep Guardiola says he will \"always\" be behind Manchester City after they were found guilty of all charges related to breaches of the Premier League's financial rules.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-30T14:38:41.675649+00:00",
-      "data_afisaj": "30 septembrie 2026, 17:38"
-    },
-    {
-      "id": "319e5613a039",
-      "titlu": "Criminal investigation? Relegation or expulsion? The key Man City questions",
-      "rezumat": "BBC Sport takes a look at the key questions following the guilty verdicts handed down to Manchester City.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-30T14:38:41.677329+00:00",
-      "data_afisaj": "30 septembrie 2026, 17:38"
-    },
-    {
-      "id": "b7a3c214a8e5",
-      "titlu": "£1.2bn on transfers with £830m inflated in sponsorships - Man City's 'asterisk era'",
-      "rezumat": "BBC Sport analyses Manchester City's dominance of English football during the period in which they were breaching financial rules.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-30T14:38:41.679189+00:00",
-      "data_afisaj": "30 septembrie 2026, 17:38"
-    },
-    {
-      "id": "2b42a04b545a",
-      "titlu": "Republic of Ireland will play second Israel game - Hallgrimsson",
-      "rezumat": "Republic of Ireland antrenor principal Heimir Hallgrimsson says the team's second Uefa Nations League game against Israel will go ahead as planned.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-30T14:38:41.680774+00:00",
-      "data_afisaj": "30 septembrie 2026, 17:38"
-    },
-    {
-      "id": "5a0c566bcb12",
-      "titlu": "Consortium involving ex-Brazil forward Pato seals Northampton takeover",
-      "rezumat": "The takeover of Northampton Town by a consortium including former AC Milan and Brazil forward Alexandre Pato has been completed.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-30T14:38:41.682346+00:00",
-      "data_afisaj": "30 septembrie 2026, 17:38"
     }
   ]
 }
