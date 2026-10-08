@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-08T15:13:57.836507+00:00",
-  "updated_at_afisaj": "8 octombrie 2026, 18:13",
+  "updated_at": "2026-10-08T21:09:26.179143+00:00",
+  "updated_at_afisaj": "9 octombrie 2026, 00:09",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,68 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 129,
+  "numar_stiri": 130,
   "stiri": [
+    {
+      "id": "9f981b4b0353",
+      "titlu": "Reacții la Manchester City după verdict: Maresca și Haaland îndeamnă la unitate",
+      "rezumat": "Antrenorul Enzo Maresca a declarat că jucătorii săi nu sunt afectați de \"zgomotul\" din jurul celor 115 acuzații aduse clubului Manchester City în Premier League. Erling Haaland a transmis, de asemenea, un mesaj de unitate fanilor, îndemnându-i să \"rămână împreună, să se bucure de călătorie și să zâmbească\" în urma verdictului de vinovăție. Aceste declarații vin în contextul în care clubul a fost găsit vinovat de încălcări grave ale regulilor financiare, iar echipa se pregătește pentru primul meci de la aflarea veștii.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-08T21:09:26.174327+00:00",
+      "data_afisaj": "9 octombrie 2026, 00:09"
+    },
+    {
+      "id": "9628a28cb05c",
+      "titlu": "Gianni Infantino primește un impuls pentru realegerea la președinția FIFA",
+      "rezumat": "Șansele lui Gianni Infantino de a fi reales președinte al FIFA au crescut semnificativ, după ce Victor Montagliani, șeful CONCACAF, a anunțat că intenționează să candideze pentru un ultim mandat la conducerea confederației sale. Această decizie îl exclude pe Montagliani din cursa pentru președinția FIFA, eliminând astfel un potențial rival important pentru Infantino. Anunțul a fost transmis majorității celor 41 de membri CONCACAF, consolidând poziția actualului președinte FIFA.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-08T21:09:26.175446+00:00",
+      "data_afisaj": "9 octombrie 2026, 00:09"
+    },
+    {
+      "id": "61e53a7dede9",
+      "titlu": "Ella Toone, convocată de urgență la naționala Angliei după retragerea lui Lucy Bronze",
+      "rezumat": "Mijlocașul lui Manchester United, Ella Toone, a primit o convocare de ultim moment la echipa națională a Angliei pentru meciurile de baraj ale Cupei Mondiale din această lună împotriva Greciei. Convocarea vine după ce Lucy Bronze a fost nevoită să se retragă din lot din cauza unei accidentări minore. Antrenoarea Sarina Wiegman a lăudat atitudinea pozitivă a lui Toone, care inițial fusese omisă din lotul preliminar, dar acum are o nouă șansă de a-și demonstra valoarea.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-08T21:09:26.176635+00:00",
+      "data_afisaj": "9 octombrie 2026, 00:09"
+    },
+    {
+      "id": "7eaf0b865ff8",
+      "titlu": "Antrenorul lui Nottingham Forest, Oliver Glasner, se teme de daunele aduse Premier League de saga Manchester City",
+      "rezumat": "Oliver Glasner, antrenorul lui Nottingham Forest, a declarat că verdictul de vinovăție împotriva clubului Manchester City, acuzat de \"contracte fictive\", a afectat reputația globală a Premier League. Glasner consideră că integritatea campionatului englez este amenințată și că fanii ar putea să-și piardă interesul. El a subliniat că liga are o misiune dificilă de a-și repara imaginea, după ce City a fost găsit vinovat de umflarea artificială a veniturilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-08T21:09:26.177832+00:00",
+      "data_afisaj": "9 octombrie 2026, 00:09"
+    },
+    {
+      "id": "26d18b66f281",
+      "titlu": "Arabia Saudită renunță la planurile pentru \"stadionul din cer\", punând sub semnul întrebării promisiunile pentru Cupa Mondială",
+      "rezumat": "Arabia Saudită a abandonat planurile ambițioase de a construi un \"stadion în cer\" pentru Cupa Mondială din 2034, o decizie care ridică semne de întrebare cu privire la promisiunile făcute pentru găzduirea turneului. Proiectul futurist, care prevedea o arenă suspendată, era un element cheie în viziunea țării pentru eveniment. Renunțarea la acest plan major ar putea indica dificultăți în îndeplinirea angajamentelor de infrastructură asumate pentru găzduirea competiției.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-10-08T21:09:26.179130+00:00",
+      "data_afisaj": "9 octombrie 2026, 00:09"
+    },
     {
       "id": "dfff9979e463",
       "titlu": "Aleksander Ceferin va candida pentru al patrulea mandat de președinte UEFA",
@@ -1419,52 +1479,6 @@
       ],
       "data_publicare": "2026-10-01T21:31:21.078465+00:00",
       "data_afisaj": "2 octombrie 2026, 00:31"
-    },
-    {
-      "id": "7a1f7227de84",
-      "titlu": "Comisia Trezoreriei Solicită HMRC Să Examineze Implicațiile Fiscale ale Cazului Manchester City",
-      "rezumat": "Comisia Trezoreriei, responsabilă cu supravegherea HMRC (Autoritatea Fiscală Britanică), a cerut acesteia să analizeze cu atenție implicațiile fiscale ale verdictului în cazul Manchester City. Această solicitare vine în contextul acuzațiilor de încălcare a regulilor financiare ale Premier League, sugerând că ar putea exista și aspecte legate de conformitatea fiscală care necesită investigație suplimentară din partea autorităților. Cazul continuă să genereze discuții ample la nivel instituțional.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-10-01T20:53:15.911454+00:00",
-      "data_afisaj": "1 octombrie 2026, 23:53"
-    },
-    {
-      "id": "95e7690953aa",
-      "titlu": "Lionel Messi Achiziționează Al Doilea Club Spaniol",
-      "rezumat": "Legendarul fotbalist argentinian Lionel Messi a devenit proprietarul clubului spaniol de divizia a doua CD Eldense. Această mișcare marchează o extindere a implicării sale în lumea fotbalului dincolo de rolul de jucător, adăugând o nouă entitate la portofoliul său de investiții sportive. Achiziția subliniază interesul crescând al marilor nume din fotbal de a investi în cluburi și de a influența dezvoltarea sportului la diferite niveluri, consolidându-și prezența în fotbalul spaniol.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-10-01T20:53:15.913058+00:00",
-      "data_afisaj": "1 octombrie 2026, 23:53"
-    },
-    {
-      "id": "f763767b779f",
-      "titlu": "Manchester City Își Va Baza Apelul pe Argumentul Finanțării din Partea Guvernului Abu Dhabi",
-      "rezumat": "În apelul depus împotriva verdictului Premier League, Manchester City va susține că finanțarea suplimentară pentru contractele de sponsorizare încheiate între 2009 și 2018 a provenit direct de la guvernul din Abu Dhabi, și nu de la proprietarii clubului. Această strategie legală vizează contestarea acuzațiilor de încălcare a regulilor financiare, argumentând că fondurile nu au fost injectate direct de către proprietari, ci prin intermediul entității guvernamentale, o distincție crucială în apărarea lor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-10-01T20:53:15.914953+00:00",
-      "data_afisaj": "1 octombrie 2026, 23:53"
-    },
-    {
-      "id": "49217dbd047d",
-      "titlu": "Rui Pinto, Sursa Scurgerilor Manchester City, Abandonat de Autoritățile Portugheze",
-      "rezumat": "Rui Pinto, omul din spatele scurgerilor de documente private care au declanșat investigația împotriva clubului Manchester City, a fost sfătuit să nu se întoarcă acasă, să nu contacteze membrii familiei și să evite locurile aglomerate. La peste un deceniu de la lansarea site-ului Football Leaks, Pinto se confruntă cu o situație dificilă, fiind considerat fie un criminal, fie un salvator, în contextul în care autoritățile portugheze par să-i fi retras statutul de martor protejat, punându-i în pericol siguranța.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-01T20:53:15.916736+00:00",
-      "data_afisaj": "1 octombrie 2026, 23:53"
     }
   ]
 }
