@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-08T14:26:41.691768+00:00",
-  "updated_at_afisaj": "8 octombrie 2026, 17:26",
+  "updated_at": "2026-10-08T15:13:57.836507+00:00",
+  "updated_at_afisaj": "8 octombrie 2026, 18:13",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,50 @@
   },
   "numar_stiri": 129,
   "stiri": [
+    {
+      "id": "dfff9979e463",
+      "titlu": "Aleksander Ceferin va candida pentru al patrulea mandat de președinte UEFA",
+      "rezumat": "Președintele UEFA, Aleksander Ceferin, a anunțat că va candida pentru un al patrulea mandat la conducerea forului european de fotbal. Decizia sa vine după ce anterior indicase că nu va mai căuta realegerea. Această schimbare de poziție este semnificativă pentru viitorul fotbalului european, având în vedere influența UEFA în organizarea competițiilor majore și în reglementarea sportului la nivel continental. Anunțul său va fi un punct central de discuție înaintea următoarelor alegeri pentru președinția UEFA.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-08T15:13:57.830179+00:00",
+      "data_afisaj": "8 octombrie 2026, 18:13"
+    },
+    {
+      "id": "b46fd6fd866d",
+      "titlu": "Investigație BBC: Tricouri de fotbal produse în fabrici cu salarii sub 1 liră pe oră",
+      "rezumat": "O investigație realizată de BBC Sport a descoperit că producția tricourilor oficiale de fotbal este realizată în fabrici din Cambodgia, unde muncitorii sunt plătiți cu mai puțin de o liră sterlină pe oră. Această dezvăluire ridică semne de întrebare serioase cu privire la etica lanțurilor de aprovizionare din industria fotbalului și la condițiile de muncă ale celor implicați în fabricarea echipamentelor sportive. Investigația subliniază necesitatea unei transparențe sporite și a unor standarde de muncă echitabile în producția globală de articole sportive.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-08T15:13:57.832070+00:00",
+      "data_afisaj": "8 octombrie 2026, 18:13"
+    },
+    {
+      "id": "3db10335fba3",
+      "titlu": "Valul de accidentări la echipele naționale provoacă nemulțumire cluburilor de top",
+      "rezumat": "O serie de accidentări suferite de jucători cheie precum Kai Havertz, Alexander Isak și Patrick Dorgu în timpul pauzei internaționale a generat frustrare în rândul cluburilor de top. Antrenorii și oficialii cluburilor sunt îngrijorați de impactul meciurilor internaționale intense asupra stării fizice a fotbaliștilor, mai ales în contextul unui calendar deja aglomerat. Această situație reaprinde dezbaterea privind echilibrul dintre obligațiile internaționale și cele de club, precum și protejarea sănătății jucătorilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-08T15:13:57.834532+00:00",
+      "data_afisaj": "8 octombrie 2026, 18:13"
+    },
+    {
+      "id": "c5854321d942",
+      "titlu": "Manchester United riscă să piardă un tânăr talent pentru o sumă mică, în ciuda unei noi oferte",
+      "rezumat": "Manchester United i-a oferit lui JJ Gabriel, un tânăr atacant de 16 ani, un nou contract de bursă, însă clubul riscă să-l piardă pentru o sumă de doar 350.000 de lire sterline. Gabriel a surprins clubul solicitând anularea înregistrării sale luna trecută, declanșând o competiție între cluburile de elită din Europa pentru semnătura sa. Situația evidențiază provocările cu care se confruntă cluburile în reținerea tinerilor talente în fața interesului altor echipe și a reglementărilor privind compensațiile.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-08T15:13:57.836487+00:00",
+      "data_afisaj": "8 octombrie 2026, 18:13"
+    },
     {
       "id": "66102b53bb4d",
       "titlu": "Arbitrii cu normă întreagă în Women's Super League, amânați până în 2029 în ciuda creșterii finanțării",
@@ -1421,50 +1465,6 @@
       ],
       "data_publicare": "2026-10-01T20:53:15.916736+00:00",
       "data_afisaj": "1 octombrie 2026, 23:53"
-    },
-    {
-      "id": "c10eb7c3ec75",
-      "titlu": "Nico O'Reilly se Retrage din Lotul Angliei din Cauza unei Accidentări",
-      "rezumat": "Nico O'Reilly s-a retras din lotul naționalei Angliei pentru ultimele două meciuri din Liga Națiunilor, programate în această pauză internațională, din cauza unei accidentări. Retragerea sa reprezintă o pierdere pentru selecționerul Angliei, care va trebui să găsească soluții pentru a acoperi absența mijlocașului în partidele cruciale. Detaliile exacte ale accidentării nu au fost specificate, dar se anticipează o perioadă de recuperare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-01T15:06:58.594895+00:00",
-      "data_afisaj": "1 octombrie 2026, 18:06"
-    },
-    {
-      "id": "28a9ac82582a",
-      "titlu": "Lexi Potter, Noua Convocare la Naționala Angliei, Lăudată de Keira Walsh",
-      "rezumat": "Mijlocașul de la Chelsea, Lexi Potter, a primit prima sa convocare la naționala Angliei, după un început impresionant de sezon în WSL (Women's Super League). Colega sa de la mijlocul terenului, Keira Walsh, a declarat că nu este surprinsă de ascensiunea rapidă a tinerei jucătoare. Această convocare subliniază talentul și progresul lui Potter, oferindu-i o oportunitate importantă de a se afirma la nivel internațional.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-10-01T15:06:58.596796+00:00",
-      "data_afisaj": "1 octombrie 2026, 18:06"
-    },
-    {
-      "id": "9e15e72e6330",
-      "titlu": "Cum Ar Putea Argentina să Retragă Tricoul cu Numărul 10 al lui Lionel Messi, în Ciuda Regulilor FIFA",
-      "rezumat": "Lionel Messi se pregătește să se retragă definitiv din fotbalul internațional în această lună, iar Argentina ar dori să-i onoreze cariera prin retragerea tricoului iconic cu numărul 10. Cu toate acestea, regulile FIFA interzic, în general, retragerea numerelor de pe tricouri în competițiile oficiale. Articolul explorează modalitățile prin care Federația Argentiniană de Fotbal ar putea totuși să realizeze acest gest simbolic, respectând sau ocolind reglementările internaționale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-10-01T15:06:58.598823+00:00",
-      "data_afisaj": "1 octombrie 2026, 18:06"
-    },
-    {
-      "id": "8a09b0862147",
-      "titlu": "Manchester United, Risc de a Deveni „Victimă Colaterală” în Scandalul Manchester City",
-      "rezumat": "Trecutul comercial al unui director executiv de top de la Manchester United creează o suprapunere incomodă cu anii în care Manchester City a încălcat regulile financiare ale Premier League. Această situație ridică întrebări despre modul în care scandalul financiar al lui City ar putea afecta reputația și operațiunile rivalilor din oraș, transformând United într-o „victimă colaterală” a consecințelor verdictului de vinovăție împotriva clubului vecin.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-10-01T15:06:58.600732+00:00",
-      "data_afisaj": "1 octombrie 2026, 18:06"
     }
   ]
 }
