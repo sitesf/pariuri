@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-08T21:09:26.179143+00:00",
-  "updated_at_afisaj": "9 octombrie 2026, 00:09",
+  "updated_at": "2026-10-08T21:41:08.502934+00:00",
+  "updated_at_afisaj": "9 octombrie 2026, 00:41",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 130,
+  "numar_stiri": 131,
   "stiri": [
+    {
+      "id": "73281553dbf0",
+      "titlu": "Finala Cupei Africii pe Națiuni se va decide în instanță",
+      "rezumat": "Finala Cupei Africii pe Națiuni (AFCON) din 2025, disputată între Maroc și Senegal, va ajunge la Tribunalul de Arbitraj Sportiv (TAS) pentru o decizie finală. Senegal a fost deposedată de titlu, iar acum se așteaptă o hotărâre judecătorească pentru a stabili campioana. Fanii fotbalului nu ar trebui să se aștepte la un verdict imediat, deoarece procesul de arbitraj poate dura. Această situație fără precedent ridică semne de întrebare cu privire la integritatea competiției și la modul în care deciziile administrative pot afecta rezultatele sportive majore.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-08T21:41:08.494820+00:00",
+      "data_afisaj": "9 octombrie 2026, 00:41"
+    },
+    {
+      "id": "4915a0cbd4b2",
+      "titlu": "LaLiga blochează transferul unui fost jucător de la Real Madrid din cauza temerilor legate de plăți similare cu cele ale lui Manchester City",
+      "rezumat": "LaLiga a intervenit pentru a bloca transferul unui fost jucător al Real Madrid, Dani Carvajal, la o altă echipă, în ciuda faptului că acesta era liber de contract. Decizia vine pe fondul îngrijorărilor ligii spaniole cu privire la potențiale plăți care ar putea imita practicile financiare controversate asociate cu Manchester City. Această acțiune subliniază vigilența LaLiga în aplicarea regulilor de fair-play financiar și dorința de a preveni orice nereguli care ar putea submina integritatea competiției.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-10-08T21:41:08.497217+00:00",
+      "data_afisaj": "9 octombrie 2026, 00:41"
+    },
+    {
+      "id": "5b43184872c3",
+      "titlu": "Granit Xhaka, amendă cu suspendare pentru un certificat fals de vaccinare Covid-19",
+      "rezumat": "Căpitanul echipei Sunderland, Granit Xhaka, a anunțat că a primit o amendă cu suspendare în valoare de 150.000 de franci elvețieni (aproximativ 136.000 de lire sterline) pentru obținerea unui certificat fals de vaccinare împotriva Covid-19. Decizia subliniază consecințele grave ale încălcării protocoalelor sanitare și a regulamentelor sportive. Această situație aduce în atenție responsabilitatea jucătorilor profesioniști de a respecta regulile impuse de autorități și de cluburi, având un impact asupra imaginii publice și a integrității sportului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-08T21:41:08.499086+00:00",
+      "data_afisaj": "9 octombrie 2026, 00:41"
+    },
+    {
+      "id": "d036a182f310",
+      "titlu": "Atacantul lui Everton, Martin Sherif, amendat pentru încălcarea regulilor de pariuri",
+      "rezumat": "Asociația de Fotbal (FA) l-a amendat pe atacantul echipei Everton, Martin Sherif, cu 5.000 de lire sterline pentru încălcarea regulilor privind pariurile sportive. Infracțiunile au avut loc pe o perioadă de 15 luni, conform investigației. Această decizie reiterează politica strictă a FA împotriva pariurilor în rândul jucătorilor profesioniști, menită să protejeze integritatea sportului și să prevină orice conflict de interese. Cluburile și jucătorii sunt constant avertizați cu privire la aceste reguli, iar încălcările duc la sancțiuni financiare și sportive.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-08T21:41:08.500968+00:00",
+      "data_afisaj": "9 octombrie 2026, 00:41"
+    },
+    {
+      "id": "e14e71cb282c",
+      "titlu": "Generația Următoare 2026: 60 dintre cele mai bune tinere talente din fotbalul mondial",
+      "rezumat": "O nouă ediție a seriei \"Generația Următoare\" a fost publicată, prezentând 60 dintre cei mai promițători tineri fotbaliști născuți în anul 2009. Lista include talente diverse, de la jucători comparați cu \"noul Toni Kroos\" până la speranțe emergente precum Cavan Sullivan din SUA. Această inițiativă oferă o perspectivă asupra viitorului fotbalului, evidențiind jucătorii care ar putea domina scena mondială în anii următori. Publicația urmărește, de asemenea, progresul generațiilor anterioare, oferind o analiză a evoluției tinerilor talente.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-08T21:41:08.502912+00:00",
+      "data_afisaj": "9 octombrie 2026, 00:41"
+    },
     {
       "id": "9f981b4b0353",
       "titlu": "Reacții la Manchester City după verdict: Maresca și Haaland îndeamnă la unitate",
@@ -1434,51 +1489,6 @@
       ],
       "data_publicare": "2026-10-02T13:40:31.087132+00:00",
       "data_afisaj": "2 octombrie 2026, 16:40"
-    },
-    {
-      "id": "c2a991f5b784",
-      "titlu": "Țara Galilor Învinge Norvegia cu 10 Jucători într-un Meci Dramatic",
-      "rezumat": "Naționala Țării Galilor a obținut o victorie importantă împotriva Norvegiei, scor 2-1, într-un meci din Liga Națiunilor. Daniel James a egalat după deschiderea scorului de către Oscar Bobb. Momentul cheie al partidei a fost eliminarea lui Torbjørn Heggem de la Norvegia la începutul reprizei secunde, pentru un fault asupra lui James. Neco Williams a marcat golul victoriei din lovitura liberă rezultată, asigurând primele trei puncte pentru echipa lui Craig Bellamy în acest an.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-01T21:31:21.072530+00:00",
-      "data_afisaj": "2 octombrie 2026, 00:31"
-    },
-    {
-      "id": "8f568a93a0aa",
-      "titlu": "Meciul Naționalei Irlandei, Întrerupt de Protestatari Anti-Israel",
-      "rezumat": "O partidă a naționalei de fotbal a Irlandei a fost întreruptă de un grup de protestatari care își manifestau opoziția față de organizarea unui viitor meci împotriva Israelului. Incidentul a avut loc pe teren, atrăgând atenția asupra tensiunilor politice și a modului în care acestea pot afecta evenimentele sportive. Forțele de ordine au intervenit pentru a gestiona situația și a permite reluarea jocului, însă evenimentul a generat discuții aprinse în spațiul public.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-10-01T21:31:21.074108+00:00",
-      "data_afisaj": "2 octombrie 2026, 00:31"
-    },
-    {
-      "id": "100bc3c95317",
-      "titlu": "Christos Tzolis de la Arsenal, Accidentat în Meciul Naționalei Greciei",
-      "rezumat": "Christos Tzolis, jucătorul lui Arsenal, a suferit o accidentare în timpul unui meci disputat pentru naționala Greciei și a fost nevoit să părăsească terenul șchiopătând. Gravitatea leziunii nu este încă cunoscută, dar incidentul a stârnit îngrijorări la clubul londonez, având în vedere importanța sa în lot. Se așteaptă o evaluare medicală detaliată pentru a determina perioada de recuperare și disponibilitatea lui Tzolis pentru următoarele partide ale lui Arsenal.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-10-01T21:31:21.076861+00:00",
-      "data_afisaj": "2 octombrie 2026, 00:31"
-    },
-    {
-      "id": "686d845cc1cf",
-      "titlu": "Florian Wirtz Marchează, Germania Obține Prima Victorie Sub Conducerea lui Klopp",
-      "rezumat": "Florian Wirtz a reușit să pună capăt seriei sale fără gol marcat, contribuind decisiv la prima victorie a naționalei Germaniei de la preluarea băncii tehnice de către Jürgen Klopp. Această performanță reprezintă un moment important pentru selecționerul german și echipa sa, marcând un debut pozitiv în mandatul său. Victoria este considerată un pas înainte în reconstrucția echipei naționale și oferă un moral bun pentru viitoarele provocări.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-10-01T21:31:21.078465+00:00",
-      "data_afisaj": "2 octombrie 2026, 00:31"
     }
   ]
 }
