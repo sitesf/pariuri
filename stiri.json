@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-07T21:42:51.773111+00:00",
-  "updated_at_afisaj": "8 octombrie 2026, 00:42",
+  "updated_at": "2026-10-08T14:26:41.691768+00:00",
+  "updated_at_afisaj": "8 octombrie 2026, 17:26",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,52 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 130,
+  "numar_stiri": 129,
   "stiri": [
+    {
+      "id": "66102b53bb4d",
+      "titlu": "Arbitrii cu normă întreagă în Women's Super League, amânați până în 2029 în ciuda creșterii finanțării",
+      "rezumat": "Cluburile din Women's Super League (WSL) au aprobat o creștere semnificativă a finanțării pentru oficialii de meci, însă introducerea arbitrilor cu normă întreagă în prima ligă engleză feminină este amânată până în 2029. Decizia, luată la cea mai recentă ședință a consiliului WSL, se va concentra pe îmbunătățirea educației, analizei și performanței fizice a arbitrilor. Această măsură vine în contextul unor cereri tot mai mari pentru profesionalizarea completă a oficialilor de meci în fotbalul feminin.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-08T14:26:41.686900+00:00",
+      "data_afisaj": "8 octombrie 2026, 17:26"
+    },
+    {
+      "id": "38e156b2d661",
+      "titlu": "Strategia Brighton de a atrage și dezvolta tineri talentați",
+      "rezumat": "Directorul sportiv al clubului Brighton, Mike Cave, a oferit detalii despre politica de transferuri a echipei și modul în care clubul reușește să semneze și să crească cele mai bune tinere talente din fotbal. Brighton este recunoscut pentru abordarea sa inovatoare în depistarea și integrarea jucătorilor promițători, reușind să se impună ca un model în dezvoltarea fotbaliștilor, adesea înaintea rivalilor cu bugete mai mari. Această strategie contribuie la succesul continuu al clubului pe scena fotbalistică.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-08T14:26:41.688532+00:00",
+      "data_afisaj": "8 octombrie 2026, 17:26"
+    },
+    {
+      "id": "f1e792357bca",
+      "titlu": "Fotbalist din Laos arestat sub acuzația de implicare în trucarea de meciuri",
+      "rezumat": "Un fotbalist internațional din Laos a fost arestat în legătură cu acuzații de trucare a unor meciuri în timpul Campionatului ASEAN din 2026. Federația de Fotbal din Laos a sesizat autoritățile cu privire la suspiciuni de mită, pariuri ilegale și manipulare a rezultatelor. Soukphachan Lueanthala, un mijlocaș care a jucat pentru naționala Laos și pentru clubul Salavan United, este suspectat că ar fi colaborat cu un sindicat de pariuri. Cazul subliniază eforturile continue de combatere a corupției în fotbal.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-08T14:26:41.690197+00:00",
+      "data_afisaj": "8 octombrie 2026, 17:26"
+    },
+    {
+      "id": "00f1d6c35fc2",
+      "titlu": "Manchester City ar putea contesta verdictul Premier League pe un argument cheie",
+      "rezumat": "Manchester City, găsit vinovat de peste 100 de încălcări ale regulilor financiare, ar putea evita sancțiuni majore prin contestarea verdictului Premier League pe un \"argument fundamental\". Clubul intenționează să-și bazeze apelul pe o interpretare diferită a regulamentelor, sperând să anuleze sau să reducă semnificativ acuzațiile. Această strategie juridică complexă ar putea influența deznodământul unuia dintre cele mai importante cazuri din istoria recentă a fotbalului englez, cu implicații semnificative pentru viitorul clubului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-10-08T14:26:41.691749+00:00",
+      "data_afisaj": "8 octombrie 2026, 17:26"
+    },
     {
       "id": "91f560565bfc",
       "titlu": "Are Anglia deja înlocuitorul lui Kane - sau urmează să apară?",
@@ -1421,62 +1465,6 @@
       ],
       "data_publicare": "2026-10-01T15:06:58.600732+00:00",
       "data_afisaj": "1 octombrie 2026, 18:06"
-    },
-    {
-      "id": "da063a073dbe",
-      "titlu": "Ivan Toney Pledează Nevinovat într-un Caz de Agresiune la un Club din Soho",
-      "rezumat": "Atacantul englez Ivan Toney a pledat nevinovat la acuzația de agresiune cauzatoare de vătămări corporale, în urma unui incident petrecut anul trecut într-un club de noapte din Soho. Jucătorul, care evoluează pentru naționala Angliei, a apărut în fața unei instanțe din Londra pentru a-și susține poziția. Detaliile complete ale incidentului nu au fost încă făcute publice, dar cazul continuă să atragă atenția presei sportive și a publicului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-01T14:18:17.859902+00:00",
-      "data_afisaj": "1 octombrie 2026, 17:18"
-    },
-    {
-      "id": "b32cad22ce70",
-      "titlu": "Sponsorul Manchester City, Etihad Airways, ia în Calcul Acțiuni Legale Împotriva Premier League",
-      "rezumat": "Etihad Airways, principalul sponsor al clubului Manchester City, analizează posibilitatea de a iniția acțiuni legale împotriva Premier League. Această decizie vine în urma publicării verdictului comisiei independente care a găsit clubul vinovat de încălcări grave ale regulilor financiare. Într-o declarație, Etihad a respins categoric verdictele comisiei, susținând că acuzațiile sunt nefondate. Compania aeriană este sponsorul principal al clubului din 2009.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-01T14:18:17.861856+00:00",
-      "data_afisaj": "1 octombrie 2026, 17:18"
-    },
-    {
-      "id": "7f68c0a67ac5",
-      "titlu": "Statele Unite, Pregătite să Găzduiască Prima Cupă Mondială a Cluburilor Feminine",
-      "rezumat": "Statele Unite sunt pe cale să găzduiască prima ediție a Cupei Mondiale a Cluburilor Feminine, programată pentru ianuarie 2028. Orașe precum Los Angeles și San Diego sunt printre favoritele pentru a găzdui meciurile. Turneul va include nouăsprezece echipe și reprezintă o extindere majoră a competițiilor FIFA în America de Nord, urmând formatul extins al turneului masculin, care a debutat anul trecut. Discuțiile pentru organizare sunt într-un stadiu avansat.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-01T14:18:17.863625+00:00",
-      "data_afisaj": "1 octombrie 2026, 17:18"
-    },
-    {
-      "id": "b88b4f72a1ac",
-      "titlu": "Jürgen Klopp, Dezgustat de Afirmațiile Conform Cărora Echipa Sa Germană Nu Este „Suficient de Albă”",
-      "rezumat": "Selecționerul Germaniei, Jürgen Klopp, a reacționat cu dezgust la o dezbatere apărută pe rețelele sociale, care punea sub semnul întrebării dacă echipa sa națională este „suficient de albă”. Klopp a catalogat aceste afirmații drept „prostii complete” și „idioțenie”, declarând că nu vede niciun motiv să acorde atenție unor astfel de persoane și declarațiilor lor. Antrenorul a subliniat că nu este cazul să se dea amploare unor astfel de discuții lipsite de sens.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-01T14:18:17.865562+00:00",
-      "data_afisaj": "1 octombrie 2026, 17:18"
-    },
-    {
-      "id": "0655c0e0a777",
-      "titlu": "Atacantul lui Arsenal, Viktor Gyokeres, Vorbește Despre o Posibilă Plecare de la Club",
-      "rezumat": "Atacantul suedez Viktor Gyokeres a abordat speculațiile privind viitorul său la Arsenal, declarând că își dorește să joace cât mai mult posibil. Gyokeres nu a fost titular în Premier League în acest sezon, ceea ce a alimentat discuțiile despre o potențială plecare de la club. Declarația sa sugerează o nemulțumire legată de timpul redus de joc și o deschidere către noi oportunități, dacă situația nu se va schimba.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-10-01T14:18:17.867457+00:00",
-      "data_afisaj": "1 octombrie 2026, 17:18"
     }
   ]
 }
