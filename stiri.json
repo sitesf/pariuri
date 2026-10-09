@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-08T21:41:08.502934+00:00",
-  "updated_at_afisaj": "9 octombrie 2026, 00:41",
+  "updated_at": "2026-10-09T14:13:24.576519+00:00",
+  "updated_at_afisaj": "9 octombrie 2026, 17:13",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,66 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 131,
+  "numar_stiri": 132,
   "stiri": [
+    {
+      "id": "c2ea1ac7afca",
+      "titlu": "Proprietarii Everton iau în considerare vânzarea clubului",
+      "rezumat": "Grupul Friedkin, actualii proprietari ai clubului Everton, explorează posibilitatea de a vinde echipa la mai puțin de doi ani de la preluarea controlului. Această decizie vine într-un moment crucial pentru clubul din Premier League, ridicând întrebări despre stabilitatea financiară și planurile pe termen lung. Situația ar putea influența viitorul sportiv și administrativ al echipei, atrăgând atenția asupra potențialilor noi investitori.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-09T14:13:24.569582+00:00",
+      "data_afisaj": "9 octombrie 2026, 17:13"
+    },
+    {
+      "id": "e95cf166e3c3",
+      "titlu": "Carlos Baleba, pregătit pentru debutul la Manchester United",
+      "rezumat": "Carlos Baleba, achiziția de 70 de milioane de lire sterline a lui Manchester United din această vară, este așteptat să își facă debutul pentru club. Mijlocașul camerunez ar putea juca primul său meci oficial împotriva echipei Tottenham Hotspur pe stadionul Old Trafford. Debutul său este anticipat cu interes, având în vedere suma considerabilă plătită pentru transfer și așteptările legate de contribuția sa la echipa în campionat.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-09T14:13:24.571307+00:00",
+      "data_afisaj": "9 octombrie 2026, 17:13"
+    },
+    {
+      "id": "29063a87e6c2",
+      "titlu": "Jose Mourinho consideră „ridicole” criticile la adresa lui Kylian Mbappé",
+      "rezumat": "Antrenorul Jose Mourinho a sărit în apărarea lui Kylian Mbappé, declarând că criticile recente la adresa atacantului francez sunt „ridicole”. Mbappé a fost sub o atenție sporită și a primit numeroase critici în timpul pauzei internaționale. Declarația lui Mourinho subliniază sprijinul pentru jucător și contestă validitatea judecăților negative din spațiul public, subliniind presiunea la care este supus starul francez.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-10-09T14:13:24.573137+00:00",
+      "data_afisaj": "9 octombrie 2026, 17:13"
+    },
+    {
+      "id": "901be2119f54",
+      "titlu": "Victor Montagliani va candida pentru realegerea la președinția Concacaf",
+      "rezumat": "Victor Montagliani, actualul președinte al Confederației de Fotbal din America de Nord, Centrală și Caraibe (Concacaf), a anunțat că intenționează să candideze pentru un nou mandat anul viitor. Această decizie îl exclude automat din cursa pentru președinția FIFA, unde era considerat un potențial rival pentru Gianni Infantino. Montagliani și-a comunicat intențiile personalului Concacaf, clarificând viitorul său în administrația fotbalului regional.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-09T14:13:24.574819+00:00",
+      "data_afisaj": "9 octombrie 2026, 17:13"
+    },
+    {
+      "id": "2cfc788c6ed5",
+      "titlu": "Proprietarul Chelsea Women sugerează noi planuri de dezvoltare",
+      "rezumat": "Alexis Ohanian, proprietarul echipei feminine Chelsea, a lăsat să se înțeleagă că urmează noi etape importante în dezvoltarea clubului. Această declarație vine după mutarea meciurilor de acasă ale echipei pe stadionul Stamford Bridge, un pas semnificativ pentru vizibilitatea și susținerea fotbalului feminin. Ohanian a sugerat că sunt în pregătire planuri ambițioase pentru viitorul echipei, indicând o creștere continuă a investițiilor și a profilului clubului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-10-09T14:13:24.576497+00:00",
+      "data_afisaj": "9 octombrie 2026, 17:13"
+    },
     {
       "id": "73281553dbf0",
       "titlu": "Finala Cupei Africii pe Națiuni se va decide în instanță",
@@ -1444,51 +1502,6 @@
       ],
       "data_publicare": "2026-10-02T14:28:45.626859+00:00",
       "data_afisaj": "2 octombrie 2026, 17:28"
-    },
-    {
-      "id": "f3febba7cbfc",
-      "titlu": "Real Madrid Depune un Dosar „Substanțial” în Cazul Plăților Barcelonei",
-      "rezumat": "Real Madrid a trimis UEFA un dosar conținând \"dovezi de o gravitate extraordinară\" legate de plățile efectuate de FC Barcelona către un fost vicepreședinte al Comisiei Tehnice a Arbitrilor din Spania. Această acțiune intensifică presiunea asupra clubului catalan în scandalul cunoscut sub numele de \"Cazul Negreira\", care investighează presupuse influențe asupra arbitrajului. Real Madrid, care s-a constituit parte civilă în acest caz, continuă să solicite clarificări și justiție în legătură cu acuzațiile aduse rivalei sale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-02T13:40:31.082340+00:00",
-      "data_afisaj": "2 octombrie 2026, 16:40"
-    },
-    {
-      "id": "37fe089aaa2b",
-      "titlu": "Robbie Savage, Noul Antrenor al Echipei Peterborough United",
-      "rezumat": "Robbie Savage a fost numit noul antrenor al echipei Peterborough United, club din League One. Fostul internațional galez părăsește postul de la Forest Green Rovers, echipă din National League, pentru a prelua conducerea tehnică a \"Posh\", care se află pe penultimul loc în clasament. Aceasta este prima sa experiență ca antrenor în Football League de la retragerea sa din activitatea de jucător în 2011. Savage a declarat că este entuziasmat de provocare și dorește să demonstreze că merită această șansă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-02T13:40:31.083886+00:00",
-      "data_afisaj": "2 octombrie 2026, 16:40"
-    },
-    {
-      "id": "9dc134e30739",
-      "titlu": "Slaven Bilic Revine la Conducerea Naționalei Croației",
-      "rezumat": "Slaven Bilic a fost numit din nou selecționer al naționalei Croației, marcând a doua sa venire la cârma echipei. Fostul antrenor al lui West Ham United îl înlocuiește pe Zlatko Dalic, antrenorul care a făcut istorie cu naționala croată. Bilic, cunoscut pentru stilul său direct și pasiunea sa, va avea un test important împotriva Angliei în Liga Națiunilor. Revenirea sa este așteptată cu interes, fanii sperând că va aduce o nouă energie și va continua performanțele notabile ale echipei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-02T13:40:31.085434+00:00",
-      "data_afisaj": "2 octombrie 2026, 16:40"
-    },
-    {
-      "id": "4d8ca39efab9",
-      "titlu": "Manchester City Feminin Obține o Remiză cu Real Madrid în Liga Campionilor",
-      "rezumat": "Echipa feminină a clubului Manchester City a reușit o remiză de calitate împotriva formației Real Madrid în Liga Campionilor la fotbal feminin. Antrenorul principal, Andrée Jeglertz, a declarat că problemele extra-sportive ale clubului masculin nu au afectat performanța echipei sale. Golul marcat de Khadija 'Bunny' Shaw a asigurat un punct important pentru City într-un meci disputat, oferind o scurtă evadare de la turbulențele din jurul clubului după verdictul Premier League.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-02T13:40:31.087132+00:00",
-      "data_afisaj": "2 octombrie 2026, 16:40"
     }
   ]
 }
