@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-09T20:40:10.981783+00:00",
-  "updated_at_afisaj": "9 octombrie 2026, 23:40",
+  "updated_at": "2026-10-09T21:25:16.366270+00:00",
+  "updated_at_afisaj": "10 octombrie 2026, 00:25",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,41 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 133,
+  "numar_stiri": 131,
   "stiri": [
+    {
+      "id": "1fe57bd84c2a",
+      "titlu": "CAF reevaluează trecerea Cupei Africii pe Națiuni la un ciclu de patru ani",
+      "rezumat": "Confederația Africană de Fotbal (CAF) analizează posibilitatea de a menține Cupa Africii pe Națiuni la un ciclu bienal, în loc să treacă la un format de patru ani, așa cum fusese propus anterior. Discuțiile sunt în curs pentru a revizui decizia inițială, ceea ce ar putea influența calendarul competițional și strategia cluburilor africane și europene în privința jucătorilor. Această reevaluare vine în contextul unor preocupări legate de impactul asupra programului internațional și a jucătorilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-09T21:25:16.362388+00:00",
+      "data_afisaj": "10 octombrie 2026, 00:25"
+    },
+    {
+      "id": "84329b0dfc41",
+      "titlu": "Oliver Glasner despre revenirea la Crystal Palace: \"Nu aveam un plan să fiu antrenor la Nottingham Forest\"",
+      "rezumat": "Oliver Glasner, actualul antrenor al echipei Nottingham Forest, se pregătește să revină pe Selhurst Park pentru prima dată de când a părăsit Crystal Palace în vară. Glasner a mărturisit că nu a avut un plan inițial de a prelua conducerea tehnică a lui Nottingham Forest, sugerând că circumstanțele l-au adus în această poziție. El anticipează o primire mixtă din partea fanilor fostului său club, unde a avut succes înainte de plecare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-09T21:25:16.364839+00:00",
+      "data_afisaj": "10 octombrie 2026, 00:25"
+    },
+    {
+      "id": "88c045b5e193",
+      "titlu": "Analiză \"Next Generation 2021\": Succesul timpuriu nu garantează longevitatea în fotbal",
+      "rezumat": "O analiză a selecției \"Next Generation\" din 2021, care a identificat 80 de tinere talente, arată că un debut promițător în fotbal nu asigură neapărat o carieră lungă și de succes. Studiul urmărește parcursul acestor jucători pe o perioadă de cinci ani, evidențiind că dezvoltarea lentă și constantă poate fi, în unele cazuri, mai benefică decât ascensiunea rapidă. Această perspectivă oferă o înțelegere mai nuanțată a traiectoriilor în fotbalul de performanță.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-09T21:25:16.366256+00:00",
+      "data_afisaj": "10 octombrie 2026, 00:25"
+    },
     {
       "id": "f75a2f8ba48c",
       "titlu": "Anglia preia controlul play-off-ului Cupei Mondiale cu victoria în Grecia",
@@ -1456,63 +1489,6 @@
       ],
       "data_publicare": "2026-10-03T12:20:20.958597+00:00",
       "data_afisaj": "3 octombrie 2026, 15:20"
-    },
-    {
-      "id": "31e9ee4ba1ba",
-      "titlu": "Manchester City a primit o carte de ieșire din închisoare gratuită din Premier League: raport",
-      "rezumat": "Verdictul de vinovăție al lui Manchester City pentru 114 acuzații de încălcare a regulilor Premier League este povestea sezonului - și abia acum începe",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "GSP.ro"
-      ],
-      "data_publicare": "2026-10-02T21:08:30.537623+00:00",
-      "data_afisaj": "3 octombrie 2026, 00:08"
-    },
-    {
-      "id": "74b272fa5aad",
-      "titlu": "DECLARAȚII Andrei Rațiu, discurs halucinant după Polonia – România 6-0: „Am făcut o primă repriză bună. Să rămânem cu ea”",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-10-02T21:08:30.539744+00:00",
-      "data_afisaj": "3 octombrie 2026, 00:08"
-    },
-    {
-      "id": "dcb0cfb4f81c",
-      "titlu": "Man City confirmă apelul împotriva verdictului de vinovăție",
-      "rezumat": "Declarația clubului afirmă că decizia conține „erori materiale clare, de drept, principiu și fapt, și este nesigură”.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-02T21:08:30.541175+00:00",
-      "data_afisaj": "3 octombrie 2026, 00:08"
-    },
-    {
-      "id": "7af0f2adfcbf",
-      "titlu": "Informatorul Man City urmează să-și piardă protecția pe fondul temerilor pentru viața sa",
-      "rezumat": "Hackerul portughez care a publicat documente ce au dus la investigația Premier League împotriva lui Manchester City urmează să-și piardă protecția martorilor, în ciuda temerilor pentru viața sa.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-02T21:08:30.542707+00:00",
-      "data_afisaj": "3 octombrie 2026, 00:08"
-    },
-    {
-      "id": "2857a5761b40",
-      "titlu": "Cum a devenit Gordon unul dintre oamenii cheie ai Angliei",
-      "rezumat": "Anthony Gordon a fost cel mai în formă jucător al Angliei de la faza eliminatorie a Cupei Mondiale - este atacantul Barcelonei acum de neînlocuit?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-02T21:08:30.544171+00:00",
-      "data_afisaj": "3 octombrie 2026, 00:08"
     }
   ]
 }
