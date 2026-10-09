@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-09T14:13:24.576519+00:00",
-  "updated_at_afisaj": "9 octombrie 2026, 17:13",
+  "updated_at": "2026-10-09T14:59:12.978977+00:00",
+  "updated_at_afisaj": "9 octombrie 2026, 17:59",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 132,
+  "numar_stiri": 133,
   "stiri": [
+    {
+      "id": "11428e72c791",
+      "titlu": "Federațiile Europene solicită renunțarea la pauza internațională de trei săptămâni",
+      "rezumat": "Asociațiile de fotbal din Europa și-au exprimat îngrijorarea profundă cu privire la impactul pauzei internaționale extinse de trei săptămâni și vor cere UEFA să revină la programul anterior. Această decizie vine pe fondul nemulțumirilor legate de volumul de muncă al jucătorilor, numărul mare de accidentări și viabilitatea financiară a cluburilor, după ce noul format a inclus patru meciuri de Nations League în doar 11 zile.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-09T14:59:12.971379+00:00",
+      "data_afisaj": "9 octombrie 2026, 17:59"
+    },
+    {
+      "id": "4d59fcb71362",
+      "titlu": "Rui Pinto, denunțătorul cazului Manchester City, rămâne sub protecția martorilor",
+      "rezumat": "Rui Pinto, denunțătorul din cazul Manchester City, va rămâne sub protecția martorilor după ce autoritățile portugheze au suspendat decizia inițială de a-i retrage această protecție. Comisia specială pentru programe de securitate a recunoscut că Pinto ar fi trebuit să aibă ocazia de a-și prezenta cazul înainte de luarea deciziei. Acesta poate acum contesta retragerea protecției, o evoluție importantă în contextul investigației financiare a clubului englez.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-09T14:59:12.973339+00:00",
+      "data_afisaj": "9 octombrie 2026, 17:59"
+    },
+    {
+      "id": "af9ffbf73694",
+      "titlu": "Cazul Rangers din 2012 oferă perspective asupra viitorului incert al lui Manchester City",
+      "rezumat": "BBC Scotland analizează modul în care potențialele consecințe pentru Manchester City, după ce clubul a fost găsit vinovat de încălcarea regulilor financiare, s-ar putea compara cu colapsul financiar al clubului Rangers din 2012. Articolul explorează scenarii precum sancțiuni, retragerea titlurilor și necesitatea de a o lua de la zero, oferind un context istoric pentru situația actuală a 'cetățenilor' și posibilele repercusiuni pe termen lung.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-09T14:59:12.975215+00:00",
+      "data_afisaj": "9 octombrie 2026, 17:59"
+    },
+    {
+      "id": "459800728caa",
+      "titlu": "Arteta oferă actualizări privind accidentările jucătorilor cheie de la Arsenal",
+      "rezumat": "Antrenorul lui Arsenal, Mikel Arteta, a oferit detalii despre starea de sănătate a mai multor jucători importanți ai echipei. Printre aceștia se numără Tzolis, Havertz, Konsa și Rice, ale căror accidentări au stârnit îngrijorări în rândul fanilor. Aceste actualizări sunt cruciale pentru planurile tactice ale echipei înaintea următoarelor meciuri din campionat și competițiile europene, influențând selecția și strategia pe teren.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-10-09T14:59:12.977124+00:00",
+      "data_afisaj": "9 octombrie 2026, 17:59"
+    },
+    {
+      "id": "a76a1769f87a",
+      "titlu": "Răspunsul lui Arteta la înfrângerea cu Brighton ar putea modela viitorul lui Arsenal",
+      "rezumat": "Mikel Arteta a demonstrat un apetit crescut pentru risc în acest sezon, însă, pe măsură ce Arsenal încearcă să rămână în fruntea clasamentului, eșecul de a se reinventa ar reprezenta un risc și mai mare. Analiza explorează modul în care deciziile antrenorului după recenta înfrângere cu Brighton ar putea influența direcția strategică și performanțele viitoare ale clubului londonez, subliniind importanța adaptării continue.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-09T14:59:12.978955+00:00",
+      "data_afisaj": "9 octombrie 2026, 17:59"
+    },
     {
       "id": "c2ea1ac7afca",
       "titlu": "Proprietarii Everton iau în considerare vânzarea clubului",
@@ -1458,50 +1513,6 @@
       ],
       "data_publicare": "2026-10-02T20:29:22.277854+00:00",
       "data_afisaj": "2 octombrie 2026, 23:29"
-    },
-    {
-      "id": "81207d4c8eca",
-      "titlu": "Liberal Democrații Îi Cer lui Andy Burnham Să Dezvăluie Întâlnirile cu Proprietarii Manchester City",
-      "rezumat": "Andy Burnham, primarul regiunii Manchester, este presat de Partidul Liberal Democrat să publice detaliile tuturor întâlnirilor sale cu proprietarii Manchester City, Abu Dhabi United Group (ADUG), și să declare orice ospitalitate acceptată pe Stadionul Etihad. Această solicitare vine după ce Burnham a fost criticat pentru declarațiile sale conform cărora ar fi „foarte îngrijorat” dacă ADUG ar fi forțată să vândă clubul în urma verdictului de vinovăție pentru încălcarea regulilor. Partidul cere transparență totală în relația dintre oficialul politic și conducerea clubului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-02T14:28:45.620929+00:00",
-      "data_afisaj": "2 octombrie 2026, 17:28"
-    },
-    {
-      "id": "7c44a0fecfe6",
-      "titlu": "Thomas Tuchel Nu Exclude Convocarea Jucătorilor de la Manchester City în Cazul Retrogradării Clubului",
-      "rezumat": "Selecționerul Angliei, Thomas Tuchel, a declarat că nu ar exclude posibilitatea de a convoca jucători de la Manchester City în echipa națională, chiar dacă clubul ar retrograda în Championship. Această afirmație vine pe fondul incertitudinilor legate de viitorul lui Manchester City, în urma acuzațiilor de încălcare a regulilor financiare. Tuchel a subliniat că performanța și calitatea jucătorilor ar rămâne criteriile principale de selecție, indiferent de liga în care ar evolua clubul lor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-10-02T14:28:45.623061+00:00",
-      "data_afisaj": "2 octombrie 2026, 17:28"
-    },
-    {
-      "id": "e65970fe2b53",
-      "titlu": "Victoria Manchester City în Liga Campionilor 2023, Pusă Sub Semnul Întrebării pe Fondul Crizei Acuzațiilor",
-      "rezumat": "Succesul lui Manchester City în Liga Campionilor din 2023 este acum pus sub semnul întrebării, pe măsură ce criza acuzațiilor de încălcare a regulilor financiare se adâncește. După verdictul Premier League privind neregulile financiare, au apărut discuții despre legitimitatea titlurilor câștigate de club, atât pe plan intern, cât și în competițiile europene. Această situație adaugă o nouă dimensiune controverselor din jurul clubului, sugerând că performanțele sale recente ar putea fi reevaluate în contextul investigațiilor în curs.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-10-02T14:28:45.625099+00:00",
-      "data_afisaj": "2 octombrie 2026, 17:28"
-    },
-    {
-      "id": "8098e20a8db0",
-      "titlu": "Andy Robertson Se Pregătește Să Atingă 100 de Selecții pentru Scoția",
-      "rezumat": "Căpitanul Scoției, Andy Robertson, este pe cale să devină al doilea jucător din istorie care va atinge borna de 100 de selecții pentru echipa națională. BBC Sport Scotland a analizat parcursul său internațional, prezentând cifrele impresionante ale carierei sale. Această realizare subliniază longevitatea și importanța lui Robertson pentru naționala Scoției, consolidându-i statutul de legendă a fotbalului scoțian.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-02T14:28:45.626859+00:00",
-      "data_afisaj": "2 octombrie 2026, 17:28"
     }
   ]
 }
