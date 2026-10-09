@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-09T14:59:12.978977+00:00",
-  "updated_at_afisaj": "9 octombrie 2026, 17:59",
+  "updated_at": "2026-10-09T20:40:10.981783+00:00",
+  "updated_at_afisaj": "9 octombrie 2026, 23:40",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,63 @@
   },
   "numar_stiri": 133,
   "stiri": [
+    {
+      "id": "f75a2f8ba48c",
+      "titlu": "Anglia preia controlul play-off-ului Cupei Mondiale cu victoria în Grecia",
+      "rezumat": "Anglia controlează play-off-ul Cupei Mondiale cu Grecia după ce a câștigat prima manșă cu 3-1 la Creta.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-10-09T20:39:45.003032+00:00",
+      "data_afisaj": "9 octombrie 2026, 23:39"
+    },
+    {
+      "id": "d1d662d9ad39",
+      "titlu": "Proprietarul Everton, The Friedkin Group, explorează vânzarea clubului după doi ani",
+      "rezumat": "Proprietarul care analizează opțiunile de investiții, inclusiv vânzarea Fereastra de transfer a ridicat întrebări cu privire la angajamentul proprietarului Everton, The Friedkin Group, caută să vândă clubul la mai puțin de doi ani după ce a preluat de la Farhad Moshiri. Compania cu sediul în Houston a confirmat vineri într-o declarație că caută investiții noi în Everton, dar este și deschisă să renunțe la control în cazul în care ar fi găsit un cumpărător potrivit. Nu a fost stabilit un interval de timp pentru o vânzare, dar TFG are încredere că va atrage rapid un cumpărător",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-09T20:39:45.004702+00:00",
+      "data_afisaj": "9 octombrie 2026, 23:39"
+    },
+    {
+      "id": "0c52a5ddd9ee",
+      "titlu": "Am propriile mele întrebări despre cazul Man City - Carrick",
+      "rezumat": "Șeful lui Manchester United, Michael Carrick, spune că a fost afectat personal de cazul Manchester City, care a făcut ca clubul să fie găsit vinovat de încălcarea regulilor financiare din Premier League și are încă întrebări cu privire la această chestiune.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-09T20:39:45.006312+00:00",
+      "data_afisaj": "9 octombrie 2026, 23:39"
+    },
+    {
+      "id": "47f5d3a038e9",
+      "titlu": "Va opri cineva realegerea lui Infantino ca președinte FIFA?",
+      "rezumat": "La puțin mai mult de două luni de când a apărut vestea despre propunerea lui Infantino pentru Fifa Forward Enterprise, șansele par mici ca Gianni Infantino să fie demis din funcția de președinte.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-09T20:39:45.008821+00:00",
+      "data_afisaj": "9 octombrie 2026, 23:39"
+    },
+    {
+      "id": "b33ac65a8996",
+      "titlu": "Titluri Man City 'absolut ne' viciate - Maresca",
+      "rezumat": "Antrenorul lui Manchester City, Enzo Maresca, spune că titlurile clubului nu sunt „absolut” viciate după ce au fost găsiți vinovați de majoritatea celor 115 acuzații aduse lor de Premier League.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-09T20:39:45.011347+00:00",
+      "data_afisaj": "9 octombrie 2026, 23:39"
+    },
     {
       "id": "11428e72c791",
       "titlu": "Federațiile Europene solicită renunțarea la pauza internațională de trei săptămâni",
@@ -1456,63 +1513,6 @@
       ],
       "data_publicare": "2026-10-02T21:08:30.544171+00:00",
       "data_afisaj": "3 octombrie 2026, 00:08"
-    },
-    {
-      "id": "dc8069b1f541",
-      "titlu": "Manchester City, Ofertă pentru a Evita Sancțiunile Premier League: Raport",
-      "rezumat": "Un raport recent sugerează că Manchester City ar fi primit o oportunitate de a evita sancțiunile severe impuse de Premier League, în urma celor 114 acuzații de încălcare a regulilor financiare. Această evoluție vine pe fondul unei crize profunde care a zguduit clubul și campionatul, iar detaliile exacte ale acestei 'cărți de ieșire din închisoare' sunt intens dezbătute. Situația continuă să fie un subiect central în fotbalul englez, cu implicații majore pentru viitorul clubului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "GSP.ro"
-      ],
-      "data_publicare": "2026-10-02T20:29:22.270669+00:00",
-      "data_afisaj": "2 octombrie 2026, 23:29"
-    },
-    {
-      "id": "5f7477258501",
-      "titlu": "Adrian Porumboiu Comentează Decizia de Eliminare a lui Drăgușin și Penalty-ul lui Lewandowski",
-      "rezumat": "Fostul arbitru internațional Adrian Porumboiu a oferit o analiză detaliată a fazei controversate care a dus la eliminarea lui Radu Drăgușin și la acordarea unui penalty pentru Robert Lewandowski. Porumboiu a declarat că decizia arbitrului a fost 'corectă', argumentând regulamentul și interpretarea situației de joc. Comentariul său vine în contextul dezbaterilor aprinse din presa sportivă românească și internațională privind corectitudinea deciziilor arbitrale în meciurile recente.",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-10-02T20:29:22.272579+00:00",
-      "data_afisaj": "2 octombrie 2026, 23:29"
-    },
-    {
-      "id": "015ff8c2c0a9",
-      "titlu": "Manchester City Confirmă Depunerea Apelului Împotriva Verdictului de Vinovăție",
-      "rezumat": "Clubul Manchester City a confirmat oficial că a depus un apel împotriva verdictului de vinovăție emis de o comisie independentă, privind cele peste 100 de încălcări ale regulilor financiare ale Premier League. Într-o declarație, clubul a susținut că hotărârea conține 'erori materiale clare, de drept, principiu și fapt, și este nesigură'. Această decizie marchează o nouă etapă în saga juridică a clubului, care ar putea avea consecințe semnificative asupra viitorului său în fotbalul englez.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-02T20:29:22.274277+00:00",
-      "data_afisaj": "2 octombrie 2026, 23:29"
-    },
-    {
-      "id": "d30a810d58f3",
-      "titlu": "Declarațiile Sponsorului Manchester City din 2015 Ridică Semne de Întrebare Asupra Strategiei de Apel a Clubului",
-      "rezumat": "Strategia de apărare a clubului Manchester City în apelul său împotriva verdictului de vinovăție pentru încălcarea regulilor financiare este pusă sub semnul întrebării de declarațiile anterioare ale sponsorului principal, Etihad Airways. În 2015, Etihad a depus documente la guvernul SUA care par să contrazică argumentele cheie ale City, conform cărora finanțarea clubului nu provine direct de la guvernul din Abu Dhabi. Această discrepanță ar putea complica semnificativ cazul clubului în fața comisiei de apel.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-10-02T20:29:22.276213+00:00",
-      "data_afisaj": "2 octombrie 2026, 23:29"
-    },
-    {
-      "id": "ad38db051713",
-      "titlu": "Arsenal Renunță la Planurile de Extindere Majoră a Stadionului Emirates",
-      "rezumat": "Clubul Arsenal a decis să amâne planurile de extindere semnificativă a Stadionului Emirates, optând în schimb pentru un program de îmbunătățiri mai mici. Conducerea clubului a analizat fezabilitatea creșterii capacității actuale de 60.704 locuri, dar a hotărât să se concentreze pe alte aspecte ale operațiunilor. Această decizie vine în contextul unei revizuiri mai ample a strategiei clubului, cu accent pe ospitalitate și retail, în detrimentul unei extinderi masive a arenei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-02T20:29:22.277854+00:00",
-      "data_afisaj": "2 octombrie 2026, 23:29"
     }
   ]
 }
