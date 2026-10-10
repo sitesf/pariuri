@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-09T21:25:16.366270+00:00",
-  "updated_at_afisaj": "10 octombrie 2026, 00:25",
+  "updated_at": "2026-10-10T13:22:50.265908+00:00",
+  "updated_at_afisaj": "10 octombrie 2026, 16:22",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 131,
+  "numar_stiri": 126,
   "stiri": [
+    {
+      "id": "0416854b6f08",
+      "titlu": "Cole Palmer semnează un nou contract pe termen lung cu Chelsea",
+      "rezumat": "Cole Palmer a semnat un nou contract cu Chelsea, pe termen lung, până în 2034, în condiții financiare îmbunătățite. Această înțelegere reprezintă unul dintre cele mai extinse contracte active din Premier League, consolidând angajamentul jucătorului față de club pentru o perioadă considerabilă. Semnarea acestui contract subliniază importanța lui Palmer în planurile de viitor ale echipei de pe Stamford Bridge.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-10-10T13:22:50.257538+00:00",
+      "data_afisaj": "10 octombrie 2026, 16:22"
+    },
+    {
+      "id": "2d8d885b9bce",
+      "titlu": "Startul excelent al lui Raphinha la Barcelona, întrerupt de o accidentare",
+      "rezumat": "Raphinha va rata următoarele două meciuri ale Barcelonei după ce s-a întors de la echipa națională cu o accidentare. Această veste vine ca o lovitură pentru clubul catalan, având în vedere startul promițător al atacantului brazilian în noul sezon. Absența sa va fi resimțită în ofensiva echipei, care se bază pe contribuția sa la crearea de ocazii și la finalizare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-10T13:22:50.258818+00:00",
+      "data_afisaj": "10 octombrie 2026, 16:22"
+    },
+    {
+      "id": "493d87b3aa24",
+      "titlu": "Alexander Isak, incert pentru meciul Liverpool vs Manchester City",
+      "rezumat": "Atacantul lui Liverpool, Alexander Isak, este considerat o incertitudine majoră pentru confruntarea din acest weekend cu Manchester City în Premier League. O actualizare privind starea sa de sănătate este așteptată, deoarece prezența sa ar fi crucială pentru echipa sa într-un meci de o importanță capitală în lupta pentru titlu. Absența sa ar putea influența strategia antrenorului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-10-10T13:22:50.259975+00:00",
+      "data_afisaj": "10 octombrie 2026, 16:22"
+    },
+    {
+      "id": "b8772d59a2a9",
+      "titlu": "Erin Cuthbert revine pe teren pentru Scoția după o lungă perioadă de recuperare",
+      "rezumat": "Erin Cuthbert și-a exprimat bucuria și ușurarea după ce a făcut prima sa apariție din acest sezon în victoria impresionantă a Scoției cu 2-0 împotriva Cehiei. Jucătoarea a avut o vară lungă de recuperare în urma unei accidentări, iar revenirea sa este un impuls important pentru echipa națională. Prezența sa pe teren aduce un plus de experiență și calitate la mijlocul terenului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-10T13:22:50.264474+00:00",
+      "data_afisaj": "10 octombrie 2026, 16:22"
+    },
+    {
+      "id": "09e9c497a381",
+      "titlu": "Speranțele Irlandei de Nord la Cupa Mondială, considerate \"imposibile\" după înfrângerea cu Portugalia",
+      "rezumat": "Michael McArdle a declarat că șansele Irlandei de Nord de a învinge Portugalia într-un play-off de calificare la Cupa Mondială au trecut de la \"improbabile la imposibile\" după înfrângerea categorică cu 4-0 în prima manșă. Rezultatul compromite serios calificarea echipei, lăsând-o cu o misiune extrem de dificilă în retur. Echipa se confruntă acum cu o provocare aproape insurmontabilă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-10T13:22:50.265889+00:00",
+      "data_afisaj": "10 octombrie 2026, 16:22"
+    },
     {
       "id": "1fe57bd84c2a",
       "titlu": "CAF reevaluează trecerea Cupei Africii pe Națiuni la un ciclu de patru ani",
@@ -1379,116 +1435,6 @@
       ],
       "data_publicare": "2026-10-03T19:06:09.677173+00:00",
       "data_afisaj": "3 octombrie 2026, 22:06"
-    },
-    {
-      "id": "7136e3a6a6b2",
-      "titlu": "Către ce cluburi au curs banii 'umflați' ai lui Man City pe piața transferurilor?",
-      "rezumat": "BBC Sport urmărește traseul banilor din transferuri care au ajuns la alte cluburi în perioada în care Manchester City a încălcat regulile financiare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-03T13:02:51.196723+00:00",
-      "data_afisaj": "3 octombrie 2026, 16:02"
-    },
-    {
-      "id": "b1d7ad68cf0c",
-      "titlu": "Lewandowski, 38 de ani, reușește un hat-trick în victoria Poloniei cu 6-0",
-      "rezumat": "Robert Lewandowski, 38 de ani, marchează un hat-trick în Liga Națiunilor, iar Edin Dzeko joacă ultimul său meci pentru Bosnia și Herțegovina.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-03T13:02:51.198352+00:00",
-      "data_afisaj": "3 octombrie 2026, 16:02"
-    },
-    {
-      "id": "57ed986c4010",
-      "titlu": "Studentul care joacă în La Liga: Ascensiunea unică a introvertitului Rodri spre vârf",
-      "rezumat": "Rodri joacă deja un rol cheie la Barcelona după ce a refuzat Real Madrid în această vară. Guillem Balague analizează parcursul său de până acum.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-03T13:02:51.199981+00:00",
-      "data_afisaj": "3 octombrie 2026, 16:02"
-    },
-    {
-      "id": "27f82c160628",
-      "titlu": "Morrison 'diferit' oferă NI o nouă opțiune",
-      "rezumat": "Kieran Morrison din Irlanda de Nord speră că a câștigat încrederea antrenorului Michael O'Neill după ce a impresionat la primul său meci internațional ca titular.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-03T13:02:51.201465+00:00",
-      "data_afisaj": "3 octombrie 2026, 16:02"
-    },
-    {
-      "id": "0f5ac8d13e53",
-      "titlu": "Prea tăcut de prea mult timp, poate McGinn să-și recapete forma maximă pentru Scoția?",
-      "rezumat": "Al cincilea în clasamentul marcatorilor all-time pentru Scoția și aproape de 100 de selecții, John McGinn ar putea să-și regăsească cea mai bună formă, scrie Tom English.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-03T13:02:51.203063+00:00",
-      "data_afisaj": "3 octombrie 2026, 16:02"
-    },
-    {
-      "id": "d6b749c58bbf",
-      "titlu": "Lewandowski, la 38 de ani, marchează un hat-trick în victoria Poloniei cu 6-0",
-      "rezumat": "Atacantul Robert Lewandowski, în vârstă de 38 de ani, a reușit un hat-trick impresionant în meciul din Liga Națiunilor, contribuind decisiv la victoria categorică a Poloniei cu scorul de 6-0. Această performanță subliniază forma excelentă a veteranului atacant, care continuă să fie un jucător cheie pentru echipa națională. În aceeași seară, Edin Dzeko și-a disputat ultimul său meci pentru naționala Bosniei-Herțegovina, marcând o altă bornă importantă în fotbalul internațional.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-03T12:20:20.952890+00:00",
-      "data_afisaj": "3 octombrie 2026, 15:20"
-    },
-    {
-      "id": "50ec685e9adc",
-      "titlu": "Italia obține o remiză împotriva Franței, rămasă în 10 jucători, în Liga Națiunilor",
-      "rezumat": "Primul meci pe teren propriu al lui Zinedine Zidane în calitate de selecționer al Franței s-a încheiat cu o remiză 1-1 împotriva Italiei în Liga Națiunilor. Portarul oaspeților, Gianluigi Donnarumma, a avut o serie de intervenții decisive, frustrând atacurile francezilor pe Stade de France. Gazdele au terminat partida în inferioritate numerică, după eliminarea târzie a lui Dayot Upamecano. Michael Olise a deschis scorul pentru Franța în minutul 55, cu un șut spectaculos.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-03T12:20:20.954371+00:00",
-      "data_afisaj": "3 octombrie 2026, 15:20"
-    },
-    {
-      "id": "0f677aa71a1a",
-      "titlu": "Implicațiile verdictului de vinovăție al Manchester City asupra lotului și transferurilor",
-      "rezumat": "Verdictul de vinovăție pronunțat împotriva clubului Manchester City în cazul încălcărilor regulilor financiare va avea un impact semnificativ asupra viitorului jucătorilor existenți și asupra activității clubului pe piața transferurilor. BBC Sport analizează modul în care această decizie ar putea influența strategia de recrutare a clubului, potențialele plecări de jucători cheie și capacitatea echipei de a atrage noi talente în contextul sancțiunilor iminente.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-03T12:20:20.955766+00:00",
-      "data_afisaj": "3 octombrie 2026, 15:20"
-    },
-    {
-      "id": "b43ff625c51b",
-      "titlu": "Xavi, selecționerul Olandei, se confruntă deja cu tensiuni în echipa națională",
-      "rezumat": "Xavi, noul selecționer al Olandei, se află deja în centrul atenției din cauza tensiunilor apărute în cadrul echipei naționale. Iconicul fost jucător al Barcelonei își propune să implementeze o fuziune stilistică în jocul echipei și nu a ezitat să ia decizii drastice până acum. Această abordare fermă a generat discuții și provocări interne, pe măsură ce Xavi încearcă să-și impună viziunea și să remodeleze lotul pentru a atinge obiectivele propuse.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-10-03T12:20:20.957148+00:00",
-      "data_afisaj": "3 octombrie 2026, 15:20"
-    },
-    {
-      "id": "5c43c60eebf9",
-      "titlu": "Raheem Sterling, sub semnul întrebării: viitorul carierei sale după problemele legale",
-      "rezumat": "Fostul atacant al naționalei Angliei, Raheem Sterling, ar putea risca o pedeapsă cu închisoarea luna viitoare, iar colapsul carierei sale ridică numeroase semne de întrebare. În altă conjunctură, Sterling ar fi fost acum în lotul Angliei, jucând sub comanda lui Thomas Tuchel, care îl considera ținta numărul unu la Chelsea. La 16 luni mai tânăr decât Harry Kane, care continuă să bată recorduri, situația lui Sterling contrastează puternic, punând sub lupă credibilitatea și viitorul său în fotbal.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-03T12:20:20.958597+00:00",
-      "data_afisaj": "3 octombrie 2026, 15:20"
     }
   ]
 }
