@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-10T19:53:34.389486+00:00",
-  "updated_at_afisaj": "10 octombrie 2026, 22:53",
+  "updated_at": "2026-10-10T20:25:16.860672+00:00",
+  "updated_at_afisaj": "10 octombrie 2026, 23:25",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,69 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 126,
+  "numar_stiri": 131,
   "stiri": [
+    {
+      "id": "573a6b5a8d5f",
+      "titlu": "Solanke egalează în prelungiri, Tottenham obține un punct cu 10 jucători împotriva lui Manchester United",
+      "rezumat": "Dominic Solanke a marcat în prelungiri, salvând un punct pentru Tottenham, care a jucat cu un om mai puțin, într-un meci tensionat împotriva lui Manchester United pe Old Trafford. Echipa lui Ange Postecoglou a luptat eroic după eliminarea lui Rodrigo Bentancur, iar rezultatul de 1-1 a fost primit cu huiduieli de fanii gazdelor, care se confruntă cu o perioadă dificilă. Acest egal extinde seria de meciuri fără victorie pentru ambele echipe.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-10T20:25:16.853578+00:00",
+      "data_afisaj": "10 octombrie 2026, 23:25"
+    },
+    {
+      "id": "d354c60c98bb",
+      "titlu": "Brighton continuă forma excelentă, învingând Sunderland cu un om în minus",
+      "rezumat": "Brighton și-a menținut startul excelent în noul sezon de Premier League, învingând Sunderland cu 2-0 pe Stadium of Light. Victoria a fost obținută în ciuda faptului că au jucat o mare parte din a doua repriză cu zece oameni, după ce Pascal Struijk a primit un cartonaș roșu controversat. Jaouen Hadjam a marcat al doilea gol, consolidând poziția lui Brighton în clasament și adăugând încă trei puncte la un total deja impresionant de 13.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-10T20:25:16.855373+00:00",
+      "data_afisaj": "10 octombrie 2026, 23:25"
+    },
+    {
+      "id": "da1b8b63c39a",
+      "titlu": "Ipswich produce o revenire spectaculoasă și învinge Fulham, adâncind criza oaspeților",
+      "rezumat": "Ipswich Town a reușit o revenire dramatică, marcând două goluri în trei minute pe final de meci pentru a învinge Fulham cu 2-1 pe Portman Road. Această înfrângere prelungeste seria fără victorie a lui Fulham la șase meciuri în Premier League, punând presiune suplimentară pe antrenorul Alvaro Arbeloa. Abdoul Ouattara și Dara O’Shea au fost eroii gazdelor, transformând un deficit într-o victorie neașteptată și obținând primele puncte importante acasă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-10T20:25:16.857137+00:00",
+      "data_afisaj": "10 octombrie 2026, 23:25"
+    },
+    {
+      "id": "62bf4a4313c8",
+      "titlu": "Brentford își extinde seria de invincibilitate cu o remiză obținută în prelungiri la Aston Villa",
+      "rezumat": "Brentford și-a continuat startul neînvins în noul sezon de Premier League, obținând o remiză de 2-2 pe terenul lui Aston Villa. Kristoffer Ajer a marcat golul egalizator târziu în meci, asigurând un punct prețios pentru echipa sa. Pentru Aston Villa, așteptarea primei victorii pe teren propriu în acest sezon de Premier League continuă, după un meci disputat și plin de evenimente, care a demonstrat rezistența ambelor formații.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-10T20:25:16.858944+00:00",
+      "data_afisaj": "10 octombrie 2026, 23:25"
+    },
+    {
+      "id": "b38c5de6b77a",
+      "titlu": "Hearts învinge categoric St Mirren cu 5-0 în Premiership-ul Scoțian",
+      "rezumat": "Echipa Hearts a obținut o victorie convingătoare cu scorul de 5-0 împotriva formației St Mirren, într-un meci din Premiership-ul Scoțian. Această performanță solidă subliniază forma bună a echipei Hearts și contribuie la consolidarea poziției lor în clasament. Rezultatul a fost unul clar, demonstrând superioritatea gazdelor pe parcursul întregii partide și oferind un spectacol ofensiv fanilor prezenți pe stadion.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-10T20:25:16.860651+00:00",
+      "data_afisaj": "10 octombrie 2026, 23:25"
+    },
     {
       "id": "cf7a58444451",
       "titlu": "Jordan Henderson strălucește cu o dublă în victoria categorică a lui Chelsea împotriva lui Bournemouth",
