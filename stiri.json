@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-10T13:22:50.265908+00:00",
-  "updated_at_afisaj": "10 octombrie 2026, 16:22",
+  "updated_at": "2026-10-10T14:14:33.684136+00:00",
+  "updated_at_afisaj": "10 octombrie 2026, 17:14",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 126,
+  "numar_stiri": 131,
   "stiri": [
+    {
+      "id": "7ab838e8d683",
+      "titlu": "Portugalia îl suspendă pe Cristiano Ronaldo după ce a părăsit echipa națională",
+      "rezumat": "Federația Portugheză de Fotbal a deschis proceduri disciplinare împotriva lui Cristiano Ronaldo și l-a suspendat provizoriu, după ce atacantul în vârstă de 41 de ani a decis să părăsească echipa națională. Ronaldo și-a cerut scuze suporterilor marți, criticându-l totodată pe antrenorul Portugaliei, Jorge Jesus, și a declarat că va respecta orice \"suspendare care îi va fi impusă\". Incidentul marchează o perioadă tensionată pentru veteranul fotbalist și echipa națională.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-10T14:14:33.676653+00:00",
+      "data_afisaj": "10 octombrie 2026, 17:14"
+    },
+    {
+      "id": "a2e593c13e1a",
+      "titlu": "Arsenal revine și învinge Leeds, punând capăt seriei lor de invincibilitate",
+      "rezumat": "Arsenal a reușit o revenire spectaculoasă, marcând două goluri în opt minute pentru a învinge Leeds cu 2-1, punând capăt seriei de meciuri fără înfrângere a echipei lui Daniel Farke. Deși defensiva tunarilor a părut mai vulnerabilă decât în sezonul precedent, impactul jucătorilor de pe bancă și încrederea regăsită după egalare au demonstrat reziliența echipei. Victoria este crucială pentru Arsenal, care își reia forma după o pauză internațională prelungită.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-10-10T14:14:33.678515+00:00",
+      "data_afisaj": "10 octombrie 2026, 17:14"
+    },
+    {
+      "id": "9fa20b2fc0bd",
+      "titlu": "Antrenorul Chelsea, Xabi Alonso, confirmă angajamentul lui Cole Palmer față de naționala Angliei",
+      "rezumat": "Xabi Alonso, antrenorul echipei Chelsea, a declarat că Cole Palmer este pe deplin angajat să joace pentru naționala Angliei. Alonso a dezvăluit că Palmer a ratat recenta pauză internațională din cauza unei probleme legate de o accidentare la inghinal, care l-a ținut pe tușă o mare parte din sezonul trecut. Jucătorul este apt pentru meciul Chelsea cu Bournemouth de sâmbătă, clarificând astfel speculațiile privind disponibilitatea sa pentru selecție.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-10T14:14:33.680497+00:00",
+      "data_afisaj": "10 octombrie 2026, 17:14"
+    },
+    {
+      "id": "54ac17d11a6a",
+      "titlu": "Meciul Rayo Vallecano – Athletic Bilbao, suspendat definitiv în urma unui scandal",
+      "rezumat": "Partida dintre Rayo Vallecano și Athletic Bilbao, la care ar fi trebuit să participe și Andrei Rațiu, a fost suspendată definitiv în urma unui scandal. Detaliile exacte ale incidentului nu au fost specificate în titlu, dar decizia de suspendare definitivă indică o situație gravă. Această măsură drastică va avea probabil consecințe asupra programului competițional și ar putea duce la investigații suplimentare din partea organismelor de fotbal.",
+      "categorie": "Fotbal",
+      "surse": [
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-10-10T14:14:33.682300+00:00",
+      "data_afisaj": "10 octombrie 2026, 17:14"
+    },
+    {
+      "id": "5cae2f3f414a",
+      "titlu": "West Ham ratează șansa de a prelua conducerea în Championship după un egal cu QPR",
+      "rezumat": "West Ham a ratat ocazia de a urca pe primul loc în Championship, după ce a obținut doar o remiză, scor 1-1, împotriva echipei QPR. Portarul lui QPR, Pierce Charles, a avut o intervenție decisivă, apărând un penalty executat de Jarrod Bowen în prelungiri. Bowen reușise anterior să egaleze pentru West Ham, anulând un penalty controversat marcat de Nicolas Madsen în prima repriză. Această remiză menține West Ham în lupta pentru promovare, dar le amână ascensiunea în clasament.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-10T14:14:33.684116+00:00",
+      "data_afisaj": "10 octombrie 2026, 17:14"
+    },
     {
       "id": "0416854b6f08",
       "titlu": "Cole Palmer semnează un nou contract pe termen lung cu Chelsea",
