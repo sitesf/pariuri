@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-10T14:14:33.684136+00:00",
-  "updated_at_afisaj": "10 octombrie 2026, 17:14",
+  "updated_at": "2026-10-10T19:53:34.389486+00:00",
+  "updated_at_afisaj": "10 octombrie 2026, 22:53",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,65 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 131,
+  "numar_stiri": 126,
   "stiri": [
+    {
+      "id": "cf7a58444451",
+      "titlu": "Jordan Henderson strălucește cu o dublă în victoria categorică a lui Chelsea împotriva lui Bournemouth",
+      "rezumat": "Jordan Henderson a avut o prestație memorabilă la debutul său pe teren propriu pentru Chelsea, marcând două goluri în victoria convingătoare cu 5-1 împotriva lui Bournemouth pe Stamford Bridge. Această victorie a lăsat echipa oaspete în continuare fără o victorie în Premier League în acest sezon. Performanțele lui Henderson și Moises Caicedo au fost considerate esențiale în succesul echipei, consolidând mijlocul terenului și permițând echipei să atace cu eficiență.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-10T19:53:34.382606+00:00",
+      "data_afisaj": "10 octombrie 2026, 22:53"
+    },
+    {
+      "id": "639483182ceb",
+      "titlu": "Pascal Gross de la Brighton, desemnat Jucătorul Lunii în Premier League",
+      "rezumat": "Pascal Gross, mijlocașul echipei Brighton, a fost numit Jucătorul Lunii în Premier League pentru luna septembrie. Această recunoaștere subliniază impactul său semnificativ asupra echipei, atât în acest sezon, cât și pe parcursul celor nouă ani petrecuți la club, în cele două mandate. BBC Sport analizează modul în care Gross s-a dovedit a fi o achiziție extrem de valoroasă, contribuind constant la performanțele excelente ale lui Brighton.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-10T19:53:34.384283+00:00",
+      "data_afisaj": "10 octombrie 2026, 22:53"
+    },
+    {
+      "id": "17097de788eb",
+      "titlu": "Robbie Savage debutează ca antrenor la Peterborough în EFL",
+      "rezumat": "Robbie Savage, fostul internațional galez și actual comentator sportiv, a debutat pe banca tehnică a echipei Peterborough United în English Football League (EFL). Sam Parkin, expert BBC Final Score, a analizat punctele cheie ale weekendului în EFL, evidențiind debutul lui Savage ca manager. Această mutare marchează un nou capitol în cariera lui Savage, aducând o nouă dinamică în campionatul ligilor inferioare engleze și stârnind interes în rândul fanilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-10T19:53:34.385787+00:00",
+      "data_afisaj": "10 octombrie 2026, 22:53"
+    },
+    {
+      "id": "84bc56ad184c",
+      "titlu": "Anthony Gordon marchează primul său gol pentru Barcelona; Bayern Munchen remizează după o eroare a lui Neuer",
+      "rezumat": "Anthony Gordon a înscris primul său gol pentru Barcelona, contribuind la victoria cu 3-0 împotriva lui Getafe, consolidând startul perfect al campioanei spaniole în La Liga. Între timp, în Bundesliga, Bayern Munchen a remizat, după ce a primit cel mai rapid gol din istoria campionatului, în urma unei erori a portarului Manuel Neuer. Aceste rezultate marchează evenimente importante în fotbalul european de top, cu implicații pentru clasamentele din Spania și Germania.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-10T19:53:34.387696+00:00",
+      "data_afisaj": "10 octombrie 2026, 22:53"
+    },
+    {
+      "id": "6882de4d1cf6",
+      "titlu": "Rangers preia conducerea în Premiership-ul Scoțian după victoria împotriva lui Kilmarnock",
+      "rezumat": "Rangers a urcat pe prima poziție în Premiership-ul Scoțian, învingând Kilmarnock cu scorul de 3-1. Ryan Naderi a fost eroul meciului, reușind o dublă care a asigurat victoria echipei sale. Acest rezultat crucial le permite \"Gers\" să depășească rivalii și să ocupe vârful clasamentului, consolidându-și poziția în lupta pentru titlu și oferind un impuls semnificativ în campania lor din acest sezon.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-10-10T19:53:34.389467+00:00",
+      "data_afisaj": "10 octombrie 2026, 22:53"
+    },
     {
       "id": "7ab838e8d683",
       "titlu": "Portugalia îl suspendă pe Cristiano Ronaldo după ce a părăsit echipa națională",
@@ -1375,122 +1432,6 @@
       ],
       "data_publicare": "2026-10-04T13:05:17.398831+00:00",
       "data_afisaj": "4 octombrie 2026, 16:05"
-    },
-    {
-      "id": "20691b1b1a7f",
-      "titlu": "Fanii Celtic protestează împotriva proprietarului Dermot Desmond la un turneu de golf",
-      "rezumat": "Acționarul principal al clubului Celtic, Dermot Desmond, a fost ținta unui protest al fanilor în timpul turneului de golf Alfred Dunhill Links de la St Andrews. Suporterii au aruncat mingi de tenis în direcția sa, exprimându-și nemulțumirea față de lipsa de progres a echipei pe teren. Incidentul a avut loc pe green-ul găurii a 15-a, iar Desmond, în vârstă de 76 de ani, a fost ulterior escortat de personalul de securitate. Protestul subliniază tensiunile dintre conducerea clubului și baza de fani.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-03T19:37:44.815923+00:00",
-      "data_afisaj": "3 octombrie 2026, 22:37"
-    },
-    {
-      "id": "4d126e563c6f",
-      "titlu": "Roy Keane: Jude Bellingham poate deveni unul dintre cei mai mari jucători din istorie",
-      "rezumat": "Legendarul Roy Keane, expert Sky Sports, a declarat că starul Angliei și al lui Real Madrid, Jude Bellingham, are potențialul de a deveni unul dintre cei mai mari jucători din istoria fotbalului. Declarația vine în contextul performanțelor impresionante ale tânărului mijlocaș, care continuă să impresioneze atât la nivel de club, cât și la echipa națională, consolidându-și statutul de unul dintre cei mai promițători fotbaliști ai generației sale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-10-03T19:37:44.817927+00:00",
-      "data_afisaj": "3 octombrie 2026, 22:37"
-    },
-    {
-      "id": "380bc319e68a",
-      "titlu": "Craig Bellamy: Grupa Țării Galilor din Liga Națiunilor a 'explodat' după victoria cu Norvegia",
-      "rezumat": "Craig Bellamy a declarat că victoria Țării Galilor împotriva Norvegiei a 'aruncat o grenadă' în grupa lor din Liga Națiunilor, intensificând lupta pentru calificare. Echipa galeză caută acum o nouă victorie crucială împotriva Danemarcei, într-un meci programat duminică la Cardiff. Rezultatul pozitiv a revitalizat speranțele Țării Galilor de a avansa în competiție, transformând următoarea confruntare într-una de o importanță majoră pentru soarta grupei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-03T19:37:44.820016+00:00",
-      "data_afisaj": "3 octombrie 2026, 22:37"
-    },
-    {
-      "id": "75975d3b7629",
-      "titlu": "Manchester United învinge Liverpool în WSL, grație golului Juliei Zigiotti Olme",
-      "rezumat": "Un gol marcat de Julia Zigiotti Olme în minutul șase a fost suficient pentru a asigura victoria echipei Manchester United în fața lui Liverpool, scor 1-0, în Women's Super League. Zigiotti Olme a profitat de o eroare a portarului lui Liverpool, Khiara Keating, iar, în ciuda presiunii exercitate de echipa lui Gareth Taylor pe final, United a reușit să obțină a doua victorie consecutivă în campionat. Acest rezultat consolidează poziția lui Manchester United în clasament.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-03T19:37:44.821916+00:00",
-      "data_afisaj": "3 octombrie 2026, 22:37"
-    },
-    {
-      "id": "e0dc80152e7b",
-      "titlu": "The Guardian prezintă 'Next Generation 2024': 60 de tinere talente din fotbalul mondial",
-      "rezumat": "Publicația The Guardian a lansat lista anuală 'Next Generation 2024', care include 60 dintre cele mai promițătoare tinere talente din fotbalul mondial. Selecția cuprinde jucători născuți în anul 2007, evidențiind nume precum Franco Mastantuono și Estêvão. Această inițiativă oferă o perspectivă asupra viitoarelor vedete ale sportului, monitorizând progresul generațiilor anterioare și identificând potențialii lideri ai fotbalului global.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-03T19:37:44.823872+00:00",
-      "data_afisaj": "3 octombrie 2026, 22:37"
-    },
-    {
-      "id": "374d95774711",
-      "titlu": "Anglia obține o victorie zdrobitoare împotriva Croației în Liga Națiunilor",
-      "rezumat": "Naționala Angliei a demonstrat o performanță dominantă, învingând categoric Croația într-un meci din Liga Națiunilor. Victoria a fost descrisă ca o \"ruină istorică\" de către observatori, consolidând poziția Angliei în grupă și sporind speranțele de calificare în sferturile de finală. Jucători precum Harry Kane și Bukayo Saka au avut contribuții semnificative la acest succes. Meciul a fost urmărit de un public tânăr, format din peste 6.000 de copii sub 14 ani.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-03T19:06:09.669906+00:00",
-      "data_afisaj": "3 octombrie 2026, 22:06"
-    },
-    {
-      "id": "97446b52c53e",
-      "titlu": "Bruno Fernandes comentează plecarea lui Cristiano Ronaldo din lotul Portugaliei",
-      "rezumat": "Mijlocașul portughez Bruno Fernandes a declarat că, în ciuda plecării sale recente din lotul naționalei după ce a aflat că nu va fi titular, Cristiano Ronaldo rămâne cea mai mare figură fotbalistică a țării. Fernandes a confirmat discuții cu Ronaldo, subliniind importanța acestuia pentru echipa Portugaliei și impactul său continuu asupra fotbalului lusitan.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-10-03T19:06:09.671748+00:00",
-      "data_afisaj": "3 octombrie 2026, 22:06"
-    },
-    {
-      "id": "f5ff2407f6ae",
-      "titlu": "Conferința de presă a naționalei Irlandei, întreruptă brusc pe fondul acuzațiilor",
-      "rezumat": "Conferința de presă premergătoare meciului naționalei Republicii Irlanda împotriva Israelului a fost întreruptă brusc, după ce managerul Heimir Hallgrimsson a fost confruntat cu acuzații la adresa jucătorilor săi. Acuzațiile de rasism au fost respinse ca fiind \"complet neadevărate\". Incidentul a avut loc în contextul unei tensiuni crescute, echipa irlandeză votând anterior să joace meciul, în ciuda unor neliniști în rândul jucătorilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-03T19:06:09.673549+00:00",
-      "data_afisaj": "3 octombrie 2026, 22:06"
-    },
-    {
-      "id": "503df8e5ab6c",
-      "titlu": "Scoția preia conducerea în meciul cu Macedonia de Nord din Liga Națiunilor",
-      "rezumat": "Naționala Scoției a deschis scorul devreme în partida din Liga Națiunilor împotriva Macedoniei de Nord. Meciul, care face parte din seria de confruntări din Liga Națiunilor, este urmărit în direct, alături de alte partide importante precum Spania împotriva Cehiei. Golul marcat de Bowie a oferit Scoției un avantaj important în prima parte a jocului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-03T19:06:09.675331+00:00",
-      "data_afisaj": "3 octombrie 2026, 22:06"
-    },
-    {
-      "id": "8fa6edac1516",
-      "titlu": "Accidentare majoră pentru un jucător cheie al României înainte de meciul cu Suedia",
-      "rezumat": "Un jucător important al naționalei României s-a accidentat și nu va putea participa la meciul crucial împotriva Suediei. Această veste reprezintă un șoc pentru selecționer și pentru echipa națională, având în vedere importanța partidei. Detaliile complete despre identitatea jucătorului și gravitatea accidentării urmează să fie comunicate.",
-      "categorie": "Fotbal",
-      "surse": [
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-10-03T19:06:09.677173+00:00",
-      "data_afisaj": "3 octombrie 2026, 22:06"
     }
   ]
 }
