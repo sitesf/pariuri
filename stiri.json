@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-11T13:51:01.004066+00:00",
-  "updated_at_afisaj": "11 octombrie 2026, 16:51",
+  "updated_at": "2026-10-11T14:39:44.080241+00:00",
+  "updated_at_afisaj": "11 octombrie 2026, 17:39",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,52 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 128,
+  "numar_stiri": 132,
   "stiri": [
+    {
+      "id": "b492e277dba8",
+      "titlu": "Incertitudine și tensiune la Manchester City după acuzațiile Premier League",
+      "rezumat": "Manchester City se pregătește pentru meciul împotriva lui Liverpool sub un nor de incertitudine, în urma acuzațiilor de încălcare a regulilor financiare ale Premier League. Analiza BBC Sport explorează impactul potențial al acestor probleme asupra sezonului echipei, ridicând întrebări despre relevanța performanțelor sportive în contextul sancțiunilor posibile. Situația creează o atmosferă tensionată înaintea unui derby crucial, cu fanii și experții așteptând evoluțiile cazului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-11T14:39:44.076811+00:00",
+      "data_afisaj": "11 octombrie 2026, 17:39"
+    },
+    {
+      "id": "f905720ea5de",
+      "titlu": "Billy Sharp se retrage din fotbal după o carieră de 22 de ani",
+      "rezumat": "Legenda lui Sheffield United, Billy Sharp, și-a anunțat retragerea din fotbal la vârsta de 40 de ani, punând capăt unei cariere impresionante de 22 de ani. Atacantul, cunoscut pentru longevitatea și devotamentul său, a jucat un rol important pentru mai multe cluburi, în special pentru Sheffield United, unde a devenit un simbol al persistenței și al profesionalismului. Retragerea sa marchează sfârșitul unei ere pentru fotbalul englez și lasă în urmă o moștenire de respect și admirație.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-11T14:39:44.078129+00:00",
+      "data_afisaj": "11 octombrie 2026, 17:39"
+    },
+    {
+      "id": "c962cf98bb61",
+      "titlu": "Analiză: Premier League, sub controlul proprietarilor globali ultra-bogați",
+      "rezumat": "O analiză realizată de Jonathan Wilson explorează motivul pentru care Premier League rămâne sub influența proprietarilor internaționali extrem de bogați. Articolul subliniază că modelul actual, în care cluburile sunt deținute de entități precum viceprim-ministrul Abu Dhabi sau fondul de investiții public al Arabiei Saudite, este puțin probabil să se schimbe într-o țară care primește cu brațele deschise investitorii străini. Această situație ridică întrebări despre viitorul și etica fotbalului englez, evidențiind dependența ligii de capitalul extern.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-11T14:39:44.079182+00:00",
+      "data_afisaj": "11 octombrie 2026, 17:39"
+    },
+    {
+      "id": "9611230549b0",
+      "titlu": "Naționala feminină a SUA, învinsă de Spania într-un meci amical de calibru",
+      "rezumat": "Echipa națională feminină a Statelor Unite a fost expusă de o Spanie nemiloasă, care a marcat goluri rapide în primele 14 minute ale unui meci amical de calibru. Meciul, considerat o confruntare între două dintre cele mai puternice echipe din fotbalul feminin mondial, a evidențiat deficiențele defensive și de la mijlocul terenului ale SUA. Deși americancele au ratat un penalty, Spania a reușit să-și mențină avantajul și să câștige partida, consolidându-și poziția de forță în fotbalul feminin.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-11T14:39:44.080232+00:00",
+      "data_afisaj": "11 octombrie 2026, 17:39"
+    },
     {
       "id": "5a5cce8e59ce",
       "titlu": "Alessia Russo, desemnată Jucătoarea Anului în Anglia",
