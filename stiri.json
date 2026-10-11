@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-11T20:01:34.207999+00:00",
-  "updated_at_afisaj": "11 octombrie 2026, 23:01",
+  "updated_at": "2026-10-11T20:43:55.552883+00:00",
+  "updated_at_afisaj": "11 octombrie 2026, 23:43",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,53 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 129,
+  "numar_stiri": 133,
   "stiri": [
+    {
+      "id": "971adc2c627b",
+      "titlu": "Hull City și Everton remizează într-un meci spectaculos din Premier League",
+      "rezumat": "Mohamed Belloumi a marcat golul egalizator în a doua repriză, asigurând o remiză spectaculoasă între Hull City și Everton pe stadionul MKM. Ambele echipe își continuă astfel startul pozitiv de sezon în Premier League. Meciul a fost plin de acțiune, cu Hull menținându-și recordul de invincibilitate pe teren propriu de la revenirea în Premier League. Joe Gelhardt a deschis scorul pentru gazde în minutul 48, după o eroare a lui Ainsley Maitland-Niles, însă Belloumi a restabilit egalitatea, contribuind la un rezultat echitabil.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-11T20:43:55.549727+00:00",
+      "data_afisaj": "11 octombrie 2026, 23:43"
+    },
+    {
+      "id": "350f414c1e7c",
+      "titlu": "Elise Hughes de la Țara Galilor, concentrată pe meciul cu Albania în drumul spre Cupa Mondială",
+      "rezumat": "Atacanta galeză Elise Hughes a declarat că atingerea Cupei Mondiale ar îndeplini o ambiție de-o viață. Înainte de a visa la turneul final, Hughes și echipa sa se pregătesc pentru un meci crucial împotriva Albaniei. Jucătoarea subliniază importanța fiecărui pas în procesul de calificare, evidențiind determinarea colectivă de a depăși obstacolele și de a ajunge la cel mai înalt nivel al competiției internaționale. Concentrarea este pe performanța imediată pentru a construi succesul pe termen lung.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-11T20:43:55.550845+00:00",
+      "data_afisaj": "11 octombrie 2026, 23:43"
+    },
+    {
+      "id": "41435d91451f",
+      "titlu": "Elton John, 'supărat și dezamăgit' de forma echipei Watford",
+      "rezumat": "Fostul proprietar al clubului Watford, legendarul cântăreț Elton John, și-a exprimat public 'supărarea și dezamăgirea' față de performanța actuală a echipei. Declarația vine după înfrângerea categorică a lui Watford cu 4-0 pe teren propriu împotriva lui Burnley. John, un suporter devotat și o figură emblematică pentru club, a subliniat că rezultatele recente sunt departe de așteptările sale și ale fanilor. Comentariile sale reflectă frustrarea generală din jurul echipei, care se confruntă cu o perioadă dificilă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-11T20:43:55.551834+00:00",
+      "data_afisaj": "11 octombrie 2026, 23:43"
+    },
+    {
+      "id": "ae1ecf5acca1",
+      "titlu": "Freiburg preia conducerea în Bundesliga, în timp ce Lazio și Betis impresionează în Europa",
+      "rezumat": "Freiburg a urcat pe primul loc în Bundesliga după o victorie dramatică cu 2-1 împotriva lui Schalke 04, obținută printr-un gol marcat în minutul 85 de Keisuke Goto, chiar și cu un om în minus. Echipa a acumulat 13 puncte, depășind Borussia Dortmund la golaveraj. Între timp, Lazio s-a alăturat lui Inter în fruntea clasamentului Serie A, iar Isco continuă să impresioneze la Betis, menținând echipa la un nivel înalt în La Liga. Bayern Munchen a remizat 2-2 cu Augsburg.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-11T20:43:55.552871+00:00",
+      "data_afisaj": "11 octombrie 2026, 23:43"
+    },
     {
       "id": "d74a66ca1e49",
       "titlu": "Gloria Bistrița, victorie imensă în Liga Campionilor: 38-35 pe terenul danezelor de la Nykobing Falster!",
