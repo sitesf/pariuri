@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-11T14:39:44.080241+00:00",
-  "updated_at_afisaj": "11 octombrie 2026, 17:39",
+  "updated_at": "2026-10-11T20:01:34.207999+00:00",
+  "updated_at_afisaj": "11 octombrie 2026, 23:01",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 132,
+  "numar_stiri": 129,
   "stiri": [
+    {
+      "id": "d74a66ca1e49",
+      "titlu": "Gloria Bistrița, victorie imensă în Liga Campionilor: 38-35 pe terenul danezelor de la Nykobing Falster!",
+      "rezumat": "(rezumat indisponibil)",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-10-11T20:01:15.843960+00:00",
+      "data_afisaj": "11 octombrie 2026, 23:01"
+    },
+    {
+      "id": "bd349b3f370e",
+      "titlu": "Doku delights as Manchester City cruise past 10-man Liverpool",
+      "rezumat": "In their first match since being found guilty of breaching Premier League financial rules, Manchester City enjoyed a comfortable 3-0 win against Liverpool at Anfield to extend their perfect start to six matches, as they moved three points clear at the top of the Premier League.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-11T20:01:15.845639+00:00",
+      "data_afisaj": "11 octombrie 2026, 23:01"
+    },
+    {
+      "id": "859b6062c221",
+      "titlu": "Burnham to release details of Man City meetings",
+      "rezumat": "Andy Burnham has faced criticism for comments he made in the wake of Manchester City being found guilty of all charges related to breaches of the Premier League's financial rules.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-11T20:01:15.847168+00:00",
+      "data_afisaj": "11 octombrie 2026, 23:01"
+    },
+    {
+      "id": "f3c60784f637",
+      "titlu": "Winless and an 'easy touch' - what's happened to the Anfield fear factor?",
+      "rezumat": "Liverpool's struggles at Anfield continue as Iraola still awaits his first Premier League win at Anfield.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-11T20:01:15.848947+00:00",
+      "data_afisaj": "11 octombrie 2026, 23:01"
+    },
+    {
+      "id": "ea7e46052eab",
+      "titlu": "Glasner suffers loss on Selhurst return as Palace beat Forest",
+      "rezumat": "Oliver Glasner endures a frustrating return to Crystal Palace with his Nottingham Forest side lets slip an early lead to lose to the Eagles.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-11T20:01:15.850562+00:00",
+      "data_afisaj": "11 octombrie 2026, 23:01"
+    },
     {
       "id": "b492e277dba8",
       "titlu": "Incertitudine și tensiune la Manchester City după acuzațiile Premier League",
@@ -1415,96 +1471,6 @@
       ],
       "data_publicare": "2026-10-05T15:41:22.238523+00:00",
       "data_afisaj": "5 octombrie 2026, 18:41"
-    },
-    {
-      "id": "84d983271701",
-      "titlu": "Gateshead îl demite pe antrenorul Lee Cattermole după un început slab de sezon",
-      "rezumat": "Clubul Gateshead l-a demis pe antrenorul Lee Cattermole în urma unei serii slabe de rezultate în National League. Decizia vine după o perioadă dificilă pentru echipă, care nu a reușit să obțină performanțele așteptate sub conducerea lui Cattermole. Această schimbare la nivel de bancă tehnică marchează o încercare a clubului de a redresa parcursul echipei și de a îmbunătăți rezultatele în campionat, în speranța de a evita retrogradarea.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-04T19:52:15.463911+00:00",
-      "data_afisaj": "4 octombrie 2026, 22:52"
-    },
-    {
-      "id": "36dd9d450d98",
-      "titlu": "Un club din Superliga României se remarcă prin stabilitate financiară, având 1,5 milioane euro în depozite bancare",
-      "rezumat": "Într-o Superligă românească adesea afectată de insolvență și probleme financiare, un club se distinge printr-o situație economică solidă, având depozite și investiții bancare în valoare de 1,5 milioane de euro. Această performanță financiară este considerată un model de urmat, demonstrând o gestionare prudentă și eficientă a resurselor. Stabilitatea financiară a clubului reprezintă o excepție notabilă în peisajul fotbalistic românesc, oferind un exemplu pozitiv în contextul dificultăților generale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-10-04T19:52:15.466179+00:00",
-      "data_afisaj": "4 octombrie 2026, 22:52"
-    },
-    {
-      "id": "5f3dc67f7a1c",
-      "titlu": "Vedeta naționalei U21 a României, exclusă din lot în urma unui scandal",
-      "rezumat": "Un jucător considerat vedetă a naționalei de fotbal U21 a României a fost exclus din lot în urma unui scandal. Jucătorul a declarat că a fost acuzat de consum de alcool, dar a prezentat dovezi video pentru a-și susține nevinovăția. Incidentul a generat discuții aprinse în jurul echipei naționale de tineret și a politicilor de disciplină impuse de staff-ul tehnic, subliniind importanța respectării regulamentului intern.",
-      "categorie": "Fotbal",
-      "surse": [
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-10-04T19:52:15.468041+00:00",
-      "data_afisaj": "4 octombrie 2026, 22:52"
-    },
-    {
-      "id": "dfa0b3d28407",
-      "titlu": "Giovanni Becali critică clauzele de transfer impuse de Gigi Becali jucătorilor de la FCSB",
-      "rezumat": "Agentul Giovanni Becali și-a exprimat exasperarea față de clauzele de transfer extrem de mari, de până la 50 de milioane de euro, pe care Gigi Becali, patronul FCSB, le impune fotbaliștilor săi. Becali consideră că aceste clauze reprezintă un „dispreț” față de jucători, limitându-le drastic șansele de a se transfera la cluburi mai puternice din străinătate și afectându-le dezvoltarea profesională și valoarea pe piață.",
-      "categorie": "Fotbal",
-      "surse": [
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-10-04T19:52:15.469905+00:00",
-      "data_afisaj": "4 octombrie 2026, 22:52"
-    },
-    {
-      "id": "6c08f6a91dc8",
-      "titlu": "Manchester City învinge Arsenal cu 4-2 și își menține parcursul perfect în WSL",
-      "rezumat": "Manchester City a revenit de două ori de la scor defavorabil pentru a câștiga un meci palpitant cu 4-2 împotriva lui Arsenal, continuând astfel startul perfect în sezonul Women's Super League. Această victorie, obținută cu ajutorul unui gol spectaculos marcat de Kerstin Casparij la prima sa atingere după intrarea pe teren, mărește avansul campioanelor la 10 puncte față de Arsenal după doar cinci etape, punând o presiune suplimentară pe antrenorul Renée Slegers și pe speranțele la titlu ale echipei sale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-04T19:19:40.852105+00:00",
-      "data_afisaj": "4 octombrie 2026, 22:19"
-    },
-    {
-      "id": "67e7b8585679",
-      "titlu": "Antrenorul Renee Slegers declară că Arsenal nu mai este în cursa pentru titlu în WSL și necesită o revizuire",
-      "rezumat": "Antrenorul echipei Arsenal, Renee Slegers, aflată sub presiune, a declarat că formația sa nu mai este considerată o candidată la titlul Women's Super League, după înfrângerea cu 4-2 în fața lui Manchester City. Acest rezultat a lăsat-o pe Arsenal pe locul zece în clasament, la 10 puncte distanță de lider, determinând-o pe Slegers să ceară o analiză amănunțită a situației echipei. Declarația subliniază dificultățile cu care se confruntă clubul în acest sezon și necesitatea unor schimbări strategice.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-10-04T19:19:40.853335+00:00",
-      "data_afisaj": "4 octombrie 2026, 22:19"
-    },
-    {
-      "id": "93f8bf7cf1ff",
-      "titlu": "Thomas Tuchel laudă ascensiunea lui Alex Scott, care aduce concurență la nivel înalt în naționala Angliei",
-      "rezumat": "Thomas Tuchel a subliniat că apariția lui Alex Scott oferă o concurență de nivel înalt pentru locul lui Declan Rice în mijlocul terenului la naționala Angliei. Scott a impresionat la prima sa apariție ca titular, având o prestație remarcabilă în victoria cu 7-0 împotriva Croației. Tuchel a avertizat că echipa nu se poate baza doar pe doi mijlocași, sugerând că o concurență sporită este benefică pentru selecție și pentru creșterea calității generale a lotului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-04T19:19:40.854514+00:00",
-      "data_afisaj": "4 octombrie 2026, 22:19"
-    },
-    {
-      "id": "c4e9fa85fcca",
-      "titlu": "John Obi Mikel povestește saga transferului său disputat între Chelsea și Manchester United",
-      "rezumat": "John Obi Mikel a dezvăluit detalii despre celebra dispută de transfer în care a fost implicat în adolescență, între giganții Premier League, Chelsea și Manchester United. Fostul mijlocaș a descris cum s-a desfășurat întreaga poveste, incluzând zboruri secrete și o confruntare cu Sir Alex Ferguson. Mărturia sa oferă o perspectivă unică asupra presiunilor și complexității transferurilor la nivel înalt, chiar și pentru un jucător tânăr, și a impactului pe care l-a avut asupra carierei sale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-10-04T19:19:40.855744+00:00",
-      "data_afisaj": "4 octombrie 2026, 22:19"
     }
   ]
 }
