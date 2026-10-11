@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-10T20:25:16.860672+00:00",
-  "updated_at_afisaj": "10 octombrie 2026, 23:25",
+  "updated_at": "2026-10-11T13:51:01.004066+00:00",
+  "updated_at_afisaj": "11 octombrie 2026, 16:51",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 131,
+  "numar_stiri": 128,
   "stiri": [
+    {
+      "id": "5a5cce8e59ce",
+      "titlu": "Alessia Russo, desemnată Jucătoarea Anului în Anglia",
+      "rezumat": "Atacanta lui Arsenal, Alessia Russo, a fost desemnată Jucătoarea Anului la echipa națională feminină a Angliei. Această recunoaștere vine după un sezon remarcabil în care Russo a marcat cinci goluri în zece apariții pentru națională, demonstrând o formă excelentă și o contribuție constantă la performanțele echipei. Premiul subliniază rolul său semnificativ în fotbalul feminin englez și consolidarea poziției sale ca una dintre cele mai importante jucătoare la nivel internațional.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-11T13:51:00.997574+00:00",
+      "data_afisaj": "11 octombrie 2026, 16:51"
+    },
+    {
+      "id": "05dac0e9dd63",
+      "titlu": "Southampton obține prima victorie în derby-ul de coastă din 2004, învingând Portsmouth cu un om în minus",
+      "rezumat": "Echipa Southampton a reușit o victorie importantă cu 1-0 împotriva rivalilor de la Portsmouth, în ciuda faptului că a jucat în inferioritate numerică. Aceasta este prima victorie a lui Southampton într-un derby de coastă în campionat din ultimii peste douăzeci de ani, punând capăt unei lungi așteptări. Meciul a fost unul tensionat, marcat de un cartonaș roșu pentru Southampton, dar echipa a rezistat presiunii din partea adversarilor, obținând un rezultat crucial.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-11T13:51:00.999337+00:00",
+      "data_afisaj": "11 octombrie 2026, 16:51"
+    },
+    {
+      "id": "4c7ba20fda9b",
+      "titlu": "Arsène Wenger, îndemnat să candideze la președinția FIFA",
+      "rezumat": "Potrivit presei de duminică, fostul antrenor legendar al lui Arsenal, Arsène Wenger, este îndemnat să candideze împotriva lui Gianni Infantino pentru președinția FIFA. Această știre vine în contextul discuțiilor despre viitorul conducerii forului mondial de fotbal și ar putea reprezenta o provocare semnificativă pentru actualul președinte. Propunerea reflectă dorința unor voci influente din fotbal de a vedea o schimbare la vârful organizației, aducând o nouă perspectivă asupra conducerii globale a sportului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-10-11T13:51:01.000788+00:00",
+      "data_afisaj": "11 octombrie 2026, 16:51"
+    },
+    {
+      "id": "5e00248449d0",
+      "titlu": "Celtic revine pe primul loc în Premiership-ul Scoțian după victoria cu Motherwell",
+      "rezumat": "Celtic a pus capăt unei serii de rezultate mai puțin convingătoare și a revenit pe prima poziție în clasamentul Premiership-ului Scoțian, după o victorie necesară cu 2-0 împotriva echipei Motherwell. Această performanță a permis \"Bhoys\" să depășească din nou rivala Rangers, care câștigase anterior împotriva lui Kilmarnock. Victoria este crucială pentru moralul echipei și pentru ambițiile de titlu în acest sezon, consolidând poziția de lider în campionat.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-11T13:51:01.002372+00:00",
+      "data_afisaj": "11 octombrie 2026, 16:51"
+    },
+    {
+      "id": "966336b32e4b",
+      "titlu": "Vinícius Júnior de la Real Madrid, eliminat pentru tragere de păr în victoria cu Villarreal",
+      "rezumat": "Real Madrid a obținut o victorie strânsă cu 1-0 împotriva lui Villarreal, menținându-se la șase puncte în spatele liderului La Liga, Barcelona. Meciul a fost marcat de eliminarea controversată a atacantului Vinícius Júnior, care a intrat pe teren ca rezervă. După ce un gol al său a fost anulat, brazilianul a primit cartonașul roșu în urma unei revizuiri VAR, care a arătat că l-a tras de păr pe Nathan Saliba de la Villarreal, un incident care a stârnit discuții.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-11T13:51:01.004046+00:00",
+      "data_afisaj": "11 octombrie 2026, 16:51"
+    },
     {
       "id": "573a6b5a8d5f",
       "titlu": "Solanke egalează în prelungiri, Tottenham obține un punct cu 10 jucători împotriva lui Manchester United",
@@ -1405,94 +1461,6 @@
       ],
       "data_publicare": "2026-10-04T19:19:40.855744+00:00",
       "data_afisaj": "4 octombrie 2026, 22:19"
-    },
-    {
-      "id": "4b318584b0fa",
-      "titlu": "Cesar Azpilicueta anunță că este timpul pentru o nouă etapă în viață după o carieră glorioasă",
-      "rezumat": "Fundașul spaniol Cesar Azpilicueta a declarat că este momentul să treacă la \"o altă etapă a vieții\" după o carieră de jucător de 20 de ani, marcată de numeroase succese. Cunoscut pentru rolul său de căpitan la Chelsea, unde a câștigat mai multe titluri importante, Azpilicueta a reflectat asupra parcursului său. Decizia sa vine după o perioadă intensă în fotbalul de top, sugerând o nevoie de pauză și de explorare a unor noi orizonturi personale și profesionale în afara terenului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-04T13:42:22.577020+00:00",
-      "data_afisaj": "4 octombrie 2026, 16:42"
-    },
-    {
-      "id": "90b939c1dedc",
-      "titlu": "Lamine Yamal strălucește din nou, Spania învinge Cehia și își menține startul perfect",
-      "rezumat": "Tânărul talent Lamine Yamal a avut o nouă prestație remarcabilă, marcând un gol spectaculos în victoria Spaniei cu 3-1 împotriva Cehiei. Această victorie, obținută la Oviedo, menține naționala Spaniei pe un parcurs impecabil în Liga Națiunilor, fiind la doar un punct distanță de calificarea în sferturile de finală. Yamal, care a marcat în al treilea meci consecutiv în primele șase minute, continuă să impresioneze prin abilitățile sale excepționale, fanii comparându-l deja cu un supererou.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-04T13:42:22.578915+00:00",
-      "data_afisaj": "4 octombrie 2026, 16:42"
-    },
-    {
-      "id": "5bcc850f34a0",
-      "titlu": "Selecționerul Canadei, Jesse Marsch, reflectă asupra fotbalului american și a propagandei",
-      "rezumat": "Jesse Marsch, antrenorul naționalei masculine a Canadei, a oferit o perspectivă profundă asupra experienței sale ca american și a modului în care fotbalul este perceput în Statele Unite. Într-un interviu acordat în Montreal, Marsch a vorbit despre \"propaganda\" cu care americanii sunt \"inundați de tineri\", referindu-se la influențele culturale și sportive. Declarațiile sale vin în contextul pregătirilor pentru meciurile internaționale, oferind o viziune personală asupra sportului și a identității naționale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-04T13:42:22.580885+00:00",
-      "data_afisaj": "4 octombrie 2026, 16:42"
-    },
-    {
-      "id": "2daecb99e99b",
-      "titlu": "Bellingham deblochează un nou nivel și potențial de a fi „unul dintre cei mai mari”",
-      "rezumat": "Viitorul internațional al lui Jude Bellingham a fost pus sub semnul întrebării în urmă cu un an, dar acum el este considerat unul dintre „cei mai mari din toate timpurile” din Anglia.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-04T13:05:17.392471+00:00",
-      "data_afisaj": "4 octombrie 2026, 16:05"
-    },
-    {
-      "id": "3a44e4391c5a",
-      "titlu": "Bowie a pus mâna pe Scoția după dezamăgirea de la Cupa Mondială",
-      "rezumat": "BBC Scoția vorbește cu Kieron Bowie după ce acesta a marcat primul său gol pentru țara sa împotriva Macedoniei de Nord.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-04T13:05:17.394062+00:00",
-      "data_afisaj": "4 octombrie 2026, 16:05"
-    },
-    {
-      "id": "36c277ab3041",
-      "titlu": "Modric îi este „rușine” de „noaptea catastrofală” a Croației",
-      "rezumat": "Căpitanul Croației, Luka Modric, spune că i-a fost „rușine” de performanța echipei sale într-o „noapte catastrofală” împotriva Angliei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-04T13:05:17.395611+00:00",
-      "data_afisaj": "4 octombrie 2026, 16:05"
-    },
-    {
-      "id": "8151bbc2485f",
-      "titlu": "Davies susține Țara Galilor să continue să provoace „echipele mai mari”",
-      "rezumat": "Căpitanul Ben Davies spune că Țara Galilor va fi condusă de hotărârea să demonstreze că poate trăi cu provocările Ligii Națiunilor A când se va confrunta cu Danemarca la Cardiff.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-04T13:05:17.397167+00:00",
-      "data_afisaj": "4 octombrie 2026, 16:05"
-    },
-    {
-      "id": "1a01fb65c5a8",
-      "titlu": "Două merg pe patru, cinci sau șase în noaptea bună pentru noua era a Scoției",
-      "rezumat": "Scoția a marcat de două ori în Macedonia de Nord, dar scorul nu reflectă dominația lor la Skopje, scrie Tom English.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-04T13:05:17.398831+00:00",
-      "data_afisaj": "4 octombrie 2026, 16:05"
     }
   ]
 }
