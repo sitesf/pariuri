@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-11T20:43:55.552883+00:00",
-  "updated_at_afisaj": "11 octombrie 2026, 23:43",
+  "updated_at": "2026-10-12T16:34:57.606842+00:00",
+  "updated_at_afisaj": "12 octombrie 2026, 19:34",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,63 @@
   },
   "numar_stiri": 133,
   "stiri": [
+    {
+      "id": "6d6087df5917",
+      "titlu": "Arsenal se confruntă cu accidentări la antrenament, dar primește vești bune despre Saliba",
+      "rezumat": "Managerul lui Arsenal, Mikel Arteta, a confirmat că Piero Hincapié și Martín Zubimendi au suferit accidentări la gleznă în timpul sesiunii de recuperare de după victoria cu Leeds. Ambii jucători vor efectua scanări pentru a determina gravitatea leziunilor și vor rata meciul din Liga Campionilor împotriva lui Lille. Vestea bună pentru \"tunari\" este că William Saliba a reluat antrenamentele individuale după o accidentare la spate, oferind speranțe pentru o revenire rapidă a fundașului francez.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-12T16:34:57.602494+00:00",
+      "data_afisaj": "12 octombrie 2026, 19:34"
+    },
+    {
+      "id": "fc472a484e7e",
+      "titlu": "Fostul căpitan al echipelor Port Vale și Gillingham, Doug Loft, a decedat la vârsta de 39 de ani",
+      "rezumat": "Doug Loft, fostul căpitan al cluburilor Port Vale și Gillingham, a încetat din viață la vârsta de 39 de ani, în urma unei urgențe medicale. Mijlocașul defensiv și-a început cariera la Brighton & Hove Albion, înainte de a juca peste 200 de meciuri pentru Port Vale și a purta banderola de căpitan la Gillingham. Vestea tragică a fost confirmată de BBC Sport Football, stârnind un val de condoleanțe în lumea fotbalului englez.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-12T16:34:57.603633+00:00",
+      "data_afisaj": "12 octombrie 2026, 19:34"
+    },
+    {
+      "id": "581347f6c8ca",
+      "titlu": "Programul aglomerat al elitelor din fotbal, considerat nesustenabil pe fondul sezoanelor cu 55 de meciuri",
+      "rezumat": "Un raport recent subliniază că programul competițional al fotbalului de elită a devenit nesustenabil, mulți dintre jucătorii de top confruntându-se cu sezoane de până la 55 de meciuri fără o pauză adecvată. Chiar dacă Premier League a avut o pauză de trei săptămâni, numeroase vedete internaționale au fost implicate în meciuri pentru echipele naționale, fără a beneficia de odihnă. Această situație ridică semne de întrebare serioase privind bunăstarea fizică și mentală a fotbaliștilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-12T16:34:57.604617+00:00",
+      "data_afisaj": "12 octombrie 2026, 19:34"
+    },
+    {
+      "id": "57ae088a8be0",
+      "titlu": "Fotbalul feminin, în plină expansiune financiară, dar jucătoarele se confruntă cu salarii mici și stres, arată un studiu Fifpro",
+      "rezumat": "Deși fotbalul feminin este pe cale să devină o industrie de un miliard de dolari, un sondaj realizat de Fifpro, sindicatul global al jucătorilor, indică faptul că multe fotbaliste profesioniste câștigă salarii mici, au contracte nesigure și se confruntă cu un stres psihologic în creștere. Aproape jumătate dintre cele 800 de jucătoare intervievate iau în considerare retragerea timpurie din sport din cauza problemelor financiare sau a sănătății mintale, evidențiind condițiile precare de muncă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-12T16:34:57.605794+00:00",
+      "data_afisaj": "12 octombrie 2026, 19:34"
+    },
+    {
+      "id": "eb62794c902e",
+      "titlu": "Regulatorul independent al fotbalului va recomanda controale de costuri, pe fondul pierderilor la 94% dintre cluburile engleze",
+      "rezumat": "Regulatorul Independent al Fotbalului (IFR) din Anglia va propune introducerea unor controale mai stricte ale costurilor pentru cluburi, conform unui raport amplu intitulat \"Starea Jocului\", ce va fi publicat marți. Proiectul de raport, cu o versiune finală așteptată în primăvară, descrie o situație financiară îngrijorătoare în fotbalul masculin englez, indicând că 94% dintre cluburi înregistrează pierderi. Recomandările IFR vizează îmbunătățirea sustenabilității financiare pe termen lung.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-12T16:34:57.606831+00:00",
+      "data_afisaj": "12 octombrie 2026, 19:34"
+    },
     {
       "id": "971adc2c627b",
       "titlu": "Hull City și Everton remizează într-un meci spectaculos din Premier League",
@@ -1460,62 +1517,6 @@
       ],
       "data_publicare": "2026-10-05T16:48:56.532832+00:00",
       "data_afisaj": "5 octombrie 2026, 19:48"
-    },
-    {
-      "id": "49b5cbffb004",
-      "titlu": "Bournemouth nefericit după ce Scott sa accidentat cu Anglia",
-      "rezumat": "Bournemouth este nemulțumit de felul în care cred că Anglia a gestionat accidentarea lui Alex Scott - ceea ce înseamnă că acum ar putea lipsi până la opt săptămâni.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-05T15:41:22.233410+00:00",
-      "data_afisaj": "5 octombrie 2026, 18:41"
-    },
-    {
-      "id": "e12af90dc71d",
-      "titlu": "Bunăstarea jucătorilor, grijile de accidentare și plictiseala - a funcționat pauză prelungită?",
-      "rezumat": "Pauza internațională extinsă a fost adusă ținând cont de bunăstarea jucătorilor, dar a fost un succes?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-05T15:41:22.234732+00:00",
-      "data_afisaj": "5 octombrie 2026, 18:41"
-    },
-    {
-      "id": "b80aeb65821a",
-      "titlu": "800 de milioane de lire sterline, 800 de milioane de lire sterline ieșite - De ce scandalul Man City pune în lumină finanțele Man Utd",
-      "rezumat": "Proprietarii lui Manchester City au fost găsiți vinovați de injectarea de bani în club. La Manchester United, fanii sunt frustrați de cât de mult a fost scos.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-05T15:41:22.236106+00:00",
-      "data_afisaj": "5 octombrie 2026, 18:41"
-    },
-    {
-      "id": "b74332059677",
-      "titlu": "O națiune divizată când Ronaldo a plecat cu o decizie importantă asupra viitorului Portugaliei",
-      "rezumat": "BBC Sport se uită la ceea ce ar putea fi sfârșitul carierei internaționale a lui Cristiano Ronaldo cu doar câteva zile înainte de așteptatul fanfară de rămas bun din Argentina lui Lionel Messi.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-05T15:41:22.237306+00:00",
-      "data_afisaj": "5 octombrie 2026, 18:41"
-    },
-    {
-      "id": "0a6d03ccfa2c",
-      "titlu": "London City geling, Man City zburând - Takeaways from WSL start",
-      "rezumat": "După cinci săptămâni frenetice, Superliga feminină face o pauză de două săptămâni, oferind șansa perfectă de a face bilanțul unui început palpitant de sezon.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-05T15:41:22.238523+00:00",
-      "data_afisaj": "5 octombrie 2026, 18:41"
     }
   ]
 }
