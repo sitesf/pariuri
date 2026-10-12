@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-12T17:23:50.681882+00:00",
-  "updated_at_afisaj": "12 octombrie 2026, 20:23",
+  "updated_at": "2026-10-12T22:48:23.129741+00:00",
+  "updated_at_afisaj": "13 octombrie 2026, 01:48",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,54 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 133,
+  "numar_stiri": 132,
   "stiri": [
+    {
+      "id": "7a0c53c390d9",
+      "titlu": "Coventry City obține prima victorie pe teren propriu în Premier League după 25 de ani, învingând Newcastle",
+      "rezumat": "Echipa Coventry City a înregistrat o victorie convingătoare cu scorul de 4-1 împotriva formației Newcastle United, marcând astfel prima sa victorie pe teren propriu în Premier League după o așteptare de 25 de ani. Acest rezultat spectaculos a permis clubului să iasă din zona retrogradării, demonstrând o performanță ofensivă remarcabilă în fața propriilor suporteri. Antrenorul lui Newcastle, Matthias Jaissle, și-a cerut scuze fanilor pentru înfrângere, în timp ce Jamie Carragher a comentat că echipa a fost \"bătută\" din nou în deplasare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-12T22:48:23.123525+00:00",
+      "data_afisaj": "13 octombrie 2026, 01:48"
+    },
+    {
+      "id": "a6f47cda8c3a",
+      "titlu": "Meciul lui Cristiano Ronaldo din Liga Campionilor Asiei, amânat din cauza unei alerte cu rachetă în Riad",
+      "rezumat": "Partida echipei Al-Nassr a lui Cristiano Ronaldo din Liga Campionilor Asiei a fost amânată cu o oră, luni, după ce coaliția militară condusă de Arabia Saudită a anunțat interceptarea unei rachete lansate de rebelii Houthi către Riad. Incidentul a avut loc pe fondul unei serii de atacuri recente ale grupării susținute de Iran asupra facilităților petroliere și centrelor de transport din Arabia Saudită. În ciuda amânării, Al-Nassr a reușit să obțină o victorie cu 3-1, cu un gol marcat de starul portughez.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-12T22:48:23.125647+00:00",
+      "data_afisaj": "13 octombrie 2026, 01:48"
+    },
+    {
+      "id": "cb7002d9884e",
+      "titlu": "Michael Carrick promite că Manchester United va \"lupta din greu\" după un început dificil de sezon",
+      "rezumat": "Manchester United a înregistrat cel mai slab început de sezon în campionat din ultimii 40 de ani, dar antrenorul Michael Carrick a declarat că echipa va \"lupta din greu\" pentru a depăși această perioadă. United a sosit la Madrid pentru meciul din Liga Campionilor împotriva lui Atlético fără Kobbie Mainoo și Luke Shaw, ambii accidentați în urma egalului cu Tottenham. Carrick a recunoscut că echipa se află într-o situație dificilă, acumulând doar șase puncte în campionat, dar a subliniat determinarea de a redresa situația.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-12T22:48:23.127618+00:00",
+      "data_afisaj": "13 octombrie 2026, 01:48"
+    },
+    {
+      "id": "cd528ce6b4ac",
+      "titlu": "Noul antrenor Alexander Blessin se confruntă cu o provocare majoră la Borussia Mönchengladbach după înfrângerea în derby",
+      "rezumat": "Alexander Blessin, noul antrenor al echipei Borussia Mönchengladbach, se confruntă cu o sarcină dificilă după înfrângerea în derby-ul cu rivalii de la Köln. Golul marcat de Saïd El Mala a evidențiat provocările cu care se confruntă Blessin în încercarea de a revigora o echipă afectată de accidentări și de un început de campanie dezamăgitor în Bundesliga. După o pauză de trei săptămâni, primul său meci la conducere a subliniat necesitatea unei schimbări rapide pentru a redresa parcursul echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-12T22:48:23.129722+00:00",
+      "data_afisaj": "13 octombrie 2026, 01:48"
+    },
     {
       "id": "40a399fc686a",
       "titlu": "Clarence Seedorf revine în fotbal ca antrenor principal la Corinthians",
@@ -1461,63 +1507,6 @@
       ],
       "data_publicare": "2026-10-05T23:01:29.340702+00:00",
       "data_afisaj": "6 octombrie 2026, 02:01"
-    },
-    {
-      "id": "00c55db86993",
-      "titlu": "Gabriel în poza echipei Man Utd, dar nici un indiciu de reconciliere",
-      "rezumat": "În timp ce se pregătește să sărbătorească cea de-a 16-a aniversare, ruptura dintre Manchester United și JJ Gabriel nu dă niciun semn că s-a vindecat.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-10-05T22:22:31.933683+00:00",
-      "data_afisaj": "6 octombrie 2026, 01:22"
-    },
-    {
-      "id": "6ba6452fab6d",
-      "titlu": "Salvarea tardivă a penalty-ului lui Mamardashvili neagă victoria Irlandei de Nord împotriva Georgiei",
-      "rezumat": "Isaac Price a ratat un penalty cu întârziere, iar Irlanda de Nord a fost reținută la o remiză fără goluri de Georgia, ceea ce îi menține în fruntea grupei din Liga Națiunilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-05T22:22:31.935358+00:00",
-      "data_afisaj": "6 octombrie 2026, 01:22"
-    },
-    {
-      "id": "691503f0f430",
-      "titlu": "Cel mai mare internațional al Angliei? Kane este acum un candidat serios",
-      "rezumat": "Cu Harry Kane pregătit să egaleze recordul de apariție din toate timpurile lui Peter Shilton în Anglia, unde se situează el printre marii Angliei?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-05T22:22:31.936958+00:00",
-      "data_afisaj": "6 octombrie 2026, 01:22"
-    },
-    {
-      "id": "fe05d325b513",
-      "titlu": "Humble Gilmour mulțumit de noul rol, în timp ce a 50-a selecție",
-      "rezumat": "Billy Gilmour este încântat de perspectiva de a câștiga a 50-a selecție a Scoției după un rol cheie în prima victorie a lui Sebastien Pocognoli ca antrenor principal național.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-05T22:22:31.938518+00:00",
-      "data_afisaj": "6 octombrie 2026, 01:22"
-    },
-    {
-      "id": "cda479386163",
-      "titlu": "Ce am învățat din fereastra Ligii Națiunilor din Țara Galilor",
-      "rezumat": "Pe baza unei ferestre internaționale solicitante de patru meciuri, BBC Sport Wales evaluează punctele cheie de discuție din campania Națiunilor A din Țara Galilor până acum.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-05T22:22:31.940050+00:00",
-      "data_afisaj": "6 octombrie 2026, 01:22"
     }
   ]
 }
