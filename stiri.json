@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-12T16:34:57.606842+00:00",
-  "updated_at_afisaj": "12 octombrie 2026, 19:34",
+  "updated_at": "2026-10-12T17:23:50.681882+00:00",
+  "updated_at_afisaj": "12 octombrie 2026, 20:23",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,62 @@
   },
   "numar_stiri": 133,
   "stiri": [
+    {
+      "id": "40a399fc686a",
+      "titlu": "Clarence Seedorf revine în fotbal ca antrenor principal la Corinthians",
+      "rezumat": "Fostul mijlocaș olandez Clarence Seedorf a fost numit antrenor principal al clubului brazilian Corinthians. Aceasta marchează prima sa funcție de antrenor din 2019, după o pauză de câțiva ani. Seedorf, o legendă a fotbalului european cu o carieră impresionantă de jucător la cluburi precum Ajax, Real Madrid și AC Milan, revine astfel în lumea fotbalului, preluând conducerea unei echipe de top din America de Sud. Numirea sa la Corinthians este un pas important în cariera sa managerială și va fi urmărită cu interes de fanii fotbalului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-12T17:23:50.674541+00:00",
+      "data_afisaj": "12 octombrie 2026, 20:23"
+    },
+    {
+      "id": "31e49f46db20",
+      "titlu": "Protest cu avioane de hârtie la Rayo Vallecano, meci suspendat din cauza crizei clubului",
+      "rezumat": "Un meci al echipei Rayo Vallecano a fost suspendat după doar 13 minute de joc, din cauza unui protest inedit al fanilor. Mii de avioane de hârtie au fost aruncate pe teren, blocând desfășurarea partidei și exprimând nemulțumirea suporterilor față de președintele clubului, Raúl Martín Presa. Incidentul a scos la iveală o criză internă la clubul spaniol, cu fanii cerând demisia conducerii. Această formă de protest a atras atenția asupra tensiunilor existente în cadrul echipei din La Liga.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-12T17:23:50.676446+00:00",
+      "data_afisaj": "12 octombrie 2026, 20:23"
+    },
+    {
+      "id": "1b776af7ae0b",
+      "titlu": "Bayern Munchen abordează public posibilitatea transferului lui Erling Haaland",
+      "rezumat": "Oficialii clubului Bayern Munchen au comentat public posibilitatea unui transfer al atacantului Erling Haaland, în contextul incertitudinii legate de situația financiară a lui Manchester City. Haaland este considerat de mult timp o țintă pentru gigantul bavarez. Această declarație publică sugerează că Bayern ar putea fi pregătită să acționeze în cazul în care viitorul lui Manchester City ar deveni mai puțin stabil din cauza acuzațiilor de nereguli financiare. Speculațiile privind o mutare a starului norvegian se intensifică.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-10-12T17:23:50.678162+00:00",
+      "data_afisaj": "12 octombrie 2026, 20:23"
+    },
+    {
+      "id": "190ce5183bd9",
+      "titlu": "Când se va rezolva cazul acuzațiilor financiare împotriva Manchester City?",
+      "rezumat": "La două săptămâni după publicarea concluziilor comisiei independente a Premier League împotriva Manchester City, se ridică întrebări privind calendarul de rezolvare a cazului acuzațiilor financiare. Deși clubul a fost găsit vinovat de încălcări, nu există încă o claritate cu privire la sancțiunile potențiale sau la momentul la care se va ajunge la o decizie finală. Această incertitudine menține Premier League într-o stare de așteptare, iar clubul Manchester City continuă să opereze sub o umbră de îndoială.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-10-12T17:23:50.679907+00:00",
+      "data_afisaj": "12 octombrie 2026, 20:23"
+    },
+    {
+      "id": "e4bc1b8f1675",
+      "titlu": "CSA Steaua intervine după poza lui Mircea Bravo cu Gigi Becali și „bunica din Chinteni”",
+      "rezumat": "CSA Steaua București a emis o declarație publică în urma unei fotografii postate de vloggerul Mircea Bravo, în care apare alături de Gigi Becali, patronul FCSB, și personajul său \"bunica din Chinteni\". Reprezentanții CSA Steaua au solicitat publicului și presei să facă o distincție clară între clubul lor și FCSB, subliniind diferențele de identitate și istorie. Incidentul a reaprins discuțiile despre rivalitatea dintre cele două entități și despre percepția publică asupra brandului Steaua.",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-10-12T17:23:50.681861+00:00",
+      "data_afisaj": "12 octombrie 2026, 20:23"
+    },
     {
       "id": "6d6087df5917",
       "titlu": "Arsenal se confruntă cu accidentări la antrenament, dar primește vești bune despre Saliba",
@@ -1462,61 +1518,6 @@
       ],
       "data_publicare": "2026-10-05T22:22:31.940050+00:00",
       "data_afisaj": "6 octombrie 2026, 01:22"
-    },
-    {
-      "id": "28a57e61f625",
-      "titlu": "Cluburile rivale din Premier League nu se așteaptă ca Manchester City să rămână în campionat",
-      "rezumat": "Cluburile rivale din Premier League nu anticipează prezența Manchester City în campionat în sezonul următor, în urma deciziei devastatoare a unei comisii independente. Aceasta a scos la iveală amploarea încălcărilor regulamentului financiar de către club pe parcursul a nouă sezoane. Reacția subliniază lipsa de simpatie din partea celorlalte echipe, care anticipează consecințe severe pentru campioana en-titre, în cazul în care apelul acesteia nu va avea succes. Situația creează tensiuni semnificative în rândul cluburilor din liga engleză.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-10-05T16:48:56.525289+00:00",
-      "data_afisaj": "5 octombrie 2026, 19:48"
-    },
-    {
-      "id": "8b7c957002e8",
-      "titlu": "Selecționerul Portugaliei lasă ușa deschisă pentru o revenire a lui Cristiano Ronaldo",
-      "rezumat": "Selecționerul Portugaliei, Jorge Jesus, a declarat că ușa rămâne deschisă pentru o eventuală revenire a lui Cristiano Ronaldo la echipa națională. Această afirmație vine în contextul plecării anterioare a starului din lot, sugerând că, în ciuda speculațiilor privind viitorul său internațional, există încă posibilitatea ca Ronaldo să reprezinte Portugalia în competițiile viitoare. Decizia finală va depinde de o serie de factori, inclusiv de forma sportivă a jucătorului și de planurile tactice ale antrenorului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-05T16:48:56.527283+00:00",
-      "data_afisaj": "5 octombrie 2026, 19:48"
-    },
-    {
-      "id": "8819fdd8e0cf",
-      "titlu": "Tottenham Hotspur se confruntă cu o criză de accidentări în defensivă",
-      "rezumat": "Tottenham Hotspur se confruntă cu o criză defensivă majoră, după ce ambii fundași centrali titulari ai echipei au suferit accidentări. Această situație pune clubul într-o poziție dificilă, perturbând stabilitatea apărării și creând provocări semnificative pentru antrenor în gestionarea lotului, mai ales înaintea unor meciuri importante. Absența simultană a jucătorilor cheie din centrul apărării ar putea afecta semnificativ performanța echipei în următoarea perioadă, necesitând soluții rapide din partea staff-ului tehnic.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-10-05T16:48:56.529067+00:00",
-      "data_afisaj": "5 octombrie 2026, 19:48"
-    },
-    {
-      "id": "7af47e191002",
-      "titlu": "Irlanda de Nord, singura echipă din Liga Națiunilor fără gol primit",
-      "rezumat": "Irlanda de Nord a devenit singura echipă din actuala ediție a Ligii Națiunilor UEFA care nu a primit niciun gol, după ce a înregistrat trei meciuri consecutive fără gol în Grupa B2. Această performanță defensivă remarcabilă subliniază soliditatea apărării echipei și eficiența strategiei adoptate de antrenor, plasând-o într-o poziție unică în competiție. Echipa a demonstrat o rezistență impresionantă în fața adversarilor, consolidându-și reputația de formație greu de învins pe plan internațional.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-05T16:48:56.530964+00:00",
-      "data_afisaj": "5 octombrie 2026, 19:48"
-    },
-    {
-      "id": "f27a93ab7f08",
-      "titlu": "Gabriel Tamaș susține naturalizarea lui Cisotti pentru naționala României",
-      "rezumat": "Fostul internațional român Gabriel Tamaș a avut o reacție fermă în legătură cu posibila naturalizare a fotbalistului Cisotti pentru echipa națională a României. Tamaș a declarat că o astfel de decizie ar reprezenta un „plus” semnificativ pentru lotul actual și ar contribui la îmbunătățirea performanțelor echipei, oferind un sprijin valoros în competițiile viitoare. Această opinie subliniază importanța aducerii de noi talente pentru consolidarea naționalei, în contextul discuțiilor despre viitorul fotbalului românesc.",
-      "categorie": "Fotbal",
-      "surse": [
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-10-05T16:48:56.532832+00:00",
-      "data_afisaj": "5 octombrie 2026, 19:48"
     }
   ]
 }
