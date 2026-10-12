@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-12T22:48:23.129741+00:00",
-  "updated_at_afisaj": "13 octombrie 2026, 01:48",
+  "updated_at": "2026-10-12T23:24:38.691262+00:00",
+  "updated_at_afisaj": "13 octombrie 2026, 02:24",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,52 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 132,
+  "numar_stiri": 131,
   "stiri": [
+    {
+      "id": "2449f5a752c4",
+      "titlu": "Andy Carroll mulțumește publicului pentru sprijin după ce a vorbit despre agresiunea sexuală",
+      "rezumat": "Fostul atacant al naționalei Angliei, Andy Carroll, a transmis mulțumiri publicului pentru sprijinul acordat, după ce a vorbit deschis despre experiența sa de a fi fost agresat sexual de un bărbat. Declarațiile sale vin într-un moment în care sportivul a ales să împărtășească public detaliile acestui eveniment personal dificil. Gestul său a fost întâmpinat cu un val de solidaritate, subliniind importanța conștientizării și a sprijinului pentru victimele agresiunilor, într-un context care depășește sfera sportivă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-12T23:24:38.687243+00:00",
+      "data_afisaj": "13 octombrie 2026, 02:24"
+    },
+    {
+      "id": "db4044c8fc9d",
+      "titlu": "PSG se bazează în continuare pe echipa de bază, în ciuda investițiilor masive din vară",
+      "rezumat": "În ciuda investițiilor semnificative realizate în perioada de transferuri din vară, Paris Saint-Germain continuă să se bazeze preponderent pe jucătorii săi cheie, în special în Ligue 1. Antrenorul Luis Enrique și-a exprimat dorința de a-și odihni vedetele pentru meciurile din Liga Campionilor, însă echipa se confruntă cu dificultăți în a obține victorii convingătoare fără prezența integrală a \"echipei A\". Această dependență ridică semne de întrebare privind profunzimea lotului și capacitatea de rotație a clubului parizian.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-12T23:24:38.689018+00:00",
+      "data_afisaj": "13 octombrie 2026, 02:24"
+    },
+    {
+      "id": "946d69f47164",
+      "titlu": "Daniel Maldini își găsește locul la Cagliari, după ani petrecuți în umbra familiei sale celebre",
+      "rezumat": "Daniel Maldini, fiul legendarului Paolo Maldini și nepotul lui Cesare Maldini, începe să-și demonstreze potențialul la Cagliari, după o perioadă dificilă la AC Milan, unde a avut dificultăți în a se impune. Sub îndrumarea antrenorului Fabio Pisacane, tânărul jucător pare să-și fi găsit ritmul și să-și dezvolte abilitățile în Sardinia. Această evoluție marchează un nou capitol în cariera sa, departe de presiunea numelui celebru și a așteptărilor ridicate asociate cu moștenirea familiei Maldini în Serie A.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-12T23:24:38.690159+00:00",
+      "data_afisaj": "13 octombrie 2026, 02:24"
+    },
+    {
+      "id": "ecf9b582a422",
+      "titlu": "Naționala feminină a Angliei, pusă sub semnul întrebării privind eficiența în fața porții",
+      "rezumat": "Echipa națională feminină a Angliei a obținut un avantaj de două goluri înaintea manșei retur a barajului de calificare la Cupa Mondială împotriva Greciei. Cu toate acestea, se ridică întrebări cu privire la lipsa de \"cruzime\" în fața porții, sugerând că scorul ar fi putut fi mult mai mare. Analiza performanței indică o nevoie de îmbunătățire a finalizării acțiunilor ofensive, pentru a asigura o calificare fără emoții și pentru a-și consolida statutul de pretendentă la trofeu în competițiile viitoare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-12T23:24:38.691253+00:00",
+      "data_afisaj": "13 octombrie 2026, 02:24"
+    },
     {
       "id": "7a0c53c390d9",
       "titlu": "Coventry City obține prima victorie pe teren propriu în Premier League după 25 de ani, învingând Newcastle",
@@ -1452,61 +1496,6 @@
       ],
       "data_publicare": "2026-10-06T14:00:28.422711+00:00",
       "data_afisaj": "6 octombrie 2026, 17:00"
-    },
-    {
-      "id": "be8e2f83521a",
-      "titlu": "Juventus & Atletico Madrid eye Madueke - Tuesday's gossip",
-      "rezumat": "Arsenal forward Noni Madueke has suitors in Spain and Italy, five Premier League clubs are interested in Barcelona defender Jules Kounde, England captain Harry Kane is close to signing a new deal at Bayern Munich, plus more.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-05T23:01:29.334360+00:00",
-      "data_afisaj": "6 octombrie 2026, 02:01"
-    },
-    {
-      "id": "220c728f7d26",
-      "titlu": "£117m Rogers failed at Bournemouth - and feared he may not make it",
-      "rezumat": "A look at the point in club-record £117m Chelsea signing Morgan Rogers' career when he doubted whether he could make it at the highest level.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-05T23:01:29.336101+00:00",
-      "data_afisaj": "6 octombrie 2026, 02:01"
-    },
-    {
-      "id": "3cd185d1109b",
-      "titlu": "Ex-England player Carroll names attacker as TV dance coach",
-      "rezumat": "The former England striker tells the Sun he was sexually assaulted by former Fame Academy dance instructor Kevin Adams in 2021.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-05T23:01:29.337701+00:00",
-      "data_afisaj": "6 octombrie 2026, 02:01"
-    },
-    {
-      "id": "404024390602",
-      "titlu": "How perfect storm has rained on Derby's parade",
-      "rezumat": "BBC Sport looks at how Turki Alalshikh's aborted takeover of Derby County has contributed to a poor start to their Championship season.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-05T23:01:29.339278+00:00",
-      "data_afisaj": "6 octombrie 2026, 02:01"
-    },
-    {
-      "id": "94858e3c6301",
-      "titlu": "Duff set to be appointed Bradford boss",
-      "rezumat": "Bradford City are set to appoint former Wycombe Wanderers boss Michael Duff as their new antrenor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-05T23:01:29.340702+00:00",
-      "data_afisaj": "6 octombrie 2026, 02:01"
     }
   ]
 }
