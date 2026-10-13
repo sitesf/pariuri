@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-12T23:24:38.691262+00:00",
-  "updated_at_afisaj": "13 octombrie 2026, 02:24",
+  "updated_at": "2026-10-13T14:52:30.020331+00:00",
+  "updated_at_afisaj": "13 octombrie 2026, 17:52",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,65 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 131,
+  "numar_stiri": 126,
   "stiri": [
+    {
+      "id": "cf0ccaf4dc8b",
+      "titlu": "Maresca apără celebrarea victoriei lui Manchester City pe Anfield",
+      "rezumat": "Antrenorul Enzo Maresca a răspuns criticilor legate de modul în care Manchester City a sărbătorit victoria împotriva lui Liverpool pe Anfield, declarând: „Ce vreți să facem?”. Declarația vine în contextul unei victorii importante, care a stârnit reacții diverse în rândul fanilor și analiștilor, punând sub semnul întrebării eticheta comportamentului pe teren după un succes major. Maresca a subliniat că echipa sa a avut tot dreptul să se bucure de un rezultat semnificativ.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-10-13T14:52:30.012781+00:00",
+      "data_afisaj": "13 octombrie 2026, 17:52"
+    },
+    {
+      "id": "a4be97b29429",
+      "titlu": "Investitorul Tony Bloom își menține ambiția ca Hearts să câștige titlul în Scoția până în 2035",
+      "rezumat": "Investitorul principal al clubului Hearts, Tony Bloom, a declarat că ar fi \"foarte dezamăgit\" dacă echipa nu ar reuși să câștige Premiership-ul Scoțian până în anul 2035. Această declarație subliniază angajamentul pe termen lung al lui Bloom față de club și obiectivele ambițioase stabilite pentru viitorul fotbalului scoțian, indicând o viziune clară pentru dezvoltarea și succesul echipei în următorul deceniu. El a reiterat încrederea în potențialul clubului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-10-13T14:52:30.014877+00:00",
+      "data_afisaj": "13 octombrie 2026, 17:52"
+    },
+    {
+      "id": "93a3a6329d7c",
+      "titlu": "Jamie Carragher și-a achitat datoria fiscală pentru a evita falimentul",
+      "rezumat": "Fostul fotbalist și actualul analist sportiv Jamie Carragher și-a reglat o datorie fiscală neplătită către Administrația Fiscală a Majestății Sale. Această acțiune a fost întreprinsă pentru a evita intrarea în faliment, o situație care ar fi putut avea implicații semnificative asupra reputației și finanțelor sale personale, atrăgând atenția publicului asupra responsabilităților financiare. Detaliile exacte ale sumei nu au fost făcute publice, dar soluționarea a fost confirmată.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-13T14:52:30.016737+00:00",
+      "data_afisaj": "13 octombrie 2026, 17:52"
+    },
+    {
+      "id": "9e965cf422b4",
+      "titlu": "Manchester United, aproape de un acord cu Antonio Conte pentru postul de antrenor",
+      "rezumat": "Manchester United se confruntă cu un sezon dificil, iar Michael Carrick ar putea fi înlocuit. Conform rapoartelor, clubul este aproape de a ajunge la un acord cu Antonio Conte pentru preluarea funcției de antrenor principal. Această mutare ar putea aduce o schimbare majoră în strategia și performanța echipei, pe fondul rezultatelor sub așteptări din ultima perioadă, fanii așteptând o revigorare sub conducerea unui tehnician cu experiență. Negocierile sunt în stadiu avansat.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-10-13T14:52:30.018555+00:00",
+      "data_afisaj": "13 octombrie 2026, 17:52"
+    },
+    {
+      "id": "864f448f24ad",
+      "titlu": "Noi îngrijorări privind Cupa Asiei 2027 în Arabia Saudită, după atacurile cu rachete din Riad",
+      "rezumat": "Fotbaliștii de elită din Asia sunt în alertă înaintea Cupei Asiei din ianuarie 2027, care urmează să aibă loc în Arabia Saudită, o țară afectată de conflicte. Atacurile multiple cu rachete efectuate de Houthi asupra aeroportului internațional din Riad în ultimele zile au provocat victime și răniți, generând temeri serioase privind siguranța evenimentului și a participanților. Organizațiile internaționale monitorizează situația, iar preocupările legate de securitate sunt în creștere.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-13T14:52:30.020311+00:00",
+      "data_afisaj": "13 octombrie 2026, 17:52"
+    },
     {
       "id": "2449f5a752c4",
       "titlu": "Andy Carroll mulțumește publicului pentru sprijin după ce a vorbit despre agresiunea sexuală",
@@ -1385,117 +1442,6 @@
       ],
       "data_publicare": "2026-10-06T20:51:38.589806+00:00",
       "data_afisaj": "6 octombrie 2026, 23:51"
-    },
-    {
-      "id": "1b02067f5214",
-      "titlu": "Născut în celtic, făcut la Motherwell, galeza a devenit majoră cu Scoția",
-      "rezumat": "Este nevoie de talent, rezistență și noroc pentru a găsi antrenori care cred în tine, dar visele pot deveni realitate. Stephen Welsh este dovada vie a acestui lucru, scrie Tom English.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-06T14:45:05.701091+00:00",
-      "data_afisaj": "6 octombrie 2026, 17:45"
-    },
-    {
-      "id": "97b274d955d3",
-      "titlu": "Fiul lui Shevchenko semnează pentru clubul de rangul șapte",
-      "rezumat": "Kristian Shevchenko, fiul câștigătorului Balonului de Aur Andriy Shevchenko, semnează pentru clubul de rangul șapte Sholing FC.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-06T14:45:05.702693+00:00",
-      "data_afisaj": "6 octombrie 2026, 17:45"
-    },
-    {
-      "id": "06cf2e507cb2",
-      "titlu": "Donley dorește să adauge goluri după ce a încurajat alergarea NI",
-      "rezumat": "După o fereastră de patru meciuri cu o mulțime de aspecte pozitive pentru Irlanda de Nord, a existat poate doar o singură îngrijorare - capacitatea lor de a marca goluri în mod constant.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-06T14:45:05.704185+00:00",
-      "data_afisaj": "6 octombrie 2026, 17:45"
-    },
-    {
-      "id": "d0cf74bd4df1",
-      "titlu": "Căpitanul din Coreea de Sud își cere scuze că se bucură de scutirea serviciului militar",
-      "rezumat": "Lee Gi-hyuk își cere scuze că s-a bucurat că a evitat serviciul militar obligatoriu al Coreei de Sud prin căpitanul țării sale la medalia de aur la fotbal la Jocurile Asiatice.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-06T14:45:05.705768+00:00",
-      "data_afisaj": "6 octombrie 2026, 17:45"
-    },
-    {
-      "id": "dd899d170b35",
-      "titlu": "cine sunt eu? Ghici Steaua Premier League nr. 78",
-      "rezumat": "Testează-ți cunoștințele despre minge împotriva celor de astăzi Who Am I?, Five in Five și Brainteaser.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-06T14:45:05.707235+00:00",
-      "data_afisaj": "6 octombrie 2026, 17:45"
-    },
-    {
-      "id": "f5dc9662b607",
-      "titlu": "David Squires despre... eroismul lui David Beckham pentru Anglia v Grecia, la 25 de ani",
-      "rezumat": "Caricaturistul nostru la aniversarea a 25 de ani de la salvarea unui singur om a mijlocașului Angliei la Old Trafford Cumpărați acest desen animat | Unele dintre lucrările preferate ale lui David și cea mai recentă carte a lui, Chaos in the Box: obține-o acum Continuă să citești...",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-06T14:00:28.417612+00:00",
-      "data_afisaj": "6 octombrie 2026, 17:00"
-    },
-    {
-      "id": "f2605b2e00f5",
-      "titlu": "Proprietar, om de afaceri și jucător: Messi are planuri mari pe măsură ce se încheie o epocă de aur",
-      "rezumat": "Cariera lui Lionel Messi in Argentina se va incheia intr-un amical cu Benin. BBC Sport analizează ce urmează pentru bărbatul de 39 de ani.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-06T14:00:28.418997+00:00",
-      "data_afisaj": "6 octombrie 2026, 17:00"
-    },
-    {
-      "id": "7cebccd76a30",
-      "titlu": "UEFA investighează disputa dintre Republica Irlanda și Israel după ce a scuipat o acuzație",
-      "rezumat": "UEFA a confirmat că investighează incidentul la pauză din timpul meciului de duminică din Liga Națiunilor dintre Republica Irlanda și Israel, în urma unei acuzații de scuipat.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-06T14:00:28.420268+00:00",
-      "data_afisaj": "6 octombrie 2026, 17:00"
-    },
-    {
-      "id": "0f0b0e0bc8b9",
-      "titlu": "Cum funcționează promovarea, retrogradarea și eliminatoriile în Liga Națiunilor",
-      "rezumat": "Cu mai mult de jumătate din faza grupelor Ligii Națiunilor 2026-27 încheiată, BBC Sport analizează ce se va întâmpla în continuare în competiție.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-06T14:00:28.421520+00:00",
-      "data_afisaj": "6 octombrie 2026, 17:00"
-    },
-    {
-      "id": "10815dba1ecd",
-      "titlu": "Grupului american a dat undă verde SFA pentru a cumpăra Shrewsbury",
-      "rezumat": "Gruparea americană care încearcă să cumpere Shrewsbury Town primește autorizația pentru a deține interese de control în două cluburi, după ce FA Scoțiană a dat undă verde pentru implicarea cu Spartans FC.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-06T14:00:28.422711+00:00",
-      "data_afisaj": "6 octombrie 2026, 17:00"
     }
   ]
 }
