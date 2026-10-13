@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-13T21:03:28.382608+00:00",
-  "updated_at_afisaj": "14 octombrie 2026, 00:03",
+  "updated_at": "2026-10-13T21:40:52.741449+00:00",
+  "updated_at_afisaj": "14 octombrie 2026, 00:40",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,43 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 131,
+  "numar_stiri": 129,
   "stiri": [
+    {
+      "id": "ecc6519b3365",
+      "titlu": "Majoritatea cluburilor engleze de fotbal sunt în pragul \"dezastrului financiar\"",
+      "rezumat": "Un nou raport al regulatorului independent al fotbalului englez (IFR) avertizează că finanțele fotbalului englez sunt \"periculos de expuse\", iar majoritatea cluburilor se află \"în pragul dezastrului financiar\". Raportul, intitulat \"Starea Jocului\", a analizat în detaliu situația financiară din ultimele 18 luni, concluzionând că este necesară o intervenție urgentă pentru a asigura sustenabilitatea pe termen lung a cluburilor din ligile inferioare și superioare. Această evaluare subliniază vulnerabilitatea economică a sistemului fotbalistic englez.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-10-13T21:40:52.736590+00:00",
+      "data_afisaj": "14 octombrie 2026, 00:40"
+    },
+    {
+      "id": "4f93ea2a9d45",
+      "titlu": "Situația lui Richarlison la Tottenham: atacantul de 60 de milioane de lire sterline joacă la echipa U21",
+      "rezumat": "Atacantul brazilian Richarlison, transferat la Tottenham pentru o sumă considerabilă de 60 de milioane de lire sterline, se confruntă cu o situație neobișnuită la club, fiind lăsat în afara lotului pentru Premier League luna trecută. În consecință, jucătorul a fost nevoit să evolueze pentru echipa sub 21 de ani a clubului în competiția EFL Trophy. Această decizie ridică semne de întrebare cu privire la viitorul său la club și la planurile antrenorului, având în vedere investiția majoră făcută pentru aducerea sa.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-10-13T21:40:52.739642+00:00",
+      "data_afisaj": "14 octombrie 2026, 00:40"
+    },
+    {
+      "id": "ff59b9c26bfd",
+      "titlu": "Lisandro Martinez critică conducerea Manchester United după înfrângerea cu Atletico",
+      "rezumat": "Fundașul lui Manchester United, Lisandro Martinez, a lansat un atac vehement la adresa conducerii clubului, acuzând-o că nu a reușit să întărească lotul după calificarea în Liga Campionilor. Declarațiile sale vin în urma înfrângerii cu 2-0 în fața lui Atletico Madrid, care a adâncit criza de rezultate a echipei. Martinez a subliniat necesitatea unor investiții suplimentare pentru a permite echipei să concureze la cel mai înalt nivel și a exprimat frustrarea jucătorilor față de lipsa de acțiune pe piața transferurilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-13T21:40:52.741429+00:00",
+      "data_afisaj": "14 octombrie 2026, 00:40"
+    },
     {
       "id": "c1fc8a12c3d3",
       "titlu": "Antrenorul lui Liverpool, Andoni Iraola, își exprimă încrederea totală în Wirtz și Barcola",
@@ -1438,64 +1473,6 @@
       ],
       "data_publicare": "2026-10-07T14:18:57.301104+00:00",
       "data_afisaj": "7 octombrie 2026, 17:18"
-    },
-    {
-      "id": "fe78736c3b37",
-      "titlu": "Rezultate spectaculoase în Liga Națiunilor: Anglia învinge Cehia, Spania revine contra Croației",
-      "rezumat": "Etapa recentă din Liga Națiunilor a adus confruntări intense și rezultate notabile. Naționala Angliei a obținut o victorie categorică împotriva Cehiei, demonstrând o formă excelentă. Într-un alt meci dramatic, Spania a reușit să întoarcă scorul în minutul 88, învingând Croația. Aceste rezultate influențează clasamentele grupelor și traseul echipelor în competiție, promițând o continuare palpitantă a Ligii Națiunilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-10-06T21:24:55.072425+00:00",
-      "data_afisaj": "7 octombrie 2026, 00:24"
-    },
-    {
-      "id": "cfa52c6bcaf2",
-      "titlu": "Martin O'Neill confirmă că rămâne antrenor la Celtic",
-      "rezumat": "Martin O'Neill a confirmat decizia de a continua la cârma echipei Celtic, după o perioadă de reflecție în timpul pauzei internaționale. Anunțul pune capăt speculațiilor privind viitorul său la clubul scoțian. O'Neill a declarat că este hotărât să ducă echipa mai departe, iar această decizie este binevenită pentru fanii și conducerea clubului, care își propun obiective ambițioase pentru sezonul în curs.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-06T21:24:55.074077+00:00",
-      "data_afisaj": "7 octombrie 2026, 00:24"
-    },
-    {
-      "id": "7b317c6499a9",
-      "titlu": "Republica Irlanda U21 se califică la barajul Euro 2027 după victoria împotriva Angliei U21",
-      "rezumat": "Echipa națională U21 a Republicii Irlanda a obținut o victorie importantă cu 3-1 împotriva Angliei U21, asigurându-și astfel un loc în play-off-ul pentru Campionatul European din 2027. Aceasta a fost prima înfrângere pentru Anglia U21 în fața omologilor lor irlandezi. Tommy Lonergan a marcat de două ori pentru gazde, contribuind decisiv la succesul care le deschide drumul spre o posibilă calificare la turneul final.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-10-06T21:24:55.075944+00:00",
-      "data_afisaj": "7 octombrie 2026, 00:24"
-    },
-    {
-      "id": "2c345be0598c",
-      "titlu": "Slovenia învinge Scoția în Liga Națiunilor, după o revenire de scor",
-      "rezumat": "Naționala Sloveniei a reușit să obțină o victorie importantă împotriva Scoției în Liga Națiunilor, revenind de la un scor defavorabil. Această înfrângere reprezintă un început dificil pentru antrenorul Scoției, Sebastien Pocognoli, care rămâne fără victorie pe teren propriu. Performanța Sloveniei subliniază dinamica imprevizibilă a competiției și impactul rezultatelor asupra moralului și poziției echipelor în grupe.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-06T21:24:55.077672+00:00",
-      "data_afisaj": "7 octombrie 2026, 00:24"
-    },
-    {
-      "id": "c6a54e7c65ab",
-      "titlu": "Thomas Hitzlsperger explică de ce sunt puțini fotbaliști gay declarați",
-      "rezumat": "Fostul internațional german Thomas Hitzlsperger a abordat subiectul lipsei fotbaliștilor gay declarați în fotbalul masculin. El a explicat că această situație este adânc înrădăcinată în \"masculinitatea toxică\" prezentă în sport, descriind-o ca o realitate tristă a vieții. Declarațiile sale subliniază provocările și presiunile sociale cu care se confruntă jucătorii, evidențiind necesitatea unei schimbări culturale pentru a crea un mediu mai incluziv în fotbal.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-10-06T21:24:55.079401+00:00",
-      "data_afisaj": "7 octombrie 2026, 00:24"
     }
   ]
 }
