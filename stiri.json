@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-13T15:35:59.229369+00:00",
-  "updated_at_afisaj": "13 octombrie 2026, 18:35",
+  "updated_at": "2026-10-13T21:03:28.382608+00:00",
+  "updated_at_afisaj": "14 octombrie 2026, 00:03",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,53 @@
   },
   "numar_stiri": 131,
   "stiri": [
+    {
+      "id": "c1fc8a12c3d3",
+      "titlu": "Antrenorul lui Liverpool, Andoni Iraola, își exprimă încrederea totală în Wirtz și Barcola",
+      "rezumat": "Antrenorul principal al lui Liverpool, Andoni Iraola, a declarat că are „încredere 100%” în Florian Wirtz și Bradley Barcola. Această declarație vine după ce cei doi jucători, transferați pentru sume de peste 100 de milioane de lire sterline fiecare, au fost ținta unor critici recente. Iraola subliniază sprijinul său pentru fotbaliști, în ciuda presiunii publice și a așteptărilor ridicate legate de performanțele lor pe teren, consolidând poziția clubului față de achizițiile sale costisitoare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-13T21:03:28.375781+00:00",
+      "data_afisaj": "14 octombrie 2026, 00:03"
+    },
+    {
+      "id": "04d699949eed",
+      "titlu": "Atlético Madrid învinge Manchester United cu 2-0 în Liga Campionilor",
+      "rezumat": "Atlético Madrid a obținut o victorie cu scorul de 2-0 împotriva echipei Manchester United în Liga Campionilor. Meciul, care a început la ora 20:00 BST, a generat reacții intense. Antrenorul lui Atlético, Diego Simeone, a vorbit despre Julian Alvarez înainte de meci, exprimându-și satisfacția față de relația dezvoltată cu jucătorul. De partea cealaltă, Michael Carrick de la Manchester United a subliniat importanța competiției pentru clubul său, în ciuda rezultatului nefavorabil.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-13T21:03:28.377577+00:00",
+      "data_afisaj": "14 octombrie 2026, 00:03"
+    },
+    {
+      "id": "92297f7d9bdd",
+      "titlu": "Șeful regulatorului independent al fotbalului englez amenință cu demisia în cazul interferențelor politice privind Manchester City",
+      "rezumat": "Președintele regulatorului independent al fotbalului englez, David Kogan, a declarat că își va da demisia dacă se va confrunta cu orice formă de interferență politică în legătură cu viitorul clubului Manchester City. Afirmația vine în contextul acuzațiilor de încălcare a regulilor financiare de către Manchester City și subliniază angajamentul regulatorului pentru independență absolută în procesul de decizie. Kogan a insistat că nu a existat până acum nicio presiune politică, dar a reiterat că nu va tolera o astfel de situație.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-13T21:03:28.379571+00:00",
+      "data_afisaj": "14 octombrie 2026, 00:03"
+    },
+    {
+      "id": "aa2426b1fa16",
+      "titlu": "Președinția lui Patrice Motsepe la CAF, sub presiune după schimbarea deciziei privind AFCON",
+      "rezumat": "Liderul Confederației Africane de Fotbal (CAF), Patrice Motsepe, se confruntă cu o presiune crescândă din partea oficialilor de pe continent, care și-au exprimat lipsa de încredere în președinte. Această situație vine în urma unei schimbări de decizie privind ciclul Cupei Africii pe Națiuni (AFCON), care este așteptată să revină la un format bienal. Rivali, inclusiv Samuel Eto’o, se poziționează ca potențiali înlocuitori, indicând o posibilă schimbare la vârful conducerii fotbalului african în viitorul apropiat.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-13T21:03:28.382588+00:00",
+      "data_afisaj": "14 octombrie 2026, 00:03"
+    },
     {
       "id": "a505de115979",
       "titlu": "Președintele FIFA, Gianni Infantino, sub presiune după dezvăluirea unei plăți de 1,3 milioane de lire sterline",
@@ -1449,54 +1496,6 @@
       ],
       "data_publicare": "2026-10-06T21:24:55.079401+00:00",
       "data_afisaj": "7 octombrie 2026, 00:24"
-    },
-    {
-      "id": "908e54a51cce",
-      "titlu": "Cristiano Ronaldo rupe tăcerea despre plecarea de la naționala Portugaliei",
-      "rezumat": "Atacantul portughez Cristiano Ronaldo a emis o declarație amplă în care a confirmat că nu se retrage din fotbalul internațional, dar consideră că merită să fie pedepsit pentru că a părăsit cantonamentul Portugaliei. El a acuzat antrenorul principal, Jorge Jesus, că și-a încălcat de două ori promisiunea, afirmând că un acord eșuat de a explica public omiterea sa din echipa pentru meciul cu Norvegia l-a determinat să plece. Ronaldo a subliniat că rămâne disponibil pentru echipa națională după orice eventuală sancțiune.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-06T20:51:38.584293+00:00",
-      "data_afisaj": "6 octombrie 2026, 23:51"
-    },
-    {
-      "id": "ed8bc143ead7",
-      "titlu": "Harry Kane egalează recordul de selecții pentru naționala Angliei",
-      "rezumat": "Atacantul Harry Kane a atins o nouă bornă semnificativă în cariera sa internațională, egalând recordul lui Peter Shilton de cele mai multe selecții pentru echipa națională a Angliei. Shilton deținea acest record de 36 de ani. Această realizare subliniază longevitatea și importanța lui Kane pentru \"Three Lions\", consolidându-i statutul de legendă a fotbalului englez. Performanța vine într-o perioadă în care Kane continuă să fie un jucător cheie și un marcator prolific pentru selecționata sa.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-06T20:51:38.586339+00:00",
-      "data_afisaj": "6 octombrie 2026, 23:51"
-    },
-    {
-      "id": "a5467dacd7e6",
-      "titlu": "FIFA ar fi permis R.D. Congo să participe la Cupa Mondială cu un jucător ineligibil",
-      "rezumat": "FIFA ar fi permis Republicii Democrate Congo să concureze la Cupa Mondială din această vară, în ciuda unor rapoarte care indică faptul că o investigație internă a constatat că țara a folosit un jucător ineligibil în timpul calificărilor. Portarul Lionel Mpasi, jucătorul în cauză, a fost o figură cheie pentru națiunea sa la turneu, inclusiv în meciul împotriva Angliei din optimile de finală. Nigeria a depus o plângere privind jucătorii ineligibili în faza playoff-ului, iar anchetatorii FIFA erau conștienți de situație înainte de începerea turneului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-10-06T20:51:38.588191+00:00",
-      "data_afisaj": "6 octombrie 2026, 23:51"
-    },
-    {
-      "id": "3cb8458e4bb1",
-      "titlu": "Lionel Messi își ia rămas bun de la naționala Argentinei",
-      "rezumat": "Lionel Messi se pregătește să își ia rămas bun de la echipa națională a Argentinei, într-un moment de celebrare a unei cariere excepționale. Cu 208 selecții și un titlu de Cupă Mondială în palmares, Messi va îmbrăca tricoul Argentinei pentru ultima dată săptămâna aceasta, într-un meci amical împotriva Beninului, la Buenos Aires. Acest eveniment marchează încheierea unei ere glorioase pentru cel considerat de mulți cel mai mare fotbalist din toate timpurile, oferind țării sale ocazia de a-l omagia.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-10-06T20:51:38.589806+00:00",
-      "data_afisaj": "6 octombrie 2026, 23:51"
     }
   ]
 }
