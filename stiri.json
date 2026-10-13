@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-13T14:52:30.020331+00:00",
-  "updated_at_afisaj": "13 octombrie 2026, 17:52",
+  "updated_at": "2026-10-13T15:35:59.229369+00:00",
+  "updated_at_afisaj": "13 octombrie 2026, 18:35",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 126,
+  "numar_stiri": 131,
   "stiri": [
+    {
+      "id": "a505de115979",
+      "titlu": "Președintele FIFA, Gianni Infantino, sub presiune după dezvăluirea unei plăți de 1,3 milioane de lire sterline",
+      "rezumat": "Președintele FIFA, Gianni Infantino, se confruntă cu o presiune crescută pentru a demisiona, după ce s-a dezvăluit că a primit o plată de 1,3 milioane de lire sterline în 2024, pe lângă salariul său. Această informație a stârnit noi controverse legate de transparența financiară la vârful organismului de conducere al fotbalului mondial. Dezvăluirea vine într-un context în care FIFA este adesea scrutinată pentru practicile sale financiare și modul de gestionare a fondurilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-10-13T15:35:59.222161+00:00",
+      "data_afisaj": "13 octombrie 2026, 18:35"
+    },
+    {
+      "id": "71a6779b5fef",
+      "titlu": "Netflix obține drepturile de difuzare pentru Cupa Mondială 2030 în Spania",
+      "rezumat": "Netflix va transmite în premieră meciuri de la Cupa Mondială în 2030, după ce a obținut drepturile de difuzare pentru Spania și Andorra. Această mișcare marchează o extindere semnificativă a prezenței platformelor de streaming în sportul de top și ar putea schimba modul în care fanii accesează evenimentele majore. Decizia subliniază tendința tot mai accentuată a companiilor de tehnologie de a investi în conținut sportiv live, concurând cu televiziunile tradiționale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-13T15:35:59.223949+00:00",
+      "data_afisaj": "13 octombrie 2026, 18:35"
+    },
+    {
+      "id": "797a2bf579b2",
+      "titlu": "Impactul încălcărilor regulilor de către Manchester City asupra altor echipe din Premier League",
+      "rezumat": "Potențialul impact al încălcărilor regulilor de către Manchester City este profund, afectând echipe prin calificări ratate în Liga Campionilor, retrogradări și sume reduse din premiile Premier League. O analiză detaliază consecințele financiare și sportive pentru cluburile care au concurat cu City în perioadele vizate de acuzații. Această situație ridică întrebări serioase despre integritatea competiției și echitatea financiară în fotbalul englez de elită.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-13T15:35:59.225792+00:00",
+      "data_afisaj": "13 octombrie 2026, 18:35"
+    },
+    {
+      "id": "ca7fd251da4f",
+      "titlu": "Dani Carvajal se alătură echipei Getafe după 23 de ani și 27 de trofee la Real Madrid",
+      "rezumat": "Fostul căpitan al Real Madrid, Dani Carvajal, s-a transferat la Getafe ca jucător liber de contract, după ce înțelegerea sa cu gigantul spaniol a expirat în luna iunie. Carvajal a petrecut 23 de ani la Real Madrid, timp în care a câștigat un număr impresionant de 27 de trofee, inclusiv multiple Ligi ale Campionilor și titluri de La Liga. Această mutare marchează o nouă etapă în cariera fundașului experimentat.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-13T15:35:59.227632+00:00",
+      "data_afisaj": "13 octombrie 2026, 18:35"
+    },
+    {
+      "id": "c39df8f286a2",
+      "titlu": "Lille ia în considerare acțiuni legale după accidentarea lui Tiago Santos",
+      "rezumat": "Clubul francez Lille analizează posibilitatea de a iniția acțiuni legale în urma accidentării fundașului Tiago Santos. Conducerea clubului a descris intervenția care a dus la accidentarea jucătorului ca fiind „necontrolată și periculoasă”. Această decizie subliniază preocupările crescânde privind siguranța jucătorilor și responsabilitatea în cazul faulturilor grave, putând crea un precedent în fotbalul european.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-13T15:35:59.229348+00:00",
+      "data_afisaj": "13 octombrie 2026, 18:35"
+    },
     {
       "id": "cf0ccaf4dc8b",
       "titlu": "Maresca apără celebrarea victoriei lui Manchester City pe Anfield",
