@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-13T21:40:52.741449+00:00",
-  "updated_at_afisaj": "14 octombrie 2026, 00:40",
+  "updated_at": "2026-10-14T12:42:40.939812+00:00",
+  "updated_at_afisaj": "14 octombrie 2026, 15:42",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,66 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 129,
+  "numar_stiri": 134,
   "stiri": [
+    {
+      "id": "a8203a45cfc0",
+      "titlu": "Meciul lui Millwall, întrerupt din cauza unor presupuse scandări rasiste",
+      "rezumat": "Partida dintre Millwall și Swansea din Championship a fost oprită pentru aproximativ șapte minute, după ce s-a raportat un incident de abuz rasist din partea publicului, îndreptat către jucătorul Eom Ji-sung de la Swansea. Arbitrul Edward Duckworth a suspendat jocul în minutul 65 pentru a discuta cu antrenorii și oficialii. Managerul lui Millwall, Alex Neil, a criticat decizia de a întrerupe meciul, în ciuda gravității acuzațiilor. Incidentul subliniază problemele continue legate de rasism în fotbal și necesitatea unor măsuri ferme.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-14T12:42:40.935383+00:00",
+      "data_afisaj": "14 octombrie 2026, 15:42"
+    },
+    {
+      "id": "8627b94b6380",
+      "titlu": "Șahtior Donețk își stabilește baza la Londra pentru meciurile din Liga Campionilor",
+      "rezumat": "Din cauza conflictului din Ucraina, echipa Șahtior Donețk își va disputa meciurile de acasă din Liga Campionilor pe stadionul Stamford Bridge din Londra. Această situație, deși nedorită, a determinat comunitatea ucraineană din Marea Britanie să se mobilizeze pentru a susține echipa. Jucătorii și oficialii, inclusiv directorul sportiv Darijo Srna, își continuă pregătirile în capitala britanică, transmițând un mesaj de rezistență și unitate. Ei speră să demonstreze lumii că sunt \"în viață\" și că pot continua să concureze la cel mai înalt nivel.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-14T12:42:40.936486+00:00",
+      "data_afisaj": "14 octombrie 2026, 15:42"
+    },
+    {
+      "id": "e9411726523f",
+      "titlu": "Bukayo Saka impresionează la Arsenal, răspunzând provocării lui Mikel Arteta",
+      "rezumat": "Bukayo Saka a avut un impact decisiv pentru Arsenal în meciul din Liga Campionilor împotriva lui Lille, după ce antrenorul Mikel Arteta îi ceruse să marcheze \"două sau trei goluri pe meci\". Jucătorul a reușit să înscrie după doar șase minute de la intrarea pe teren, oferind anterior și o pasă de gol la prima sa atingere. Performanța sa a demonstrat o evoluție semnificativă și a confirmat că este o amenințare constantă la poarta adversă, depășind orice îndoială legată de forma sa recentă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-10-14T12:42:40.937514+00:00",
+      "data_afisaj": "14 octombrie 2026, 15:42"
+    },
+    {
+      "id": "8388d789d485",
+      "titlu": "Gianni Infantino, președintele FIFA, va fi interogat la o ședință tensionată a Consiliului",
+      "rezumat": "Președintele FIFA, Gianni Infantino, se va confrunta cu întrebări dificile din partea membrilor Consiliului FIFA în cadrul unei ședințe considerate \"explozive\". Pe agenda discuțiilor se numără implicarea sa în planul eșuat de vânzare a Cupei Mondiale, afacerea Folarin Balogun și decizia de a acorda lui Donald Trump primul premiu FIFA pentru pace. Oponenții săi vor insista asupra necesității unei revizuiri independente a acțiunilor sale, indicând o presiune crescută asupra conducerii sale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-14T12:42:40.938696+00:00",
+      "data_afisaj": "14 octombrie 2026, 15:42"
+    },
+    {
+      "id": "5fc14cd0db51",
+      "titlu": "Premierul Burnham a avut două cine de protocol cu președintele Manchester City, înregistrări șterse",
+      "rezumat": "Premierul a fost supus unei presiuni crescânde după ce clubul Manchester City a fost găsit vinovat de încălcarea regulilor Premier League. S-a descoperit că premierul a avut două cine de protocol cu președintele clubului, iar înregistrările acestor întâlniri au fost ulterior șterse. Această dezvăluire adaugă un nou nivel de controversă în jurul situației lui Manchester City și ridică întrebări despre transparența relațiilor dintre oficialii guvernamentali și conducerea cluburilor de fotbal, în contextul acuzațiilor financiare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-14T12:42:40.939799+00:00",
+      "data_afisaj": "14 octombrie 2026, 15:42"
+    },
     {
       "id": "ecc6519b3365",
       "titlu": "Majoritatea cluburilor engleze de fotbal sunt în pragul \"dezastrului financiar\"",
