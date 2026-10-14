@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-14T13:19:12.850676+00:00",
-  "updated_at_afisaj": "14 octombrie 2026, 16:19",
+  "updated_at": "2026-10-14T20:03:11.876358+00:00",
+  "updated_at_afisaj": "14 octombrie 2026, 23:03",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,65 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 139,
+  "numar_stiri": 134,
   "stiri": [
+    {
+      "id": "d8407056f6e5",
+      "titlu": "Barcola realizează un hat-trick în victoria categorică a lui Liverpool împotriva LASK",
+      "rezumat": "Bradley Barcola a marcat un hat-trick, iar Florian Wirtz a avut o prestație remarcabilă, după ce a fost recent criticat, în meciul din Liga Campionilor în care Liverpool a învins echipa LASK cu scorul de 6-3. Această victorie reprezintă a doua pentru \"Cormorani\" în competiția europeană, consolidându-le poziția în grupă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-14T20:03:11.868304+00:00",
+      "data_afisaj": "14 octombrie 2026, 23:03"
+    },
+    {
+      "id": "9ade2f117e5e",
+      "titlu": "FIFA propune o creștere de 2,6 miliarde de lire sterline pentru dezvoltarea fotbalului",
+      "rezumat": "Federația Internațională de Fotbal (FIFA) intenționează să propună o majorare semnificativă a fondurilor alocate pentru dezvoltarea fotbalului la nivel global. Suma propusă este de 3,4 miliarde de dolari (aproximativ 2,6 miliarde de lire sterline), destinată sprijinirii proiectelor și inițiativelor de creștere a sportului în diverse regiuni ale lumii.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-14T20:03:11.870266+00:00",
+      "data_afisaj": "14 octombrie 2026, 23:03"
+    },
+    {
+      "id": "c7e8ad39a918",
+      "titlu": "Antrenorul lui Millwall, Alex Neil, criticat pentru comentariile sale privind întreruperea unui meci din cauza abuzurilor rasiste",
+      "rezumat": "Grupul anti-rasism \"Kick It Out\" a cerut antrenorilor să \"dea tonul\" în lupta împotriva discriminării, după ce Alex Neil, managerul echipei Millwall, a criticat decizia de a opri un meci în urma unei acuzații de abuz rasist. Comentariile sale au stârnit controverse și au readus în discuție responsabilitatea cluburilor și a personalului tehnic în gestionarea incidentelor de rasism.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-14T20:03:11.872452+00:00",
+      "data_afisaj": "14 octombrie 2026, 23:03"
+    },
+    {
+      "id": "29492162e92e",
+      "titlu": "Calificările la Cupa Mondială Feminină: Eficiența formatului play-off-urilor, pusă sub semnul întrebării",
+      "rezumat": "Ușurința cu care Anglia a învins Grecia în prima rundă a play-off-urilor de calificare la Cupa Mondială Feminină a evidențiat ineficiența structurii actuale a competiției. Rezultatele cu scoruri mari și meciurile dezechilibrate ridică semne de întrebare cu privire la modul în care funcționează formatul play-off-urilor, sugerând că este necesară o reevaluare pentru a asigura o competitivitate mai mare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-14T20:03:11.874540+00:00",
+      "data_afisaj": "14 octombrie 2026, 23:03"
+    },
+    {
+      "id": "19f692cba6c7",
+      "titlu": "Vinicius Jr va rata El Clasico împotriva Barcelonei din cauza unei suspendări",
+      "rezumat": "Atacantul echipei Real Madrid, Vinicius Jr, nu va putea participa la meciul El Clasico împotriva rivalei FC Barcelona, după ce a primit o suspendare de patru etape. Absența sa reprezintă o lovitură semnificativă pentru echipa madrilenă, având în vedere importanța și miza confruntării cu formația catalană.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-10-14T20:03:11.876339+00:00",
+      "data_afisaj": "14 octombrie 2026, 23:03"
+    },
     {
       "id": "7d6192a50f2d",
       "titlu": "Cartonașul roșu al lui Struijk, anulat după intervenția VAR",
@@ -1475,117 +1532,6 @@
       ],
       "data_publicare": "2026-10-07T21:05:37.598174+00:00",
       "data_afisaj": "8 octombrie 2026, 00:05"
-    },
-    {
-      "id": "da9833734d84",
-      "titlu": "Antrenorul Southampton, Tonda Eckert, liber să continue după suspendarea interdicției Spygate",
-      "rezumat": "Tonda Eckert, antrenorul echipei Southampton, a primit permisiunea de a-și continua activitatea după ce a fost sancționat cu o suspendare condiționată în urma implicării sale în scandalul \"Spygate\". Decizia îi permite lui Eckert să rămână la conducerea tehnică a clubului, evitând o interdicție imediată. Această hotărâre vine în urma unei investigații privind acuzațiile de spionaj, iar clubul și antrenorul pot acum să se concentreze pe performanțele sportive fără întreruperi majore.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-07T15:05:51.596220+00:00",
-      "data_afisaj": "7 octombrie 2026, 18:05"
-    },
-    {
-      "id": "b236c8c70847",
-      "titlu": "Fostul jucător al lui Man City, David Silva, revine din retragere la 40 de ani",
-      "rezumat": "David Silva, fostul mijlocaș legendar al echipei Manchester City și al naționalei Spaniei, a anunțat o revenire surprinzătoare pe terenul de fotbal la vârsta de 40 de ani. Jucătorul se alătură clubului Sha Tin din Liga Premieră din Hong Kong, marcând o reluare a carierei după ce se retrăsese din activitate. Această decizie a stârnit un interes considerabil în lumea fotbalului, mulți fani fiind curioși să vadă performanța sa la un nivel competitiv după o pauză.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-07T15:05:51.598066+00:00",
-      "data_afisaj": "7 octombrie 2026, 18:05"
-    },
-    {
-      "id": "fd17caf14e1d",
-      "titlu": "Noul stadion Kop al lui Wrexham, un simbol al ambițiilor de promovare",
-      "rezumat": "Noul proiect de construcție a tribunei Kop de la stadionul echipei Wrexham este considerat un indicator clar al ambițiilor clubului de a continua ascensiunea din Championship către Premier League. Această investiție majoră în infrastructură subliniază dorința clubului de a-și consolida poziția și de a oferi o bază solidă pentru viitoarele succese. Modernizarea stadionului este văzută ca un pas esențial în dezvoltarea pe termen lung a echipei, reflectând creșterea popularității și a performanțelor sale recente.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-07T15:05:51.599761+00:00",
-      "data_afisaj": "7 octombrie 2026, 18:05"
-    },
-    {
-      "id": "036912c6b034",
-      "titlu": "Arsenal și Chelsea ar putea rata o lună din sezonul viitor al WSL din cauza Cupei Mondiale a Cluburilor",
-      "rezumat": "Liga Superioară Feminină (WSL) din Anglia se confruntă cu o perturbare majoră în sezonul următor, deoarece echipele Arsenal și Chelsea ar putea fi absente din competițiile interne timp de până la o lună. Această situație este cauzată de programarea Cupei Mondiale a Cluburilor, care va impune călătorii transatlantice și va crea probleme suplimentare pentru echipele europene. Perioada propusă pentru turneu, 5-30 ianuarie, va duce la o aglomerare a programului și la provocări logistice semnificative pentru cluburile implicate.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-07T15:05:51.601641+00:00",
-      "data_afisaj": "7 octombrie 2026, 18:05"
-    },
-    {
-      "id": "4d1ee3cffc18",
-      "titlu": "Verdict dur privind naturalizarea lui Juri Cisotti de la FCSB în Superliga României",
-      "rezumat": "Un patron important din fotbalul românesc a emis un verdict dur cu privire la posibila naturalizare a jucătorului Juri Cisotti de la FCSB. Discuțiile despre acordarea cetățeniei române fotbaliștilor străini sunt un subiect recurent în Superliga, iar această opinie subliniază complexitatea și controversele din jurul acestui proces. Criticile aduse deciziei de naturalizare a lui Cisotti reflectă dezbaterile mai ample despre impactul acestor măsuri asupra fotbalului autohton și a selecției naționale, generând opinii împărțite în rândul specialiștilor și al publicului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-10-07T15:05:51.603371+00:00",
-      "data_afisaj": "7 octombrie 2026, 18:05"
-    },
-    {
-      "id": "e86c9615a0e8",
-      "titlu": "Arteta semnează un nou contract cu campioana Arsenal",
-      "rezumat": "Mikel Arteta spune că acesta este \"doar începutul\" succesului lui Arsenal după ce a semnat un nou contract cu campioana Premier League până în 2030.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-10-07T14:18:57.297208+00:00",
-      "data_afisaj": "7 octombrie 2026, 17:18"
-    },
-    {
-      "id": "fa89dcf5986c",
-      "titlu": "Oficiali de rang înalt, îngrijorați că Man City ar putea juca în Liga Campionilor sezonul viitor",
-      "rezumat": "Oficiali de rang înalt din fotbalul englez sunt îngrijorați că Manchester City ar putea juca în Liga Campionilor sezonul viitor chiar dacă ar fi retrogradată pentru încălcarea regulamentelor financiare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-07T14:18:57.298250+00:00",
-      "data_afisaj": "7 octombrie 2026, 17:18"
-    },
-    {
-      "id": "e3832d3047d5",
-      "titlu": "Anglia lui Tuchel 2.0: Ce s-a schimbat?",
-      "rezumat": "Ce a modificat Thomas Tuchel în încercarea de a-și rafina planul pentru Anglia, mai degrabă decât să-l rescrie de la zero?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-07T14:18:57.299248+00:00",
-      "data_afisaj": "7 octombrie 2026, 17:18"
-    },
-    {
-      "id": "b763856b898b",
-      "titlu": "Ronaldo vrea 'pedeapsă' pentru Portugalia, dar nu se retrage",
-      "rezumat": "Cristiano Ronaldo spune că nu se retrage din fotbalul internațional, dar merită să fie pedepsit pentru că a părăsit echipa Portugaliei după ce antrenorul Jorge Jesus \"și-a încălcat cuvântul dat mie\".",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-07T14:18:57.300219+00:00",
-      "data_afisaj": "7 octombrie 2026, 17:18"
-    },
-    {
-      "id": "1f5463a6a972",
-      "titlu": "Cum se îndrăgostesc fanii din nou de fotbal",
-      "rezumat": "BBC Sport vorbește cu Marc White, proprietarul și managerul echipei Dorking Wanderers, despre utilizarea tot mai mare a rețelelor sociale care ajută echipele din ligile inferioare să crească.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-07T14:18:57.301104+00:00",
-      "data_afisaj": "7 octombrie 2026, 17:18"
     }
   ]
 }
