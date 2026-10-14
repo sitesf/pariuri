@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-14T12:42:40.939812+00:00",
-  "updated_at_afisaj": "14 octombrie 2026, 15:42",
+  "updated_at": "2026-10-14T13:19:12.850676+00:00",
+  "updated_at_afisaj": "14 octombrie 2026, 16:19",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 134,
+  "numar_stiri": 139,
   "stiri": [
+    {
+      "id": "7d6192a50f2d",
+      "titlu": "Cartonașul roșu al lui Struijk, anulat după intervenția VAR",
+      "rezumat": "Cartonașul roșu controversat primit de fundașul lui Brighton, Pascal Struijk, în meciul împotriva lui Sunderland, a fost anulat în urma unei decizii VAR. Această hotărâre vine după o analiză amănunțită a fazei, care a stabilit că decizia inițială a arbitrului a fost eronată. Anularea cartonașului roșu înseamnă că Struijk va fi disponibil pentru următoarele meciuri ale echipei sale, evitând o suspendare care ar fi putut afecta planurile antrenorului. Decizia subliniază importanța sistemului VAR în corectarea erorilor evidente din timpul partidelor de fotbal.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-14T13:19:12.843154+00:00",
+      "data_afisaj": "14 octombrie 2026, 16:19"
+    },
+    {
+      "id": "3de246927b44",
+      "titlu": "David Silva revine pe teren pentru un singur meci la un club din Hong Kong",
+      "rezumat": "Fostul jucător al lui Manchester City, David Silva, se va retrage din nou din activitate la vârsta de 40 de ani pentru a juca un singur meci pentru ambițiosul club Supreme Sha Tin din Hong Kong. Această apariție specială marchează o revenire temporară pe teren pentru legendarul mijlocaș spaniol, care a fost o figură emblematică în fotbalul european. Evenimentul este așteptat cu entuziasm de fanii locali, care speră ca prezența lui Silva să aducă un impuls semnificativ și o expunere internațională pentru fotbalul din Hong Kong.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-14T13:19:12.844998+00:00",
+      "data_afisaj": "14 octombrie 2026, 16:19"
+    },
+    {
+      "id": "ff2a59ae9682",
+      "titlu": "Sunderland revine în competițiile europene după 53 de ani, într-un meci în Portugalia",
+      "rezumat": "Clubul Sunderland se pregătește pentru o deplasare în Portugalia, unde va întâlni echipa Torreense în Europa League. Această partidă marchează o revenire a „Pisicilor Negre” în competițiile europene după o pauză de 53 de ani. Ultima lor participare a fost în Cupa Cupelor, împotriva lui Sporting Lisabona. Meciul oferă o oportunitate pentru Sunderland de a-și relansa sezonul, după un început dificil în Premier League, și de a se bucura de o experiență europeană mult așteptată.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-14T13:19:12.846951+00:00",
+      "data_afisaj": "14 octombrie 2026, 16:19"
+    },
+    {
+      "id": "28ecdf86749f",
+      "titlu": "„Next Generation 2026”: Cei mai promițători 60 de tineri talente din fotbalul mondial",
+      "rezumat": "Publicația The Guardian a prezentat lista „Next Generation 2026”, care include 60 dintre cei mai talentați tineri jucători de fotbal născuți în anul 2009. Printre aceștia se numără nume precum „noul Toni Kroos” și Cavan Sullivan, considerat următoarea mare speranță a fotbalului american. Această selecție anuală evidențiază potențialii viitori mari jucători ai sportului, oferind o perspectivă asupra talentelor emergente care ar putea domina scenele fotbalistice în anii următori.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-14T13:19:12.848916+00:00",
+      "data_afisaj": "14 octombrie 2026, 16:19"
+    },
+    {
+      "id": "e7cceaba2b28",
+      "titlu": "Îngrijorări privind forma lui Bruno Fernandes la Manchester United",
+      "rezumat": "Performanța recentă a căpitanului lui Manchester United, Bruno Fernandes, a ridicat semne de întrebare, sugerând că ar putea exista probleme de formă sau o posibilă accidentare. Clubul a emis anterior o declarație despre o „mică problemă” la mijlocaș, asigurând că nu este nimic grav, însă evoluția sa din meciul cu Atletico Madrid din Liga Campionilor a indicat contrariul. Situația sa este analizată, iar fanii și experții se întreabă dacă antrenorul Michael Carrick ar trebui să ia în considerare o pauză pentru jucătorul cheie.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-10-14T13:19:12.850658+00:00",
+      "data_afisaj": "14 octombrie 2026, 16:19"
+    },
     {
       "id": "a8203a45cfc0",
       "titlu": "Meciul lui Millwall, întrerupt din cauza unor presupuse scandări rasiste",
