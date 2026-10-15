@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-15T12:31:05.931990+00:00",
-  "updated_at_afisaj": "15 octombrie 2026, 15:31",
+  "updated_at": "2026-10-15T13:04:48.115473+00:00",
+  "updated_at_afisaj": "15 octombrie 2026, 16:04",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 133,
+  "numar_stiri": 138,
   "stiri": [
+    {
+      "id": "aaf11c0d9018",
+      "titlu": "Man Utd a circus after Martinez comments - Keane",
+      "rezumat": "Lisandro Martinez's outburst shows Manchester United are in \"chaos\", says former captain Roy Keane.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-15T13:04:30.069673+00:00",
+      "data_afisaj": "15 octombrie 2026, 16:04"
+    },
+    {
+      "id": "b6b6fb074fde",
+      "titlu": "The Andorran club making history with a Pochettino in the team",
+      "rezumat": "Maurizio Pochettino and inter Club d'Escaldes are set to make European history for footballing minnows Andorra.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-15T13:04:30.071874+00:00",
+      "data_afisaj": "15 octombrie 2026, 16:04"
+    },
+    {
+      "id": "ba30affa96f9",
+      "titlu": "Getafe make offer to sign free agent Sancho",
+      "rezumat": "Getafe make a formal offer to sign attacker Jadon Sancho, who is searching for a new club after leaving Manchester United in the summer.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-15T13:04:30.074012+00:00",
+      "data_afisaj": "15 octombrie 2026, 16:04"
+    },
+    {
+      "id": "2b6b05d8a034",
+      "titlu": "The Portuguese second-tier team hosting Sunderland in Europe",
+      "rezumat": "Portuguese second-tier side Torreense host Sunderland in the Europa League in what will be their first ever European home match.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-15T13:04:30.075993+00:00",
+      "data_afisaj": "15 octombrie 2026, 16:04"
+    },
+    {
+      "id": "3ce1a992048d",
+      "titlu": "Why Souness rejected Barcelona when he left Liverpool",
+      "rezumat": "Liverpool legend Graeme Souness reveals he rejected the chance to sign for Barcelona when he left the European champions.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-15T13:04:30.077579+00:00",
+      "data_afisaj": "15 octombrie 2026, 16:04"
+    },
     {
       "id": "39ac0b022e2c",
       "titlu": "Lideri europeni ai fotbalului caută un candidat împotriva lui Gianni Infantino la președinția FIFA",
