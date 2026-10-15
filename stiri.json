@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-15T19:45:44.683580+00:00",
-  "updated_at_afisaj": "15 octombrie 2026, 22:45",
+  "updated_at": "2026-10-15T20:08:31.027184+00:00",
+  "updated_at_afisaj": "15 octombrie 2026, 23:08",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 135,
+  "numar_stiri": 140,
   "stiri": [
+    {
+      "id": "173868b5a163",
+      "titlu": "Kane poised to extend Bayern stay - Friday's gossip",
+      "rezumat": "Harry Kane is close to signing a new deal at Bayern Munich, Arda Guler agrees a new contract with Real Madrid, Liverpool are leading the race for Bournemouth's Alex Scott, plus more.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-15T20:08:12.984831+00:00",
+      "data_afisaj": "15 octombrie 2026, 23:08"
+    },
+    {
+      "id": "b86e518e46a4",
+      "titlu": "Barcola shines as Liverpool score six to beat LASK",
+      "rezumat": "Bradley Barcola scores a hat-trick as Liverpool beat LASK 6-3 in Austria to make it two wins from two in the league phase of this season's Champions League.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-15T20:08:12.986464+00:00",
+      "data_afisaj": "15 octombrie 2026, 23:08"
+    },
+    {
+      "id": "ff28fb604b4e",
+      "titlu": "Villa rewrite the record books as they hit Fenerbahce for six",
+      "rezumat": "Aston Villa record their biggest ever win in a European competition as they thrash Turkish side Fenerbahce 6-0 at Villa Park, with Nicolas Jackson and Ross Barkley both scoring twice.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-15T20:08:12.988153+00:00",
+      "data_afisaj": "15 octombrie 2026, 23:08"
+    },
+    {
+      "id": "dcf55c3b1a5b",
+      "titlu": "Real Madrid stun Roma after dramatic late comeback",
+      "rezumat": "Real Madrid complete their latest dramatic Champions League comeback by scoring three goals in the final seven minutes to earn antrenor Jose Mourinho a win on his return to Roma.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-15T20:08:12.989753+00:00",
+      "data_afisaj": "15 octombrie 2026, 23:08"
+    },
+    {
+      "id": "8a01dad4df1b",
+      "titlu": "Brilliant Barcola scores first hat-trick to get lift-off at Liverpool",
+      "rezumat": "Liverpool's summer signing Bradley Barcola scores his first senior hat-trick, and his first goals for Liverpool, as he helps his side beat LASK 6-3 in Austria to make it two wins from two in this season's Champions League.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-15T20:08:12.991530+00:00",
+      "data_afisaj": "15 octombrie 2026, 23:08"
+    },
     {
       "id": "97a23d654690",
       "titlu": "Martinez își cere scuze pentru izbucnire și este amendat de Man Utd",
