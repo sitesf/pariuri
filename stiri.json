@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-14T20:23:30.059600+00:00",
-  "updated_at_afisaj": "14 octombrie 2026, 23:23",
+  "updated_at": "2026-10-15T12:31:05.931990+00:00",
+  "updated_at_afisaj": "15 octombrie 2026, 15:31",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,54 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 139,
+  "numar_stiri": 133,
   "stiri": [
+    {
+      "id": "39ac0b022e2c",
+      "titlu": "Lideri europeni ai fotbalului caută un candidat împotriva lui Gianni Infantino la președinția FIFA",
+      "rezumat": "Figuri importante din fotbalul european își exprimă încrederea că vor găsi un candidat care să-l conteste pe actualul președinte FIFA, Gianni Infantino, la alegerile de anul viitor. Fostul manager al lui Arsenal, Arsene Wenger, este menționat ca un potențial candidat surpriză. Această mișcare vine în contextul unei presiuni crescânde asupra lui Infantino și a unei ședințe cruciale a consiliului FIFA, subliniind dorința de schimbare în conducerea forului mondial.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-15T12:31:05.926601+00:00",
+      "data_afisaj": "15 octombrie 2026, 15:31"
+    },
+    {
+      "id": "f01b94f7408a",
+      "titlu": "Aston Villa înregistrează cea mai mare victorie europeană din istoria clubului",
+      "rezumat": "Aston Villa a stabilit un nou record pentru cea mai mare victorie a clubului într-o competiție europeană, învingând categoric echipa turcă Fenerbahce cu 6-0 pe Villa Park. Nicolas Jackson și Ross Barkley au marcat câte două goluri, contribuind la o performanță dominantă. Acest rezultat impresionant subliniază forma bună a echipei și ambițiile sale în competițiile continentale, oferind fanilor un motiv de sărbătoare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-10-15T12:31:05.928686+00:00",
+      "data_afisaj": "15 octombrie 2026, 15:31"
+    },
+    {
+      "id": "f1621f6d66c3",
+      "titlu": "Real Madrid realizează o revenire spectaculoasă împotriva Romei în Liga Campionilor",
+      "rezumat": "Real Madrid a reușit o nouă revenire dramatică în Liga Campionilor, marcând trei goluri în ultimele șapte minute ale meciului pentru a obține victoria împotriva Romei. Această performanță a asigurat o victorie pentru antrenorul Jose Mourinho la revenirea sa pe stadionul fostei sale echipe. Meciul a fost plin de tensiune și emoție, demonstrând încă o dată capacitatea Realului de a lupta până la capăt în cele mai dificile momente.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-15T12:31:05.930336+00:00",
+      "data_afisaj": "15 octombrie 2026, 15:31"
+    },
+    {
+      "id": "5fb3b1117ac6",
+      "titlu": "Cheltuielile FA pentru ospitalitatea de la Wembley și biletele gratuite au crescut cu 25%",
+      "rezumat": "Asociația de Fotbal (FA) a înregistrat o creștere de 25% a cheltuielilor pentru ospitalitatea de la Wembley și biletele gratuite destinate membrilor Consiliului FA în sezonul trecut. Cheltuielile au ajuns la 564.400 de lire sterline în sezonul 2025-26, față de 452.300 de lire sterline în sezonul precedent. Această creștere vine în contextul în care fanii din întreaga țară au protestat împotriva prețurilor biletelor și a crizei costului vieții.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-15T12:31:05.931974+00:00",
+      "data_afisaj": "15 octombrie 2026, 15:31"
+    },
     {
       "id": "cc2b723f56e7",
       "titlu": "Reconstrucția stadionului afectează performanțele echipei Aston Villa?",
@@ -1476,117 +1522,6 @@
       ],
       "data_publicare": "2026-10-08T14:26:41.691749+00:00",
       "data_afisaj": "8 octombrie 2026, 17:26"
-    },
-    {
-      "id": "91f560565bfc",
-      "titlu": "Are Anglia deja înlocuitorul lui Kane - sau urmează să apară?",
-      "rezumat": "Cariera record a lui Harry Kane la naționala Angliei nu poate dura la nesfârșit. Dar au deja „Cei Trei Lei” un înlocuitor gata pregătit?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-07T21:42:41.451098+00:00",
-      "data_afisaj": "8 octombrie 2026, 00:42"
-    },
-    {
-      "id": "ee1a8319c08a",
-      "titlu": "Este prea devreme să ne uităm la clasamentul Premier League?",
-      "rezumat": "După doar cinci meciuri, ar putea părea cam devreme să acordăm prea multă atenție clasamentului Premier League - dar este probabil mai stabil decât crezi. BBC Sport analizează statisticile din spatele clasamentului de la începutul sezonului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-07T21:42:41.452625+00:00",
-      "data_afisaj": "8 octombrie 2026, 00:42"
-    },
-    {
-      "id": "50c3243045a0",
-      "titlu": "Man Utd și Liverpool îl urmăresc pe Truffert - bârfele de joi",
-      "rezumat": "Manchester United și Liverpool îl urmăresc pe Adrien Truffert, Tyler Morton este dorit de Newcastle, iar Martin Odegaard este pe cale să semneze un nou contract cu Arsenal.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-07T21:42:41.454165+00:00",
-      "data_afisaj": "8 octombrie 2026, 00:42"
-    },
-    {
-      "id": "1ff452bbce78",
-      "titlu": "Două icoane, un adio glorios și un final potențial amar",
-      "rezumat": "În timp ce cariera internațională a lui Lionel Messi se încheie cu un adio călduros, cea a lui Cristiano Ronaldo riscă să se stingă. BBC Sport analizează ceea ce ar putea fi sfârșitul carierelor internaționale a doi mari fotbaliști.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-07T21:42:41.455707+00:00",
-      "data_afisaj": "8 octombrie 2026, 00:42"
-    },
-    {
-      "id": "3ac81a49a6fb",
-      "titlu": "Fostul jucător al lui Man City, Silva, iese din retragere",
-      "rezumat": "Fostul mijlocaș al lui Manchester City, David Silva, iese din retragere la vârsta de 40 de ani pentru a se alătura clubului Sha Tin din Liga Premieră din Hong Kong.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-07T21:42:41.457195+00:00",
-      "data_afisaj": "8 octombrie 2026, 00:42"
-    },
-    {
-      "id": "9de686c1a489",
-      "titlu": "Iar l-a făcut Marius Baciu „căcăcios”, după 10 ani: „Se întoarce Didi Prodan în mormânt”",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-10-07T21:05:37.592010+00:00",
-      "data_afisaj": "8 octombrie 2026, 00:05"
-    },
-    {
-      "id": "c74581b7977e",
-      "titlu": "Guardiola se pregătește să participe la primul meci acasă la Man City de la verdictul de vinovăție",
-      "rezumat": "Pep Guardiola este de așteptat să participe săptămâna viitoare la meciul lui Manchester City din Liga Campionilor împotriva Paris St-Germain - primul meci de acasă al clubului de când a fost găsit vinovat de majoritatea celor 115 acuzații aduse lor de Premier League.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-07T21:05:37.593659+00:00",
-      "data_afisaj": "8 octombrie 2026, 00:05"
-    },
-    {
-      "id": "eec4ada212d4",
-      "titlu": "Rice aproape de a ajunge la un nou acord cu Arsenal",
-      "rezumat": "Declan Rice este aproape de a ajunge la un nou contract pe termen lung cu Arsenal, au declarat surse pentru BBC Sport.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-07T21:05:37.595093+00:00",
-      "data_afisaj": "8 octombrie 2026, 00:05"
-    },
-    {
-      "id": "e8279dd58e51",
-      "titlu": "Eckert este liber să rămână șef de la Southampton, deoarece interdicția Spygate a fost suspendată",
-      "rezumat": "Tonda Eckert este liberă să continue ca antrenor de la Southampton, după ce a primit o suspendare pentru rolul său în Spygate.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-07T21:05:37.596636+00:00",
-      "data_afisaj": "8 octombrie 2026, 00:05"
-    },
-    {
-      "id": "42eb9dfd4e70",
-      "titlu": "Vega, fostul jucător al lui Spurs, se pregătește să candideze la președintele FIFA",
-      "rezumat": "Fostul fundaș al lui Tottenham, Ramon Vega, spune că intenționează să candideze la alegerile prezidențiale FIFA de anul viitor - devenind prima persoană care confirmă că vrea să-l provoace pe Gianni Infantino.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-07T21:05:37.598174+00:00",
-      "data_afisaj": "8 octombrie 2026, 00:05"
     }
   ]
 }
