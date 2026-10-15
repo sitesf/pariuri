@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-15T13:04:48.115473+00:00",
-  "updated_at_afisaj": "15 octombrie 2026, 16:04",
+  "updated_at": "2026-10-15T19:45:44.683580+00:00",
+  "updated_at_afisaj": "15 octombrie 2026, 22:45",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,65 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 138,
+  "numar_stiri": 135,
   "stiri": [
+    {
+      "id": "97a23d654690",
+      "titlu": "Martinez își cere scuze pentru izbucnire și este amendat de Man Utd",
+      "rezumat": "Fundașul lui Manchester United, Lisandro Martinez, își cere scuze în urma remarcilor sale controversate care criticau conducerea clubului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-10-15T19:45:36.923272+00:00",
+      "data_afisaj": "15 octombrie 2026, 22:45"
+    },
+    {
+      "id": "5811c80e3c4c",
+      "titlu": "Universitatea Craiova – Getafe 1-1. Oltenii la raport: două stele și trei belele la debut în grupa Conference League pentru Gabriel Berceanu",
+      "rezumat": "(rezumat indisponibil)",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-10-15T19:45:36.925580+00:00",
+      "data_afisaj": "15 octombrie 2026, 22:45"
+    },
+    {
+      "id": "306899870bfb",
+      "titlu": "Predicțiile lui Sutton vs. boxerul și fanul Ipswich, Fabio Wardley",
+      "rezumat": "Expertul BBC Sport în fotbal, Chris Sutton, se duelează cu boxerul și fanul Ipswich, Fabio Wardley, plus cititorii BBC și inteligența artificială, cu predicțiile sale pentru meciurile din Premier League din acest weekend.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-15T19:45:36.927166+00:00",
+      "data_afisaj": "15 octombrie 2026, 22:45"
+    },
+    {
+      "id": "b77538ad4fe2",
+      "titlu": "Infantino își cere scuze Consiliului FIFA - dar i se spune că încă nu este apt să conducă",
+      "rezumat": "Președintele Gianni Infantino își cere scuze Consiliului FIFA pentru planul său de vânzare a Cupei Mondiale - dar i se cere să meargă mai departe.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-15T19:45:36.928869+00:00",
+      "data_afisaj": "15 octombrie 2026, 22:45"
+    },
+    {
+      "id": "9af10dc3a594",
+      "titlu": "Man City arată luptă, dar nu reușește o revenire împotriva PSG-ului agil",
+      "rezumat": "Campioana en-titre Paris Saint-Germain obține a doua victorie din două în Liga Campionilor din acest sezon, după ce a învins Manchester City cu 4-2 pe stadionul Etihad.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-15T19:45:36.930523+00:00",
+      "data_afisaj": "15 octombrie 2026, 22:45"
+    },
     {
       "id": "aaf11c0d9018",
       "titlu": "Man Utd a circus after Martinez comments - Keane",
@@ -1489,94 +1546,6 @@
       ],
       "data_publicare": "2026-10-08T21:09:26.179130+00:00",
       "data_afisaj": "9 octombrie 2026, 00:09"
-    },
-    {
-      "id": "dfff9979e463",
-      "titlu": "Aleksander Ceferin va candida pentru al patrulea mandat de președinte UEFA",
-      "rezumat": "Președintele UEFA, Aleksander Ceferin, a anunțat că va candida pentru un al patrulea mandat la conducerea forului european de fotbal. Decizia sa vine după ce anterior indicase că nu va mai căuta realegerea. Această schimbare de poziție este semnificativă pentru viitorul fotbalului european, având în vedere influența UEFA în organizarea competițiilor majore și în reglementarea sportului la nivel continental. Anunțul său va fi un punct central de discuție înaintea următoarelor alegeri pentru președinția UEFA.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-08T15:13:57.830179+00:00",
-      "data_afisaj": "8 octombrie 2026, 18:13"
-    },
-    {
-      "id": "b46fd6fd866d",
-      "titlu": "Investigație BBC: Tricouri de fotbal produse în fabrici cu salarii sub 1 liră pe oră",
-      "rezumat": "O investigație realizată de BBC Sport a descoperit că producția tricourilor oficiale de fotbal este realizată în fabrici din Cambodgia, unde muncitorii sunt plătiți cu mai puțin de o liră sterlină pe oră. Această dezvăluire ridică semne de întrebare serioase cu privire la etica lanțurilor de aprovizionare din industria fotbalului și la condițiile de muncă ale celor implicați în fabricarea echipamentelor sportive. Investigația subliniază necesitatea unei transparențe sporite și a unor standarde de muncă echitabile în producția globală de articole sportive.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-08T15:13:57.832070+00:00",
-      "data_afisaj": "8 octombrie 2026, 18:13"
-    },
-    {
-      "id": "3db10335fba3",
-      "titlu": "Valul de accidentări la echipele naționale provoacă nemulțumire cluburilor de top",
-      "rezumat": "O serie de accidentări suferite de jucători cheie precum Kai Havertz, Alexander Isak și Patrick Dorgu în timpul pauzei internaționale a generat frustrare în rândul cluburilor de top. Antrenorii și oficialii cluburilor sunt îngrijorați de impactul meciurilor internaționale intense asupra stării fizice a fotbaliștilor, mai ales în contextul unui calendar deja aglomerat. Această situație reaprinde dezbaterea privind echilibrul dintre obligațiile internaționale și cele de club, precum și protejarea sănătății jucătorilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-08T15:13:57.834532+00:00",
-      "data_afisaj": "8 octombrie 2026, 18:13"
-    },
-    {
-      "id": "c5854321d942",
-      "titlu": "Manchester United riscă să piardă un tânăr talent pentru o sumă mică, în ciuda unei noi oferte",
-      "rezumat": "Manchester United i-a oferit lui JJ Gabriel, un tânăr atacant de 16 ani, un nou contract de bursă, însă clubul riscă să-l piardă pentru o sumă de doar 350.000 de lire sterline. Gabriel a surprins clubul solicitând anularea înregistrării sale luna trecută, declanșând o competiție între cluburile de elită din Europa pentru semnătura sa. Situația evidențiază provocările cu care se confruntă cluburile în reținerea tinerilor talente în fața interesului altor echipe și a reglementărilor privind compensațiile.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-08T15:13:57.836487+00:00",
-      "data_afisaj": "8 octombrie 2026, 18:13"
-    },
-    {
-      "id": "66102b53bb4d",
-      "titlu": "Arbitrii cu normă întreagă în Women's Super League, amânați până în 2029 în ciuda creșterii finanțării",
-      "rezumat": "Cluburile din Women's Super League (WSL) au aprobat o creștere semnificativă a finanțării pentru oficialii de meci, însă introducerea arbitrilor cu normă întreagă în prima ligă engleză feminină este amânată până în 2029. Decizia, luată la cea mai recentă ședință a consiliului WSL, se va concentra pe îmbunătățirea educației, analizei și performanței fizice a arbitrilor. Această măsură vine în contextul unor cereri tot mai mari pentru profesionalizarea completă a oficialilor de meci în fotbalul feminin.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-08T14:26:41.686900+00:00",
-      "data_afisaj": "8 octombrie 2026, 17:26"
-    },
-    {
-      "id": "38e156b2d661",
-      "titlu": "Strategia Brighton de a atrage și dezvolta tineri talentați",
-      "rezumat": "Directorul sportiv al clubului Brighton, Mike Cave, a oferit detalii despre politica de transferuri a echipei și modul în care clubul reușește să semneze și să crească cele mai bune tinere talente din fotbal. Brighton este recunoscut pentru abordarea sa inovatoare în depistarea și integrarea jucătorilor promițători, reușind să se impună ca un model în dezvoltarea fotbaliștilor, adesea înaintea rivalilor cu bugete mai mari. Această strategie contribuie la succesul continuu al clubului pe scena fotbalistică.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-08T14:26:41.688532+00:00",
-      "data_afisaj": "8 octombrie 2026, 17:26"
-    },
-    {
-      "id": "f1e792357bca",
-      "titlu": "Fotbalist din Laos arestat sub acuzația de implicare în trucarea de meciuri",
-      "rezumat": "Un fotbalist internațional din Laos a fost arestat în legătură cu acuzații de trucare a unor meciuri în timpul Campionatului ASEAN din 2026. Federația de Fotbal din Laos a sesizat autoritățile cu privire la suspiciuni de mită, pariuri ilegale și manipulare a rezultatelor. Soukphachan Lueanthala, un mijlocaș care a jucat pentru naționala Laos și pentru clubul Salavan United, este suspectat că ar fi colaborat cu un sindicat de pariuri. Cazul subliniază eforturile continue de combatere a corupției în fotbal.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-08T14:26:41.690197+00:00",
-      "data_afisaj": "8 octombrie 2026, 17:26"
-    },
-    {
-      "id": "00f1d6c35fc2",
-      "titlu": "Manchester City ar putea contesta verdictul Premier League pe un argument cheie",
-      "rezumat": "Manchester City, găsit vinovat de peste 100 de încălcări ale regulilor financiare, ar putea evita sancțiuni majore prin contestarea verdictului Premier League pe un \"argument fundamental\". Clubul intenționează să-și bazeze apelul pe o interpretare diferită a regulamentelor, sperând să anuleze sau să reducă semnificativ acuzațiile. Această strategie juridică complexă ar putea influența deznodământul unuia dintre cele mai importante cazuri din istoria recentă a fotbalului englez, cu implicații semnificative pentru viitorul clubului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-10-08T14:26:41.691749+00:00",
-      "data_afisaj": "8 octombrie 2026, 17:26"
     }
   ]
 }
