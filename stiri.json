@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-16T19:26:37.340524+00:00",
-  "updated_at_afisaj": "16 octombrie 2026, 22:26",
+  "updated_at": "2026-10-16T19:46:39.920093+00:00",
+  "updated_at_afisaj": "16 octombrie 2026, 22:46",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,65 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 135,
+  "numar_stiri": 140,
   "stiri": [
+    {
+      "id": "2a1b4506d786",
+      "titlu": "Michael Carrick Abordează Situația Lisandro Martínez la Manchester United",
+      "rezumat": "Antrenorul lui Manchester United, Michael Carrick, a declarat că spune adevărul despre modul în care clubul a depășit interviul exploziv post-meci al lui Lisandro Martínez. Carrick a gestionat întrebările legate de prima criză a mandatului său, în contextul unui început slab de sezon în campionat și eliminării din Cupa Ligii. Declarațiile sale vin după ce Martínez a semnalat tensiuni în urma înfrângerii din Liga Campionilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-16T19:46:39.912930+00:00",
+      "data_afisaj": "16 octombrie 2026, 22:46"
+    },
+    {
+      "id": "375508323497",
+      "titlu": "Gianni Infantino, Solicitat să Anuleze sau Depolitizeze Premiul FIFA pentru Pace",
+      "rezumat": "Președintele FIFA, Gianni Infantino, a fost sfătuit de membri importanți ai Consiliului FIFA să anuleze sau să depolitizeze controversatul premiu pentru pace al organizației. Solicitarea vine după o reacție negativă puternică generată de acordarea premiului președintelui american Donald Trump. Mai mulți membri ai consiliului au cerut abolirea premiului, în timp ce alții au pledat pentru o reorientare a acestuia către responsabilitatea socială fotbalistică, evitând implicarea politică.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-16T19:46:39.914814+00:00",
+      "data_afisaj": "16 octombrie 2026, 22:46"
+    },
+    {
+      "id": "5c562dc73901",
+      "titlu": "Început Dificil pentru Álvaro Arbeloa la Fulham",
+      "rezumat": "Fanii lui Fulham sunt îngrijorați de performanțele echipei sub conducerea antrenorului Álvaro Arbeloa, a cărui viziune de joc ofensiv pare să se confrunte cu dificultăți. Clubul a avut un început de sezon sub așteptări, iar capacitatea lui Arbeloa de a gestiona echipa este pusă sub semnul întrebării. Această situație contrastează cu perioada anterioară, sub Marco Silva, când Fulham era recunoscută pentru eficiența schimbărilor și capacitatea de a obține rezultate.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-16T19:46:39.916452+00:00",
+      "data_afisaj": "16 octombrie 2026, 22:46"
+    },
+    {
+      "id": "4671fb2e377c",
+      "titlu": "Peter Bosz Explică Absența lui Dennis Man din Echipa PSV",
+      "rezumat": "Antrenorul echipei PSV Eindhoven, Peter Bosz, a rupt tăcerea și a oferit detalii despre motivele pentru care fotbalistul român Dennis Man a dispărut din echipa de start. Bosz a explicat că deciziile sale sunt bazate pe forma sportivă a jucătorului și pe cerințele tactice ale echipei. Această clarificare vine în urma speculațiilor din presă privind statutul lui Man la clubul olandez și rolul său în planurile antrenorului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-10-16T19:46:39.918219+00:00",
+      "data_afisaj": "16 octombrie 2026, 22:46"
+    },
+    {
+      "id": "c66b6659dfe3",
+      "titlu": "Florian Wirtz, Sub Așteptări la Liverpool Față de Forma de la Leverkusen",
+      "rezumat": "Contribuția lui Florian Wirtz la Liverpool a generat discuții, mulți observatori remarcând că jucătorul german nu a reușit să atingă forma excepțională demonstrată la Bayer Leverkusen și în naționala Germaniei. Deși a avut momente bune, în special în Liga Campionilor, performanțele sale generale la Liverpool, unde a fost transferat pentru o sumă considerabilă, au fost considerate sub potențialul său. Analiza recentă subliniază o discrepanță între așteptări și realitatea de pe teren.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-16T19:46:39.920073+00:00",
+      "data_afisaj": "16 octombrie 2026, 22:46"
+    },
     {
       "id": "325cb89a15da",
       "titlu": "Arteta: Reducerea Posturilor la Arsenal, Decizie pentru Succes Viitor",
