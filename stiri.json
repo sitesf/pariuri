@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-15T20:08:31.027184+00:00",
-  "updated_at_afisaj": "15 octombrie 2026, 23:08",
+  "updated_at": "2026-10-16T12:09:24.446081+00:00",
+  "updated_at_afisaj": "16 octombrie 2026, 15:09",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,65 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 140,
+  "numar_stiri": 135,
   "stiri": [
+    {
+      "id": "3b6e214fd4ef",
+      "titlu": "James de la Chelsea, absent trei luni după operația la genunchi",
+      "rezumat": "Căpitanul Chelsea, Reece James, va lipsi trei luni după ce a suferit o intervenție chirurgicală la genunchi.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-10-16T12:09:13.199188+00:00",
+      "data_afisaj": "16 octombrie 2026, 15:09"
+    },
+    {
+      "id": "7a28e5154e73",
+      "titlu": "„Îl văd număr 9, are calitate!”. Fotbalistul care o poate duce pe FCSB spre titlu",
+      "rezumat": "(rezumat indisponibil)",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-10-16T12:09:13.201109+00:00",
+      "data_afisaj": "16 octombrie 2026, 15:09"
+    },
+    {
+      "id": "72eeffcccc61",
+      "titlu": "'Nu este vorba despre mine' - Arbeloa respinge întrebările despre viitor",
+      "rezumat": "Antrenorul principal al lui Fulham, Alvaro Arbeloa, spune că atenția nu ar trebui să fie asupra lui, în timp ce echipa sa caută prima victorie în Premier League în acest sezon împotriva lui Hull City în acest weekend.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-16T12:09:13.202613+00:00",
+      "data_afisaj": "16 octombrie 2026, 15:09"
+    },
+    {
+      "id": "7526748c30dc",
+      "titlu": "Spania, sancționată cu închiderea parțială a stadionului după scandări discriminatorii împotriva Egiptului",
+      "rezumat": "Spania trebuie să joace următorul meci amical internațional cu o închidere parțială a stadionului, după ce suporterii au scandat de mai multe ori un cântec discriminatoriu despre musulmani în timpul unui meci împotriva Egiptului, pe 31 martie.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-16T12:09:13.204166+00:00",
+      "data_afisaj": "16 octombrie 2026, 15:09"
+    },
+    {
+      "id": "9025f4c86e02",
+      "titlu": "'Sunt norocos că sunt în viață' - Merino își amintește atacul asupra autocarului",
+      "rezumat": "Mijlocașul lui Arsenal și al Spaniei, Mikel Merino, reflectă asupra atacului asupra autocarului echipei Dortmund din 2017, când avea 20 de ani.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-16T12:09:13.205696+00:00",
+      "data_afisaj": "16 octombrie 2026, 15:09"
+    },
     {
       "id": "173868b5a163",
       "titlu": "Kane poised to extend Bayern stay - Friday's gossip",
@@ -1486,121 +1543,6 @@
       ],
       "data_publicare": "2026-10-09T14:13:24.576497+00:00",
       "data_afisaj": "9 octombrie 2026, 17:13"
-    },
-    {
-      "id": "73281553dbf0",
-      "titlu": "Finala Cupei Africii pe Națiuni se va decide în instanță",
-      "rezumat": "Finala Cupei Africii pe Națiuni (AFCON) din 2025, disputată între Maroc și Senegal, va ajunge la Tribunalul de Arbitraj Sportiv (TAS) pentru o decizie finală. Senegal a fost deposedată de titlu, iar acum se așteaptă o hotărâre judecătorească pentru a stabili campioana. Fanii fotbalului nu ar trebui să se aștepte la un verdict imediat, deoarece procesul de arbitraj poate dura. Această situație fără precedent ridică semne de întrebare cu privire la integritatea competiției și la modul în care deciziile administrative pot afecta rezultatele sportive majore.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-08T21:41:08.494820+00:00",
-      "data_afisaj": "9 octombrie 2026, 00:41"
-    },
-    {
-      "id": "4915a0cbd4b2",
-      "titlu": "LaLiga blochează transferul unui fost jucător de la Real Madrid din cauza temerilor legate de plăți similare cu cele ale lui Manchester City",
-      "rezumat": "LaLiga a intervenit pentru a bloca transferul unui fost jucător al Real Madrid, Dani Carvajal, la o altă echipă, în ciuda faptului că acesta era liber de contract. Decizia vine pe fondul îngrijorărilor ligii spaniole cu privire la potențiale plăți care ar putea imita practicile financiare controversate asociate cu Manchester City. Această acțiune subliniază vigilența LaLiga în aplicarea regulilor de fair-play financiar și dorința de a preveni orice nereguli care ar putea submina integritatea competiției.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-10-08T21:41:08.497217+00:00",
-      "data_afisaj": "9 octombrie 2026, 00:41"
-    },
-    {
-      "id": "5b43184872c3",
-      "titlu": "Granit Xhaka, amendă cu suspendare pentru un certificat fals de vaccinare Covid-19",
-      "rezumat": "Căpitanul echipei Sunderland, Granit Xhaka, a anunțat că a primit o amendă cu suspendare în valoare de 150.000 de franci elvețieni (aproximativ 136.000 de lire sterline) pentru obținerea unui certificat fals de vaccinare împotriva Covid-19. Decizia subliniază consecințele grave ale încălcării protocoalelor sanitare și a regulamentelor sportive. Această situație aduce în atenție responsabilitatea jucătorilor profesioniști de a respecta regulile impuse de autorități și de cluburi, având un impact asupra imaginii publice și a integrității sportului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-08T21:41:08.499086+00:00",
-      "data_afisaj": "9 octombrie 2026, 00:41"
-    },
-    {
-      "id": "d036a182f310",
-      "titlu": "Atacantul lui Everton, Martin Sherif, amendat pentru încălcarea regulilor de pariuri",
-      "rezumat": "Asociația de Fotbal (FA) l-a amendat pe atacantul echipei Everton, Martin Sherif, cu 5.000 de lire sterline pentru încălcarea regulilor privind pariurile sportive. Infracțiunile au avut loc pe o perioadă de 15 luni, conform investigației. Această decizie reiterează politica strictă a FA împotriva pariurilor în rândul jucătorilor profesioniști, menită să protejeze integritatea sportului și să prevină orice conflict de interese. Cluburile și jucătorii sunt constant avertizați cu privire la aceste reguli, iar încălcările duc la sancțiuni financiare și sportive.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-08T21:41:08.500968+00:00",
-      "data_afisaj": "9 octombrie 2026, 00:41"
-    },
-    {
-      "id": "e14e71cb282c",
-      "titlu": "Generația Următoare 2026: 60 dintre cele mai bune tinere talente din fotbalul mondial",
-      "rezumat": "O nouă ediție a seriei \"Generația Următoare\" a fost publicată, prezentând 60 dintre cei mai promițători tineri fotbaliști născuți în anul 2009. Lista include talente diverse, de la jucători comparați cu \"noul Toni Kroos\" până la speranțe emergente precum Cavan Sullivan din SUA. Această inițiativă oferă o perspectivă asupra viitorului fotbalului, evidențiind jucătorii care ar putea domina scena mondială în anii următori. Publicația urmărește, de asemenea, progresul generațiilor anterioare, oferind o analiză a evoluției tinerilor talente.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-08T21:41:08.502912+00:00",
-      "data_afisaj": "9 octombrie 2026, 00:41"
-    },
-    {
-      "id": "9f981b4b0353",
-      "titlu": "Reacții la Manchester City după verdict: Maresca și Haaland îndeamnă la unitate",
-      "rezumat": "Antrenorul Enzo Maresca a declarat că jucătorii săi nu sunt afectați de \"zgomotul\" din jurul celor 115 acuzații aduse clubului Manchester City în Premier League. Erling Haaland a transmis, de asemenea, un mesaj de unitate fanilor, îndemnându-i să \"rămână împreună, să se bucure de călătorie și să zâmbească\" în urma verdictului de vinovăție. Aceste declarații vin în contextul în care clubul a fost găsit vinovat de încălcări grave ale regulilor financiare, iar echipa se pregătește pentru primul meci de la aflarea veștii.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-08T21:09:26.174327+00:00",
-      "data_afisaj": "9 octombrie 2026, 00:09"
-    },
-    {
-      "id": "9628a28cb05c",
-      "titlu": "Gianni Infantino primește un impuls pentru realegerea la președinția FIFA",
-      "rezumat": "Șansele lui Gianni Infantino de a fi reales președinte al FIFA au crescut semnificativ, după ce Victor Montagliani, șeful CONCACAF, a anunțat că intenționează să candideze pentru un ultim mandat la conducerea confederației sale. Această decizie îl exclude pe Montagliani din cursa pentru președinția FIFA, eliminând astfel un potențial rival important pentru Infantino. Anunțul a fost transmis majorității celor 41 de membri CONCACAF, consolidând poziția actualului președinte FIFA.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-08T21:09:26.175446+00:00",
-      "data_afisaj": "9 octombrie 2026, 00:09"
-    },
-    {
-      "id": "61e53a7dede9",
-      "titlu": "Ella Toone, convocată de urgență la naționala Angliei după retragerea lui Lucy Bronze",
-      "rezumat": "Mijlocașul lui Manchester United, Ella Toone, a primit o convocare de ultim moment la echipa națională a Angliei pentru meciurile de baraj ale Cupei Mondiale din această lună împotriva Greciei. Convocarea vine după ce Lucy Bronze a fost nevoită să se retragă din lot din cauza unei accidentări minore. Antrenoarea Sarina Wiegman a lăudat atitudinea pozitivă a lui Toone, care inițial fusese omisă din lotul preliminar, dar acum are o nouă șansă de a-și demonstra valoarea.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-08T21:09:26.176635+00:00",
-      "data_afisaj": "9 octombrie 2026, 00:09"
-    },
-    {
-      "id": "7eaf0b865ff8",
-      "titlu": "Antrenorul lui Nottingham Forest, Oliver Glasner, se teme de daunele aduse Premier League de saga Manchester City",
-      "rezumat": "Oliver Glasner, antrenorul lui Nottingham Forest, a declarat că verdictul de vinovăție împotriva clubului Manchester City, acuzat de \"contracte fictive\", a afectat reputația globală a Premier League. Glasner consideră că integritatea campionatului englez este amenințată și că fanii ar putea să-și piardă interesul. El a subliniat că liga are o misiune dificilă de a-și repara imaginea, după ce City a fost găsit vinovat de umflarea artificială a veniturilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-08T21:09:26.177832+00:00",
-      "data_afisaj": "9 octombrie 2026, 00:09"
-    },
-    {
-      "id": "26d18b66f281",
-      "titlu": "Arabia Saudită renunță la planurile pentru \"stadionul din cer\", punând sub semnul întrebării promisiunile pentru Cupa Mondială",
-      "rezumat": "Arabia Saudită a abandonat planurile ambițioase de a construi un \"stadion în cer\" pentru Cupa Mondială din 2034, o decizie care ridică semne de întrebare cu privire la promisiunile făcute pentru găzduirea turneului. Proiectul futurist, care prevedea o arenă suspendată, era un element cheie în viziunea țării pentru eveniment. Renunțarea la acest plan major ar putea indica dificultăți în îndeplinirea angajamentelor de infrastructură asumate pentru găzduirea competiției.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-10-08T21:09:26.179130+00:00",
-      "data_afisaj": "9 octombrie 2026, 00:09"
     }
   ]
 }
