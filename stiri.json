@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-16T12:09:24.446081+00:00",
-  "updated_at_afisaj": "16 octombrie 2026, 15:09",
+  "updated_at": "2026-10-16T13:02:34.245265+00:00",
+  "updated_at_afisaj": "16 octombrie 2026, 16:02",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 135,
+  "numar_stiri": 140,
   "stiri": [
+    {
+      "id": "024859fd87e6",
+      "titlu": "George Pușcaș, audiat de DIICOT în dosarul Nordis! Prejudiciu uriaș",
+      "rezumat": "(rezumat indisponibil)",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-10-16T13:02:16.610007+00:00",
+      "data_afisaj": "16 octombrie 2026, 16:02"
+    },
+    {
+      "id": "79d9ab694ec0",
+      "titlu": "The rapid rise of a former art dealer to Europe's hottest young antrenor",
+      "rezumat": "How Brighton's Fabian Hurzeler has gone from Germany's fifth tier to being reportedly of interest to Manchester United.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-16T13:02:16.611758+00:00",
+      "data_afisaj": "16 octombrie 2026, 16:02"
+    },
+    {
+      "id": "e1a8373ef07e",
+      "titlu": "Does the Premier League 'Big Six' still exist?",
+      "rezumat": "For years the Premier League has had a defined 'Big Six', comprised of Arsenal, Chelsea, Liverpool, Manchester City, Manchester United and Tottenham Hotspur., but could this era be coming to an end?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-16T13:02:16.613387+00:00",
+      "data_afisaj": "16 octombrie 2026, 16:02"
+    },
+    {
+      "id": "80aa5312a525",
+      "titlu": "Arrest made after alleged racial abuse of Swansea's Eom",
+      "rezumat": "Police investigating a report of racial abuse during Millwall's Championship game against Swansea City have arrested a man.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-16T13:02:16.615010+00:00",
+      "data_afisaj": "16 octombrie 2026, 16:02"
+    },
+    {
+      "id": "bf669a274768",
+      "titlu": "Under-pressure Dionisi addresses sacking 'fake news'",
+      "rezumat": "Under pressure Watford antrenor Alessio Dionisi says reports he would lose his job after Tuesday's heavy defeat at Cardiff were \"fake news\".",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-16T13:02:16.616596+00:00",
+      "data_afisaj": "16 octombrie 2026, 16:02"
+    },
     {
       "id": "3b6e214fd4ef",
       "titlu": "James de la Chelsea, absent trei luni după operația la genunchi",
