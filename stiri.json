@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-16T13:02:34.245265+00:00",
-  "updated_at_afisaj": "16 octombrie 2026, 16:02",
+  "updated_at": "2026-10-16T19:26:37.340524+00:00",
+  "updated_at_afisaj": "16 octombrie 2026, 22:26",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,65 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 140,
+  "numar_stiri": 135,
   "stiri": [
+    {
+      "id": "325cb89a15da",
+      "titlu": "Arteta: Reducerea Posturilor la Arsenal, Decizie pentru Succes Viitor",
+      "rezumat": "Antrenorul lui Arsenal, Mikel Arteta, a declarat că decizia clubului de a reduce 60 de posturi a fost luată pentru a \"atinge succesul pe care dorim să-l creăm\". Această măsură face parte dintr-o strategie mai amplă de restructurare, menită să optimizeze resursele și eficiența operațională a clubului. Arteta a subliniat că, deși dificilă, decizia este considerată esențială pentru a asigura stabilitatea financiară și competitivitatea pe termen lung a echipei, în contextul obiectivelor ambițioase stabilite.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-16T19:26:37.333216+00:00",
+      "data_afisaj": "16 octombrie 2026, 22:26"
+    },
+    {
+      "id": "d79827805164",
+      "titlu": "Real Madrid Cere Demisia Președintelui La Liga, Javier Tebas",
+      "rezumat": "Clubul Real Madrid a solicitat demisia \"imediată\" a președintelui La Liga, Javier Tebas, în urma unei declarații controversate în care acesta a comparat conducerea clubului cu Joseph Goebbels. Această cerere vine pe fondul tensiunilor continue dintre Real Madrid și conducerea ligii spaniole, escaladând un conflict de lungă durată. Declarația lui Tebas a stârnit indignare profundă în rândul clubului, care consideră comparația inacceptabilă și lipsită de respect.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-16T19:26:37.335004+00:00",
+      "data_afisaj": "16 octombrie 2026, 22:26"
+    },
+    {
+      "id": "07b861adced5",
+      "titlu": "Manchester City se Confruntă cu Obstacole Semnificative în Apelul Împotriva Sancțiunilor Premier League",
+      "rezumat": "Manchester City se confruntă cu \"obstacole substanțiale\" în încercarea de a câștiga apelul împotriva acuzațiilor de încălcare a regulilor financiare ale Premier League, conform unui avocat de top citat de BBC Sport. Clubul a fost găsit vinovat de nereguli financiare, iar procesul de apel este considerat a fi extrem de dificil. Experții juridici subliniază complexitatea cazului și necesitatea unor argumente solide pentru a contesta decizia inițială, având în vedere gravitatea acuzațiilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-16T19:26:37.336902+00:00",
+      "data_afisaj": "16 octombrie 2026, 22:26"
+    },
+    {
+      "id": "07fbfac869b9",
+      "titlu": "Arsenal Va Realiza o Nouă Fotografie de Echipă, Inclusiv cu William Saliba",
+      "rezumat": "Antrenorul lui Arsenal, Mikel Arteta, a anunțat că echipa va face o nouă fotografie oficială, care îl va include pe fundașul William Saliba. Anunțul vine după ce absența surprinzătoare a lui Saliba din fotografia de echipă publicată recent a stârnit numeroase discuții și speculații. Decizia de a reface fotografia are scopul de a clarifica situația și de a asigura că toți membrii importanți ai lotului sunt reprezentați corespunzător în materialele oficiale ale clubului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-10-16T19:26:37.338683+00:00",
+      "data_afisaj": "16 octombrie 2026, 22:26"
+    },
+    {
+      "id": "fbe03b3ebad0",
+      "titlu": "Anglia Avancează în Runda Finală a Calificărilor pentru Cupa Mondială Feminină 2027",
+      "rezumat": "Echipa națională feminină a Angliei, \"Lionesses\", a învins Grecia cu scorul general de 8-1, asigurându-și astfel calificarea în runda finală a preliminariilor pentru Cupa Mondială Feminină din 2027, care va avea loc în Brazilia. Această performanță solidă le plasează într-o poziție favorabilă în cursa pentru un loc la turneul final. Următoarea etapă a campaniei de calificare va fi crucială pentru determinarea participării lor la prestigioasa competiție internațională.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-10-16T19:26:37.340503+00:00",
+      "data_afisaj": "16 octombrie 2026, 22:26"
+    },
     {
       "id": "024859fd87e6",
       "titlu": "George Pușcaș, audiat de DIICOT în dosarul Nordis! Prejudiciu uriaș",
@@ -1486,119 +1543,6 @@
       ],
       "data_publicare": "2026-10-09T20:39:45.011347+00:00",
       "data_afisaj": "9 octombrie 2026, 23:39"
-    },
-    {
-      "id": "11428e72c791",
-      "titlu": "Federațiile Europene solicită renunțarea la pauza internațională de trei săptămâni",
-      "rezumat": "Asociațiile de fotbal din Europa și-au exprimat îngrijorarea profundă cu privire la impactul pauzei internaționale extinse de trei săptămâni și vor cere UEFA să revină la programul anterior. Această decizie vine pe fondul nemulțumirilor legate de volumul de muncă al jucătorilor, numărul mare de accidentări și viabilitatea financiară a cluburilor, după ce noul format a inclus patru meciuri de Nations League în doar 11 zile.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-09T14:59:12.971379+00:00",
-      "data_afisaj": "9 octombrie 2026, 17:59"
-    },
-    {
-      "id": "4d59fcb71362",
-      "titlu": "Rui Pinto, denunțătorul cazului Manchester City, rămâne sub protecția martorilor",
-      "rezumat": "Rui Pinto, denunțătorul din cazul Manchester City, va rămâne sub protecția martorilor după ce autoritățile portugheze au suspendat decizia inițială de a-i retrage această protecție. Comisia specială pentru programe de securitate a recunoscut că Pinto ar fi trebuit să aibă ocazia de a-și prezenta cazul înainte de luarea deciziei. Acesta poate acum contesta retragerea protecției, o evoluție importantă în contextul investigației financiare a clubului englez.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-09T14:59:12.973339+00:00",
-      "data_afisaj": "9 octombrie 2026, 17:59"
-    },
-    {
-      "id": "af9ffbf73694",
-      "titlu": "Cazul Rangers din 2012 oferă perspective asupra viitorului incert al lui Manchester City",
-      "rezumat": "BBC Scotland analizează modul în care potențialele consecințe pentru Manchester City, după ce clubul a fost găsit vinovat de încălcarea regulilor financiare, s-ar putea compara cu colapsul financiar al clubului Rangers din 2012. Articolul explorează scenarii precum sancțiuni, retragerea titlurilor și necesitatea de a o lua de la zero, oferind un context istoric pentru situația actuală a 'cetățenilor' și posibilele repercusiuni pe termen lung.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-09T14:59:12.975215+00:00",
-      "data_afisaj": "9 octombrie 2026, 17:59"
-    },
-    {
-      "id": "459800728caa",
-      "titlu": "Arteta oferă actualizări privind accidentările jucătorilor cheie de la Arsenal",
-      "rezumat": "Antrenorul lui Arsenal, Mikel Arteta, a oferit detalii despre starea de sănătate a mai multor jucători importanți ai echipei. Printre aceștia se numără Tzolis, Havertz, Konsa și Rice, ale căror accidentări au stârnit îngrijorări în rândul fanilor. Aceste actualizări sunt cruciale pentru planurile tactice ale echipei înaintea următoarelor meciuri din campionat și competițiile europene, influențând selecția și strategia pe teren.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-10-09T14:59:12.977124+00:00",
-      "data_afisaj": "9 octombrie 2026, 17:59"
-    },
-    {
-      "id": "a76a1769f87a",
-      "titlu": "Răspunsul lui Arteta la înfrângerea cu Brighton ar putea modela viitorul lui Arsenal",
-      "rezumat": "Mikel Arteta a demonstrat un apetit crescut pentru risc în acest sezon, însă, pe măsură ce Arsenal încearcă să rămână în fruntea clasamentului, eșecul de a se reinventa ar reprezenta un risc și mai mare. Analiza explorează modul în care deciziile antrenorului după recenta înfrângere cu Brighton ar putea influența direcția strategică și performanțele viitoare ale clubului londonez, subliniind importanța adaptării continue.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-09T14:59:12.978955+00:00",
-      "data_afisaj": "9 octombrie 2026, 17:59"
-    },
-    {
-      "id": "c2ea1ac7afca",
-      "titlu": "Proprietarii Everton iau în considerare vânzarea clubului",
-      "rezumat": "Grupul Friedkin, actualii proprietari ai clubului Everton, explorează posibilitatea de a vinde echipa la mai puțin de doi ani de la preluarea controlului. Această decizie vine într-un moment crucial pentru clubul din Premier League, ridicând întrebări despre stabilitatea financiară și planurile pe termen lung. Situația ar putea influența viitorul sportiv și administrativ al echipei, atrăgând atenția asupra potențialilor noi investitori.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-09T14:13:24.569582+00:00",
-      "data_afisaj": "9 octombrie 2026, 17:13"
-    },
-    {
-      "id": "e95cf166e3c3",
-      "titlu": "Carlos Baleba, pregătit pentru debutul la Manchester United",
-      "rezumat": "Carlos Baleba, achiziția de 70 de milioane de lire sterline a lui Manchester United din această vară, este așteptat să își facă debutul pentru club. Mijlocașul camerunez ar putea juca primul său meci oficial împotriva echipei Tottenham Hotspur pe stadionul Old Trafford. Debutul său este anticipat cu interes, având în vedere suma considerabilă plătită pentru transfer și așteptările legate de contribuția sa la echipa în campionat.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-09T14:13:24.571307+00:00",
-      "data_afisaj": "9 octombrie 2026, 17:13"
-    },
-    {
-      "id": "29063a87e6c2",
-      "titlu": "Jose Mourinho consideră „ridicole” criticile la adresa lui Kylian Mbappé",
-      "rezumat": "Antrenorul Jose Mourinho a sărit în apărarea lui Kylian Mbappé, declarând că criticile recente la adresa atacantului francez sunt „ridicole”. Mbappé a fost sub o atenție sporită și a primit numeroase critici în timpul pauzei internaționale. Declarația lui Mourinho subliniază sprijinul pentru jucător și contestă validitatea judecăților negative din spațiul public, subliniind presiunea la care este supus starul francez.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-10-09T14:13:24.573137+00:00",
-      "data_afisaj": "9 octombrie 2026, 17:13"
-    },
-    {
-      "id": "901be2119f54",
-      "titlu": "Victor Montagliani va candida pentru realegerea la președinția Concacaf",
-      "rezumat": "Victor Montagliani, actualul președinte al Confederației de Fotbal din America de Nord, Centrală și Caraibe (Concacaf), a anunțat că intenționează să candideze pentru un nou mandat anul viitor. Această decizie îl exclude automat din cursa pentru președinția FIFA, unde era considerat un potențial rival pentru Gianni Infantino. Montagliani și-a comunicat intențiile personalului Concacaf, clarificând viitorul său în administrația fotbalului regional.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-09T14:13:24.574819+00:00",
-      "data_afisaj": "9 octombrie 2026, 17:13"
-    },
-    {
-      "id": "2cfc788c6ed5",
-      "titlu": "Proprietarul Chelsea Women sugerează noi planuri de dezvoltare",
-      "rezumat": "Alexis Ohanian, proprietarul echipei feminine Chelsea, a lăsat să se înțeleagă că urmează noi etape importante în dezvoltarea clubului. Această declarație vine după mutarea meciurilor de acasă ale echipei pe stadionul Stamford Bridge, un pas semnificativ pentru vizibilitatea și susținerea fotbalului feminin. Ohanian a sugerat că sunt în pregătire planuri ambițioase pentru viitorul echipei, indicând o creștere continuă a investițiilor și a profilului clubului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-10-09T14:13:24.576497+00:00",
-      "data_afisaj": "9 octombrie 2026, 17:13"
     }
   ]
 }
