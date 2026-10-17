@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-16T19:46:39.920093+00:00",
-  "updated_at_afisaj": "16 octombrie 2026, 22:46",
+  "updated_at": "2026-10-17T11:28:44.261567+00:00",
+  "updated_at_afisaj": "17 octombrie 2026, 14:28",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,52 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 140,
+  "numar_stiri": 136,
   "stiri": [
+    {
+      "id": "c0c67d42ed82",
+      "titlu": "Carrick deschide ușa pentru transferuri la Manchester United în ianuarie",
+      "rezumat": "Antrenorul principal al lui Manchester United, Michael Carrick, a declarat că clubul va căuta să-și consolideze echipa în fereastra de transferuri din ianuarie. Planurile vizează în special îmbunătățirea defensivei pe parcursul anului viitor, indicând o strategie pe termen lung pentru a adresa slăbiciunile actuale ale echipei. Această decizie vine în contextul unei perioade dificile pentru club, care încearcă să-și revină în campionat.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-10-17T11:28:44.255984+00:00",
+      "data_afisaj": "17 octombrie 2026, 14:28"
+    },
+    {
+      "id": "c2cb849233e4",
+      "titlu": "Wolves prelungește seria fără victorie a lui Burnley acasă, în ciuda golului lui Vardy",
+      "rezumat": "Echipa Wolves a reușit să învingă Burnley, prelungind seria neagră a acestora la 21 de meciuri fără victorie pe teren propriu. Tawanda Chirewa, intrat de pe bancă, a marcat la scurt timp după ce a fost introdus în joc, asigurând victoria pentru echipa lui César Peixoto. Golul lui Jamie Vardy pentru Burnley nu a fost suficient pentru a schimba soarta meciului, consolidând dificultățile clubului pe Turf Moor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-17T11:28:44.257986+00:00",
+      "data_afisaj": "17 octombrie 2026, 14:28"
+    },
+    {
+      "id": "5ab92d226123",
+      "titlu": "Grecii ar putea să-l returneze pe Tavi Popescu la FCSB după doar câteva meciuri",
+      "rezumat": "Tavi Popescu, fotbalistul român transferat recent în Grecia, se confruntă cu o situație dificilă. Conform informațiilor, clubul grec ar intenționa să-l trimită înapoi la FCSB după o perioadă scurtă, posibil chiar astăzi. Această decizie neașteptată ar reprezenta o lovitură pentru jucător și ar ridica semne de întrebare privind adaptarea sa la noua echipă și performanțele sale recente.",
+      "categorie": "Fotbal",
+      "surse": [
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-10-17T11:28:44.259901+00:00",
+      "data_afisaj": "17 octombrie 2026, 14:28"
+    },
+    {
+      "id": "e8d4469d67f8",
+      "titlu": "Dinamo suferă o pierdere de ultim moment în lot",
+      "rezumat": "Echipa Dinamo se confruntă cu o veste neplăcută, înregistrând o pierdere importantă în lot chiar înainte sau în timpul meciului cu FC Botoșani, câștigat cu scorul de 2-0. Detaliile sugerează că un mijlocaș cheie ar fi fost afectat, posibil printr-o accidentare sau o altă indisponibilitate neașteptată. Această situație ar putea influența strategia antrenorului pentru partidele viitoare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-10-17T11:28:44.261545+00:00",
+      "data_afisaj": "17 octombrie 2026, 14:28"
+    },
     {
       "id": "2a1b4506d786",
       "titlu": "Michael Carrick Abordează Situația Lisandro Martínez la Manchester United",
@@ -1510,96 +1554,6 @@
       ],
       "data_publicare": "2026-10-10T13:22:50.265889+00:00",
       "data_afisaj": "10 octombrie 2026, 16:22"
-    },
-    {
-      "id": "1fe57bd84c2a",
-      "titlu": "CAF reevaluează trecerea Cupei Africii pe Națiuni la un ciclu de patru ani",
-      "rezumat": "Confederația Africană de Fotbal (CAF) analizează posibilitatea de a menține Cupa Africii pe Națiuni la un ciclu bienal, în loc să treacă la un format de patru ani, așa cum fusese propus anterior. Discuțiile sunt în curs pentru a revizui decizia inițială, ceea ce ar putea influența calendarul competițional și strategia cluburilor africane și europene în privința jucătorilor. Această reevaluare vine în contextul unor preocupări legate de impactul asupra programului internațional și a jucătorilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-09T21:25:16.362388+00:00",
-      "data_afisaj": "10 octombrie 2026, 00:25"
-    },
-    {
-      "id": "84329b0dfc41",
-      "titlu": "Oliver Glasner despre revenirea la Crystal Palace: \"Nu aveam un plan să fiu antrenor la Nottingham Forest\"",
-      "rezumat": "Oliver Glasner, actualul antrenor al echipei Nottingham Forest, se pregătește să revină pe Selhurst Park pentru prima dată de când a părăsit Crystal Palace în vară. Glasner a mărturisit că nu a avut un plan inițial de a prelua conducerea tehnică a lui Nottingham Forest, sugerând că circumstanțele l-au adus în această poziție. El anticipează o primire mixtă din partea fanilor fostului său club, unde a avut succes înainte de plecare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-09T21:25:16.364839+00:00",
-      "data_afisaj": "10 octombrie 2026, 00:25"
-    },
-    {
-      "id": "88c045b5e193",
-      "titlu": "Analiză \"Next Generation 2021\": Succesul timpuriu nu garantează longevitatea în fotbal",
-      "rezumat": "O analiză a selecției \"Next Generation\" din 2021, care a identificat 80 de tinere talente, arată că un debut promițător în fotbal nu asigură neapărat o carieră lungă și de succes. Studiul urmărește parcursul acestor jucători pe o perioadă de cinci ani, evidențiind că dezvoltarea lentă și constantă poate fi, în unele cazuri, mai benefică decât ascensiunea rapidă. Această perspectivă oferă o înțelegere mai nuanțată a traiectoriilor în fotbalul de performanță.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-09T21:25:16.366256+00:00",
-      "data_afisaj": "10 octombrie 2026, 00:25"
-    },
-    {
-      "id": "f75a2f8ba48c",
-      "titlu": "Anglia preia controlul play-off-ului Cupei Mondiale cu victoria în Grecia",
-      "rezumat": "Anglia controlează play-off-ul Cupei Mondiale cu Grecia după ce a câștigat prima manșă cu 3-1 la Creta.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-10-09T20:39:45.003032+00:00",
-      "data_afisaj": "9 octombrie 2026, 23:39"
-    },
-    {
-      "id": "d1d662d9ad39",
-      "titlu": "Proprietarul Everton, The Friedkin Group, explorează vânzarea clubului după doi ani",
-      "rezumat": "Proprietarul care analizează opțiunile de investiții, inclusiv vânzarea Fereastra de transfer a ridicat întrebări cu privire la angajamentul proprietarului Everton, The Friedkin Group, caută să vândă clubul la mai puțin de doi ani după ce a preluat de la Farhad Moshiri. Compania cu sediul în Houston a confirmat vineri într-o declarație că caută investiții noi în Everton, dar este și deschisă să renunțe la control în cazul în care ar fi găsit un cumpărător potrivit. Nu a fost stabilit un interval de timp pentru o vânzare, dar TFG are încredere că va atrage rapid un cumpărător",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-09T20:39:45.004702+00:00",
-      "data_afisaj": "9 octombrie 2026, 23:39"
-    },
-    {
-      "id": "0c52a5ddd9ee",
-      "titlu": "Am propriile mele întrebări despre cazul Man City - Carrick",
-      "rezumat": "Șeful lui Manchester United, Michael Carrick, spune că a fost afectat personal de cazul Manchester City, care a făcut ca clubul să fie găsit vinovat de încălcarea regulilor financiare din Premier League și are încă întrebări cu privire la această chestiune.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-09T20:39:45.006312+00:00",
-      "data_afisaj": "9 octombrie 2026, 23:39"
-    },
-    {
-      "id": "47f5d3a038e9",
-      "titlu": "Va opri cineva realegerea lui Infantino ca președinte FIFA?",
-      "rezumat": "La puțin mai mult de două luni de când a apărut vestea despre propunerea lui Infantino pentru Fifa Forward Enterprise, șansele par mici ca Gianni Infantino să fie demis din funcția de președinte.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-09T20:39:45.008821+00:00",
-      "data_afisaj": "9 octombrie 2026, 23:39"
-    },
-    {
-      "id": "b33ac65a8996",
-      "titlu": "Titluri Man City 'absolut ne' viciate - Maresca",
-      "rezumat": "Antrenorul lui Manchester City, Enzo Maresca, spune că titlurile clubului nu sunt „absolut” viciate după ce au fost găsiți vinovați de majoritatea celor 115 acuzații aduse lor de Premier League.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-09T20:39:45.011347+00:00",
-      "data_afisaj": "9 octombrie 2026, 23:39"
     }
   ]
 }
