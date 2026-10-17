@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-17T11:58:45.247645+00:00",
-  "updated_at_afisaj": "17 octombrie 2026, 14:58",
+  "updated_at": "2026-10-17T18:17:07.646289+00:00",
+  "updated_at_afisaj": "17 octombrie 2026, 21:17",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,65 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 136,
+  "numar_stiri": 131,
   "stiri": [
+    {
+      "id": "2e14f170220c",
+      "titlu": "Fotbal zilnic",
+      "rezumat": "Alex Scott se așează cu Kasper și Peter Schmeichel pentru interviul de fotbal din această săptămână.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-17T18:16:43.438495+00:00",
+      "data_afisaj": "17 octombrie 2026, 21:16"
+    },
+    {
+      "id": "1ddf115eb803",
+      "titlu": "🚨 LIVE Rapid – Corvinul Live Text Online, de la 21:30, în etapa 12 din Superliga. Giuleștiul, sub presiunea următoarei impecabil al lui Dinamo. Echipele de start",
+      "rezumat": "(rezumat indisponibil)",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-10-17T18:16:43.440373+00:00",
+      "data_afisaj": "17 octombrie 2026, 21:16"
+    },
+    {
+      "id": "ad76bf6f8988",
+      "titlu": "Huuduieli și banane în ziua sfidării la Man City",
+      "rezumat": "Fanii lui Manchester City huiduie imnul Premier League înainte de a-și vedea echipa avansând cu șase puncte în fruntea tabelului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-17T18:16:43.441504+00:00",
+      "data_afisaj": "17 octombrie 2026, 21:16"
+    },
+    {
+      "id": "482c627794e5",
+      "titlu": "Martinez de la Chelsea a fost transportat la spital pentru „teste de precauție”",
+      "rezumat": "Portarul Emiliano Martinez a fost dus la spital, deoarece victoria cu 2-0 a lui Chelsea la Everton sâmbătă a însemnat că și-a asigurat prima porțiune liberă în nouă luni.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-17T18:16:43.442674+00:00",
+      "data_afisaj": "17 octombrie 2026, 21:16"
+    },
+    {
+      "id": "0fd6ff61cef1",
+      "titlu": "Neto vedete dar cine a fost supus? - evaluările jucătorilor pentru Everton v Chelsea",
+      "rezumat": "Cele două goluri ale lui Pedro Neto în repriza secundă pentru Chelsea au asigurat o victorie importantă în deplasare la Everton sâmbătă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-17T18:16:43.443928+00:00",
+      "data_afisaj": "17 octombrie 2026, 21:16"
+    },
     {
       "id": "c0c67d42ed82",
       "titlu": "Carrick deschide ușa pentru transferuri la Manchester United în ianuarie",
@@ -1442,118 +1499,6 @@
       ],
       "data_publicare": "2026-10-10T19:53:34.389467+00:00",
       "data_afisaj": "10 octombrie 2026, 22:53"
-    },
-    {
-      "id": "7ab838e8d683",
-      "titlu": "Portugalia îl suspendă pe Cristiano Ronaldo după ce a părăsit echipa națională",
-      "rezumat": "Federația Portugheză de Fotbal a deschis proceduri disciplinare împotriva lui Cristiano Ronaldo și l-a suspendat provizoriu, după ce atacantul în vârstă de 41 de ani a decis să părăsească echipa națională. Ronaldo și-a cerut scuze suporterilor marți, criticându-l totodată pe antrenorul Portugaliei, Jorge Jesus, și a declarat că va respecta orice \"suspendare care îi va fi impusă\". Incidentul marchează o perioadă tensionată pentru veteranul fotbalist și echipa națională.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-10T14:14:33.676653+00:00",
-      "data_afisaj": "10 octombrie 2026, 17:14"
-    },
-    {
-      "id": "a2e593c13e1a",
-      "titlu": "Arsenal revine și învinge Leeds, punând capăt seriei lor de invincibilitate",
-      "rezumat": "Arsenal a reușit o revenire spectaculoasă, marcând două goluri în opt minute pentru a învinge Leeds cu 2-1, punând capăt seriei de meciuri fără înfrângere a echipei lui Daniel Farke. Deși defensiva tunarilor a părut mai vulnerabilă decât în sezonul precedent, impactul jucătorilor de pe bancă și încrederea regăsită după egalare au demonstrat reziliența echipei. Victoria este crucială pentru Arsenal, care își reia forma după o pauză internațională prelungită.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-10-10T14:14:33.678515+00:00",
-      "data_afisaj": "10 octombrie 2026, 17:14"
-    },
-    {
-      "id": "9fa20b2fc0bd",
-      "titlu": "Antrenorul Chelsea, Xabi Alonso, confirmă angajamentul lui Cole Palmer față de naționala Angliei",
-      "rezumat": "Xabi Alonso, antrenorul echipei Chelsea, a declarat că Cole Palmer este pe deplin angajat să joace pentru naționala Angliei. Alonso a dezvăluit că Palmer a ratat recenta pauză internațională din cauza unei probleme legate de o accidentare la inghinal, care l-a ținut pe tușă o mare parte din sezonul trecut. Jucătorul este apt pentru meciul Chelsea cu Bournemouth de sâmbătă, clarificând astfel speculațiile privind disponibilitatea sa pentru selecție.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-10T14:14:33.680497+00:00",
-      "data_afisaj": "10 octombrie 2026, 17:14"
-    },
-    {
-      "id": "54ac17d11a6a",
-      "titlu": "Meciul Rayo Vallecano – Athletic Bilbao, suspendat definitiv în urma unui scandal",
-      "rezumat": "Partida dintre Rayo Vallecano și Athletic Bilbao, la care ar fi trebuit să participe și Andrei Rațiu, a fost suspendată definitiv în urma unui scandal. Detaliile exacte ale incidentului nu au fost specificate în titlu, dar decizia de suspendare definitivă indică o situație gravă. Această măsură drastică va avea probabil consecințe asupra programului competițional și ar putea duce la investigații suplimentare din partea organismelor de fotbal.",
-      "categorie": "Fotbal",
-      "surse": [
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-10-10T14:14:33.682300+00:00",
-      "data_afisaj": "10 octombrie 2026, 17:14"
-    },
-    {
-      "id": "5cae2f3f414a",
-      "titlu": "West Ham ratează șansa de a prelua conducerea în Championship după un egal cu QPR",
-      "rezumat": "West Ham a ratat ocazia de a urca pe primul loc în Championship, după ce a obținut doar o remiză, scor 1-1, împotriva echipei QPR. Portarul lui QPR, Pierce Charles, a avut o intervenție decisivă, apărând un penalty executat de Jarrod Bowen în prelungiri. Bowen reușise anterior să egaleze pentru West Ham, anulând un penalty controversat marcat de Nicolas Madsen în prima repriză. Această remiză menține West Ham în lupta pentru promovare, dar le amână ascensiunea în clasament.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-10T14:14:33.684116+00:00",
-      "data_afisaj": "10 octombrie 2026, 17:14"
-    },
-    {
-      "id": "0416854b6f08",
-      "titlu": "Cole Palmer semnează un nou contract pe termen lung cu Chelsea",
-      "rezumat": "Cole Palmer a semnat un nou contract cu Chelsea, pe termen lung, până în 2034, în condiții financiare îmbunătățite. Această înțelegere reprezintă unul dintre cele mai extinse contracte active din Premier League, consolidând angajamentul jucătorului față de club pentru o perioadă considerabilă. Semnarea acestui contract subliniază importanța lui Palmer în planurile de viitor ale echipei de pe Stamford Bridge.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-10-10T13:22:50.257538+00:00",
-      "data_afisaj": "10 octombrie 2026, 16:22"
-    },
-    {
-      "id": "2d8d885b9bce",
-      "titlu": "Startul excelent al lui Raphinha la Barcelona, întrerupt de o accidentare",
-      "rezumat": "Raphinha va rata următoarele două meciuri ale Barcelonei după ce s-a întors de la echipa națională cu o accidentare. Această veste vine ca o lovitură pentru clubul catalan, având în vedere startul promițător al atacantului brazilian în noul sezon. Absența sa va fi resimțită în ofensiva echipei, care se bază pe contribuția sa la crearea de ocazii și la finalizare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-10T13:22:50.258818+00:00",
-      "data_afisaj": "10 octombrie 2026, 16:22"
-    },
-    {
-      "id": "493d87b3aa24",
-      "titlu": "Alexander Isak, incert pentru meciul Liverpool vs Manchester City",
-      "rezumat": "Atacantul lui Liverpool, Alexander Isak, este considerat o incertitudine majoră pentru confruntarea din acest weekend cu Manchester City în Premier League. O actualizare privind starea sa de sănătate este așteptată, deoarece prezența sa ar fi crucială pentru echipa sa într-un meci de o importanță capitală în lupta pentru titlu. Absența sa ar putea influența strategia antrenorului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-10-10T13:22:50.259975+00:00",
-      "data_afisaj": "10 octombrie 2026, 16:22"
-    },
-    {
-      "id": "b8772d59a2a9",
-      "titlu": "Erin Cuthbert revine pe teren pentru Scoția după o lungă perioadă de recuperare",
-      "rezumat": "Erin Cuthbert și-a exprimat bucuria și ușurarea după ce a făcut prima sa apariție din acest sezon în victoria impresionantă a Scoției cu 2-0 împotriva Cehiei. Jucătoarea a avut o vară lungă de recuperare în urma unei accidentări, iar revenirea sa este un impuls important pentru echipa națională. Prezența sa pe teren aduce un plus de experiență și calitate la mijlocul terenului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-10T13:22:50.264474+00:00",
-      "data_afisaj": "10 octombrie 2026, 16:22"
-    },
-    {
-      "id": "09e9c497a381",
-      "titlu": "Speranțele Irlandei de Nord la Cupa Mondială, considerate \"imposibile\" după înfrângerea cu Portugalia",
-      "rezumat": "Michael McArdle a declarat că șansele Irlandei de Nord de a învinge Portugalia într-un play-off de calificare la Cupa Mondială au trecut de la \"improbabile la imposibile\" după înfrângerea categorică cu 4-0 în prima manșă. Rezultatul compromite serios calificarea echipei, lăsând-o cu o misiune extrem de dificilă în retur. Echipa se confruntă acum cu o provocare aproape insurmontabilă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-10T13:22:50.265889+00:00",
-      "data_afisaj": "10 octombrie 2026, 16:22"
     }
   ]
 }
