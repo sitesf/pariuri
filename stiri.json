@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-17T18:17:07.646289+00:00",
-  "updated_at_afisaj": "17 octombrie 2026, 21:17",
+  "updated_at": "2026-10-17T18:58:24.198285+00:00",
+  "updated_at_afisaj": "17 octombrie 2026, 21:58",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,56 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 131,
+  "numar_stiri": 135,
   "stiri": [
+    {
+      "id": "0f6a42ee53e4",
+      "titlu": "Manchester City Stabilește un Record Sub Conducerea lui Enzo Maresca",
+      "rezumat": "Manchester City a învins-o pe Ipswich, iar antrenorul Enzo Maresca a devenit primul manager din istoria clubului care câștigă primele sale șapte meciuri la conducerea echipei. Această performanță subliniază startul perfect al lui Maresca, consolidând poziția de lider a echipei în Premier League. Victoria a venit într-un meci disputat, în care Ipswich a opus rezistență pe terenul lui City, dar nu a putut opri seria impresionantă a gazdelor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-17T18:58:24.194633+00:00",
+      "data_afisaj": "17 octombrie 2026, 21:58"
+    },
+    {
+      "id": "32702773aec7",
+      "titlu": "Chelsea Câștigă la Everton Grație Dublei lui Pedro Neto",
+      "rezumat": "Chelsea a obținut o victorie meritată cu 2-0 împotriva lui Everton, într-un meci din Premier League, marcând o revenire puternică după pauza internațională. Pedro Neto a fost eroul partidei, marcând ambele goluri ale echipei lui Xabi Alonso. Performanța solidă a \"albaștrilor\" le-a permis să urce pe locul cinci în clasament, demonstrând spirit și autoritate pe terenul dificil al lui Everton și confirmând o formă bună a echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-17T18:58:24.196253+00:00",
+      "data_afisaj": "17 octombrie 2026, 21:58"
+    },
+    {
+      "id": "63568a149161",
+      "titlu": "Liverpool Revine și Câștigă cu Brentford, care Termină Meciul în Nouă Jucători",
+      "rezumat": "Liverpool a reușit o victorie importantă în deplasare împotriva lui Brentford, într-un meci tensionat din Premier League. Echipa gazdă a terminat partida în nouă jucători, după ce Yehor Yarmolyuk a primit un cartonaș roșu în prima repriză pentru un incident cu Jérémy Jacquet. Alexander Isak a completat revenirea lui Liverpool, asigurând cele trei puncte într-o confruntare dificilă, marcată de decizii controversate și un ritm alert.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-10-17T18:58:24.197274+00:00",
+      "data_afisaj": "17 octombrie 2026, 21:58"
+    },
+    {
+      "id": "89ed3af4fe4d",
+      "titlu": "Rezultate din Premiership-ul Scoțian: Kilmarnock Iese din Zona Retrogradării",
+      "rezumat": "Kilmarnock a obținut o victorie crucială cu 3-2 împotriva lui Motherwell, grație dublei lui Greg Kiltie, reușind să se desprindă de ultimul loc în clasamentul Premiership-ului Scoțian. În alte meciuri, Falkirk a învins-o pe Hibs cu 2-1, iar Aberdeen a trecut de St Mirren cu 3-1, punând capăt unei serii de cinci înfrângeri consecutive pentru adversari. Aceste rezultate au reconfigurat parțial clasamentul din zona inferioară a ligii.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-10-17T18:58:24.198276+00:00",
+      "data_afisaj": "17 octombrie 2026, 21:58"
+    },
     {
       "id": "2e14f170220c",
       "titlu": "Fotbal zilnic",
