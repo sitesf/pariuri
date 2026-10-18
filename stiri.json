@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-18T11:58:45.860962+00:00",
-  "updated_at_afisaj": "18 octombrie 2026, 14:58",
+  "updated_at": "2026-10-18T12:27:32.744379+00:00",
+  "updated_at_afisaj": "18 octombrie 2026, 15:27",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 128,
+  "numar_stiri": 133,
   "stiri": [
+    {
+      "id": "4dade205625e",
+      "titlu": "Leeds United și Manchester United se Duelează în Premier League",
+      "rezumat": "Meciul dintre Leeds United și Manchester United, contând pentru Premier League, a început la ora 14:00 BST pe stadionul Elland Road. Partida este una cu o încărcătură istorică semnificativă pentru ambele echipe. Sunt disponibile actualizări live, inclusiv formațiile de start: Leeds (3-4-2-1) cu Trafford în poartă și Calvert-Lewin în atac, iar Manchester United cu Martinez în primul unsprezece. Fanii așteaptă cu nerăbdare deznodământul acestei confruntări clasice din fotbalul englez.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-18T12:27:32.738841+00:00",
+      "data_afisaj": "18 octombrie 2026, 15:27"
+    },
+    {
+      "id": "5539243d8330",
+      "titlu": "Manzambi Aduce Victoria lui Aston Villa la Newcastle, Emery Atinge 100 de Victorii",
+      "rezumat": "Johan Manzambi a marcat golul victoriei pentru Aston Villa împotriva lui Newcastle, printr-o lovitură de cap decisivă. Această victorie marchează un moment important pentru antrenorul Unai Emery, care a atins pragul de 100 de victorii în Premier League. Meciul a fost o confruntare intensă, iar succesul obținut pe terenul lui Newcastle consolidează poziția lui Aston Villa în clasament și subliniază eficacitatea strategiei lui Emery.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-18T12:27:32.740242+00:00",
+      "data_afisaj": "18 octombrie 2026, 15:27"
+    },
+    {
+      "id": "d16402b131cc",
+      "titlu": "Alex Iwobi Asigură Prima Victorie a Sezonului pentru Fulham",
+      "rezumat": "Fulham a obținut prima sa victorie în Premier League în acest sezon, grație golului marcat de Alex Iwobi împotriva echipei Hull. Acest succes este crucial pentru moralul echipei și pentru parcursul lor în campionat, după un început dificil. Iwobi a fost decisiv, aducând cele trei puncte mult așteptate pentru formația sa. Victoria oferă un impuls important pentru Fulham în încercarea de a se distanța de zona retrogradării.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-18T12:27:32.741572+00:00",
+      "data_afisaj": "18 octombrie 2026, 15:27"
+    },
+    {
+      "id": "b19a90f5e3c5",
+      "titlu": "West Ham Urcă pe Locul Doi în Championship; Norwich Continuă Seria Negativă",
+      "rezumat": "West Ham a învins Swansea cu scorul de 1-0, grație golului marcat de Divine Mukasa în prima repriză, urcând astfel pe locul doi în clasamentul Championship, la doar un punct de lider. Aceasta a fost a doua victorie a \"Ciocănarilor\" în patru zile. Pe de altă parte, Norwich City a suferit a șasea înfrângere consecutivă, continuând o serie negativă care îi plasează într-o situație dificilă în liga a doua engleză.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-18T12:27:32.743017+00:00",
+      "data_afisaj": "18 octombrie 2026, 15:27"
+    },
+    {
+      "id": "6a5636712fcf",
+      "titlu": "Hearts Revine pe Parkhead Într-o Confruntare Crucială cu Celtic",
+      "rezumat": "Echipa Hearts se pregătește să înfrunte Celtic pe stadionul Parkhead într-o partidă importantă din Premiership-ul Scoțian. Ultima vizită a lui Hearts pe acest teren s-a încheiat cu spulberarea visului lor la titlu în doar 11 minute. Acum, echipa revine la Glasgow, reîmprospătată și reorganizată, hotărâtă să demonstreze că este capabilă să obțină un rezultat pozitiv și să-și consolideze poziția în campionat.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-18T12:27:32.744362+00:00",
+      "data_afisaj": "18 octombrie 2026, 15:27"
+    },
     {
       "id": "752cb56f43c6",
       "titlu": "Rangers Ratează Șansa de a Urca pe Primul Loc După Egalul cu Dundee",
