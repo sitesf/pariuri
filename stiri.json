@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-17T18:58:24.198285+00:00",
-  "updated_at_afisaj": "17 octombrie 2026, 21:58",
+  "updated_at": "2026-10-18T11:58:45.860962+00:00",
+  "updated_at_afisaj": "18 octombrie 2026, 14:58",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,44 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 135,
+  "numar_stiri": 128,
   "stiri": [
+    {
+      "id": "752cb56f43c6",
+      "titlu": "Rangers Ratează Șansa de a Urca pe Primul Loc După Egalul cu Dundee",
+      "rezumat": "Echipa Rangers a fost ținută în șah cu un scor de 2-2 de către Dundee, după ce Callum Jones a marcat golul egalizator în a doua repriză. Acest rezultat împiedică Rangers să preia conducerea în Premiership-ul Scoțian, ratând o oportunitate importantă de a se distanța în clasament față de rivalii săi. Partida a fost una intensă și disputată, cu ambele formații arătând determinare, însă Rangers nu a reușit să-și asigure toate cele trei puncte necesare pentru a urca pe prima poziție.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-18T11:58:45.857616+00:00",
+      "data_afisaj": "18 octombrie 2026, 14:58"
+    },
+    {
+      "id": "c37a734207d6",
+      "titlu": "Dominik Szoboszlai de la Liverpool, Accidentat pe Termen Nedefinit",
+      "rezumat": "Mijlocașul lui Liverpool, Dominik Szoboszlai, va fi indisponibil pentru o perioadă de timp, conform ultimelor informații. Detaliile exacte ale accidentării nu au fost specificate, însă absența sa reprezintă o lovitură pentru echipa antrenată de Andoni Iraola, având în vedere contribuția sa importantă la jocul echipei în acest sezon. Fanii așteaptă cu nerăbdare vești despre recuperarea sa și data revenirii pe teren, sperând ca perioada de indisponibilitate să fie cât mai scurtă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-18T11:58:45.859194+00:00",
+      "data_afisaj": "18 octombrie 2026, 14:58"
+    },
+    {
+      "id": "a3db087db7a4",
+      "titlu": "Lionel Messi Marchează o Dublă și Aduce Victoria lui Inter Miami în MLS",
+      "rezumat": "Lionel Messi a fost din nou decisiv pentru Inter Miami, marcând două goluri spectaculoase și contribuind la victoria echipei sale cu 3-1 împotriva formației Atlanta United în MLS. Atacantul argentinian a preluat inițiativa după pauză, transformând meciul cu două reușite individuale de excepție. Anterior, Messi și Luis Suarez au colaborat pentru a crea primul gol al partidei, marcat de atacantul mexican Germán Berterame, demonstrând încă o dată influența sa majoră în campionatul nord-american de fotbal.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-18T11:58:45.860942+00:00",
+      "data_afisaj": "18 octombrie 2026, 14:58"
+    },
     {
       "id": "0f6a42ee53e4",
       "titlu": "Manchester City Stabilește un Record Sub Conducerea lui Enzo Maresca",
@@ -1429,124 +1465,6 @@
       ],
       "data_publicare": "2026-10-11T13:51:01.004046+00:00",
       "data_afisaj": "11 octombrie 2026, 16:51"
-    },
-    {
-      "id": "573a6b5a8d5f",
-      "titlu": "Solanke egalează în prelungiri, Tottenham obține un punct cu 10 jucători împotriva lui Manchester United",
-      "rezumat": "Dominic Solanke a marcat în prelungiri, salvând un punct pentru Tottenham, care a jucat cu un om mai puțin, într-un meci tensionat împotriva lui Manchester United pe Old Trafford. Echipa lui Ange Postecoglou a luptat eroic după eliminarea lui Rodrigo Bentancur, iar rezultatul de 1-1 a fost primit cu huiduieli de fanii gazdelor, care se confruntă cu o perioadă dificilă. Acest egal extinde seria de meciuri fără victorie pentru ambele echipe.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-10T20:25:16.853578+00:00",
-      "data_afisaj": "10 octombrie 2026, 23:25"
-    },
-    {
-      "id": "d354c60c98bb",
-      "titlu": "Brighton continuă forma excelentă, învingând Sunderland cu un om în minus",
-      "rezumat": "Brighton și-a menținut startul excelent în noul sezon de Premier League, învingând Sunderland cu 2-0 pe Stadium of Light. Victoria a fost obținută în ciuda faptului că au jucat o mare parte din a doua repriză cu zece oameni, după ce Pascal Struijk a primit un cartonaș roșu controversat. Jaouen Hadjam a marcat al doilea gol, consolidând poziția lui Brighton în clasament și adăugând încă trei puncte la un total deja impresionant de 13.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-10T20:25:16.855373+00:00",
-      "data_afisaj": "10 octombrie 2026, 23:25"
-    },
-    {
-      "id": "da1b8b63c39a",
-      "titlu": "Ipswich produce o revenire spectaculoasă și învinge Fulham, adâncind criza oaspeților",
-      "rezumat": "Ipswich Town a reușit o revenire dramatică, marcând două goluri în trei minute pe final de meci pentru a învinge Fulham cu 2-1 pe Portman Road. Această înfrângere prelungeste seria fără victorie a lui Fulham la șase meciuri în Premier League, punând presiune suplimentară pe antrenorul Alvaro Arbeloa. Abdoul Ouattara și Dara O’Shea au fost eroii gazdelor, transformând un deficit într-o victorie neașteptată și obținând primele puncte importante acasă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-10T20:25:16.857137+00:00",
-      "data_afisaj": "10 octombrie 2026, 23:25"
-    },
-    {
-      "id": "62bf4a4313c8",
-      "titlu": "Brentford își extinde seria de invincibilitate cu o remiză obținută în prelungiri la Aston Villa",
-      "rezumat": "Brentford și-a continuat startul neînvins în noul sezon de Premier League, obținând o remiză de 2-2 pe terenul lui Aston Villa. Kristoffer Ajer a marcat golul egalizator târziu în meci, asigurând un punct prețios pentru echipa sa. Pentru Aston Villa, așteptarea primei victorii pe teren propriu în acest sezon de Premier League continuă, după un meci disputat și plin de evenimente, care a demonstrat rezistența ambelor formații.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-10T20:25:16.858944+00:00",
-      "data_afisaj": "10 octombrie 2026, 23:25"
-    },
-    {
-      "id": "b38c5de6b77a",
-      "titlu": "Hearts învinge categoric St Mirren cu 5-0 în Premiership-ul Scoțian",
-      "rezumat": "Echipa Hearts a obținut o victorie convingătoare cu scorul de 5-0 împotriva formației St Mirren, într-un meci din Premiership-ul Scoțian. Această performanță solidă subliniază forma bună a echipei Hearts și contribuie la consolidarea poziției lor în clasament. Rezultatul a fost unul clar, demonstrând superioritatea gazdelor pe parcursul întregii partide și oferind un spectacol ofensiv fanilor prezenți pe stadion.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-10T20:25:16.860651+00:00",
-      "data_afisaj": "10 octombrie 2026, 23:25"
-    },
-    {
-      "id": "cf7a58444451",
-      "titlu": "Jordan Henderson strălucește cu o dublă în victoria categorică a lui Chelsea împotriva lui Bournemouth",
-      "rezumat": "Jordan Henderson a avut o prestație memorabilă la debutul său pe teren propriu pentru Chelsea, marcând două goluri în victoria convingătoare cu 5-1 împotriva lui Bournemouth pe Stamford Bridge. Această victorie a lăsat echipa oaspete în continuare fără o victorie în Premier League în acest sezon. Performanțele lui Henderson și Moises Caicedo au fost considerate esențiale în succesul echipei, consolidând mijlocul terenului și permițând echipei să atace cu eficiență.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-10T19:53:34.382606+00:00",
-      "data_afisaj": "10 octombrie 2026, 22:53"
-    },
-    {
-      "id": "639483182ceb",
-      "titlu": "Pascal Gross de la Brighton, desemnat Jucătorul Lunii în Premier League",
-      "rezumat": "Pascal Gross, mijlocașul echipei Brighton, a fost numit Jucătorul Lunii în Premier League pentru luna septembrie. Această recunoaștere subliniază impactul său semnificativ asupra echipei, atât în acest sezon, cât și pe parcursul celor nouă ani petrecuți la club, în cele două mandate. BBC Sport analizează modul în care Gross s-a dovedit a fi o achiziție extrem de valoroasă, contribuind constant la performanțele excelente ale lui Brighton.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-10T19:53:34.384283+00:00",
-      "data_afisaj": "10 octombrie 2026, 22:53"
-    },
-    {
-      "id": "17097de788eb",
-      "titlu": "Robbie Savage debutează ca antrenor la Peterborough în EFL",
-      "rezumat": "Robbie Savage, fostul internațional galez și actual comentator sportiv, a debutat pe banca tehnică a echipei Peterborough United în English Football League (EFL). Sam Parkin, expert BBC Final Score, a analizat punctele cheie ale weekendului în EFL, evidențiind debutul lui Savage ca manager. Această mutare marchează un nou capitol în cariera lui Savage, aducând o nouă dinamică în campionatul ligilor inferioare engleze și stârnind interes în rândul fanilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-10T19:53:34.385787+00:00",
-      "data_afisaj": "10 octombrie 2026, 22:53"
-    },
-    {
-      "id": "84bc56ad184c",
-      "titlu": "Anthony Gordon marchează primul său gol pentru Barcelona; Bayern Munchen remizează după o eroare a lui Neuer",
-      "rezumat": "Anthony Gordon a înscris primul său gol pentru Barcelona, contribuind la victoria cu 3-0 împotriva lui Getafe, consolidând startul perfect al campioanei spaniole în La Liga. Între timp, în Bundesliga, Bayern Munchen a remizat, după ce a primit cel mai rapid gol din istoria campionatului, în urma unei erori a portarului Manuel Neuer. Aceste rezultate marchează evenimente importante în fotbalul european de top, cu implicații pentru clasamentele din Spania și Germania.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-10T19:53:34.387696+00:00",
-      "data_afisaj": "10 octombrie 2026, 22:53"
-    },
-    {
-      "id": "6882de4d1cf6",
-      "titlu": "Rangers preia conducerea în Premiership-ul Scoțian după victoria împotriva lui Kilmarnock",
-      "rezumat": "Rangers a urcat pe prima poziție în Premiership-ul Scoțian, învingând Kilmarnock cu scorul de 3-1. Ryan Naderi a fost eroul meciului, reușind o dublă care a asigurat victoria echipei sale. Acest rezultat crucial le permite \"Gers\" să depășească rivalii și să ocupe vârful clasamentului, consolidându-și poziția în lupta pentru titlu și oferind un impuls semnificativ în campania lor din acest sezon.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-10-10T19:53:34.389467+00:00",
-      "data_afisaj": "10 octombrie 2026, 22:53"
     }
   ]
 }
