@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-18T12:27:32.744379+00:00",
-  "updated_at_afisaj": "18 octombrie 2026, 15:27",
+  "updated_at": "2026-10-18T18:31:06.024351+00:00",
+  "updated_at_afisaj": "18 octombrie 2026, 21:31",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 133,
+  "numar_stiri": 129,
   "stiri": [
+    {
+      "id": "01f080b65fa2",
+      "titlu": "Mbeumo îi oferă lui Carrick mângâiere pe măsură ce Man Utd continuă cursa fără victorii",
+      "rezumat": "Michael Carrick a spus că are căștile puse săptămâna aceasta, așa că nu a auzit zgomotul din jurul lui Manchester United, dar un egal 1-1 la Leeds înseamnă că sunt șase meciuri fără victorie.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-10-18T18:30:41.621527+00:00",
+      "data_afisaj": "18 octombrie 2026, 21:30"
+    },
+    {
+      "id": "ab1139f7f332",
+      "titlu": "Totul este o luptă pentru evaluările Fernandes - Leeds v Man Utd",
+      "rezumat": "Egalizarea lui Dominic Calvert-Lewin în repriza a doua înseamnă că Manchester United a trecut acum șase meciuri fără victorie pentru prima dată din 2019 - aflați cine a cotat cel mai bine la Elland Road.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-18T18:30:41.623282+00:00",
+      "data_afisaj": "18 octombrie 2026, 21:30"
+    },
+    {
+      "id": "9cc415fee0da",
+      "titlu": "Madueke lovește târziu, dar cine a ratat marea lui șansă? - Evaluări Forest v Arsenal",
+      "rezumat": "Noni Madueke a lovit târziu pentru a-i aduce lui Arsenal o victorie la Nottingham Forest. Iată cum au evaluat jucătorii.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-18T18:30:41.625172+00:00",
+      "data_afisaj": "18 octombrie 2026, 21:30"
+    },
+    {
+      "id": "d0986027fb4e",
+      "titlu": "cine sunt eu? Plus alte chestionare de astăzi",
+      "rezumat": "Testează-ți cunoștințele despre minge împotriva celor de astăzi Who Am I?, Five in Five și Brainteaser.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-18T18:30:41.626820+00:00",
+      "data_afisaj": "18 octombrie 2026, 21:30"
+    },
+    {
+      "id": "fb69b96e12b0",
+      "titlu": "Liverpool a venit din spate pentru a învinge Brentford, format din nouă oameni",
+      "rezumat": "Liverpool vine din spate pentru a învinge Brentford cu 2-1 pe stadionul Gtech Community, iar gazdele termină cu nouă oameni după cartonașe roșii pentru Yehor Yarmoliuk și Vitaly Janelt.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-18T18:30:41.628358+00:00",
+      "data_afisaj": "18 octombrie 2026, 21:30"
+    },
     {
       "id": "4dade205625e",
       "titlu": "Leeds United și Manchester United se Duelează în Premier League",
@@ -1421,106 +1477,6 @@
       ],
       "data_publicare": "2026-10-11T20:01:15.850562+00:00",
       "data_afisaj": "11 octombrie 2026, 23:01"
-    },
-    {
-      "id": "b492e277dba8",
-      "titlu": "Incertitudine și tensiune la Manchester City după acuzațiile Premier League",
-      "rezumat": "Manchester City se pregătește pentru meciul împotriva lui Liverpool sub un nor de incertitudine, în urma acuzațiilor de încălcare a regulilor financiare ale Premier League. Analiza BBC Sport explorează impactul potențial al acestor probleme asupra sezonului echipei, ridicând întrebări despre relevanța performanțelor sportive în contextul sancțiunilor posibile. Situația creează o atmosferă tensionată înaintea unui derby crucial, cu fanii și experții așteptând evoluțiile cazului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-11T14:39:44.076811+00:00",
-      "data_afisaj": "11 octombrie 2026, 17:39"
-    },
-    {
-      "id": "f905720ea5de",
-      "titlu": "Billy Sharp se retrage din fotbal după o carieră de 22 de ani",
-      "rezumat": "Legenda lui Sheffield United, Billy Sharp, și-a anunțat retragerea din fotbal la vârsta de 40 de ani, punând capăt unei cariere impresionante de 22 de ani. Atacantul, cunoscut pentru longevitatea și devotamentul său, a jucat un rol important pentru mai multe cluburi, în special pentru Sheffield United, unde a devenit un simbol al persistenței și al profesionalismului. Retragerea sa marchează sfârșitul unei ere pentru fotbalul englez și lasă în urmă o moștenire de respect și admirație.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-11T14:39:44.078129+00:00",
-      "data_afisaj": "11 octombrie 2026, 17:39"
-    },
-    {
-      "id": "c962cf98bb61",
-      "titlu": "Analiză: Premier League, sub controlul proprietarilor globali ultra-bogați",
-      "rezumat": "O analiză realizată de Jonathan Wilson explorează motivul pentru care Premier League rămâne sub influența proprietarilor internaționali extrem de bogați. Articolul subliniază că modelul actual, în care cluburile sunt deținute de entități precum viceprim-ministrul Abu Dhabi sau fondul de investiții public al Arabiei Saudite, este puțin probabil să se schimbe într-o țară care primește cu brațele deschise investitorii străini. Această situație ridică întrebări despre viitorul și etica fotbalului englez, evidențiind dependența ligii de capitalul extern.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-11T14:39:44.079182+00:00",
-      "data_afisaj": "11 octombrie 2026, 17:39"
-    },
-    {
-      "id": "9611230549b0",
-      "titlu": "Naționala feminină a SUA, învinsă de Spania într-un meci amical de calibru",
-      "rezumat": "Echipa națională feminină a Statelor Unite a fost expusă de o Spanie nemiloasă, care a marcat goluri rapide în primele 14 minute ale unui meci amical de calibru. Meciul, considerat o confruntare între două dintre cele mai puternice echipe din fotbalul feminin mondial, a evidențiat deficiențele defensive și de la mijlocul terenului ale SUA. Deși americancele au ratat un penalty, Spania a reușit să-și mențină avantajul și să câștige partida, consolidându-și poziția de forță în fotbalul feminin.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-11T14:39:44.080232+00:00",
-      "data_afisaj": "11 octombrie 2026, 17:39"
-    },
-    {
-      "id": "5a5cce8e59ce",
-      "titlu": "Alessia Russo, desemnată Jucătoarea Anului în Anglia",
-      "rezumat": "Atacanta lui Arsenal, Alessia Russo, a fost desemnată Jucătoarea Anului la echipa națională feminină a Angliei. Această recunoaștere vine după un sezon remarcabil în care Russo a marcat cinci goluri în zece apariții pentru națională, demonstrând o formă excelentă și o contribuție constantă la performanțele echipei. Premiul subliniază rolul său semnificativ în fotbalul feminin englez și consolidarea poziției sale ca una dintre cele mai importante jucătoare la nivel internațional.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-11T13:51:00.997574+00:00",
-      "data_afisaj": "11 octombrie 2026, 16:51"
-    },
-    {
-      "id": "05dac0e9dd63",
-      "titlu": "Southampton obține prima victorie în derby-ul de coastă din 2004, învingând Portsmouth cu un om în minus",
-      "rezumat": "Echipa Southampton a reușit o victorie importantă cu 1-0 împotriva rivalilor de la Portsmouth, în ciuda faptului că a jucat în inferioritate numerică. Aceasta este prima victorie a lui Southampton într-un derby de coastă în campionat din ultimii peste douăzeci de ani, punând capăt unei lungi așteptări. Meciul a fost unul tensionat, marcat de un cartonaș roșu pentru Southampton, dar echipa a rezistat presiunii din partea adversarilor, obținând un rezultat crucial.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-11T13:51:00.999337+00:00",
-      "data_afisaj": "11 octombrie 2026, 16:51"
-    },
-    {
-      "id": "4c7ba20fda9b",
-      "titlu": "Arsène Wenger, îndemnat să candideze la președinția FIFA",
-      "rezumat": "Potrivit presei de duminică, fostul antrenor legendar al lui Arsenal, Arsène Wenger, este îndemnat să candideze împotriva lui Gianni Infantino pentru președinția FIFA. Această știre vine în contextul discuțiilor despre viitorul conducerii forului mondial de fotbal și ar putea reprezenta o provocare semnificativă pentru actualul președinte. Propunerea reflectă dorința unor voci influente din fotbal de a vedea o schimbare la vârful organizației, aducând o nouă perspectivă asupra conducerii globale a sportului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-10-11T13:51:01.000788+00:00",
-      "data_afisaj": "11 octombrie 2026, 16:51"
-    },
-    {
-      "id": "5e00248449d0",
-      "titlu": "Celtic revine pe primul loc în Premiership-ul Scoțian după victoria cu Motherwell",
-      "rezumat": "Celtic a pus capăt unei serii de rezultate mai puțin convingătoare și a revenit pe prima poziție în clasamentul Premiership-ului Scoțian, după o victorie necesară cu 2-0 împotriva echipei Motherwell. Această performanță a permis \"Bhoys\" să depășească din nou rivala Rangers, care câștigase anterior împotriva lui Kilmarnock. Victoria este crucială pentru moralul echipei și pentru ambițiile de titlu în acest sezon, consolidând poziția de lider în campionat.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-11T13:51:01.002372+00:00",
-      "data_afisaj": "11 octombrie 2026, 16:51"
-    },
-    {
-      "id": "966336b32e4b",
-      "titlu": "Vinícius Júnior de la Real Madrid, eliminat pentru tragere de păr în victoria cu Villarreal",
-      "rezumat": "Real Madrid a obținut o victorie strânsă cu 1-0 împotriva lui Villarreal, menținându-se la șase puncte în spatele liderului La Liga, Barcelona. Meciul a fost marcat de eliminarea controversată a atacantului Vinícius Júnior, care a intrat pe teren ca rezervă. După ce un gol al său a fost anulat, brazilianul a primit cartonașul roșu în urma unei revizuiri VAR, care a arătat că l-a tras de păr pe Nathan Saliba de la Villarreal, un incident care a stârnit discuții.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-11T13:51:01.004046+00:00",
-      "data_afisaj": "11 octombrie 2026, 16:51"
     }
   ]
 }
