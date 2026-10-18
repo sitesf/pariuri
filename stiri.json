@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-18T18:31:06.024351+00:00",
-  "updated_at_afisaj": "18 octombrie 2026, 21:31",
+  "updated_at": "2026-10-18T19:08:40.852827+00:00",
+  "updated_at_afisaj": "18 octombrie 2026, 22:08",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 129,
+  "numar_stiri": 134,
   "stiri": [
+    {
+      "id": "d57d53172f94",
+      "titlu": "Leeds extinde runda fără victorii a lui Man Utd la șase jocuri",
+      "rezumat": "Dominic Calvert-Lewin câștigă un punct pentru Leeds și extinde runda fără victorii a lui Manchester United la șase meciuri.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-10-18T19:08:16.564405+00:00",
+      "data_afisaj": "18 octombrie 2026, 22:08"
+    },
+    {
+      "id": "06939fa9b3d3",
+      "titlu": "Gomez marchează un gol extraordinar în timp ce Brighton a trecut cu cinci de Palace",
+      "rezumat": "Diego Gomez înscrie un gol senzațional de la jumătatea terenului, în timp ce Brighton bate cu ciocanul rivalilor cu Crystal Palace.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-18T19:08:16.566211+00:00",
+      "data_afisaj": "18 octombrie 2026, 22:08"
+    },
+    {
+      "id": "e5e1a2a03c8d",
+      "titlu": "Lovitura lui Madueke suficientă pentru că Arsenal a câștigat îngustă în fața lui Forest",
+      "rezumat": "Noni Madueke vine de pe bancă pentru a marca golul victoriei, în timp ce Arsenal a învins Nottingham Forest cu 1-0 pe The City Ground.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-18T19:08:16.568027+00:00",
+      "data_afisaj": "18 octombrie 2026, 22:08"
+    },
+    {
+      "id": "6c0d590a8bbb",
+      "titlu": "Bournemouth a câștigat prima victorie în ligă cu victoria în fața Sunderland",
+      "rezumat": "Bournemouth a învins Sunderland cu 2-0 pe Stadionul Vitality pentru a câștiga prima victorie în ligă din sezon și a ieși din zona retrogradării.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-18T19:08:16.569727+00:00",
+      "data_afisaj": "18 octombrie 2026, 22:08"
+    },
+    {
+      "id": "e4847f37821a",
+      "titlu": "Inimile se întind pe covor roșu... iar Celtic se plimbă peste tot",
+      "rezumat": "Hearts credea că atacul este cea mai bună formă de apărare la Celtic Park. S-au înșelat grav, scrie Tom English.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-18T19:08:16.571206+00:00",
+      "data_afisaj": "18 octombrie 2026, 22:08"
+    },
     {
       "id": "01f080b65fa2",
       "titlu": "Mbeumo îi oferă lui Carrick mângâiere pe măsură ce Man Utd continuă cursa fără victorii",
