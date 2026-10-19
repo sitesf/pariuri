@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-19T20:55:38.850869+00:00",
-  "updated_at_afisaj": "19 octombrie 2026, 23:55",
+  "updated_at": "2026-10-19T21:18:56.011718+00:00",
+  "updated_at_afisaj": "20 octombrie 2026, 00:18",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,41 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 128,
+  "numar_stiri": 131,
   "stiri": [
+    {
+      "id": "7a35bbfdbabb",
+      "titlu": "Mbappe strălucește în victoria lui Real Madrid împotriva Sevillei",
+      "rezumat": "Kylian Mbappe a avut o prestație remarcabilă în meciul dintre Real Madrid și Sevilla, contribuind semnificativ la victoria echipei sale. Real Madrid a obținut cele trei puncte în confruntarea cu Sevilla, consolidându-și poziția în clasament. Performanța lui Mbappe a fost un factor cheie în succesul madrilenilor, evidențiind forma sa excelentă și influența sa decisivă asupra jocului. Această victorie este crucială pentru ambițiile de titlu ale Real Madrid.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-10-19T21:18:56.008297+00:00",
+      "data_afisaj": "20 octombrie 2026, 00:18"
+    },
+    {
+      "id": "a1373a60c555",
+      "titlu": "Lamine Yamal impresionează cu un gol spectaculos în victoria Barcelonei",
+      "rezumat": "Tânărul jucător Lamine Yamal, în vârstă de 19 ani, a marcat un gol extraordinar în victoria Barcelonei împotriva lui Real Betis, în La Liga. Această reușită vine la doar câteva zile după o fază spectaculoasă, aproape o rabona, într-un meci anterior. Performanța sa continuă să atragă atenția, consolidându-i statutul de talent emergent și contribuind la poziția de lider a Barcelonei în campionat. Yamal demonstrează o maturitate impresionantă pentru vârsta sa.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-19T21:18:56.010019+00:00",
+      "data_afisaj": "20 octombrie 2026, 00:18"
+    },
+    {
+      "id": "e39c4df87777",
+      "titlu": "Bayern Munchen învinge categoric pe Leipzig într-un meci spectaculos",
+      "rezumat": "Campioana Germaniei, Bayern Munchen, a obținut o victorie convingătoare împotriva rivalei RB Leipzig, într-un meci din Bundesliga. Echipa bavareză a marcat șase goluri, demonstrând o formă ofensivă excelentă și o dominație clară pe teren. Această victorie vine ca o pregătire importantă pentru viitoarea confruntare din Liga Campionilor împotriva lui Arsenal, iar Luis Díaz, un jucător cheie, pare să fie într-o formă de vârf, gata pentru provocările europene.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-19T21:18:56.011699+00:00",
+      "data_afisaj": "20 octombrie 2026, 00:18"
+    },
     {
       "id": "519863d4e929",
       "titlu": "Cristiano Ronaldo Suspendat 30 de Zile și Amendat de Federația Portugheză",
