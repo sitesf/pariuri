@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-18T19:08:40.852827+00:00",
-  "updated_at_afisaj": "18 octombrie 2026, 22:08",
+  "updated_at": "2026-10-19T14:26:34.897847+00:00",
+  "updated_at_afisaj": "19 octombrie 2026, 17:26",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,67 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 134,
+  "numar_stiri": 130,
   "stiri": [
+    {
+      "id": "9a06c40691e3",
+      "titlu": "Sarina Wiegman își Prelungește Contractul cu Naționala Feminină a Angliei până în 2029",
+      "rezumat": "Antrenoarea Sarina Wiegman a semnat o prelungire a contractului cu echipa națională feminină de fotbal a Angliei, Lionesses, angajându-se să rămână la conducerea echipei până după Campionatul European din 2029. Wiegman a declarat că nu-și poate imagina o slujbă mai bună în fotbal, consolidându-și poziția la cârma uneia dintre cele mai de succes echipe naționale feminine din lume. Această decizie asigură stabilitate și continuitate pentru Lionesses în următorii ani, având în vedere succesele anterioare sub mandatul său.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football",
+        "FourFourTwo",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-10-19T14:26:34.892356+00:00",
+      "data_afisaj": "19 octombrie 2026, 17:26"
+    },
+    {
+      "id": "5e4b1a552fd1",
+      "titlu": "Erling Haaland Incert pentru Liga Campionilor, Antoine Semenyo Accidentat pe Termen Lung la Manchester City",
+      "rezumat": "Manchester City se confruntă cu probleme de lot înaintea meciului de Liga Campionilor împotriva echipei AEK Atena. Antrenorul Enzo Maresca explorează opțiunile ofensive, deoarece Erling Haaland este incert din cauza unei accidentări la picior. Mai mult, atacantul ghanez Antoine Semenyo va lipsi opt săptămâni, după ce a suferit o accidentare la genunchi în meciul cu Ipswich. Absența lui Semenyo lasă echipa cu puține alternative pentru Haaland, complicând planurile tactice ale lui City.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-19T14:26:34.893770+00:00",
+      "data_afisaj": "19 octombrie 2026, 17:26"
+    },
+    {
+      "id": "3d8147936616",
+      "titlu": "Legenda lui Everton, Duncan Ferguson, Revine în Antrenorat la Glentoran",
+      "rezumat": "Fostul atacant al echipelor Everton și Rangers, Duncan Ferguson, a fost numit noul antrenor al clubului Glentoran, din Premiership-ul Irlandez. Această mutare marchează revenirea lui Ferguson în lumea antrenoratului, după o carieră notabilă ca jucător și experiențe anterioare în staff-ul tehnic al unor cluburi importante. Numirea sa este așteptată să aducă o nouă dinamică și experiență la echipa irlandeză, fanii fiind curioși să vadă impactul pe care îl va avea.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-19T14:26:34.895051+00:00",
+      "data_afisaj": "19 octombrie 2026, 17:26"
+    },
+    {
+      "id": "6efb63a562bf",
+      "titlu": "Federația Engleză de Fotbal Implementează Schimbări la Nivel de Juniori, Trecând la Formatul 3v3 pentru Sub-7",
+      "rezumat": "Federația Engleză de Fotbal (FA) a implementat modificări semnificative începând cu acest sezon, reducând numărul de jucători pentru categoriile sub 7 ani de la 5v5 la 3v3. Această decizie vizează dezvoltarea abilităților individuale și încurajarea unei implicări mai mari a copiilor în joc. Se speră că această schimbare va contribui la modificarea \"ADN-ului\" fotbalului englez, punând un accent mai mare pe tehnică și creativitate la vârste fragede.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-19T14:26:34.896526+00:00",
+      "data_afisaj": "19 octombrie 2026, 17:26"
+    },
+    {
+      "id": "fe003348f5ef",
+      "titlu": "Fostul Atacant Saido Berahino se Retrage din Fotbal la Vârsta de 33 de Ani",
+      "rezumat": "Saido Berahino, atacantul care a costat-o pe Stoke City 12 milioane de lire sterline la transferul său de la West Bromwich Albion în ianuarie 2017, a anunțat că se retrage din fotbal la vârsta de 33 de ani. Berahino a avut o carieră marcată de momente de talent, dar și de controverse. Retragerea sa pune capăt unei perioade în care a evoluat la mai multe cluburi, lăsând în urmă o carieră cu suișuri și coborâșuri.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-19T14:26:34.897830+00:00",
+      "data_afisaj": "19 octombrie 2026, 17:26"
+    },
     {
       "id": "d57d53172f94",
       "titlu": "Leeds extinde runda fără victorii a lui Man Utd la șase jocuri",
@@ -1432,107 +1491,6 @@
       ],
       "data_publicare": "2026-10-12T16:34:57.606831+00:00",
       "data_afisaj": "12 octombrie 2026, 19:34"
-    },
-    {
-      "id": "971adc2c627b",
-      "titlu": "Hull City și Everton remizează într-un meci spectaculos din Premier League",
-      "rezumat": "Mohamed Belloumi a marcat golul egalizator în a doua repriză, asigurând o remiză spectaculoasă între Hull City și Everton pe stadionul MKM. Ambele echipe își continuă astfel startul pozitiv de sezon în Premier League. Meciul a fost plin de acțiune, cu Hull menținându-și recordul de invincibilitate pe teren propriu de la revenirea în Premier League. Joe Gelhardt a deschis scorul pentru gazde în minutul 48, după o eroare a lui Ainsley Maitland-Niles, însă Belloumi a restabilit egalitatea, contribuind la un rezultat echitabil.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-11T20:43:55.549727+00:00",
-      "data_afisaj": "11 octombrie 2026, 23:43"
-    },
-    {
-      "id": "350f414c1e7c",
-      "titlu": "Elise Hughes de la Țara Galilor, concentrată pe meciul cu Albania în drumul spre Cupa Mondială",
-      "rezumat": "Atacanta galeză Elise Hughes a declarat că atingerea Cupei Mondiale ar îndeplini o ambiție de-o viață. Înainte de a visa la turneul final, Hughes și echipa sa se pregătesc pentru un meci crucial împotriva Albaniei. Jucătoarea subliniază importanța fiecărui pas în procesul de calificare, evidențiind determinarea colectivă de a depăși obstacolele și de a ajunge la cel mai înalt nivel al competiției internaționale. Concentrarea este pe performanța imediată pentru a construi succesul pe termen lung.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-11T20:43:55.550845+00:00",
-      "data_afisaj": "11 octombrie 2026, 23:43"
-    },
-    {
-      "id": "41435d91451f",
-      "titlu": "Elton John, 'supărat și dezamăgit' de forma echipei Watford",
-      "rezumat": "Fostul proprietar al clubului Watford, legendarul cântăreț Elton John, și-a exprimat public 'supărarea și dezamăgirea' față de performanța actuală a echipei. Declarația vine după înfrângerea categorică a lui Watford cu 4-0 pe teren propriu împotriva lui Burnley. John, un suporter devotat și o figură emblematică pentru club, a subliniat că rezultatele recente sunt departe de așteptările sale și ale fanilor. Comentariile sale reflectă frustrarea generală din jurul echipei, care se confruntă cu o perioadă dificilă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-11T20:43:55.551834+00:00",
-      "data_afisaj": "11 octombrie 2026, 23:43"
-    },
-    {
-      "id": "ae1ecf5acca1",
-      "titlu": "Freiburg preia conducerea în Bundesliga, în timp ce Lazio și Betis impresionează în Europa",
-      "rezumat": "Freiburg a urcat pe primul loc în Bundesliga după o victorie dramatică cu 2-1 împotriva lui Schalke 04, obținută printr-un gol marcat în minutul 85 de Keisuke Goto, chiar și cu un om în minus. Echipa a acumulat 13 puncte, depășind Borussia Dortmund la golaveraj. Între timp, Lazio s-a alăturat lui Inter în fruntea clasamentului Serie A, iar Isco continuă să impresioneze la Betis, menținând echipa la un nivel înalt în La Liga. Bayern Munchen a remizat 2-2 cu Augsburg.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-11T20:43:55.552871+00:00",
-      "data_afisaj": "11 octombrie 2026, 23:43"
-    },
-    {
-      "id": "d74a66ca1e49",
-      "titlu": "Gloria Bistrița, victorie imensă în Liga Campionilor: 38-35 pe terenul danezelor de la Nykobing Falster!",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-10-11T20:01:15.843960+00:00",
-      "data_afisaj": "11 octombrie 2026, 23:01"
-    },
-    {
-      "id": "bd349b3f370e",
-      "titlu": "Doku delights as Manchester City cruise past 10-man Liverpool",
-      "rezumat": "In their first match since being found guilty of breaching Premier League financial rules, Manchester City enjoyed a comfortable 3-0 win against Liverpool at Anfield to extend their perfect start to six matches, as they moved three points clear at the top of the Premier League.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-11T20:01:15.845639+00:00",
-      "data_afisaj": "11 octombrie 2026, 23:01"
-    },
-    {
-      "id": "859b6062c221",
-      "titlu": "Burnham to release details of Man City meetings",
-      "rezumat": "Andy Burnham has faced criticism for comments he made in the wake of Manchester City being found guilty of all charges related to breaches of the Premier League's financial rules.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-11T20:01:15.847168+00:00",
-      "data_afisaj": "11 octombrie 2026, 23:01"
-    },
-    {
-      "id": "f3c60784f637",
-      "titlu": "Winless and an 'easy touch' - what's happened to the Anfield fear factor?",
-      "rezumat": "Liverpool's struggles at Anfield continue as Iraola still awaits his first Premier League win at Anfield.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-11T20:01:15.848947+00:00",
-      "data_afisaj": "11 octombrie 2026, 23:01"
-    },
-    {
-      "id": "ea7e46052eab",
-      "titlu": "Glasner suffers loss on Selhurst return as Palace beat Forest",
-      "rezumat": "Oliver Glasner endures a frustrating return to Crystal Palace with his Nottingham Forest side lets slip an early lead to lose to the Eagles.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-11T20:01:15.850562+00:00",
-      "data_afisaj": "11 octombrie 2026, 23:01"
     }
   ]
 }
