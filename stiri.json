@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-19T21:18:56.011718+00:00",
-  "updated_at_afisaj": "20 octombrie 2026, 00:18",
+  "updated_at": "2026-10-20T12:36:50.712808+00:00",
+  "updated_at_afisaj": "20 octombrie 2026, 15:36",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 131,
+  "numar_stiri": 128,
   "stiri": [
+    {
+      "id": "adb456afb8ea",
+      "titlu": "Erik ten Hag Acuză: Cristiano Ronaldo a Dezamăgit Manchester United",
+      "rezumat": "Fostul antrenor al lui Manchester United, Erik ten Hag, a declarat că starul portughez Cristiano Ronaldo \"a dezamăgit echipa și pe mine\" în timpul mandatului său pe Old Trafford. Ten Hag a vorbit despre tensiunile și problemele apărute în relația cu atacantul, subliniind că atitudinea lui Ronaldo a avut un impact negativ asupra performanței colective și a atmosferei din vestiar. Aceste declarații vin la ceva timp după plecarea lui Ronaldo de la club, oferind o perspectivă nouă asupra evenimentelor din acea perioadă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-20T12:36:50.706144+00:00",
+      "data_afisaj": "20 octombrie 2026, 15:36"
+    },
+    {
+      "id": "128ecb5aaa0f",
+      "titlu": "PSG și Barcelona se Duelează în Liga Campionilor într-un Meci Anticipat",
+      "rezumat": "Paris Saint-Germain și Barcelona, primele două clasate în grupele Ligii Campionilor din acest sezon, se vor întâlni marți într-un meci considerat unul dintre cele mai interesante din competiție. Confruntarea dintre cele două mari puteri europene promite spectacol și emoție, având în vedere istoria rivalității lor și forma excelentă în care se află ambele echipe. Fanii fotbalului așteaptă cu nerăbdare această partidă crucială, care ar putea influența parcursul ambelor formații în fazele eliminatorii.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-20T12:36:50.707897+00:00",
+      "data_afisaj": "20 octombrie 2026, 15:36"
+    },
+    {
+      "id": "aa5b555f9a99",
+      "titlu": "Tottenham Hotspur Obține Prima Victorie în Premier League",
+      "rezumat": "Tottenham Hotspur a înregistrat prima sa victorie în Premier League din acest sezon, învingând pe Coventry City pe teren propriu. Acest succes permite echipei să părăsească ultima poziție a clasamentului, aducând un moral nou în rândul jucătorilor și al staff-ului tehnic. Victoria este crucială pentru Spurs în eforturile lor de a-și îmbunătăți poziția în campionat și de a-și recăpăta încrederea după un început dificil de sezon.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-20T12:36:50.709437+00:00",
+      "data_afisaj": "20 octombrie 2026, 15:36"
+    },
+    {
+      "id": "f8c1fc78935f",
+      "titlu": "PETA Solicită Clubului Crystal Palace să Renunțe la Mascota Vulturului Pleșuv",
+      "rezumat": "O organizație importantă pentru drepturile animalelor, PETA, a cerut clubului de fotbal Crystal Palace să renunțe la Phoenix, mascota sa, un vultur pleșuv american. PETA susține că experiența din ziua meciului poate lăsa pasărea \"speriată, dezorientată și panicată\" și poate pune în pericol spectatorii. Organizația a trimis o scrisoare directorului executiv al clubului, Sharon Lacey, solicitând încetarea aparițiilor lui Phoenix pe stadion.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-20T12:36:50.711123+00:00",
+      "data_afisaj": "20 octombrie 2026, 15:36"
+    },
+    {
+      "id": "f919655bca12",
+      "titlu": "Liga Profesionistă Scoțiană de Fotbal Lansează Licitația pentru Drepturile TV",
+      "rezumat": "Liga Profesionistă Scoțiană de Fotbal (SPFL) a invitat radiodifuzorii să depună oferte pentru drepturile de difuzare în Marea Britanie a meciurilor din Scottish Premiership, începând cu sezonul 2029-2030. SPFL anticipează un \"interes puternic\" pentru acest nou acord, care ar putea aduce beneficii financiare semnificative cluburilor scoțiene. Această inițiativă este crucială pentru dezvoltarea și vizibilitatea fotbalului scoțian în anii următori.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-20T12:36:50.712787+00:00",
+      "data_afisaj": "20 octombrie 2026, 15:36"
+    },
     {
       "id": "7a35bbfdbabb",
       "titlu": "Mbappe strălucește în victoria lui Real Madrid împotriva Sevillei",
@@ -1416,96 +1472,6 @@
       ],
       "data_publicare": "2026-10-13T14:52:30.020311+00:00",
       "data_afisaj": "13 octombrie 2026, 17:52"
-    },
-    {
-      "id": "2449f5a752c4",
-      "titlu": "Andy Carroll mulțumește publicului pentru sprijin după ce a vorbit despre agresiunea sexuală",
-      "rezumat": "Fostul atacant al naționalei Angliei, Andy Carroll, a transmis mulțumiri publicului pentru sprijinul acordat, după ce a vorbit deschis despre experiența sa de a fi fost agresat sexual de un bărbat. Declarațiile sale vin într-un moment în care sportivul a ales să împărtășească public detaliile acestui eveniment personal dificil. Gestul său a fost întâmpinat cu un val de solidaritate, subliniind importanța conștientizării și a sprijinului pentru victimele agresiunilor, într-un context care depășește sfera sportivă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-12T23:24:38.687243+00:00",
-      "data_afisaj": "13 octombrie 2026, 02:24"
-    },
-    {
-      "id": "db4044c8fc9d",
-      "titlu": "PSG se bazează în continuare pe echipa de bază, în ciuda investițiilor masive din vară",
-      "rezumat": "În ciuda investițiilor semnificative realizate în perioada de transferuri din vară, Paris Saint-Germain continuă să se bazeze preponderent pe jucătorii săi cheie, în special în Ligue 1. Antrenorul Luis Enrique și-a exprimat dorința de a-și odihni vedetele pentru meciurile din Liga Campionilor, însă echipa se confruntă cu dificultăți în a obține victorii convingătoare fără prezența integrală a \"echipei A\". Această dependență ridică semne de întrebare privind profunzimea lotului și capacitatea de rotație a clubului parizian.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-12T23:24:38.689018+00:00",
-      "data_afisaj": "13 octombrie 2026, 02:24"
-    },
-    {
-      "id": "946d69f47164",
-      "titlu": "Daniel Maldini își găsește locul la Cagliari, după ani petrecuți în umbra familiei sale celebre",
-      "rezumat": "Daniel Maldini, fiul legendarului Paolo Maldini și nepotul lui Cesare Maldini, începe să-și demonstreze potențialul la Cagliari, după o perioadă dificilă la AC Milan, unde a avut dificultăți în a se impune. Sub îndrumarea antrenorului Fabio Pisacane, tânărul jucător pare să-și fi găsit ritmul și să-și dezvolte abilitățile în Sardinia. Această evoluție marchează un nou capitol în cariera sa, departe de presiunea numelui celebru și a așteptărilor ridicate asociate cu moștenirea familiei Maldini în Serie A.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-12T23:24:38.690159+00:00",
-      "data_afisaj": "13 octombrie 2026, 02:24"
-    },
-    {
-      "id": "ecf9b582a422",
-      "titlu": "Naționala feminină a Angliei, pusă sub semnul întrebării privind eficiența în fața porții",
-      "rezumat": "Echipa națională feminină a Angliei a obținut un avantaj de două goluri înaintea manșei retur a barajului de calificare la Cupa Mondială împotriva Greciei. Cu toate acestea, se ridică întrebări cu privire la lipsa de \"cruzime\" în fața porții, sugerând că scorul ar fi putut fi mult mai mare. Analiza performanței indică o nevoie de îmbunătățire a finalizării acțiunilor ofensive, pentru a asigura o calificare fără emoții și pentru a-și consolida statutul de pretendentă la trofeu în competițiile viitoare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-12T23:24:38.691253+00:00",
-      "data_afisaj": "13 octombrie 2026, 02:24"
-    },
-    {
-      "id": "7a0c53c390d9",
-      "titlu": "Coventry City obține prima victorie pe teren propriu în Premier League după 25 de ani, învingând Newcastle",
-      "rezumat": "Echipa Coventry City a înregistrat o victorie convingătoare cu scorul de 4-1 împotriva formației Newcastle United, marcând astfel prima sa victorie pe teren propriu în Premier League după o așteptare de 25 de ani. Acest rezultat spectaculos a permis clubului să iasă din zona retrogradării, demonstrând o performanță ofensivă remarcabilă în fața propriilor suporteri. Antrenorul lui Newcastle, Matthias Jaissle, și-a cerut scuze fanilor pentru înfrângere, în timp ce Jamie Carragher a comentat că echipa a fost \"bătută\" din nou în deplasare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-12T22:48:23.123525+00:00",
-      "data_afisaj": "13 octombrie 2026, 01:48"
-    },
-    {
-      "id": "a6f47cda8c3a",
-      "titlu": "Meciul lui Cristiano Ronaldo din Liga Campionilor Asiei, amânat din cauza unei alerte cu rachetă în Riad",
-      "rezumat": "Partida echipei Al-Nassr a lui Cristiano Ronaldo din Liga Campionilor Asiei a fost amânată cu o oră, luni, după ce coaliția militară condusă de Arabia Saudită a anunțat interceptarea unei rachete lansate de rebelii Houthi către Riad. Incidentul a avut loc pe fondul unei serii de atacuri recente ale grupării susținute de Iran asupra facilităților petroliere și centrelor de transport din Arabia Saudită. În ciuda amânării, Al-Nassr a reușit să obțină o victorie cu 3-1, cu un gol marcat de starul portughez.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-12T22:48:23.125647+00:00",
-      "data_afisaj": "13 octombrie 2026, 01:48"
-    },
-    {
-      "id": "cb7002d9884e",
-      "titlu": "Michael Carrick promite că Manchester United va \"lupta din greu\" după un început dificil de sezon",
-      "rezumat": "Manchester United a înregistrat cel mai slab început de sezon în campionat din ultimii 40 de ani, dar antrenorul Michael Carrick a declarat că echipa va \"lupta din greu\" pentru a depăși această perioadă. United a sosit la Madrid pentru meciul din Liga Campionilor împotriva lui Atlético fără Kobbie Mainoo și Luke Shaw, ambii accidentați în urma egalului cu Tottenham. Carrick a recunoscut că echipa se află într-o situație dificilă, acumulând doar șase puncte în campionat, dar a subliniat determinarea de a redresa situația.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-12T22:48:23.127618+00:00",
-      "data_afisaj": "13 octombrie 2026, 01:48"
-    },
-    {
-      "id": "cd528ce6b4ac",
-      "titlu": "Noul antrenor Alexander Blessin se confruntă cu o provocare majoră la Borussia Mönchengladbach după înfrângerea în derby",
-      "rezumat": "Alexander Blessin, noul antrenor al echipei Borussia Mönchengladbach, se confruntă cu o sarcină dificilă după înfrângerea în derby-ul cu rivalii de la Köln. Golul marcat de Saïd El Mala a evidențiat provocările cu care se confruntă Blessin în încercarea de a revigora o echipă afectată de accidentări și de un început de campanie dezamăgitor în Bundesliga. După o pauză de trei săptămâni, primul său meci la conducere a subliniat necesitatea unei schimbări rapide pentru a redresa parcursul echipei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-12T22:48:23.129722+00:00",
-      "data_afisaj": "13 octombrie 2026, 01:48"
     }
   ]
 }
