@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-20T19:54:31.204439+00:00",
-  "updated_at_afisaj": "20 octombrie 2026, 22:54",
+  "updated_at": "2026-10-20T20:14:37.437094+00:00",
+  "updated_at_afisaj": "20 octombrie 2026, 23:14",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 126,
+  "numar_stiri": 131,
   "stiri": [
+    {
+      "id": "1296c859e5e5",
+      "titlu": "David Raya Ignoră Criticile Privind Stilul de Joc al Lui Arsenal, Arteta Apără Echipa",
+      "rezumat": "Portarul lui Arsenal, David Raya, a declarat că nu-l interesează dacă suporterii rivali consideră stilul de joc al echipei \"plictisitor\", în timp ce antrenorul Mikel Arteta a apărat abordarea tactică a \"tunarilor\". Declarațiile vin înaintea meciului important din Liga Campionilor împotriva lui Bayern Munchen. Arteta a insistat că doar o \"minoritate foarte mică\" critică stilul de joc al echipei, care a obținut 10 victorii din 11 meciuri în toate competițiile, subliniind eficacitatea strategiei adoptate.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-20T20:14:37.433140+00:00",
+      "data_afisaj": "20 octombrie 2026, 23:14"
+    },
+    {
+      "id": "14f64acba3d8",
+      "titlu": "Poliția Demarează o Investigație După Comportamentul 'Periculos' de la Meciul Liverpool",
+      "rezumat": "O investigație a fost deschisă de către poliție în urma unor incidente de comportament considerat \"periculos\" care au avut loc după victoria cu 2-1 a lui Liverpool împotriva lui Brentford. Detaliile specifice ale incidentelor nu au fost încă publicate, dar autoritățile au confirmat că se fac cercetări pentru a identifica persoanele implicate și a înțelege circumstanțele. Astfel de evenimente subliniază preocupările legate de siguranța pe stadioane și în jurul acestora, cluburile fiind adesea sub presiune pentru a asigura un mediu sigur pentru toți participanții.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-10-20T20:14:37.434241+00:00",
+      "data_afisaj": "20 octombrie 2026, 23:14"
+    },
+    {
+      "id": "656ad3e83935",
+      "titlu": "Impactul Rezultatelor Alegerilor din Brazilia Asupra Fotbalului Feminin",
+      "rezumat": "Jucătoare de fotbal feminin din Brazilia, inclusiv Carlinha și Tayla Carolina, și-au exprimat îngrijorarea cu privire la modul în care rezultatele alegerilor din țară ar putea influența dezvoltarea fotbalului feminin și societatea în general. Acestea se tem că o anumită orientare politică ar putea dăuna progresului obținut în ultimii ani în sportul feminin. Discuțiile vin după finala Campionatului Brazilian Feminin, unde São Paulo a câștigat titlul, iar jucătoarele au folosit platforma pentru a-și exprima opiniile și a atrage atenția asupra riscurilor potențiale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-20T20:14:37.435127+00:00",
+      "data_afisaj": "20 octombrie 2026, 23:14"
+    },
+    {
+      "id": "473e5aa43e39",
+      "titlu": "Ruben Amorim Explică De Ce a Blocat Transferul Unui Jucător la Aston Villa",
+      "rezumat": "Antrenorul Ruben Amorim, acum activ în Serie A, a dezvăluit motivele pentru care a refuzat să permită transferul unui jucător către Aston Villa în timpul mandatului său anterior. Decizia sa a venit în contextul unei crize de fundași stânga la clubul englez, dar Amorim a considerat că interesele echipei sale de la acea vreme erau prioritare. Explicațiile sale oferă o perspectivă asupra complexității deciziilor de transfer și a strategiilor manageriale, evidențiind dilemele cu care se confruntă antrenorii în piața transferurilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-10-20T20:14:37.436083+00:00",
+      "data_afisaj": "20 octombrie 2026, 23:14"
+    },
+    {
+      "id": "57068c2cc2ad",
+      "titlu": "Demolarea lui Hearts de către Celtic: Implicații pentru Strategia Clubului",
+      "rezumat": "BBC Scotland analizează dacă victoria categorică a lui Celtic cu 7-1 împotriva echipei Hearts demonstrează că echipa este mai bună fără cel mai scump transfer al său, Hogh. Meciul a ridicat întrebări despre strategia viitoare a clubului și despre rolul jucătorilor cheie în absența unor achiziții de anvergură. Această performanță dominantă ar putea influența deciziile antrenorului și ale conducerii în privința lotului și a tacticii pentru restul sezonului, sugerând o posibilă reevaluare a priorităților de transfer.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-20T20:14:37.437081+00:00",
+      "data_afisaj": "20 octombrie 2026, 23:14"
+    },
     {
       "id": "27bcafbb8e8d",
       "titlu": "Liverpool Revine Spectaculos de la Două Goluri Diferență Împotriva Lui Villarreal",
