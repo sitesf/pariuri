@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-20T12:36:50.712808+00:00",
-  "updated_at_afisaj": "20 octombrie 2026, 15:36",
+  "updated_at": "2026-10-20T13:21:44.471447+00:00",
+  "updated_at_afisaj": "20 octombrie 2026, 16:21",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,43 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 128,
+  "numar_stiri": 131,
   "stiri": [
+    {
+      "id": "6329dbafd2c0",
+      "titlu": "Manchester City Riscă o Deducere Majoră de Puncte, cu Potențial de Retrogradare",
+      "rezumat": "Un raport recent indică faptul că Manchester City ar putea fi sancționată cu o deducere semnificativă de puncte în Premier League, o măsură care ar putea duce la retrogradarea echipei. Se menționează că sancțiuni suplimentare ar putea urma și în sezonul viitor. Această veste ar reprezenta o lovitură majoră pentru clubul englez, având implicații profunde asupra parcursului său în competițiile interne. Detaliile exacte ale acuzațiilor și ale procesului de sancționare nu sunt încă pe deplin clare, dar speculațiile sugerează un impact dramatic.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-10-20T13:21:44.466262+00:00",
+      "data_afisaj": "20 octombrie 2026, 16:21"
+    },
+    {
+      "id": "cd235d5f83b7",
+      "titlu": "Interes Uriaș pentru Meciul FCSB-ului: Se Anunță Sold-Out",
+      "rezumat": "Meciul viitor al FCSB-ului generează un interes extraordinar, cu oficialii clubului anticipând un stadion plin. Potrivit surselor, cererea de bilete este foarte mare, primindu-se apeluri telefonice zilnic, ceea ce indică o mobilizare impresionantă a fanilor. Acest entuziasm prevestește o atmosferă incendiară la partidă, un aspect important atât pentru moralul echipei, cât și pentru veniturile clubului. Anunțul vine ca o veste bună pentru Gigi Becali și Laurențiu Reghecampf, confirmând popularitatea echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-10-20T13:21:44.468012+00:00",
+      "data_afisaj": "20 octombrie 2026, 16:21"
+    },
+    {
+      "id": "3167bd950b87",
+      "titlu": "Leicester City va Juca Împotriva Echipei Oxford City în Prima Rundă a Cupei Angliei",
+      "rezumat": "Leicester City, câștigătoare a Cupei Angliei în urmă cu cinci ani, va călători pentru a întâlni echipa Oxford City din National League North în prima rundă a ediției 2026-27 a competiției. Tragerea la sorți a stabilit acest duel, oferind o confruntare clasică între o echipă de Premier League și una dintr-o ligă inferioară. Meciul va reprezenta o provocare pentru Oxford City și o ocazie pentru Leicester de a-și începe parcursul în cupă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-10-20T13:21:44.469752+00:00",
+      "data_afisaj": "20 octombrie 2026, 16:21"
+    },
     {
       "id": "adb456afb8ea",
       "titlu": "Erik ten Hag Acuză: Cristiano Ronaldo a Dezamăgit Manchester United",
