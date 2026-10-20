@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-20T13:21:44.471447+00:00",
-  "updated_at_afisaj": "20 octombrie 2026, 16:21",
+  "updated_at": "2026-10-20T19:54:31.204439+00:00",
+  "updated_at_afisaj": "20 octombrie 2026, 22:54",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,66 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 131,
+  "numar_stiri": 126,
   "stiri": [
+    {
+      "id": "27bcafbb8e8d",
+      "titlu": "Liverpool Revine Spectaculos de la Două Goluri Diferență Împotriva Lui Villarreal",
+      "rezumat": "Într-un meci tensionat din Liga Campionilor, echipa Liverpool a reușit o revenire impresionantă, egalând scorul după ce a fost condusă cu două goluri de Villarreal. Partida, transmisă în direct de mai multe surse sportive, a oferit momente de suspans și a demonstrat capacitatea de luptă a 'Cormoranilor'. Această performanță subliniază determinarea echipei engleze de a obține un rezultat pozitiv pe teren propriu, menținând suspansul în competiția europeană.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-20T19:54:31.197763+00:00",
+      "data_afisaj": "20 octombrie 2026, 22:54"
+    },
+    {
+      "id": "0e17ad12cce1",
+      "titlu": "Vincent Kompany, Antrenorul Lui Bayern, Riscă Să Lipsească de la Meciul cu Arsenal Din Cauza Unui Virus",
+      "rezumat": "Antrenorul principal al echipei Bayern Munchen, Vincent Kompany, este incert pentru confruntarea din Liga Campionilor împotriva lui Arsenal, din cauza unui virus debilitant care i-a afectat picioarele. Kompany nu a putut participa la antrenamentul echipei și la conferința de presă premergătoare meciului, responsabilitățile fiind preluate de asistentul său, Aaron Danks. Situația medicală a antrenorului ar putea influența pregătirea și strategia echipei germane pentru importantul duel european.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-10-20T19:54:31.199620+00:00",
+      "data_afisaj": "20 octombrie 2026, 22:54"
+    },
+    {
+      "id": "d6432c823817",
+      "titlu": "Federația Turcă de Fotbal Sancționează 147 de Oficiali Pentru Încălcarea Regulilor de Pariuri",
+      "rezumat": "Federația Turcă de Fotbal (TFF) a impus o interdicție de 45 de zile pentru 147 de oficiali de club, inclusiv președintele lui Trabzonspor, Ertugrul Dogan, pentru încălcarea regulilor privind pariurile. Această decizie subliniază angajamentul TFF de a menține integritatea sportului și de a combate activitățile ilegale în fotbalul turc. Sancțiunile vizează asigurarea unui mediu de joc echitabil și transparent, având un impact semnificativ asupra structurilor de conducere ale cluburilor implicate.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-20T19:54:31.201308+00:00",
+      "data_afisaj": "20 octombrie 2026, 22:54"
+    },
+    {
+      "id": "ee2582d5f00f",
+      "titlu": "Howard Webb Susține Decizia VAR de a Nu Acorda Cartonaș Roșu Lui Sven Botman",
+      "rezumat": "Șeful arbitrilor din Premier League, Howard Webb, a declarat că intervenția lui Sven Botman asupra lui Nicolas Jackson a fost o 'provocare imprudentă de nivel înalt', dar a susținut decizia arbitrajului video (VAR) de a nu interveni pentru un cartonaș roșu. Webb consideră că nu a existat nimic 'în mod clar greșit' în decizia inițială a arbitrului de pe teren. Această declarație vine în contextul unor dezbateri aprinse privind aplicarea regulilor VAR și deciziile controversate din campionatul englez.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-10-20T19:54:31.202936+00:00",
+      "data_afisaj": "20 octombrie 2026, 22:54"
+    },
+    {
+      "id": "643ebefc8173",
+      "titlu": "Fostul Atacant Teemu Pukki Anunță Retragerea Din Fotbal",
+      "rezumat": "Teemu Pukki, fostul atacant al echipelor Norwich City și Celtic, precum și al naționalei Finlandei, a anunțat că se va retrage din activitatea de fotbalist la vârsta de 36 de ani. Cunoscut pentru abilitățile sale de marcator și pentru contribuția sa semnificativă la cluburile la care a evoluat, Pukki își încheie o carieră notabilă. Decizia sa marchează sfârșitul unei ere pentru fanii care l-au admirat pentru dedicarea și performanțele sale pe teren.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-20T19:54:31.204420+00:00",
+      "data_afisaj": "20 octombrie 2026, 22:54"
+    },
     {
       "id": "6329dbafd2c0",
       "titlu": "Manchester City Riscă o Deducere Majoră de Puncte, cu Potențial de Retrogradare",
@@ -1395,118 +1453,6 @@
       ],
       "data_publicare": "2026-10-13T21:03:28.382588+00:00",
       "data_afisaj": "14 octombrie 2026, 00:03"
-    },
-    {
-      "id": "a505de115979",
-      "titlu": "Președintele FIFA, Gianni Infantino, sub presiune după dezvăluirea unei plăți de 1,3 milioane de lire sterline",
-      "rezumat": "Președintele FIFA, Gianni Infantino, se confruntă cu o presiune crescută pentru a demisiona, după ce s-a dezvăluit că a primit o plată de 1,3 milioane de lire sterline în 2024, pe lângă salariul său. Această informație a stârnit noi controverse legate de transparența financiară la vârful organismului de conducere al fotbalului mondial. Dezvăluirea vine într-un context în care FIFA este adesea scrutinată pentru practicile sale financiare și modul de gestionare a fondurilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-10-13T15:35:59.222161+00:00",
-      "data_afisaj": "13 octombrie 2026, 18:35"
-    },
-    {
-      "id": "71a6779b5fef",
-      "titlu": "Netflix obține drepturile de difuzare pentru Cupa Mondială 2030 în Spania",
-      "rezumat": "Netflix va transmite în premieră meciuri de la Cupa Mondială în 2030, după ce a obținut drepturile de difuzare pentru Spania și Andorra. Această mișcare marchează o extindere semnificativă a prezenței platformelor de streaming în sportul de top și ar putea schimba modul în care fanii accesează evenimentele majore. Decizia subliniază tendința tot mai accentuată a companiilor de tehnologie de a investi în conținut sportiv live, concurând cu televiziunile tradiționale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-13T15:35:59.223949+00:00",
-      "data_afisaj": "13 octombrie 2026, 18:35"
-    },
-    {
-      "id": "797a2bf579b2",
-      "titlu": "Impactul încălcărilor regulilor de către Manchester City asupra altor echipe din Premier League",
-      "rezumat": "Potențialul impact al încălcărilor regulilor de către Manchester City este profund, afectând echipe prin calificări ratate în Liga Campionilor, retrogradări și sume reduse din premiile Premier League. O analiză detaliază consecințele financiare și sportive pentru cluburile care au concurat cu City în perioadele vizate de acuzații. Această situație ridică întrebări serioase despre integritatea competiției și echitatea financiară în fotbalul englez de elită.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-13T15:35:59.225792+00:00",
-      "data_afisaj": "13 octombrie 2026, 18:35"
-    },
-    {
-      "id": "ca7fd251da4f",
-      "titlu": "Dani Carvajal se alătură echipei Getafe după 23 de ani și 27 de trofee la Real Madrid",
-      "rezumat": "Fostul căpitan al Real Madrid, Dani Carvajal, s-a transferat la Getafe ca jucător liber de contract, după ce înțelegerea sa cu gigantul spaniol a expirat în luna iunie. Carvajal a petrecut 23 de ani la Real Madrid, timp în care a câștigat un număr impresionant de 27 de trofee, inclusiv multiple Ligi ale Campionilor și titluri de La Liga. Această mutare marchează o nouă etapă în cariera fundașului experimentat.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-13T15:35:59.227632+00:00",
-      "data_afisaj": "13 octombrie 2026, 18:35"
-    },
-    {
-      "id": "c39df8f286a2",
-      "titlu": "Lille ia în considerare acțiuni legale după accidentarea lui Tiago Santos",
-      "rezumat": "Clubul francez Lille analizează posibilitatea de a iniția acțiuni legale în urma accidentării fundașului Tiago Santos. Conducerea clubului a descris intervenția care a dus la accidentarea jucătorului ca fiind „necontrolată și periculoasă”. Această decizie subliniază preocupările crescânde privind siguranța jucătorilor și responsabilitatea în cazul faulturilor grave, putând crea un precedent în fotbalul european.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-13T15:35:59.229348+00:00",
-      "data_afisaj": "13 octombrie 2026, 18:35"
-    },
-    {
-      "id": "cf0ccaf4dc8b",
-      "titlu": "Maresca apără celebrarea victoriei lui Manchester City pe Anfield",
-      "rezumat": "Antrenorul Enzo Maresca a răspuns criticilor legate de modul în care Manchester City a sărbătorit victoria împotriva lui Liverpool pe Anfield, declarând: „Ce vreți să facem?”. Declarația vine în contextul unei victorii importante, care a stârnit reacții diverse în rândul fanilor și analiștilor, punând sub semnul întrebării eticheta comportamentului pe teren după un succes major. Maresca a subliniat că echipa sa a avut tot dreptul să se bucure de un rezultat semnificativ.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-10-13T14:52:30.012781+00:00",
-      "data_afisaj": "13 octombrie 2026, 17:52"
-    },
-    {
-      "id": "a4be97b29429",
-      "titlu": "Investitorul Tony Bloom își menține ambiția ca Hearts să câștige titlul în Scoția până în 2035",
-      "rezumat": "Investitorul principal al clubului Hearts, Tony Bloom, a declarat că ar fi \"foarte dezamăgit\" dacă echipa nu ar reuși să câștige Premiership-ul Scoțian până în anul 2035. Această declarație subliniază angajamentul pe termen lung al lui Bloom față de club și obiectivele ambițioase stabilite pentru viitorul fotbalului scoțian, indicând o viziune clară pentru dezvoltarea și succesul echipei în următorul deceniu. El a reiterat încrederea în potențialul clubului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-10-13T14:52:30.014877+00:00",
-      "data_afisaj": "13 octombrie 2026, 17:52"
-    },
-    {
-      "id": "93a3a6329d7c",
-      "titlu": "Jamie Carragher și-a achitat datoria fiscală pentru a evita falimentul",
-      "rezumat": "Fostul fotbalist și actualul analist sportiv Jamie Carragher și-a reglat o datorie fiscală neplătită către Administrația Fiscală a Majestății Sale. Această acțiune a fost întreprinsă pentru a evita intrarea în faliment, o situație care ar fi putut avea implicații semnificative asupra reputației și finanțelor sale personale, atrăgând atenția publicului asupra responsabilităților financiare. Detaliile exacte ale sumei nu au fost făcute publice, dar soluționarea a fost confirmată.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-13T14:52:30.016737+00:00",
-      "data_afisaj": "13 octombrie 2026, 17:52"
-    },
-    {
-      "id": "9e965cf422b4",
-      "titlu": "Manchester United, aproape de un acord cu Antonio Conte pentru postul de antrenor",
-      "rezumat": "Manchester United se confruntă cu un sezon dificil, iar Michael Carrick ar putea fi înlocuit. Conform rapoartelor, clubul este aproape de a ajunge la un acord cu Antonio Conte pentru preluarea funcției de antrenor principal. Această mutare ar putea aduce o schimbare majoră în strategia și performanța echipei, pe fondul rezultatelor sub așteptări din ultima perioadă, fanii așteptând o revigorare sub conducerea unui tehnician cu experiență. Negocierile sunt în stadiu avansat.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-10-13T14:52:30.018555+00:00",
-      "data_afisaj": "13 octombrie 2026, 17:52"
-    },
-    {
-      "id": "864f448f24ad",
-      "titlu": "Noi îngrijorări privind Cupa Asiei 2027 în Arabia Saudită, după atacurile cu rachete din Riad",
-      "rezumat": "Fotbaliștii de elită din Asia sunt în alertă înaintea Cupei Asiei din ianuarie 2027, care urmează să aibă loc în Arabia Saudită, o țară afectată de conflicte. Atacurile multiple cu rachete efectuate de Houthi asupra aeroportului internațional din Riad în ultimele zile au provocat victime și răniți, generând temeri serioase privind siguranța evenimentului și a participanților. Organizațiile internaționale monitorizează situația, iar preocupările legate de securitate sunt în creștere.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-13T14:52:30.020311+00:00",
-      "data_afisaj": "13 octombrie 2026, 17:52"
     }
   ]
 }
