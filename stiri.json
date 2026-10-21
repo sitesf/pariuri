@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-21T12:47:09.846601+00:00",
-  "updated_at_afisaj": "21 octombrie 2026, 15:47",
+  "updated_at": "2026-10-21T13:27:31.589670+00:00",
+  "updated_at_afisaj": "21 octombrie 2026, 16:27",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,61 @@
   },
   "numar_stiri": 124,
   "stiri": [
+    {
+      "id": "d9345fcd1133",
+      "titlu": "Barcelona Condamnă Mesajul de pe Tifo-ul Fanilor PSG, Acuzând Incitare la Violență",
+      "rezumat": "Clubul FC Barcelona a depus o plângere la UEFA împotriva echipei Paris Saint-Germain, după ce un tifo afișat de fanii parizieni înaintea meciului din Liga Campionilor conținea un mesaj pe care catalanii îl consideră că „incită la violență și ură în sport”. Incidentul a avut loc înaintea confruntării de marți dintre cele două echipe, adăugând tensiune în rivalitatea lor deja intensă. Barcelona solicită o investigație și măsuri din partea forului european de fotbal.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-21T13:27:31.585573+00:00",
+      "data_afisaj": "21 octombrie 2026, 16:27"
+    },
+    {
+      "id": "fe34d883bbf3",
+      "titlu": "Cristiano Ronaldo a Cerut Inițial o Sancțiune Fără Atenuante, Apoi a Luptat pentru Reducerea Ei",
+      "rezumat": "Cristiano Ronaldo a reușit să obțină o reducere a sancțiunii sale pentru părăsirea cantonamentului Portugaliei, în ciuda declarațiilor sale publice anterioare în care afirma că pedeapsa ar trebui impusă „fără circumstanțe atenuante”. După ce a părăsit cantonamentul din Danemarca luna trecută, Ronaldo a emis o declarație amplă pe rețelele sociale, susținând că ar trebui sancționat conform deciziei Federației Portugheze de Fotbal. Cu toate acestea, ancheta ulterioară a dus la înjumătățirea, apoi la o nouă înjumătățire a pedepsei inițiale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-21T13:27:31.586647+00:00",
+      "data_afisaj": "21 octombrie 2026, 16:27"
+    },
+    {
+      "id": "15c64788dff8",
+      "titlu": "Oficialul VAR Care a Validat Eronat Golul Lui Haaland Împotriva Lui Man Utd Revine în Premier League",
+      "rezumat": "Arbitrul VAR care a validat în mod eronat golul victoriei marcat de Erling Haaland în derby-ul Manchesterului de luna trecută va reveni la datorie în Premier League. Decizia de a-l reintegra pe oficialul Matt Donohue, în ciuda controversei generate de eroarea sa, a stârnit discuții în rândul fanilor și al experților. Această revenire subliniază provocările și presiunea cu care se confruntă arbitrii în sistemul VAR și modul în care erorile sunt gestionate în fotbalul englez.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-10-21T13:27:31.587734+00:00",
+      "data_afisaj": "21 octombrie 2026, 16:27"
+    },
+    {
+      "id": "5c758b6e2478",
+      "titlu": "Philipp Lahm: Manchester City S-a Detașat de Rădăcini, Regulile Trebuie Aplicat",
+      "rezumat": "Fostul internațional german Philipp Lahm a declarat că, deși Manchester City a oferit un fotbal spectaculos, clubul s-a detașat de rădăcinile sale, iar încălcările regulilor merită să fie pedepsite. Într-o analiză critică, Lahm a subliniat că City s-a comportat similar cu alte cluburi de top, dar a insistat că respectarea regulamentelor este esențială. El a sugerat că Bundesliga, unde membrii au un control majoritar, ar putea oferi un model pentru un viitor mai sustenabil în fotbal.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-21T13:27:31.588724+00:00",
+      "data_afisaj": "21 octombrie 2026, 16:27"
+    },
+    {
+      "id": "5a880c383203",
+      "titlu": "Como și Fabregas se pregătesc pentru confruntarea istorică cu Manchester United",
+      "rezumat": "Clubul Como, o poveste de succes în Serie A, a avansat până în Liga Campionilor și se pregătește acum pentru o seară istorică împotriva echipei Manchester United. Această performanță marchează o ascensiune remarcabilă pentru clubul italian, care a reușit să ajungă în cea mai prestigioasă competiție europeană. Prezența lui Cesc Fabregas în cadrul echipei adaugă o notă specială acestei confruntări, anticipând un meci memorabil pentru fanii ambelor formații.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-21T13:27:31.589657+00:00",
+      "data_afisaj": "21 octombrie 2026, 16:27"
+    },
     {
       "id": "8f7d3298e1fe",
       "titlu": "Khvicha Kvaratskhelia de la PSG va fi operat după o ruptură de ligament încrucișat anterior",
@@ -1372,61 +1427,6 @@
       ],
       "data_publicare": "2026-10-14T20:03:11.876339+00:00",
       "data_afisaj": "14 octombrie 2026, 23:03"
-    },
-    {
-      "id": "7d6192a50f2d",
-      "titlu": "Cartonașul roșu al lui Struijk, anulat după intervenția VAR",
-      "rezumat": "Cartonașul roșu controversat primit de fundașul lui Brighton, Pascal Struijk, în meciul împotriva lui Sunderland, a fost anulat în urma unei decizii VAR. Această hotărâre vine după o analiză amănunțită a fazei, care a stabilit că decizia inițială a arbitrului a fost eronată. Anularea cartonașului roșu înseamnă că Struijk va fi disponibil pentru următoarele meciuri ale echipei sale, evitând o suspendare care ar fi putut afecta planurile antrenorului. Decizia subliniază importanța sistemului VAR în corectarea erorilor evidente din timpul partidelor de fotbal.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-14T13:19:12.843154+00:00",
-      "data_afisaj": "14 octombrie 2026, 16:19"
-    },
-    {
-      "id": "3de246927b44",
-      "titlu": "David Silva revine pe teren pentru un singur meci la un club din Hong Kong",
-      "rezumat": "Fostul jucător al lui Manchester City, David Silva, se va retrage din nou din activitate la vârsta de 40 de ani pentru a juca un singur meci pentru ambițiosul club Supreme Sha Tin din Hong Kong. Această apariție specială marchează o revenire temporară pe teren pentru legendarul mijlocaș spaniol, care a fost o figură emblematică în fotbalul european. Evenimentul este așteptat cu entuziasm de fanii locali, care speră ca prezența lui Silva să aducă un impuls semnificativ și o expunere internațională pentru fotbalul din Hong Kong.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-14T13:19:12.844998+00:00",
-      "data_afisaj": "14 octombrie 2026, 16:19"
-    },
-    {
-      "id": "ff2a59ae9682",
-      "titlu": "Sunderland revine în competițiile europene după 53 de ani, într-un meci în Portugalia",
-      "rezumat": "Clubul Sunderland se pregătește pentru o deplasare în Portugalia, unde va întâlni echipa Torreense în Europa League. Această partidă marchează o revenire a „Pisicilor Negre” în competițiile europene după o pauză de 53 de ani. Ultima lor participare a fost în Cupa Cupelor, împotriva lui Sporting Lisabona. Meciul oferă o oportunitate pentru Sunderland de a-și relansa sezonul, după un început dificil în Premier League, și de a se bucura de o experiență europeană mult așteptată.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-14T13:19:12.846951+00:00",
-      "data_afisaj": "14 octombrie 2026, 16:19"
-    },
-    {
-      "id": "28ecdf86749f",
-      "titlu": "„Next Generation 2026”: Cei mai promițători 60 de tineri talente din fotbalul mondial",
-      "rezumat": "Publicația The Guardian a prezentat lista „Next Generation 2026”, care include 60 dintre cei mai talentați tineri jucători de fotbal născuți în anul 2009. Printre aceștia se numără nume precum „noul Toni Kroos” și Cavan Sullivan, considerat următoarea mare speranță a fotbalului american. Această selecție anuală evidențiază potențialii viitori mari jucători ai sportului, oferind o perspectivă asupra talentelor emergente care ar putea domina scenele fotbalistice în anii următori.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-14T13:19:12.848916+00:00",
-      "data_afisaj": "14 octombrie 2026, 16:19"
-    },
-    {
-      "id": "e7cceaba2b28",
-      "titlu": "Îngrijorări privind forma lui Bruno Fernandes la Manchester United",
-      "rezumat": "Performanța recentă a căpitanului lui Manchester United, Bruno Fernandes, a ridicat semne de întrebare, sugerând că ar putea exista probleme de formă sau o posibilă accidentare. Clubul a emis anterior o declarație despre o „mică problemă” la mijlocaș, asigurând că nu este nimic grav, însă evoluția sa din meciul cu Atletico Madrid din Liga Campionilor a indicat contrariul. Situația sa este analizată, iar fanii și experții se întreabă dacă antrenorul Michael Carrick ar trebui să ia în considerare o pauză pentru jucătorul cheie.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-10-14T13:19:12.850658+00:00",
-      "data_afisaj": "14 octombrie 2026, 16:19"
     }
   ]
 }
