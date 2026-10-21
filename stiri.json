@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-21T13:27:31.589670+00:00",
-  "updated_at_afisaj": "21 octombrie 2026, 16:27",
+  "updated_at": "2026-10-21T19:58:51.545377+00:00",
+  "updated_at_afisaj": "21 octombrie 2026, 22:58",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,56 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 124,
+  "numar_stiri": 128,
   "stiri": [
+    {
+      "id": "86b9c35fa5a3",
+      "titlu": "Como Demolează Manchester United în Liga Campionilor, Creând Presiune Asupra Antrenorului Carrick",
+      "rezumat": "Manchester United a suferit o înfrângere umilitoare cu 4-1 în fața echipei Como în Liga Campionilor, marcând cea mai slabă performanță a clubului în competițiile europene din 1994. Această înfrângere extinde seria neagră a 'Diavolilor Roșii' la șapte meciuri fără victorie, intensificând presiunea asupra antrenorului Michael Carrick. Meciul, disputat lângă Lacul Como, a fost o demonstrație de forță din partea debutanților lui Cesc Fàbregas, care au dominat complet echipa engleză, adâncind criza de rezultate de la începutul sezonului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-21T19:58:51.538389+00:00",
+      "data_afisaj": "21 octombrie 2026, 22:58"
+    },
+    {
+      "id": "65cee82ccdc2",
+      "titlu": "Goluri Marcate în Meciul Bayern Munchen – Arsenal din Liga Campionilor",
+      "rezumat": "Meciul serii din Liga Campionilor dintre Bayern Munchen și Arsenal a fost marcat de o serie de goluri, contribuind la o seară cu un număr record de reușite în competiție. Alphonso Davies a anulat avantajul inițial al lui Arsenal, marcat de Eberechi Eze, egalând scorul pentru Bayern. Această partidă a fost una dintre cele patru jocuri din Liga Campionilor în care s-au înscris un total de 11 goluri în primele două meciuri jucate mai devreme, subliniind spectacolul ofensiv al etapei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-10-21T19:58:51.540081+00:00",
+      "data_afisaj": "21 octombrie 2026, 22:58"
+    },
+    {
+      "id": "e63348e87bf0",
+      "titlu": "Rio Ngumoha Impresionează la Liverpool cu o Evoluție Remarcabilă Împotriva Lui Villarreal",
+      "rezumat": "Tânărul Rio Ngumoha a avut o prestație excepțională, desemnat omul meciului, în victoria spectaculoasă a lui Liverpool împotriva lui Villarreal în Liga Campionilor. Evoluția sa a fost lăudată inclusiv de căpitanul Virgil van Dijk, care a descris-o ca fiind o demonstrație de maturitate și o amenințare constantă pentru adversari. Ngumoha, în vârstă de 18 ani, a arătat o versatilitate impresionantă și a confirmat progresele sale, învățând de la jucători experimentați precum Mohamed Salah, ceea ce îi oferă speranțe mari pentru viitorul său la club.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-21T19:58:51.541792+00:00",
+      "data_afisaj": "21 octombrie 2026, 22:58"
+    },
+    {
+      "id": "c8033205ed63",
+      "titlu": "Benjamin Sesko de la Manchester United Va Fi Indisponibil Până Anul Viitor Din Cauza unei Accidentări",
+      "rezumat": "Atacantul lui Manchester United, Benjamin Sesko, va fi indisponibil pentru restul anului și nu va mai juca până anul viitor, conform ultimelor informații. Accidentarea suferită de internaționalul sloven s-a dovedit a fi mai gravă decât se anticipase inițial, reprezentând o veste șoc pentru club. Această absență prelungită a lui Sesko va afecta opțiunile ofensive ale echipei lui Manchester United, care se confruntă deja cu o perioadă dificilă în campionat și în competițiile europene.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-10-21T19:58:51.545357+00:00",
+      "data_afisaj": "21 octombrie 2026, 22:58"
+    },
     {
       "id": "d9345fcd1133",
       "titlu": "Barcelona Condamnă Mesajul de pe Tifo-ul Fanilor PSG, Acuzând Incitare la Violență",
