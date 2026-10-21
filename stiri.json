@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-21T19:58:51.545377+00:00",
-  "updated_at_afisaj": "21 octombrie 2026, 22:58",
+  "updated_at": "2026-10-21T20:25:23.381272+00:00",
+  "updated_at_afisaj": "21 octombrie 2026, 23:25",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 128,
+  "numar_stiri": 123,
   "stiri": [
+    {
+      "id": "dc1fed5c1bd9",
+      "titlu": "Fernandes îl critică pe Carrick după umilința lui Man Utd",
+      "rezumat": "Căpitanul lui Manchester United, Bruno Fernandes, l-a învinuit pe antrenorul principal Michael Carrick pentru tacticile care au dus la o înfrângere jenantă cu 4-1 în fața lui Como în Liga Campionilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-10-21T20:25:17.299441+00:00",
+      "data_afisaj": "21 octombrie 2026, 23:25"
+    },
+    {
+      "id": "896fa9275328",
+      "titlu": "Barca condamnă tifo-ul PSG care incită la 'violență și ură'",
+      "rezumat": "Barcelona a raportat Paris Saint-Germain la Uefa după ce un tifo cu un mesaj despre care spun că \"incită la violență și ură în sport\" a fost afișat înaintea meciului de marți din Liga Campionilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-21T20:25:17.300890+00:00",
+      "data_afisaj": "21 octombrie 2026, 23:25"
+    },
+    {
+      "id": "0c2537511aeb",
+      "titlu": "'Am așteptat 34 de ani pentru asta' - povestea 'specială' a lui Viking",
+      "rezumat": "Când Viking FK a pus capăt unei secete de 34 de ani fără titlu norvegian anul trecut, la zile ca acestea visau - pregătindu-se să viziteze Aston Villa în Liga Campionilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-21T20:25:17.302402+00:00",
+      "data_afisaj": "21 octombrie 2026, 23:25"
+    },
+    {
+      "id": "b27901cd1993",
+      "titlu": "Azaz confirmă că va continua să joace pentru Republica Irlanda",
+      "rezumat": "Atacantul Finn Azaz confirmă că va continua să reprezinte Republica Irlanda.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-21T20:25:17.303782+00:00",
+      "data_afisaj": "21 octombrie 2026, 23:25"
+    },
+    {
+      "id": "09b677ac525e",
+      "titlu": "Fostul fundaș englez Bertrand vizează o afacere de 87 de milioane de lire sterline cu AFC Wimbledon",
+      "rezumat": "Ryan Bertrand conduce un consorțiu care a propus o investiție minoritară de 87 de milioane de lire sterline în echipa din League One, AFC Wimbledon.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-21T20:25:17.305281+00:00",
+      "data_afisaj": "21 octombrie 2026, 23:25"
+    },
     {
       "id": "86b9c35fa5a3",
       "titlu": "Como Demolează Manchester United în Liga Campionilor, Creând Presiune Asupra Antrenorului Carrick",
@@ -1363,118 +1419,6 @@
       ],
       "data_publicare": "2026-10-15T12:31:05.931974+00:00",
       "data_afisaj": "15 octombrie 2026, 15:31"
-    },
-    {
-      "id": "cc2b723f56e7",
-      "titlu": "Reconstrucția stadionului afectează performanțele echipei Aston Villa?",
-      "rezumat": "Cu tribuna de Nord a stadionului Villa Park închisă pentru lucrări de construcție, se ridică întrebări dacă această capacitate redusă influențează performanțele echipei Aston Villa. Antrenorul a declarat că nu există scuze, însă impactul asupra atmosferei și veniturilor clubului ar putea fi semnificativ. Situația actuală pune presiune suplimentară pe echipă în contextul campionatului, necesitând adaptare la condițiile modificate ale terenului propriu.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-14T20:23:30.052115+00:00",
-      "data_afisaj": "14 octombrie 2026, 23:23"
-    },
-    {
-      "id": "89ba954b0045",
-      "titlu": "Fan Liverpool neagă acuzațiile de abuz rasist la adresa lui Semenyo",
-      "rezumat": "Un suporter al echipei Liverpool a negat în instanță acuzațiile de comportament rasist agravat, în timpul unui meci împotriva echipei Bournemouth din anul 2025. Jucătorul Antoine Semenyo ar fi declarat că a \"înghețat\" în urma presupuselor abuzuri. Cazul subliniază eforturile continue de combatere a rasismului în fotbal și importanța sancționării comportamentelor discriminatorii pe stadioane, în vederea asigurării unui mediu sigur și respectuos pentru toți participanții.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-14T20:23:30.054014+00:00",
-      "data_afisaj": "14 octombrie 2026, 23:23"
-    },
-    {
-      "id": "30dd2ae8dbef",
-      "titlu": "Georgia Stanway, o jucătoare esențială pentru naționala feminină a Angliei",
-      "rezumat": "Georgia Stanway se dovedește a fi o jucătoare de neoprit și o marcatoare constantă pentru naționala feminină a Angliei, indiferent de meci sau de rezultat. Performanțele sale remarcabile o transformă într-o prezență crucială pentru \"Lionesses\", contribuind semnificativ la succesul echipei. Abilitatea sa de a înscrie goluri decisive și de a influența jocul o face o componentă vitală în strategia selecționerului, consolidându-și statutul de lider pe teren.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-14T20:23:30.055898+00:00",
-      "data_afisaj": "14 octombrie 2026, 23:23"
-    },
-    {
-      "id": "b7431b867e3c",
-      "titlu": "Pauza internațională a adus beneficii semnificative echipei Chelsea",
-      "rezumat": "Pauza internațională prelungită, de trei săptămâni, pare să fi fost extrem de benefică pentru Chelsea, mai mult decât pentru orice altă echipă din Premier League. Perioada a fost folosită pentru sesiuni intense de antrenament dedicate fazelor fixe și pentru identificarea soluțiilor la problemele tactice. Această abordare strategică a permis echipei să se reorganizeze, să-și îmbunătățească coeziunea și să revină cu o formă îmbunătățită în campionat, pregătită pentru provocările viitoare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-14T20:23:30.057687+00:00",
-      "data_afisaj": "14 octombrie 2026, 23:23"
-    },
-    {
-      "id": "53f2c26663c0",
-      "titlu": "Modelul danez de dezvoltare a tinerilor talente ar putea ajuta fotbalul scoțian",
-      "rezumat": "Clubul Nordsjaelland din Danemarca a devenit un exemplu de succes în dezvoltarea fotbalului juvenil, iar modelul său ar putea oferi soluții pentru criza de talente din Scoția. Articolul explorează modul în care cluburile scoțiene ar putea învăța din abordarea daneză pentru a-și îmbunătăți propriile programe de juniori. Implementarea unor strategii similare, axate pe identificarea și cultivarea talentelor de la vârste fragede, ar putea contribui la formarea unei noi generații de jucători de top.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-14T20:23:30.059577+00:00",
-      "data_afisaj": "14 octombrie 2026, 23:23"
-    },
-    {
-      "id": "d8407056f6e5",
-      "titlu": "Barcola realizează un hat-trick în victoria categorică a lui Liverpool împotriva LASK",
-      "rezumat": "Bradley Barcola a marcat un hat-trick, iar Florian Wirtz a avut o prestație remarcabilă, după ce a fost recent criticat, în meciul din Liga Campionilor în care Liverpool a învins echipa LASK cu scorul de 6-3. Această victorie reprezintă a doua pentru \"Cormorani\" în competiția europeană, consolidându-le poziția în grupă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-14T20:03:11.868304+00:00",
-      "data_afisaj": "14 octombrie 2026, 23:03"
-    },
-    {
-      "id": "9ade2f117e5e",
-      "titlu": "FIFA propune o creștere de 2,6 miliarde de lire sterline pentru dezvoltarea fotbalului",
-      "rezumat": "Federația Internațională de Fotbal (FIFA) intenționează să propună o majorare semnificativă a fondurilor alocate pentru dezvoltarea fotbalului la nivel global. Suma propusă este de 3,4 miliarde de dolari (aproximativ 2,6 miliarde de lire sterline), destinată sprijinirii proiectelor și inițiativelor de creștere a sportului în diverse regiuni ale lumii.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-14T20:03:11.870266+00:00",
-      "data_afisaj": "14 octombrie 2026, 23:03"
-    },
-    {
-      "id": "c7e8ad39a918",
-      "titlu": "Antrenorul lui Millwall, Alex Neil, criticat pentru comentariile sale privind întreruperea unui meci din cauza abuzurilor rasiste",
-      "rezumat": "Grupul anti-rasism \"Kick It Out\" a cerut antrenorilor să \"dea tonul\" în lupta împotriva discriminării, după ce Alex Neil, managerul echipei Millwall, a criticat decizia de a opri un meci în urma unei acuzații de abuz rasist. Comentariile sale au stârnit controverse și au readus în discuție responsabilitatea cluburilor și a personalului tehnic în gestionarea incidentelor de rasism.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-14T20:03:11.872452+00:00",
-      "data_afisaj": "14 octombrie 2026, 23:03"
-    },
-    {
-      "id": "29492162e92e",
-      "titlu": "Calificările la Cupa Mondială Feminină: Eficiența formatului play-off-urilor, pusă sub semnul întrebării",
-      "rezumat": "Ușurința cu care Anglia a învins Grecia în prima rundă a play-off-urilor de calificare la Cupa Mondială Feminină a evidențiat ineficiența structurii actuale a competiției. Rezultatele cu scoruri mari și meciurile dezechilibrate ridică semne de întrebare cu privire la modul în care funcționează formatul play-off-urilor, sugerând că este necesară o reevaluare pentru a asigura o competitivitate mai mare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-14T20:03:11.874540+00:00",
-      "data_afisaj": "14 octombrie 2026, 23:03"
-    },
-    {
-      "id": "19f692cba6c7",
-      "titlu": "Vinicius Jr va rata El Clasico împotriva Barcelonei din cauza unei suspendări",
-      "rezumat": "Atacantul echipei Real Madrid, Vinicius Jr, nu va putea participa la meciul El Clasico împotriva rivalei FC Barcelona, după ce a primit o suspendare de patru etape. Absența sa reprezintă o lovitură semnificativă pentru echipa madrilenă, având în vedere importanța și miza confruntării cu formația catalană.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-10-14T20:03:11.876339+00:00",
-      "data_afisaj": "14 octombrie 2026, 23:03"
     }
   ]
 }
