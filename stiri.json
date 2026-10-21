@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-20T20:14:37.437094+00:00",
-  "updated_at_afisaj": "20 octombrie 2026, 23:14",
+  "updated_at": "2026-10-21T12:47:09.846601+00:00",
+  "updated_at_afisaj": "21 octombrie 2026, 15:47",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,67 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 131,
+  "numar_stiri": 124,
   "stiri": [
+    {
+      "id": "8f7d3298e1fe",
+      "titlu": "Khvicha Kvaratskhelia de la PSG va fi operat după o ruptură de ligament încrucișat anterior",
+      "rezumat": "Atacantul lui Paris Saint-Germain, Khvicha Kvaratskhelia, va suferi o intervenție chirurgicală după ce a suferit o ruptură a ligamentului încrucișat anterior la genunchiul drept. Accidentarea a avut loc în timpul victoriei echipei sale cu 4-2 împotriva Barcelonei în Liga Campionilor. Această leziune gravă pune sub semnul întrebării restul sezonului pentru jucătorul georgian, fiind considerată una dintre cele mai serioase dintre cele trei accidentări suferite recent de PSG. Vestea a fost confirmată de mai multe surse internaționale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-10-21T12:47:09.841296+00:00",
+      "data_afisaj": "21 octombrie 2026, 15:47"
+    },
+    {
+      "id": "a18377dc5e62",
+      "titlu": "Phil Foden Strălucește cu un Hat-trick în Victoria Categorică a Lui Manchester City",
+      "rezumat": "Phil Foden a fost protagonistul serii, marcând un hat-trick și având o prestație remarcabilă în victoria dominantă a lui Manchester City cu 5-1 împotriva echipei AEK Atena în Liga Campionilor. Această performanță subliniază talentul și capacitatea sa de a influența decisiv jocurile, demonstrând că poate fi o soluție ofensivă importantă pentru \"Cetățeni\", chiar și în absența golgheterului Erling Haaland. Victoria asigură a doua succes în campania europeană a echipei și a fost lăudată de critici.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-10-21T12:47:09.842601+00:00",
+      "data_afisaj": "21 octombrie 2026, 15:47"
+    },
+    {
+      "id": "ed3480f570cf",
+      "titlu": "Antrenor din R.D. Congo, Interzis Până în 2048 pentru Abuz Sexual Continuu",
+      "rezumat": "Un antrenor de fotbal din Republica Democrată Congo, Jonathan Bukabakwa, cunoscut sub numele de Messi, a primit o prelungire a interdicției de a activa în fotbal până în anul 2048. Decizia FIFA vine după ce s-a descoperit că acesta a continuat să lucreze cu tineri jucători, în ciuda unei interdicții anterioare de 20 de ani impuse pentru abuz sexual asupra unui minor. Pe lângă prelungirea suspendării, Bukabakwa a fost amendat cu 15.000 de dolari, într-un caz care subliniază problemele etice din sport.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-21T12:47:09.843879+00:00",
+      "data_afisaj": "21 octombrie 2026, 15:47"
+    },
+    {
+      "id": "e9e5ebd108e4",
+      "titlu": "The Times Își Cere Scuze Lui Gianni Infantino După Articole Privind Un Presupus „Al Doilea Salariu”",
+      "rezumat": "Publicația The Times a emis o rectificare și și-a cerut scuze președintelui FIFA, Gianni Infantino, în urma unei știri publicate anterior despre un presupus „al doilea salariu” al acestuia. Decizia vine după reacții negative și clarificări legate de acuzațiile inițiale. Această retragere a informațiilor subliniază sensibilitatea și importanța acurateței în reportajele privind conducerea organismelor sportive internaționale, mai ales în contextul presiunilor și al controlului public.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-10-21T12:47:09.845256+00:00",
+      "data_afisaj": "21 octombrie 2026, 15:47"
+    },
+    {
+      "id": "190d59c5cd01",
+      "titlu": "Meciul Como vs Manchester United din Liga Campionilor, Amenințat de Amânare Din Cauza Vremii Severe",
+      "rezumat": "Partida dintre Como și Manchester United din Liga Campionilor riscă să fie amânată din cauza condițiilor meteorologice severe. Un teren îmbibat cu apă reprezintă o preocupare majoră pentru organizatori înaintea confruntării programate pentru această seară. Există discuții privind o posibilă reprogramare a meciului, ceea ce ar putea complica programul ambelor echipe în faza grupelor Ligii Campionilor. Decizia finală este așteptată în orele următoare, pe măsură ce situația meteo evoluează.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-10-21T12:47:09.846586+00:00",
+      "data_afisaj": "21 octombrie 2026, 15:47"
+    },
     {
       "id": "1296c859e5e5",
       "titlu": "David Raya Ignoră Criticile Privind Stilul de Joc al Lui Arsenal, Arteta Apără Echipa",
@@ -1368,146 +1427,6 @@
       ],
       "data_publicare": "2026-10-14T13:19:12.850658+00:00",
       "data_afisaj": "14 octombrie 2026, 16:19"
-    },
-    {
-      "id": "a8203a45cfc0",
-      "titlu": "Meciul lui Millwall, întrerupt din cauza unor presupuse scandări rasiste",
-      "rezumat": "Partida dintre Millwall și Swansea din Championship a fost oprită pentru aproximativ șapte minute, după ce s-a raportat un incident de abuz rasist din partea publicului, îndreptat către jucătorul Eom Ji-sung de la Swansea. Arbitrul Edward Duckworth a suspendat jocul în minutul 65 pentru a discuta cu antrenorii și oficialii. Managerul lui Millwall, Alex Neil, a criticat decizia de a întrerupe meciul, în ciuda gravității acuzațiilor. Incidentul subliniază problemele continue legate de rasism în fotbal și necesitatea unor măsuri ferme.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-14T12:42:40.935383+00:00",
-      "data_afisaj": "14 octombrie 2026, 15:42"
-    },
-    {
-      "id": "8627b94b6380",
-      "titlu": "Șahtior Donețk își stabilește baza la Londra pentru meciurile din Liga Campionilor",
-      "rezumat": "Din cauza conflictului din Ucraina, echipa Șahtior Donețk își va disputa meciurile de acasă din Liga Campionilor pe stadionul Stamford Bridge din Londra. Această situație, deși nedorită, a determinat comunitatea ucraineană din Marea Britanie să se mobilizeze pentru a susține echipa. Jucătorii și oficialii, inclusiv directorul sportiv Darijo Srna, își continuă pregătirile în capitala britanică, transmițând un mesaj de rezistență și unitate. Ei speră să demonstreze lumii că sunt \"în viață\" și că pot continua să concureze la cel mai înalt nivel.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-14T12:42:40.936486+00:00",
-      "data_afisaj": "14 octombrie 2026, 15:42"
-    },
-    {
-      "id": "e9411726523f",
-      "titlu": "Bukayo Saka impresionează la Arsenal, răspunzând provocării lui Mikel Arteta",
-      "rezumat": "Bukayo Saka a avut un impact decisiv pentru Arsenal în meciul din Liga Campionilor împotriva lui Lille, după ce antrenorul Mikel Arteta îi ceruse să marcheze \"două sau trei goluri pe meci\". Jucătorul a reușit să înscrie după doar șase minute de la intrarea pe teren, oferind anterior și o pasă de gol la prima sa atingere. Performanța sa a demonstrat o evoluție semnificativă și a confirmat că este o amenințare constantă la poarta adversă, depășind orice îndoială legată de forma sa recentă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-10-14T12:42:40.937514+00:00",
-      "data_afisaj": "14 octombrie 2026, 15:42"
-    },
-    {
-      "id": "8388d789d485",
-      "titlu": "Gianni Infantino, președintele FIFA, va fi interogat la o ședință tensionată a Consiliului",
-      "rezumat": "Președintele FIFA, Gianni Infantino, se va confrunta cu întrebări dificile din partea membrilor Consiliului FIFA în cadrul unei ședințe considerate \"explozive\". Pe agenda discuțiilor se numără implicarea sa în planul eșuat de vânzare a Cupei Mondiale, afacerea Folarin Balogun și decizia de a acorda lui Donald Trump primul premiu FIFA pentru pace. Oponenții săi vor insista asupra necesității unei revizuiri independente a acțiunilor sale, indicând o presiune crescută asupra conducerii sale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-14T12:42:40.938696+00:00",
-      "data_afisaj": "14 octombrie 2026, 15:42"
-    },
-    {
-      "id": "5fc14cd0db51",
-      "titlu": "Premierul Burnham a avut două cine de protocol cu președintele Manchester City, înregistrări șterse",
-      "rezumat": "Premierul a fost supus unei presiuni crescânde după ce clubul Manchester City a fost găsit vinovat de încălcarea regulilor Premier League. S-a descoperit că premierul a avut două cine de protocol cu președintele clubului, iar înregistrările acestor întâlniri au fost ulterior șterse. Această dezvăluire adaugă un nou nivel de controversă în jurul situației lui Manchester City și ridică întrebări despre transparența relațiilor dintre oficialii guvernamentali și conducerea cluburilor de fotbal, în contextul acuzațiilor financiare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-14T12:42:40.939799+00:00",
-      "data_afisaj": "14 octombrie 2026, 15:42"
-    },
-    {
-      "id": "ecc6519b3365",
-      "titlu": "Majoritatea cluburilor engleze de fotbal sunt în pragul \"dezastrului financiar\"",
-      "rezumat": "Un nou raport al regulatorului independent al fotbalului englez (IFR) avertizează că finanțele fotbalului englez sunt \"periculos de expuse\", iar majoritatea cluburilor se află \"în pragul dezastrului financiar\". Raportul, intitulat \"Starea Jocului\", a analizat în detaliu situația financiară din ultimele 18 luni, concluzionând că este necesară o intervenție urgentă pentru a asigura sustenabilitatea pe termen lung a cluburilor din ligile inferioare și superioare. Această evaluare subliniază vulnerabilitatea economică a sistemului fotbalistic englez.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-10-13T21:40:52.736590+00:00",
-      "data_afisaj": "14 octombrie 2026, 00:40"
-    },
-    {
-      "id": "4f93ea2a9d45",
-      "titlu": "Situația lui Richarlison la Tottenham: atacantul de 60 de milioane de lire sterline joacă la echipa U21",
-      "rezumat": "Atacantul brazilian Richarlison, transferat la Tottenham pentru o sumă considerabilă de 60 de milioane de lire sterline, se confruntă cu o situație neobișnuită la club, fiind lăsat în afara lotului pentru Premier League luna trecută. În consecință, jucătorul a fost nevoit să evolueze pentru echipa sub 21 de ani a clubului în competiția EFL Trophy. Această decizie ridică semne de întrebare cu privire la viitorul său la club și la planurile antrenorului, având în vedere investiția majoră făcută pentru aducerea sa.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-10-13T21:40:52.739642+00:00",
-      "data_afisaj": "14 octombrie 2026, 00:40"
-    },
-    {
-      "id": "ff59b9c26bfd",
-      "titlu": "Lisandro Martinez critică conducerea Manchester United după înfrângerea cu Atletico",
-      "rezumat": "Fundașul lui Manchester United, Lisandro Martinez, a lansat un atac vehement la adresa conducerii clubului, acuzând-o că nu a reușit să întărească lotul după calificarea în Liga Campionilor. Declarațiile sale vin în urma înfrângerii cu 2-0 în fața lui Atletico Madrid, care a adâncit criza de rezultate a echipei. Martinez a subliniat necesitatea unor investiții suplimentare pentru a permite echipei să concureze la cel mai înalt nivel și a exprimat frustrarea jucătorilor față de lipsa de acțiune pe piața transferurilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-13T21:40:52.741429+00:00",
-      "data_afisaj": "14 octombrie 2026, 00:40"
-    },
-    {
-      "id": "c1fc8a12c3d3",
-      "titlu": "Antrenorul lui Liverpool, Andoni Iraola, își exprimă încrederea totală în Wirtz și Barcola",
-      "rezumat": "Antrenorul principal al lui Liverpool, Andoni Iraola, a declarat că are „încredere 100%” în Florian Wirtz și Bradley Barcola. Această declarație vine după ce cei doi jucători, transferați pentru sume de peste 100 de milioane de lire sterline fiecare, au fost ținta unor critici recente. Iraola subliniază sprijinul său pentru fotbaliști, în ciuda presiunii publice și a așteptărilor ridicate legate de performanțele lor pe teren, consolidând poziția clubului față de achizițiile sale costisitoare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-13T21:03:28.375781+00:00",
-      "data_afisaj": "14 octombrie 2026, 00:03"
-    },
-    {
-      "id": "04d699949eed",
-      "titlu": "Atlético Madrid învinge Manchester United cu 2-0 în Liga Campionilor",
-      "rezumat": "Atlético Madrid a obținut o victorie cu scorul de 2-0 împotriva echipei Manchester United în Liga Campionilor. Meciul, care a început la ora 20:00 BST, a generat reacții intense. Antrenorul lui Atlético, Diego Simeone, a vorbit despre Julian Alvarez înainte de meci, exprimându-și satisfacția față de relația dezvoltată cu jucătorul. De partea cealaltă, Michael Carrick de la Manchester United a subliniat importanța competiției pentru clubul său, în ciuda rezultatului nefavorabil.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-13T21:03:28.377577+00:00",
-      "data_afisaj": "14 octombrie 2026, 00:03"
-    },
-    {
-      "id": "92297f7d9bdd",
-      "titlu": "Șeful regulatorului independent al fotbalului englez amenință cu demisia în cazul interferențelor politice privind Manchester City",
-      "rezumat": "Președintele regulatorului independent al fotbalului englez, David Kogan, a declarat că își va da demisia dacă se va confrunta cu orice formă de interferență politică în legătură cu viitorul clubului Manchester City. Afirmația vine în contextul acuzațiilor de încălcare a regulilor financiare de către Manchester City și subliniază angajamentul regulatorului pentru independență absolută în procesul de decizie. Kogan a insistat că nu a existat până acum nicio presiune politică, dar a reiterat că nu va tolera o astfel de situație.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-13T21:03:28.379571+00:00",
-      "data_afisaj": "14 octombrie 2026, 00:03"
-    },
-    {
-      "id": "aa2426b1fa16",
-      "titlu": "Președinția lui Patrice Motsepe la CAF, sub presiune după schimbarea deciziei privind AFCON",
-      "rezumat": "Liderul Confederației Africane de Fotbal (CAF), Patrice Motsepe, se confruntă cu o presiune crescândă din partea oficialilor de pe continent, care și-au exprimat lipsa de încredere în președinte. Această situație vine în urma unei schimbări de decizie privind ciclul Cupei Africii pe Națiuni (AFCON), care este așteptată să revină la un format bienal. Rivali, inclusiv Samuel Eto’o, se poziționează ca potențiali înlocuitori, indicând o posibilă schimbare la vârful conducerii fotbalului african în viitorul apropiat.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-13T21:03:28.382588+00:00",
-      "data_afisaj": "14 octombrie 2026, 00:03"
     }
   ]
 }
