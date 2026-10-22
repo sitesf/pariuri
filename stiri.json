@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-22T13:28:51.275586+00:00",
-  "updated_at_afisaj": "22 octombrie 2026, 16:28",
+  "updated_at": "2026-10-22T19:50:01.714311+00:00",
+  "updated_at_afisaj": "22 octombrie 2026, 22:50",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,62 @@
   },
   "numar_stiri": 121,
   "stiri": [
+    {
+      "id": "f2d359fabb2c",
+      "titlu": "Inter d’Escaldes – Universitatea Craiova 1-3. Lei în Pirinei. Cronică de Cătălin Mureșanu",
+      "rezumat": "(rezumat indisponibil)",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-10-22T19:49:44.268756+00:00",
+      "data_afisaj": "22 octombrie 2026, 22:49"
+    },
+    {
+      "id": "8a2d99e3c4a3",
+      "titlu": "Fernandes to stay captain as Rooney calls Man Utd players babies",
+      "rezumat": "Bruno Fernandes will remain as Manchester United captain and will not be disciplined for his post-match criticism of Michael Carrick after the 4-1 Champions League defeat by Como.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-22T19:49:44.269624+00:00",
+      "data_afisaj": "22 octombrie 2026, 22:49"
+    },
+    {
+      "id": "3ca59c68aeeb",
+      "titlu": "Sutton's predictions v Waffle the Wonder Dog and his owner, Simon",
+      "rezumat": "BBC Sport football expert Chris Sutton takes on Waffle the Wonder Dog and his owner Simon, plus the BBC readers and AI with his predictions for this weekend's Premier League mecis.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-22T19:49:44.270459+00:00",
+      "data_afisaj": "22 octombrie 2026, 22:49"
+    },
+    {
+      "id": "dccadfcc16c6",
+      "titlu": "Carrick carrying on but senior Man Utd figures concerned by performances",
+      "rezumat": "While antrenor principal Michael Carrick is expected to be in charge for Sunday's match against Bournemouth, Manchester United begin the process of identifying possible replacements.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-22T19:49:44.271256+00:00",
+      "data_afisaj": "22 octombrie 2026, 22:49"
+    },
+    {
+      "id": "b0ac8afc6a90",
+      "titlu": "US to host first Women's Cupa Mondiala a Cluburilor in 2028",
+      "rezumat": "Arsenal are named as one of the teams to compete at the inaugural Women's Cupa Mondiala a Cluburilor, to be hosted in the United States in 2028.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-22T19:49:44.272024+00:00",
+      "data_afisaj": "22 octombrie 2026, 22:49"
+    },
     {
       "id": "21c2f95357ba",
       "titlu": "Viitorul lui Michael Carrick la Manchester United Sub Semnul Întrebării, Clubul Caută Înlocuitori",
@@ -1343,63 +1399,6 @@
       ],
       "data_publicare": "2026-10-15T20:08:12.991530+00:00",
       "data_afisaj": "15 octombrie 2026, 23:08"
-    },
-    {
-      "id": "97a23d654690",
-      "titlu": "Martinez își cere scuze pentru izbucnire și este amendat de Man Utd",
-      "rezumat": "Fundașul lui Manchester United, Lisandro Martinez, își cere scuze în urma remarcilor sale controversate care criticau conducerea clubului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-10-15T19:45:36.923272+00:00",
-      "data_afisaj": "15 octombrie 2026, 22:45"
-    },
-    {
-      "id": "5811c80e3c4c",
-      "titlu": "Universitatea Craiova – Getafe 1-1. Oltenii la raport: două stele și trei belele la debut în grupa Conference League pentru Gabriel Berceanu",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-10-15T19:45:36.925580+00:00",
-      "data_afisaj": "15 octombrie 2026, 22:45"
-    },
-    {
-      "id": "306899870bfb",
-      "titlu": "Predicțiile lui Sutton vs. boxerul și fanul Ipswich, Fabio Wardley",
-      "rezumat": "Expertul BBC Sport în fotbal, Chris Sutton, se duelează cu boxerul și fanul Ipswich, Fabio Wardley, plus cititorii BBC și inteligența artificială, cu predicțiile sale pentru meciurile din Premier League din acest weekend.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-15T19:45:36.927166+00:00",
-      "data_afisaj": "15 octombrie 2026, 22:45"
-    },
-    {
-      "id": "b77538ad4fe2",
-      "titlu": "Infantino își cere scuze Consiliului FIFA - dar i se spune că încă nu este apt să conducă",
-      "rezumat": "Președintele Gianni Infantino își cere scuze Consiliului FIFA pentru planul său de vânzare a Cupei Mondiale - dar i se cere să meargă mai departe.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-15T19:45:36.928869+00:00",
-      "data_afisaj": "15 octombrie 2026, 22:45"
-    },
-    {
-      "id": "9af10dc3a594",
-      "titlu": "Man City arată luptă, dar nu reușește o revenire împotriva PSG-ului agil",
-      "rezumat": "Campioana en-titre Paris Saint-Germain obține a doua victorie din două în Liga Campionilor din acest sezon, după ce a învins Manchester City cu 4-2 pe stadionul Etihad.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-15T19:45:36.930523+00:00",
-      "data_afisaj": "15 octombrie 2026, 22:45"
     }
   ]
 }
