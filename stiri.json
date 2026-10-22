@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-21T20:25:23.381272+00:00",
-  "updated_at_afisaj": "21 octombrie 2026, 23:25",
+  "updated_at": "2026-10-22T12:50:42.640922+00:00",
+  "updated_at_afisaj": "22 octombrie 2026, 15:50",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,55 @@
   },
   "numar_stiri": 123,
   "stiri": [
+    {
+      "id": "e07684b103df",
+      "titlu": "Accidentarea lui Bukayo Saka, o Preocupare Majoră pentru Arsenal",
+      "rezumat": "Bukayo Saka, aripa lui Arsenal, a suferit o accidentare la cvadriceps în timpul meciului din Liga Campionilor împotriva lui Bayern Munchen, care s-a încheiat la egalitate. Antrenorul Mikel Arteta a declarat că situația \"nu arată deloc bine\", exprimându-și îngrijorarea cu privire la gravitatea leziunii. Această veste vine ca o lovitură pentru echipa londoneză, având în vedere importanța jucătorului în angrenajul ofensiv. Absența sa ar putea influența semnificativ performanța echipei în următoarele partide cruciale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-10-22T12:50:42.635410+00:00",
+      "data_afisaj": "22 octombrie 2026, 15:50"
+    },
+    {
+      "id": "02233cfffb8d",
+      "titlu": "Aston Villa Își Menține Startul Perfect în Liga Campionilor",
+      "rezumat": "Aston Villa a înregistrat a treia victorie consecutivă în Liga Campionilor, învingând echipa norvegiană Viking. Această performanță dominantă o propulsează pe locul al doilea în faza grupelor a competiției. Echipa a demonstrat o formă excelentă de la începutul campaniei europene, consolidându-și poziția și arătând ambiții serioase pentru calificarea în etapele superioare. Rezultatul subliniază eficacitatea strategiei antrenorului și capacitatea jucătorilor de a se impune pe scena europeană.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-22T12:50:42.637217+00:00",
+      "data_afisaj": "22 octombrie 2026, 15:50"
+    },
+    {
+      "id": "d485ddaad4f3",
+      "titlu": "Harry Kane, Favorit la Balonul de Aur, Recunoaște Presiunea Asupra Familiei Sale",
+      "rezumat": "Harry Kane, atacantul lui Bayern Munchen și al naționalei Angliei, este considerat principalul favorit la câștigarea prestigiosului trofeu Balonul de Aur. Jucătorul a mărturisit că perioada de așteptare și întrebările constante legate de acest premiu sunt \"foarte stresante\" pentru familia sa. Declan Rice, coechipierul său de la națională, și-a exprimat public susținerea pentru Kane, subliniind performanțele remarcabile ale acestuia pe parcursul sezonului. Decernarea premiului este așteptată cu mare interes.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-22T12:50:42.639253+00:00",
+      "data_afisaj": "22 octombrie 2026, 15:50"
+    },
+    {
+      "id": "20531fd2c516",
+      "titlu": "Real Madrid Continuă Seria de Victorii în Liga Campionilor",
+      "rezumat": "Real Madrid și-a consolidat startul de 100% în Liga Campionilor, obținând o victorie convingătoare cu 4-1 împotriva echipei Leipzig. Aceasta marchează a treia victorie consecutivă pentru gigantul spaniol în competiție. Meciul a fost notabil și pentru Bernardo Silva, care a marcat primul său gol pentru Real Madrid de la transferul său de la Manchester City în vară. Echipa demonstrează o formă excelentă și o determinare puternică în faza grupelor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-22T12:50:42.640787+00:00",
+      "data_afisaj": "22 octombrie 2026, 15:50"
+    },
     {
       "id": "dc1fed5c1bd9",
       "titlu": "Fernandes îl critică pe Carrick după umilința lui Man Utd",
@@ -1373,52 +1422,6 @@
       ],
       "data_publicare": "2026-10-15T13:04:30.077579+00:00",
       "data_afisaj": "15 octombrie 2026, 16:04"
-    },
-    {
-      "id": "39ac0b022e2c",
-      "titlu": "Lideri europeni ai fotbalului caută un candidat împotriva lui Gianni Infantino la președinția FIFA",
-      "rezumat": "Figuri importante din fotbalul european își exprimă încrederea că vor găsi un candidat care să-l conteste pe actualul președinte FIFA, Gianni Infantino, la alegerile de anul viitor. Fostul manager al lui Arsenal, Arsene Wenger, este menționat ca un potențial candidat surpriză. Această mișcare vine în contextul unei presiuni crescânde asupra lui Infantino și a unei ședințe cruciale a consiliului FIFA, subliniind dorința de schimbare în conducerea forului mondial.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-15T12:31:05.926601+00:00",
-      "data_afisaj": "15 octombrie 2026, 15:31"
-    },
-    {
-      "id": "f01b94f7408a",
-      "titlu": "Aston Villa înregistrează cea mai mare victorie europeană din istoria clubului",
-      "rezumat": "Aston Villa a stabilit un nou record pentru cea mai mare victorie a clubului într-o competiție europeană, învingând categoric echipa turcă Fenerbahce cu 6-0 pe Villa Park. Nicolas Jackson și Ross Barkley au marcat câte două goluri, contribuind la o performanță dominantă. Acest rezultat impresionant subliniază forma bună a echipei și ambițiile sale în competițiile continentale, oferind fanilor un motiv de sărbătoare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-10-15T12:31:05.928686+00:00",
-      "data_afisaj": "15 octombrie 2026, 15:31"
-    },
-    {
-      "id": "f1621f6d66c3",
-      "titlu": "Real Madrid realizează o revenire spectaculoasă împotriva Romei în Liga Campionilor",
-      "rezumat": "Real Madrid a reușit o nouă revenire dramatică în Liga Campionilor, marcând trei goluri în ultimele șapte minute ale meciului pentru a obține victoria împotriva Romei. Această performanță a asigurat o victorie pentru antrenorul Jose Mourinho la revenirea sa pe stadionul fostei sale echipe. Meciul a fost plin de tensiune și emoție, demonstrând încă o dată capacitatea Realului de a lupta până la capăt în cele mai dificile momente.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-15T12:31:05.930336+00:00",
-      "data_afisaj": "15 octombrie 2026, 15:31"
-    },
-    {
-      "id": "5fb3b1117ac6",
-      "titlu": "Cheltuielile FA pentru ospitalitatea de la Wembley și biletele gratuite au crescut cu 25%",
-      "rezumat": "Asociația de Fotbal (FA) a înregistrat o creștere de 25% a cheltuielilor pentru ospitalitatea de la Wembley și biletele gratuite destinate membrilor Consiliului FA în sezonul trecut. Cheltuielile au ajuns la 564.400 de lire sterline în sezonul 2025-26, față de 452.300 de lire sterline în sezonul precedent. Această creștere vine în contextul în care fanii din întreaga țară au protestat împotriva prețurilor biletelor și a crizei costului vieții.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-15T12:31:05.931974+00:00",
-      "data_afisaj": "15 octombrie 2026, 15:31"
     }
   ]
 }
