@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-22T19:50:01.714311+00:00",
-  "updated_at_afisaj": "22 octombrie 2026, 22:50",
+  "updated_at": "2026-10-22T20:22:51.404637+00:00",
+  "updated_at_afisaj": "22 octombrie 2026, 23:22",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,61 @@
   },
   "numar_stiri": 121,
   "stiri": [
+    {
+      "id": "bd86898354ba",
+      "titlu": "Is Leicester boss Martin turning the Foxes' fortunes?",
+      "rezumat": "Leicester are 10th in League One, 10 years after winning the Premier League. After hitting their lowest ebb, are there now grounds for optimism?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-22T20:22:34.227265+00:00",
+      "data_afisaj": "22 octombrie 2026, 23:22"
+    },
+    {
+      "id": "2238400306a2",
+      "titlu": "What are Real's attacking options during Vinicius Jr ban?",
+      "rezumat": "Real Madrid’s attacking options are expanding under Jose Mourinho, with Endrick, Yan Diomande and Carlos Espi offering fresh solutions in the final third.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-22T20:22:34.228655+00:00",
+      "data_afisaj": "22 octombrie 2026, 23:22"
+    },
+    {
+      "id": "13665f430602",
+      "titlu": "Breaking down Man Utd's tactics after Fernandes' criticism",
+      "rezumat": "Was Manchester United captain Bruno Fernandes correct in his analysis of his side's tactics in their 4-1 thrashing by Italian side Como?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-22T20:22:34.229973+00:00",
+      "data_afisaj": "22 octombrie 2026, 23:22"
+    },
+    {
+      "id": "040ed3cd79f0",
+      "titlu": "Man Utd humbled by four-goal Como to pile pressure on Carrick",
+      "rezumat": "Manchester United suffer a heavy defeat to a Como side playing just their third ever game of Champions League football, as Nico Paz stars for the hosts to pile the pressure on Michael Carrick.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-22T20:22:34.231293+00:00",
+      "data_afisaj": "22 octombrie 2026, 23:22"
+    },
+    {
+      "id": "bcc1fa18fdc1",
+      "titlu": "Rice strikes to earn Arsenal egal at Bayern",
+      "rezumat": "Declan Rice scores a late equaliser as Arsenal and Bayern Munich play out an entertaining egal in the league phase of the Champions League while Bukayo Saka limps off with an early injury.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-22T20:22:34.232467+00:00",
+      "data_afisaj": "22 octombrie 2026, 23:22"
+    },
     {
       "id": "f2d359fabb2c",
       "titlu": "Inter d’Escaldes – Universitatea Craiova 1-3. Lei în Pirinei. Cronică de Cătălin Mureșanu",
@@ -1344,61 +1399,6 @@
       ],
       "data_publicare": "2026-10-16T12:09:13.205696+00:00",
       "data_afisaj": "16 octombrie 2026, 15:09"
-    },
-    {
-      "id": "173868b5a163",
-      "titlu": "Kane poised to extend Bayern stay - Friday's gossip",
-      "rezumat": "Harry Kane is close to signing a new deal at Bayern Munich, Arda Guler agrees a new contract with Real Madrid, Liverpool are leading the race for Bournemouth's Alex Scott, plus more.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-15T20:08:12.984831+00:00",
-      "data_afisaj": "15 octombrie 2026, 23:08"
-    },
-    {
-      "id": "b86e518e46a4",
-      "titlu": "Barcola shines as Liverpool score six to beat LASK",
-      "rezumat": "Bradley Barcola scores a hat-trick as Liverpool beat LASK 6-3 in Austria to make it two wins from two in the league phase of this season's Champions League.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-15T20:08:12.986464+00:00",
-      "data_afisaj": "15 octombrie 2026, 23:08"
-    },
-    {
-      "id": "ff28fb604b4e",
-      "titlu": "Villa rewrite the record books as they hit Fenerbahce for six",
-      "rezumat": "Aston Villa record their biggest ever win in a European competition as they thrash Turkish side Fenerbahce 6-0 at Villa Park, with Nicolas Jackson and Ross Barkley both scoring twice.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-15T20:08:12.988153+00:00",
-      "data_afisaj": "15 octombrie 2026, 23:08"
-    },
-    {
-      "id": "dcf55c3b1a5b",
-      "titlu": "Real Madrid stun Roma after dramatic late comeback",
-      "rezumat": "Real Madrid complete their latest dramatic Champions League comeback by scoring three goals in the final seven minutes to earn antrenor Jose Mourinho a win on his return to Roma.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-15T20:08:12.989753+00:00",
-      "data_afisaj": "15 octombrie 2026, 23:08"
-    },
-    {
-      "id": "8a01dad4df1b",
-      "titlu": "Brilliant Barcola scores first hat-trick to get lift-off at Liverpool",
-      "rezumat": "Liverpool's summer signing Bradley Barcola scores his first senior hat-trick, and his first goals for Liverpool, as he helps his side beat LASK 6-3 in Austria to make it two wins from two in this season's Champions League.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-15T20:08:12.991530+00:00",
-      "data_afisaj": "15 octombrie 2026, 23:08"
     }
   ]
 }
