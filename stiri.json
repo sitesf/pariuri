@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-22T12:50:42.640922+00:00",
-  "updated_at_afisaj": "22 octombrie 2026, 15:50",
+  "updated_at": "2026-10-22T13:28:51.275586+00:00",
+  "updated_at_afisaj": "22 octombrie 2026, 16:28",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,41 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 123,
+  "numar_stiri": 121,
   "stiri": [
+    {
+      "id": "21c2f95357ba",
+      "titlu": "Viitorul lui Michael Carrick la Manchester United Sub Semnul Întrebării, Clubul Caută Înlocuitori",
+      "rezumat": "Antrenorul principal al lui Manchester United, Michael Carrick, este așteptat să conducă echipa în meciul de duminică împotriva lui Bournemouth, însă clubul a inițiat deja procesul de identificare a unor posibili înlocuitori. Această decizie vine în contextul presiunii crescânde asupra lui Carrick, după o serie de rezultate dezamăgitoare, culminând cu înfrângerea umilitoare în Liga Campionilor. Conducerea clubului, inclusiv Sir Jim Ratcliffe, ar putea discuta viitorul său înainte de partida din weekend, indicând o posibilă schimbare iminentă la cârma echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-22T13:28:51.272938+00:00",
+      "data_afisaj": "22 octombrie 2026, 16:28"
+    },
+    {
+      "id": "d52565df7c0e",
+      "titlu": "Startul Fals al Lui Nottingham Forest Pune Presiune pe Antrenorul Glasner și Atacantul Delap",
+      "rezumat": "Nottingham Forest se află pe locul 19 în Premier League, un început de sezon sub așteptări, în ciuda sosirii unui antrenor aclamat, Oliver Glasner, și a unui atacant de 45 de milioane de lire sterline, Liam Delap. Echipa nu a marcat niciun gol pe teren propriu și a obținut un singur punct pe City Ground, ceea ce a generat îngrijorări. Proprietarul clubului nu este cunoscut pentru răbdarea sa, iar tacticile lui Glasner necesită adaptare rapidă pentru a inversa trendul negativ și a evita o criză.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-22T13:28:51.274020+00:00",
+      "data_afisaj": "22 octombrie 2026, 16:28"
+    },
+    {
+      "id": "25c8511e1022",
+      "titlu": "Bournemouth Se Pregătește pentru Confruntarea Istorică cu AC Milan în Europa League",
+      "rezumat": "La exact 15 ani de la o înfrângere acasă împotriva lui Bury în League One, echipa Bournemouth se pregătește să găzduiască pe AC Milan, de șapte ori campioană a Europei, într-o partidă din Europa League. Această confruntare marchează un moment semnificativ în istoria clubului, evidențiind parcursul remarcabil de la ligile inferioare la competițiile europene. Meciul este considerat o realizare de \"vis\" pentru club și fanii săi, subliniind ascensiunea spectaculoasă a echipei în fotbalul european.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-22T13:28:51.275575+00:00",
+      "data_afisaj": "22 octombrie 2026, 16:28"
+    },
     {
       "id": "e07684b103df",
       "titlu": "Accidentarea lui Bukayo Saka, o Preocupare Majoră pentru Arsenal",
@@ -1367,61 +1400,6 @@
       ],
       "data_publicare": "2026-10-15T19:45:36.930523+00:00",
       "data_afisaj": "15 octombrie 2026, 22:45"
-    },
-    {
-      "id": "aaf11c0d9018",
-      "titlu": "Man Utd a circus after Martinez comments - Keane",
-      "rezumat": "Lisandro Martinez's outburst shows Manchester United are in \"chaos\", says former captain Roy Keane.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-15T13:04:30.069673+00:00",
-      "data_afisaj": "15 octombrie 2026, 16:04"
-    },
-    {
-      "id": "b6b6fb074fde",
-      "titlu": "The Andorran club making history with a Pochettino in the team",
-      "rezumat": "Maurizio Pochettino and inter Club d'Escaldes are set to make European history for footballing minnows Andorra.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-15T13:04:30.071874+00:00",
-      "data_afisaj": "15 octombrie 2026, 16:04"
-    },
-    {
-      "id": "ba30affa96f9",
-      "titlu": "Getafe make offer to sign free agent Sancho",
-      "rezumat": "Getafe make a formal offer to sign attacker Jadon Sancho, who is searching for a new club after leaving Manchester United in the summer.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-15T13:04:30.074012+00:00",
-      "data_afisaj": "15 octombrie 2026, 16:04"
-    },
-    {
-      "id": "2b6b05d8a034",
-      "titlu": "The Portuguese second-tier team hosting Sunderland in Europe",
-      "rezumat": "Portuguese second-tier side Torreense host Sunderland in the Europa League in what will be their first ever European home match.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-15T13:04:30.075993+00:00",
-      "data_afisaj": "15 octombrie 2026, 16:04"
-    },
-    {
-      "id": "3ce1a992048d",
-      "titlu": "Why Souness rejected Barcelona when he left Liverpool",
-      "rezumat": "Liverpool legend Graeme Souness reveals he rejected the chance to sign for Barcelona when he left the European champions.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-15T13:04:30.077579+00:00",
-      "data_afisaj": "15 octombrie 2026, 16:04"
     }
   ]
 }
