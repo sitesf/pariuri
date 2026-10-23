@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-23T19:51:45.311079+00:00",
-  "updated_at_afisaj": "23 octombrie 2026, 22:51",
+  "updated_at": "2026-10-23T20:10:21.506126+00:00",
+  "updated_at_afisaj": "23 octombrie 2026, 23:10",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,65 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 115,
+  "numar_stiri": 120,
   "stiri": [
+    {
+      "id": "93cc7f9ddbb4",
+      "titlu": "Vincent Kompany, Managerul lui Bayern Munchen, Transportat la Spital",
+      "rezumat": "Antrenorul principal al echipei Bayern Munchen, Vincent Kompany, a fost transportat la spital vineri, după ce a leșinat în timpul unei sesiuni de antrenament a echipei secunde a clubului. Incidentul a stârnit îngrijorare în rândul staff-ului și al jucătorilor. Starea sa de sănătate este monitorizată, iar clubul urmează să ofere actualizări pe măsură ce informațiile devin disponibile. Cauza exactă a colapsului nu a fost încă precizată.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-23T20:10:21.501025+00:00",
+      "data_afisaj": "23 octombrie 2026, 23:10"
+    },
+    {
+      "id": "7972250cf2fc",
+      "titlu": "Nicolas Raskin, Mulțumit la Rangers, dar Incert în Privința Viitorului din Ianuarie",
+      "rezumat": "Mijlocașul belgian Nicolas Raskin a declarat că este \"foarte fericit\" la clubul scoțian Rangers, unde se simte bine integrat. Cu toate acestea, jucătorul a exprimat incertitudine cu privire la ceea ce s-ar putea întâmpla în fereastra de transferuri din ianuarie. Declarația sa sugerează că, deși se bucură de timpul petrecut la Rangers, viitorul său la club nu este pe deplin asigurat, deschizând posibilitatea unor speculații privind un potențial transfer.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-10-23T20:10:21.502307+00:00",
+      "data_afisaj": "23 octombrie 2026, 23:10"
+    },
+    {
+      "id": "8a5e2089648f",
+      "titlu": "Campania pentru Balonul de Aur, la Fel de Intensă în Afara Terenului ca și pe El",
+      "rezumat": "Balonul de Aur, considerat cea mai prestigioasă distincție individuală din fotbal, a devenit subiectul unei campanii tot mai intense în ultimii ani, nu doar pe teren, ci și în afara acestuia. Dorința de a câștiga acest trofeu a crescut exponențial, transformând procesul de selecție într-o competiție acerbă, influențată de performanțe, imagine publică și narațiuni mediatice. Această intensitate subliniază importanța tot mai mare a premiului în carierele jucătorilor de top.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-23T20:10:21.503532+00:00",
+      "data_afisaj": "23 octombrie 2026, 23:10"
+    },
+    {
+      "id": "7eb8dca7ec12",
+      "titlu": "Primarul din New York Solicită Arsenalului să Rupă Legăturile cu Sponsorii din Emiratele Arabe Unite din Cauza Sudanului",
+      "rezumat": "Primarul orașului New York, Zohran Mamdani, un susținător declarat al clubului Arsenal, a lansat un apel public către echipa sa favorită, cerându-i să reconsidere și, eventual, să rupă legăturile cu sponsorii din Emiratele Arabe Unite. Solicitarea vine pe fondul preocupărilor legate de drepturile omului și de implicarea EAU în conflictul din Sudan. Mamdani consideră că pasiunea sa pentru Arsenal și angajamentul său față de drepturile omului creează o oportunitate pentru club de a adopta o poziție etică mai puternică.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-23T20:10:21.504941+00:00",
+      "data_afisaj": "23 octombrie 2026, 23:10"
+    },
+    {
+      "id": "52ebc071dd9a",
+      "titlu": "Harry Redknapp Critică Dur Criza Academiilor din Premier League",
+      "rezumat": "Antrenorul legendar Harry Redknapp a exprimat o critică vehementă cu privire la starea actuală a academiilor de fotbal din Premier League, într-o discuție cu Henry Winter. Redknapp a subliniat că, în trecut, cluburile erau o \"bandă rulantă\" de jucători formați în propriile pepiniere, însă această tendință a dispărut. El a deplâns lipsa tinerilor talente autohtone care să ajungă la prima echipă, sugerând o criză în dezvoltarea fotbaliștilor la nivel de bază în Anglia.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-10-23T20:10:21.506110+00:00",
+      "data_afisaj": "23 octombrie 2026, 23:10"
+    },
     {
       "id": "837c623a2724",
       "titlu": "Manchester City, Vizată de o A Doua Investigație După Verdictul de Vinovăție în Cazul Acuzațiilor din Premier League",
