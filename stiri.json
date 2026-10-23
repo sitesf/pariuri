@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-23T13:05:32.034428+00:00",
-  "updated_at_afisaj": "23 octombrie 2026, 16:05",
+  "updated_at": "2026-10-23T19:51:45.311079+00:00",
+  "updated_at_afisaj": "23 octombrie 2026, 22:51",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,54 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 121,
+  "numar_stiri": 115,
   "stiri": [
+    {
+      "id": "837c623a2724",
+      "titlu": "Manchester City, Vizată de o A Doua Investigație După Verdictul de Vinovăție în Cazul Acuzațiilor din Premier League",
+      "rezumat": "Manchester City se confruntă cu o a doua investigație legată de cele 114 acuzații din Premier League, după ce clubul a primit deja un verdict de vinovăție. Echipa așteaptă încă să afle amploarea sancțiunilor inițiale, dar noile evoluții sugerează că situația legală a clubului ar putea deveni și mai complicată. Această nouă investigație adaugă presiune semnificativă asupra campioanei en-titre.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-10-23T19:51:45.307015+00:00",
+      "data_afisaj": "23 octombrie 2026, 22:51"
+    },
+    {
+      "id": "a5f8dd435095",
+      "titlu": "Bukayo Saka de la Arsenal Ar Putea Lipsi Două Luni din Cauza Accidentării",
+      "rezumat": "Atacantul lui Arsenal, Bukayo Saka, ar putea fi indisponibil pentru o perioadă de până la opt săptămâni, adică aproximativ două luni, din cauza unei accidentări la cvadriceps. Leziunea a fost suferită în timpul meciului din Liga Campionilor împotriva echipei Bayern Munchen. Această veste reprezintă o lovitură semnificativă pentru \"Tunari\", care se bazează pe contribuția decisivă a tânărului internațional englez.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-23T19:51:45.308391+00:00",
+      "data_afisaj": "23 octombrie 2026, 22:51"
+    },
+    {
+      "id": "8257ad2aadd7",
+      "titlu": "Michael Carrick Nu Exclude Posibilitatea de a-l Scoate din Echipă pe Bruno Fernandes",
+      "rezumat": "Antrenorul lui Manchester United, Michael Carrick, a susținut o conferință de presă emoționantă, în care a vorbit despre importanța clubului pentru el. Ulterior, a refuzat să excludă posibilitatea de a-l lăsa pe banca de rezerve pe căpitanul Bruno Fernandes, în contextul performanțelor recente ale echipei. Această declarație vine după criticile aduse de Fernandes tacticilor lui Carrick.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-23T19:51:45.309774+00:00",
+      "data_afisaj": "23 octombrie 2026, 22:51"
+    },
+    {
+      "id": "8accb55c2768",
+      "titlu": "Meciul PSG - Lyon, Amânat din Cauza Protestelor din Paris",
+      "rezumat": "Partida din Ligue 1 dintre Paris Saint-Germain și Olympique Lyon, programată inițial pe Parc des Princes, a fost amânată cu 24 de ore. Decizia a fost luată în contextul în care capitala Franței se pregătește pentru un nou weekend marcat de proteste. Măsura vizează asigurarea siguranței publice și buna desfășurare a evenimentelor sportive.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-23T19:51:45.311063+00:00",
+      "data_afisaj": "23 octombrie 2026, 22:51"
+    },
     {
       "id": "95dfedd5ebb3",
       "titlu": "Costurile Regulatorului Independent al Fotbalului Englez se Dublează",
@@ -1287,120 +1333,6 @@
       ],
       "data_publicare": "2026-10-17T11:28:44.261545+00:00",
       "data_afisaj": "17 octombrie 2026, 14:28"
-    },
-    {
-      "id": "2a1b4506d786",
-      "titlu": "Michael Carrick Abordează Situația Lisandro Martínez la Manchester United",
-      "rezumat": "Antrenorul lui Manchester United, Michael Carrick, a declarat că spune adevărul despre modul în care clubul a depășit interviul exploziv post-meci al lui Lisandro Martínez. Carrick a gestionat întrebările legate de prima criză a mandatului său, în contextul unui început slab de sezon în campionat și eliminării din Cupa Ligii. Declarațiile sale vin după ce Martínez a semnalat tensiuni în urma înfrângerii din Liga Campionilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-16T19:46:39.912930+00:00",
-      "data_afisaj": "16 octombrie 2026, 22:46"
-    },
-    {
-      "id": "375508323497",
-      "titlu": "Gianni Infantino, Solicitat să Anuleze sau Depolitizeze Premiul FIFA pentru Pace",
-      "rezumat": "Președintele FIFA, Gianni Infantino, a fost sfătuit de membri importanți ai Consiliului FIFA să anuleze sau să depolitizeze controversatul premiu pentru pace al organizației. Solicitarea vine după o reacție negativă puternică generată de acordarea premiului președintelui american Donald Trump. Mai mulți membri ai consiliului au cerut abolirea premiului, în timp ce alții au pledat pentru o reorientare a acestuia către responsabilitatea socială fotbalistică, evitând implicarea politică.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-16T19:46:39.914814+00:00",
-      "data_afisaj": "16 octombrie 2026, 22:46"
-    },
-    {
-      "id": "5c562dc73901",
-      "titlu": "Început Dificil pentru Álvaro Arbeloa la Fulham",
-      "rezumat": "Fanii lui Fulham sunt îngrijorați de performanțele echipei sub conducerea antrenorului Álvaro Arbeloa, a cărui viziune de joc ofensiv pare să se confrunte cu dificultăți. Clubul a avut un început de sezon sub așteptări, iar capacitatea lui Arbeloa de a gestiona echipa este pusă sub semnul întrebării. Această situație contrastează cu perioada anterioară, sub Marco Silva, când Fulham era recunoscută pentru eficiența schimbărilor și capacitatea de a obține rezultate.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-16T19:46:39.916452+00:00",
-      "data_afisaj": "16 octombrie 2026, 22:46"
-    },
-    {
-      "id": "4671fb2e377c",
-      "titlu": "Peter Bosz Explică Absența lui Dennis Man din Echipa PSV",
-      "rezumat": "Antrenorul echipei PSV Eindhoven, Peter Bosz, a rupt tăcerea și a oferit detalii despre motivele pentru care fotbalistul român Dennis Man a dispărut din echipa de start. Bosz a explicat că deciziile sale sunt bazate pe forma sportivă a jucătorului și pe cerințele tactice ale echipei. Această clarificare vine în urma speculațiilor din presă privind statutul lui Man la clubul olandez și rolul său în planurile antrenorului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-10-16T19:46:39.918219+00:00",
-      "data_afisaj": "16 octombrie 2026, 22:46"
-    },
-    {
-      "id": "c66b6659dfe3",
-      "titlu": "Florian Wirtz, Sub Așteptări la Liverpool Față de Forma de la Leverkusen",
-      "rezumat": "Contribuția lui Florian Wirtz la Liverpool a generat discuții, mulți observatori remarcând că jucătorul german nu a reușit să atingă forma excepțională demonstrată la Bayer Leverkusen și în naționala Germaniei. Deși a avut momente bune, în special în Liga Campionilor, performanțele sale generale la Liverpool, unde a fost transferat pentru o sumă considerabilă, au fost considerate sub potențialul său. Analiza recentă subliniază o discrepanță între așteptări și realitatea de pe teren.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-16T19:46:39.920073+00:00",
-      "data_afisaj": "16 octombrie 2026, 22:46"
-    },
-    {
-      "id": "325cb89a15da",
-      "titlu": "Arteta: Reducerea Posturilor la Arsenal, Decizie pentru Succes Viitor",
-      "rezumat": "Antrenorul lui Arsenal, Mikel Arteta, a declarat că decizia clubului de a reduce 60 de posturi a fost luată pentru a \"atinge succesul pe care dorim să-l creăm\". Această măsură face parte dintr-o strategie mai amplă de restructurare, menită să optimizeze resursele și eficiența operațională a clubului. Arteta a subliniat că, deși dificilă, decizia este considerată esențială pentru a asigura stabilitatea financiară și competitivitatea pe termen lung a echipei, în contextul obiectivelor ambițioase stabilite.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-16T19:26:37.333216+00:00",
-      "data_afisaj": "16 octombrie 2026, 22:26"
-    },
-    {
-      "id": "d79827805164",
-      "titlu": "Real Madrid Cere Demisia Președintelui La Liga, Javier Tebas",
-      "rezumat": "Clubul Real Madrid a solicitat demisia \"imediată\" a președintelui La Liga, Javier Tebas, în urma unei declarații controversate în care acesta a comparat conducerea clubului cu Joseph Goebbels. Această cerere vine pe fondul tensiunilor continue dintre Real Madrid și conducerea ligii spaniole, escaladând un conflict de lungă durată. Declarația lui Tebas a stârnit indignare profundă în rândul clubului, care consideră comparația inacceptabilă și lipsită de respect.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-16T19:26:37.335004+00:00",
-      "data_afisaj": "16 octombrie 2026, 22:26"
-    },
-    {
-      "id": "07b861adced5",
-      "titlu": "Manchester City se Confruntă cu Obstacole Semnificative în Apelul Împotriva Sancțiunilor Premier League",
-      "rezumat": "Manchester City se confruntă cu \"obstacole substanțiale\" în încercarea de a câștiga apelul împotriva acuzațiilor de încălcare a regulilor financiare ale Premier League, conform unui avocat de top citat de BBC Sport. Clubul a fost găsit vinovat de nereguli financiare, iar procesul de apel este considerat a fi extrem de dificil. Experții juridici subliniază complexitatea cazului și necesitatea unor argumente solide pentru a contesta decizia inițială, având în vedere gravitatea acuzațiilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-16T19:26:37.336902+00:00",
-      "data_afisaj": "16 octombrie 2026, 22:26"
-    },
-    {
-      "id": "07fbfac869b9",
-      "titlu": "Arsenal Va Realiza o Nouă Fotografie de Echipă, Inclusiv cu William Saliba",
-      "rezumat": "Antrenorul lui Arsenal, Mikel Arteta, a anunțat că echipa va face o nouă fotografie oficială, care îl va include pe fundașul William Saliba. Anunțul vine după ce absența surprinzătoare a lui Saliba din fotografia de echipă publicată recent a stârnit numeroase discuții și speculații. Decizia de a reface fotografia are scopul de a clarifica situația și de a asigura că toți membrii importanți ai lotului sunt reprezentați corespunzător în materialele oficiale ale clubului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-10-16T19:26:37.338683+00:00",
-      "data_afisaj": "16 octombrie 2026, 22:26"
-    },
-    {
-      "id": "fbe03b3ebad0",
-      "titlu": "Anglia Avancează în Runda Finală a Calificărilor pentru Cupa Mondială Feminină 2027",
-      "rezumat": "Echipa națională feminină a Angliei, \"Lionesses\", a învins Grecia cu scorul general de 8-1, asigurându-și astfel calificarea în runda finală a preliminariilor pentru Cupa Mondială Feminină din 2027, care va avea loc în Brazilia. Această performanță solidă le plasează într-o poziție favorabilă în cursa pentru un loc la turneul final. Următoarea etapă a campaniei de calificare va fi crucială pentru determinarea participării lor la prestigioasa competiție internațională.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-10-16T19:26:37.340503+00:00",
-      "data_afisaj": "16 octombrie 2026, 22:26"
     }
   ]
 }
