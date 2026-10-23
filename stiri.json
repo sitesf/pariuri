@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-22T20:22:51.404637+00:00",
-  "updated_at_afisaj": "22 octombrie 2026, 23:22",
+  "updated_at": "2026-10-23T12:28:52.518671+00:00",
+  "updated_at_afisaj": "23 octombrie 2026, 15:28",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,66 @@
   },
   "numar_stiri": 121,
   "stiri": [
+    {
+      "id": "4ce1898c32c6",
+      "titlu": "Gianni Infantino Primește Sprijinul Confederației Asiatice pentru Realege la FIFA",
+      "rezumat": "Speranțele lui Gianni Infantino de a fi reales președinte FIFA au fost consolidate de o susținere din partea Confederației Asiatice de Fotbal (AFC). Această decizie reprezintă o schimbare de poziție a AFC, care în urmă cu două luni criticase șeful forului mondial pentru o încălcare a încrederii. Președintele AFC, Sheikh Salman bin Ibrahim al-Khalifa, a lăudat și îmbrățișat public pe Infantino la congresul extraordinar al organizației de la Tokyo, confirmând sprijinul pentru un nou mandat.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-23T12:28:52.511918+00:00",
+      "data_afisaj": "23 octombrie 2026, 15:28"
+    },
+    {
+      "id": "4efe4923eed2",
+      "titlu": "Bournemouth Învinge AC Milan și Demonstrează Forța Echipelor din Premier League",
+      "rezumat": "Într-o seară memorabilă pentru istoria clubului, Bournemouth a obținut o victorie convingătoare cu 3-0 împotriva echipei AC Milan în Europa League. Acest rezultat subliniază dominanța formațiilor din Premier League în fața adversarilor europeni. Meciul a fost marcat de eliminarea portarului Mike Maignan de la Milan, care a complicat și mai mult sarcina italienilor. Victoria a fost considerată un semn clar al puterii actuale a cluburilor engleze în competițiile continentale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-23T12:28:52.513533+00:00",
+      "data_afisaj": "23 octombrie 2026, 15:28"
+    },
+    {
+      "id": "881c89922a09",
+      "titlu": "Celtic Continuă Seria Neagră în Europa, Îngrijorări Privind Relevanța Continentală",
+      "rezumat": "Campioana Scoției, Celtic, a înregistrat o nouă seară frustrantă în competițiile europene, continuând o serie de rezultate slabe. După o a treia înfrângere consecutivă, se ridică întrebări serioase despre capacitatea echipei de a se ridica la nivelul cerut de fotbalul continental. Experți și foști jucători, precum Martin O'Neill, au provocat clubul să găsească o modalitate de a obține victorii în Europa, sugerând că diferența dintre dominația internă și performanța europeană este prea mare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-10-23T12:28:52.515224+00:00",
+      "data_afisaj": "23 octombrie 2026, 15:28"
+    },
+    {
+      "id": "9c2d5bab9e62",
+      "titlu": "El Clasico se Pregătește de o Nouă Eră, cu Lamine Yamal și Mbappé în Prim Plan",
+      "rezumat": "Înaintea confruntării dintre Barcelona și Real Madrid, El Clasico își caută o nouă relevanță după estomparea rivalității Messi-Ronaldo. Tineri talente precum Lamine Yamal de la Barcelona și Kylian Mbappé de la Real Madrid sunt văzuți ca potențialii protagoniști care ar putea readuce strălucirea maximă a acestui duel iconic. Articolul subliniază că, deși El Clasico a fost odată cea mai mare poveste a fotbalului, acum se pune întrebarea dacă noile generații de jucători pot menține acest statut.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-23T12:28:52.516853+00:00",
+      "data_afisaj": "23 octombrie 2026, 15:28"
+    },
+    {
+      "id": "e9077d6352ab",
+      "titlu": "Kyle Walker de la Manchester City, Pregătit pentru Consecințe Dure în Cazul Retragerii Titlurilor Premier League",
+      "rezumat": "Fundașul legendar al lui Manchester City, Kyle Walker, se pregătește pentru un scenariu dificil în cazul în care clubului i se vor retrage titlurile de Premier League. Manchester City a fost găsită vinovată de 114 acuzații de încălcare a regulilor Premier League, iar sancțiunile și apelul sunt încă în așteptare. Această situație creează incertitudine pentru jucători și club, iar Walker ar putea fi afectat personal de o decizie care ar schimba istoria recentă a fotbalului englez.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "World Soccer"
+      ],
+      "data_publicare": "2026-10-23T12:28:52.518649+00:00",
+      "data_afisaj": "23 octombrie 2026, 15:28"
+    },
     {
       "id": "bd86898354ba",
       "titlu": "Is Leicester boss Martin turning the Foxes' fortunes?",
@@ -1342,63 +1402,6 @@
       ],
       "data_publicare": "2026-10-16T13:02:16.616596+00:00",
       "data_afisaj": "16 octombrie 2026, 16:02"
-    },
-    {
-      "id": "3b6e214fd4ef",
-      "titlu": "James de la Chelsea, absent trei luni după operația la genunchi",
-      "rezumat": "Căpitanul Chelsea, Reece James, va lipsi trei luni după ce a suferit o intervenție chirurgicală la genunchi.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-10-16T12:09:13.199188+00:00",
-      "data_afisaj": "16 octombrie 2026, 15:09"
-    },
-    {
-      "id": "7a28e5154e73",
-      "titlu": "„Îl văd număr 9, are calitate!”. Fotbalistul care o poate duce pe FCSB spre titlu",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-10-16T12:09:13.201109+00:00",
-      "data_afisaj": "16 octombrie 2026, 15:09"
-    },
-    {
-      "id": "72eeffcccc61",
-      "titlu": "'Nu este vorba despre mine' - Arbeloa respinge întrebările despre viitor",
-      "rezumat": "Antrenorul principal al lui Fulham, Alvaro Arbeloa, spune că atenția nu ar trebui să fie asupra lui, în timp ce echipa sa caută prima victorie în Premier League în acest sezon împotriva lui Hull City în acest weekend.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-16T12:09:13.202613+00:00",
-      "data_afisaj": "16 octombrie 2026, 15:09"
-    },
-    {
-      "id": "7526748c30dc",
-      "titlu": "Spania, sancționată cu închiderea parțială a stadionului după scandări discriminatorii împotriva Egiptului",
-      "rezumat": "Spania trebuie să joace următorul meci amical internațional cu o închidere parțială a stadionului, după ce suporterii au scandat de mai multe ori un cântec discriminatoriu despre musulmani în timpul unui meci împotriva Egiptului, pe 31 martie.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-16T12:09:13.204166+00:00",
-      "data_afisaj": "16 octombrie 2026, 15:09"
-    },
-    {
-      "id": "9025f4c86e02",
-      "titlu": "'Sunt norocos că sunt în viață' - Merino își amintește atacul asupra autocarului",
-      "rezumat": "Mijlocașul lui Arsenal și al Spaniei, Mikel Merino, reflectă asupra atacului asupra autocarului echipei Dortmund din 2017, când avea 20 de ani.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-16T12:09:13.205696+00:00",
-      "data_afisaj": "16 octombrie 2026, 15:09"
     }
   ]
 }
