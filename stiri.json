@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-24T11:54:11.540121+00:00",
-  "updated_at_afisaj": "24 octombrie 2026, 14:54",
+  "updated_at": "2026-10-24T12:27:35.403904+00:00",
+  "updated_at_afisaj": "24 octombrie 2026, 15:27",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,45 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 121,
+  "numar_stiri": 124,
   "stiri": [
+    {
+      "id": "b8d6a02880cd",
+      "titlu": "Mikel Arteta își exprimă îngrijorarea privind rezistența lui Bukayo Saka, pe fondul unei posibile absențe de șase săptămâni",
+      "rezumat": "Antrenorul lui Arsenal, Mikel Arteta, și-a exprimat îngrijorarea cu privire la rezistența fizică a lui Bukayo Saka, după o serie de accidentări suferite de atacant în ultimul an. Saka este programat pentru o scanare RMN după ce a părăsit terenul șchiopătând în timpul meciului cu Bayern Munchen din Liga Campionilor, cu Arteta confirmând prezența unei cantități semnificative de lichid în zona afectată. Se estimează că jucătorul ar putea lipsi aproximativ șase săptămâni, o perioadă care ridică semne de întrebare despre gestionarea încărcăturii sale fizice și riscul de recidivă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-10-24T12:27:35.401208+00:00",
+      "data_afisaj": "24 octombrie 2026, 15:27"
+    },
+    {
+      "id": "677883641e42",
+      "titlu": "Nottingham Forest iese din zona retrogradării după un egal cu Ipswich Town",
+      "rezumat": "Nottingham Forest a pus capăt unei serii de trei înfrângeri consecutive în Premier League, obținând o remiză de 1-1 împotriva lui Ipswich Town. Deși echipa a ratat numeroase ocazii, rezultatul este suficient pentru a o propulsa în afara zonei de retrogradare, pe baza diferenței de goluri. Meciul a fost marcat de condiții meteorologice dificile și de o controversă legată de o decizie VAR, dar Forest a reușit să obțină un punct crucial în lupta pentru menținerea în prima ligă, oferind un moment de respiro.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football",
+        "Sky Sports Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-10-24T12:27:35.402520+00:00",
+      "data_afisaj": "24 octombrie 2026, 15:27"
+    },
+    {
+      "id": "731310eb8e89",
+      "titlu": "Analiză: Cum pot fi rezolvate problemele de la Manchester United, inclusiv rolul căpitanului",
+      "rezumat": "O analiză detaliază posibilele soluții pentru criza de la Manchester United, pe fondul presiunii crescânde asupra antrenorului Michael Carrick. Printre întrebările cheie se numără dacă Carrick ar trebui să-i retragă banderola de căpitan lui Bruno Fernandes sau chiar să-l scoată din echipă. Articolul explorează, de asemenea, ideea de a integra mai mulți tineri jucători și de a reevalua strategia generală a clubului pentru a depăși perioada dificilă actuală. Se subliniază că deciziile privind Fernandes și alți jucători cheie ar putea fi cruciale pentru viitorul imediat al echipei, într-un moment de incertitudine.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-24T12:27:35.403882+00:00",
+      "data_afisaj": "24 octombrie 2026, 15:27"
+    },
     {
       "id": "17bfae419c1a",
       "titlu": "Derby-ul Tottenham - Arsenal, Crucial pentru Ambele Echipe în Lupta pentru Sezon",
