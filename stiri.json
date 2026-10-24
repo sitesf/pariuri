@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-24T12:27:35.403904+00:00",
-  "updated_at_afisaj": "24 octombrie 2026, 15:27",
+  "updated_at": "2026-10-24T18:39:05.314709+00:00",
+  "updated_at_afisaj": "24 octombrie 2026, 21:39",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,62 @@
   },
   "numar_stiri": 124,
   "stiri": [
+    {
+      "id": "dcf70e453210",
+      "titlu": "🚨 LIVE FCSB – Rapid, live în etapa 13 din Superliga. Gol spectaculos pe Arena Națională",
+      "rezumat": "(rezumat indisponibil)",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-10-24T18:38:41.311220+00:00",
+      "data_afisaj": "24 octombrie 2026, 21:38"
+    },
+    {
+      "id": "910b0ddb34ba",
+      "titlu": "Eroare Penders și Palmer vede roșu - evaluările jucătorilor pentru Chelsea v Spurs",
+      "rezumat": "Portarul Mike Penders a suferit un prim start dificil în Premier League, marcând un autogol în victoria lui Spurs cu 2-0 la Chelsea. Iată cum noi - și tu - i-am evaluat pe jucători.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-24T18:38:41.312796+00:00",
+      "data_afisaj": "24 octombrie 2026, 21:38"
+    },
+    {
+      "id": "f40c54708aac",
+      "titlu": "Donnarumma și Guehi evidențiază problemele Man City ca fiind un nivel solid al mișcării Arsenal",
+      "rezumat": "Începutul 100% câștigător al sezonului din Premier League al lui Manchester City se încheie brusc împotriva lui Aston Villa - lăsându-l pe Enzo Maresca cu probleme defensive flagrante de rezolvat.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-24T18:38:41.314353+00:00",
+      "data_afisaj": "24 octombrie 2026, 21:38"
+    },
+    {
+      "id": "865bdf316657",
+      "titlu": "De la refuzul lui Chelsea la „upgrade” lui Watkins - Jackson începe rapid Villa",
+      "rezumat": "Nicolas Jackson continuă un început excelent al carierei sale la Aston Villa cu o dublă câștigătoare împotriva lui Manchester City.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-24T18:38:41.315936+00:00",
+      "data_afisaj": "24 octombrie 2026, 21:38"
+    },
+    {
+      "id": "b319bb7a89dd",
+      "titlu": "Hayen a fost demis de Burnley după doar 14 jocuri",
+      "rezumat": "Nicky Hayen este demis după doar 14 jocuri la conducere la Burnley, după un început prost de sezon.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-24T18:38:41.317280+00:00",
+      "data_afisaj": "24 octombrie 2026, 21:38"
+    },
     {
       "id": "b8d6a02880cd",
       "titlu": "Mikel Arteta își exprimă îngrijorarea privind rezistența lui Bukayo Saka, pe fondul unei posibile absențe de șase săptămâni",
@@ -1382,63 +1438,6 @@
       ],
       "data_publicare": "2026-10-17T18:58:24.198276+00:00",
       "data_afisaj": "17 octombrie 2026, 21:58"
-    },
-    {
-      "id": "2e14f170220c",
-      "titlu": "Fotbal zilnic",
-      "rezumat": "Alex Scott se așează cu Kasper și Peter Schmeichel pentru interviul de fotbal din această săptămână.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-17T18:16:43.438495+00:00",
-      "data_afisaj": "17 octombrie 2026, 21:16"
-    },
-    {
-      "id": "1ddf115eb803",
-      "titlu": "🚨 LIVE Rapid – Corvinul Live Text Online, de la 21:30, în etapa 12 din Superliga. Giuleștiul, sub presiunea următoarei impecabil al lui Dinamo. Echipele de start",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-10-17T18:16:43.440373+00:00",
-      "data_afisaj": "17 octombrie 2026, 21:16"
-    },
-    {
-      "id": "ad76bf6f8988",
-      "titlu": "Huuduieli și banane în ziua sfidării la Man City",
-      "rezumat": "Fanii lui Manchester City huiduie imnul Premier League înainte de a-și vedea echipa avansând cu șase puncte în fruntea tabelului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-17T18:16:43.441504+00:00",
-      "data_afisaj": "17 octombrie 2026, 21:16"
-    },
-    {
-      "id": "482c627794e5",
-      "titlu": "Martinez de la Chelsea a fost transportat la spital pentru „teste de precauție”",
-      "rezumat": "Portarul Emiliano Martinez a fost dus la spital, deoarece victoria cu 2-0 a lui Chelsea la Everton sâmbătă a însemnat că și-a asigurat prima porțiune liberă în nouă luni.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-17T18:16:43.442674+00:00",
-      "data_afisaj": "17 octombrie 2026, 21:16"
-    },
-    {
-      "id": "0fd6ff61cef1",
-      "titlu": "Neto vedete dar cine a fost supus? - evaluările jucătorilor pentru Everton v Chelsea",
-      "rezumat": "Cele două goluri ale lui Pedro Neto în repriza secundă pentru Chelsea au asigurat o victorie importantă în deplasare la Everton sâmbătă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-17T18:16:43.443928+00:00",
-      "data_afisaj": "17 octombrie 2026, 21:16"
     }
   ]
 }
