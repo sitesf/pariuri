@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-24T18:39:05.314709+00:00",
-  "updated_at_afisaj": "24 octombrie 2026, 21:39",
+  "updated_at": "2026-10-24T19:11:12.342013+00:00",
+  "updated_at_afisaj": "24 octombrie 2026, 22:11",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,51 @@
   },
   "numar_stiri": 124,
   "stiri": [
+    {
+      "id": "88320dfd9f38",
+      "titlu": "Arsenal egalează Manchester City la puncte după victoria convingătoare împotriva lui Everton",
+      "rezumat": "Arsenal a obținut o victorie clară cu 2-0 împotriva lui Everton pe Emirates Stadium, ajungând astfel la egalitate de puncte cu liderul Manchester City în clasamentul Premier League. Golurile au fost marcate de Ezri Konsa, la prima sa reușită pentru club, și de Gabriel Magalhaes. Echipa lui David Moyes, Everton, nu a reușit să-și schimbe norocul pe acest stadion, înregistrând o nouă înfrângere. Victoria confirmă forma bună a \"Tunarilor\" și ambițiile lor la titlu.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-24T19:11:12.336555+00:00",
+      "data_afisaj": "24 octombrie 2026, 22:11"
+    },
+    {
+      "id": "e1272df5c33d",
+      "titlu": "Mikel Arteta compilează un dosar cu antrenorii care părăsesc zona tehnică",
+      "rezumat": "Antrenorul lui Arsenal, Mikel Arteta, a stârnit controverse după ce s-a aflat că a adunat un dosar cu imagini și dovezi ale managerilor din Premier League care părăsesc zona tehnică desemnată. Această acțiune sugerează o preocupare a lui Arteta privind respectarea regulilor de către omologii săi și ar putea fi folosită pentru a atrage atenția asupra comportamentului de pe margine. Gestul subliniază tensiunile și rivalitățile tactice din campionatul englez.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-24T19:11:12.338237+00:00",
+      "data_afisaj": "24 octombrie 2026, 22:11"
+    },
+    {
+      "id": "1734dce89205",
+      "titlu": "Rangers obține o victorie categorică, în timp ce Dundee United învinge Aberdeen în Premiership-ul Scoției",
+      "rezumat": "În Premiership-ul Scoției, Rangers a înregistrat o victorie convingătoare cu 4-0 împotriva lui St Johnstone pe Ibrox, grație, printre altele, unei duble a lui Kevin Kelsy. Într-un alt meci, Dundee United a reușit să se impună cu 3-2 în fața lui Aberdeen. Aceste rezultate sunt cruciale pentru ambele echipe în lupta pentru pozițiile din clasament, Rangers consolidându-și forma după un egal în etapa precedentă, iar Dundee United obținând puncte importante.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-24T19:11:12.340158+00:00",
+      "data_afisaj": "24 octombrie 2026, 22:11"
+    },
+    {
+      "id": "b97724112df6",
+      "titlu": "Jonjo Shelvey vorbește despre insultele primite de la fani, inclusiv scandările cu „Voldemort”",
+      "rezumat": "Fostul mijlocaș al echipelor Liverpool și Charlton, Jonjo Shelvey, a dezvăluit că a trebuit să se obișnuiască cu insultele și scandările jignitoare din partea fanilor adverși de-a lungul carierei sale. Printre acestea, s-au numărat și scandări legate de personajul „Voldemort” din seria Harry Potter, o referință la alopecia sa. Shelvey a declarat că, deși inițial a fost afectat, a învățat să trăiască cu aceste remarci și să nu le mai permită să-l deranjeze.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-10-24T19:11:12.341994+00:00",
+      "data_afisaj": "24 octombrie 2026, 22:11"
+    },
     {
       "id": "dcf70e453210",
       "titlu": "🚨 LIVE FCSB – Rapid, live în etapa 13 din Superliga. Gol spectaculos pe Arena Națională",
@@ -1390,54 +1435,6 @@
       ],
       "data_publicare": "2026-10-18T11:58:45.860942+00:00",
       "data_afisaj": "18 octombrie 2026, 14:58"
-    },
-    {
-      "id": "0f6a42ee53e4",
-      "titlu": "Manchester City Stabilește un Record Sub Conducerea lui Enzo Maresca",
-      "rezumat": "Manchester City a învins-o pe Ipswich, iar antrenorul Enzo Maresca a devenit primul manager din istoria clubului care câștigă primele sale șapte meciuri la conducerea echipei. Această performanță subliniază startul perfect al lui Maresca, consolidând poziția de lider a echipei în Premier League. Victoria a venit într-un meci disputat, în care Ipswich a opus rezistență pe terenul lui City, dar nu a putut opri seria impresionantă a gazdelor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-17T18:58:24.194633+00:00",
-      "data_afisaj": "17 octombrie 2026, 21:58"
-    },
-    {
-      "id": "32702773aec7",
-      "titlu": "Chelsea Câștigă la Everton Grație Dublei lui Pedro Neto",
-      "rezumat": "Chelsea a obținut o victorie meritată cu 2-0 împotriva lui Everton, într-un meci din Premier League, marcând o revenire puternică după pauza internațională. Pedro Neto a fost eroul partidei, marcând ambele goluri ale echipei lui Xabi Alonso. Performanța solidă a \"albaștrilor\" le-a permis să urce pe locul cinci în clasament, demonstrând spirit și autoritate pe terenul dificil al lui Everton și confirmând o formă bună a echipei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-17T18:58:24.196253+00:00",
-      "data_afisaj": "17 octombrie 2026, 21:58"
-    },
-    {
-      "id": "63568a149161",
-      "titlu": "Liverpool Revine și Câștigă cu Brentford, care Termină Meciul în Nouă Jucători",
-      "rezumat": "Liverpool a reușit o victorie importantă în deplasare împotriva lui Brentford, într-un meci tensionat din Premier League. Echipa gazdă a terminat partida în nouă jucători, după ce Yehor Yarmolyuk a primit un cartonaș roșu în prima repriză pentru un incident cu Jérémy Jacquet. Alexander Isak a completat revenirea lui Liverpool, asigurând cele trei puncte într-o confruntare dificilă, marcată de decizii controversate și un ritm alert.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-10-17T18:58:24.197274+00:00",
-      "data_afisaj": "17 octombrie 2026, 21:58"
-    },
-    {
-      "id": "89ed3af4fe4d",
-      "titlu": "Rezultate din Premiership-ul Scoțian: Kilmarnock Iese din Zona Retrogradării",
-      "rezumat": "Kilmarnock a obținut o victorie crucială cu 3-2 împotriva lui Motherwell, grație dublei lui Greg Kiltie, reușind să se desprindă de ultimul loc în clasamentul Premiership-ului Scoțian. În alte meciuri, Falkirk a învins-o pe Hibs cu 2-1, iar Aberdeen a trecut de St Mirren cu 3-1, punând capăt unei serii de cinci înfrângeri consecutive pentru adversari. Aceste rezultate au reconfigurat parțial clasamentul din zona inferioară a ligii.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-10-17T18:58:24.198276+00:00",
-      "data_afisaj": "17 octombrie 2026, 21:58"
     }
   ]
 }
