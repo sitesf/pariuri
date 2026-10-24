@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-23T20:10:21.506126+00:00",
-  "updated_at_afisaj": "23 octombrie 2026, 23:10",
+  "updated_at": "2026-10-24T11:54:11.540121+00:00",
+  "updated_at_afisaj": "24 octombrie 2026, 14:54",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 120,
+  "numar_stiri": 121,
   "stiri": [
+    {
+      "id": "17bfae419c1a",
+      "titlu": "Derby-ul Tottenham - Arsenal, Crucial pentru Ambele Echipe în Lupta pentru Sezon",
+      "rezumat": "Meciul dintre Tottenham și Arsenal, transmis în direct sâmbătă, este considerat definitoriu pentru parcursul ambelor formații în acest sezon. Cu Tottenham având un start ezitant și Arsenal confruntându-se cu dificultăți, o victorie în această confruntare aprigă este esențială pentru a-și relansa ambițiile. Presiunea este mare pe ambele tabere, iar rezultatul ar putea influența semnificativ moralul și traiectoria lor în campionat, conform analizelor BBC Sport și Sky Sports.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-10-24T11:54:11.535440+00:00",
+      "data_afisaj": "24 octombrie 2026, 14:54"
+    },
+    {
+      "id": "da8df928a3d0",
+      "titlu": "José Mourinho și Real Madrid, Pregătiți pentru El Clásico",
+      "rezumat": "José Mourinho, antrenorul lui Real Madrid, se pregătește pentru primul său El Clásico de la revenirea la club. După trei luni de la preluarea echipei, Mourinho revine pe stadionul unde a început ca translator acum 30 de ani, având misiunea de a învinge Barcelona. Articolul din The Guardian subliniază o abordare mai calmă a antrenorului, dar cu aceeași determinare de a obține un rezultat important în derby-ul spaniol, o confruntare clasică a La Liga.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-24T11:54:11.536620+00:00",
+      "data_afisaj": "24 octombrie 2026, 14:54"
+    },
+    {
+      "id": "a035503541f1",
+      "titlu": "Antrenorul lui Tottenham, Roberto De Zerbi, Consideră Cele Nouă Accidentări „Normale”",
+      "rezumat": "Roberto De Zerbi, managerul lui Tottenham, a declarat că numărul mare de nouă accidentări din lotul echipei este o situație „normală” și a insistat că echipa medicală nu este de vină. Declarația, preluată de The Guardian, vine în contextul în care mai mulți jucători cheie au devenit indisponibili, punând presiune pe lotul londonez. De Zerbi încearcă să gestioneze situația și să mențină echilibrul echipei în ciuda absențelor, înaintea meciurilor importante din Premier League.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-24T11:54:11.537903+00:00",
+      "data_afisaj": "24 octombrie 2026, 14:54"
+    },
+    {
+      "id": "5f5f1f8145cf",
+      "titlu": "Crystal Palace și Newcastle Caută un Nou Început în Confruntarea Directă",
+      "rezumat": "Crystal Palace și Newcastle United se întâlnesc într-un meci crucial, ambele echipe căutând să-și relanseze sezonul. Cu 17 goluri primite în șapte meciuri de Premier League, Crystal Palace, sub conducerea lui Pierre Sage, se confruntă cu probleme defensive. De asemenea, Newcastle, condusă de Matthias Jaissle, nu a reușit să găsească forma dorită de la numirea sa în vară. Meciul este vital pentru ambele formații în încercarea de a-și îmbunătăți poziția în clasament, conform The Guardian.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-24T11:54:11.539049+00:00",
+      "data_afisaj": "24 octombrie 2026, 14:54"
+    },
+    {
+      "id": "0276e83e00e2",
+      "titlu": "Thomas Hitzlsperger Vorbește Despre Homosexualitate în Sport",
+      "rezumat": "Fostul mijlocaș al Germaniei și al echipei Aston Villa, Thomas Hitzlsperger, a abordat subiectul homosexualității în sport. Hitzlsperger, care și-a declarat public orientarea sexuală în urmă cu peste un deceniu, continuă să fie o voce importantă în discuțiile despre incluziune și acceptare în lumea fotbalului. Declarațiile sale, publicate de FourFourTwo, subliniază importanța deschiderii și a sprijinului pentru sportivii LGBTQ+ în mediul sportiv, contribuind la o mai bună înțelegere a diversității.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-10-24T11:54:11.540107+00:00",
+      "data_afisaj": "24 octombrie 2026, 14:54"
+    },
     {
       "id": "93cc7f9ddbb4",
       "titlu": "Vincent Kompany, Managerul lui Bayern Munchen, Transportat la Spital",
@@ -1346,50 +1402,6 @@
       ],
       "data_publicare": "2026-10-17T18:16:43.443928+00:00",
       "data_afisaj": "17 octombrie 2026, 21:16"
-    },
-    {
-      "id": "c0c67d42ed82",
-      "titlu": "Carrick deschide ușa pentru transferuri la Manchester United în ianuarie",
-      "rezumat": "Antrenorul principal al lui Manchester United, Michael Carrick, a declarat că clubul va căuta să-și consolideze echipa în fereastra de transferuri din ianuarie. Planurile vizează în special îmbunătățirea defensivei pe parcursul anului viitor, indicând o strategie pe termen lung pentru a adresa slăbiciunile actuale ale echipei. Această decizie vine în contextul unei perioade dificile pentru club, care încearcă să-și revină în campionat.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-10-17T11:28:44.255984+00:00",
-      "data_afisaj": "17 octombrie 2026, 14:28"
-    },
-    {
-      "id": "c2cb849233e4",
-      "titlu": "Wolves prelungește seria fără victorie a lui Burnley acasă, în ciuda golului lui Vardy",
-      "rezumat": "Echipa Wolves a reușit să învingă Burnley, prelungind seria neagră a acestora la 21 de meciuri fără victorie pe teren propriu. Tawanda Chirewa, intrat de pe bancă, a marcat la scurt timp după ce a fost introdus în joc, asigurând victoria pentru echipa lui César Peixoto. Golul lui Jamie Vardy pentru Burnley nu a fost suficient pentru a schimba soarta meciului, consolidând dificultățile clubului pe Turf Moor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-17T11:28:44.257986+00:00",
-      "data_afisaj": "17 octombrie 2026, 14:28"
-    },
-    {
-      "id": "5ab92d226123",
-      "titlu": "Grecii ar putea să-l returneze pe Tavi Popescu la FCSB după doar câteva meciuri",
-      "rezumat": "Tavi Popescu, fotbalistul român transferat recent în Grecia, se confruntă cu o situație dificilă. Conform informațiilor, clubul grec ar intenționa să-l trimită înapoi la FCSB după o perioadă scurtă, posibil chiar astăzi. Această decizie neașteptată ar reprezenta o lovitură pentru jucător și ar ridica semne de întrebare privind adaptarea sa la noua echipă și performanțele sale recente.",
-      "categorie": "Fotbal",
-      "surse": [
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-10-17T11:28:44.259901+00:00",
-      "data_afisaj": "17 octombrie 2026, 14:28"
-    },
-    {
-      "id": "e8d4469d67f8",
-      "titlu": "Dinamo suferă o pierdere de ultim moment în lot",
-      "rezumat": "Echipa Dinamo se confruntă cu o veste neplăcută, înregistrând o pierdere importantă în lot chiar înainte sau în timpul meciului cu FC Botoșani, câștigat cu scorul de 2-0. Detaliile sugerează că un mijlocaș cheie ar fi fost afectat, posibil printr-o accidentare sau o altă indisponibilitate neașteptată. Această situație ar putea influența strategia antrenorului pentru partidele viitoare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-10-17T11:28:44.261545+00:00",
-      "data_afisaj": "17 octombrie 2026, 14:28"
     }
   ]
 }
