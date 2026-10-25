@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-24T19:11:12.342013+00:00",
-  "updated_at_afisaj": "24 octombrie 2026, 22:11",
+  "updated_at": "2026-10-25T12:24:20.328150+00:00",
+  "updated_at_afisaj": "25 octombrie 2026, 14:24",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,52 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 124,
+  "numar_stiri": 125,
   "stiri": [
+    {
+      "id": "91d130903a72",
+      "titlu": "Când începe \"sezonul demiterilor\" în Premier League și cine ar trebui să fie îngrijorat?",
+      "rezumat": "Pe măsură ce presiunea crește asupra antrenorului lui Manchester United, Michael Carrick, BBC Sport analizează momentul în care începe în mod tradițional \"sezonul demiterilor\" în Premier League. Articolul explorează factorii care contribuie la deciziile de schimbare a antrenorilor și identifică managerii aflați sub cea mai mare presiune, oferind o perspectivă asupra instabilității posturilor de antrenor în cel mai puternic campionat de fotbal din lume.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-25T12:24:20.322772+00:00",
+      "data_afisaj": "25 octombrie 2026, 14:24"
+    },
+    {
+      "id": "0475736cd890",
+      "titlu": "De ce se confruntă Liverpool cu dificultăți în a marca goluri în Premier League?",
+      "rezumat": "Liverpool a înscris 15 goluri în patru meciuri de cupă în acest sezon, însă a reușit să marcheze doar nouă goluri în șapte partide din Premier League. Această discrepanță ridică semne de întrebare cu privire la eficiența ofensivă a echipei în campionat. Analiza explorează posibilele cauze ale acestei probleme, de la tactică și forma jucătorilor, până la absențe sau lipsa de inspirație în fața porții adverse.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-25T12:24:20.324519+00:00",
+      "data_afisaj": "25 octombrie 2026, 14:24"
+    },
+    {
+      "id": "aa672299dc47",
+      "titlu": "O întâlnire sinceră a \"schimbat\" echipa Spurs: sunt pe drumul cel bun?",
+      "rezumat": "Tottenham a încheiat acțiunea din Premier League de sâmbătă pe locul 12, cea mai înaltă poziție în clasament de la 2 ianuarie. Articolul analizează o întâlnire considerată crucială, care ar fi putut schimba dinamica echipei. Se pune întrebarea dacă Tottenham este, în sfârșit, pe drumul cel bun către o revenire în topul campionatului, după o perioadă de rezultate fluctuante și performanțe sub așteptări.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-25T12:24:20.326283+00:00",
+      "data_afisaj": "25 octombrie 2026, 14:24"
+    },
+    {
+      "id": "0e9be6175b09",
+      "titlu": "Ceremonia Balonului de Aur revine în Anglia, un omagiu adus \"revoluționarului\" Stanley Matthews",
+      "rezumat": "Demnitarii fotbalului se vor reuni la London Palladium pentru ceremonia Balonului de Aur, un eveniment ce marchează o diferență semnificativă față de primele ediții. Ceremonia revine în Anglia la 70 de ani după ce prima decernare a avut loc în Blackpool, unde Stanley Matthews a primit premiul. Această decizie este considerată un omagiu adus moștenirii lui Matthews și rolului său revoluționar în istoria fotbalului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-25T12:24:20.328130+00:00",
+      "data_afisaj": "25 octombrie 2026, 14:24"
+    },
     {
       "id": "88320dfd9f38",
       "titlu": "Arsenal egalează Manchester City la puncte după victoria convingătoare împotriva lui Everton",
@@ -1399,42 +1443,6 @@
       ],
       "data_publicare": "2026-10-18T12:27:32.744362+00:00",
       "data_afisaj": "18 octombrie 2026, 15:27"
-    },
-    {
-      "id": "752cb56f43c6",
-      "titlu": "Rangers Ratează Șansa de a Urca pe Primul Loc După Egalul cu Dundee",
-      "rezumat": "Echipa Rangers a fost ținută în șah cu un scor de 2-2 de către Dundee, după ce Callum Jones a marcat golul egalizator în a doua repriză. Acest rezultat împiedică Rangers să preia conducerea în Premiership-ul Scoțian, ratând o oportunitate importantă de a se distanța în clasament față de rivalii săi. Partida a fost una intensă și disputată, cu ambele formații arătând determinare, însă Rangers nu a reușit să-și asigure toate cele trei puncte necesare pentru a urca pe prima poziție.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-18T11:58:45.857616+00:00",
-      "data_afisaj": "18 octombrie 2026, 14:58"
-    },
-    {
-      "id": "c37a734207d6",
-      "titlu": "Dominik Szoboszlai de la Liverpool, Accidentat pe Termen Nedefinit",
-      "rezumat": "Mijlocașul lui Liverpool, Dominik Szoboszlai, va fi indisponibil pentru o perioadă de timp, conform ultimelor informații. Detaliile exacte ale accidentării nu au fost specificate, însă absența sa reprezintă o lovitură pentru echipa antrenată de Andoni Iraola, având în vedere contribuția sa importantă la jocul echipei în acest sezon. Fanii așteaptă cu nerăbdare vești despre recuperarea sa și data revenirii pe teren, sperând ca perioada de indisponibilitate să fie cât mai scurtă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-18T11:58:45.859194+00:00",
-      "data_afisaj": "18 octombrie 2026, 14:58"
-    },
-    {
-      "id": "a3db087db7a4",
-      "titlu": "Lionel Messi Marchează o Dublă și Aduce Victoria lui Inter Miami în MLS",
-      "rezumat": "Lionel Messi a fost din nou decisiv pentru Inter Miami, marcând două goluri spectaculoase și contribuind la victoria echipei sale cu 3-1 împotriva formației Atlanta United în MLS. Atacantul argentinian a preluat inițiativa după pauză, transformând meciul cu două reușite individuale de excepție. Anterior, Messi și Luis Suarez au colaborat pentru a crea primul gol al partidei, marcat de atacantul mexican Germán Berterame, demonstrând încă o dată influența sa majoră în campionatul nord-american de fotbal.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-18T11:58:45.860942+00:00",
-      "data_afisaj": "18 octombrie 2026, 14:58"
     }
   ]
 }
