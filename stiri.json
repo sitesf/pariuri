@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-25T12:24:20.328150+00:00",
-  "updated_at_afisaj": "25 octombrie 2026, 14:24",
+  "updated_at": "2026-10-25T12:58:06.683551+00:00",
+  "updated_at_afisaj": "25 octombrie 2026, 14:58",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,62 @@
   },
   "numar_stiri": 125,
   "stiri": [
+    {
+      "id": "973d2079c46a",
+      "titlu": "Bruno Fernandes lăsat pe bancă la Manchester United",
+      "rezumat": "Michael Carrick a luat decizia de a-l exclude pe Bruno Fernandes din echipa de start a lui Manchester United pentru meciul împotriva lui Bournemouth. Această hotărâre, confirmată de surse precum Sky și The Guardian, alimentează speculațiile privind o formă sportivă slabă a mijlocașului portughez sau un incident de disciplină recent. Situația subliniază tensiunile și dificultățile interne cu care se confruntă clubul în această perioadă, adăugând presiune asupra antrenorului și a performanțelor echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-25T12:58:06.679757+00:00",
+      "data_afisaj": "25 octombrie 2026, 14:58"
+    },
+    {
+      "id": "356d5ead7447",
+      "titlu": "Manchester United Women își îmbunătățește forma în WSL",
+      "rezumat": "Echipa feminină a lui Manchester United a înregistrat o îmbunătățire notabilă a performanțelor în Women's Super League (WSL) în ultima lună. După o perioadă inițială dificilă, echipa a reușit să-și redreseze parcursul, implementând ajustări tactice și strategice. Această schimbare pozitivă este analizată de specialiști, care încearcă să identifice factorii cheie ce au contribuit la creșterea eficienței și la obținerea unor rezultate mai bune, consolidând poziția clubului în campionatul feminin.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-25T12:58:06.680737+00:00",
+      "data_afisaj": "25 octombrie 2026, 14:58"
+    },
+    {
+      "id": "ccf6570f4e73",
+      "titlu": "Fulham obține victoria împotriva lui Coventry printr-un gol târziu",
+      "rezumat": "Fulham a reușit să obțină o victorie dramatică împotriva lui Coventry, grație unui gol marcat de Oscar Bobb în minutul 80 al partidei. Acest succes, obținut pe final de meci, reprezintă a doua victorie consecutivă pentru Fulham în Premier League. Rezultatul este crucial pentru echipa londoneză, ajutând-o să acumuleze puncte importante și să-și îmbunătățească poziția în clasament. Meciul a demonstrat rezistența și determinarea jucătorilor lui Fulham de a lupta până la ultimul fluier.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-25T12:58:06.681703+00:00",
+      "data_afisaj": "25 octombrie 2026, 14:58"
+    },
+    {
+      "id": "134df45c7c9b",
+      "titlu": "Anglia câștigă în premieră Cupa Mondială de Fotbal pentru Paralizie Cerebrală",
+      "rezumat": "Echipa națională a Angliei a scris istorie, cucerind pentru prima dată Cupa Mondială de Fotbal pentru Paralizie Cerebrală. În finala disputată la Atlanta, Anglia a învins Statele Unite, cu golurile marcate de Sam Dewhirst și David Porcher. Această performanță remarcabilă subliniază progresul și dedicarea sportivilor cu paralizie cerebrală, aducând în prim-plan importanța și frumusețea fotbalului adaptat. Victoria este un moment de mândrie pentru fotbalul englez și pentru comunitatea sportivă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-25T12:58:06.682662+00:00",
+      "data_afisaj": "25 octombrie 2026, 14:58"
+    },
+    {
+      "id": "abb959ccb8c5",
+      "titlu": "Cody Gakpo titular pentru Liverpool în meciul cu Brighton",
+      "rezumat": "Antrenorul lui Liverpool, Jurgen Klopp, a decis să-l includă pe Cody Gakpo în formula de start pentru meciul important din Premier League împotriva lui Brighton. Această alegere strategică îl plasează pe atacantul olandez într-un rol cheie, în timp ce Ngumoha va începe partida de pe banca de rezerve. Fanii de pe Anfield așteaptă ca Gakpo să aducă un plus de creativitate și forță ofensivă, contribuind la obținerea unei victorii esențiale în lupta pentru titlu.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-10-25T12:58:06.683539+00:00",
+      "data_afisaj": "25 octombrie 2026, 14:58"
+    },
     {
       "id": "91d130903a72",
       "titlu": "Când începe \"sezonul demiterilor\" în Premier League și cine ar trebui să fie îngrijorat?",
@@ -1387,62 +1443,6 @@
       ],
       "data_publicare": "2026-10-18T18:30:41.628358+00:00",
       "data_afisaj": "18 octombrie 2026, 21:30"
-    },
-    {
-      "id": "4dade205625e",
-      "titlu": "Leeds United și Manchester United se Duelează în Premier League",
-      "rezumat": "Meciul dintre Leeds United și Manchester United, contând pentru Premier League, a început la ora 14:00 BST pe stadionul Elland Road. Partida este una cu o încărcătură istorică semnificativă pentru ambele echipe. Sunt disponibile actualizări live, inclusiv formațiile de start: Leeds (3-4-2-1) cu Trafford în poartă și Calvert-Lewin în atac, iar Manchester United cu Martinez în primul unsprezece. Fanii așteaptă cu nerăbdare deznodământul acestei confruntări clasice din fotbalul englez.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-18T12:27:32.738841+00:00",
-      "data_afisaj": "18 octombrie 2026, 15:27"
-    },
-    {
-      "id": "5539243d8330",
-      "titlu": "Manzambi Aduce Victoria lui Aston Villa la Newcastle, Emery Atinge 100 de Victorii",
-      "rezumat": "Johan Manzambi a marcat golul victoriei pentru Aston Villa împotriva lui Newcastle, printr-o lovitură de cap decisivă. Această victorie marchează un moment important pentru antrenorul Unai Emery, care a atins pragul de 100 de victorii în Premier League. Meciul a fost o confruntare intensă, iar succesul obținut pe terenul lui Newcastle consolidează poziția lui Aston Villa în clasament și subliniază eficacitatea strategiei lui Emery.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-18T12:27:32.740242+00:00",
-      "data_afisaj": "18 octombrie 2026, 15:27"
-    },
-    {
-      "id": "d16402b131cc",
-      "titlu": "Alex Iwobi Asigură Prima Victorie a Sezonului pentru Fulham",
-      "rezumat": "Fulham a obținut prima sa victorie în Premier League în acest sezon, grație golului marcat de Alex Iwobi împotriva echipei Hull. Acest succes este crucial pentru moralul echipei și pentru parcursul lor în campionat, după un început dificil. Iwobi a fost decisiv, aducând cele trei puncte mult așteptate pentru formația sa. Victoria oferă un impuls important pentru Fulham în încercarea de a se distanța de zona retrogradării.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-18T12:27:32.741572+00:00",
-      "data_afisaj": "18 octombrie 2026, 15:27"
-    },
-    {
-      "id": "b19a90f5e3c5",
-      "titlu": "West Ham Urcă pe Locul Doi în Championship; Norwich Continuă Seria Negativă",
-      "rezumat": "West Ham a învins Swansea cu scorul de 1-0, grație golului marcat de Divine Mukasa în prima repriză, urcând astfel pe locul doi în clasamentul Championship, la doar un punct de lider. Aceasta a fost a doua victorie a \"Ciocănarilor\" în patru zile. Pe de altă parte, Norwich City a suferit a șasea înfrângere consecutivă, continuând o serie negativă care îi plasează într-o situație dificilă în liga a doua engleză.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-18T12:27:32.743017+00:00",
-      "data_afisaj": "18 octombrie 2026, 15:27"
-    },
-    {
-      "id": "6a5636712fcf",
-      "titlu": "Hearts Revine pe Parkhead Într-o Confruntare Crucială cu Celtic",
-      "rezumat": "Echipa Hearts se pregătește să înfrunte Celtic pe stadionul Parkhead într-o partidă importantă din Premiership-ul Scoțian. Ultima vizită a lui Hearts pe acest teren s-a încheiat cu spulberarea visului lor la titlu în doar 11 minute. Acum, echipa revine la Glasgow, reîmprospătată și reorganizată, hotărâtă să demonstreze că este capabilă să obțină un rezultat pozitiv și să-și consolideze poziția în campionat.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-18T12:27:32.744362+00:00",
-      "data_afisaj": "18 octombrie 2026, 15:27"
     }
   ]
 }
