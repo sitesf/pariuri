@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-25T12:58:06.683551+00:00",
-  "updated_at_afisaj": "25 octombrie 2026, 14:58",
+  "updated_at": "2026-10-25T18:48:02.898479+00:00",
+  "updated_at_afisaj": "25 octombrie 2026, 20:48",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,57 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 125,
+  "numar_stiri": 124,
   "stiri": [
+    {
+      "id": "78c0ac26b771",
+      "titlu": "Aston Villa pune capăt seriei perfecte a lui Manchester City în Premier League",
+      "rezumat": "Aston Villa a reușit o performanță remarcabilă, învingând Manchester City cu 2-1 pe Villa Park și punând astfel capăt startului perfect de sezon al campioanei în Premier League. Nicolas Jackson a fost eroul serii, marcând de două ori și asigurând o victorie crucială pentru echipa sa. Acest rezultat reprezintă o surpriză majoră și confirmă forma bună a lui Aston Villa, în timp ce Manchester City înregistrează prima sa înfrângere în campionat, ridicând semne de întrebare despre defensiva lor, în special după erorile lui Marc Guéhi.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-25T18:48:02.894514+00:00",
+      "data_afisaj": "25 octombrie 2026, 20:48"
+    },
+    {
+      "id": "606e42a61a54",
+      "titlu": "Alexander Isak își justifică prețul la Liverpool, echipa obținând a patra victorie consecutivă",
+      "rezumat": "Atacantul Alexander Isak a marcat al șaselea său gol în Premier League în acest sezon, contribuind decisiv la victoria lui Liverpool împotriva lui Brighton. Această performanță subliniază adaptarea reușită a jucătorului și răsplătește încrederea acordată de club. Sub conducerea lui Andoni Iraola, Liverpool a înregistrat a patra victorie consecutivă, demonstrând o formă excelentă și o eficiență crescută în atac. Isak, alături de Florian Wirtz și Bradley Barcola, pare să se integreze tot mai bine în sistemul echipei, aducând un suflu nou ofensivei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-25T18:48:02.895904+00:00",
+      "data_afisaj": "25 octombrie 2026, 20:48"
+    },
+    {
+      "id": "d989894a680b",
+      "titlu": "LIVE Superliga: CFR Cluj – Dinamo, cu o revenire spectaculoasă a „câinilor”",
+      "rezumat": "Meciul dintre CFR Cluj și Dinamo, contând pentru etapa a 13-a din Superliga României, a oferit momente de tensiune și o revenire incredibilă a echipei Dinamo. Partida, transmisă în direct, a fost marcată de un ritm alert și de schimbări de scor, culminând cu o prestație remarcabilă a „câinilor” care au reușit să recupereze un dezavantaj și să obțină un rezultat important. Evenimentul a captivat atenția fanilor fotbalului românesc, demonstrând imprevizibilitatea și spectacolul campionatului intern, cu un deznodământ neașteptat.",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-10-25T18:48:02.897199+00:00",
+      "data_afisaj": "25 octombrie 2026, 20:48"
+    },
+    {
+      "id": "04810c9f88ed",
+      "titlu": "Sunderland rămâne pe ultimul loc în Premier League după un egal anost cu Leeds",
+      "rezumat": "Sunderland continuă să ocupe ultima poziție în clasamentul Premier League, după ce a înregistrat un egal fără goluri, 0-0, împotriva lui Leeds pe teren propriu. Acest rezultat extinde seria de meciuri fără victorie a echipei în prima ligă la șase partide. Partida a fost una dificilă, jucată în condiții meteorologice nefavorabile, și nu a reușit să ofere spectacolul așteptat, ambele formații nereușind să-și creeze ocazii clare de gol. Presiunea crește asupra lui Sunderland în lupta pentru evitarea retrogradării, iar fanii sunt tot mai îngrijorați de situația echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-25T18:48:02.898466+00:00",
+      "data_afisaj": "25 octombrie 2026, 20:48"
+    },
     {
       "id": "973d2079c46a",
       "titlu": "Bruno Fernandes lăsat pe bancă la Manchester United",
@@ -1387,62 +1436,6 @@
       ],
       "data_publicare": "2026-10-18T19:08:16.571206+00:00",
       "data_afisaj": "18 octombrie 2026, 22:08"
-    },
-    {
-      "id": "01f080b65fa2",
-      "titlu": "Mbeumo îi oferă lui Carrick mângâiere pe măsură ce Man Utd continuă cursa fără victorii",
-      "rezumat": "Michael Carrick a spus că are căștile puse săptămâna aceasta, așa că nu a auzit zgomotul din jurul lui Manchester United, dar un egal 1-1 la Leeds înseamnă că sunt șase meciuri fără victorie.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-10-18T18:30:41.621527+00:00",
-      "data_afisaj": "18 octombrie 2026, 21:30"
-    },
-    {
-      "id": "ab1139f7f332",
-      "titlu": "Totul este o luptă pentru evaluările Fernandes - Leeds v Man Utd",
-      "rezumat": "Egalizarea lui Dominic Calvert-Lewin în repriza a doua înseamnă că Manchester United a trecut acum șase meciuri fără victorie pentru prima dată din 2019 - aflați cine a cotat cel mai bine la Elland Road.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-18T18:30:41.623282+00:00",
-      "data_afisaj": "18 octombrie 2026, 21:30"
-    },
-    {
-      "id": "9cc415fee0da",
-      "titlu": "Madueke lovește târziu, dar cine a ratat marea lui șansă? - Evaluări Forest v Arsenal",
-      "rezumat": "Noni Madueke a lovit târziu pentru a-i aduce lui Arsenal o victorie la Nottingham Forest. Iată cum au evaluat jucătorii.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-18T18:30:41.625172+00:00",
-      "data_afisaj": "18 octombrie 2026, 21:30"
-    },
-    {
-      "id": "d0986027fb4e",
-      "titlu": "cine sunt eu? Plus alte chestionare de astăzi",
-      "rezumat": "Testează-ți cunoștințele despre minge împotriva celor de astăzi Who Am I?, Five in Five și Brainteaser.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-18T18:30:41.626820+00:00",
-      "data_afisaj": "18 octombrie 2026, 21:30"
-    },
-    {
-      "id": "fb69b96e12b0",
-      "titlu": "Liverpool a venit din spate pentru a învinge Brentford, format din nouă oameni",
-      "rezumat": "Liverpool vine din spate pentru a învinge Brentford cu 2-1 pe stadionul Gtech Community, iar gazdele termină cu nouă oameni după cartonașe roșii pentru Yehor Yarmoliuk și Vitaly Janelt.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-18T18:30:41.628358+00:00",
-      "data_afisaj": "18 octombrie 2026, 21:30"
     }
   ]
 }
