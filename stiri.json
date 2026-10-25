@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-25T18:48:02.898479+00:00",
-  "updated_at_afisaj": "25 octombrie 2026, 20:48",
+  "updated_at": "2026-10-25T19:25:01.663247+00:00",
+  "updated_at_afisaj": "25 octombrie 2026, 21:25",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,31 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 124,
+  "numar_stiri": 121,
   "stiri": [
+    {
+      "id": "9259c9870fd8",
+      "titlu": "Hull City își menține recordul de invincibilitate acasă, dar egalează cu Brentford",
+      "rezumat": "Hull City a înregistrat o remiză împotriva lui Brentford, menținându-și astfel recordul de invincibilitate pe teren propriu, însă fără a obține o victorie în ultimele șapte meciuri. Golul de deschidere a venit dintr-un penalty transformat de Oli McBurnie în minutul 24, după un fault al lui Aaron Hickey. Deși \"Tigrii\" nu au mai gustat victoria de ceva timp, performanța lor pe propriul stadion rămâne un punct pozitiv.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-10-25T19:25:01.661305+00:00",
+      "data_afisaj": "25 octombrie 2026, 21:25"
+    },
+    {
+      "id": "0e86337cbd7b",
+      "titlu": "Arsenal Women obține o victorie importantă în derby-ul londonez din WSL",
+      "rezumat": "Echipa feminină Arsenal a obținut a doua victorie a sezonului în Women's Super League (WSL), învingând Tottenham într-un derby londonez tensionat. Arsenal a revenit de la un gol în minus, după ce Cathinka Tandberg a deschis scorul pentru Spurs. Georgia Stanway a egalat, iar Alessia Russo a transformat un penalty controversat în a doua repriză, asigurând victoria \"tunarilor\" pe stadionul Tottenham Hotspur.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-25T19:25:01.663225+00:00",
+      "data_afisaj": "25 octombrie 2026, 21:25"
+    },
     {
       "id": "78c0ac26b771",
       "titlu": "Aston Villa pune capăt seriei perfecte a lui Manchester City în Premier League",
@@ -1380,62 +1403,6 @@
       ],
       "data_publicare": "2026-10-19T14:26:34.897830+00:00",
       "data_afisaj": "19 octombrie 2026, 17:26"
-    },
-    {
-      "id": "d57d53172f94",
-      "titlu": "Leeds extinde runda fără victorii a lui Man Utd la șase jocuri",
-      "rezumat": "Dominic Calvert-Lewin câștigă un punct pentru Leeds și extinde runda fără victorii a lui Manchester United la șase meciuri.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-10-18T19:08:16.564405+00:00",
-      "data_afisaj": "18 octombrie 2026, 22:08"
-    },
-    {
-      "id": "06939fa9b3d3",
-      "titlu": "Gomez marchează un gol extraordinar în timp ce Brighton a trecut cu cinci de Palace",
-      "rezumat": "Diego Gomez înscrie un gol senzațional de la jumătatea terenului, în timp ce Brighton bate cu ciocanul rivalilor cu Crystal Palace.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-18T19:08:16.566211+00:00",
-      "data_afisaj": "18 octombrie 2026, 22:08"
-    },
-    {
-      "id": "e5e1a2a03c8d",
-      "titlu": "Lovitura lui Madueke suficientă pentru că Arsenal a câștigat îngustă în fața lui Forest",
-      "rezumat": "Noni Madueke vine de pe bancă pentru a marca golul victoriei, în timp ce Arsenal a învins Nottingham Forest cu 1-0 pe The City Ground.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-18T19:08:16.568027+00:00",
-      "data_afisaj": "18 octombrie 2026, 22:08"
-    },
-    {
-      "id": "6c0d590a8bbb",
-      "titlu": "Bournemouth a câștigat prima victorie în ligă cu victoria în fața Sunderland",
-      "rezumat": "Bournemouth a învins Sunderland cu 2-0 pe Stadionul Vitality pentru a câștiga prima victorie în ligă din sezon și a ieși din zona retrogradării.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-18T19:08:16.569727+00:00",
-      "data_afisaj": "18 octombrie 2026, 22:08"
-    },
-    {
-      "id": "e4847f37821a",
-      "titlu": "Inimile se întind pe covor roșu... iar Celtic se plimbă peste tot",
-      "rezumat": "Hearts credea că atacul este cea mai bună formă de apărare la Celtic Park. S-au înșelat grav, scrie Tom English.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-18T19:08:16.571206+00:00",
-      "data_afisaj": "18 octombrie 2026, 22:08"
     }
   ]
 }
