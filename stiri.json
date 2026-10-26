@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-25T19:25:01.663247+00:00",
-  "updated_at_afisaj": "25 octombrie 2026, 21:25",
+  "updated_at": "2026-10-26T14:00:59.010762+00:00",
+  "updated_at_afisaj": "26 octombrie 2026, 16:00",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 121,
+  "numar_stiri": 126,
   "stiri": [
+    {
+      "id": "0d2e9808de71",
+      "titlu": "Se apropie sfârșitul pentru Carrick, dar fanii lui Man Utd clarifică pe cine dau vina",
+      "rezumat": "Fanii lui Manchester United și-au cântat sprijinul pentru Michael Carrick în timpul înfrângerii cu 3-0 pe teren propriu de Bournemouth, dar și-au exprimat opoziția față de aproape orice altceva.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-26T14:00:31.442351+00:00",
+      "data_afisaj": "26 octombrie 2026, 16:00"
+    },
+    {
+      "id": "b6ea2e81b18d",
+      "titlu": "Mourinho menține Clasico Midas contact 13 ani mai târziu, în timp ce La Liga se încălzește",
+      "rezumat": "Cele două goluri ale lui Kylian Mbappe la Barcelona au deschis Liga, în timp ce Real Madridul lui Jose Mourinho părăsește Camp Nou cu o victorie.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-26T14:00:31.443276+00:00",
+      "data_afisaj": "26 octombrie 2026, 16:00"
+    },
+    {
+      "id": "6919d57c01aa",
+      "titlu": "Cine ar trebui să câștige Balonul de Aur masculin? Expertii BBC Sport își spun cuvântul",
+      "rezumat": "Câștigătorul Balonului de Aur va fi anunțat luni la Londra - dar cine va câștiga premiul pentru piesă de spectacol?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-26T14:00:31.444208+00:00",
+      "data_afisaj": "26 octombrie 2026, 16:00"
+    },
+    {
+      "id": "dbfbdf985674",
+      "titlu": "Va pune cineva capăt dominației Spaniei asupra Balonului de Aur feminin?",
+      "rezumat": "Jucătoarele spaniole au dominat Balonul de Aur feminin în ultimii cinci ani, așa că vor sărbători din nou luni?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-26T14:00:31.445074+00:00",
+      "data_afisaj": "26 octombrie 2026, 16:00"
+    },
+    {
+      "id": "50087c4c456f",
+      "titlu": "Cine a desemnat echipa saptamanii a Troy's Premier League?",
+      "rezumat": "După fiecare rundă de meciuri din Premier League din acest sezon, Troy Deeney ne oferă echipa săptămânii. Sunteți de acord cu alegerile lui?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-26T14:00:31.445954+00:00",
+      "data_afisaj": "26 octombrie 2026, 16:00"
+    },
     {
       "id": "9259c9870fd8",
       "titlu": "Hull City își menține recordul de invincibilitate acasă, dar egalează cu Brentford",
