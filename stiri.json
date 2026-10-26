@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-26T14:52:02.145154+00:00",
-  "updated_at_afisaj": "26 octombrie 2026, 16:52",
+  "updated_at": "2026-10-26T20:56:14.834064+00:00",
+  "updated_at_afisaj": "26 octombrie 2026, 22:56",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 126,
+  "numar_stiri": 128,
   "stiri": [
+    {
+      "id": "41f4d21bcd1e",
+      "titlu": "Kane a anunțat prematur câștigătorul Balonului de Aur - dar nu a fost doar unul",
+      "rezumat": "Visul lui Harry Kane de a câștiga Balonul de Aur părea că s-a împlinit luni, când organizatorii au publicat un articol în care susținea că a câștigat premiul.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-26T20:55:50.410274+00:00",
+      "data_afisaj": "26 octombrie 2026, 22:55"
+    },
+    {
+      "id": "27e30c6032d3",
+      "titlu": "Howe și Nagelsmann sunt în fruntea listei lui Man Utd dacă Carrick a fost concediat",
+      "rezumat": "BBC Sport analizează cine l-ar putea înlocui pe Michael Carrick la Manchester United dacă antrenorul principal este demis.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-26T20:55:50.411841+00:00",
+      "data_afisaj": "26 octombrie 2026, 22:55"
+    },
+    {
+      "id": "28183ea796f4",
+      "titlu": "De ce se află Wilcox în linia de atac de la fanii lui Man Utd?",
+      "rezumat": "Având în vedere poziția lui Michael Carrick de șef al Man Utd, atenția s-a îndreptat și către directorul de fotbal Jason Wilcox.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-26T20:55:50.413315+00:00",
+      "data_afisaj": "26 octombrie 2026, 22:55"
+    },
+    {
+      "id": "f0710ad9a250",
+      "titlu": "5 Live Sport",
+      "rezumat": "Mark Chapman și invitații dezbat fotbalul din weekend.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-26T20:55:50.414542+00:00",
+      "data_afisaj": "26 octombrie 2026, 22:55"
+    },
+    {
+      "id": "c948fedc3f40",
+      "titlu": "Meciul Anglia-Republica Irlanda la Cupa Mondială U15 s-a încheiat din cauza presupusului rasism",
+      "rezumat": "Meciul din Grupa C de la Cupa Mondială Under 15 dintre Anglia și Republica Irlanda este abandonat după ce Anglia a susținut că un jucător al opoziției a făcut un comentariu rasist.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-26T20:55:50.416126+00:00",
+      "data_afisaj": "26 octombrie 2026, 22:55"
+    },
     {
       "id": "2d35b246b6ce",
       "titlu": "Pennant are peste 50 de copci după atacul unui câine",
@@ -1421,39 +1476,6 @@
       ],
       "data_publicare": "2026-10-19T20:55:38.850855+00:00",
       "data_afisaj": "19 octombrie 2026, 23:55"
-    },
-    {
-      "id": "7b81be6369e4",
-      "titlu": "Tragerea la Sorți pentru Prima Runda a Cupei Angliei",
-      "rezumat": "Tragerea la sorți pentru prima rundă a Cupei Angliei va avea loc în această seară, marcând debutul propriu-zis al competiției. Echipele din ligile inferioare se pregătesc să afle adversarii, în speranța de a avansa în una dintre cele mai prestigioase competiții de fotbal din lume. Acest eveniment este un moment cheie pentru cluburile mici, oferindu-le șansa de a întâlni adversari din eșaloane superioare și de a-și testa limitele.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-10-19T15:17:35.791342+00:00",
-      "data_afisaj": "19 octombrie 2026, 18:17"
-    },
-    {
-      "id": "c74c26e0f69e",
-      "titlu": "Meciuri Cheie din Premier League Transmise Live pe Sky Sports în Decembrie",
-      "rezumat": "Trei confruntări majore din Premier League vor fi transmise în direct pe Sky Sports în luna decembrie. Printre acestea se numără partida de acasă a lui Arsenal împotriva lui Manchester United, derby-ul nordului Londrei și deplasarea lui Chelsea pe terenul lui Manchester City. Aceste meciuri sunt așteptate cu mare interes, având potențialul de a influența semnificativ clasamentul și lupta pentru titlu în campionatul englez.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-10-19T15:17:35.793103+00:00",
-      "data_afisaj": "19 octombrie 2026, 18:17"
-    },
-    {
-      "id": "073c5db04f4b",
-      "titlu": "Victor Pițurcă, Considerat Soluția pentru Tavi Popescu, cu Referire la Situația lui Rădoi",
-      "rezumat": "Conform unei surse exclusive ProSport.ro, Victor Pițurcă este văzut ca singura salvare pentru jucătorul Tavi Popescu, aflat într-un moment delicat al carierei. Articolul face referire și la o declarație controversată, conform căreia „Rădoi dormea la stadion”, sugerând o posibilă critică la adresa managementului anterior sau a atitudinii. Această știre subliniază tensiunile și așteptările din fotbalul românesc, cu implicații asupra viitorului lui Popescu și a percepției publice asupra antrenorilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-10-19T15:17:35.795058+00:00",
-      "data_afisaj": "19 octombrie 2026, 18:17"
     }
   ]
 }
