@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-26T14:00:59.010762+00:00",
-  "updated_at_afisaj": "26 octombrie 2026, 16:00",
+  "updated_at": "2026-10-26T14:52:02.145154+00:00",
+  "updated_at_afisaj": "26 octombrie 2026, 16:52",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,61 @@
   },
   "numar_stiri": 126,
   "stiri": [
+    {
+      "id": "2d35b246b6ce",
+      "titlu": "Pennant are peste 50 de copci după atacul unui câine",
+      "rezumat": "Fostul fotbalist din Premier League, Jermaine Pennant, spune că a avut nevoie de peste 50 de copci după ce a fost atacat de un câine.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-26T14:51:51.016286+00:00",
+      "data_afisaj": "26 octombrie 2026, 16:51"
+    },
+    {
+      "id": "20d6ff52a147",
+      "titlu": "Isak își justifică în sfârșit prețul, iar răbdarea lui Liverpool este răsplătită",
+      "rezumat": "Alexander Isak marchează al șaselea său gol în Premier League al sezonului, în timp ce Liverpool obține a patra victorie din ultimele patru sub conducerea lui Andoni Iraola.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-26T14:51:51.017790+00:00",
+      "data_afisaj": "26 octombrie 2026, 16:51"
+    },
+    {
+      "id": "b05e03cf3ab0",
+      "titlu": "'Nu a fost un adio din partea mea' - dar un început oribil îl lasă pe Carrick la limită",
+      "rezumat": "Viitorul lui Michael Carrick ca antrenor al lui Manchester United este sub o amenințare majoră după înfrângerea acasă cu Bournemouth duminică.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-26T14:51:51.019297+00:00",
+      "data_afisaj": "26 octombrie 2026, 16:51"
+    },
+    {
+      "id": "d0986027fb4e",
+      "titlu": "Cine sunt eu? Plus celelalte quiz-uri de azi",
+      "rezumat": "Testează-ți cunoștințele despre fotbal cu quiz-urile de azi Cine sunt eu?, Cinci în Cinci și Brainteaser.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-26T14:51:51.020574+00:00",
+      "data_afisaj": "26 octombrie 2026, 16:51"
+    },
+    {
+      "id": "b5008f778ccc",
+      "titlu": "Howe deschis la discuții cu Man Utd - Bârfele de luni",
+      "rezumat": "Eddie Howe este deschis să poarte discuții cu Manchester United dacă aceștia se despart de antrenorul Michael Carrick, trei cluburi din Premier League îl monitorizează pe Lennart Karl de la Bayern München, plus altele.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-26T14:51:51.021966+00:00",
+      "data_afisaj": "26 octombrie 2026, 16:51"
+    },
     {
       "id": "0d2e9808de71",
       "titlu": "Se apropie sfârșitul pentru Carrick, dar fanii lui Man Utd clarifică pe cine dau vina",
@@ -1399,65 +1454,6 @@
       ],
       "data_publicare": "2026-10-19T15:17:35.795058+00:00",
       "data_afisaj": "19 octombrie 2026, 18:17"
-    },
-    {
-      "id": "9a06c40691e3",
-      "titlu": "Sarina Wiegman își Prelungește Contractul cu Naționala Feminină a Angliei până în 2029",
-      "rezumat": "Antrenoarea Sarina Wiegman a semnat o prelungire a contractului cu echipa națională feminină de fotbal a Angliei, Lionesses, angajându-se să rămână la conducerea echipei până după Campionatul European din 2029. Wiegman a declarat că nu-și poate imagina o slujbă mai bună în fotbal, consolidându-și poziția la cârma uneia dintre cele mai de succes echipe naționale feminine din lume. Această decizie asigură stabilitate și continuitate pentru Lionesses în următorii ani, având în vedere succesele anterioare sub mandatul său.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football",
-        "FourFourTwo",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-10-19T14:26:34.892356+00:00",
-      "data_afisaj": "19 octombrie 2026, 17:26"
-    },
-    {
-      "id": "5e4b1a552fd1",
-      "titlu": "Erling Haaland Incert pentru Liga Campionilor, Antoine Semenyo Accidentat pe Termen Lung la Manchester City",
-      "rezumat": "Manchester City se confruntă cu probleme de lot înaintea meciului de Liga Campionilor împotriva echipei AEK Atena. Antrenorul Enzo Maresca explorează opțiunile ofensive, deoarece Erling Haaland este incert din cauza unei accidentări la picior. Mai mult, atacantul ghanez Antoine Semenyo va lipsi opt săptămâni, după ce a suferit o accidentare la genunchi în meciul cu Ipswich. Absența lui Semenyo lasă echipa cu puține alternative pentru Haaland, complicând planurile tactice ale lui City.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-19T14:26:34.893770+00:00",
-      "data_afisaj": "19 octombrie 2026, 17:26"
-    },
-    {
-      "id": "3d8147936616",
-      "titlu": "Legenda lui Everton, Duncan Ferguson, Revine în Antrenorat la Glentoran",
-      "rezumat": "Fostul atacant al echipelor Everton și Rangers, Duncan Ferguson, a fost numit noul antrenor al clubului Glentoran, din Premiership-ul Irlandez. Această mutare marchează revenirea lui Ferguson în lumea antrenoratului, după o carieră notabilă ca jucător și experiențe anterioare în staff-ul tehnic al unor cluburi importante. Numirea sa este așteptată să aducă o nouă dinamică și experiență la echipa irlandeză, fanii fiind curioși să vadă impactul pe care îl va avea.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-19T14:26:34.895051+00:00",
-      "data_afisaj": "19 octombrie 2026, 17:26"
-    },
-    {
-      "id": "6efb63a562bf",
-      "titlu": "Federația Engleză de Fotbal Implementează Schimbări la Nivel de Juniori, Trecând la Formatul 3v3 pentru Sub-7",
-      "rezumat": "Federația Engleză de Fotbal (FA) a implementat modificări semnificative începând cu acest sezon, reducând numărul de jucători pentru categoriile sub 7 ani de la 5v5 la 3v3. Această decizie vizează dezvoltarea abilităților individuale și încurajarea unei implicări mai mari a copiilor în joc. Se speră că această schimbare va contribui la modificarea \"ADN-ului\" fotbalului englez, punând un accent mai mare pe tehnică și creativitate la vârste fragede.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-19T14:26:34.896526+00:00",
-      "data_afisaj": "19 octombrie 2026, 17:26"
-    },
-    {
-      "id": "fe003348f5ef",
-      "titlu": "Fostul Atacant Saido Berahino se Retrage din Fotbal la Vârsta de 33 de Ani",
-      "rezumat": "Saido Berahino, atacantul care a costat-o pe Stoke City 12 milioane de lire sterline la transferul său de la West Bromwich Albion în ianuarie 2017, a anunțat că se retrage din fotbal la vârsta de 33 de ani. Berahino a avut o carieră marcată de momente de talent, dar și de controverse. Retragerea sa pune capăt unei perioade în care a evoluat la mai multe cluburi, lăsând în urmă o carieră cu suișuri și coborâșuri.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-19T14:26:34.897830+00:00",
-      "data_afisaj": "19 octombrie 2026, 17:26"
     }
   ]
 }
