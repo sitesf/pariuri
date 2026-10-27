@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-27T13:03:11.210951+00:00",
-  "updated_at_afisaj": "27 octombrie 2026, 15:03",
+  "updated_at": "2026-10-27T13:59:12.338726+00:00",
+  "updated_at_afisaj": "27 octombrie 2026, 15:59",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 125,
+  "numar_stiri": 127,
   "stiri": [
+    {
+      "id": "f1cefaa496dd",
+      "titlu": "Kylian Mbappé își cere scuze după ce a fost retras de branduri chinezești",
+      "rezumat": "Atacantul lui Real Madrid, Kylian Mbappé, și-a prezentat scuzele publice după ce a fost retras de marile branduri chinezești. Decizia a venit în urma unui videoclip viral în care Mbappé ar fi făcut o glumă despre Mao Zedong. Incidentul a avut repercusiuni mai ample, inclusiv suspendarea transmisiunilor meciurilor din La Liga de către televiziunea publică chineză, conform unui raport al ziarului digital The Paper.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-27T13:59:12.333723+00:00",
+      "data_afisaj": "27 octombrie 2026, 15:59"
+    },
+    {
+      "id": "f07555d7b550",
+      "titlu": "Lamine Yamal câștigă Trofeul Kopa pentru al treilea an consecutiv",
+      "rezumat": "Tânărul talent Lamine Yamal a fost desemnat cel mai bun fotbalist sub 21 de ani din lume, câștigând Trofeul Kopa pentru al treilea an consecutiv. Această distincție vine după performanța sa remarcabilă cu naționala Spaniei la Cupa Mondială. Premiul recunoaște contribuția sa excepțională și potențialul său imens în fotbalul mondial.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-10-27T13:59:12.334963+00:00",
+      "data_afisaj": "27 octombrie 2026, 15:59"
+    },
+    {
+      "id": "56561ad00276",
+      "titlu": "Neluțu Varga, detalii exclusive despre plecarea lui Marius Șumudică de la CFR Cluj",
+      "rezumat": "Patronul clubului CFR Cluj, Neluțu Varga, a oferit declarații exclusive privind plecarea antrenorului Marius Șumudică. Varga a confirmat că a purtat discuții cu Șumudică, dezvăluind adevărul din spatele despărțirii. Această știre aduce claritate asupra situației de la clubul ardelean, care a stârnit numeroase speculații în presa sportivă românească.",
+      "categorie": "Fotbal",
+      "surse": [
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-10-27T13:59:12.336310+00:00",
+      "data_afisaj": "27 octombrie 2026, 15:59"
+    },
+    {
+      "id": "b9b55433b56b",
+      "titlu": "Chelsea pregătește o mutare de 100 de milioane de lire sterline pentru un nou atacant",
+      "rezumat": "Clubul Chelsea intenționează să continue politica de achiziții masive pe piața transferurilor, pregătind o ofertă de 100 de milioane de lire sterline pentru un nou atacant. Conform rapoartelor, antrenorul Xabi Alonso a primit sprijin financiar considerabil din partea conducerii pentru a aduce jucători de top, consolidând astfel lotul echipei în vederea obiectivelor viitoare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-10-27T13:59:12.337623+00:00",
+      "data_afisaj": "27 octombrie 2026, 15:59"
+    },
+    {
+      "id": "60d25212d077",
+      "titlu": "Seamus Coleman se apropie de retragerea din fotbal",
+      "rezumat": "Fostul fundaș al echipei Everton, Seamus Coleman, a declarat că ia în considerare retragerea din activitatea de fotbalist profesionist. Deși nu dorește să pună o \"linie definitivă\" carierei sale, jucătorul, în prezent fără contract, reflectează asupra viitorului său în sport. Coleman a avut o carieră lungă și respectată, în special la Everton, fiind o figură emblematică pentru club.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-27T13:59:12.338710+00:00",
+      "data_afisaj": "27 octombrie 2026, 15:59"
+    },
     {
       "id": "4665902bbbf3",
       "titlu": "Carrick va rămâne la conducerea lui Man Utd pentru meciul cu Chelsea",
@@ -1403,41 +1458,6 @@
       ],
       "data_publicare": "2026-10-20T19:54:31.204420+00:00",
       "data_afisaj": "20 octombrie 2026, 22:54"
-    },
-    {
-      "id": "6329dbafd2c0",
-      "titlu": "Manchester City Riscă o Deducere Majoră de Puncte, cu Potențial de Retrogradare",
-      "rezumat": "Un raport recent indică faptul că Manchester City ar putea fi sancționată cu o deducere semnificativă de puncte în Premier League, o măsură care ar putea duce la retrogradarea echipei. Se menționează că sancțiuni suplimentare ar putea urma și în sezonul viitor. Această veste ar reprezenta o lovitură majoră pentru clubul englez, având implicații profunde asupra parcursului său în competițiile interne. Detaliile exacte ale acuzațiilor și ale procesului de sancționare nu sunt încă pe deplin clare, dar speculațiile sugerează un impact dramatic.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-10-20T13:21:44.466262+00:00",
-      "data_afisaj": "20 octombrie 2026, 16:21"
-    },
-    {
-      "id": "cd235d5f83b7",
-      "titlu": "Interes Uriaș pentru Meciul FCSB-ului: Se Anunță Sold-Out",
-      "rezumat": "Meciul viitor al FCSB-ului generează un interes extraordinar, cu oficialii clubului anticipând un stadion plin. Potrivit surselor, cererea de bilete este foarte mare, primindu-se apeluri telefonice zilnic, ceea ce indică o mobilizare impresionantă a fanilor. Acest entuziasm prevestește o atmosferă incendiară la partidă, un aspect important atât pentru moralul echipei, cât și pentru veniturile clubului. Anunțul vine ca o veste bună pentru Gigi Becali și Laurențiu Reghecampf, confirmând popularitatea echipei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-10-20T13:21:44.468012+00:00",
-      "data_afisaj": "20 octombrie 2026, 16:21"
-    },
-    {
-      "id": "3167bd950b87",
-      "titlu": "Leicester City va Juca Împotriva Echipei Oxford City în Prima Rundă a Cupei Angliei",
-      "rezumat": "Leicester City, câștigătoare a Cupei Angliei în urmă cu cinci ani, va călători pentru a întâlni echipa Oxford City din National League North în prima rundă a ediției 2026-27 a competiției. Tragerea la sorți a stabilit acest duel, oferind o confruntare clasică între o echipă de Premier League și una dintr-o ligă inferioară. Meciul va reprezenta o provocare pentru Oxford City și o ocazie pentru Leicester de a-și începe parcursul în cupă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-10-20T13:21:44.469752+00:00",
-      "data_afisaj": "20 octombrie 2026, 16:21"
     }
   ]
 }
