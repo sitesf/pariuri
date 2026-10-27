@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-27T20:30:09.294826+00:00",
-  "updated_at_afisaj": "27 octombrie 2026, 22:30",
+  "updated_at": "2026-10-27T21:03:49.639135+00:00",
+  "updated_at_afisaj": "27 octombrie 2026, 23:03",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 122,
+  "numar_stiri": 127,
   "stiri": [
+    {
+      "id": "a3b0a2ae5a5b",
+      "titlu": "Captain Xhaka allowed to play for Switzerland again",
+      "rezumat": "Granit Xhaka and Breel Embolo will be allowed to return to action for Switzerland next month following an investigation into forged Covid-19 vaccination certificates.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-27T21:03:29.203364+00:00",
+      "data_afisaj": "27 octombrie 2026, 23:03"
+    },
+    {
+      "id": "1bff19423251",
+      "titlu": "McInnes admits feeling 'guilt' over leaving Hearts for Rangers",
+      "rezumat": "Rangers antrenor Derek McInnes admits feeling \"guilt\" about leaving Hearts for Ibrox in the summer and accepts the rough reception that could come his way when he returns to Tynecastle on Wednesday.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-27T21:03:29.204358+00:00",
+      "data_afisaj": "27 octombrie 2026, 23:03"
+    },
+    {
+      "id": "095d6b8f89ac",
+      "titlu": "How have 'best team north or south of border' last season lost six in a row?",
+      "rezumat": "BBC Scotland analyses Motherwell's plight to find out what's not clicking at Fir Park.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-27T21:03:29.205334+00:00",
+      "data_afisaj": "27 octombrie 2026, 23:03"
+    },
+    {
+      "id": "992047045a8f",
+      "titlu": "FAW boss renews call for Infantino to step down",
+      "rezumat": "Chief executive Noel Mooney says the Football Association of Wales retains the view that Fifa president Gianni Infantino should step down.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-27T21:03:29.206180+00:00",
+      "data_afisaj": "27 octombrie 2026, 23:03"
+    },
+    {
+      "id": "15633e0b9387",
+      "titlu": "Milan derby to be shown live on BBC Two",
+      "rezumat": "The first Milan derby of the season takes place on Saturday, 31 October and it will be live on BBC Two.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-27T21:03:29.207000+00:00",
+      "data_afisaj": "27 octombrie 2026, 23:03"
+    },
     {
       "id": "4dcbbc62c534",
       "titlu": "Fleetwood Town v Arsenal: Carabao Cup fourth-round tie delayed by drone – live",
