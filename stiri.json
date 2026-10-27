@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-26T21:16:59.503460+00:00",
-  "updated_at_afisaj": "26 octombrie 2026, 23:16",
+  "updated_at": "2026-10-27T13:03:11.210951+00:00",
+  "updated_at_afisaj": "27 octombrie 2026, 15:03",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,65 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 128,
+  "numar_stiri": 125,
   "stiri": [
+    {
+      "id": "4665902bbbf3",
+      "titlu": "Carrick va rămâne la conducerea lui Man Utd pentru meciul cu Chelsea",
+      "rezumat": "Michael Carrick va rămâne la conducerea lui Manchester United pentru călătoria la Chelsea în acest weekend.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-10-27T13:02:44.710593+00:00",
+      "data_afisaj": "27 octombrie 2026, 15:02"
+    },
+    {
+      "id": "5bad71e3fc1d",
+      "titlu": "Kane pune capăt așteptării de 25 de ani a Angliei pentru Balonul de Aur - cum a depășit tendința",
+      "rezumat": "Harry Kane devine primul jucător englez care a câștigat Balonul de Aur de la Michael Owen în 2001, după ce a fost încoronat cel mai bun jucător din lume la o ceremonie la Londra.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-10-27T13:02:44.712271+00:00",
+      "data_afisaj": "27 octombrie 2026, 15:02"
+    },
+    {
+      "id": "ed713df3a79b",
+      "titlu": "Cum „anti-superstar” Kane i-a sfidat pe cei care se îndoiesc să devină cel mai bun din lume",
+      "rezumat": "Harry Kane este umilul „anti-superstar” care i-a sfidat pe cei îndoielnici să obțină măreția Balonului de Aur, spune scriitorul șef de fotbal Phil McNulty.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-27T13:02:44.713560+00:00",
+      "data_afisaj": "27 octombrie 2026, 15:02"
+    },
+    {
+      "id": "85f097566be0",
+      "titlu": "Clasamentul câștigătorilor Balonului de Aur din Anglia - cum se compară Kane?",
+      "rezumat": "De la Stanley Matthews la Harry Kane, cum se clasează câștigătorii Balonului de Aur din Anglia?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-27T13:02:44.714825+00:00",
+      "data_afisaj": "27 octombrie 2026, 15:02"
+    },
+    {
+      "id": "21c4c1176128",
+      "titlu": "Putellas câștigă al treilea Balon de Aur, cu un record egal, pentru a extinde dominația Spaniei",
+      "rezumat": "Mijlocașul Barcelonei și Spaniei Alexia Putellas câștigă Balonul de Aur feminin pentru a treia oară, cu un record egal.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-27T13:02:44.716126+00:00",
+      "data_afisaj": "27 octombrie 2026, 15:02"
+    },
     {
       "id": "e23aee1773b7",
       "titlu": "🚨 Sepsi – Universitatea Craiova 0-5, în etapa 13 din Superliga. Campioana e pe locul 2, la un punct de liderul Dinamo. Cum arată clasamentul",
@@ -1381,95 +1438,6 @@
       ],
       "data_publicare": "2026-10-20T13:21:44.469752+00:00",
       "data_afisaj": "20 octombrie 2026, 16:21"
-    },
-    {
-      "id": "adb456afb8ea",
-      "titlu": "Erik ten Hag Acuză: Cristiano Ronaldo a Dezamăgit Manchester United",
-      "rezumat": "Fostul antrenor al lui Manchester United, Erik ten Hag, a declarat că starul portughez Cristiano Ronaldo \"a dezamăgit echipa și pe mine\" în timpul mandatului său pe Old Trafford. Ten Hag a vorbit despre tensiunile și problemele apărute în relația cu atacantul, subliniind că atitudinea lui Ronaldo a avut un impact negativ asupra performanței colective și a atmosferei din vestiar. Aceste declarații vin la ceva timp după plecarea lui Ronaldo de la club, oferind o perspectivă nouă asupra evenimentelor din acea perioadă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-20T12:36:50.706144+00:00",
-      "data_afisaj": "20 octombrie 2026, 15:36"
-    },
-    {
-      "id": "128ecb5aaa0f",
-      "titlu": "PSG și Barcelona se Duelează în Liga Campionilor într-un Meci Anticipat",
-      "rezumat": "Paris Saint-Germain și Barcelona, primele două clasate în grupele Ligii Campionilor din acest sezon, se vor întâlni marți într-un meci considerat unul dintre cele mai interesante din competiție. Confruntarea dintre cele două mari puteri europene promite spectacol și emoție, având în vedere istoria rivalității lor și forma excelentă în care se află ambele echipe. Fanii fotbalului așteaptă cu nerăbdare această partidă crucială, care ar putea influența parcursul ambelor formații în fazele eliminatorii.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-20T12:36:50.707897+00:00",
-      "data_afisaj": "20 octombrie 2026, 15:36"
-    },
-    {
-      "id": "aa5b555f9a99",
-      "titlu": "Tottenham Hotspur Obține Prima Victorie în Premier League",
-      "rezumat": "Tottenham Hotspur a înregistrat prima sa victorie în Premier League din acest sezon, învingând pe Coventry City pe teren propriu. Acest succes permite echipei să părăsească ultima poziție a clasamentului, aducând un moral nou în rândul jucătorilor și al staff-ului tehnic. Victoria este crucială pentru Spurs în eforturile lor de a-și îmbunătăți poziția în campionat și de a-și recăpăta încrederea după un început dificil de sezon.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-20T12:36:50.709437+00:00",
-      "data_afisaj": "20 octombrie 2026, 15:36"
-    },
-    {
-      "id": "f8c1fc78935f",
-      "titlu": "PETA Solicită Clubului Crystal Palace să Renunțe la Mascota Vulturului Pleșuv",
-      "rezumat": "O organizație importantă pentru drepturile animalelor, PETA, a cerut clubului de fotbal Crystal Palace să renunțe la Phoenix, mascota sa, un vultur pleșuv american. PETA susține că experiența din ziua meciului poate lăsa pasărea \"speriată, dezorientată și panicată\" și poate pune în pericol spectatorii. Organizația a trimis o scrisoare directorului executiv al clubului, Sharon Lacey, solicitând încetarea aparițiilor lui Phoenix pe stadion.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-20T12:36:50.711123+00:00",
-      "data_afisaj": "20 octombrie 2026, 15:36"
-    },
-    {
-      "id": "f919655bca12",
-      "titlu": "Liga Profesionistă Scoțiană de Fotbal Lansează Licitația pentru Drepturile TV",
-      "rezumat": "Liga Profesionistă Scoțiană de Fotbal (SPFL) a invitat radiodifuzorii să depună oferte pentru drepturile de difuzare în Marea Britanie a meciurilor din Scottish Premiership, începând cu sezonul 2029-2030. SPFL anticipează un \"interes puternic\" pentru acest nou acord, care ar putea aduce beneficii financiare semnificative cluburilor scoțiene. Această inițiativă este crucială pentru dezvoltarea și vizibilitatea fotbalului scoțian în anii următori.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-20T12:36:50.712787+00:00",
-      "data_afisaj": "20 octombrie 2026, 15:36"
-    },
-    {
-      "id": "7a35bbfdbabb",
-      "titlu": "Mbappe strălucește în victoria lui Real Madrid împotriva Sevillei",
-      "rezumat": "Kylian Mbappe a avut o prestație remarcabilă în meciul dintre Real Madrid și Sevilla, contribuind semnificativ la victoria echipei sale. Real Madrid a obținut cele trei puncte în confruntarea cu Sevilla, consolidându-și poziția în clasament. Performanța lui Mbappe a fost un factor cheie în succesul madrilenilor, evidențiind forma sa excelentă și influența sa decisivă asupra jocului. Această victorie este crucială pentru ambițiile de titlu ale Real Madrid.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-10-19T21:18:56.008297+00:00",
-      "data_afisaj": "20 octombrie 2026, 00:18"
-    },
-    {
-      "id": "a1373a60c555",
-      "titlu": "Lamine Yamal impresionează cu un gol spectaculos în victoria Barcelonei",
-      "rezumat": "Tânărul jucător Lamine Yamal, în vârstă de 19 ani, a marcat un gol extraordinar în victoria Barcelonei împotriva lui Real Betis, în La Liga. Această reușită vine la doar câteva zile după o fază spectaculoasă, aproape o rabona, într-un meci anterior. Performanța sa continuă să atragă atenția, consolidându-i statutul de talent emergent și contribuind la poziția de lider a Barcelonei în campionat. Yamal demonstrează o maturitate impresionantă pentru vârsta sa.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-19T21:18:56.010019+00:00",
-      "data_afisaj": "20 octombrie 2026, 00:18"
-    },
-    {
-      "id": "e39c4df87777",
-      "titlu": "Bayern Munchen învinge categoric pe Leipzig într-un meci spectaculos",
-      "rezumat": "Campioana Germaniei, Bayern Munchen, a obținut o victorie convingătoare împotriva rivalei RB Leipzig, într-un meci din Bundesliga. Echipa bavareză a marcat șase goluri, demonstrând o formă ofensivă excelentă și o dominație clară pe teren. Această victorie vine ca o pregătire importantă pentru viitoarea confruntare din Liga Campionilor împotriva lui Arsenal, iar Luis Díaz, un jucător cheie, pare să fie într-o formă de vârf, gata pentru provocările europene.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-19T21:18:56.011699+00:00",
-      "data_afisaj": "20 octombrie 2026, 00:18"
     }
   ]
 }
