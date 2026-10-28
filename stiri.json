@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-28T13:53:20.548920+00:00",
-  "updated_at_afisaj": "28 octombrie 2026, 15:53",
+  "updated_at": "2026-10-28T14:52:03.667916+00:00",
+  "updated_at_afisaj": "28 octombrie 2026, 16:52",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,52 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 121,
+  "numar_stiri": 125,
   "stiri": [
+    {
+      "id": "25088420ca8d",
+      "titlu": "Jeremy Jacquet, o investiție de succes pentru Liverpool",
+      "rezumat": "Liverpool a reușit să-l aducă pe Jeremy Jacquet, învingând concurența lui Chelsea, iar fundașul se dovedește a fi o achiziție inspirată pe Anfield. Evoluțiile sale recente indică faptul că pariul făcut de club pe tânărul jucător a început să dea roade, contribuind semnificativ la performanțele echipei. Situația ar fi putut fi complet diferită dacă Jacquet ar fi ales o altă destinație, subliniind importanța deciziei clubului de a-l transfera și de a-i oferi șansa de a se dezvolta.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-28T14:52:03.664621+00:00",
+      "data_afisaj": "28 octombrie 2026, 16:52"
+    },
+    {
+      "id": "f66ecf3b200d",
+      "titlu": "Cluburile de fotbal caută soluții pentru a preveni scurgerile de informații despre accidentări prin Fantasy Premier League",
+      "rezumat": "Accidentarea atacantului lui Chelsea, Joao Pedro, a fost dezvăluită publicului prin intermediul jocului Fantasy Premier League, ridicând întrebări despre modul în care cluburile pot controla scurgerile de informații. Această situație subliniază o provocare modernă pentru echipe, care trebuie să găsească metode eficiente pentru a proteja confidențialitatea informațiilor medicale ale jucătorilor și a evita avantajele competitive nejustificate pentru adversari. Fenomenul devine tot mai răspândit, forțând cluburile să regândească strategiile de comunicare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-28T14:52:03.665861+00:00",
+      "data_afisaj": "28 octombrie 2026, 16:52"
+    },
+    {
+      "id": "45a5ffea185f",
+      "titlu": "Dirk Kuyt, numit antrenor interimar la Fenerbahce înainte de meciul cu Liverpool",
+      "rezumat": "Fostul atacant olandez Dirk Kuyt a fost numit antrenor interimar al echipei Fenerbahce, cu o săptămână înainte ca formația turcă să întâlnească fostul său club, Liverpool, în Liga Campionilor. Această numire rapidă vine într-un moment crucial pentru Fenerbahce, care se pregătește pentru o confruntare importantă împotriva unei echipe de top din Europa, sub conducerea unui fost jucător emblematic al ambelor cluburi. Experiența sa la Liverpool ar putea oferi o perspectivă valoroasă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-28T14:52:03.666890+00:00",
+      "data_afisaj": "28 octombrie 2026, 16:52"
+    },
+    {
+      "id": "7d13f264abe1",
+      "titlu": "Viviane Asseyi de la West Ham, inspirată de Zinedine Zidane în copilărie",
+      "rezumat": "Atacanta franceză Viviane Asseyi, de la West Ham, a dezvăluit că visul ei de a deveni fotbalistă a fost inspirat de Zinedine Zidane și de Campionatul Mondial din 1998, când avea doar patru ani. Ea a vorbit despre originile sale gaboneze și despre cum a găsit o nouă \"familie\" în estul Londrei, la clubul actual. Asseyi subliniază importanța sprijinului familial și a râsului mamei sale, chiar și atunci când îi critică performanțele, ca factori motivanți în cariera sa.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-28T14:52:03.667905+00:00",
+      "data_afisaj": "28 octombrie 2026, 16:52"
+    },
     {
       "id": "948a17483b8d",
       "titlu": "Arsenal va contesta cartonașul roșu primit de Max Dowman",
