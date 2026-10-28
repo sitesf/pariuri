@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-28T20:51:36.472870+00:00",
-  "updated_at_afisaj": "28 octombrie 2026, 22:51",
+  "updated_at": "2026-10-28T21:28:20.699486+00:00",
+  "updated_at_afisaj": "28 octombrie 2026, 23:28",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,41 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 120,
+  "numar_stiri": 123,
   "stiri": [
+    {
+      "id": "9f41c7a4fedc",
+      "titlu": "Wrexham amendat cu 75.000 de lire sterline pentru utilizarea de jucători neeligibili",
+      "rezumat": "Liga de Fotbal Engleză (EFL) a aplicat o amendă de 75.000 de lire sterline clubului Wrexham, ca urmare a două cazuri în care echipa a introdus pe teren jucători neeligibili. Decizia subliniază importanța respectării regulamentelor privind înregistrarea și eligibilitatea fotbaliștilor în competițiile oficiale. Clubul, deținut de actorii Ryan Reynolds și Rob McElhenney, se confruntă acum cu această sancțiune financiară, care atrage atenția asupra rigorii cu care EFL monitorizează conformitatea regulamentară a echipelor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-28T21:28:20.695115+00:00",
+      "data_afisaj": "28 octombrie 2026, 23:28"
+    },
+    {
+      "id": "ca09335a44f9",
+      "titlu": "Chelsea își continuă parcursul fără înfrângere în Liga Campionilor la Femei, învingând Roma",
+      "rezumat": "Echipa feminină Chelsea și-a menținut invincibilitatea în Liga Campionilor la Femei, obținând o victorie convingătoare cu 2-0 împotriva formației italiene AS Roma. Golurile marcate de Ellie Carpenter și Kadeisha Buchanan au asigurat succesul londonezelor, consolidându-le poziția în competiție. Acest rezultat subliniază forma excelentă a echipei și ambițiile sale de a progresa cât mai mult în turneul european, demonstrând o performanță solidă atât în apărare, cât și în atac.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-10-28T21:28:20.696949+00:00",
+      "data_afisaj": "28 octombrie 2026, 23:28"
+    },
+    {
+      "id": "fe92f063d25f",
+      "titlu": "Actualizare privind trei accidentări la Arsenal, după eliminarea din Cupa Ligii",
+      "rezumat": "Arsenal a emis o actualizare privind situația medicală a trei jucători, după înfrângerea surprinzătoare la penalty-uri în fața echipei Fleetwood Town în Cupa Ligii. Managerul Mikel Arteta se confruntă acum cu \"noi incertitudini\" legate de absența acestui trio, adăugând presiune asupra lotului deja solicitat. Această veste vine într-un moment dificil pentru club, care trebuie să gestioneze atât dezamăgirea eliminării, cât și provocările legate de disponibilitatea jucătorilor cheie pentru meciurile următoare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-10-28T21:28:20.699466+00:00",
+      "data_afisaj": "28 octombrie 2026, 23:28"
+    },
     {
       "id": "a257fe7eeaa3",
       "titlu": "Burnley îl numește pe fostul antrenor al lui Basel, Celestini, ca antrenor principal",
