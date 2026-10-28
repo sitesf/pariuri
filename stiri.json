@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-27T21:03:49.639135+00:00",
-  "updated_at_afisaj": "27 octombrie 2026, 23:03",
+  "updated_at": "2026-10-28T13:53:20.548920+00:00",
+  "updated_at_afisaj": "28 octombrie 2026, 15:53",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,54 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 127,
+  "numar_stiri": 121,
   "stiri": [
+    {
+      "id": "948a17483b8d",
+      "titlu": "Arsenal va contesta cartonașul roșu primit de Max Dowman",
+      "rezumat": "Clubul Arsenal a anunțat că va depune un apel împotriva deciziei de eliminare a jucătorului Max Dowman, survenită în timpul înfrângerii suferite marți în Cupa Ligii împotriva echipei Fleetwood Town. Tânărul jucător a fost trimis la vestiare, iar clubul consideră că decizia arbitrului a fost una dură, care a influențat semnificativ cursul partidei. Apelul urmărește anularea suspendării pentru viitoarele meciuri, permițându-i lui Dowman să fie disponibil mai repede pentru echipă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-10-28T13:53:20.543873+00:00",
+      "data_afisaj": "28 octombrie 2026, 15:53"
+    },
+    {
+      "id": "22baf3580e77",
+      "titlu": "FC Barcelona amendată cu 503 lire sterline pentru contactarea lui Julian Alvarez",
+      "rezumat": "FC Barcelona a fost amendată cu 602 euro (aproximativ 503 lire sterline) în urma unei plângeri depuse de Atletico Madrid. Plângerea viza contactele pe care clubul catalan le-a inițiat cu atacantul Julian Alvarez, aflat sub contract cu Atletico. Această amendă subliniază regulile stricte privind abordarea jucătorilor aflați sub contract cu alte cluburi, fără permisiunea prealabilă a acestora, o practică interzisă de regulamentele fotbalistice.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-28T13:53:20.545546+00:00",
+      "data_afisaj": "28 octombrie 2026, 15:53"
+    },
+    {
+      "id": "9350f2e08c20",
+      "titlu": "Thierry Henry își apără rolul de gazdă la gala Balonului de Aur, după critici",
+      "rezumat": "Fostul atacant al lui Arsenal, Thierry Henry, a răspuns criticilor legate de anumite comentarii făcute în timpul ceremoniei Balonului de Aur de luni. Henry a declarat că afirmațiile sale au fost \"glume\", încercând să detensioneze situația și să clarifice percepția publicului. Acesta a subliniat că are o mare apreciere pentru jucători precum Harry Kane și Lamine Yamal, ale căror nume au fost menționate în contextul controverselor apărute în spațiul public.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-28T13:53:20.547236+00:00",
+      "data_afisaj": "28 octombrie 2026, 15:53"
+    },
+    {
+      "id": "14101f757609",
+      "titlu": "Toate meciurile din Cupa Spaniei au fost suspendate în urma unui accident feroviar tragic",
+      "rezumat": "Toate cele 24 de meciuri din Copa del Rey, programate pentru miercuri, au fost suspendate în Spania. Decizia a fost luată în semn de respect, după ce peste 30 de persoane și-au pierdut viața într-un grav accident feroviar produs în apropierea capitalei Madrid. Federația Spaniolă de Fotbal a anunțat amânarea partidelor, solidarizându-se cu victimele și familiile acestora în aceste momente dificile și exprimând condoleanțe întregii națiuni.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-28T13:53:20.548901+00:00",
+      "data_afisaj": "28 octombrie 2026, 15:53"
+    },
     {
       "id": "a3b0a2ae5a5b",
       "titlu": "Captain Xhaka allowed to play for Switzerland again",
@@ -1342,120 +1388,6 @@
       ],
       "data_publicare": "2026-10-21T19:58:51.545357+00:00",
       "data_afisaj": "21 octombrie 2026, 22:58"
-    },
-    {
-      "id": "d9345fcd1133",
-      "titlu": "Barcelona Condamnă Mesajul de pe Tifo-ul Fanilor PSG, Acuzând Incitare la Violență",
-      "rezumat": "Clubul FC Barcelona a depus o plângere la UEFA împotriva echipei Paris Saint-Germain, după ce un tifo afișat de fanii parizieni înaintea meciului din Liga Campionilor conținea un mesaj pe care catalanii îl consideră că „incită la violență și ură în sport”. Incidentul a avut loc înaintea confruntării de marți dintre cele două echipe, adăugând tensiune în rivalitatea lor deja intensă. Barcelona solicită o investigație și măsuri din partea forului european de fotbal.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-21T13:27:31.585573+00:00",
-      "data_afisaj": "21 octombrie 2026, 16:27"
-    },
-    {
-      "id": "fe34d883bbf3",
-      "titlu": "Cristiano Ronaldo a Cerut Inițial o Sancțiune Fără Atenuante, Apoi a Luptat pentru Reducerea Ei",
-      "rezumat": "Cristiano Ronaldo a reușit să obțină o reducere a sancțiunii sale pentru părăsirea cantonamentului Portugaliei, în ciuda declarațiilor sale publice anterioare în care afirma că pedeapsa ar trebui impusă „fără circumstanțe atenuante”. După ce a părăsit cantonamentul din Danemarca luna trecută, Ronaldo a emis o declarație amplă pe rețelele sociale, susținând că ar trebui sancționat conform deciziei Federației Portugheze de Fotbal. Cu toate acestea, ancheta ulterioară a dus la înjumătățirea, apoi la o nouă înjumătățire a pedepsei inițiale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-21T13:27:31.586647+00:00",
-      "data_afisaj": "21 octombrie 2026, 16:27"
-    },
-    {
-      "id": "15c64788dff8",
-      "titlu": "Oficialul VAR Care a Validat Eronat Golul Lui Haaland Împotriva Lui Man Utd Revine în Premier League",
-      "rezumat": "Arbitrul VAR care a validat în mod eronat golul victoriei marcat de Erling Haaland în derby-ul Manchesterului de luna trecută va reveni la datorie în Premier League. Decizia de a-l reintegra pe oficialul Matt Donohue, în ciuda controversei generate de eroarea sa, a stârnit discuții în rândul fanilor și al experților. Această revenire subliniază provocările și presiunea cu care se confruntă arbitrii în sistemul VAR și modul în care erorile sunt gestionate în fotbalul englez.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-10-21T13:27:31.587734+00:00",
-      "data_afisaj": "21 octombrie 2026, 16:27"
-    },
-    {
-      "id": "5c758b6e2478",
-      "titlu": "Philipp Lahm: Manchester City S-a Detașat de Rădăcini, Regulile Trebuie Aplicat",
-      "rezumat": "Fostul internațional german Philipp Lahm a declarat că, deși Manchester City a oferit un fotbal spectaculos, clubul s-a detașat de rădăcinile sale, iar încălcările regulilor merită să fie pedepsite. Într-o analiză critică, Lahm a subliniat că City s-a comportat similar cu alte cluburi de top, dar a insistat că respectarea regulamentelor este esențială. El a sugerat că Bundesliga, unde membrii au un control majoritar, ar putea oferi un model pentru un viitor mai sustenabil în fotbal.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-21T13:27:31.588724+00:00",
-      "data_afisaj": "21 octombrie 2026, 16:27"
-    },
-    {
-      "id": "5a880c383203",
-      "titlu": "Como și Fabregas se pregătesc pentru confruntarea istorică cu Manchester United",
-      "rezumat": "Clubul Como, o poveste de succes în Serie A, a avansat până în Liga Campionilor și se pregătește acum pentru o seară istorică împotriva echipei Manchester United. Această performanță marchează o ascensiune remarcabilă pentru clubul italian, care a reușit să ajungă în cea mai prestigioasă competiție europeană. Prezența lui Cesc Fabregas în cadrul echipei adaugă o notă specială acestei confruntări, anticipând un meci memorabil pentru fanii ambelor formații.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-21T13:27:31.589657+00:00",
-      "data_afisaj": "21 octombrie 2026, 16:27"
-    },
-    {
-      "id": "8f7d3298e1fe",
-      "titlu": "Khvicha Kvaratskhelia de la PSG va fi operat după o ruptură de ligament încrucișat anterior",
-      "rezumat": "Atacantul lui Paris Saint-Germain, Khvicha Kvaratskhelia, va suferi o intervenție chirurgicală după ce a suferit o ruptură a ligamentului încrucișat anterior la genunchiul drept. Accidentarea a avut loc în timpul victoriei echipei sale cu 4-2 împotriva Barcelonei în Liga Campionilor. Această leziune gravă pune sub semnul întrebării restul sezonului pentru jucătorul georgian, fiind considerată una dintre cele mai serioase dintre cele trei accidentări suferite recent de PSG. Vestea a fost confirmată de mai multe surse internaționale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-10-21T12:47:09.841296+00:00",
-      "data_afisaj": "21 octombrie 2026, 15:47"
-    },
-    {
-      "id": "a18377dc5e62",
-      "titlu": "Phil Foden Strălucește cu un Hat-trick în Victoria Categorică a Lui Manchester City",
-      "rezumat": "Phil Foden a fost protagonistul serii, marcând un hat-trick și având o prestație remarcabilă în victoria dominantă a lui Manchester City cu 5-1 împotriva echipei AEK Atena în Liga Campionilor. Această performanță subliniază talentul și capacitatea sa de a influența decisiv jocurile, demonstrând că poate fi o soluție ofensivă importantă pentru \"Cetățeni\", chiar și în absența golgheterului Erling Haaland. Victoria asigură a doua succes în campania europeană a echipei și a fost lăudată de critici.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-10-21T12:47:09.842601+00:00",
-      "data_afisaj": "21 octombrie 2026, 15:47"
-    },
-    {
-      "id": "ed3480f570cf",
-      "titlu": "Antrenor din R.D. Congo, Interzis Până în 2048 pentru Abuz Sexual Continuu",
-      "rezumat": "Un antrenor de fotbal din Republica Democrată Congo, Jonathan Bukabakwa, cunoscut sub numele de Messi, a primit o prelungire a interdicției de a activa în fotbal până în anul 2048. Decizia FIFA vine după ce s-a descoperit că acesta a continuat să lucreze cu tineri jucători, în ciuda unei interdicții anterioare de 20 de ani impuse pentru abuz sexual asupra unui minor. Pe lângă prelungirea suspendării, Bukabakwa a fost amendat cu 15.000 de dolari, într-un caz care subliniază problemele etice din sport.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-21T12:47:09.843879+00:00",
-      "data_afisaj": "21 octombrie 2026, 15:47"
-    },
-    {
-      "id": "e9e5ebd108e4",
-      "titlu": "The Times Își Cere Scuze Lui Gianni Infantino După Articole Privind Un Presupus „Al Doilea Salariu”",
-      "rezumat": "Publicația The Times a emis o rectificare și și-a cerut scuze președintelui FIFA, Gianni Infantino, în urma unei știri publicate anterior despre un presupus „al doilea salariu” al acestuia. Decizia vine după reacții negative și clarificări legate de acuzațiile inițiale. Această retragere a informațiilor subliniază sensibilitatea și importanța acurateței în reportajele privind conducerea organismelor sportive internaționale, mai ales în contextul presiunilor și al controlului public.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-10-21T12:47:09.845256+00:00",
-      "data_afisaj": "21 octombrie 2026, 15:47"
-    },
-    {
-      "id": "190d59c5cd01",
-      "titlu": "Meciul Como vs Manchester United din Liga Campionilor, Amenințat de Amânare Din Cauza Vremii Severe",
-      "rezumat": "Partida dintre Como și Manchester United din Liga Campionilor riscă să fie amânată din cauza condițiilor meteorologice severe. Un teren îmbibat cu apă reprezintă o preocupare majoră pentru organizatori înaintea confruntării programate pentru această seară. Există discuții privind o posibilă reprogramare a meciului, ceea ce ar putea complica programul ambelor echipe în faza grupelor Ligii Campionilor. Decizia finală este așteptată în orele următoare, pe măsură ce situația meteo evoluează.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-10-21T12:47:09.846586+00:00",
-      "data_afisaj": "21 octombrie 2026, 15:47"
     }
   ]
 }
