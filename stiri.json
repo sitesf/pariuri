@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-28T14:52:03.667916+00:00",
-  "updated_at_afisaj": "28 octombrie 2026, 16:52",
+  "updated_at": "2026-10-28T20:51:36.472870+00:00",
+  "updated_at_afisaj": "28 octombrie 2026, 22:51",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,54 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 125,
+  "numar_stiri": 120,
   "stiri": [
+    {
+      "id": "a257fe7eeaa3",
+      "titlu": "Burnley îl numește pe fostul antrenor al lui Basel, Celestini, ca antrenor principal",
+      "rezumat": "Burnley l-a numit pe Fabio Celestini în funcția de antrenor principal, la patru zile după plecarea lui Nicky Hayen. Celestini, fost tehnician al echipei Basel, preia conducerea clubului englez cu obiectivul de a redresa parcursul echipei. Numirea sa vine într-un moment crucial, iar fanii așteaptă ca noul antrenor să aducă stabilitate și performanță. Această decizie a fost confirmată de mai multe surse sportive internaționale, subliniind importanța mutării pentru viitorul clubului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-28T20:51:36.466586+00:00",
+      "data_afisaj": "28 octombrie 2026, 22:51"
+    },
+    {
+      "id": "1ee83d899dc4",
+      "titlu": "Benjamin Sesko, atacantul lui Manchester United, va lipsi până în ianuarie din cauza unei accidentări la tibie",
+      "rezumat": "Atacantul lui Manchester United, Benjamin Sesko, este așteptat să fie indisponibil cel puțin până în luna ianuarie, din cauza unei accidentări la tibie. Această veste reprezintă o lovitură pentru 'Diavolii Roșii', care se confruntă cu probleme în compartimentul ofensiv. Sesko va începe un program de recuperare, iar staff-ul medical speră ca jucătorul să revină pe teren la începutul anului viitor, pentru a contribui la obiectivele echipei în a doua parte a sezonului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-28T20:51:36.469228+00:00",
+      "data_afisaj": "28 octombrie 2026, 22:51"
+    },
+    {
+      "id": "a37ae8f4bf02",
+      "titlu": "Clubul scoțian Johnstone Burgh va juca două meciuri de cupă simultan, din cauza unei suprapuneri bizare în program",
+      "rezumat": "Clubul scoțian Johnstone Burgh, din a cincea ligă, este forțat să joace două meciuri de cupă în aceeași zi, cu orele de start la doar jumătate de oră distanță. Această situație fără precedent a apărut din cauza unei suprapuneri neobișnuite în calendarul competițional. Echipa a anunțat că va încerca să gestioneze această provocare logistică, devenind probabil primul club din istoria fotbalului care abordează două partide oficiale în același timp, cu loturi diferite.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-10-28T20:51:36.471080+00:00",
+      "data_afisaj": "28 octombrie 2026, 22:51"
+    },
+    {
+      "id": "661ebaafce9a",
+      "titlu": "Inter revine pe primul loc în Serie A după două autogoluri târzii, în timp ce Milan pierde acasă",
+      "rezumat": "Inter Milano a revenit pe primul loc în clasamentul Serie A, în urma unei victorii tensionate cu 2-0 în deplasare împotriva ultimei clasate, Venezia, grație a două autogoluri marcate pe final de meci. Între timp, rivala AC Milan a suferit prima înfrângere a sezonului în campionat, pierzând cu 4-2 acasă împotriva Bolognei, meci în care Samuel Mbangula a reușit un hat-trick. Inter egalează Lazio la 25 de puncte înaintea derby-ului cu Milan.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-28T20:51:36.472851+00:00",
+      "data_afisaj": "28 octombrie 2026, 22:51"
+    },
     {
       "id": "25088420ca8d",
       "titlu": "Jeremy Jacquet, o investiție de succes pentru Liverpool",
@@ -1328,110 +1374,6 @@
       ],
       "data_publicare": "2026-10-22T12:50:42.640787+00:00",
       "data_afisaj": "22 octombrie 2026, 15:50"
-    },
-    {
-      "id": "dc1fed5c1bd9",
-      "titlu": "Fernandes îl critică pe Carrick după umilința lui Man Utd",
-      "rezumat": "Căpitanul lui Manchester United, Bruno Fernandes, l-a învinuit pe antrenorul principal Michael Carrick pentru tacticile care au dus la o înfrângere jenantă cu 4-1 în fața lui Como în Liga Campionilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-10-21T20:25:17.299441+00:00",
-      "data_afisaj": "21 octombrie 2026, 23:25"
-    },
-    {
-      "id": "896fa9275328",
-      "titlu": "Barca condamnă tifo-ul PSG care incită la 'violență și ură'",
-      "rezumat": "Barcelona a raportat Paris Saint-Germain la Uefa după ce un tifo cu un mesaj despre care spun că \"incită la violență și ură în sport\" a fost afișat înaintea meciului de marți din Liga Campionilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-21T20:25:17.300890+00:00",
-      "data_afisaj": "21 octombrie 2026, 23:25"
-    },
-    {
-      "id": "0c2537511aeb",
-      "titlu": "'Am așteptat 34 de ani pentru asta' - povestea 'specială' a lui Viking",
-      "rezumat": "Când Viking FK a pus capăt unei secete de 34 de ani fără titlu norvegian anul trecut, la zile ca acestea visau - pregătindu-se să viziteze Aston Villa în Liga Campionilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-21T20:25:17.302402+00:00",
-      "data_afisaj": "21 octombrie 2026, 23:25"
-    },
-    {
-      "id": "b27901cd1993",
-      "titlu": "Azaz confirmă că va continua să joace pentru Republica Irlanda",
-      "rezumat": "Atacantul Finn Azaz confirmă că va continua să reprezinte Republica Irlanda.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-21T20:25:17.303782+00:00",
-      "data_afisaj": "21 octombrie 2026, 23:25"
-    },
-    {
-      "id": "09b677ac525e",
-      "titlu": "Fostul fundaș englez Bertrand vizează o afacere de 87 de milioane de lire sterline cu AFC Wimbledon",
-      "rezumat": "Ryan Bertrand conduce un consorțiu care a propus o investiție minoritară de 87 de milioane de lire sterline în echipa din League One, AFC Wimbledon.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-21T20:25:17.305281+00:00",
-      "data_afisaj": "21 octombrie 2026, 23:25"
-    },
-    {
-      "id": "86b9c35fa5a3",
-      "titlu": "Como Demolează Manchester United în Liga Campionilor, Creând Presiune Asupra Antrenorului Carrick",
-      "rezumat": "Manchester United a suferit o înfrângere umilitoare cu 4-1 în fața echipei Como în Liga Campionilor, marcând cea mai slabă performanță a clubului în competițiile europene din 1994. Această înfrângere extinde seria neagră a 'Diavolilor Roșii' la șapte meciuri fără victorie, intensificând presiunea asupra antrenorului Michael Carrick. Meciul, disputat lângă Lacul Como, a fost o demonstrație de forță din partea debutanților lui Cesc Fàbregas, care au dominat complet echipa engleză, adâncind criza de rezultate de la începutul sezonului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-21T19:58:51.538389+00:00",
-      "data_afisaj": "21 octombrie 2026, 22:58"
-    },
-    {
-      "id": "65cee82ccdc2",
-      "titlu": "Goluri Marcate în Meciul Bayern Munchen – Arsenal din Liga Campionilor",
-      "rezumat": "Meciul serii din Liga Campionilor dintre Bayern Munchen și Arsenal a fost marcat de o serie de goluri, contribuind la o seară cu un număr record de reușite în competiție. Alphonso Davies a anulat avantajul inițial al lui Arsenal, marcat de Eberechi Eze, egalând scorul pentru Bayern. Această partidă a fost una dintre cele patru jocuri din Liga Campionilor în care s-au înscris un total de 11 goluri în primele două meciuri jucate mai devreme, subliniind spectacolul ofensiv al etapei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-10-21T19:58:51.540081+00:00",
-      "data_afisaj": "21 octombrie 2026, 22:58"
-    },
-    {
-      "id": "e63348e87bf0",
-      "titlu": "Rio Ngumoha Impresionează la Liverpool cu o Evoluție Remarcabilă Împotriva Lui Villarreal",
-      "rezumat": "Tânărul Rio Ngumoha a avut o prestație excepțională, desemnat omul meciului, în victoria spectaculoasă a lui Liverpool împotriva lui Villarreal în Liga Campionilor. Evoluția sa a fost lăudată inclusiv de căpitanul Virgil van Dijk, care a descris-o ca fiind o demonstrație de maturitate și o amenințare constantă pentru adversari. Ngumoha, în vârstă de 18 ani, a arătat o versatilitate impresionantă și a confirmat progresele sale, învățând de la jucători experimentați precum Mohamed Salah, ceea ce îi oferă speranțe mari pentru viitorul său la club.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-21T19:58:51.541792+00:00",
-      "data_afisaj": "21 octombrie 2026, 22:58"
-    },
-    {
-      "id": "c8033205ed63",
-      "titlu": "Benjamin Sesko de la Manchester United Va Fi Indisponibil Până Anul Viitor Din Cauza unei Accidentări",
-      "rezumat": "Atacantul lui Manchester United, Benjamin Sesko, va fi indisponibil pentru restul anului și nu va mai juca până anul viitor, conform ultimelor informații. Accidentarea suferită de internaționalul sloven s-a dovedit a fi mai gravă decât se anticipase inițial, reprezentând o veste șoc pentru club. Această absență prelungită a lui Sesko va afecta opțiunile ofensive ale echipei lui Manchester United, care se confruntă deja cu o perioadă dificilă în campionat și în competițiile europene.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-10-21T19:58:51.545357+00:00",
-      "data_afisaj": "21 octombrie 2026, 22:58"
     }
   ]
 }
