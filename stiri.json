@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-29T14:57:40.264737+00:00",
-  "updated_at_afisaj": "29 octombrie 2026, 16:57",
+  "updated_at": "2026-10-29T20:57:10.115584+00:00",
+  "updated_at_afisaj": "29 octombrie 2026, 22:57",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,67 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 124,
+  "numar_stiri": 119,
   "stiri": [
+    {
+      "id": "bc9528a9e3fe",
+      "titlu": "Grealish dropped by Everton after 'breach of club discipline'",
+      "rezumat": "Jack Grealish is left out of Everton's Carabao Cup tie with Newcastle United on Thursday \"due to a breach of club discipline\".",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-29T20:56:51.967300+00:00",
+      "data_afisaj": "29 octombrie 2026, 22:56"
+    },
+    {
+      "id": "078173a34740",
+      "titlu": "Dowman to miss three matches after appeal rejected",
+      "rezumat": "Arsenal's Max Dowman will miss three matches after an appeal against his sending-off during Tuesday's loss at Fleetwood is rejected.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-29T20:56:51.968158+00:00",
+      "data_afisaj": "29 octombrie 2026, 22:56"
+    },
+    {
+      "id": "d595b47dc87d",
+      "titlu": "Why is there only one Premier League match on Sunday?",
+      "rezumat": "BBC Sport's Ask Me Anything team explains where is no 14:00 GMT start on Sunday in the Premier League this weekend.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-10-29T20:56:51.968966+00:00",
+      "data_afisaj": "29 octombrie 2026, 22:56"
+    },
+    {
+      "id": "458a7b4023cb",
+      "titlu": "'Fully committed' Fernandes to remain Man Utd captain",
+      "rezumat": "Manchester United antrenor principal Michael Carrick confirms Bruno Fernandes will remain captain, and addresses his own future before Saturday's trip to Chelsea.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-29T20:56:51.969771+00:00",
+      "data_afisaj": "29 octombrie 2026, 22:56"
+    },
+    {
+      "id": "5233eb7c6c21",
+      "titlu": "Sutton's predictions v Bad Day At The Office star John Hannah",
+      "rezumat": "BBC Sport football expert Chris Sutton takes on Bad Day At The Office star John Hannah, plus the BBC readers and AI with his predictions for this weekend's Premier League mecis.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-29T20:56:51.970619+00:00",
+      "data_afisaj": "29 octombrie 2026, 22:56"
+    },
     {
       "id": "6b9fc021dd41",
       "titlu": "Mourinho și haosul – este antrenorul lui Real Madrid înțeles greșit?",
@@ -1304,117 +1363,6 @@
       ],
       "data_publicare": "2026-10-23T12:28:52.518649+00:00",
       "data_afisaj": "23 octombrie 2026, 15:28"
-    },
-    {
-      "id": "bd86898354ba",
-      "titlu": "Is Leicester boss Martin turning the Foxes' fortunes?",
-      "rezumat": "Leicester are 10th in League One, 10 years after winning the Premier League. After hitting their lowest ebb, are there now grounds for optimism?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-22T20:22:34.227265+00:00",
-      "data_afisaj": "22 octombrie 2026, 23:22"
-    },
-    {
-      "id": "2238400306a2",
-      "titlu": "What are Real's attacking options during Vinicius Jr ban?",
-      "rezumat": "Real Madrid’s attacking options are expanding under Jose Mourinho, with Endrick, Yan Diomande and Carlos Espi offering fresh solutions in the final third.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-22T20:22:34.228655+00:00",
-      "data_afisaj": "22 octombrie 2026, 23:22"
-    },
-    {
-      "id": "13665f430602",
-      "titlu": "Breaking down Man Utd's tactics after Fernandes' criticism",
-      "rezumat": "Was Manchester United captain Bruno Fernandes correct in his analysis of his side's tactics in their 4-1 thrashing by Italian side Como?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-22T20:22:34.229973+00:00",
-      "data_afisaj": "22 octombrie 2026, 23:22"
-    },
-    {
-      "id": "040ed3cd79f0",
-      "titlu": "Man Utd humbled by four-goal Como to pile pressure on Carrick",
-      "rezumat": "Manchester United suffer a heavy defeat to a Como side playing just their third ever game of Champions League football, as Nico Paz stars for the hosts to pile the pressure on Michael Carrick.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-22T20:22:34.231293+00:00",
-      "data_afisaj": "22 octombrie 2026, 23:22"
-    },
-    {
-      "id": "bcc1fa18fdc1",
-      "titlu": "Rice strikes to earn Arsenal egal at Bayern",
-      "rezumat": "Declan Rice scores a late equaliser as Arsenal and Bayern Munich play out an entertaining egal in the league phase of the Champions League while Bukayo Saka limps off with an early injury.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-22T20:22:34.232467+00:00",
-      "data_afisaj": "22 octombrie 2026, 23:22"
-    },
-    {
-      "id": "f2d359fabb2c",
-      "titlu": "Inter d’Escaldes – Universitatea Craiova 1-3. Lei în Pirinei. Cronică de Cătălin Mureșanu",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-10-22T19:49:44.268756+00:00",
-      "data_afisaj": "22 octombrie 2026, 22:49"
-    },
-    {
-      "id": "8a2d99e3c4a3",
-      "titlu": "Fernandes to stay captain as Rooney calls Man Utd players babies",
-      "rezumat": "Bruno Fernandes will remain as Manchester United captain and will not be disciplined for his post-match criticism of Michael Carrick after the 4-1 Champions League defeat by Como.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-22T19:49:44.269624+00:00",
-      "data_afisaj": "22 octombrie 2026, 22:49"
-    },
-    {
-      "id": "3ca59c68aeeb",
-      "titlu": "Sutton's predictions v Waffle the Wonder Dog and his owner, Simon",
-      "rezumat": "BBC Sport football expert Chris Sutton takes on Waffle the Wonder Dog and his owner Simon, plus the BBC readers and AI with his predictions for this weekend's Premier League mecis.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-22T19:49:44.270459+00:00",
-      "data_afisaj": "22 octombrie 2026, 22:49"
-    },
-    {
-      "id": "dccadfcc16c6",
-      "titlu": "Carrick carrying on but senior Man Utd figures concerned by performances",
-      "rezumat": "While antrenor principal Michael Carrick is expected to be in charge for Sunday's match against Bournemouth, Manchester United begin the process of identifying possible replacements.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-22T19:49:44.271256+00:00",
-      "data_afisaj": "22 octombrie 2026, 22:49"
-    },
-    {
-      "id": "b0ac8afc6a90",
-      "titlu": "US to host first Women's Cupa Mondiala a Cluburilor in 2028",
-      "rezumat": "Arsenal are named as one of the teams to compete at the inaugural Women's Cupa Mondiala a Cluburilor, to be hosted in the United States in 2028.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-22T19:49:44.272024+00:00",
-      "data_afisaj": "22 octombrie 2026, 22:49"
     }
   ]
 }
