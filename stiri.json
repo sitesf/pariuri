@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-29T20:57:10.115584+00:00",
-  "updated_at_afisaj": "29 octombrie 2026, 22:57",
+  "updated_at": "2026-10-29T21:30:09.009483+00:00",
+  "updated_at_afisaj": "29 octombrie 2026, 23:30",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,53 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 119,
+  "numar_stiri": 123,
   "stiri": [
+    {
+      "id": "3a718e66bf24",
+      "titlu": "Premier League Scoțiană face primul pas pentru eliminarea restricției TV de sâmbătă, ora 15:00",
+      "rezumat": "Premier League Scoțiană a inițiat demersurile pentru a pune capăt restricției de difuzare televizată a meciurilor de sâmbătă, de la ora 15:00, în Marea Britanie. Liga a invitat oferte pentru următorul ciclu de drepturi de televiziune, începând cu 2029, care ar permite televiziunea tuturor meciurilor. Această mișcare este considerată un prim pas într-un efort coordonat al ligilor interne din Regatul Unit de a elimina această interdicție istorică, deschizând calea pentru o accesibilitate sporită a fanilor la meciurile de fotbal.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-29T21:30:09.002369+00:00",
+      "data_afisaj": "29 octombrie 2026, 23:30"
+    },
+    {
+      "id": "ddf70cc6e812",
+      "titlu": "UEFA este aproape de a alege un candidat pentru alegerile FIFA împotriva lui Gianni Infantino",
+      "rezumat": "UEFA și aliații săi sunt pe punctul de a identifica un candidat care să concureze împotriva lui Gianni Infantino în alegerile pentru președinția FIFA. Se preconizează că identitatea challengerului ar putea fi aprobată chiar săptămâna viitoare. Termenul limită pentru confirmarea candidaturilor este 18 noiembrie, iar în rândul oficialilor există o încredere crescândă că eforturile de a găsi un oponent pentru Infantino se apropie de o rezolvare de succes. Arsène Wenger nu este considerat a fi intrat în calcule.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-29T21:30:09.004226+00:00",
+      "data_afisaj": "29 octombrie 2026, 23:30"
+    },
+    {
+      "id": "7e5ac8b09b5b",
+      "titlu": "Decizia de închidere a stadioanelor pentru meciurile de Cupa Scoției ale lui Celtic și Rangers a fost menținută",
+      "rezumat": "Cluburile Celtic și Rangers vor juca următoarele lor meciuri de acasă din Cupa Scoției fără spectatori, după ce apelurile depuse de cele două echipe împotriva sancțiunii au fost respinse. Decizia a fost menținută, ceea ce înseamnă că fanii nu vor putea asista la partidele respective. Această măsură vine în urma unor incidente anterioare și subliniază rigoarea cu care autoritățile fotbalistice scotiene abordează problemele de disciplină și siguranță pe stadioane.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-29T21:30:09.007558+00:00",
+      "data_afisaj": "29 octombrie 2026, 23:30"
+    },
+    {
+      "id": "f350cbd9cf64",
+      "titlu": "Gloria Bistrița învinge FCSB cu 1-0 în Cupa României, primul eșec pentru Reghecampf la revenire",
+      "rezumat": "Gloria Bistrița a produs o surpriză în etapa a doua a Cupei României, învingând FCSB cu scorul de 1-0. Această înfrângere marchează primul eșec pentru antrenorul Laurențiu Reghecampf de la revenirea sa la echipa patronată de Gigi Becali. Meciul a fost unul disputat, iar rezultatul reprezintă o lovitură pentru ambițiile FCSB în competiția internă, în timp ce Gloria Bistrița își continuă parcursul cu o victorie importantă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-10-29T21:30:09.009462+00:00",
+      "data_afisaj": "29 octombrie 2026, 23:30"
+    },
     {
       "id": "bc9528a9e3fe",
       "titlu": "Grealish dropped by Everton after 'breach of club discipline'",
