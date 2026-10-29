@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-28T21:28:20.699486+00:00",
-  "updated_at_afisaj": "28 octombrie 2026, 23:28",
+  "updated_at": "2026-10-29T13:59:33.152017+00:00",
+  "updated_at_afisaj": "29 octombrie 2026, 15:59",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,54 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 123,
+  "numar_stiri": 120,
   "stiri": [
+    {
+      "id": "05ac70e9b94c",
+      "titlu": "Procesul lui Ivan Toney pentru agresiune, programat în timpul Euro 2028",
+      "rezumat": "Atacantul Ivan Toney va fi judecat pentru agresiune în iunie 2028, perioadă care coincide cu desfășurarea Campionatului European. Fotbalistul a pledat nevinovat la acuzația de agresiune asupra unui bărbat într-un club din Soho, pe 6 decembrie anul trecut. Decizia de programare a procesului în timpul turneului final ar putea avea implicații semnificative asupra carierei sale internaționale, ridicând semne de întrebare privind disponibilitatea sa pentru selecția națională.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-29T13:59:33.145370+00:00",
+      "data_afisaj": "29 octombrie 2026, 15:59"
+    },
+    {
+      "id": "69e3971e451a",
+      "titlu": "Liverpool învinge din nou Chelsea la penalty-uri și avansează în Cupa Ligii",
+      "rezumat": "Liverpool a eliminat Chelsea din Cupa Ligii Angliei (Carabao Cup) după o serie de penalty-uri, continuând un șir de victorii împotriva londonezilor în acest mod. Wesley Fofana a ratat lovitura decisivă pentru Chelsea, trimițând mingea peste poartă și confirmând a cincea înfrângere consecutivă a 'albaștrilor' în fața lui Liverpool la penalty-uri. Echipa lui Andoni Iraola va juca în sferturile de finală împotriva fostului său club, Bournemouth, după o confruntare intensă pe Anfield.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-29T13:59:33.147070+00:00",
+      "data_afisaj": "29 octombrie 2026, 15:59"
+    },
+    {
+      "id": "63cde3f45671",
+      "titlu": "Alessia Russo, golgheter istoric în Liga Campionilor la Femei, după hat-trick-ul împotriva Benficăi",
+      "rezumat": "Alessia Russo a intrat în istorie devenind cel mai bun marcator englez din Liga Campionilor la Femei, după ce a reușit un hat-trick vital în victoria cu 3-0 a lui Arsenal împotriva Benficăi. Antrenoarea Renée Slegers a lăudat-o pe Russo, numind-o un 'model' și subliniind contribuția sa esențială la ascensiunea echipei pe locul doi în faza grupelor. Performanța sa a consolidat dinamica pozitivă a echipei în ultimele meciuri europene.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-29T13:59:33.148871+00:00",
+      "data_afisaj": "29 octombrie 2026, 15:59"
+    },
+    {
+      "id": "08e5bd04a985",
+      "titlu": "Harry Kane, câștigător al Balonului de Aur, reacționează la discuțiile despre un posibil titlu de 'Sir'",
+      "rezumat": "Harry Kane, proaspăt câștigător al Balonului de Aur 2026, a declarat că ar fi 'extrem de mândru' să primească titlul de 'Sir', dar a recunoscut că ar fi 'ciudat' ca toată lumea să-l numească astfel. Atacantul englez a răspuns speculațiilor apărute după performanța sa excepțională, care i-a adus recunoașterea ca cel mai bun fotbalist al lumii. Kane a subliniat importanța realizărilor colective, dar a apreciat recunoașterea individuală.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-10-29T13:59:33.151996+00:00",
+      "data_afisaj": "29 octombrie 2026, 15:59"
+    },
     {
       "id": "9f41c7a4fedc",
       "titlu": "Wrexham amendat cu 75.000 de lire sterline pentru utilizarea de jucători neeligibili",
@@ -1325,88 +1371,6 @@
       ],
       "data_publicare": "2026-10-22T19:49:44.272024+00:00",
       "data_afisaj": "22 octombrie 2026, 22:49"
-    },
-    {
-      "id": "21c2f95357ba",
-      "titlu": "Viitorul lui Michael Carrick la Manchester United Sub Semnul Întrebării, Clubul Caută Înlocuitori",
-      "rezumat": "Antrenorul principal al lui Manchester United, Michael Carrick, este așteptat să conducă echipa în meciul de duminică împotriva lui Bournemouth, însă clubul a inițiat deja procesul de identificare a unor posibili înlocuitori. Această decizie vine în contextul presiunii crescânde asupra lui Carrick, după o serie de rezultate dezamăgitoare, culminând cu înfrângerea umilitoare în Liga Campionilor. Conducerea clubului, inclusiv Sir Jim Ratcliffe, ar putea discuta viitorul său înainte de partida din weekend, indicând o posibilă schimbare iminentă la cârma echipei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-22T13:28:51.272938+00:00",
-      "data_afisaj": "22 octombrie 2026, 16:28"
-    },
-    {
-      "id": "d52565df7c0e",
-      "titlu": "Startul Fals al Lui Nottingham Forest Pune Presiune pe Antrenorul Glasner și Atacantul Delap",
-      "rezumat": "Nottingham Forest se află pe locul 19 în Premier League, un început de sezon sub așteptări, în ciuda sosirii unui antrenor aclamat, Oliver Glasner, și a unui atacant de 45 de milioane de lire sterline, Liam Delap. Echipa nu a marcat niciun gol pe teren propriu și a obținut un singur punct pe City Ground, ceea ce a generat îngrijorări. Proprietarul clubului nu este cunoscut pentru răbdarea sa, iar tacticile lui Glasner necesită adaptare rapidă pentru a inversa trendul negativ și a evita o criză.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-22T13:28:51.274020+00:00",
-      "data_afisaj": "22 octombrie 2026, 16:28"
-    },
-    {
-      "id": "25c8511e1022",
-      "titlu": "Bournemouth Se Pregătește pentru Confruntarea Istorică cu AC Milan în Europa League",
-      "rezumat": "La exact 15 ani de la o înfrângere acasă împotriva lui Bury în League One, echipa Bournemouth se pregătește să găzduiască pe AC Milan, de șapte ori campioană a Europei, într-o partidă din Europa League. Această confruntare marchează un moment semnificativ în istoria clubului, evidențiind parcursul remarcabil de la ligile inferioare la competițiile europene. Meciul este considerat o realizare de \"vis\" pentru club și fanii săi, subliniind ascensiunea spectaculoasă a echipei în fotbalul european.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-22T13:28:51.275575+00:00",
-      "data_afisaj": "22 octombrie 2026, 16:28"
-    },
-    {
-      "id": "e07684b103df",
-      "titlu": "Accidentarea lui Bukayo Saka, o Preocupare Majoră pentru Arsenal",
-      "rezumat": "Bukayo Saka, aripa lui Arsenal, a suferit o accidentare la cvadriceps în timpul meciului din Liga Campionilor împotriva lui Bayern Munchen, care s-a încheiat la egalitate. Antrenorul Mikel Arteta a declarat că situația \"nu arată deloc bine\", exprimându-și îngrijorarea cu privire la gravitatea leziunii. Această veste vine ca o lovitură pentru echipa londoneză, având în vedere importanța jucătorului în angrenajul ofensiv. Absența sa ar putea influența semnificativ performanța echipei în următoarele partide cruciale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-10-22T12:50:42.635410+00:00",
-      "data_afisaj": "22 octombrie 2026, 15:50"
-    },
-    {
-      "id": "02233cfffb8d",
-      "titlu": "Aston Villa Își Menține Startul Perfect în Liga Campionilor",
-      "rezumat": "Aston Villa a înregistrat a treia victorie consecutivă în Liga Campionilor, învingând echipa norvegiană Viking. Această performanță dominantă o propulsează pe locul al doilea în faza grupelor a competiției. Echipa a demonstrat o formă excelentă de la începutul campaniei europene, consolidându-și poziția și arătând ambiții serioase pentru calificarea în etapele superioare. Rezultatul subliniază eficacitatea strategiei antrenorului și capacitatea jucătorilor de a se impune pe scena europeană.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-22T12:50:42.637217+00:00",
-      "data_afisaj": "22 octombrie 2026, 15:50"
-    },
-    {
-      "id": "d485ddaad4f3",
-      "titlu": "Harry Kane, Favorit la Balonul de Aur, Recunoaște Presiunea Asupra Familiei Sale",
-      "rezumat": "Harry Kane, atacantul lui Bayern Munchen și al naționalei Angliei, este considerat principalul favorit la câștigarea prestigiosului trofeu Balonul de Aur. Jucătorul a mărturisit că perioada de așteptare și întrebările constante legate de acest premiu sunt \"foarte stresante\" pentru familia sa. Declan Rice, coechipierul său de la națională, și-a exprimat public susținerea pentru Kane, subliniind performanțele remarcabile ale acestuia pe parcursul sezonului. Decernarea premiului este așteptată cu mare interes.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-22T12:50:42.639253+00:00",
-      "data_afisaj": "22 octombrie 2026, 15:50"
-    },
-    {
-      "id": "20531fd2c516",
-      "titlu": "Real Madrid Continuă Seria de Victorii în Liga Campionilor",
-      "rezumat": "Real Madrid și-a consolidat startul de 100% în Liga Campionilor, obținând o victorie convingătoare cu 4-1 împotriva echipei Leipzig. Aceasta marchează a treia victorie consecutivă pentru gigantul spaniol în competiție. Meciul a fost notabil și pentru Bernardo Silva, care a marcat primul său gol pentru Real Madrid de la transferul său de la Manchester City în vară. Echipa demonstrează o formă excelentă și o determinare puternică în faza grupelor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-22T12:50:42.640787+00:00",
-      "data_afisaj": "22 octombrie 2026, 15:50"
     }
   ]
 }
