@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-29T13:59:33.152017+00:00",
-  "updated_at_afisaj": "29 octombrie 2026, 15:59",
+  "updated_at": "2026-10-29T14:57:40.264737+00:00",
+  "updated_at_afisaj": "29 octombrie 2026, 16:57",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,52 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 120,
+  "numar_stiri": 124,
   "stiri": [
+    {
+      "id": "6b9fc021dd41",
+      "titlu": "Mourinho și haosul – este antrenorul lui Real Madrid înțeles greșit?",
+      "rezumat": "Jose Mourinho a petrecut ultimul deceniu văzând alți antrenori lăudați ca genii. Însă, victoria recentă a lui Real Madrid împotriva Barcelonei a ridicat întrebarea dacă abordarea sa, adesea percepută ca haotică, este de fapt o strategie subestimată. Articolul explorează dacă Mourinho este un manager neînțeles, a cărui metodă, deși controversată, aduce rezultate la cel mai înalt nivel al fotbalului european, sugerând o posibilă reevaluare a moștenirii sale tactice.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-29T14:57:40.261335+00:00",
+      "data_afisaj": "29 octombrie 2026, 16:57"
+    },
+    {
+      "id": "839cff1e1206",
+      "titlu": "Howe, Nagelsmann, Pochettino: poate cineva să pună capăt spiralei descendente a lui Manchester United?",
+      "rezumat": "Articolul analizează situația dificilă de la Manchester United, sugerând că chiar și un antrenor de elită ar întâmpina dificultăți majore pe Old Trafford, având în vedere haosul executiv și un lot de jucători inegal și nepregătit. Se discută despre potențialii candidați precum Eddie Howe, Julian Nagelsmann și Mauricio Pochettino, punând sub semnul întrebării dacă vreunul dintre ei ar putea rupe 'spirala descendentă' a clubului, având în vedere problemele structurale profunde și lipsa de coerență.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-29T14:57:40.262516+00:00",
+      "data_afisaj": "29 octombrie 2026, 16:57"
+    },
+    {
+      "id": "b1f43df4221e",
+      "titlu": "Victoria zdrobitoare a lui Lazio împotriva lui Sassuolo, marcată de primul gol în Serie A al lui Mussolini",
+      "rezumat": "Lazio a obținut o victorie convingătoare cu 6-2 împotriva lui Sassuolo, într-un meci care a atras atenția nu doar prin scor, ci și prin faptul că Romano Floriani Mussolini, strănepotul dictatorului italian, a marcat primul său gol în Serie A. Această performanță vine într-un context în care prezența fanilor pe stadion a scăzut din cauza unui conflict cu proprietarul clubului, dar aproximativ 10.000 de suporteri au călătorit 300 km pentru a susține echipa.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-29T14:57:40.263650+00:00",
+      "data_afisaj": "29 octombrie 2026, 16:57"
+    },
+    {
+      "id": "164f4e70ee07",
+      "titlu": "Regula Rodman a fost revizuită, dar lupta pentru a păstra vedetele în NWSL continuă",
+      "rezumat": "Regula Rodman, care stabilea criterii pentru jucătoarele cu impact ridicat, a fost revizuită, permițând acum cluburilor din NWSL (National Women's Soccer League) să-și cheltuiască banii pe oricine doresc. Această modificare este menită să ofere mai multă flexibilitate cluburilor în gestionarea salariilor și a transferurilor, însă ridică întrebări despre cum va influența capacitatea ligii de a reține jucătoarele de top în fața concurenței internaționale. Soluția propusă pare logică, dar provocările persistă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-29T14:57:40.264727+00:00",
+      "data_afisaj": "29 octombrie 2026, 16:57"
+    },
     {
       "id": "05ac70e9b94c",
       "titlu": "Procesul lui Ivan Toney pentru agresiune, programat în timpul Euro 2028",
