@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-29T21:30:09.009483+00:00",
-  "updated_at_afisaj": "29 octombrie 2026, 23:30",
+  "updated_at": "2026-10-30T13:54:17.444382+00:00",
+  "updated_at_afisaj": "30 octombrie 2026, 15:54",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 123,
+  "numar_stiri": 118,
   "stiri": [
+    {
+      "id": "060eea6a0745",
+      "titlu": "Forest Green a lansat o acțiune în justiție pentru abordarea Savage",
+      "rezumat": "Președintele Forest Green, Dale Vince, a anunțat că clubul ia măsuri legale împotriva Peterborough United.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-30T13:53:51.341194+00:00",
+      "data_afisaj": "30 octombrie 2026, 15:53"
+    },
+    {
+      "id": "c6a712be1ce0",
+      "titlu": "Popular și talentat - dar Grealish rămâne fără șanse",
+      "rezumat": "Este „acum sau niciodată” pentru Jack Grealish după ce a fost abandonat de Everton pentru o încălcare a disciplinei clubului, întreabă scriitorul șef de fotbal Phil McNulty?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-30T13:53:51.342639+00:00",
+      "data_afisaj": "30 octombrie 2026, 15:53"
+    },
+    {
+      "id": "06f01a220ae8",
+      "titlu": "Cum a devenit o industrie vorbirea despre ciclul de doom al lui Man Utd",
+      "rezumat": "Luptele lui Manchester United sunt analizate mai mult decât oricând - nu în ultimul rând de foștii jucători.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-30T13:53:51.344049+00:00",
+      "data_afisaj": "30 octombrie 2026, 15:53"
+    },
+    {
+      "id": "2b76eb4dddbc",
+      "titlu": "Ronaldo se apropie de golul 1.000 cu un hat-trick",
+      "rezumat": "Cristiano Ronaldo a marcat al 67-lea hat-trick din cariera sa în victoria cu 5-3 a lui Al-Nassr împotriva lui Al-Kholood în Saudi Pro League.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-30T13:53:51.345425+00:00",
+      "data_afisaj": "30 octombrie 2026, 15:53"
+    },
+    {
+      "id": "885be1c05301",
+      "titlu": "„Cea mai importantă persoană pe care trebuie să o gestioneze antrenorii sunt ei înșiși”",
+      "rezumat": "Editorul BBC Sport, Tony Pulis, explică de ce îngrozirea sănătății lui Vincent Kompany a fost un reamintire că managementul își asumă o taxă fizic și psihic",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-30T13:53:51.346859+00:00",
+      "data_afisaj": "30 octombrie 2026, 15:53"
+    },
     {
       "id": "3a718e66bf24",
       "titlu": "Premier League Scoțiană face primul pas pentru eliminarea restricției TV de sâmbătă, ora 15:00",
@@ -1293,121 +1349,6 @@
       ],
       "data_publicare": "2026-10-23T19:51:45.311063+00:00",
       "data_afisaj": "23 octombrie 2026, 22:51"
-    },
-    {
-      "id": "95dfedd5ebb3",
-      "titlu": "Costurile Regulatorului Independent al Fotbalului Englez se Dublează",
-      "rezumat": "Costul anual estimat pentru cluburile din fotbalul englez, impus de Regulatorul Independent (IFR), a crescut la 20,3 milioane de lire sterline. Această sumă reprezintă aproximativ dublul estimării inițiale, generând discuții despre povara financiară suplimentară asupra cluburilor. Creșterea costurilor subliniază complexitatea și amploarea reglementărilor menite să asigure stabilitatea și integritatea fotbalului englez, dar și provocările implementării acestora.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-23T13:05:32.030349+00:00",
-      "data_afisaj": "23 octombrie 2026, 16:05"
-    },
-    {
-      "id": "ad3eb0d6c5af",
-      "titlu": "Antonio Conte Neag Speculațiile Privind Discuțiile cu Manchester United",
-      "rezumat": "Antrenorul Antonio Conte a declarat că nu se află în discuții avansate cu niciun club, infirmând astfel speculațiile recente conform cărora ar fi purtat negocieri cu Manchester United. Declarația vine în contextul presiunii crescânde asupra actualului antrenor al lui Manchester United, Michael Carrick, și al căutării unui potențial înlocuitor. Conte a subliniat că orice informație despre discuții este nefondată, menținând incertitudinea asupra viitorului său.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-23T13:05:32.031323+00:00",
-      "data_afisaj": "23 octombrie 2026, 16:05"
-    },
-    {
-      "id": "749a67114902",
-      "titlu": "Manchester City Își Planifică Transferurile, În Ciuda Sancțiunilor Imminente din Premier League",
-      "rezumat": "Manchester City continuă să-și stabilească țintele de transfer, în ciuda incertitudinii legate de sancțiunile iminente pentru cele 114 acuzații de încălcare a regulilor Premier League. Clubul, care a fost găsit vinovat și a depus apel, își menține strategia de planificare pe termen lung, vizând un scenariu favorabil. Această abordare demonstrează determinarea clubului de a-și consolida lotul, indiferent de rezultatul final al procesului disciplinar și de posibilele repercusiuni.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-10-23T13:05:32.032364+00:00",
-      "data_afisaj": "23 octombrie 2026, 16:05"
-    },
-    {
-      "id": "98acd5670966",
-      "titlu": "Unai Emery Relansează Aston Villa, Creând Optimism Înaintea Meciului cu Manchester City",
-      "rezumat": "La patru ani de la numirea sa, Unai Emery a reușit o relansare impresionantă a echipei Aston Villa, generând un val de optimism în rândul fanilor. Această transformare vine înaintea confruntării cu Manchester City, o dovadă a progresului sub conducerea antrenorului spaniol. Phil McNulty, scriitorul șef de fotbal de la BBC, a lăudat impactul lui Emery, care a revitalizat echipa și a adus o nouă energie pe Villa Park, consolidând poziția clubului în Premier League.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-23T13:05:32.033394+00:00",
-      "data_afisaj": "23 octombrie 2026, 16:05"
-    },
-    {
-      "id": "f2903c5f970e",
-      "titlu": "Proprietarul Bournemouth Oferă Indicii Despre Viitorul lui Alex Scott, Căutat de Chelsea",
-      "rezumat": "Bill Foley, proprietarul clubului Bournemouth, a oferit un indiciu important în privința viitorului internaționalului englez Alex Scott, evaluat la 100 de milioane de lire sterline. Foley a declarat că Bournemouth \"nu a renunțat\" la negocierile pentru prelungirea contractului jucătorului, în timp ce Chelsea continuă să manifeste un interes puternic. Această situație subliniază o bătălie intensă pe piața transferurilor pentru tânărul talent, cu un potențial impact semnificativ asupra ambelor cluburi.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-10-23T13:05:32.034416+00:00",
-      "data_afisaj": "23 octombrie 2026, 16:05"
-    },
-    {
-      "id": "4ce1898c32c6",
-      "titlu": "Gianni Infantino Primește Sprijinul Confederației Asiatice pentru Realege la FIFA",
-      "rezumat": "Speranțele lui Gianni Infantino de a fi reales președinte FIFA au fost consolidate de o susținere din partea Confederației Asiatice de Fotbal (AFC). Această decizie reprezintă o schimbare de poziție a AFC, care în urmă cu două luni criticase șeful forului mondial pentru o încălcare a încrederii. Președintele AFC, Sheikh Salman bin Ibrahim al-Khalifa, a lăudat și îmbrățișat public pe Infantino la congresul extraordinar al organizației de la Tokyo, confirmând sprijinul pentru un nou mandat.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-23T12:28:52.511918+00:00",
-      "data_afisaj": "23 octombrie 2026, 15:28"
-    },
-    {
-      "id": "4efe4923eed2",
-      "titlu": "Bournemouth Învinge AC Milan și Demonstrează Forța Echipelor din Premier League",
-      "rezumat": "Într-o seară memorabilă pentru istoria clubului, Bournemouth a obținut o victorie convingătoare cu 3-0 împotriva echipei AC Milan în Europa League. Acest rezultat subliniază dominanța formațiilor din Premier League în fața adversarilor europeni. Meciul a fost marcat de eliminarea portarului Mike Maignan de la Milan, care a complicat și mai mult sarcina italienilor. Victoria a fost considerată un semn clar al puterii actuale a cluburilor engleze în competițiile continentale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-23T12:28:52.513533+00:00",
-      "data_afisaj": "23 octombrie 2026, 15:28"
-    },
-    {
-      "id": "881c89922a09",
-      "titlu": "Celtic Continuă Seria Neagră în Europa, Îngrijorări Privind Relevanța Continentală",
-      "rezumat": "Campioana Scoției, Celtic, a înregistrat o nouă seară frustrantă în competițiile europene, continuând o serie de rezultate slabe. După o a treia înfrângere consecutivă, se ridică întrebări serioase despre capacitatea echipei de a se ridica la nivelul cerut de fotbalul continental. Experți și foști jucători, precum Martin O'Neill, au provocat clubul să găsească o modalitate de a obține victorii în Europa, sugerând că diferența dintre dominația internă și performanța europeană este prea mare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-10-23T12:28:52.515224+00:00",
-      "data_afisaj": "23 octombrie 2026, 15:28"
-    },
-    {
-      "id": "9c2d5bab9e62",
-      "titlu": "El Clasico se Pregătește de o Nouă Eră, cu Lamine Yamal și Mbappé în Prim Plan",
-      "rezumat": "Înaintea confruntării dintre Barcelona și Real Madrid, El Clasico își caută o nouă relevanță după estomparea rivalității Messi-Ronaldo. Tineri talente precum Lamine Yamal de la Barcelona și Kylian Mbappé de la Real Madrid sunt văzuți ca potențialii protagoniști care ar putea readuce strălucirea maximă a acestui duel iconic. Articolul subliniază că, deși El Clasico a fost odată cea mai mare poveste a fotbalului, acum se pune întrebarea dacă noile generații de jucători pot menține acest statut.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-23T12:28:52.516853+00:00",
-      "data_afisaj": "23 octombrie 2026, 15:28"
-    },
-    {
-      "id": "e9077d6352ab",
-      "titlu": "Kyle Walker de la Manchester City, Pregătit pentru Consecințe Dure în Cazul Retragerii Titlurilor Premier League",
-      "rezumat": "Fundașul legendar al lui Manchester City, Kyle Walker, se pregătește pentru un scenariu dificil în cazul în care clubului i se vor retrage titlurile de Premier League. Manchester City a fost găsită vinovată de 114 acuzații de încălcare a regulilor Premier League, iar sancțiunile și apelul sunt încă în așteptare. Această situație creează incertitudine pentru jucători și club, iar Walker ar putea fi afectat personal de o decizie care ar schimba istoria recentă a fotbalului englez.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-10-23T12:28:52.518649+00:00",
-      "data_afisaj": "23 octombrie 2026, 15:28"
     }
   ]
 }
