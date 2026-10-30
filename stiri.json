@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-30T20:32:17.198012+00:00",
-  "updated_at_afisaj": "30 octombrie 2026, 22:32",
+  "updated_at": "2026-10-30T21:17:03.799598+00:00",
+  "updated_at_afisaj": "30 octombrie 2026, 23:17",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 119,
+  "numar_stiri": 124,
   "stiri": [
+    {
+      "id": "404874ff55c5",
+      "titlu": "Rapid învinge Csikszereda și egalează liderul Dinamo în Superliga",
+      "rezumat": "Echipa Rapid București a obținut o victorie importantă cu scorul de 2-0 împotriva formației Csikszereda, în etapa a 14-a a Superligii. Acest rezultat permite giuleștenilor să acumuleze puncte esențiale și să egaleze la puncte liderul clasamentului, Dinamo București. Meciul a fost crucial pentru ambițiile de titlu ale Rapidului, consolidându-le poziția în lupta pentru vârful ierarhiei. Performanța solidă a echipei indică o formă bună, esențială în continuarea campionatului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-10-30T21:17:03.794440+00:00",
+      "data_afisaj": "30 octombrie 2026, 23:17"
+    },
+    {
+      "id": "698758a0dbd4",
+      "titlu": "Liverpool și Barcelona negociază viitorul transferului lui Ronald Araujo",
+      "rezumat": "Cluburile Liverpool și Barcelona se află în discuții privind viitorul fundașului Ronald Araujo. Jucătorul, care a impresionat de la sosirea sa la Liverpool sub formă de împrumut, ar putea face obiectul unui transfer permanent. Negocierile vizează transformarea acordului actual într-o mutare definitivă, având în vedere performanțele solide ale lui Araujo în tricoul \"cormoranilor\". Decizia finală va depinde de termenii financiari și de acordul dintre cele două mari cluburi europene.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-10-30T21:17:03.795718+00:00",
+      "data_afisaj": "30 octombrie 2026, 23:17"
+    },
+    {
+      "id": "2a7b7ed1f682",
+      "titlu": "Harry Kane, câștigător al Balonului de Aur, consideră „ciudată” o eventuală distincție de Cavaler",
+      "rezumat": "Atacantul Harry Kane, proaspăt câștigător al Balonului de Aur după un sezon excepțional la Bayern München, a declarat că ar considera „ciudată” o eventuală distincție de Cavaler. Deși recunoașterea pentru performanțele sale este larg răspândită, Kane pare să aibă o abordare modestă față de onorurile regale. Declarația sa vine în contextul în care mulți se așteptau ca o astfel de distincție să fie o consecință naturală a succesului său remarcabil în fotbalul mondial.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-10-30T21:17:03.797114+00:00",
+      "data_afisaj": "30 octombrie 2026, 23:17"
+    },
+    {
+      "id": "9ee34c1ad4f2",
+      "titlu": "Declan Rice, incert pentru meciul Arsenal cu Liverpool din Premier League",
+      "rezumat": "Mijlocașul lui Arsenal, Declan Rice, este incert pentru confruntarea importantă din Premier League împotriva lui Liverpool, programată duminică. Starea sa de sănătate este monitorizată îndeaproape, iar o actualizare privind forma sa fizică este așteptată înainte de meci. Absența lui Rice ar reprezenta o lovitură semnificativă pentru \"tunari\", având în vedere rolul său crucial în linia de mijloc a echipei și importanța partidei în lupta pentru titlu.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-10-30T21:17:03.798316+00:00",
+      "data_afisaj": "30 octombrie 2026, 23:17"
+    },
+    {
+      "id": "8d2d3756192c",
+      "titlu": "Chelsea se teme de o absență prelungită a lui Maxence Lacroix până în ianuarie",
+      "rezumat": "Clubul Chelsea este îngrijorat de o posibilă absență îndelungată a fundașului Maxence Lacroix, care ar putea fi indisponibil până în luna ianuarie. Jucătorul a suferit o accidentare gravă la ischiogambieri, necesitând o perioadă de recuperare extinsă. Această veste reprezintă o lovitură pentru planurile defensive ale echipei, care se confruntă deja cu provocări în campionat. Staff-ul medical al clubului va monitoriza îndeaproape evoluția stării sale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-30T21:17:03.799575+00:00",
+      "data_afisaj": "30 octombrie 2026, 23:17"
+    },
     {
       "id": "4ef3874de077",
       "titlu": "Proprietarii Manchester United, furioși pe conducerea lui Jim Ratcliffe",
