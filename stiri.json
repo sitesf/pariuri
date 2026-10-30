@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-30T14:50:39.575817+00:00",
-  "updated_at_afisaj": "30 octombrie 2026, 16:50",
+  "updated_at": "2026-10-30T20:32:17.198012+00:00",
+  "updated_at_afisaj": "30 octombrie 2026, 22:32",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 123,
+  "numar_stiri": 119,
   "stiri": [
+    {
+      "id": "4ef3874de077",
+      "titlu": "Proprietarii Manchester United, furioși pe conducerea lui Jim Ratcliffe",
+      "rezumat": "Familia Glazer, proprietarii clubului Manchester United, și-a exprimat furia față de ceea ce consideră a fi o \"parodie\" a conducerii lui Jim Ratcliffe, conform unui raport. Nemulțumirea ar proveni din începutul dezastruos al sezonului 2026/27 sub egida INEOS. Această tensiune internă la cel mai înalt nivel al conducerii clubului indică o ruptură semnificativă între vechii și noii acționari majoritari. Situația adaugă un strat suplimentar de incertitudine la problemele sportive deja existente ale echipei, alimentând speculațiile despre viitorul clubului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-10-30T20:32:17.191649+00:00",
+      "data_afisaj": "30 octombrie 2026, 22:32"
+    },
+    {
+      "id": "3252d1977acb",
+      "titlu": "FIFA nu va atinge egalitatea premiilor la Cupa Mondială de Fotbal Feminin",
+      "rezumat": "FIFA nu va reuși să îndeplinească obiectivul de egalitate a premiilor în bani la Cupa Mondială de Fotbal Feminin de anul viitor, în ciuda promisiunilor făcute de președintele Gianni Infantino în 2023. Deși se preconizează o dublare a premiilor, va rămâne un decalaj semnificativ față de turneul masculin. Infantino declarase anterior că FIFA va acționa concret pentru a asigura paritatea, nu doar prin vorbe. Această situație subliniază provocările persistente în atingerea egalității de gen în fotbalul profesionist, în ciuda veniturilor record înregistrate de organizație.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-30T20:32:17.193245+00:00",
+      "data_afisaj": "30 octombrie 2026, 22:32"
+    },
+    {
+      "id": "6c9df01b2ea8",
+      "titlu": "CAF renunță la planurile de a organiza Cupa Africii pe Națiuni la fiecare patru ani",
+      "rezumat": "Confederația Africană de Fotbal (CAF) a anulat decizia anterioară de a organiza Cupa Africii pe Națiuni (CAN) o dată la patru ani, revenind la ciclul tradițional de doi ani. Această schimbare de direcție anulează hotărârea luată în decembrie anul trecut și menține formatul familiar al competiției. Decizia subliniază complexitatea gestionării calendarului competițional și a intereselor diverse ale federațiilor membre. Menținerea frecvenței la doi ani este un aspect important pentru fanii și structurile fotbalului african.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-30T20:32:17.194851+00:00",
+      "data_afisaj": "30 octombrie 2026, 22:32"
+    },
+    {
+      "id": "6077cbc17a90",
+      "titlu": "Plecarea căpitanului Arsenal, Martin Odegaard, a făcut primul pas semnificativ",
+      "rezumat": "Un raport recent indică faptul că procesul de plecare a căpitanului lui Arsenal, Martin Odegaard, a înregistrat un prim pas important. Odegaard a fost o figură centrală și definitorie pentru echipa lui Mikel Arteta în ultimii cinci ani, iar o eventuală despărțire ar reprezenta o schimbare majoră pentru clubul londonez. Speculațiile privind viitorul său sugerează că jucătorul ar putea fi în căutarea unei noi provocări în carieră. Această veste va genera cu siguranță discuții intense printre fanii \"Tunarilor\" și în presa sportivă internațională.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-10-30T20:32:17.196496+00:00",
+      "data_afisaj": "30 octombrie 2026, 22:32"
+    },
+    {
+      "id": "22bfb3e8cf15",
+      "titlu": "Michael Carrick primește sprijin din vestiarul Manchester United",
+      "rezumat": "Michael Carrick, antrenorul principal al lui Manchester United, a primit un sprijin clar și unanim din partea vestiarului, după ce a reușit să evite demiterea în urma unui început de sezon dificil. Deși Carrick se află sub o presiune considerabilă din cauza performanțelor slabe ale echipei, acest vot de încredere din partea jucătorilor ar putea fi un factor crucial pentru menținerea sa în funcție. Susținerea internă indică o unitate în cadrul lotului și o dorință comună de a depăși perioada actuală de criză de la Manchester United.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-10-30T20:32:17.197992+00:00",
+      "data_afisaj": "30 octombrie 2026, 22:32"
+    },
     {
       "id": "4431a48d4a0e",
       "titlu": "Britain's first £100m man facing defining moment",
@@ -1301,109 +1356,6 @@
       ],
       "data_publicare": "2026-10-24T11:54:11.540107+00:00",
       "data_afisaj": "24 octombrie 2026, 14:54"
-    },
-    {
-      "id": "93cc7f9ddbb4",
-      "titlu": "Vincent Kompany, Managerul lui Bayern Munchen, Transportat la Spital",
-      "rezumat": "Antrenorul principal al echipei Bayern Munchen, Vincent Kompany, a fost transportat la spital vineri, după ce a leșinat în timpul unei sesiuni de antrenament a echipei secunde a clubului. Incidentul a stârnit îngrijorare în rândul staff-ului și al jucătorilor. Starea sa de sănătate este monitorizată, iar clubul urmează să ofere actualizări pe măsură ce informațiile devin disponibile. Cauza exactă a colapsului nu a fost încă precizată.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-23T20:10:21.501025+00:00",
-      "data_afisaj": "23 octombrie 2026, 23:10"
-    },
-    {
-      "id": "7972250cf2fc",
-      "titlu": "Nicolas Raskin, Mulțumit la Rangers, dar Incert în Privința Viitorului din Ianuarie",
-      "rezumat": "Mijlocașul belgian Nicolas Raskin a declarat că este \"foarte fericit\" la clubul scoțian Rangers, unde se simte bine integrat. Cu toate acestea, jucătorul a exprimat incertitudine cu privire la ceea ce s-ar putea întâmpla în fereastra de transferuri din ianuarie. Declarația sa sugerează că, deși se bucură de timpul petrecut la Rangers, viitorul său la club nu este pe deplin asigurat, deschizând posibilitatea unor speculații privind un potențial transfer.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-10-23T20:10:21.502307+00:00",
-      "data_afisaj": "23 octombrie 2026, 23:10"
-    },
-    {
-      "id": "8a5e2089648f",
-      "titlu": "Campania pentru Balonul de Aur, la Fel de Intensă în Afara Terenului ca și pe El",
-      "rezumat": "Balonul de Aur, considerat cea mai prestigioasă distincție individuală din fotbal, a devenit subiectul unei campanii tot mai intense în ultimii ani, nu doar pe teren, ci și în afara acestuia. Dorința de a câștiga acest trofeu a crescut exponențial, transformând procesul de selecție într-o competiție acerbă, influențată de performanțe, imagine publică și narațiuni mediatice. Această intensitate subliniază importanța tot mai mare a premiului în carierele jucătorilor de top.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-23T20:10:21.503532+00:00",
-      "data_afisaj": "23 octombrie 2026, 23:10"
-    },
-    {
-      "id": "7eb8dca7ec12",
-      "titlu": "Primarul din New York Solicită Arsenalului să Rupă Legăturile cu Sponsorii din Emiratele Arabe Unite din Cauza Sudanului",
-      "rezumat": "Primarul orașului New York, Zohran Mamdani, un susținător declarat al clubului Arsenal, a lansat un apel public către echipa sa favorită, cerându-i să reconsidere și, eventual, să rupă legăturile cu sponsorii din Emiratele Arabe Unite. Solicitarea vine pe fondul preocupărilor legate de drepturile omului și de implicarea EAU în conflictul din Sudan. Mamdani consideră că pasiunea sa pentru Arsenal și angajamentul său față de drepturile omului creează o oportunitate pentru club de a adopta o poziție etică mai puternică.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-23T20:10:21.504941+00:00",
-      "data_afisaj": "23 octombrie 2026, 23:10"
-    },
-    {
-      "id": "52ebc071dd9a",
-      "titlu": "Harry Redknapp Critică Dur Criza Academiilor din Premier League",
-      "rezumat": "Antrenorul legendar Harry Redknapp a exprimat o critică vehementă cu privire la starea actuală a academiilor de fotbal din Premier League, într-o discuție cu Henry Winter. Redknapp a subliniat că, în trecut, cluburile erau o \"bandă rulantă\" de jucători formați în propriile pepiniere, însă această tendință a dispărut. El a deplâns lipsa tinerilor talente autohtone care să ajungă la prima echipă, sugerând o criză în dezvoltarea fotbaliștilor la nivel de bază în Anglia.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-10-23T20:10:21.506110+00:00",
-      "data_afisaj": "23 octombrie 2026, 23:10"
-    },
-    {
-      "id": "837c623a2724",
-      "titlu": "Manchester City, Vizată de o A Doua Investigație După Verdictul de Vinovăție în Cazul Acuzațiilor din Premier League",
-      "rezumat": "Manchester City se confruntă cu o a doua investigație legată de cele 114 acuzații din Premier League, după ce clubul a primit deja un verdict de vinovăție. Echipa așteaptă încă să afle amploarea sancțiunilor inițiale, dar noile evoluții sugerează că situația legală a clubului ar putea deveni și mai complicată. Această nouă investigație adaugă presiune semnificativă asupra campioanei en-titre.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-10-23T19:51:45.307015+00:00",
-      "data_afisaj": "23 octombrie 2026, 22:51"
-    },
-    {
-      "id": "a5f8dd435095",
-      "titlu": "Bukayo Saka de la Arsenal Ar Putea Lipsi Două Luni din Cauza Accidentării",
-      "rezumat": "Atacantul lui Arsenal, Bukayo Saka, ar putea fi indisponibil pentru o perioadă de până la opt săptămâni, adică aproximativ două luni, din cauza unei accidentări la cvadriceps. Leziunea a fost suferită în timpul meciului din Liga Campionilor împotriva echipei Bayern Munchen. Această veste reprezintă o lovitură semnificativă pentru \"Tunari\", care se bazează pe contribuția decisivă a tânărului internațional englez.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-23T19:51:45.308391+00:00",
-      "data_afisaj": "23 octombrie 2026, 22:51"
-    },
-    {
-      "id": "8257ad2aadd7",
-      "titlu": "Michael Carrick Nu Exclude Posibilitatea de a-l Scoate din Echipă pe Bruno Fernandes",
-      "rezumat": "Antrenorul lui Manchester United, Michael Carrick, a susținut o conferință de presă emoționantă, în care a vorbit despre importanța clubului pentru el. Ulterior, a refuzat să excludă posibilitatea de a-l lăsa pe banca de rezerve pe căpitanul Bruno Fernandes, în contextul performanțelor recente ale echipei. Această declarație vine după criticile aduse de Fernandes tacticilor lui Carrick.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-23T19:51:45.309774+00:00",
-      "data_afisaj": "23 octombrie 2026, 22:51"
-    },
-    {
-      "id": "8accb55c2768",
-      "titlu": "Meciul PSG - Lyon, Amânat din Cauza Protestelor din Paris",
-      "rezumat": "Partida din Ligue 1 dintre Paris Saint-Germain și Olympique Lyon, programată inițial pe Parc des Princes, a fost amânată cu 24 de ore. Decizia a fost luată în contextul în care capitala Franței se pregătește pentru un nou weekend marcat de proteste. Măsura vizează asigurarea siguranței publice și buna desfășurare a evenimentelor sportive.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-23T19:51:45.311063+00:00",
-      "data_afisaj": "23 octombrie 2026, 22:51"
     }
   ]
 }
