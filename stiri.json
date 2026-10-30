@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-30T13:54:17.444382+00:00",
-  "updated_at_afisaj": "30 octombrie 2026, 15:54",
+  "updated_at": "2026-10-30T14:50:39.575817+00:00",
+  "updated_at_afisaj": "30 octombrie 2026, 16:50",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 118,
+  "numar_stiri": 123,
   "stiri": [
+    {
+      "id": "4431a48d4a0e",
+      "titlu": "Britain's first £100m man facing defining moment",
+      "rezumat": "Is it 'now or never' for Jack Grealish after he was dropped by Everton for a breach of club discipline, asks chief football writer Phil McNulty?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-30T14:50:22.512274+00:00",
+      "data_afisaj": "30 octombrie 2026, 16:50"
+    },
+    {
+      "id": "51f24e3c736b",
+      "titlu": "O'Neill agrees with McGregor about Celtic issues",
+      "rezumat": "Antrenor Martin O'Neill says he is in \"full agreement\" with captain Callum McGregor's assessment of Celtic's issues, but insisted they will \"sort it out\".",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-30T14:50:22.513404+00:00",
+      "data_afisaj": "30 octombrie 2026, 16:50"
+    },
+    {
+      "id": "d5fd2428e848",
+      "titlu": "Items stolen from Man Utd Munich air disaster memorial",
+      "rezumat": "The foundation has urged the return of stolen items, saying they mean so much to bereaved families.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-30T14:50:22.514494+00:00",
+      "data_afisaj": "30 octombrie 2026, 16:50"
+    },
+    {
+      "id": "82aa67d43b19",
+      "titlu": "Time to invest in Bournemouth? - FPL gameweek nine dilemmas",
+      "rezumat": "BBC Sport's Fantasy Premier League expert FPL Heisenberg gives his answers to some of the biggest dilemmas facing antrenors in gameweek nine.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-30T14:50:22.515583+00:00",
+      "data_afisaj": "30 octombrie 2026, 16:50"
+    },
+    {
+      "id": "991a795602f2",
+      "titlu": "PSG score late to hold struggling Man City",
+      "rezumat": "Manchester City concede late to a egal 1-1 with Paris St-Germain, as their wait for a win in the Women's Champions League this season continues.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-30T14:50:22.516615+00:00",
+      "data_afisaj": "30 octombrie 2026, 16:50"
+    },
     {
       "id": "060eea6a0745",
       "titlu": "Forest Green a lansat o acțiune în justiție pentru abordarea Savage",
