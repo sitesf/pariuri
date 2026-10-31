@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-31T14:18:09.462875+00:00",
-  "updated_at_afisaj": "31 octombrie 2026, 16:18",
+  "updated_at": "2026-10-31T19:47:15.405250+00:00",
+  "updated_at_afisaj": "31 octombrie 2026, 21:47",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 122,
+  "numar_stiri": 118,
   "stiri": [
+    {
+      "id": "e12c19dc56ea",
+      "titlu": "Bournemouth învinge Leeds după o eroare majoră a portarului Trafford",
+      "rezumat": "Echipa Bournemouth a obținut a șasea victorie consecutivă în toate competițiile, fără a primi gol, învingând Leeds cu 2-0. Portarul lui Leeds, James Trafford, a fost protagonistul unei erori costisitoare în minutul 23, permițând deschiderea scorului. Această victorie solidă consolidează poziția lui Bournemouth în clasament și subliniază forma excelentă a echipei, în timp ce Leeds continuă să se confrunte cu dificultăți în campionat.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-31T19:47:15.398474+00:00",
+      "data_afisaj": "31 octombrie 2026, 21:47"
+    },
+    {
+      "id": "ff3b24a86af2",
+      "titlu": "Criza de la Manchester United se adâncește după înfrângerea cu Chelsea și cartonașul roșu al lui Martínez",
+      "rezumat": "Manchester United a suferit o nouă înfrângere, scor 0-2, în fața echipei Chelsea pe Stamford Bridge, un rezultat care adâncește criza clubului. Situația a fost agravată de eliminarea fundașului Lisandro Martínez, care a primit un cartonaș roșu costisitor. Această înfrângere, care a avut ecouri din ultimele meciuri sub Erik ten Hag, pune o presiune și mai mare pe antrenorul Michael Carrick și pe conducerea clubului, generând discuții intense despre viitorul echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-31T19:47:15.400200+00:00",
+      "data_afisaj": "31 octombrie 2026, 21:47"
+    },
+    {
+      "id": "f9ad823d72ff",
+      "titlu": "Brighton produce surpriza și învinge Manchester City, reducând ecartul față de lideri",
+      "rezumat": "Manchester City a înregistrat o înfrângere surprinzătoare în fața echipei Brighton, scor 0-1, pe teren propriu. Golul victoriei pentru Brighton a fost marcat de Yasin Ayari în minutul 11, dintr-o fază controversată, un presupus fault asupra sa. Această înfrângere reprezintă a doua consecutivă pentru echipa lui Enzo Maresca în campionat, punând capăt unei serii impecabile de șapte victorii. Brighton, prin această performanță, își consolidează poziția a treia în clasament, demonstrând ambiții de calificare în Liga Campionilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-31T19:47:15.401873+00:00",
+      "data_afisaj": "31 octombrie 2026, 21:47"
+    },
+    {
+      "id": "9db986fbe9e1",
+      "titlu": "Mourinho despre controversa Mbappe-Mao: „Cel mai bine este să taci”",
+      "rezumat": "Antrenorul principal al lui Real Madrid, Jose Mourinho, a comentat recenta controversă legată de remarcile lui Kylian Mbappe despre Mao Zedong. Mourinho a declarat că „cel mai bine este să taci”, dar și-a exprimat susținerea pentru Mbappe în urma reacțiilor negative. Declarația vine în contextul în care Mbappe a fost criticat pentru comentariile sale, iar Mourinho a ales să ofere un sfat pragmatic, subliniind presiunea la care sunt supuși jucătorii de top în spațiul public.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-10-31T19:47:15.403518+00:00",
+      "data_afisaj": "31 octombrie 2026, 21:47"
+    },
+    {
+      "id": "bf2f275fd044",
+      "titlu": "Rezumat Championship: Presiunea crește pe Nuno după înfrângerea lui West Ham pe teren propriu",
+      "rezumat": "Nuno Espirito Santo se confruntă cu o presiune tot mai mare la West Ham, după ce echipa sa a fost învinsă cu 3-1 de West Brom la London Stadium. Aceasta este a doua înfrângere consecutivă pe teren propriu pentru \"Ciocănari\", favoriți la promovare, care se află acum la șase puncte de zona de promovare, pe locul opt. Fanii și-au exprimat nemulțumirea la finalul meciului, în timp ce West Brom a urcat în top patru, demonstrând o formă excelentă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-31T19:47:15.405230+00:00",
+      "data_afisaj": "31 octombrie 2026, 21:47"
+    },
     {
       "id": "a1e35dfa4df8",
       "titlu": "Arteta îl avertizează pe tânărul Dowman după cartonașul roșu: „Nu suntem în Disneyland”",
@@ -1286,107 +1342,6 @@
       ],
       "data_publicare": "2026-10-25T12:24:20.328130+00:00",
       "data_afisaj": "25 octombrie 2026, 14:24"
-    },
-    {
-      "id": "88320dfd9f38",
-      "titlu": "Arsenal egalează Manchester City la puncte după victoria convingătoare împotriva lui Everton",
-      "rezumat": "Arsenal a obținut o victorie clară cu 2-0 împotriva lui Everton pe Emirates Stadium, ajungând astfel la egalitate de puncte cu liderul Manchester City în clasamentul Premier League. Golurile au fost marcate de Ezri Konsa, la prima sa reușită pentru club, și de Gabriel Magalhaes. Echipa lui David Moyes, Everton, nu a reușit să-și schimbe norocul pe acest stadion, înregistrând o nouă înfrângere. Victoria confirmă forma bună a \"Tunarilor\" și ambițiile lor la titlu.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-24T19:11:12.336555+00:00",
-      "data_afisaj": "24 octombrie 2026, 22:11"
-    },
-    {
-      "id": "e1272df5c33d",
-      "titlu": "Mikel Arteta compilează un dosar cu antrenorii care părăsesc zona tehnică",
-      "rezumat": "Antrenorul lui Arsenal, Mikel Arteta, a stârnit controverse după ce s-a aflat că a adunat un dosar cu imagini și dovezi ale managerilor din Premier League care părăsesc zona tehnică desemnată. Această acțiune sugerează o preocupare a lui Arteta privind respectarea regulilor de către omologii săi și ar putea fi folosită pentru a atrage atenția asupra comportamentului de pe margine. Gestul subliniază tensiunile și rivalitățile tactice din campionatul englez.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-24T19:11:12.338237+00:00",
-      "data_afisaj": "24 octombrie 2026, 22:11"
-    },
-    {
-      "id": "1734dce89205",
-      "titlu": "Rangers obține o victorie categorică, în timp ce Dundee United învinge Aberdeen în Premiership-ul Scoției",
-      "rezumat": "În Premiership-ul Scoției, Rangers a înregistrat o victorie convingătoare cu 4-0 împotriva lui St Johnstone pe Ibrox, grație, printre altele, unei duble a lui Kevin Kelsy. Într-un alt meci, Dundee United a reușit să se impună cu 3-2 în fața lui Aberdeen. Aceste rezultate sunt cruciale pentru ambele echipe în lupta pentru pozițiile din clasament, Rangers consolidându-și forma după un egal în etapa precedentă, iar Dundee United obținând puncte importante.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-24T19:11:12.340158+00:00",
-      "data_afisaj": "24 octombrie 2026, 22:11"
-    },
-    {
-      "id": "b97724112df6",
-      "titlu": "Jonjo Shelvey vorbește despre insultele primite de la fani, inclusiv scandările cu „Voldemort”",
-      "rezumat": "Fostul mijlocaș al echipelor Liverpool și Charlton, Jonjo Shelvey, a dezvăluit că a trebuit să se obișnuiască cu insultele și scandările jignitoare din partea fanilor adverși de-a lungul carierei sale. Printre acestea, s-au numărat și scandări legate de personajul „Voldemort” din seria Harry Potter, o referință la alopecia sa. Shelvey a declarat că, deși inițial a fost afectat, a învățat să trăiască cu aceste remarci și să nu le mai permită să-l deranjeze.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-10-24T19:11:12.341994+00:00",
-      "data_afisaj": "24 octombrie 2026, 22:11"
-    },
-    {
-      "id": "dcf70e453210",
-      "titlu": "🚨 LIVE FCSB – Rapid, live în etapa 13 din Superliga. Gol spectaculos pe Arena Națională",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-10-24T18:38:41.311220+00:00",
-      "data_afisaj": "24 octombrie 2026, 21:38"
-    },
-    {
-      "id": "910b0ddb34ba",
-      "titlu": "Eroare Penders și Palmer vede roșu - evaluările jucătorilor pentru Chelsea v Spurs",
-      "rezumat": "Portarul Mike Penders a suferit un prim start dificil în Premier League, marcând un autogol în victoria lui Spurs cu 2-0 la Chelsea. Iată cum noi - și tu - i-am evaluat pe jucători.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-24T18:38:41.312796+00:00",
-      "data_afisaj": "24 octombrie 2026, 21:38"
-    },
-    {
-      "id": "f40c54708aac",
-      "titlu": "Donnarumma și Guehi evidențiază problemele Man City ca fiind un nivel solid al mișcării Arsenal",
-      "rezumat": "Începutul 100% câștigător al sezonului din Premier League al lui Manchester City se încheie brusc împotriva lui Aston Villa - lăsându-l pe Enzo Maresca cu probleme defensive flagrante de rezolvat.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-24T18:38:41.314353+00:00",
-      "data_afisaj": "24 octombrie 2026, 21:38"
-    },
-    {
-      "id": "865bdf316657",
-      "titlu": "De la refuzul lui Chelsea la „upgrade” lui Watkins - Jackson începe rapid Villa",
-      "rezumat": "Nicolas Jackson continuă un început excelent al carierei sale la Aston Villa cu o dublă câștigătoare împotriva lui Manchester City.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-24T18:38:41.315936+00:00",
-      "data_afisaj": "24 octombrie 2026, 21:38"
-    },
-    {
-      "id": "b319bb7a89dd",
-      "titlu": "Hayen a fost demis de Burnley după doar 14 jocuri",
-      "rezumat": "Nicky Hayen este demis după doar 14 jocuri la conducere la Burnley, după un început prost de sezon.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-24T18:38:41.317280+00:00",
-      "data_afisaj": "24 octombrie 2026, 21:38"
     }
   ]
 }
