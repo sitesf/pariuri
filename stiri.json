@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-31T13:26:04.633667+00:00",
-  "updated_at_afisaj": "31 octombrie 2026, 15:26",
+  "updated_at": "2026-10-31T14:18:09.462875+00:00",
+  "updated_at_afisaj": "31 octombrie 2026, 16:18",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,20 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 121,
+  "numar_stiri": 122,
   "stiri": [
+    {
+      "id": "a1e35dfa4df8",
+      "titlu": "Arteta îl avertizează pe tânărul Dowman după cartonașul roșu: „Nu suntem în Disneyland”",
+      "rezumat": "Antrenorul lui Arsenal, Mikel Arteta, a declarat că „nu suntem în Disneyland” și că îi va cere lui Max Dowman, un jucător adolescent, aceleași standarde ca și celorlalți fotbaliști din prima echipă, după ce acesta a primit un cartonaș roșu într-un meci împotriva echipei Fleetwood. Declarația subliniază așteptările stricte ale managerului spaniol de la toți membrii lotului, indiferent de vârstă, și importanța disciplinei în cadrul echipei. Incidentul a avut loc într-un context în care Arteta încearcă să impună o mentalitate riguroasă la club.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-10-31T14:18:09.462802+00:00",
+      "data_afisaj": "31 octombrie 2026, 16:18"
+    },
     {
       "id": "2b34137b5c47",
       "titlu": "Aston Villa îl dă în judecată pe Jamie Carragher pentru „insulte inacceptabile”",
