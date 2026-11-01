@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-01T14:45:15.819082+00:00",
-  "updated_at_afisaj": "1 noiembrie 2026, 16:45",
+  "updated_at": "2026-11-01T20:20:16.151985+00:00",
+  "updated_at_afisaj": "1 noiembrie 2026, 22:20",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,70 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 122,
+  "numar_stiri": 121,
   "stiri": [
+    {
+      "id": "07d2cceb9269",
+      "titlu": "Arsenal învinge Liverpool pe Anfield și preia conducerea în Premier League",
+      "rezumat": "Arsenal a obținut o victorie rară pe Anfield, învingând Liverpool cu 1-0, un rezultat care îi propulsează în fruntea clasamentului Premier League. Aceasta este prima victorie a \"tunarilor\" pe terenul lui Liverpool din 2012, punând capăt unei serii de 14 ani fără succes. Golul decisiv a fost marcat de Kai Havertz. Meciul a fost unul disputat, iar Liverpool a contestat o decizie de penalty, considerând că Alexander Isak ar fi trebuit să primească o lovitură de la 11 metri.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-01T20:20:16.148312+00:00",
+      "data_afisaj": "1 noiembrie 2026, 22:20"
+    },
+    {
+      "id": "e6126d8debb2",
+      "titlu": "Real Madrid obține o victorie convingătoare cu goluri de la Bellingham și Mbappé",
+      "rezumat": "Real Madrid a înregistrat o victorie convingătoare cu 3-0 împotriva echipei Racing Santander, continuând seria de șase victorii consecutive în La Liga. Kylian Mbappé a marcat dintr-un penalty, iar Jude Bellingham și Yan Diomande au contribuit și ei la scor. Acest succes o plasează pe Real Madrid la doar trei puncte în spatele liderului Barcelona în clasamentul La Liga, consolidându-și poziția în lupta pentru titlu.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-01T20:20:16.149251+00:00",
+      "data_afisaj": "1 noiembrie 2026, 22:20"
+    },
+    {
+      "id": "ef360ac9484a",
+      "titlu": "Chelsea urcă pe primul loc în Women's Super League după o victorie categorică",
+      "rezumat": "Chelsea a revenit în fruntea clasamentului Women's Super League după o victorie categorică cu 6-0 împotriva echipei Charlton. Echipa a demonstrat o ofensivă puternică, ajungând la un total de 27 de goluri marcate în doar opt meciuri, evidențiind dominația lor în campionat. Charlton rămâne fără puncte în acest sezon de WSL, confruntându-se cu dificultăți majore în competiție.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-01T20:20:16.150173+00:00",
+      "data_afisaj": "1 noiembrie 2026, 22:20"
+    },
+    {
+      "id": "682e6e440821",
+      "titlu": "Presiune crescută asupra antrenorului Martin O'Neill la Celtic după înfrângerea cu Falkirk",
+      "rezumat": "Presiunea crește asupra antrenorului Martin O'Neill la Celtic, după ce echipa a suferit o înfrângere șocantă cu 2-0 în fața lui Falkirk, prima victorie a acesteia din urmă în fața \"verzilor\" în 19 ani. Aceasta este a doua înfrângere în campionat pentru Celtic în acest sezon, iar echipa a înregistrat doar trei victorii în ultimele zece meciuri, stârnind îngrijorări privind o posibilă regresie și punând sub semnul întrebării viitorul tehnicianului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-01T20:20:16.151106+00:00",
+      "data_afisaj": "1 noiembrie 2026, 22:20"
+    },
+    {
+      "id": "bb9ec7b0a0c0",
+      "titlu": "Adolescentul implicat în videoclipul Bradley Lowery s-a predat poliției",
+      "rezumat": "Un adolescent în vârstă de 14 ani s-a predat poliției din West Midlands în legătură cu un videoclip controversat. Incidentul a avut loc după ce Coventry City a anunțat o investigație privind un fan care ar fi batjocorit suporterii Sunderland cu o imagine a lui Bradley Lowery. Bradley Lowery a fost un copil care a murit de cancer și a devenit un simbol al luptei împotriva bolii în fotbalul englez, iar gestul a stârnit un val de indignare publică.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-01T20:20:16.151974+00:00",
+      "data_afisaj": "1 noiembrie 2026, 22:20"
+    },
     {
       "id": "8a8dbf73ab7a",
       "titlu": "Trent Alexander-Arnold se confruntă cu dificultăți la Real Madrid, fiind a treia opțiune pe postul său",
@@ -1318,78 +1380,6 @@
       ],
       "data_publicare": "2026-10-26T14:00:31.445954+00:00",
       "data_afisaj": "26 octombrie 2026, 16:00"
-    },
-    {
-      "id": "9259c9870fd8",
-      "titlu": "Hull City își menține recordul de invincibilitate acasă, dar egalează cu Brentford",
-      "rezumat": "Hull City a înregistrat o remiză împotriva lui Brentford, menținându-și astfel recordul de invincibilitate pe teren propriu, însă fără a obține o victorie în ultimele șapte meciuri. Golul de deschidere a venit dintr-un penalty transformat de Oli McBurnie în minutul 24, după un fault al lui Aaron Hickey. Deși \"Tigrii\" nu au mai gustat victoria de ceva timp, performanța lor pe propriul stadion rămâne un punct pozitiv.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-10-25T19:25:01.661305+00:00",
-      "data_afisaj": "25 octombrie 2026, 21:25"
-    },
-    {
-      "id": "0e86337cbd7b",
-      "titlu": "Arsenal Women obține o victorie importantă în derby-ul londonez din WSL",
-      "rezumat": "Echipa feminină Arsenal a obținut a doua victorie a sezonului în Women's Super League (WSL), învingând Tottenham într-un derby londonez tensionat. Arsenal a revenit de la un gol în minus, după ce Cathinka Tandberg a deschis scorul pentru Spurs. Georgia Stanway a egalat, iar Alessia Russo a transformat un penalty controversat în a doua repriză, asigurând victoria \"tunarilor\" pe stadionul Tottenham Hotspur.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-25T19:25:01.663225+00:00",
-      "data_afisaj": "25 octombrie 2026, 21:25"
-    },
-    {
-      "id": "78c0ac26b771",
-      "titlu": "Aston Villa pune capăt seriei perfecte a lui Manchester City în Premier League",
-      "rezumat": "Aston Villa a reușit o performanță remarcabilă, învingând Manchester City cu 2-1 pe Villa Park și punând astfel capăt startului perfect de sezon al campioanei în Premier League. Nicolas Jackson a fost eroul serii, marcând de două ori și asigurând o victorie crucială pentru echipa sa. Acest rezultat reprezintă o surpriză majoră și confirmă forma bună a lui Aston Villa, în timp ce Manchester City înregistrează prima sa înfrângere în campionat, ridicând semne de întrebare despre defensiva lor, în special după erorile lui Marc Guéhi.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-25T18:48:02.894514+00:00",
-      "data_afisaj": "25 octombrie 2026, 20:48"
-    },
-    {
-      "id": "606e42a61a54",
-      "titlu": "Alexander Isak își justifică prețul la Liverpool, echipa obținând a patra victorie consecutivă",
-      "rezumat": "Atacantul Alexander Isak a marcat al șaselea său gol în Premier League în acest sezon, contribuind decisiv la victoria lui Liverpool împotriva lui Brighton. Această performanță subliniază adaptarea reușită a jucătorului și răsplătește încrederea acordată de club. Sub conducerea lui Andoni Iraola, Liverpool a înregistrat a patra victorie consecutivă, demonstrând o formă excelentă și o eficiență crescută în atac. Isak, alături de Florian Wirtz și Bradley Barcola, pare să se integreze tot mai bine în sistemul echipei, aducând un suflu nou ofensivei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-25T18:48:02.895904+00:00",
-      "data_afisaj": "25 octombrie 2026, 20:48"
-    },
-    {
-      "id": "d989894a680b",
-      "titlu": "LIVE Superliga: CFR Cluj – Dinamo, cu o revenire spectaculoasă a „câinilor”",
-      "rezumat": "Meciul dintre CFR Cluj și Dinamo, contând pentru etapa a 13-a din Superliga României, a oferit momente de tensiune și o revenire incredibilă a echipei Dinamo. Partida, transmisă în direct, a fost marcată de un ritm alert și de schimbări de scor, culminând cu o prestație remarcabilă a „câinilor” care au reușit să recupereze un dezavantaj și să obțină un rezultat important. Evenimentul a captivat atenția fanilor fotbalului românesc, demonstrând imprevizibilitatea și spectacolul campionatului intern, cu un deznodământ neașteptat.",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-10-25T18:48:02.897199+00:00",
-      "data_afisaj": "25 octombrie 2026, 20:48"
-    },
-    {
-      "id": "04810c9f88ed",
-      "titlu": "Sunderland rămâne pe ultimul loc în Premier League după un egal anost cu Leeds",
-      "rezumat": "Sunderland continuă să ocupe ultima poziție în clasamentul Premier League, după ce a înregistrat un egal fără goluri, 0-0, împotriva lui Leeds pe teren propriu. Acest rezultat extinde seria de meciuri fără victorie a echipei în prima ligă la șase partide. Partida a fost una dificilă, jucată în condiții meteorologice nefavorabile, și nu a reușit să ofere spectacolul așteptat, ambele formații nereușind să-și creeze ocazii clare de gol. Presiunea crește asupra lui Sunderland în lupta pentru evitarea retrogradării, iar fanii sunt tot mai îngrijorați de situația echipei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-25T18:48:02.898466+00:00",
-      "data_afisaj": "25 octombrie 2026, 20:48"
     }
   ]
 }
