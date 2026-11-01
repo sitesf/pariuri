@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-31T20:22:18.790890+00:00",
-  "updated_at_afisaj": "31 octombrie 2026, 22:22",
+  "updated_at": "2026-11-01T14:07:44.124967+00:00",
+  "updated_at_afisaj": "1 noiembrie 2026, 16:07",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,54 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 123,
+  "numar_stiri": 118,
   "stiri": [
+    {
+      "id": "a43fb00e8d21",
+      "titlu": "Eroarea portarului Suzuki aduce un punct pentru Fulham la Aston Villa",
+      "rezumat": "Aston Villa a remizat 1-1 cu Fulham pe Villa Park, după ce o greșeală a portarului Zion Suzuki în a doua repriză i-a permis lui Fulham să egaleze. Nicolas Jackson deschisese scorul pentru gazde. Remiza vine într-un moment crucial pentru ambele echipe, influențând pozițiile lor în clasament și adăugând presiune în lupta pentru puncte.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-01T14:07:44.118790+00:00",
+      "data_afisaj": "1 noiembrie 2026, 16:07"
+    },
+    {
+      "id": "77c59ffe84c2",
+      "titlu": "Golul spectaculos al lui Enciso aduce un punct pentru Ipswich în meciul cu Hull",
+      "rezumat": "Julio Enciso a marcat un gol superb, egalând scorul pentru Ipswich într-un meci tensionat încheiat 2-2 împotriva lui Hull pe stadionul MKM. Acest rezultat permite lui Ipswich să obțină un punct prețios în deplasare, în timp ce Hull își menține recordul de invincibilitate pe teren propriu, dar își extinde seria de meciuri fără victorie la opt.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-01T14:07:44.120488+00:00",
+      "data_afisaj": "1 noiembrie 2026, 16:07"
+    },
+    {
+      "id": "4018e47bcf5b",
+      "titlu": "Igor Thiago marchează, Brentford obține prima victorie după cinci meciuri, învingând Forest",
+      "rezumat": "Igor Thiago a marcat în a doua repriză, ajutând-o pe Brentford să obțină o victorie cu 2-0 împotriva lui Nottingham Forest pe Gtech Community Stadium. Aceasta este prima victorie a lui Brentford în ultimele cinci partide, un rezultat crucial care le oferă un moral ridicat și le permite să urce în clasament, îndepărtându-se de zona periculoasă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-01T14:07:44.122217+00:00",
+      "data_afisaj": "1 noiembrie 2026, 16:07"
+    },
+    {
+      "id": "8760d0dc06d7",
+      "titlu": "Naderi rupe rezistența lui Aberdeen, Rangers ajunge în finala Cupei Ligii Scoției",
+      "rezumat": "Ryan Naderi a marcat un gol dramatic pe final de meci, spulberând rezistența tenace a lui Aberdeen și asigurând echipei Rangers un loc în finala Cupei Ligii Scoției. Aberdeen a reușit să limiteze Rangers la un singur șut pe poartă în prima repriză, dar presiunea constantă a lui Rangers din a doua parte a meciului a dus la golul decisiv al lui Naderi în minutul 83, scor 1-0 pe Hampden Park.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-01T14:07:44.124948+00:00",
+      "data_afisaj": "1 noiembrie 2026, 16:07"
+    },
     {
       "id": "4cf51e42d5ca",
       "titlu": "Bayern Munchen și Borussia Dortmund remizează în Der Klassiker, Kane ratează un penalty",
@@ -1300,106 +1346,6 @@
       ],
       "data_publicare": "2026-10-25T18:48:02.898466+00:00",
       "data_afisaj": "25 octombrie 2026, 20:48"
-    },
-    {
-      "id": "973d2079c46a",
-      "titlu": "Bruno Fernandes lăsat pe bancă la Manchester United",
-      "rezumat": "Michael Carrick a luat decizia de a-l exclude pe Bruno Fernandes din echipa de start a lui Manchester United pentru meciul împotriva lui Bournemouth. Această hotărâre, confirmată de surse precum Sky și The Guardian, alimentează speculațiile privind o formă sportivă slabă a mijlocașului portughez sau un incident de disciplină recent. Situația subliniază tensiunile și dificultățile interne cu care se confruntă clubul în această perioadă, adăugând presiune asupra antrenorului și a performanțelor echipei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-25T12:58:06.679757+00:00",
-      "data_afisaj": "25 octombrie 2026, 14:58"
-    },
-    {
-      "id": "356d5ead7447",
-      "titlu": "Manchester United Women își îmbunătățește forma în WSL",
-      "rezumat": "Echipa feminină a lui Manchester United a înregistrat o îmbunătățire notabilă a performanțelor în Women's Super League (WSL) în ultima lună. După o perioadă inițială dificilă, echipa a reușit să-și redreseze parcursul, implementând ajustări tactice și strategice. Această schimbare pozitivă este analizată de specialiști, care încearcă să identifice factorii cheie ce au contribuit la creșterea eficienței și la obținerea unor rezultate mai bune, consolidând poziția clubului în campionatul feminin.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-25T12:58:06.680737+00:00",
-      "data_afisaj": "25 octombrie 2026, 14:58"
-    },
-    {
-      "id": "ccf6570f4e73",
-      "titlu": "Fulham obține victoria împotriva lui Coventry printr-un gol târziu",
-      "rezumat": "Fulham a reușit să obțină o victorie dramatică împotriva lui Coventry, grație unui gol marcat de Oscar Bobb în minutul 80 al partidei. Acest succes, obținut pe final de meci, reprezintă a doua victorie consecutivă pentru Fulham în Premier League. Rezultatul este crucial pentru echipa londoneză, ajutând-o să acumuleze puncte importante și să-și îmbunătățească poziția în clasament. Meciul a demonstrat rezistența și determinarea jucătorilor lui Fulham de a lupta până la ultimul fluier.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-25T12:58:06.681703+00:00",
-      "data_afisaj": "25 octombrie 2026, 14:58"
-    },
-    {
-      "id": "134df45c7c9b",
-      "titlu": "Anglia câștigă în premieră Cupa Mondială de Fotbal pentru Paralizie Cerebrală",
-      "rezumat": "Echipa națională a Angliei a scris istorie, cucerind pentru prima dată Cupa Mondială de Fotbal pentru Paralizie Cerebrală. În finala disputată la Atlanta, Anglia a învins Statele Unite, cu golurile marcate de Sam Dewhirst și David Porcher. Această performanță remarcabilă subliniază progresul și dedicarea sportivilor cu paralizie cerebrală, aducând în prim-plan importanța și frumusețea fotbalului adaptat. Victoria este un moment de mândrie pentru fotbalul englez și pentru comunitatea sportivă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-25T12:58:06.682662+00:00",
-      "data_afisaj": "25 octombrie 2026, 14:58"
-    },
-    {
-      "id": "abb959ccb8c5",
-      "titlu": "Cody Gakpo titular pentru Liverpool în meciul cu Brighton",
-      "rezumat": "Antrenorul lui Liverpool, Jurgen Klopp, a decis să-l includă pe Cody Gakpo în formula de start pentru meciul important din Premier League împotriva lui Brighton. Această alegere strategică îl plasează pe atacantul olandez într-un rol cheie, în timp ce Ngumoha va începe partida de pe banca de rezerve. Fanii de pe Anfield așteaptă ca Gakpo să aducă un plus de creativitate și forță ofensivă, contribuind la obținerea unei victorii esențiale în lupta pentru titlu.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-10-25T12:58:06.683539+00:00",
-      "data_afisaj": "25 octombrie 2026, 14:58"
-    },
-    {
-      "id": "91d130903a72",
-      "titlu": "Când începe \"sezonul demiterilor\" în Premier League și cine ar trebui să fie îngrijorat?",
-      "rezumat": "Pe măsură ce presiunea crește asupra antrenorului lui Manchester United, Michael Carrick, BBC Sport analizează momentul în care începe în mod tradițional \"sezonul demiterilor\" în Premier League. Articolul explorează factorii care contribuie la deciziile de schimbare a antrenorilor și identifică managerii aflați sub cea mai mare presiune, oferind o perspectivă asupra instabilității posturilor de antrenor în cel mai puternic campionat de fotbal din lume.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-25T12:24:20.322772+00:00",
-      "data_afisaj": "25 octombrie 2026, 14:24"
-    },
-    {
-      "id": "0475736cd890",
-      "titlu": "De ce se confruntă Liverpool cu dificultăți în a marca goluri în Premier League?",
-      "rezumat": "Liverpool a înscris 15 goluri în patru meciuri de cupă în acest sezon, însă a reușit să marcheze doar nouă goluri în șapte partide din Premier League. Această discrepanță ridică semne de întrebare cu privire la eficiența ofensivă a echipei în campionat. Analiza explorează posibilele cauze ale acestei probleme, de la tactică și forma jucătorilor, până la absențe sau lipsa de inspirație în fața porții adverse.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-25T12:24:20.324519+00:00",
-      "data_afisaj": "25 octombrie 2026, 14:24"
-    },
-    {
-      "id": "aa672299dc47",
-      "titlu": "O întâlnire sinceră a \"schimbat\" echipa Spurs: sunt pe drumul cel bun?",
-      "rezumat": "Tottenham a încheiat acțiunea din Premier League de sâmbătă pe locul 12, cea mai înaltă poziție în clasament de la 2 ianuarie. Articolul analizează o întâlnire considerată crucială, care ar fi putut schimba dinamica echipei. Se pune întrebarea dacă Tottenham este, în sfârșit, pe drumul cel bun către o revenire în topul campionatului, după o perioadă de rezultate fluctuante și performanțe sub așteptări.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-25T12:24:20.326283+00:00",
-      "data_afisaj": "25 octombrie 2026, 14:24"
-    },
-    {
-      "id": "0e9be6175b09",
-      "titlu": "Ceremonia Balonului de Aur revine în Anglia, un omagiu adus \"revoluționarului\" Stanley Matthews",
-      "rezumat": "Demnitarii fotbalului se vor reuni la London Palladium pentru ceremonia Balonului de Aur, un eveniment ce marchează o diferență semnificativă față de primele ediții. Ceremonia revine în Anglia la 70 de ani după ce prima decernare a avut loc în Blackpool, unde Stanley Matthews a primit premiul. Această decizie este considerată un omagiu adus moștenirii lui Matthews și rolului său revoluționar în istoria fotbalului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-25T12:24:20.328130+00:00",
-      "data_afisaj": "25 octombrie 2026, 14:24"
     }
   ]
 }
