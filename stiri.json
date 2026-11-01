@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-01T20:20:16.151985+00:00",
-  "updated_at_afisaj": "1 noiembrie 2026, 22:20",
+  "updated_at": "2026-11-01T20:55:25.939108+00:00",
+  "updated_at_afisaj": "1 noiembrie 2026, 22:55",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,41 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 121,
+  "numar_stiri": 124,
   "stiri": [
+    {
+      "id": "cc3dd7ac40a3",
+      "titlu": "Drew Spence stabilește un nou record de apariții în Women's Super League",
+      "rezumat": "Mijlocașul echipei Tottenham, Drew Spence, a intrat în istoria fotbalului feminin englez, devenind jucătoarea cu cele mai multe apariții în Women's Super League (WSL). Spence și-a exprimat mândria pentru această realizare remarcabilă, care subliniază longevitatea și contribuția sa constantă la cel mai înalt nivel al fotbalului feminin din Anglia. Recordul său reprezintă un reper important în cariera sa și în dezvoltarea campionatului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-01T20:55:25.935447+00:00",
+      "data_afisaj": "1 noiembrie 2026, 22:55"
+    },
+    {
+      "id": "f1d9586a938a",
+      "titlu": "Lazio preia conducerea în Serie A după o victorie dificilă",
+      "rezumat": "Echipa Lazio a urcat pe primul loc în clasamentul Serie A, după ce a obținut o victorie muncită împotriva formației Cagliari. Meciul a fost unul disputat, iar Lazio a trebuit să revină în joc pentru a-și asigura cele trei puncte esențiale. Această performanță subliniază ambițiile clubului de a se menține în lupta pentru titlu și de a contesta supremația echipelor tradiționale din campionatul italian.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-01T20:55:25.936722+00:00",
+      "data_afisaj": "1 noiembrie 2026, 22:55"
+    },
+    {
+      "id": "dce035dd025d",
+      "titlu": "Salford City, echipa deținută de David Beckham, își reconfirmă ambițiile de promovare",
+      "rezumat": "Salford City, clubul deținut de David Beckham și membrii \"Class of '92\" de la Manchester United, arată semne că își poate îndeplini ambițiile de a ajunge în Championship. După șapte sezoane petrecute în League Two, echipa pare să își găsească ritmul sub noua conducere, preluată în mai 2025. Performanțele recente sugerează că obiectivul de a urca în eșaloanele superioare ale fotbalului englez devine tot mai realist, depășind așteptările inițiale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-01T20:55:25.939094+00:00",
+      "data_afisaj": "1 noiembrie 2026, 22:55"
+    },
     {
       "id": "07d2cceb9269",
       "titlu": "Arsenal învinge Liverpool pe Anfield și preia conducerea în Premier League",
