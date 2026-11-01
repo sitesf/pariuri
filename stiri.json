@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-01T14:07:44.124967+00:00",
-  "updated_at_afisaj": "1 noiembrie 2026, 16:07",
+  "updated_at": "2026-11-01T14:45:15.819082+00:00",
+  "updated_at_afisaj": "1 noiembrie 2026, 16:45",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,52 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 118,
+  "numar_stiri": 122,
   "stiri": [
+    {
+      "id": "8a8dbf73ab7a",
+      "titlu": "Trent Alexander-Arnold se confruntă cu dificultăți la Real Madrid, fiind a treia opțiune pe postul său",
+      "rezumat": "Trent Alexander-Arnold, fundașul dreapta, se află într-o situație dificilă la Real Madrid, unde este considerat în prezent a treia opțiune pe postul său. Această poziție ridică semne de întrebare cu privire la viitorul său la clubul spaniol. Jucătorul, cunoscut pentru abilitățile sale ofensive, pare să se lupte pentru a-și găsi locul în planurile tactice ale echipei, iar speculațiile privind o posibilă plecare sau o schimbare de rol devin tot mai intense în presa sportivă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-01T14:45:15.813757+00:00",
+      "data_afisaj": "1 noiembrie 2026, 16:45"
+    },
+    {
+      "id": "1c4db666a578",
+      "titlu": "Manchester United, în pericol de a lupta pentru evitarea retrogradării?",
+      "rezumat": "Manchester United se confruntă cu o criză profundă, iar performanțele slabe au stârnit îngrijorări serioase cu privire la riscul de a ajunge în lupta pentru evitarea retrogradării. Cu doar șapte puncte acumulate în nouă meciuri, echipa ar obține mai puțin de 30 de puncte pe parcursul întregului sezon dacă ar menține acest ritm. Această statistică subliniază cel mai slab start de sezon al clubului din 1988 și pune o presiune imensă pe conducere și pe staff-ul tehnic pentru a găsi soluții rapide.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-01T14:45:15.815363+00:00",
+      "data_afisaj": "1 noiembrie 2026, 16:45"
+    },
+    {
+      "id": "ce5a0103993b",
+      "titlu": "Rezultate din Women's Super League: Arsenal remizează cu Aston Villa, Manchester City învinge London City Lionesses",
+      "rezumat": "În cadrul etapei din Women's Super League, Arsenal a înregistrat o remiză de 1-1 împotriva echipei Aston Villa. Într-un alt meci important, Manchester City a reușit să obțină o victorie cu scorul de 2-1 în deplasare, în fața formației London City Lionesses. Aceste rezultate contribuie la dinamica clasamentului și la lupta pentru titlu în campionatul feminin de fotbal, evidențiind performanțele echipelor de top.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-01T14:45:15.817279+00:00",
+      "data_afisaj": "1 noiembrie 2026, 16:45"
+    },
+    {
+      "id": "28b43a16b6af",
+      "titlu": "Cariera lui Jack Grealish, în incertitudine după ce a fost exclus din lotul lui Manchester City",
+      "rezumat": "Cariera lui Jack Grealish se află într-un moment de incertitudine, după ce a fost exclus din lotul lui Manchester City pentru \"încălcarea disciplinei clubului\". Jucătorul, care a fost un pilon important în echipa lui Pep Guardiola în trecut, inclusiv în finala Ligii Campionilor, se confruntă acum cu întrebări serioase legate de respect și conștientizare. Situația sa actuală contrastează puternic cu potențialul său de a fi un simbol pentru o nouă eră la un club precum Everton, sugerând o posibilă schimbare majoră în parcursul său profesional.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-01T14:45:15.819063+00:00",
+      "data_afisaj": "1 noiembrie 2026, 16:45"
+    },
     {
       "id": "a43fb00e8d21",
       "titlu": "Eroarea portarului Suzuki aduce un punct pentru Fulham la Aston Villa",
