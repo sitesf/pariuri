@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-01T20:55:25.939108+00:00",
-  "updated_at_afisaj": "1 noiembrie 2026, 22:55",
+  "updated_at": "2026-11-02T16:54:11.343779+00:00",
+  "updated_at_afisaj": "2 noiembrie 2026, 18:54",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 124,
+  "numar_stiri": 119,
   "stiri": [
+    {
+      "id": "457d7e225543",
+      "titlu": "Jack Grealish, din nou exclus din lotul lui Everton pentru meciul cu Newcastle",
+      "rezumat": "Mijlocașul Jack Grealish va rata al treilea meci consecutiv pentru Everton, fiind lăsat în afara lotului pentru deplasarea din Premier League la Newcastle. Decizia vine după ce Grealish a fost exclus și din partida de Carabao Cup de săptămâna trecută, din motive disciplinare, după ce a lipsit de la antrenamente fără permisiune. Jucătorul de 31 de ani a rămas în Merseyside pentru a-și îmbunătăți condiția fizică, în timp ce echipa sa se pregătește pentru confruntarea cu Newcastle. Această situație ridică semne de întrebare cu privire la viitorul său la club.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-02T16:54:11.338656+00:00",
+      "data_afisaj": "2 noiembrie 2026, 18:54"
+    },
+    {
+      "id": "07787696b79a",
+      "titlu": "Cristiano Ronaldo absentează din deplasarea lui Al Nassr în Uzbekistan din motive de securitate",
+      "rezumat": "Superstarul portughez Cristiano Ronaldo nu a făcut deplasarea cu echipa sa, Al Nassr, pentru meciul din Liga Campionilor Asiei împotriva echipei Pakhtakor din Uzbekistan. Decizia a fost luată pe fondul unor preocupări legate de securitate. Absența lui Ronaldo este o veste importantă pentru fanii fotbalului asiatic și pentru Al Nassr, care se bazează pe prezența sa pe teren. Clubul nu a oferit detalii suplimentare privind natura amenințărilor de securitate, dar a confirmat că jucătorul a fost lăsat acasă ca măsură de precauție.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-11-02T16:54:11.339958+00:00",
+      "data_afisaj": "2 noiembrie 2026, 18:54"
+    },
+    {
+      "id": "83c0a86acb92",
+      "titlu": "DAZN obține drepturile exclusive de streaming global pentru Cupa Mondială a Cluburilor din 2029",
+      "rezumat": "Compania de streaming DAZN a obținut o opțiune exclusivă pentru drepturile de streaming global pentru următoarea ediție a Cupei Mondiale a Cluburilor masculine, programată pentru 2029. Această înțelegere aprofundează parteneriatul DAZN cu FIFA, după ce compania, susținută de Arabia Saudită, a plătit un miliard de dolari pentru drepturile globale ale turneului inaugural cu 32 de echipe din Statele Unite, desfășurat anul trecut. Acordul subliniază importanța tot mai mare a platformelor de streaming în distribuția conținutului sportiv la nivel mondial.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-02T16:54:11.341254+00:00",
+      "data_afisaj": "2 noiembrie 2026, 18:54"
+    },
+    {
+      "id": "17f800dfedfe",
+      "titlu": "Aston Villa renunță la acțiunea legală împotriva lui Jamie Carragher",
+      "rezumat": "Clubul Aston Villa a confirmat că nu va continua cu nicio acțiune legală împotriva fostului fundaș al lui Liverpool și actualului expert sportiv, Jamie Carragher. Anterior, Villa amenințase cu demersuri legale în urma unor comentarii făcute de Carragher, pe care le-a considerat \"insulte inacceptabile\". Decizia de a renunța la proces pune capăt unei dispute publice care a atras atenția în lumea fotbalului, indicând o posibilă rezolvare amiabilă sau o reevaluare a situației de către club.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-02T16:54:11.342434+00:00",
+      "data_afisaj": "2 noiembrie 2026, 18:54"
+    },
+    {
+      "id": "98ed25c03941",
+      "titlu": "Antrenorul Iraola va cere jucătorilor săi să simuleze pe viitor, după o decizie controversată de arbitraj",
+      "rezumat": "Andoni Iraola, antrenorul echipei Bournemouth, a declarat că pe viitor le va cere jucătorilor săi să cadă mai ușor în careu, după ce Liverpool nu a primit un penalty în înfrângerea de duminică împotriva lui Arsenal. Declarația vine în contextul unei controverse legate de o posibilă simulare sau o decizie de arbitraj neacordată. Iraola a subliniat că, în opinia sa, lipsa unei reacții din partea jucătorului în cauză a contribuit la neacordarea loviturii de pedeapsă, sugerând că o atitudine mai \"teatrală\" ar putea fi necesară pentru a obține decizii favorabile.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-02T16:54:11.343764+00:00",
+      "data_afisaj": "2 noiembrie 2026, 18:54"
+    },
     {
       "id": "cc3dd7ac40a3",
       "titlu": "Drew Spence stabilește un nou record de apariții în Women's Super League",
@@ -1303,116 +1358,6 @@
       ],
       "data_publicare": "2026-10-26T20:55:50.416126+00:00",
       "data_afisaj": "26 octombrie 2026, 22:55"
-    },
-    {
-      "id": "2d35b246b6ce",
-      "titlu": "Pennant are peste 50 de copci după atacul unui câine",
-      "rezumat": "Fostul fotbalist din Premier League, Jermaine Pennant, spune că a avut nevoie de peste 50 de copci după ce a fost atacat de un câine.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-26T14:51:51.016286+00:00",
-      "data_afisaj": "26 octombrie 2026, 16:51"
-    },
-    {
-      "id": "20d6ff52a147",
-      "titlu": "Isak își justifică în sfârșit prețul, iar răbdarea lui Liverpool este răsplătită",
-      "rezumat": "Alexander Isak marchează al șaselea său gol în Premier League al sezonului, în timp ce Liverpool obține a patra victorie din ultimele patru sub conducerea lui Andoni Iraola.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-26T14:51:51.017790+00:00",
-      "data_afisaj": "26 octombrie 2026, 16:51"
-    },
-    {
-      "id": "b05e03cf3ab0",
-      "titlu": "'Nu a fost un adio din partea mea' - dar un început oribil îl lasă pe Carrick la limită",
-      "rezumat": "Viitorul lui Michael Carrick ca antrenor al lui Manchester United este sub o amenințare majoră după înfrângerea acasă cu Bournemouth duminică.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-26T14:51:51.019297+00:00",
-      "data_afisaj": "26 octombrie 2026, 16:51"
-    },
-    {
-      "id": "d0986027fb4e",
-      "titlu": "Cine sunt eu? Plus celelalte quiz-uri de azi",
-      "rezumat": "Testează-ți cunoștințele despre fotbal cu quiz-urile de azi Cine sunt eu?, Cinci în Cinci și Brainteaser.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-26T14:51:51.020574+00:00",
-      "data_afisaj": "26 octombrie 2026, 16:51"
-    },
-    {
-      "id": "b5008f778ccc",
-      "titlu": "Howe deschis la discuții cu Man Utd - Bârfele de luni",
-      "rezumat": "Eddie Howe este deschis să poarte discuții cu Manchester United dacă aceștia se despart de antrenorul Michael Carrick, trei cluburi din Premier League îl monitorizează pe Lennart Karl de la Bayern München, plus altele.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-26T14:51:51.021966+00:00",
-      "data_afisaj": "26 octombrie 2026, 16:51"
-    },
-    {
-      "id": "0d2e9808de71",
-      "titlu": "Se apropie sfârșitul pentru Carrick, dar fanii lui Man Utd clarifică pe cine dau vina",
-      "rezumat": "Fanii lui Manchester United și-au cântat sprijinul pentru Michael Carrick în timpul înfrângerii cu 3-0 pe teren propriu de Bournemouth, dar și-au exprimat opoziția față de aproape orice altceva.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-26T14:00:31.442351+00:00",
-      "data_afisaj": "26 octombrie 2026, 16:00"
-    },
-    {
-      "id": "b6ea2e81b18d",
-      "titlu": "Mourinho menține Clasico Midas contact 13 ani mai târziu, în timp ce La Liga se încălzește",
-      "rezumat": "Cele două goluri ale lui Kylian Mbappe la Barcelona au deschis Liga, în timp ce Real Madridul lui Jose Mourinho părăsește Camp Nou cu o victorie.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-26T14:00:31.443276+00:00",
-      "data_afisaj": "26 octombrie 2026, 16:00"
-    },
-    {
-      "id": "6919d57c01aa",
-      "titlu": "Cine ar trebui să câștige Balonul de Aur masculin? Expertii BBC Sport își spun cuvântul",
-      "rezumat": "Câștigătorul Balonului de Aur va fi anunțat luni la Londra - dar cine va câștiga premiul pentru piesă de spectacol?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-26T14:00:31.444208+00:00",
-      "data_afisaj": "26 octombrie 2026, 16:00"
-    },
-    {
-      "id": "dbfbdf985674",
-      "titlu": "Va pune cineva capăt dominației Spaniei asupra Balonului de Aur feminin?",
-      "rezumat": "Jucătoarele spaniole au dominat Balonul de Aur feminin în ultimii cinci ani, așa că vor sărbători din nou luni?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-26T14:00:31.445074+00:00",
-      "data_afisaj": "26 octombrie 2026, 16:00"
-    },
-    {
-      "id": "50087c4c456f",
-      "titlu": "Cine a desemnat echipa saptamanii a Troy's Premier League?",
-      "rezumat": "După fiecare rundă de meciuri din Premier League din acest sezon, Troy Deeney ne oferă echipa săptămânii. Sunteți de acord cu alegerile lui?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-26T14:00:31.445954+00:00",
-      "data_afisaj": "26 octombrie 2026, 16:00"
     }
   ]
 }
