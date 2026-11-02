@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-02T23:21:29.828376+00:00",
-  "updated_at_afisaj": "3 noiembrie 2026, 01:21",
+  "updated_at": "2026-11-02T23:45:19.750911+00:00",
+  "updated_at_afisaj": "3 noiembrie 2026, 01:45",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,65 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 119,
+  "numar_stiri": 124,
   "stiri": [
+    {
+      "id": "613a508cbe22",
+      "titlu": "Fifa to share 'key documents' over World Cup sell-off plan",
+      "rezumat": "Council members will need to travel to Fifa's headquarters in Zurich to see the documents, and will be subject to \"strict review protocols\".",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-02T23:45:02.709993+00:00",
+      "data_afisaj": "3 noiembrie 2026, 01:45"
+    },
+    {
+      "id": "0cd3635ae07d",
+      "titlu": "Un singur jucător de la FCSB a trecut cu U Cluj testul lui Ilie Dumitrescu! Reacția lui Naum: „Asta sună rău!”",
+      "rezumat": "(rezumat indisponibil)",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-11-02T23:45:02.711989+00:00",
+      "data_afisaj": "3 noiembrie 2026, 01:45"
+    },
+    {
+      "id": "a56ba63d141d",
+      "titlu": "Who produced the kind of performance Moyes loves? - player ratings",
+      "rezumat": "Newcastle United and Everton's players rated following their Premier League match.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-02T23:45:02.713526+00:00",
+      "data_afisaj": "3 noiembrie 2026, 01:45"
+    },
+    {
+      "id": "cd55150de495",
+      "titlu": "Carrick says it's 'crazy' but he's looking forward to Roma game",
+      "rezumat": "Under-pressure Michael Carrick says it might be \"crazy\" but he is looking forward to Manchester United's Champions League match against Roma at Old Trafford.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-02T23:45:02.715068+00:00",
+      "data_afisaj": "3 noiembrie 2026, 01:45"
+    },
+    {
+      "id": "50087c4c456f",
+      "titlu": "Who has made Troy's Premier League team of the week?",
+      "rezumat": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-02T23:45:02.716573+00:00",
+      "data_afisaj": "3 noiembrie 2026, 01:45"
+    },
     {
       "id": "598b4796dd2c",
       "titlu": "FIFA va partaja \"documente cheie\" privind planul de vânzare a Cupei Mondiale",
