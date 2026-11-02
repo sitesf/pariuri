@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-02T17:50:33.939161+00:00",
-  "updated_at_afisaj": "2 noiembrie 2026, 19:50",
+  "updated_at": "2026-11-02T23:21:29.828376+00:00",
+  "updated_at_afisaj": "3 noiembrie 2026, 01:21",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,66 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 124,
+  "numar_stiri": 119,
   "stiri": [
+    {
+      "id": "598b4796dd2c",
+      "titlu": "FIFA va partaja \"documente cheie\" privind planul de vânzare a Cupei Mondiale",
+      "rezumat": "Membrii Consiliului FIFA vor trebui să călătorească la sediul organizației din Zurich pentru a consulta documentele referitoare la planul de vânzare a Cupei Mondiale. Aceștia vor fi supuși unor \"protocoale stricte de revizuire\" pentru a asigura confidențialitatea și integritatea procesului. Această decizie vine în contextul unor discuții ample privind viitorul format și finanțarea competiției, subliniind transparența parțială a FIFA în gestionarea aspectelor comerciale majore ale turneului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-02T23:21:29.821730+00:00",
+      "data_afisaj": "3 noiembrie 2026, 01:21"
+    },
+    {
+      "id": "91dd3c1571c1",
+      "titlu": "David Moyes afirmă că Jack Grealish poate avea în continuare un viitor la Everton",
+      "rezumat": "Antrenorul lui Everton, David Moyes, a declarat că există o cale de întoarcere pentru Jack Grealish la club, chiar dacă nu știe când ar putea reveni jucătorul în echipă. Această declarație vine după ce Grealish a fost exclus din lot în urma unor acțiuni disciplinare. Moyes subliniază că ușa nu este închisă definitiv pentru mijlocaș, oferind o perspectivă asupra situației sale la club și sugerând că performanțele viitoare ar putea influența reintegrarea sa.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-02T23:21:29.823609+00:00",
+      "data_afisaj": "3 noiembrie 2026, 01:21"
+    },
+    {
+      "id": "9cf115b28721",
+      "titlu": "Harry Kane ar schimba Balonul de Aur pentru o victorie în Liga Campionilor",
+      "rezumat": "Atacantul lui Bayern Munchen, Harry Kane, a declarat că ar renunța la trofeul Balonului de Aur în schimbul unei medalii de câștigător al Ligii Campionilor. Această afirmație subliniază ambiția profundă a jucătorului de a obține cel mai prestigios trofeu european la nivel de club, prioritizând succesul colectiv în detrimentul recunoașterii individuale. Kane, cunoscut pentru performanțele sale remarcabile, își dorește să adauge acest titlu major în palmaresul său, considerându-l o realizare supremă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-02T23:21:29.825153+00:00",
+      "data_afisaj": "3 noiembrie 2026, 01:21"
+    },
+    {
+      "id": "8387ac3788b0",
+      "titlu": "Everton învinge Newcastle și obține prima victorie în deplasare din acest sezon de Premier League",
+      "rezumat": "Everton a obținut o victorie importantă cu 1-0 împotriva lui Newcastle United pe St James' Park, marcând prima sa victorie în deplasare din acest sezon de Premier League. Golul decisiv a fost marcat de Thierno Barry în a doua repriză. Echipa lui David Moyes a reușit să reziste presiunii gazdelor și să urce pe locul șapte în clasament, în timp ce Newcastle a fost huiduită de proprii fani la finalul meciului, confruntându-se cu o perioadă dificilă de rezultate slabe.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-02T23:21:29.826704+00:00",
+      "data_afisaj": "3 noiembrie 2026, 01:21"
+    },
+    {
+      "id": "bb557c7bba6c",
+      "titlu": "Viitorul lui Nuno Espírito Santo la West Ham, sub semnul întrebării după un început slab de sezon",
+      "rezumat": "Poziția antrenorului Nuno Espírito Santo la West Ham este amenințată în urma unui început dezamăgitor de sezon. West Ham, considerată favorită la promovarea din Championship, a coborât pe locul opt în clasament după o înfrângere cu 3-1 în fața echipei West Bromwich Albion. Conducerea clubului își pierde răbdarea cu managerul, având în vedere obiectivul clar de a reveni imediat în Premier League, după retrogradarea din sezonul precedent, iar presiunea asupra lui Espírito Santo crește considerabil.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-02T23:21:29.828357+00:00",
+      "data_afisaj": "3 noiembrie 2026, 01:21"
+    },
     {
       "id": "a9de5a5118c0",
       "titlu": "Sunderland își menține antrenorul, Regis le Bris, în ciuda rezultatelor slabe",
@@ -1302,117 +1360,6 @@
       ],
       "data_publicare": "2026-10-27T13:02:44.716126+00:00",
       "data_afisaj": "27 octombrie 2026, 15:02"
-    },
-    {
-      "id": "e23aee1773b7",
-      "titlu": "🚨 Sepsi – Universitatea Craiova 0-5, în etapa 13 din Superliga. Campioana e pe locul 2, la un punct de liderul Dinamo. Cum arată clasamentul",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-10-26T21:16:34.291942+00:00",
-      "data_afisaj": "26 octombrie 2026, 23:16"
-    },
-    {
-      "id": "384978cd6130",
-      "titlu": "Presiunea asupra lui Sage crește pe măsură ce fanii se îndreaptă spre șeful Palace",
-      "rezumat": "Șeful Crystal Palace Pierre Sage a avut o acțiune grea de urmat în Oliver Glasner - și la patru luni de la slujbă, francezul este deja sub o mare presiune.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-26T21:16:34.293485+00:00",
-      "data_afisaj": "26 octombrie 2026, 23:16"
-    },
-    {
-      "id": "dada184a7d95",
-      "titlu": "Săptămânalul BBC de fotbal feminin",
-      "rezumat": "Arsenal a eliberat presiunea cu o victorie în derby-ul de nord a Londrei - pot începe acum?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-26T21:16:34.294850+00:00",
-      "data_afisaj": "26 octombrie 2026, 23:16"
-    },
-    {
-      "id": "554c1af6ed42",
-      "titlu": "Jucătorii lui Man Utd se pregătesc să revină la antrenament cu viitorul lui Carrick încă incert",
-      "rezumat": "Jucătorii lui Manchester United urmează să revină marți la antrenamente la Carrington - dar încă nu este sigur dacă Michael Carrick va fi la conducere.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-10-26T21:16:34.296480+00:00",
-      "data_afisaj": "26 octombrie 2026, 23:16"
-    },
-    {
-      "id": "a2d9c6e01302",
-      "titlu": "Fearnley se retrage accidentat pentru a-i oferi lui Fery victoria la Vienna Open",
-      "rezumat": "Jacob Fearnley s-a retras accidentat după ce a pierdut cu 5-1 în primul set împotriva lui Arthur Fery, pentru a-i oferi compatriotului său un loc în turul doi la Viena Open.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-10-26T21:16:34.297944+00:00",
-      "data_afisaj": "26 octombrie 2026, 23:16"
-    },
-    {
-      "id": "41f4d21bcd1e",
-      "titlu": "Kane a anunțat prematur câștigătorul Balonului de Aur - dar nu a fost doar unul",
-      "rezumat": "Visul lui Harry Kane de a câștiga Balonul de Aur părea că s-a împlinit luni, când organizatorii au publicat un articol în care susținea că a câștigat premiul.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-26T20:55:50.410274+00:00",
-      "data_afisaj": "26 octombrie 2026, 22:55"
-    },
-    {
-      "id": "27e30c6032d3",
-      "titlu": "Howe și Nagelsmann sunt în fruntea listei lui Man Utd dacă Carrick a fost concediat",
-      "rezumat": "BBC Sport analizează cine l-ar putea înlocui pe Michael Carrick la Manchester United dacă antrenorul principal este demis.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-26T20:55:50.411841+00:00",
-      "data_afisaj": "26 octombrie 2026, 22:55"
-    },
-    {
-      "id": "28183ea796f4",
-      "titlu": "De ce se află Wilcox în linia de atac de la fanii lui Man Utd?",
-      "rezumat": "Având în vedere poziția lui Michael Carrick de șef al Man Utd, atenția s-a îndreptat și către directorul de fotbal Jason Wilcox.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-26T20:55:50.413315+00:00",
-      "data_afisaj": "26 octombrie 2026, 22:55"
-    },
-    {
-      "id": "f0710ad9a250",
-      "titlu": "5 Live Sport",
-      "rezumat": "Mark Chapman și invitații dezbat fotbalul din weekend.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-26T20:55:50.414542+00:00",
-      "data_afisaj": "26 octombrie 2026, 22:55"
-    },
-    {
-      "id": "c948fedc3f40",
-      "titlu": "Meciul Anglia-Republica Irlanda la Cupa Mondială U15 s-a încheiat din cauza presupusului rasism",
-      "rezumat": "Meciul din Grupa C de la Cupa Mondială Under 15 dintre Anglia și Republica Irlanda este abandonat după ce Anglia a susținut că un jucător al opoziției a făcut un comentariu rasist.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-26T20:55:50.416126+00:00",
-      "data_afisaj": "26 octombrie 2026, 22:55"
     }
   ]
 }
