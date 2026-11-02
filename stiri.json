@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-02T16:54:11.343779+00:00",
-  "updated_at_afisaj": "2 noiembrie 2026, 18:54",
+  "updated_at": "2026-11-02T17:50:33.939161+00:00",
+  "updated_at_afisaj": "2 noiembrie 2026, 19:50",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 119,
+  "numar_stiri": 124,
   "stiri": [
+    {
+      "id": "a9de5a5118c0",
+      "titlu": "Sunderland își menține antrenorul, Regis le Bris, în ciuda rezultatelor slabe",
+      "rezumat": "Clubul Sunderland, aflat pe ultima poziție în clasamentul Premier League, a decis să-i acorde în continuare încredere antrenorului Regis le Bris. Conducerea echipei a confirmat că Le Bris va primi mai mult timp pentru a redresa situația, în ciuda startului slab de sezon. Această decizie reflectă o abordare pe termen lung și o încredere în capacitatea antrenorului de a îmbunătăți performanțele echipei și de a evita retrogradarea. Se speră că stabilitatea la nivel managerial va contribui la o revenire a formei și la acumularea de puncte esențiale pentru menținerea în prima ligă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-02T17:50:33.932322+00:00",
+      "data_afisaj": "2 noiembrie 2026, 19:50"
+    },
+    {
+      "id": "bdd11c7e4831",
+      "titlu": "Michael Carrick face o declarație surprinzătoare despre o posibilă demitere de la Manchester United",
+      "rezumat": "Antrenorul lui Manchester United, Michael Carrick, aflat sub o presiune intensă după rezultatele recente, a făcut o declarație remarcabil de sinceră cu privire la viitorul său pe Old Trafford. Această admitere, venită înaintea unui meci considerat posibil decisiv, subliniază incertitudinea care planează asupra poziției sale. Declarația reflectă tensiunile din cadrul clubului și speculațiile tot mai intense legate de o eventuală schimbare la nivelul băncii tehnice, pe fondul performanțelor nesatisfăcătoare ale echipei în campionat și în Europa.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-11-02T17:50:33.934102+00:00",
+      "data_afisaj": "2 noiembrie 2026, 19:50"
+    },
+    {
+      "id": "36eb6f37e8a4",
+      "titlu": "Michael Carrick nu este îngrijorat de atitudinea lui Lisandro Martínez",
+      "rezumat": "Antrenorul Michael Carrick a insistat că nu este preocupat de atitudinea fundașului Lisandro Martínez, în ciuda izbucnirii recente a acestuia la adresa conducerii Manchester United și a cartonașului roșu primit în înfrângerea cu Chelsea. Martínez, care a fost amendat pentru comentariile sale, este așteptat să își păstreze locul în echipă pentru meciul din Liga Campionilor împotriva Romei. Carrick subliniază că angajamentul jucătorului nu este o problemă, încercând să calmeze tensiunile din jurul echipei și să se concentreze pe pregătirea pentru confruntarea europeană.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-02T17:50:33.935701+00:00",
+      "data_afisaj": "2 noiembrie 2026, 19:50"
+    },
+    {
+      "id": "c440f2abe3c2",
+      "titlu": "Conducerea lui Nottingham Forest salută declarațiile ferme ale antrenorului Oliver Glasner",
+      "rezumat": "Declarațiile puternice ale antrenorului Oliver Glasner, făcute după înfrângerea echipei Nottingham Forest cu Brentford, au fost bine primite de către conducerea clubului. Sky Sports News a aflat că oficialii de la Forest apreciază atitudinea fermă a antrenorului și determinarea sa de a schimba situația echipei. Acest sprijin din partea ierarhiei sugerează că Glasner are libertatea de a implementa schimbările necesare pentru a îmbunătăți performanțele și a scoate echipa din zona periculoasă a clasamentului Premier League.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-11-02T17:50:33.937423+00:00",
+      "data_afisaj": "2 noiembrie 2026, 19:50"
+    },
+    {
+      "id": "afd016ad0e7e",
+      "titlu": "Selecționerul Scoției, Sebastien Pocognoli, se pregătește să anunțe lotul național",
+      "rezumat": "Selecționerul Scoției, Sebastien Pocognoli, urmează să anunțe marți cel de-al doilea său lot de jucători, o decizie așteptată cu interes de fanii și presa sportivă. Pocognoli se confruntă cu diverse dileme în selecție, având în vedere forma actuală a jucătorilor și strategiile posibile pentru viitoarele meciuri internaționale. Anunțul va oferi claritate asupra direcției pe care o va aborda echipa națională sub noua sa conducere și va stabili componența pentru următoarele provocări din calendarul fotbalistic.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-02T17:50:33.939139+00:00",
+      "data_afisaj": "2 noiembrie 2026, 19:50"
+    },
     {
       "id": "457d7e225543",
       "titlu": "Jack Grealish, din nou exclus din lotul lui Everton pentru meciul cu Newcastle",
