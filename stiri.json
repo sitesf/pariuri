@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-03T21:35:55.818571+00:00",
-  "updated_at_afisaj": "3 noiembrie 2026, 23:35",
+  "updated_at": "2026-11-03T22:10:00.729741+00:00",
+  "updated_at_afisaj": "4 noiembrie 2026, 00:10",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 119,
+  "numar_stiri": 124,
   "stiri": [
+    {
+      "id": "e187f642c850",
+      "titlu": "Maxime Esteve de la RB Leipzig speră la debutul în Liga Campionilor și la o reîntâlnire cu Haaland",
+      "rezumat": "Fundașul lui RB Leipzig, Maxime Esteve, se pregătește pentru o posibilă reîntâlnire cu Erling Haaland de la Manchester City, în cadrul Ligii Campionilor. Esteve a menționat că are amintiri neplăcute de la ultima confruntare, când a marcat două autogoluri pe Etihad Stadium. Acesta speră să debuteze în competiție și a glumit că noii săi coechipieri probabil nu știu de incidentul anterior. Meciul reprezintă o oportunitate importantă pentru fundașul francez de a-și demonstra valoarea la noul său club, într-o competiție de anvergură.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-11-03T22:10:00.722522+00:00",
+      "data_afisaj": "4 noiembrie 2026, 00:10"
+    },
+    {
+      "id": "580adebb4392",
+      "titlu": "Bradley Barcola de la Liverpool vorbește despre adaptare și presiunea așteptărilor",
+      "rezumat": "Aripa lui Liverpool, Bradley Barcola, a discutat despre procesul său de adaptare la noul club, recunoscând că este nevoie de timp pentru ca achizițiile costisitoare să se integreze pe deplin. Jucătorul a subliniat că începe să se simtă mai bine în echipă și că oamenii încep să-l înțeleagă, dar a precizat că nu dorește să fie comparat cu Mohamed Salah, recunoscând presiunea care vine odată cu un preț mare de transfer. Declarațiile sale vin în contextul eforturilor de a se impune la Anfield și de a contribui la performanțele echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-11-03T22:10:00.724466+00:00",
+      "data_afisaj": "4 noiembrie 2026, 00:10"
+    },
+    {
+      "id": "eb1e1429a6db",
+      "titlu": "Phil Foden vizează revenirea în echipa națională a Angliei",
+      "rezumat": "Atacantul lui Manchester City, Phil Foden, și-a exprimat dorința de a reveni în lotul național al Angliei, după ce a fost omis din echipa pentru Cupa Mondială de anul trecut și din meciurile Ligii Națiunilor din acest sezon, sub antrenorul Thomas Tuchel. Foden, în vârstă de 26 de ani, a declarat că nu a avut niciun contact cu Tuchel și că trebuie să continue să aibă performanțe bune la club pentru a forța o revenire în planurile selecționerului. Următoarea convocare pentru Liga Națiunilor ar putea veni prea curând, dar Foden este hotărât să-și recâștige locul în echipa națională.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-03T22:10:00.726145+00:00",
+      "data_afisaj": "4 noiembrie 2026, 00:10"
+    },
+    {
+      "id": "a97ce3dcc2b8",
+      "titlu": "Antrenorul Liverpool, Andoni Iraola, cere îmbunătățirea atacului înainte de meciul cu Fenerbahce",
+      "rezumat": "Andoni Iraola, antrenorul lui Liverpool, a declarat că echipa sa trebuie să-și îmbunătățească jocul ofensiv, în ciuda faptului că a respins îngrijorările legate de diferența dintre performanțele din Premier League și Liga Campionilor. Liverpool are un record de 100% în Europa în acest sezon și poate face un pas semnificativ către calificarea în faza eliminatorie cu o victorie împotriva lui Fenerbahce. Iraola a subliniat importanța de a-și ascuți atacul pentru a obține rezultatul dorit în deplasarea din Turcia și a menține parcursul excelent din competiția europeană.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-03T22:10:00.727991+00:00",
+      "data_afisaj": "4 noiembrie 2026, 00:10"
+    },
+    {
+      "id": "06d5e5239607",
+      "titlu": "Echipa feminină de fotbal a Nigeriei ratează Cupa Mondială pentru prima dată",
+      "rezumat": "Echipa națională feminină de fotbal a Nigeriei, Super Falcons, va rata Cupa Mondială pentru prima dată în istorie, după o înfrângere cu 2-1 în fața Africii de Sud într-un meci de playoff din august. Această eliminare reprezintă o lovitură majoră pentru cea mai titrată echipă națională din Africa, atât la masculin, cât și la feminin, care a câștigat 10 titluri WAFCON. Jurnalistul și lectorul Osasu Obayiuwana a subliniat riscul ca echipa să rămână și mai mult în urmă pe măsură ce premiile în bani cresc în fotbalul feminin global.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-03T22:10:00.729719+00:00",
+      "data_afisaj": "4 noiembrie 2026, 00:10"
+    },
     {
       "id": "7e07aff05d24",
       "titlu": "Barcelona v Aston Villa: Champions League – live",
