@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-02T23:45:19.750911+00:00",
-  "updated_at_afisaj": "3 noiembrie 2026, 01:45",
+  "updated_at": "2026-11-03T14:54:17.564856+00:00",
+  "updated_at_afisaj": "3 noiembrie 2026, 16:54",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,66 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 124,
+  "numar_stiri": 119,
   "stiri": [
+    {
+      "id": "55285c578f6b",
+      "titlu": "Atacantul lui Tenerife, Jesus de Miguel, a decedat după o coliziune pe teren",
+      "rezumat": "Atacantul echipei Tenerife, Jesus de Miguel, în vârstă de 30 de ani, a murit în urma unei coliziuni suferite pe teren în timpul unui meci din liga a doua spaniolă. Incidentul tragic a avut loc în timpul partidei, iar vestea decesului său a fost confirmată de mai multe surse internaționale de știri sportive. Comunitatea fotbalistică este în doliu, exprimând condoleanțe familiei și clubului. Acest eveniment nefericit a șocat lumea fotbalului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-03T14:54:17.558296+00:00",
+      "data_afisaj": "3 noiembrie 2026, 16:54"
+    },
+    {
+      "id": "b58eeb50e0c7",
+      "titlu": "West Ham îl contactează pe Scott Parker după demiterea antrenorului Nuno Espírito Santo",
+      "rezumat": "Clubul West Ham United l-a demis pe antrenorul principal Nuno Espírito Santo, iar acum se află în discuții cu Scott Parker pentru a-i prelua locul. Decizia vine după o perioadă de rezultate nesatisfăcătoare, care au pus presiune pe tehnicianul portughez. Conducerea clubului a decis să facă o schimbare la nivelul băncii tehnice pentru a redresa parcursul echipei în campionat și a îmbunătăți performanțele viitoare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-03T14:54:17.560005+00:00",
+      "data_afisaj": "3 noiembrie 2026, 16:54"
+    },
+    {
+      "id": "eee6c572d6cf",
+      "titlu": "Cupa Asiei din 2027, amânată în Arabia Saudită din cauza conflictului din Orientul Mijlociu",
+      "rezumat": "Cupa Asiei din 2027, programată să aibă loc în Arabia Saudită, a fost amânată cu 11 luni, până la sfârșitul anului 2027, din cauza conflictului în curs din Orientul Mijlociu. Decizia a fost confirmată de Confederația Asiatică de Fotbal (AFC) după o lună de speculații, în urma unui atac asupra aeroportului internațional din Riad. Noile date, cu o finală propusă pe 21 ianuarie 2028, trebuie aprobate de FIFA, pentru a asigura siguranța participanților.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-03T14:54:17.561703+00:00",
+      "data_afisaj": "3 noiembrie 2026, 16:54"
+    },
+    {
+      "id": "e73d41288460",
+      "titlu": "McTominay revine în lotul Scoției, Penrice primește prima convocare",
+      "rezumat": "Scott McTominay, Kieran Tierney și Che Adams revin în lotul național al Scoției pentru meciurile rămase din Liga Națiunilor împotriva Macedoniei de Nord și Elveției. De asemenea, James Penrice a primit prima sa convocare la echipa națională, marcând un moment important în cariera sa. Selecționerul a optat pentru o combinație de experiență și talent nou pentru aceste confruntări cruciale, în încercarea de a obține rezultate pozitive.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-03T14:54:17.563205+00:00",
+      "data_afisaj": "3 noiembrie 2026, 16:54"
+    },
+    {
+      "id": "3eb79eb1edfd",
+      "titlu": "Probleme mari pentru antrenorul Matthias Jaissle la Newcastle, pe fondul nemulțumirii fanilor",
+      "rezumat": "La doar trei luni de la semnarea unui contract pe patru ani, antrenorul lui Newcastle, Matthias Jaissle, se confruntă cu probleme tot mai mari, pe măsură ce echipa sa este huiduită de fani după o nouă înfrângere pe teren propriu. Nemulțumirea suporterilor crește, iar presiunea asupra tehnicianului se intensifică, punând sub semnul întrebării stabilitatea proiectului său la club și capacitatea de a redresa situația echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-03T14:54:17.564835+00:00",
+      "data_afisaj": "3 noiembrie 2026, 16:54"
+    },
     {
       "id": "613a508cbe22",
       "titlu": "Fifa to share 'key documents' over World Cup sell-off plan",
@@ -1305,118 +1363,6 @@
       ],
       "data_publicare": "2026-10-27T20:29:51.718282+00:00",
       "data_afisaj": "27 octombrie 2026, 22:29"
-    },
-    {
-      "id": "f1cefaa496dd",
-      "titlu": "Kylian Mbappé își cere scuze după ce a fost retras de branduri chinezești",
-      "rezumat": "Atacantul lui Real Madrid, Kylian Mbappé, și-a prezentat scuzele publice după ce a fost retras de marile branduri chinezești. Decizia a venit în urma unui videoclip viral în care Mbappé ar fi făcut o glumă despre Mao Zedong. Incidentul a avut repercusiuni mai ample, inclusiv suspendarea transmisiunilor meciurilor din La Liga de către televiziunea publică chineză, conform unui raport al ziarului digital The Paper.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-27T13:59:12.333723+00:00",
-      "data_afisaj": "27 octombrie 2026, 15:59"
-    },
-    {
-      "id": "f07555d7b550",
-      "titlu": "Lamine Yamal câștigă Trofeul Kopa pentru al treilea an consecutiv",
-      "rezumat": "Tânărul talent Lamine Yamal a fost desemnat cel mai bun fotbalist sub 21 de ani din lume, câștigând Trofeul Kopa pentru al treilea an consecutiv. Această distincție vine după performanța sa remarcabilă cu naționala Spaniei la Cupa Mondială. Premiul recunoaște contribuția sa excepțională și potențialul său imens în fotbalul mondial.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-10-27T13:59:12.334963+00:00",
-      "data_afisaj": "27 octombrie 2026, 15:59"
-    },
-    {
-      "id": "56561ad00276",
-      "titlu": "Neluțu Varga, detalii exclusive despre plecarea lui Marius Șumudică de la CFR Cluj",
-      "rezumat": "Patronul clubului CFR Cluj, Neluțu Varga, a oferit declarații exclusive privind plecarea antrenorului Marius Șumudică. Varga a confirmat că a purtat discuții cu Șumudică, dezvăluind adevărul din spatele despărțirii. Această știre aduce claritate asupra situației de la clubul ardelean, care a stârnit numeroase speculații în presa sportivă românească.",
-      "categorie": "Fotbal",
-      "surse": [
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-10-27T13:59:12.336310+00:00",
-      "data_afisaj": "27 octombrie 2026, 15:59"
-    },
-    {
-      "id": "b9b55433b56b",
-      "titlu": "Chelsea pregătește o mutare de 100 de milioane de lire sterline pentru un nou atacant",
-      "rezumat": "Clubul Chelsea intenționează să continue politica de achiziții masive pe piața transferurilor, pregătind o ofertă de 100 de milioane de lire sterline pentru un nou atacant. Conform rapoartelor, antrenorul Xabi Alonso a primit sprijin financiar considerabil din partea conducerii pentru a aduce jucători de top, consolidând astfel lotul echipei în vederea obiectivelor viitoare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-10-27T13:59:12.337623+00:00",
-      "data_afisaj": "27 octombrie 2026, 15:59"
-    },
-    {
-      "id": "60d25212d077",
-      "titlu": "Seamus Coleman se apropie de retragerea din fotbal",
-      "rezumat": "Fostul fundaș al echipei Everton, Seamus Coleman, a declarat că ia în considerare retragerea din activitatea de fotbalist profesionist. Deși nu dorește să pună o \"linie definitivă\" carierei sale, jucătorul, în prezent fără contract, reflectează asupra viitorului său în sport. Coleman a avut o carieră lungă și respectată, în special la Everton, fiind o figură emblematică pentru club.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-27T13:59:12.338710+00:00",
-      "data_afisaj": "27 octombrie 2026, 15:59"
-    },
-    {
-      "id": "4665902bbbf3",
-      "titlu": "Carrick va rămâne la conducerea lui Man Utd pentru meciul cu Chelsea",
-      "rezumat": "Michael Carrick va rămâne la conducerea lui Manchester United pentru călătoria la Chelsea în acest weekend.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-10-27T13:02:44.710593+00:00",
-      "data_afisaj": "27 octombrie 2026, 15:02"
-    },
-    {
-      "id": "5bad71e3fc1d",
-      "titlu": "Kane pune capăt așteptării de 25 de ani a Angliei pentru Balonul de Aur - cum a depășit tendința",
-      "rezumat": "Harry Kane devine primul jucător englez care a câștigat Balonul de Aur de la Michael Owen în 2001, după ce a fost încoronat cel mai bun jucător din lume la o ceremonie la Londra.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-10-27T13:02:44.712271+00:00",
-      "data_afisaj": "27 octombrie 2026, 15:02"
-    },
-    {
-      "id": "ed713df3a79b",
-      "titlu": "Cum „anti-superstar” Kane i-a sfidat pe cei care se îndoiesc să devină cel mai bun din lume",
-      "rezumat": "Harry Kane este umilul „anti-superstar” care i-a sfidat pe cei îndoielnici să obțină măreția Balonului de Aur, spune scriitorul șef de fotbal Phil McNulty.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-27T13:02:44.713560+00:00",
-      "data_afisaj": "27 octombrie 2026, 15:02"
-    },
-    {
-      "id": "85f097566be0",
-      "titlu": "Clasamentul câștigătorilor Balonului de Aur din Anglia - cum se compară Kane?",
-      "rezumat": "De la Stanley Matthews la Harry Kane, cum se clasează câștigătorii Balonului de Aur din Anglia?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-27T13:02:44.714825+00:00",
-      "data_afisaj": "27 octombrie 2026, 15:02"
-    },
-    {
-      "id": "21c4c1176128",
-      "titlu": "Putellas câștigă al treilea Balon de Aur, cu un record egal, pentru a extinde dominația Spaniei",
-      "rezumat": "Mijlocașul Barcelonei și Spaniei Alexia Putellas câștigă Balonul de Aur feminin pentru a treia oară, cu un record egal.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-27T13:02:44.716126+00:00",
-      "data_afisaj": "27 octombrie 2026, 15:02"
     }
   ]
 }
