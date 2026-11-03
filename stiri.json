@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-03T15:49:53.468942+00:00",
-  "updated_at_afisaj": "3 noiembrie 2026, 17:49",
+  "updated_at": "2026-11-03T21:35:55.818571+00:00",
+  "updated_at_afisaj": "3 noiembrie 2026, 23:35",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,67 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 124,
+  "numar_stiri": 119,
   "stiri": [
+    {
+      "id": "7e07aff05d24",
+      "titlu": "Barcelona v Aston Villa: Champions League – live",
+      "rezumat": "⚽️ Champions League updates from the 8pm GMT start ⚽️ Manchester United v Roma – follow it live ⚽️ Live scores | League phase standings | And email Luke Steven Gerrard and Ally McCoist are on co-commentary duty for TNT Sports alongside Darren Fletcher in Barcelona. The sight and sound of Gerrard has reminded me to recap CarragherGate: “ Jamie Carragher has apologised to Aston Villa for using “clumsy and wrong” language when discussing the club, after club had threatened legal action. “I’d lik",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "GSP.ro",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-03T21:35:37.930893+00:00",
+      "data_afisaj": "3 noiembrie 2026, 23:35"
+    },
+    {
+      "id": "be9c863ecda5",
+      "titlu": "Tenerife striker De Miguel dies after on-field collision",
+      "rezumat": "Tenerife forward Jesus de Miguel dies aged 30 after an on-field collision during a Spanish second-division match.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-03T21:35:37.931997+00:00",
+      "data_afisaj": "3 noiembrie 2026, 23:35"
+    },
+    {
+      "id": "251b95d65722",
+      "titlu": "🚨 LIVE Live Etapa 4 din Liga Campionilor. S-a marcat în Feyenoord – Inter. PSG face spectacol pe terenul lui Villarreal. Atletico – Bayern e meciul serii",
+      "rezumat": "(rezumat indisponibil)",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-11-03T21:35:37.933570+00:00",
+      "data_afisaj": "3 noiembrie 2026, 23:35"
+    },
+    {
+      "id": "3945e393df6d",
+      "titlu": "Saliba's back for Arsenal - how does Arteta solve his defensive dilemma?",
+      "rezumat": "William Saliba returning to first-team training before Arsenal's game with Slavia Prague in the Champions League is a huge boost for the club but now presents Mikel Arteta with a selection headache.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-03T21:35:37.934733+00:00",
+      "data_afisaj": "3 noiembrie 2026, 23:35"
+    },
+    {
+      "id": "9e858a314104",
+      "titlu": "West Ham approach Parker after sacking boss Nuno",
+      "rezumat": "West Ham United sack antrenor principal Nuno Espirito Santo and are said to be in talks with Scott Parker as his replacement.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-03T21:35:37.935762+00:00",
+      "data_afisaj": "3 noiembrie 2026, 23:35"
+    },
     {
       "id": "1b6951600c79",
       "titlu": "Anglia va înfrunta Franța și Portugalia în Liga Națiunilor la fotbal feminin",
@@ -1307,117 +1366,6 @@
       ],
       "data_publicare": "2026-10-28T13:53:20.548901+00:00",
       "data_afisaj": "28 octombrie 2026, 15:53"
-    },
-    {
-      "id": "a3b0a2ae5a5b",
-      "titlu": "Captain Xhaka allowed to play for Switzerland again",
-      "rezumat": "Granit Xhaka and Breel Embolo will be allowed to return to action for Switzerland next month following an investigation into forged Covid-19 vaccination certificates.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-27T21:03:29.203364+00:00",
-      "data_afisaj": "27 octombrie 2026, 23:03"
-    },
-    {
-      "id": "1bff19423251",
-      "titlu": "McInnes admits feeling 'guilt' over leaving Hearts for Rangers",
-      "rezumat": "Rangers antrenor Derek McInnes admits feeling \"guilt\" about leaving Hearts for Ibrox in the summer and accepts the rough reception that could come his way when he returns to Tynecastle on Wednesday.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-27T21:03:29.204358+00:00",
-      "data_afisaj": "27 octombrie 2026, 23:03"
-    },
-    {
-      "id": "095d6b8f89ac",
-      "titlu": "How have 'best team north or south of border' last season lost six in a row?",
-      "rezumat": "BBC Scotland analyses Motherwell's plight to find out what's not clicking at Fir Park.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-27T21:03:29.205334+00:00",
-      "data_afisaj": "27 octombrie 2026, 23:03"
-    },
-    {
-      "id": "992047045a8f",
-      "titlu": "FAW boss renews call for Infantino to step down",
-      "rezumat": "Chief executive Noel Mooney says the Football Association of Wales retains the view that Fifa president Gianni Infantino should step down.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-27T21:03:29.206180+00:00",
-      "data_afisaj": "27 octombrie 2026, 23:03"
-    },
-    {
-      "id": "15633e0b9387",
-      "titlu": "Milan derby to be shown live on BBC Two",
-      "rezumat": "The first Milan derby of the season takes place on Saturday, 31 October and it will be live on BBC Two.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-27T21:03:29.207000+00:00",
-      "data_afisaj": "27 octombrie 2026, 23:03"
-    },
-    {
-      "id": "4dcbbc62c534",
-      "titlu": "Fleetwood Town v Arsenal: Carabao Cup fourth-round tie delayed by drone – live",
-      "rezumat": "⚽ League Cup updates from the 8pm GMT start ⚽ Cod Army welcome Gunners to Highbury | Mail Niall Here’s the Fleetwood antrenor principal, Matt Lawlor: “We’ve had to make changes, with the champions in town. But we’ve got a plan with substitutions to manage the game. Arsenal have paid us a lot of respect by naming such a strong team … it’s a very difficult challenge, but one we should enjoy, and not be overawed.” “I was just thinking, with the two Highburys – I can only think of the St James(’) Parks (",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-27T20:29:51.712937+00:00",
-      "data_afisaj": "27 octombrie 2026, 22:29"
-    },
-    {
-      "id": "51af7905a480",
-      "titlu": "Man Utd stick with Carrick - inside a turbulent 48 hours at Old Trafford",
-      "rezumat": "BBC Sport looks at the 48 hours that led to Manchester United deciding to keep under-pressure Michael Carrick as their antrenor principal for Saturday's trip to Chelsea.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-27T20:29:51.714365+00:00",
-      "data_afisaj": "27 octombrie 2026, 22:29"
-    },
-    {
-      "id": "29b7b36b96d0",
-      "titlu": "Fleetwood-Arsenal halted for eight minutes because of drone",
-      "rezumat": "Arsenal's match with Fleetwood town in the last-16 of the Carabao Cup is delayed for more than eight minutes after a drone is spotted above the stadium during the match.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-27T20:29:51.715667+00:00",
-      "data_afisaj": "27 octombrie 2026, 22:29"
-    },
-    {
-      "id": "d8cd8d75b8b8",
-      "titlu": "Where are Celtic & O'Neill a year after Rodgers exit?",
-      "rezumat": "How should Martin O'Neill and Celtic be assessed a year since his arrival in place of Brendan Rodgers as antrenor?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-27T20:29:51.716987+00:00",
-      "data_afisaj": "27 octombrie 2026, 22:29"
-    },
-    {
-      "id": "9dc18248a018",
-      "titlu": "Wenger's 'daylight' offside trial unlikely to be extended",
-      "rezumat": "Arsene Wenger's \"daylight\" offside trial is unlikely to be extended after receiving a lack of support at the Ifab assessment panels.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-27T20:29:51.718282+00:00",
-      "data_afisaj": "27 octombrie 2026, 22:29"
     }
   ]
 }
