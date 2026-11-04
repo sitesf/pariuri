@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-04T21:45:31.267906+00:00",
-  "updated_at_afisaj": "4 noiembrie 2026, 23:45",
+  "updated_at": "2026-11-04T22:17:46.188060+00:00",
+  "updated_at_afisaj": "5 noiembrie 2026, 00:17",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,65 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 120,
+  "numar_stiri": 125,
   "stiri": [
+    {
+      "id": "705b8bcfd2b8",
+      "titlu": "Haaland marchează golul victoriei, Man City învinge Leipzig",
+      "rezumat": "Erling Haaland marchează golul victoriei, în timp ce Manchester City revine de două ori de la egalare pentru a învinge RB Leipzig cu 3-2 în a patra etapă a fazei grupelor UEFA Champions League.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-11-04T22:17:38.193366+00:00",
+      "data_afisaj": "5 noiembrie 2026, 00:17"
+    },
+    {
+      "id": "81a5bf3d2980",
+      "titlu": "Golul superb al lui Valverde aduce victoria târzie pentru Real Madrid la AEK Atena",
+      "rezumat": "Real Madrid își continuă parcursul perfect în campania Ligii Campionilor cu o altă victorie târzie, de această dată prin căpitanul Federico Valverde, provocând a treia înfrângere consecutivă a Atenei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-04T22:17:38.194352+00:00",
+      "data_afisaj": "5 noiembrie 2026, 00:17"
+    },
+    {
+      "id": "4482a2b5b929",
+      "titlu": "De ce revenirea lui Man Utd împotriva Romei amintește de Mourinho și Solskjaer",
+      "rezumat": "După victoria memorabilă de revenire împotriva Romei, poate Manchester United să evite repetarea trecutului și să continue cu o victorie succesivă?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-04T22:17:38.195307+00:00",
+      "data_afisaj": "5 noiembrie 2026, 00:17"
+    },
+    {
+      "id": "30b52f65344d",
+      "titlu": "O insulă în doliu: Tenerife procesează moartea lui De Miguel",
+      "rezumat": "Clubul de fotbal Tenerife și întreaga comunitate fotbalistică deplâng pierderea fotbalistului Jesus de Miguel în urma unei coliziuni pe teren.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-04T22:17:38.196205+00:00",
+      "data_afisaj": "5 noiembrie 2026, 00:17"
+    },
+    {
+      "id": "7cb33b2e3e02",
+      "titlu": "Cum compensația istorică de la Everton a prevenit o pierdere record pentru Burnley",
+      "rezumat": "Burnley a publicat rezultate financiare promițătoare, dar în spatele acestora se află o plată de la Everton care face ca imaginea să pară mult mai puțin pozitivă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-04T22:17:38.197116+00:00",
+      "data_afisaj": "5 noiembrie 2026, 00:17"
+    },
     {
       "id": "51b336bd8bc1",
       "titlu": "Arsenal se distanțează în fruntea clasamentului după o victorie rară pe Anfield",
