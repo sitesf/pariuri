@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-04T15:57:55.451187+00:00",
-  "updated_at_afisaj": "4 noiembrie 2026, 17:57",
+  "updated_at": "2026-11-04T21:45:31.267906+00:00",
+  "updated_at_afisaj": "4 noiembrie 2026, 23:45",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,52 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 123,
+  "numar_stiri": 120,
   "stiri": [
+    {
+      "id": "51b336bd8bc1",
+      "titlu": "Arsenal se distanțează în fruntea clasamentului după o victorie rară pe Anfield",
+      "rezumat": "Arsenal a obținut o victorie importantă pe terenul lui Liverpool, scor 1-0, prima pe Anfield din 2012, și a urcat la trei puncte în fruntea clasamentului Premier League. Meciul a fost unul intens, cu ocazii de ambele părți, dar „tunarii” au reușit să-și păstreze avantajul, lăsând echipa lui Liverpool frustrată. Acest rezultat consolidează poziția lui Arsenal în lupta pentru titlu și subliniază progresul echipei sub conducerea actualului antrenor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-04T21:45:31.263105+00:00",
+      "data_afisaj": "4 noiembrie 2026, 23:45"
+    },
+    {
+      "id": "ff8d93c4da65",
+      "titlu": "Golul târziu al lui Valverde aduce victoria pentru Real Madrid împotriva AEK Atena în Liga Campionilor",
+      "rezumat": "Federico Valverde a marcat un gol spectaculos de la distanță, asigurând o victorie dramatică pentru Real Madrid, scor 3-2, în deplasarea de la AEK Atena în Liga Campionilor. Echipa lui José Mourinho a revenit de două ori de la scor defavorabil împotriva campioanei Greciei, menținându-și astfel recordul de 100% victorii în faza grupelor. Această performanță subliniază rezistența și calitatea ofensivă a madrilenilor în competiția europeană.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-04T21:45:31.264741+00:00",
+      "data_afisaj": "4 noiembrie 2026, 23:45"
+    },
+    {
+      "id": "c32c268a1c28",
+      "titlu": "Tensiuni la Manchester City: Talentul unui jucător cheie ar fi \"irosit\" de Enzo Maresca",
+      "rezumat": "Primul sezon al lui Enzo Maresca la cârma lui Manchester City nu decurge conform planului, iar rapoartele indică o stare de nemulțumire în vestiar. Se susține că talentul unui jucător important este \"irosit\" de deciziile tactice ale antrenorului. Aceste tensiuni interne ar putea afecta performanța echipei în continuare, pe măsură ce clubul încearcă să-și mențină standardele înalte în competițiile interne și europene.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-11-04T21:45:31.266395+00:00",
+      "data_afisaj": "4 noiembrie 2026, 23:45"
+    },
+    {
+      "id": "a88c252e1c97",
+      "titlu": "Arsenal a blocat deja două plecări importante în fereastra de transferuri din ianuarie",
+      "rezumat": "Managerul lui Arsenal, Mikel Arteta, este hotărât să păstreze nucleul echipei sale câștigătoare de titluri și a blocat deja două plecări semnificative în fereastra de transferuri din ianuarie. Această decizie subliniază strategia clubului de a menține stabilitatea și coeziunea lotului, evitând vânzarea jucătorilor cheie. Arteta dorește să se asigure că echipa are profunzimea necesară pentru a concura pe mai multe fronturi în a doua jumătate a sezonului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-11-04T21:45:31.267890+00:00",
+      "data_afisaj": "4 noiembrie 2026, 23:45"
+    },
     {
       "id": "a421e472aed7",
       "titlu": "Pulisic și Balogun revin în lotul naționalei SUA pentru Liga Națiunilor CONCACAF",
@@ -1333,85 +1377,6 @@
       ],
       "data_publicare": "2026-10-29T13:59:33.151996+00:00",
       "data_afisaj": "29 octombrie 2026, 15:59"
-    },
-    {
-      "id": "9f41c7a4fedc",
-      "titlu": "Wrexham amendat cu 75.000 de lire sterline pentru utilizarea de jucători neeligibili",
-      "rezumat": "Liga de Fotbal Engleză (EFL) a aplicat o amendă de 75.000 de lire sterline clubului Wrexham, ca urmare a două cazuri în care echipa a introdus pe teren jucători neeligibili. Decizia subliniază importanța respectării regulamentelor privind înregistrarea și eligibilitatea fotbaliștilor în competițiile oficiale. Clubul, deținut de actorii Ryan Reynolds și Rob McElhenney, se confruntă acum cu această sancțiune financiară, care atrage atenția asupra rigorii cu care EFL monitorizează conformitatea regulamentară a echipelor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-28T21:28:20.695115+00:00",
-      "data_afisaj": "28 octombrie 2026, 23:28"
-    },
-    {
-      "id": "ca09335a44f9",
-      "titlu": "Chelsea își continuă parcursul fără înfrângere în Liga Campionilor la Femei, învingând Roma",
-      "rezumat": "Echipa feminină Chelsea și-a menținut invincibilitatea în Liga Campionilor la Femei, obținând o victorie convingătoare cu 2-0 împotriva formației italiene AS Roma. Golurile marcate de Ellie Carpenter și Kadeisha Buchanan au asigurat succesul londonezelor, consolidându-le poziția în competiție. Acest rezultat subliniază forma excelentă a echipei și ambițiile sale de a progresa cât mai mult în turneul european, demonstrând o performanță solidă atât în apărare, cât și în atac.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-10-28T21:28:20.696949+00:00",
-      "data_afisaj": "28 octombrie 2026, 23:28"
-    },
-    {
-      "id": "fe92f063d25f",
-      "titlu": "Actualizare privind trei accidentări la Arsenal, după eliminarea din Cupa Ligii",
-      "rezumat": "Arsenal a emis o actualizare privind situația medicală a trei jucători, după înfrângerea surprinzătoare la penalty-uri în fața echipei Fleetwood Town în Cupa Ligii. Managerul Mikel Arteta se confruntă acum cu \"noi incertitudini\" legate de absența acestui trio, adăugând presiune asupra lotului deja solicitat. Această veste vine într-un moment dificil pentru club, care trebuie să gestioneze atât dezamăgirea eliminării, cât și provocările legate de disponibilitatea jucătorilor cheie pentru meciurile următoare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-10-28T21:28:20.699466+00:00",
-      "data_afisaj": "28 octombrie 2026, 23:28"
-    },
-    {
-      "id": "a257fe7eeaa3",
-      "titlu": "Burnley îl numește pe fostul antrenor al lui Basel, Celestini, ca antrenor principal",
-      "rezumat": "Burnley l-a numit pe Fabio Celestini în funcția de antrenor principal, la patru zile după plecarea lui Nicky Hayen. Celestini, fost tehnician al echipei Basel, preia conducerea clubului englez cu obiectivul de a redresa parcursul echipei. Numirea sa vine într-un moment crucial, iar fanii așteaptă ca noul antrenor să aducă stabilitate și performanță. Această decizie a fost confirmată de mai multe surse sportive internaționale, subliniind importanța mutării pentru viitorul clubului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-28T20:51:36.466586+00:00",
-      "data_afisaj": "28 octombrie 2026, 22:51"
-    },
-    {
-      "id": "1ee83d899dc4",
-      "titlu": "Benjamin Sesko, atacantul lui Manchester United, va lipsi până în ianuarie din cauza unei accidentări la tibie",
-      "rezumat": "Atacantul lui Manchester United, Benjamin Sesko, este așteptat să fie indisponibil cel puțin până în luna ianuarie, din cauza unei accidentări la tibie. Această veste reprezintă o lovitură pentru 'Diavolii Roșii', care se confruntă cu probleme în compartimentul ofensiv. Sesko va începe un program de recuperare, iar staff-ul medical speră ca jucătorul să revină pe teren la începutul anului viitor, pentru a contribui la obiectivele echipei în a doua parte a sezonului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-28T20:51:36.469228+00:00",
-      "data_afisaj": "28 octombrie 2026, 22:51"
-    },
-    {
-      "id": "a37ae8f4bf02",
-      "titlu": "Clubul scoțian Johnstone Burgh va juca două meciuri de cupă simultan, din cauza unei suprapuneri bizare în program",
-      "rezumat": "Clubul scoțian Johnstone Burgh, din a cincea ligă, este forțat să joace două meciuri de cupă în aceeași zi, cu orele de start la doar jumătate de oră distanță. Această situație fără precedent a apărut din cauza unei suprapuneri neobișnuite în calendarul competițional. Echipa a anunțat că va încerca să gestioneze această provocare logistică, devenind probabil primul club din istoria fotbalului care abordează două partide oficiale în același timp, cu loturi diferite.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-10-28T20:51:36.471080+00:00",
-      "data_afisaj": "28 octombrie 2026, 22:51"
-    },
-    {
-      "id": "661ebaafce9a",
-      "titlu": "Inter revine pe primul loc în Serie A după două autogoluri târzii, în timp ce Milan pierde acasă",
-      "rezumat": "Inter Milano a revenit pe primul loc în clasamentul Serie A, în urma unei victorii tensionate cu 2-0 în deplasare împotriva ultimei clasate, Venezia, grație a două autogoluri marcate pe final de meci. Între timp, rivala AC Milan a suferit prima înfrângere a sezonului în campionat, pierzând cu 4-2 acasă împotriva Bolognei, meci în care Samuel Mbangula a reușit un hat-trick. Inter egalează Lazio la 25 de puncte înaintea derby-ului cu Milan.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-28T20:51:36.472851+00:00",
-      "data_afisaj": "28 octombrie 2026, 22:51"
     }
   ]
 }
