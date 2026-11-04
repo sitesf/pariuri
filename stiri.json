@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-04T15:13:47.458508+00:00",
-  "updated_at_afisaj": "4 noiembrie 2026, 17:13",
+  "updated_at": "2026-11-04T15:57:55.451187+00:00",
+  "updated_at_afisaj": "4 noiembrie 2026, 17:57",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,30 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 121,
+  "numar_stiri": 123,
   "stiri": [
+    {
+      "id": "a421e472aed7",
+      "titlu": "Pulisic și Balogun revin în lotul naționalei SUA pentru Liga Națiunilor CONCACAF",
+      "rezumat": "Antrenorul Mauricio Pochettino a anunțat lotul de 26 de jucători al Statelor Unite pentru meciurile din sferturile de finală ale Ligii Națiunilor CONCACAF împotriva Haiti. Printre numele notabile care revin în echipă se numără Christian Pulisic, Weston McKennie și Folarin Balogun. După ce 13 jucători au debutat în fereastra precedentă, doar două selecții ar putea fi în linie pentru debuturi internaționale în această rundă. Meciurile din sferturile de finală sunt programate să aibă loc în Miami și Cincinnati.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-04T15:57:55.449622+00:00",
+      "data_afisaj": "4 noiembrie 2026, 17:57"
+    },
+    {
+      "id": "4b69b5f0abb2",
+      "titlu": "Océane Hurtré, noua senzație de la Birmingham, comparată cu David Beckham",
+      "rezumat": "Océane Hurtré, a doua marcatoare din Women's Super League, impresionează la Birmingham și a fost convocată la naționala Franței. Jucătoarea este lăudată pentru abilitățile sale de centrare, fiind comparată cu legenda Angliei, David Beckham. Talentul și încrederea sa pe teren au transformat-o într-o vedetă surpriză a campionatului, atrăgând atenția atât la nivel de club, cât și la nivel internațional. Performanțele sale remarcabile o propulsează printre cele mai promițătoare talente din fotbalul feminin.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-04T15:57:55.451175+00:00",
+      "data_afisaj": "4 noiembrie 2026, 17:57"
+    },
     {
       "id": "d8fdf7792de6",
       "titlu": "Real Madrid ajunge la un acord verbal pentru transferul lui Gabriel",
