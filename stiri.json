@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-05T16:09:54.216988+00:00",
-  "updated_at_afisaj": "5 noiembrie 2026, 18:09",
+  "updated_at": "2026-11-05T21:49:38.374355+00:00",
+  "updated_at_afisaj": "5 noiembrie 2026, 23:49",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,66 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 126,
+  "numar_stiri": 122,
   "stiri": [
+    {
+      "id": "fb62e6dc4807",
+      "titlu": "Universitatea Craiova – Egnatia în Conference League: Oaspeții termină meciul în inferioritate",
+      "rezumat": "Meciul dintre Universitatea Craiova și Egnatia, contând pentru etapa a treia a Conference League, a fost marcat de eliminarea unui jucător al echipei oaspete. Partida s-a desfășurat în cadrul competiției europene, iar Egnatia a încheiat confruntarea în inferioritate numerică, un aspect care a influențat desfășurarea jocului, conform rapoartelor din presa sportivă românească. Detaliile complete ale incidentului și impactul asupra scorului final urmează să fie analizate.",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-11-05T21:49:38.367415+00:00",
+      "data_afisaj": "5 noiembrie 2026, 23:49"
+    },
+    {
+      "id": "138b1a4b73ed",
+      "titlu": "Crystal Palace obține o remiză dramatică în Europa League, cu un gol târziu al lui Kamada",
+      "rezumat": "Crystal Palace a reușit să obțină o remiză dramatică, scor 1-1, împotriva echipei Hoffenheim în Europa League, după ce Daichi Kamada a marcat un gol egalizator în prelungiri. Echipa engleză a jucat în inferioritate numerică în ultimele minute, după eliminarea lui Adam Wharton, însă a luptat pentru a evita înfrângerea pe teren propriu. Rezultatul oferă o gură de oxigen antrenorului Pierre Sage și menține speranțele echipei în competiție.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-05T21:49:38.369443+00:00",
+      "data_afisaj": "5 noiembrie 2026, 23:49"
+    },
+    {
+      "id": "6a0af77b06bf",
+      "titlu": "Bournemouth își continuă seria victorioasă în Europa League, învingând Sparta Praga",
+      "rezumat": "Bournemouth și-a extins seria de șapte victorii consecutive, învingând Sparta Praga cu 3-1 în Europa League. Echipa engleză a revenit de la un scor defavorabil, cu Tyler Adams, Evanilson și Rayan marcând după ce au fost introduși de pe bancă. Această victorie menține parcursul perfect al lui Bournemouth în debutul său european și îi consolidează poziția în clasament, fiind aproape de calificarea directă în optimile de finală.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-05T21:49:38.371118+00:00",
+      "data_afisaj": "5 noiembrie 2026, 23:49"
+    },
+    {
+      "id": "ab209df0e6a3",
+      "titlu": "Retrospectiva Ligii Campionilor: Reveniri spectaculoase, victorii categorice și o premieră mauritană",
+      "rezumat": "Etapa a patra a Ligii Campionilor a adus rezultate notabile, incluzând reveniri spectaculoase, victorii la scor și o premieră istorică. Bayern Munchen și Paris Saint-Germain și-au demonstrat forța cu victorii dominante, în timp ce Manchester United a reușit o revenire. De asemenea, un jucător mauritan a marcat un gol important pentru AEK Atena, contribuind la o seară memorabilă în competiție și la o analiză amplă a performanțelor echipelor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-05T21:49:38.372657+00:00",
+      "data_afisaj": "5 noiembrie 2026, 23:49"
+    },
+    {
+      "id": "e6a81d7a559c",
+      "titlu": "Fostul antrenor al lui Chelsea, Liam Rosenior, susține că demiterea sa nu a avut legătură cu aspectele fotbalistice",
+      "rezumat": "Liam Rosenior, fostul manager al echipei Chelsea, a declarat că decizia de a fi demis de la clubul londonez la începutul acestui an nu a fost legată de performanțele sportive. Antrenorul a oferit explicații privind motivele care au dus la încheierea mandatului său pe Stamford Bridge, sugerând că factori non-fotbalistici au stat la baza despărțirii. Această afirmație ridică semne de întrebare despre dinamica internă a clubului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-11-05T21:49:38.374336+00:00",
+      "data_afisaj": "5 noiembrie 2026, 23:49"
+    },
     {
       "id": "03a2be57d8b4",
       "titlu": "Federația Engleză și WSL lansează un studiu amplu privind leziunile de ligament încrucișat la fotbalistele profesioniste",
@@ -1344,110 +1402,6 @@
       ],
       "data_publicare": "2026-10-30T13:53:51.346859+00:00",
       "data_afisaj": "30 octombrie 2026, 15:53"
-    },
-    {
-      "id": "3a718e66bf24",
-      "titlu": "Premier League Scoțiană face primul pas pentru eliminarea restricției TV de sâmbătă, ora 15:00",
-      "rezumat": "Premier League Scoțiană a inițiat demersurile pentru a pune capăt restricției de difuzare televizată a meciurilor de sâmbătă, de la ora 15:00, în Marea Britanie. Liga a invitat oferte pentru următorul ciclu de drepturi de televiziune, începând cu 2029, care ar permite televiziunea tuturor meciurilor. Această mișcare este considerată un prim pas într-un efort coordonat al ligilor interne din Regatul Unit de a elimina această interdicție istorică, deschizând calea pentru o accesibilitate sporită a fanilor la meciurile de fotbal.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-29T21:30:09.002369+00:00",
-      "data_afisaj": "29 octombrie 2026, 23:30"
-    },
-    {
-      "id": "ddf70cc6e812",
-      "titlu": "UEFA este aproape de a alege un candidat pentru alegerile FIFA împotriva lui Gianni Infantino",
-      "rezumat": "UEFA și aliații săi sunt pe punctul de a identifica un candidat care să concureze împotriva lui Gianni Infantino în alegerile pentru președinția FIFA. Se preconizează că identitatea challengerului ar putea fi aprobată chiar săptămâna viitoare. Termenul limită pentru confirmarea candidaturilor este 18 noiembrie, iar în rândul oficialilor există o încredere crescândă că eforturile de a găsi un oponent pentru Infantino se apropie de o rezolvare de succes. Arsène Wenger nu este considerat a fi intrat în calcule.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-29T21:30:09.004226+00:00",
-      "data_afisaj": "29 octombrie 2026, 23:30"
-    },
-    {
-      "id": "7e5ac8b09b5b",
-      "titlu": "Decizia de închidere a stadioanelor pentru meciurile de Cupa Scoției ale lui Celtic și Rangers a fost menținută",
-      "rezumat": "Cluburile Celtic și Rangers vor juca următoarele lor meciuri de acasă din Cupa Scoției fără spectatori, după ce apelurile depuse de cele două echipe împotriva sancțiunii au fost respinse. Decizia a fost menținută, ceea ce înseamnă că fanii nu vor putea asista la partidele respective. Această măsură vine în urma unor incidente anterioare și subliniază rigoarea cu care autoritățile fotbalistice scotiene abordează problemele de disciplină și siguranță pe stadioane.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-29T21:30:09.007558+00:00",
-      "data_afisaj": "29 octombrie 2026, 23:30"
-    },
-    {
-      "id": "f350cbd9cf64",
-      "titlu": "Gloria Bistrița învinge FCSB cu 1-0 în Cupa României, primul eșec pentru Reghecampf la revenire",
-      "rezumat": "Gloria Bistrița a produs o surpriză în etapa a doua a Cupei României, învingând FCSB cu scorul de 1-0. Această înfrângere marchează primul eșec pentru antrenorul Laurențiu Reghecampf de la revenirea sa la echipa patronată de Gigi Becali. Meciul a fost unul disputat, iar rezultatul reprezintă o lovitură pentru ambițiile FCSB în competiția internă, în timp ce Gloria Bistrița își continuă parcursul cu o victorie importantă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-10-29T21:30:09.009462+00:00",
-      "data_afisaj": "29 octombrie 2026, 23:30"
-    },
-    {
-      "id": "bc9528a9e3fe",
-      "titlu": "Grealish dropped by Everton after 'breach of club discipline'",
-      "rezumat": "Jack Grealish is left out of Everton's Carabao Cup tie with Newcastle United on Thursday \"due to a breach of club discipline\".",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-29T20:56:51.967300+00:00",
-      "data_afisaj": "29 octombrie 2026, 22:56"
-    },
-    {
-      "id": "078173a34740",
-      "titlu": "Dowman to miss three matches after appeal rejected",
-      "rezumat": "Arsenal's Max Dowman will miss three matches after an appeal against his sending-off during Tuesday's loss at Fleetwood is rejected.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-29T20:56:51.968158+00:00",
-      "data_afisaj": "29 octombrie 2026, 22:56"
-    },
-    {
-      "id": "d595b47dc87d",
-      "titlu": "Why is there only one Premier League match on Sunday?",
-      "rezumat": "BBC Sport's Ask Me Anything team explains where is no 14:00 GMT start on Sunday in the Premier League this weekend.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-10-29T20:56:51.968966+00:00",
-      "data_afisaj": "29 octombrie 2026, 22:56"
-    },
-    {
-      "id": "458a7b4023cb",
-      "titlu": "'Fully committed' Fernandes to remain Man Utd captain",
-      "rezumat": "Manchester United antrenor principal Michael Carrick confirms Bruno Fernandes will remain captain, and addresses his own future before Saturday's trip to Chelsea.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-29T20:56:51.969771+00:00",
-      "data_afisaj": "29 octombrie 2026, 22:56"
-    },
-    {
-      "id": "5233eb7c6c21",
-      "titlu": "Sutton's predictions v Bad Day At The Office star John Hannah",
-      "rezumat": "BBC Sport football expert Chris Sutton takes on Bad Day At The Office star John Hannah, plus the BBC readers and AI with his predictions for this weekend's Premier League mecis.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-29T20:56:51.970619+00:00",
-      "data_afisaj": "29 octombrie 2026, 22:56"
     }
   ]
 }
