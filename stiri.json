@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-05T15:14:43.783657+00:00",
-  "updated_at_afisaj": "5 noiembrie 2026, 17:14",
+  "updated_at": "2026-11-05T16:09:54.216988+00:00",
+  "updated_at_afisaj": "5 noiembrie 2026, 18:09",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 121,
+  "numar_stiri": 126,
   "stiri": [
+    {
+      "id": "03a2be57d8b4",
+      "titlu": "Federația Engleză și WSL lansează un studiu amplu privind leziunile de ligament încrucișat la fotbalistele profesioniste",
+      "rezumat": "Federația Engleză de Fotbal (FA) și Liga Superioară Feminină (WSL) au inițiat un proiect de cercetare de anvergură pentru a aprofunda înțelegerea cauzelor leziunilor de ligament încrucișat anterior (ACL) în fotbalul feminin. Studiul își propune să identifice factorii de risc și să dezvolte strategii de prevenție, având în vedere incidența ridicată a acestor accidentări grave în rândul jucătoarelor. Inițiativa subliniază angajamentul organismelor de conducere de a îmbunătăți siguranța și bunăstarea sportivelor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-05T16:09:54.210119+00:00",
+      "data_afisaj": "5 noiembrie 2026, 18:09"
+    },
+    {
+      "id": "05821f5d8782",
+      "titlu": "FIFA propune limitarea turneului olimpic feminin de fotbal la jucătoare sub 23 de ani",
+      "rezumat": "FIFA intenționează să restricționeze participarea la turneul olimpic feminin de fotbal la jucătoare sub 23 de ani, invocând preocupări legate de aglomerația calendarului competițional și de suprasolicitarea jucătoarelor senioare. Comitetul Internațional Olimpic (CIO) este deschis dialogului, iar FIFA solicită contribuții de la diverse părți interesate. Deși criteriile de eligibilitate pentru Jocurile Olimpice din 2028 au fost deja stabilite, modificările ar putea fi implementate cel mai devreme pentru ediția din Brisbane 2032.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-05T16:09:54.211811+00:00",
+      "data_afisaj": "5 noiembrie 2026, 18:09"
+    },
+    {
+      "id": "850a5d942755",
+      "titlu": "UEFA se confruntă cu o criză politică după promovarea clubului Sevastopol în fotbalul rusesc",
+      "rezumat": "UEFA și FIFA se confruntă cu o provocare majoră în privința sancționării integrării echipelor din teritoriile ucrainene ocupate ilegal în sistemul fotbalistic rusesc. Clubul FC Sevastopol, din Crimeea, a obținut promovarea în al treilea eșalon profesionist al Rusiei, după ce a câștigat grupa întâi din Liga Națională de Fotbal (FNL) 2B. Această situație reprezintă o încălcare clară a regulamentelor organismelor de conducere ale fotbalului, testând hotărârea acestora de a aplica sancțiuni.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-05T16:09:54.213572+00:00",
+      "data_afisaj": "5 noiembrie 2026, 18:09"
+    },
+    {
+      "id": "79e5c774b17b",
+      "titlu": "Manchester City, puțin probabil să piardă titlurile, dar se confruntă cu noi acuzații din partea Premier League",
+      "rezumat": "Deși Manchester City este puțin probabil să fie deposedată de titlurile câștigate, clubul se confruntă cu posibilitatea unor noi acuzații din partea Premier League. Echipa are deja 114 capete de acuzare în așteptare, iar o nouă investigație ar putea adăuga presiune asupra campioanei en-titre. Situația juridică a clubului rămâne complexă, cu implicații potențiale semnificative pentru viitorul său în fotbalul englez.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-11-05T16:09:54.215478+00:00",
+      "data_afisaj": "5 noiembrie 2026, 18:09"
+    },
+    {
+      "id": "434ee6f56cc4",
+      "titlu": "Unai Emery este aproape de a semna un nou contract cu Aston Villa",
+      "rezumat": "Antrenorul echipei Aston Villa, Unai Emery, este pe cale să ajungă la un acord pentru prelungirea contractului său cu clubul. Această decizie ar consolida poziția tehnicianului spaniol la conducerea echipei din Birmingham, care a înregistrat progrese notabile sub mandatul său. Negocierile sunt în stadii avansate, iar anunțul oficial este așteptat în curând, asigurând stabilitate pe termen lung la nivelul băncii tehnice.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-05T16:09:54.216968+00:00",
+      "data_afisaj": "5 noiembrie 2026, 18:09"
+    },
     {
       "id": "3224a2945aeb",
       "titlu": "Kozo Tashima își anunță candidatura la președinția FIFA",
