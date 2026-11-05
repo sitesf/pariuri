@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-04T22:17:46.188060+00:00",
-  "updated_at_afisaj": "5 noiembrie 2026, 00:17",
+  "updated_at": "2026-11-05T15:14:43.783657+00:00",
+  "updated_at_afisaj": "5 noiembrie 2026, 17:14",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,57 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 125,
+  "numar_stiri": 121,
   "stiri": [
+    {
+      "id": "3224a2945aeb",
+      "titlu": "Kozo Tashima își anunță candidatura la președinția FIFA",
+      "rezumat": "Kozo Tashima, președintele Federației Japoneze de Fotbal, și-a anunțat oficial candidatura pentru viitoarele alegeri prezidențiale ale FIFA. Tashima va concura împotriva actualului președinte, Gianni Infantino, într-o încercare de a aduce o nouă viziune la conducerea forului mondial de fotbal. Anunțul său marchează începutul unei campanii electorale ce se anunță a fi una disputată, cu accent pe reforme și transparență în administrarea fotbalului global.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-05T15:14:43.778730+00:00",
+      "data_afisaj": "5 noiembrie 2026, 17:14"
+    },
+    {
+      "id": "a94d7f72b32f",
+      "titlu": "Cristiano Ronaldo își anunță retragerea din echipa națională a Portugaliei",
+      "rezumat": "Legendarul atacant portughez Cristiano Ronaldo a confirmat oficial retragerea sa din fotbalul internațional, printr-un mesaj publicat pe rețelele de socializare. Decizia vine după o carieră excepțională la echipa națională, în care a devenit cel mai bun marcator din istoria selecționatei și a câștigat Campionatul European în 2016. Ronaldo a declarat că \"a venit ziua să predea tricoul cu numărul șapte\", marcând sfârșitul unei ere pentru fotbalul portughez.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "Sky Sports Football",
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-05T15:14:43.780245+00:00",
+      "data_afisaj": "5 noiembrie 2026, 17:14"
+    },
+    {
+      "id": "ff9338faf85d",
+      "titlu": "Harry Kane, câștigător al Balonului de Aur, semnează un nou contract cu Bayern Munchen până în 2029",
+      "rezumat": "Atacantul englez Harry Kane, recent desemnat câștigător al Balonului de Aur, și-a prelungit contractul cu Bayern Munchen până în anul 2029. Clubul german a anunțat oficial acordul, consolidând astfel prezența unuia dintre cei mai prolifici marcatori din lume. Kane s-a alăturat echipei Bayern în 2023 și a avut un impact imediat, marcând 156 de goluri în 161 de apariții și contribuind la câștigarea a două titluri de Bundesliga și o Cupă a Germaniei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-11-05T15:14:43.781900+00:00",
+      "data_afisaj": "5 noiembrie 2026, 17:14"
+    },
+    {
+      "id": "eeb7ff5b8ff7",
+      "titlu": "Record mondial de 53 de cartonașe roșii într-un meci de tineret din Brazilia",
+      "rezumat": "Un meci de fotbal sub 20 de ani din Brazilia, disputat între Uberlandia și Mamore, a intrat în istorie după ce arbitrul a acordat un număr record de 53 de cartonașe roșii. Incidentul a avut loc în timpul primei manșe a unei semifinale de campionat de stat, degenerând într-o încăierare masivă. Printre cei eliminați se numără 43 de jucători, opt membri ai staff-ului tehnic și doi oficiali ai cluburilor, transformând partida într-un haos fără precedent.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-05T15:14:43.783446+00:00",
+      "data_afisaj": "5 noiembrie 2026, 17:14"
+    },
     {
       "id": "705b8bcfd2b8",
       "titlu": "Haaland marchează golul victoriei, Man City învinge Leipzig",
@@ -1344,96 +1393,6 @@
       ],
       "data_publicare": "2026-10-29T20:56:51.970619+00:00",
       "data_afisaj": "29 octombrie 2026, 22:56"
-    },
-    {
-      "id": "6b9fc021dd41",
-      "titlu": "Mourinho și haosul – este antrenorul lui Real Madrid înțeles greșit?",
-      "rezumat": "Jose Mourinho a petrecut ultimul deceniu văzând alți antrenori lăudați ca genii. Însă, victoria recentă a lui Real Madrid împotriva Barcelonei a ridicat întrebarea dacă abordarea sa, adesea percepută ca haotică, este de fapt o strategie subestimată. Articolul explorează dacă Mourinho este un manager neînțeles, a cărui metodă, deși controversată, aduce rezultate la cel mai înalt nivel al fotbalului european, sugerând o posibilă reevaluare a moștenirii sale tactice.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-29T14:57:40.261335+00:00",
-      "data_afisaj": "29 octombrie 2026, 16:57"
-    },
-    {
-      "id": "839cff1e1206",
-      "titlu": "Howe, Nagelsmann, Pochettino: poate cineva să pună capăt spiralei descendente a lui Manchester United?",
-      "rezumat": "Articolul analizează situația dificilă de la Manchester United, sugerând că chiar și un antrenor de elită ar întâmpina dificultăți majore pe Old Trafford, având în vedere haosul executiv și un lot de jucători inegal și nepregătit. Se discută despre potențialii candidați precum Eddie Howe, Julian Nagelsmann și Mauricio Pochettino, punând sub semnul întrebării dacă vreunul dintre ei ar putea rupe 'spirala descendentă' a clubului, având în vedere problemele structurale profunde și lipsa de coerență.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-29T14:57:40.262516+00:00",
-      "data_afisaj": "29 octombrie 2026, 16:57"
-    },
-    {
-      "id": "b1f43df4221e",
-      "titlu": "Victoria zdrobitoare a lui Lazio împotriva lui Sassuolo, marcată de primul gol în Serie A al lui Mussolini",
-      "rezumat": "Lazio a obținut o victorie convingătoare cu 6-2 împotriva lui Sassuolo, într-un meci care a atras atenția nu doar prin scor, ci și prin faptul că Romano Floriani Mussolini, strănepotul dictatorului italian, a marcat primul său gol în Serie A. Această performanță vine într-un context în care prezența fanilor pe stadion a scăzut din cauza unui conflict cu proprietarul clubului, dar aproximativ 10.000 de suporteri au călătorit 300 km pentru a susține echipa.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-29T14:57:40.263650+00:00",
-      "data_afisaj": "29 octombrie 2026, 16:57"
-    },
-    {
-      "id": "164f4e70ee07",
-      "titlu": "Regula Rodman a fost revizuită, dar lupta pentru a păstra vedetele în NWSL continuă",
-      "rezumat": "Regula Rodman, care stabilea criterii pentru jucătoarele cu impact ridicat, a fost revizuită, permițând acum cluburilor din NWSL (National Women's Soccer League) să-și cheltuiască banii pe oricine doresc. Această modificare este menită să ofere mai multă flexibilitate cluburilor în gestionarea salariilor și a transferurilor, însă ridică întrebări despre cum va influența capacitatea ligii de a reține jucătoarele de top în fața concurenței internaționale. Soluția propusă pare logică, dar provocările persistă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-29T14:57:40.264727+00:00",
-      "data_afisaj": "29 octombrie 2026, 16:57"
-    },
-    {
-      "id": "05ac70e9b94c",
-      "titlu": "Procesul lui Ivan Toney pentru agresiune, programat în timpul Euro 2028",
-      "rezumat": "Atacantul Ivan Toney va fi judecat pentru agresiune în iunie 2028, perioadă care coincide cu desfășurarea Campionatului European. Fotbalistul a pledat nevinovat la acuzația de agresiune asupra unui bărbat într-un club din Soho, pe 6 decembrie anul trecut. Decizia de programare a procesului în timpul turneului final ar putea avea implicații semnificative asupra carierei sale internaționale, ridicând semne de întrebare privind disponibilitatea sa pentru selecția națională.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-29T13:59:33.145370+00:00",
-      "data_afisaj": "29 octombrie 2026, 15:59"
-    },
-    {
-      "id": "69e3971e451a",
-      "titlu": "Liverpool învinge din nou Chelsea la penalty-uri și avansează în Cupa Ligii",
-      "rezumat": "Liverpool a eliminat Chelsea din Cupa Ligii Angliei (Carabao Cup) după o serie de penalty-uri, continuând un șir de victorii împotriva londonezilor în acest mod. Wesley Fofana a ratat lovitura decisivă pentru Chelsea, trimițând mingea peste poartă și confirmând a cincea înfrângere consecutivă a 'albaștrilor' în fața lui Liverpool la penalty-uri. Echipa lui Andoni Iraola va juca în sferturile de finală împotriva fostului său club, Bournemouth, după o confruntare intensă pe Anfield.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-29T13:59:33.147070+00:00",
-      "data_afisaj": "29 octombrie 2026, 15:59"
-    },
-    {
-      "id": "63cde3f45671",
-      "titlu": "Alessia Russo, golgheter istoric în Liga Campionilor la Femei, după hat-trick-ul împotriva Benficăi",
-      "rezumat": "Alessia Russo a intrat în istorie devenind cel mai bun marcator englez din Liga Campionilor la Femei, după ce a reușit un hat-trick vital în victoria cu 3-0 a lui Arsenal împotriva Benficăi. Antrenoarea Renée Slegers a lăudat-o pe Russo, numind-o un 'model' și subliniind contribuția sa esențială la ascensiunea echipei pe locul doi în faza grupelor. Performanța sa a consolidat dinamica pozitivă a echipei în ultimele meciuri europene.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-29T13:59:33.148871+00:00",
-      "data_afisaj": "29 octombrie 2026, 15:59"
-    },
-    {
-      "id": "08e5bd04a985",
-      "titlu": "Harry Kane, câștigător al Balonului de Aur, reacționează la discuțiile despre un posibil titlu de 'Sir'",
-      "rezumat": "Harry Kane, proaspăt câștigător al Balonului de Aur 2026, a declarat că ar fi 'extrem de mândru' să primească titlul de 'Sir', dar a recunoscut că ar fi 'ciudat' ca toată lumea să-l numească astfel. Atacantul englez a răspuns speculațiilor apărute după performanța sa excepțională, care i-a adus recunoașterea ca cel mai bun fotbalist al lumii. Kane a subliniat importanța realizărilor colective, dar a apreciat recunoașterea individuală.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-10-29T13:59:33.151996+00:00",
-      "data_afisaj": "29 octombrie 2026, 15:59"
     }
   ]
 }
