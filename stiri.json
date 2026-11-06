@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-06T14:51:14.502278+00:00",
-  "updated_at_afisaj": "6 noiembrie 2026, 16:51",
+  "updated_at": "2026-11-06T15:40:30.494095+00:00",
+  "updated_at_afisaj": "6 noiembrie 2026, 17:40",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,52 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 122,
+  "numar_stiri": 126,
   "stiri": [
+    {
+      "id": "b439be6e65f1",
+      "titlu": "Elliot Anderson revine la Nottingham Forest după transferul la Manchester City",
+      "rezumat": "Mijlocașul Elliot Anderson a revenit la Nottingham Forest, după ce a fost transferat la Manchester City pentru o sumă considerabilă de 116 milioane de lire sterline. Această mutare a stârnit discuții intense în lumea fotbalului, iar acum se analizează dacă jucătorul a reușit să justifice prețul plătit. Revenirea sa la Forest este un moment important pentru club, care speră ca Anderson să își demonstreze valoarea și să contribuie semnificativ la performanțele echipei, după o perioadă de adaptare la noul său club.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-06T15:40:30.488476+00:00",
+      "data_afisaj": "6 noiembrie 2026, 17:40"
+    },
+    {
+      "id": "de40d7660ffb",
+      "titlu": "Coventry City își poate consolida șansele de supraviețuire în Premier League",
+      "rezumat": "Coventry City se pregătește pentru un meci crucial împotriva lui Everton, o victorie putând schimba semnificativ perspectivele echipei în lupta pentru menținerea în Premier League. Statisticile recente arată că niciuna dintre cele 21 de echipe care au acumulat 12 puncte după 10 meciuri în ultimul deceniu nu a retrogradat. Echipa lui Frank Lampard, care a obținut nouă puncte din nouă meciuri de campionat până acum, se află într-un moment decisiv, iar un rezultat pozitiv ar putea oferi un impuls moral și o bază solidă pentru restul sezonului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-06T15:40:30.490156+00:00",
+      "data_afisaj": "6 noiembrie 2026, 17:40"
+    },
+    {
+      "id": "eb8ba46bfae0",
+      "titlu": "Fernando Forestieri, de la dueluri cu Messi și Ronaldo la Cupa Angliei cu o echipă de amatori",
+      "rezumat": "Fernando Forestieri, un fotbalist cu o carieră remarcabilă în care a avut ocazia să joace împotriva unor legende precum Lionel Messi și Cristiano Ronaldo, își propune acum să inspire echipa de amatori Oxford City într-un meci memorabil din Cupa Angliei împotriva lui Leicester City. Această poveste subliniază parcursul neobișnuit al jucătorului, care, după experiențe la cel mai înalt nivel, își aduce acum talentul și experiența într-un context complet diferit, sperând să producă o surpriză în competiția cu tradiție.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-06T15:40:30.491944+00:00",
+      "data_afisaj": "6 noiembrie 2026, 17:40"
+    },
+    {
+      "id": "557db0909d2a",
+      "titlu": "Wayne Rooney, desemnat comentatorul sportiv al anului",
+      "rezumat": "Fostul căpitan al echipelor Manchester United și Angliei, Wayne Rooney, a fost recompensat cu prestigiosul premiu pentru comentatorul sportiv al anului, în cadrul galei Broadcast Sport Awards. Această distincție recunoaște abilitățile sale de analiză și comunicare în rolul de expert TV, demonstrând că, după o carieră legendară pe terenul de fotbal, Rooney a reușit să se impună și în mass-media, câștigând aprecierea publicului și a criticilor pentru contribuțiile sale la emisiunile sportive.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-06T15:40:30.493384+00:00",
+      "data_afisaj": "6 noiembrie 2026, 17:40"
+    },
     {
       "id": "fe885e1a6dd5",
       "titlu": "Tuchel anunță lotul Angliei: Palmer, Foden și Mainoo absenți, Jobe Bellingham și Josh King convocați",
