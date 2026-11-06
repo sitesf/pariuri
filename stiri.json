@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-06T15:40:30.494095+00:00",
-  "updated_at_afisaj": "6 noiembrie 2026, 17:40",
+  "updated_at": "2026-11-06T21:22:45.237328+00:00",
+  "updated_at_afisaj": "6 noiembrie 2026, 23:22",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 126,
+  "numar_stiri": 121,
   "stiri": [
+    {
+      "id": "7507d17eb7ac",
+      "titlu": "S-a încheiat cariera lui Palmer în Anglia sub Tuchel?",
+      "rezumat": "Cole Palmer se confruntă cu o luptă pentru a-și salva cariera în Anglia după ce a fost exclus din ultima echipă a lui Thomas Tuchel, spune scriitorul șef de fotbal Phil McNulty.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-06T21:22:22.225503+00:00",
+      "data_afisaj": "6 noiembrie 2026, 23:22"
+    },
+    {
+      "id": "a89f0b1b21d9",
+      "titlu": "„O poveste frumoasă”, așa cum au spus frații Bellingham",
+      "rezumat": "Poate fi o surpriză pentru unii, dar chemarea lui Jobe Bellingham la echipa de seniori a Angliei a fost de mult timp.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-06T21:22:22.226575+00:00",
+      "data_afisaj": "6 noiembrie 2026, 23:22"
+    },
+    {
+      "id": "e5de3a82f6f4",
+      "titlu": "Real Madrid și PSG pasionați de Suzuki - bârfa de sâmbătă",
+      "rezumat": "Paris St-Germain și Real Madrid sunt interesați de portarul Aston Villa, Zion Suzuki, Inter Milano cântărind o mutare pentru Chris Richards de la Crystal Palace, plus multe altele.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-06T21:22:22.227677+00:00",
+      "data_afisaj": "6 noiembrie 2026, 23:22"
+    },
+    {
+      "id": "031557c86f02",
+      "titlu": "Antrenorul Portugaliei „nu știa nimic” despre retragerea lui Ronaldo",
+      "rezumat": "Antrenorul Portugaliei Jorge Jesus spune că „a aflat când am aflat cu toții” despre retragerea lui Cristiano Ronaldo din fotbalul internațional.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-06T21:22:22.228726+00:00",
+      "data_afisaj": "6 noiembrie 2026, 23:22"
+    },
+    {
+      "id": "bfe1456ef94b",
+      "titlu": "Dedic din Newcastle a fost oprit de poliție după ce a fost reperat cu arc și săgeți",
+      "rezumat": "Fundașul Newcastle United, Amar Dedic, se află în centrul unei investigații a poliției, după ce a fost văzut purtând un arc și săgeți într-un loc de frumusețe din Northumberland.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-06T21:22:22.229868+00:00",
+      "data_afisaj": "6 noiembrie 2026, 23:22"
+    },
     {
       "id": "b439be6e65f1",
       "titlu": "Elliot Anderson revine la Nottingham Forest după transferul la Manchester City",
@@ -1334,117 +1389,6 @@
       ],
       "data_publicare": "2026-10-31T13:26:04.633649+00:00",
       "data_afisaj": "31 octombrie 2026, 15:26"
-    },
-    {
-      "id": "404874ff55c5",
-      "titlu": "Rapid învinge Csikszereda și egalează liderul Dinamo în Superliga",
-      "rezumat": "Echipa Rapid București a obținut o victorie importantă cu scorul de 2-0 împotriva formației Csikszereda, în etapa a 14-a a Superligii. Acest rezultat permite giuleștenilor să acumuleze puncte esențiale și să egaleze la puncte liderul clasamentului, Dinamo București. Meciul a fost crucial pentru ambițiile de titlu ale Rapidului, consolidându-le poziția în lupta pentru vârful ierarhiei. Performanța solidă a echipei indică o formă bună, esențială în continuarea campionatului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-10-30T21:17:03.794440+00:00",
-      "data_afisaj": "30 octombrie 2026, 23:17"
-    },
-    {
-      "id": "698758a0dbd4",
-      "titlu": "Liverpool și Barcelona negociază viitorul transferului lui Ronald Araujo",
-      "rezumat": "Cluburile Liverpool și Barcelona se află în discuții privind viitorul fundașului Ronald Araujo. Jucătorul, care a impresionat de la sosirea sa la Liverpool sub formă de împrumut, ar putea face obiectul unui transfer permanent. Negocierile vizează transformarea acordului actual într-o mutare definitivă, având în vedere performanțele solide ale lui Araujo în tricoul \"cormoranilor\". Decizia finală va depinde de termenii financiari și de acordul dintre cele două mari cluburi europene.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-10-30T21:17:03.795718+00:00",
-      "data_afisaj": "30 octombrie 2026, 23:17"
-    },
-    {
-      "id": "2a7b7ed1f682",
-      "titlu": "Harry Kane, câștigător al Balonului de Aur, consideră „ciudată” o eventuală distincție de Cavaler",
-      "rezumat": "Atacantul Harry Kane, proaspăt câștigător al Balonului de Aur după un sezon excepțional la Bayern München, a declarat că ar considera „ciudată” o eventuală distincție de Cavaler. Deși recunoașterea pentru performanțele sale este larg răspândită, Kane pare să aibă o abordare modestă față de onorurile regale. Declarația sa vine în contextul în care mulți se așteptau ca o astfel de distincție să fie o consecință naturală a succesului său remarcabil în fotbalul mondial.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-10-30T21:17:03.797114+00:00",
-      "data_afisaj": "30 octombrie 2026, 23:17"
-    },
-    {
-      "id": "9ee34c1ad4f2",
-      "titlu": "Declan Rice, incert pentru meciul Arsenal cu Liverpool din Premier League",
-      "rezumat": "Mijlocașul lui Arsenal, Declan Rice, este incert pentru confruntarea importantă din Premier League împotriva lui Liverpool, programată duminică. Starea sa de sănătate este monitorizată îndeaproape, iar o actualizare privind forma sa fizică este așteptată înainte de meci. Absența lui Rice ar reprezenta o lovitură semnificativă pentru \"tunari\", având în vedere rolul său crucial în linia de mijloc a echipei și importanța partidei în lupta pentru titlu.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-10-30T21:17:03.798316+00:00",
-      "data_afisaj": "30 octombrie 2026, 23:17"
-    },
-    {
-      "id": "8d2d3756192c",
-      "titlu": "Chelsea se teme de o absență prelungită a lui Maxence Lacroix până în ianuarie",
-      "rezumat": "Clubul Chelsea este îngrijorat de o posibilă absență îndelungată a fundașului Maxence Lacroix, care ar putea fi indisponibil până în luna ianuarie. Jucătorul a suferit o accidentare gravă la ischiogambieri, necesitând o perioadă de recuperare extinsă. Această veste reprezintă o lovitură pentru planurile defensive ale echipei, care se confruntă deja cu provocări în campionat. Staff-ul medical al clubului va monitoriza îndeaproape evoluția stării sale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-30T21:17:03.799575+00:00",
-      "data_afisaj": "30 octombrie 2026, 23:17"
-    },
-    {
-      "id": "4ef3874de077",
-      "titlu": "Proprietarii Manchester United, furioși pe conducerea lui Jim Ratcliffe",
-      "rezumat": "Familia Glazer, proprietarii clubului Manchester United, și-a exprimat furia față de ceea ce consideră a fi o \"parodie\" a conducerii lui Jim Ratcliffe, conform unui raport. Nemulțumirea ar proveni din începutul dezastruos al sezonului 2026/27 sub egida INEOS. Această tensiune internă la cel mai înalt nivel al conducerii clubului indică o ruptură semnificativă între vechii și noii acționari majoritari. Situația adaugă un strat suplimentar de incertitudine la problemele sportive deja existente ale echipei, alimentând speculațiile despre viitorul clubului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-10-30T20:32:17.191649+00:00",
-      "data_afisaj": "30 octombrie 2026, 22:32"
-    },
-    {
-      "id": "3252d1977acb",
-      "titlu": "FIFA nu va atinge egalitatea premiilor la Cupa Mondială de Fotbal Feminin",
-      "rezumat": "FIFA nu va reuși să îndeplinească obiectivul de egalitate a premiilor în bani la Cupa Mondială de Fotbal Feminin de anul viitor, în ciuda promisiunilor făcute de președintele Gianni Infantino în 2023. Deși se preconizează o dublare a premiilor, va rămâne un decalaj semnificativ față de turneul masculin. Infantino declarase anterior că FIFA va acționa concret pentru a asigura paritatea, nu doar prin vorbe. Această situație subliniază provocările persistente în atingerea egalității de gen în fotbalul profesionist, în ciuda veniturilor record înregistrate de organizație.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-30T20:32:17.193245+00:00",
-      "data_afisaj": "30 octombrie 2026, 22:32"
-    },
-    {
-      "id": "6c9df01b2ea8",
-      "titlu": "CAF renunță la planurile de a organiza Cupa Africii pe Națiuni la fiecare patru ani",
-      "rezumat": "Confederația Africană de Fotbal (CAF) a anulat decizia anterioară de a organiza Cupa Africii pe Națiuni (CAN) o dată la patru ani, revenind la ciclul tradițional de doi ani. Această schimbare de direcție anulează hotărârea luată în decembrie anul trecut și menține formatul familiar al competiției. Decizia subliniază complexitatea gestionării calendarului competițional și a intereselor diverse ale federațiilor membre. Menținerea frecvenței la doi ani este un aspect important pentru fanii și structurile fotbalului african.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-30T20:32:17.194851+00:00",
-      "data_afisaj": "30 octombrie 2026, 22:32"
-    },
-    {
-      "id": "6077cbc17a90",
-      "titlu": "Plecarea căpitanului Arsenal, Martin Odegaard, a făcut primul pas semnificativ",
-      "rezumat": "Un raport recent indică faptul că procesul de plecare a căpitanului lui Arsenal, Martin Odegaard, a înregistrat un prim pas important. Odegaard a fost o figură centrală și definitorie pentru echipa lui Mikel Arteta în ultimii cinci ani, iar o eventuală despărțire ar reprezenta o schimbare majoră pentru clubul londonez. Speculațiile privind viitorul său sugerează că jucătorul ar putea fi în căutarea unei noi provocări în carieră. Această veste va genera cu siguranță discuții intense printre fanii \"Tunarilor\" și în presa sportivă internațională.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-10-30T20:32:17.196496+00:00",
-      "data_afisaj": "30 octombrie 2026, 22:32"
-    },
-    {
-      "id": "22bfb3e8cf15",
-      "titlu": "Michael Carrick primește sprijin din vestiarul Manchester United",
-      "rezumat": "Michael Carrick, antrenorul principal al lui Manchester United, a primit un sprijin clar și unanim din partea vestiarului, după ce a reușit să evite demiterea în urma unui început de sezon dificil. Deși Carrick se află sub o presiune considerabilă din cauza performanțelor slabe ale echipei, acest vot de încredere din partea jucătorilor ar putea fi un factor crucial pentru menținerea sa în funcție. Susținerea internă indică o unitate în cadrul lotului și o dorință comună de a depăși perioada actuală de criză de la Manchester United.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-10-30T20:32:17.197992+00:00",
-      "data_afisaj": "30 octombrie 2026, 22:32"
     }
   ]
 }
