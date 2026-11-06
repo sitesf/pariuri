@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-06T21:22:45.237328+00:00",
-  "updated_at_afisaj": "6 noiembrie 2026, 23:22",
+  "updated_at": "2026-11-06T21:54:18.342595+00:00",
+  "updated_at_afisaj": "6 noiembrie 2026, 23:54",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,65 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 121,
+  "numar_stiri": 126,
   "stiri": [
+    {
+      "id": "3844bf201b2e",
+      "titlu": "Nuno Campos, îngrijorat după eșecul lui Dinamo în fața lui Argeș",
+      "rezumat": "Antrenorul secund al lui Dinamo, Nuno Campos, a exprimat îngrijorare profundă după înfrângerea echipei sale în fața formației Argeș. Declarațiile sale vin în contextul unui eșec care ridică semne de întrebare cu privire la performanța și direcția clubului. Campos a subliniat aspectele care îl preocupă cel mai mult, indicând posibile probleme tactice sau de moral în cadrul lotului. Această situație adaugă presiune asupra echipei Dinamo, care se confruntă cu dificultăți în campionatul intern.",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-11-06T21:54:18.337372+00:00",
+      "data_afisaj": "6 noiembrie 2026, 23:54"
+    },
+    {
+      "id": "5e67ef6056b0",
+      "titlu": "Manchester City, găsit vinovat de încălcări financiare; clubul a depus apel",
+      "rezumat": "Clubul Manchester City a fost găsit vinovat de încălcări financiare, conform unei decizii recente, deși detaliile complete ale verdictului nu au fost încă publicate. Această hotărâre reprezintă o evoluție majoră în cazul de lungă durată privind acuzațiile aduse de Premier League. Reprezentanții clubului au reacționat prompt, anunțând că au depus deja un apel împotriva verdictului. Situația creează incertitudine cu privire la viitorul sancțiunilor și la impactul asupra titlurilor câștigate de club.",
+      "categorie": "Fotbal",
+      "surse": [
+        "World Soccer"
+      ],
+      "data_publicare": "2026-11-06T21:54:18.338699+00:00",
+      "data_afisaj": "6 noiembrie 2026, 23:54"
+    },
+    {
+      "id": "d086e0b8ffe6",
+      "titlu": "Michael Carrick crede în revenirea lui Manchester United la gloria din era Ferguson",
+      "rezumat": "Antrenorul lui Manchester United, Michael Carrick, a declarat că este posibil ca echipa să atingă din nou nivelul de succes obținut sub conducerea legendarului Sir Alex Ferguson. Cu toate acestea, Carrick a subliniat că nu se așteaptă la același nivel de răbdare din partea conducerii și a fanilor, având în vedere presiunea actuală din fotbalul modern. Declarațiile sale vin în contextul în care clubul caută să-și regăsească identitatea și performanțele de top în Premier League.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-06T21:54:18.340017+00:00",
+      "data_afisaj": "6 noiembrie 2026, 23:54"
+    },
+    {
+      "id": "7579b3a71cd4",
+      "titlu": "Fotbalul spaniol deplânge moartea atacantului Jesús de Miguel de la Tenerife",
+      "rezumat": "Comunitatea fotbalistică din Spania este în doliu după decesul tragic al lui Jesús de Miguel Alameda, cunoscut sub numele de \"Demi\", atacantul echipei Tenerife. Jucătorul a murit în urma unei coliziuni pe teren, un eveniment care a șocat lumea sportului. Funeraliile sale au avut loc în Navahermosa, satul natal al familiei sale, unde o mulțime impresionantă de oameni s-a adunat pentru a-i aduce un ultim omagiu. Moartea sa a unit fotbalul spaniol într-un moment de profundă tristețe.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-06T21:54:18.341246+00:00",
+      "data_afisaj": "6 noiembrie 2026, 23:54"
+    },
+    {
+      "id": "c0521e39ee82",
+      "titlu": "Lauren James, indisponibilă pentru cel puțin cinci meciuri din cauza unei accidentări",
+      "rezumat": "Atacanta Chelsea și a naționalei Angliei, Lauren James, va fi absentă de pe teren pentru o perioadă de cel puțin cinci meciuri, conform declarațiilor antrenoarei Sonia Bompastor. Această accidentare pune sub semnul întrebării participarea jucătoarei la meciurile de baraj pentru calificarea la Cupa Mondială ale Angliei. Absența lui James reprezintă o lovitură semnificativă atât pentru clubul său, cât și pentru echipa națională, având în vedere contribuția sa importantă la joc.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-06T21:54:18.342581+00:00",
+      "data_afisaj": "6 noiembrie 2026, 23:54"
+    },
     {
       "id": "7507d17eb7ac",
       "titlu": "S-a încheiat cariera lui Palmer în Anglia sub Tuchel?",
