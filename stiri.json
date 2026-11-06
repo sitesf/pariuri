@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-05T22:28:58.634914+00:00",
-  "updated_at_afisaj": "6 noiembrie 2026, 00:28",
+  "updated_at": "2026-11-06T14:51:14.502278+00:00",
+  "updated_at_afisaj": "6 noiembrie 2026, 16:51",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 127,
+  "numar_stiri": 122,
   "stiri": [
+    {
+      "id": "fe885e1a6dd5",
+      "titlu": "Tuchel anunță lotul Angliei: Palmer, Foden și Mainoo absenți, Jobe Bellingham și Josh King convocați",
+      "rezumat": "Selecționerul Angliei, Thomas Tuchel, a anunțat lotul pentru viitoarele meciuri din Liga Națiunilor, lăsându-i în afara echipei pe Cole Palmer, Phil Foden și Kobbie Mainoo. În schimb, Jobe Bellingham, fratele lui Jude Bellingham, și mijlocașul lui Fulham, Josh King, au primit primele lor convocări la echipa națională de seniori. Decizia a stârnit discuții, în special în privința absenței unor jucători importanți din Premier League.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-11-06T14:51:14.497094+00:00",
+      "data_afisaj": "6 noiembrie 2026, 16:51"
+    },
+    {
+      "id": "0c1fc4730f00",
+      "titlu": "Amar Dedic de la Newcastle, probabil fără sancțiuni după incidentul cu arcul și săgețile",
+      "rezumat": "Fundașul lui Newcastle United, Amar Dedic, este puțin probabil să primească sancțiuni din partea clubului, după ce a fost observat purtând un arc și săgeți într-o zonă rurală din Northumberland. Incidentul a declanșat o operațiune de poliție, inclusiv o unitate de intervenție armată, care l-a urmărit pe fundașul bosniac până la domiciliul său. În ciuda evenimentului, Dedic este așteptat să fie titular în meciul de sâmbătă al lui Newcastle împotriva lui Fulham.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-06T14:51:14.498405+00:00",
+      "data_afisaj": "6 noiembrie 2026, 16:51"
+    },
+    {
+      "id": "5a79af2289b5",
+      "titlu": "Conor Coady, fostul fundaș al Angliei și legendă a lui Wolves, se retrage din fotbal",
+      "rezumat": "Conor Coady, fostul fundaș al naționalei Angliei și o figură emblematică pentru Wolverhampton Wanderers, și-a anunțat retragerea din activitatea de fotbalist la vârsta de 33 de ani. Cariera sa impresionantă a cuprins 503 meciuri și a trecut pe la opt cluburi, debutând la Liverpool. Coady a fost recunoscut pentru leadership-ul său și contribuția defensivă pe parcursul anilor, fiind un exemplu de longevitate și dedicare în fotbalul englez.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-06T14:51:14.499708+00:00",
+      "data_afisaj": "6 noiembrie 2026, 16:51"
+    },
+    {
+      "id": "fc7835a67084",
+      "titlu": "Nottingham Forest se confruntă cu o secetă istorică de goluri pe teren propriu",
+      "rezumat": "Nottingham Forest nu a reușit să marcheze niciun gol pe teren propriu în acest sezon, o problemă care persistă de dinainte de sosirea antrenorului Oliver Glasner. Echipa este una dintre cele doar cinci formații din istoria primei ligi engleze care nu au înscris în primele patru meciuri de acasă. Această statistică îngrijorătoare pune presiune pe Glasner, mai ales înaintea meciului cu Manchester City de sâmbătă, pe City Ground.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-06T14:51:14.500875+00:00",
+      "data_afisaj": "6 noiembrie 2026, 16:51"
+    },
+    {
+      "id": "2e4de865548f",
+      "titlu": "Căpitanul Capului Verde, Ryan Mendes, achitat de acuzațiile de viol; acuzatoarea, inculpată pentru declarație falsă",
+      "rezumat": "Poliția din Noua Zeelandă a respins acuzațiile de viol împotriva căpitanului echipei naționale de fotbal a Capului Verde, Ryan Mendes. Incidentul ar fi avut loc într-un hotel din Auckland în luna martie, după un meci amical. Autoritățile au declarat că acuzația de agresiune sexuală nu a fost susținută de dovezi, iar femeia care a făcut plângerea a fost, la rândul ei, acuzată de declarație falsă, marcând o concluzie importantă în acest caz.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-06T14:51:14.502264+00:00",
+      "data_afisaj": "6 noiembrie 2026, 16:51"
+    },
     {
       "id": "660b528a93ca",
       "titlu": "Como stabilește un record istoric în Liga Campionilor cu o victorie zdrobitoare",
@@ -1346,117 +1401,6 @@
       ],
       "data_publicare": "2026-10-30T20:32:17.197992+00:00",
       "data_afisaj": "30 octombrie 2026, 22:32"
-    },
-    {
-      "id": "4431a48d4a0e",
-      "titlu": "Britain's first £100m man facing defining moment",
-      "rezumat": "Is it 'now or never' for Jack Grealish after he was dropped by Everton for a breach of club discipline, asks chief football writer Phil McNulty?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-30T14:50:22.512274+00:00",
-      "data_afisaj": "30 octombrie 2026, 16:50"
-    },
-    {
-      "id": "51f24e3c736b",
-      "titlu": "O'Neill agrees with McGregor about Celtic issues",
-      "rezumat": "Antrenor Martin O'Neill says he is in \"full agreement\" with captain Callum McGregor's assessment of Celtic's issues, but insisted they will \"sort it out\".",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-30T14:50:22.513404+00:00",
-      "data_afisaj": "30 octombrie 2026, 16:50"
-    },
-    {
-      "id": "d5fd2428e848",
-      "titlu": "Items stolen from Man Utd Munich air disaster memorial",
-      "rezumat": "The foundation has urged the return of stolen items, saying they mean so much to bereaved families.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-30T14:50:22.514494+00:00",
-      "data_afisaj": "30 octombrie 2026, 16:50"
-    },
-    {
-      "id": "82aa67d43b19",
-      "titlu": "Time to invest in Bournemouth? - FPL gameweek nine dilemmas",
-      "rezumat": "BBC Sport's Fantasy Premier League expert FPL Heisenberg gives his answers to some of the biggest dilemmas facing antrenors in gameweek nine.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-30T14:50:22.515583+00:00",
-      "data_afisaj": "30 octombrie 2026, 16:50"
-    },
-    {
-      "id": "991a795602f2",
-      "titlu": "PSG score late to hold struggling Man City",
-      "rezumat": "Manchester City concede late to a egal 1-1 with Paris St-Germain, as their wait for a win in the Women's Champions League this season continues.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-30T14:50:22.516615+00:00",
-      "data_afisaj": "30 octombrie 2026, 16:50"
-    },
-    {
-      "id": "060eea6a0745",
-      "titlu": "Forest Green a lansat o acțiune în justiție pentru abordarea Savage",
-      "rezumat": "Președintele Forest Green, Dale Vince, a anunțat că clubul ia măsuri legale împotriva Peterborough United.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-30T13:53:51.341194+00:00",
-      "data_afisaj": "30 octombrie 2026, 15:53"
-    },
-    {
-      "id": "c6a712be1ce0",
-      "titlu": "Popular și talentat - dar Grealish rămâne fără șanse",
-      "rezumat": "Este „acum sau niciodată” pentru Jack Grealish după ce a fost abandonat de Everton pentru o încălcare a disciplinei clubului, întreabă scriitorul șef de fotbal Phil McNulty?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-30T13:53:51.342639+00:00",
-      "data_afisaj": "30 octombrie 2026, 15:53"
-    },
-    {
-      "id": "06f01a220ae8",
-      "titlu": "Cum a devenit o industrie vorbirea despre ciclul de doom al lui Man Utd",
-      "rezumat": "Luptele lui Manchester United sunt analizate mai mult decât oricând - nu în ultimul rând de foștii jucători.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-30T13:53:51.344049+00:00",
-      "data_afisaj": "30 octombrie 2026, 15:53"
-    },
-    {
-      "id": "2b76eb4dddbc",
-      "titlu": "Ronaldo se apropie de golul 1.000 cu un hat-trick",
-      "rezumat": "Cristiano Ronaldo a marcat al 67-lea hat-trick din cariera sa în victoria cu 5-3 a lui Al-Nassr împotriva lui Al-Kholood în Saudi Pro League.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-30T13:53:51.345425+00:00",
-      "data_afisaj": "30 octombrie 2026, 15:53"
-    },
-    {
-      "id": "885be1c05301",
-      "titlu": "„Cea mai importantă persoană pe care trebuie să o gestioneze antrenorii sunt ei înșiși”",
-      "rezumat": "Editorul BBC Sport, Tony Pulis, explică de ce îngrozirea sănătății lui Vincent Kompany a fost un reamintire că managementul își asumă o taxă fizic și psihic",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-30T13:53:51.346859+00:00",
-      "data_afisaj": "30 octombrie 2026, 15:53"
     }
   ]
 }
