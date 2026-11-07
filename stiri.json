@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-06T21:54:18.342595+00:00",
-  "updated_at_afisaj": "6 noiembrie 2026, 23:54",
+  "updated_at": "2026-11-07T13:47:37.979533+00:00",
+  "updated_at_afisaj": "7 noiembrie 2026, 15:47",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,63 @@
   },
   "numar_stiri": 126,
   "stiri": [
+    {
+      "id": "24c0c6352b8c",
+      "titlu": "James Trafford a părăsit Manchester City din motive de sănătate mintală",
+      "rezumat": "Portarul James Trafford a declarat că decizia de a pleca de la Manchester City și de a se alătura echipei Leeds United în vară a fost motivată de starea sa de bine mintală. Acesta a descris perioada petrecută fără a juca la Manchester City ca fiind \"oribilă\", ceea ce l-a determinat să caute o nouă oportunitate. Transferul la Leeds United i-a oferit șansa de a juca regulat și de a-și relansa cariera, punând accent pe importanța sănătății mintale în sportul de performanță.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-07T13:47:37.974359+00:00",
+      "data_afisaj": "7 noiembrie 2026, 15:47"
+    },
+    {
+      "id": "18398b27c14e",
+      "titlu": "Atacantul JJ Gabriel de la Manchester United visează la Balonul de Aur și este aproape de Real Madrid",
+      "rezumat": "Atacantul lui Manchester United, JJ Gabriel, a declarat că marele său vis este să câștige Balonul de Aur, cea mai prestigioasă distincție individuală din fotbal. Declarația vine în contextul în care jucătorul este tot mai aproape de un transfer la gigantul spaniol Real Madrid. Această mutare ar putea reprezenta un pas important în cariera sa, oferindu-i o platformă mai mare pentru a-și atinge ambițiile de a deveni cel mai bun fotbalist din lume.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-11-07T13:47:37.975744+00:00",
+      "data_afisaj": "7 noiembrie 2026, 15:47"
+    },
+    {
+      "id": "d52669a06ad6",
+      "titlu": "Dubla lui Thierno Barry aduce victoria lui Everton împotriva lui Coventry",
+      "rezumat": "Everton a reușit o victorie spectaculoasă, revenind de la un scor defavorabil pentru a învinge pe Coventry, grație dublei marcate de Thierno Barry. Atacantul în formă a contribuit decisiv la succesul echipei, care a urcat pe locul cinci în clasamentul Premier League. Rezultatul depășește așteptările multor fani, având în vedere dificultățile întâmpinate de Everton în perioada de transferuri. Antrenorul lui Coventry, Frank Lampard, a avut o seară dificilă împotriva fostului său club, echipa sa fiind privată de două posibile penalty-uri.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-07T13:47:37.976995+00:00",
+      "data_afisaj": "7 noiembrie 2026, 15:47"
+    },
+    {
+      "id": "569ef938201c",
+      "titlu": "Dificultățile lui Charlton în WSL subliniază decalajul dintre prima și a doua ligă feminină",
+      "rezumat": "Echipa feminină Charlton Athletic se confruntă cu un început de sezon extrem de dificil în Women's Super League (WSL), înregistrând opt înfrângeri în tot atâtea meciuri. Promovată din liga a doua, echipa antrenată de Karen Hills se luptă să țină pasul cu cluburile cu bugete mult mai mari, evidențiind o diferență semnificativă de resurse și nivel de joc între cele două eșaloane. După o înfrângere categorică de 6-0 împotriva lui Chelsea, Charlton riscă să fie rapid retrogradată, având o medie de peste trei goluri primite pe meci.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-07T13:47:37.978322+00:00",
+      "data_afisaj": "7 noiembrie 2026, 15:47"
+    },
+    {
+      "id": "58cb5232c14f",
+      "titlu": "Creșterea comportamentului antisocial amenință fotbalul amator din Anglia",
+      "rezumat": "O nouă tendință de comportament antisocial, denumită \"schooligans\", reprezintă o amenințare tot mai mare pentru fotbalul din ligile inferioare din Anglia. Grupuri de tineri ultrași provoacă dezordine la meciuri, generând temeri în comunități că situația ar putea escalada spre incidente mai grave. Un exemplu recent a fost înregistrat la un meci din National League North, unde suporterii adolescenți ai echipei Hednesford Town au încercat să-și facă simțită prezența, însă autoritățile locale sunt tot mai vigilente.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-07T13:47:37.979518+00:00",
+      "data_afisaj": "7 noiembrie 2026, 15:47"
+    },
     {
       "id": "3844bf201b2e",
       "titlu": "Nuno Campos, îngrijorat după eșecul lui Dinamo în fața lui Argeș",
@@ -1390,62 +1447,6 @@
       ],
       "data_publicare": "2026-10-31T14:18:09.462802+00:00",
       "data_afisaj": "31 octombrie 2026, 16:18"
-    },
-    {
-      "id": "2b34137b5c47",
-      "titlu": "Aston Villa îl dă în judecată pe Jamie Carragher pentru „insulte inacceptabile”",
-      "rezumat": "Clubul Aston Villa a anunțat că va iniția acțiuni legale împotriva fostului fotbalist și actualului comentator Jamie Carragher. Decizia vine în urma unor declarații făcute de Carragher, pe care clubul le-a catalogat drept „insulte inacceptabile”. Această mișcare subliniază tensiunile dintre club și personalități media, marcând un pas neobișnuit în relația dintre fotbal și presă. Detaliile exacte ale insultelor nu au fost specificate, dar acțiunea legală sugerează o gravitate considerabilă a afirmațiilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-31T13:26:04.627854+00:00",
-      "data_afisaj": "31 octombrie 2026, 15:26"
-    },
-    {
-      "id": "7dde6ee559d9",
-      "titlu": "Pariuri suspecte la Balonul de Aur, sub investigația poliției",
-      "rezumat": "O serie de pariuri suspecte, care au prezis cu exactitate ordinea primilor cinci clasați la ediția din acest an a Balonului de Aur și au generat câștiguri de aproape 149.000 de lire sterline, sunt investigate de organizatorii evenimentului, France Football. Aceștia au contactat și poliția pentru a elucida situația. Se presupune că 12 conturi Polymarket, o platformă de pariuri bazată pe criptomonede, au plasat aceste pariuri. Investigația urmărește să determine dacă a existat o scurgere de informații sau alte nereguli.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-31T13:26:04.629269+00:00",
-      "data_afisaj": "31 octombrie 2026, 15:26"
-    },
-    {
-      "id": "08f91b220b71",
-      "titlu": "AC Milan și Inter explorează planurile pentru noul stadion San Siro",
-      "rezumat": "Cluburile italiene AC Milan și Inter Milano analizează detaliile legate de construcția unui nou stadion, care ar urma să înlocuiască legendarul San Siro. BBC Sport a investigat implicațiile acestui proiect, inclusiv importanța drepturilor de denumire pentru noile arene. Planurile vizează modernizarea infrastructurii și generarea de noi venituri, esențiale pentru competitivitatea cluburilor în fotbalul european. Această inițiativă ar putea redefini experiența fanilor și modelul de afaceri al celor două mari echipe din Milano.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-31T13:26:04.630697+00:00",
-      "data_afisaj": "31 octombrie 2026, 15:26"
-    },
-    {
-      "id": "511a222c902a",
-      "titlu": "Xabi Alonso exclude un împrumut în ianuarie pentru Estêvão Willian de la Chelsea",
-      "rezumat": "Antrenorul Xabi Alonso a declarat că nu ia în considerare un împrumut în luna ianuarie pentru a-l aduce pe aripa lui Chelsea, Estêvão Willian. Alonso a subliniat că tânărul jucător brazilian trebuie să se adapteze stilului său de joc înainte de a-și câștiga un loc regulat în echipă. Această decizie vine în contextul în care Estêvão a fost titular doar de două ori în 11 meciuri în acest sezon, iar dezbaterea privind rolul său a crescut după ce a rămas rezervă neutilizată într-un meci recent de Cupa Ligii.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-31T13:26:04.632142+00:00",
-      "data_afisaj": "31 octombrie 2026, 15:26"
-    },
-    {
-      "id": "481ab4f5fc15",
-      "titlu": "Alexia Putellas transformă mentalitatea la London City Lionesses după transferul în WSL",
-      "rezumat": "Mutarea câștigătoarei Balonului de Aur, Alexia Putellas, în Women's Super League (WSL) a adus o schimbare semnificativă de mentalitate la clubul London City Lionesses. Directorul executiv al clubului, Martin Semmens, a declarat că pagina de Instagram a clubului a generat 34 de milioane de vizualizări de când Putellas a câștigat Balonul de Aur. Prezența ei a transformat echipa atât pe teren, cât și în afara lui, insuflând o nouă încredere înaintea confruntării cu Manchester City. Această achiziție de profil înalt demonstrează ambițiile clubului și impactul pe care jucătoarele de talie mondială îl pot avea asupra dezvoltării fotbalului feminin.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-31T13:26:04.633649+00:00",
-      "data_afisaj": "31 octombrie 2026, 15:26"
     }
   ]
 }
