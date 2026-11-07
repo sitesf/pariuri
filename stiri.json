@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-07T14:41:09.246329+00:00",
-  "updated_at_afisaj": "7 noiembrie 2026, 16:41",
+  "updated_at": "2026-11-07T19:59:43.804187+00:00",
+  "updated_at_afisaj": "7 noiembrie 2026, 21:59",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,64 @@
   },
   "numar_stiri": 130,
   "stiri": [
+    {
+      "id": "b79a1f76c6f9",
+      "titlu": "Evaluările jucătorilor Delap încântător și depășit Anderson - Forest v Man City",
+      "rezumat": "Cum au evaluat jucătorii lui Nottingham Forest și Manchester City în urma meciului lor din Premier League de la City Ground.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-11-07T19:59:18.634256+00:00",
+      "data_afisaj": "7 noiembrie 2026, 21:59"
+    },
+    {
+      "id": "6f4080a00a1a",
+      "titlu": "Repere: non-liga Kidderminster șoc League One Doncaster",
+      "rezumat": "National League Kidderminster șocă League One Doncaster pentru a trece în turul doi al FA Cup.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-07T19:59:18.635776+00:00",
+      "data_afisaj": "7 noiembrie 2026, 21:59"
+    },
+    {
+      "id": "e44f1e7b8a82",
+      "titlu": "Uimitorii lui Delap din Nottingham Forest au învins Manchester City în liga a treia la rând",
+      "rezumat": "Așteptați suficient, iar rezultatele vor veni să reflecte performanțele. Este posibil ca Manchester City să fi câștigat primele șapte meciuri ale sezonului, dar a părut întotdeauna vulnerabil, iar acum a pierdut trei la rând. Nottingham Forest poate să fi fost pe locul doi, dar, în afară de blestemele gemene ale șanselor ratate, care dau goluri stupide, păreau să joace destul de bine. Pune-le pe cele două împreună, iar rezultatul a fost o regresie dramatică la medie. Se pare că statisticile erau corecte, până la urmă. Liam Delap",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-07T19:59:18.637435+00:00",
+      "data_afisaj": "7 noiembrie 2026, 21:59"
+    },
+    {
+      "id": "045f31c3c5f7",
+      "titlu": "Încă 1-0 pentru necruțătorul Arsenal - dar Odegaard a scutit de roșurile VAR?",
+      "rezumat": "Arsenal a trecut cu șase puncte în fruntea Premier League după ce a învins Hull City - dar golul lui Martin Odegaard a salvat roșurile VAR-ului?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-07T19:59:18.639027+00:00",
+      "data_afisaj": "7 noiembrie 2026, 21:59"
+    },
+    {
+      "id": "9a55bcc02f62",
+      "titlu": "Tottenham se pregătea să se plângă la Pro Ref - dar ar fi trebuit Bogle să vadă roșu?",
+      "rezumat": "Tottenham urmează să depună o plângere oficială cu privire la decizia de a nu-l trimite pe Jayden Bogle pentru provocarea sa pe Mathys Tel în timpul înfrângerii de la Leeds.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-07T19:59:18.640660+00:00",
+      "data_afisaj": "7 noiembrie 2026, 21:59"
+    },
     {
       "id": "a0b28dbce66c",
       "titlu": "Gică Hagi a anunțat lotul României pentru meciurile din Liga Națiunilor",
@@ -1434,62 +1492,6 @@
       ],
       "data_publicare": "2026-10-31T20:22:18.790865+00:00",
       "data_afisaj": "31 octombrie 2026, 22:22"
-    },
-    {
-      "id": "e12c19dc56ea",
-      "titlu": "Bournemouth învinge Leeds după o eroare majoră a portarului Trafford",
-      "rezumat": "Echipa Bournemouth a obținut a șasea victorie consecutivă în toate competițiile, fără a primi gol, învingând Leeds cu 2-0. Portarul lui Leeds, James Trafford, a fost protagonistul unei erori costisitoare în minutul 23, permițând deschiderea scorului. Această victorie solidă consolidează poziția lui Bournemouth în clasament și subliniază forma excelentă a echipei, în timp ce Leeds continuă să se confrunte cu dificultăți în campionat.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-31T19:47:15.398474+00:00",
-      "data_afisaj": "31 octombrie 2026, 21:47"
-    },
-    {
-      "id": "ff3b24a86af2",
-      "titlu": "Criza de la Manchester United se adâncește după înfrângerea cu Chelsea și cartonașul roșu al lui Martínez",
-      "rezumat": "Manchester United a suferit o nouă înfrângere, scor 0-2, în fața echipei Chelsea pe Stamford Bridge, un rezultat care adâncește criza clubului. Situația a fost agravată de eliminarea fundașului Lisandro Martínez, care a primit un cartonaș roșu costisitor. Această înfrângere, care a avut ecouri din ultimele meciuri sub Erik ten Hag, pune o presiune și mai mare pe antrenorul Michael Carrick și pe conducerea clubului, generând discuții intense despre viitorul echipei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-31T19:47:15.400200+00:00",
-      "data_afisaj": "31 octombrie 2026, 21:47"
-    },
-    {
-      "id": "f9ad823d72ff",
-      "titlu": "Brighton produce surpriza și învinge Manchester City, reducând ecartul față de lideri",
-      "rezumat": "Manchester City a înregistrat o înfrângere surprinzătoare în fața echipei Brighton, scor 0-1, pe teren propriu. Golul victoriei pentru Brighton a fost marcat de Yasin Ayari în minutul 11, dintr-o fază controversată, un presupus fault asupra sa. Această înfrângere reprezintă a doua consecutivă pentru echipa lui Enzo Maresca în campionat, punând capăt unei serii impecabile de șapte victorii. Brighton, prin această performanță, își consolidează poziția a treia în clasament, demonstrând ambiții de calificare în Liga Campionilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-31T19:47:15.401873+00:00",
-      "data_afisaj": "31 octombrie 2026, 21:47"
-    },
-    {
-      "id": "9db986fbe9e1",
-      "titlu": "Mourinho despre controversa Mbappe-Mao: „Cel mai bine este să taci”",
-      "rezumat": "Antrenorul principal al lui Real Madrid, Jose Mourinho, a comentat recenta controversă legată de remarcile lui Kylian Mbappe despre Mao Zedong. Mourinho a declarat că „cel mai bine este să taci”, dar și-a exprimat susținerea pentru Mbappe în urma reacțiilor negative. Declarația vine în contextul în care Mbappe a fost criticat pentru comentariile sale, iar Mourinho a ales să ofere un sfat pragmatic, subliniind presiunea la care sunt supuși jucătorii de top în spațiul public.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-31T19:47:15.403518+00:00",
-      "data_afisaj": "31 octombrie 2026, 21:47"
-    },
-    {
-      "id": "bf2f275fd044",
-      "titlu": "Rezumat Championship: Presiunea crește pe Nuno după înfrângerea lui West Ham pe teren propriu",
-      "rezumat": "Nuno Espirito Santo se confruntă cu o presiune tot mai mare la West Ham, după ce echipa sa a fost învinsă cu 3-1 de West Brom la London Stadium. Aceasta este a doua înfrângere consecutivă pe teren propriu pentru \"Ciocănari\", favoriți la promovare, care se află acum la șase puncte de zona de promovare, pe locul opt. Fanii și-au exprimat nemulțumirea la finalul meciului, în timp ce West Brom a urcat în top patru, demonstrând o formă excelentă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-31T19:47:15.405230+00:00",
-      "data_afisaj": "31 octombrie 2026, 21:47"
     }
   ]
 }
