@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-07T19:59:43.804187+00:00",
-  "updated_at_afisaj": "7 noiembrie 2026, 21:59",
+  "updated_at": "2026-11-07T20:37:40.323782+00:00",
+  "updated_at_afisaj": "7 noiembrie 2026, 22:37",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,63 @@
   },
   "numar_stiri": 130,
   "stiri": [
+    {
+      "id": "cbd42fe9b56f",
+      "titlu": "Fulham și Newcastle United au remizat pe Craven Cottage",
+      "rezumat": "Fulham a obținut un punct în prelungiri împotriva lui Newcastle United, într-un meci încheiat cu scorul de 1-1 pe Craven Cottage. Rodrigo Muniz a marcat golul egalizator pentru gazde, negând o victorie necesară echipei antrenate de Matthias Jaissle. Ambele formații au arătat lipsuri în joc, Fulham având nevoie de un efort târziu pentru a salva un punct, în timp ce Newcastle nu a reușit să capitalizeze pe deplin șansele de a urca în prima jumătate a clasamentului Premier League.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-07T20:37:40.319564+00:00",
+      "data_afisaj": "7 noiembrie 2026, 22:37"
+    },
+    {
+      "id": "6aa098dadab5",
+      "titlu": "Manchester City preia conducerea în WSL, Chelsea se împiedică",
+      "rezumat": "Manchester City a urcat pe prima poziție în Women's Super League după o victorie convingătoare cu 5-0 împotriva lui West Ham, meci în care Khadija Shaw a reușit un hat-trick. În același timp, rivala Chelsea a fost ținută la egalitate, scor 1-1, de Everton, după un autogol nefericit al fundașului Lucy Bronze. Aceste rezultate decisive permit echipei din Manchester să se distanțeze în clasament și să abordeze cu un avantaj confruntarea directă cu Chelsea de săptămâna viitoare, care se anunță crucială pentru titlu.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-07T20:37:40.320590+00:00",
+      "data_afisaj": "7 noiembrie 2026, 22:37"
+    },
+    {
+      "id": "d2eb7d1c3185",
+      "titlu": "Victorie pentru Bayern Munchen, dar ziua lui Manuel Neuer a fost umbrită de accidentare și erori",
+      "rezumat": "Bayern Munchen a învins Mainz cu 2-1 în Bundesliga, însă meciul a avut un deznodământ amar pentru portarul Manuel Neuer. Deși a devenit cel mai vârstnic jucător al lui Bayern, la 40 de ani și 225 de zile, Neuer a fost nevoit să părăsească terenul din cauza unei recidive a unei accidentări la picior. În plus, performanța sa a fost sub observație după o eroare care aproape a permis echipei adverse să egaleze în prima repriză, generând discuții despre forma sa actuală.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-07T20:37:40.321720+00:00",
+      "data_afisaj": "7 noiembrie 2026, 22:37"
+    },
+    {
+      "id": "0bdad6eb60ee",
+      "titlu": "FCSB, învinsă acasă de Corvinul Hunedoara în Superliga României",
+      "rezumat": "FCSB a suferit o înfrângere surprinzătoare pe teren propriu, scor 0-1, în fața echipei Corvinul Hunedoara, în etapa a 15-a din Superliga României. Acest rezultat nefavorabil complică semnificativ situația trupei antrenate de Laurențiu Reghecampf în cursa pentru calificarea în play-off. Pierderea celor trei puncte acasă pune presiune suplimentară pe FCSB, care trebuie să recupereze teren în clasament pentru a-și atinge obiectivele sezoniere în campionatul intern.",
+      "categorie": "Fotbal",
+      "surse": [
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-11-07T20:37:40.322711+00:00",
+      "data_afisaj": "7 noiembrie 2026, 22:37"
+    },
+    {
+      "id": "1f3fb78a9d8c",
+      "titlu": "Birmingham City preia conducerea în Championship; Cardiff realizează o revenire spectaculoasă",
+      "rezumat": "Birmingham City a urcat pe prima poziție în clasamentul Championship, după o victorie cu 2-1 împotriva lui Swansea, asigurată de un gol târziu marcat de Jay Stansfield. Într-un alt meci dramatic al etapei, Cardiff a reușit o revenire incredibilă, învingând Burnley cu 5-4, după ce fusese condusă cu 4-1. Aceste rezultate subliniază intensitatea și imprevizibilitatea ligii secunde engleze, cu schimbări majore în clasament și meciuri pline de suspans.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-07T20:37:40.323769+00:00",
+      "data_afisaj": "7 noiembrie 2026, 22:37"
+    },
     {
       "id": "b79a1f76c6f9",
       "titlu": "Evaluările jucătorilor Delap încântător și depășit Anderson - Forest v Man City",
@@ -1434,64 +1491,6 @@
       ],
       "data_publicare": "2026-11-01T14:07:44.124948+00:00",
       "data_afisaj": "1 noiembrie 2026, 16:07"
-    },
-    {
-      "id": "4cf51e42d5ca",
-      "titlu": "Bayern Munchen și Borussia Dortmund remizează în Der Klassiker, Kane ratează un penalty",
-      "rezumat": "Într-un meci tensionat din Der Klassiker, Bayern Munchen a remizat 2-2 cu Borussia Dortmund. Harry Kane a ratat un penalty crucial pentru Bayern, o oportunitate care ar fi putut schimba soarta partidei. Fabio Silva a fost eroul Borussiei Dortmund, marcând golul egalizator târziu în meci, asigurând un punct important pentru echipa sa. Rezultatul menține suspansul în lupta pentru titlu din Bundesliga și subliniază presiunea pe ambele echipe în confruntările directe.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-31T20:22:18.783425+00:00",
-      "data_afisaj": "31 octombrie 2026, 22:22"
-    },
-    {
-      "id": "3ba8f33717c3",
-      "titlu": "Oliver Glasner, antrenorul lui Nottingham Forest, își exprimă furia și determinarea de a schimba situația echipei",
-      "rezumat": "Oliver Glasner, managerul lui Nottingham Forest, a avut o reacție vehementă după înfrângerea cu Brentford, declarând că nu este la club pentru a fi plăcut și că va implementa schimbări drastice. Glasner a subliniat că jucătorii care nu se vor alinia viziunii sale pot pleca, exprimându-și frustrarea față de performanțele slabe ale echipei. Această declarație vine pe fondul problemelor continue de marcare a golurilor și a unei serii de rezultate negative, care au dus la huiduieli din partea fanilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-31T20:22:18.785376+00:00",
-      "data_afisaj": "31 octombrie 2026, 22:22"
-    },
-    {
-      "id": "35a690aaded2",
-      "titlu": "Tottenham învinge Crystal Palace, care joacă în 10 oameni, și pune presiune pe antrenorul Pierre Sage",
-      "rezumat": "Tottenham Hotspur a obținut o victorie cu 2-0 împotriva lui Crystal Palace, într-un meci în care oaspeții au jucat în inferioritate numerică după eliminarea timpurie a lui Jean-Philippe Mateta. Aceasta este a treia victorie consecutivă în campionat pentru Spurs, care urcă în clasament. Pentru Crystal Palace, înfrângerea adâncește criza, echipa ajungând în zona retrogradării și punând o presiune considerabilă pe managerul Pierre Sage, a cărui poziție devine tot mai incertă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-31T20:22:18.787259+00:00",
-      "data_afisaj": "31 octombrie 2026, 22:22"
-    },
-    {
-      "id": "8e448cff3f9a",
-      "titlu": "Enzo Maresca se confruntă cu provocări majore la Manchester City după încheierea perioadei de grație",
-      "rezumat": "Enzo Maresca, managerul lui Manchester City, se confruntă cu o perioadă dificilă, după un început impecabil de sezon cu șapte victorii consecutive în Premier League. Echipa a înregistrat recent două înfrângeri consecutive în campionat, semnalând că perioada de \"lună de miere\" s-a încheiat. Maresca are acum sarcina de a aborda problemele în creștere ale echipei, inclusiv o posibilă lipsă de profunzime în anumite zone ale terenului și adaptarea la presiunea de a menține performanța la cel mai înalt nivel.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-10-31T20:22:18.789052+00:00",
-      "data_afisaj": "31 octombrie 2026, 22:22"
-    },
-    {
-      "id": "e81bec75e361",
-      "titlu": "Radu Drăgușin, sub lupa criticilor în Italia, pe fondul rezultatelor slabe ale Fiorentinei",
-      "rezumat": "Fundașul român Radu Drăgușin a intrat în atenția presei italiene, care analizează performanțele sale în contextul cifrelor dezastruoase înregistrate de Fiorentina. Echipa se confruntă cu o serie de rezultate negative, iar Drăgușin este semnalat ca având probleme în a se adapta la cerințele defensive. Criticile vizează în special contribuția sa la fragilitatea apărării, punând presiune pe internaționalul român să își îmbunătățească jocul pentru a ajuta Fiorentina să iasă din pasa proastă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-10-31T20:22:18.790865+00:00",
-      "data_afisaj": "31 octombrie 2026, 22:22"
     }
   ]
 }
