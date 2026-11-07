@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-07T13:47:37.979533+00:00",
-  "updated_at_afisaj": "7 noiembrie 2026, 15:47",
+  "updated_at": "2026-11-07T14:41:09.246329+00:00",
+  "updated_at_afisaj": "7 noiembrie 2026, 16:41",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 126,
+  "numar_stiri": 130,
   "stiri": [
+    {
+      "id": "a0b28dbce66c",
+      "titlu": "Gică Hagi a anunțat lotul României pentru meciurile din Liga Națiunilor",
+      "rezumat": "Selecționerul României, Gică Hagi, a făcut public lotul de jucători convocați pentru următoarele două partide din Liga Națiunilor, împotriva Poloniei și Bosniei-Herțegovina. Printre numele incluse se numără câte un fotbalist de la Dinamo, Rapid și FCSB, reflectând o selecție echilibrată din campionatul intern. Anunțul vine în contextul pregătirilor pentru aceste confruntări cruciale, care pot influența parcursul echipei naționale în competiție. Hagi a subliniat importanța coeziunii și a performanței individuale pentru atingerea obiectivelor propuse.",
+      "categorie": "Fotbal",
+      "surse": [
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-11-07T14:41:09.242428+00:00",
+      "data_afisaj": "7 noiembrie 2026, 16:41"
+    },
+    {
+      "id": "b0af2786228f",
+      "titlu": "Scoția face o modificare în lot: Stephen Welsh, înlocuit de Ryan Porteous",
+      "rezumat": "Echipa națională a Scoției a anunțat o modificare în lotul pentru viitoarele meciuri din Liga Națiunilor. Fundașul central Stephen Welsh de la Swansea City a fost retras, iar locul său va fi luat de Ryan Porteous, jucătorul echipei Los Angeles. Această schimbare vine înaintea dublei confruntări din Nations League, iar selecționerul speră că Porteous se va integra rapid și va contribui la performanța echipei. Detaliile exacte ale motivului înlocuirii nu au fost specificate, dar este o practică obișnuită înaintea meciurilor internaționale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-07T14:41:09.243437+00:00",
+      "data_afisaj": "7 noiembrie 2026, 16:41"
+    },
+    {
+      "id": "81de71b84b97",
+      "titlu": "Leicester City evită surpriza și se califică în turul doi al Cupei Angliei",
+      "rezumat": "Leicester City, câștigătoare a Cupei Angliei în 2021 și echipă din League One, a reușit să evite o eliminare surprinzătoare în fața formației de ligă a șasea, Oxford City. Meciul, disputat pe stadionul MGroup, s-a încheiat cu scorul de 4-2 în favoarea lui Leicester, asigurându-le calificarea în turul doi al competiției. Deși au întâmpinat rezistență din partea adversarilor mai slab cotați, „Vulpile” au demonstrat determinare și au gestionat presiunea pentru a-și îndeplini obiectivul, evitând o potențială surpriză majoră în Cupa Angliei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-07T14:41:09.244378+00:00",
+      "data_afisaj": "7 noiembrie 2026, 16:41"
+    },
+    {
+      "id": "141b020d9918",
+      "titlu": "Okafor decide meciul pentru Leeds în victoria împotriva lui Tottenham",
+      "rezumat": "Leeds United a obținut o victorie importantă cu 1-0 împotriva lui Tottenham Hotspur în Premier League, grație golului marcat de Okafor. Performanța jucătorilor a fost analizată, iar Okafor a fost considerat decisiv, în ciuda rezistenței defensive a lui Van Hecke de la Spurs. Meciul a fost unul disputat, cu Leeds reușind să-și impună jocul și să obțină cele trei puncte pe teren propriu, consolidându-și poziția în clasament. Această victorie subliniază importanța contribuției individuale în meciurile strânse din campionatul englez.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-07T14:41:09.245300+00:00",
+      "data_afisaj": "7 noiembrie 2026, 16:41"
+    },
+    {
+      "id": "4a0d054530a5",
+      "titlu": "Identitatea lui Chelsea sub Xabi Alonso, încă în formare, cu probleme la mijlocul terenului",
+      "rezumat": "Sub conducerea lui Xabi Alonso, Chelsea se confruntă în continuare cu dificultăți în a-și defini o identitate clară, în special la mijlocul terenului. Deși revenirea lui Roméo Lavia a adus un plus, accidentările altor jucători cheie, precum Moisés Caicedo, continuă să perturbe echilibrul echipei. Cu o posesie medie de 47.8%, Chelsea nu reușește să impună controlul dorit de Alonso, care a fost un maestru al posesiei în cariera sa de jucător. Această situație subliniază provocările tactice cu care se confruntă antrenorul spaniol în efortul de a construi o echipă dominantă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-07T14:41:09.246317+00:00",
+      "data_afisaj": "7 noiembrie 2026, 16:41"
+    },
     {
       "id": "24c0c6352b8c",
       "titlu": "James Trafford a părăsit Manchester City din motive de sănătate mintală",
@@ -1435,18 +1490,6 @@
       ],
       "data_publicare": "2026-10-31T19:47:15.405230+00:00",
       "data_afisaj": "31 octombrie 2026, 21:47"
-    },
-    {
-      "id": "a1e35dfa4df8",
-      "titlu": "Arteta îl avertizează pe tânărul Dowman după cartonașul roșu: „Nu suntem în Disneyland”",
-      "rezumat": "Antrenorul lui Arsenal, Mikel Arteta, a declarat că „nu suntem în Disneyland” și că îi va cere lui Max Dowman, un jucător adolescent, aceleași standarde ca și celorlalți fotbaliști din prima echipă, după ce acesta a primit un cartonaș roșu într-un meci împotriva echipei Fleetwood. Declarația subliniază așteptările stricte ale managerului spaniol de la toți membrii lotului, indiferent de vârstă, și importanța disciplinei în cadrul echipei. Incidentul a avut loc într-un context în care Arteta încearcă să impună o mentalitate riguroasă la club.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-10-31T14:18:09.462802+00:00",
-      "data_afisaj": "31 octombrie 2026, 16:18"
     }
   ]
 }
