@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-07T20:37:40.323782+00:00",
-  "updated_at_afisaj": "7 noiembrie 2026, 22:37",
+  "updated_at": "2026-11-08T14:08:33.167653+00:00",
+  "updated_at_afisaj": "8 noiembrie 2026, 16:08",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 130,
+  "numar_stiri": 135,
   "stiri": [
+    {
+      "id": "9b4ef581e81a",
+      "titlu": "Lionel Messi Câștigă Al Doilea Gheată de Aur Consecutiv în MLS; Nashville Stabilește Record de Puncte",
+      "rezumat": "Lionel Messi a obținut al doilea trofeu consecutiv Gheata de Aur în MLS, sâmbătă, într-o zi dramatică a sezonului regulat. Deși Inter Miami a risipit un avantaj de trei goluri, terminând la egalitate 3-3 cu Charlotte, Messi a contribuit cu două pase decisive din cornere, asigurând echipei sale locul doi în Conferința de Est. În paralel, Nashville a stabilit un nou record al ligii cu 77 de puncte, marcând o performanță remarcabilă în campionat, chiar dacă Messi nu a înscris personal în această etapă finală.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-08T14:08:33.163245+00:00",
+      "data_afisaj": "8 noiembrie 2026, 16:08"
+    },
+    {
+      "id": "00d86491a1d7",
+      "titlu": "Julián Álvarez, În Centrul Atenției Înaintea Meciului Dintre Atlético Madrid și Barcelona",
+      "rezumat": "Meciul de duminică dintre Atlético Madrid și Barcelona, considerat cel mai important din Spania la momentul actual, va decide liderul clasamentului. Atacantul Julián Álvarez, supranumit „Păianjenul”, este în plină „arcă a răscumpărării” după ce a fost aproape de a se transfera la echipa adversă în vara trecută. Partida de la ora 21:00, pe Metropolitano, oferă o ocazie perfectă pentru Álvarez de a-și demonstra valoarea și de a câștiga iertarea fanilor, într-un duel crucial pentru supremația în La Liga.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-08T14:08:33.164420+00:00",
+      "data_afisaj": "8 noiembrie 2026, 16:08"
+    },
+    {
+      "id": "64e91a8e0054",
+      "titlu": "Mohamed Salah Se Adaptează La Viața Din Trabzon După Transferul La Trabzonspor",
+      "rezumat": "Mohamed Salah, supranumit „Regele Egiptean”, se adaptează la noua sa viață în Trabzon, Turcia, după transferul la Trabzonspor. BBC Sport a călătorit în regiunea Mării Negre pentru a urmări evoluțiile atacantului și a descoperi cum se integrează în noul său mediu. Această mutare reprezintă o schimbare semnificativă în cariera sa, iar fanii sunt curioși să vadă cum se va descurca într-un campionat diferit, departe de lumina reflectoarelor din ligile de top europene, într-o poveste de adaptare personală și sportivă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-08T14:08:33.165485+00:00",
+      "data_afisaj": "8 noiembrie 2026, 16:08"
+    },
+    {
+      "id": "3bd45b9e5b2d",
+      "titlu": "Chelsea Și-a Rezolvat Problema Mijlocului Terenului Datorită Unui Transfer Eșuat",
+      "rezumat": "Chelsea pare să fi găsit soluția pentru problemele sale de la mijlocul terenului, în urma unei situații neașteptate legate de un transfer eșuat în ultima zi a perioadei de mercato. Romeo Lavia a jucat primele sale 90 de minute complete în Premier League pentru Chelsea împotriva lui Manchester United weekendul trecut, sugerând că prezența sa ar putea fi cheia echilibrului. Această evoluție indică o rezolvare internă a unei dileme tactice, fără a mai fi nevoie de achiziții suplimentare, consolidând opțiunile antrenorului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-11-08T14:08:33.166574+00:00",
+      "data_afisaj": "8 noiembrie 2026, 16:08"
+    },
+    {
+      "id": "c0a9a2ab4f5e",
+      "titlu": "Chengdu Rongcheng Ratează Titlul în Superliga Chineză După Un Colaps Dramatic",
+      "rezumat": "Chengdu Rongcheng, echipa antrenată de John Aloisi, a pierdut titlul în Superliga Chineză în ultima zi a sezonului, după ce a cedat un avantaj de 12 puncte. Echipa a înregistrat a patra înfrângere consecutivă, în timp ce rivalii de la Dalian Yingbo FC au obținut a cincea victorie la rând, depășind-o pe Chengdu și cucerind trofeul. Această răsturnare spectaculoasă de situație a marcat un final de sezon plin de dramatism în fotbalul chinez, cu o schimbare de lider neașteptată.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-08T14:08:33.167640+00:00",
+      "data_afisaj": "8 noiembrie 2026, 16:08"
+    },
     {
       "id": "cbd42fe9b56f",
       "titlu": "Fulham și Newcastle United au remizat pe Craven Cottage",
