@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-08T14:46:49.047631+00:00",
-  "updated_at_afisaj": "8 noiembrie 2026, 16:46",
+  "updated_at": "2026-11-08T20:16:45.607429+00:00",
+  "updated_at_afisaj": "8 noiembrie 2026, 22:16",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,67 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 132,
+  "numar_stiri": 137,
   "stiri": [
+    {
+      "id": "07fd001a4281",
+      "titlu": "Man Utd score twice in stoppage-time to share points in eight-goal thriller",
+      "rezumat": "Manchester United twice come back from two goals down to earn a point against Aston Villa in an eight-goal thriller at Old Trafford, although they will go into the international break in the Premier League relegation zone.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-11-08T20:16:28.725303+00:00",
+      "data_afisaj": "8 noiembrie 2026, 22:16"
+    },
+    {
+      "id": "09f63bd95488",
+      "titlu": "Chengdu blow 12-point lead to miss out on Chinese title on final day",
+      "rezumat": "Chengdu Rongcheng lose their final four matches of the season to give up a 12-point lead and throw away the Chinese Super League title.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-08T20:16:28.726299+00:00",
+      "data_afisaj": "8 noiembrie 2026, 22:16"
+    },
+    {
+      "id": "6e255dac76f9",
+      "titlu": "Enzo Maresca rues Manchester City’s lack of desire after defeat at Nottingham Forest",
+      "rezumat": "‘You need desire and intensity … we didn’t match them’ City have now lost three successive league matches Enzo Maresca blamed his side’s lack of desire and the way they were outgunned in duels for a third successive Premier League defeat. After winning their first seven games of the season, Manchester City’s 3-1 loss at Nottingham Forest extended their poor run. Jair Cunha dispossessed Josko Gvardiol to score the opener, then Liam Delap struck twice with muscular surges on the break as Forest wo",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-08T20:16:28.727290+00:00",
+      "data_afisaj": "8 noiembrie 2026, 22:16"
+    },
+    {
+      "id": "3ff9b18661da",
+      "titlu": "„Chivu L-A DOMINAT pe Fabregas”. Prima reacție a italienilor după Inter – Como",
+      "rezumat": "(rezumat indisponibil)",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-11-08T20:16:28.728402+00:00",
+      "data_afisaj": "8 noiembrie 2026, 22:16"
+    },
+    {
+      "id": "c3118bd53e90",
+      "titlu": "Brighton breeze past ten-man Brentford to move up to second",
+      "rezumat": "Diego Gomez's long-range strike fires Brighton to a 2-0 over Brentford, who saw Igor Thiago be shown a straight red card, as Fabian Hurzeler's side move up to second in the Premier League.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-08T20:16:28.729889+00:00",
+      "data_afisaj": "8 noiembrie 2026, 22:16"
+    },
     {
       "id": "1fb6ad72ca53",
       "titlu": "Cray Wanderers, Cel Mai Vechi Club din Londra, Scrie Istorie în Cupa Angliei",
