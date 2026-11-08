@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-08T20:16:45.607429+00:00",
-  "updated_at_afisaj": "8 noiembrie 2026, 22:16",
+  "updated_at": "2026-11-08T20:55:31.252347+00:00",
+  "updated_at_afisaj": "8 noiembrie 2026, 22:55",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,61 @@
   },
   "numar_stiri": 137,
   "stiri": [
+    {
+      "id": "ae7f918a5397",
+      "titlu": "Liverpool dispatch Palace to pile pressure on Sage",
+      "rezumat": "Liverpool see off Crystal Palace 3-1 at Selhurst Park as Pierre Sage's side suffer their fourth defeat in a row in the Premier League.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-08T20:55:14.583146+00:00",
+      "data_afisaj": "8 noiembrie 2026, 22:55"
+    },
+    {
+      "id": "55cbb04a6481",
+      "titlu": "Struggling Sunderland beat Chelsea to move off bottom of Premier League",
+      "rezumat": "Sunderland held on to their first Premier League win since August as Enzo le Fee's penalty help the hosts sink Chelsea at the Stadium of Light.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-08T20:55:14.584764+00:00",
+      "data_afisaj": "8 noiembrie 2026, 22:55"
+    },
+    {
+      "id": "ed59124c36ec",
+      "titlu": "Bournemouth beat Ipswich to extend winning streak",
+      "rezumat": "Evanilson scores for the fifth Premier League game in a row as Bournemouth's impressive winning streak continued with a controlled victory over Ipswich.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-08T20:55:14.586215+00:00",
+      "data_afisaj": "8 noiembrie 2026, 22:55"
+    },
+    {
+      "id": "4dd33379b903",
+      "titlu": "What can you read into Premier League table after 10 games?",
+      "rezumat": "With 10 games gone in the Premier League season, BBC Sport looks at what history tells us we can read into the table at this stage.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-08T20:55:14.587815+00:00",
+      "data_afisaj": "8 noiembrie 2026, 22:55"
+    },
+    {
+      "id": "c710b22462d3",
+      "titlu": "Palace consider replacing Sage with Frank among contenders",
+      "rezumat": "Crystal Palace antrenor Pierre Sage is in serious danger of losing his job, with Thomas Frank among the contenders to replace him.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-08T20:55:14.589308+00:00",
+      "data_afisaj": "8 noiembrie 2026, 22:55"
+    },
     {
       "id": "07fd001a4281",
       "titlu": "Man Utd score twice in stoppage-time to share points in eight-goal thriller",
@@ -1510,68 +1565,6 @@
       ],
       "data_publicare": "2026-11-01T20:55:25.939094+00:00",
       "data_afisaj": "1 noiembrie 2026, 22:55"
-    },
-    {
-      "id": "07d2cceb9269",
-      "titlu": "Arsenal învinge Liverpool pe Anfield și preia conducerea în Premier League",
-      "rezumat": "Arsenal a obținut o victorie rară pe Anfield, învingând Liverpool cu 1-0, un rezultat care îi propulsează în fruntea clasamentului Premier League. Aceasta este prima victorie a \"tunarilor\" pe terenul lui Liverpool din 2012, punând capăt unei serii de 14 ani fără succes. Golul decisiv a fost marcat de Kai Havertz. Meciul a fost unul disputat, iar Liverpool a contestat o decizie de penalty, considerând că Alexander Isak ar fi trebuit să primească o lovitură de la 11 metri.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-01T20:20:16.148312+00:00",
-      "data_afisaj": "1 noiembrie 2026, 22:20"
-    },
-    {
-      "id": "e6126d8debb2",
-      "titlu": "Real Madrid obține o victorie convingătoare cu goluri de la Bellingham și Mbappé",
-      "rezumat": "Real Madrid a înregistrat o victorie convingătoare cu 3-0 împotriva echipei Racing Santander, continuând seria de șase victorii consecutive în La Liga. Kylian Mbappé a marcat dintr-un penalty, iar Jude Bellingham și Yan Diomande au contribuit și ei la scor. Acest succes o plasează pe Real Madrid la doar trei puncte în spatele liderului Barcelona în clasamentul La Liga, consolidându-și poziția în lupta pentru titlu.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-01T20:20:16.149251+00:00",
-      "data_afisaj": "1 noiembrie 2026, 22:20"
-    },
-    {
-      "id": "ef360ac9484a",
-      "titlu": "Chelsea urcă pe primul loc în Women's Super League după o victorie categorică",
-      "rezumat": "Chelsea a revenit în fruntea clasamentului Women's Super League după o victorie categorică cu 6-0 împotriva echipei Charlton. Echipa a demonstrat o ofensivă puternică, ajungând la un total de 27 de goluri marcate în doar opt meciuri, evidențiind dominația lor în campionat. Charlton rămâne fără puncte în acest sezon de WSL, confruntându-se cu dificultăți majore în competiție.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-01T20:20:16.150173+00:00",
-      "data_afisaj": "1 noiembrie 2026, 22:20"
-    },
-    {
-      "id": "682e6e440821",
-      "titlu": "Presiune crescută asupra antrenorului Martin O'Neill la Celtic după înfrângerea cu Falkirk",
-      "rezumat": "Presiunea crește asupra antrenorului Martin O'Neill la Celtic, după ce echipa a suferit o înfrângere șocantă cu 2-0 în fața lui Falkirk, prima victorie a acesteia din urmă în fața \"verzilor\" în 19 ani. Aceasta este a doua înfrângere în campionat pentru Celtic în acest sezon, iar echipa a înregistrat doar trei victorii în ultimele zece meciuri, stârnind îngrijorări privind o posibilă regresie și punând sub semnul întrebării viitorul tehnicianului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-01T20:20:16.151106+00:00",
-      "data_afisaj": "1 noiembrie 2026, 22:20"
-    },
-    {
-      "id": "bb9ec7b0a0c0",
-      "titlu": "Adolescentul implicat în videoclipul Bradley Lowery s-a predat poliției",
-      "rezumat": "Un adolescent în vârstă de 14 ani s-a predat poliției din West Midlands în legătură cu un videoclip controversat. Incidentul a avut loc după ce Coventry City a anunțat o investigație privind un fan care ar fi batjocorit suporterii Sunderland cu o imagine a lui Bradley Lowery. Bradley Lowery a fost un copil care a murit de cancer și a devenit un simbol al luptei împotriva bolii în fotbalul englez, iar gestul a stârnit un val de indignare publică.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-01T20:20:16.151974+00:00",
-      "data_afisaj": "1 noiembrie 2026, 22:20"
     }
   ]
 }
