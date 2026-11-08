@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-08T14:08:33.167653+00:00",
-  "updated_at_afisaj": "8 noiembrie 2026, 16:08",
+  "updated_at": "2026-11-08T14:46:49.047631+00:00",
+  "updated_at_afisaj": "8 noiembrie 2026, 16:46",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,65 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 135,
+  "numar_stiri": 132,
   "stiri": [
+    {
+      "id": "1fb6ad72ca53",
+      "titlu": "Cray Wanderers, Cel Mai Vechi Club din Londra, Scrie Istorie în Cupa Angliei",
+      "rezumat": "Clubul Cray Wanderers, considerat cel mai vechi club de fotbal din Londra, a scris istorie în Cupa Angliei, găzduind pe Stockport County în prima rundă a competiției. Această confruntare este notabilă prin diferența de 112 locuri în ligile englezești care separă cele două echipe, subliniind spiritul unic al Cupei Angliei, unde echipe din ligi inferioare au șansa de a înfrunta adversari mult mai bine cotați. Meciul reprezintă un moment important pentru istoria clubului și pentru fanii săi.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-11-08T14:46:49.040108+00:00",
+      "data_afisaj": "8 noiembrie 2026, 16:46"
+    },
+    {
+      "id": "d67a3cf60637",
+      "titlu": "Dubla lui Alessia Russo Asigură Victoria lui Arsenal în WSL; Manchester United Învinge Aston Villa",
+      "rezumat": "Alessia Russo a fost din nou decisivă pentru Arsenal, marcând o dublă care a adus o victorie crucială echipei sale în Superliga Feminină (WSL) împotriva lui Liverpool. Această performanță o duce pe Russo la șapte goluri în ultimele patru apariții și zece în ultimele șapte meciuri pentru club și țară. Într-un alt meci din WSL, Manchester United a reușit să obțină o victorie la limită împotriva echipei Aston Villa, consolidându-și poziția în clasament.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-08T14:46:49.042130+00:00",
+      "data_afisaj": "8 noiembrie 2026, 16:46"
+    },
+    {
+      "id": "b047e18b49bc",
+      "titlu": "Charlie Savage Marchează Împotriva Echipei Antrenate de Tatăl Său, Robbie Savage, în Cupa Angliei",
+      "rezumat": "Charlie Savage, fiul fostului internațional galez Robbie Savage, a marcat un gol pentru Reading împotriva echipei Peterborough United, formație antrenată chiar de tatăl său, în prima rundă a Cupei Angliei. Momentul emoționant a adus în prim-plan o poveste inedită din fotbalul englez, unde legăturile de familie se intersectează cu rivalitatea sportivă. Golul lui Charlie a contribuit la parcursul echipei sale în prestigioasa competiție.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-08T14:46:49.044018+00:00",
+      "data_afisaj": "8 noiembrie 2026, 16:46"
+    },
+    {
+      "id": "2c7b8de087bc",
+      "titlu": "Liverpool Stabilește un Record Negativ: Fără Șut pe Poartă Împotriva lui Arsenal",
+      "rezumat": "Liverpool a înregistrat un record nedorit în meciul împotriva lui Arsenal, nereușind să trimită niciun șut pe poartă pentru prima dată în 442 de meciuri jucate acasă în Premier League. Această statistică, care datează din 2003, subliniază o problemă de creativitate în jocul echipei. Lipsa ocaziilor clare de gol ridică semne de întrebare cu privire la ofensiva \"Cormoranilor\" și la strategia adoptată în fața unui adversar puternic.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-11-08T14:46:49.045825+00:00",
+      "data_afisaj": "8 noiembrie 2026, 16:46"
+    },
+    {
+      "id": "a641f0c95227",
+      "titlu": "Viitorul lui Michael Carrick la Manchester United, Incert După Meciul cu Aston Villa",
+      "rezumat": "Michael Carrick, antrenorul interimar al echipei Manchester United, nu a primit asigurări privind viitorul său la club dincolo de meciul cu Aston Villa. Această incertitudine planează asupra băncii tehnice de la Old Trafford, în contextul în care clubul caută stabilitate și o direcție clară pe termen lung. Decizia privind permanența sau înlocuirea lui Carrick va fi luată în curând, în funcție de performanțele echipei și de planurile conducerii clubului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-11-08T14:46:49.047612+00:00",
+      "data_afisaj": "8 noiembrie 2026, 16:46"
+    },
     {
       "id": "9b4ef581e81a",
       "titlu": "Lionel Messi Câștigă Al Doilea Gheată de Aur Consecutiv în MLS; Nashville Stabilește Record de Puncte",
@@ -1456,96 +1513,6 @@
       ],
       "data_publicare": "2026-11-01T20:20:16.151974+00:00",
       "data_afisaj": "1 noiembrie 2026, 22:20"
-    },
-    {
-      "id": "8a8dbf73ab7a",
-      "titlu": "Trent Alexander-Arnold se confruntă cu dificultăți la Real Madrid, fiind a treia opțiune pe postul său",
-      "rezumat": "Trent Alexander-Arnold, fundașul dreapta, se află într-o situație dificilă la Real Madrid, unde este considerat în prezent a treia opțiune pe postul său. Această poziție ridică semne de întrebare cu privire la viitorul său la clubul spaniol. Jucătorul, cunoscut pentru abilitățile sale ofensive, pare să se lupte pentru a-și găsi locul în planurile tactice ale echipei, iar speculațiile privind o posibilă plecare sau o schimbare de rol devin tot mai intense în presa sportivă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-01T14:45:15.813757+00:00",
-      "data_afisaj": "1 noiembrie 2026, 16:45"
-    },
-    {
-      "id": "1c4db666a578",
-      "titlu": "Manchester United, în pericol de a lupta pentru evitarea retrogradării?",
-      "rezumat": "Manchester United se confruntă cu o criză profundă, iar performanțele slabe au stârnit îngrijorări serioase cu privire la riscul de a ajunge în lupta pentru evitarea retrogradării. Cu doar șapte puncte acumulate în nouă meciuri, echipa ar obține mai puțin de 30 de puncte pe parcursul întregului sezon dacă ar menține acest ritm. Această statistică subliniază cel mai slab start de sezon al clubului din 1988 și pune o presiune imensă pe conducere și pe staff-ul tehnic pentru a găsi soluții rapide.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-01T14:45:15.815363+00:00",
-      "data_afisaj": "1 noiembrie 2026, 16:45"
-    },
-    {
-      "id": "ce5a0103993b",
-      "titlu": "Rezultate din Women's Super League: Arsenal remizează cu Aston Villa, Manchester City învinge London City Lionesses",
-      "rezumat": "În cadrul etapei din Women's Super League, Arsenal a înregistrat o remiză de 1-1 împotriva echipei Aston Villa. Într-un alt meci important, Manchester City a reușit să obțină o victorie cu scorul de 2-1 în deplasare, în fața formației London City Lionesses. Aceste rezultate contribuie la dinamica clasamentului și la lupta pentru titlu în campionatul feminin de fotbal, evidențiind performanțele echipelor de top.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-01T14:45:15.817279+00:00",
-      "data_afisaj": "1 noiembrie 2026, 16:45"
-    },
-    {
-      "id": "28b43a16b6af",
-      "titlu": "Cariera lui Jack Grealish, în incertitudine după ce a fost exclus din lotul lui Manchester City",
-      "rezumat": "Cariera lui Jack Grealish se află într-un moment de incertitudine, după ce a fost exclus din lotul lui Manchester City pentru \"încălcarea disciplinei clubului\". Jucătorul, care a fost un pilon important în echipa lui Pep Guardiola în trecut, inclusiv în finala Ligii Campionilor, se confruntă acum cu întrebări serioase legate de respect și conștientizare. Situația sa actuală contrastează puternic cu potențialul său de a fi un simbol pentru o nouă eră la un club precum Everton, sugerând o posibilă schimbare majoră în parcursul său profesional.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-01T14:45:15.819063+00:00",
-      "data_afisaj": "1 noiembrie 2026, 16:45"
-    },
-    {
-      "id": "a43fb00e8d21",
-      "titlu": "Eroarea portarului Suzuki aduce un punct pentru Fulham la Aston Villa",
-      "rezumat": "Aston Villa a remizat 1-1 cu Fulham pe Villa Park, după ce o greșeală a portarului Zion Suzuki în a doua repriză i-a permis lui Fulham să egaleze. Nicolas Jackson deschisese scorul pentru gazde. Remiza vine într-un moment crucial pentru ambele echipe, influențând pozițiile lor în clasament și adăugând presiune în lupta pentru puncte.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-01T14:07:44.118790+00:00",
-      "data_afisaj": "1 noiembrie 2026, 16:07"
-    },
-    {
-      "id": "77c59ffe84c2",
-      "titlu": "Golul spectaculos al lui Enciso aduce un punct pentru Ipswich în meciul cu Hull",
-      "rezumat": "Julio Enciso a marcat un gol superb, egalând scorul pentru Ipswich într-un meci tensionat încheiat 2-2 împotriva lui Hull pe stadionul MKM. Acest rezultat permite lui Ipswich să obțină un punct prețios în deplasare, în timp ce Hull își menține recordul de invincibilitate pe teren propriu, dar își extinde seria de meciuri fără victorie la opt.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-01T14:07:44.120488+00:00",
-      "data_afisaj": "1 noiembrie 2026, 16:07"
-    },
-    {
-      "id": "4018e47bcf5b",
-      "titlu": "Igor Thiago marchează, Brentford obține prima victorie după cinci meciuri, învingând Forest",
-      "rezumat": "Igor Thiago a marcat în a doua repriză, ajutând-o pe Brentford să obțină o victorie cu 2-0 împotriva lui Nottingham Forest pe Gtech Community Stadium. Aceasta este prima victorie a lui Brentford în ultimele cinci partide, un rezultat crucial care le oferă un moral ridicat și le permite să urce în clasament, îndepărtându-se de zona periculoasă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-01T14:07:44.122217+00:00",
-      "data_afisaj": "1 noiembrie 2026, 16:07"
-    },
-    {
-      "id": "8760d0dc06d7",
-      "titlu": "Naderi rupe rezistența lui Aberdeen, Rangers ajunge în finala Cupei Ligii Scoției",
-      "rezumat": "Ryan Naderi a marcat un gol dramatic pe final de meci, spulberând rezistența tenace a lui Aberdeen și asigurând echipei Rangers un loc în finala Cupei Ligii Scoției. Aberdeen a reușit să limiteze Rangers la un singur șut pe poartă în prima repriză, dar presiunea constantă a lui Rangers din a doua parte a meciului a dus la golul decisiv al lui Naderi în minutul 83, scor 1-0 pe Hampden Park.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-01T14:07:44.124948+00:00",
-      "data_afisaj": "1 noiembrie 2026, 16:07"
     }
   ]
 }
