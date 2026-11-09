@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-08T20:55:31.252347+00:00",
-  "updated_at_afisaj": "8 noiembrie 2026, 22:55",
+  "updated_at": "2026-11-09T17:15:29.406549+00:00",
+  "updated_at_afisaj": "9 noiembrie 2026, 19:15",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,65 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 137,
+  "numar_stiri": 134,
   "stiri": [
+    {
+      "id": "3031c9c39db9",
+      "titlu": "Aberdeen îl demite pe Robinson după căderea în clasament",
+      "rezumat": "Aberdeen îl demite pe antrenorul principal Stephen Robinson după ce a coborât pe penultimul loc în Premiership-ul Scoțian.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-11-09T17:15:23.545115+00:00",
+      "data_afisaj": "9 noiembrie 2026, 19:15"
+    },
+    {
+      "id": "a2f27ed0425b",
+      "titlu": "Alisson vrea să semneze un nou contract cu Liverpool",
+      "rezumat": "Portarul lui Liverpool, Alisson Becker, vrea să rămână la club după sfârșitul sezonului, când actualul său contract este programat să expire.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-11-09T17:15:23.546265+00:00",
+      "data_afisaj": "9 noiembrie 2026, 19:15"
+    },
+    {
+      "id": "7ac26596e308",
+      "titlu": "Incident cu incident: A fost un weekend prost pentru VAR?",
+      "rezumat": "Aproape fiecare meci a avut o decizie VAR controversată în Premier League în acest weekend. Dar câte ar putea fi considerate erori?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-09T17:15:23.547457+00:00",
+      "data_afisaj": "9 noiembrie 2026, 19:15"
+    },
+    {
+      "id": "cb530396cb7f",
+      "titlu": "Burn îl înlocuiește pe Guehi, accidentat, în lotul Angliei",
+      "rezumat": "Dan Burn de la Newcastle este adăugat în lotul Angliei pentru a juca împotriva Croației și Spaniei în Liga Națiunilor săptămâna aceasta, după ce Marc Guehi s-a retras din cauza unei accidentări la șold.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-09T17:15:23.548560+00:00",
+      "data_afisaj": "9 noiembrie 2026, 19:15"
+    },
+    {
+      "id": "4035d3f0446a",
+      "titlu": "Personalul Chelsea, avertizat cu privire la utilizarea Fantasy Premier League",
+      "rezumat": "Chelsea avertizează personalul să fie atent la dezvăluirea știrilor despre echipă prin Fantasy Premier League, după ce accidentarea lui Joao Pedro a părut să fi fost divulgată involuntar prin selecțiile de echipă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-09T17:15:23.549712+00:00",
+      "data_afisaj": "9 noiembrie 2026, 19:15"
+    },
     {
       "id": "ae7f918a5397",
       "titlu": "Liverpool dispatch Palace to pile pressure on Sage",
@@ -1477,94 +1534,6 @@
       ],
       "data_publicare": "2026-11-02T17:50:33.939139+00:00",
       "data_afisaj": "2 noiembrie 2026, 19:50"
-    },
-    {
-      "id": "457d7e225543",
-      "titlu": "Jack Grealish, din nou exclus din lotul lui Everton pentru meciul cu Newcastle",
-      "rezumat": "Mijlocașul Jack Grealish va rata al treilea meci consecutiv pentru Everton, fiind lăsat în afara lotului pentru deplasarea din Premier League la Newcastle. Decizia vine după ce Grealish a fost exclus și din partida de Carabao Cup de săptămâna trecută, din motive disciplinare, după ce a lipsit de la antrenamente fără permisiune. Jucătorul de 31 de ani a rămas în Merseyside pentru a-și îmbunătăți condiția fizică, în timp ce echipa sa se pregătește pentru confruntarea cu Newcastle. Această situație ridică semne de întrebare cu privire la viitorul său la club.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-02T16:54:11.338656+00:00",
-      "data_afisaj": "2 noiembrie 2026, 18:54"
-    },
-    {
-      "id": "07787696b79a",
-      "titlu": "Cristiano Ronaldo absentează din deplasarea lui Al Nassr în Uzbekistan din motive de securitate",
-      "rezumat": "Superstarul portughez Cristiano Ronaldo nu a făcut deplasarea cu echipa sa, Al Nassr, pentru meciul din Liga Campionilor Asiei împotriva echipei Pakhtakor din Uzbekistan. Decizia a fost luată pe fondul unor preocupări legate de securitate. Absența lui Ronaldo este o veste importantă pentru fanii fotbalului asiatic și pentru Al Nassr, care se bazează pe prezența sa pe teren. Clubul nu a oferit detalii suplimentare privind natura amenințărilor de securitate, dar a confirmat că jucătorul a fost lăsat acasă ca măsură de precauție.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-11-02T16:54:11.339958+00:00",
-      "data_afisaj": "2 noiembrie 2026, 18:54"
-    },
-    {
-      "id": "83c0a86acb92",
-      "titlu": "DAZN obține drepturile exclusive de streaming global pentru Cupa Mondială a Cluburilor din 2029",
-      "rezumat": "Compania de streaming DAZN a obținut o opțiune exclusivă pentru drepturile de streaming global pentru următoarea ediție a Cupei Mondiale a Cluburilor masculine, programată pentru 2029. Această înțelegere aprofundează parteneriatul DAZN cu FIFA, după ce compania, susținută de Arabia Saudită, a plătit un miliard de dolari pentru drepturile globale ale turneului inaugural cu 32 de echipe din Statele Unite, desfășurat anul trecut. Acordul subliniază importanța tot mai mare a platformelor de streaming în distribuția conținutului sportiv la nivel mondial.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-02T16:54:11.341254+00:00",
-      "data_afisaj": "2 noiembrie 2026, 18:54"
-    },
-    {
-      "id": "17f800dfedfe",
-      "titlu": "Aston Villa renunță la acțiunea legală împotriva lui Jamie Carragher",
-      "rezumat": "Clubul Aston Villa a confirmat că nu va continua cu nicio acțiune legală împotriva fostului fundaș al lui Liverpool și actualului expert sportiv, Jamie Carragher. Anterior, Villa amenințase cu demersuri legale în urma unor comentarii făcute de Carragher, pe care le-a considerat \"insulte inacceptabile\". Decizia de a renunța la proces pune capăt unei dispute publice care a atras atenția în lumea fotbalului, indicând o posibilă rezolvare amiabilă sau o reevaluare a situației de către club.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-02T16:54:11.342434+00:00",
-      "data_afisaj": "2 noiembrie 2026, 18:54"
-    },
-    {
-      "id": "98ed25c03941",
-      "titlu": "Antrenorul Iraola va cere jucătorilor săi să simuleze pe viitor, după o decizie controversată de arbitraj",
-      "rezumat": "Andoni Iraola, antrenorul echipei Bournemouth, a declarat că pe viitor le va cere jucătorilor săi să cadă mai ușor în careu, după ce Liverpool nu a primit un penalty în înfrângerea de duminică împotriva lui Arsenal. Declarația vine în contextul unei controverse legate de o posibilă simulare sau o decizie de arbitraj neacordată. Iraola a subliniat că, în opinia sa, lipsa unei reacții din partea jucătorului în cauză a contribuit la neacordarea loviturii de pedeapsă, sugerând că o atitudine mai \"teatrală\" ar putea fi necesară pentru a obține decizii favorabile.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-02T16:54:11.343764+00:00",
-      "data_afisaj": "2 noiembrie 2026, 18:54"
-    },
-    {
-      "id": "cc3dd7ac40a3",
-      "titlu": "Drew Spence stabilește un nou record de apariții în Women's Super League",
-      "rezumat": "Mijlocașul echipei Tottenham, Drew Spence, a intrat în istoria fotbalului feminin englez, devenind jucătoarea cu cele mai multe apariții în Women's Super League (WSL). Spence și-a exprimat mândria pentru această realizare remarcabilă, care subliniază longevitatea și contribuția sa constantă la cel mai înalt nivel al fotbalului feminin din Anglia. Recordul său reprezintă un reper important în cariera sa și în dezvoltarea campionatului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-01T20:55:25.935447+00:00",
-      "data_afisaj": "1 noiembrie 2026, 22:55"
-    },
-    {
-      "id": "f1d9586a938a",
-      "titlu": "Lazio preia conducerea în Serie A după o victorie dificilă",
-      "rezumat": "Echipa Lazio a urcat pe primul loc în clasamentul Serie A, după ce a obținut o victorie muncită împotriva formației Cagliari. Meciul a fost unul disputat, iar Lazio a trebuit să revină în joc pentru a-și asigura cele trei puncte esențiale. Această performanță subliniază ambițiile clubului de a se menține în lupta pentru titlu și de a contesta supremația echipelor tradiționale din campionatul italian.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-01T20:55:25.936722+00:00",
-      "data_afisaj": "1 noiembrie 2026, 22:55"
-    },
-    {
-      "id": "dce035dd025d",
-      "titlu": "Salford City, echipa deținută de David Beckham, își reconfirmă ambițiile de promovare",
-      "rezumat": "Salford City, clubul deținut de David Beckham și membrii \"Class of '92\" de la Manchester United, arată semne că își poate îndeplini ambițiile de a ajunge în Championship. După șapte sezoane petrecute în League Two, echipa pare să își găsească ritmul sub noua conducere, preluată în mai 2025. Performanțele recente sugerează că obiectivul de a urca în eșaloanele superioare ale fotbalului englez devine tot mai realist, depășind așteptările inițiale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-01T20:55:25.939094+00:00",
-      "data_afisaj": "1 noiembrie 2026, 22:55"
     }
   ]
 }
