@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-10T15:27:36.263141+00:00",
-  "updated_at_afisaj": "10 noiembrie 2026, 17:27",
+  "updated_at": "2026-11-10T16:06:29.474469+00:00",
+  "updated_at_afisaj": "10 noiembrie 2026, 18:06",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,52 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 128,
+  "numar_stiri": 127,
   "stiri": [
+    {
+      "id": "9e263d192684",
+      "titlu": "Conducerea Manchester United va Discuta Planul de Retrogradare la Summitul Michael Carrick din Monaco",
+      "rezumat": "Conducerea clubului Manchester United va organiza o întâlnire crucială la Monaco pentru a evalua situația actuală a echipei și a discuta un plan de acțiune în contextul riscului de retrogradare. Această decizie vine după un început de sezon dezastruos, cu o singură victorie în primele zece meciuri de campionat. Viitorul antrenorului principal Michael Carrick va fi, de asemenea, un subiect central al discuțiilor, pe fondul presiunii crescânde asupra clubului. Summitul subliniază gravitatea crizei prin care trece echipa.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-11-10T16:06:29.471476+00:00",
+      "data_afisaj": "10 noiembrie 2026, 18:06"
+    },
+    {
+      "id": "c05ec114ccc0",
+      "titlu": "Țara Galilor Îl Convoacă pe Aaron Collins de la MK Dons După Retragerea Lui Kieffer Moore",
+      "rezumat": "Naționala Țării Galilor a anunțat convocarea atacantului Aaron Collins de la MK Dons pentru meciurile din Liga Națiunilor programate în această lună. Această decizie vine ca urmare a retragerii din lot a atacantului Kieffer Moore de la Wrexham, care s-a accidentat. Modificarea în componența echipei este o măsură necesară pentru a asigura o acoperire adecvată în atac înaintea confruntărilor internaționale, oferind o oportunitate importantă pentru Collins de a se afirma la nivel internațional.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-10T16:06:29.472547+00:00",
+      "data_afisaj": "10 noiembrie 2026, 18:06"
+    },
+    {
+      "id": "39b6f5c98f63",
+      "titlu": "Crystal Palace Ar Putea Evita Compensații Substanțiale Dacă Pierre Sage Revine la Lens",
+      "rezumat": "Clubul Crystal Palace ar putea evita plata unor compensații semnificative antrenorului Pierre Sage, a cărui plecare de la Selhurst Park nu a fost încă confirmată oficial. Această posibilitate apare în cazul în care Sage ar fi reangajat de fostul său club, Lens. Decizia de a-l demite pe Sage a fost luată duminică seară, după a patra înfrângere consecutivă a echipei în Premier League, împotriva lui Liverpool, lăsând clubul într-o situație financiară și sportivă delicată. Negocierile sunt în desfășurare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-10T16:06:29.473525+00:00",
+      "data_afisaj": "10 noiembrie 2026, 18:06"
+    },
+    {
+      "id": "e20b40184221",
+      "titlu": "Principalii Candidați pentru Postul de Antrenor la Aberdeen, Analizați",
+      "rezumat": "După demiterea lui Stephen Robinson, clubul scoțian Aberdeen analizează opțiunile pentru noul antrenor principal. Două nume din fotbalul intern se disting ca favoriți, însă nu este exclusă nici posibilitatea numirii unui tehnician străin. Căutarea unui înlocuitor vine în contextul unei căderi în clasament, iar conducerea clubului își propune să găsească o soluție rapidă pentru a redresa performanțele echipei. Decizia finală este așteptată în perioada următoare, pentru a stabiliza situația sportivă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-10T16:06:29.474456+00:00",
+      "data_afisaj": "10 noiembrie 2026, 18:06"
+    },
     {
       "id": "1052dc393b81",
       "titlu": "Avocații lui Rui Pinto Discută Cooperarea cu Autoritățile Britanice în Cazul Manchester City",
@@ -1407,61 +1451,6 @@
       ],
       "data_publicare": "2026-11-03T21:35:37.935762+00:00",
       "data_afisaj": "3 noiembrie 2026, 23:35"
-    },
-    {
-      "id": "1b6951600c79",
-      "titlu": "Anglia va înfrunta Franța și Portugalia în Liga Națiunilor la fotbal feminin",
-      "rezumat": "Naționala feminină de fotbal a Angliei, supranumită \"Lionesses\", a fost repartizată în aceeași grupă cu Franța, Austria și Portugalia pentru ediția de anul viitor a Ligii Națiunilor. Această tragere la sorți stabilește adversari puternici pentru echipa engleză, care va căuta să își consolideze poziția în competiția europeană. Meciurile din Liga Națiunilor sunt cruciale pentru calificarea la turneele majore viitoare și oferă oportunități importante de pregătire împotriva unor echipe de top din Europa.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-03T15:49:53.464206+00:00",
-      "data_afisaj": "3 noiembrie 2026, 17:49"
-    },
-    {
-      "id": "ae74460c8fad",
-      "titlu": "Crystal Palace contestă cartonașul roșu primit de Mateta",
-      "rezumat": "Clubul Crystal Palace a depus un apel împotriva deciziei de a-i acorda cartonașul roșu atacantului Jean-Philippe Mateta în timpul meciului pierdut sâmbătă împotriva echipei Tottenham. Incidentul a avut loc într-o fază controversată a jocului, iar oficialii clubului speră ca, în urma reexaminării, decizia să fie anulată, permițându-i jucătorului să fie disponibil pentru următoarele partide. Mateta este un element important în ofensiva echipei, iar absența sa ar putea afecta performanța clubului în campionat.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-03T15:49:53.465384+00:00",
-      "data_afisaj": "3 noiembrie 2026, 17:49"
-    },
-    {
-      "id": "6874dac063cd",
-      "titlu": "Jucătoare importante absente de pe lista scurtă FIFPRO World XI la fotbal feminin",
-      "rezumat": "Anunțul listei scurte pentru echipa ideală FIFPRO Women's World XI a stârnit controverse, deoarece mai multe nume mari din fotbalul feminin mondial lipsesc în mod surprinzător. Această omisiune a unor jucătoare considerate esențiale în echipele lor și recunoscute pentru performanțele lor recente a generat discuții aprinse în rândul fanilor și al experților. Selecția anuală a FIFPRO este un barometru al excelenței individuale, iar absența unor vedete ridică semne de întrebare cu privire la criteriile de vot.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-03T15:49:53.466647+00:00",
-      "data_afisaj": "3 noiembrie 2026, 17:49"
-    },
-    {
-      "id": "4524d44b2aa0",
-      "titlu": "Sunderland confirmă semnarea unui contract pe termen lung cu Brobbey",
-      "rezumat": "Clubul Sunderland a anunțat oficial că a ajuns la un acord pentru un contract pe termen lung cu jucătorul Brobbey. Această mutare strategică subliniază intențiile clubului de a-și consolida lotul pentru viitor și de a asigura stabilitatea pe termen lung a echipei. Detaliile specifice ale contractului nu au fost dezvăluite, dar semnarea indică încrederea conducerii în potențialul și contribuția jucătorului la obiectivele sportive ale clubului. Brobbey este considerat o piesă importantă în planurile antrenorului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-11-03T15:49:53.467845+00:00",
-      "data_afisaj": "3 noiembrie 2026, 17:49"
-    },
-    {
-      "id": "112fb9b64949",
-      "titlu": "Ryan Gravenberch de la Liverpool va rata deplasarea la Fenerbahce",
-      "rezumat": "Mijlocașul lui Liverpool, Ryan Gravenberch, nu va face parte din lotul echipei pentru deplasarea în Turcia, unde \"Cormoranii\" vor înfrunta Fenerbahce. Absența jucătorului a fost confirmată, fără a se oferi detalii suplimentare despre motivul exact, însă este o veste importantă pentru strategia antrenorului Jurgen Klopp înaintea acestei confruntări europene. Gravenberch este un jucător cheie la mijlocul terenului, iar lipsa sa ar putea influența opțiunile tactice ale echipei într-un meci important.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-11-03T15:49:53.468926+00:00",
-      "data_afisaj": "3 noiembrie 2026, 17:49"
     }
   ]
 }
