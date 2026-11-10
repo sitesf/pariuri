@@ -1,26 +1,11 @@
 {
-  "data_start": "2026-11-09",
-  "data_final": "2026-11-16",
-  "updated_at": "2026-11-09T13:44:41.895806+00:00",
+  "data_start": "2026-11-10",
+  "data_final": "2026-11-17",
+  "updated_at": "2026-11-10T13:22:25.552834+00:00",
   "surse": [
     "The Odds API"
   ],
-  "status_date": "1 meciuri gasite, 0 cu pronostic",
-  "numar_meciuri": 1,
-  "meciuri": [
-    {
-      "data": "2026-11-09",
-      "ora": "20:00",
-      "home": "Kristiansund BK",
-      "away": "Vålerenga",
-      "liga": "Eliteserien",
-      "cota_1": 2.7,
-      "cota_x": 4.0,
-      "cota_2": 2.23,
-      "pronostic": null,
-      "motiv": null,
-      "cota_pronostic": null,
-      "probabilitate": null
-    }
-  ]
+  "status_date": "0 meciuri gasite, 0 cu pronostic",
+  "numar_meciuri": 0,
+  "meciuri": []
 }
