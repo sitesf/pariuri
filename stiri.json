@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-10T21:42:22.912044+00:00",
-  "updated_at_afisaj": "10 noiembrie 2026, 23:42",
+  "updated_at": "2026-11-10T22:06:04.702867+00:00",
+  "updated_at_afisaj": "11 noiembrie 2026, 00:06",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,53 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 127,
+  "numar_stiri": 131,
   "stiri": [
+    {
+      "id": "5878ce8c4cba",
+      "titlu": "Brennan Johnson de la Țara Galilor Visează la Mai Multe Turnee Majore",
+      "rezumat": "Jucătorul galez Brennan Johnson a declarat că este mulțumit de realizările sale în fotbal, dar își dorește să participe la mai multe turnee majore cu naționala Țării Galilor. Acesta a atins recent borna de 50 de selecții, subliniind ambiția sa de a contribui la succesul echipei pe scena internațională. Declarațiile vin în contextul pregătirilor pentru viitoarele meciuri ale naționalei, unde Johnson speră să joace un rol cheie.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-10T22:06:04.697342+00:00",
+      "data_afisaj": "11 noiembrie 2026, 00:06"
+    },
+    {
+      "id": "d293fe84a661",
+      "titlu": "Votul pentru Jucătoarea Anului 2026 la Fotbal Feminin BBC a Început",
+      "rezumat": "Procesul de vot pentru Jucătoarea Anului 2026 la Fotbal Feminin, organizat de BBC, a fost deschis. Cinci jucătoare de top au fost incluse pe lista scurtă, iar fanii sunt invitați să își exprime opțiunea. Acest premiu recunoaște performanțele excepționale ale fotbalistelor pe parcursul anului, contribuind la promovarea fotbalului feminin la nivel global și la celebrarea talentului din sport.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-10T22:06:04.698888+00:00",
+      "data_afisaj": "11 noiembrie 2026, 00:06"
+    },
+    {
+      "id": "a3cbf3cf3274",
+      "titlu": "Miroslav Klose Ghidează Noua Generație de Fotbaliști Germani",
+      "rezumat": "Miroslav Klose, cel mai bun marcator al Germaniei la Cupa Mondială, care a trecut de la statutul de amator la cel de campion mondial ca jucător, își construiește acum o carieră similară ca antrenor. Articolul detaliază modul în care Klose își folosește experiența vastă pentru a modela și inspira tinerii fotbaliști, contribuind la dezvoltarea viitoarelor talente ale fotbalului german și la transmiterea valorilor sportive.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-10T22:06:04.700295+00:00",
+      "data_afisaj": "11 noiembrie 2026, 00:06"
+    },
+    {
+      "id": "1e956141a02f",
+      "titlu": "Chelsea Femei Încheie la Egalitate cu Hacken în Liga Campionilor",
+      "rezumat": "Echipa feminină a clubului Chelsea a remizat 0-0 împotriva formației Hacken în Liga Campionilor. Meciul, care a avut loc în Suedia, s-a încheiat fără goluri, ambele echipe împărțind punctele. Acest rezultat menține suspansul în grupa din Liga Campionilor, Chelsea căutând să își asigure calificarea în fazele superioare ale competiției. Echipa va trebui să obțină rezultate mai bune în meciurile următoare pentru a avansa.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-10T22:06:04.702849+00:00",
+      "data_afisaj": "11 noiembrie 2026, 00:06"
+    },
     {
       "id": "2b89cfe8caee",
       "titlu": "McTominay a Dezvăluit Tratamentul Cardiac Primit la Cupa Mondială",
