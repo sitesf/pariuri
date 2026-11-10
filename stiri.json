@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-10T16:06:29.474469+00:00",
-  "updated_at_afisaj": "10 noiembrie 2026, 18:06",
+  "updated_at": "2026-11-10T21:42:22.912044+00:00",
+  "updated_at_afisaj": "10 noiembrie 2026, 23:42",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,63 @@
   },
   "numar_stiri": 127,
   "stiri": [
+    {
+      "id": "2b89cfe8caee",
+      "titlu": "McTominay a Dezvăluit Tratamentul Cardiac Primit la Cupa Mondială",
+      "rezumat": "Mijlocașul scoțian Scott McTominay a dezvăluit că a primit tratament pentru o afecțiune cardiacă cu doar două zile înainte de victoria Scoției împotriva Haiti la Cupa Mondială din iunie. Această informație aduce în prim-plan provocările medicale cu care se confruntă sportivii de elită, chiar și înaintea unor competiții majore. Dezvăluirea subliniază rezistența și dedicarea jucătorului, care a continuat să performeze la cel mai înalt nivel în ciuda problemelor de sănătate. Situația sa medicală a fost gestionată discret, permițându-i să participe la turneu.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-10T21:42:22.905201+00:00",
+      "data_afisaj": "10 noiembrie 2026, 23:42"
+    },
+    {
+      "id": "4c62251fbe4f",
+      "titlu": "Mauricio Pochettino, Interesat să Părăsească Naționala SUA pentru Manchester United",
+      "rezumat": "Antrenorul echipei naționale masculine a Statelor Unite, Mauricio Pochettino, este interesat de o mutare la Manchester United, conform mai multor surse care indică un interes reciproc. Contractul lui Pochettino include o clauză de reziliere de aproximativ 10 milioane de dolari. Această știre vine în contextul în care se anticipează demiterea actualului antrenor al lui United, Michael Carrick, după un început dezastruos de sezon, care plasează echipa în pericol de retrogradare din Premier League. Potențiala numire a lui Pochettino ar marca o schimbare majoră la conducerea clubului englez.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-10T21:42:22.907106+00:00",
+      "data_afisaj": "10 noiembrie 2026, 23:42"
+    },
+    {
+      "id": "975c4f6b1608",
+      "titlu": "Selecționerul Scoției, Sebastien Pocognoli, se Bazează pe un Grup de Cinci Căpitani",
+      "rezumat": "Noul selecționer al Scoției, Sebastien Pocognoli, a declarat că se va baza pe un \"grup de cinci căpitani\" pentru a conduce echipa. Acesta a exprimat entuziasmul pentru includerea lui Scott McTominay, mijlocașul de la Napoli, în lot, descriindu-l ca fiind unul dintre \"liderii fantastici\" care l-au convins să preia postul de antrenor principal al Scoției. Strategia lui Pocognoli vizează consolidarea coeziunii și a leadership-ului în cadrul echipei, în vederea viitoarelor meciuri din Liga Națiunilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-10T21:42:22.908988+00:00",
+      "data_afisaj": "10 noiembrie 2026, 23:42"
+    },
+    {
+      "id": "fd8d0cbd0ef4",
+      "titlu": "Rio Ngumoha, Gata să Impresioneze la Naționala Angliei și Visează la Balonul de Aur",
+      "rezumat": "Tânărul aripă de la Liverpool, Rio Ngumoha, în vârstă de 18 ani, este hotărât să-și facă simțită prezența la echipa națională a Angliei și și-a exprimat ambiția de a câștiga Balonul de Aur. Deși a ratat la limită lotul pentru Cupa Mondială de anul trecut, Ngumoha a impresionat în cantonamentul pre-turneu și a reușit să se impună în planurile antrenorului Thomas Tuchel la club, după un început excelent de sezon. Acesta este considerat un talent emergent cu un potențial imens.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-10T21:42:22.910531+00:00",
+      "data_afisaj": "10 noiembrie 2026, 23:42"
+    },
+    {
+      "id": "37b4dca89ba7",
+      "titlu": "Everton Inițiază Discuții pentru un Transfer Surpriză al lui Kevin De Bruyne",
+      "rezumat": "Clubul Everton ar fi început discuțiile pentru un transfer șocant al mijlocașului Kevin De Bruyne. Legenda lui Manchester City ar întâmpina dificultăți la Napoli, unde se află în prezent, conform unor rapoarte. Această mutare ar reprezenta o achiziție majoră pentru Everton și o revenire neașteptată în Premier League pentru unul dintre cei mai buni mijlocași din lume. Speculațiile privind viitorul său la Napoli au alimentat zvonurile despre o posibilă plecare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-11-10T21:42:22.912024+00:00",
+      "data_afisaj": "10 noiembrie 2026, 23:42"
+    },
     {
       "id": "9e263d192684",
       "titlu": "Conducerea Manchester United va Discuta Planul de Retrogradare la Summitul Michael Carrick din Monaco",
@@ -1392,65 +1449,6 @@
       ],
       "data_publicare": "2026-11-03T22:10:00.729719+00:00",
       "data_afisaj": "4 noiembrie 2026, 00:10"
-    },
-    {
-      "id": "7e07aff05d24",
-      "titlu": "Barcelona v Aston Villa: Champions League – live",
-      "rezumat": "⚽️ Champions League updates from the 8pm GMT start ⚽️ Manchester United v Roma – follow it live ⚽️ Live scores | League phase standings | And email Luke Steven Gerrard and Ally McCoist are on co-commentary duty for TNT Sports alongside Darren Fletcher in Barcelona. The sight and sound of Gerrard has reminded me to recap CarragherGate: “ Jamie Carragher has apologised to Aston Villa for using “clumsy and wrong” language when discussing the club, after club had threatened legal action. “I’d lik",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "GSP.ro",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-03T21:35:37.930893+00:00",
-      "data_afisaj": "3 noiembrie 2026, 23:35"
-    },
-    {
-      "id": "be9c863ecda5",
-      "titlu": "Tenerife striker De Miguel dies after on-field collision",
-      "rezumat": "Tenerife forward Jesus de Miguel dies aged 30 after an on-field collision during a Spanish second-division match.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-03T21:35:37.931997+00:00",
-      "data_afisaj": "3 noiembrie 2026, 23:35"
-    },
-    {
-      "id": "251b95d65722",
-      "titlu": "🚨 LIVE Live Etapa 4 din Liga Campionilor. S-a marcat în Feyenoord – Inter. PSG face spectacol pe terenul lui Villarreal. Atletico – Bayern e meciul serii",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-11-03T21:35:37.933570+00:00",
-      "data_afisaj": "3 noiembrie 2026, 23:35"
-    },
-    {
-      "id": "3945e393df6d",
-      "titlu": "Saliba's back for Arsenal - how does Arteta solve his defensive dilemma?",
-      "rezumat": "William Saliba returning to first-team training before Arsenal's game with Slavia Prague in the Champions League is a huge boost for the club but now presents Mikel Arteta with a selection headache.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-03T21:35:37.934733+00:00",
-      "data_afisaj": "3 noiembrie 2026, 23:35"
-    },
-    {
-      "id": "9e858a314104",
-      "titlu": "West Ham approach Parker after sacking boss Nuno",
-      "rezumat": "West Ham United sack antrenor principal Nuno Espirito Santo and are said to be in talks with Scott Parker as his replacement.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-03T21:35:37.935762+00:00",
-      "data_afisaj": "3 noiembrie 2026, 23:35"
     }
   ]
 }
