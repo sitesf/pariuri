@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-10T00:00:42.577786+00:00",
-  "updated_at_afisaj": "10 noiembrie 2026, 02:00",
+  "updated_at": "2026-11-10T00:31:03.818839+00:00",
+  "updated_at_afisaj": "10 noiembrie 2026, 02:31",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,52 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 124,
+  "numar_stiri": 128,
   "stiri": [
+    {
+      "id": "b60853bcd1c5",
+      "titlu": "Manchester City, Verdict de Vinovăție și Apel în Cazul Financiar",
+      "rezumat": "Revista World Soccer a raportat un verdict de vinovăție în cazul financiar al clubului Manchester City, o decizie care a stârnit un interes considerabil în lumea fotbalului. Clubul a depus deja un apel împotriva acestei hotărâri. Această evoluție majoră, care a fost mult timp în așteptare, ridică întrebări importante despre viitorul clubului și despre implicațiile sale pentru Premier League. Publicația a dedicat spații ample analizei acestei situații, cu experți care dezbat consecințele și pașii următori pentru campioana Angliei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "World Soccer"
+      ],
+      "data_publicare": "2026-11-10T00:31:03.813415+00:00",
+      "data_afisaj": "10 noiembrie 2026, 02:31"
+    },
+    {
+      "id": "0d3d06e3dbda",
+      "titlu": "Lucy Bronze, Inclusă în Echipa Mondială FIFPRO Feminină pentru a Noua Oară, un Record",
+      "rezumat": "Fundașul englez Lucy Bronze a fost nominalizată în Echipa Mondială FIFPRO Feminină pentru a noua oară în carieră, stabilind un nou record. Această recunoaștere subliniază constanța și performanțele excepționale ale jucătoarei la cel mai înalt nivel al fotbalului feminin. Alături de Bronze, alte patru jucătoare din Anglia au fost incluse în această selecție prestigioasă, reflectând succesul recent al naționalei feminine a Angliei. Nominalizarea este rezultatul voturilor exprimate de mii de fotbaliste profesioniste din întreaga lume.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-10T00:31:03.815080+00:00",
+      "data_afisaj": "10 noiembrie 2026, 02:31"
+    },
+    {
+      "id": "d833d0fc74eb",
+      "titlu": "Harry Kane, Câștigător al Balonului de Aur, Omitere Surprinzătoare din Echipa Mondială FIFPRO",
+      "rezumat": "Atacantul englez Harry Kane, recent laureat al Balonului de Aur, nu a fost inclus în Echipa Mondială FIFPRO, o decizie care a stârnit discuții în comunitatea fotbalistică. Această omisiune este considerată surprinzătoare, având în vedere performanțele sale individuale remarcabile care i-au adus cel mai prestigios trofeu individual. Echipa Mondială FIFPRO este votată de mii de jucători profesioniști din întreaga lume, iar absența lui Kane din această selecție, în ciuda succesului său recent, ridică semne de întrebare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-11-10T00:31:03.816771+00:00",
+      "data_afisaj": "10 noiembrie 2026, 02:31"
+    },
+    {
+      "id": "b69664bd9e94",
+      "titlu": "Diego Demme S-a Retras din Fotbal la 34 de Ani din Cauza Concuziilor",
+      "rezumat": "Fostul mijlocaș Diego Demme, câștigător al Serie A, a dezvăluit că s-a retras din fotbal la vârsta de 34 de ani din cauza efectelor persistente ale concuziilor. Demme a explicat că simptomele, care includeau dificultăți de condus și de îngrijire a copiilor, l-au determinat să ia decizia de a pune capăt carierei sale de fotbalist. Această mărturie subliniază importanța tot mai mare a sănătății jucătorilor și a riscurilor asociate cu leziunile la cap în sportul profesionist, aducând în atenție o problemă serioasă în fotbalul modern.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-11-10T00:31:03.818205+00:00",
+      "data_afisaj": "10 noiembrie 2026, 02:31"
+    },
     {
       "id": "202187d8b70d",
       "titlu": "Brady încetează asocierea cu Birmingham City",
