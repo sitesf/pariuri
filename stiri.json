@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-10T00:31:03.818839+00:00",
-  "updated_at_afisaj": "10 noiembrie 2026, 02:31",
+  "updated_at": "2026-11-10T15:27:36.263141+00:00",
+  "updated_at_afisaj": "10 noiembrie 2026, 17:27",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,62 @@
   },
   "numar_stiri": 128,
   "stiri": [
+    {
+      "id": "1052dc393b81",
+      "titlu": "Avocații lui Rui Pinto Discută Cooperarea cu Autoritățile Britanice în Cazul Manchester City",
+      "rezumat": "Avocații lui Rui Pinto, denunțătorul implicat în cazul financiar al clubului Manchester City, poartă discuții cu autoritățile britanice. Potrivit informațiilor, Biroul pentru Fraude Grave (Serious Fraud Office) a contactat pe Pinto, care este dispus să colaboreze în investigațiile privind infracțiuni financiare și sportive grave din Marea Britanie, în schimbul protecției. Această evoluție ar putea aduce noi perspective în dosarul complex al acuzațiilor aduse clubului Manchester City.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-10T15:27:36.257856+00:00",
+      "data_afisaj": "10 noiembrie 2026, 17:27"
+    },
+    {
+      "id": "6d7148e84d37",
+      "titlu": "Arsène Wenger Ia în Considerare Candidatura la Președinția FIFA Împotriva lui Gianni Infantino",
+      "rezumat": "Fostul manager al echipei Arsenal, Arsène Wenger, analizează posibilitatea de a candida împotriva actualului președinte FIFA, Gianni Infantino, la alegerile prezidențiale din martie. Această decizie ar putea marca o schimbare semnificativă în peisajul conducerii fotbalului mondial, aducând o figură cu o vastă experiență în sport la nivel înalt în cursa pentru cea mai importantă funcție din fotbalul internațional.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-10T15:27:36.259348+00:00",
+      "data_afisaj": "10 noiembrie 2026, 17:27"
+    },
+    {
+      "id": "de49da7aa9b3",
+      "titlu": "Vincent Kompany Revine la Antrenamentele Bayern München După Colapsul Recent",
+      "rezumat": "Antrenorul principal al echipei Bayern München, Vincent Kompany, a revenit la antrenamente, clubul anunțând că este \"pe drumul spre recuperare\" după un colaps recent și tratamentul primit în spital. Această veste aduce liniște în rândul fanilor și al clubului, confirmând că starea de sănătate a tehnicianului se îmbunătățește și că acesta își reia treptat atribuțiile.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-10T15:27:36.260612+00:00",
+      "data_afisaj": "10 noiembrie 2026, 17:27"
+    },
+    {
+      "id": "0bb8e7f22ec0",
+      "titlu": "Felix Nmecha de la Borussia Dortmund Neagă că Celebrarea Golurilor Sale Promovează Intoleranța",
+      "rezumat": "Mijlocașul Borussiei Dortmund și al naționalei Germaniei, Felix Nmecha, a răspuns criticilor legate de celebrările sale de gol, asociate cu o rețea evanghelică. Nmecha a declarat că gesturile sale au fost înțelese greșit și nu sunt menite să promoveze \"intoleranță, discriminare sau ură sub nicio formă\". Acesta a subliniat că mesajul său este unul de \"dragoste și respect față de toți\", în urma criticilor primite din partea unui grup de fani ai clubului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-10T15:27:36.261903+00:00",
+      "data_afisaj": "10 noiembrie 2026, 17:27"
+    },
+    {
+      "id": "ae289b1dc10a",
+      "titlu": "James Hill de la Bournemouth, Convocat în Premieră la Naționala Angliei",
+      "rezumat": "Fundașul echipei Bournemouth, James Hill, a fost adăugat în lotul naționalei Angliei pentru meciul din Liga Națiunilor împotriva Croației, care va avea loc joi pe stadionul Wembley. Convocarea sa vine ca o acoperire pentru absența lui Konsa și reprezintă o premieră pentru tânărul apărător la nivel de seniori, oferindu-i o oportunitate de a-și demonstra calitățile la cel mai înalt nivel internațional.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-10T15:27:36.263122+00:00",
+      "data_afisaj": "10 noiembrie 2026, 17:27"
+    },
     {
       "id": "b60853bcd1c5",
       "titlu": "Manchester City, Verdict de Vinovăție și Apel în Cazul Financiar",
@@ -1406,64 +1462,6 @@
       ],
       "data_publicare": "2026-11-03T15:49:53.468926+00:00",
       "data_afisaj": "3 noiembrie 2026, 17:49"
-    },
-    {
-      "id": "55285c578f6b",
-      "titlu": "Atacantul lui Tenerife, Jesus de Miguel, a decedat după o coliziune pe teren",
-      "rezumat": "Atacantul echipei Tenerife, Jesus de Miguel, în vârstă de 30 de ani, a murit în urma unei coliziuni suferite pe teren în timpul unui meci din liga a doua spaniolă. Incidentul tragic a avut loc în timpul partidei, iar vestea decesului său a fost confirmată de mai multe surse internaționale de știri sportive. Comunitatea fotbalistică este în doliu, exprimând condoleanțe familiei și clubului. Acest eveniment nefericit a șocat lumea fotbalului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-03T14:54:17.558296+00:00",
-      "data_afisaj": "3 noiembrie 2026, 16:54"
-    },
-    {
-      "id": "b58eeb50e0c7",
-      "titlu": "West Ham îl contactează pe Scott Parker după demiterea antrenorului Nuno Espírito Santo",
-      "rezumat": "Clubul West Ham United l-a demis pe antrenorul principal Nuno Espírito Santo, iar acum se află în discuții cu Scott Parker pentru a-i prelua locul. Decizia vine după o perioadă de rezultate nesatisfăcătoare, care au pus presiune pe tehnicianul portughez. Conducerea clubului a decis să facă o schimbare la nivelul băncii tehnice pentru a redresa parcursul echipei în campionat și a îmbunătăți performanțele viitoare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-03T14:54:17.560005+00:00",
-      "data_afisaj": "3 noiembrie 2026, 16:54"
-    },
-    {
-      "id": "eee6c572d6cf",
-      "titlu": "Cupa Asiei din 2027, amânată în Arabia Saudită din cauza conflictului din Orientul Mijlociu",
-      "rezumat": "Cupa Asiei din 2027, programată să aibă loc în Arabia Saudită, a fost amânată cu 11 luni, până la sfârșitul anului 2027, din cauza conflictului în curs din Orientul Mijlociu. Decizia a fost confirmată de Confederația Asiatică de Fotbal (AFC) după o lună de speculații, în urma unui atac asupra aeroportului internațional din Riad. Noile date, cu o finală propusă pe 21 ianuarie 2028, trebuie aprobate de FIFA, pentru a asigura siguranța participanților.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-03T14:54:17.561703+00:00",
-      "data_afisaj": "3 noiembrie 2026, 16:54"
-    },
-    {
-      "id": "e73d41288460",
-      "titlu": "McTominay revine în lotul Scoției, Penrice primește prima convocare",
-      "rezumat": "Scott McTominay, Kieran Tierney și Che Adams revin în lotul național al Scoției pentru meciurile rămase din Liga Națiunilor împotriva Macedoniei de Nord și Elveției. De asemenea, James Penrice a primit prima sa convocare la echipa națională, marcând un moment important în cariera sa. Selecționerul a optat pentru o combinație de experiență și talent nou pentru aceste confruntări cruciale, în încercarea de a obține rezultate pozitive.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-03T14:54:17.563205+00:00",
-      "data_afisaj": "3 noiembrie 2026, 16:54"
-    },
-    {
-      "id": "3eb79eb1edfd",
-      "titlu": "Probleme mari pentru antrenorul Matthias Jaissle la Newcastle, pe fondul nemulțumirii fanilor",
-      "rezumat": "La doar trei luni de la semnarea unui contract pe patru ani, antrenorul lui Newcastle, Matthias Jaissle, se confruntă cu probleme tot mai mari, pe măsură ce echipa sa este huiduită de fani după o nouă înfrângere pe teren propriu. Nemulțumirea suporterilor crește, iar presiunea asupra tehnicianului se intensifică, punând sub semnul întrebării stabilitatea proiectului său la club și capacitatea de a redresa situația echipei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-03T14:54:17.564835+00:00",
-      "data_afisaj": "3 noiembrie 2026, 16:54"
     }
   ]
 }
