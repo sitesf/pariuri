@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-11T22:31:54.722540+00:00",
-  "updated_at_afisaj": "12 noiembrie 2026, 00:31",
+  "updated_at": "2026-11-11T23:14:36.543524+00:00",
+  "updated_at_afisaj": "12 noiembrie 2026, 01:14",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 125,
+  "numar_stiri": 130,
   "stiri": [
+    {
+      "id": "772fc1d55583",
+      "titlu": "Thomas Tuchel își reafirmă angajamentul față de Anglia până la Euro 2028, dar vizează o revenire la nivel de club",
+      "rezumat": "Selecționerul Angliei, Thomas Tuchel, a declarat că nu a inclus o clauză de reziliere în contractul său și este dedicat echipei naționale cel puțin până la Campionatul European din 2028. Cu toate acestea, Tuchel a recunoscut că este deschis unei reveniri la conducerea unui club important în viitor, după încheierea mandatului său la națională. Această declarație vine în contextul speculațiilor privind plecarea altor antrenori de la echipe naționale către cluburi.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-11T23:14:36.537125+00:00",
+      "data_afisaj": "12 noiembrie 2026, 01:14"
+    },
+    {
+      "id": "a413f7f05977",
+      "titlu": "Plângere depusă la IRS privind angajarea menajerei președintelui FIFA, Gianni Infantino",
+      "rezumat": "O plângere a fost înaintată Serviciului de Venituri Interne al Statelor Unite (IRS), solicitând o investigație asupra acuzațiilor conform cărora o persoană aflată pe statul de plată al FIFA ar fi lucrat în mod privat ca menajeră pentru președintele Gianni Infantino. Dacă aceste acuzații se dovedesc fondate în urma investigației IRS, FIFA ar putea risca pierderea statutului său de organizație scutită de taxe în SUA, statut de care beneficiază în prezent.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-11T23:14:36.538722+00:00",
+      "data_afisaj": "12 noiembrie 2026, 01:14"
+    },
+    {
+      "id": "1cf24f8262cd",
+      "titlu": "SUA se retrage de la Cupa Mondială U-17 din Qatar din motive de siguranță",
+      "rezumat": "Echipa națională masculină sub 17 ani a Statelor Unite s-a retras de la Cupa Mondială FIFA U-17, programată să înceapă în Qatar în puțin peste o săptămână. Federația de Fotbal a SUA a justificat decizia printr-o scrisoare adresată jucătorilor, invocând preocupări legate de siguranța acestora și a personalului. Decizia face referire la un aviz de călătorie emis de Departamentul de Stat al SUA pentru Qatar, care recomandă cetățenilor să reconsidere călătoriile în această țară din cauza riscului de conflict armat.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-11T23:14:36.540223+00:00",
+      "data_afisaj": "12 noiembrie 2026, 01:14"
+    },
+    {
+      "id": "1d6b0beb2393",
+      "titlu": "Primele patru echipe din clasamentul FIFA vor fi separate până în semifinale la Cupa Mondială Feminină din 2027",
+      "rezumat": "FIFA a confirmat o modificare a procedurii de tragere la sorți pentru Cupa Mondială Feminină din 2027, prin care primele patru echipe clasate în ierarhia mondială vor fi menținute în grupe diferite până în faza semifinalelor, cu condiția ca fiecare să câștige grupa din care face parte. Spania, SUA, Germania și Anglia ocupă în prezent primele patru locuri în clasament, deși SUA și Anglia încă trebuie să se califice pentru turneu. Capii de serie vor fi stabiliți pe baza clasamentului FIFA din 7 decembrie.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-11T23:14:36.541925+00:00",
+      "data_afisaj": "12 noiembrie 2026, 01:14"
+    },
+    {
+      "id": "88b3803a1681",
+      "titlu": "Mutarea de 16 milioane de euro la Dinamo, în pericol de anulare; a fost deschis un proces",
+      "rezumat": "O tranzacție evaluată la 16 milioane de euro, care vizează clubul Dinamo București, riscă să fie anulată, după ce a fost inițiat un proces în acest sens. Detaliile complete ale situației au fost dezvăluite de ProSport, indicând o posibilă complicație legală care ar putea afecta semnificativ viitorul financiar și administrativ al clubului. Această evoluție aduce incertitudine asupra stabilității și planurilor de dezvoltare ale echipei din capitală.",
+      "categorie": "Fotbal",
+      "surse": [
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-11-11T23:14:36.543506+00:00",
+      "data_afisaj": "12 noiembrie 2026, 01:14"
+    },
     {
       "id": "2e14f170220c",
       "titlu": "Fotbal Zilnic",
