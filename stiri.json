@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-11T14:58:36.185556+00:00",
-  "updated_at_afisaj": "11 noiembrie 2026, 16:58",
+  "updated_at": "2026-11-11T15:52:28.638435+00:00",
+  "updated_at_afisaj": "11 noiembrie 2026, 17:52",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,61 @@
   },
   "numar_stiri": 131,
   "stiri": [
+    {
+      "id": "07183f1558a4",
+      "titlu": "Decesul lui Danny Kelly, Jurnalist și Comentator Sportiv Renumit",
+      "rezumat": "Jurnalistul și comentatorul sportiv britanic Danny Kelly a încetat din viață la vârsta de 69 de ani. Kelly a avut o carieră influentă în presa muzicală și sportivă, fiind redactor la NME și Q Magazine și fondator al site-ului Football 365. Ulterior, a devenit o voce cunoscută la BBC și TalkSport, contribuind semnificativ la definirea acoperirii fotbalului în Marea Britanie pentru o generație întreagă. Decesul său survine după o perioadă în care a primit tratament pentru cancer esofagian, lăsând în urmă o moștenire importantă în jurnalismul sportiv.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-11T15:52:28.633555+00:00",
+      "data_afisaj": "11 noiembrie 2026, 17:52"
+    },
+    {
+      "id": "f02171ed7a23",
+      "titlu": "Ronaldinho Anunță Revenirea în Fotbalul Profesionist",
+      "rezumat": "Legendarul fotbalist brazilian Ronaldinho este pregătit să revină în fotbalul profesionist pentru prima dată în peste un deceniu. Anunțul a stârnit un val de entuziasm printre fani, care vor avea ocazia să urmărească evoluțiile sale în exclusivitate pe Sky Sports. Detaliile complete despre echipa la care va juca și calendarul meciurilor nu au fost încă făcute publice, dar vestea marchează un moment important pentru suporterii care speră să revadă magia fostului Balon de Aur pe teren. Această revenire neașteptată promite să aducă un plus de spectacol în lumea fotbalului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-11-11T15:52:28.634712+00:00",
+      "data_afisaj": "11 noiembrie 2026, 17:52"
+    },
+    {
+      "id": "9131b6feb449",
+      "titlu": "Cluburile din League One Caută Restricții Suplimentare de Cheltuieli",
+      "rezumat": "Cluburile din League One, a treia divizie de fotbal din Anglia, intenționează să introducă noi restricții de cheltuieli pentru a reduce pierderile financiare și a limita investițiile proprietarilor. Această inițiativă vine în contextul în care salariile din ligă au crescut cu 15% în acest sezon, iar bugetele continuă să crească necontrolat. Printre măsurile avute în vedere se numără o \"taxă de lux\" și limitarea pierderilor pe o perioadă de trei ani. Decizia urmărește să asigure o sustenabilitate financiară mai mare și să prevină dependența excesivă de finanțarea externă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-11T15:52:28.635921+00:00",
+      "data_afisaj": "11 noiembrie 2026, 17:52"
+    },
+    {
+      "id": "3febd9f71a11",
+      "titlu": "Scoția Fără Căpitanul Caroline Weir în Barajul de Calificare la Cupa Mondială",
+      "rezumat": "Naționala feminină de fotbal a Scoției va fi lipsită de serviciile căpitanului Caroline Weir pentru finala barajului de calificare la Cupa Mondială împotriva Suediei. Mijlocașul influent a suferit o recidivă în procesul de recuperare după o leziune musculară, ceea ce o va împiedica să participe la meciul crucial. Absența lui Weir reprezintă o lovitură semnificativă pentru echipa Scoției, având în vedere rolul său cheie în jocul și leadership-ul formației. Antrenorul va trebui să găsească soluții pentru a compensa lipsa experienței și calității sale în partida decisivă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-11T15:52:28.637188+00:00",
+      "data_afisaj": "11 noiembrie 2026, 17:52"
+    },
+    {
+      "id": "291f2cec4328",
+      "titlu": "Pedro Porro de la Tottenham Confirmă Interesul pentru un Transfer în La Liga",
+      "rezumat": "Fundașul spaniol Pedro Porro, jucător la Tottenham Hotspur, a declarat că un viitor transfer în La Liga nu este \"niciun secret\". Jucătorul este vizat de cluburi importante din Spania, inclusiv Real Madrid și Barcelona, iar declarațiile sale sugerează o dorință clară de a reveni în țara natală. Deși nu a oferit detalii specifice despre cluburile implicate sau despre momentul exact al unei posibile mutări, afirmațiile lui Porro alimentează speculațiile privind plecarea sa de la Tottenham și o revenire în campionatul spaniol în viitorul apropiat.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-11-11T15:52:28.638420+00:00",
+      "data_afisaj": "11 noiembrie 2026, 17:52"
+    },
     {
       "id": "f035224d02d9",
       "titlu": "Panelul Premier League Confirmă: Liverpool Ar Fi Trebuit să Primească Penalty Împotriva lui Arsenal",
@@ -1436,65 +1491,6 @@
       ],
       "data_publicare": "2026-11-04T15:57:55.451175+00:00",
       "data_afisaj": "4 noiembrie 2026, 17:57"
-    },
-    {
-      "id": "d8fdf7792de6",
-      "titlu": "Real Madrid ajunge la un acord verbal pentru transferul lui Gabriel",
-      "rezumat": "Real Madrid este încrezătoare că va câștiga cursa pentru semnarea atacantului de la Manchester United, JJ Gabriel, după ce a ajuns la un acord verbal cu tânărul jucător. Clubul spaniol își propune să-l aducă pe Gabriel, considerat o promisiune importantă, consolidându-și astfel strategia de a atrage tinere talente. Acest pas marchează o intenție clară a Realului de a-și întări lotul pe termen lung, vizând performanțe viitoare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-04T15:13:47.451763+00:00",
-      "data_afisaj": "4 noiembrie 2026, 17:13"
-    },
-    {
-      "id": "9c20f619638d",
-      "titlu": "Rafael Nadal se va alătura consiliului de administrație al Real Madrid",
-      "rezumat": "Legendarul tenismen spaniol Rafael Nadal este pe cale să se alăture consiliului de administrație al clubului de fotbal Real Madrid. Această mutare aduce o personalitate sportivă de anvergură în structura de conducere a gigantului spaniol. Implicarea lui Nadal, un fan declarat al Realului, ar putea aduce o nouă perspectivă și o experiență valoroasă în managementul clubului, consolidând legăturile dintre sportul de performanță și administrarea fotbalistică la cel mai înalt nivel.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-11-04T15:13:47.453604+00:00",
-      "data_afisaj": "4 noiembrie 2026, 17:13"
-    },
-    {
-      "id": "4f8cb1b85b8c",
-      "titlu": "Portarul Jesús Owono, profund afectat de decesul lui Jesus de Miguel, după cum confirmă un coechipier",
-      "rezumat": "Portarul echipei Andorra, Jesús Owono, este profund afectat de decesul atacantului de la Tenerife, Jesus de Miguel, survenit în urma unei coliziuni pe teren. Un coechipier a declarat că Owono „nu ar răni intenționat pe nimeni” și că portarul și-a dezactivat contul de Instagram după ce a primit mesaje abuzive online, inclusiv acuzații de „criminal”. Clubul FC Andorra a anunțat că îi oferă suport psihologic jucătorului său în aceste momente dificile, subliniind impactul tragic al evenimentului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-04T15:13:47.455419+00:00",
-      "data_afisaj": "4 noiembrie 2026, 17:13"
-    },
-    {
-      "id": "17b925698f45",
-      "titlu": "Unai Emery recunoaște că Aston Villa are de muncit pentru a ajunge la nivelul Barcelonei",
-      "rezumat": "Antrenorul echipei Aston Villa, Unai Emery, a declarat că formația sa are „mult de lucru” pentru a atinge nivelul Barcelonei, după înfrângerea cu 3-0 suferită pe Camp Nou în Liga Campionilor. Emery a încercat să extragă aspecte pozitive din prestația echipei sale, dar a subliniat necesitatea unor îmbunătățiri semnificative pentru a concura la cel mai înalt nivel european. Declarația vine în contextul unei analize lucide a diferenței de valoare dintre cele două cluburi și a ambițiilor Villa.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-04T15:13:47.456937+00:00",
-      "data_afisaj": "4 noiembrie 2026, 17:13"
-    },
-    {
-      "id": "95e76a2160fe",
-      "titlu": "Bruno Fernandes critică \"minciunile\" presei despre relația sa cu antrenorul Michael Carrick",
-      "rezumat": "Mijlocașul lui Manchester United, Bruno Fernandes, a declarat că au fost publicate „multe minciuni” în presă cu privire la relația sa cu antrenorul principal Michael Carrick. Fernandes a ținut să clarifice situația, respingând speculațiile care sugerau tensiuni între el și tehnician. Această declarație vine într-o perioadă în care clubul se confruntă cu diverse provocări, iar unitatea în cadrul echipei este esențială pentru a depăși momentele dificile și a menține concentrarea pe performanță.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-04T15:13:47.458487+00:00",
-      "data_afisaj": "4 noiembrie 2026, 17:13"
     }
   ]
 }
