@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-11T15:52:28.638435+00:00",
-  "updated_at_afisaj": "11 noiembrie 2026, 17:52",
+  "updated_at": "2026-11-11T22:31:54.722540+00:00",
+  "updated_at_afisaj": "12 noiembrie 2026, 00:31",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 131,
+  "numar_stiri": 125,
   "stiri": [
+    {
+      "id": "2e14f170220c",
+      "titlu": "Fotbal Zilnic",
+      "rezumat": "Mauricio Pochettino l-ar putea înlocui pe Michael Carrick la Manchester United.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-11T22:31:49.359389+00:00",
+      "data_afisaj": "12 noiembrie 2026, 00:31"
+    },
+    {
+      "id": "0ca1641c9e78",
+      "titlu": "Pochettino, un deceniu de pregătire pentru Man Utd - dar Carrick merită mai mult",
+      "rezumat": "Mauricio Pochettino pare gata să transforme o curtare de un deceniu cu Man Utd într-o relație în toată regula, spune principalul scriitor de fotbal Phil McNulty.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-11T22:31:49.360555+00:00",
+      "data_afisaj": "12 noiembrie 2026, 00:31"
+    },
+    {
+      "id": "326a604b6f08",
+      "titlu": "Pochettino gata să accepte oferta Man Utd de a-l înlocui pe Carrick",
+      "rezumat": "Mauricio Pochettino este gata să accepte o ofertă de la Manchester United pentru a deveni următorul lor antrenor principal.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-11T22:31:49.361601+00:00",
+      "data_afisaj": "12 noiembrie 2026, 00:31"
+    },
+    {
+      "id": "148a391e3ef2",
+      "titlu": "Lider, model, extraordinar - cum s-a împlinit 'povestea' lui Kane",
+      "rezumat": "De la tânărul de 21 de ani care a marcat la 79 de secunde de la debutul său, până la a fi pe punctul de a doborî recordul de apariții al națiunii sale, BBC Sport analizează cariera lui Harry Kane la echipa Angliei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-11T22:31:49.362743+00:00",
+      "data_afisaj": "12 noiembrie 2026, 00:31"
+    },
+    {
+      "id": "92981f1025dc",
+      "titlu": "Restricționarea legală a loviturilor de cap la antrenamente, cere un deputat",
+      "rezumat": "Un deputat cere măsuri de siguranță legale pentru a limita loviturile de cap repetitive la antrenamentele de fotbal, pe fondul îngrijorărilor crescânde legate de riscul de leziuni cerebrale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-11T22:31:49.363741+00:00",
+      "data_afisaj": "12 noiembrie 2026, 00:31"
+    },
     {
       "id": "07183f1558a4",
       "titlu": "Decesul lui Danny Kelly, Jurnalist și Comentator Sportiv Renumit",
@@ -1368,129 +1424,6 @@
       ],
       "data_publicare": "2026-11-05T15:14:43.783446+00:00",
       "data_afisaj": "5 noiembrie 2026, 17:14"
-    },
-    {
-      "id": "705b8bcfd2b8",
-      "titlu": "Haaland marchează golul victoriei, Man City învinge Leipzig",
-      "rezumat": "Erling Haaland marchează golul victoriei, în timp ce Manchester City revine de două ori de la egalare pentru a învinge RB Leipzig cu 3-2 în a patra etapă a fazei grupelor UEFA Champions League.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-11-04T22:17:38.193366+00:00",
-      "data_afisaj": "5 noiembrie 2026, 00:17"
-    },
-    {
-      "id": "81a5bf3d2980",
-      "titlu": "Golul superb al lui Valverde aduce victoria târzie pentru Real Madrid la AEK Atena",
-      "rezumat": "Real Madrid își continuă parcursul perfect în campania Ligii Campionilor cu o altă victorie târzie, de această dată prin căpitanul Federico Valverde, provocând a treia înfrângere consecutivă a Atenei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-04T22:17:38.194352+00:00",
-      "data_afisaj": "5 noiembrie 2026, 00:17"
-    },
-    {
-      "id": "4482a2b5b929",
-      "titlu": "De ce revenirea lui Man Utd împotriva Romei amintește de Mourinho și Solskjaer",
-      "rezumat": "După victoria memorabilă de revenire împotriva Romei, poate Manchester United să evite repetarea trecutului și să continue cu o victorie succesivă?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-04T22:17:38.195307+00:00",
-      "data_afisaj": "5 noiembrie 2026, 00:17"
-    },
-    {
-      "id": "30b52f65344d",
-      "titlu": "O insulă în doliu: Tenerife procesează moartea lui De Miguel",
-      "rezumat": "Clubul de fotbal Tenerife și întreaga comunitate fotbalistică deplâng pierderea fotbalistului Jesus de Miguel în urma unei coliziuni pe teren.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-04T22:17:38.196205+00:00",
-      "data_afisaj": "5 noiembrie 2026, 00:17"
-    },
-    {
-      "id": "7cb33b2e3e02",
-      "titlu": "Cum compensația istorică de la Everton a prevenit o pierdere record pentru Burnley",
-      "rezumat": "Burnley a publicat rezultate financiare promițătoare, dar în spatele acestora se află o plată de la Everton care face ca imaginea să pară mult mai puțin pozitivă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-04T22:17:38.197116+00:00",
-      "data_afisaj": "5 noiembrie 2026, 00:17"
-    },
-    {
-      "id": "51b336bd8bc1",
-      "titlu": "Arsenal se distanțează în fruntea clasamentului după o victorie rară pe Anfield",
-      "rezumat": "Arsenal a obținut o victorie importantă pe terenul lui Liverpool, scor 1-0, prima pe Anfield din 2012, și a urcat la trei puncte în fruntea clasamentului Premier League. Meciul a fost unul intens, cu ocazii de ambele părți, dar „tunarii” au reușit să-și păstreze avantajul, lăsând echipa lui Liverpool frustrată. Acest rezultat consolidează poziția lui Arsenal în lupta pentru titlu și subliniază progresul echipei sub conducerea actualului antrenor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-04T21:45:31.263105+00:00",
-      "data_afisaj": "4 noiembrie 2026, 23:45"
-    },
-    {
-      "id": "ff8d93c4da65",
-      "titlu": "Golul târziu al lui Valverde aduce victoria pentru Real Madrid împotriva AEK Atena în Liga Campionilor",
-      "rezumat": "Federico Valverde a marcat un gol spectaculos de la distanță, asigurând o victorie dramatică pentru Real Madrid, scor 3-2, în deplasarea de la AEK Atena în Liga Campionilor. Echipa lui José Mourinho a revenit de două ori de la scor defavorabil împotriva campioanei Greciei, menținându-și astfel recordul de 100% victorii în faza grupelor. Această performanță subliniază rezistența și calitatea ofensivă a madrilenilor în competiția europeană.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-04T21:45:31.264741+00:00",
-      "data_afisaj": "4 noiembrie 2026, 23:45"
-    },
-    {
-      "id": "c32c268a1c28",
-      "titlu": "Tensiuni la Manchester City: Talentul unui jucător cheie ar fi \"irosit\" de Enzo Maresca",
-      "rezumat": "Primul sezon al lui Enzo Maresca la cârma lui Manchester City nu decurge conform planului, iar rapoartele indică o stare de nemulțumire în vestiar. Se susține că talentul unui jucător important este \"irosit\" de deciziile tactice ale antrenorului. Aceste tensiuni interne ar putea afecta performanța echipei în continuare, pe măsură ce clubul încearcă să-și mențină standardele înalte în competițiile interne și europene.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-11-04T21:45:31.266395+00:00",
-      "data_afisaj": "4 noiembrie 2026, 23:45"
-    },
-    {
-      "id": "a88c252e1c97",
-      "titlu": "Arsenal a blocat deja două plecări importante în fereastra de transferuri din ianuarie",
-      "rezumat": "Managerul lui Arsenal, Mikel Arteta, este hotărât să păstreze nucleul echipei sale câștigătoare de titluri și a blocat deja două plecări semnificative în fereastra de transferuri din ianuarie. Această decizie subliniază strategia clubului de a menține stabilitatea și coeziunea lotului, evitând vânzarea jucătorilor cheie. Arteta dorește să se asigure că echipa are profunzimea necesară pentru a concura pe mai multe fronturi în a doua jumătate a sezonului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-11-04T21:45:31.267890+00:00",
-      "data_afisaj": "4 noiembrie 2026, 23:45"
-    },
-    {
-      "id": "a421e472aed7",
-      "titlu": "Pulisic și Balogun revin în lotul naționalei SUA pentru Liga Națiunilor CONCACAF",
-      "rezumat": "Antrenorul Mauricio Pochettino a anunțat lotul de 26 de jucători al Statelor Unite pentru meciurile din sferturile de finală ale Ligii Națiunilor CONCACAF împotriva Haiti. Printre numele notabile care revin în echipă se numără Christian Pulisic, Weston McKennie și Folarin Balogun. După ce 13 jucători au debutat în fereastra precedentă, doar două selecții ar putea fi în linie pentru debuturi internaționale în această rundă. Meciurile din sferturile de finală sunt programate să aibă loc în Miami și Cincinnati.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-04T15:57:55.449622+00:00",
-      "data_afisaj": "4 noiembrie 2026, 17:57"
-    },
-    {
-      "id": "4b69b5f0abb2",
-      "titlu": "Océane Hurtré, noua senzație de la Birmingham, comparată cu David Beckham",
-      "rezumat": "Océane Hurtré, a doua marcatoare din Women's Super League, impresionează la Birmingham și a fost convocată la naționala Franței. Jucătoarea este lăudată pentru abilitățile sale de centrare, fiind comparată cu legenda Angliei, David Beckham. Talentul și încrederea sa pe teren au transformat-o într-o vedetă surpriză a campionatului, atrăgând atenția atât la nivel de club, cât și la nivel internațional. Performanțele sale remarcabile o propulsează printre cele mai promițătoare talente din fotbalul feminin.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-04T15:57:55.451175+00:00",
-      "data_afisaj": "4 noiembrie 2026, 17:57"
     }
   ]
 }
