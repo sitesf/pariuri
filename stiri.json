@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-12T15:50:54.012511+00:00",
-  "updated_at_afisaj": "12 noiembrie 2026, 17:50",
+  "updated_at": "2026-11-12T16:35:18.971878+00:00",
+  "updated_at_afisaj": "12 noiembrie 2026, 18:35",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,61 @@
   },
   "numar_stiri": 131,
   "stiri": [
+    {
+      "id": "57acacac8184",
+      "titlu": "Andy Robertson este aproape să egaleze recordul de selecții al lui Kenny Dalglish pentru Scoția",
+      "rezumat": "Căpitanul Scoției, Andy Robertson, este pe punctul de a egala recordul de selecții al legendarului Kenny Dalglish pentru echipa națională. Această realizare subliniază legătura specială dintre cei doi, care depășește simpla performanță sportivă. Robertson, un jucător cheie pentru Scoția și Liverpool, continuă să impresioneze prin constanța și leadership-ul său, urmând să atingă o bornă istorică în cariera sa internațională. Articolul explorează modul în care Robertson își construiește propria moștenire, respectând în același timp impactul durabil al lui Dalglish în fotbalul scoțian.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-12T16:35:18.964600+00:00",
+      "data_afisaj": "12 noiembrie 2026, 18:35"
+    },
+    {
+      "id": "49ab79b62bcd",
+      "titlu": "Frații Bellingham, Jude și Jobe, ar putea deveni primii frați care joacă pentru Anglia în aproape două decenii",
+      "rezumat": "Jude și Jobe Bellingham, ambii fani ai clubului Birmingham City încă din copilărie, sunt pe cale să scrie istorie în fotbalul englez. Ei ar putea deveni primii frați care evoluează împreună pentru echipa națională a Angliei în ultimii 19 ani. Articolul explorează nu doar potențialul lor sportiv, ci și modul în care legătura lor cu Birmingham City a influențat carierele, contribuind la o poveste de succes familială în sportul de performanță. Această perspectivă aduce în prim plan o poveste emoționantă despre talent, dedicare și legăturile de familie în fotbalul de elită.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-12T16:35:18.966590+00:00",
+      "data_afisaj": "12 noiembrie 2026, 18:35"
+    },
+    {
+      "id": "161378a4efa2",
+      "titlu": "Mituri și statistici: Evoluția semnificației numerelor de pe tricourile din Premier League",
+      "rezumat": "De la introducerea numerelor de pe tricouri în anii '90, percepția și importanța acestora în Premier League s-au schimbat semnificativ. Deși numărul 9 rămâne asociat cu golgheterii, iar numărul 1 cu portarii, tendințele moderne arată o diversificare a alegerilor. Articolul analizează modul în care jucătorii își aleg numerele, de la cele tradiționale la cele mai neobișnuite, și cum aceste alegeri pot influența identitatea lor pe teren. Se discută despre valoarea simbolică și, uneori, chiar financiară, a unui număr de tricou în fotbalul contemporan, comparativ cu alte sporturi.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-12T16:35:18.968346+00:00",
+      "data_afisaj": "12 noiembrie 2026, 18:35"
+    },
+    {
+      "id": "e4572b95bcd1",
+      "titlu": "Gigi Becali a dezvăluit numele unui atacant necunoscut pe care îl dorește la FCSB",
+      "rezumat": "Patronul FCSB, Gigi Becali, a surprins recent opinia publică prin menționarea unui nume de atacant despre care puțini fani ai fotbalului românesc au auzit până acum. Această dezvăluire indică o posibilă strategie de transfer neconvențională a clubului, vizând jucători mai puțin cunoscuți, dar cu potențial. Speculațiile privind identitatea și calitățile fotbalistului au început deja să circule, stârnind interesul cu privire la viitoarele mișcări de pe piața transferurilor ale echipei bucureștene. Rămâne de văzut dacă acest interes se va concretiza într-un transfer oficial.",
+      "categorie": "Fotbal",
+      "surse": [
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-11-12T16:35:18.970028+00:00",
+      "data_afisaj": "12 noiembrie 2026, 18:35"
+    },
+    {
+      "id": "f6bfe63b9fc2",
+      "titlu": "Prima reacție a lui Mihai Stoica după plecarea de la FCSB și mesajul său către Gigi Becali",
+      "rezumat": "Mihai Stoica, fostul director sportiv al FCSB, a oferit prima sa declarație publică după despărțirea de clubul patronat de Gigi Becali. Reacția sa era așteptată cu interes, având în vedere relația complexă și de lungă durată cu echipa și cu patronul. Mesajul său, adresat direct lui Gigi Becali, a stârnit discuții în spațiul public, oferind o perspectivă asupra evenimentelor care au dus la această plecare. Detaliile exacte ale declarației și implicațiile acesteia pentru viitorul ambelor părți sunt analizate de presa sportivă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-11-12T16:35:18.971857+00:00",
+      "data_afisaj": "12 noiembrie 2026, 18:35"
+    },
     {
       "id": "b0f22fde65eb",
       "titlu": "Crystal Palace l-a demis pe antrenorul Pierre Sage după 16 meciuri",
@@ -1434,61 +1489,6 @@
       ],
       "data_publicare": "2026-11-05T21:49:38.374336+00:00",
       "data_afisaj": "5 noiembrie 2026, 23:49"
-    },
-    {
-      "id": "03a2be57d8b4",
-      "titlu": "Federația Engleză și WSL lansează un studiu amplu privind leziunile de ligament încrucișat la fotbalistele profesioniste",
-      "rezumat": "Federația Engleză de Fotbal (FA) și Liga Superioară Feminină (WSL) au inițiat un proiect de cercetare de anvergură pentru a aprofunda înțelegerea cauzelor leziunilor de ligament încrucișat anterior (ACL) în fotbalul feminin. Studiul își propune să identifice factorii de risc și să dezvolte strategii de prevenție, având în vedere incidența ridicată a acestor accidentări grave în rândul jucătoarelor. Inițiativa subliniază angajamentul organismelor de conducere de a îmbunătăți siguranța și bunăstarea sportivelor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-05T16:09:54.210119+00:00",
-      "data_afisaj": "5 noiembrie 2026, 18:09"
-    },
-    {
-      "id": "05821f5d8782",
-      "titlu": "FIFA propune limitarea turneului olimpic feminin de fotbal la jucătoare sub 23 de ani",
-      "rezumat": "FIFA intenționează să restricționeze participarea la turneul olimpic feminin de fotbal la jucătoare sub 23 de ani, invocând preocupări legate de aglomerația calendarului competițional și de suprasolicitarea jucătoarelor senioare. Comitetul Internațional Olimpic (CIO) este deschis dialogului, iar FIFA solicită contribuții de la diverse părți interesate. Deși criteriile de eligibilitate pentru Jocurile Olimpice din 2028 au fost deja stabilite, modificările ar putea fi implementate cel mai devreme pentru ediția din Brisbane 2032.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-05T16:09:54.211811+00:00",
-      "data_afisaj": "5 noiembrie 2026, 18:09"
-    },
-    {
-      "id": "850a5d942755",
-      "titlu": "UEFA se confruntă cu o criză politică după promovarea clubului Sevastopol în fotbalul rusesc",
-      "rezumat": "UEFA și FIFA se confruntă cu o provocare majoră în privința sancționării integrării echipelor din teritoriile ucrainene ocupate ilegal în sistemul fotbalistic rusesc. Clubul FC Sevastopol, din Crimeea, a obținut promovarea în al treilea eșalon profesionist al Rusiei, după ce a câștigat grupa întâi din Liga Națională de Fotbal (FNL) 2B. Această situație reprezintă o încălcare clară a regulamentelor organismelor de conducere ale fotbalului, testând hotărârea acestora de a aplica sancțiuni.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-05T16:09:54.213572+00:00",
-      "data_afisaj": "5 noiembrie 2026, 18:09"
-    },
-    {
-      "id": "79e5c774b17b",
-      "titlu": "Manchester City, puțin probabil să piardă titlurile, dar se confruntă cu noi acuzații din partea Premier League",
-      "rezumat": "Deși Manchester City este puțin probabil să fie deposedată de titlurile câștigate, clubul se confruntă cu posibilitatea unor noi acuzații din partea Premier League. Echipa are deja 114 capete de acuzare în așteptare, iar o nouă investigație ar putea adăuga presiune asupra campioanei en-titre. Situația juridică a clubului rămâne complexă, cu implicații potențiale semnificative pentru viitorul său în fotbalul englez.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-11-05T16:09:54.215478+00:00",
-      "data_afisaj": "5 noiembrie 2026, 18:09"
-    },
-    {
-      "id": "434ee6f56cc4",
-      "titlu": "Unai Emery este aproape de a semna un nou contract cu Aston Villa",
-      "rezumat": "Antrenorul echipei Aston Villa, Unai Emery, este pe cale să ajungă la un acord pentru prelungirea contractului său cu clubul. Această decizie ar consolida poziția tehnicianului spaniol la conducerea echipei din Birmingham, care a înregistrat progrese notabile sub mandatul său. Negocierile sunt în stadii avansate, iar anunțul oficial este așteptat în curând, asigurând stabilitate pe termen lung la nivelul băncii tehnice.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-05T16:09:54.216968+00:00",
-      "data_afisaj": "5 noiembrie 2026, 18:09"
     }
   ]
 }
