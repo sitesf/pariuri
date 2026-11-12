@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-11T23:14:36.543524+00:00",
-  "updated_at_afisaj": "12 noiembrie 2026, 01:14",
+  "updated_at": "2026-11-12T15:50:54.012511+00:00",
+  "updated_at_afisaj": "12 noiembrie 2026, 17:50",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,66 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 130,
+  "numar_stiri": 131,
   "stiri": [
+    {
+      "id": "b0f22fde65eb",
+      "titlu": "Crystal Palace l-a demis pe antrenorul Pierre Sage după 16 meciuri",
+      "rezumat": "Clubul Crystal Palace a anunțat demiterea antrenorului Pierre Sage, după doar 16 meciuri la conducerea echipei. Decizia vine în contextul în care echipa se află pe ultima poziție în clasamentul Premier League. Sage fusese numit în funcție în urmă cu câteva luni, dar nu a reușit să redreseze parcursul slab al clubului, acumulând un număr insuficient de puncte. Conducerea clubului va căuta acum un nou antrenor care să preia echipa și să încerce să o salveze de la retrogradare în restul sezonului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-12T15:50:54.006204+00:00",
+      "data_afisaj": "12 noiembrie 2026, 17:50"
+    },
+    {
+      "id": "4959b931e9b2",
+      "titlu": "Michael Carrick, cea mai recentă victimă a disfuncționalității de la Manchester United",
+      "rezumat": "Michael Carrick a fost demis de la conducerea tehnică a echipei Manchester United, devenind astfel cea mai recentă victimă a problemelor structurale și a deciziilor haotice care persistă la club de la retragerea lui Sir Alex Ferguson în 2013. Deși inițial Eddie Howe fusese considerat favorit pentru a-l înlocui pe Carrick, Mauricio Pochettino a apărut ulterior ca opțiunea preferată. Scoaterea lui Carrick în evidență ca un \"țap ispășitor\" subliniază o problemă mai profundă de management și viziune la Old Trafford, unde antrenorii sunt schimbați frecvent fără o strategie clară pe termen lung.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-12T15:50:54.007820+00:00",
+      "data_afisaj": "12 noiembrie 2026, 17:50"
+    },
+    {
+      "id": "dd4bf6a12d1b",
+      "titlu": "Fotbalistele profesioniste demontează miturile despre sarcină și carieră",
+      "rezumat": "Un număr tot mai mare de fotbaliste profesioniste, inclusiv internaționala scoțiană Claire Emslie și Emma Kelly, demonstrează că sarcina nu înseamnă sfârșitul carierei sportive. Acestea profită de noi cercetări și ghiduri pentru jucătoarele însărcinate, continuând antrenamentele la intensitate ridicată pe durata sarcinii. Claire Emslie, de exemplu, a documentat cum a reușit să alerge la 81% din viteza sa maximă la 32 de săptămâni de sarcină. Această tendință contribuie la schimbarea percepțiilor și la crearea unui mediu mai favorabil pentru femeile care doresc să îmbine maternitatea cu fotbalul de performanță.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-12T15:50:54.009245+00:00",
+      "data_afisaj": "12 noiembrie 2026, 17:50"
+    },
+    {
+      "id": "3c2ccd6a9f57",
+      "titlu": "Kozo Tashima, candidatul la președinția FIFA care promite o abordare mai calmă",
+      "rezumat": "Kozo Tashima, președintele onorific al Federației Japoneze de Fotbal, își propune să-l înlăture pe Gianni Infantino de la conducerea FIFA, promițând o abordare mai puțin dramatică și mai orientată spre ascultare. Tashima, în vârstă de 68 de ani, este considerat un challenger improbabil, dar speră că o schimbare de ton, care să evite titlurile negative pentru FIFA, va fi bine primită în lumea fotbalului. Candidatura sa vine în contextul în care Infantino a fost implicat în diverse controverse, iar Tashima dorește să restabilească o imagine de stabilitate și integritate la vârful organizației.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-12T15:50:54.010890+00:00",
+      "data_afisaj": "12 noiembrie 2026, 17:50"
+    },
+    {
+      "id": "c9340e59865c",
+      "titlu": "Cum își menține Barcelona Feminină identitatea în ciuda plecărilor de jucătoare cheie",
+      "rezumat": "Echipa feminină a Barcelonei se pregătește să înfrunte Arsenal în Liga Campionilor, prezentând o formulă mult schimbată, dar continuând să impresioneze. Articolul analizează modul în care gigantul spaniol a reușit să gestioneze cu succes plecările unor jucătoare importante, menținând în același timp \"stilul Barca\" de joc. Adaptabilitatea și profunzimea academiei clubului, alături de o filozofie de joc bine înrădăcinată, au permis echipei să rămână competitivă la cel mai înalt nivel, demonstrând reziliență și capacitatea de a integra noi talente fără a compromite identitatea tactică.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-12T15:50:54.012491+00:00",
+      "data_afisaj": "12 noiembrie 2026, 17:50"
+    },
     {
       "id": "772fc1d55583",
       "titlu": "Thomas Tuchel își reafirmă angajamentul față de Anglia până la Euro 2028, dar vizează o revenire la nivel de club",
@@ -1431,55 +1489,6 @@
       ],
       "data_publicare": "2026-11-05T16:09:54.216968+00:00",
       "data_afisaj": "5 noiembrie 2026, 18:09"
-    },
-    {
-      "id": "3224a2945aeb",
-      "titlu": "Kozo Tashima își anunță candidatura la președinția FIFA",
-      "rezumat": "Kozo Tashima, președintele Federației Japoneze de Fotbal, și-a anunțat oficial candidatura pentru viitoarele alegeri prezidențiale ale FIFA. Tashima va concura împotriva actualului președinte, Gianni Infantino, într-o încercare de a aduce o nouă viziune la conducerea forului mondial de fotbal. Anunțul său marchează începutul unei campanii electorale ce se anunță a fi una disputată, cu accent pe reforme și transparență în administrarea fotbalului global.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-05T15:14:43.778730+00:00",
-      "data_afisaj": "5 noiembrie 2026, 17:14"
-    },
-    {
-      "id": "a94d7f72b32f",
-      "titlu": "Cristiano Ronaldo își anunță retragerea din echipa națională a Portugaliei",
-      "rezumat": "Legendarul atacant portughez Cristiano Ronaldo a confirmat oficial retragerea sa din fotbalul internațional, printr-un mesaj publicat pe rețelele de socializare. Decizia vine după o carieră excepțională la echipa națională, în care a devenit cel mai bun marcator din istoria selecționatei și a câștigat Campionatul European în 2016. Ronaldo a declarat că \"a venit ziua să predea tricoul cu numărul șapte\", marcând sfârșitul unei ere pentru fotbalul portughez.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "Sky Sports Football",
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-05T15:14:43.780245+00:00",
-      "data_afisaj": "5 noiembrie 2026, 17:14"
-    },
-    {
-      "id": "ff9338faf85d",
-      "titlu": "Harry Kane, câștigător al Balonului de Aur, semnează un nou contract cu Bayern Munchen până în 2029",
-      "rezumat": "Atacantul englez Harry Kane, recent desemnat câștigător al Balonului de Aur, și-a prelungit contractul cu Bayern Munchen până în anul 2029. Clubul german a anunțat oficial acordul, consolidând astfel prezența unuia dintre cei mai prolifici marcatori din lume. Kane s-a alăturat echipei Bayern în 2023 și a avut un impact imediat, marcând 156 de goluri în 161 de apariții și contribuind la câștigarea a două titluri de Bundesliga și o Cupă a Germaniei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-11-05T15:14:43.781900+00:00",
-      "data_afisaj": "5 noiembrie 2026, 17:14"
-    },
-    {
-      "id": "eeb7ff5b8ff7",
-      "titlu": "Record mondial de 53 de cartonașe roșii într-un meci de tineret din Brazilia",
-      "rezumat": "Un meci de fotbal sub 20 de ani din Brazilia, disputat între Uberlandia și Mamore, a intrat în istorie după ce arbitrul a acordat un număr record de 53 de cartonașe roșii. Incidentul a avut loc în timpul primei manșe a unei semifinale de campionat de stat, degenerând într-o încăierare masivă. Printre cei eliminați se numără 43 de jucători, opt membri ai staff-ului tehnic și doi oficiali ai cluburilor, transformând partida într-un haos fără precedent.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-05T15:14:43.783446+00:00",
-      "data_afisaj": "5 noiembrie 2026, 17:14"
     }
   ]
 }
