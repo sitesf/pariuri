@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-12T16:35:18.971878+00:00",
-  "updated_at_afisaj": "12 noiembrie 2026, 18:35",
+  "updated_at": "2026-11-12T22:07:49.767515+00:00",
+  "updated_at_afisaj": "13 noiembrie 2026, 00:07",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,64 @@
   },
   "numar_stiri": 131,
   "stiri": [
+    {
+      "id": "d71cbda0ad8d",
+      "titlu": "Kane, erou într-o noapte istorică, când Anglia a rezervat un loc pentru Liga Națiunilor",
+      "rezumat": "Recordul Harry Kane a marcat de la fața locului pentru a pecetlui locul Angliei în sferturile de finală a Ligii Națiunilor cu o victorie cu 2-1 în fața Croației, încheind o seară memorabilă la Wembley, când căpitanul a devenit jucătorul cu cele mai multe selecții din țara sa.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-12T22:07:25.663348+00:00",
+      "data_afisaj": "13 noiembrie 2026, 00:07"
+    },
+    {
+      "id": "1d9f811d4cc7",
+      "titlu": "Michael Carrick a fost doar cel mai recent tip de toamnă pentru ierarhia disfuncțională a lui Manchester United | Jamie Jackson",
+      "rezumat": "Deciziile dezastruoase și numirile confuze au fost o temă constantă la Old Trafford de la retragerea lui Sir Alex Ferguson în 2013 Pentru o fereastră către disfuncția alarmantă de la Manchester United pe care Michael Carrick nu a reușit să o gestioneze și i-a provocat demiterea, luați în considerare cazul lui Eddie Howe, inițial favorit pentru a-i succeda pe Pochet, în vârstă de 45 de ani, ca fiind alesul lui Mauricio Pochet. Fostul antrenor de la Newcastle fusese alegerea lui Jason Wilcox pentru a prelua locul lui Carrick. Howe a fost al",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-12T22:07:25.665490+00:00",
+      "data_afisaj": "13 noiembrie 2026, 00:07"
+    },
+    {
+      "id": "7a021ecb7269",
+      "titlu": "Istvan Kovacs a dat două penalty-uri în Italia – Franța! Zidane, mărmurit după deciziile românului",
+      "rezumat": "(rezumat indisponibil)",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-11-12T22:07:25.667683+00:00",
+      "data_afisaj": "13 noiembrie 2026, 00:07"
+    },
+    {
+      "id": "e8d2837f037a",
+      "titlu": "Kane marchează câștigător, dar cine altcineva a făcut impresie? Evaluările jucătorilor Angliei",
+      "rezumat": "Cum s-au descurcat jucătorii Angliei în meciul Nations League împotriva Croației? Corespondentul senior de fotbal Sami Mokbel își dă verdictul.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-12T22:07:25.669473+00:00",
+      "data_afisaj": "13 noiembrie 2026, 00:07"
+    },
+    {
+      "id": "ef295a889bc9",
+      "titlu": "Cum a apărut Pochettino pe radarul lui Man Utd - și ce i s-a spus lui Carrick când",
+      "rezumat": "Cum l-a identificat Man Utd pe Mauricio Pochettino ca noul lor antrenor principal - și ce s-a întâmplat în săptămâna Michael Carrick a rămas așteptat.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-12T22:07:25.671156+00:00",
+      "data_afisaj": "13 noiembrie 2026, 00:07"
+    },
     {
       "id": "57acacac8184",
       "titlu": "Andy Robertson este aproape să egaleze recordul de selecții al lui Kenny Dalglish pentru Scoția",
@@ -1431,64 +1489,6 @@
       ],
       "data_publicare": "2026-11-05T22:28:58.634894+00:00",
       "data_afisaj": "6 noiembrie 2026, 00:28"
-    },
-    {
-      "id": "fb62e6dc4807",
-      "titlu": "Universitatea Craiova – Egnatia în Conference League: Oaspeții termină meciul în inferioritate",
-      "rezumat": "Meciul dintre Universitatea Craiova și Egnatia, contând pentru etapa a treia a Conference League, a fost marcat de eliminarea unui jucător al echipei oaspete. Partida s-a desfășurat în cadrul competiției europene, iar Egnatia a încheiat confruntarea în inferioritate numerică, un aspect care a influențat desfășurarea jocului, conform rapoartelor din presa sportivă românească. Detaliile complete ale incidentului și impactul asupra scorului final urmează să fie analizate.",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-11-05T21:49:38.367415+00:00",
-      "data_afisaj": "5 noiembrie 2026, 23:49"
-    },
-    {
-      "id": "138b1a4b73ed",
-      "titlu": "Crystal Palace obține o remiză dramatică în Europa League, cu un gol târziu al lui Kamada",
-      "rezumat": "Crystal Palace a reușit să obțină o remiză dramatică, scor 1-1, împotriva echipei Hoffenheim în Europa League, după ce Daichi Kamada a marcat un gol egalizator în prelungiri. Echipa engleză a jucat în inferioritate numerică în ultimele minute, după eliminarea lui Adam Wharton, însă a luptat pentru a evita înfrângerea pe teren propriu. Rezultatul oferă o gură de oxigen antrenorului Pierre Sage și menține speranțele echipei în competiție.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-05T21:49:38.369443+00:00",
-      "data_afisaj": "5 noiembrie 2026, 23:49"
-    },
-    {
-      "id": "6a0af77b06bf",
-      "titlu": "Bournemouth își continuă seria victorioasă în Europa League, învingând Sparta Praga",
-      "rezumat": "Bournemouth și-a extins seria de șapte victorii consecutive, învingând Sparta Praga cu 3-1 în Europa League. Echipa engleză a revenit de la un scor defavorabil, cu Tyler Adams, Evanilson și Rayan marcând după ce au fost introduși de pe bancă. Această victorie menține parcursul perfect al lui Bournemouth în debutul său european și îi consolidează poziția în clasament, fiind aproape de calificarea directă în optimile de finală.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-05T21:49:38.371118+00:00",
-      "data_afisaj": "5 noiembrie 2026, 23:49"
-    },
-    {
-      "id": "ab209df0e6a3",
-      "titlu": "Retrospectiva Ligii Campionilor: Reveniri spectaculoase, victorii categorice și o premieră mauritană",
-      "rezumat": "Etapa a patra a Ligii Campionilor a adus rezultate notabile, incluzând reveniri spectaculoase, victorii la scor și o premieră istorică. Bayern Munchen și Paris Saint-Germain și-au demonstrat forța cu victorii dominante, în timp ce Manchester United a reușit o revenire. De asemenea, un jucător mauritan a marcat un gol important pentru AEK Atena, contribuind la o seară memorabilă în competiție și la o analiză amplă a performanțelor echipelor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-05T21:49:38.372657+00:00",
-      "data_afisaj": "5 noiembrie 2026, 23:49"
-    },
-    {
-      "id": "e6a81d7a559c",
-      "titlu": "Fostul antrenor al lui Chelsea, Liam Rosenior, susține că demiterea sa nu a avut legătură cu aspectele fotbalistice",
-      "rezumat": "Liam Rosenior, fostul manager al echipei Chelsea, a declarat că decizia de a fi demis de la clubul londonez la începutul acestui an nu a fost legată de performanțele sportive. Antrenorul a oferit explicații privind motivele care au dus la încheierea mandatului său pe Stamford Bridge, sugerând că factori non-fotbalistici au stat la baza despărțirii. Această afirmație ridică semne de întrebare despre dinamica internă a clubului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-11-05T21:49:38.374336+00:00",
-      "data_afisaj": "5 noiembrie 2026, 23:49"
     }
   ]
 }
