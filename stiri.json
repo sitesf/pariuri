@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-12T22:07:49.767515+00:00",
-  "updated_at_afisaj": "13 noiembrie 2026, 00:07",
+  "updated_at": "2026-11-12T22:30:46.816183+00:00",
+  "updated_at_afisaj": "13 noiembrie 2026, 00:30",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,64 @@
   },
   "numar_stiri": 131,
   "stiri": [
+    {
+      "id": "f4f477590a44",
+      "titlu": "Arsenal Feminin obține o remiză prețioasă împotriva Barcelonei în Liga Campionilor",
+      "rezumat": "Echipa feminină a lui Arsenal a reușit o remiză rezistentă, scor 1-1, împotriva campioanei europene Barcelona, pe Camp Nou, în Liga Campionilor UEFA. În ciuda dominanței Barcelonei, Frida Maanum a deschis scorul pentru \"tunare\", înainte ca Caroline Graham Hansen să egaleze. Acest rezultat extinde seria de patru meciuri fără înfrângere a echipei lui Renee Slegers în competiție, plasând-o într-o poziție favorabilă pentru calificarea în fazele eliminatorii ale turneului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-12T22:30:46.811115+00:00",
+      "data_afisaj": "13 noiembrie 2026, 00:30"
+    },
+    {
+      "id": "f7525399f156",
+      "titlu": "Harry Kane stabilește un nou record de selecții pentru Anglia",
+      "rezumat": "Harry Kane a intrat în istoria fotbalului englez, devenind cel mai selecționat jucător din toate timpurile pentru echipa masculină a Angliei. Atacantul a bifat a 126-a apariție pentru națională într-un meci din Liga Națiunilor împotriva Croației, depășind recordul anterior deținut de Peter Shilton. Pe lângă această performanță remarcabilă, Kane a marcat și golul victoriei, contribuind la succesul Angliei într-o seară memorabilă pe Wembley.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-12T22:30:46.812369+00:00",
+      "data_afisaj": "13 noiembrie 2026, 00:30"
+    },
+    {
+      "id": "6268a70586ef",
+      "titlu": "Jack Grealish își cere scuze pentru absența disciplinară de la Everton",
+      "rezumat": "Jack Grealish și-a cerut scuze fanilor echipei Everton pentru absența sa recentă, care a fost cauzată de o problemă disciplinară. Detaliile specifice ale încălcării disciplinei nu au fost făcute publice, însă gestul său subliniază importanța respectării regulilor interne ale clubului. Această situație a generat discuții în rândul suporterilor și al presei sportive, Grealish fiind un jucător important pentru echipa sa.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-12T22:30:46.813638+00:00",
+      "data_afisaj": "13 noiembrie 2026, 00:30"
+    },
+    {
+      "id": "5523a81f09dd",
+      "titlu": "Provocările viitorului antrenor al lui Manchester United: fitness, Fernandes și tactică",
+      "rezumat": "După plecarea lui Michael Carrick, viitorul antrenor al lui Manchester United se confruntă cu provocări semnificative, inclusiv necesitatea de a găsi soluții tactice pe teren și de a gestiona relația cu ierarhia clubului. Analiza subliniază probleme precum forma fizică a jucătorilor și situația lui Bruno Fernandes, care a fost lăsat pe bancă după ce a criticat tacticile antrenorului. Noul manager va trebui să abordeze aceste aspecte pentru a revigora echipa.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-12T22:30:46.814988+00:00",
+      "data_afisaj": "13 noiembrie 2026, 00:30"
+    },
+    {
+      "id": "618fe0d9254d",
+      "titlu": "Tot ce trebuie să știi despre Liga Națiunilor UEFA",
+      "rezumat": "Liga Națiunilor UEFA a ajuns la a cincea ediție, reunind 54 de țări europene care concurează pentru trofeu, promovare și o rută potențial crucială către Euro 2028. Competiția oferă o platformă pentru meciuri internaționale competitive, înlocuind parțial amicalele și adăugând o miză suplimentară pentru echipele naționale. Acest ghid detaliază formatul, regulile și implicațiile Ligii Națiunilor pentru calificările viitoare, oferind o perspectivă completă asupra evenimentului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-11-12T22:30:46.816165+00:00",
+      "data_afisaj": "13 noiembrie 2026, 00:30"
+    },
     {
       "id": "d71cbda0ad8d",
       "titlu": "Kane, erou într-o noapte istorică, când Anglia a rezervat un loc pentru Liga Națiunilor",
@@ -1434,61 +1492,6 @@
       ],
       "data_publicare": "2026-11-06T14:51:14.502264+00:00",
       "data_afisaj": "6 noiembrie 2026, 16:51"
-    },
-    {
-      "id": "660b528a93ca",
-      "titlu": "Como stabilește un record istoric în Liga Campionilor cu o victorie zdrobitoare",
-      "rezumat": "Echipa Como a realizat o performanță remarcabilă în Liga Campionilor, învingând Lens cu scorul de 9-1 în deplasare. Anastasios Douvikas a marcat un hat-trick, contribuind la cea mai mare victorie în deplasare din istoria competiției. Acest rezultat uimitor subliniază forța ofensivă a echipei și va rămâne un moment de referință în analele fotbalului european.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-05T22:28:58.628338+00:00",
-      "data_afisaj": "6 noiembrie 2026, 00:28"
-    },
-    {
-      "id": "ba86f729c17d",
-      "titlu": "Liverpool, învinsă de Fenerbahce în Liga Campionilor, pierde startul perfect",
-      "rezumat": "Liverpool a suferit o înfrângere în fața echipei turce Fenerbahce, care a revenit de două ori pentru a obține o victorie memorabilă. Acest rezultat pune capăt seriei perfecte a „Cormoranilor” în Liga Campionilor, după patru meciuri. Înfrângerea marchează un moment de cotitură în campania europeană a echipei, care va trebui să își reevalueze strategia pentru a avansa în competiție.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-05T22:28:58.630061+00:00",
-      "data_afisaj": "6 noiembrie 2026, 00:28"
-    },
-    {
-      "id": "b7c069b0bf1f",
-      "titlu": "Arsenal obține o victorie muncită în Liga Campionilor împotriva Slaviei Praga",
-      "rezumat": "Arsenal a înregistrat a treia victorie din patru meciuri în Liga Campionilor, învingând Slavia Praga. Golurile marcate de Noni Madueke și Victor Gyokeres au fost suficiente pentru a asigura succesul, în ciuda unei reveniri curajoase a gazdelor pe finalul partidei. Rezultatul consolidează poziția echipei în grupă și o menține în cursa pentru calificarea în fazele superioare ale competiției.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-05T22:28:58.631758+00:00",
-      "data_afisaj": "6 noiembrie 2026, 00:28"
-    },
-    {
-      "id": "ca341fc38bd9",
-      "titlu": "Clara Serrajordi, noua speranță a Barcelonei la mijlocul terenului feminin",
-      "rezumat": "Clara Serrajordi, o tânără de 18 ani, este considerată noua speranță a echipei feminine a Barcelonei la mijlocul terenului, umplând golul lăsat de plecarea Alexiei Putellas. Ea a debutat la prima echipă la 17 ani și a fost titulară în finala Ligii Campionilor din 2026, demonstrându-și potențialul de a deveni o jucătoare cheie pentru clubul catalan.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-05T22:28:58.633403+00:00",
-      "data_afisaj": "6 noiembrie 2026, 00:28"
-    },
-    {
-      "id": "9dfd5d3ffa4a",
-      "titlu": "Fostul fotbalist James Milner a alergat maratonul de la New York",
-      "rezumat": "James Milner, fostul jucător al echipelor Brighton, Liverpool și Manchester City, și-a petrecut primele luni de la retragere antrenându-se și participând la Maratonul de la New York. El a înregistrat un timp excelent de 3 ore, 9 minute și 4 secunde, demonstrând o formă fizică remarcabilă chiar și după încheierea carierei de fotbalist profesionist.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-05T22:28:58.634894+00:00",
-      "data_afisaj": "6 noiembrie 2026, 00:28"
     }
   ]
 }
