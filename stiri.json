@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-12T22:30:46.816183+00:00",
-  "updated_at_afisaj": "13 noiembrie 2026, 00:30",
+  "updated_at": "2026-11-13T15:11:50.033273+00:00",
+  "updated_at_afisaj": "13 noiembrie 2026, 17:11",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,64 @@
   },
   "numar_stiri": 131,
   "stiri": [
+    {
+      "id": "70ec64e453fb",
+      "titlu": "„O minciună” și „prostii” – Palmer sa angajat în Anglia, spune Rogers",
+      "rezumat": "Morgan Rogers spune că orice sugestie că Cole Palmer nu este dedicat Angliei „este o minciună” și „prostii”.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-13T15:11:26.347534+00:00",
+      "data_afisaj": "13 noiembrie 2026, 17:11"
+    },
+    {
+      "id": "711c9bf9c632",
+      "titlu": "REPORTAJ Cum au sărbătorit legendele lui Dinamo împreună 45 de ani de eliminare a lui Inter Milano din Cupa UEFA! „Cel mai bun meci al unei echipe românești în cupele europene”. EXCLUSIV",
+      "rezumat": "(rezumat indisponibil)",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-11-13T15:11:26.349939+00:00",
+      "data_afisaj": "13 noiembrie 2026, 17:11"
+    },
+    {
+      "id": "d4a27a8debc9",
+      "titlu": "Mihai Stoica îl acuză pe Andrei Nicolescu că minte cu nerușinare în cazul lui Boutoutaou: „M-a deranjat foarte tare!”",
+      "rezumat": "(rezumat indisponibil)",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-11-13T15:11:26.351866+00:00",
+      "data_afisaj": "13 noiembrie 2026, 17:11"
+    },
+    {
+      "id": "cf62959083d0",
+      "titlu": "Cum poate reuși Pochettino, inspirat de Ferguson, acolo unde Carrick a eșuat la Man Utd",
+      "rezumat": "Cu Mauricio Pochettino gata să devină antrenorul lui Man Utd, analizăm dacă poate depăși obstacolele tactice pe care alții nu le-au făcut.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-13T15:11:26.353441+00:00",
+      "data_afisaj": "13 noiembrie 2026, 17:11"
+    },
+    {
+      "id": "90f4f18c8b3c",
+      "titlu": "Fernandes respinge a doua ofertă de contract cu Man Utd",
+      "rezumat": "Căpitanul lui Manchester United, Bruno Fernandes, respinge a doua ofertă de contract a clubului, contractul său actual urmând să expire la sfârșitul sezonului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-13T15:11:26.354876+00:00",
+      "data_afisaj": "13 noiembrie 2026, 17:11"
+    },
     {
       "id": "f4f477590a44",
       "titlu": "Arsenal Feminin obține o remiză prețioasă împotriva Barcelonei în Liga Campionilor",
@@ -1437,61 +1495,6 @@
       ],
       "data_publicare": "2026-11-06T15:40:30.493384+00:00",
       "data_afisaj": "6 noiembrie 2026, 17:40"
-    },
-    {
-      "id": "fe885e1a6dd5",
-      "titlu": "Tuchel anunță lotul Angliei: Palmer, Foden și Mainoo absenți, Jobe Bellingham și Josh King convocați",
-      "rezumat": "Selecționerul Angliei, Thomas Tuchel, a anunțat lotul pentru viitoarele meciuri din Liga Națiunilor, lăsându-i în afara echipei pe Cole Palmer, Phil Foden și Kobbie Mainoo. În schimb, Jobe Bellingham, fratele lui Jude Bellingham, și mijlocașul lui Fulham, Josh King, au primit primele lor convocări la echipa națională de seniori. Decizia a stârnit discuții, în special în privința absenței unor jucători importanți din Premier League.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-11-06T14:51:14.497094+00:00",
-      "data_afisaj": "6 noiembrie 2026, 16:51"
-    },
-    {
-      "id": "0c1fc4730f00",
-      "titlu": "Amar Dedic de la Newcastle, probabil fără sancțiuni după incidentul cu arcul și săgețile",
-      "rezumat": "Fundașul lui Newcastle United, Amar Dedic, este puțin probabil să primească sancțiuni din partea clubului, după ce a fost observat purtând un arc și săgeți într-o zonă rurală din Northumberland. Incidentul a declanșat o operațiune de poliție, inclusiv o unitate de intervenție armată, care l-a urmărit pe fundașul bosniac până la domiciliul său. În ciuda evenimentului, Dedic este așteptat să fie titular în meciul de sâmbătă al lui Newcastle împotriva lui Fulham.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-06T14:51:14.498405+00:00",
-      "data_afisaj": "6 noiembrie 2026, 16:51"
-    },
-    {
-      "id": "5a79af2289b5",
-      "titlu": "Conor Coady, fostul fundaș al Angliei și legendă a lui Wolves, se retrage din fotbal",
-      "rezumat": "Conor Coady, fostul fundaș al naționalei Angliei și o figură emblematică pentru Wolverhampton Wanderers, și-a anunțat retragerea din activitatea de fotbalist la vârsta de 33 de ani. Cariera sa impresionantă a cuprins 503 meciuri și a trecut pe la opt cluburi, debutând la Liverpool. Coady a fost recunoscut pentru leadership-ul său și contribuția defensivă pe parcursul anilor, fiind un exemplu de longevitate și dedicare în fotbalul englez.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-06T14:51:14.499708+00:00",
-      "data_afisaj": "6 noiembrie 2026, 16:51"
-    },
-    {
-      "id": "fc7835a67084",
-      "titlu": "Nottingham Forest se confruntă cu o secetă istorică de goluri pe teren propriu",
-      "rezumat": "Nottingham Forest nu a reușit să marcheze niciun gol pe teren propriu în acest sezon, o problemă care persistă de dinainte de sosirea antrenorului Oliver Glasner. Echipa este una dintre cele doar cinci formații din istoria primei ligi engleze care nu au înscris în primele patru meciuri de acasă. Această statistică îngrijorătoare pune presiune pe Glasner, mai ales înaintea meciului cu Manchester City de sâmbătă, pe City Ground.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-06T14:51:14.500875+00:00",
-      "data_afisaj": "6 noiembrie 2026, 16:51"
-    },
-    {
-      "id": "2e4de865548f",
-      "titlu": "Căpitanul Capului Verde, Ryan Mendes, achitat de acuzațiile de viol; acuzatoarea, inculpată pentru declarație falsă",
-      "rezumat": "Poliția din Noua Zeelandă a respins acuzațiile de viol împotriva căpitanului echipei naționale de fotbal a Capului Verde, Ryan Mendes. Incidentul ar fi avut loc într-un hotel din Auckland în luna martie, după un meci amical. Autoritățile au declarat că acuzația de agresiune sexuală nu a fost susținută de dovezi, iar femeia care a făcut plângerea a fost, la rândul ei, acuzată de declarație falsă, marcând o concluzie importantă în acest caz.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-06T14:51:14.502264+00:00",
-      "data_afisaj": "6 noiembrie 2026, 16:51"
     }
   ]
 }
