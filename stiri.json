@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-13T15:55:54.077426+00:00",
-  "updated_at_afisaj": "13 noiembrie 2026, 17:55",
+  "updated_at": "2026-11-13T21:50:44.015665+00:00",
+  "updated_at_afisaj": "13 noiembrie 2026, 23:50",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,54 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 131,
+  "numar_stiri": 130,
   "stiri": [
+    {
+      "id": "b296ec9eae8e",
+      "titlu": "Scoția învinge Macedonia de Nord cu o dublă a lui McGinn",
+      "rezumat": "Naționala Scoției a obținut o victorie importantă împotriva Macedoniei de Nord, scor 2-0, într-un meci din Liga Națiunilor. Mijlocașul John McGinn a fost eroul partidei, marcând ambele goluri ale echipei sale. Această performanță consolidează poziția Scoției în grupă și le oferă un moral bun înaintea următoarelor confruntări internaționale. Meciul a fost urmărit cu interes, având implicații directe în clasamentul Ligii Națiunilor și în parcursul ambelor echipe în competiție.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-13T21:50:44.010273+00:00",
+      "data_afisaj": "13 noiembrie 2026, 23:50"
+    },
+    {
+      "id": "9777237569f8",
+      "titlu": "Boutoutaou l-a contactat pe Mihai Stoica după demisie, promițându-i loialitate",
+      "rezumat": "Fotbalistul FCSB, Boutoutaou, l-a sunat pe Mihai Stoica imediat după ce acesta și-a anunțat demisia de la club, conform surselor locale. Jucătorul i-ar fi transmis lui Stoica un mesaj de susținere și loialitate, promițându-i că va rămâne dedicat echipei. Acest gest vine în contextul recentelor tensiuni și schimbări de la nivelul conducerii FCSB, adăugând o nouă dimensiune relațiilor interne din cadrul clubului și ridicând întrebări despre stabilitatea vestiarului în perioada următoare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-11-13T21:50:44.012029+00:00",
+      "data_afisaj": "13 noiembrie 2026, 23:50"
+    },
+    {
+      "id": "13ca6c4e2ef3",
+      "titlu": "Legendarul Ronaldinho, la 46 de ani, revine pe teren după un deceniu de pauză",
+      "rezumat": "Fostul mare fotbalist brazilian Ronaldinho, în vârstă de 46 de ani, este pregătit să joace primul său meci oficial după mai bine de un deceniu. Acesta va evolua pentru echipa Ravenna împotriva rivalilor locali Forli, într-un meci din liga a treia italiană, duminică. Revenirea campionului mondial pe gazon, chiar și la o vârstă înaintată pentru fotbalul profesionist, a stârnit un interes considerabil în rândul fanilor și presei sportive, care așteaptă cu nerăbdare să-l revadă pe \"Dințos\" în acțiune.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-13T21:50:44.013791+00:00",
+      "data_afisaj": "13 noiembrie 2026, 23:50"
+    },
+    {
+      "id": "32d2e30476d3",
+      "titlu": "Thomas Tuchel va reaminti jucătorilor Angliei protocoalele anti-rasism înainte de meciul cu Spania",
+      "rezumat": "Selecționerul Angliei, Thomas Tuchel, a anunțat că le va reaminti jucătorilor săi protocoalele anti-rasism înainte de partida cu Spania, programată la Madrid. Această măsură vine în contextul primei vizite a Angliei în capitala Spaniei de la incidentele rasiste notabile din 2004, când jucătorii de culoare ai Angliei au fost ținta abuzurilor din tribune. Tuchel subliniază importanța respectării acestor protocoale pentru a asigura un mediu sportiv corect și respectuos, transmițând un mesaj clar împotriva discriminării în fotbal.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-13T21:50:44.015638+00:00",
+      "data_afisaj": "13 noiembrie 2026, 23:50"
+    },
     {
       "id": "1254015423d7",
       "titlu": "A fost stabilită data apelului lui Manchester City în cazul acuzațiilor din Premier League",
@@ -1440,61 +1486,6 @@
       ],
       "data_publicare": "2026-11-06T21:54:18.342581+00:00",
       "data_afisaj": "6 noiembrie 2026, 23:54"
-    },
-    {
-      "id": "7507d17eb7ac",
-      "titlu": "S-a încheiat cariera lui Palmer în Anglia sub Tuchel?",
-      "rezumat": "Cole Palmer se confruntă cu o luptă pentru a-și salva cariera în Anglia după ce a fost exclus din ultima echipă a lui Thomas Tuchel, spune scriitorul șef de fotbal Phil McNulty.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-06T21:22:22.225503+00:00",
-      "data_afisaj": "6 noiembrie 2026, 23:22"
-    },
-    {
-      "id": "a89f0b1b21d9",
-      "titlu": "„O poveste frumoasă”, așa cum au spus frații Bellingham",
-      "rezumat": "Poate fi o surpriză pentru unii, dar chemarea lui Jobe Bellingham la echipa de seniori a Angliei a fost de mult timp.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-06T21:22:22.226575+00:00",
-      "data_afisaj": "6 noiembrie 2026, 23:22"
-    },
-    {
-      "id": "e5de3a82f6f4",
-      "titlu": "Real Madrid și PSG pasionați de Suzuki - bârfa de sâmbătă",
-      "rezumat": "Paris St-Germain și Real Madrid sunt interesați de portarul Aston Villa, Zion Suzuki, Inter Milano cântărind o mutare pentru Chris Richards de la Crystal Palace, plus multe altele.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-06T21:22:22.227677+00:00",
-      "data_afisaj": "6 noiembrie 2026, 23:22"
-    },
-    {
-      "id": "031557c86f02",
-      "titlu": "Antrenorul Portugaliei „nu știa nimic” despre retragerea lui Ronaldo",
-      "rezumat": "Antrenorul Portugaliei Jorge Jesus spune că „a aflat când am aflat cu toții” despre retragerea lui Cristiano Ronaldo din fotbalul internațional.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-06T21:22:22.228726+00:00",
-      "data_afisaj": "6 noiembrie 2026, 23:22"
-    },
-    {
-      "id": "bfe1456ef94b",
-      "titlu": "Dedic din Newcastle a fost oprit de poliție după ce a fost reperat cu arc și săgeți",
-      "rezumat": "Fundașul Newcastle United, Amar Dedic, se află în centrul unei investigații a poliției, după ce a fost văzut purtând un arc și săgeți într-un loc de frumusețe din Northumberland.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-06T21:22:22.229868+00:00",
-      "data_afisaj": "6 noiembrie 2026, 23:22"
     }
   ]
 }
