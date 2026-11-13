@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-13T15:11:50.033273+00:00",
-  "updated_at_afisaj": "13 noiembrie 2026, 17:11",
+  "updated_at": "2026-11-13T15:55:54.077426+00:00",
+  "updated_at_afisaj": "13 noiembrie 2026, 17:55",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,50 @@
   },
   "numar_stiri": 131,
   "stiri": [
+    {
+      "id": "1254015423d7",
+      "titlu": "A fost stabilită data apelului lui Manchester City în cazul acuzațiilor din Premier League",
+      "rezumat": "Data pentru audierea apelului depus de Manchester City împotriva acuzațiilor de încălcare a regulilor financiare ale Premier League a fost stabilită. Clubul riscă sancțiuni severe, inclusiv deducerea de puncte sau chiar excluderea din competiție, dacă apelul său va fi respins. Această decizie marchează o etapă crucială într-unul dintre cele mai importante cazuri juridice din fotbalul englez, cu un impact potențial major asupra viitorului clubului și a integrității ligii.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-11-13T15:55:54.072372+00:00",
+      "data_afisaj": "13 noiembrie 2026, 17:55"
+    },
+    {
+      "id": "b76310c9a088",
+      "titlu": "Italia învinge Franța cu 3-1 în Liga Națiunilor, prima înfrângere pentru Zidane ca antrenor al Franței",
+      "rezumat": "Naționala Italiei a reușit o revenire spectaculoasă, învingând Franța cu scorul de 3-1 pe stadionul San Siro, în cadrul Ligii Națiunilor. Această înfrângere reprezintă prima pentru Zinedine Zidane de când a preluat funcția de selecționer al Franței. Deși Michael Olise a deschis scorul pentru francezi după o eroare a portarului Gianluigi Donnarumma, Italia a replicat prin dubla lui Pio Esposito și golul lui Davide Frattesi, preluând astfel conducerea în grupa lor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-13T15:55:54.074115+00:00",
+      "data_afisaj": "13 noiembrie 2026, 17:55"
+    },
+    {
+      "id": "f8c040910e13",
+      "titlu": "Viitorul lui Virgil van Dijk la Liverpool, sub semnul întrebării: negocieri pentru un nou contract",
+      "rezumat": "Situația contractuală a căpitanului lui Liverpool, Virgil van Dijk, rămâne un subiect de discuție, pe măsură ce se apropie de finalul înțelegerii sale actuale. Deși fundașul olandez a declarat că nu este panicat în legătură cu viitorul său, clubul și jucătorul trebuie să ia o decizie importantă. BBC Sport analizează posibilele scenarii privind prelungirea contractului său sau o eventuală plecare, având în vedere importanța sa crucială pentru echipa de pe Anfield.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-13T15:55:54.075793+00:00",
+      "data_afisaj": "13 noiembrie 2026, 17:55"
+    },
+    {
+      "id": "2b7305d81e73",
+      "titlu": "Harry Kane: Unde se situează printre cei mai mari jucători din istoria Angliei?",
+      "rezumat": "După ce a devenit cel mai bun marcator din toate timpurile și jucătorul cu cele mai multe selecții pentru naționala Angliei, Harry Kane este acum subiectul unei analize privind locul său în panteonul marilor fotbaliști englezi. Performanțele sale remarcabile la nivel internațional ridică întrebarea despre cum se compară cu legendele anterioare ale „celor Trei Lei” și care este moștenirea sa în istoria fotbalului britanic.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-13T15:55:54.077410+00:00",
+      "data_afisaj": "13 noiembrie 2026, 17:55"
+    },
     {
       "id": "70ec64e453fb",
       "titlu": "„O minciună” și „prostii” – Palmer sa angajat în Anglia, spune Rogers",
@@ -1451,50 +1495,6 @@
       ],
       "data_publicare": "2026-11-06T21:22:22.229868+00:00",
       "data_afisaj": "6 noiembrie 2026, 23:22"
-    },
-    {
-      "id": "b439be6e65f1",
-      "titlu": "Elliot Anderson revine la Nottingham Forest după transferul la Manchester City",
-      "rezumat": "Mijlocașul Elliot Anderson a revenit la Nottingham Forest, după ce a fost transferat la Manchester City pentru o sumă considerabilă de 116 milioane de lire sterline. Această mutare a stârnit discuții intense în lumea fotbalului, iar acum se analizează dacă jucătorul a reușit să justifice prețul plătit. Revenirea sa la Forest este un moment important pentru club, care speră ca Anderson să își demonstreze valoarea și să contribuie semnificativ la performanțele echipei, după o perioadă de adaptare la noul său club.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-06T15:40:30.488476+00:00",
-      "data_afisaj": "6 noiembrie 2026, 17:40"
-    },
-    {
-      "id": "de40d7660ffb",
-      "titlu": "Coventry City își poate consolida șansele de supraviețuire în Premier League",
-      "rezumat": "Coventry City se pregătește pentru un meci crucial împotriva lui Everton, o victorie putând schimba semnificativ perspectivele echipei în lupta pentru menținerea în Premier League. Statisticile recente arată că niciuna dintre cele 21 de echipe care au acumulat 12 puncte după 10 meciuri în ultimul deceniu nu a retrogradat. Echipa lui Frank Lampard, care a obținut nouă puncte din nouă meciuri de campionat până acum, se află într-un moment decisiv, iar un rezultat pozitiv ar putea oferi un impuls moral și o bază solidă pentru restul sezonului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-06T15:40:30.490156+00:00",
-      "data_afisaj": "6 noiembrie 2026, 17:40"
-    },
-    {
-      "id": "eb8ba46bfae0",
-      "titlu": "Fernando Forestieri, de la dueluri cu Messi și Ronaldo la Cupa Angliei cu o echipă de amatori",
-      "rezumat": "Fernando Forestieri, un fotbalist cu o carieră remarcabilă în care a avut ocazia să joace împotriva unor legende precum Lionel Messi și Cristiano Ronaldo, își propune acum să inspire echipa de amatori Oxford City într-un meci memorabil din Cupa Angliei împotriva lui Leicester City. Această poveste subliniază parcursul neobișnuit al jucătorului, care, după experiențe la cel mai înalt nivel, își aduce acum talentul și experiența într-un context complet diferit, sperând să producă o surpriză în competiția cu tradiție.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-06T15:40:30.491944+00:00",
-      "data_afisaj": "6 noiembrie 2026, 17:40"
-    },
-    {
-      "id": "557db0909d2a",
-      "titlu": "Wayne Rooney, desemnat comentatorul sportiv al anului",
-      "rezumat": "Fostul căpitan al echipelor Manchester United și Angliei, Wayne Rooney, a fost recompensat cu prestigiosul premiu pentru comentatorul sportiv al anului, în cadrul galei Broadcast Sport Awards. Această distincție recunoaște abilitățile sale de analiză și comunicare în rolul de expert TV, demonstrând că, după o carieră legendară pe terenul de fotbal, Rooney a reușit să se impună și în mass-media, câștigând aprecierea publicului și a criticilor pentru contribuțiile sale la emisiunile sportive.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-06T15:40:30.493384+00:00",
-      "data_afisaj": "6 noiembrie 2026, 17:40"
     }
   ]
 }
