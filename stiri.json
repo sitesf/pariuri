@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-13T21:50:44.015665+00:00",
-  "updated_at_afisaj": "13 noiembrie 2026, 23:50",
+  "updated_at": "2026-11-13T22:19:01.416780+00:00",
+  "updated_at_afisaj": "14 noiembrie 2026, 00:19",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,52 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 130,
+  "numar_stiri": 129,
   "stiri": [
+    {
+      "id": "19e295c13288",
+      "titlu": "Portarul Jesús Owono, suspendat 12 meciuri după un tackling fatal",
+      "rezumat": "Portarul echipei FC Andorra, Jesús Owono, a fost suspendat pentru 12 meciuri de către comisia disciplinară a federației spaniole de fotbal. Decizia vine după un tackling al său asupra atacantului Jesús de Miguel de la Tenerife, care a dus la decesul acestuia săptămâna trecută. Owono, internațional din Guineea Ecuatorială, a fost eliminat în timpul meciului de divizia a doua din 2 noiembrie, după ce a intrat în coliziune cu De Miguel. Owono și-a exprimat durerea imensă pentru pierderea vieții lui Jesús.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-13T22:19:01.413844+00:00",
+      "data_afisaj": "14 noiembrie 2026, 00:19"
+    },
+    {
+      "id": "f3990456ccf1",
+      "titlu": "David Beckham va fi inclus în Hall of Fame-ul Fotbalului din SUA",
+      "rezumat": "Fostul căpitan al Angliei, David Beckham, va fi inclus în National Soccer Hall of Fame din Statele Unite ale Americii, ca parte a clasei din 2027. Această recunoaștere subliniază impactul semnificativ pe care Beckham l-a avut asupra dezvoltării fotbalului în America de Nord, în special prin perioada petrecută la LA Galaxy în Major League Soccer. Inducerea sa în Hall of Fame celebrează contribuția sa la sport, atât pe teren, cât și în afara lui.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-13T22:19:01.414815+00:00",
+      "data_afisaj": "14 noiembrie 2026, 00:19"
+    },
+    {
+      "id": "c1b77e0b8a9e",
+      "titlu": "Salah marchează de două ori, Egipt și Nigeria câștigă în preliminariile Cupei Africii pe Națiuni 2027",
+      "rezumat": "Nigeria a învins Tanzania, consolidându-și speranțele de calificare la Cupa Africii pe Națiuni din 2027. Într-un alt meci, Mohamed Salah a marcat de două ori, contribuind decisiv la victoria categorică a Egiptului împotriva echipei Malawi. Aceste rezultate sunt cruciale pentru ambele națiuni în cursa pentru un loc la turneul final, demonstrând forma bună a jucătorilor cheie și ambițiile echipelor africane.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-13T22:19:01.415867+00:00",
+      "data_afisaj": "14 noiembrie 2026, 00:19"
+    },
+    {
+      "id": "23c79294f429",
+      "titlu": "Țara Galilor se pregătește să înfrunte Norvegia în Liga Națiunilor",
+      "rezumat": "Generația de aur a Norvegiei, condusă de Erling Haaland, va găzdui Țara Galilor într-un meci crucial din Liga Națiunilor, sâmbătă. Norvegienii își propun să pună capăt unei serii rare de înfrângeri pentru echipa lor. Meciul este anticipat ca o confruntare intensă, Țara Galilor căutând să deraieze parcursul ezitant al Norvegiei și să obțină un rezultat pozitiv în competiția europeană.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-13T22:19:01.416771+00:00",
+      "data_afisaj": "14 noiembrie 2026, 00:19"
+    },
     {
       "id": "b296ec9eae8e",
       "titlu": "Scoția învinge Macedonia de Nord cu o dublă a lui McGinn",
@@ -1429,63 +1473,6 @@
       ],
       "data_publicare": "2026-11-07T13:47:37.979518+00:00",
       "data_afisaj": "7 noiembrie 2026, 15:47"
-    },
-    {
-      "id": "3844bf201b2e",
-      "titlu": "Nuno Campos, îngrijorat după eșecul lui Dinamo în fața lui Argeș",
-      "rezumat": "Antrenorul secund al lui Dinamo, Nuno Campos, a exprimat îngrijorare profundă după înfrângerea echipei sale în fața formației Argeș. Declarațiile sale vin în contextul unui eșec care ridică semne de întrebare cu privire la performanța și direcția clubului. Campos a subliniat aspectele care îl preocupă cel mai mult, indicând posibile probleme tactice sau de moral în cadrul lotului. Această situație adaugă presiune asupra echipei Dinamo, care se confruntă cu dificultăți în campionatul intern.",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-11-06T21:54:18.337372+00:00",
-      "data_afisaj": "6 noiembrie 2026, 23:54"
-    },
-    {
-      "id": "5e67ef6056b0",
-      "titlu": "Manchester City, găsit vinovat de încălcări financiare; clubul a depus apel",
-      "rezumat": "Clubul Manchester City a fost găsit vinovat de încălcări financiare, conform unei decizii recente, deși detaliile complete ale verdictului nu au fost încă publicate. Această hotărâre reprezintă o evoluție majoră în cazul de lungă durată privind acuzațiile aduse de Premier League. Reprezentanții clubului au reacționat prompt, anunțând că au depus deja un apel împotriva verdictului. Situația creează incertitudine cu privire la viitorul sancțiunilor și la impactul asupra titlurilor câștigate de club.",
-      "categorie": "Fotbal",
-      "surse": [
-        "World Soccer"
-      ],
-      "data_publicare": "2026-11-06T21:54:18.338699+00:00",
-      "data_afisaj": "6 noiembrie 2026, 23:54"
-    },
-    {
-      "id": "d086e0b8ffe6",
-      "titlu": "Michael Carrick crede în revenirea lui Manchester United la gloria din era Ferguson",
-      "rezumat": "Antrenorul lui Manchester United, Michael Carrick, a declarat că este posibil ca echipa să atingă din nou nivelul de succes obținut sub conducerea legendarului Sir Alex Ferguson. Cu toate acestea, Carrick a subliniat că nu se așteaptă la același nivel de răbdare din partea conducerii și a fanilor, având în vedere presiunea actuală din fotbalul modern. Declarațiile sale vin în contextul în care clubul caută să-și regăsească identitatea și performanțele de top în Premier League.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-06T21:54:18.340017+00:00",
-      "data_afisaj": "6 noiembrie 2026, 23:54"
-    },
-    {
-      "id": "7579b3a71cd4",
-      "titlu": "Fotbalul spaniol deplânge moartea atacantului Jesús de Miguel de la Tenerife",
-      "rezumat": "Comunitatea fotbalistică din Spania este în doliu după decesul tragic al lui Jesús de Miguel Alameda, cunoscut sub numele de \"Demi\", atacantul echipei Tenerife. Jucătorul a murit în urma unei coliziuni pe teren, un eveniment care a șocat lumea sportului. Funeraliile sale au avut loc în Navahermosa, satul natal al familiei sale, unde o mulțime impresionantă de oameni s-a adunat pentru a-i aduce un ultim omagiu. Moartea sa a unit fotbalul spaniol într-un moment de profundă tristețe.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-06T21:54:18.341246+00:00",
-      "data_afisaj": "6 noiembrie 2026, 23:54"
-    },
-    {
-      "id": "c0521e39ee82",
-      "titlu": "Lauren James, indisponibilă pentru cel puțin cinci meciuri din cauza unei accidentări",
-      "rezumat": "Atacanta Chelsea și a naționalei Angliei, Lauren James, va fi absentă de pe teren pentru o perioadă de cel puțin cinci meciuri, conform declarațiilor antrenoarei Sonia Bompastor. Această accidentare pune sub semnul întrebării participarea jucătoarei la meciurile de baraj pentru calificarea la Cupa Mondială ale Angliei. Absența lui James reprezintă o lovitură semnificativă atât pentru clubul său, cât și pentru echipa națională, având în vedere contribuția sa importantă la joc.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-06T21:54:18.342581+00:00",
-      "data_afisaj": "6 noiembrie 2026, 23:54"
     }
   ]
 }
