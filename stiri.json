@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-14T20:30:38.202154+00:00",
-  "updated_at_afisaj": "14 noiembrie 2026, 22:30",
+  "updated_at": "2026-11-14T21:01:30.196659+00:00",
+  "updated_at_afisaj": "14 noiembrie 2026, 23:01",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,63 @@
   },
   "numar_stiri": 124,
   "stiri": [
+    {
+      "id": "7cf62baab1e8",
+      "titlu": "Riscurile lui Bompastor dau roade, Chelsea urcă pe primul loc în WSL",
+      "rezumat": "În orice confruntare importantă, vei auzi adesea antrenorii spunând că „detaliile fine” decid un meci. În acest caz, au fost deciziile Soniei Bompastor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-14T21:01:23.569166+00:00",
+      "data_afisaj": "14 noiembrie 2026, 23:01"
+    },
+    {
+      "id": "efb9401bb942",
+      "titlu": "Chelsea urcă pe primul loc cu o victorie de 1-0 împotriva lui Man City",
+      "rezumat": "Chelsea revine pe primul loc în Women's Super League cu o victorie crucială împotriva rivalei Manchester City, care a rămas în 10 jucătoare în a doua repriză.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-11-14T21:01:23.570564+00:00",
+      "data_afisaj": "14 noiembrie 2026, 23:01"
+    },
+    {
+      "id": "7150c54ccfc6",
+      "titlu": "'Fără rasism în Spania' – Mesajul lui De la Fuente pentru Tuchel",
+      "rezumat": "Selecționerul Spaniei, Luis de la Fuente, afirmă că „nu există rasism în Spania” după ce Thomas Tuchel a emis un avertisment jucătorilor săi din Anglia înainte de meciul de duminică din Liga Națiunilor de la Madrid.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-14T21:01:23.571995+00:00",
+      "data_afisaj": "14 noiembrie 2026, 23:01"
+    },
+    {
+      "id": "f8de37688a6b",
+      "titlu": "Testul cu Spania va arăta dacă Tuchel și Anglia au învățat lecțiile Cupei Mondiale",
+      "rezumat": "Meciul Angliei cu campioana mondială Spania va arăta dacă antrenorul principal Thomas Tuchel a învățat din dezamăgirea verii, spune principalul scriitor de fotbal Phil McNulty.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-14T21:01:23.573460+00:00",
+      "data_afisaj": "14 noiembrie 2026, 23:01"
+    },
+    {
+      "id": "25c9d413b4f7",
+      "titlu": "Fostul antrenor al lui Stoke City, Thordarson, moare la 71 de ani",
+      "rezumat": "Gudjon Thordarson, care a condus Stoke City la promovarea din a treia ligă în 2002 și a antrenat alte trei cluburi engleze, moare la 71 de ani.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-14T21:01:23.574763+00:00",
+      "data_afisaj": "14 noiembrie 2026, 23:01"
+    },
     {
       "id": "8a41ad01f065",
       "titlu": "Manchester United Feminin își extinde seria de invincibilitate cu o victorie convingătoare",
@@ -1357,63 +1414,6 @@
       ],
       "data_publicare": "2026-11-08T14:08:33.167640+00:00",
       "data_afisaj": "8 noiembrie 2026, 16:08"
-    },
-    {
-      "id": "cbd42fe9b56f",
-      "titlu": "Fulham și Newcastle United au remizat pe Craven Cottage",
-      "rezumat": "Fulham a obținut un punct în prelungiri împotriva lui Newcastle United, într-un meci încheiat cu scorul de 1-1 pe Craven Cottage. Rodrigo Muniz a marcat golul egalizator pentru gazde, negând o victorie necesară echipei antrenate de Matthias Jaissle. Ambele formații au arătat lipsuri în joc, Fulham având nevoie de un efort târziu pentru a salva un punct, în timp ce Newcastle nu a reușit să capitalizeze pe deplin șansele de a urca în prima jumătate a clasamentului Premier League.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-07T20:37:40.319564+00:00",
-      "data_afisaj": "7 noiembrie 2026, 22:37"
-    },
-    {
-      "id": "6aa098dadab5",
-      "titlu": "Manchester City preia conducerea în WSL, Chelsea se împiedică",
-      "rezumat": "Manchester City a urcat pe prima poziție în Women's Super League după o victorie convingătoare cu 5-0 împotriva lui West Ham, meci în care Khadija Shaw a reușit un hat-trick. În același timp, rivala Chelsea a fost ținută la egalitate, scor 1-1, de Everton, după un autogol nefericit al fundașului Lucy Bronze. Aceste rezultate decisive permit echipei din Manchester să se distanțeze în clasament și să abordeze cu un avantaj confruntarea directă cu Chelsea de săptămâna viitoare, care se anunță crucială pentru titlu.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-07T20:37:40.320590+00:00",
-      "data_afisaj": "7 noiembrie 2026, 22:37"
-    },
-    {
-      "id": "d2eb7d1c3185",
-      "titlu": "Victorie pentru Bayern Munchen, dar ziua lui Manuel Neuer a fost umbrită de accidentare și erori",
-      "rezumat": "Bayern Munchen a învins Mainz cu 2-1 în Bundesliga, însă meciul a avut un deznodământ amar pentru portarul Manuel Neuer. Deși a devenit cel mai vârstnic jucător al lui Bayern, la 40 de ani și 225 de zile, Neuer a fost nevoit să părăsească terenul din cauza unei recidive a unei accidentări la picior. În plus, performanța sa a fost sub observație după o eroare care aproape a permis echipei adverse să egaleze în prima repriză, generând discuții despre forma sa actuală.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-07T20:37:40.321720+00:00",
-      "data_afisaj": "7 noiembrie 2026, 22:37"
-    },
-    {
-      "id": "0bdad6eb60ee",
-      "titlu": "FCSB, învinsă acasă de Corvinul Hunedoara în Superliga României",
-      "rezumat": "FCSB a suferit o înfrângere surprinzătoare pe teren propriu, scor 0-1, în fața echipei Corvinul Hunedoara, în etapa a 15-a din Superliga României. Acest rezultat nefavorabil complică semnificativ situația trupei antrenate de Laurențiu Reghecampf în cursa pentru calificarea în play-off. Pierderea celor trei puncte acasă pune presiune suplimentară pe FCSB, care trebuie să recupereze teren în clasament pentru a-și atinge obiectivele sezoniere în campionatul intern.",
-      "categorie": "Fotbal",
-      "surse": [
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-11-07T20:37:40.322711+00:00",
-      "data_afisaj": "7 noiembrie 2026, 22:37"
-    },
-    {
-      "id": "1f3fb78a9d8c",
-      "titlu": "Birmingham City preia conducerea în Championship; Cardiff realizează o revenire spectaculoasă",
-      "rezumat": "Birmingham City a urcat pe prima poziție în clasamentul Championship, după o victorie cu 2-1 împotriva lui Swansea, asigurată de un gol târziu marcat de Jay Stansfield. Într-un alt meci dramatic al etapei, Cardiff a reușit o revenire incredibilă, învingând Burnley cu 5-4, după ce fusese condusă cu 4-1. Aceste rezultate subliniază intensitatea și imprevizibilitatea ligii secunde engleze, cu schimbări majore în clasament și meciuri pline de suspans.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-07T20:37:40.323769+00:00",
-      "data_afisaj": "7 noiembrie 2026, 22:37"
     }
   ]
 }
