@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-14T14:46:39.583061+00:00",
-  "updated_at_afisaj": "14 noiembrie 2026, 16:46",
+  "updated_at": "2026-11-14T20:30:38.202154+00:00",
+  "updated_at_afisaj": "14 noiembrie 2026, 22:30",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,20 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 128,
+  "numar_stiri": 124,
   "stiri": [
+    {
+      "id": "8a41ad01f065",
+      "titlu": "Manchester United Feminin își extinde seria de invincibilitate cu o victorie convingătoare",
+      "rezumat": "Echipa feminină Manchester United a învins Crystal Palace cu 2-0 în Women's Super League, extinzându-și seria de invincibilitate la 12 meciuri în toate competițiile. Maya Le Tissier a marcat un gol spectaculos la cea de-a 150-a apariție pentru club, contribuind decisiv la victoria care a propulsat echipa pe locul patru în clasament. Performanța dominantă subliniază forma excelentă a echipei și ambițiile acesteia în campionatul intern.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-11-14T20:30:38.201903+00:00",
+      "data_afisaj": "14 noiembrie 2026, 22:30"
+    },
     {
       "id": "8acce55a51b5",
       "titlu": "A crezut Mauricio Pochettino cu adevărat în proiectul său la naționala SUA?",
@@ -1402,64 +1414,6 @@
       ],
       "data_publicare": "2026-11-07T20:37:40.323769+00:00",
       "data_afisaj": "7 noiembrie 2026, 22:37"
-    },
-    {
-      "id": "b79a1f76c6f9",
-      "titlu": "Evaluările jucătorilor Delap încântător și depășit Anderson - Forest v Man City",
-      "rezumat": "Cum au evaluat jucătorii lui Nottingham Forest și Manchester City în urma meciului lor din Premier League de la City Ground.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-11-07T19:59:18.634256+00:00",
-      "data_afisaj": "7 noiembrie 2026, 21:59"
-    },
-    {
-      "id": "6f4080a00a1a",
-      "titlu": "Repere: non-liga Kidderminster șoc League One Doncaster",
-      "rezumat": "National League Kidderminster șocă League One Doncaster pentru a trece în turul doi al FA Cup.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-07T19:59:18.635776+00:00",
-      "data_afisaj": "7 noiembrie 2026, 21:59"
-    },
-    {
-      "id": "e44f1e7b8a82",
-      "titlu": "Uimitorii lui Delap din Nottingham Forest au învins Manchester City în liga a treia la rând",
-      "rezumat": "Așteptați suficient, iar rezultatele vor veni să reflecte performanțele. Este posibil ca Manchester City să fi câștigat primele șapte meciuri ale sezonului, dar a părut întotdeauna vulnerabil, iar acum a pierdut trei la rând. Nottingham Forest poate să fi fost pe locul doi, dar, în afară de blestemele gemene ale șanselor ratate, care dau goluri stupide, păreau să joace destul de bine. Pune-le pe cele două împreună, iar rezultatul a fost o regresie dramatică la medie. Se pare că statisticile erau corecte, până la urmă. Liam Delap",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-07T19:59:18.637435+00:00",
-      "data_afisaj": "7 noiembrie 2026, 21:59"
-    },
-    {
-      "id": "045f31c3c5f7",
-      "titlu": "Încă 1-0 pentru necruțătorul Arsenal - dar Odegaard a scutit de roșurile VAR?",
-      "rezumat": "Arsenal a trecut cu șase puncte în fruntea Premier League după ce a învins Hull City - dar golul lui Martin Odegaard a salvat roșurile VAR-ului?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-07T19:59:18.639027+00:00",
-      "data_afisaj": "7 noiembrie 2026, 21:59"
-    },
-    {
-      "id": "9a55bcc02f62",
-      "titlu": "Tottenham se pregătea să se plângă la Pro Ref - dar ar fi trebuit Bogle să vadă roșu?",
-      "rezumat": "Tottenham urmează să depună o plângere oficială cu privire la decizia de a nu-l trimite pe Jayden Bogle pentru provocarea sa pe Mathys Tel în timpul înfrângerii de la Leeds.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-07T19:59:18.640660+00:00",
-      "data_afisaj": "7 noiembrie 2026, 21:59"
     }
   ]
 }
