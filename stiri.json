@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-14T21:01:30.196659+00:00",
-  "updated_at_afisaj": "14 noiembrie 2026, 23:01",
+  "updated_at": "2026-11-15T14:35:02.748962+00:00",
+  "updated_at_afisaj": "15 noiembrie 2026, 16:35",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,41 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 124,
+  "numar_stiri": 122,
   "stiri": [
+    {
+      "id": "a2ba0d3ddd50",
+      "titlu": "Trei jucători, omisi din lotul Angliei pentru meciul cu Spania",
+      "rezumat": "Selecționerul Angliei, Thomas Tuchel, a decis să-i omită pe Josh King, James Garner și Jarrad Branthwaite din lotul final pentru confruntarea cu Spania, programată duminică seară. Această decizie vine în contextul pregătirilor pentru meciul din Liga Națiunilor, unde Anglia caută să-și testeze forțele împotriva unei echipe spaniole puternice. Absența celor trei jucători marchează o ajustare strategică a lotului, subliniind intenția antrenorului de a optimiza echipa pentru provocarea iminentă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-15T14:35:02.745267+00:00",
+      "data_afisaj": "15 noiembrie 2026, 16:35"
+    },
+    {
+      "id": "4e8fcc857ff4",
+      "titlu": "Perimetrele terenurilor de joc, revizuite după decesul lui Billy Vigar",
+      "rezumat": "Premier League, English Football League (EFL) și Women's Super League (WSL) au inițiat o revizuire a perimetrelor terenurilor de joc, în urma decesului lui Billy Vigar anul trecut. Această măsură vine ca răspuns la incidentul tragic și are ca scop îmbunătățirea siguranței jucătorilor și a personalului de pe margine. Analiza detaliată a infrastructurii și a protocoalelor de securitate este esențială pentru a preveni incidente similare în viitor și pentru a asigura un mediu de joc mai sigur în fotbalul englez, la toate nivelurile.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-15T14:35:02.747518+00:00",
+      "data_afisaj": "15 noiembrie 2026, 16:35"
+    },
+    {
+      "id": "f598920574a9",
+      "titlu": "Portugalia imortalizează tricoul cu numărul 7 în onoarea lui Cristiano Ronaldo",
+      "rezumat": "Federația Portugheză de Fotbal a decis să imortalizeze tricoul cu numărul 7, în semn de omagiu adus legendarului Cristiano Ronaldo. Această schimbare permanentă are scopul de a asigura că numărul va rămâne asociat pentru totdeauna cu cel mai mare icon fotbalistic al țării. Decizia vine după retragerea lui Ronaldo din fotbalul internațional, încheind o carieră de 23 de ani în care a marcat 146 de goluri în 246 de selecții și a câștigat trei titluri majore cu naționala.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-15T14:35:02.748944+00:00",
+      "data_afisaj": "15 noiembrie 2026, 16:35"
+    },
     {
       "id": "7cf62baab1e8",
       "titlu": "Riscurile lui Bompastor dau roade, Chelsea urcă pe primul loc în WSL",
@@ -1359,61 +1392,6 @@
       ],
       "data_publicare": "2026-11-08T14:46:49.047612+00:00",
       "data_afisaj": "8 noiembrie 2026, 16:46"
-    },
-    {
-      "id": "9b4ef581e81a",
-      "titlu": "Lionel Messi Câștigă Al Doilea Gheată de Aur Consecutiv în MLS; Nashville Stabilește Record de Puncte",
-      "rezumat": "Lionel Messi a obținut al doilea trofeu consecutiv Gheata de Aur în MLS, sâmbătă, într-o zi dramatică a sezonului regulat. Deși Inter Miami a risipit un avantaj de trei goluri, terminând la egalitate 3-3 cu Charlotte, Messi a contribuit cu două pase decisive din cornere, asigurând echipei sale locul doi în Conferința de Est. În paralel, Nashville a stabilit un nou record al ligii cu 77 de puncte, marcând o performanță remarcabilă în campionat, chiar dacă Messi nu a înscris personal în această etapă finală.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-08T14:08:33.163245+00:00",
-      "data_afisaj": "8 noiembrie 2026, 16:08"
-    },
-    {
-      "id": "00d86491a1d7",
-      "titlu": "Julián Álvarez, În Centrul Atenției Înaintea Meciului Dintre Atlético Madrid și Barcelona",
-      "rezumat": "Meciul de duminică dintre Atlético Madrid și Barcelona, considerat cel mai important din Spania la momentul actual, va decide liderul clasamentului. Atacantul Julián Álvarez, supranumit „Păianjenul”, este în plină „arcă a răscumpărării” după ce a fost aproape de a se transfera la echipa adversă în vara trecută. Partida de la ora 21:00, pe Metropolitano, oferă o ocazie perfectă pentru Álvarez de a-și demonstra valoarea și de a câștiga iertarea fanilor, într-un duel crucial pentru supremația în La Liga.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-08T14:08:33.164420+00:00",
-      "data_afisaj": "8 noiembrie 2026, 16:08"
-    },
-    {
-      "id": "64e91a8e0054",
-      "titlu": "Mohamed Salah Se Adaptează La Viața Din Trabzon După Transferul La Trabzonspor",
-      "rezumat": "Mohamed Salah, supranumit „Regele Egiptean”, se adaptează la noua sa viață în Trabzon, Turcia, după transferul la Trabzonspor. BBC Sport a călătorit în regiunea Mării Negre pentru a urmări evoluțiile atacantului și a descoperi cum se integrează în noul său mediu. Această mutare reprezintă o schimbare semnificativă în cariera sa, iar fanii sunt curioși să vadă cum se va descurca într-un campionat diferit, departe de lumina reflectoarelor din ligile de top europene, într-o poveste de adaptare personală și sportivă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-08T14:08:33.165485+00:00",
-      "data_afisaj": "8 noiembrie 2026, 16:08"
-    },
-    {
-      "id": "3bd45b9e5b2d",
-      "titlu": "Chelsea Și-a Rezolvat Problema Mijlocului Terenului Datorită Unui Transfer Eșuat",
-      "rezumat": "Chelsea pare să fi găsit soluția pentru problemele sale de la mijlocul terenului, în urma unei situații neașteptate legate de un transfer eșuat în ultima zi a perioadei de mercato. Romeo Lavia a jucat primele sale 90 de minute complete în Premier League pentru Chelsea împotriva lui Manchester United weekendul trecut, sugerând că prezența sa ar putea fi cheia echilibrului. Această evoluție indică o rezolvare internă a unei dileme tactice, fără a mai fi nevoie de achiziții suplimentare, consolidând opțiunile antrenorului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-11-08T14:08:33.166574+00:00",
-      "data_afisaj": "8 noiembrie 2026, 16:08"
-    },
-    {
-      "id": "c0a9a2ab4f5e",
-      "titlu": "Chengdu Rongcheng Ratează Titlul în Superliga Chineză După Un Colaps Dramatic",
-      "rezumat": "Chengdu Rongcheng, echipa antrenată de John Aloisi, a pierdut titlul în Superliga Chineză în ultima zi a sezonului, după ce a cedat un avantaj de 12 puncte. Echipa a înregistrat a patra înfrângere consecutivă, în timp ce rivalii de la Dalian Yingbo FC au obținut a cincea victorie la rând, depășind-o pe Chengdu și cucerind trofeul. Această răsturnare spectaculoasă de situație a marcat un final de sezon plin de dramatism în fotbalul chinez, cu o schimbare de lider neașteptată.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-08T14:08:33.167640+00:00",
-      "data_afisaj": "8 noiembrie 2026, 16:08"
     }
   ]
 }
