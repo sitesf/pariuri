@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-15T15:22:16.550716+00:00",
-  "updated_at_afisaj": "15 noiembrie 2026, 17:22",
+  "updated_at": "2026-11-15T20:53:58.835104+00:00",
+  "updated_at_afisaj": "15 noiembrie 2026, 22:53",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,41 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 120,
+  "numar_stiri": 118,
   "stiri": [
+    {
+      "id": "43a224e4c814",
+      "titlu": "Aberdeen îl numește pe Mario Frick antrenor principal",
+      "rezumat": "Clubul scoțian Aberdeen a anunțat numirea fostului atacant al naționalei Liechtensteinului, Mario Frick, în funcția de antrenor principal. Frick preia conducerea echipei cu obiectivul de a îmbunătăți performanțele și de a aduce o nouă viziune tactică. Această mutare marchează un nou capitol pentru club, care speră ca experiența internațională a lui Frick, atât ca jucător, cât și ca antrenor, să contribuie la dezvoltarea echipei. Numirea sa vine într-un moment crucial pentru Aberdeen, care își propune să își consolideze poziția în campionatul intern.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-15T20:53:58.831288+00:00",
+      "data_afisaj": "15 noiembrie 2026, 22:53"
+    },
+    {
+      "id": "d998399ce942",
+      "titlu": "Supraviețuitorul accidentului aviatic Chapecoense, Alan Ruschel, promovează în ultimul său meci",
+      "rezumat": "Alan Ruschel, unul dintre cei șase supraviețuitori ai tragicului accident aviatic din 2016 care a decimat echipa Chapecoense, a reușit o performanță emoționantă. El a obținut promovarea în Serie A braziliană în ultimul său meci înainte de a se retrage din activitate. Această victorie simbolică marchează un final de carieră remarcabil pentru Ruschel, care a depășit o tragedie imensă pentru a reveni pe teren și a contribui la succesul echipei sale. Povestea sa rămâne un simbol al rezilienței și speranței în fotbal.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-15T20:53:58.833569+00:00",
+      "data_afisaj": "15 noiembrie 2026, 22:53"
+    },
+    {
+      "id": "1d44114d7b2c",
+      "titlu": "AS FAR își apără cu succes titlul în Liga Campionilor Africii la fotbal feminin",
+      "rezumat": "Clubul marocan AS FAR a reușit să își păstreze titlul în Liga Campionilor Africii la fotbal feminin, învingând echipa Mamelodi Sundowns cu scorul de 3-1. Imane Touriss a fost una dintre eroinele meciului, marcând de două ori și contribuind decisiv la victoria echipei sale. Această performanță confirmă dominația clubului AS FAR în fotbalul feminin african, demonstrând consistența și calitatea lotului. Succesul reprezintă o bornă importantă pentru dezvoltarea fotbalului feminin în regiune.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-15T20:53:58.834819+00:00",
+      "data_afisaj": "15 noiembrie 2026, 22:53"
+    },
     {
       "id": "37dadb0f9a35",
       "titlu": "Dan Petrescu, posibil antrenor la FCSB; Mihai Stoica reacționează",
@@ -1310,65 +1343,6 @@
       ],
       "data_publicare": "2026-11-08T20:55:14.589308+00:00",
       "data_afisaj": "8 noiembrie 2026, 22:55"
-    },
-    {
-      "id": "07fd001a4281",
-      "titlu": "Man Utd score twice in stoppage-time to share points in eight-goal thriller",
-      "rezumat": "Manchester United twice come back from two goals down to earn a point against Aston Villa in an eight-goal thriller at Old Trafford, although they will go into the international break in the Premier League relegation zone.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-11-08T20:16:28.725303+00:00",
-      "data_afisaj": "8 noiembrie 2026, 22:16"
-    },
-    {
-      "id": "09f63bd95488",
-      "titlu": "Chengdu blow 12-point lead to miss out on Chinese title on final day",
-      "rezumat": "Chengdu Rongcheng lose their final four matches of the season to give up a 12-point lead and throw away the Chinese Super League title.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-08T20:16:28.726299+00:00",
-      "data_afisaj": "8 noiembrie 2026, 22:16"
-    },
-    {
-      "id": "6e255dac76f9",
-      "titlu": "Enzo Maresca rues Manchester City’s lack of desire after defeat at Nottingham Forest",
-      "rezumat": "‘You need desire and intensity … we didn’t match them’ City have now lost three successive league matches Enzo Maresca blamed his side’s lack of desire and the way they were outgunned in duels for a third successive Premier League defeat. After winning their first seven games of the season, Manchester City’s 3-1 loss at Nottingham Forest extended their poor run. Jair Cunha dispossessed Josko Gvardiol to score the opener, then Liam Delap struck twice with muscular surges on the break as Forest wo",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-08T20:16:28.727290+00:00",
-      "data_afisaj": "8 noiembrie 2026, 22:16"
-    },
-    {
-      "id": "3ff9b18661da",
-      "titlu": "„Chivu L-A DOMINAT pe Fabregas”. Prima reacție a italienilor după Inter – Como",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-11-08T20:16:28.728402+00:00",
-      "data_afisaj": "8 noiembrie 2026, 22:16"
-    },
-    {
-      "id": "c3118bd53e90",
-      "titlu": "Brighton breeze past ten-man Brentford to move up to second",
-      "rezumat": "Diego Gomez's long-range strike fires Brighton to a 2-0 over Brentford, who saw Igor Thiago be shown a straight red card, as Fabian Hurzeler's side move up to second in the Premier League.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-08T20:16:28.729889+00:00",
-      "data_afisaj": "8 noiembrie 2026, 22:16"
     }
   ]
 }
