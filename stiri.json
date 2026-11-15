@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-15T20:53:58.835104+00:00",
-  "updated_at_afisaj": "15 noiembrie 2026, 22:53",
+  "updated_at": "2026-11-15T21:25:57.848541+00:00",
+  "updated_at_afisaj": "15 noiembrie 2026, 23:25",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,43 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 118,
+  "numar_stiri": 116,
   "stiri": [
+    {
+      "id": "145f6d44e40c",
+      "titlu": "Ronaldinho revine pe teren într-un meci din liga a treia italiană",
+      "rezumat": "Legendarul fotbalist brazilian Ronaldinho, în vârstă de 46 de ani, a revenit pe terenul de joc pentru echipa Ravenna, evoluând în prima repriză a derby-ului din liga a treia italiană împotriva formației Forli. Această apariție marchează o revenire neașteptată a fostului Balon de Aur în fotbalul profesionist, atrăgând atenția fanilor și presei sportive. Prezența sa a adus un plus de vizibilitate campionatului italian de ligă inferioară, demonstrând că pasiunea pentru fotbal rămâne puternică indiferent de vârstă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-15T21:25:57.843312+00:00",
+      "data_afisaj": "15 noiembrie 2026, 23:25"
+    },
+    {
+      "id": "59a4c4966557",
+      "titlu": "Declarațiile lui Tuchel și alegerile de lot pentru meciul Spania - Anglia din Liga Națiunilor",
+      "rezumat": "Înaintea confruntării dintre Spania și Anglia din Liga Națiunilor, antrenorul Thomas Tuchel a descris meciul ca fiind unul 'frumos'. Anglia s-a calificat deja și își propune să termine pe primul loc în grupă. Tuchel a confirmat menținerea lui Quansah în echipă datorită performanțelor bune și a explicat includerea lui White, invocând parteneriatul său de la club cu Konsa. Aceste decizii subliniază strategia antrenorului de a valorifica înțelegerea dintre jucători la nivel de club și de a testa opțiuni pentru viitor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-15T21:25:57.845042+00:00",
+      "data_afisaj": "15 noiembrie 2026, 23:25"
+    },
+    {
+      "id": "d342a2749d2e",
+      "titlu": "Scandal într-un meci amical din New York: șase cartonașe roșii și o bătaie generală",
+      "rezumat": "Un meci amical disputat sâmbătă între New York Red Bulls și Club América a fost marcat de incidente violente, culminând cu o bătaie generală și acordarea a șase cartonașe roșii. Confruntarea, la care nu au participat veterani și vedete din ambele echipe, a degenerat într-un haos pe teren, cu jucători implicați în altercații și obiecte aruncate din tribune. Incidentul subliniază tensiunile care pot apărea chiar și în partidele de pregătire, departe de miza competițională, și necesitatea unui control mai strict.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-15T21:25:57.848521+00:00",
+      "data_afisaj": "15 noiembrie 2026, 23:25"
+    },
     {
       "id": "43a224e4c814",
       "titlu": "Aberdeen îl numește pe Mario Frick antrenor principal",
@@ -1288,61 +1323,6 @@
       ],
       "data_publicare": "2026-11-09T17:15:23.549712+00:00",
       "data_afisaj": "9 noiembrie 2026, 19:15"
-    },
-    {
-      "id": "ae7f918a5397",
-      "titlu": "Liverpool dispatch Palace to pile pressure on Sage",
-      "rezumat": "Liverpool see off Crystal Palace 3-1 at Selhurst Park as Pierre Sage's side suffer their fourth defeat in a row in the Premier League.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-08T20:55:14.583146+00:00",
-      "data_afisaj": "8 noiembrie 2026, 22:55"
-    },
-    {
-      "id": "55cbb04a6481",
-      "titlu": "Struggling Sunderland beat Chelsea to move off bottom of Premier League",
-      "rezumat": "Sunderland held on to their first Premier League win since August as Enzo le Fee's penalty help the hosts sink Chelsea at the Stadium of Light.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-08T20:55:14.584764+00:00",
-      "data_afisaj": "8 noiembrie 2026, 22:55"
-    },
-    {
-      "id": "ed59124c36ec",
-      "titlu": "Bournemouth beat Ipswich to extend winning streak",
-      "rezumat": "Evanilson scores for the fifth Premier League game in a row as Bournemouth's impressive winning streak continued with a controlled victory over Ipswich.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-08T20:55:14.586215+00:00",
-      "data_afisaj": "8 noiembrie 2026, 22:55"
-    },
-    {
-      "id": "4dd33379b903",
-      "titlu": "What can you read into Premier League table after 10 games?",
-      "rezumat": "With 10 games gone in the Premier League season, BBC Sport looks at what history tells us we can read into the table at this stage.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-08T20:55:14.587815+00:00",
-      "data_afisaj": "8 noiembrie 2026, 22:55"
-    },
-    {
-      "id": "c710b22462d3",
-      "titlu": "Palace consider replacing Sage with Frank among contenders",
-      "rezumat": "Crystal Palace antrenor Pierre Sage is in serious danger of losing his job, with Thomas Frank among the contenders to replace him.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-08T20:55:14.589308+00:00",
-      "data_afisaj": "8 noiembrie 2026, 22:55"
     }
   ]
 }
