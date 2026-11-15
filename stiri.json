@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-15T14:35:02.748962+00:00",
-  "updated_at_afisaj": "15 noiembrie 2026, 16:35",
+  "updated_at": "2026-11-15T15:22:16.550716+00:00",
+  "updated_at_afisaj": "15 noiembrie 2026, 17:22",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,42 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 122,
+  "numar_stiri": 120,
   "stiri": [
+    {
+      "id": "37dadb0f9a35",
+      "titlu": "Dan Petrescu, posibil antrenor la FCSB; Mihai Stoica reacționează",
+      "rezumat": "Speculațiile privind o posibilă numire a lui Dan Petrescu în funcția de antrenor la FCSB, cu Mihai Stoica în rol de manager, au stârnit interes în fotbalul românesc. Mihai Stoica, actualul manager sportiv al clubului, a oferit o primă reacție publică, declarând că ar fi deschis unei colaborări cu Petrescu. Această potențială mutare ar putea reconfigura strategia echipei și ar aduce o nouă dinamică la nivelul conducerii tehnice, având în vedere experiența ambilor în fotbalul românesc.",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-11-15T15:22:16.546278+00:00",
+      "data_afisaj": "15 noiembrie 2026, 17:22"
+    },
+    {
+      "id": "79d3b51fd968",
+      "titlu": "Ascensiunea lui Unai Simon, portarul Spaniei, la statutul de cel mai bun din lume",
+      "rezumat": "Pe măsură ce Spania se pregătește să găzduiască Anglia în Liga Națiunilor, ascensiunea lui Unai Simon la statutul de cel mai bun portar din lume este analizată de BBC Sport. Jurnalistul Guillem Balague detaliază parcursul modest al goalkeeperului spaniol, evidențiind evoluția sa remarcabilă și modul în care a ajuns să fie recunoscut la nivel global. Performanțele constante și contribuția sa esențială la echipa națională și la clubul său l-au propulsat în elita fotbalului mondial.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-15T15:22:16.548876+00:00",
+      "data_afisaj": "15 noiembrie 2026, 17:22"
+    },
+    {
+      "id": "dda273b835c0",
+      "titlu": "Andy Robertson, cel mai bun căpitan al Scoției, depășește recordul de selecții",
+      "rezumat": "Andy Robertson a devenit cel mai bun căpitan al Scoției, depășind numărul de selecții al legendarului Kenny Dalglish. Fundașul stânga va ajunge la 103 apariții pentru echipa națională în meciul cu Elveția, consolidându-și statutul de figură emblematică. Deși unii ar putea contesta poziția sa față de Dalglish în termeni de talent pur, parcursul său și rolul de lider incontestabil îl plasează în fruntea listei căpitanilor scoțieni, fiind un exemplu de dedicare și performanță.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-15T15:22:16.550408+00:00",
+      "data_afisaj": "15 noiembrie 2026, 17:22"
+    },
     {
       "id": "a2ba0d3ddd50",
       "titlu": "Trei jucători, omisi din lotul Angliei pentru meciul cu Spania",
@@ -1335,63 +1369,6 @@
       ],
       "data_publicare": "2026-11-08T20:16:28.729889+00:00",
       "data_afisaj": "8 noiembrie 2026, 22:16"
-    },
-    {
-      "id": "1fb6ad72ca53",
-      "titlu": "Cray Wanderers, Cel Mai Vechi Club din Londra, Scrie Istorie în Cupa Angliei",
-      "rezumat": "Clubul Cray Wanderers, considerat cel mai vechi club de fotbal din Londra, a scris istorie în Cupa Angliei, găzduind pe Stockport County în prima rundă a competiției. Această confruntare este notabilă prin diferența de 112 locuri în ligile englezești care separă cele două echipe, subliniind spiritul unic al Cupei Angliei, unde echipe din ligi inferioare au șansa de a înfrunta adversari mult mai bine cotați. Meciul reprezintă un moment important pentru istoria clubului și pentru fanii săi.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-11-08T14:46:49.040108+00:00",
-      "data_afisaj": "8 noiembrie 2026, 16:46"
-    },
-    {
-      "id": "d67a3cf60637",
-      "titlu": "Dubla lui Alessia Russo Asigură Victoria lui Arsenal în WSL; Manchester United Învinge Aston Villa",
-      "rezumat": "Alessia Russo a fost din nou decisivă pentru Arsenal, marcând o dublă care a adus o victorie crucială echipei sale în Superliga Feminină (WSL) împotriva lui Liverpool. Această performanță o duce pe Russo la șapte goluri în ultimele patru apariții și zece în ultimele șapte meciuri pentru club și țară. Într-un alt meci din WSL, Manchester United a reușit să obțină o victorie la limită împotriva echipei Aston Villa, consolidându-și poziția în clasament.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-08T14:46:49.042130+00:00",
-      "data_afisaj": "8 noiembrie 2026, 16:46"
-    },
-    {
-      "id": "b047e18b49bc",
-      "titlu": "Charlie Savage Marchează Împotriva Echipei Antrenate de Tatăl Său, Robbie Savage, în Cupa Angliei",
-      "rezumat": "Charlie Savage, fiul fostului internațional galez Robbie Savage, a marcat un gol pentru Reading împotriva echipei Peterborough United, formație antrenată chiar de tatăl său, în prima rundă a Cupei Angliei. Momentul emoționant a adus în prim-plan o poveste inedită din fotbalul englez, unde legăturile de familie se intersectează cu rivalitatea sportivă. Golul lui Charlie a contribuit la parcursul echipei sale în prestigioasa competiție.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-08T14:46:49.044018+00:00",
-      "data_afisaj": "8 noiembrie 2026, 16:46"
-    },
-    {
-      "id": "2c7b8de087bc",
-      "titlu": "Liverpool Stabilește un Record Negativ: Fără Șut pe Poartă Împotriva lui Arsenal",
-      "rezumat": "Liverpool a înregistrat un record nedorit în meciul împotriva lui Arsenal, nereușind să trimită niciun șut pe poartă pentru prima dată în 442 de meciuri jucate acasă în Premier League. Această statistică, care datează din 2003, subliniază o problemă de creativitate în jocul echipei. Lipsa ocaziilor clare de gol ridică semne de întrebare cu privire la ofensiva \"Cormoranilor\" și la strategia adoptată în fața unui adversar puternic.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-11-08T14:46:49.045825+00:00",
-      "data_afisaj": "8 noiembrie 2026, 16:46"
-    },
-    {
-      "id": "a641f0c95227",
-      "titlu": "Viitorul lui Michael Carrick la Manchester United, Incert După Meciul cu Aston Villa",
-      "rezumat": "Michael Carrick, antrenorul interimar al echipei Manchester United, nu a primit asigurări privind viitorul său la club dincolo de meciul cu Aston Villa. Această incertitudine planează asupra băncii tehnice de la Old Trafford, în contextul în care clubul caută stabilitate și o direcție clară pe termen lung. Decizia privind permanența sau înlocuirea lui Carrick va fi luată în curând, în funcție de performanțele echipei și de planurile conducerii clubului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-11-08T14:46:49.047612+00:00",
-      "data_afisaj": "8 noiembrie 2026, 16:46"
     }
   ]
 }
