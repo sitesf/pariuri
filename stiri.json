@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-16T16:50:16.662733+00:00",
-  "updated_at_afisaj": "16 noiembrie 2026, 18:50",
+  "updated_at": "2026-11-16T17:57:53.719988+00:00",
+  "updated_at_afisaj": "16 noiembrie 2026, 19:57",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,63 @@
   },
   "numar_stiri": 120,
   "stiri": [
+    {
+      "id": "e4bd440c7eec",
+      "titlu": "Thomas Frank, noul antrenor al echipei Crystal Palace",
+      "rezumat": "Thomas Frank a fost confirmat oficial ca noul manager al clubului Crystal Palace, semnând un contract pe doi ani și jumătate. Fostul antrenor al lui Tottenham, liber de contract din februarie, a fost principala țintă a clubului din Premier League, aflat pe ultimul loc. Frank a mai discutat cu Palace în vară, dar a considerat că nu era pregătit să revină. Acum, el are sarcina de a reconstrui echipa și i s-au promis fonduri pentru transferuri în ianuarie.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-16T17:57:53.715220+00:00",
+      "data_afisaj": "16 noiembrie 2026, 19:57"
+    },
+    {
+      "id": "fccbca3487ea",
+      "titlu": "Uniunea Cluburilor Europene depune o plângere oficială pentru influența în fotbal",
+      "rezumat": "Uniunea Cluburilor Europene (UCE), un organism format din 138 de membri, a depus o plângere oficială la Comisia Europeană împotriva controlului exercitat de UEFA și de Asociația Cluburilor Europene (ECA) asupra fotbalului continental. Această acțiune escaladează eforturile UCE de a obține recunoaștere și de a diminua puterea deținută de elitele fotbalului. Plângerea contestă memorandumul de înțelegere dintre UEFA și ECA, susținând că acesta creează un monopol și limitează dezvoltarea echitabilă a fotbalului european.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-16T17:57:53.716458+00:00",
+      "data_afisaj": "16 noiembrie 2026, 19:57"
+    },
+    {
+      "id": "45f2bc8a726f",
+      "titlu": "Agenții jucătorilor de la Manchester City se pregătesc pentru plecări în cazul sancțiunilor",
+      "rezumat": "Potrivit unui raport, reprezentanții jucătorilor din prima echipă a lui Manchester City se poziționează pentru a-și muta clienții, în cazul în care clubul va fi lovit de sancțiuni severe. Această mișcare indică o preocupare crescândă în rândul jucătorilor și al agenților lor cu privire la rezultatul investigației privind Fair Play-ul Financiar. Un scenariu de transferuri gratuite ar putea avea un impact major asupra lotului și a stabilității financiare a clubului, determinând agenții să exploreze opțiuni alternative pentru viitorul fotbaliștilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-11-16T17:57:53.717719+00:00",
+      "data_afisaj": "16 noiembrie 2026, 19:57"
+    },
+    {
+      "id": "1b1db1ed06ee",
+      "titlu": "Schimbare majoră de strategie la Manchester United după numirea lui Pochettino",
+      "rezumat": "Manchester United a operat o schimbare semnificativă în strategia sa de transferuri, după numirea lui Mauricio Pochettino ca noul manager, conform unui raport. Clubul era decis asupra unor mutări în ianuarie, dar venirea noului antrenor a reorientat prioritățile. Această decizie ar putea însemna că Pochettino va avea un cuvânt decisiv în privința jucătorilor vizați, iar planurile inițiale de transferuri ar putea fi revizuite pentru a se alinia viziunii sale tactice și nevoilor identificate pentru echipă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-11-16T17:57:53.718899+00:00",
+      "data_afisaj": "16 noiembrie 2026, 19:57"
+    },
+    {
+      "id": "9348a35c83db",
+      "titlu": "Creștere alarmantă a homofobiei în fotbalul englez",
+      "rezumat": "Homofobia și transfobia sunt în creștere în fotbalul englez, conform noilor date care relevă un număr record de rapoarte de discriminare în acest sport. Această situație ridică întrebări serioase despre măsurile luate de cluburi și de Premier League pentru a combate aceste fenomene. Organizațiile de susținere a drepturilor LGBTQ+ solicită acțiuni mai ferme și o educație extinsă pentru a crea un mediu mai incluziv și sigur pentru toți participanții și suporterii din fotbal.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-16T17:57:53.719969+00:00",
+      "data_afisaj": "16 noiembrie 2026, 19:57"
+    },
     {
       "id": "5080e3564618",
       "titlu": "James Trafford, noul număr 1 al Angliei?",
@@ -1311,63 +1368,6 @@
       ],
       "data_publicare": "2026-11-10T00:00:18.845234+00:00",
       "data_afisaj": "10 noiembrie 2026, 02:00"
-    },
-    {
-      "id": "3031c9c39db9",
-      "titlu": "Aberdeen îl demite pe Robinson după căderea în clasament",
-      "rezumat": "Aberdeen îl demite pe antrenorul principal Stephen Robinson după ce a coborât pe penultimul loc în Premiership-ul Scoțian.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-11-09T17:15:23.545115+00:00",
-      "data_afisaj": "9 noiembrie 2026, 19:15"
-    },
-    {
-      "id": "a2f27ed0425b",
-      "titlu": "Alisson vrea să semneze un nou contract cu Liverpool",
-      "rezumat": "Portarul lui Liverpool, Alisson Becker, vrea să rămână la club după sfârșitul sezonului, când actualul său contract este programat să expire.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-11-09T17:15:23.546265+00:00",
-      "data_afisaj": "9 noiembrie 2026, 19:15"
-    },
-    {
-      "id": "7ac26596e308",
-      "titlu": "Incident cu incident: A fost un weekend prost pentru VAR?",
-      "rezumat": "Aproape fiecare meci a avut o decizie VAR controversată în Premier League în acest weekend. Dar câte ar putea fi considerate erori?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-09T17:15:23.547457+00:00",
-      "data_afisaj": "9 noiembrie 2026, 19:15"
-    },
-    {
-      "id": "cb530396cb7f",
-      "titlu": "Burn îl înlocuiește pe Guehi, accidentat, în lotul Angliei",
-      "rezumat": "Dan Burn de la Newcastle este adăugat în lotul Angliei pentru a juca împotriva Croației și Spaniei în Liga Națiunilor săptămâna aceasta, după ce Marc Guehi s-a retras din cauza unei accidentări la șold.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-09T17:15:23.548560+00:00",
-      "data_afisaj": "9 noiembrie 2026, 19:15"
-    },
-    {
-      "id": "4035d3f0446a",
-      "titlu": "Personalul Chelsea, avertizat cu privire la utilizarea Fantasy Premier League",
-      "rezumat": "Chelsea avertizează personalul să fie atent la dezvăluirea știrilor despre echipă prin Fantasy Premier League, după ce accidentarea lui Joao Pedro a părut să fi fost divulgată involuntar prin selecțiile de echipă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-09T17:15:23.549712+00:00",
-      "data_afisaj": "9 noiembrie 2026, 19:15"
     }
   ]
 }
