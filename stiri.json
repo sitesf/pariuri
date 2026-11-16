@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-15T21:25:57.848541+00:00",
-  "updated_at_afisaj": "15 noiembrie 2026, 23:25",
+  "updated_at": "2026-11-16T16:50:16.662733+00:00",
+  "updated_at_afisaj": "16 noiembrie 2026, 18:50",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,53 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 116,
+  "numar_stiri": 120,
   "stiri": [
+    {
+      "id": "5080e3564618",
+      "titlu": "James Trafford, noul număr 1 al Angliei?",
+      "rezumat": "Portarul James Trafford a avut ocazia să-și demonstreze valoarea ca noul număr unu al Angliei și, într-un meci disputat în deplasare împotriva campionilor mondiali, a profitat din plin de această șansă. Performanța sa solidă a generat discuții intense despre o posibilă schimbare în ierarhia portarilor naționalei, sugerând că Trafford ar putea prelua rolul de titular de la Jordan Pickford. Analiza presei sportive subliniază impactul prestației sale asupra selecționerului și a fanilor, consolidându-i poziția în lupta pentru tricoul de titular.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-11-16T16:50:16.657921+00:00",
+      "data_afisaj": "16 noiembrie 2026, 18:50"
+    },
+    {
+      "id": "20ae2a1caa74",
+      "titlu": "Philippe Diallo, candidatul UEFA la președinția FIFA, îl va contesta pe Gianni Infantino",
+      "rezumat": "Președintele Federației Franceze de Fotbal, Philippe Diallo, a fost confirmat de UEFA drept candidatul său surpriză pentru președinția FIFA. Diallo a declarat că va lupta împotriva lui Gianni Infantino, acuzându-l pe actualul președinte că a adus prejudicii grave fotbalului. Decizia UEFA de a susține un candidat alternativ vine în contextul alegerilor pentru președinția FIFA din luna martie, promițând o confruntare electorală intensă și o dezbatere aprinsă despre viitorul conducerii fotbalului mondial.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-16T16:50:16.660320+00:00",
+      "data_afisaj": "16 noiembrie 2026, 18:50"
+    },
+    {
+      "id": "72a098c0b5aa",
+      "titlu": "Jürgen Klopp critică dur conducerea FIFA: „Infantino este mai rău decât Blatter”",
+      "rezumat": "Antrenorul naționalei Germaniei, Jürgen Klopp, a lansat un atac vehement la adresa președintelui FIFA, Gianni Infantino, declarând că „nu credea că lucrurile pot deveni mai rele după Sepp Blatter, dar cineva a reușit să facă exact asta”. Klopp a cerut înlocuirea lui Infantino, subliniind nemulțumirea sa față de direcția în care se îndreaptă forul mondial sub actuala conducere. Declarațiile sale adaugă presiune asupra conducerii FIFA și intensifică dezbaterea publică privind integritatea organizației.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-16T16:50:16.661626+00:00",
+      "data_afisaj": "16 noiembrie 2026, 18:50"
+    },
+    {
+      "id": "8ebab6a6413d",
+      "titlu": "Romelu Lukaku se retrage din fotbalul internațional",
+      "rezumat": "Atacantul belgian Romelu Lukaku a anunțat că se retrage din fotbalul internațional, punând capăt unei cariere prolifice la echipa națională. Într-o declarație, Lukaku a menționat că s-a bucurat de „fiecare moment” petrecut reprezentând Belgia. Decizia sa marchează o schimbare importantă pentru naționala Belgiei, care va trebui să găsească soluții pentru a compensa absența unuia dintre cei mai importanți marcatori ai săi. Retragerea sa lasă un gol considerabil în ofensiva \"Diavolilor Roșii\".",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-16T16:50:16.662719+00:00",
+      "data_afisaj": "16 noiembrie 2026, 18:50"
+    },
     {
       "id": "145f6d44e40c",
       "titlu": "Ronaldinho revine pe teren într-un meci din liga a treia italiană",
