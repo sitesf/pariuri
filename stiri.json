@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-17T00:35:44.094614+00:00",
-  "updated_at_afisaj": "17 noiembrie 2026, 02:35",
+  "updated_at": "2026-11-17T16:45:43.367890+00:00",
+  "updated_at_afisaj": "17 noiembrie 2026, 18:45",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,68 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 120,
+  "numar_stiri": 116,
   "stiri": [
+    {
+      "id": "6078beb9bbc8",
+      "titlu": "Antrenorul lui Blackburn, Tony Mowbray, se retrage din cauza problemelor de sănătate",
+      "rezumat": "Tony Mowbray, antrenorul principal al echipei Blackburn Rovers din Championship, a anunțat că se retrage temporar din funcție din cauza unor probleme de sănătate. Decizia a fost confirmată de club, care a precizat că Mowbray va lipsi pentru o perioadă nedeterminată. Această veste vine ca un șoc pentru fanii echipei, având în vedere importanța sa în conducerea tehnică. Clubul i-a urat însănătoșire grabnică și a confirmat că va anunța un înlocuitor interimar în curând.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-17T16:45:43.361711+00:00",
+      "data_afisaj": "17 noiembrie 2026, 18:45"
+    },
+    {
+      "id": "392af142b284",
+      "titlu": "Wayne Rooney a dezvăluit că a avut gânduri suicidare în perioada Manchester United",
+      "rezumat": "Fostul atacant al lui Manchester United și al naționalei Angliei, Wayne Rooney, a făcut o dezvăluire emoționantă, afirmând că a avut gânduri de a-și lua viața în timpul carierei sale la clubul de pe Old Trafford. El a declarat că a apelat la terapie pentru a gestiona presiunea și dificultățile psihologice cu care se confrunta. Această mărturisire subliniază importanța sănătății mintale în sportul de performanță și necesitatea sprijinului pentru sportivi.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-11-17T16:45:43.363275+00:00",
+      "data_afisaj": "17 noiembrie 2026, 18:45"
+    },
+    {
+      "id": "f8e173e31774",
+      "titlu": "Sarina Wiegman își prelungește contractul cu Anglia, noi convocări la naționala feminină",
+      "rezumat": "Antrenoarea naționalei feminine de fotbal a Angliei, Sarina Wiegman, și-a prelungit contractul până la finalul Campionatului European din 2029, citând potențialul tinerelor talente drept un factor cheie în decizia sa. În plus, Wiegman a anunțat primele convocări la echipa de senioare pentru atacanta Isobel Goodwin de la London City Lionesses și portarul Katie Cox, pentru meciurile de calificare la Cupa Mondială împotriva Ucrainei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-17T16:45:43.364902+00:00",
+      "data_afisaj": "17 noiembrie 2026, 18:45"
+    },
+    {
+      "id": "650f689d3766",
+      "titlu": "Federația Engleză de Fotbal dorește să găzduiască finala Ligii Națiunilor",
+      "rezumat": "Oficialii Federației Engleze de Fotbal (FA) și-au exprimat interesul de a găzdui finalele Ligii Națiunilor în acest sezon. Anglia ar putea fi gazda turneului final, o decizie care ar aduce un eveniment major pe teren propriu. Această inițiativă reflectă dorința FA de a aduce competiții internaționale de prestigiu în țară, consolidând poziția Angliei pe harta fotbalului european.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-17T16:45:43.366338+00:00",
+      "data_afisaj": "17 noiembrie 2026, 18:45"
+    },
+    {
+      "id": "481b521d0af9",
+      "titlu": "Un bărbat a fost condamnat pentru abuz rasist la adresa lui Kylian Mbappé",
+      "rezumat": "Un bărbat a fost condamnat pentru o infracțiune de ură, după ce a adresat insulte rasiste atacantului lui Real Madrid, Kylian Mbappé, în timpul unui meci de La Liga disputat la Real Oviedo în 2025. Această condamnare reprezintă un pas important în lupta împotriva rasismului în fotbal, trimițând un mesaj clar că astfel de comportamente nu vor fi tolerate pe stadioane și vor fi sancționate conform legii.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-17T16:45:43.367868+00:00",
+      "data_afisaj": "17 noiembrie 2026, 18:45"
+    },
     {
       "id": "e323aae69d09",
       "titlu": "Trafford l-a înlocuit pe Pickford ca Anglia nr. 1?",
@@ -1268,106 +1328,6 @@
       ],
       "data_publicare": "2026-11-10T21:42:22.912024+00:00",
       "data_afisaj": "10 noiembrie 2026, 23:42"
-    },
-    {
-      "id": "9e263d192684",
-      "titlu": "Conducerea Manchester United va Discuta Planul de Retrogradare la Summitul Michael Carrick din Monaco",
-      "rezumat": "Conducerea clubului Manchester United va organiza o întâlnire crucială la Monaco pentru a evalua situația actuală a echipei și a discuta un plan de acțiune în contextul riscului de retrogradare. Această decizie vine după un început de sezon dezastruos, cu o singură victorie în primele zece meciuri de campionat. Viitorul antrenorului principal Michael Carrick va fi, de asemenea, un subiect central al discuțiilor, pe fondul presiunii crescânde asupra clubului. Summitul subliniază gravitatea crizei prin care trece echipa.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-11-10T16:06:29.471476+00:00",
-      "data_afisaj": "10 noiembrie 2026, 18:06"
-    },
-    {
-      "id": "c05ec114ccc0",
-      "titlu": "Țara Galilor Îl Convoacă pe Aaron Collins de la MK Dons După Retragerea Lui Kieffer Moore",
-      "rezumat": "Naționala Țării Galilor a anunțat convocarea atacantului Aaron Collins de la MK Dons pentru meciurile din Liga Națiunilor programate în această lună. Această decizie vine ca urmare a retragerii din lot a atacantului Kieffer Moore de la Wrexham, care s-a accidentat. Modificarea în componența echipei este o măsură necesară pentru a asigura o acoperire adecvată în atac înaintea confruntărilor internaționale, oferind o oportunitate importantă pentru Collins de a se afirma la nivel internațional.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-10T16:06:29.472547+00:00",
-      "data_afisaj": "10 noiembrie 2026, 18:06"
-    },
-    {
-      "id": "39b6f5c98f63",
-      "titlu": "Crystal Palace Ar Putea Evita Compensații Substanțiale Dacă Pierre Sage Revine la Lens",
-      "rezumat": "Clubul Crystal Palace ar putea evita plata unor compensații semnificative antrenorului Pierre Sage, a cărui plecare de la Selhurst Park nu a fost încă confirmată oficial. Această posibilitate apare în cazul în care Sage ar fi reangajat de fostul său club, Lens. Decizia de a-l demite pe Sage a fost luată duminică seară, după a patra înfrângere consecutivă a echipei în Premier League, împotriva lui Liverpool, lăsând clubul într-o situație financiară și sportivă delicată. Negocierile sunt în desfășurare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-10T16:06:29.473525+00:00",
-      "data_afisaj": "10 noiembrie 2026, 18:06"
-    },
-    {
-      "id": "e20b40184221",
-      "titlu": "Principalii Candidați pentru Postul de Antrenor la Aberdeen, Analizați",
-      "rezumat": "După demiterea lui Stephen Robinson, clubul scoțian Aberdeen analizează opțiunile pentru noul antrenor principal. Două nume din fotbalul intern se disting ca favoriți, însă nu este exclusă nici posibilitatea numirii unui tehnician străin. Căutarea unui înlocuitor vine în contextul unei căderi în clasament, iar conducerea clubului își propune să găsească o soluție rapidă pentru a redresa performanțele echipei. Decizia finală este așteptată în perioada următoare, pentru a stabiliza situația sportivă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-10T16:06:29.474456+00:00",
-      "data_afisaj": "10 noiembrie 2026, 18:06"
-    },
-    {
-      "id": "1052dc393b81",
-      "titlu": "Avocații lui Rui Pinto Discută Cooperarea cu Autoritățile Britanice în Cazul Manchester City",
-      "rezumat": "Avocații lui Rui Pinto, denunțătorul implicat în cazul financiar al clubului Manchester City, poartă discuții cu autoritățile britanice. Potrivit informațiilor, Biroul pentru Fraude Grave (Serious Fraud Office) a contactat pe Pinto, care este dispus să colaboreze în investigațiile privind infracțiuni financiare și sportive grave din Marea Britanie, în schimbul protecției. Această evoluție ar putea aduce noi perspective în dosarul complex al acuzațiilor aduse clubului Manchester City.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-10T15:27:36.257856+00:00",
-      "data_afisaj": "10 noiembrie 2026, 17:27"
-    },
-    {
-      "id": "6d7148e84d37",
-      "titlu": "Arsène Wenger Ia în Considerare Candidatura la Președinția FIFA Împotriva lui Gianni Infantino",
-      "rezumat": "Fostul manager al echipei Arsenal, Arsène Wenger, analizează posibilitatea de a candida împotriva actualului președinte FIFA, Gianni Infantino, la alegerile prezidențiale din martie. Această decizie ar putea marca o schimbare semnificativă în peisajul conducerii fotbalului mondial, aducând o figură cu o vastă experiență în sport la nivel înalt în cursa pentru cea mai importantă funcție din fotbalul internațional.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-10T15:27:36.259348+00:00",
-      "data_afisaj": "10 noiembrie 2026, 17:27"
-    },
-    {
-      "id": "de49da7aa9b3",
-      "titlu": "Vincent Kompany Revine la Antrenamentele Bayern München După Colapsul Recent",
-      "rezumat": "Antrenorul principal al echipei Bayern München, Vincent Kompany, a revenit la antrenamente, clubul anunțând că este \"pe drumul spre recuperare\" după un colaps recent și tratamentul primit în spital. Această veste aduce liniște în rândul fanilor și al clubului, confirmând că starea de sănătate a tehnicianului se îmbunătățește și că acesta își reia treptat atribuțiile.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-10T15:27:36.260612+00:00",
-      "data_afisaj": "10 noiembrie 2026, 17:27"
-    },
-    {
-      "id": "0bb8e7f22ec0",
-      "titlu": "Felix Nmecha de la Borussia Dortmund Neagă că Celebrarea Golurilor Sale Promovează Intoleranța",
-      "rezumat": "Mijlocașul Borussiei Dortmund și al naționalei Germaniei, Felix Nmecha, a răspuns criticilor legate de celebrările sale de gol, asociate cu o rețea evanghelică. Nmecha a declarat că gesturile sale au fost înțelese greșit și nu sunt menite să promoveze \"intoleranță, discriminare sau ură sub nicio formă\". Acesta a subliniat că mesajul său este unul de \"dragoste și respect față de toți\", în urma criticilor primite din partea unui grup de fani ai clubului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-10T15:27:36.261903+00:00",
-      "data_afisaj": "10 noiembrie 2026, 17:27"
-    },
-    {
-      "id": "ae289b1dc10a",
-      "titlu": "James Hill de la Bournemouth, Convocat în Premieră la Naționala Angliei",
-      "rezumat": "Fundașul echipei Bournemouth, James Hill, a fost adăugat în lotul naționalei Angliei pentru meciul din Liga Națiunilor împotriva Croației, care va avea loc joi pe stadionul Wembley. Convocarea sa vine ca o acoperire pentru absența lui Konsa și reprezintă o premieră pentru tânărul apărător la nivel de seniori, oferindu-i o oportunitate de a-și demonstra calitățile la cel mai înalt nivel internațional.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-10T15:27:36.263122+00:00",
-      "data_afisaj": "10 noiembrie 2026, 17:27"
     }
   ]
 }
