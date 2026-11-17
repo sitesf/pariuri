@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-17T16:45:43.367890+00:00",
-  "updated_at_afisaj": "17 noiembrie 2026, 18:45",
+  "updated_at": "2026-11-17T17:24:02.372812+00:00",
+  "updated_at_afisaj": "17 noiembrie 2026, 19:24",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 116,
+  "numar_stiri": 121,
   "stiri": [
+    {
+      "id": "483a4a1e9b5e",
+      "titlu": "Gigi Becali a anunțat primul transfer al iernii la FCSB",
+      "rezumat": "Patronul FCSB, Gigi Becali, a declarat public că a realizat deja primul transfer pentru perioada de iarnă. Deși detaliile despre jucătorul vizat nu au fost încă făcute publice, anunțul marchează începutul campaniei de achiziții a clubului bucureștean. Această mișcare vine în contextul în care FCSB își propune să își consolideze lotul pentru a-și atinge obiectivele în competițiile interne și a-și menține poziția de lider.",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-11-17T17:24:02.366300+00:00",
+      "data_afisaj": "17 noiembrie 2026, 19:24"
+    },
+    {
+      "id": "1612b279a850",
+      "titlu": "Arsenal, aproape de noi contracte pentru David Raya, Jurrien Timber și Piero Hincapie",
+      "rezumat": "Clubul Arsenal este pe punctul de a finaliza noi acorduri contractuale cu trei jucători importanți: portarul David Raya, fundașul Jurrien Timber și fundașul Piero Hincapie. Aceste prelungiri de contracte ar asigura stabilitatea lotului pe termen lung și ar consolida poziția echipei în competițiile viitoare. Negocierile avansate reflectă strategia clubului de a-și păstra talentele cheie și de a construi o echipă puternică pentru a concura la cel mai înalt nivel.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-11-17T17:24:02.367980+00:00",
+      "data_afisaj": "17 noiembrie 2026, 19:24"
+    },
+    {
+      "id": "9c3417510fae",
+      "titlu": "Senegal, prima echipă calificată la Cupa Africii pe Națiuni 2027",
+      "rezumat": "Naționala Senegalului a devenit prima echipă care și-a asigurat calificarea la Cupa Africii pe Națiuni din 2027. Această performanță vine după o serie de rezultate solide în preliminarii, consolidând statutul Senegalului ca una dintre forțele dominante din fotbalul african. În contrast, Egiptul a ratat șansa de a se califica alături de Senegal, iar Nigeria a înregistrat un nou eșec în campania de calificare, complicându-și situația.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-17T17:24:02.369496+00:00",
+      "data_afisaj": "17 noiembrie 2026, 19:24"
+    },
+    {
+      "id": "569501e03c2d",
+      "titlu": "Peter Storey, fost jucător emblematic al lui Arsenal și internațional englez, a decedat la 81 de ani",
+      "rezumat": "Peter Storey, o figură cheie a echipei Arsenal care a câștigat eventul în 1971 și fost internațional englez, a murit la vârsta de 81 de ani. Storey a jucat 501 meciuri pentru Arsenal între 1965 și 1977, fiind al optulea în topul aparițiilor pentru club. De asemenea, a reprezentat Anglia de 19 ori. Clubul Arsenal i-a adus un omagiu fostului mijlocaș, recunoscându-i contribuția semnificativă la istoria sa și la succesul echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-17T17:24:02.371226+00:00",
+      "data_afisaj": "17 noiembrie 2026, 19:24"
+    },
+    {
+      "id": "8c79f06adf28",
+      "titlu": "Jürgen Klopp lansează cu succes proiectul de reconstrucție al naționalei Germaniei",
+      "rezumat": "La șase săptămâni după o înfrângere frustrantă în Liga Națiunilor împotriva Greciei, Jürgen Klopp a demarat cu succes proiectul său de reconstrucție la cârma naționalei Germaniei. Deși debutul său pe teren propriu a fost marcat de un eșec, Klopp a declarat că este \"complet netulburat\" și că înfrângerile sunt doar \"informații\" din care se pot trage concluzii. Această abordare indică o viziune pe termen lung pentru readucerea \"Die Mannschaft\" în prim-planul fotbalului internațional și pregătirea pentru viitoarele competiții majore.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-17T17:24:02.372792+00:00",
+      "data_afisaj": "17 noiembrie 2026, 19:24"
+    },
     {
       "id": "6078beb9bbc8",
       "titlu": "Antrenorul lui Blackburn, Tony Mowbray, se retrage din cauza problemelor de sănătate",
