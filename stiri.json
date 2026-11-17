@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-16T17:57:53.719988+00:00",
-  "updated_at_afisaj": "16 noiembrie 2026, 19:57",
+  "updated_at": "2026-11-17T00:03:27.483463+00:00",
+  "updated_at_afisaj": "17 noiembrie 2026, 02:03",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,52 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 120,
+  "numar_stiri": 119,
   "stiri": [
+    {
+      "id": "0b8c544792b2",
+      "titlu": "Elveția învinge categoric Scoția, presiune crescută pe antrenorul Pocognoli",
+      "rezumat": "Echipa națională a Scoției a suferit o înfrângere dureroasă cu 4-0 în fața Elveției, o echipă formată în mare parte din rezerve, în Liga Națiunilor. Acest rezultat a generat noi semne de întrebare privind capacitatea lui Sébastien Pocognoli de a gestiona echipa, după ce Federația Scoțiană de Fotbal i-a acordat încredere. Căpitanul Andy Robertson, care a devenit cel mai selecționat jucător din istoria Scoției la acest meci, a exprimat frustrarea echipei, subliniind că nu mai este timp pentru a redresa situația.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-17T00:03:27.478528+00:00",
+      "data_afisaj": "17 noiembrie 2026, 02:03"
+    },
+    {
+      "id": "3e6a9fad45e4",
+      "titlu": "Spania suferă o înfrângere rară, dar De la Fuente rămâne optimist",
+      "rezumat": "Naționala Spaniei a înregistrat o înfrângere rară duminică seară, punând capăt unei serii impresionante de un singur eșec în meciurile competitive din martie 2023. Antrenorul Luis de la Fuente, care anterior declarase că \"fiecare meci aduce înfrângerea mai aproape\", a recunoscut dezamăgirea, dar a subliniat că echipa este mândră de parcursul său. În ciuda acestui pas înapoi, atât antrenorul, cât și jucătorii și presa spaniolă își mențin încrederea într-un viitor luminos pentru fotbalul spaniol.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-17T00:03:27.480487+00:00",
+      "data_afisaj": "17 noiembrie 2026, 02:03"
+    },
+    {
+      "id": "5f2f16437725",
+      "titlu": "Declan Rice a acceptat verbal un nou contract cu Arsenal",
+      "rezumat": "Declan Rice, mijlocașul central al lui Arsenal, a ajuns la un acord verbal pentru un nou contract pe termen lung cu clubul londonez. Anunțul a fost făcut de Sky Sports News, confirmând angajamentul jucătorului față de \"Tunari\". Această înțelegere vine după ce Rice a fost considerat o investiție strategică de peste 100 de milioane de lire sterline de către proprietarii clubului, familia Kroenke, care au dorit să se asigure de valoarea pe termen lung a jucătorului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-11-17T00:03:27.481844+00:00",
+      "data_afisaj": "17 noiembrie 2026, 02:03"
+    },
+    {
+      "id": "218bb44f4e70",
+      "titlu": "Strategia de transfer a lui Liverpool pentru ianuarie, fără înlocuitori pentru Van Dijk",
+      "rezumat": "Clubul Liverpool nu intenționează să caute înlocuitori pe piața transferurilor pentru Virgil van Dijk, nici în fereastra de transferuri din ianuarie, nici în vara următoare. Această decizie vine în ciuda unor acuzații privind componența actuală a lotului. Strategia clubului sugerează o încredere în resursele interne și în jucătorii existenți pentru a acoperi eventualele absențe sau pentru a gestiona dinamica echipei, fără a recurge la achiziții majore pentru poziția respectivă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-11-17T00:03:27.483445+00:00",
+      "data_afisaj": "17 noiembrie 2026, 02:03"
+    },
     {
       "id": "e4bd440c7eec",
       "titlu": "Thomas Frank, noul antrenor al echipei Crystal Palace",
@@ -1312,62 +1356,6 @@
       ],
       "data_publicare": "2026-11-10T00:31:03.818205+00:00",
       "data_afisaj": "10 noiembrie 2026, 02:31"
-    },
-    {
-      "id": "202187d8b70d",
-      "titlu": "Brady încetează asocierea cu Birmingham City",
-      "rezumat": "Legenda NFL Tom Brady își încheie asocierea cu echipa de top din campionatul Birmingham City după trei ani.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-10T00:00:18.840067+00:00",
-      "data_afisaj": "10 noiembrie 2026, 02:00"
-    },
-    {
-      "id": "71d7fcf74469",
-      "titlu": "Man Utd se aștepta să-l concedieze pe antrenorul principal Carrick",
-      "rezumat": "Domnia lui Michael Carrick la Manchester United pare aproape de sfârșit după cel mai prost început de campanie națională al clubului din ultimii 40 de ani.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-10T00:00:18.841313+00:00",
-      "data_afisaj": "10 noiembrie 2026, 02:00"
-    },
-    {
-      "id": "e10a2b2631ea",
-      "titlu": "Kane și Bellingham au opinii puternice în revizuirea Cupei Mondiale din Anglia",
-      "rezumat": "Se înțelege că jucătorii Angliei au exprimat opinii puternice despre înfrângerea lor în semifinala Cupei Mondiale în fața Argentina într-o întâlnire de echipă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-10T00:00:18.842603+00:00",
-      "data_afisaj": "10 noiembrie 2026, 02:00"
-    },
-    {
-      "id": "875e34eb5bf6",
-      "titlu": "Oamenii nu știu întreaga poveste din spatele exilului Angliei - White",
-      "rezumat": "Fundașul lui Arsenal, Ben White, spune că oamenii nu cunosc „povestea completă” din spatele deciziei sale de a se face anterior indisponibil pentru selecția Angliei – dar spune că va lua din nou aceeași decizie.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-10T00:00:18.843869+00:00",
-      "data_afisaj": "10 noiembrie 2026, 02:00"
-    },
-    {
-      "id": "f042e91688cc",
-      "titlu": "Wimborne îl va găzdui pe Bradford în turul doi al FA Cup - vezi tragerea la sorți",
-      "rezumat": "Echipa de rangul al șaptelea, Wimborne Town, va găzdui League One Bradford City în turul doi al FA Cup, în timp ce foștii câștigători Leicester City va vizita echipa de Sud a Ligii Naționale Dover Athletic.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-10T00:00:18.845234+00:00",
-      "data_afisaj": "10 noiembrie 2026, 02:00"
     }
   ]
 }
