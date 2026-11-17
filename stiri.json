@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-17T23:24:30.513121+00:00",
-  "updated_at_afisaj": "18 noiembrie 2026, 01:24",
+  "updated_at": "2026-11-17T23:42:50.565453+00:00",
+  "updated_at_afisaj": "18 noiembrie 2026, 01:42",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,44 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 117,
+  "numar_stiri": 120,
   "stiri": [
+    {
+      "id": "bc9780ddac5d",
+      "titlu": "Troy Parrott, eroul calificării Irlandei în play-off-ul Ligii Națiunilor",
+      "rezumat": "Atacantul Troy Parrott a avut o performanță decisivă, marcând două goluri din penalty, care au asigurat calificarea Republicii Irlanda în play-off-ul Ligii Națiunilor, după victoria cu 3-0 împotriva Kosovo. Parrott a reflectat asupra unui an remarcabil, transformator atât pentru cariera sa la club, cât și pentru cea internațională, consolidându-și poziția de jucător cheie pentru echipa națională. Această performanță subliniază importanța sa în obținerea unui loc în faza eliminatorie a competiției.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-11-17T23:42:50.560855+00:00",
+      "data_afisaj": "18 noiembrie 2026, 01:42"
+    },
+    {
+      "id": "b61f9452fc2a",
+      "titlu": "Ralph Brand, legenda clubului Rangers, a decedat la vârsta de 89 de ani",
+      "rezumat": "Clubul scoțian Rangers a anunțat cu tristețe decesul lui Ralph Brand, la vârsta de 89 de ani. Brand a fost o figură emblematică și unul dintre cei mai prolifici marcatori din istoria clubului, contribuind semnificativ la succesele echipei de-a lungul anilor. Vestea morții sale a adus un val de omagii din partea fanilor și a comunității fotbalistice, marcând o pierdere importantă pentru patrimoniul sportiv al Scoției.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-17T23:42:50.562537+00:00",
+      "data_afisaj": "18 noiembrie 2026, 01:42"
+    },
+    {
+      "id": "60ba273ea9a6",
+      "titlu": "JJ Gabriel confirmă plecarea de la Manchester United, cu destinația Real Madrid",
+      "rezumat": "Tânărul jucător JJ Gabriel a anunțat oficial despărțirea de Manchester United printr-un mesaj emoționant postat pe rețelele sociale, în contextul unei mutări iminente la Real Madrid. Gabriel, care s-a alăturat \"Diavolilor Roșii\" la vârsta de 10 ani, a transmis că clubul englez va rămâne mereu o parte importantă din povestea sa. Această plecare marchează un nou capitol în cariera promițătoare a adolescentului, care se pregătește să facă pasul către gigantul spaniol.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-17T23:42:50.564125+00:00",
+      "data_afisaj": "18 noiembrie 2026, 01:42"
+    },
     {
       "id": "07d8a03a1f43",
       "titlu": "Rooney spune că s-a gândit să-și ia viața la Man Utd",
