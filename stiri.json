@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-17T00:03:27.483463+00:00",
-  "updated_at_afisaj": "17 noiembrie 2026, 02:03",
+  "updated_at": "2026-11-17T00:35:44.094614+00:00",
+  "updated_at_afisaj": "17 noiembrie 2026, 02:35",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 119,
+  "numar_stiri": 120,
   "stiri": [
+    {
+      "id": "e323aae69d09",
+      "titlu": "Trafford l-a înlocuit pe Pickford ca Anglia nr. 1?",
+      "rezumat": "Lui James Trafford i s-a oferit șansa de a-și revendica pretenția ca noul număr unu al Angliei - și în deplasare la campionii mondiali, a acceptat-o ​​cu siguranță.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-11-17T00:35:19.232696+00:00",
+      "data_afisaj": "17 noiembrie 2026, 02:35"
+    },
+    {
+      "id": "7cf05a66c58b",
+      "titlu": "Pocognoli vrea răbdare, dar Scoția „nu are timp”, spune Robertson",
+      "rezumat": "Căpitanul supărat Andy Robertson spune că Scoția nu are timp să întoarcă lucrurile după ce o înfrângere brutală cu 4-0 în fața Elveției ia adus pe locul trei în grupa din Liga Națiunilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-17T00:35:19.233903+00:00",
+      "data_afisaj": "17 noiembrie 2026, 02:35"
+    },
+    {
+      "id": "5752f221f6f1",
+      "titlu": "Cum poate Frank să restabilească reputația și să salveze Crystal Palace",
+      "rezumat": "Își va reconstrui Thomas Frank – acum confirmat ca noul antrenor al Crystal Palace – reputația la Selhurst Park după o perioadă de vânătăi la Tottenham?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-17T00:35:19.234962+00:00",
+      "data_afisaj": "17 noiembrie 2026, 02:35"
+    },
+    {
+      "id": "96b178df9080",
+      "titlu": "Robertson îl eclipsează pe Dalglish pentru a deveni bărbatul cu cel mai mare nivel al Scoției",
+      "rezumat": "Andy Robertson l-a preluat pe Kenny Dalglish ca jucător cu cele mai multe selecții ale Scoției, făcând a 103-a apariție în meciul de luni din Liga Națiunilor împotriva Elveției.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-17T00:35:19.236002+00:00",
+      "data_afisaj": "17 noiembrie 2026, 02:35"
+    },
+    {
+      "id": "2ec45612b51e",
+      "titlu": "Man Utd va resuscita interesul Hall - bârfa de marți",
+      "rezumat": "Manchester United s-ar putea lupta pentru a-l premia pe fundașul Lewis Hall de la Newcastle, mijlocașul Arsenal Martin Zubimendi se gândește la viitorul său, Chelsea se gândește la o dublă lovitură pentru duoul Barcelona, ​​plus multe altele.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-17T00:35:19.237034+00:00",
+      "data_afisaj": "17 noiembrie 2026, 02:35"
+    },
     {
       "id": "0b8c544792b2",
       "titlu": "Elveția învinge categoric Scoția, presiune crescută pe antrenorul Pocognoli",
@@ -1312,50 +1368,6 @@
       ],
       "data_publicare": "2026-11-10T15:27:36.263122+00:00",
       "data_afisaj": "10 noiembrie 2026, 17:27"
-    },
-    {
-      "id": "b60853bcd1c5",
-      "titlu": "Manchester City, Verdict de Vinovăție și Apel în Cazul Financiar",
-      "rezumat": "Revista World Soccer a raportat un verdict de vinovăție în cazul financiar al clubului Manchester City, o decizie care a stârnit un interes considerabil în lumea fotbalului. Clubul a depus deja un apel împotriva acestei hotărâri. Această evoluție majoră, care a fost mult timp în așteptare, ridică întrebări importante despre viitorul clubului și despre implicațiile sale pentru Premier League. Publicația a dedicat spații ample analizei acestei situații, cu experți care dezbat consecințele și pașii următori pentru campioana Angliei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "World Soccer"
-      ],
-      "data_publicare": "2026-11-10T00:31:03.813415+00:00",
-      "data_afisaj": "10 noiembrie 2026, 02:31"
-    },
-    {
-      "id": "0d3d06e3dbda",
-      "titlu": "Lucy Bronze, Inclusă în Echipa Mondială FIFPRO Feminină pentru a Noua Oară, un Record",
-      "rezumat": "Fundașul englez Lucy Bronze a fost nominalizată în Echipa Mondială FIFPRO Feminină pentru a noua oară în carieră, stabilind un nou record. Această recunoaștere subliniază constanța și performanțele excepționale ale jucătoarei la cel mai înalt nivel al fotbalului feminin. Alături de Bronze, alte patru jucătoare din Anglia au fost incluse în această selecție prestigioasă, reflectând succesul recent al naționalei feminine a Angliei. Nominalizarea este rezultatul voturilor exprimate de mii de fotbaliste profesioniste din întreaga lume.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-10T00:31:03.815080+00:00",
-      "data_afisaj": "10 noiembrie 2026, 02:31"
-    },
-    {
-      "id": "d833d0fc74eb",
-      "titlu": "Harry Kane, Câștigător al Balonului de Aur, Omitere Surprinzătoare din Echipa Mondială FIFPRO",
-      "rezumat": "Atacantul englez Harry Kane, recent laureat al Balonului de Aur, nu a fost inclus în Echipa Mondială FIFPRO, o decizie care a stârnit discuții în comunitatea fotbalistică. Această omisiune este considerată surprinzătoare, având în vedere performanțele sale individuale remarcabile care i-au adus cel mai prestigios trofeu individual. Echipa Mondială FIFPRO este votată de mii de jucători profesioniști din întreaga lume, iar absența lui Kane din această selecție, în ciuda succesului său recent, ridică semne de întrebare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-11-10T00:31:03.816771+00:00",
-      "data_afisaj": "10 noiembrie 2026, 02:31"
-    },
-    {
-      "id": "b69664bd9e94",
-      "titlu": "Diego Demme S-a Retras din Fotbal la 34 de Ani din Cauza Concuziilor",
-      "rezumat": "Fostul mijlocaș Diego Demme, câștigător al Serie A, a dezvăluit că s-a retras din fotbal la vârsta de 34 de ani din cauza efectelor persistente ale concuziilor. Demme a explicat că simptomele, care includeau dificultăți de condus și de îngrijire a copiilor, l-au determinat să ia decizia de a pune capăt carierei sale de fotbalist. Această mărturie subliniază importanța tot mai mare a sănătății jucătorilor și a riscurilor asociate cu leziunile la cap în sportul profesionist, aducând în atenție o problemă serioasă în fotbalul modern.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-11-10T00:31:03.818205+00:00",
-      "data_afisaj": "10 noiembrie 2026, 02:31"
     }
   ]
 }
