@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-18T22:52:56.534062+00:00",
-  "updated_at_afisaj": "19 noiembrie 2026, 00:52",
+  "updated_at": "2026-11-18T23:13:57.226734+00:00",
+  "updated_at_afisaj": "19 noiembrie 2026, 01:13",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 120,
+  "numar_stiri": 125,
   "stiri": [
+    {
+      "id": "ac9f47ca7a17",
+      "titlu": "FA a explorat contestația legală pentru a rămâne pe Infantino",
+      "rezumat": "Asociația de Fotbal a luat în considerare contestarea eligibilității lui Gianni Infantino de a candida pentru al patrulea mandat ca președinte al FIFA, dar a considerat că un caz ar putea eșua.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-18T23:13:33.683169+00:00",
+      "data_afisaj": "19 noiembrie 2026, 01:13"
+    },
+    {
+      "id": "93ff2dffff42",
+      "titlu": "FA ucraineană de vină pentru testul de droguri eșuat - Mudryk",
+      "rezumat": "Mikhailo Mudryk, împrumutat al lui Tottenham, lateralul lui Chelsea, spune că dă vina pe Asociația Ucraineană de Fotbal pentru testul eșuat de droguri și pentru interdicția ulterioară.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-18T23:13:33.684297+00:00",
+      "data_afisaj": "19 noiembrie 2026, 01:13"
+    },
+    {
+      "id": "e459f9845efe",
+      "titlu": "Panarea fotbalului de la 15:00: depășită sau încă relevantă în 2026?",
+      "rezumat": "După 60 de ani, s-a epuizat în sfârșit timpul pentru pauza de la ora 15 din fotbal?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-18T23:13:33.685405+00:00",
+      "data_afisaj": "19 noiembrie 2026, 01:13"
+    },
+    {
+      "id": "a3709d49557f",
+      "titlu": "Manchester nu va fi întotdeauna albastru - Pochettino",
+      "rezumat": "Noul șef, Mauricio Pochettino, spune că îi va face pe Manchester United cea mai de succes echipă de fotbal din oraș.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-18T23:13:33.686441+00:00",
+      "data_afisaj": "19 noiembrie 2026, 01:13"
+    },
+    {
+      "id": "4399615a075e",
+      "titlu": "Man Utd urmărește Pazul lui Como - bârfa de joi",
+      "rezumat": "Manchester United îl urmărește pe Nico Paz, Besiktas complotează pentru Amad Diallo, Barcelona pentru a respinge ofertele lui Alejandro Balde și altele.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-18T23:13:33.687484+00:00",
+      "data_afisaj": "19 noiembrie 2026, 01:13"
+    },
     {
       "id": "99177382561a",
       "titlu": "Leicester s-a despărțit de sponsor după ce o actriță porno",
