@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-18T16:57:28.460607+00:00",
-  "updated_at_afisaj": "18 noiembrie 2026, 18:57",
+  "updated_at": "2026-11-18T22:52:56.534062+00:00",
+  "updated_at_afisaj": "19 noiembrie 2026, 00:52",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,64 @@
   },
   "numar_stiri": 120,
   "stiri": [
+    {
+      "id": "99177382561a",
+      "titlu": "Leicester s-a despărțit de sponsor după ce o actriță porno",
+      "rezumat": "Un grup de fani s-a plâns după ce BC Game a numit o actriță porno ambasadoră a mărcii.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-18T22:52:33.246041+00:00",
+      "data_afisaj": "19 noiembrie 2026, 00:52"
+    },
+    {
+      "id": "b58c7e8b0f78",
+      "titlu": "Chelsea a smuls câștigătorul târziu vs PSG pentru a trece în fruntea tabelului WCL",
+      "rezumat": "Învingătoarea târzie a lui Veerle Buurman a câștigat cu 1-0 pentru Chelsea împotriva Parisului Saint-Germain pentru a-i muta în fruntea tabelului Ligii Campionilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-18T22:52:33.247196+00:00",
+      "data_afisaj": "19 noiembrie 2026, 00:52"
+    },
+    {
+      "id": "176dd8336546",
+      "titlu": "Fără milă! Victor Pițurcă l-a „distrus” pe Mihai Stoica: „A fost slujitor!”",
+      "rezumat": "(rezumat indisponibil)",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-11-18T22:52:33.248465+00:00",
+      "data_afisaj": "19 noiembrie 2026, 00:52"
+    },
+    {
+      "id": "858fef27d306",
+      "titlu": "Cele mai strânse resturi de supraviețuire de ani de zile? De ce nu este prea devreme să vă faceți griji",
+      "rezumat": "Premier League se reia sâmbătă cu Crystal Palace, Sunderland și Man Utd în zona retrogradării. Dar este prea devreme pentru a fi îngrijorat?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-18T22:52:33.249621+00:00",
+      "data_afisaj": "19 noiembrie 2026, 00:52"
+    },
+    {
+      "id": "de97bbc3dd15",
+      "titlu": "A înregistrat în comun șase erori ale arbitrului în ultimul weekend din Premier League",
+      "rezumat": "Panelul de incidente cheie de meciuri din Premier League stabilește că au existat șase erori pe teren în ultima rundă de jocuri - cea mai mare comună dintr-un weekend.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-18T22:52:33.250693+00:00",
+      "data_afisaj": "19 noiembrie 2026, 00:52"
+    },
     {
       "id": "ade82ef32c28",
       "titlu": "Mauricio Pochettino promite să readucă Manchester United în topul orașului",
@@ -1321,62 +1379,6 @@
       ],
       "data_publicare": "2026-11-11T23:14:36.543506+00:00",
       "data_afisaj": "12 noiembrie 2026, 01:14"
-    },
-    {
-      "id": "2e14f170220c",
-      "titlu": "Fotbal Zilnic",
-      "rezumat": "Mauricio Pochettino l-ar putea înlocui pe Michael Carrick la Manchester United.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-11T22:31:49.359389+00:00",
-      "data_afisaj": "12 noiembrie 2026, 00:31"
-    },
-    {
-      "id": "0ca1641c9e78",
-      "titlu": "Pochettino, un deceniu de pregătire pentru Man Utd - dar Carrick merită mai mult",
-      "rezumat": "Mauricio Pochettino pare gata să transforme o curtare de un deceniu cu Man Utd într-o relație în toată regula, spune principalul scriitor de fotbal Phil McNulty.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-11T22:31:49.360555+00:00",
-      "data_afisaj": "12 noiembrie 2026, 00:31"
-    },
-    {
-      "id": "326a604b6f08",
-      "titlu": "Pochettino gata să accepte oferta Man Utd de a-l înlocui pe Carrick",
-      "rezumat": "Mauricio Pochettino este gata să accepte o ofertă de la Manchester United pentru a deveni următorul lor antrenor principal.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-11T22:31:49.361601+00:00",
-      "data_afisaj": "12 noiembrie 2026, 00:31"
-    },
-    {
-      "id": "148a391e3ef2",
-      "titlu": "Lider, model, extraordinar - cum s-a împlinit 'povestea' lui Kane",
-      "rezumat": "De la tânărul de 21 de ani care a marcat la 79 de secunde de la debutul său, până la a fi pe punctul de a doborî recordul de apariții al națiunii sale, BBC Sport analizează cariera lui Harry Kane la echipa Angliei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-11T22:31:49.362743+00:00",
-      "data_afisaj": "12 noiembrie 2026, 00:31"
-    },
-    {
-      "id": "92981f1025dc",
-      "titlu": "Restricționarea legală a loviturilor de cap la antrenamente, cere un deputat",
-      "rezumat": "Un deputat cere măsuri de siguranță legale pentru a limita loviturile de cap repetitive la antrenamentele de fotbal, pe fondul îngrijorărilor crescânde legate de riscul de leziuni cerebrale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-11T22:31:49.363741+00:00",
-      "data_afisaj": "12 noiembrie 2026, 00:31"
     }
   ]
 }
