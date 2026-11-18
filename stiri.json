@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-18T16:16:39.648885+00:00",
-  "updated_at_afisaj": "18 noiembrie 2026, 18:16",
+  "updated_at": "2026-11-18T16:57:28.460607+00:00",
+  "updated_at_afisaj": "18 noiembrie 2026, 18:57",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 115,
+  "numar_stiri": 120,
   "stiri": [
+    {
+      "id": "ade82ef32c28",
+      "titlu": "Mauricio Pochettino promite să readucă Manchester United în topul orașului",
+      "rezumat": "Noul antrenor al echipei Manchester United, Mauricio Pochettino, a declarat că intenționează să restabilească supremația clubului în oraș, transformându-l din nou în cea mai de succes formație de fotbal din Manchester. Această declarație vine într-un context în care echipa se confruntă cu un început de sezon dificil, iar fanii așteaptă cu nerăbdare o schimbare de direcție sub conducerea tehnicianului argentinian, care își propune să readucă gloria pe Old Trafford.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-18T16:57:28.455820+00:00",
+      "data_afisaj": "18 noiembrie 2026, 18:57"
+    },
+    {
+      "id": "604d4f0ff660",
+      "titlu": "Manchester United este gata să-l susțină pe Pochettino pe piața transferurilor din ianuarie",
+      "rezumat": "Conducerea clubului Manchester United este de așteptat să-i ofere sprijin financiar antrenorului Mauricio Pochettino în fereastra de transferuri din ianuarie. Această decizie vine în contextul unui început de sezon dezamăgitor și are ca scop consolidarea lotului pentru a redresa parcursul echipei. Se anticipează că Pochettino va avea la dispoziție fonduri pentru a aduce jucători care să contribuie la îmbunătățirea performanțelor și la îndeplinirea obiectivelor clubului în a doua parte a sezonului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-11-18T16:57:28.457084+00:00",
+      "data_afisaj": "18 noiembrie 2026, 18:57"
+    },
+    {
+      "id": "10900418989b",
+      "titlu": "Număr record de erori de arbitraj în ultima etapă din Premier League",
+      "rezumat": "Comisia pentru Incidente Cheie din Premier League a confirmat șase erori de arbitraj pe teren în ultima rundă de meciuri, marcând un record comun pentru cel mai mare număr de greșeli într-un singur weekend. Această constatare subliniază presiunea tot mai mare asupra arbitrilor și intensifică dezbaterile privind calitatea deciziilor în cel mai important campionat de fotbal din Anglia. Incidentele au stârnit controverse și au afectat rezultatele unor partide cruciale, atrăgând atenția asupra necesității îmbunătățirii sistemului de arbitraj.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-18T16:57:28.458197+00:00",
+      "data_afisaj": "18 noiembrie 2026, 18:57"
+    },
+    {
+      "id": "44345b6d667e",
+      "titlu": "Interdicția transmisiunilor de fotbal de sâmbătă la ora 15:00: O regulă depășită sau încă relevantă?",
+      "rezumat": "După 60 de ani de aplicare, se pune tot mai mult problema dacă interdicția transmiterii meciurilor de fotbal de sâmbătă, la ora 15:00 (ora locală), mai este relevantă în anul 2026. Această regulă, menită să încurajeze prezența spectatorilor pe stadioane, este acum subiectul unor dezbateri intense, mulți considerând-o depășită în era digitală și a accesului facil la conținut sportiv. Viitorul acestei măsuri ar putea redefini modul în care fanii interacționează cu fotbalul englez.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-18T16:57:28.459447+00:00",
+      "data_afisaj": "18 noiembrie 2026, 18:57"
+    },
+    {
+      "id": "b6fe443bc659",
+      "titlu": "Arsenal, dispusă să vândă jucători pentru a-l transfera pe Alex Scott",
+      "rezumat": "Clubul Arsenal este una dintre cele trei echipe de top din Premier League interesate de transferul mijlocașului englez Alex Scott de la Bournemouth. Pentru a-și asigura serviciile jucătorului și a concura cu rivali precum Chelsea și Liverpool, Arsenal ar fi dispusă să realizeze vânzări de jucători din lotul actual. Această strategie subliniază intenția clubului de a-și consolida echipa cu talente noi și de a-și menține competitivitatea în lupta pentru titlu și calificarea în competițiile europene.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-11-18T16:57:28.460590+00:00",
+      "data_afisaj": "18 noiembrie 2026, 18:57"
+    },
     {
       "id": "406bd7ee50b1",
       "titlu": "Fostul mijlocaș spaniol Juan Mata se retrage din activitate la 38 de ani",
