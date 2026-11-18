@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-17T23:42:50.565453+00:00",
-  "updated_at_afisaj": "18 noiembrie 2026, 01:42",
+  "updated_at": "2026-11-18T16:16:39.648885+00:00",
+  "updated_at_afisaj": "18 noiembrie 2026, 18:16",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 120,
+  "numar_stiri": 115,
   "stiri": [
+    {
+      "id": "406bd7ee50b1",
+      "titlu": "Fostul mijlocaș spaniol Juan Mata se retrage din activitate la 38 de ani",
+      "rezumat": "Juan Mata, fostul mijlocaș internațional spaniol, cunoscut pentru perioadele petrecute la cluburi de top precum Chelsea și Manchester United în Premier League, și-a anunțat retragerea din fotbalul profesionist la vârsta de 38 de ani. Mata, un jucător apreciat pentru viziunea sa de joc și abilitățile tehnice, încheie o carieră impresionantă, marcată de numeroase trofee, inclusiv Liga Campionilor și Cupa Mondială. Anunțul său marchează sfârșitul unei ere pentru unul dintre cei mai eleganți fotbaliști spanioli ai generației sale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-18T16:16:39.643968+00:00",
+      "data_afisaj": "18 noiembrie 2026, 18:16"
+    },
+    {
+      "id": "06bbe306b8d3",
+      "titlu": "Manchester City a fost găsită vinovată, clubul a depus apel",
+      "rezumat": "Revista World Soccer din noiembrie 2026 relatează că Manchester City a fost găsită vinovată în cazul acuzațiilor care i-au fost aduse, o decizie care a stârnit un interes considerabil în lumea fotbalului. Clubul a confirmat că a depus deja un apel împotriva verdictului, indicând o luptă juridică continuă. Această situație are implicații majore pentru viitorul clubului și pentru integritatea competițiilor, generând dezbateri intense printre analiști și fani.",
+      "categorie": "Fotbal",
+      "surse": [
+        "World Soccer"
+      ],
+      "data_publicare": "2026-11-18T16:16:39.645173+00:00",
+      "data_afisaj": "18 noiembrie 2026, 18:16"
+    },
+    {
+      "id": "909bdbd8414d",
+      "titlu": "Bătălia pentru drepturile TV ale Cupei Mondiale 2030 în SUA ar putea reconfigura sportul live",
+      "rezumat": "O licitație de 2 miliarde de dolari pentru drepturile de televiziune ale Cupei Mondiale din 2030 în Statele Unite se anunță a fi o confruntare majoră între radiodifuzorii tradiționali, precum Fox, și platformele de streaming, precum Netflix. Experții din industrie consideră că această bătălie ar putea reprezenta un punct de cotitură, redefinind modul în care evenimentele sportive live sunt transmise și consumate. Miza este enormă, iar rezultatul ar putea influența semnificativ peisajul media sportiv global.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-18T16:16:39.646413+00:00",
+      "data_afisaj": "18 noiembrie 2026, 18:16"
+    },
+    {
+      "id": "238d16ea6e64",
+      "titlu": "Pauzele de hidratare vor fi menținute la Cupa Mondială 2030, conform documentelor FIFA",
+      "rezumat": "Documentele de licitație pentru drepturile TV ale Cupei Mondiale din 2030, emise de FIFA, includ o prevedere care permite radiodifuzorilor să vândă spații publicitare în timpul pauzelor de hidratare. Aceasta este o indicație puternică a faptului că aceste opriri controversate, introduse pentru prima dată la Cupa Mondială precedentă în interesul bunăstării jucătorilor, vor fi menținute. Decizia sugerează că FIFA vede un beneficiu financiar în aceste pauze, pe lângă aspectele legate de sănătatea sportivilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-18T16:16:39.647626+00:00",
+      "data_afisaj": "18 noiembrie 2026, 18:16"
+    },
+    {
+      "id": "336318ed4837",
+      "titlu": "Șeful PFA, Maheta Molango, avertizează că „jocul este în pericol”",
+      "rezumat": "Maheta Molango, directorul executiv al Asociației Fotbaliștilor Profesioniști (PFA), a declarat că „jocul este în pericol”, exprimându-și îngrijorarea cu privire la direcția actuală a fotbalului. Într-un interviu, Molango a abordat subiecte precum FIFA, Gianni Infantino și viitorul sportului, subliniind că aspectele fundamentale ale fotbalului sunt uitate. Declarațiile sale vin într-un moment critic pentru sport, ridicând semne de întrebare despre gestionarea și evoluția acestuia la nivel global.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-18T16:16:39.648865+00:00",
+      "data_afisaj": "18 noiembrie 2026, 18:16"
+    },
     {
       "id": "bc9780ddac5d",
       "titlu": "Troy Parrott, eroul calificării Irlandei în play-off-ul Ligii Națiunilor",
@@ -1267,117 +1322,6 @@
       ],
       "data_publicare": "2026-11-11T22:31:49.363741+00:00",
       "data_afisaj": "12 noiembrie 2026, 00:31"
-    },
-    {
-      "id": "07183f1558a4",
-      "titlu": "Decesul lui Danny Kelly, Jurnalist și Comentator Sportiv Renumit",
-      "rezumat": "Jurnalistul și comentatorul sportiv britanic Danny Kelly a încetat din viață la vârsta de 69 de ani. Kelly a avut o carieră influentă în presa muzicală și sportivă, fiind redactor la NME și Q Magazine și fondator al site-ului Football 365. Ulterior, a devenit o voce cunoscută la BBC și TalkSport, contribuind semnificativ la definirea acoperirii fotbalului în Marea Britanie pentru o generație întreagă. Decesul său survine după o perioadă în care a primit tratament pentru cancer esofagian, lăsând în urmă o moștenire importantă în jurnalismul sportiv.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-11T15:52:28.633555+00:00",
-      "data_afisaj": "11 noiembrie 2026, 17:52"
-    },
-    {
-      "id": "f02171ed7a23",
-      "titlu": "Ronaldinho Anunță Revenirea în Fotbalul Profesionist",
-      "rezumat": "Legendarul fotbalist brazilian Ronaldinho este pregătit să revină în fotbalul profesionist pentru prima dată în peste un deceniu. Anunțul a stârnit un val de entuziasm printre fani, care vor avea ocazia să urmărească evoluțiile sale în exclusivitate pe Sky Sports. Detaliile complete despre echipa la care va juca și calendarul meciurilor nu au fost încă făcute publice, dar vestea marchează un moment important pentru suporterii care speră să revadă magia fostului Balon de Aur pe teren. Această revenire neașteptată promite să aducă un plus de spectacol în lumea fotbalului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-11-11T15:52:28.634712+00:00",
-      "data_afisaj": "11 noiembrie 2026, 17:52"
-    },
-    {
-      "id": "9131b6feb449",
-      "titlu": "Cluburile din League One Caută Restricții Suplimentare de Cheltuieli",
-      "rezumat": "Cluburile din League One, a treia divizie de fotbal din Anglia, intenționează să introducă noi restricții de cheltuieli pentru a reduce pierderile financiare și a limita investițiile proprietarilor. Această inițiativă vine în contextul în care salariile din ligă au crescut cu 15% în acest sezon, iar bugetele continuă să crească necontrolat. Printre măsurile avute în vedere se numără o \"taxă de lux\" și limitarea pierderilor pe o perioadă de trei ani. Decizia urmărește să asigure o sustenabilitate financiară mai mare și să prevină dependența excesivă de finanțarea externă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-11T15:52:28.635921+00:00",
-      "data_afisaj": "11 noiembrie 2026, 17:52"
-    },
-    {
-      "id": "3febd9f71a11",
-      "titlu": "Scoția Fără Căpitanul Caroline Weir în Barajul de Calificare la Cupa Mondială",
-      "rezumat": "Naționala feminină de fotbal a Scoției va fi lipsită de serviciile căpitanului Caroline Weir pentru finala barajului de calificare la Cupa Mondială împotriva Suediei. Mijlocașul influent a suferit o recidivă în procesul de recuperare după o leziune musculară, ceea ce o va împiedica să participe la meciul crucial. Absența lui Weir reprezintă o lovitură semnificativă pentru echipa Scoției, având în vedere rolul său cheie în jocul și leadership-ul formației. Antrenorul va trebui să găsească soluții pentru a compensa lipsa experienței și calității sale în partida decisivă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-11T15:52:28.637188+00:00",
-      "data_afisaj": "11 noiembrie 2026, 17:52"
-    },
-    {
-      "id": "291f2cec4328",
-      "titlu": "Pedro Porro de la Tottenham Confirmă Interesul pentru un Transfer în La Liga",
-      "rezumat": "Fundașul spaniol Pedro Porro, jucător la Tottenham Hotspur, a declarat că un viitor transfer în La Liga nu este \"niciun secret\". Jucătorul este vizat de cluburi importante din Spania, inclusiv Real Madrid și Barcelona, iar declarațiile sale sugerează o dorință clară de a reveni în țara natală. Deși nu a oferit detalii specifice despre cluburile implicate sau despre momentul exact al unei posibile mutări, afirmațiile lui Porro alimentează speculațiile privind plecarea sa de la Tottenham și o revenire în campionatul spaniol în viitorul apropiat.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-11-11T15:52:28.638420+00:00",
-      "data_afisaj": "11 noiembrie 2026, 17:52"
-    },
-    {
-      "id": "f035224d02d9",
-      "titlu": "Panelul Premier League Confirmă: Liverpool Ar Fi Trebuit să Primească Penalty Împotriva lui Arsenal",
-      "rezumat": "Un panel independent al Premier League a concluzionat că Liverpool ar fi trebuit să beneficieze de un penalty împotriva lui Arsenal, după ce Jurrien Timber l-a tras de tricou pe Alexander Isak. Decizia vine în urma unei analize a fazei controversate, care a stârnit discuții intense. Această constatare subliniază erorile de arbitraj și impactul lor asupra rezultatelor meciurilor, aducând în prim plan necesitatea unei consistențe mai mari în aplicarea regulamentului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-11-11T14:58:36.178723+00:00",
-      "data_afisaj": "11 noiembrie 2026, 16:58"
-    },
-    {
-      "id": "11f6cc3bc3e9",
-      "titlu": "Mauricio Pochettino Dezvăluie Motivele Plecării Sale Rapide de la Chelsea",
-      "rezumat": "Mauricio Pochettino a explicat de ce mandatul său la Chelsea a fost de scurtă durată, afirmând că \"lucrurile nu au funcționat la Chelsea pentru că clubul era rupt\". Antrenorul a adăugat că nu a dorit să rămână deoarece \"nu aparțineau culturii\" clubului. Aceste declarații oferă o perspectivă rară asupra problemelor interne de la Stamford Bridge și a incompatibilității percepute între viziunea sa și direcția clubului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-11-11T14:58:36.180334+00:00",
-      "data_afisaj": "11 noiembrie 2026, 16:58"
-    },
-    {
-      "id": "216936375ace",
-      "titlu": "Analiza Cauzelor Declinului Formei lui Manchester City sub Maresca",
-      "rezumat": "Pauza internațională actuală îi oferă antrenorului Enzo Maresca timpul necesar pentru a remedia problemele crescânde din lotul echipei Manchester City. Echipa a înregistrat o scădere a performanțelor, iar Maresca este sub presiune să identifice și să corecteze deficiențele tactice și de joc. Fanii și analiștii așteaptă cu interes modul în care tehnicianul va gestiona această perioadă pentru a readuce echipa pe drumul victoriilor și a-și consolida poziția în campionat.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-11T14:58:36.181846+00:00",
-      "data_afisaj": "11 noiembrie 2026, 16:58"
-    },
-    {
-      "id": "79a4a31d6a49",
-      "titlu": "Harry Kane, Câștigător al Balonului de Aur, Se Pregătește pentru o Sărbătoare la Wembley ca Cel Mai Selecționat Jucător al Angliei",
-      "rezumat": "Harry Kane, recent câștigător al Balonului de Aur, este pe cale să devină cel mai selecționat jucător din istoria naționalei Angliei. Atacantul este așteptat să atingă această bornă istorică într-un meci viitor pe Wembley, unde va fi sărbătorit pentru longevitatea și contribuțiile sale excepționale. Această realizare subliniază statutul său de legendă a fotbalului englez și dedicarea sa constantă la cel mai înalt nivel.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-11-11T14:58:36.183795+00:00",
-      "data_afisaj": "11 noiembrie 2026, 16:58"
-    },
-    {
-      "id": "09a2eceac72a",
-      "titlu": "Fanii Barcelona Își Pot Depune Urnele cu Cenușă la Noul Memorial al Clubului de pe Camp Nou",
-      "rezumat": "Suporterii fideli ai clubului FC Barcelona vor putea în curând să-și susțină echipa și dincolo de mormânt, odată cu inaugurarea Memorialului FC Barcelona. Parte a modernizării stadionului Camp Nou, memorialul va include 26.000 de nișe unde fanii își pot depune urnele cu cenușă. Această inițiativă unică oferă o modalitate permanentă pentru suporteri de a rămâne conectați cu clubul lor iubit, chiar și după \"fluierul final\" al propriei vieți.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-11T14:58:36.185536+00:00",
-      "data_afisaj": "11 noiembrie 2026, 16:58"
     }
   ]
 }
