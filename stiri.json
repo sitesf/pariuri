@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-19T22:57:33.827325+00:00",
-  "updated_at_afisaj": "20 noiembrie 2026, 00:57",
+  "updated_at": "2026-11-19T23:21:50.819138+00:00",
+  "updated_at_afisaj": "20 noiembrie 2026, 01:21",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,66 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 113,
+  "numar_stiri": 118,
   "stiri": [
+    {
+      "id": "f05bcee008f1",
+      "titlu": "Prima sesiune de antrenament Man Utd a lui Pochettino filmată de un operator de drone",
+      "rezumat": "Prima sesiune de antrenament a lui Mauricio Pochettino la Manchester United a fost filmată de un fan cu o dronă din afara terenului de antrenament Carrington al clubului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-11-19T23:21:26.539924+00:00",
+      "data_afisaj": "20 noiembrie 2026, 01:21"
+    },
+    {
+      "id": "43ae88292a2d",
+      "titlu": "Anglia amendată pentru cântările anti-catolice ale fanilor din Spania",
+      "rezumat": "Anglia este pedepsită de UEFA după scandările anti-catolice din partea suporterilor din deplasare în timpul victoriei în Liga Națiunilor din Spania.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-19T23:21:26.541000+00:00",
+      "data_afisaj": "20 noiembrie 2026, 01:21"
+    },
+    {
+      "id": "2db40f0b27b5",
+      "titlu": "🚨 UPDATE Gabi Tamaș, reținut pentru 24 de ore, după ce a fost adus în cătușe de la Brașov și escortat de 4 polițiști la Secția 27 de Poliție!",
+      "rezumat": "(rezumat indisponibil)",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-11-19T23:21:26.542360+00:00",
+      "data_afisaj": "20 noiembrie 2026, 01:21"
+    },
+    {
+      "id": "194c87549833",
+      "titlu": "Frank fericit să fie „întors la circ” de la Palace",
+      "rezumat": "Thomas Frank este fericit că a revenit la circ după ce a vorbit la prima sa conferință de presă în calitate de antrenor al Crystal Palace.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-19T23:21:26.543302+00:00",
+      "data_afisaj": "20 noiembrie 2026, 01:21"
+    },
+    {
+      "id": "2eff9538de44",
+      "titlu": "Cultură, apărare, Fernandes - prioritățile lui Pochettino la Man Utd",
+      "rezumat": "Cultură, apărare și Bruno Fernandes - problemele cheie cu care se confruntă Mauricio Pochettino când preia conducerea lui Manchester United.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-19T23:21:26.544313+00:00",
+      "data_afisaj": "20 noiembrie 2026, 01:21"
+    },
     {
       "id": "0a1fff492536",
       "titlu": "Prima sesiune de antrenament a lui Pochettino la Man Utd, filmată cu o dronă",
