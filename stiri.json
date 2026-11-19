@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-19T17:04:17.507618+00:00",
-  "updated_at_afisaj": "19 noiembrie 2026, 19:04",
+  "updated_at": "2026-11-19T22:57:33.827325+00:00",
+  "updated_at_afisaj": "20 noiembrie 2026, 00:57",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,54 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 119,
+  "numar_stiri": 113,
   "stiri": [
+    {
+      "id": "0a1fff492536",
+      "titlu": "Prima sesiune de antrenament a lui Pochettino la Man Utd, filmată cu o dronă",
+      "rezumat": "Prima sesiune de antrenament a lui Mauricio Pochettino în calitate de antrenor principal la Manchester United a fost filmată de un fan cu o dronă. Incidentul a avut loc în afara terenului de antrenament al clubului de la Carrington. Această situație ridică întrebări despre securitatea și intimitatea sesiunilor de pregătire ale echipei, mai ales având în vedere noul început al antrenorului argentinian la cârma clubului. Fanii sunt dornici să vadă primele mișcări ale lui Pochettino, dar metodele neconvenționale de obținere a imaginilor pot crea precedente nedorite.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-11-19T22:57:33.822995+00:00",
+      "data_afisaj": "20 noiembrie 2026, 00:57"
+    },
+    {
+      "id": "4ef89ed8b728",
+      "titlu": "Anglia, amendată de UEFA pentru scandări anti-catolice ale fanilor în Spania",
+      "rezumat": "Naționala Angliei a fost sancționată de UEFA în urma scandărilor anti-catolice intonate de suporterii săi în timpul meciului din Liga Națiunilor împotriva Spaniei. Incidentul a avut loc în timpul victoriei Angliei în deplasare. UEFA a impus o amendă clubului, subliniind angajamentul său de a combate discriminarea și comportamentul ofensator pe stadioane. Federația Engleză de Fotbal va trebui să ia măsuri pentru a preveni astfel de incidente pe viitor, pentru a asigura un mediu sigur și respectuos pentru toți participanții și suporterii.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-19T22:57:33.824191+00:00",
+      "data_afisaj": "20 noiembrie 2026, 00:57"
+    },
+    {
+      "id": "52dfb978e3f9",
+      "titlu": "Nominalizările pentru premiul Jucătorul Anului la BBC: Bellingham, Kane, Mbappe, Rodri și Yamal",
+      "rezumat": "BBC a anunțat lista scurtă a candidaților pentru premiul Jucătorul Anului la categoria masculină, o recunoaștere prestigioasă în fotbalul mondial. Printre nominalizați se numără nume sonore precum Jude Bellingham, Harry Kane, Kylian Mbappe, Rodri și Lamine Yamal. Acești jucători au avut performanțe excepționale pe parcursul anului, impresionând prin talentul și contribuțiile lor la echipele de club și naționale. Fanii sunt invitați să voteze pentru a desemna câștigătorul acestei distincții importante.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-19T22:57:33.826052+00:00",
+      "data_afisaj": "20 noiembrie 2026, 00:57"
+    },
+    {
+      "id": "9cac5e54c7e2",
+      "titlu": "Arsenal, învinsă de Lyon în Liga Campionilor la fotbal feminin, calificarea în sferturi sub semnul întrebării",
+      "rezumat": "Speranțele echipei feminine Arsenal de a se califica direct în sferturile de finală ale Ligii Campionilor sunt în pericol, după o înfrângere cu 2-0 pe teren propriu în fața formației dominante Olympique Lyon. Meciul s-a desfășurat în condiții de ceață, iar rezultatul complică semnificativ drumul lui Arsenal către faza eliminatorie a competiției. Echipa engleză va trebui să depună eforturi considerabile în ultima etapă pentru a-și asigura un loc în sferturi, având în vedere performanța solidă a adversarelor din grupă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-11-19T22:57:33.827312+00:00",
+      "data_afisaj": "20 noiembrie 2026, 00:57"
+    },
     {
       "id": "466517201526",
       "titlu": "Prioritățile lui Mauricio Pochettino la Manchester United: cultură, apărare și Bruno Fernandes",
@@ -1249,122 +1295,6 @@
       ],
       "data_publicare": "2026-11-13T15:11:26.354876+00:00",
       "data_afisaj": "13 noiembrie 2026, 17:11"
-    },
-    {
-      "id": "f4f477590a44",
-      "titlu": "Arsenal Feminin obține o remiză prețioasă împotriva Barcelonei în Liga Campionilor",
-      "rezumat": "Echipa feminină a lui Arsenal a reușit o remiză rezistentă, scor 1-1, împotriva campioanei europene Barcelona, pe Camp Nou, în Liga Campionilor UEFA. În ciuda dominanței Barcelonei, Frida Maanum a deschis scorul pentru \"tunare\", înainte ca Caroline Graham Hansen să egaleze. Acest rezultat extinde seria de patru meciuri fără înfrângere a echipei lui Renee Slegers în competiție, plasând-o într-o poziție favorabilă pentru calificarea în fazele eliminatorii ale turneului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-12T22:30:46.811115+00:00",
-      "data_afisaj": "13 noiembrie 2026, 00:30"
-    },
-    {
-      "id": "f7525399f156",
-      "titlu": "Harry Kane stabilește un nou record de selecții pentru Anglia",
-      "rezumat": "Harry Kane a intrat în istoria fotbalului englez, devenind cel mai selecționat jucător din toate timpurile pentru echipa masculină a Angliei. Atacantul a bifat a 126-a apariție pentru națională într-un meci din Liga Națiunilor împotriva Croației, depășind recordul anterior deținut de Peter Shilton. Pe lângă această performanță remarcabilă, Kane a marcat și golul victoriei, contribuind la succesul Angliei într-o seară memorabilă pe Wembley.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-12T22:30:46.812369+00:00",
-      "data_afisaj": "13 noiembrie 2026, 00:30"
-    },
-    {
-      "id": "6268a70586ef",
-      "titlu": "Jack Grealish își cere scuze pentru absența disciplinară de la Everton",
-      "rezumat": "Jack Grealish și-a cerut scuze fanilor echipei Everton pentru absența sa recentă, care a fost cauzată de o problemă disciplinară. Detaliile specifice ale încălcării disciplinei nu au fost făcute publice, însă gestul său subliniază importanța respectării regulilor interne ale clubului. Această situație a generat discuții în rândul suporterilor și al presei sportive, Grealish fiind un jucător important pentru echipa sa.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-12T22:30:46.813638+00:00",
-      "data_afisaj": "13 noiembrie 2026, 00:30"
-    },
-    {
-      "id": "5523a81f09dd",
-      "titlu": "Provocările viitorului antrenor al lui Manchester United: fitness, Fernandes și tactică",
-      "rezumat": "După plecarea lui Michael Carrick, viitorul antrenor al lui Manchester United se confruntă cu provocări semnificative, inclusiv necesitatea de a găsi soluții tactice pe teren și de a gestiona relația cu ierarhia clubului. Analiza subliniază probleme precum forma fizică a jucătorilor și situația lui Bruno Fernandes, care a fost lăsat pe bancă după ce a criticat tacticile antrenorului. Noul manager va trebui să abordeze aceste aspecte pentru a revigora echipa.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-12T22:30:46.814988+00:00",
-      "data_afisaj": "13 noiembrie 2026, 00:30"
-    },
-    {
-      "id": "618fe0d9254d",
-      "titlu": "Tot ce trebuie să știi despre Liga Națiunilor UEFA",
-      "rezumat": "Liga Națiunilor UEFA a ajuns la a cincea ediție, reunind 54 de țări europene care concurează pentru trofeu, promovare și o rută potențial crucială către Euro 2028. Competiția oferă o platformă pentru meciuri internaționale competitive, înlocuind parțial amicalele și adăugând o miză suplimentară pentru echipele naționale. Acest ghid detaliază formatul, regulile și implicațiile Ligii Națiunilor pentru calificările viitoare, oferind o perspectivă completă asupra evenimentului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-11-12T22:30:46.816165+00:00",
-      "data_afisaj": "13 noiembrie 2026, 00:30"
-    },
-    {
-      "id": "d71cbda0ad8d",
-      "titlu": "Kane, erou într-o noapte istorică, când Anglia a rezervat un loc pentru Liga Națiunilor",
-      "rezumat": "Recordul Harry Kane a marcat de la fața locului pentru a pecetlui locul Angliei în sferturile de finală a Ligii Națiunilor cu o victorie cu 2-1 în fața Croației, încheind o seară memorabilă la Wembley, când căpitanul a devenit jucătorul cu cele mai multe selecții din țara sa.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-12T22:07:25.663348+00:00",
-      "data_afisaj": "13 noiembrie 2026, 00:07"
-    },
-    {
-      "id": "1d9f811d4cc7",
-      "titlu": "Michael Carrick a fost doar cel mai recent tip de toamnă pentru ierarhia disfuncțională a lui Manchester United | Jamie Jackson",
-      "rezumat": "Deciziile dezastruoase și numirile confuze au fost o temă constantă la Old Trafford de la retragerea lui Sir Alex Ferguson în 2013 Pentru o fereastră către disfuncția alarmantă de la Manchester United pe care Michael Carrick nu a reușit să o gestioneze și i-a provocat demiterea, luați în considerare cazul lui Eddie Howe, inițial favorit pentru a-i succeda pe Pochet, în vârstă de 45 de ani, ca fiind alesul lui Mauricio Pochet. Fostul antrenor de la Newcastle fusese alegerea lui Jason Wilcox pentru a prelua locul lui Carrick. Howe a fost al",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-12T22:07:25.665490+00:00",
-      "data_afisaj": "13 noiembrie 2026, 00:07"
-    },
-    {
-      "id": "7a021ecb7269",
-      "titlu": "Istvan Kovacs a dat două penalty-uri în Italia – Franța! Zidane, mărmurit după deciziile românului",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-11-12T22:07:25.667683+00:00",
-      "data_afisaj": "13 noiembrie 2026, 00:07"
-    },
-    {
-      "id": "e8d2837f037a",
-      "titlu": "Kane marchează câștigător, dar cine altcineva a făcut impresie? Evaluările jucătorilor Angliei",
-      "rezumat": "Cum s-au descurcat jucătorii Angliei în meciul Nations League împotriva Croației? Corespondentul senior de fotbal Sami Mokbel își dă verdictul.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-12T22:07:25.669473+00:00",
-      "data_afisaj": "13 noiembrie 2026, 00:07"
-    },
-    {
-      "id": "ef295a889bc9",
-      "titlu": "Cum a apărut Pochettino pe radarul lui Man Utd - și ce i s-a spus lui Carrick când",
-      "rezumat": "Cum l-a identificat Man Utd pe Mauricio Pochettino ca noul lor antrenor principal - și ce s-a întâmplat în săptămâna Michael Carrick a rămas așteptat.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-12T22:07:25.671156+00:00",
-      "data_afisaj": "13 noiembrie 2026, 00:07"
     }
   ]
 }
