@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-18T23:13:57.226734+00:00",
-  "updated_at_afisaj": "19 noiembrie 2026, 01:13",
+  "updated_at": "2026-11-19T16:24:51.730446+00:00",
+  "updated_at_afisaj": "19 noiembrie 2026, 18:24",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,53 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 125,
+  "numar_stiri": 119,
   "stiri": [
+    {
+      "id": "9156db7bfe70",
+      "titlu": "Cluburile din Premier League votează pentru protecția legală a directorilor",
+      "rezumat": "Cluburile din Premier League au votat în majoritate covârșitoare (18-2) pentru a extinde indemnizația legală acordată directorilor ligii. Această decizie oferă o protecție sporită directorului executiv Richard Masters și altor figuri cheie împotriva unor potențiale procese, în special în contextul acuzațiilor de fair-play financiar aduse clubului Manchester City. Măsura vine ca un răspuns la posibilitatea ca sponsorii Manchester City să dea în judecată conducerea Premier League, subliniind tensiunile juridice actuale din fotbalul englez de top.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-19T16:24:51.723019+00:00",
+      "data_afisaj": "19 noiembrie 2026, 18:24"
+    },
+    {
+      "id": "34f7322040d9",
+      "titlu": "Manchester United raportează creșteri ale veniturilor și salariilor",
+      "rezumat": "Manchester United a publicat cele mai recente rezultate financiare, indicând o creștere a veniturilor și a cheltuielilor salariale. Această evoluție subliniază dinamica economică a unuia dintre cele mai mari cluburi de fotbal din lume. Detaliile financiare oferă o perspectivă asupra sănătății economice a clubului și a modului în care acesta gestionează resursele, inclusiv investițiile în personalul sportiv. Creșterea veniturilor poate reflecta succesul comercial, în timp ce majorarea salariilor indică angajamente financiare sporite față de jucători și staff.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-11-19T16:24:51.725468+00:00",
+      "data_afisaj": "19 noiembrie 2026, 18:24"
+    },
+    {
+      "id": "1ab7645909cc",
+      "titlu": "FIFA solicită statut fiscal preferențial pentru Cupa Mondială Feminină 2035 în Marea Britanie",
+      "rezumat": "FIFA se află în negocieri tensionate cu guvernul Marii Britanii și cele patru asociații de fotbal din Regatul Unit, solicitând statut fiscal preferențial și scutiri de taxe pentru cursul valutar în vederea găzduirii Cupei Mondiale Feminine din 2035. Această cerere, care precede ratificarea candidaturii Marii Britanii la un congres extraordinar FIFA, a generat discuții aprinse în culise. Organismul de conducere al fotbalului mondial dorește condiții financiare avantajoase, ceea ce ridică întrebări despre costurile și beneficiile găzduirii unui eveniment de o asemenea anvergură.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-19T16:24:51.727954+00:00",
+      "data_afisaj": "19 noiembrie 2026, 18:24"
+    },
+    {
+      "id": "10b0b6b9da03",
+      "titlu": "Cluburile din „Big Six” ale Premier League își consolidează avantajul financiar",
+      "rezumat": "La zece etape de la începutul sezonului Premier League, primele cinci locuri sunt dominate de cluburile din „Big Six”, o tendință care nu surprinde, având în vedere avantajul financiar în creștere al acestora. Aceste cluburi beneficiază de sute de milioane de lire sterline în plus față de restul ligii, consolidându-și poziția dominantă. Această disparitate financiară continuă să alimenteze dezbaterea despre echilibrul competitiv din Premier League și despre modul în care resursele economice influențează performanța sportivă pe termen lung.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-19T16:24:51.730419+00:00",
+      "data_afisaj": "19 noiembrie 2026, 18:24"
+    },
     {
       "id": "ac9f47ca7a17",
       "titlu": "FA a explorat contestația legală pentru a rămâne pe Infantino",
@@ -1320,120 +1365,6 @@
       ],
       "data_publicare": "2026-11-12T16:35:18.971857+00:00",
       "data_afisaj": "12 noiembrie 2026, 18:35"
-    },
-    {
-      "id": "b0f22fde65eb",
-      "titlu": "Crystal Palace l-a demis pe antrenorul Pierre Sage după 16 meciuri",
-      "rezumat": "Clubul Crystal Palace a anunțat demiterea antrenorului Pierre Sage, după doar 16 meciuri la conducerea echipei. Decizia vine în contextul în care echipa se află pe ultima poziție în clasamentul Premier League. Sage fusese numit în funcție în urmă cu câteva luni, dar nu a reușit să redreseze parcursul slab al clubului, acumulând un număr insuficient de puncte. Conducerea clubului va căuta acum un nou antrenor care să preia echipa și să încerce să o salveze de la retrogradare în restul sezonului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-12T15:50:54.006204+00:00",
-      "data_afisaj": "12 noiembrie 2026, 17:50"
-    },
-    {
-      "id": "4959b931e9b2",
-      "titlu": "Michael Carrick, cea mai recentă victimă a disfuncționalității de la Manchester United",
-      "rezumat": "Michael Carrick a fost demis de la conducerea tehnică a echipei Manchester United, devenind astfel cea mai recentă victimă a problemelor structurale și a deciziilor haotice care persistă la club de la retragerea lui Sir Alex Ferguson în 2013. Deși inițial Eddie Howe fusese considerat favorit pentru a-l înlocui pe Carrick, Mauricio Pochettino a apărut ulterior ca opțiunea preferată. Scoaterea lui Carrick în evidență ca un \"țap ispășitor\" subliniază o problemă mai profundă de management și viziune la Old Trafford, unde antrenorii sunt schimbați frecvent fără o strategie clară pe termen lung.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-12T15:50:54.007820+00:00",
-      "data_afisaj": "12 noiembrie 2026, 17:50"
-    },
-    {
-      "id": "dd4bf6a12d1b",
-      "titlu": "Fotbalistele profesioniste demontează miturile despre sarcină și carieră",
-      "rezumat": "Un număr tot mai mare de fotbaliste profesioniste, inclusiv internaționala scoțiană Claire Emslie și Emma Kelly, demonstrează că sarcina nu înseamnă sfârșitul carierei sportive. Acestea profită de noi cercetări și ghiduri pentru jucătoarele însărcinate, continuând antrenamentele la intensitate ridicată pe durata sarcinii. Claire Emslie, de exemplu, a documentat cum a reușit să alerge la 81% din viteza sa maximă la 32 de săptămâni de sarcină. Această tendință contribuie la schimbarea percepțiilor și la crearea unui mediu mai favorabil pentru femeile care doresc să îmbine maternitatea cu fotbalul de performanță.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-12T15:50:54.009245+00:00",
-      "data_afisaj": "12 noiembrie 2026, 17:50"
-    },
-    {
-      "id": "3c2ccd6a9f57",
-      "titlu": "Kozo Tashima, candidatul la președinția FIFA care promite o abordare mai calmă",
-      "rezumat": "Kozo Tashima, președintele onorific al Federației Japoneze de Fotbal, își propune să-l înlăture pe Gianni Infantino de la conducerea FIFA, promițând o abordare mai puțin dramatică și mai orientată spre ascultare. Tashima, în vârstă de 68 de ani, este considerat un challenger improbabil, dar speră că o schimbare de ton, care să evite titlurile negative pentru FIFA, va fi bine primită în lumea fotbalului. Candidatura sa vine în contextul în care Infantino a fost implicat în diverse controverse, iar Tashima dorește să restabilească o imagine de stabilitate și integritate la vârful organizației.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-12T15:50:54.010890+00:00",
-      "data_afisaj": "12 noiembrie 2026, 17:50"
-    },
-    {
-      "id": "c9340e59865c",
-      "titlu": "Cum își menține Barcelona Feminină identitatea în ciuda plecărilor de jucătoare cheie",
-      "rezumat": "Echipa feminină a Barcelonei se pregătește să înfrunte Arsenal în Liga Campionilor, prezentând o formulă mult schimbată, dar continuând să impresioneze. Articolul analizează modul în care gigantul spaniol a reușit să gestioneze cu succes plecările unor jucătoare importante, menținând în același timp \"stilul Barca\" de joc. Adaptabilitatea și profunzimea academiei clubului, alături de o filozofie de joc bine înrădăcinată, au permis echipei să rămână competitivă la cel mai înalt nivel, demonstrând reziliență și capacitatea de a integra noi talente fără a compromite identitatea tactică.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-12T15:50:54.012491+00:00",
-      "data_afisaj": "12 noiembrie 2026, 17:50"
-    },
-    {
-      "id": "772fc1d55583",
-      "titlu": "Thomas Tuchel își reafirmă angajamentul față de Anglia până la Euro 2028, dar vizează o revenire la nivel de club",
-      "rezumat": "Selecționerul Angliei, Thomas Tuchel, a declarat că nu a inclus o clauză de reziliere în contractul său și este dedicat echipei naționale cel puțin până la Campionatul European din 2028. Cu toate acestea, Tuchel a recunoscut că este deschis unei reveniri la conducerea unui club important în viitor, după încheierea mandatului său la națională. Această declarație vine în contextul speculațiilor privind plecarea altor antrenori de la echipe naționale către cluburi.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-11T23:14:36.537125+00:00",
-      "data_afisaj": "12 noiembrie 2026, 01:14"
-    },
-    {
-      "id": "a413f7f05977",
-      "titlu": "Plângere depusă la IRS privind angajarea menajerei președintelui FIFA, Gianni Infantino",
-      "rezumat": "O plângere a fost înaintată Serviciului de Venituri Interne al Statelor Unite (IRS), solicitând o investigație asupra acuzațiilor conform cărora o persoană aflată pe statul de plată al FIFA ar fi lucrat în mod privat ca menajeră pentru președintele Gianni Infantino. Dacă aceste acuzații se dovedesc fondate în urma investigației IRS, FIFA ar putea risca pierderea statutului său de organizație scutită de taxe în SUA, statut de care beneficiază în prezent.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-11T23:14:36.538722+00:00",
-      "data_afisaj": "12 noiembrie 2026, 01:14"
-    },
-    {
-      "id": "1cf24f8262cd",
-      "titlu": "SUA se retrage de la Cupa Mondială U-17 din Qatar din motive de siguranță",
-      "rezumat": "Echipa națională masculină sub 17 ani a Statelor Unite s-a retras de la Cupa Mondială FIFA U-17, programată să înceapă în Qatar în puțin peste o săptămână. Federația de Fotbal a SUA a justificat decizia printr-o scrisoare adresată jucătorilor, invocând preocupări legate de siguranța acestora și a personalului. Decizia face referire la un aviz de călătorie emis de Departamentul de Stat al SUA pentru Qatar, care recomandă cetățenilor să reconsidere călătoriile în această țară din cauza riscului de conflict armat.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-11T23:14:36.540223+00:00",
-      "data_afisaj": "12 noiembrie 2026, 01:14"
-    },
-    {
-      "id": "1d6b0beb2393",
-      "titlu": "Primele patru echipe din clasamentul FIFA vor fi separate până în semifinale la Cupa Mondială Feminină din 2027",
-      "rezumat": "FIFA a confirmat o modificare a procedurii de tragere la sorți pentru Cupa Mondială Feminină din 2027, prin care primele patru echipe clasate în ierarhia mondială vor fi menținute în grupe diferite până în faza semifinalelor, cu condiția ca fiecare să câștige grupa din care face parte. Spania, SUA, Germania și Anglia ocupă în prezent primele patru locuri în clasament, deși SUA și Anglia încă trebuie să se califice pentru turneu. Capii de serie vor fi stabiliți pe baza clasamentului FIFA din 7 decembrie.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-11T23:14:36.541925+00:00",
-      "data_afisaj": "12 noiembrie 2026, 01:14"
-    },
-    {
-      "id": "88b3803a1681",
-      "titlu": "Mutarea de 16 milioane de euro la Dinamo, în pericol de anulare; a fost deschis un proces",
-      "rezumat": "O tranzacție evaluată la 16 milioane de euro, care vizează clubul Dinamo București, riscă să fie anulată, după ce a fost inițiat un proces în acest sens. Detaliile complete ale situației au fost dezvăluite de ProSport, indicând o posibilă complicație legală care ar putea afecta semnificativ viitorul financiar și administrativ al clubului. Această evoluție aduce incertitudine asupra stabilității și planurilor de dezvoltare ale echipei din capitală.",
-      "categorie": "Fotbal",
-      "surse": [
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-11-11T23:14:36.543506+00:00",
-      "data_afisaj": "12 noiembrie 2026, 01:14"
     }
   ]
 }
