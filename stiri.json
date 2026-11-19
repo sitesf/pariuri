@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-19T16:24:51.730446+00:00",
-  "updated_at_afisaj": "19 noiembrie 2026, 18:24",
+  "updated_at": "2026-11-19T17:04:17.507618+00:00",
+  "updated_at_afisaj": "19 noiembrie 2026, 19:04",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,61 @@
   },
   "numar_stiri": 119,
   "stiri": [
+    {
+      "id": "466517201526",
+      "titlu": "Prioritățile lui Mauricio Pochettino la Manchester United: cultură, apărare și Bruno Fernandes",
+      "rezumat": "Noul antrenor al echipei Manchester United, Mauricio Pochettino, se confruntă cu o serie de provocări cheie pe măsură ce preia conducerea clubului. Printre prioritățile sale se numără restabilirea unei culturi pozitive în cadrul echipei, îmbunătățirea semnificativă a compartimentului defensiv și integrarea optimă a lui Bruno Fernandes în sistemul său tactic. Aceste aspecte sunt considerate esențiale pentru a redresa parcursul echipei și a o readuce în lupta pentru performanță în Premier League.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-19T17:04:17.502886+00:00",
+      "data_afisaj": "19 noiembrie 2026, 19:04"
+    },
+    {
+      "id": "e36797383a18",
+      "titlu": "Pochettino cere curaj jucătorilor de la Manchester United înaintea debutului cu Liverpool",
+      "rezumat": "Mauricio Pochettino, noul antrenor principal al echipei Manchester United, a transmis un mesaj clar jucătorilor săi, cerându-le să abordeze fără teamă meciul de duminică de pe Anfield împotriva lui Liverpool. Acesta va fi primul său meci la conducerea \"Diavolilor Roșii\", iar tehnicianul argentinian dorește un start puternic. În ciuda poziției actuale a lui United pe locul 18 în Premier League și a lui Liverpool pe locul patru, Pochettino insistă ca echipa să joace ofensiv și să nu cedeze presiunii.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-19T17:04:17.504181+00:00",
+      "data_afisaj": "19 noiembrie 2026, 19:04"
+    },
+    {
+      "id": "cb76c1b339cf",
+      "titlu": "Manchester City ar putea suferi pierderi de 1,5 miliarde de lire sterline în urma acuzațiilor Premier League",
+      "rezumat": "Conform unui raport, clubul Manchester City se confruntă cu o potențială pierdere financiară de aproximativ 1,5 miliarde de lire sterline, ca urmare a acuzațiilor de încălcare a peste 100 de reguli ale Premier League. Deși clubul a fost găsit vinovat, consecințele exacte și amploarea sancțiunilor financiare sunt încă în discuție. Această situație ar putea avea un impact semnificativ asupra strategiei financiare și sportive a clubului pe termen lung, afectând capacitatea sa de a investi în jucători și infrastructură.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-11-19T17:04:17.505452+00:00",
+      "data_afisaj": "19 noiembrie 2026, 19:04"
+    },
+    {
+      "id": "3b7df14ef49c",
+      "titlu": "Jucător ecuadorian suspendat opt ani după ce a lovit un arbitru asistent cu o piatră",
+      "rezumat": "Fotbalistul ecuadorian Jhon Perlaza a primit o suspendare de opt ani din activitatea sportivă, după ce a lovit un arbitru asistent cu o piatră în timpul unui meci din liga a treia. Incidentul grav a avut loc în timpul unei partide și a dus la o decizie drastică din partea forurilor disciplinare. Această sancțiune severă subliniază angajamentul de a combate violența pe terenul de fotbal și de a proteja integritatea oficialilor de meci.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-19T17:04:17.506607+00:00",
+      "data_afisaj": "19 noiembrie 2026, 19:04"
+    },
+    {
+      "id": "13b185a962ed",
+      "titlu": "Blackpool l-a demis pe antrenorul principal Ian Evatt",
+      "rezumat": "Clubul Blackpool a anunțat demiterea antrenorului principal Ian Evatt, după doar un an petrecut la conducerea echipei. Decizia vine în urma unei serii slabe de rezultate, care include o singură victorie și șase înfrângeri în ultimele zece meciuri de campionat. Echipa se confruntă cu dificultăți în clasament, iar conducerea a considerat că o schimbare la nivelul băncii tehnice este necesară pentru a redresa situația și a îmbunătăți performanțele.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-19T17:04:17.507601+00:00",
+      "data_afisaj": "19 noiembrie 2026, 19:04"
+    },
     {
       "id": "9156db7bfe70",
       "titlu": "Cluburile din Premier League votează pentru protecția legală a directorilor",
@@ -1310,61 +1365,6 @@
       ],
       "data_publicare": "2026-11-12T22:07:25.671156+00:00",
       "data_afisaj": "13 noiembrie 2026, 00:07"
-    },
-    {
-      "id": "57acacac8184",
-      "titlu": "Andy Robertson este aproape să egaleze recordul de selecții al lui Kenny Dalglish pentru Scoția",
-      "rezumat": "Căpitanul Scoției, Andy Robertson, este pe punctul de a egala recordul de selecții al legendarului Kenny Dalglish pentru echipa națională. Această realizare subliniază legătura specială dintre cei doi, care depășește simpla performanță sportivă. Robertson, un jucător cheie pentru Scoția și Liverpool, continuă să impresioneze prin constanța și leadership-ul său, urmând să atingă o bornă istorică în cariera sa internațională. Articolul explorează modul în care Robertson își construiește propria moștenire, respectând în același timp impactul durabil al lui Dalglish în fotbalul scoțian.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-12T16:35:18.964600+00:00",
-      "data_afisaj": "12 noiembrie 2026, 18:35"
-    },
-    {
-      "id": "49ab79b62bcd",
-      "titlu": "Frații Bellingham, Jude și Jobe, ar putea deveni primii frați care joacă pentru Anglia în aproape două decenii",
-      "rezumat": "Jude și Jobe Bellingham, ambii fani ai clubului Birmingham City încă din copilărie, sunt pe cale să scrie istorie în fotbalul englez. Ei ar putea deveni primii frați care evoluează împreună pentru echipa națională a Angliei în ultimii 19 ani. Articolul explorează nu doar potențialul lor sportiv, ci și modul în care legătura lor cu Birmingham City a influențat carierele, contribuind la o poveste de succes familială în sportul de performanță. Această perspectivă aduce în prim plan o poveste emoționantă despre talent, dedicare și legăturile de familie în fotbalul de elită.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-12T16:35:18.966590+00:00",
-      "data_afisaj": "12 noiembrie 2026, 18:35"
-    },
-    {
-      "id": "161378a4efa2",
-      "titlu": "Mituri și statistici: Evoluția semnificației numerelor de pe tricourile din Premier League",
-      "rezumat": "De la introducerea numerelor de pe tricouri în anii '90, percepția și importanța acestora în Premier League s-au schimbat semnificativ. Deși numărul 9 rămâne asociat cu golgheterii, iar numărul 1 cu portarii, tendințele moderne arată o diversificare a alegerilor. Articolul analizează modul în care jucătorii își aleg numerele, de la cele tradiționale la cele mai neobișnuite, și cum aceste alegeri pot influența identitatea lor pe teren. Se discută despre valoarea simbolică și, uneori, chiar financiară, a unui număr de tricou în fotbalul contemporan, comparativ cu alte sporturi.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-12T16:35:18.968346+00:00",
-      "data_afisaj": "12 noiembrie 2026, 18:35"
-    },
-    {
-      "id": "e4572b95bcd1",
-      "titlu": "Gigi Becali a dezvăluit numele unui atacant necunoscut pe care îl dorește la FCSB",
-      "rezumat": "Patronul FCSB, Gigi Becali, a surprins recent opinia publică prin menționarea unui nume de atacant despre care puțini fani ai fotbalului românesc au auzit până acum. Această dezvăluire indică o posibilă strategie de transfer neconvențională a clubului, vizând jucători mai puțin cunoscuți, dar cu potențial. Speculațiile privind identitatea și calitățile fotbalistului au început deja să circule, stârnind interesul cu privire la viitoarele mișcări de pe piața transferurilor ale echipei bucureștene. Rămâne de văzut dacă acest interes se va concretiza într-un transfer oficial.",
-      "categorie": "Fotbal",
-      "surse": [
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-11-12T16:35:18.970028+00:00",
-      "data_afisaj": "12 noiembrie 2026, 18:35"
-    },
-    {
-      "id": "f6bfe63b9fc2",
-      "titlu": "Prima reacție a lui Mihai Stoica după plecarea de la FCSB și mesajul său către Gigi Becali",
-      "rezumat": "Mihai Stoica, fostul director sportiv al FCSB, a oferit prima sa declarație publică după despărțirea de clubul patronat de Gigi Becali. Reacția sa era așteptată cu interes, având în vedere relația complexă și de lungă durată cu echipa și cu patronul. Mesajul său, adresat direct lui Gigi Becali, a stârnit discuții în spațiul public, oferind o perspectivă asupra evenimentelor care au dus la această plecare. Detaliile exacte ale declarației și implicațiile acesteia pentru viitorul ambelor părți sunt analizate de presa sportivă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-11-12T16:35:18.971857+00:00",
-      "data_afisaj": "12 noiembrie 2026, 18:35"
     }
   ]
 }
