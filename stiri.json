@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-20T15:57:39.919175+00:00",
-  "updated_at_afisaj": "20 noiembrie 2026, 17:57",
+  "updated_at": "2026-11-20T16:43:04.607599+00:00",
+  "updated_at_afisaj": "20 noiembrie 2026, 18:43",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 113,
+  "numar_stiri": 118,
   "stiri": [
+    {
+      "id": "47ac51d697a9",
+      "titlu": "Directorul executiv al Manchester United, Omar Berrada, consideră că criticile fanilor au depășit limitele",
+      "rezumat": "Omar Berrada, directorul executiv al clubului Manchester United, a declarat că o parte din criticile recente adresate conducerii clubului au \"depășit o limită\". Acesta a subliniat că, deși înțelege frustrarea suporterilor, anumite comentarii au devenit excesive și neconstructive. Declarațiile vin într-o perioadă turbulentă pentru club, marcată de schimbări la nivel de antrenor și performanțe inconstante, iar Berrada dorește o abordare mai echilibrată din partea bazei de fani.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-20T16:43:04.601127+00:00",
+      "data_afisaj": "20 noiembrie 2026, 18:43"
+    },
+    {
+      "id": "2fc62211e4ec",
+      "titlu": "Mikel Arteta avertizează jucătorii lui Arsenal cu privire la scurgerile de informații din Fantasy Premier League",
+      "rezumat": "Antrenorul lui Arsenal, Mikel Arteta, a declarat că jucătorii săi au fost avertizați să nu divulge, chiar și involuntar, informații despre echipa de start prin intermediul jocului Fantasy Premier League. Această măsură vine în contextul în care detaliile despre componența echipei înainte de meciuri pot oferi un avantaj tactic adversarilor. Arteta subliniază importanța confidențialității și profesionalismului în rândul lotului, pentru a evita orice compromitere a strategiei de joc.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-20T16:43:04.602856+00:00",
+      "data_afisaj": "20 noiembrie 2026, 18:43"
+    },
+    {
+      "id": "524280d0d178",
+      "titlu": "Mauricio Pochettino cere să aibă un cuvânt de spus în deciziile majore de la Manchester United",
+      "rezumat": "Antrenorul principal al lui Manchester United, Mauricio Pochettino, a solicitat să fie implicat în deciziile importante ale clubului. Această cerere subliniază dorința sa de a avea o influență mai mare asupra direcției sportive și administrative, inclusiv în privința transferurilor și a strategiei pe termen lung. Se pare că Pochettino dorește să se asigure că viziunea sa este aliniată cu planurile generale ale clubului, pentru a construi o echipă competitivă și coerentă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-20T16:43:04.604468+00:00",
+      "data_afisaj": "20 noiembrie 2026, 18:43"
+    },
+    {
+      "id": "fc243365e00a",
+      "titlu": "Fan Liverpool achitat de acuzațiile de abuz rasial, după retragerea plângerii lui Antoine Semenyo",
+      "rezumat": "Un suporter al echipei Liverpool, acuzat de abuz rasial la adresa lui Antoine Semenyo, a fost găsit nevinovat, după ce atacantul lui Manchester City și-a retras sprijinul pentru acuzare. Incidentul ar fi avut loc în timpul unui meci din Premier League dintre Liverpool și fosta echipă a lui Semenyo, Bournemouth, pe Anfield, în 2025. Retragerea plângerii a dus la încetarea procesului împotriva fanului, fără a se ajunge la o condamnare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-20T16:43:04.606139+00:00",
+      "data_afisaj": "20 noiembrie 2026, 18:43"
+    },
+    {
+      "id": "3dc9a37b3795",
+      "titlu": "FIFA anunță candidații pentru alegerile prezidențiale din 2027",
+      "rezumat": "Federația Internațională de Fotbal (FIFA) a confirmat lista celor trei candidați care vor concura pentru funcția de președinte la alegerile din 2027. Pe lângă actualul președinte, Gianni Infantino, alți doi oficiali își vor disputa poziția de conducere a forului mondial. Această competiție electorală va decide direcția viitoare a fotbalului la nivel global, având implicații semnificative pentru organizarea competițiilor și dezvoltarea sportului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-11-20T16:43:04.607579+00:00",
+      "data_afisaj": "20 noiembrie 2026, 18:43"
+    },
     {
       "id": "5fad8878c547",
       "titlu": "Mijlocașul lui Celtic, Mika Baur, indisponibil 10 săptămâni din cauza unei accidentări",
