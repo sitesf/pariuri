@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-20T22:31:50.881342+00:00",
-  "updated_at_afisaj": "21 noiembrie 2026, 00:31",
+  "updated_at": "2026-11-20T22:53:43.710302+00:00",
+  "updated_at_afisaj": "21 noiembrie 2026, 00:53",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 115,
+  "numar_stiri": 120,
   "stiri": [
+    {
+      "id": "642e1024e102",
+      "titlu": "Harry Kane, indisponibil trei luni din cauza unei accidentări la gleznă",
+      "rezumat": "Atacantul lui Bayern Munchen și al naționalei Angliei, Harry Kane, este așteptat să lipsească de pe teren pentru o perioadă de trei luni. Accidentarea a survenit în timpul meciului de Bundesliga al lui Bayern cu FC Köln, vineri. Această absență reprezintă o lovitură semnificativă atât pentru clubul său, care se bazează pe golurile sale, cât și pentru echipa națională, având în vedere importanța sa în ofensivă. Perioada de recuperare va necesita o atenție deosebită pentru a asigura o revenire completă și în formă optimă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-11-20T22:53:43.704440+00:00",
+      "data_afisaj": "21 noiembrie 2026, 00:53"
+    },
+    {
+      "id": "e0031ce0b9ad",
+      "titlu": "Chelsea, amendată cu 150.000 de lire sterline pentru scandări discriminatorii",
+      "rezumat": "Clubul Chelsea a fost amendat de Asociația de Fotbal (FA) cu suma de 150.000 de lire sterline. Sancțiunea vine în urma scandărilor anti-catolice și anti-irlandeze ale fanilor echipei, înregistrate în timpul meciului din turul trei al Cupei Angliei împotriva echipei Charlton, în luna ianuarie. Această decizie subliniază angajamentul autorităților fotbalistice de a combate discriminarea și de a promova un mediu respectuos și incluziv pe stadioane, condamnând ferm orice formă de comportament ofensator.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-20T22:53:43.705901+00:00",
+      "data_afisaj": "21 noiembrie 2026, 00:53"
+    },
+    {
+      "id": "0c99b0adeb5c",
+      "titlu": "Edwin van der Sar vorbește despre lupta sa după hemoragia cerebrală",
+      "rezumat": "Fostul portar legendar al echipelor Ajax, Fulham, Juventus și Manchester United, Edwin van der Sar, a împărtășit detalii despre experiența sa după ce a suferit o hemoragie cerebrală în 2023. El a descris un sentiment ciudat că \"ceva nu era în regulă\" înainte de incident. Mărturia sa oferă o perspectivă personală asupra provocărilor de sănătate cu care s-a confruntat și subliniază importanța conștientizării și a intervenției medicale rapide, oferind un mesaj de speranță și reziliență.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-11-20T22:53:43.707308+00:00",
+      "data_afisaj": "21 noiembrie 2026, 00:53"
+    },
+    {
+      "id": "2c1c9591606d",
+      "titlu": "Antrenorul lui Liverpool, Andoni Iraola, cere interzicerea filmărilor cu drone la antrenamente",
+      "rezumat": "Antrenorul principal al echipei Liverpool, Andoni Iraola, a declarat că filmările cu drone în jurul terenurilor de antrenament ar trebui să fie ilegale. Această afirmație vine în contextul preocupărilor crescânde privind confidențialitatea și spionajul tactic în fotbalul modern. Iraola subliniază necesitatea protejării sesiunilor de antrenament ale echipelor de ochii curioșilor, considerând că astfel de practici pot oferi avantaje neloiale adversarilor și pot perturba pregătirea sportivilor, afectând integritatea competiției.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-20T22:53:43.708805+00:00",
+      "data_afisaj": "21 noiembrie 2026, 00:53"
+    },
+    {
+      "id": "f5e810d2431e",
+      "titlu": "Mario Camora, dorit de FCSB; fundașul vorbește despre șansele de a fi la EURO",
+      "rezumat": "Mario Camora, fundașul portughez naturalizat român, este în atenția clubului FCSB, conform unei surse din România. Într-un interviu recent, Camora a dezvăluit că a avut \"90% șanse\" să participe la Campionatul European, oferind detalii despre parcursul său și despre deciziile care i-au influențat cariera. Această știre aduce în prim-plan posibile mișcări pe piața transferurilor din fotbalul românesc și oferă o perspectivă asupra aspirațiilor internaționale ale jucătorului, stârnind interes în rândul fanilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-11-20T22:53:43.710273+00:00",
+      "data_afisaj": "21 noiembrie 2026, 00:53"
+    },
     {
       "id": "5c61acba718d",
       "titlu": "DECLARAȚII „M-a înjurat de morți, de familie! Dacă îl prindeam, îl omoram”. Alex Chipciu, scandal monstru la Farul – U Cluj",
