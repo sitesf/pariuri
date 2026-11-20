@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-19T23:21:50.819138+00:00",
-  "updated_at_afisaj": "20 noiembrie 2026, 01:21",
+  "updated_at": "2026-11-20T15:57:39.919175+00:00",
+  "updated_at_afisaj": "20 noiembrie 2026, 17:57",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,54 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 118,
+  "numar_stiri": 113,
   "stiri": [
+    {
+      "id": "5fad8878c547",
+      "titlu": "Mijlocașul lui Celtic, Mika Baur, indisponibil 10 săptămâni din cauza unei accidentări",
+      "rezumat": "Mijlocașul german al echipei Celtic, Mika Baur, va lipsi de pe teren aproximativ 10 săptămâni. Antrenorul Martin O'Neill a confirmat că jucătorul a suferit o leziune la ligamentele gleznei. Această accidentare reprezintă o lovitură semnificativă pentru echipa scoțiană, având în vedere importanța lui Baur în linia de mijloc. Perioada de recuperare îl va ține pe jucător în afara acțiunii pentru o parte importantă a sezonului, afectând planurile echipei în campionat și în competițiile europene.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-11-20T15:57:39.915361+00:00",
+      "data_afisaj": "20 noiembrie 2026, 17:57"
+    },
+    {
+      "id": "5e03b80d568d",
+      "titlu": "Anglia va înfrunta Norvegia în sferturile de finală ale Ligii Națiunilor",
+      "rezumat": "Echipa națională de fotbal a Angliei va juca împotriva Norvegiei, condusă de Erling Haaland, în sferturile de finală ale Ligii Națiunilor. Tragerea la sorți a stabilit această confruntare, care promite a fi una dintre cele mai interesante din faza eliminatorie a competiției. Meciul va reprezenta o provocare majoră pentru Anglia în drumul său spre o eventuală semifinală, unde ar putea întâlni Germania. Fanii așteaptă cu interes duelul dintre cele două naționale puternice.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-20T15:57:39.916554+00:00",
+      "data_afisaj": "20 noiembrie 2026, 17:57"
+    },
+    {
+      "id": "3ca05338c722",
+      "titlu": "Tom Brady poartă discuții pentru a achiziționa o parte din acțiunile clubului Chelsea",
+      "rezumat": "Legenda NFL, Tom Brady, se află în negocieri pentru a cumpăra o participație minoritară la clubul de fotbal Chelsea. Această mișcare vine după ce Brady și-a vândut recent acțiunile deținute la Birmingham City, o decizie despre care surse apropiate au declarat că a fost luată pentru a facilita investiția la Stamford Bridge. Brady a fost anterior oaspete al clubului Chelsea și a fost văzut celebrând alături de jucători la Cupa Mondială a Cluburilor de anul trecut, indicând un interes de lungă durată pentru club.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-20T15:57:39.917879+00:00",
+      "data_afisaj": "20 noiembrie 2026, 17:57"
+    },
+    {
+      "id": "854becff330d",
+      "titlu": "Bukayo Saka ar putea rata revenirea la Arsenal înainte de Crăciun din cauza unei accidentări la coapsă",
+      "rezumat": "Mikel Arteta, antrenorul lui Arsenal, a declarat că Bukayo Saka ar putea să nu revină pe teren înainte de Crăciun, în timp ce jucătorul continuă recuperarea după o accidentare la coapsă. Saka este indisponibil de la sfârșitul lunii trecute, după meciul cu Bayern Munchen, și nu a reluat încă antrenamentele ușoare. Testele suplimentare efectuate în pauza internațională au confirmat că nu este necesară o intervenție chirurgicală, dar perioada de absență a jucătorului cheie este una semnificativă pentru echipa londoneză.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-20T15:57:39.919162+00:00",
+      "data_afisaj": "20 noiembrie 2026, 17:57"
+    },
     {
       "id": "f05bcee008f1",
       "titlu": "Prima sesiune de antrenament Man Utd a lui Pochettino filmată de un operator de drone",
@@ -1251,108 +1297,6 @@
       ],
       "data_publicare": "2026-11-13T21:50:44.015638+00:00",
       "data_afisaj": "13 noiembrie 2026, 23:50"
-    },
-    {
-      "id": "1254015423d7",
-      "titlu": "A fost stabilită data apelului lui Manchester City în cazul acuzațiilor din Premier League",
-      "rezumat": "Data pentru audierea apelului depus de Manchester City împotriva acuzațiilor de încălcare a regulilor financiare ale Premier League a fost stabilită. Clubul riscă sancțiuni severe, inclusiv deducerea de puncte sau chiar excluderea din competiție, dacă apelul său va fi respins. Această decizie marchează o etapă crucială într-unul dintre cele mai importante cazuri juridice din fotbalul englez, cu un impact potențial major asupra viitorului clubului și a integrității ligii.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-11-13T15:55:54.072372+00:00",
-      "data_afisaj": "13 noiembrie 2026, 17:55"
-    },
-    {
-      "id": "b76310c9a088",
-      "titlu": "Italia învinge Franța cu 3-1 în Liga Națiunilor, prima înfrângere pentru Zidane ca antrenor al Franței",
-      "rezumat": "Naționala Italiei a reușit o revenire spectaculoasă, învingând Franța cu scorul de 3-1 pe stadionul San Siro, în cadrul Ligii Națiunilor. Această înfrângere reprezintă prima pentru Zinedine Zidane de când a preluat funcția de selecționer al Franței. Deși Michael Olise a deschis scorul pentru francezi după o eroare a portarului Gianluigi Donnarumma, Italia a replicat prin dubla lui Pio Esposito și golul lui Davide Frattesi, preluând astfel conducerea în grupa lor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-13T15:55:54.074115+00:00",
-      "data_afisaj": "13 noiembrie 2026, 17:55"
-    },
-    {
-      "id": "f8c040910e13",
-      "titlu": "Viitorul lui Virgil van Dijk la Liverpool, sub semnul întrebării: negocieri pentru un nou contract",
-      "rezumat": "Situația contractuală a căpitanului lui Liverpool, Virgil van Dijk, rămâne un subiect de discuție, pe măsură ce se apropie de finalul înțelegerii sale actuale. Deși fundașul olandez a declarat că nu este panicat în legătură cu viitorul său, clubul și jucătorul trebuie să ia o decizie importantă. BBC Sport analizează posibilele scenarii privind prelungirea contractului său sau o eventuală plecare, având în vedere importanța sa crucială pentru echipa de pe Anfield.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-13T15:55:54.075793+00:00",
-      "data_afisaj": "13 noiembrie 2026, 17:55"
-    },
-    {
-      "id": "2b7305d81e73",
-      "titlu": "Harry Kane: Unde se situează printre cei mai mari jucători din istoria Angliei?",
-      "rezumat": "După ce a devenit cel mai bun marcator din toate timpurile și jucătorul cu cele mai multe selecții pentru naționala Angliei, Harry Kane este acum subiectul unei analize privind locul său în panteonul marilor fotbaliști englezi. Performanțele sale remarcabile la nivel internațional ridică întrebarea despre cum se compară cu legendele anterioare ale „celor Trei Lei” și care este moștenirea sa în istoria fotbalului britanic.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-13T15:55:54.077410+00:00",
-      "data_afisaj": "13 noiembrie 2026, 17:55"
-    },
-    {
-      "id": "70ec64e453fb",
-      "titlu": "„O minciună” și „prostii” – Palmer sa angajat în Anglia, spune Rogers",
-      "rezumat": "Morgan Rogers spune că orice sugestie că Cole Palmer nu este dedicat Angliei „este o minciună” și „prostii”.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-13T15:11:26.347534+00:00",
-      "data_afisaj": "13 noiembrie 2026, 17:11"
-    },
-    {
-      "id": "711c9bf9c632",
-      "titlu": "REPORTAJ Cum au sărbătorit legendele lui Dinamo împreună 45 de ani de eliminare a lui Inter Milano din Cupa UEFA! „Cel mai bun meci al unei echipe românești în cupele europene”. EXCLUSIV",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-11-13T15:11:26.349939+00:00",
-      "data_afisaj": "13 noiembrie 2026, 17:11"
-    },
-    {
-      "id": "d4a27a8debc9",
-      "titlu": "Mihai Stoica îl acuză pe Andrei Nicolescu că minte cu nerușinare în cazul lui Boutoutaou: „M-a deranjat foarte tare!”",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-11-13T15:11:26.351866+00:00",
-      "data_afisaj": "13 noiembrie 2026, 17:11"
-    },
-    {
-      "id": "cf62959083d0",
-      "titlu": "Cum poate reuși Pochettino, inspirat de Ferguson, acolo unde Carrick a eșuat la Man Utd",
-      "rezumat": "Cu Mauricio Pochettino gata să devină antrenorul lui Man Utd, analizăm dacă poate depăși obstacolele tactice pe care alții nu le-au făcut.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-13T15:11:26.353441+00:00",
-      "data_afisaj": "13 noiembrie 2026, 17:11"
-    },
-    {
-      "id": "90f4f18c8b3c",
-      "titlu": "Fernandes respinge a doua ofertă de contract cu Man Utd",
-      "rezumat": "Căpitanul lui Manchester United, Bruno Fernandes, respinge a doua ofertă de contract a clubului, contractul său actual urmând să expire la sfârșitul sezonului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-13T15:11:26.354876+00:00",
-      "data_afisaj": "13 noiembrie 2026, 17:11"
     }
   ]
 }
