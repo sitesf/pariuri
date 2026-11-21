@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-21T15:09:35.590464+00:00",
-  "updated_at_afisaj": "21 noiembrie 2026, 17:09",
+  "updated_at": "2026-11-21T15:55:12.594121+00:00",
+  "updated_at_afisaj": "21 noiembrie 2026, 17:55",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,53 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 116,
+  "numar_stiri": 120,
   "stiri": [
+    {
+      "id": "dcb31bc3fe8d",
+      "titlu": "Chelsea obține o victorie dramatică împotriva PSG în Liga Campionilor Feminin",
+      "rezumat": "Veerle Buurman a marcat golul decisiv în minutul 87, aducând o victorie la limită, scor 1-0, pentru echipa feminină a clubului Chelsea împotriva formației Paris Saint-Germain în Liga Campionilor Feminin. Acest succes crucial permite echipei londoneze să urce pe prima poziție în clasamentul grupei, consolidându-și șansele de calificare în fazele superioare ale competiției europene.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-21T15:55:12.591281+00:00",
+      "data_afisaj": "21 noiembrie 2026, 17:55"
+    },
+    {
+      "id": "e27be0240293",
+      "titlu": "Remiză albă între Liverpool și Chelsea în WSL, relansând lupta pentru titlu",
+      "rezumat": "Liderul Women's Super League, Chelsea, a fost ținut în șah de Liverpool, într-o remiză fără goluri pe stadionul BrewDog. Prestația defensivă solidă a lui Liverpool, în special a portarului Khiara Keating, a frustrat atacurile echipei londoneze. Acest rezultat oferă echipei Manchester City oportunitatea de a prelua prima poziție în clasament, intensificând considerabil lupta pentru titlul din campionatul feminin.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-21T15:55:12.592312+00:00",
+      "data_afisaj": "21 noiembrie 2026, 17:55"
+    },
+    {
+      "id": "1ae8302f1bcf",
+      "titlu": "Norwich City înregistrează a cincea victorie consecutivă în Championship",
+      "rezumat": "Echipa Norwich City a reușit o revenire spectaculoasă, învingând Cardiff cu scorul de 2-1, și a obținut astfel a cincea victorie consecutivă în Championship. Această serie impresionantă marchează o redresare semnificativă pentru club, care anterior suferise cinci înfrângeri la rând. Rezultatul consolidează poziția lui Norwich în clasament și demonstrează o formă sportivă excelentă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-11-21T15:55:12.593194+00:00",
+      "data_afisaj": "21 noiembrie 2026, 17:55"
+    },
+    {
+      "id": "cb3d9743e7ea",
+      "titlu": "Southampton își extinde seria de invincibilitate pe teren propriu în Championship",
+      "rezumat": "Southampton a obținut o victorie convingătoare cu 2-0 împotriva echipei Derby, extinzându-și seria de meciuri fără înfrângere pe teren propriu în Championship la 18 partide. Atacantul Cyle Larin a marcat la revenirea sa pe teren, contribuind decisiv la succesul echipei. Divin Mubama a stabilit scorul final în prelungiri, asigurând cele trei puncte pentru Southampton.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-11-21T15:55:12.594112+00:00",
+      "data_afisaj": "21 noiembrie 2026, 17:55"
+    },
     {
       "id": "1bf62dcc8cc5",
       "titlu": "Costurile de angajare și concediere ale antrenorilor de la Manchester United se apropie de 100 de milioane de lire sterline",
