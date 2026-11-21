@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-21T15:55:12.594121+00:00",
-  "updated_at_afisaj": "21 noiembrie 2026, 17:55",
+  "updated_at": "2026-11-21T21:30:20.617751+00:00",
+  "updated_at_afisaj": "21 noiembrie 2026, 23:30",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,70 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 120,
+  "numar_stiri": 119,
   "stiri": [
+    {
+      "id": "693a93fb50c0",
+      "titlu": "Chelsea, învinsă categoric de Leeds pe teren propriu; Xabi Alonso recunoaște fragilitatea echipei",
+      "rezumat": "Chelsea a suferit o înfrângere usturătoare cu 4-1 pe Stamford Bridge în fața lui Leeds United, marcând prima victorie a oaspeților pe acest stadion din 1999. Antrenorul Xabi Alonso a declarat că perioada de grație s-a încheiat și a admis că echipa este \"fragilă\", necesitând o îmbunătățire a atitudinii pentru a evita un nou sezon fără participare în competițiile europene. Înfrângerea adâncește criza la clubul londonez.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-21T21:30:20.611872+00:00",
+      "data_afisaj": "21 noiembrie 2026, 23:30"
+    },
+    {
+      "id": "91ba892ed63e",
+      "titlu": "Arsenal remizează cu Newcastle și pierde pe David Raya din cauza unei accidentări",
+      "rezumat": "Arsenal a obținut o remiză spectaculoasă, scor 2-2, împotriva lui Newcastle United pe St James' Park, un rezultat care îi menține pe campioni la șase puncte avans în fruntea clasamentului Premier League. Însă, bucuria a fost umbrită de accidentarea portarului David Raya, care a părăsit terenul cu o problemă la umăr și va efectua un RMN, stârnind îngrijorări serioase cu privire la durata absenței sale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-21T21:30:20.613369+00:00",
+      "data_afisaj": "21 noiembrie 2026, 23:30"
+    },
+    {
+      "id": "ea114237b530",
+      "titlu": "Luca Williams-Barnett strălucește la debut, Tottenham învinge Ipswich",
+      "rezumat": "Tottenham Hotspur a obținut o victorie convingătoare împotriva lui Ipswich Town, iar tânărul Luca Williams-Barnett, în vârstă de 18 ani, a fost protagonistul meciului. La primul său meci ca titular în Premier League, Williams-Barnett a devenit cel mai tânăr marcator al lui Spurs în campionat de la Gareth Bale în 2007 și a oferit o pasă decisivă, contribuind decisiv la a patra victorie în ultimele cinci meciuri pentru echipa lui Roberto De Zerbi.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-21T21:30:20.614780+00:00",
+      "data_afisaj": "21 noiembrie 2026, 23:30"
+    },
+    {
+      "id": "390d55ad5ca4",
+      "titlu": "Bournemouth atinge un record de nouă victorii consecutive după succesul cu Nottingham Forest",
+      "rezumat": "Bournemouth și-a continuat parcursul impresionant sub conducerea noului antrenor Marco Rose, înregistrând a noua victorie consecutivă în toate competițiile, un record istoric pentru club. Echipa a învins Nottingham Forest cu 2-0 pe teren propriu, grație unui gol marcat de Evanilson, care a înscris pentru a șasea oară consecutiv în Premier League, propulsând \"Cireșele\" pe locul patru în clasamentul campionatului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-21T21:30:20.616297+00:00",
+      "data_afisaj": "21 noiembrie 2026, 23:30"
+    },
+    {
+      "id": "b8c8e6fc3e81",
+      "titlu": "Désiré Doué de la PSG suferă o accidentare gravă la genunchi în Ligue 1",
+      "rezumat": "Mijlocașul ofensiv al lui Paris Saint-Germain, Désiré Doué, a fost scos de pe teren în lacrimi după ce a suferit o accidentare ce pare a fi gravă la genunchi, în timpul victoriei echipei sale cu 3-2 împotriva lui Nice în Ligue 1. Incidentul a avut loc la scurt timp după ce Doué marcase un gol, adăugând o nouă preocupare medicală pentru PSG, după accidentarea lui Kvaratskhelia luna trecută.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-21T21:30:20.617732+00:00",
+      "data_afisaj": "21 noiembrie 2026, 23:30"
+    },
     {
       "id": "dcb31bc3fe8d",
       "titlu": "Chelsea obține o victorie dramatică împotriva PSG în Liga Campionilor Feminin",
@@ -1306,75 +1368,6 @@
       ],
       "data_publicare": "2026-11-15T14:35:02.748944+00:00",
       "data_afisaj": "15 noiembrie 2026, 16:35"
-    },
-    {
-      "id": "7cf62baab1e8",
-      "titlu": "Riscurile lui Bompastor dau roade, Chelsea urcă pe primul loc în WSL",
-      "rezumat": "În orice confruntare importantă, vei auzi adesea antrenorii spunând că „detaliile fine” decid un meci. În acest caz, au fost deciziile Soniei Bompastor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-14T21:01:23.569166+00:00",
-      "data_afisaj": "14 noiembrie 2026, 23:01"
-    },
-    {
-      "id": "efb9401bb942",
-      "titlu": "Chelsea urcă pe primul loc cu o victorie de 1-0 împotriva lui Man City",
-      "rezumat": "Chelsea revine pe primul loc în Women's Super League cu o victorie crucială împotriva rivalei Manchester City, care a rămas în 10 jucătoare în a doua repriză.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-11-14T21:01:23.570564+00:00",
-      "data_afisaj": "14 noiembrie 2026, 23:01"
-    },
-    {
-      "id": "7150c54ccfc6",
-      "titlu": "'Fără rasism în Spania' – Mesajul lui De la Fuente pentru Tuchel",
-      "rezumat": "Selecționerul Spaniei, Luis de la Fuente, afirmă că „nu există rasism în Spania” după ce Thomas Tuchel a emis un avertisment jucătorilor săi din Anglia înainte de meciul de duminică din Liga Națiunilor de la Madrid.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-14T21:01:23.571995+00:00",
-      "data_afisaj": "14 noiembrie 2026, 23:01"
-    },
-    {
-      "id": "f8de37688a6b",
-      "titlu": "Testul cu Spania va arăta dacă Tuchel și Anglia au învățat lecțiile Cupei Mondiale",
-      "rezumat": "Meciul Angliei cu campioana mondială Spania va arăta dacă antrenorul principal Thomas Tuchel a învățat din dezamăgirea verii, spune principalul scriitor de fotbal Phil McNulty.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-14T21:01:23.573460+00:00",
-      "data_afisaj": "14 noiembrie 2026, 23:01"
-    },
-    {
-      "id": "25c9d413b4f7",
-      "titlu": "Fostul antrenor al lui Stoke City, Thordarson, moare la 71 de ani",
-      "rezumat": "Gudjon Thordarson, care a condus Stoke City la promovarea din a treia ligă în 2002 și a antrenat alte trei cluburi engleze, moare la 71 de ani.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-14T21:01:23.574763+00:00",
-      "data_afisaj": "14 noiembrie 2026, 23:01"
-    },
-    {
-      "id": "8a41ad01f065",
-      "titlu": "Manchester United Feminin își extinde seria de invincibilitate cu o victorie convingătoare",
-      "rezumat": "Echipa feminină Manchester United a învins Crystal Palace cu 2-0 în Women's Super League, extinzându-și seria de invincibilitate la 12 meciuri în toate competițiile. Maya Le Tissier a marcat un gol spectaculos la cea de-a 150-a apariție pentru club, contribuind decisiv la victoria care a propulsat echipa pe locul patru în clasament. Performanța dominantă subliniază forma excelentă a echipei și ambițiile acesteia în campionatul intern.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-11-14T20:30:38.201903+00:00",
-      "data_afisaj": "14 noiembrie 2026, 22:30"
     }
   ]
 }
