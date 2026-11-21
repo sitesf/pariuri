@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-20T22:53:43.710302+00:00",
-  "updated_at_afisaj": "21 noiembrie 2026, 00:53",
+  "updated_at": "2026-11-21T15:09:35.590464+00:00",
+  "updated_at_afisaj": "21 noiembrie 2026, 17:09",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 120,
+  "numar_stiri": 116,
   "stiri": [
+    {
+      "id": "1bf62dcc8cc5",
+      "titlu": "Costurile de angajare și concediere ale antrenorilor de la Manchester United se apropie de 100 de milioane de lire sterline",
+      "rezumat": "Manchester United a împrumutat 10 milioane de lire sterline la trei zile după confirmarea lui Mauricio Pochettino ca noul antrenor principal. Această sumă va include 7,5 milioane de lire sterline reprezentând compensații plătite Federației de Fotbal din SUA. Costurile totale ale clubului pentru angajarea și concedierea managerilor se apropie acum de impresionanta sumă de 100 de milioane de lire sterline, evidențiind impactul financiar al schimbărilor frecvente de la conducerea tehnică.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-21T15:09:35.583321+00:00",
+      "data_afisaj": "21 noiembrie 2026, 17:09"
+    },
+    {
+      "id": "55d62c8240fa",
+      "titlu": "Manchester City încheie seria de înfrângeri cu o remiză acasă împotriva lui Fulham, dar este huiduită de fani",
+      "rezumat": "Manchester City a încheiat seria de trei înfrângeri consecutive, obținând o remiză de 1-1 împotriva lui Fulham pe Etihad Stadium. Deși a evitat o nouă înfrângere, forma echipei a fost sub așteptări, pe fondul apelului legat de presupusele încălcări financiare. Erling Haaland a ratat mai multe ocazii, iar golul său a fost anulat, în timp ce Rodrigo Muniz a marcat pentru Fulham. Fanii au huiduit la finalul meciului, exprimându-și frustrarea față de performanța pasivă a echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-11-21T15:09:35.585169+00:00",
+      "data_afisaj": "21 noiembrie 2026, 17:09"
+    },
+    {
+      "id": "f7f85a0aed2d",
+      "titlu": "Manchester United ar putea numi prima femeie antrenor în staff-ul echipei masculine",
+      "rezumat": "După numirea lui Mauricio Pochettino ca noul antrenor principal, Manchester United ia în considerare posibilitatea de a aduce prima femeie antrenor în staff-ul tehnic al echipei masculine. Această decizie ar reprezenta un pas important pentru club și pentru fotbalul masculin în general, deschizând noi perspective în ceea ce privește diversitatea și incluziunea la nivel înalt. Detaliile despre rolul și identitatea potențialului antrenor nu au fost încă dezvăluite.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-11-21T15:09:35.586808+00:00",
+      "data_afisaj": "21 noiembrie 2026, 17:09"
+    },
+    {
+      "id": "fcc2019464f7",
+      "titlu": "Laurențiu Reghecampf îl critică dur pe Victor Pițurcă: „Îl bat în cap rău de tot! Îi arăt cifrele”",
+      "rezumat": "Antrenorul Laurențiu Reghecampf a lansat un atac verbal vehement la adresa lui Victor Pițurcă, declarând că este pregătit să-i demonstreze cu cifre greșelile. Afirmațiile, făcute într-un context tensionat, sugerează o dispută aprinsă între cei doi tehnicieni cunoscuți în fotbalul românesc. Reghecampf a subliniat că deține dovezi concrete care ar susține criticile sale, intensificând rivalitatea dintre personalitățile marcante ale sportului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-11-21T15:09:35.588665+00:00",
+      "data_afisaj": "21 noiembrie 2026, 17:09"
+    },
+    {
+      "id": "85f87112eaaf",
+      "titlu": "Laurențiu Reghecampf, reacție vehementă la adresa jurnaliștilor privind transferul lui Petru Popescu la FCSB",
+      "rezumat": "Laurențiu Reghecampf a avut o reacție vehementă la întrebările presei legate de transferul lui Petru Popescu la FCSB, acuzând jurnaliștii că îl jignesc. Antrenorul a refuzat să comenteze în detaliu mutarea, exprimându-și iritarea față de modul în care a fost abordat subiectul. Declarațiile sale subliniază tensiunile existente în jurul transferurilor de jucători și relația adesea dificilă dintre antrenori și mass-media în fotbalul românesc.",
+      "categorie": "Fotbal",
+      "surse": [
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-11-21T15:09:35.590438+00:00",
+      "data_afisaj": "21 noiembrie 2026, 17:09"
+    },
     {
       "id": "642e1024e102",
       "titlu": "Harry Kane, indisponibil trei luni din cauza unei accidentări la gleznă",
@@ -1274,105 +1330,6 @@
       ],
       "data_publicare": "2026-11-14T20:30:38.201903+00:00",
       "data_afisaj": "14 noiembrie 2026, 22:30"
-    },
-    {
-      "id": "8acce55a51b5",
-      "titlu": "A crezut Mauricio Pochettino cu adevărat în proiectul său la naționala SUA?",
-      "rezumat": "Mandatul lui Mauricio Pochettino la cârma echipei naționale masculine a Statelor Unite a fost marcat de o serie de suișuri și coborâșuri, lăsând mulți cu impresia că antrenorul nu s-a implicat pe deplin în proiect. Deși a atins unele obiective, analiza retrospectivă a perioadei sale sugerează o lipsă de convingere personală în viziunea pe termen lung, în ciuda apelurilor sale către jucători și fani de a crede în direcția stabilită. Această evaluare vine în contextul plecării sale recente la Manchester United.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-14T14:46:39.578104+00:00",
-      "data_afisaj": "14 noiembrie 2026, 16:46"
-    },
-    {
-      "id": "ee01ae48492c",
-      "titlu": "Louis Saha critică Manchester United: „Am regresat, iar bazarea pe atacanți tineri este o mare greșeală”",
-      "rezumat": "Fostul atacant al lui Manchester United, Louis Saha, a exprimat îngrijorări serioase cu privire la direcția clubului, afirmând că echipa a regresat în ultimii ani. Saha a criticat politica de transferuri și a subliniat că bazarea excesivă pe atacanți tineri, lipsiți de experiență, reprezintă o „mare greșeală” care afectează performanțele echipei. Declarațiile sale vin în contextul unei perioade dificile pentru club, cu rezultate sub așteptări și o presiune crescută asupra conducerii.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-11-14T14:46:39.580109+00:00",
-      "data_afisaj": "14 noiembrie 2026, 16:46"
-    },
-    {
-      "id": "7f225c7a8629",
-      "titlu": "Calciopoli: Scandalul de trucare a meciurilor care a îngenuncheat Juventus",
-      "rezumat": "O analiză detaliată a scandalului Calciopoli din 2006, care a zguduit fotbalul italian și a expus corupția la cel mai înalt nivel al Serie A. Articolul explorează modul în care această controversă de trucare a meciurilor a adus cluburi de prestigiu, în special Juventus, în pragul colapsului, ducând la retrogradări și penalizări severe. În centrul scandalului s-a aflat un singur om și telefonul său mobil, dezvăluind o rețea complexă de influență și ilegalități care a redefinit peisajul fotbalistic italian.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-11-14T14:46:39.581641+00:00",
-      "data_afisaj": "14 noiembrie 2026, 16:46"
-    },
-    {
-      "id": "a790fa395b11",
-      "titlu": "Reuniunea cu Sonia Bompastor a rezolvat problema atacantului la Chelsea Feminin",
-      "rezumat": "Echipa feminină Chelsea a găsit o soluție pentru problema sa din atac prin reunirea atacantei Melvine Malard cu antrenoarea Sonia Bompastor. Cele două au o relație fotbalistică de 12 ani, iar experiența lor comună a fost crucială în integrarea și performanța lui Malard la club. Această colaborare de lungă durată, bazată pe încredere și înțelegere reciprocă, a contribuit semnificativ la îmbunătățirea ofensivei echipei, demonstrând importanța chimiei dintre jucătoare și staff-ul tehnic.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-14T14:46:39.583044+00:00",
-      "data_afisaj": "14 noiembrie 2026, 16:46"
-    },
-    {
-      "id": "ce106a93ede4",
-      "titlu": "Raphinha eliminat, Brazilia învinsă de Japonia; Argentina pierde în era post-Messi",
-      "rezumat": "Brazilia a suferit o înfrângere surprinzătoare, 3-2, în fața Japoniei într-un meci amical internațional disputat în Singapore. Raphinha, căpitanul Barcelonei, a fost eliminat după ce a protestat vehement la golul victoriei marcat de Tatsuhiro Sakamoto în prelungiri. Antrenorul Braziliei, Carlo Ancelotti, a primit și el cartonaș roșu într-un final tensionat de meci. Între timp, Argentina a început era post-Messi cu o înfrângere, fiind învinsă cu 2-1 de Uruguay la Buenos Aires.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-14T13:59:21.829473+00:00",
-      "data_afisaj": "14 noiembrie 2026, 15:59"
-    },
-    {
-      "id": "7d6cab60b0db",
-      "titlu": "Germania învinge Serbia și pregătește confruntarea decisivă cu Olanda în Liga Națiunilor",
-      "rezumat": "Germania a obținut o victorie convingătoare, 3-1, împotriva Serbiei la Belgrad, pregătind astfel un meci crucial cu Olanda la Berlin, luni, pentru a decide câștigătoarea Grupei A2 din Liga Națiunilor. Florian Wirtz și debutantul Brajan Gruda au marcat pentru Germania, alături de un autogol al lui Srdan Babic. Deși Babic a redus din diferență în repriza secundă, victoria Germaniei a fost clară. Într-un alt meci, Olanda a zdrobit Grecia cu un hat-trick al lui Tijjani Reijnders.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-14T13:59:21.830572+00:00",
-      "data_afisaj": "14 noiembrie 2026, 15:59"
-    },
-    {
-      "id": "e4c57014c255",
-      "titlu": "Portugalia intră într-o nouă eră: Cum va arăta echipa fără Cristiano Ronaldo?",
-      "rezumat": "După 23 de ani în care Cristiano Ronaldo a fost figura definitorie a fotbalului portughez, naționala se pregătește să intre într-o nouă eră. Fostul căpitan și talisman al echipei, cu 234 de apariții și 146 de goluri, a încheiat acest capitol. Foști colegi și experți analizează cum se va descurca Portugalia fără influența sa dominantă, punând sub semnul întrebării capacitatea echipei de a menține performanțele extraordinare obținute cu el în teren.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-14T13:59:21.831670+00:00",
-      "data_afisaj": "14 noiembrie 2026, 15:59"
-    },
-    {
-      "id": "d87703937e7e",
-      "titlu": "Tensiuni în Spania: Dezbaterea \"club vs. țară\" pentru Lamine Yamal pune presiune pe selecționer",
-      "rezumat": "Selecționerul Spaniei, Luis de la Fuente, se confruntă cu o presiune crescută din cauza dezbaterii intense privind angajamentele lui Lamine Yamal la club și la echipa națională. Această controversă umbrește pregătirile pentru meciul viitor împotriva Angliei, la Madrid. De la Fuente a respins acuzațiile de \"minciuni\" legate de un presupus tratament preferențial acordat tinerei vedete, subliniind tensiunile continue dintre cluburi și federațiile naționale în privința gestionării jucătorilor talentați.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-14T13:59:21.832817+00:00",
-      "data_afisaj": "14 noiembrie 2026, 15:59"
-    },
-    {
-      "id": "6c23e8887f35",
-      "titlu": "Irlanda de Nord vizează promovarea istorică în Liga Națiunilor A",
-      "rezumat": "Irlanda de Nord are șansa de a obține o promovare istorică în Liga Națiunilor A. O victorie împotriva Ucrainei sâmbătă seara ar face ca echipa să aibă nevoie de doar un punct în deplasare, în Ungaria, săptămâna viitoare, pentru a-și asigura accederea în prima ligă a competiției. Aceasta ar fi o premieră pentru naționala nord-irlandeză, marcând un moment important în istoria fotbalului lor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-14T13:59:21.833809+00:00",
-      "data_afisaj": "14 noiembrie 2026, 15:59"
     }
   ]
 }
