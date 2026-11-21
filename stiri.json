@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-21T21:30:20.617751+00:00",
-  "updated_at_afisaj": "21 noiembrie 2026, 23:30",
+  "updated_at": "2026-11-21T21:58:26.444475+00:00",
+  "updated_at_afisaj": "21 noiembrie 2026, 23:58",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,54 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 119,
+  "numar_stiri": 123,
   "stiri": [
+    {
+      "id": "db0c54a384cb",
+      "titlu": "Aston Villa continuă seria de rezultate slabe pe teren propriu, remizând cu Sunderland",
+      "rezumat": "Aston Villa a înregistrat o nouă dezamăgire pe teren propriu, fiind ținută în șah de Sunderland într-o remiză fără goluri în Premier League. Echipa lui Unai Emery nu a reușit să spargă defensiva oaspeților, având doar o singură șut pe poartă din interiorul careului. Acest rezultat subliniază dificultățile Villa în meciurile de acasă din acest sezon, adăugând presiune înainte de următoarele confruntări. Sunderland, pe de altă parte, obține un punct prețios în deplasare, luptând cu dăruire pentru antrenorul Régis Le Bris.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-21T21:58:26.438338+00:00",
+      "data_afisaj": "21 noiembrie 2026, 23:58"
+    },
+    {
+      "id": "6a62342779e2",
+      "titlu": "Middlesbrough urcă pe primul loc în Championship după victoria cu Bristol City",
+      "rezumat": "Middlesbrough a urcat pe prima poziție în clasamentul Championship, obținând o victorie convingătoare cu 2-0 împotriva lui Bristol City. Golurile marcate de Adilson Malanda și David Strelec au asigurat cele trei puncte, punând presiune suplimentară pe antrenorul Michael Skubala. Această performanță solidă confirmă ambițiile lui Middlesbrough de promovare și demonstrează forma bună a echipei în campionat. Între timp, Stoke City a urcat pe locul doi după o victorie cu 1-0 împotriva lui Birmingham.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-21T21:58:26.440002+00:00",
+      "data_afisaj": "21 noiembrie 2026, 23:58"
+    },
+    {
+      "id": "c53c7aaa57fe",
+      "titlu": "Avocatul lui Elon Musk și Tom Brady se alătură grupului de investitori Chelsea",
+      "rezumat": "Alex Spiro, avocatul lui Elon Musk, se alătură lui Tom Brady în achiziționarea unei participații la Chelsea. Fostul jucător NFL, Tom Brady, este deja în discuții pentru a cumpăra o parte minoritară a clubului, iar acum Spiro, de la firma de avocatură Quinn Emmanuel, intenționează să investească în Clearlake Capital, proprietarii majoritari ai Chelsea. Această mișcare semnalează un interes crescut al unor figuri influente din afara lumii fotbalului pentru cluburile de top din Premier League.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-21T21:58:26.441629+00:00",
+      "data_afisaj": "21 noiembrie 2026, 23:58"
+    },
+    {
+      "id": "4d5c3ad3e065",
+      "titlu": "Petrolul Ploiești învinge Dinamo cu 1-0 într-un meci disputat la Slobozia",
+      "rezumat": "Petrolul Ploiești a reușit să obțină o victorie importantă împotriva lui Dinamo, scor 1-0, într-un meci tensionat disputat pe teren neutru, la Slobozia. Această înfrângere adâncește criza pentru Dinamo, în timp ce \"lupii\" de la Petrolul își consolidează poziția în clasament. Meciul a fost marcat de o atmosferă intensă și de o luptă acerbă pe teren, cu un singur gol decisiv care a făcut diferența, conform cronicii de Cătălin Mureșanu.",
+      "categorie": "Fotbal",
+      "surse": [
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-11-21T21:58:26.443230+00:00",
+      "data_afisaj": "21 noiembrie 2026, 23:58"
+    },
     {
       "id": "693a93fb50c0",
       "titlu": "Chelsea, învinsă categoric de Leeds pe teren propriu; Xabi Alonso recunoaște fragilitatea echipei",
