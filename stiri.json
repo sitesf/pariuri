@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-22T21:37:31.081968+00:00",
-  "updated_at_afisaj": "22 noiembrie 2026, 23:37",
+  "updated_at": "2026-11-22T22:16:07.940187+00:00",
+  "updated_at_afisaj": "23 noiembrie 2026, 00:16",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 123,
+  "numar_stiri": 128,
   "stiri": [
+    {
+      "id": "7f1b59c1ba37",
+      "titlu": "Tottenham Feminin își consolidează speranțele europene după victoria cu Manchester City",
+      "rezumat": "Calificarea în Liga Campionilor la fotbal feminin părea o ambiție îndepărtată pentru Tottenham la începutul sezonului. Însă, după o victorie importantă împotriva echipei Manchester City, formația londoneză se află acum într-o poziție solidă în lupta pentru un loc în competițiile europene. Acest succes le plasează ferm în cursa pentru obiectivele stabilite, demonstrând că pot concura cu orice adversar și că au potențialul de a-și depăși așteptările inițiale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-22T22:16:07.933314+00:00",
+      "data_afisaj": "23 noiembrie 2026, 00:16"
+    },
+    {
+      "id": "9cda9e4ca3d0",
+      "titlu": "FIFA va confirma candidatura Marii Britanii pentru găzduirea Cupei Mondiale Feminine din 2035",
+      "rezumat": "FIFA urmează să anunțe oficial luni că Marea Britanie va găzdui o ediție a Cupei Mondiale la fotbal feminin în 2035. Aceasta ar marca prima dată când o Cupă Mondială de fotbal este organizată în Regatul Unit de la ediția masculină din 1966. Decizia reprezintă un moment istoric pentru fotbalul britanic și pentru dezvoltarea sportului feminin la nivel global, subliniind angajamentul țării față de promovarea fotbalului feminin.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-22T22:16:07.935096+00:00",
+      "data_afisaj": "23 noiembrie 2026, 00:16"
+    },
+    {
+      "id": "6ce775f44a06",
+      "titlu": "Stoke City visează la revenirea în Premier League, urcând pe locul doi în Championship",
+      "rezumat": "Stoke City, una dintre cele mai în formă echipe din Championship, a urcat pe locul al doilea în clasament, depășind Birmingham, după o prestație rezistentă, chiar și cu un jucător mai puțin. Deși au existat speranțe false în trecut, echipa își propune acum să atingă \"stelele\" și să revină în Premier League. Anul trecut, în aceeași perioadă, Stoke se afla tot pe locul doi, dar o serie slabă de rezultate a dus la o luptă pentru evitarea retrogradării. Experiența recentă îi face pe fani să spere la un deznodământ diferit și la o promovare mult așteptată.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-22T22:16:07.936823+00:00",
+      "data_afisaj": "23 noiembrie 2026, 00:16"
+    },
+    {
+      "id": "808b225df09d",
+      "titlu": "César Azpilicueta: „La Chelsea, o remiză era o catastrofă – dacă nu performai, erai eliminat”",
+      "rezumat": "Fostul fundaș César Azpilicueta a reflectat asupra longevității sale record la Chelsea și a vieții după retragere, oferind o perspectivă asupra exigențelor clubului. El a descris mentalitatea de la Chelsea, unde chiar și o remiză era considerată o catastrofă, iar lipsa performanței ducea la excludere. Azpilicueta, care a jucat aproape 20 de ani de la debutul său, a vorbit și despre momente amuzante, precum lovirea lui Eden Hazard la antrenament. Declarațiile sale subliniază presiunea constantă de a excela la un club de top și standardele înalte impuse jucătorilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-22T22:16:07.938683+00:00",
+      "data_afisaj": "23 noiembrie 2026, 00:16"
+    },
+    {
+      "id": "46a8e32d56d1",
+      "titlu": "Jayden Bogle despre susținerea fanilor Leeds United",
+      "rezumat": "Fundașul dreapta Jayden Bogle a vorbit despre experiența sa la Leeds United și despre impactul semnificativ al susținerii fanilor. De la alăturarea sa clubului în 2026, Bogle a declarat că a crescut constant în performanță, atribuit în mare parte energiei și încurajărilor primite de la suporterii de pe Elland Road. El a subliniat că sprijinul fervent al publicului este un factor cheie în motivația și evoluția sa pe teren, contribuind la succesul echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-11-22T22:16:07.940168+00:00",
+      "data_afisaj": "23 noiembrie 2026, 00:16"
+    },
     {
       "id": "2e99742abc8c",
       "titlu": "Hull City învinge Brighton cu o dublă în prelungiri, după ce adversarii au rămas în 10 jucători",
