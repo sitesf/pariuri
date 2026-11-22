@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-22T15:56:21.403346+00:00",
-  "updated_at_afisaj": "22 noiembrie 2026, 17:56",
+  "updated_at": "2026-11-22T21:37:31.081968+00:00",
+  "updated_at_afisaj": "22 noiembrie 2026, 23:37",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 124,
+  "numar_stiri": 123,
   "stiri": [
+    {
+      "id": "2e99742abc8c",
+      "titlu": "Hull City învinge Brighton cu o dublă în prelungiri, după ce adversarii au rămas în 10 jucători",
+      "rezumat": "Oli McBurnie a marcat două goluri în prelungiri, asigurând victoria echipei Hull City împotriva formației Brighton, clasată pe locul al doilea în Premier League. Meciul a fost unul tensionat, iar Brighton a jucat în inferioritate numerică, ceea ce a influențat deznodământul partidei. Această victorie este crucială pentru Hull City, care a reușit să obțină puncte importante împotriva unei echipe de top, demonstrând o rezistență remarcabilă până la final. Performanța lui McBurnie a fost decisivă, aducând o bucurie imensă fanilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-22T21:37:31.077785+00:00",
+      "data_afisaj": "22 noiembrie 2026, 23:37"
+    },
+    {
+      "id": "425a1f274321",
+      "titlu": "Coșmar pentru Pochettino la debut: Liverpool zdrobește Manchester United cu 4-0",
+      "rezumat": "Mauricio Pochettino a avut un debut dezastruos la conducerea echipei Manchester United, formația sa fiind învinsă categoric cu 4-0 de rivalii de la Liverpool pe Anfield. Situația s-a complicat rapid pentru \"Diavolii Roșii\" după eliminarea timpurie a lui Leny Yoro, care a lăsat echipa în zece oameni încă din minutul opt. Această înfrângere severă menține Manchester United în zona retrogradării din Premier League, punând o presiune considerabilă pe noul antrenor încă de la începutul mandatului său.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-11-22T21:37:31.078820+00:00",
+      "data_afisaj": "22 noiembrie 2026, 23:37"
+    },
+    {
+      "id": "ba59f9e97fd7",
+      "titlu": "Frustrările continuă pentru Arsenal Feminin, care remizează acasă cu West Ham în WSL",
+      "rezumat": "Echipa feminină Arsenal continuă seria fără victorie pe teren propriu în Women's Super League, după ce a încheiat la egalitate, scor 0-0, partida împotriva formației West Ham. Acest rezultat crește presiunea asupra antrenorului Renee Slegers, în contextul în care echipa nu reușește să obțină rezultatele dorite pe propriul teren. Remiza albă subliniază dificultățile întâmpinate de Arsenal în fața porții și în consolidarea poziției în clasament, afectând moralul jucătoarelor și al staff-ului tehnic.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-22T21:37:31.079860+00:00",
+      "data_afisaj": "22 noiembrie 2026, 23:37"
+    },
+    {
+      "id": "a134ec4887ea",
+      "titlu": "Brighton obține prima victorie în deplasare în WSL, grație unui autogol bizar",
+      "rezumat": "Echipa feminină Brighton a înregistrat prima sa victorie în deplasare din acest sezon de Women's Super League, într-un mod neașteptat. Succesul a venit în urma unui autogol bizar marcat de Maz Pacheco de la Everton. Acest eveniment neobișnuit a adus trei puncte prețioase pentru Brighton, care se lupta să-și îmbunătățească parcursul în campionat. Victoria, chiar și obținută printr-o eroare a adversarilor, reprezintă un impuls moral important pentru echipă în continuarea competiției.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-22T21:37:31.080959+00:00",
+      "data_afisaj": "22 noiembrie 2026, 23:37"
+    },
+    {
+      "id": "e3f4353c98b7",
+      "titlu": "Barcelona revine spectaculos de la 0-2 și învinge Villarreal cu 3-2 în La Liga",
+      "rezumat": "FC Barcelona a reușit o revenire impresionantă pe teren propriu, învingând Villarreal cu scorul de 3-2, după ce fusese condusă cu 0-2. Tajon Buchanan și Tani Oluwaseyi au marcat rapid pentru Villarreal, iar situația s-a complicat pentru catalani când Lamine Yamal a ratat un penalty în prima repriză. Cu toate acestea, Barcelona a demonstrat caracter, reușind să întoarcă rezultatul și să-și mențină avansul de trei puncte în fruntea clasamentului La Liga, într-un meci plin de dramatism.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-22T21:37:31.081952+00:00",
+      "data_afisaj": "22 noiembrie 2026, 23:37"
+    },
     {
       "id": "a9d65b3c6cd8",
       "titlu": "Burnley și Blackburn remizează 2-2 într-un derby tensionat din Championship",
@@ -1359,74 +1415,6 @@
       ],
       "data_publicare": "2026-11-16T16:50:16.662719+00:00",
       "data_afisaj": "16 noiembrie 2026, 18:50"
-    },
-    {
-      "id": "145f6d44e40c",
-      "titlu": "Ronaldinho revine pe teren într-un meci din liga a treia italiană",
-      "rezumat": "Legendarul fotbalist brazilian Ronaldinho, în vârstă de 46 de ani, a revenit pe terenul de joc pentru echipa Ravenna, evoluând în prima repriză a derby-ului din liga a treia italiană împotriva formației Forli. Această apariție marchează o revenire neașteptată a fostului Balon de Aur în fotbalul profesionist, atrăgând atenția fanilor și presei sportive. Prezența sa a adus un plus de vizibilitate campionatului italian de ligă inferioară, demonstrând că pasiunea pentru fotbal rămâne puternică indiferent de vârstă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-15T21:25:57.843312+00:00",
-      "data_afisaj": "15 noiembrie 2026, 23:25"
-    },
-    {
-      "id": "59a4c4966557",
-      "titlu": "Declarațiile lui Tuchel și alegerile de lot pentru meciul Spania - Anglia din Liga Națiunilor",
-      "rezumat": "Înaintea confruntării dintre Spania și Anglia din Liga Națiunilor, antrenorul Thomas Tuchel a descris meciul ca fiind unul 'frumos'. Anglia s-a calificat deja și își propune să termine pe primul loc în grupă. Tuchel a confirmat menținerea lui Quansah în echipă datorită performanțelor bune și a explicat includerea lui White, invocând parteneriatul său de la club cu Konsa. Aceste decizii subliniază strategia antrenorului de a valorifica înțelegerea dintre jucători la nivel de club și de a testa opțiuni pentru viitor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-15T21:25:57.845042+00:00",
-      "data_afisaj": "15 noiembrie 2026, 23:25"
-    },
-    {
-      "id": "d342a2749d2e",
-      "titlu": "Scandal într-un meci amical din New York: șase cartonașe roșii și o bătaie generală",
-      "rezumat": "Un meci amical disputat sâmbătă între New York Red Bulls și Club América a fost marcat de incidente violente, culminând cu o bătaie generală și acordarea a șase cartonașe roșii. Confruntarea, la care nu au participat veterani și vedete din ambele echipe, a degenerat într-un haos pe teren, cu jucători implicați în altercații și obiecte aruncate din tribune. Incidentul subliniază tensiunile care pot apărea chiar și în partidele de pregătire, departe de miza competițională, și necesitatea unui control mai strict.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-15T21:25:57.848521+00:00",
-      "data_afisaj": "15 noiembrie 2026, 23:25"
-    },
-    {
-      "id": "43a224e4c814",
-      "titlu": "Aberdeen îl numește pe Mario Frick antrenor principal",
-      "rezumat": "Clubul scoțian Aberdeen a anunțat numirea fostului atacant al naționalei Liechtensteinului, Mario Frick, în funcția de antrenor principal. Frick preia conducerea echipei cu obiectivul de a îmbunătăți performanțele și de a aduce o nouă viziune tactică. Această mutare marchează un nou capitol pentru club, care speră ca experiența internațională a lui Frick, atât ca jucător, cât și ca antrenor, să contribuie la dezvoltarea echipei. Numirea sa vine într-un moment crucial pentru Aberdeen, care își propune să își consolideze poziția în campionatul intern.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-15T20:53:58.831288+00:00",
-      "data_afisaj": "15 noiembrie 2026, 22:53"
-    },
-    {
-      "id": "d998399ce942",
-      "titlu": "Supraviețuitorul accidentului aviatic Chapecoense, Alan Ruschel, promovează în ultimul său meci",
-      "rezumat": "Alan Ruschel, unul dintre cei șase supraviețuitori ai tragicului accident aviatic din 2016 care a decimat echipa Chapecoense, a reușit o performanță emoționantă. El a obținut promovarea în Serie A braziliană în ultimul său meci înainte de a se retrage din activitate. Această victorie simbolică marchează un final de carieră remarcabil pentru Ruschel, care a depășit o tragedie imensă pentru a reveni pe teren și a contribui la succesul echipei sale. Povestea sa rămâne un simbol al rezilienței și speranței în fotbal.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-15T20:53:58.833569+00:00",
-      "data_afisaj": "15 noiembrie 2026, 22:53"
-    },
-    {
-      "id": "1d44114d7b2c",
-      "titlu": "AS FAR își apără cu succes titlul în Liga Campionilor Africii la fotbal feminin",
-      "rezumat": "Clubul marocan AS FAR a reușit să își păstreze titlul în Liga Campionilor Africii la fotbal feminin, învingând echipa Mamelodi Sundowns cu scorul de 3-1. Imane Touriss a fost una dintre eroinele meciului, marcând de două ori și contribuind decisiv la victoria echipei sale. Această performanță confirmă dominația clubului AS FAR în fotbalul feminin african, demonstrând consistența și calitatea lotului. Succesul reprezintă o bornă importantă pentru dezvoltarea fotbalului feminin în regiune.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-15T20:53:58.834819+00:00",
-      "data_afisaj": "15 noiembrie 2026, 22:53"
     }
   ]
 }
