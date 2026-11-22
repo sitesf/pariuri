@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-21T21:58:26.444475+00:00",
-  "updated_at_afisaj": "21 noiembrie 2026, 23:58",
+  "updated_at": "2026-11-22T15:07:27.155938+00:00",
+  "updated_at_afisaj": "22 noiembrie 2026, 17:07",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,65 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 123,
+  "numar_stiri": 125,
   "stiri": [
+    {
+      "id": "87a822481394",
+      "titlu": "Bruno Fernandes amână discuțiile pentru noul contract cu Manchester United",
+      "rezumat": "Căpitanul lui Manchester United, Bruno Fernandes, a confirmat că i s-a oferit un nou contract de către club, dar a declarat că „nu este momentul potrivit” pentru a discuta despre viitorul său. Fernandes a subliniat că prioritatea actuală este redresarea echipei după un început de sezon dificil. Actualul său acord expiră la sfârșitul campaniei, deși United deține o opțiune de prelungire cu încă un an, până în iunie 2028, oferind clubului mai mult timp pentru negocieri.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-22T15:07:27.150582+00:00",
+      "data_afisaj": "22 noiembrie 2026, 17:07"
+    },
+    {
+      "id": "cd4f3ef9ef20",
+      "titlu": "Lionel Messi, în centrul unei controverse cu cartonaș roșu, Inter Miami eliminată din playoff-urile MLS",
+      "rezumat": "Lionel Messi a fost implicat într-o controversă legată de un posibil cartonaș roșu, după ce a aruncat mingea în fața unui adversar, în timp ce Inter Miami a suferit o înfrângere cu 3-0 și a fost eliminată prematur din playoff-urile MLS. Antrenorul lui Columbus Crew a insistat că starul argentinian ar fi trebuit să fie eliminat pentru gestul său, care a avut loc la scurt timp înainte de pauză, evidențiind frustrarea lui Messi pe teren.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-22T15:07:27.152054+00:00",
+      "data_afisaj": "22 noiembrie 2026, 17:07"
+    },
+    {
+      "id": "07509b577bd9",
+      "titlu": "Watford își caută al șaselea antrenor în 18 luni după demiterea lui Alessio Dionisi",
+      "rezumat": "Watford l-a demis pe antrenorul principal Alessio Dionisi după doar 18 meciuri la conducerea echipei. Aceasta marchează a șasea schimbare de manager în ultimele 18 luni pentru club, subliniind o perioadă de instabilitate continuă pe banca tehnică. Decizia vine în contextul presiunii constante de a obține rezultate și al dificultăților echipei de a găsi o formulă câștigătoare sub diferiți antrenori.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-22T15:07:27.153322+00:00",
+      "data_afisaj": "22 noiembrie 2026, 17:07"
+    },
+    {
+      "id": "0fe2ce248ef6",
+      "titlu": "Recordul de invincibilitate pe teren propriu al echipei feminine Manchester City, spulberat de Tottenham în WSL",
+      "rezumat": "Echipa feminină a lui Manchester City a înregistrat a doua înfrângere consecutivă în Women's Super League (WSL), fiind învinsă cu 3-1 de Tottenham. Această înfrângere a pus capăt recordului de 100% victorii pe teren propriu sub conducerea antrenorului Andree Jeglertz, marcând o perioadă dificilă pentru echipa feminină a lui City și având implicații asupra luptei pentru titlu în campionat.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-11-22T15:07:27.154658+00:00",
+      "data_afisaj": "22 noiembrie 2026, 17:07"
+    },
+    {
+      "id": "6e84b6c59e71",
+      "titlu": "Hull City și Brighton se duelează în Premier League; Hürzeler laudă adversarii",
+      "rezumat": "Hull City și Brighton se întâlnesc într-un meci din Premier League, cu antrenorul lui Brighton, Fabian Hürzeler, exprimându-și respectul față de adversari. Hürzeler a menționat înfrângerea la limită a lui Hull cu liderul Arsenal ca un exemplu al modului în care ar putea decurge partida. El a lăudat munca impresionantă a 'Tigrilor' și startul lor excelent în Premier League, subliniind structura lor defensivă solidă și organizarea echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-22T15:07:27.155921+00:00",
+      "data_afisaj": "22 noiembrie 2026, 17:07"
+    },
     {
       "id": "db0c54a384cb",
       "titlu": "Aston Villa continuă seria de rezultate slabe pe teren propriu, remizând cu Sunderland",
@@ -1381,39 +1438,6 @@
       ],
       "data_publicare": "2026-11-15T15:22:16.550408+00:00",
       "data_afisaj": "15 noiembrie 2026, 17:22"
-    },
-    {
-      "id": "a2ba0d3ddd50",
-      "titlu": "Trei jucători, omisi din lotul Angliei pentru meciul cu Spania",
-      "rezumat": "Selecționerul Angliei, Thomas Tuchel, a decis să-i omită pe Josh King, James Garner și Jarrad Branthwaite din lotul final pentru confruntarea cu Spania, programată duminică seară. Această decizie vine în contextul pregătirilor pentru meciul din Liga Națiunilor, unde Anglia caută să-și testeze forțele împotriva unei echipe spaniole puternice. Absența celor trei jucători marchează o ajustare strategică a lotului, subliniind intenția antrenorului de a optimiza echipa pentru provocarea iminentă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-15T14:35:02.745267+00:00",
-      "data_afisaj": "15 noiembrie 2026, 16:35"
-    },
-    {
-      "id": "4e8fcc857ff4",
-      "titlu": "Perimetrele terenurilor de joc, revizuite după decesul lui Billy Vigar",
-      "rezumat": "Premier League, English Football League (EFL) și Women's Super League (WSL) au inițiat o revizuire a perimetrelor terenurilor de joc, în urma decesului lui Billy Vigar anul trecut. Această măsură vine ca răspuns la incidentul tragic și are ca scop îmbunătățirea siguranței jucătorilor și a personalului de pe margine. Analiza detaliată a infrastructurii și a protocoalelor de securitate este esențială pentru a preveni incidente similare în viitor și pentru a asigura un mediu de joc mai sigur în fotbalul englez, la toate nivelurile.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-15T14:35:02.747518+00:00",
-      "data_afisaj": "15 noiembrie 2026, 16:35"
-    },
-    {
-      "id": "f598920574a9",
-      "titlu": "Portugalia imortalizează tricoul cu numărul 7 în onoarea lui Cristiano Ronaldo",
-      "rezumat": "Federația Portugheză de Fotbal a decis să imortalizeze tricoul cu numărul 7, în semn de omagiu adus legendarului Cristiano Ronaldo. Această schimbare permanentă are scopul de a asigura că numărul va rămâne asociat pentru totdeauna cu cel mai mare icon fotbalistic al țării. Decizia vine după retragerea lui Ronaldo din fotbalul internațional, încheind o carieră de 23 de ani în care a marcat 146 de goluri în 246 de selecții și a câștigat trei titluri majore cu naționala.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-15T14:35:02.748944+00:00",
-      "data_afisaj": "15 noiembrie 2026, 16:35"
     }
   ]
 }
