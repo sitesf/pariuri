@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-22T15:07:27.155938+00:00",
-  "updated_at_afisaj": "22 noiembrie 2026, 17:07",
+  "updated_at": "2026-11-22T15:56:21.403346+00:00",
+  "updated_at_afisaj": "22 noiembrie 2026, 17:56",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,31 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 125,
+  "numar_stiri": 124,
   "stiri": [
+    {
+      "id": "a9d65b3c6cd8",
+      "titlu": "Burnley și Blackburn remizează 2-2 într-un derby tensionat din Championship",
+      "rezumat": "Derby-ul din Championship dintre Burnley și Blackburn Rovers s-a încheiat la egalitate, scor 2-2. Echipa Blackburn a revenit de două ori în meci, obținând un punct important prin golul din penalty al lui Todd Cantwell. Acesta a fost primul meci pentru Blackburn de când antrenorul principal Tony Mowbray s-a retras din motive de sănătate, iar rezultatul prelungește așteptarea lui Burnley pentru o victorie pe teren propriu.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-22T15:56:21.400541+00:00",
+      "data_afisaj": "22 noiembrie 2026, 17:56"
+    },
+    {
+      "id": "407deaba1620",
+      "titlu": "Kansas City Current câștigă primul titlu NWSL din istoria clubului",
+      "rezumat": "Echipa Kansas City Current a cucerit în premieră titlul NWSL (National Women's Soccer League), învingând Washington Spirit cu scorul de 2-1 într-o finală spectaculoasă. Golul de deschidere a venit direct dintr-un corner, iar Debinha a marcat golul victoriei. Aceasta este prima performanță de acest gen pentru Kansas City Current, în timp ce Washington Spirit pierde a treia finală consecutivă în campionatul feminin de fotbal.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-22T15:56:21.403330+00:00",
+      "data_afisaj": "22 noiembrie 2026, 17:56"
+    },
     {
       "id": "87a822481394",
       "titlu": "Bruno Fernandes amână discuțiile pentru noul contract cu Manchester United",
@@ -1404,40 +1427,6 @@
       ],
       "data_publicare": "2026-11-15T20:53:58.834819+00:00",
       "data_afisaj": "15 noiembrie 2026, 22:53"
-    },
-    {
-      "id": "37dadb0f9a35",
-      "titlu": "Dan Petrescu, posibil antrenor la FCSB; Mihai Stoica reacționează",
-      "rezumat": "Speculațiile privind o posibilă numire a lui Dan Petrescu în funcția de antrenor la FCSB, cu Mihai Stoica în rol de manager, au stârnit interes în fotbalul românesc. Mihai Stoica, actualul manager sportiv al clubului, a oferit o primă reacție publică, declarând că ar fi deschis unei colaborări cu Petrescu. Această potențială mutare ar putea reconfigura strategia echipei și ar aduce o nouă dinamică la nivelul conducerii tehnice, având în vedere experiența ambilor în fotbalul românesc.",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-11-15T15:22:16.546278+00:00",
-      "data_afisaj": "15 noiembrie 2026, 17:22"
-    },
-    {
-      "id": "79d3b51fd968",
-      "titlu": "Ascensiunea lui Unai Simon, portarul Spaniei, la statutul de cel mai bun din lume",
-      "rezumat": "Pe măsură ce Spania se pregătește să găzduiască Anglia în Liga Națiunilor, ascensiunea lui Unai Simon la statutul de cel mai bun portar din lume este analizată de BBC Sport. Jurnalistul Guillem Balague detaliază parcursul modest al goalkeeperului spaniol, evidențiind evoluția sa remarcabilă și modul în care a ajuns să fie recunoscut la nivel global. Performanțele constante și contribuția sa esențială la echipa națională și la clubul său l-au propulsat în elita fotbalului mondial.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-15T15:22:16.548876+00:00",
-      "data_afisaj": "15 noiembrie 2026, 17:22"
-    },
-    {
-      "id": "dda273b835c0",
-      "titlu": "Andy Robertson, cel mai bun căpitan al Scoției, depășește recordul de selecții",
-      "rezumat": "Andy Robertson a devenit cel mai bun căpitan al Scoției, depășind numărul de selecții al legendarului Kenny Dalglish. Fundașul stânga va ajunge la 103 apariții pentru echipa națională în meciul cu Elveția, consolidându-și statutul de figură emblematică. Deși unii ar putea contesta poziția sa față de Dalglish în termeni de talent pur, parcursul său și rolul de lider incontestabil îl plasează în fruntea listei căpitanilor scoțieni, fiind un exemplu de dedicare și performanță.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-15T15:22:16.550408+00:00",
-      "data_afisaj": "15 noiembrie 2026, 17:22"
     }
   ]
 }
