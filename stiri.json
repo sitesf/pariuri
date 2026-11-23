@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-22T22:16:07.940187+00:00",
-  "updated_at_afisaj": "23 noiembrie 2026, 00:16",
+  "updated_at": "2026-11-23T19:03:15.777124+00:00",
+  "updated_at_afisaj": "23 noiembrie 2026, 21:03",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,65 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 128,
+  "numar_stiri": 124,
   "stiri": [
+    {
+      "id": "f3aa19f6df3a",
+      "titlu": "Accidentarea lui David Raya nu este gravă, confirmă Mikel Arteta",
+      "rezumat": "Mikel Arteta a anunțat că accidentarea la umăr a portarului David Raya nu este atât de serioasă pe cât se temea inițial. Deși goalkeeperul lui Arsenal va rata meciul de marți din Liga Campionilor împotriva Borussiei Dortmund, nu va fi necesară o intervenție chirurgicală. Antrenorul a precizat că nu știe exact când va reveni Raya pe teren, dar vestea este una liniștitoare pentru clubul londonez, având în vedere importanța portarului în planurile echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football",
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-23T19:03:15.770251+00:00",
+      "data_afisaj": "23 noiembrie 2026, 21:03"
+    },
+    {
+      "id": "537cb681e2a0",
+      "titlu": "Planul lui Infantino de vânzare a drepturilor Cupei Mondiale ar fi durat până la 96 de ani",
+      "rezumat": "Un plan eșuat al președintelui FIFA, Gianni Infantino, de a vinde drepturile Cupei Mondiale, denumit Fifa Forward Enterprise, ar fi putut bloca fotbalul pentru o perioadă de până la 96 de ani, conform unor documente consultate de The Guardian. Echipa de management implicată în propunere ar fi urmat să primească până la 5% din valoarea de miliarde de lire sterline a schemei. FIFA neagă că Infantino ar fi profitat personal de pe urma acestui plan.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-23T19:03:15.771970+00:00",
+      "data_afisaj": "23 noiembrie 2026, 21:03"
+    },
+    {
+      "id": "0d583838ff1b",
+      "titlu": "Diego Simeone stabilește un nou record de victorii în La Liga",
+      "rezumat": "Diego Simeone a intrat în istoria La Liga, înregistrând a 345-a victorie ca antrenor al echipei Atletico Madrid. Această performanță îl plasează pe Simeone în fruntea clasamentului antrenorilor cu cele mai multe victorii la un singur club în campionatul spaniol. Antrenorul argentinian, cunoscut pentru stilul său defensiv, a declarat ironic că \"nu câștigi 345 de meciuri doar apărându-te\", subliniind importanța echilibrului în jocul echipei sale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-23T19:03:15.773527+00:00",
+      "data_afisaj": "23 noiembrie 2026, 21:03"
+    },
+    {
+      "id": "e3effba51ec3",
+      "titlu": "Watford este pe cale să-l numească pe fostul selecționer al României, Edward Iordănescu, antrenor",
+      "rezumat": "Clubul englez Watford, aflat în căutarea unui nou antrenor, este pe punctul de a-l numi pe Edward Iordănescu, fostul selecționer al echipei naționale a României, în funcția de antrenor principal. Informația a fost raportată de BBC Three Counties Radio. Această mutare ar marca o revenire a lui Iordănescu în fotbalul de club, după experiența sa la cârma naționalei, și ar reprezenta o provocare semnificativă în Championship, o ligă extrem de competitivă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-23T19:03:15.775331+00:00",
+      "data_afisaj": "23 noiembrie 2026, 21:03"
+    },
+    {
+      "id": "7e8a1d08f243",
+      "titlu": "Controversa Jamal Musiala, punctul culminant al unei săptămâni turbulente pentru Bayern München",
+      "rezumat": "Tratamentul aplicat mijlocașului Jamal Musiala de către Bayern München a generat controverse și a ridicat semne de întrebare cu privire la reputația de \"club de familie\" a gigantului german. Incidentul a marcat punctul culminant al unei săptămâni agitate pentru Bayern, chiar și după o victorie aparent confortabilă împotriva unui adversar aflat în dificultate. Situația a generat discuții despre modul în care clubul gestionează relațiile cu jucătorii săi cheie și impactul asupra imaginii publice.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-23T19:03:15.777093+00:00",
+      "data_afisaj": "23 noiembrie 2026, 21:03"
+    },
     {
       "id": "7f1b59c1ba37",
       "titlu": "Tottenham Feminin își consolidează speranțele europene după victoria cu Manchester City",
@@ -1368,108 +1425,6 @@
       ],
       "data_publicare": "2026-11-17T00:03:27.483445+00:00",
       "data_afisaj": "17 noiembrie 2026, 02:03"
-    },
-    {
-      "id": "e4bd440c7eec",
-      "titlu": "Thomas Frank, noul antrenor al echipei Crystal Palace",
-      "rezumat": "Thomas Frank a fost confirmat oficial ca noul manager al clubului Crystal Palace, semnând un contract pe doi ani și jumătate. Fostul antrenor al lui Tottenham, liber de contract din februarie, a fost principala țintă a clubului din Premier League, aflat pe ultimul loc. Frank a mai discutat cu Palace în vară, dar a considerat că nu era pregătit să revină. Acum, el are sarcina de a reconstrui echipa și i s-au promis fonduri pentru transferuri în ianuarie.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-16T17:57:53.715220+00:00",
-      "data_afisaj": "16 noiembrie 2026, 19:57"
-    },
-    {
-      "id": "fccbca3487ea",
-      "titlu": "Uniunea Cluburilor Europene depune o plângere oficială pentru influența în fotbal",
-      "rezumat": "Uniunea Cluburilor Europene (UCE), un organism format din 138 de membri, a depus o plângere oficială la Comisia Europeană împotriva controlului exercitat de UEFA și de Asociația Cluburilor Europene (ECA) asupra fotbalului continental. Această acțiune escaladează eforturile UCE de a obține recunoaștere și de a diminua puterea deținută de elitele fotbalului. Plângerea contestă memorandumul de înțelegere dintre UEFA și ECA, susținând că acesta creează un monopol și limitează dezvoltarea echitabilă a fotbalului european.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-16T17:57:53.716458+00:00",
-      "data_afisaj": "16 noiembrie 2026, 19:57"
-    },
-    {
-      "id": "45f2bc8a726f",
-      "titlu": "Agenții jucătorilor de la Manchester City se pregătesc pentru plecări în cazul sancțiunilor",
-      "rezumat": "Potrivit unui raport, reprezentanții jucătorilor din prima echipă a lui Manchester City se poziționează pentru a-și muta clienții, în cazul în care clubul va fi lovit de sancțiuni severe. Această mișcare indică o preocupare crescândă în rândul jucătorilor și al agenților lor cu privire la rezultatul investigației privind Fair Play-ul Financiar. Un scenariu de transferuri gratuite ar putea avea un impact major asupra lotului și a stabilității financiare a clubului, determinând agenții să exploreze opțiuni alternative pentru viitorul fotbaliștilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-11-16T17:57:53.717719+00:00",
-      "data_afisaj": "16 noiembrie 2026, 19:57"
-    },
-    {
-      "id": "1b1db1ed06ee",
-      "titlu": "Schimbare majoră de strategie la Manchester United după numirea lui Pochettino",
-      "rezumat": "Manchester United a operat o schimbare semnificativă în strategia sa de transferuri, după numirea lui Mauricio Pochettino ca noul manager, conform unui raport. Clubul era decis asupra unor mutări în ianuarie, dar venirea noului antrenor a reorientat prioritățile. Această decizie ar putea însemna că Pochettino va avea un cuvânt decisiv în privința jucătorilor vizați, iar planurile inițiale de transferuri ar putea fi revizuite pentru a se alinia viziunii sale tactice și nevoilor identificate pentru echipă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-11-16T17:57:53.718899+00:00",
-      "data_afisaj": "16 noiembrie 2026, 19:57"
-    },
-    {
-      "id": "9348a35c83db",
-      "titlu": "Creștere alarmantă a homofobiei în fotbalul englez",
-      "rezumat": "Homofobia și transfobia sunt în creștere în fotbalul englez, conform noilor date care relevă un număr record de rapoarte de discriminare în acest sport. Această situație ridică întrebări serioase despre măsurile luate de cluburi și de Premier League pentru a combate aceste fenomene. Organizațiile de susținere a drepturilor LGBTQ+ solicită acțiuni mai ferme și o educație extinsă pentru a crea un mediu mai incluziv și sigur pentru toți participanții și suporterii din fotbal.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-16T17:57:53.719969+00:00",
-      "data_afisaj": "16 noiembrie 2026, 19:57"
-    },
-    {
-      "id": "5080e3564618",
-      "titlu": "James Trafford, noul număr 1 al Angliei?",
-      "rezumat": "Portarul James Trafford a avut ocazia să-și demonstreze valoarea ca noul număr unu al Angliei și, într-un meci disputat în deplasare împotriva campionilor mondiali, a profitat din plin de această șansă. Performanța sa solidă a generat discuții intense despre o posibilă schimbare în ierarhia portarilor naționalei, sugerând că Trafford ar putea prelua rolul de titular de la Jordan Pickford. Analiza presei sportive subliniază impactul prestației sale asupra selecționerului și a fanilor, consolidându-i poziția în lupta pentru tricoul de titular.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-11-16T16:50:16.657921+00:00",
-      "data_afisaj": "16 noiembrie 2026, 18:50"
-    },
-    {
-      "id": "20ae2a1caa74",
-      "titlu": "Philippe Diallo, candidatul UEFA la președinția FIFA, îl va contesta pe Gianni Infantino",
-      "rezumat": "Președintele Federației Franceze de Fotbal, Philippe Diallo, a fost confirmat de UEFA drept candidatul său surpriză pentru președinția FIFA. Diallo a declarat că va lupta împotriva lui Gianni Infantino, acuzându-l pe actualul președinte că a adus prejudicii grave fotbalului. Decizia UEFA de a susține un candidat alternativ vine în contextul alegerilor pentru președinția FIFA din luna martie, promițând o confruntare electorală intensă și o dezbatere aprinsă despre viitorul conducerii fotbalului mondial.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-16T16:50:16.660320+00:00",
-      "data_afisaj": "16 noiembrie 2026, 18:50"
-    },
-    {
-      "id": "72a098c0b5aa",
-      "titlu": "Jürgen Klopp critică dur conducerea FIFA: „Infantino este mai rău decât Blatter”",
-      "rezumat": "Antrenorul naționalei Germaniei, Jürgen Klopp, a lansat un atac vehement la adresa președintelui FIFA, Gianni Infantino, declarând că „nu credea că lucrurile pot deveni mai rele după Sepp Blatter, dar cineva a reușit să facă exact asta”. Klopp a cerut înlocuirea lui Infantino, subliniind nemulțumirea sa față de direcția în care se îndreaptă forul mondial sub actuala conducere. Declarațiile sale adaugă presiune asupra conducerii FIFA și intensifică dezbaterea publică privind integritatea organizației.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-16T16:50:16.661626+00:00",
-      "data_afisaj": "16 noiembrie 2026, 18:50"
-    },
-    {
-      "id": "8ebab6a6413d",
-      "titlu": "Romelu Lukaku se retrage din fotbalul internațional",
-      "rezumat": "Atacantul belgian Romelu Lukaku a anunțat că se retrage din fotbalul internațional, punând capăt unei cariere prolifice la echipa națională. Într-o declarație, Lukaku a menționat că s-a bucurat de „fiecare moment” petrecut reprezentând Belgia. Decizia sa marchează o schimbare importantă pentru naționala Belgiei, care va trebui să găsească soluții pentru a compensa absența unuia dintre cei mai importanți marcatori ai săi. Retragerea sa lasă un gol considerabil în ofensiva \"Diavolilor Roșii\".",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-16T16:50:16.662719+00:00",
-      "data_afisaj": "16 noiembrie 2026, 18:50"
     }
   ]
 }
