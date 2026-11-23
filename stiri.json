@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-23T19:03:15.777124+00:00",
-  "updated_at_afisaj": "23 noiembrie 2026, 21:03",
+  "updated_at": "2026-11-23T19:51:50.173358+00:00",
+  "updated_at_afisaj": "23 noiembrie 2026, 21:51",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,65 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 124,
+  "numar_stiri": 129,
   "stiri": [
+    {
+      "id": "fc8650e0bed2",
+      "titlu": "Regatul Unit va găzdui Cupa Mondială de Fotbal Feminin din 2035",
+      "rezumat": "Regatul Unit, incluzând Anglia, Irlanda de Nord, Scoția și Țara Galilor, a fost confirmat ca gazdă a Cupei Mondiale de Fotbal Feminin din 2035. Aceasta va fi prima dată din 1966 când o Cupă Mondială de fotbal se va desfășura pe teritoriul britanic. Decizia marchează un moment important pentru dezvoltarea fotbalului feminin în regiune și la nivel global, oferind o platformă majoră pentru sport. Anunțul vine după o perioadă de candidatură și confirmă angajamentul FIFA față de extinderea evenimentelor sale majore.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-11-23T19:51:50.167565+00:00",
+      "data_afisaj": "23 noiembrie 2026, 21:51"
+    },
+    {
+      "id": "a398be7147b3",
+      "titlu": "Accidentări majore la PSG: Doué și Kvaratskhelia absentează, punând presiune pe Luis Enrique",
+      "rezumat": "Paris Saint-Germain se confruntă cu provocări semnificative după ce Désiré Doué a suferit o ruptură de ligament încrucișat anterior (ACL) în victoria cu 3-2 împotriva lui Nice. Această accidentare îl adaugă pe Doué pe lista jucătorilor indisponibili, alături de Khvicha Kvaratskhelia, care se află și el la infirmerie. Absența acestor doi jucători importanți va testa profunzimea lotului și strategiile antrenorului Luis Enrique, mai ales având în vedere că PSG a avut una dintre cele mai puternice ofensive din Europa. Situația complică planurile echipei pentru restul sezonului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-23T19:51:50.169020+00:00",
+      "data_afisaj": "23 noiembrie 2026, 21:51"
+    },
+    {
+      "id": "48ce300494a9",
+      "titlu": "Manchester United va contesta cartonașul roșu primit de Leny Yoro împotriva lui Liverpool",
+      "rezumat": "Manchester United a anunțat Federația Engleză de Fotbal (FA) intenția sa de a contesta cartonașul roșu acordat fundașului Leny Yoro în timpul meciului recent împotriva lui Liverpool. Decizia de a face apel vine în urma unei faze controversate care a dus la eliminarea jucătorului și a influențat semnificativ cursul partidei. Clubul speră ca, în urma reanalizării, sancțiunea să fie anulată sau redusă, permițându-i lui Yoro să revină mai repede pe teren. Această acțiune subliniază nemulțumirea clubului față de decizia arbitrajului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-11-23T19:51:50.170416+00:00",
+      "data_afisaj": "23 noiembrie 2026, 21:51"
+    },
+    {
+      "id": "4a659a7bb0c9",
+      "titlu": "Final dramatic în derby-ul Sevillei: Sevilla egalează in extremis împotriva lui Betis",
+      "rezumat": "Derby-ul intens dintre Sevilla și Real Betis s-a încheiat într-o manieră spectaculoasă, cu o egalare dramatică a Sevillei în ultimele momente ale partidei. Chiar dacă scorul final nu a desemnat un învingător, meciul a fost plin de tensiune și emoție, confirmând reputația de \"derby al derby-urilor\" din Spania. Kike Salas, marcatorul golului egalizator, a descris momentul ca fiind \"o nebunie\", reflectând atmosfera incandescentă de pe stadionul Ramón Sánchez-Pizjuán. Rezultatul subliniază intensitatea rivalității locale, indiferent de parcursul recent al celor două echipe.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-23T19:51:50.171815+00:00",
+      "data_afisaj": "23 noiembrie 2026, 21:51"
+    },
+    {
+      "id": "d98fad29ead9",
+      "titlu": "Pio Esposito, hat-trick pentru Inter, dar Atalanta revine spectaculos într-un meci nebun",
+      "rezumat": "Tânăra speranță a Italiei, Pio Esposito, a reușit un hat-trick memorabil pentru Inter Milano în Serie A, devenind al treilea italian care realizează această performanță pentru club în era modernă, după Christian Vieri. Cu toate acestea, bucuria sa a fost umbrită de rezultatul final, deoarece Inter a risipit un avantaj de două goluri de trei ori, terminând la egalitate, 4-4, împotriva Atalantei. Charles De Ketelaere a fost un coșmar pentru apărarea Interului, contribuind la revenirea spectaculoasă a oaspeților și transformând un moment personal de glorie pentru Esposito într-o remiză frustrantă pentru echipa sa.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-23T19:51:50.173342+00:00",
+      "data_afisaj": "23 noiembrie 2026, 21:51"
+    },
     {
       "id": "f3aa19f6df3a",
       "titlu": "Accidentarea lui David Raya nu este gravă, confirmă Mikel Arteta",
