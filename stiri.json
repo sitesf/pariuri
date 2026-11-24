@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-24T03:07:37.600495+00:00",
-  "updated_at_afisaj": "24 noiembrie 2026, 05:07",
+  "updated_at": "2026-11-24T18:43:11.004209+00:00",
+  "updated_at_afisaj": "24 noiembrie 2026, 20:43",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,68 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 130,
+  "numar_stiri": 125,
   "stiri": [
+    {
+      "id": "e9f4547834be",
+      "titlu": "Millwall, sancționat cu închiderea parțială a stadionului după scandări discriminatorii",
+      "rezumat": "Clubul Millwall a fost sancționat de către federația engleză de fotbal și va trebui să dispute un meci pe teren propriu cu o parte a stadionului închisă. Decizia vine ca urmare a scandărilor discriminatorii proferate de fani în timpul unei partide anterioare. Această măsură disciplinară subliniază angajamentul autorităților fotbalistice de a combate rasismul și discriminarea în sport, trimițând un mesaj clar către suporteri și cluburi.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-11-24T18:43:10.997302+00:00",
+      "data_afisaj": "24 noiembrie 2026, 20:43"
+    },
+    {
+      "id": "6e01271e97b9",
+      "titlu": "Senegal, confirmată campioană a Cupei Africii pe Națiuni 2025 după decizia TAS",
+      "rezumat": "La zece luni după finala Cupei Africii pe Națiuni din 2025, Senegal a fost reinstalată în postura de campioană, în urma unei decizii a Tribunalului de Arbitraj Sportiv (TAS). Hotărârea anulează o decizie anterioară de a acorda titlul Marocului în urma unui apel. Astfel, victoria controversată a Senegalului cu 1-0 în finala din ianuarie este confirmată oficial, punând capăt unei dispute îndelungate privind rezultatul competiției.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-24T18:43:10.999054+00:00",
+      "data_afisaj": "24 noiembrie 2026, 20:43"
+    },
+    {
+      "id": "c0464ac4b4e9",
+      "titlu": "Crystal Palace, depunctată în WSL pentru utilizarea unui număr excesiv de ferestre de schimbări",
+      "rezumat": "Echipa feminină Crystal Palace a fost sancționată cu o depunctare de trei puncte în Women's Super League (WSL), după ce a efectuat schimbări în patru ferestre diferite în timpul victoriei cu 1-0 împotriva lui Everton, în septembrie. Clubul a recunoscut încălcarea regulamentului competiției, iar un tribunal independent a decis deducerea punctelor. Această decizie face ca Palace să coboare de pe locul 12 pe 13 în clasament.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-24T18:43:11.000849+00:00",
+      "data_afisaj": "24 noiembrie 2026, 20:43"
+    },
+    {
+      "id": "480a846cba7e",
+      "titlu": "Freddie Potts, de la banca lui West Ham la Liga Campionilor cu Club Brugge",
+      "rezumat": "Mijlocașul englez Freddie Potts se pregătește să înfrunte Liverpool în Liga Campionilor, după ce a părăsit West Ham, clubul la care a petrecut 16 ani. Decizia de a se transfera la Club Brugge s-a dovedit a fi una inspirată, permițându-i să depășească o perioadă dificilă la West Ham, unde nu mai intra în planurile antrenorului. Acum, Potts se bucură de un rol important în Belgia și de experiența fotbalului european de elită.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-24T18:43:11.002438+00:00",
+      "data_afisaj": "24 noiembrie 2026, 20:43"
+    },
+    {
+      "id": "d3ba2f80c392",
+      "titlu": "Copa América 2028 se va disputa în Statele Unite, cu participarea a șase echipe Concacaf",
+      "rezumat": "Ediția din 2028 a turneului Copa América va avea loc în Statele Unite ale Americii și va fi extinsă pentru a include șase echipe din regiunea Concacaf. Aceasta va marca a treia oară în ultimele cinci ediții când prestigioasa competiție internațională sud-americană se va desfășura pe teritoriul SUA. Decizia subliniază o colaborare continuă între confederațiile Conmebol și Concacaf, consolidând legăturile fotbalistice între cele două Americi.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-24T18:43:11.004189+00:00",
+      "data_afisaj": "24 noiembrie 2026, 20:43"
+    },
     {
       "id": "5c9b85da9bec",
       "titlu": "Kevin De Bruyne își reafirmă loialitatea față de Manchester City",
@@ -1379,122 +1439,6 @@
       ],
       "data_publicare": "2026-11-17T23:24:05.847730+00:00",
       "data_afisaj": "18 noiembrie 2026, 01:24"
-    },
-    {
-      "id": "483a4a1e9b5e",
-      "titlu": "Gigi Becali a anunțat primul transfer al iernii la FCSB",
-      "rezumat": "Patronul FCSB, Gigi Becali, a declarat public că a realizat deja primul transfer pentru perioada de iarnă. Deși detaliile despre jucătorul vizat nu au fost încă făcute publice, anunțul marchează începutul campaniei de achiziții a clubului bucureștean. Această mișcare vine în contextul în care FCSB își propune să își consolideze lotul pentru a-și atinge obiectivele în competițiile interne și a-și menține poziția de lider.",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-11-17T17:24:02.366300+00:00",
-      "data_afisaj": "17 noiembrie 2026, 19:24"
-    },
-    {
-      "id": "1612b279a850",
-      "titlu": "Arsenal, aproape de noi contracte pentru David Raya, Jurrien Timber și Piero Hincapie",
-      "rezumat": "Clubul Arsenal este pe punctul de a finaliza noi acorduri contractuale cu trei jucători importanți: portarul David Raya, fundașul Jurrien Timber și fundașul Piero Hincapie. Aceste prelungiri de contracte ar asigura stabilitatea lotului pe termen lung și ar consolida poziția echipei în competițiile viitoare. Negocierile avansate reflectă strategia clubului de a-și păstra talentele cheie și de a construi o echipă puternică pentru a concura la cel mai înalt nivel.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-11-17T17:24:02.367980+00:00",
-      "data_afisaj": "17 noiembrie 2026, 19:24"
-    },
-    {
-      "id": "9c3417510fae",
-      "titlu": "Senegal, prima echipă calificată la Cupa Africii pe Națiuni 2027",
-      "rezumat": "Naționala Senegalului a devenit prima echipă care și-a asigurat calificarea la Cupa Africii pe Națiuni din 2027. Această performanță vine după o serie de rezultate solide în preliminarii, consolidând statutul Senegalului ca una dintre forțele dominante din fotbalul african. În contrast, Egiptul a ratat șansa de a se califica alături de Senegal, iar Nigeria a înregistrat un nou eșec în campania de calificare, complicându-și situația.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-17T17:24:02.369496+00:00",
-      "data_afisaj": "17 noiembrie 2026, 19:24"
-    },
-    {
-      "id": "569501e03c2d",
-      "titlu": "Peter Storey, fost jucător emblematic al lui Arsenal și internațional englez, a decedat la 81 de ani",
-      "rezumat": "Peter Storey, o figură cheie a echipei Arsenal care a câștigat eventul în 1971 și fost internațional englez, a murit la vârsta de 81 de ani. Storey a jucat 501 meciuri pentru Arsenal între 1965 și 1977, fiind al optulea în topul aparițiilor pentru club. De asemenea, a reprezentat Anglia de 19 ori. Clubul Arsenal i-a adus un omagiu fostului mijlocaș, recunoscându-i contribuția semnificativă la istoria sa și la succesul echipei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-17T17:24:02.371226+00:00",
-      "data_afisaj": "17 noiembrie 2026, 19:24"
-    },
-    {
-      "id": "8c79f06adf28",
-      "titlu": "Jürgen Klopp lansează cu succes proiectul de reconstrucție al naționalei Germaniei",
-      "rezumat": "La șase săptămâni după o înfrângere frustrantă în Liga Națiunilor împotriva Greciei, Jürgen Klopp a demarat cu succes proiectul său de reconstrucție la cârma naționalei Germaniei. Deși debutul său pe teren propriu a fost marcat de un eșec, Klopp a declarat că este \"complet netulburat\" și că înfrângerile sunt doar \"informații\" din care se pot trage concluzii. Această abordare indică o viziune pe termen lung pentru readucerea \"Die Mannschaft\" în prim-planul fotbalului internațional și pregătirea pentru viitoarele competiții majore.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-17T17:24:02.372792+00:00",
-      "data_afisaj": "17 noiembrie 2026, 19:24"
-    },
-    {
-      "id": "6078beb9bbc8",
-      "titlu": "Antrenorul lui Blackburn, Tony Mowbray, se retrage din cauza problemelor de sănătate",
-      "rezumat": "Tony Mowbray, antrenorul principal al echipei Blackburn Rovers din Championship, a anunțat că se retrage temporar din funcție din cauza unor probleme de sănătate. Decizia a fost confirmată de club, care a precizat că Mowbray va lipsi pentru o perioadă nedeterminată. Această veste vine ca un șoc pentru fanii echipei, având în vedere importanța sa în conducerea tehnică. Clubul i-a urat însănătoșire grabnică și a confirmat că va anunța un înlocuitor interimar în curând.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-17T16:45:43.361711+00:00",
-      "data_afisaj": "17 noiembrie 2026, 18:45"
-    },
-    {
-      "id": "392af142b284",
-      "titlu": "Wayne Rooney a dezvăluit că a avut gânduri suicidare în perioada Manchester United",
-      "rezumat": "Fostul atacant al lui Manchester United și al naționalei Angliei, Wayne Rooney, a făcut o dezvăluire emoționantă, afirmând că a avut gânduri de a-și lua viața în timpul carierei sale la clubul de pe Old Trafford. El a declarat că a apelat la terapie pentru a gestiona presiunea și dificultățile psihologice cu care se confrunta. Această mărturisire subliniază importanța sănătății mintale în sportul de performanță și necesitatea sprijinului pentru sportivi.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-11-17T16:45:43.363275+00:00",
-      "data_afisaj": "17 noiembrie 2026, 18:45"
-    },
-    {
-      "id": "f8e173e31774",
-      "titlu": "Sarina Wiegman își prelungește contractul cu Anglia, noi convocări la naționala feminină",
-      "rezumat": "Antrenoarea naționalei feminine de fotbal a Angliei, Sarina Wiegman, și-a prelungit contractul până la finalul Campionatului European din 2029, citând potențialul tinerelor talente drept un factor cheie în decizia sa. În plus, Wiegman a anunțat primele convocări la echipa de senioare pentru atacanta Isobel Goodwin de la London City Lionesses și portarul Katie Cox, pentru meciurile de calificare la Cupa Mondială împotriva Ucrainei.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-17T16:45:43.364902+00:00",
-      "data_afisaj": "17 noiembrie 2026, 18:45"
-    },
-    {
-      "id": "650f689d3766",
-      "titlu": "Federația Engleză de Fotbal dorește să găzduiască finala Ligii Națiunilor",
-      "rezumat": "Oficialii Federației Engleze de Fotbal (FA) și-au exprimat interesul de a găzdui finalele Ligii Națiunilor în acest sezon. Anglia ar putea fi gazda turneului final, o decizie care ar aduce un eveniment major pe teren propriu. Această inițiativă reflectă dorința FA de a aduce competiții internaționale de prestigiu în țară, consolidând poziția Angliei pe harta fotbalului european.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-17T16:45:43.366338+00:00",
-      "data_afisaj": "17 noiembrie 2026, 18:45"
-    },
-    {
-      "id": "481b521d0af9",
-      "titlu": "Un bărbat a fost condamnat pentru abuz rasist la adresa lui Kylian Mbappé",
-      "rezumat": "Un bărbat a fost condamnat pentru o infracțiune de ură, după ce a adresat insulte rasiste atacantului lui Real Madrid, Kylian Mbappé, în timpul unui meci de La Liga disputat la Real Oviedo în 2025. Această condamnare reprezintă un pas important în lupta împotriva rasismului în fotbal, trimițând un mesaj clar că astfel de comportamente nu vor fi tolerate pe stadioane și vor fi sancționate conform legii.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-17T16:45:43.367868+00:00",
-      "data_afisaj": "17 noiembrie 2026, 18:45"
     }
   ]
 }
