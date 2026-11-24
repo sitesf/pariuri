@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-24T18:43:11.004209+00:00",
-  "updated_at_afisaj": "24 noiembrie 2026, 20:43",
+  "updated_at": "2026-11-24T19:20:41.741348+00:00",
+  "updated_at_afisaj": "24 noiembrie 2026, 21:20",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,41 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 125,
+  "numar_stiri": 128,
   "stiri": [
+    {
+      "id": "900bab79f65d",
+      "titlu": "Howard Webb explică decizia VAR privind presupusa tragere de tricou a lui Timber",
+      "rezumat": "Șeful arbitrilor, Howard Webb, a recunoscut că a fost o „verificare rapidă” de către VAR în cazul presupusei trageri de tricou a fundașului lui Arsenal, Jurrien Timber, asupra atacantului lui Liverpool, Alexander Isak. Incidentul, care a rămas nesancționat în victoria lui Arsenal pe Anfield, a stârnit discuții. Explicația lui Webb oferă o perspectivă asupra procesului decizional al VAR, subliniind rapiditatea cu care anumite faze sunt analizate în timpul meciurilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-11-24T19:20:41.737924+00:00",
+      "data_afisaj": "24 noiembrie 2026, 21:20"
+    },
+    {
+      "id": "ec0d52498168",
+      "titlu": "Kevin De Bruyne a avut dificultăți la Napoli înainte de a reveni la Manchester City",
+      "rezumat": "Transferul lui Kevin De Bruyne la Napoli, vara trecută, era menit să marcheze o continuare a deceniului său strălucitor la Manchester City, pe măsură ce se apropie de anii de final ai carierei. Cu toate acestea, jucătorul a întâmpinat dificultăți semnificative în Italia. Acum, la revenirea sa la Manchester City, se analizează motivele pentru care nu a reușit să se impună la Napoli, o situație neașteptată pentru un fotbalist de calibru său.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-24T19:20:41.739665+00:00",
+      "data_afisaj": "24 noiembrie 2026, 21:20"
+    },
+    {
+      "id": "5d7829a1e3e3",
+      "titlu": "Călătoriile lui Gianni Infantino cu jetul privat, sub lupa presei",
+      "rezumat": "Președintele FIFA, Gianni Infantino, se află sub observație intensă din cauza călătoriilor sale frecvente cu jetul privat. Analiza a relevat că, în 115 zile, Infantino a efectuat 39 de zboruri cu avioane private, în contextul planului său de a vinde o parte din drepturile Cupei Mondiale. Această practică a generat critici și întrebări legate de costuri și de impactul asupra mediului, adăugând presiune asupra conducerii FIFA.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-24T19:20:41.741331+00:00",
+      "data_afisaj": "24 noiembrie 2026, 21:20"
+    },
     {
       "id": "e9f4547834be",
       "titlu": "Millwall, sancționat cu închiderea parțială a stadionului după scandări discriminatorii",
