@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-24T02:47:34.152969+00:00",
-  "updated_at_afisaj": "24 noiembrie 2026, 04:47",
+  "updated_at": "2026-11-24T03:07:37.600495+00:00",
+  "updated_at_afisaj": "24 noiembrie 2026, 05:07",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 125,
+  "numar_stiri": 130,
   "stiri": [
+    {
+      "id": "5c9b85da9bec",
+      "titlu": "Kevin De Bruyne își reafirmă loialitatea față de Manchester City",
+      "rezumat": "Kevin De Bruyne a declarat că are \"dragoste\" pentru proprietarii lui Manchester City și că sentimentele sale față de club \"nu se vor schimba niciodată\", în ciuda faptului că echipa a fost găsită vinovată de încălcarea regulilor financiare ale Premier League. Mijlocașul belgian, o figură cheie pentru \"Cetățeni\", a subliniat angajamentul său continuu față de club, oferind un mesaj de stabilitate în contextul recentelor controverse financiare. Această declarație vine într-un moment important pentru City, care se confruntă cu presiuni externe.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-24T03:07:37.594892+00:00",
+      "data_afisaj": "24 noiembrie 2026, 05:07"
+    },
+    {
+      "id": "a033e16190ed",
+      "titlu": "Swindon îl demite pe managerul Ian Holloway după un start slab de sezon",
+      "rezumat": "Clubul Swindon Town a anunțat demiterea managerului Ian Holloway, după un început dezamăgitor în sezonul actual din League Two. Holloway, care a petrecut două sezoane la cârma echipei, nu a reușit să obțină rezultatele așteptate, ceea ce a dus la decizia conducerii de a opera o schimbare. Clubul va începe acum căutarea unui nou antrenor pentru a redresa parcursul echipei și a o scoate din zona inferioară a clasamentului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-24T03:07:37.596264+00:00",
+      "data_afisaj": "24 noiembrie 2026, 05:07"
+    },
+    {
+      "id": "95d15fd6c678",
+      "titlu": "Tottenham Hotspur confirmă un nou contract pe termen lung pentru Williams-Barnett",
+      "rezumat": "Tottenham Hotspur a anunțat că a ajuns la un acord cu jucătorul Williams-Barnett pentru un nou contract pe termen lung. Detaliile specifice ale înțelegerii nu au fost făcute publice, dar confirmarea indică planurile clubului de a-și asigura talentele pe viitor. Această mișcare subliniază strategia lui Spurs de a construi o echipă stabilă și competitivă, integrând jucători tineri sau promițători în planurile pe termen lung ale clubului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-11-24T03:07:37.597625+00:00",
+      "data_afisaj": "24 noiembrie 2026, 05:07"
+    },
+    {
+      "id": "54f55d32e89b",
+      "titlu": "Unai Emery nu își modifică planurile pentru Aston Villa în ciuda problemelor terenului de la Galatasaray",
+      "rezumat": "Antrenorul lui Aston Villa, Unai Emery, a declarat că nu își va schimba planurile tactice pentru meciul din Liga Campionilor împotriva lui Galatasaray, programat marți seară, în ciuda îngrijorărilor legate de starea terenului. Campioana Turciei a fost nevoită să mute recent un meci de acasă pentru a efectua reparații de urgență la suprafața de joc. Emery a subliniat că speră ca terenul să fie în condiții cât mai bune, dar echipa sa este pregătită să se adapteze oricăror condiții.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-24T03:07:37.599057+00:00",
+      "data_afisaj": "24 noiembrie 2026, 05:07"
+    },
+    {
+      "id": "ea27090de7a9",
+      "titlu": "Radu Drăgușin, integralist în înfrângerea drastică a echipei sale, Monza, împotriva Fiorentinei",
+      "rezumat": "Fundașul român Radu Drăgușin a fost integralist pentru echipa sa, Monza, în partida de campionat împotriva Fiorentinei, încheiată cu o înfrângere categorică, scor 3-0. Deși a jucat pe toată durata meciului, Drăgușin nu a putut împiedica \"dezastrul\" suferit de Monza, care a cedat fără drept de apel. Această performanță vine într-un moment dificil pentru echipa sa, care caută să își îmbunătățească rezultatele în Serie A.",
+      "categorie": "Fotbal",
+      "surse": [
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-11-24T03:07:37.600479+00:00",
+      "data_afisaj": "24 noiembrie 2026, 05:07"
+    },
     {
       "id": "1afbc489530c",
       "titlu": "Janelt marchează un gol superb, Brentford învinge Everton cu 10 oameni",
