@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-23T19:51:50.173358+00:00",
-  "updated_at_afisaj": "23 noiembrie 2026, 21:51",
+  "updated_at": "2026-11-24T02:47:34.152969+00:00",
+  "updated_at_afisaj": "24 noiembrie 2026, 04:47",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,66 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 129,
+  "numar_stiri": 125,
   "stiri": [
+    {
+      "id": "1afbc489530c",
+      "titlu": "Janelt marchează un gol superb, Brentford învinge Everton cu 10 oameni",
+      "rezumat": "Urmărește momentele cheie în victoria confortabilă cu 3-0 a lui Brentford împotriva lui Everton cu 10 oameni în Premier League, incluzând un gol superb marcat de Vitaly Janelt.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-24T02:47:24.467334+00:00",
+      "data_afisaj": "24 noiembrie 2026, 04:47"
+    },
+    {
+      "id": "440d6edaa252",
+      "titlu": "Accidentarea lui Raya 'nu este prea gravă', spune Arteta ușurat",
+      "rezumat": "Mikel Arteta a dezvăluit că accidentarea la umăr a lui David Raya nu este atât de gravă pe cât se temea inițial, dar nu este sigur când portarul lui Arsenal va reveni pe teren.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-24T02:47:24.468754+00:00",
+      "data_afisaj": "24 noiembrie 2026, 04:47"
+    },
+    {
+      "id": "10d7ade151af",
+      "titlu": "Primul cartonaș roșu al lui Tarkowski în Premier League ruinează seara lui Moyes - a fost meritat?",
+      "rezumat": "Căpitanul lui Everton, James Tarkowski, a fost eliminat pentru prima dată în cariera sa în Premier League în înfrângerea de luni cu 4-0 la Brentford - dar a fost o decizie dură?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-24T02:47:24.470256+00:00",
+      "data_afisaj": "24 noiembrie 2026, 04:47"
+    },
+    {
+      "id": "baa918aab289",
+      "titlu": "'Nimeni nu vine să ne salveze' - dar cum se poate salva Man Utd?",
+      "rezumat": "Cum poate Mauricio Pochettino să oprească declinul disperat al lui Manchester United către coada clasamentului Premier League",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-24T02:47:24.471784+00:00",
+      "data_afisaj": "24 noiembrie 2026, 04:47"
+    },
+    {
+      "id": "50087c4c456f",
+      "titlu": "Cine a intrat în echipa săptămânii din Premier League a lui Troy?",
+      "rezumat": "După fiecare rundă de meciuri din Premier League din acest sezon, Troy Deeney ne prezintă echipa sa a săptămânii. Ești de acord cu alegerile sale?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-24T02:47:24.473189+00:00",
+      "data_afisaj": "24 noiembrie 2026, 04:47"
+    },
     {
       "id": "fc8650e0bed2",
       "titlu": "Regatul Unit va găzdui Cupa Mondială de Fotbal Feminin din 2035",
@@ -1382,106 +1440,6 @@
       ],
       "data_publicare": "2026-11-17T16:45:43.367868+00:00",
       "data_afisaj": "17 noiembrie 2026, 18:45"
-    },
-    {
-      "id": "e323aae69d09",
-      "titlu": "Trafford l-a înlocuit pe Pickford ca Anglia nr. 1?",
-      "rezumat": "Lui James Trafford i s-a oferit șansa de a-și revendica pretenția ca noul număr unu al Angliei - și în deplasare la campionii mondiali, a acceptat-o ​​cu siguranță.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-11-17T00:35:19.232696+00:00",
-      "data_afisaj": "17 noiembrie 2026, 02:35"
-    },
-    {
-      "id": "7cf05a66c58b",
-      "titlu": "Pocognoli vrea răbdare, dar Scoția „nu are timp”, spune Robertson",
-      "rezumat": "Căpitanul supărat Andy Robertson spune că Scoția nu are timp să întoarcă lucrurile după ce o înfrângere brutală cu 4-0 în fața Elveției ia adus pe locul trei în grupa din Liga Națiunilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-17T00:35:19.233903+00:00",
-      "data_afisaj": "17 noiembrie 2026, 02:35"
-    },
-    {
-      "id": "5752f221f6f1",
-      "titlu": "Cum poate Frank să restabilească reputația și să salveze Crystal Palace",
-      "rezumat": "Își va reconstrui Thomas Frank – acum confirmat ca noul antrenor al Crystal Palace – reputația la Selhurst Park după o perioadă de vânătăi la Tottenham?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-17T00:35:19.234962+00:00",
-      "data_afisaj": "17 noiembrie 2026, 02:35"
-    },
-    {
-      "id": "96b178df9080",
-      "titlu": "Robertson îl eclipsează pe Dalglish pentru a deveni bărbatul cu cel mai mare nivel al Scoției",
-      "rezumat": "Andy Robertson l-a preluat pe Kenny Dalglish ca jucător cu cele mai multe selecții ale Scoției, făcând a 103-a apariție în meciul de luni din Liga Națiunilor împotriva Elveției.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-17T00:35:19.236002+00:00",
-      "data_afisaj": "17 noiembrie 2026, 02:35"
-    },
-    {
-      "id": "2ec45612b51e",
-      "titlu": "Man Utd va resuscita interesul Hall - bârfa de marți",
-      "rezumat": "Manchester United s-ar putea lupta pentru a-l premia pe fundașul Lewis Hall de la Newcastle, mijlocașul Arsenal Martin Zubimendi se gândește la viitorul său, Chelsea se gândește la o dublă lovitură pentru duoul Barcelona, ​​plus multe altele.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-17T00:35:19.237034+00:00",
-      "data_afisaj": "17 noiembrie 2026, 02:35"
-    },
-    {
-      "id": "0b8c544792b2",
-      "titlu": "Elveția învinge categoric Scoția, presiune crescută pe antrenorul Pocognoli",
-      "rezumat": "Echipa națională a Scoției a suferit o înfrângere dureroasă cu 4-0 în fața Elveției, o echipă formată în mare parte din rezerve, în Liga Națiunilor. Acest rezultat a generat noi semne de întrebare privind capacitatea lui Sébastien Pocognoli de a gestiona echipa, după ce Federația Scoțiană de Fotbal i-a acordat încredere. Căpitanul Andy Robertson, care a devenit cel mai selecționat jucător din istoria Scoției la acest meci, a exprimat frustrarea echipei, subliniind că nu mai este timp pentru a redresa situația.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-17T00:03:27.478528+00:00",
-      "data_afisaj": "17 noiembrie 2026, 02:03"
-    },
-    {
-      "id": "3e6a9fad45e4",
-      "titlu": "Spania suferă o înfrângere rară, dar De la Fuente rămâne optimist",
-      "rezumat": "Naționala Spaniei a înregistrat o înfrângere rară duminică seară, punând capăt unei serii impresionante de un singur eșec în meciurile competitive din martie 2023. Antrenorul Luis de la Fuente, care anterior declarase că \"fiecare meci aduce înfrângerea mai aproape\", a recunoscut dezamăgirea, dar a subliniat că echipa este mândră de parcursul său. În ciuda acestui pas înapoi, atât antrenorul, cât și jucătorii și presa spaniolă își mențin încrederea într-un viitor luminos pentru fotbalul spaniol.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-17T00:03:27.480487+00:00",
-      "data_afisaj": "17 noiembrie 2026, 02:03"
-    },
-    {
-      "id": "5f2f16437725",
-      "titlu": "Declan Rice a acceptat verbal un nou contract cu Arsenal",
-      "rezumat": "Declan Rice, mijlocașul central al lui Arsenal, a ajuns la un acord verbal pentru un nou contract pe termen lung cu clubul londonez. Anunțul a fost făcut de Sky Sports News, confirmând angajamentul jucătorului față de \"Tunari\". Această înțelegere vine după ce Rice a fost considerat o investiție strategică de peste 100 de milioane de lire sterline de către proprietarii clubului, familia Kroenke, care au dorit să se asigure de valoarea pe termen lung a jucătorului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-11-17T00:03:27.481844+00:00",
-      "data_afisaj": "17 noiembrie 2026, 02:03"
-    },
-    {
-      "id": "218bb44f4e70",
-      "titlu": "Strategia de transfer a lui Liverpool pentru ianuarie, fără înlocuitori pentru Van Dijk",
-      "rezumat": "Clubul Liverpool nu intenționează să caute înlocuitori pe piața transferurilor pentru Virgil van Dijk, nici în fereastra de transferuri din ianuarie, nici în vara următoare. Această decizie vine în ciuda unor acuzații privind componența actuală a lotului. Strategia clubului sugerează o încredere în resursele interne și în jucătorii existenți pentru a acoperi eventualele absențe sau pentru a gestiona dinamica echipei, fără a recurge la achiziții majore pentru poziția respectivă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-11-17T00:03:27.483445+00:00",
-      "data_afisaj": "17 noiembrie 2026, 02:03"
     }
   ]
 }
