@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-25T17:51:39.980343+00:00",
-  "updated_at_afisaj": "25 noiembrie 2026, 19:51",
+  "updated_at": "2026-11-25T18:26:13.801659+00:00",
+  "updated_at_afisaj": "25 noiembrie 2026, 20:26",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 124,
+  "numar_stiri": 129,
   "stiri": [
+    {
+      "id": "beb98cf0fa4b",
+      "titlu": "Situația lui Alejandro Garnacho la Aston Villa, sub semnul întrebării",
+      "rezumat": "Atacantul argentinian Alejandro Garnacho, împrumutat de Aston Villa de la Manchester United în vară, se confruntă cu dificultăți la noua sa echipă. Managerul Unai Emery pare să nu aibă încredere deplină în aripa tânără, lăsându-l pe bancă în ciuda problemelor ofensive ale echipei. Această situație ridică semne de întrebare cu privire la viitorul său la club și la planurile lui Emery pentru jucător, sugerând o posibilă lipsă de integrare în viziunea tehnică actuală.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-11-25T18:26:13.795076+00:00",
+      "data_afisaj": "25 noiembrie 2026, 20:26"
+    },
+    {
+      "id": "1c35912b9d62",
+      "titlu": "Lincoln City demite antrenorii principali Cohen și Shaw după șase luni",
+      "rezumat": "Clubul Lincoln City a anunțat demiterea antrenorilor principali Chris Cohen și Tom Shaw, la doar șase luni după ce aceștia au preluat conducerea echipei din Championship. Decizia vine în urma unei perioade de rezultate nesatisfăcătoare, care a determinat conducerea clubului să caute o nouă direcție tehnică. Această schimbare rapidă subliniază presiunea constantă din fotbalul englez și necesitatea obținerii performanțelor imediate.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-25T18:26:13.796745+00:00",
+      "data_afisaj": "25 noiembrie 2026, 20:26"
+    },
+    {
+      "id": "65aa95ad9435",
+      "titlu": "Antrenorul lui Nottingham Forest critică jucătorii care nu vorbesc engleza",
+      "rezumat": "Oliver Glasner, managerul echipei Nottingham Forest, și-a exprimat public nemulțumirea față de unii jucători din lotul său care nu au învățat limba engleză, deși se află în țară de mai mulți ani. Glasner a subliniat importanța comunicării eficiente în cadrul echipei și a pus sub semnul întrebării profesionalismul celor vizați. Această situație internă ar putea afecta coeziunea grupului și performanța pe teren, fiind un aspect esențial pentru integrarea jucătorilor străini.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-25T18:26:13.798423+00:00",
+      "data_afisaj": "25 noiembrie 2026, 20:26"
+    },
+    {
+      "id": "4f6c2cb53cfb",
+      "titlu": "Leicester City nu mai este de vânzare, proprietarul își reconfirmă angajamentul",
+      "rezumat": "Khun Aiyawatt 'Top' Srivaddhanaprabha, proprietarul clubului Leicester City, a confirmat că echipa, fostă campioană a Premier League, nu mai este scoasă la vânzare. Această declarație vine să clarifice speculațiile recente privind o posibilă tranzacție și reconfirmă angajamentul pe termen lung al actualei conduceri față de viitorul clubului. Decizia oferă stabilitate și liniște fanilor, asigurând continuitatea proiectului sportiv.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-25T18:26:13.800119+00:00",
+      "data_afisaj": "25 noiembrie 2026, 20:26"
+    },
+    {
+      "id": "d16becadb81f",
+      "titlu": "Hajime Moriyasu părăsește postul de selecționer al Japoniei",
+      "rezumat": "Hajime Moriyasu va părăsi funcția de selecționer al echipei naționale de fotbal a Japoniei mai devreme decât era prevăzut, în urma amânării Cupei Asiei. Deși sub conducerea sa Japonia a înregistrat progrese notabile, existau așteptări mai mari în privința rezultatelor la Cupele Mondiale. Plecarea sa marchează sfârșitul unei ere de opt ani la cârma \"Samurai Blue\", deschizând calea pentru o nouă direcție tehnică a naționalei asiatice.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-25T18:26:13.801641+00:00",
+      "data_afisaj": "25 noiembrie 2026, 20:26"
+    },
     {
       "id": "19c138b0c1c5",
       "titlu": "Raheem Sterling a primit o sentință cu suspendare pentru conducere periculoasă",
