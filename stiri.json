@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-25T00:27:24.893152+00:00",
-  "updated_at_afisaj": "25 noiembrie 2026, 02:27",
+  "updated_at": "2026-11-25T01:13:24.902020+00:00",
+  "updated_at_afisaj": "25 noiembrie 2026, 03:13",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,65 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 124,
+  "numar_stiri": 129,
   "stiri": [
+    {
+      "id": "b55ebb6f9476",
+      "titlu": "Cartonașul roșu al lui Leny Yoro a fost anulat; Pochettino critică arbitrajul din Premier League",
+      "rezumat": "Fundașul lui Manchester United, Leny Yoro, a fost declarat eligibil pentru meciul cu Brentford, după ce cartonașul roșu primit în partida cu Liverpool a fost anulat. Decizia Asociației de Fotbal a confirmat că eliminarea a fost o „greșeală”. Cu toate acestea, antrenorul Mauricio Pochettino și-a exprimat furia față de modul în care a fost gestionată situația de către VAR și șeful arbitrilor, Howard Webb, criticând arbitrajul din Premier League. Pochettino a subliniat că, deși există tehnologie avansată, este nevoie de un nivel corespunzător de expertiză pentru a o utiliza corect.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-25T01:13:24.895320+00:00",
+      "data_afisaj": "25 noiembrie 2026, 03:13"
+    },
+    {
+      "id": "bf32b1d27f40",
+      "titlu": "Jude Bellingham minimalizează comparațiile cu Zinedine Zidane după un gol spectaculos",
+      "rezumat": "Mijlocașul lui Real Madrid, Jude Bellingham, a reacționat cu modestie la laudele primite după un gol impresionant, inclusiv la declarația lui Jose Mourinho care l-a numit cel mai bun mijlocaș din lume. Bellingham a minimalizat comparațiile cu legenda franceză Zinedine Zidane, insistând că își dorește să-și creeze propria identitate în fotbal. Performanțele sale recente au stârnit entuziasm, dar tânărul star rămâne concentrat pe evoluția sa și pe contribuția adusă echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-25T01:13:24.897074+00:00",
+      "data_afisaj": "25 noiembrie 2026, 03:13"
+    },
+    {
+      "id": "d341e48c2c1c",
+      "titlu": "Mikel Arteta consideră că Arsenal are nevoie de mai mult noroc pentru a închide meciurile",
+      "rezumat": "Managerul lui Arsenal, Mikel Arteta, a declarat că echipa sa are nevoie de mai mult noroc pentru a-și asigura victoriile, după ce a fost egalată de Borussia Dortmund în Liga Campionilor. Arsenal a condus la pauză, dar nu a reușit să mențină avantajul, permițând adversarilor să revină. Arteta a subliniat importanța de a fi mai decisivi în fața porții și de a gestiona mai bine momentele cheie ale partidelor, pentru a evita pierderea punctelor în situații avantajoase.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-25T01:13:24.898734+00:00",
+      "data_afisaj": "25 noiembrie 2026, 03:13"
+    },
+    {
+      "id": "7d1b933f34e8",
+      "titlu": "Erling Haaland își exprimă frustrarea față de forma slabă a lui Manchester City",
+      "rezumat": "Atacantul norvegian Erling Haaland a recunoscut că forma recentă modestă a lui Manchester City afectează moralul jucătorilor. După remiza 2-2 cu Napoli în Liga Campionilor, Haaland a declarat că „atunci când nu câștigi, pui totul sub semnul întrebării”. Declarațiile sale subliniază presiunea și frustrarea din vestiarul campioanei en-titre, care pare să-și piardă din fluiditate și eficiență în joc. Echipa se confruntă cu o perioadă dificilă, iar Haaland speră la o revenire rapidă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-11-25T01:13:24.900353+00:00",
+      "data_afisaj": "25 noiembrie 2026, 03:13"
+    },
+    {
+      "id": "4debff099023",
+      "titlu": "Bayern Munchen poartă discuții constructive despre starea de sănătate a lui Jamal Musiala",
+      "rezumat": "Directorul sportiv al lui Bayern Munchen, Max Eberl, a confirmat că clubul se concentrează exclusiv pe recuperarea lui Jamal Musiala după accidentare. Eberl a subliniat că discuțiile privind starea de sănătate a jucătorului sunt constructive și că nu sunt interesați de speculațiile legate de contractul său. Prioritatea este readucerea lui Musiala pe teren în cea mai bună formă fizică, pentru a contribui la obiectivele echipei, ignorând zvonurile din jurul situației sale contractuale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-25T01:13:24.902000+00:00",
+      "data_afisaj": "25 noiembrie 2026, 03:13"
+    },
     {
       "id": "54ed393c830f",
       "titlu": "Rezultate din Liga Campionilor: Real Madrid, Arsenal și Manchester City în acțiune",
