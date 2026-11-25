@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-24T19:20:41.741348+00:00",
-  "updated_at_afisaj": "24 noiembrie 2026, 21:20",
+  "updated_at": "2026-11-25T00:27:24.893152+00:00",
+  "updated_at_afisaj": "25 noiembrie 2026, 02:27",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,55 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 128,
+  "numar_stiri": 124,
   "stiri": [
+    {
+      "id": "54ed393c830f",
+      "titlu": "Rezultate din Liga Campionilor: Real Madrid, Arsenal și Manchester City în acțiune",
+      "rezumat": "Real Madrid a obținut o victorie categorică, scor 5-1, împotriva echipei PSV Eindhoven în Liga Campionilor. Într-un alt meci important al serii, Arsenal a remizat 1-1 pe teren propriu cu Borussia Dortmund, în timp ce Manchester City a încheiat la egalitate, 2-2, partida disputată acasă împotriva lui Napoli. Aceste rezultate marchează o seară plină de evenimente în cea mai prestigioasă competiție europeană intercluburi, cu echipe românești precum Como și AEK, unde Răzvan Marin a fost integralist.",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-11-25T00:27:24.887930+00:00",
+      "data_afisaj": "25 noiembrie 2026, 02:27"
+    },
+    {
+      "id": "7786c6e79635",
+      "titlu": "Aston Villa își continuă seria fără victorie după înfrângerea cu Galatasaray în Liga Campionilor",
+      "rezumat": "Aston Villa a suferit o înfrângere cu scorul de 1-0 în fața echipei Galatasaray, în faza grupelor Ligii Campionilor, extinzându-și astfel seria de meciuri fără victorie la șase partide. Golul decisiv a fost marcat de Deniz Gul în minutele târzii ale jocului, printr-o lovitură de cap. Rezultatul menține presiunea asupra echipei engleze, care nu a reușit să găsească o formulă câștigătoare în ultimele confruntări europene, continuând o perioadă dificilă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-25T00:27:24.889647+00:00",
+      "data_afisaj": "25 noiembrie 2026, 02:27"
+    },
+    {
+      "id": "504297053a08",
+      "titlu": "Rangers reduce diferența față de Celtic în Premiership după o victorie dramatică",
+      "rezumat": "Echipa Rangers a reușit să reducă diferența de puncte față de liderul Celtic în cursa pentru titlul din Premiership-ul scoțian, după o victorie dramatică într-un meci cu cinci goluri împotriva formației Aberdeen. Într-o confruntare plină de suspans, Rangers a revenit spectaculos, asigurându-și cele trei puncte și ajungând la doar un punct în spatele rivalilor de la Celtic. Rezultatul intensifică lupta pentru titlu în campionatul scoțian, promițând un final de sezon tensionat.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-11-25T00:27:24.891493+00:00",
+      "data_afisaj": "25 noiembrie 2026, 02:27"
+    },
+    {
+      "id": "f769a73cb279",
+      "titlu": "Preston părăsește ultima poziție în Championship după o victorie categorică împotriva lui Cardiff",
+      "rezumat": "Preston North End a înregistrat o victorie impresionantă cu scorul de 4-0 în deplasare împotriva lui Cardiff City, punând capăt seriei de invincibilitate a galezilor pe teren propriu. Acest triumf a propulsat echipa lui Preston de pe ultima poziție a clasamentului din Championship, marcând o revigorare sub conducerea noului antrenor Graham Alexander. Rezultatul este crucial pentru aspirațiile de salvare ale clubului în liga a doua engleză și oferă un impuls moral semnificativ.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-25T00:27:24.893135+00:00",
+      "data_afisaj": "25 noiembrie 2026, 02:27"
+    },
     {
       "id": "900bab79f65d",
       "titlu": "Howard Webb explică decizia VAR privind presupusa tragere de tricou a lui Timber",
@@ -1376,102 +1423,6 @@
       ],
       "data_publicare": "2026-11-18T16:16:39.648865+00:00",
       "data_afisaj": "18 noiembrie 2026, 18:16"
-    },
-    {
-      "id": "bc9780ddac5d",
-      "titlu": "Troy Parrott, eroul calificării Irlandei în play-off-ul Ligii Națiunilor",
-      "rezumat": "Atacantul Troy Parrott a avut o performanță decisivă, marcând două goluri din penalty, care au asigurat calificarea Republicii Irlanda în play-off-ul Ligii Națiunilor, după victoria cu 3-0 împotriva Kosovo. Parrott a reflectat asupra unui an remarcabil, transformator atât pentru cariera sa la club, cât și pentru cea internațională, consolidându-și poziția de jucător cheie pentru echipa națională. Această performanță subliniază importanța sa în obținerea unui loc în faza eliminatorie a competiției.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-11-17T23:42:50.560855+00:00",
-      "data_afisaj": "18 noiembrie 2026, 01:42"
-    },
-    {
-      "id": "b61f9452fc2a",
-      "titlu": "Ralph Brand, legenda clubului Rangers, a decedat la vârsta de 89 de ani",
-      "rezumat": "Clubul scoțian Rangers a anunțat cu tristețe decesul lui Ralph Brand, la vârsta de 89 de ani. Brand a fost o figură emblematică și unul dintre cei mai prolifici marcatori din istoria clubului, contribuind semnificativ la succesele echipei de-a lungul anilor. Vestea morții sale a adus un val de omagii din partea fanilor și a comunității fotbalistice, marcând o pierdere importantă pentru patrimoniul sportiv al Scoției.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-17T23:42:50.562537+00:00",
-      "data_afisaj": "18 noiembrie 2026, 01:42"
-    },
-    {
-      "id": "60ba273ea9a6",
-      "titlu": "JJ Gabriel confirmă plecarea de la Manchester United, cu destinația Real Madrid",
-      "rezumat": "Tânărul jucător JJ Gabriel a anunțat oficial despărțirea de Manchester United printr-un mesaj emoționant postat pe rețelele sociale, în contextul unei mutări iminente la Real Madrid. Gabriel, care s-a alăturat \"Diavolilor Roșii\" la vârsta de 10 ani, a transmis că clubul englez va rămâne mereu o parte importantă din povestea sa. Această plecare marchează un nou capitol în cariera promițătoare a adolescentului, care se pregătește să facă pasul către gigantul spaniol.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-17T23:42:50.564125+00:00",
-      "data_afisaj": "18 noiembrie 2026, 01:42"
-    },
-    {
-      "id": "07d8a03a1f43",
-      "titlu": "Rooney spune că s-a gândit să-și ia viața la Man Utd",
-      "rezumat": "Wayne Rooney spune că s-a gândit să-și ia viața în timpul zilelor sale de joc la Manchester United și că „vorbea cu un terapeut pentru a încerca să-și dea seama ce s-a întâmplat”.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-17T23:24:05.843485+00:00",
-      "data_afisaj": "18 noiembrie 2026, 01:24"
-    },
-    {
-      "id": "5ea096244c6e",
-      "titlu": "Câștigătorul Arsenal Double Storey a murit la vârsta de 81 de ani",
-      "rezumat": "Fostul mijlocaș de la Arsenal și Anglia Peter Storey - care i-a ajutat pe Gunners să câștige dubla în 1970-71 - a murit la vârsta de 81 de ani.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-17T23:24:05.844464+00:00",
-      "data_afisaj": "18 noiembrie 2026, 01:24"
-    },
-    {
-      "id": "2496f7ead240",
-      "titlu": "FA vrea să găzduiască finala Ligii Națiunilor în Anglia",
-      "rezumat": "Anglia ar putea găzdui finala Ligii Națiunilor în acest sezon, după ce oficialii Asociației de Fotbal își înregistrează interesul.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-11-17T23:24:05.845398+00:00",
-      "data_afisaj": "18 noiembrie 2026, 01:24"
-    },
-    {
-      "id": "bb3922fbc53a",
-      "titlu": "Irlanda de Nord a promovat în topul Ligii Națiunilor, cu remiza în Ungaria",
-      "rezumat": "Lovitura superbă a lui Justin Devenny a făcut ca Irlanda de Nord să câștige promovarea în clasamentul superior al Ligii Națiunilor printr-o remiză 1-1 foarte luptată în deplasare împotriva celei mai apropiate rivale, Ungaria, la Budapesta.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-17T23:24:05.846400+00:00",
-      "data_afisaj": "18 noiembrie 2026, 01:24"
-    },
-    {
-      "id": "81248548cbd3",
-      "titlu": "DECLARAȚII Gică Hagi, reacție de mare caracter! Ce a spus public după ce a văzut gafa lui Andrei Rațiu din Bosnia – România",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-11-17T23:24:05.847730+00:00",
-      "data_afisaj": "18 noiembrie 2026, 01:24"
     }
   ]
 }
