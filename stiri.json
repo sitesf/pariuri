@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-25T01:13:24.902020+00:00",
-  "updated_at_afisaj": "25 noiembrie 2026, 03:13",
+  "updated_at": "2026-11-25T17:51:39.980343+00:00",
+  "updated_at_afisaj": "25 noiembrie 2026, 19:51",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,66 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 129,
+  "numar_stiri": 124,
   "stiri": [
+    {
+      "id": "19c138b0c1c5",
+      "titlu": "Raheem Sterling a primit o sentință cu suspendare pentru conducere periculoasă",
+      "rezumat": "Fostul internațional englez Raheem Sterling a fost condamnat la o pedeapsă de 12 luni de închisoare cu suspendare, după ce a pledat vinovat pentru conducere periculoasă și posesie de protoxid de azot. Incidentul a implicat un Lamborghini pe autostradă. Sentința, suspendată pentru 18 luni, înseamnă că Sterling va evita închisoarea, dar va trebui să efectueze muncă în folosul comunității. Această decizie vine la 14 ani după debutul său în Premier League, marcând un moment dificil în cariera sa personală și publică.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-25T17:51:39.976138+00:00",
+      "data_afisaj": "25 noiembrie 2026, 19:51"
+    },
+    {
+      "id": "13b8f3b37cfb",
+      "titlu": "Fondul de Investiții Public al Arabiei Saudite intenționează să vândă 25% din acțiunile Newcastle United",
+      "rezumat": "Fondul de Investiții Public (PIF) al Arabiei Saudite, proprietarul clubului Newcastle United, explorează posibilitatea de a vinde până la 25% din acțiunile clubului printr-o emisiune de noi acțiuni. Banca JP Morgan a fost desemnată să gestioneze vânzarea, care are ca scop atragerea de investiții pentru finanțarea proiectelor de infrastructură ale clubului. Această mișcare ar putea aduce capital suplimentar necesar pentru dezvoltarea pe termen lung a echipei și a facilităților sale, fiind considerată o veste pozitivă pentru fanii clubului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-11-25T17:51:39.977266+00:00",
+      "data_afisaj": "25 noiembrie 2026, 19:51"
+    },
+    {
+      "id": "ebbe4dd7a88b",
+      "titlu": "Pep Guardiola își dorește să antreneze o echipă națională în viitor",
+      "rezumat": "Antrenorul Pep Guardiola a declarat că următorul său rol în fotbal va fi la conducerea unei echipe naționale. Într-un interviu acordat fostului său coechipier de la Barcelona, Romario, Guardiola a menționat că nu știe când se va întoarce pe bancă, dar a subliniat că antrenarea unei selecționate reprezintă \"următorul pas\" în cariera sa. Această declarație vine în contextul speculațiilor privind o posibilă legătură cu echipa națională a Statelor Unite. Anterior, Guardiola a refuzat o ofertă din partea Italiei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-25T17:51:39.978241+00:00",
+      "data_afisaj": "25 noiembrie 2026, 19:51"
+    },
+    {
+      "id": "c152409ee624",
+      "titlu": "Postul lui Enzo Maresca la Manchester City, sub semnul întrebării după o serie de rezultate slabe",
+      "rezumat": "Viitorul lui Enzo Maresca pe banca tehnică a echipei Manchester City este incert, conform unui raport recent. Deși a avut un început promițător la conducerea clubului, forma slabă înregistrată în ultima perioadă a determinat conducerea să ia în considerare poziția antrenorului italian. Speculațiile privind o posibilă demitere au apărut pe fondul performanțelor sub așteptări, punând presiune asupra lui Maresca de a redresa situația rapid pentru a-și păstra postul la campioana en-titre. Situația actuală contrastează cu startul bun de sezon.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-11-25T17:51:39.979346+00:00",
+      "data_afisaj": "25 noiembrie 2026, 19:51"
+    },
+    {
+      "id": "00c9d523b37d",
+      "titlu": "Edward Iordănescu a fost numit noul antrenor principal al echipei Watford",
+      "rezumat": "Clubul englez Watford, care evoluează în Championship, l-a numit pe Edward Iordănescu, fostul selecționer al României, în funcția de antrenor principal. Numirea vine după demiterea lui Alessio Dionisi. Iordănescu preia o echipă cu ambiții de promovare în Premier League și va avea sarcina de a stabiliza performanțele și de a construi o strategie pe termen lung. Aceasta reprezintă o nouă provocare importantă în cariera antrenorului român, marcând revenirea sa în fotbalul de club la un nivel competitiv în Anglia.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-25T17:51:39.980330+00:00",
+      "data_afisaj": "25 noiembrie 2026, 19:51"
+    },
     {
       "id": "b55ebb6f9476",
       "titlu": "Cartonașul roșu al lui Leny Yoro a fost anulat; Pochettino critică arbitrajul din Premier League",
@@ -1370,116 +1428,6 @@
       ],
       "data_publicare": "2026-11-18T22:52:33.250693+00:00",
       "data_afisaj": "19 noiembrie 2026, 00:52"
-    },
-    {
-      "id": "ade82ef32c28",
-      "titlu": "Mauricio Pochettino promite să readucă Manchester United în topul orașului",
-      "rezumat": "Noul antrenor al echipei Manchester United, Mauricio Pochettino, a declarat că intenționează să restabilească supremația clubului în oraș, transformându-l din nou în cea mai de succes formație de fotbal din Manchester. Această declarație vine într-un context în care echipa se confruntă cu un început de sezon dificil, iar fanii așteaptă cu nerăbdare o schimbare de direcție sub conducerea tehnicianului argentinian, care își propune să readucă gloria pe Old Trafford.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-18T16:57:28.455820+00:00",
-      "data_afisaj": "18 noiembrie 2026, 18:57"
-    },
-    {
-      "id": "604d4f0ff660",
-      "titlu": "Manchester United este gata să-l susțină pe Pochettino pe piața transferurilor din ianuarie",
-      "rezumat": "Conducerea clubului Manchester United este de așteptat să-i ofere sprijin financiar antrenorului Mauricio Pochettino în fereastra de transferuri din ianuarie. Această decizie vine în contextul unui început de sezon dezamăgitor și are ca scop consolidarea lotului pentru a redresa parcursul echipei. Se anticipează că Pochettino va avea la dispoziție fonduri pentru a aduce jucători care să contribuie la îmbunătățirea performanțelor și la îndeplinirea obiectivelor clubului în a doua parte a sezonului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-11-18T16:57:28.457084+00:00",
-      "data_afisaj": "18 noiembrie 2026, 18:57"
-    },
-    {
-      "id": "10900418989b",
-      "titlu": "Număr record de erori de arbitraj în ultima etapă din Premier League",
-      "rezumat": "Comisia pentru Incidente Cheie din Premier League a confirmat șase erori de arbitraj pe teren în ultima rundă de meciuri, marcând un record comun pentru cel mai mare număr de greșeli într-un singur weekend. Această constatare subliniază presiunea tot mai mare asupra arbitrilor și intensifică dezbaterile privind calitatea deciziilor în cel mai important campionat de fotbal din Anglia. Incidentele au stârnit controverse și au afectat rezultatele unor partide cruciale, atrăgând atenția asupra necesității îmbunătățirii sistemului de arbitraj.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-18T16:57:28.458197+00:00",
-      "data_afisaj": "18 noiembrie 2026, 18:57"
-    },
-    {
-      "id": "44345b6d667e",
-      "titlu": "Interdicția transmisiunilor de fotbal de sâmbătă la ora 15:00: O regulă depășită sau încă relevantă?",
-      "rezumat": "După 60 de ani de aplicare, se pune tot mai mult problema dacă interdicția transmiterii meciurilor de fotbal de sâmbătă, la ora 15:00 (ora locală), mai este relevantă în anul 2026. Această regulă, menită să încurajeze prezența spectatorilor pe stadioane, este acum subiectul unor dezbateri intense, mulți considerând-o depășită în era digitală și a accesului facil la conținut sportiv. Viitorul acestei măsuri ar putea redefini modul în care fanii interacționează cu fotbalul englez.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-18T16:57:28.459447+00:00",
-      "data_afisaj": "18 noiembrie 2026, 18:57"
-    },
-    {
-      "id": "b6fe443bc659",
-      "titlu": "Arsenal, dispusă să vândă jucători pentru a-l transfera pe Alex Scott",
-      "rezumat": "Clubul Arsenal este una dintre cele trei echipe de top din Premier League interesate de transferul mijlocașului englez Alex Scott de la Bournemouth. Pentru a-și asigura serviciile jucătorului și a concura cu rivali precum Chelsea și Liverpool, Arsenal ar fi dispusă să realizeze vânzări de jucători din lotul actual. Această strategie subliniază intenția clubului de a-și consolida echipa cu talente noi și de a-și menține competitivitatea în lupta pentru titlu și calificarea în competițiile europene.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-11-18T16:57:28.460590+00:00",
-      "data_afisaj": "18 noiembrie 2026, 18:57"
-    },
-    {
-      "id": "406bd7ee50b1",
-      "titlu": "Fostul mijlocaș spaniol Juan Mata se retrage din activitate la 38 de ani",
-      "rezumat": "Juan Mata, fostul mijlocaș internațional spaniol, cunoscut pentru perioadele petrecute la cluburi de top precum Chelsea și Manchester United în Premier League, și-a anunțat retragerea din fotbalul profesionist la vârsta de 38 de ani. Mata, un jucător apreciat pentru viziunea sa de joc și abilitățile tehnice, încheie o carieră impresionantă, marcată de numeroase trofee, inclusiv Liga Campionilor și Cupa Mondială. Anunțul său marchează sfârșitul unei ere pentru unul dintre cei mai eleganți fotbaliști spanioli ai generației sale.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-18T16:16:39.643968+00:00",
-      "data_afisaj": "18 noiembrie 2026, 18:16"
-    },
-    {
-      "id": "06bbe306b8d3",
-      "titlu": "Manchester City a fost găsită vinovată, clubul a depus apel",
-      "rezumat": "Revista World Soccer din noiembrie 2026 relatează că Manchester City a fost găsită vinovată în cazul acuzațiilor care i-au fost aduse, o decizie care a stârnit un interes considerabil în lumea fotbalului. Clubul a confirmat că a depus deja un apel împotriva verdictului, indicând o luptă juridică continuă. Această situație are implicații majore pentru viitorul clubului și pentru integritatea competițiilor, generând dezbateri intense printre analiști și fani.",
-      "categorie": "Fotbal",
-      "surse": [
-        "World Soccer"
-      ],
-      "data_publicare": "2026-11-18T16:16:39.645173+00:00",
-      "data_afisaj": "18 noiembrie 2026, 18:16"
-    },
-    {
-      "id": "909bdbd8414d",
-      "titlu": "Bătălia pentru drepturile TV ale Cupei Mondiale 2030 în SUA ar putea reconfigura sportul live",
-      "rezumat": "O licitație de 2 miliarde de dolari pentru drepturile de televiziune ale Cupei Mondiale din 2030 în Statele Unite se anunță a fi o confruntare majoră între radiodifuzorii tradiționali, precum Fox, și platformele de streaming, precum Netflix. Experții din industrie consideră că această bătălie ar putea reprezenta un punct de cotitură, redefinind modul în care evenimentele sportive live sunt transmise și consumate. Miza este enormă, iar rezultatul ar putea influența semnificativ peisajul media sportiv global.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-18T16:16:39.646413+00:00",
-      "data_afisaj": "18 noiembrie 2026, 18:16"
-    },
-    {
-      "id": "238d16ea6e64",
-      "titlu": "Pauzele de hidratare vor fi menținute la Cupa Mondială 2030, conform documentelor FIFA",
-      "rezumat": "Documentele de licitație pentru drepturile TV ale Cupei Mondiale din 2030, emise de FIFA, includ o prevedere care permite radiodifuzorilor să vândă spații publicitare în timpul pauzelor de hidratare. Aceasta este o indicație puternică a faptului că aceste opriri controversate, introduse pentru prima dată la Cupa Mondială precedentă în interesul bunăstării jucătorilor, vor fi menținute. Decizia sugerează că FIFA vede un beneficiu financiar în aceste pauze, pe lângă aspectele legate de sănătatea sportivilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-18T16:16:39.647626+00:00",
-      "data_afisaj": "18 noiembrie 2026, 18:16"
-    },
-    {
-      "id": "336318ed4837",
-      "titlu": "Șeful PFA, Maheta Molango, avertizează că „jocul este în pericol”",
-      "rezumat": "Maheta Molango, directorul executiv al Asociației Fotbaliștilor Profesioniști (PFA), a declarat că „jocul este în pericol”, exprimându-și îngrijorarea cu privire la direcția actuală a fotbalului. Într-un interviu, Molango a abordat subiecte precum FIFA, Gianni Infantino și viitorul sportului, subliniind că aspectele fundamentale ale fotbalului sunt uitate. Declarațiile sale vin într-un moment critic pentru sport, ridicând semne de întrebare despre gestionarea și evoluția acestuia la nivel global.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-18T16:16:39.648865+00:00",
-      "data_afisaj": "18 noiembrie 2026, 18:16"
     }
   ]
 }
