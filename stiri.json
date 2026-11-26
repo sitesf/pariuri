@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-26T00:03:21.866841+00:00",
-  "updated_at_afisaj": "26 noiembrie 2026, 02:03",
+  "updated_at": "2026-11-26T00:47:51.957990+00:00",
+  "updated_at_afisaj": "26 noiembrie 2026, 02:47",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 124,
+  "numar_stiri": 129,
   "stiri": [
+    {
+      "id": "5463250fcdee",
+      "titlu": "Frustrarea domnește pentru Pochettino într-un început haotic la locul de muncă la Man Utd",
+      "rezumat": "Care sunt constatările pentru Mauricio Pochettino după primele două meciuri ca antrenor la Manchester United?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-26T00:47:28.875970+00:00",
+      "data_afisaj": "26 noiembrie 2026, 02:47"
+    },
+    {
+      "id": "8eb768395904",
+      "titlu": "Divoturi, urlete și decizii proaste - disecând remiza lui Man Utd la Lisabona",
+      "rezumat": "BBC Sport sparge haosul pe fondul tragerii la sorți a lui Manchester United în Liga Campionilor împotriva lui Sporting de la Lisabona.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-26T00:47:28.877278+00:00",
+      "data_afisaj": "26 noiembrie 2026, 02:47"
+    },
+    {
+      "id": "ad4980b33072",
+      "titlu": "„Cel mai bun mijlocaș din lume” – unde se clasează Bellingham?",
+      "rezumat": "Jose Mourinho l-a numit pe Jude Bellingham de la Real Madrid „cel mai bun mijlocaș din lume”, dar unde l-ați clasa?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-26T00:47:28.878492+00:00",
+      "data_afisaj": "26 noiembrie 2026, 02:47"
+    },
+    {
+      "id": "6331450d4592",
+      "titlu": "Gordon joacă în victoria confortabilă a Barca împotriva lui Sabah",
+      "rezumat": "Anthony Gordon marchează primele două goluri ale Barcelonei, în timp ce ei trec de Sabah cu o victorie cu 4-1 în Liga Campionilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-26T00:47:28.879585+00:00",
+      "data_afisaj": "26 noiembrie 2026, 02:47"
+    },
+    {
+      "id": "1b848a967816",
+      "titlu": "Teribil Pavlovic cadouri autogol Lille șoc victorie împotriva lui Bayern",
+      "rezumat": "Bayern Munchen suferă prima înfrângere din campania Ligii Campionilor, deoarece Lille găsește poarta de două ori în trei minute în a doua repriză, inclusiv un autogol comic Aleksander Pavlovic, pentru a provoca o supărare uriașă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-26T00:47:28.880754+00:00",
+      "data_afisaj": "26 noiembrie 2026, 02:47"
+    },
     {
       "id": "38d4fbcf5a4d",
       "titlu": "Eroarea lui Lammens refuză victoria lui Man Utd împotriva lui Sporting într-un meci plin de incidente",
