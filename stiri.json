@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-25T18:26:13.801659+00:00",
-  "updated_at_afisaj": "25 noiembrie 2026, 20:26",
+  "updated_at": "2026-11-26T00:03:21.866841+00:00",
+  "updated_at_afisaj": "26 noiembrie 2026, 02:03",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,65 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 129,
+  "numar_stiri": 124,
   "stiri": [
+    {
+      "id": "38d4fbcf5a4d",
+      "titlu": "Eroarea lui Lammens refuză victoria lui Man Utd împotriva lui Sporting într-un meci plin de incidente",
+      "rezumat": "Portarul Senne Lammens are parte de o seară plină de suișuri și coborâșuri, în timp ce Manchester United egalează cu Sporting. decizii controversate.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-11-26T00:03:16.032969+00:00",
+      "data_afisaj": "26 noiembrie 2026, 02:03"
+    },
+    {
+      "id": "438bcf01cb50",
+      "titlu": "Glasner critică jucătorii lui Forest care încă nu au învățat engleza",
+      "rezumat": "Antrenorul lui Nottingham Forest, Oliver Glasner, a pus sub semnul întrebării de ce unii dintre jucătorii săi nu pot vorbi engleza după ce au petrecut câțiva ani în țară.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-26T00:03:16.034458+00:00",
+      "data_afisaj": "26 noiembrie 2026, 02:03"
+    },
+    {
+      "id": "c35e140a83bf",
+      "titlu": "'Totul se leagă' - Isak răsplătește încrederea lui Liverpool",
+      "rezumat": "Cele două goluri ale lui Alexander Isak împotriva lui Club Brugge duc totalul său pentru sezon la 10, atacantul continuând să arate de ce Liverpool a plătit anul trecut 125 de milioane de lire sterline pentru a-l aduce la club.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-26T00:03:16.035908+00:00",
+      "data_afisaj": "26 noiembrie 2026, 02:03"
+    },
+    {
+      "id": "24d2c57f77f5",
+      "titlu": "Șeful regulatorului 'are curajul' să înfrunte Man City",
+      "rezumat": "Președintele organismului de reglementare independent al fotbalului englez le spune parlamentarilor că 'are curajul' să ia măsuri potențiale împotriva lui Manchester City.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-26T00:03:16.037308+00:00",
+      "data_afisaj": "26 noiembrie 2026, 02:03"
+    },
+    {
+      "id": "e346c530aeab",
+      "titlu": "Isak marchează de două ori, iar Liverpool învinge Brugge într-o manieră clinică",
+      "rezumat": "Liverpool învinge Club Brugge într-o performanță clinică grație golurilor lui Alexander Isak și Florian Wirtz, revenind după o înfrângere în ultimul lor meci din Liga Campionilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-26T00:03:16.038634+00:00",
+      "data_afisaj": "26 noiembrie 2026, 02:03"
+    },
     {
       "id": "beb98cf0fa4b",
       "titlu": "Situația lui Alejandro Garnacho la Aston Villa, sub semnul întrebării",
@@ -1371,119 +1428,6 @@
       ],
       "data_publicare": "2026-11-19T16:24:51.730419+00:00",
       "data_afisaj": "19 noiembrie 2026, 18:24"
-    },
-    {
-      "id": "ac9f47ca7a17",
-      "titlu": "FA a explorat contestația legală pentru a rămâne pe Infantino",
-      "rezumat": "Asociația de Fotbal a luat în considerare contestarea eligibilității lui Gianni Infantino de a candida pentru al patrulea mandat ca președinte al FIFA, dar a considerat că un caz ar putea eșua.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-18T23:13:33.683169+00:00",
-      "data_afisaj": "19 noiembrie 2026, 01:13"
-    },
-    {
-      "id": "93ff2dffff42",
-      "titlu": "FA ucraineană de vină pentru testul de droguri eșuat - Mudryk",
-      "rezumat": "Mikhailo Mudryk, împrumutat al lui Tottenham, lateralul lui Chelsea, spune că dă vina pe Asociația Ucraineană de Fotbal pentru testul eșuat de droguri și pentru interdicția ulterioară.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-18T23:13:33.684297+00:00",
-      "data_afisaj": "19 noiembrie 2026, 01:13"
-    },
-    {
-      "id": "e459f9845efe",
-      "titlu": "Panarea fotbalului de la 15:00: depășită sau încă relevantă în 2026?",
-      "rezumat": "După 60 de ani, s-a epuizat în sfârșit timpul pentru pauza de la ora 15 din fotbal?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-18T23:13:33.685405+00:00",
-      "data_afisaj": "19 noiembrie 2026, 01:13"
-    },
-    {
-      "id": "a3709d49557f",
-      "titlu": "Manchester nu va fi întotdeauna albastru - Pochettino",
-      "rezumat": "Noul șef, Mauricio Pochettino, spune că îi va face pe Manchester United cea mai de succes echipă de fotbal din oraș.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-18T23:13:33.686441+00:00",
-      "data_afisaj": "19 noiembrie 2026, 01:13"
-    },
-    {
-      "id": "4399615a075e",
-      "titlu": "Man Utd urmărește Pazul lui Como - bârfa de joi",
-      "rezumat": "Manchester United îl urmărește pe Nico Paz, Besiktas complotează pentru Amad Diallo, Barcelona pentru a respinge ofertele lui Alejandro Balde și altele.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-18T23:13:33.687484+00:00",
-      "data_afisaj": "19 noiembrie 2026, 01:13"
-    },
-    {
-      "id": "99177382561a",
-      "titlu": "Leicester s-a despărțit de sponsor după ce o actriță porno",
-      "rezumat": "Un grup de fani s-a plâns după ce BC Game a numit o actriță porno ambasadoră a mărcii.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-18T22:52:33.246041+00:00",
-      "data_afisaj": "19 noiembrie 2026, 00:52"
-    },
-    {
-      "id": "b58c7e8b0f78",
-      "titlu": "Chelsea a smuls câștigătorul târziu vs PSG pentru a trece în fruntea tabelului WCL",
-      "rezumat": "Învingătoarea târzie a lui Veerle Buurman a câștigat cu 1-0 pentru Chelsea împotriva Parisului Saint-Germain pentru a-i muta în fruntea tabelului Ligii Campionilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-18T22:52:33.247196+00:00",
-      "data_afisaj": "19 noiembrie 2026, 00:52"
-    },
-    {
-      "id": "176dd8336546",
-      "titlu": "Fără milă! Victor Pițurcă l-a „distrus” pe Mihai Stoica: „A fost slujitor!”",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-11-18T22:52:33.248465+00:00",
-      "data_afisaj": "19 noiembrie 2026, 00:52"
-    },
-    {
-      "id": "858fef27d306",
-      "titlu": "Cele mai strânse resturi de supraviețuire de ani de zile? De ce nu este prea devreme să vă faceți griji",
-      "rezumat": "Premier League se reia sâmbătă cu Crystal Palace, Sunderland și Man Utd în zona retrogradării. Dar este prea devreme pentru a fi îngrijorat?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-18T22:52:33.249621+00:00",
-      "data_afisaj": "19 noiembrie 2026, 00:52"
-    },
-    {
-      "id": "de97bbc3dd15",
-      "titlu": "A înregistrat în comun șase erori ale arbitrului în ultimul weekend din Premier League",
-      "rezumat": "Panelul de incidente cheie de meciuri din Premier League stabilește că au existat șase erori pe teren în ultima rundă de jocuri - cea mai mare comună dintr-un weekend.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-18T22:52:33.250693+00:00",
-      "data_afisaj": "19 noiembrie 2026, 00:52"
     }
   ]
 }
