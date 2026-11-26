@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-26T17:36:19.128339+00:00",
-  "updated_at_afisaj": "26 noiembrie 2026, 19:36",
+  "updated_at": "2026-11-26T18:08:09.301929+00:00",
+  "updated_at_afisaj": "26 noiembrie 2026, 20:08",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 125,
+  "numar_stiri": 130,
   "stiri": [
+    {
+      "id": "45e9ca696886",
+      "titlu": "Dominic Calvert-Lewin semnează un nou contract cu Leeds până în 2029",
+      "rezumat": "Atacantul internațional englez Dominic Calvert-Lewin și-a prelungit angajamentul cu Leeds United, semnând un nou contract care îl va menține la club până în anul 2029. Această mutare confirmă stabilitatea jucătorului la echipa din Premier League și reprezintă o veste importantă pentru fanii clubului, asigurând continuitatea unui element cheie în ofensiva echipei pentru sezoanele următoare. Decizia subliniază încrederea reciprocă dintre jucător și club în proiectul sportiv.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-11-26T18:08:09.297675+00:00",
+      "data_afisaj": "26 noiembrie 2026, 20:08"
+    },
+    {
+      "id": "3383412958f8",
+      "titlu": "Manchester United, Liverpool și Tottenham pregătesc o acțiune legală comună împotriva lui Manchester City",
+      "rezumat": "Cluburile Manchester United, Liverpool și Tottenham Hotspur au angajat aceeași firmă de avocatură pentru a pregăti o acțiune legală împotriva lui Manchester City. Acțiunea vizează presupusele încălcări ale regulilor financiare ale Premier League de către City și ar putea valora sute de milioane de lire sterline în daune. Arsenal, un alt club de top, utilizează propriii avocați pentru o acțiune similară, indicând un front comun împotriva presupuselor nereguli financiare ale rivalilor din Manchester. Această inițiativă legală ar putea avea implicații majore în fotbalul englez.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-26T18:08:09.298801+00:00",
+      "data_afisaj": "26 noiembrie 2026, 20:08"
+    },
+    {
+      "id": "f5ace098f538",
+      "titlu": "Laura Freigang, internaționala germană, suspendată 16 luni pentru probleme legate de testele antidoping",
+      "rezumat": "Laura Freigang, jucătoare internațională a Germaniei, a fost suspendată din fotbal pentru o perioadă de 16 luni. Decizia vine în urma unor nereguli legate de trei teste antidoping la care a fost supusă. Această suspendare reprezintă o lovitură semnificativă pentru cariera sportivei și subliniază rigoarea regulamentelor antidoping în fotbalul profesionist, trimițând un mesaj clar privind respectarea integrității în sport. Cazul său atrage atenția asupra importanței conformității cu protocoalele de testare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-26T18:08:09.299874+00:00",
+      "data_afisaj": "26 noiembrie 2026, 20:08"
+    },
+    {
+      "id": "5d1a0d31ecf5",
+      "titlu": "Joshua Kimmich critică dur tratamentul lui Bayern Munchen față de Jamal Musiala",
+      "rezumat": "Mijlocașul lui Bayern Munchen, Joshua Kimmich, a lansat un atac vehement la adresa clubului, calificând drept \"nu specific Bayern\" modul în care a fost tratat coechipierul său, Jamal Musiala. Kimmich a apărat starea de sănătate a lui Musiala, care suferă de o afecțiune neurologică ce provoacă crize. Oficialii clubului au pus sub semnul întrebării performanțele și contractul lui Musiala după crize repetate, generând proteste din partea jucătorului și a susținătorilor săi. Această tensiune internă subliniază provocările de gestionare a sănătății jucătorilor de top.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-26T18:08:09.300887+00:00",
+      "data_afisaj": "26 noiembrie 2026, 20:08"
+    },
+    {
+      "id": "58691515e63f",
+      "titlu": "Wesley Fofana și-a cerut scuze pentru interviul controversat, confirmă Xabi Alonso",
+      "rezumat": "Antrenorul echipei Chelsea, Xabi Alonso, a declarat că fundașul Wesley Fofana și-a prezentat scuzele pentru comentariile controversate făcute într-un interviu acordat fără permisiunea clubului. Incidentul a generat discuții în cadrul echipei și în presa sportivă, iar gestul de scuză al jucătorului marchează o încercare de a aplana tensiunile și de a restabili armonia în vestiar, subliniind importanța comunicării interne și a respectării regulilor clubului. Situația a fost gestionată rapid pentru a evita escaladarea conflictului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-26T18:08:09.301917+00:00",
+      "data_afisaj": "26 noiembrie 2026, 20:08"
+    },
     {
       "id": "3d8c30f3e916",
       "titlu": "Europa și Conference League LIVE! Bournemouth și Brighton, cu multe schimbări, în acțiune",
