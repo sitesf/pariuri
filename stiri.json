@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-26T00:47:51.957990+00:00",
-  "updated_at_afisaj": "26 noiembrie 2026, 02:47",
+  "updated_at": "2026-11-26T17:36:19.128339+00:00",
+  "updated_at_afisaj": "26 noiembrie 2026, 19:36",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,66 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 129,
+  "numar_stiri": 125,
   "stiri": [
+    {
+      "id": "3d8c30f3e916",
+      "titlu": "Europa și Conference League LIVE! Bournemouth și Brighton, cu multe schimbări, în acțiune",
+      "rezumat": "(rezumat indisponibil)",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-11-26T17:36:12.829394+00:00",
+      "data_afisaj": "26 noiembrie 2026, 19:36"
+    },
+    {
+      "id": "1c690366cb61",
+      "titlu": "🚨 Brighton – Universitatea Craiova Live Text Online, de la 19:45, în Conference League. Oltenii vor să producă surpriza în Anglia! Echipele de start",
+      "rezumat": "(rezumat indisponibil)",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-11-26T17:36:12.830684+00:00",
+      "data_afisaj": "26 noiembrie 2026, 19:36"
+    },
+    {
+      "id": "15e45bd7e9b8",
+      "titlu": "Scandal uriaș la CFR Cluj! Neluțu Varga a luat o decizie radicală: „De la 1 ianuarie e OUT!”",
+      "rezumat": "(rezumat indisponibil)",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-11-26T17:36:12.831791+00:00",
+      "data_afisaj": "26 noiembrie 2026, 19:36"
+    },
+    {
+      "id": "3d77cb6bfabe",
+      "titlu": "Lammens - portarul lui Man Utd sub o examinare fără precedent",
+      "rezumat": "Portarul lui Manchester United, Senne Lammens, a făcut două greșeli majore în egalul 2-2 cu Sporting - l-ar putea Mauricio Pochettino scoate din echipă?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-26T17:36:12.832740+00:00",
+      "data_afisaj": "26 noiembrie 2026, 19:36"
+    },
+    {
+      "id": "b9a3133d7509",
+      "titlu": "Nici măcar pe banca de 12 rezerve - ce urmează pentru Garnacho?",
+      "rezumat": "Scurta carieră a lui Alejandro Garnacho la Aston Villa pare deja încheiată, deci ce urmează pentru tânărul de 22 de ani?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-26T17:36:12.833712+00:00",
+      "data_afisaj": "26 noiembrie 2026, 19:36"
+    },
     {
       "id": "5463250fcdee",
       "titlu": "Frustrarea domnește pentru Pochettino într-un început haotic la locul de muncă la Man Utd",
@@ -1383,106 +1441,6 @@
       ],
       "data_publicare": "2026-11-19T22:57:33.827312+00:00",
       "data_afisaj": "20 noiembrie 2026, 00:57"
-    },
-    {
-      "id": "466517201526",
-      "titlu": "Prioritățile lui Mauricio Pochettino la Manchester United: cultură, apărare și Bruno Fernandes",
-      "rezumat": "Noul antrenor al echipei Manchester United, Mauricio Pochettino, se confruntă cu o serie de provocări cheie pe măsură ce preia conducerea clubului. Printre prioritățile sale se numără restabilirea unei culturi pozitive în cadrul echipei, îmbunătățirea semnificativă a compartimentului defensiv și integrarea optimă a lui Bruno Fernandes în sistemul său tactic. Aceste aspecte sunt considerate esențiale pentru a redresa parcursul echipei și a o readuce în lupta pentru performanță în Premier League.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-19T17:04:17.502886+00:00",
-      "data_afisaj": "19 noiembrie 2026, 19:04"
-    },
-    {
-      "id": "e36797383a18",
-      "titlu": "Pochettino cere curaj jucătorilor de la Manchester United înaintea debutului cu Liverpool",
-      "rezumat": "Mauricio Pochettino, noul antrenor principal al echipei Manchester United, a transmis un mesaj clar jucătorilor săi, cerându-le să abordeze fără teamă meciul de duminică de pe Anfield împotriva lui Liverpool. Acesta va fi primul său meci la conducerea \"Diavolilor Roșii\", iar tehnicianul argentinian dorește un start puternic. În ciuda poziției actuale a lui United pe locul 18 în Premier League și a lui Liverpool pe locul patru, Pochettino insistă ca echipa să joace ofensiv și să nu cedeze presiunii.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-19T17:04:17.504181+00:00",
-      "data_afisaj": "19 noiembrie 2026, 19:04"
-    },
-    {
-      "id": "cb76c1b339cf",
-      "titlu": "Manchester City ar putea suferi pierderi de 1,5 miliarde de lire sterline în urma acuzațiilor Premier League",
-      "rezumat": "Conform unui raport, clubul Manchester City se confruntă cu o potențială pierdere financiară de aproximativ 1,5 miliarde de lire sterline, ca urmare a acuzațiilor de încălcare a peste 100 de reguli ale Premier League. Deși clubul a fost găsit vinovat, consecințele exacte și amploarea sancțiunilor financiare sunt încă în discuție. Această situație ar putea avea un impact semnificativ asupra strategiei financiare și sportive a clubului pe termen lung, afectând capacitatea sa de a investi în jucători și infrastructură.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-11-19T17:04:17.505452+00:00",
-      "data_afisaj": "19 noiembrie 2026, 19:04"
-    },
-    {
-      "id": "3b7df14ef49c",
-      "titlu": "Jucător ecuadorian suspendat opt ani după ce a lovit un arbitru asistent cu o piatră",
-      "rezumat": "Fotbalistul ecuadorian Jhon Perlaza a primit o suspendare de opt ani din activitatea sportivă, după ce a lovit un arbitru asistent cu o piatră în timpul unui meci din liga a treia. Incidentul grav a avut loc în timpul unei partide și a dus la o decizie drastică din partea forurilor disciplinare. Această sancțiune severă subliniază angajamentul de a combate violența pe terenul de fotbal și de a proteja integritatea oficialilor de meci.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-19T17:04:17.506607+00:00",
-      "data_afisaj": "19 noiembrie 2026, 19:04"
-    },
-    {
-      "id": "13b185a962ed",
-      "titlu": "Blackpool l-a demis pe antrenorul principal Ian Evatt",
-      "rezumat": "Clubul Blackpool a anunțat demiterea antrenorului principal Ian Evatt, după doar un an petrecut la conducerea echipei. Decizia vine în urma unei serii slabe de rezultate, care include o singură victorie și șase înfrângeri în ultimele zece meciuri de campionat. Echipa se confruntă cu dificultăți în clasament, iar conducerea a considerat că o schimbare la nivelul băncii tehnice este necesară pentru a redresa situația și a îmbunătăți performanțele.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-19T17:04:17.507601+00:00",
-      "data_afisaj": "19 noiembrie 2026, 19:04"
-    },
-    {
-      "id": "9156db7bfe70",
-      "titlu": "Cluburile din Premier League votează pentru protecția legală a directorilor",
-      "rezumat": "Cluburile din Premier League au votat în majoritate covârșitoare (18-2) pentru a extinde indemnizația legală acordată directorilor ligii. Această decizie oferă o protecție sporită directorului executiv Richard Masters și altor figuri cheie împotriva unor potențiale procese, în special în contextul acuzațiilor de fair-play financiar aduse clubului Manchester City. Măsura vine ca un răspuns la posibilitatea ca sponsorii Manchester City să dea în judecată conducerea Premier League, subliniind tensiunile juridice actuale din fotbalul englez de top.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-19T16:24:51.723019+00:00",
-      "data_afisaj": "19 noiembrie 2026, 18:24"
-    },
-    {
-      "id": "34f7322040d9",
-      "titlu": "Manchester United raportează creșteri ale veniturilor și salariilor",
-      "rezumat": "Manchester United a publicat cele mai recente rezultate financiare, indicând o creștere a veniturilor și a cheltuielilor salariale. Această evoluție subliniază dinamica economică a unuia dintre cele mai mari cluburi de fotbal din lume. Detaliile financiare oferă o perspectivă asupra sănătății economice a clubului și a modului în care acesta gestionează resursele, inclusiv investițiile în personalul sportiv. Creșterea veniturilor poate reflecta succesul comercial, în timp ce majorarea salariilor indică angajamente financiare sporite față de jucători și staff.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-11-19T16:24:51.725468+00:00",
-      "data_afisaj": "19 noiembrie 2026, 18:24"
-    },
-    {
-      "id": "1ab7645909cc",
-      "titlu": "FIFA solicită statut fiscal preferențial pentru Cupa Mondială Feminină 2035 în Marea Britanie",
-      "rezumat": "FIFA se află în negocieri tensionate cu guvernul Marii Britanii și cele patru asociații de fotbal din Regatul Unit, solicitând statut fiscal preferențial și scutiri de taxe pentru cursul valutar în vederea găzduirii Cupei Mondiale Feminine din 2035. Această cerere, care precede ratificarea candidaturii Marii Britanii la un congres extraordinar FIFA, a generat discuții aprinse în culise. Organismul de conducere al fotbalului mondial dorește condiții financiare avantajoase, ceea ce ridică întrebări despre costurile și beneficiile găzduirii unui eveniment de o asemenea anvergură.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-19T16:24:51.727954+00:00",
-      "data_afisaj": "19 noiembrie 2026, 18:24"
-    },
-    {
-      "id": "10b0b6b9da03",
-      "titlu": "Cluburile din „Big Six” ale Premier League își consolidează avantajul financiar",
-      "rezumat": "La zece etape de la începutul sezonului Premier League, primele cinci locuri sunt dominate de cluburile din „Big Six”, o tendință care nu surprinde, având în vedere avantajul financiar în creștere al acestora. Aceste cluburi beneficiază de sute de milioane de lire sterline în plus față de restul ligii, consolidându-și poziția dominantă. Această disparitate financiară continuă să alimenteze dezbaterea despre echilibrul competitiv din Premier League și despre modul în care resursele economice influențează performanța sportivă pe termen lung.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-19T16:24:51.730419+00:00",
-      "data_afisaj": "19 noiembrie 2026, 18:24"
     }
   ]
 }
