@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-27T00:54:24.655416+00:00",
-  "updated_at_afisaj": "27 noiembrie 2026, 02:54",
+  "updated_at": "2026-11-27T17:17:56.554490+00:00",
+  "updated_at_afisaj": "27 noiembrie 2026, 19:17",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,66 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 131,
+  "numar_stiri": 127,
   "stiri": [
+    {
+      "id": "6c5824f096df",
+      "titlu": "Antrenorul principal al lui Arsenal, Renee Slegers, pleacă de comun acord",
+      "rezumat": "Arsenal a anunțat despărțirea de antrenorul principal Renee Slegers, de comun acord, după un început dezamăgitor de sezon. Slegers a condus echipa timp de mai puțin de doi ani, perioadă marcată de performanțe fluctuante. Decizia vine în contextul în care clubul caută o schimbare pentru a redresa parcursul echipei și a îndeplini obiectivele stabilite în competițiile interne și europene.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-27T17:17:56.547469+00:00",
+      "data_afisaj": "27 noiembrie 2026, 19:17"
+    },
+    {
+      "id": "585362da9e18",
+      "titlu": "Manchester United activează clauza de prelungire a contractului lui Bruno Fernandes până în 2028",
+      "rezumat": "Manchester United a activat opțiunea de prelungire a contractului căpitanului Bruno Fernandes, asigurându-i prezența la club până în anul 2028. Mijlocașul portughez, o figură cheie în echipa lui United, își va continua astfel angajamentul pe termen lung, consolidând stabilitatea lotului pentru sezoanele viitoare. Această decizie subliniază importanța sa în planurile clubului și în strategia pe termen mediu a echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-11-27T17:17:56.549232+00:00",
+      "data_afisaj": "27 noiembrie 2026, 19:17"
+    },
+    {
+      "id": "8df0338a7668",
+      "titlu": "Cluburi din Premier League cer vânzarea forțată a lui Manchester City",
+      "rezumat": "Reprezentanți de rang înalt ai mai multor cluburi din Premier League au declarat pentru BBC Sport că proprietarii lui Manchester City ar trebui să fie forțați să vândă clubul. Această cerere vine ca o potențială sancțiune pentru încălcarea regulilor financiare, adăugând o nouă dimensiune controversatei investigații în curs. Solicitarea reflectă tensiunile crescânde din liga engleză și presiunea asupra autorităților de reglementare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-27T17:17:56.550880+00:00",
+      "data_afisaj": "27 noiembrie 2026, 19:17"
+    },
+    {
+      "id": "f4fb0d14b03a",
+      "titlu": "Viitorul lui Jamal Musiala la Bayern Munchen, incert din cauza unei afecțiuni medicale pe termen lung",
+      "rezumat": "Viitorul lui Jamal Musiala la Bayern Munchen este pus sub semnul întrebării, deoarece jucătorul se va confrunta cu o afecțiune medicală pe tot parcursul vieții, conform BBC Sport. Există îngrijorări că internaționalul german ar putea să nu mai atingă niciodată nivelul său anterior de performanță. Această situație ridică semne de întrebare cu privire la parcursul său profesional și la modul în care Bayern va gestiona această provocare medicală majoră.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-27T17:17:56.552699+00:00",
+      "data_afisaj": "27 noiembrie 2026, 19:17"
+    },
+    {
+      "id": "51cc38e5c2f9",
+      "titlu": "Aripa lui Tottenham, Savio, va rata meciurile din perioada sărbătorilor din cauza unei accidentări",
+      "rezumat": "Aripa lui Tottenham, Savio, va fi indisponibil pentru meciurile din perioada sărbătorilor de iarnă, după ce a suferit o nouă accidentare. Managerul Roberto de Zerbi a confirmat că jucătorul ar putea lipsi de pe teren până la 80 de zile. Această veste reprezintă o lovitură pentru planurile echipei, care se va confrunta cu un program încărcat fără un jucător important în ofensivă, afectând opțiunile tactice ale antrenorului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-27T17:17:56.554472+00:00",
+      "data_afisaj": "27 noiembrie 2026, 19:17"
+    },
     {
       "id": "a4ca98e477c6",
       "titlu": "Camilo Duran, eroul lui Celtic, menține speranțele europene",
@@ -1406,107 +1464,6 @@
       ],
       "data_publicare": "2026-11-20T22:31:33.198556+00:00",
       "data_afisaj": "21 noiembrie 2026, 00:31"
-    },
-    {
-      "id": "47ac51d697a9",
-      "titlu": "Directorul executiv al Manchester United, Omar Berrada, consideră că criticile fanilor au depășit limitele",
-      "rezumat": "Omar Berrada, directorul executiv al clubului Manchester United, a declarat că o parte din criticile recente adresate conducerii clubului au \"depășit o limită\". Acesta a subliniat că, deși înțelege frustrarea suporterilor, anumite comentarii au devenit excesive și neconstructive. Declarațiile vin într-o perioadă turbulentă pentru club, marcată de schimbări la nivel de antrenor și performanțe inconstante, iar Berrada dorește o abordare mai echilibrată din partea bazei de fani.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-20T16:43:04.601127+00:00",
-      "data_afisaj": "20 noiembrie 2026, 18:43"
-    },
-    {
-      "id": "2fc62211e4ec",
-      "titlu": "Mikel Arteta avertizează jucătorii lui Arsenal cu privire la scurgerile de informații din Fantasy Premier League",
-      "rezumat": "Antrenorul lui Arsenal, Mikel Arteta, a declarat că jucătorii săi au fost avertizați să nu divulge, chiar și involuntar, informații despre echipa de start prin intermediul jocului Fantasy Premier League. Această măsură vine în contextul în care detaliile despre componența echipei înainte de meciuri pot oferi un avantaj tactic adversarilor. Arteta subliniază importanța confidențialității și profesionalismului în rândul lotului, pentru a evita orice compromitere a strategiei de joc.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-20T16:43:04.602856+00:00",
-      "data_afisaj": "20 noiembrie 2026, 18:43"
-    },
-    {
-      "id": "524280d0d178",
-      "titlu": "Mauricio Pochettino cere să aibă un cuvânt de spus în deciziile majore de la Manchester United",
-      "rezumat": "Antrenorul principal al lui Manchester United, Mauricio Pochettino, a solicitat să fie implicat în deciziile importante ale clubului. Această cerere subliniază dorința sa de a avea o influență mai mare asupra direcției sportive și administrative, inclusiv în privința transferurilor și a strategiei pe termen lung. Se pare că Pochettino dorește să se asigure că viziunea sa este aliniată cu planurile generale ale clubului, pentru a construi o echipă competitivă și coerentă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-20T16:43:04.604468+00:00",
-      "data_afisaj": "20 noiembrie 2026, 18:43"
-    },
-    {
-      "id": "fc243365e00a",
-      "titlu": "Fan Liverpool achitat de acuzațiile de abuz rasial, după retragerea plângerii lui Antoine Semenyo",
-      "rezumat": "Un suporter al echipei Liverpool, acuzat de abuz rasial la adresa lui Antoine Semenyo, a fost găsit nevinovat, după ce atacantul lui Manchester City și-a retras sprijinul pentru acuzare. Incidentul ar fi avut loc în timpul unui meci din Premier League dintre Liverpool și fosta echipă a lui Semenyo, Bournemouth, pe Anfield, în 2025. Retragerea plângerii a dus la încetarea procesului împotriva fanului, fără a se ajunge la o condamnare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-20T16:43:04.606139+00:00",
-      "data_afisaj": "20 noiembrie 2026, 18:43"
-    },
-    {
-      "id": "3dc9a37b3795",
-      "titlu": "FIFA anunță candidații pentru alegerile prezidențiale din 2027",
-      "rezumat": "Federația Internațională de Fotbal (FIFA) a confirmat lista celor trei candidați care vor concura pentru funcția de președinte la alegerile din 2027. Pe lângă actualul președinte, Gianni Infantino, alți doi oficiali își vor disputa poziția de conducere a forului mondial. Această competiție electorală va decide direcția viitoare a fotbalului la nivel global, având implicații semnificative pentru organizarea competițiilor și dezvoltarea sportului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-11-20T16:43:04.607579+00:00",
-      "data_afisaj": "20 noiembrie 2026, 18:43"
-    },
-    {
-      "id": "5fad8878c547",
-      "titlu": "Mijlocașul lui Celtic, Mika Baur, indisponibil 10 săptămâni din cauza unei accidentări",
-      "rezumat": "Mijlocașul german al echipei Celtic, Mika Baur, va lipsi de pe teren aproximativ 10 săptămâni. Antrenorul Martin O'Neill a confirmat că jucătorul a suferit o leziune la ligamentele gleznei. Această accidentare reprezintă o lovitură semnificativă pentru echipa scoțiană, având în vedere importanța lui Baur în linia de mijloc. Perioada de recuperare îl va ține pe jucător în afara acțiunii pentru o parte importantă a sezonului, afectând planurile echipei în campionat și în competițiile europene.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-11-20T15:57:39.915361+00:00",
-      "data_afisaj": "20 noiembrie 2026, 17:57"
-    },
-    {
-      "id": "5e03b80d568d",
-      "titlu": "Anglia va înfrunta Norvegia în sferturile de finală ale Ligii Națiunilor",
-      "rezumat": "Echipa națională de fotbal a Angliei va juca împotriva Norvegiei, condusă de Erling Haaland, în sferturile de finală ale Ligii Națiunilor. Tragerea la sorți a stabilit această confruntare, care promite a fi una dintre cele mai interesante din faza eliminatorie a competiției. Meciul va reprezenta o provocare majoră pentru Anglia în drumul său spre o eventuală semifinală, unde ar putea întâlni Germania. Fanii așteaptă cu interes duelul dintre cele două naționale puternice.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-20T15:57:39.916554+00:00",
-      "data_afisaj": "20 noiembrie 2026, 17:57"
-    },
-    {
-      "id": "3ca05338c722",
-      "titlu": "Tom Brady poartă discuții pentru a achiziționa o parte din acțiunile clubului Chelsea",
-      "rezumat": "Legenda NFL, Tom Brady, se află în negocieri pentru a cumpăra o participație minoritară la clubul de fotbal Chelsea. Această mișcare vine după ce Brady și-a vândut recent acțiunile deținute la Birmingham City, o decizie despre care surse apropiate au declarat că a fost luată pentru a facilita investiția la Stamford Bridge. Brady a fost anterior oaspete al clubului Chelsea și a fost văzut celebrând alături de jucători la Cupa Mondială a Cluburilor de anul trecut, indicând un interes de lungă durată pentru club.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-20T15:57:39.917879+00:00",
-      "data_afisaj": "20 noiembrie 2026, 17:57"
-    },
-    {
-      "id": "854becff330d",
-      "titlu": "Bukayo Saka ar putea rata revenirea la Arsenal înainte de Crăciun din cauza unei accidentări la coapsă",
-      "rezumat": "Mikel Arteta, antrenorul lui Arsenal, a declarat că Bukayo Saka ar putea să nu revină pe teren înainte de Crăciun, în timp ce jucătorul continuă recuperarea după o accidentare la coapsă. Saka este indisponibil de la sfârșitul lunii trecute, după meciul cu Bayern Munchen, și nu a reluat încă antrenamentele ușoare. Testele suplimentare efectuate în pauza internațională au confirmat că nu este necesară o intervenție chirurgicală, dar perioada de absență a jucătorului cheie este una semnificativă pentru echipa londoneză.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-20T15:57:39.919162+00:00",
-      "data_afisaj": "20 noiembrie 2026, 17:57"
     }
   ]
 }
