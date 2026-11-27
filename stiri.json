@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-27T17:17:56.554490+00:00",
-  "updated_at_afisaj": "27 noiembrie 2026, 19:17",
+  "updated_at": "2026-11-27T17:51:25.529682+00:00",
+  "updated_at_afisaj": "27 noiembrie 2026, 19:51",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 127,
+  "numar_stiri": 132,
   "stiri": [
+    {
+      "id": "87857d94a676",
+      "titlu": "Violențe la meciuri europene, președintele Macron condamnă incidentele",
+      "rezumat": "Mai multe meciuri de fotbal europene desfășurate joi seară au fost marcate de incidente violente, stârnind îngrijorare la nivel înalt. Președintele francez Emmanuel Macron a condamnat ferm tulburările, în special cele de la partida de acasă a lui Olympique Marseille împotriva echipei Levski Sofia. Declarația președintelui subliniază gravitatea situației și necesitatea unor măsuri pentru a preveni astfel de evenimente pe stadioanele europene. Incidentele afectează imaginea fotbalului și siguranța spectatorilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-27T17:51:25.524380+00:00",
+      "data_afisaj": "27 noiembrie 2026, 19:51"
+    },
+    {
+      "id": "aa2f4fc7c494",
+      "titlu": "Fundașul lui Newcastle United, Sven Botman, suspendat de la condus",
+      "rezumat": "Sven Botman, fundașul echipei Newcastle United, a primit o interdicție de șase luni de a conduce autovehicule. Decizia a fost luată de Tribunalul Magistraților din Newcastle, după ce jucătorul a fost prins folosind telefonul mobil la volan. Această suspendare reprezintă o consecință legală pentru încălcarea regulilor de circulație și îl va afecta pe fotbalist în viața personală și profesională pe durata celor șase luni. Clubul nu a emis încă un comunicat oficial privind impactul asupra carierei sale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-27T17:51:25.525731+00:00",
+      "data_afisaj": "27 noiembrie 2026, 19:51"
+    },
+    {
+      "id": "b2ed80319bb1",
+      "titlu": "Brad Friedel și un consorțiu american au achiziționat clubul Shrewsbury Town",
+      "rezumat": "Fostul portar al Premier League și internaționalul american Brad Friedel a confirmat achiziția clubului Shrewsbury Town, din League Two, de către un consorțiu american pe care îl conduce. Friedel va ocupa și funcția de director sportiv la noul său club. El a declarat că Shrewsbury Town a îndeplinit toate criteriile dintr-o listă lungă de cerințe pe care le aveau pentru un club. Această mutare marchează o nouă investiție americană în fotbalul englez de ligă inferioară.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-11-27T17:51:25.527018+00:00",
+      "data_afisaj": "27 noiembrie 2026, 19:51"
+    },
+    {
+      "id": "ed7ac1e39bc5",
+      "titlu": "Borussia Dortmund, în lupta pentru titlul din Bundesliga după 15 ani",
+      "rezumat": "Borussia Dortmund, sub conducerea antrenorului Niko Kovac, se află în fruntea clasamentului din Bundesliga și are o șansă de aur de a câștiga campionatul german pentru prima dată în ultimii 15 ani. Cu Bayern Munchen într-o perioadă mai vulnerabilă, fanii și analiștii se întreabă dacă Dortmund poate evita \"coșmarurile\" din trecut, când a pierdut titluri în momente cheie. Echipa este hotărâtă să își transforme visul în realitate și să pună capăt dominației bavareze în fotbalul german.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-27T17:51:25.528358+00:00",
+      "data_afisaj": "27 noiembrie 2026, 19:51"
+    },
+    {
+      "id": "834e5ff824d9",
+      "titlu": "Viitorul lui Virgil van Dijk la Liverpool, sub semnul întrebării",
+      "rezumat": "Dejan Lovren, fostul fundaș central al lui Liverpool, a vorbit deschis despre viitorul lui Virgil van Dijk la clubul de pe Anfield. Lovren a sugerat că mandatul lui Van Dijk la Liverpool \"trebuie să se încheie la un moment dat\", alimentând speculațiile privind o posibilă plecare a căpitanului olandez. Declarațiile vin într-un context în care contractul lui Van Dijk ar putea fi un subiect de discuție în viitorul apropiat, iar fanii așteaptă clarificări din partea clubului și a jucătorului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-11-27T17:51:25.529666+00:00",
+      "data_afisaj": "27 noiembrie 2026, 19:51"
+    },
     {
       "id": "6c5824f096df",
       "titlu": "Antrenorul principal al lui Arsenal, Renee Slegers, pleacă de comun acord",
