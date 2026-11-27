@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-26T18:08:09.301929+00:00",
-  "updated_at_afisaj": "26 noiembrie 2026, 20:08",
+  "updated_at": "2026-11-27T00:24:08.592209+00:00",
+  "updated_at_afisaj": "27 noiembrie 2026, 02:24",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,66 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 130,
+  "numar_stiri": 126,
   "stiri": [
+    {
+      "id": "2e84641dfcf2",
+      "titlu": "Crystal Palace obține prima victorie sub comanda lui Thomas Frank în Europa League",
+      "rezumat": "Crystal Palace a înregistrat prima sa victorie sub conducerea noului antrenor Thomas Frank, reușind o revenire spectaculoasă împotriva echipei Real Sociedad în Europa League. Echipa londoneză a învins cu scorul de 2-1, după ce a fost condusă, demonstrând o determinare crescută. Acest rezultat este crucial pentru moralul echipei și marchează un început pozitiv în competiția europeană pentru Frank, care își propune să continue parcursul bun al clubului. Victoria a fost confirmată de mai multe surse sportive internaționale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-27T00:24:08.586862+00:00",
+      "data_afisaj": "27 noiembrie 2026, 02:24"
+    },
+    {
+      "id": "d442b3abc7f9",
+      "titlu": "Bournemouth scrie istorie europeană cu a zecea victorie consecutivă",
+      "rezumat": "Bournemouth și-a continuat seria impresionantă de victorii, înregistrând a zecea succes consecutiv în toate competițiile, după ce a învins Celta Vigo cu 2-1 în Europa League. Echipa a reușit să revină de la un gol în minus și cu un jucător eliminat, stabilind două noi recorduri istorice în proces. Fanii echipei visează acum la câștigarea trofeului, unii chiar rezervându-și deja cazare pentru finala competiției. Această performanță remarcabilă subliniază forma excelentă a echipei și ambițiile sale europene.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-27T00:24:08.588144+00:00",
+      "data_afisaj": "27 noiembrie 2026, 02:24"
+    },
+    {
+      "id": "c0551dc1563c",
+      "titlu": "Speranțele europene ale echipei Hearts atârnă de un fir de păr după înfrângerea cu Monaco",
+      "rezumat": "Antrenorul principal al echipei Hearts, Wouter Vrancken, și-a exprimat atât mândria, cât și dezamăgirea după ce echipa sa a pierdut dramatic cu 3-2 în fața formației Monaco, într-un meci palpitant din Conference League. Înfrângerea pe teren propriu a lăsat speranțele europene ale clubului scoțian într-o situație precară, calificarea fiind acum incertă. Vrancken a lăudat efortul jucătorilor săi, dar a recunoscut că rezultatul este unul dureros, având în vedere miza partidei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-11-27T00:24:08.589538+00:00",
+      "data_afisaj": "27 noiembrie 2026, 02:24"
+    },
+    {
+      "id": "370e3d9b3c4e",
+      "titlu": "Angajați FIFA chemați la audieri într-o investigație a Congresului SUA",
+      "rezumat": "Mai mulți angajați actuali și foști ai FIFA au primit solicitări de a participa la audieri în cadrul unei investigații a Congresului Statelor Unite. Ancheta, inițiată de democrații din Comisia Judiciară a Camerei Reprezentanților, vizează scandalul \"Fifa Forward Enterprise\" și schema de vânzare a activelor, cu posibilitatea ca președintele Gianni Infantino să fie citat pentru a depune mărturie. Această acțiune subliniază presiunea crescândă asupra organismului de conducere al fotbalului mondial.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-27T00:24:08.590848+00:00",
+      "data_afisaj": "27 noiembrie 2026, 02:24"
+    },
+    {
+      "id": "30b15f542df7",
+      "titlu": "Incident diplomatic și întrerupere de meci la partida Besiktas vs. Hapoel Be'er-Sheva",
+      "rezumat": "Un meci din Europa League dintre Besiktas și echipa israeliană Hapoel Be'er-Sheva a fost întrerupt și a generat un incident diplomatic, după ce un banner pro-palestinian a fost afișat în tribune. Ministrul de externe al Turciei a discutat cu omologul său georgian în urma evenimentelor de la Batumi, unde poliția a intervenit în tribune. Incidentul subliniază tensiunile politice care pot afecta evenimentele sportive internaționale și necesitatea unor măsuri de securitate sporite.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-27T00:24:08.592193+00:00",
+      "data_afisaj": "27 noiembrie 2026, 02:24"
+    },
     {
       "id": "45e9ca696886",
       "titlu": "Dominic Calvert-Lewin semnează un nou contract cu Leeds până în 2029",
@@ -1393,110 +1451,6 @@
       ],
       "data_publicare": "2026-11-20T15:57:39.919162+00:00",
       "data_afisaj": "20 noiembrie 2026, 17:57"
-    },
-    {
-      "id": "f05bcee008f1",
-      "titlu": "Prima sesiune de antrenament Man Utd a lui Pochettino filmată de un operator de drone",
-      "rezumat": "Prima sesiune de antrenament a lui Mauricio Pochettino la Manchester United a fost filmată de un fan cu o dronă din afara terenului de antrenament Carrington al clubului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-11-19T23:21:26.539924+00:00",
-      "data_afisaj": "20 noiembrie 2026, 01:21"
-    },
-    {
-      "id": "43ae88292a2d",
-      "titlu": "Anglia amendată pentru cântările anti-catolice ale fanilor din Spania",
-      "rezumat": "Anglia este pedepsită de UEFA după scandările anti-catolice din partea suporterilor din deplasare în timpul victoriei în Liga Națiunilor din Spania.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-19T23:21:26.541000+00:00",
-      "data_afisaj": "20 noiembrie 2026, 01:21"
-    },
-    {
-      "id": "2db40f0b27b5",
-      "titlu": "🚨 UPDATE Gabi Tamaș, reținut pentru 24 de ore, după ce a fost adus în cătușe de la Brașov și escortat de 4 polițiști la Secția 27 de Poliție!",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-11-19T23:21:26.542360+00:00",
-      "data_afisaj": "20 noiembrie 2026, 01:21"
-    },
-    {
-      "id": "194c87549833",
-      "titlu": "Frank fericit să fie „întors la circ” de la Palace",
-      "rezumat": "Thomas Frank este fericit că a revenit la circ după ce a vorbit la prima sa conferință de presă în calitate de antrenor al Crystal Palace.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-19T23:21:26.543302+00:00",
-      "data_afisaj": "20 noiembrie 2026, 01:21"
-    },
-    {
-      "id": "2eff9538de44",
-      "titlu": "Cultură, apărare, Fernandes - prioritățile lui Pochettino la Man Utd",
-      "rezumat": "Cultură, apărare și Bruno Fernandes - problemele cheie cu care se confruntă Mauricio Pochettino când preia conducerea lui Manchester United.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-19T23:21:26.544313+00:00",
-      "data_afisaj": "20 noiembrie 2026, 01:21"
-    },
-    {
-      "id": "0a1fff492536",
-      "titlu": "Prima sesiune de antrenament a lui Pochettino la Man Utd, filmată cu o dronă",
-      "rezumat": "Prima sesiune de antrenament a lui Mauricio Pochettino în calitate de antrenor principal la Manchester United a fost filmată de un fan cu o dronă. Incidentul a avut loc în afara terenului de antrenament al clubului de la Carrington. Această situație ridică întrebări despre securitatea și intimitatea sesiunilor de pregătire ale echipei, mai ales având în vedere noul început al antrenorului argentinian la cârma clubului. Fanii sunt dornici să vadă primele mișcări ale lui Pochettino, dar metodele neconvenționale de obținere a imaginilor pot crea precedente nedorite.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-11-19T22:57:33.822995+00:00",
-      "data_afisaj": "20 noiembrie 2026, 00:57"
-    },
-    {
-      "id": "4ef89ed8b728",
-      "titlu": "Anglia, amendată de UEFA pentru scandări anti-catolice ale fanilor în Spania",
-      "rezumat": "Naționala Angliei a fost sancționată de UEFA în urma scandărilor anti-catolice intonate de suporterii săi în timpul meciului din Liga Națiunilor împotriva Spaniei. Incidentul a avut loc în timpul victoriei Angliei în deplasare. UEFA a impus o amendă clubului, subliniind angajamentul său de a combate discriminarea și comportamentul ofensator pe stadioane. Federația Engleză de Fotbal va trebui să ia măsuri pentru a preveni astfel de incidente pe viitor, pentru a asigura un mediu sigur și respectuos pentru toți participanții și suporterii.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-11-19T22:57:33.824191+00:00",
-      "data_afisaj": "20 noiembrie 2026, 00:57"
-    },
-    {
-      "id": "52dfb978e3f9",
-      "titlu": "Nominalizările pentru premiul Jucătorul Anului la BBC: Bellingham, Kane, Mbappe, Rodri și Yamal",
-      "rezumat": "BBC a anunțat lista scurtă a candidaților pentru premiul Jucătorul Anului la categoria masculină, o recunoaștere prestigioasă în fotbalul mondial. Printre nominalizați se numără nume sonore precum Jude Bellingham, Harry Kane, Kylian Mbappe, Rodri și Lamine Yamal. Acești jucători au avut performanțe excepționale pe parcursul anului, impresionând prin talentul și contribuțiile lor la echipele de club și naționale. Fanii sunt invitați să voteze pentru a desemna câștigătorul acestei distincții importante.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-19T22:57:33.826052+00:00",
-      "data_afisaj": "20 noiembrie 2026, 00:57"
-    },
-    {
-      "id": "9cac5e54c7e2",
-      "titlu": "Arsenal, învinsă de Lyon în Liga Campionilor la fotbal feminin, calificarea în sferturi sub semnul întrebării",
-      "rezumat": "Speranțele echipei feminine Arsenal de a se califica direct în sferturile de finală ale Ligii Campionilor sunt în pericol, după o înfrângere cu 2-0 pe teren propriu în fața formației dominante Olympique Lyon. Meciul s-a desfășurat în condiții de ceață, iar rezultatul complică semnificativ drumul lui Arsenal către faza eliminatorie a competiției. Echipa engleză va trebui să depună eforturi considerabile în ultima etapă pentru a-și asigura un loc în sferturi, având în vedere performanța solidă a adversarelor din grupă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-11-19T22:57:33.827312+00:00",
-      "data_afisaj": "20 noiembrie 2026, 00:57"
     }
   ]
 }
