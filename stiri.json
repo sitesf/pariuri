@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-27T00:24:08.592209+00:00",
-  "updated_at_afisaj": "27 noiembrie 2026, 02:24",
+  "updated_at": "2026-11-27T00:54:24.655416+00:00",
+  "updated_at_afisaj": "27 noiembrie 2026, 02:54",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 126,
+  "numar_stiri": 131,
   "stiri": [
+    {
+      "id": "a4ca98e477c6",
+      "titlu": "Camilo Duran, eroul lui Celtic, menține speranțele europene",
+      "rezumat": "Atacantul Camilo Duran a devenit un jucător esențial pentru Celtic în acest sezon, marcând 15 goluri și contribuind decisiv la menținerea speranțelor echipei în Europa League. Cea mai recentă performanță a sa a fost golul victoriei împotriva echipei Torreense, venit de pe bancă, asigurând un succes vital pentru formația scoțiană în competiția europeană. Contribuția sa este considerată inestimabilă în lupta pentru calificarea în fazele superioare, demonstrând impactul său crucial.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-11-27T00:54:24.650181+00:00",
+      "data_afisaj": "27 noiembrie 2026, 02:54"
+    },
+    {
+      "id": "92b97b42c195",
+      "titlu": "Arbitrul acuzat de ebrietate neagă vehement acuzațiile în Liga Campionilor AFC",
+      "rezumat": "Un arbitru care a fost înlocuit la pauza unui meci din Liga Campionilor AFC Two a negat vehement acuzațiile conform cărora ar fi fost în stare de ebrietate în timpul partidei. Incidentul a stârnit controverse, însă oficialul a declarat că afirmațiile sunt \"complet nefondate\", insistând asupra profesionalismului său. Federația Asiatică de Fotbal nu a emis încă o declarație oficială privind rezultatele unei eventuale investigații, lăsând cazul deschis.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-27T00:54:24.651551+00:00",
+      "data_afisaj": "27 noiembrie 2026, 02:54"
+    },
+    {
+      "id": "23f920792233",
+      "titlu": "Utilizarea gazului ilariant în fotbal: o analiză după cazul Raheem Sterling",
+      "rezumat": "În urma cazului Raheem Sterling, BBC Sport a analizat frecvența utilizării protoxidului de azot, cunoscut sub numele de \"gaz ilariant\", în rândul fotbaliștilor. Articolul subliniază că această substanță a pus capăt unor cariere și ridică semne de întrebare cu privire la prevalența sa în sportul profesionist. Discuția se concentrează pe riscurile asociate și pe măsurile necesare pentru a aborda această problemă în comunitatea fotbalistică, evidențiind necesitatea conștientizării.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-27T00:54:24.652907+00:00",
+      "data_afisaj": "27 noiembrie 2026, 02:54"
+    },
+    {
+      "id": "ecd8f9f0a174",
+      "titlu": "Anglia U21 vizează un al treilea titlu european consecutiv",
+      "rezumat": "Selecționerul Angliei U21, Lee Carsley, a declarat că echipa sa va \"da totul\" pentru a obține un al treilea titlu consecutiv la Campionatele Europene Under-21. Anglia a câștigat ultimele două ediții ale competiției, iar Carsley este hotărât să continue această serie istorică. Declarația vine după o remiză recentă, care nu a diminuat ambițiile echipei de a scrie istorie în fotbalul european de tineret, subliniind încrederea în potențialul jucătorilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-27T00:54:24.654144+00:00",
+      "data_afisaj": "27 noiembrie 2026, 02:54"
+    },
+    {
+      "id": "e50ada55cccc",
+      "titlu": "Chelsea se confruntă cu o criză de formă și probleme interne",
+      "rezumat": "După două înfrângeri consecutive, inclusiv o umilință cu 4-1 în fața lui Leeds pe Stamford Bridge, Chelsea se află într-o perioadă dificilă. Reporterul Sky Sports News, James Savundra, analizează cele mai recente evoluții de la club, inclusiv întrebări despre o posibilă criză și viitorul fundașului Wesley Fofana, după interviul său controversat. Echipa se confruntă cu presiuni crescute din partea fanilor și a presei, iar performanțele slabe generează îngrijorare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-11-27T00:54:24.655399+00:00",
+      "data_afisaj": "27 noiembrie 2026, 02:54"
+    },
     {
       "id": "2e84641dfcf2",
       "titlu": "Crystal Palace obține prima victorie sub comanda lui Thomas Frank în Europa League",
