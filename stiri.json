@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-27T17:51:25.529682+00:00",
-  "updated_at_afisaj": "27 noiembrie 2026, 19:51",
+  "updated_at": "2026-11-27T23:57:03.807713+00:00",
+  "updated_at_afisaj": "28 noiembrie 2026, 01:57",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,66 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 132,
+  "numar_stiri": 127,
   "stiri": [
+    {
+      "id": "0e7484f9a04b",
+      "titlu": "Nottingham Forest agravează criza lui Chelsea; Fofana, huiduit de propriii fani",
+      "rezumat": "Nottingham Forest a învins Chelsea cu scorul de 3-2, adâncind criza de formă a echipei londoneze, care a înregistrat a treia înfrângere consecutivă în Premier League. În timpul meciului, fundașul Wesley Fofana a fost huiduit de propriii suporteri ai lui Chelsea, reacție venită după un interviu controversat acordat anterior. Antrenorul lui Chelsea, Xabi Alonso, a recunoscut public că echipa se confruntă cu o lipsă de încredere, subliniind dificultatea perioadei actuale pentru club.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-27T23:57:03.802181+00:00",
+      "data_afisaj": "28 noiembrie 2026, 01:57"
+    },
+    {
+      "id": "0464c73a8c1a",
+      "titlu": "Tensiuni la Southampton după victoria împotriva lui Middlesbrough, pe fondul scandalului \"Spygate\"",
+      "rezumat": "Southampton și-a continuat seria de invincibilitate pe teren propriu, învingând liderul Middlesbrough cu 2-0 într-un meci tensionat. Partida a fost marcată de o celebrare controversată a jucătorului Finn Azaz de la Southampton, care a provocat suporterii fostei sale echipe, Middlesbrough, pe fondul vechiului scandal \"Spygate\". Antrenorul lui Southampton, Tonda Eckert, a recunoscut anterior implicarea clubului în incidentul \"Spygate\", adăugând o notă de rivalitate istorică acestei confruntări.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-27T23:57:03.803587+00:00",
+      "data_afisaj": "28 noiembrie 2026, 01:57"
+    },
+    {
+      "id": "721090b3d642",
+      "titlu": "Mikel Arteta stabilește obiectivul de 100 de puncte pentru Arsenal în Premier League",
+      "rezumat": "Antrenorul lui Arsenal, Mikel Arteta, a declarat că echipa sa își propune să atingă pragul de 100 de puncte în Premier League, un obiectiv realizat anterior doar de Manchester City, sub conducerea lui Pep Guardiola, în sezonul 2017-2018. Arteta, care a fost asistentul lui Guardiola la acea vreme, dorește ca Arsenal să emuleze această performanță istorică. Declarația vine înaintea confruntării directe dintre Arsenal și Manchester City, unde \"Tunarii\" au deja un avans de șase puncte.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-27T23:57:03.804893+00:00",
+      "data_afisaj": "28 noiembrie 2026, 01:57"
+    },
+    {
+      "id": "ba2f91c21c6f",
+      "titlu": "Jack Wilshere și Aaron Ramsey se întâlnesc ca antrenori, la 18 ani după debuturile lor în Premier League",
+      "rezumat": "La optsprezece ani după ce și-au făcut debuturile în Premier League la o diferență de doar două minute, foștii jucători emblematici ai lui Arsenal, Jack Wilshere și Aaron Ramsey, se vor confrunta acum în calitate de antrenori. Această întâlnire marchează o nouă etapă în carierele lor, ambii foști mijlocași urmând căi similare în managementul fotbalistic. Evenimentul subliniază tranziția de la teren la banca tehnică pentru două figuri cunoscute din istoria recentă a clubului londonez.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-27T23:57:03.806325+00:00",
+      "data_afisaj": "28 noiembrie 2026, 01:57"
+    },
+    {
+      "id": "2edf7f071c60",
+      "titlu": "Unai Emery laudă atitudinea lui Alejandro Garnacho, în ciuda neincluderii în echipa de start",
+      "rezumat": "Antrenorul lui Aston Villa, Unai Emery, a lăudat public \"atitudinea fantastică\" a tânărului Alejandro Garnacho, chiar dacă a sugerat că alți jucători sunt preferați în fața sa pentru selecția în echipa de start. Declarațiile lui Emery vin în contextul în care Garnacho nu a fost inclus în lotul pentru meciul recent, stârnind discuții despre viitorul său la club. Aprecierea antrenorului subliniază profesionalismul jucătorului, în ciuda deciziilor tactice.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-27T23:57:03.807697+00:00",
+      "data_afisaj": "28 noiembrie 2026, 01:57"
+    },
     {
       "id": "87857d94a676",
       "titlu": "Violențe la meciuri europene, președintele Macron condamnă incidentele",
@@ -1408,117 +1466,6 @@
       ],
       "data_publicare": "2026-11-21T15:09:35.590438+00:00",
       "data_afisaj": "21 noiembrie 2026, 17:09"
-    },
-    {
-      "id": "642e1024e102",
-      "titlu": "Harry Kane, indisponibil trei luni din cauza unei accidentări la gleznă",
-      "rezumat": "Atacantul lui Bayern Munchen și al naționalei Angliei, Harry Kane, este așteptat să lipsească de pe teren pentru o perioadă de trei luni. Accidentarea a survenit în timpul meciului de Bundesliga al lui Bayern cu FC Köln, vineri. Această absență reprezintă o lovitură semnificativă atât pentru clubul său, care se bazează pe golurile sale, cât și pentru echipa națională, având în vedere importanța sa în ofensivă. Perioada de recuperare va necesita o atenție deosebită pentru a asigura o revenire completă și în formă optimă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-11-20T22:53:43.704440+00:00",
-      "data_afisaj": "21 noiembrie 2026, 00:53"
-    },
-    {
-      "id": "e0031ce0b9ad",
-      "titlu": "Chelsea, amendată cu 150.000 de lire sterline pentru scandări discriminatorii",
-      "rezumat": "Clubul Chelsea a fost amendat de Asociația de Fotbal (FA) cu suma de 150.000 de lire sterline. Sancțiunea vine în urma scandărilor anti-catolice și anti-irlandeze ale fanilor echipei, înregistrate în timpul meciului din turul trei al Cupei Angliei împotriva echipei Charlton, în luna ianuarie. Această decizie subliniază angajamentul autorităților fotbalistice de a combate discriminarea și de a promova un mediu respectuos și incluziv pe stadioane, condamnând ferm orice formă de comportament ofensator.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-20T22:53:43.705901+00:00",
-      "data_afisaj": "21 noiembrie 2026, 00:53"
-    },
-    {
-      "id": "0c99b0adeb5c",
-      "titlu": "Edwin van der Sar vorbește despre lupta sa după hemoragia cerebrală",
-      "rezumat": "Fostul portar legendar al echipelor Ajax, Fulham, Juventus și Manchester United, Edwin van der Sar, a împărtășit detalii despre experiența sa după ce a suferit o hemoragie cerebrală în 2023. El a descris un sentiment ciudat că \"ceva nu era în regulă\" înainte de incident. Mărturia sa oferă o perspectivă personală asupra provocărilor de sănătate cu care s-a confruntat și subliniază importanța conștientizării și a intervenției medicale rapide, oferind un mesaj de speranță și reziliență.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-11-20T22:53:43.707308+00:00",
-      "data_afisaj": "21 noiembrie 2026, 00:53"
-    },
-    {
-      "id": "2c1c9591606d",
-      "titlu": "Antrenorul lui Liverpool, Andoni Iraola, cere interzicerea filmărilor cu drone la antrenamente",
-      "rezumat": "Antrenorul principal al echipei Liverpool, Andoni Iraola, a declarat că filmările cu drone în jurul terenurilor de antrenament ar trebui să fie ilegale. Această afirmație vine în contextul preocupărilor crescânde privind confidențialitatea și spionajul tactic în fotbalul modern. Iraola subliniază necesitatea protejării sesiunilor de antrenament ale echipelor de ochii curioșilor, considerând că astfel de practici pot oferi avantaje neloiale adversarilor și pot perturba pregătirea sportivilor, afectând integritatea competiției.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-20T22:53:43.708805+00:00",
-      "data_afisaj": "21 noiembrie 2026, 00:53"
-    },
-    {
-      "id": "f5e810d2431e",
-      "titlu": "Mario Camora, dorit de FCSB; fundașul vorbește despre șansele de a fi la EURO",
-      "rezumat": "Mario Camora, fundașul portughez naturalizat român, este în atenția clubului FCSB, conform unei surse din România. Într-un interviu recent, Camora a dezvăluit că a avut \"90% șanse\" să participe la Campionatul European, oferind detalii despre parcursul său și despre deciziile care i-au influențat cariera. Această știre aduce în prim-plan posibile mișcări pe piața transferurilor din fotbalul românesc și oferă o perspectivă asupra aspirațiilor internaționale ale jucătorului, stârnind interes în rândul fanilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-11-20T22:53:43.710273+00:00",
-      "data_afisaj": "21 noiembrie 2026, 00:53"
-    },
-    {
-      "id": "5c61acba718d",
-      "titlu": "DECLARAȚII „M-a înjurat de morți, de familie! Dacă îl prindeam, îl omoram”. Alex Chipciu, scandal monstru la Farul – U Cluj",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-11-20T22:31:33.193501+00:00",
-      "data_afisaj": "21 noiembrie 2026, 00:31"
-    },
-    {
-      "id": "f6faeafa065a",
-      "titlu": "Man Utd fan criticism has gone too far at times - Berrada",
-      "rezumat": "Manchester United chief executive Omar Berrada says some of the recent criticism of the club's hierarchy has \"crossed a line\".",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-20T22:31:33.194888+00:00",
-      "data_afisaj": "21 noiembrie 2026, 00:31"
-    },
-    {
-      "id": "8e74571b5985",
-      "titlu": "Osimhen keen on Man Utd move - Saturday's gossip",
-      "rezumat": "Victor Osimhen is keen on a move to Manchester United, Aston Villa are interested in Amad Diallo and Ivan Toney is a target for Crystal Palace, plus more.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-20T22:31:33.196123+00:00",
-      "data_afisaj": "21 noiembrie 2026, 00:31"
-    },
-    {
-      "id": "f1da0cf27bf9",
-      "titlu": "Shevchenko lying about drugs test claims - Mudryk",
-      "rezumat": "Mykhailo Mudryk accuses Ukraine legend Andriy Shevchenko of lying about the circumstances surrounding the winger's positive drugs test as his dispute with the country's football federation continues.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-20T22:31:33.197339+00:00",
-      "data_afisaj": "21 noiembrie 2026, 00:31"
-    },
-    {
-      "id": "31d6a0bacd3f",
-      "titlu": "Arteta warns Arsenal players over FPL team news leak",
-      "rezumat": "Mikel Arteta says his Arsenal players have been warned against inadvertently leaking team news via Fantasy Premier League.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-11-20T22:31:33.198556+00:00",
-      "data_afisaj": "21 noiembrie 2026, 00:31"
     }
   ]
 }
