@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-27T23:57:03.807713+00:00",
-  "updated_at_afisaj": "28 noiembrie 2026, 01:57",
+  "updated_at": "2026-11-28T00:18:51.465210+00:00",
+  "updated_at_afisaj": "28 noiembrie 2026, 02:18",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,52 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 127,
+  "numar_stiri": 131,
   "stiri": [
+    {
+      "id": "dc7e3aa65b08",
+      "titlu": "Celtic își apără șeful securității pe fondul conflictului cu grupul de fani Green Brigade",
+      "rezumat": "Clubul scoțian Celtic a emis o declarație prin care își apără șeful securității, Mark Hargreaves, și acțiunile întreprinse împotriva grupului de suporteri Green Brigade în sezonul precedent. Această apărare vine pe fondul tensiunilor continue dintre club și facțiunea ultra, care a fost implicată în mai multe incidente și controverse legate de comportamentul fanilor și de măsurile de securitate. Situația subliniază provocările cu care se confruntă cluburile în gestionarea relațiilor cu grupurile de suporteri vocale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-11-28T00:18:51.459834+00:00",
+      "data_afisaj": "28 noiembrie 2026, 02:18"
+    },
+    {
+      "id": "8898c3f9d15b",
+      "titlu": "Roberto De Zerbi reflectă asupra debutului său la Tottenham, înaintea meciului cu Sunderland",
+      "rezumat": "Antrenorul principal al lui Tottenham, Roberto De Zerbi, a rememorat primul său meci la conducerea clubului, o înfrângere cu 1-0 împotriva lui Sunderland în aprilie, care a lăsat echipa în zona retrogradării. De Zerbi a descris acea partidă ca fiind momentul în care \"s-a născut Tottenham-ul său\", subliniind transformarea echipei de atunci. Declarațiile sale vin înaintea unei noi confruntări cu Sunderland, oferind o perspectivă asupra evoluției și mentalității echipei sub comanda sa.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-28T00:18:51.462150+00:00",
+      "data_afisaj": "28 noiembrie 2026, 02:18"
+    },
+    {
+      "id": "a2f94b40a15f",
+      "titlu": "Watford și \"scaunul fierbinte\" al antrenorilor sub familia Pozzo",
+      "rezumat": "Clubul Watford este din nou în centrul atenției, pe fondul rotației frecvente a antrenorilor sub proprietatea familiei Pozzo. Articolul analizează istoria recentă a clubului, marcată de o succesiune rapidă de manageri, inclusiv Alessio Dionisi, care a fost nevoit să nege recent zvonurile privind plecarea sa. Această instabilitate managerială a transformat banca tehnică a lui Watford într-unul dintre cele mai dificile posturi din fotbalul britanic, ridicând semne de întrebare despre strategia pe termen lung a clubului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-28T00:18:51.463635+00:00",
+      "data_afisaj": "28 noiembrie 2026, 02:18"
+    },
+    {
+      "id": "67eb3003ad02",
+      "titlu": "Tarik Muharemovic de la Leeds, despre influența părinților și ambițiile europene",
+      "rezumat": "Fundașul central bosniac Tarik Muharemovic, considerat una dintre cele mai bune achiziții ale sezonului în Premier League pentru Leeds, a vorbit despre sprijinul familiei sale și ambițiile clubului. Tatăl său, Rasim, este prezent la fiecare meci al lui Leeds, în timp ce mama sa, Elmedina, va asista pentru prima dată la o partidă a fiului său de când acesta s-a transferat de la Sassuolo. Muharemovic a subliniat importanța învățării de la jucători precum Chiellini și Bonucci și a discutat despre aspirațiile europene ale echipei.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-11-28T00:18:51.465194+00:00",
+      "data_afisaj": "28 noiembrie 2026, 02:18"
+    },
     {
       "id": "0e7484f9a04b",
       "titlu": "Nottingham Forest agravează criza lui Chelsea; Fofana, huiduit de propriii fani",
